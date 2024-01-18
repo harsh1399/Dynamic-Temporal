@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hunan University', "root['president']": 'Zhong Zhihua (钟志华)', "root['students']": '46,000', "root['faculty']": '4,600', "root['former_names']": 'Yuelu Academy'}}
+12: {'values_changed': {"root['president']": {'new_value': 'Zhong Zhihua (钟志华)', 'old_value': 'Zhao Yueyu (赵跃宇)'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Zhao Yueyu (赵跃宇)', 'old_value': 'Duan Xianzhong (段献忠)'}}}
+51: {'values_changed': {"root['students']": {'new_value': '46,000', 'old_value': '36,000 '}, "root['faculty']": {'new_value': '4,600', 'old_value': '4,000'}}}
+52: {'values_changed': {"root['students']": {'new_value': '36,000 ', 'old_value': '36,000 (Autumn 2019) '}, "root['faculty']": {'new_value': '4,000', 'old_value': '4,000 (Autumn 2019)'}}}
+53: {'dictionary_item_removed': {"root['undergrad']": '20,000 (Autumn 2019)', "root['postgrad']": '15,000 (Autumn 2019)'}}

@@ -1,0 +1,15 @@
+26: {'dictionary_item_removed': {"root['name']": 'Hollins University', "root['president']": 'Nancy OliverGray', "root['undergrad']": '816', "root['postgrad']": '238', "root['faculty']": '108', "root['campus']": '475-acre'}}
+30: {'values_changed': {"root['president']": {'new_value': 'Nancy OliverGray', 'old_value': 'Nancy Oliver Gray'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'Hollins University', 'old_value': 'Top Hat University'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'Top Hat University', 'old_value': 'Hollins University'}}}
+179: {'values_changed': {"root['campus']": {'new_value': '475-acre', 'old_value': 'Suburban '}}}
+186: {'dictionary_item_removed': {"root['endowment']": '$111.6 million'}}
+224: {'values_changed': {"root['undergrad']": {'new_value': '816', 'old_value': '759'}, "root['postgrad']": {'new_value': '238', 'old_value': '249'}, "root['faculty']": {'new_value': '108', 'old_value': '99'}, "root['endowment']": {'new_value': '$111.6 million', 'old_value': '$128.7 million'}}}
+233: {'values_changed': {"root['undergrad']": {'new_value': '759', 'old_value': '613'}, "root['postgrad']": {'new_value': '249', 'old_value': '181'}, "root['faculty']": {'new_value': '99', 'old_value': '105'}}}
+253: {'values_changed': {"root['endowment']": {'new_value': '$128.7 million', 'old_value': 'US $154.5 million'}}}
+255: {'dictionary_item_added': {"root['campus']": 'Suburban '}, 'values_changed': {"root['president']": {'new_value': 'Nancy Oliver Gray', 'old_value': 'Nancy O. Gray (interim)'}, "root['endowment']": {'new_value': 'US $154.5 million', 'old_value': 'US $180.6 million'}}}
+291: {'values_changed': {"root['president']": {'new_value': 'Nancy O. Gray (interim)', 'old_value': 'Mary Dana Hinton'}}}
+306: {'values_changed': {"root['endowment']": {'new_value': 'US $180.6 million', 'old_value': '$180.6 million'}}}
+307: {'values_changed': {"root['endowment']": {'new_value': '$180.6 million', 'old_value': '$182.7 million (2019)'}}}
+311: {'values_changed': {"root['endowment']": {'new_value': '$182.7 million (2019)', 'old_value': '$174.6 million (2020)'}}}
+313: {'dictionary_item_removed': {"root['embed']": 'yes', "root['designated_other1']": 'Virginia Landmarks Register', "root['designated_other1_date']": 'May 21, 1974 ', "root['designated_other1_number']": '080-0055', "root['location']": 'Hollins College Campus, Hollins, Virginia', "root['locmapin']": 'Virginia#USA', "root['architect']": 'Multiple', "root['architecture']": 'Classical Revival, Greek Revival, Romanesque', "root['added']": 'November 5, 1974', "root['refnum']": '74002145<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Hollins University', 'old_value': 'Hollins College Quadrangle'}}}

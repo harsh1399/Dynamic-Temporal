@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Augustana College', "root['endowment']": '$88.2 million', "root['president']": 'Steven C. Bahls, J.D.', "root['dean']": 'Dr. Pareena Lawrence', "root['students']": '2,551'}}
+8: {'values_changed': {"root['endowment']": {'new_value': '$88.2 million', 'old_value': '$115.9 million'}}}
+14: {'dictionary_item_removed': {"root['principal']": '1'}}
+36: {'dictionary_item_added': {"root['principal']": '1'}, 'dictionary_item_removed': {"root['campus']": '115 acres'}}
+40: {'values_changed': {"root['students']": {'new_value': '2,551', 'old_value': '2,500'}}}
+58: {'dictionary_item_added': {"root['dean']": 'Dr. Pareena Lawrence'}, 'dictionary_item_removed': {"root['vice_chancellor']": '|dean             Pareena Lawrence'}}
+67: {'dictionary_item_added': {"root['vice_chancellor']": '|dean             Pareena Lawrence'}, 'dictionary_item_removed': {"root['dean']": 'Pareena Lawrence'}}
+78: {'dictionary_item_added': {"root['dean']": 'Pareena Lawrence'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Evangelical Lutheran Church in America'}, 'values_changed': {"root['endowment']": {'new_value': '$115.9 million', 'old_value': '$166.1 million (2020)'}, "root['president']": {'new_value': 'Steven C. Bahls, J.D.', 'old_value': 'Steven C. Bahls'}}}
+82: {'dictionary_item_removed': {"root['postgrad']": '50'}}
+88: {'values_changed': {"root['president']": {'new_value': 'Steven C. Bahls', 'old_value': 'Dr. Andrea Talentino'}}}
+91: {'values_changed': {"root['president']": {'new_value': 'Dr. Andrea Talentino', 'old_value': 'https://www.augustana.edu/about-us/president Andrea Talentino'}}}
+92: {'values_changed': {"root['president']": {'new_value': 'https://www.augustana.edu/about-us/president Andrea Talentino', 'old_value': 'Andrea Talentino'}}}

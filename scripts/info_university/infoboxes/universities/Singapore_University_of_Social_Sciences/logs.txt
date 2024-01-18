@@ -1,0 +1,152 @@
+6: {'dictionary_item_removed': {"root['name']": 'SIM University', "root['image_name']": 'UniSIM_Updated_Logo.gif', "root['chancellor']": 'Dr Aline Wong', "root['president']": 'Professor Cheong Hee Kiat', "root['colours']": 'UniSIM Red   White ', "root['students']": '13,369', "root['undergrad']": '11,115', "root['postgrad']": '2,254', "root['staff']": '225', "root['faculty']": '921', "root['endowment']": 'S$101.60 million', "root['campus']": 'Clementi 9.2 hectares'}}
+10: {'values_changed': {"root['image_name']": {'new_value': 'UniSIM_Updated_Logo.gif', 'old_value': 'UniSIM Updated Logo.svg'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'SIM University', 'old_value': 'Singapore University of Social Sciences'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'SIM University'}}}
+19: {'dictionary_item_added': {"root['colours']": 'UniSIM Red   White '}, 'values_changed': {"root['name']": {'new_value': 'SIM University', 'old_value': 'Singapore University of Social Sciences |nativ'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences |nativ', 'old_value': 'Singapore University of Social Sciences'}}}
+21: {'dictionary_item_removed': {"root['colours']": 'UniSIM Red   White '}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'SIM University'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'SIM University', 'old_value': 'Singapore University of Social Sciences'}}}
+56: {'dictionary_item_removed': {"root['affiliations']": 'International Association of Universities'}}
+70: {'dictionary_item_added': {"root['affiliations']": 'International Association of Universities'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'SIM University'}}}
+79: {'dictionary_item_removed': {"root['affiliations']": 'International Association of Universities'}}
+82: {'values_changed': {"root['name']": {'new_value': 'SIM University', 'old_value': 'Singapore University of Social Sciences'}}}
+84: {'dictionary_item_added': {"root['affiliations']": 'International Association of Universities'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'SIM University'}}}
+85: {'values_changed': {"root['name']": {'new_value': 'SIM University', 'old_value': 'Singapore University of Social Sciences'}}}
+110: {'dictionary_item_added': {"root['image_name']": 'UniSIM Updated Logo.svg', "root['chancellor']": 'Dr Aline Wong', "root['colours']": 'UniSIM Red   White '}, 'dictionary_item_removed': {"root['provost']": 'Professor Tsui Kai Chong'}}
+111: {'dictionary_item_removed': {"root['chancellor']": 'Dr Aline Wong'}}
+216: {'dictionary_item_added': {"root['chancellor']": 'Dr Aline Wong', "root['president']": 'Professor Cheong Hee Kiat', "root['provost']": 'Professor Tsui Kai Chong', "root['students']": '13,369', "root['undergrad']": '11,115', "root['postgrad']": '2,254', "root['staff']": '225', "root['faculty']": '921', "root['endowment']": 'S$101.60 million'}, 'dictionary_item_removed': {"root['Established']": '2005', "root['Chancellor']": 'Dr Aline Wong', "root['President']": 'Professor Cheong Hee Kiat', "root['Provost']": 'Professor Tsui Kai Chong', "root['City']": 'Clementi', "root['Country']": 'Singapore', "root['Students']": '14,000', "root['Alumni']": '27,860', "root['Type']": 'Autonomous university', "root['Staff']": '280   |Full-time Faculty = 140   |Associate Faculty = 860', "root['Endowment']": 'S$101.60 million'}}
+217: {'dictionary_item_added': {"root['Established']": '2005', "root['Chancellor']": 'Dr Aline Wong', "root['President']": 'Professor Cheong Hee Kiat', "root['Provost']": 'Professor Tsui Kai Chong', "root['City']": 'Clementi', "root['Country']": 'Singapore', "root['Students']": '14,000', "root['Alumni']": '27,860', "root['Type']": 'Autonomous university', "root['Staff']": '280   |Full-time Faculty = 140   |Associate Faculty = 860', "root['Endowment']": 'S$101.60 million'}, 'dictionary_item_removed': {"root['chancellor']": 'Dr Aline Wong', "root['president']": 'Professor Cheong Hee Kiat', "root['provost']": 'Professor Tsui Kai Chong', "root['students']": '14,000', "root['alumni']": '27,860', "root['staff']": '280   |full-time Faculty = 140   |associate Faculty = 860', "root['endowment']": 'S$101.60 million'}}
+218: {'values_changed': {"root['staff']": {'new_value': '280   |full-time Faculty = 140   |associate Faculty = 860', 'old_value': '280    |full-time Faculty = 140    |associate Faculty = 860'}}}
+219: {'values_changed': {"root['students']": {'new_value': '14,000', 'old_value': '14,000>'}, "root['staff']": {'new_value': '280    |full-time Faculty = 140    |associate Faculty = 860', 'old_value': '280   |full-time Faculty = 140   |associate Faculty = 860'}}}
+220: {'values_changed': {"root['students']": {'new_value': '14,000>', 'old_value': '14,000 '}}}
+221: {'values_changed': {"root['staff']": {'new_value': '280   |full-time Faculty = 140   |associate Faculty = 860', 'old_value': '280  |full-time Faculty = 140  |associate Faculty = 860'}}}
+222: {'dictionary_item_removed': {"root['faculty']": '1000  |associa'}, 'values_changed': {"root['staff']": {'new_value': '280  |full-time Faculty = 140  |associate Faculty = 860', 'old_value': '280'}}}
+223: {'values_changed': {"root['faculty']": {'new_value': '1000  |associa', 'old_value': '1000'}}}
+224: {'dictionary_item_added': {"root['alumni']": '27,860', "root['faculty']": '1000'}, 'values_changed': {"root['staff']": {'new_value': '280', 'old_value': '1280'}}}
+225: {'dictionary_item_removed': {"root['faculty']": '353'}}
+226: {'values_changed': {"root['faculty']": {'new_value': '353', 'old_value': '1000'}, "root['staff']": {'new_value': '1280', 'old_value': '280'}}}
+227: {'values_changed': {"root['faculty']": {'new_value': '1000', 'old_value': '1000 (Programmes 60)'}}}
+299: {'values_changed': {"root['endowment']": {'new_value': 'S$101.60 million', 'old_value': 'S$1.61 million'}}}
+340: {'dictionary_item_removed': {"root['former_names']": 'SIM University  (2005–2016)'}}
+349: {'dictionary_item_added': {"root['former_names']": 'SIM University  (2005–2016)'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sexual Satisfaction'}}}
+353: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Zina'}, "root['president']": {'new_value': 'Professor Cheong Hee Kiat', 'old_value': 'Pantat'}, "root['provost']": {'new_value': 'Professor Tsui Kai Chong', 'old_value': 'Buntot'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sexual Satisfaction', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Zina', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Pantat', 'old_value': 'Professor Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Buntot', 'old_value': 'Professor Tsui Kai Chong'}}}
+358: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Elderly People'}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Babi'}, "root['president']": {'new_value': 'Professor Cheong Hee Kiat', 'old_value': 'Buntot'}, "root['provost']": {'new_value': 'Professor Tsui Kai Chong', 'old_value': 'Taik'}}}
+360: {'values_changed': {"root['endowment']": {'new_value': 'S$1.61 million', 'old_value': 'S$1 ar'}}}
+361: {'values_changed': {"root['endowment']": {'new_value': 'S$1 ar', 'old_value': 'S$1 dollar'}}}
+362: {'values_changed': {"root['staff']": {'new_value': '280', 'old_value': 'bangla workers'}}}
+363: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Elderly People', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Babi', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Buntot', 'old_value': 'Professor Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Taik', 'old_value': 'Professor Tsui Kai Chong'}, "root['staff']": {'new_value': 'bangla workers', 'old_value': '280'}, "root['endowment']": {'new_value': 'S$1 dollar', 'old_value': 'S$1.61 million'}}}
+364: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sexual Satisfaction'}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Pantat'}, "root['president']": {'new_value': 'Professor Cheong Hee Kiat', 'old_value': 'Bodoh'}, "root['provost']": {'new_value': 'Professor Tsui Kai Chong', 'old_value': 'Zina'}}}
+366: {'values_changed': {"root['faculty']": {'new_value': '1000 (Programmes 60)', 'old_value': 'Bangla workers (Programmes 60)'}, "root['students']": {'new_value': '14,000 ', 'old_value': 'Cina men  '}}}
+371: {'values_changed': {"root['endowment']": {'new_value': 'S$1.61 million', 'old_value': 'S$1 dollar'}, "root['campus']": {'new_value': 'Clementi 9.2 hectares', 'old_value': 'Bangalore 9.2 hectares'}}}
+374: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sexual Satisfaction', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Pantat', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Bodoh', 'old_value': 'Professor Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Zina', 'old_value': 'Professor Tsui Kai Chong'}, "root['faculty']": {'new_value': 'Bangla workers (Programmes 60)', 'old_value': '1000 (Programmes 60)'}, "root['students']": {'new_value': 'Cina men  ', 'old_value': '14,000 '}, "root['endowment']": {'new_value': 'S$1 dollar', 'old_value': 'S$1.61 million'}, "root['campus']": {'new_value': 'Bangalore 9.2 hectares', 'old_value': 'Clementi 9.2 hectares'}}}
+377: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sexual Ejaculation'}}}
+379: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sexual Ejaculation', 'old_value': 'Singapore University of Social Sciences'}}}
+380: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Crazy'}, "root['president']": {'new_value': 'Professor Cheong Hee Kiat', 'old_value': 'Mad'}, "root['provost']": {'new_value': 'Professor Tsui Kai Chong', 'old_value': 'Drunk'}}}
+381: {'values_changed': {"root['chancellor']": {'new_value': 'Crazy', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Mad', 'old_value': 'Professor Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Drunk', 'old_value': 'Professor Tsui Kai Chong'}}}
+383: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sexual Ejaculation'}}}
+384: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sexual Ejaculation', 'old_value': 'Singapore University of Social Sciences'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex'}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Sex'}, "root['president']": {'new_value': 'Professor Cheong Hee Kiat', 'old_value': 'Sex'}, "root['provost']": {'new_value': 'Professor Tsui Kai Chong', 'old_value': 'Sex'}}}
+386: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Sex', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Sex', 'old_value': 'Prof Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Sex', 'old_value': 'Prof Tsui Kai Chong'}}}
+388: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex'}}}
+389: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex', 'old_value': 'Singapore University of Social Sciences'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sexual Ejaculation'}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Sperm'}, "root['president']": {'new_value': 'Prof Cheong Hee Kiat', 'old_value': 'Egg'}}}
+392: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sexual Ejaculation', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Sperm', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Egg', 'old_value': 'Prof Cheong Hee Kiat'}}}
+394: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex'}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'Dr Love'}, "root['president']": {'new_value': 'Prof Cheong Hee Kiat', 'old_value': 'Prof Sex'}}}
+395: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'Dr Love', 'old_value': 'Dr Aline Wong'}, "root['president']": {'new_value': 'Prof Sex', 'old_value': 'Prof Cheong Hee Kiat'}}}
+402: {'dictionary_item_removed': {"root['former_names']": 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)'}}
+403: {'values_changed': {"root['former_names']": {'new_value': 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)', 'old_value': 'SIM University  (2005-2017)'}}}
+413: {'values_changed': {"root['former_names']": {'new_value': 'SIM University  (2005-2017)', 'old_value': 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)'}}}
+438: {'dictionary_item_removed': {"root['colours']": 'bord'}}
+441: {'dictionary_item_removed': {"root['image_name']": 'SUSS logo.png'}}
+442: {'values_changed': {"root['image_name']": {'new_value': 'SUSS logo.png', 'old_value': 'SUSS new logo.png'}}}
+444: {'values_changed': {"root['image_name']": {'new_value': 'SUSS new logo.png', 'old_value': 'SUSS logo.jpeg'}}}
+445: {'values_changed': {"root['image_name']": {'new_value': 'SUSS logo.jpeg', 'old_value': 'SUSS logo.jpg'}}}
+450: {'values_changed': {"root['image_name']": {'new_value': 'SUSS logo.jpg', 'old_value': 'SUSS new logo.png'}}}
+478: {'dictionary_item_removed': {"root['Education_Philosophy']": '|'}}
+479: {'dictionary_item_added': {"root['Education_Philosophy']": '|'}, 'dictionary_item_removed': {"root['education_philosophy']": '|'}}
+482: {'dictionary_item_added': {"root['education_philosophy']": '|'}, 'dictionary_item_removed': {"root['Education_Philosophy']": 'Head, Heart and Habit'}}
+483: {'dictionary_item_added': {"root['Education_Philosophy']": 'Head, Heart and Habit'}, 'dictionary_item_removed': {"root['education_philosophy']": 'Head, Heart and Habit'}}
+535: {'dictionary_item_added': {"root['education_philosophy']": 'Head, Heart and Habit'}, 'values_changed': {"root['image_name']": {'new_value': 'SUSS new logo.png', 'old_value': 'SussLogo.png'}}}
+537: {'values_changed': {"root['image_name']": {'new_value': 'SussLogo.png', 'old_value': 'SussLogo.png|'}}}
+560: {'dictionary_item_added': {"root['image_name']": 'SussLogo.png|'}, 'values_changed': {"root['former_names']": {'new_value': 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)', 'old_value': 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)  '}}}
+568: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex'}}}
+569: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex', 'old_value': 'Singapore University of Social Sciences'}}}
+570: {'dictionary_item_added': {"root['former_names']": 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)  ', "root['chancellor']": 'Dr Aline Wong', "root['president']": 'Prof Cheong Hee Kiat', "root['provost']": 'Prof Tsui Kai Chong', "root['faculty']": '1000 (Programmes 60)', "root['students']": '14,000 ', "root['staff']": '280', "root['endowment']": 'S$1.61 million', "root['campus']": 'Clementi 9.2 hectares', "root['colours']": 'bord'}, 'dictionary_item_removed': {"root['italics']": 'off'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Social Sciences |nati'}}}
+571: {'dictionary_item_added': {"root['italics']": 'off'}, 'dictionary_item_removed': {"root['former_names']": 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)  ', "root['chancellor']": 'Dr Aline Wong', "root['president']": 'Prof Cheong Hee Kiat', "root['provost']": 'Prof Tsui Kai Chong', "root['faculty']": '1000 (Programmes 60)', "root['students']": '14,000 ', "root['staff']": '280', "root['endowment']": 'S$1.61 million', "root['campus']": 'Clementi 9.2 hectares', "root['colours']": 'bord'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences |nati', 'old_value': 'Singapore University of Social Sciences '}}}
+601: {'dictionary_item_added': {"root['president']": 'Prof Cheong Hee Kiat'}, 'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences ', 'old_value': 'Singapore University of Dustbin Toilet'}, "root['former_names']": {'new_value': 'SIM Open University Degree Programme  (1994-2005)  , SIM University  (2005-2017)  ', 'old_value': 'SIM University '}, "root['chancellor']": {'new_value': 'Dr Aline Wong', 'old_value': 'president = Prof Cheong Hee Kiat'}, "root['campus']": {'new_value': 'Clementi 9.2 hectares', 'old_value': '9.2 hectares'}}}
+602: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Dustbin Toilet', 'old_value': 'Singapore University of Social Sciences'}}}
+603: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Dustbin'}}}
+604: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Dustbin', 'old_value': 'Singapore University of Social Sciences'}}}
+619: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+622: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+658: {'values_changed': {"root['chancellor']": {'new_value': 'president = Prof Cheong Hee Kiat', 'old_value': 'president = Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Prof Tsui Kai Chong', 'old_value': 'Tsui Kai Chong'}}}
+673: {'values_changed': {"root['faculty']": {'new_value': '1000 (Programmes 60)', 'old_value': '1074 (Programmes 70+)'}, "root['students']": {'new_value': '14,000 ', 'old_value': '15,000 '}}}
+674: {'dictionary_item_added': {"root['colours']": 'bord'}, 'dictionary_item_removed': {"root['image_name']": 'SUSS_Logo_(2).png '}}
+675: {'dictionary_item_added': {"root['image_name']": 'SUSS_Logo_(2).png '}, 'dictionary_item_removed': {"root['colours']": 'bord'}}
+683: {'dictionary_item_added': {"root['colours']": 'bord'}, 'dictionary_item_removed': {"root['image_name']": 'SUSS logo.svg'}}
+692: {'values_changed': {"root['former_names']": {'new_value': 'SIM University ', 'old_value': 'SIM University  '}, "root['students']": {'new_value': '15,000 ', 'old_value': '15,000  '}}}
+695: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+697: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+698: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex & Vagina'}}}
+699: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex & Vagina', 'old_value': 'Singapore University of Social Sciences'}}}
+702: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+704: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+718: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+719: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+720: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Learning'}}}
+721: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Learning', 'old_value': 'Singapore University of Social Sciences'}}}
+729: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+730: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+732: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+734: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+735: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+736: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+737: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+738: {'values_changed': {"root['chancellor']": {'new_value': 'president = Cheong Hee Kiat', 'old_value': 'president = Ownself'}, "root['provost']": {'new_value': 'Tsui Kai Chong', 'old_value': 'By Myself'}}}
+739: {'values_changed': {"root['chancellor']": {'new_value': 'president = Ownself', 'old_value': 'president = Cheong Hee Kiat'}, "root['provost']": {'new_value': 'By Myself', 'old_value': 'Tsui Kai Chong'}}}
+740: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}, "root['chancellor']": {'new_value': 'president = Cheong Hee Kiat', 'old_value': 'president = Own Self'}, "root['provost']": {'new_value': 'Tsui Kai Chong', 'old_value': 'Myself'}}}
+741: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}, "root['chancellor']": {'new_value': 'president = Own Self', 'old_value': 'president = Cheong Hee Kiat'}, "root['provost']": {'new_value': 'Myself', 'old_value': 'Tsui Kai Chong'}}}
+742: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Studying'}}}
+743: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Studying', 'old_value': 'Singapore University of Social Sciences'}}}
+746: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Learning'}}}
+747: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Learning', 'old_value': 'Singapore University of Social Sciences'}}}
+748: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+749: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+750: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+751: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+752: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+753: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+754: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study via canvas'}}}
+755: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study via canvas', 'old_value': 'Singapore University of Social Sciences'}}}
+756: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+757: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+758: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+759: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+760: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+761: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Science'}}}
+762: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Science', 'old_value': 'Singapore University of Social Sciences'}}}
+765: {'values_changed': {"root['endowment']": {'new_value': 'S$1.61 million', 'old_value': 'S$416.57 million'}}}
+794: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Self Study'}}}
+795: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Self Study', 'old_value': 'Singapore University of Social Sciences'}}}
+797: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Joko Widofo'}}}
+798: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Joko Widofo', 'old_value': 'Singapore University of Social Sciences'}}}
+799: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Joko Widod'}}}
+800: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Joko Widod', 'old_value': 'Singapore University of Social Sciences'}}}
+807: {'dictionary_item_removed': {"root['president']": 'Cheong Hee Kiat'}, 'values_changed': {"root['chancellor']": {'new_value': 'president = Cheong Hee Kiat', 'old_value': 'Stephen Lee Ching Yen|'}, "root['students']": {'new_value': '15,000  ', 'old_value': '15,000 '}}}
+811: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of imposter sus'}}}
+812: {'values_changed': {"root['name']": {'new_value': 'Singapore University of imposter sus', 'old_value': 'Singapore University of Social Sciences'}}}
+813: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of imposter sus'}}}
+814: {'values_changed': {"root['name']": {'new_value': 'Singapore University of imposter sus', 'old_value': 'Singapore University of Social Sciences'}}}
+815: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of imposter sus'}}}
+816: {'values_changed': {"root['name']": {'new_value': 'Singapore University of imposter sus', 'old_value': 'Singapore University of Social Sciences'}}}
+818: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Slithering Snakes'}}}
+819: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Slithering Snakes', 'old_value': 'Singapore University of Social Sciences'}}}
+820: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Slithering  Snakes'}}}
+821: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Slithering  Snakes', 'old_value': 'Singapore University of Social Sciences'}}}
+826: {'values_changed': {"root['former_names']": {'new_value': 'SIM University  ', 'old_value': 'SIM University '}}}
+828: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Social Sciences', 'old_value': 'Singapore University of Sex'}}}
+829: {'values_changed': {"root['name']": {'new_value': 'Singapore University of Sex', 'old_value': 'Singapore University of Social Sciences'}}}
+830: {'dictionary_item_added': {"root['staff']": '280'}, 'dictionary_item_removed': {"root['administrative_staff']": '280'}}
+833: {'values_changed': {"root['faculty']": {'new_value': '1074 (Programmes 70+)', 'old_value': '1074'}}}

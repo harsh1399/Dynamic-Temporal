@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of San Diego', "root['endowment']": '$395.6 million (2013)', "root['faculty']": '875', "root['president']": 'Dr. Mary E. Lyons', "root['undergrad']": '5,457', "root['postgrad']": '1,686', "root['other']": '962', "root['campus']": 'Urban', "root['athletics']": 'NCAA Division I - WCC, Pioneer Football League', "root['sports']": '17 varsity teams', "root['affiliations']": 'ACCU, NAICU, CNAHEC'}}
+5: {'values_changed': {"root['undergrad']": {'new_value': '5,457', 'old_value': '5,741'}, "root['postgrad']": {'new_value': '1,686', 'old_value': '1,773'}, "root['other']": {'new_value': '962', 'old_value': '835'}}}
+6: {'dictionary_item_added': {"root['affiliations']": 'ACCU, NAICU, CNAHEC'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Mary E. Lyons', 'old_value': 'Dr. James T. Harris III'}}}
+35: {'values_changed': {"root['president']": {'new_value': 'Dr. James T. Harris III', 'old_value': 'James T. Harris III'}}}
+58: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I - WCC, Pioneer Football League', "root['sports']": '17 varsity teams'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Roman Catholic'}, 'values_changed': {"root['endowment']": {'new_value': '$395.6 million (2013)', 'old_value': '$450.3 million (2016)'}}}
+69: {'values_changed': {"root['endowment']": {'new_value': '$450.3 million (2016)', 'old_value': '$503.6 million (2017)'}}}
+101: {'values_changed': {"root['endowment']": {'new_value': '$503.6 million (2017)', 'old_value': '$530 million (2018)'}}}
+106: {'values_changed': {"root['endowment']": {'new_value': '$530 million (2018)', 'old_value': '$693 million (2021)'}}}
+117: {'values_changed': {"root['faculty']": {'new_value': '875', 'old_value': '1007'}, "root['undergrad']": {'new_value': '5,741', 'old_value': '5,702'}, "root['postgrad']": {'new_value': '1,773', 'old_value': '2,529'}, "root['other']": {'new_value': '835', 'old_value': '810'}}}
+150: {'values_changed': {"root['undergrad']": {'new_value': '5,702', 'old_value': '6513'}}}
+151: {'values_changed': {"root['undergrad']": {'new_value': '6513', 'old_value': '5,702'}}}
+170: {'values_changed': {"root['endowment']": {'new_value': '$693 million (2021)', 'old_value': '$652.5 million (2022)'}}}

@@ -1,0 +1,7 @@
+95: {'dictionary_item_removed': {"root['name']": 'H. John Heinz III College', "root['image_name']": 'Heinzlogo.gif', "root['president']": '| vice-president    =', "root['dean']": 'Ramayya Krishnan', "root['academic_staff']": '80 ', "root['postgrad']": '1,220 ', "root['doctoral']": '49', "root['campus']": 'National Historic Landmark, Urban', "root['former_names']": 'School of Urban and Public Affairs (1968-1992), H. John Heinz III School of Public Policy and Management (1992-2008)', "root['affiliations']": 'Carnegie Mellon University'}}
+115: {'values_changed': {"root['postgrad']": {'new_value': '1,220 ', 'old_value': '1,327 '}}}
+167: {'values_changed': {"root['academic_staff']": {'new_value': '80 ', 'old_value': '195 '}}}
+168: {'values_changed': {"root['academic_staff']": {'new_value': '195 ', 'old_value': '58'}, "root['doctoral']": {'new_value': '49', 'old_value': '48'}}}
+201: {'values_changed': {"root['academic_staff']": {'new_value': '58', 'old_value': '58 '}, "root['postgrad']": {'new_value': '1,327 ', 'old_value': '1,518 '}}}
+210: {'dictionary_item_added': {"root['affiliations']": 'Carnegie Mellon University'}, 'values_changed': {"root['name']": {'new_value': 'H. John Heinz III College', 'old_value': 'H. John Heinz III College of Information Systems and Public Policy'}, "root['academic_staff']": {'new_value': '58 ', 'old_value': '52 '}}}
+241: {'values_changed': {"root['academic_staff']": {'new_value': '52 ', 'old_value': '73 '}}}

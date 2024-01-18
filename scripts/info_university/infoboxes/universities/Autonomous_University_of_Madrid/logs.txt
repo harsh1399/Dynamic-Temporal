@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Autonomous University of Madrid', "root['image_name']": 'Seal of Autonomous University of Madrid.png', "root['rector']": 'José María Sanz Martínez', "root['undergrad']": '32,206', "root['postgrad']": '3,912', "root['campus']": 'Rural |campus area    = 650 acres', "root['affiliations']": 'UNICA, EUA, CRUE'}}
+21: {'values_changed': {"root['campus']": {'new_value': 'Rural |campus area    = 650 acres', 'old_value': 'Rural 650 acres'}}}
+27: {'values_changed': {"root['rector']": {'new_value': 'José María Sanz Martínez', 'old_value': 'Rafael Garesse Alarcón'}}}
+31: {'dictionary_item_removed': {"root['location']": 'Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain, M-607, km no. 15, '}}
+32: {'dictionary_item_removed': {"root['doctoral']": '3,818  (2015/16)'}, 'values_changed': {"root['undergrad']": {'new_value': '32,206', 'old_value': '21,203  (2015/16) '}, "root['postgrad']": {'new_value': '3,912', 'old_value': '6,701  (2015/16)'}}}
+33: {'dictionary_item_removed': {"root['budget']": '€269,427,726 (2015/16)', "root['academic_staff']": '2,505', "root['administrative_staff']": '1,036'}}
+34: {'values_changed': {"root['budget']": {'new_value': '€269,427,726 (2015/16)', 'old_value': '€269,427,726  (2015/16)'}, "root['academic_staff']": {'new_value': '2,505', 'old_value': '2,505  (2015/16)'}, "root['administrative_staff']": {'new_value': '1,036', 'old_value': '1,036  (2015/16)'}}}
+56: {'values_changed': {"root['affiliations']": {'new_value': 'UNICA, EUA, CRUE', 'old_value': 'EUA, CRUE'}}}
+59: {'values_changed': {"root['image_name']": {'new_value': 'Seal of Autonomous University of Madrid.png', 'old_value': 'Escudo de la Universidad Autónoma de Madrid.svg'}, "root['location']": {'new_value': 'Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain, M-607, km no. 15, ', 'old_value': 'Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain, M-607, km no. 15'}}}
+87: {'values_changed': {"root['budget']": {'new_value': '€269,427,726  (2015/16)', 'old_value': '€269.4 million (2015/16)'}}}
+89: {'values_changed': {"root['budget']": {'new_value': '€269.4 million (2015/16)', 'old_value': '€269.4 million (2015)'}}}
+90: {'values_changed': {"root['academic_staff']": {'new_value': '2,505  (2015/16)', 'old_value': '2,505 (2015/16)'}}}
+91: {'values_changed': {"root['administrative_staff']": {'new_value': '1,036  (2015/16)', 'old_value': '1,036 (2015/16)'}}}
+92: {'values_changed': {"root['undergrad']": {'new_value': '21,203  (2015/16) ', 'old_value': '21,203 (2015/16) '}}}
+93: {'values_changed': {"root['postgrad']": {'new_value': '6,701  (2015/16)', 'old_value': '6,701 (2015/16)'}}}
+94: {'values_changed': {"root['doctoral']": {'new_value': '3,818  (2015/16)', 'old_value': '3,818 (2015/16)'}}}

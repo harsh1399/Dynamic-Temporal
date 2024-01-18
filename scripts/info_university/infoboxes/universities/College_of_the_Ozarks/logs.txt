@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'College of the Ozarks', "root['religious_affiliation']": 'Presbyterian Church (U.S.A.)', "root['endowment']": '$427.48 million (2014) ', "root['staff']": '150', "root['faculty']": '89', "root['president']": 'Jerry C. Davis', "root['students']": '1,371 http://colleges.usnews.rankingsandreviews.com/best-colleges/college-ozarks-2500 Enrollment', "root['undergrad']": '1,371', "root['campus']": 'Rural, ', "root['athletics']": 'NAIA – MCAC'}}
+5: {'dictionary_item_removed': {"root['location']": '100 Opportunity Avenue Point Lookout, MO 65726 , Tel. 1-800-222-0525 ,  417-334-6411'}, 'values_changed': {"root['endowment']": {'new_value': '$427.48 million (2014) ', 'old_value': '$427.27 million (2015)'}, "root['staff']": {'new_value': '150', 'old_value': '190'}, "root['faculty']": {'new_value': '89', 'old_value': '83'}, "root['students']": {'new_value': '1,371 http://colleges.usnews.rankingsandreviews.com/best-colleges/college-ozarks-2500 Enrollment', 'old_value': '1,433 http://colleges.usnews.rankingsandreviews.com/best-colleges/college-ozarks-2500 Enrollment'}, "root['undergrad']": {'new_value': '1,371', 'old_value': '1,433'}}}
+13: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Presbyterian Church (U.S.A.)', 'old_value': 'Cumberland Presbyterian Church'}}}
+24: {'values_changed': {"root['endowment']": {'new_value': '$427.27 million (2015)', 'old_value': '$505 million (2018) https://www.cofo.edu/content/PR/pressRelease.aspx?id=7756b7fd-ef46-4352-82cc-1c15d319b50f'}}}
+25: {'values_changed': {"root['endowment']": {'new_value': '$505 million (2018) https://www.cofo.edu/content/PR/pressRelease.aspx?id=7756b7fd-ef46-4352-82cc-1c15d319b50f', 'old_value': '$505 million (2018)'}}}
+28: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Cumberland Presbyterian Church', 'old_value': 'Presbyterian Church (USA)'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'College of the Ozarks', 'old_value': 'College of the Ozarks aka whites only'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'College of the Ozarks aka whites only', 'old_value': 'College of the Ozarks'}}}
+53: {'values_changed': {"root['students']": {'new_value': '1,433 http://colleges.usnews.rankingsandreviews.com/best-colleges/college-ozarks-2500 Enrollment', 'old_value': '1,508 https://www.princetonreview.com/college/college-ozarks-1023957#!studentbody'}, "root['undergrad']": {'new_value': '1,433', 'old_value': '1,508'}}}
+58: {'dictionary_item_removed': {"root['affiliations']": []}}
+68: {'type_changes': {"root['affiliations']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': ',APCU ,CIC ,WCC', 'new_value': []}}, 'dictionary_item_added': {"root['location']": '100 Opportunity Avenue Point Lookout, MO 65726 , Tel. 1-800-222-0525 ,  417-334-6411'}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Presbyterian Church (USA)', 'old_value': 'Presbyterian Church USA'}}}
+94: {'values_changed': {"root['athletics']": {'new_value': 'NAIA – MCAC', 'old_value': 'NAIA – independent'}}}
+103: {'values_changed': {"root['athletics']": {'new_value': 'NAIA – independent', 'old_value': 'NAIA – Independent'}}}
+104: {'values_changed': {"root['students']": {'new_value': '1,508 https://www.princetonreview.com/college/college-ozarks-1023957#!studentbody', 'old_value': '1,508 '}}}
+108: {'values_changed': {"root['name']": {'new_value': 'College of the Ozarks', 'old_value': 'College of the Ozarks in Point Lookout'}}}
+109: {'values_changed': {"root['name']": {'new_value': 'College of the Ozarks in Point Lookout', 'old_value': 'College of the Ozarks'}}}
+113: {'values_changed': {"root['endowment']": {'new_value': '$505 million (2018)', 'old_value': '$476.6 million (2019)'}}}
+119: {'values_changed': {"root['president']": {'new_value': 'Jerry C. Davis', 'old_value': 'Carina M. Vannicolo'}}}
+120: {'values_changed': {"root['president']": {'new_value': 'Carina M. Vannicolo', 'old_value': 'Jerry C. Davis'}}}
+130: {'values_changed': {"root['endowment']": {'new_value': '$476.6 million (2019)', 'old_value': '$480.5 million (2020)'}}}
+132: {'values_changed': {"root['athletics']": {'new_value': 'NAIA – Independent', 'old_value': 'NCCAA – Independent'}}}
+163: {'dictionary_item_added': {"root['staff']": '190'}, 'dictionary_item_removed': {"root['administrative_staff']": '190'}}
+238: {'dictionary_item_added': {"root['athletics']": 'NCCAA – Independent', "root['affiliations']": ',APCU ,CIC ,WCC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCCAA – Independent'}}

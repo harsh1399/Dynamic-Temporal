@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Malta', "root['rector']": 'Professor Juanito Camilleri', "root['students']": '11,342', "root['faculty']": '600'}}
+10: {'dictionary_item_removed': {"root['affiliations']": 'European University Association, European Access Network, Association of Commonwealth Universities, Utrecht Network, Santander Network, Compostela Group, EUCEN, ISEP'}}
+17: {'values_changed': {"root['affiliations']": {'new_value': 'European University Association, European Access Network, Association of Commonwealth Universities, Utrecht Network, Santander Network, Compostela Group, EUCEN, ISEP', 'old_value': 'EUA, EAN, ACU, Utrecht Network, SGroup, CGU, EUCEN, ISEP'}}}
+28: {'dictionary_item_removed': {"root['chancellor']": 'Professor David Attard'}, 'values_changed': {"root['rector']": {'new_value': 'Professor Juanito Camilleri', 'old_value': 'Professor Alfred J. Vella'}}}
+44: {'values_changed': {"root['students']": {'new_value': '11,342', 'old_value': '11,343'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'University of Malta', 'old_value': 'The University of Malta'}}}
+65: {'dictionary_item_removed': {"root['athletics']": 'Malta University Sports Club'}}
+70: {'values_changed': {"root['affiliations']": {'new_value': 'EUA, EAN, ACU, Utrecht Network, SGroup, CGU, EUCEN, ISEP', 'old_value': 'EUA, EAN, ACU, Utrecht Network, SGroup, CGU, EUCEN, ISEP  |'}}}
+71: {'values_changed': {"root['affiliations']": {'new_value': 'EUA, EAN, ACU, Utrecht Network, SGroup, CGU, EUCEN, ISEP  |', 'old_value': 'EUA, EAN, ACU, Utrecht Network, SGroup, CGU, EUCEN, ISEP'}}}
+73: {'dictionary_item_removed': {"root['former_names']": '|'}}
+74: {'values_changed': {"root['former_names']": {'new_value': '|', 'old_value': '|    |'}}}
+78: {'dictionary_item_added': {"root['former_names']": '|    |'}, 'dictionary_item_removed': {"root['IMAGE']": 'University of Malta branding logo as of 2018.svg |   |    |  |'}}
+80: {'dictionary_item_added': {"root['IMAGE']": 'University of Malta branding logo as of 2018.svg |   |    |  |'}, 'values_changed': {"root['students']": {'new_value': '11,343', 'old_value': '11,670'}}}
+86: {'values_changed': {"root['chancellor']": {'new_value': 'Professor David Attard', 'old_value': 'Professor David J. Attard'}}}
+87: {'values_changed': {"root['name']": {'new_value': 'The University of Malta', 'old_value': 'University of Malta'}}}
+91: {'dictionary_item_added': {"root['faculty']": '600', "root['athletics']": 'Malta University Sports Club'}, 'dictionary_item_removed': {"root['president']": '| vice-president    =', "root['academic_staff']": '961 (as of 2016–17) ', "root['administrative_staff']": '930 (as of 2016–17)', "root['sports']": 'Malta University Sports Club'}, 'values_changed': {"root['students']": {'new_value': '11,670', 'old_value': '11,117 (as of January 2020) '}}}
+101: {'dictionary_item_removed': {"root['campus']": 'Urban'}}
+107: {'dictionary_item_added': {"root['sports']": 'Malta University Sports Club'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'Malta University Sports Club'}, 'values_changed': {"root['chancellor']": {'new_value': 'Professor David J. Attard', 'old_value': 'David J. Attard'}, "root['rector']": {'new_value': 'Professor Alfred J. Vella', 'old_value': 'Alfred J. Vella'}}}
+124: {'values_changed': {"root['students']": {'new_value': '11,117 (as of January 2020) ', 'old_value': '~11,500 (2023)'}}}

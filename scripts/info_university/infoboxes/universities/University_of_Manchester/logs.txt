@@ -1,0 +1,58 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Manchester', "root['image_name']": 'Manchester University Crest.jpg', "root['endowment']": '£158.7 million (at 31 July 2011) ', "root['campus']": 'Urban and Suburban', "root['staff']": '10,407', "root['chancellor']": 'Tom Bloxham MBE', "root['vice_chancellor']": 'Professor Dame Nancy Rothwell DBE', "root['affiliations']": 'Russell Group, EUA, N8 Group, NWUA, ACU', "root['students']": '39,165 ', "root['undergrad']": '28,514', "root['postgrad']": '11,218', "root['colours']": 'Blue, Gold, Purple    '}}
+12: {'values_changed': {"root['endowment']": {'new_value': '£158.7 million (at 31 July 2011) ', 'old_value': '£158.7 million (on 31 July 2011) '}}}
+23: {'dictionary_item_added': {"root['name']": 'University of Manchester', "root['image_name']": 'Manchester University Crest.jpg'}, 'values_changed': {"root['endowment']": {'new_value': '£158.7 million (on 31 July 2011) ', 'old_value': '£158.7 million (as of 31 July 2011) '}}}
+24: {'dictionary_item_removed': {"root['name']": 'University of Manchester', "root['image_name']": 'Manchester University Crest.jpg'}}
+41: {'values_changed': {"root['affiliations']": {'new_value': 'Russell Group, EUA, N8 Group, NWUA, ACU', 'old_value': 'Universities Research Association, Russell Group, EUA, N8 Group, NWUA, ACU'}}}
+50: {'dictionary_item_added': {"root['vice_chancellor']": 'Professor Dame Nancy Rothwell DBE'}, 'dictionary_item_removed': {"root['president']": 'Professor Dame Nancy Rothwell DBE'}}
+68: {'dictionary_item_added': {"root['staff']": '10,407'}, 'dictionary_item_removed': {"root['academic_staff']": '3849'}}
+121: {'dictionary_item_added': {"root['students']": '39,165 ', "root['undergrad']": '28,514', "root['postgrad']": '11,218'}, 'dictionary_item_removed': {"root['budget']": '£1095.4 million '}, 'values_changed': {"root['image_name']": {'new_value': 'Manchester University Crest.jpg', 'old_value': 'University of Manchester crest.svg'}, "root['endowment']": {'new_value': '£158.7 million (as of 31 July 2011) ', 'old_value': '£238.4 million '}, "root['campus']": {'new_value': 'Urban and Suburban', 'old_value': 'Urban and suburban'}, "root['academic_staff']": {'new_value': '3849', 'old_value': '3,849'}, "root['president']": {'new_value': 'Professor Dame Nancy Rothwell DBE', 'old_value': 'Dame Nancy Rothwell'}, "root['chancellor']": {'new_value': 'Tom Bloxham MBE', 'old_value': 'Lemn Sissay MBE '}, "root['affiliations']": {'new_value': 'Universities Research Association, Russell Group, EUA, N8 Group, NWUA, ACU', 'old_value': 'Universities Research Association,  Sutton 30  Russell Group,  EUA,  N8 Group,  NWUA,  ACU '}, "root['colours']": {'new_value': 'Blue, Gold, Purple    ', 'old_value': 'Scarf: purple and gold, corporate: purple, gold, light blue '}}}
+127: {'dictionary_item_added': {"root['academic_staff']": '3,849'}, 'dictionary_item_removed': {"root['staff']": '3,849 '}}
+128: {'dictionary_item_added': {"root['staff']": '3,849 '}, 'dictionary_item_removed': {"root['academic_staff']": '3,849'}}
+137: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Research Association,  Sutton 30  Russell Group,  EUA,  N8 Group,  NWUA,  ACU ', 'old_value': 'Universities Research Association,  Sutton 30  Russell Group,  EUA,  N8 Group,  NWUA,  ACU Universities UK '}}}
+143: {'values_changed': {"root['image_name']": {'new_value': 'University of Manchester crest.svg', 'old_value': 'Arms of the University of Manchester.svg'}}}
+150: {'values_changed': {"root['name']": {'new_value': 'University of Manchester', 'old_value': 'U'}}}
+151: {'values_changed': {"root['name']": {'new_value': 'U', 'old_value': 'University of Manchester'}}}
+153: {'values_changed': {"root['name']": {'new_value': 'University of Manchester', 'old_value': 'University of Manchester II'}}}
+154: {'values_changed': {"root['name']": {'new_value': 'University of Manchester II', 'old_value': 'University of Manchester'}}}
+167: {'values_changed': {"root['image_name']": {'new_value': 'Arms of the University of Manchester.svg', 'old_value': 'Shield of the University of Manchester.svg'}}}
+168: {'values_changed': {"root['image_name']": {'new_value': 'Shield of the University of Manchester.svg', 'old_value': 'Arms of the University of Manchester.svg'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'University of Manchester', 'old_value': 'Home to Neeks'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Home to Neeks', 'old_value': 'University of Manchester'}}}
+177: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Research Association,  Sutton 30  Russell Group,  EUA,  N8 Group,  NWUA,  ACU Universities UK ', 'old_value': 'Universities Research Association  Sutton 30  Russell Group  EUA  N8 Group  NWUA  ACU Universities UK '}}}
+197: {'dictionary_item_added': {"root['colours']": 'Scarf: purple and gold, corporate: purple, gold, light blue '}, 'values_changed': {"root['image_name']": {'new_value': 'Arms of the University of Manchester.svg', 'old_value': 'Master_crest_RGB_WIKIPEDIA_new.png'}}}
+198: {'values_changed': {"root['image_name']": {'new_value': 'Master_crest_RGB_WIKIPEDIA_new.png', 'old_value': 'Master_crest_RGB_WIKIPEDIA_small.png'}}}
+199: {'values_changed': {"root['image_name']": {'new_value': 'Master_crest_RGB_WIKIPEDIA_small.png', 'old_value': 'Arms of the University of Manchester.svg'}}}
+200: {'dictionary_item_added': {"root['president']": 'Dame Nancy Rothwell'}, 'dictionary_item_removed': {"root['head']": 'Dame Nancy Rothwell'}}
+201: {'values_changed': {"root['endowment']": {'new_value': '£238.4 million ', 'old_value': '£220.5 million '}, "root['budget']": {'new_value': '£1095.4 million ', 'old_value': '£1092.6 million '}}}
+212: {'values_changed': {"root['endowment']": {'new_value': '£220.5 million ', 'old_value': '£220.5 million (2020)'}, "root['budget']": {'new_value': '£1092.6 million ', 'old_value': '£1092.6 million (2019–20)'}}}
+213: {'values_changed': {"root['budget']": {'new_value': '£1092.6 million (2019–20)', 'old_value': '£1.09 billion (2019–20)'}}}
+214: {'values_changed': {"root['academic_staff']": {'new_value': '3,849', 'old_value': '3,849 (2013)'}}}
+217: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Research Association  Sutton 30  Russell Group  EUA  N8 Group  NWUA  ACU Universities UK ', 'old_value': 'Universities Research Association  Sutton 30  Russell Group  EUA  N8 Group  https://northern-gritstone.com/ Northern Gritstone  NWUA  ACU Universities UK '}}}
+218: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Research Association  Sutton 30  Russell Group  EUA  N8 Group  https://northern-gritstone.com/ Northern Gritstone  NWUA  ACU Universities UK ', 'old_value': 'Universities Research Association  Sutton 30  Russell Group  EUA  N8 Group  NWUA  ACU Universities UK '}}}
+225: {'values_changed': {"root['image_name']": {'new_value': 'Arms of the University of Manchester.svg', 'old_value': 'Logo University of Manchester.png'}}}
+226: {'values_changed': {"root['image_name']": {'new_value': 'Logo University of Manchester.png', 'old_value': 'Arms of the University of Manchester.svg'}}}
+228: {'values_changed': {"root['chancellor']": {'new_value': 'Lemn Sissay MBE ', 'old_value': 'Lemn Sissay '}}}
+291: {'dictionary_item_removed': {"root['students']": '40,485 (2021)'}, 'values_changed': {"root['academic_staff']": {'new_value': '3,849 (2013)', 'old_value': '≈7,000 (2021)'}}}
+295: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021)', 'old_value': '≈7,000 (2021) (Note: includes research staff)'}}}
+296: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021) (Note: includes research staff)', 'old_value': '≈7,000 (2021)'}}}
+297: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021)', 'old_value': '≈7,000 (2021) (Note: includes research staff)'}}}
+298: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021) (Note: includes research staff)', 'old_value': '≈7,000 (2021)'}}}
+299: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021)', 'old_value': '≈7,000 (2021) (Note: includes research staff)'}}}
+300: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021) (Note: includes research staff)', 'old_value': '≈7,000 (2021)'}}}
+301: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2021)', 'old_value': '≈7,000 (2020) (including research staff)'}}}
+302: {'values_changed': {"root['academic_staff']": {'new_value': '≈7,000 (2020) (including research staff)', 'old_value': '8,585 (2020) - including academic atypical staff'}}}
+304: {'dictionary_item_removed': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '8,585 (2020) - including academic atypical staff', 'old_value': '5,150 (2020)'}}}
+305: {'dictionary_item_added': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '5,150 (2020)', 'old_value': '8,585 (2020) - including academic atypical staff'}}}
+307: {'dictionary_item_removed': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '8,585 (2020) - including academic atypical staff', 'old_value': '5,150 (2020)'}}}
+308: {'dictionary_item_added': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '5,150 (2020)', 'old_value': '8,585 (2020) - including academic atypical staff'}}}
+311: {'dictionary_item_removed': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '8,585 (2020) - including academic atypical staff', 'old_value': '5,150 (2020)'}}}
+312: {'dictionary_item_added': {"root['total_staff']": '11,210 (2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '5,150 (2020)', 'old_value': '8,585 (2020) - including academic atypical staff'}}}
+313: {'dictionary_item_removed': {"root['total_staff']": '11,210 (2020)'}}
+314: {'values_changed': {"root['academic_staff']": {'new_value': '8,585 (2020) - including academic atypical staff', 'old_value': '5,150 (2020)'}}}
+315: {'values_changed': {"root['total_staff']": {'new_value': '11,210 (2020)', 'old_value': '12,920 (2021)'}}}
+375: {'values_changed': {"root['endowment']": {'new_value': '£220.5 million (2020)', 'old_value': '£242.2 million (2021)'}, "root['budget']": {'new_value': '£1.09 billion (2019–20)', 'old_value': '£1.10 billion (2020–21)'}}}
+409: {'values_changed': {"root['head']": {'new_value': 'Dame Nancy Rothwell', 'old_value': 'Nancy Rothwell'}}}
+440: {'values_changed': {"root['chancellor']": {'new_value': 'Lemn Sissay ', 'old_value': 'Nazir Afzal   (from August 2022)'}}}
+441: {'values_changed': {"root['chancellor']": {'new_value': 'Nazir Afzal   (from August 2022)', 'old_value': 'Nazir Afzal ||'}}}
+446: {'values_changed': {"root['image_name']": {'new_value': 'Arms of the University of Manchester.svg', 'old_value': 'File:Arms_of_the_University_of_Manchester.svg'}}}
+475: {'values_changed': {"root['image_name']": {'new_value': 'File:Arms_of_the_University_of_Manchester.svg', 'old_value': 'Arms_of_the_University_of_Manchester.svg'}}}

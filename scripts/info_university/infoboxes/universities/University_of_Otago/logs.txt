@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Otago', "root['image_name']": 'Otago_sh.png', "root['chancellor']": 'Lindsay Brown', "root['vice_chancellor']": 'David Skegg', "root['students']": '20,000 total'}}
+51: {'dictionary_item_removed': {"root['campus']": 'Urban'}}
+52: {'values_changed': {"root['name']": {'new_value': 'University of Otago', 'old_value': 'University of Otago Te Whare Wānanga o Otāgo'}}}
+77: {'values_changed': {"root['students']": {'new_value': '20,000 total', 'old_value': '19,893 (2006)'}}}
+96: {'values_changed': {"root['students']": {'new_value': '19,893 (2006)', 'old_value': '19,853 (2006)'}}}
+202: {'dictionary_item_removed': {"root['staff']": '3,788 (2014) |', "root['academic_staff']": '1,207 (2018)', "root['undergrad']": '15,635 (2014)', "root['postgrad']": '4,378 (2014)', "root['doctoral']": '1,388 (2014)', "root['colours']": 'Blue and gold', "root['affiliations']": 'MNU'}, 'values_changed': {"root['name']": {'new_value': 'University of Otago Te Whare Wānanga o Otāgo', 'old_value': 'University of Otago'}, "root['image_name']": {'new_value': 'Otago_sh.png', 'old_value': 'University of Otago Registry Building2.jpg'}, "root['chancellor']": {'new_value': 'Lindsay Brown', 'old_value': 'Dr Royden Somerville QC'}, "root['vice_chancellor']": {'new_value': 'David Skegg', 'old_value': 'Harlene Hayne'}, "root['students']": {'new_value': '19,853 (2006)', 'old_value': '21,108 (2018)'}}}
+276: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Harlene Hayne', 'old_value': 'Professor Helen Nicholson'}, "root['staff']": {'new_value': '3,788 (2014) |', 'old_value': '2,246 (2019) |'}, "root['academic_staff']": {'new_value': '1,207 (2018)', 'old_value': '1,744 (2019)'}, "root['students']": {'new_value': '21,108 (2018)', 'old_value': '21,240 (2019)'}, "root['doctoral']": {'new_value': '1,388 (2014)', 'old_value': '1,579 (2019)'}}}
+277: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Helen Nicholson', 'old_value': 'Professor Helen Nicholson (acting)'}}}
+294: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Helen Nicholson (acting)', 'old_value': 'Professor Helen Nicholson (acting)  , Professor David R Murdoch (from early 2022)'}}}
+299: {'values_changed': {"root['colours']": {'new_value': 'Blue and gold', 'old_value': 'Dunedin Blue and Gold   '}}}
+300: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban/College Town   45 ha (111 acres)'}}}
+303: {'values_changed': {"root['campus']": {'new_value': 'Urban/College Town   45 ha (111 acres)', 'old_value': 'Urban/University town   45 ha (111 acres)'}}}
+304: {'dictionary_item_removed': {"root['endowment']": 'NZD $258,3 million (31 December 2020) ', "root['budget']": 'NZD $756,8 million (31 December 2020) '}}
+306: {'values_changed': {"root['endowment']": {'new_value': 'NZD $258,3 million (31 December 2020) ', 'old_value': 'NZD $258.3 million (31 December 2020) '}, "root['budget']": {'new_value': 'NZD $756,8 million (31 December 2020) ', 'old_value': 'NZD $756.8 million (31 December 2020) '}}}
+309: {'dictionary_item_added': {"root['staff']": '2,246 (2019) |'}, 'dictionary_item_removed': {"root['administrative_staff']": '2,246 (2019) '}}
+331: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Helen Nicholson (acting)  , Professor David R Murdoch (from early 2022)', 'old_value': 'Professor David R Murdoch'}}}
+351: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Royden Somerville QC', 'old_value': 'Mr Stephen Higgs'}}}
+352: {'values_changed': {"root['chancellor']": {'new_value': 'Mr Stephen Higgs', 'old_value': 'Stephen Higgs'}, "root['vice_chancellor']": {'new_value': 'Professor David R Murdoch', 'old_value': 'David Murdoch'}}}
+405: {'values_changed': {"root['endowment']": {'new_value': 'NZD $258.3 million (31 December 2020) ', 'old_value': 'NZD $279.9 million (31 December 2021) '}}}

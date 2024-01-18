@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Harvey Mudd College', "root['president']": 'Maria Klawe', "root['undergrad']": '771', "root['faculty']": '83', "root['affiliations']": 'SCIAC', "root['campus']": 'Suburban, ', "root['endowment']": '$243.1 million'}}
+3: {'values_changed': {"root['endowment']": {'new_value': '$243.1 million', 'old_value': '$225.5 million'}}}
+30: {'values_changed': {"root['undergrad']": {'new_value': '771', 'old_value': '807    | 2014 acceptance rate      = 13.6%'}, "root['endowment']": {'new_value': '$225.5 million', 'old_value': '$241.6 million (2013)'}}}
+31: {'values_changed': {"root['endowment']": {'new_value': '$241.6 million (2013)', 'old_value': '$283.7 million (2014)'}}}
+65: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – SCIAC'}, 'values_changed': {"root['undergrad']": {'new_value': '807    | 2014 acceptance rate      = 13.6%', 'old_value': '807'}, "root['affiliations']": {'new_value': 'SCIAC', 'old_value': 'Claremont Colleges, NAICU  , Oberlin Group, Annapolis Group, CLAC'}, "root['endowment']": {'new_value': '$283.7 million (2014)', 'old_value': '$303.3 million'}}}
+74: {'dictionary_item_removed': {"root['budget']": '$83 million ||'}}
+92: {'values_changed': {"root['endowment']": {'new_value': '$303.3 million', 'old_value': '$316.8 million(2018)'}}}
+98: {'values_changed': {"root['affiliations']": {'new_value': 'Claremont Colleges, NAICU  , Oberlin Group, Annapolis Group, CLAC', 'old_value': 'Claremont Colleges NAICU   Oberlin Group Annapolis Group CLAC'}}}
+104: {'values_changed': {"root['undergrad']": {'new_value': '807', 'old_value': '889 (2018)'}, "root['faculty']": {'new_value': '83', 'old_value': '115 (2018)'}, "root['endowment']": {'new_value': '$316.8 million(2018)', 'old_value': '$316.8 million (2018)'}}}
+108: {'values_changed': {"root['endowment']": {'new_value': '$316.8 million (2018)', 'old_value': '$328.6 million (2019)'}}}
+112: {'values_changed': {"root['undergrad']": {'new_value': '889 (2018)', 'old_value': '895 (2019)'}, "root['faculty']": {'new_value': '115 (2018)', 'old_value': '115 (2019)'}, "root['budget']": {'new_value': '$83 million ||', 'old_value': '$87 million ||'}}}
+136: {'values_changed': {"root['budget']": {'new_value': '$87 million ||', 'old_value': '$87 million (2018) ||'}}}
+155: {'dictionary_item_added': {"root['affiliations']": 'Claremont Colleges NAICU   Oberlin Group Annapolis Group CLAC'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Claremont Colleges NAICU   Oberlin Group Annapolis Group CLAC'}}
+170: {'values_changed': {"root['endowment']": {'new_value': '$328.6 million (2019)', 'old_value': '$319.7 million (2020)'}}}
+196: {'values_changed': {"root['undergrad']": {'new_value': '895 (2019)', 'old_value': '905 (2021)'}}}
+202: {'values_changed': {"root['faculty']": {'new_value': '115 (2019)', 'old_value': '130 (2021)'}}}
+203: {'values_changed': {"root['budget']": {'new_value': '$87 million (2018) ||', 'old_value': '$72 million (2019) ||'}}}
+208: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – SCIAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – SCIAC'}}

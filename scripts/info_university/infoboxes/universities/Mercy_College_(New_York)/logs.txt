@@ -1,0 +1,21 @@
+49: {'dictionary_item_removed': {"root['name']": 'Mercy College', "root['image_name']": 'Mercy_dobbs_ferry.gif', "root['president']": 'Kimberly Cline', "root['population']": '11,000 |full-time faculty        = 223 |part-time faculty        = 308', "root['campus']": 'Suburban', "root['sports']": '14 Varsity Teams', "root['athletics']": 'NCAA Division II', "root['affiliations']": 'East Coast Conference'}}
+55: {'values_changed': {"root['sports']": {'new_value': '14 Varsity Teams', 'old_value': '10 Varsity Teams'}}}
+60: {'values_changed': {"root['president']": {'new_value': 'Kimberly Cline', 'old_value': 'Concetta M. Stewart, Ph.D.'}}}
+63: {'dictionary_item_added': {"root['affiliations']": 'East Coast Conference'}, 'values_changed': {"root['sports']": {'new_value': '10 Varsity Teams', 'old_value': '14 Varsity Teams'}}}
+71: {'values_changed': {"root['sports']": {'new_value': '14 Varsity Teams', 'old_value': '10 Varsity Teams'}}}
+84: {'dictionary_item_added': {"root['image_name']": 'Mercy_dobbs_ferry.gif'}, 'dictionary_item_removed': {"root['endowment']": '$103.3 million (2013)', "root['provost']": 'Concetta M. Stewart', "root['undergraduates']": '7,968'}, 'values_changed': {"root['president']": {'new_value': 'Concetta M. Stewart, Ph.D.', 'old_value': 'Timothy L. Hall'}, "root['athletics']": {'new_value': 'NCAA Division II', 'old_value': 'NCAA Division II – ECC'}}}
+94: {'dictionary_item_removed': {"root['image_name']": 'Mercy-college logo.png'}}
+103: {'dictionary_item_added': {"root['undergraduates']": '7,968', "root['population']": '11,000 |full-time faculty        = 223 |part-time faculty        = 308'}, 'values_changed': {"root['provost']": {'new_value': 'Concetta M. Stewart', 'old_value': 'Concetta M. Stewart |president emeritus = Jay Sexter'}}}
+105: {'values_changed': {"root['provost']": {'new_value': 'Concetta M. Stewart |president emeritus = Jay Sexter', 'old_value': 'Concetta M. Stewart'}}}
+106: {'values_changed': {"root['provost']": {'new_value': 'Concetta M. Stewart', 'old_value': 'Jose Herrera'}}}
+128: {'values_changed': {"root['endowment']": {'new_value': '$103.3 million (2013)', 'old_value': '$193.5 million (2015)'}}}
+129: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Suburban, '}}}
+141: {'dictionary_item_removed': {"root['students']": '11,295', "root['undergrad']": '8,016', "root['postgrad']": '3,279'}}
+144: {'values_changed': {"root['students']": {'new_value': '11,295', 'old_value': '11,295 (Fall 2015)'}, "root['undergrad']": {'new_value': '8,016', 'old_value': '8,016 (Fall 2015)'}, "root['postgrad']": {'new_value': '3,279', 'old_value': '3,279 (Fall 2015)'}}}
+207: {'values_changed': {"root['students']": {'new_value': '11,295 (Fall 2015)', 'old_value': '11,295 (Fall 2015) https://www.usnews.com/best-colleges/mercy-college-2772 '}}}
+225: {'dictionary_item_removed': {"root['faculty']": '928 (full-time and part-time)'}}
+262: {'values_changed': {"root['faculty']": {'new_value': '928 (full-time and part-time)', 'old_value': '928 (full-time and part-time) '}}}
+431: {'values_changed': {"root['endowment']": {'new_value': '$193.5 million (2015)', 'old_value': '$255.8 million (2019) As of June 30, 2019. '}, "root['students']": {'new_value': '11,295 (Fall 2015) https://www.usnews.com/best-colleges/mercy-college-2772 ', 'old_value': '11,295 (Fall 2015) '}}}
+432: {'values_changed': {"root['endowment']": {'new_value': '$255.8 million (2019) As of June 30, 2019. ', 'old_value': '$249.4 million (2020)'}}}
+446: {'dictionary_item_added': {"root['image_name']": 'Mercy-college logo.png', "root['sports']": '10 Varsity Teams', "root['athletics']": 'NCAA Division II – ECC'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Nonsectarian, (formerly Catholic)', "root['athletics_affiliations']": 'NCAA Division II – ECC'}}
+447: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Nonsectarian, (formerly Catholic)', 'old_value': 'Nonsectarian (formerly Catholic)'}}}

@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Calicut', "root['image_name']": 'University of Calicut Logo.png', "root['chancellor']": 'P. Sathasivam', "root['vice_chancellor']": 'M. Abdul Salam', "root['campus']": 'Rural', "root['affiliations']": 'UGC'}}
+25: {'values_changed': {"root['vice_chancellor']": {'new_value': 'M. Abdul Salam', 'old_value': 'M.K. Abdul Khader'}}}
+27: {'values_changed': {"root['vice_chancellor']": {'new_value': 'M.K. Abdul Khader', 'old_value': 'Dr. K. Mohammed Basheer'}}}
+36: {'values_changed': {"root['image_name']": {'new_value': 'University of Calicut Logo.png', 'old_value': 'Uni_of_cali.png'}, "root['vice_chancellor']": {'new_value': 'Dr. K. Mohammed Basheer', 'old_value': 'K. Mohammed Basheer'}}}
+62: {'values_changed': {"root['name']": {'new_value': 'University of Calicut', 'old_value': 'University of malapuram'}}}
+63: {'values_changed': {"root['name']": {'new_value': 'University of malapuram', 'old_value': 'University of calicut'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'University of calicut', 'old_value': 'University of Calicut'}}}
+78: {'values_changed': {"root['chancellor']": {'new_value': 'P. Sathasivam', 'old_value': 'Arif Mohammad Khan'}, "root['vice_chancellor']": {'new_value': 'K. Mohammed Basheer', 'old_value': 'Vacant'}, "root['affiliations']": {'new_value': 'UGC', 'old_value': 'University Grants Commission (India)'}}}
+85: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Vacant', 'old_value': "Dr. Anil Kumar Vallathol (''acting'')"}}}
+86: {'values_changed': {"root['vice_chancellor']": {'new_value': "Dr. Anil Kumar Vallathol (''acting'')", 'old_value': "Anil Kumar Vallathol (''acting'')"}}}
+101: {'values_changed': {"root['chancellor']": {'new_value': 'Arif Mohammad Khan', 'old_value': 'Honourable Governor of Kerala'}}}
+103: {'values_changed': {"root['vice_chancellor']": {'new_value': "Anil Kumar Vallathol (''acting'')", 'old_value': 'Prof. M. K. Jayaraj'}}}
+104: {'values_changed': {"root['chancellor']": {'new_value': 'Honourable Governor of Kerala', 'old_value': 'Governor Of Kerala'}}}
+105: {'dictionary_item_removed': {"root['Telephone']": '0494 240 7227, 0494 240 0816'}}
+107: {'dictionary_item_added': {"root['Telephone']": '0494 240 7227, 0494 240 0816'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof. M. K. Jayaraj', 'old_value': 'M. K. Jayaraj'}}}
+127: {'values_changed': {"root['chancellor']": {'new_value': 'Governor Of Kerala', 'old_value': 'Governor of Kerala'}}}
+147: {'dictionary_item_added': {"root['campus']": 'Rural', "root['affiliations']": 'University Grants Commission (India)'}, 'values_changed': {"root['chancellor']": {'new_value': 'Governor of Kerala', 'old_value': 'Arif Mohammad Khan (Governor of Kerala)'}}}
+161: {'dictionary_item_removed': {"root['undergrad']": '301', "root['postgrad']": '1790'}}
+184: {'values_changed': {"root['undergrad']": {'new_value': '301', 'old_value': '301 (NIRF-2020)'}, "root['postgrad']": {'new_value': '1790', 'old_value': '1799 (NIRF-2020)'}}}
+185: {'values_changed': {"root['undergrad']": {'new_value': '301 (NIRF-2020)', 'old_value': '301  (NIRF-2020)'}, "root['postgrad']": {'new_value': '1799 (NIRF-2020)', 'old_value': '1799 ( NIRF-2020)'}}}
+191: {'values_changed': {"root['undergrad']": {'new_value': '301  (NIRF-2020)', 'old_value': '301 (NIRF-2020)'}, "root['postgrad']": {'new_value': '1799 ( NIRF-2020)', 'old_value': '1799 (NIRF-2020)'}}}

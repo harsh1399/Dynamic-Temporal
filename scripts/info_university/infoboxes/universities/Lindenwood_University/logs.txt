@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['Forbes']": 'Not Ranked', "root['USNWR_NU']": 'Not Ranked', "root['USNWR_REG']": 'Not Ranked', "root['Wamo_NU']": 'Not Ranked', "root['Wamo_MASTERSU']": '527<ref name'}}
+149: {'dictionary_item_added': {"root['Forbes']": 'Not Ranked', "root['USNWR_NU']": 'Not Ranked', "root['USNWR_REG']": 'Not Ranked', "root['Wamo_NU']": 'Not Ranked', "root['Wamo_MASTERSU']": '527<ref name'}, 'dictionary_item_removed': {"root['name']": 'Lindenwood University', "root['motto_eng']": 'Character and Learning', "root['religious_affiliation']": 'Presbyterian Church', "root['endowment']": '$143.408 million', "root['president']": 'Michael Shonrock', "root['provost']": 'Marilyn Abbot', "root['academic_staff']": '877 http://lindenwood.edu/about/quickFacts.html', "root['administrative_staff']": '438', "root['students']": '12,213 (Fall 2014) ', "root['undergrad']": '8,453 (Fall 2014)', "root['postgrad']": '3,760 (Fall 2014)', "root['campus']": 'Urban ', "root['athletics_nickname']": 'Lions'}}
+159: {'values_changed': {"root['academic_staff']": {'new_value': '877 http://lindenwood.edu/about/quickFacts.html', 'old_value': '877 '}}}
+164: {'dictionary_item_added': {"root['motto_eng']": 'Character and Learning'}, 'values_changed': {"root['students']": {'new_value': '12,213 (Fall 2014) ', 'old_value': '12,213 (Fall 2015) '}, "root['undergrad']": {'new_value': '8,453 (Fall 2014)', 'old_value': '8,453 (Fall 2015)'}, "root['postgrad']": {'new_value': '3,760 (Fall 2014)', 'old_value': '3,760 (Fall 2015)'}}}
+166: {'dictionary_item_added': {"root['religious_affiliation']": 'Presbyterian Church'}, 'values_changed': {"root['provost']": {'new_value': 'Marilyn Abbot', 'old_value': 'Marilyn Abbott'}, "root['athletics_nickname']": {'new_value': 'Lions', 'old_value': 'Lions  '}}}
+170: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Lions  ', 'old_value': 'Lions'}}}
+190: {'values_changed': {"root['students']": {'new_value': '12,213 (Fall 2015) ', 'old_value': '8,697 (Fall 2016) '}, "root['undergrad']": {'new_value': '8,453 (Fall 2015)', 'old_value': '5,855 (Fall 2016)'}, "root['postgrad']": {'new_value': '3,760 (Fall 2015)', 'old_value': '2,842 (Fall 2016)'}}}
+210: {'values_changed': {"root['endowment']": {'new_value': '$143.408 million', 'old_value': '$143.4 million'}}}
+229: {'dictionary_item_removed': {"root['religious_affiliation']": 'Presbyterian'}}
+253: {'values_changed': {"root['president']": {'new_value': 'Michael Shonrock', 'old_value': 'Art Johnson (acting)'}}}
+257: {'values_changed': {"root['president']": {'new_value': 'Art Johnson (acting)', 'old_value': 'Art Johnson (Interim)'}}}
+261: {'values_changed': {"root['president']": {'new_value': 'Art Johnson (Interim)', 'old_value': 'Art Johnson (interim)'}}}
+262: {'values_changed': {"root['president']": {'new_value': 'Art Johnson (interim)', 'old_value': 'John R. Porter'}}}
+263: {'values_changed': {"root['students']": {'new_value': '8,697 (Fall 2016) ', 'old_value': '9,382 (Fall 2018) '}, "root['undergrad']": {'new_value': '5,855 (Fall 2016)', 'old_value': '6,491 (Fall 2018)'}, "root['postgrad']": {'new_value': '2,842 (Fall 2016)', 'old_value': '2,891 (Fall 2018)'}}}
+264: {'dictionary_item_added': {"root['students']": '9,382 (Fall 2018) '}, 'values_changed': {"root['administrative_staff']": {'new_value': '438', 'old_value': '438  | students (Total) = 9,382 (Fall 2018) '}}}
+265: {'dictionary_item_removed': {"root['students']": '9,382 (Fall 2018) '}, 'values_changed': {"root['administrative_staff']": {'new_value': '438  | students (Total) = 9,382 (Fall 2018) ', 'old_value': '438'}}}
+266: {'values_changed': {"root['president']": {'new_value': 'John R. Porter', 'old_value': 'Art Johnson (interim)'}}}
+269: {'values_changed': {"root['president']": {'new_value': 'Art Johnson (interim)', 'old_value': 'John R. Porter'}}}
+271: {'values_changed': {"root['academic_staff']": {'new_value': '877 ', 'old_value': '290 Full-time'}}}
+272: {'values_changed': {"root['administrative_staff']": {'new_value': '438', 'old_value': '438 '}}}
+273: {'values_changed': {"root['students']": {'new_value': '9,382 (Fall 2018) ', 'old_value': '7,465 (Fall 2018) '}}}
+276: {'values_changed': {"root['undergrad']": {'new_value': '6,491 (Fall 2018)', 'old_value': '6,491 (Fall 2018) '}}}
+285: {'dictionary_item_added': {"root['religious_affiliation']": 'Presbyterian'}, 'dictionary_item_removed': {"root['logo_caption']": 'Lindenwood University'}}
+321: {'dictionary_item_added': {"root['logo_caption']": 'Lindenwood University'}, 'values_changed': {"root['provost']": {'new_value': 'Marilyn Abbott', 'old_value': 'Mark Arant'}}}
+336: {'values_changed': {"root['students']": {'new_value': '7,465 (Fall 2018) ', 'old_value': '7,374 (Fall 2020) '}}}
+338: {'values_changed': {"root['students']": {'new_value': '7,374 (Fall 2020) ', 'old_value': '7,374 (Fall 2020)  '}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Lindenwood University', 'old_value': 'Lindenwood University is evil'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'Lindenwood University is evil', 'old_value': 'Lindenwood University'}}}
+348: {'values_changed': {"root['provost']": {'new_value': 'Mark Arant', 'old_value': 'Bethany Alden-Rivers'}}}

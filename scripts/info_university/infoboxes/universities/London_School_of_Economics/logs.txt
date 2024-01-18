@@ -1,0 +1,68 @@
+0: {'dictionary_item_removed': {"root['name']": 'The London School of Economics', "root['image_name']": 'London School of Economics Coat of Arms.svg', "root['endowment']": '£112.9m ', "root['chairman']": 'Alan Elias', "root['chancellor']": 'HRH The Princess Royal ', "root['director']": 'Julia Black', "root['faculty']": '1,303', "root['campus']": 'Urban', "root['colours']": 'Purple, black and gold  ', "root['affiliations']": 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden triangle'}}
+2: {'values_changed': {"root['endowment']": {'new_value': '£112.9m ', 'old_value': '£119.2m '}}}
+93: {'values_changed': {"root['name']": {'new_value': 'The London School of Economics', 'old_value': 'London School of Economics'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'London School of Economics', 'old_value': 'London School of Twats'}, "root['chairman']": {'new_value': 'Alan Elias', 'old_value': 'Ronald Mcdonald'}, "root['chancellor']": {'new_value': 'HRH The Princess Royal ', 'old_value': 'Jane McDonald '}, "root['director']": {'new_value': 'Julia Black', 'old_value': 'Chaarlie Curry'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'London School of Twats', 'old_value': 'London School of Economics'}, "root['chairman']": {'new_value': 'Ronald Mcdonald', 'old_value': 'Alan Elias'}, "root['chancellor']": {'new_value': 'Jane McDonald ', 'old_value': 'HRH The Princess Royal '}, "root['director']": {'new_value': 'Chaarlie Curry', 'old_value': 'Julia Black'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'London School of Economics', 'old_value': 'London School of Twats'}, "root['image_name']": {'new_value': 'London School of Economics Coat of Arms.svg', 'old_value': 'London School of Economics Coat of Polys.svg'}, "root['chairman']": {'new_value': 'Alan Elias', 'old_value': 'Ronald Mcdonald'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'London School of Twats', 'old_value': 'London School of Economics'}, "root['image_name']": {'new_value': 'London School of Economics Coat of Polys.svg', 'old_value': 'London School of Economics Coat of Arms.svg'}, "root['chairman']": {'new_value': 'Ronald Mcdonald', 'old_value': 'Alan Elias'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'London School of Economics', 'old_value': 'London School of Economics (LSE)'}}}
+140: {'dictionary_item_removed': {"root['students']": '12,000'}, 'values_changed': {"root['faculty']": {'new_value': '1,303', 'old_value': '3,300'}}}
+142: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden triangle', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle'}}}
+146: {'dictionary_item_added': {"root['students']": '12,000'}, 'values_changed': {"root['faculty']": {'new_value': '3,300', 'old_value': '1,655 (2015/16)'}}}
+153: {'values_changed': {"root['name']": {'new_value': 'London School of Economics (LSE)', 'old_value': 'The London School of Economics and Political Science'}}}
+231: {'dictionary_item_removed': {"root['budget']": '£330.7 '}}
+232: {'values_changed': {"root['budget']": {'new_value': '£330.7 ', 'old_value': '£330.7 million '}}}
+233: {'values_changed': {"root['endowment']": {'new_value': '£119.2m ', 'old_value': '£119.2 million '}}}
+261: {'values_changed': {"root['chairman']": {'new_value': 'Alan Elias', 'old_value': 'Dame Shirley Pearce'}}}
+292: {'values_changed': {"root['director']": {'new_value': 'Julia Black', 'old_value': 'Dame Minouche Shafik'}, "root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle '}}}
+336: {'values_changed': {"root['endowment']": {'new_value': '£119.2 million ', 'old_value': '£132.7 million '}, "root['budget']": {'new_value': '£330.7 million ', 'old_value': '£347.4 million '}}}
+339: {'dictionary_item_removed': {"root['head']": 'Andrea Leadsom '}}
+340: {'values_changed': {"root['chancellor']": {'new_value': 'HRH The Princess Royal ', 'old_value': 'The Princess Royal '}}}
+382: {'values_changed': {"root['colours']": {'new_value': 'Purple, black and gold  ', 'old_value': 'Purple, black (louis floods favourites) and gold  '}}}
+384: {'values_changed': {"root['colours']": {'new_value': 'Purple, black (louis floods favourites) and gold  ', 'old_value': 'Purple, black and gold  '}}}
+387: {'values_changed': {"root['image_name']": {'new_value': 'London School of Economics Coat of Arms.svg', 'old_value': 'Natwest.nvg'}}}
+388: {'values_changed': {"root['director']": {'new_value': 'Dame Minouche Shafik', 'old_value': 'Ryan Ryder'}}}
+389: {'values_changed': {"root['image_name']": {'new_value': 'Natwest.nvg', 'old_value': 'London School of Economics Coat of Arms.svg'}, "root['director']": {'new_value': 'Ryan Ryder', 'old_value': 'Dame Minouche Shafik'}}}
+416: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle ', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle | Acceptance Rate'}}}
+417: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle | Acceptance Rate', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle '}}}
+423: {'dictionary_item_removed': {"root['free_label2']": 'Printing house', "root['free2']": 'LSE Press'}}
+425: {'values_changed': {"root['director']": {'new_value': 'Dame Minouche Shafik', 'old_value': 'Dame Nemat Shafik'}}}
+533: {'values_changed': {"root['endowment']": {'new_value': '£132.7 million ', 'old_value': '£141.6 million '}, "root['budget']": {'new_value': '£347.4 million ', 'old_value': '£354.3 million '}}}
+571: {'values_changed': {"root['name']": {'new_value': 'The London School of Economics and Political Science', 'old_value': 'The Beijing School of Economics and Political Science'}, "root['image_name']": {'new_value': 'London School of Economics Coat of Arms.svg', 'old_value': 'Beijing School of Economics Coat of Arms.svg'}}}
+572: {'values_changed': {"root['name']": {'new_value': 'The Beijing School of Economics and Political Science', 'old_value': 'The London School of Economics and Political Science'}, "root['image_name']": {'new_value': 'Beijing School of Economics Coat of Arms.svg', 'old_value': 'London School of Economics Coat of Arms.svg'}}}
+610: {'values_changed': {"root['head']": {'new_value': 'Andrea Leadsom ', 'old_value': 'Mel Stride '}}}
+620: {'values_changed': {"root['director']": {'new_value': 'Dame Nemat Shafik', 'old_value': 'RAJA PARMAR, Dame Nemat Shafik'}}}
+621: {'values_changed': {"root['director']": {'new_value': 'RAJA PARMAR, Dame Nemat Shafik', 'old_value': 'Dame Nemat Shafik'}}}
+629: {'values_changed': {"root['head']": {'new_value': 'Mel Stride ', 'old_value': 'Jacob Rees-Mogg '}}}
+636: {'values_changed': {"root['endowment']": {'new_value': '£141.6 million ', 'old_value': '£141.6 million (as of 31 July 2018)'}, "root['budget']": {'new_value': '£354.3 million ', 'old_value': '£354.3 million (2017–2018)'}, "root['chancellor']": {'new_value': 'The Princess Royal ', 'old_value': 'The Princess Royal (as Chancellor of the University of London)'}, "root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': "Jacob Rees-Mogg (''ex officio'' as Lord President of the Council)"}}}
+637: {'values_changed': {"root['chairman']": {'new_value': 'Dame Shirley Pearce', 'old_value': 'Dame Shirley Pearcec'}}}
+640: {'values_changed': {"root['chairman']": {'new_value': 'Dame Shirley Pearcec', 'old_value': 'Dame Shirley Pearce'}}}
+646: {'values_changed': {"root['head']": {'new_value': "Jacob Rees-Mogg (''ex officio'' as Lord President of the Council)", 'old_value': 'The Lord President of the Council ex officio'}}}
+649: {'values_changed': {"root['name']": {'new_value': 'The London School of Economics and Political Science', 'old_value': 'London School of Economics and Political Science'}}}
+650: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle ', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden triangle '}}}
+651: {'values_changed': {"root['chancellor']": {'new_value': 'The Princess Royal (as Chancellor of the University of London)', 'old_value': 'The Princess Royal '}}}
+652: {'values_changed': {"root['head']": {'new_value': 'The Lord President of the Council ex officio', 'old_value': 'Jacob Rees-Mogg ex officio '}}}
+653: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg ex officio ', 'old_value': 'Jacob Rees-Mogg '}}}
+695: {'values_changed': {"root['endowment']": {'new_value': '£141.6 million (as of 31 July 2018)', 'old_value': '£155.0 million '}, "root['budget']": {'new_value': '£354.3 million (2017–2018)', 'old_value': '£415.1 million '}}}
+705: {'values_changed': {"root['name']": {'new_value': 'London School of Economics and Political Science', 'old_value': 'Luxembourg Schoul of Paying Too Much Tuition and Political Something'}}}
+706: {'values_changed': {"root['name']": {'new_value': 'Luxembourg Schoul of Paying Too Much Tuition and Political Something', 'old_value': 'London School of Economics and Political Science'}}}
+716: {'dictionary_item_added': {"root['faculty']": '1,655 (2015/16)'}, 'dictionary_item_removed': {"root['academic_staff']": '1,725 (2018/19) ', "root['administrative_staff']": '2,515 (2018/19)'}}
+758: {'values_changed': {"root['name']": {'new_value': 'London School of Economics and Political Science', 'old_value': 'London School of Economics'}}}
+759: {'values_changed': {"root['name']": {'new_value': 'London School of Economics', 'old_value': 'London School of Economics and Political Science'}}}
+769: {'values_changed': {"root['image_name']": {'new_value': 'London School of Economics Coat of Arms.svg', 'old_value': 'LSE Coat of Arms.svg'}}}
+781: {'values_changed': {"root['image_name']": {'new_value': 'LSE Coat of Arms.svg', 'old_value': 'London School of Economics Coat of Arms.svg'}}}
+786: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': 'Viraj Mehta of Bolton '}}}
+787: {'values_changed': {"root['head']": {'new_value': 'Viraj Mehta of Bolton ', 'old_value': 'Jacob Rees-Mogg '}}}
+788: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': '(Nigel) Viraj Mehta '}}}
+789: {'values_changed': {"root['head']": {'new_value': '(Nigel) Viraj Mehta ', 'old_value': 'Jacob Rees-Mogg '}}}
+791: {'values_changed': {"root['director']": {'new_value': 'Dame Nemat Shafik', 'old_value': 'The Baroness Shafik'}}}
+818: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden triangle ', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle '}}}
+827: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle ', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle, CIVICA '}}}
+828: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle, CIVICA ', 'old_value': 'ACU, CEMS, EUA, G5, Russell Group, University of London, Universities UK, Golden Triangle '}}}
+903: {'values_changed': {"root['endowment']": {'new_value': '£155.0 million ', 'old_value': '£198.4 million '}}}
+962: {'values_changed': {"root['endowment']": {'new_value': '£198.4 million ', 'old_value': '£198.4 million (2020)'}, "root['budget']": {'new_value': '£415.1 million ', 'old_value': '£415.1 million (2019-20)'}, "root['chancellor']": {'new_value': 'The Princess Royal ', 'old_value': 'The Princess Royal (as Chancellor of the University of London)'}, "root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': "Jacob Rees-Mogg (as Lord President of the Council ''ex officio'')"}}}
+1022: {'values_changed': {"root['academic_staff']": {'new_value': '1,725 (2018/19) ', 'old_value': '1,810 (2020) - including academic atypical staff'}}}
+1023: {'values_changed': {"root['administrative_staff']": {'new_value': '2,515 (2018/19)', 'old_value': '2,515 (2018/19) '}}}
+1029: {'values_changed': {"root['academic_staff']": {'new_value': '1,810 (2020) - including academic atypical staff', 'old_value': '1,780 (2020)'}}}
+1031: {'values_changed': {"root['budget']": {'new_value': '£415.1 million (2019-20)', 'old_value': '£415.1 million (2019–20)'}}}
+1083: {'values_changed': {"root['endowment']": {'new_value': '£198.4 million (2020)', 'old_value': '£240.8 million (2021)'}, "root['budget']": {'new_value': '£415.1 million (2019–20)', 'old_value': '£391.1 million (2020–21)'}}}

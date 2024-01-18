@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Rhode Island School of Design', "root['endowment']": '$328.3 million', "root['president']": 'Rosanne Somerson', "root['students']": '2,282', "root['undergrad']": '1,883', "root['postgrad']": '399', "root['campus']": 'Urban, 13 acres (53,000 m²)', "root['faculty']": '146 full-time, 336 part-time', "root['affiliations']": 'AICAD '}}
+33: {'values_changed': {"root['endowment']": {'new_value': '$328.3 million', 'old_value': '$329.6 million'}}}
+36: {'values_changed': {"root['undergrad']": {'new_value': '1,883', 'old_value': '1,994'}, "root['postgrad']": {'new_value': '399', 'old_value': '474'}, "root['faculty']": {'new_value': '146 full-time, 336 part-time', 'old_value': '182 full-time, 467 part-time'}}}
+45: {'values_changed': {"root['campus']": {'new_value': 'Urban, 13 acres (53,000 m²)', 'old_value': 'Urban, 13 acres (53,000 m 2 )'}}}
+53: {'values_changed': {"root['students']": {'new_value': '2,282', 'old_value': '2,468'}}}
+72: {'values_changed': {"root['faculty']": {'new_value': '182 full-time, 467 part-time', 'old_value': '182 full-time 467 part-time'}}}
+79: {'values_changed': {"root['campus']": {'new_value': 'Urban, 13 acres (53,000 m 2 )', 'old_value': 'Urban 13 acres (53,000 m 2 )'}}}
+87: {'values_changed': {"root['endowment']": {'new_value': '$329.6 million', 'old_value': '$349.8 million (2018)'}}}
+88: {'values_changed': {"root['students']": {'new_value': '2,468', 'old_value': '2,501 (2019-20) '}, "root['undergrad']": {'new_value': '1,994', 'old_value': '2,009 (2019-20)'}, "root['postgrad']": {'new_value': '474', 'old_value': '492 (2019-20)'}}}
+89: {'values_changed': {"root['faculty']": {'new_value': '182 full-time 467 part-time', 'old_value': '181 full-time 421 part-time (2018-19)'}}}
+95: {'values_changed': {"root['endowment']": {'new_value': '$349.8 million (2018)', 'old_value': '$349.7 million (2019)'}}}
+143: {'dictionary_item_added': {"root['affiliations']": 'AICAD '}, 'dictionary_item_removed': {"root['academic_affiliations']": 'AICAD, Space-grant '}}
+151: {'values_changed': {"root['endowment']": {'new_value': '$349.7 million (2019)', 'old_value': '$347.7 million (2020)'}}}
+186: {'values_changed': {"root['president']": {'new_value': 'Rosanne Somerson', 'old_value': 'Crystal Williams'}}}
+188: {'values_changed': {"root['president']": {'new_value': 'Crystal Williams', 'old_value': 'Rosanne Somerson'}}}
+189: {'values_changed': {"root['president']": {'new_value': 'Rosanne Somerson', 'old_value': 'Dave Proulx,  Crystal Williams President-Elect'}}}
+190: {'values_changed': {"root['president']": {'new_value': 'Dave Proulx,  Crystal Williams President-Elect', 'old_value': 'Dave Proulx, Crystal Williams President-Elect'}}}
+191: {'values_changed': {"root['president']": {'new_value': 'Dave Proulx, Crystal Williams President-Elect', 'old_value': 'Dave Proulx (interim); Crystal Williams (starting April 1)'}}}
+192: {'values_changed': {"root['president']": {'new_value': 'Dave Proulx (interim); Crystal Williams (starting April 1)', 'old_value': 'Dave Proulx (interim)'}}}

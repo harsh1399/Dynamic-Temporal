@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bard College', "root['image_name']": 'Bard_stonerow_2007.jpg', "root['endowment']": 'US$270 million', "root['faculty']": '224', "root['president']": 'Leon Botstein', "root['undergrad']": '1,801', "root['postgrad']": '261', "root['profess']": 'key holder', "root['campus']": 'Rural, 600 acres'}}
+178: {'values_changed': {"root['image_name']": {'new_value': 'Bard_stonerow_2007.jpg', 'old_value': 'Screen_shot_2011-04-17_at_12.16.49_PM.png'}}}
+216: {'values_changed': {"root['name']": {'new_value': 'Bard College', 'old_value': 'Nerd College'}}}
+217: {'values_changed': {"root['name']": {'new_value': 'Nerd College', 'old_value': 'Bard College'}}}
+218: {'values_changed': {"root['name']": {'new_value': 'Bard College', 'old_value': 'Nerd College'}}}
+219: {'values_changed': {"root['name']": {'new_value': 'Nerd College', 'old_value': 'Bard College'}}}
+220: {'values_changed': {"root['name']": {'new_value': 'Bard College', 'old_value': 'Nerd College'}}}
+221: {'values_changed': {"root['name']": {'new_value': 'Nerd College', 'old_value': 'Bard College'}}}
+271: {'values_changed': {"root['image_name']": {'new_value': 'Screen_shot_2011-04-17_at_12.16.49_PM.png', 'old_value': 'Bard_College_Seal.png'}, "root['endowment']": {'new_value': 'US$270 million', 'old_value': 'US $250 million'}, "root['faculty']": {'new_value': '224', 'old_value': '257'}, "root['undergrad']": {'new_value': '1,801', 'old_value': '2,051'}, "root['postgrad']": {'new_value': '261', 'old_value': '320'}, "root['campus']": {'new_value': 'Rural, 600 acres', 'old_value': 'Rural, '}}}
+311: {'dictionary_item_removed': {"root['affiliations']": 'Liberty League'}}
+316: {'values_changed': {"root['endowment']": {'new_value': 'US $250 million', 'old_value': 'US $267 million'}}}
+323: {'values_changed': {"root['endowment']": {'new_value': 'US $267 million', 'old_value': 'US $80 million'}}}
+325: {'dictionary_item_added': {"root['faculty']": '257', "root['president']": 'Leon Botstein', "root['undergrad']": '2,051', "root['postgrad']": '320', "root['profess']": 'key holder', "root['campus']": 'Rural, ', "root['affiliations']": 'Liberty League'}, 'values_changed': {"root['endowment']": {'new_value': 'US $80 million', 'old_value': 'US $267 million'}}}
+326: {'dictionary_item_removed': {"root['faculty']": '257', "root['president']": 'Leon Botstein', "root['undergrad']": '2,051', "root['postgrad']": '320', "root['profess']": 'key holder', "root['campus']": 'Rural, ', "root['affiliations']": 'Liberty League'}, 'values_changed': {"root['endowment']": {'new_value': 'US $267 million', 'old_value': 'US $80 million'}}}
+328: {'values_changed': {"root['endowment']": {'new_value': 'US $80 million', 'old_value': 'US $267 million'}}}
+330: {'values_changed': {"root['endowment']": {'new_value': 'US $267 million', 'old_value': 'US $80 million'}}}
+331: {'values_changed': {"root['endowment']": {'new_value': 'US $80 million', 'old_value': '$80 million'}}}
+333: {'values_changed': {"root['endowment']": {'new_value': '$80 million', 'old_value': '$267 million'}}}
+341: {'values_changed': {"root['affiliations']": {'new_value': 'Liberty League', 'old_value': 'Liberty League, Columbia University (former)'}}}

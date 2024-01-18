@@ -1,0 +1,51 @@
+0: {'dictionary_item_removed': {"root['name']": 'Claremont McKenna College', "root['president']": 'Hiram Chodosh', "root['undergrad']": '1,254 http://cmc.edu/ir/factsheets/Fact-Sheet-2012-13.pdf', "root['postgrad']": '20', "root['postgrad_label']": 'graduate', "root['faculty']": '134', "root['faculty_label']": 'ratio', "root['campus']": 'Suburban, ', "root['endowment']": '$520.6 million (2012)', "root['mascots']": 'Athenas (women), Stags (men)', "root['color']": 'Maroon'}}
+10: {'values_changed': {"root['name']": {'new_value': 'Claremont McKenna College', 'old_value': 'Fucker Town College'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'Fucker Town College', 'old_value': 'Claremont McKenna College'}}}
+20: {'values_changed': {"root['endowment']": {'new_value': '$520.6 million (2012)', 'old_value': '$599.1 million (2013)'}}}
+24: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'Butt Muncher'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Butt Muncher', 'old_value': 'Hiram Chodosh'}}}
+26: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'Choi Hak Donger'}}}
+27: {'values_changed': {"root['endowment']": {'new_value': '$599.1 million (2013)', 'old_value': '$59.1 million (2013)'}, "root['mascots']": {'new_value': 'Athenas (women), Stags (men)', 'old_value': 'Athens (women), Stagers (men)'}, "root['color']": {'new_value': 'Maroon', 'old_value': 'Red'}}}
+28: {'values_changed': {"root['president']": {'new_value': 'Choi Hak Donger', 'old_value': 'Hiram Chodosh'}, "root['endowment']": {'new_value': '$59.1 million (2013)', 'old_value': '$599.1 million (2013)'}, "root['mascots']": {'new_value': 'Athens (women), Stagers (men)', 'old_value': 'Athenas (women), Stags (men)'}, "root['color']": {'new_value': 'Red', 'old_value': 'Maroon'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Claremont McKenna College', 'old_value': 'Clareqmont McKenna College'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Clareqmont McKenna College', 'old_value': 'Claremont McKenna College'}}}
+51: {'values_changed': {"root['endowment']": {'new_value': '$599.1 million (2013)', 'old_value': '$299.1 million (2013)'}}}
+53: {'values_changed': {"root['endowment']": {'new_value': '$299.1 million (2013)', 'old_value': '$599.1 million (2013)'}}}
+58: {'dictionary_item_added': {"root['mascots']": 'Athenas (women), Stags (men)'}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – SCIAC'}}
+59: {'dictionary_item_removed': {"root['former_names']": "Claremont Men's College"}}
+64: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'Hiram Chode'}}}
+65: {'values_changed': {"root['color']": {'new_value': 'Maroon', 'old_value': 'Gay'}}}
+66: {'values_changed': {"root['president']": {'new_value': 'Hiram Chode', 'old_value': 'Hiram Chodosh'}, "root['color']": {'new_value': 'Gay', 'old_value': 'Maroon'}}}
+92: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'HiramChode1234'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'HiramChode1234', 'old_value': 'Hiram Chodosh'}}}
+101: {'values_changed': {"root['endowment']": {'new_value': '$599.1 million (2013)', 'old_value': '$699,492,000 (2014)'}}}
+102: {'values_changed': {"root['endowment']": {'new_value': '$699,492,000 (2014)', 'old_value': '$699.5 million (2014)'}}}
+108: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'hiramchode6969'}, "root['former_names']": {'new_value': "Claremont Men's College", 'old_value': 'Claremont  "College"'}, "root['color']": {'new_value': 'Maroon', 'old_value': 'Rainbow Sparkle'}}}
+109: {'values_changed': {"root['president']": {'new_value': 'hiramchode6969', 'old_value': 'Hiram Chodosh'}, "root['former_names']": {'new_value': 'Claremont  "College"', 'old_value': "Claremont Men's College"}, "root['color']": {'new_value': 'Rainbow Sparkle', 'old_value': 'Maroon'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Claremont McKenna College', 'old_value': "hiramchode6969's College"}}}
+111: {'values_changed': {"root['name']": {'new_value': "hiramchode6969's College", 'old_value': 'Claremont McKenna College'}}}
+136: {'values_changed': {"root['undergrad']": {'new_value': '1,254 http://cmc.edu/ir/factsheets/Fact-Sheet-2012-13.pdf', 'old_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}}}
+137: {'dictionary_item_added': {"root['postgrad']": '20'}, 'values_changed': {"root['undergrad']": {'new_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf', 'old_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf  |acceptance rate = 9.28% https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}}}
+138: {'values_changed': {"root['undergrad']": {'new_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf  |acceptance rate = 9.28% https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf', 'old_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf  |acceptance rate = 9.28 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}}}
+139: {'dictionary_item_removed': {"root['acceptance']": '9.28% https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}, 'values_changed': {"root['undergrad']": {'new_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf  |acceptance rate = 9.28 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf', 'old_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}}}
+140: {'dictionary_item_added': {"root['acceptance']": '9.28% https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf'}, 'dictionary_item_removed': {"root['postgrad']": '20'}}
+243: {'values_changed': {"root['undergrad']": {'new_value': '1,293 https://www.claremontmckenna.edu/ir/2014-15Factsheet.pdf', 'old_value': '1,293'}}}
+263: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'Hiram Chodosh Marian Miner Cook Athenaeum'}}}
+264: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh Marian Miner Cook Athenaeum', 'old_value': 'Hiram Chodosh'}}}
+266: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh', 'old_value': 'Hiram Chodosh Marian Miner Cook Athenaeum'}}}
+267: {'values_changed': {"root['president']": {'new_value': 'Hiram Chodosh Marian Miner Cook Athenaeum', 'old_value': 'Hiram Chodosh'}}}
+313: {'dictionary_item_removed': {"root['students']": '1,349 (Fall 2015)'}, 'values_changed': {"root['undergrad']": {'new_value': '1,293', 'old_value': '1,328 (Fall 2015) '}, "root['postgrad']": {'new_value': '20', 'old_value': '21 (Fall 2015)'}}}
+350: {'dictionary_item_added': {"root['postgrad_label']": 'graduate', "root['faculty_label']": 'ratio', "root['color']": 'Maroon'}, 'dictionary_item_removed': {"root['budget']": '$109 million (2015) '}, 'values_changed': {"root['students']": {'new_value': '1,349 (Fall 2015)', 'old_value': '1,349 (fall 2015)'}, "root['undergrad']": {'new_value': '1,328 (Fall 2015) ', 'old_value': '1,328 (fall 2015) '}, "root['postgrad']": {'new_value': '21 (Fall 2015)', 'old_value': '21 (fall 2015)'}, "root['faculty']": {'new_value': '134', 'old_value': '158<ref name'}, "root['endowment']": {'new_value': '$699.5 million (2014)', 'old_value': '$835.3 million (2018)'}}}
+356: {'values_changed': {"root['endowment']": {'new_value': '$835.3 million (2018)', 'old_value': '$135.3 million (2018)'}}}
+357: {'values_changed': {"root['endowment']": {'new_value': '$135.3 million (2018)', 'old_value': '$835.3 million (2018)'}}}
+358: {'dictionary_item_removed': {"root['affiliations']": []}, 'values_changed': {"root['endowment']": {'new_value': '$835.3 million (2018)', 'old_value': '$865.5 million (2019)'}, "root['faculty']": {'new_value': '158<ref name', 'old_value': '158'}}}
+417: {'dictionary_item_added': {"root['affiliations']": []}, 'values_changed': {"root['former_names']": {'new_value': "Claremont Men's College", 'old_value': "Claremont Men's College (1946–1981)"}}}
+438: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – SCIAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – SCIAC'}, 'values_changed': {"root['endowment']": {'new_value': '$865.5 million (2019)', 'old_value': '$855.5 million (2020)'}}}
+439: {'values_changed': {"root['endowment']": {'new_value': '$855.5 million (2020)', 'old_value': '$1,222,151,000 (2020)'}}}
+440: {'values_changed': {"root['endowment']": {'new_value': '$1,222,151,000 (2020)', 'old_value': '$855.5 million (2020)'}}}
+441: {'values_changed': {"root['budget']": {'new_value': '$109 million (2015) ', 'old_value': '$101,891,000 (2020) '}}}
+442: {'values_changed': {"root['budget']": {'new_value': '$101,891,000 (2020) ', 'old_value': '$101.9 million (2020) '}}}
+443: {'values_changed': {"root['endowment']": {'new_value': '$855.5 million (2020)', 'old_value': '$1.2 billion (2020)'}}}
+444: {'values_changed': {"root['endowment']": {'new_value': '$1.2 billion (2020)', 'old_value': '$1.2 billion (2020)  '}}}
+474: {'dictionary_item_removed': {"root['athletics']": 'Claremont-Mudd-Scripps Stags and Athenas'}}
+475: {'dictionary_item_added': {"root['athletics']": 'Claremont-Mudd-Scripps Stags and Athenas'}, 'dictionary_item_removed': {"root['athletics_nickname']": 'Claremont-Mudd-Scripps Stags and Athenas'}}

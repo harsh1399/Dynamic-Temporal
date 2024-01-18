@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": "'''University of New Brunswick'''", "root['image_name']": 'UNB seal.png', "root['endowment']": '$172 million ||', "root['staff']": '620 faculty', "root['president']": 'Eddy Campbell', "root['chancellor']": 'Allison McCain', "root['students']": '10,638 ', "root['undergrad']": '9,061', "root['postgrad']": '1,577', "root['colours']": 'red ', "root['campus']": 'Urban', "root['former_names']": "Academy of Liberal Arts and Sciences (1785–1800), College of New Brunswick (1800–1828), King's College (1828–1859)", "root['affiliations']": 'AUCC, CARL, IAU, CIS, CVU, ACU, CUSID, AUS, AUFSC, CBIE, CUP.', "root['athletics']": 'CIS, AUS'}}
+19: {'values_changed': {"root['endowment']": {'new_value': '$172 million ||', 'old_value': '$218 million'}}}
+34: {'values_changed': {"root['staff']": {'new_value': '620 faculty', 'old_value': '620 faculty '}}}
+45: {'values_changed': {"root['students']": {'new_value': '10,638 ', 'old_value': '9,706 '}, "root['undergrad']": {'new_value': '9,061', 'old_value': '8,258'}, "root['postgrad']": {'new_value': '1,577', 'old_value': '1,448'}}}
+47: {'values_changed': {"root['endowment']": {'new_value': '$218 million', 'old_value': '$248 million ||'}}}
+48: {'dictionary_item_added': {"root['staff']": '620 faculty '}, 'dictionary_item_removed': {"root['faculty']": '747 '}}
+49: {'values_changed': {"root['faculty']": {'new_value': '747 ', 'old_value': '747 FTE '}}}
+73: {'values_changed': {"root['students']": {'new_value': '9,706 ', 'old_value': '8,303 '}, "root['undergrad']": {'new_value': '8,258', 'old_value': '7,406'}, "root['postgrad']": {'new_value': '1,448', 'old_value': '897'}}}
+88: {'values_changed': {"root['former_names']": {'new_value': "Academy of Liberal Arts and Sciences (1785–1800), College of New Brunswick (1800–1828), King's College (1828–1859)", 'old_value': "Academy of Liberal Arts and Sciences (1785–1800) College of New Brunswick (1800–1828) King's College (1828–1859)"}}}
+115: {'values_changed': {"root['colours']": {'new_value': 'red ', 'old_value': 'Red '}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '$248 million ||', 'old_value': '$301.9 million'}}}
+129: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, CARL, IAU, CIS, CVU, ACU, CUSID, AUS, AUFSC, CBIE, CUP.', 'old_value': 'AUCC, CARL, IAU, U Sports, CVU, ACU, CUSID, AUS, AUFSC, CBIE, CUP.'}}}
+153: {'dictionary_item_removed': {"root['visitor']": 'Jocelyne Roy-Vienneau'}}
+154: {'dictionary_item_added': {"root['visitor']": 'Jocelyne Roy-Vienneau'}, 'values_changed': {"root['name']": {'new_value': "'''University of New Brunswick'''", 'old_value': 'University of New Brunswick'}}}
+159: {'values_changed': {"root['athletics']": {'new_value': 'CIS, AUS', 'old_value': 'U Sports, AUS'}}}
+162: {'values_changed': {"root['president']": {'new_value': 'Eddy Campbell', 'old_value': 'Paul Mazerolle'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'University of New Brunswick', 'old_value': 'University of New Brunswick @bradystairss'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'University of New Brunswick @bradystairss', 'old_value': 'University of New Brunswick'}}}
+182: {'values_changed': {"root['president']": {'new_value': 'Paul Mazerolle', 'old_value': 'Jack Queerion'}}}
+184: {'values_changed': {"root['image_name']": {'new_value': 'UNB seal.png', 'old_value': 'Phil In Bed.jpg'}}}
+185: {'dictionary_item_removed': {"root['description']": "This is Phil, he looks kind of cute in bed don't you think?"}}
+186: {'dictionary_item_added': {"root['description']": "This is Phil, he looks kind of cute in bed don't you think?"}, 'values_changed': {"root['image_name']": {'new_value': 'Phil In Bed.jpg', 'old_value': 'UNB seal.png'}}}
+187: {'values_changed': {"root['president']": {'new_value': 'Jack Queerion', 'old_value': 'Jack Quirion'}, "root['image_name']": {'new_value': 'UNB seal.png', 'old_value': 'Phil In Bed.png'}}}
+188: {'values_changed': {"root['president']": {'new_value': 'Jack Quirion', 'old_value': 'Jack Queerion'}, "root['image_name']": {'new_value': 'Phil In Bed.png', 'old_value': 'UNB seal.png'}}}
+189: {'values_changed': {"root['president']": {'new_value': 'Jack Queerion', 'old_value': 'Jack Quirion'}}}
+190: {'values_changed': {"root['image_name']": {'new_value': 'UNB seal.png', 'old_value': 'Phil In Bed.jpg'}}}
+193: {'values_changed': {"root['image_name']": {'new_value': 'Phil In Bed.jpg', 'old_value': 'UNB seal.png'}}}
+196: {'values_changed': {"root['president']": {'new_value': 'Jack Quirion', 'old_value': 'Paul Mazerolle'}}}
+212: {'dictionary_item_removed': {"root['head']": "Hon. Brenda Murphy, O.N.B., ''ex officio'' as the Lieutenant Governor of New Brunswick"}, 'values_changed': {"root['president']": {'new_value': 'Paul Mazerolle', 'old_value': 'Dr. Paul Mazerolle'}}}
+213: {'values_changed': {"root['head']": {'new_value': "Hon. Brenda Murphy, O.N.B., ''ex officio'' as the Lieutenant Governor of New Brunswick", 'old_value': 'Hon. Brenda Murphy, O.N.B.  (as Lieutenant Governor of New Brunswick)'}}}
+214: {'values_changed': {"root['head']": {'new_value': 'Hon. Brenda Murphy, O.N.B.  (as Lieutenant Governor of New Brunswick)', 'old_value': 'Hon. Brenda Murphy (as Lieutenant Governor of New Brunswick)'}}}
+224: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, CARL, IAU, U Sports, CVU, ACU, CUSID, AUS, AUFSC, CBIE, CUP.', 'old_value': 'AUFSC, CBIE, CUP.'}}}
+225: {'values_changed': {"root['affiliations']": {'new_value': 'AUFSC, CBIE, CUP.', 'old_value': 'AUCC, CARL, IAU, U Sports, CVU, ACU, CUSID, AUS, AUFSC, CBIE, CUP.'}}}
+239: {'values_changed': {"root['president']": {'new_value': 'Dr. Paul Mazerolle', 'old_value': 'Paul Mazerolle'}}}
+261: {'values_changed': {"root['name']": {'new_value': 'University of New Brunswick', 'old_value': 'University of New Brunswicka'}}}
+262: {'values_changed': {"root['name']": {'new_value': 'University of New Brunswicka', 'old_value': 'University of New Brunswick'}}}
+263: {'values_changed': {"root['image_name']": {'new_value': 'UNB seal.png', 'old_value': 'Willsbuttock.PNG'}}}
+264: {'values_changed': {"root['image_name']": {'new_value': 'Willsbuttock.PNG', 'old_value': 'UNB seal.png'}}}

@@ -1,0 +1,22 @@
+20: {'dictionary_item_removed': {"root['name']": 'Piedmont College', "root['president']": 'W. Ray Cleere', "root['students']": '2,000', "root['faculty']": '143', "root['former_names']": 'J.S. Green Collegiate Institute, J.S. Green College'}}
+22: {'dictionary_item_removed': {"root['image_name']": 'Piedmont-logo.gif'}}
+32: {'values_changed': {"root['image_name']": {'new_value': 'Piedmont-logo.gif', 'old_value': 'PiedmontCollegeOffLogo.jpg'}}}
+36: {'dictionary_item_removed': {"root['campus']": 'Rural area ', "root['undergrad']": '1,349', "root['postgrad']": '876'}, 'values_changed': {"root['students']": {'new_value': '2,000', 'old_value': '2,227'}}}
+37: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III; Great South Athletic Conference  '}, 'values_changed': {"root['campus']": {'new_value': 'Rural area ', 'old_value': 'Rural '}}}
+40: {'dictionary_item_removed': {"root['endowment']": '$50,198,112   '}}
+42: {'values_changed': {"root['students']": {'new_value': '2,227', 'old_value': '2,283'}, "root['undergrad']": {'new_value': '1,349', 'old_value': '1,056   '}, "root['postgrad']": {'new_value': '876', 'old_value': '1,227'}}}
+54: {'values_changed': {"root['faculty']": {'new_value': '143', 'old_value': '175  '}}}
+74: {'values_changed': {"root['students']": {'new_value': '2,283', 'old_value': '2,640'}}}
+88: {'values_changed': {"root['president']": {'new_value': 'W. Ray Cleere', 'old_value': 'Dr. James F. Mellichamp  |'}, "root['endowment']": {'new_value': '$50,198,112   ', 'old_value': '$50,198,112 '}, "root['faculty']": {'new_value': '175  ', 'old_value': '175 '}, "root['undergrad']": {'new_value': '1,056   ', 'old_value': '1,056 '}, "root['former_names']": {'new_value': 'J.S. Green Collegiate Institute, J.S. Green College', 'old_value': 'J.S. Green Collegiate Institute (1897-1899), J.S. Green College (1899-1902)'}, "root['athletics']": {'new_value': 'NCAA Division III; Great South Athletic Conference  ', 'old_value': 'NCAA Division III; USA South Athletic Conference'}}}
+90: {'values_changed': {"root['students']": {'new_value': '2,640', 'old_value': '2,127'}}}
+106: {'values_changed': {"root['undergrad']": {'new_value': '1,056 ', 'old_value': '1,217 '}, "root['postgrad']": {'new_value': '1,227', 'old_value': '910'}}}
+107: {'values_changed': {"root['faculty']": {'new_value': '175 ', 'old_value': '142 '}}}
+109: {'values_changed': {"root['image_name']": {'new_value': 'PiedmontCollegeOffLogo.jpg', 'old_value': 'Piedmont College Logo.png'}}}
+126: {'dictionary_item_added': {"root['image_name']": 'Piedmont College Logo.png'}, 'values_changed': {"root['endowment']": {'new_value': '$50,198,112 ', 'old_value': '$50,112 '}}}
+127: {'values_changed': {"root['endowment']": {'new_value': '$50,112 ', 'old_value': '$52,552,848 '}}}
+137: {'values_changed': {"root['president']": {'new_value': 'Dr. James F. Mellichamp  |', 'old_value': 'Dr. James F. Mellichamp |'}, "root['faculty']": {'new_value': '142 ', 'old_value': '127 '}, "root['students']": {'new_value': '2,127', 'old_value': '2,571'}, "root['undergrad']": {'new_value': '1,217 ', 'old_value': '1,278 '}, "root['postgrad']": {'new_value': '910', 'old_value': '1,293'}, "root['former_names']": {'new_value': 'J.S. Green Collegiate Institute (1897-1899), J.S. Green College (1899-1902)', 'old_value': 'J.S. Green Collegiate Institute (1897–1899), J.S. Green College (1899–1902)'}, "root['athletics']": {'new_value': 'NCAA Division III; USA South Athletic Conference', 'old_value': 'NCAA Division III, USA South Athletic Conference'}}}
+145: {'values_changed': {"root['former_names']": {'new_value': 'J.S. Green Collegiate Institute (1897–1899), J.S. Green College (1899–1902)', 'old_value': 'J.S. Green Collegiate Institute (1897–1899); J.S. Green College (1899–1902)'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Piedmont College', 'old_value': 'Piedmont University'}, "root['former_names']": {'new_value': 'J.S. Green Collegiate Institute (1897–1899); J.S. Green College (1899–1902)', 'old_value': 'J.S. Green Collegiate Institute (1897–1899); J.S. Green College (1899–1902), Piedmont College (1902-2021)'}}}
+151: {'dictionary_item_removed': {"root['image_name']": 'Piedmont_University_2021_Logo.png'}}
+152: {'values_changed': {"root['president']": {'new_value': 'Dr. James F. Mellichamp |', 'old_value': 'James F. Mellichamp |'}}}
+153: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Church of Christ', "root['academic_affiliations']": 'National Association of Congregational Christian Churches'}}

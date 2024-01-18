@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Westminster College', "root['image_name']": 'Seal of Westminster College (Missouri) 2.png', "root['endowment']": '$52 million', "root['president']": 'George B. "Barney" Forsythe', "root['Academics']": '36 majors, 34 minors, and 12 pre-professional programs', "root['undergrad']": '1,076 degree seeking students from 24 states and 65 countries', "root['faculty']": '62 full-time instruction', "root['campus']": 'Rural town, '}}
+67: {'values_changed': {"root['endowment']": {'new_value': '$52 million', 'old_value': '$42 million'}}}
+86: {'values_changed': {"root['president']": {'new_value': 'George B. "Barney" Forsythe', 'old_value': 'Dr. Benjamin Ola. Akande'}}}
+91: {'values_changed': {"root['president']": {'new_value': 'Dr. Benjamin Ola. Akande', 'old_value': 'Benjamin Ola. Akande'}, "root['undergrad']": {'new_value': '1,076 degree seeking students from 24 states and 65 countries', 'old_value': '1,076'}, "root['faculty']": {'new_value': '62 full-time instruction', 'old_value': '62'}}}
+92: {'dictionary_item_removed': {"root['former_names']": 'Fulton College'}, 'values_changed': {"root['image_name']": {'new_value': 'Seal of Westminster College (Missouri) 2.png', 'old_value': 'Westminster College (MO) seal.png'}}}
+96: {'values_changed': {"root['image_name']": {'new_value': 'Westminster College (MO) seal.png', 'old_value': 'Seal of Westminster College (Missouri) 2.png'}}}
+99: {'values_changed': {"root['image_name']": {'new_value': 'Seal of Westminster College (Missouri) 2.png', 'old_value': 'Westminster College (MO) seal.png'}}}
+117: {'dictionary_item_added': {"root['Academics']": '36 majors, 34 minors, and 12 pre-professional programs'}, 'values_changed': {"root['president']": {'new_value': 'Benjamin Ola. Akande', 'old_value': 'Benjamin Ola Akande'}}}
+119: {'values_changed': {"root['former_names']": {'new_value': 'Fulton College', 'old_value': 'Fulton College (1851-1853)'}}}
+122: {'values_changed': {"root['undergrad']": {'new_value': '1,076', 'old_value': '950 '}}}
+124: {'dictionary_item_removed': {"root['staff']": '177'}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$42 million', 'old_value': '$56.6 million'}, "root['undergrad']": {'new_value': '950 ', 'old_value': '950 (Fall 2015) '}, "root['staff']": {'new_value': '177', 'old_value': '177 (Fall 2016)'}}}
+127: {'dictionary_item_added': {"root['president']": 'Benjamin Ola Akande'}, 'values_changed': {"root['endowment']": {'new_value': '$56.6 million', 'old_value': '$56.6 million As of June 30, 2015. '}, "root['undergrad']": {'new_value': '950 (Fall 2015) ', 'old_value': '940 (Fall 2016)<ref nam'}, "root['faculty']": {'new_value': '62', 'old_value': '67'}, "root['staff']": {'new_value': '177 (Fall 2016)', 'old_value': '110 (Fall 2016)'}}}
+134: {'values_changed': {"root['undergrad']": {'new_value': '940 (Fall 2016)<ref nam', 'old_value': 'Approx. 100,000'}, "root['former_names']": {'new_value': 'Fulton College (1851-1853)', 'old_value': 'Fulton College (1851–1853)'}}}
+136: {'values_changed': {"root['undergrad']": {'new_value': 'Approx. 100,000', 'old_value': 'Approx. 1,000'}}}
+137: {'values_changed': {"root['undergrad']": {'new_value': 'Approx. 1,000', 'old_value': 'Approx. 717 (700 FTE)'}}}
+144: {'values_changed': {"root['former_names']": {'new_value': 'Fulton College (1851–1853)', 'old_value': 'Fulton College'}}}
+189: {'dictionary_item_removed': {"root['students']": '658 (2019)  '}}
+191: {'values_changed': {"root['students']": {'new_value': '658 (2019)  ', 'old_value': '658 (2019) '}}}
+194: {'values_changed': {"root['endowment']": {'new_value': '$56.6 million As of June 30, 2015. ', 'old_value': '$56.6 million (2015) As of June 30, 2015. '}}}
+223: {'values_changed': {"root['faculty']": {'new_value': '67', 'old_value': '88'}}}
+226: {'dictionary_item_added': {"root['undergrad']": 'Approx. 717 (700 FTE)'}, 'dictionary_item_removed': {"root['president']": 'Donald P. Lofe, Jr.'}, 'values_changed': {"root['endowment']": {'new_value': '$56.6 million (2015) As of June 30, 2015. ', 'old_value': '$57.1 million (2021) As of June 30, 2015. '}, "root['staff']": {'new_value': '110 (Fall 2016)', 'old_value': '108 (2021)'}, "root['students']": {'new_value': '658 (2019) ', 'old_value': '609 (2020) '}}}
+234: {'dictionary_item_added': {"root['staff']": '108 (2021)'}, 'dictionary_item_removed': {"root['administrative_staff']": '108 (2021)'}}

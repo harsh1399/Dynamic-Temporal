@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sorbonne University', "root['budget']": '€567 million', "root['students']": '54,000', "root['campus']": 'Latin Quarter'}}
+44: {'values_changed': {"root['budget']": {'new_value': '€567 million', 'old_value': '€670 million'}}}
+45: {'values_changed': {"root['students']": {'new_value': '54,000', 'old_value': '53,400'}}}
+55: {'dictionary_item_removed': {"root['president']": 'Prof. Dr Jean Chambaz'}}
+58: {'values_changed': {"root['campus']": {'new_value': 'Latin Quarter', 'old_value': 'Latin Quarter, Abu Dhabi'}}}
+60: {'dictionary_item_removed': {"root['nobel_laureates']": 'Pierre Curie, Marie Curie'}}
+75: {'dictionary_item_removed': {"root['endowment']": '€900 million', "root['affiliations']": 'LERU'}}
+91: {'values_changed': {"root['president']": {'new_value': 'Prof. Dr Jean Chambaz', 'old_value': 'Professor Dr Jean Chambaz'}, "root['campus']": {'new_value': 'Latin Quarter, Abu Dhabi', 'old_value': 'Latin Quarter; Abu Dhabi'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'Sorbonne University', 'old_value': 'Sorbonne-Université'}}}
+117: {'values_changed': {"root['name']": {'new_value': 'Sorbonne-Université', 'old_value': 'Sorbonne University'}}}
+123: {'dictionary_item_added': {"root['nobel_laureates']": 'Pierre Curie, Marie Curie'}, 'values_changed': {"root['president']": {'new_value': 'Professor Dr Jean Chambaz', 'old_value': 'Jean Chambaz'}, "root['affiliations']": {'new_value': 'LERU', 'old_value': 'LERU ,  UNICA'}}}
+129: {'values_changed': {"root['affiliations']": {'new_value': 'LERU ,  UNICA', 'old_value': 'EUA ,  LERU ,  UNICA'}}}
+147: {'dictionary_item_removed': {"root['faculty']": 'Paris-Sorbonne University Abu Dhabi'}}
+148: {'dictionary_item_added': {"root['faculty']": 'Paris-Sorbonne University Abu Dhabi'}, 'dictionary_item_removed': {"root['staff']": '6600'}, 'values_changed': {"root['campus']": {'new_value': 'Latin Quarter; Abu Dhabi', 'old_value': 'Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie'}}}
+149: {'values_changed': {"root['campus']": {'new_value': 'Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie', 'old_value': "Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie ; Institut franco-chinois de l'Université Renmin  ; Malesherbes"}}}
+153: {'values_changed': {"root['campus']": {'new_value': "Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie ; Institut franco-chinois de l'Université Renmin  ; Malesherbes", 'old_value': "Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie ; Institut franco-chinois de l'Université Renmin  "}}}
+196: {'values_changed': {"root['campus']": {'new_value': "Latin Quarter; Abu Dhabi; Clignancourt; Jussieu; Institut de Géographie ; Institut franco-chinois de l'Université Renmin  ", 'old_value': 'Latin Quarter; Clignancourt; Jussieu; Institut de Géographie ; Malesherbes'}}}
+197: {'values_changed': {"root['budget']": {'new_value': '€670 million', 'old_value': '€656 million'}, "root['staff']": {'new_value': '6600', 'old_value': '6400 (teaching staff); 3600 (administrative staff)'}, "root['students']": {'new_value': '53,400', 'old_value': '55 600'}}}
+220: {'dictionary_item_added': {"root['affiliations']": 'EUA ,  LERU ,  UNICA'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'EUA ,  LERU ,  UNICA', "root['faculty']": '6400'}, 'values_changed': {"root['staff']": {'new_value': '6400 (teaching staff); 3600 (administrative staff)', 'old_value': '3600'}, "root['students']": {'new_value': '55 600', 'old_value': '55,600'}}}
+250: {'dictionary_item_added': {"root['staff']": '3600'}, 'dictionary_item_removed': {"root['administrative_staff']": '3600'}}
+262: {'values_changed': {"root['campus']": {'new_value': 'Latin Quarter; Clignancourt; Jussieu; Institut de Géographie ; Malesherbes', 'old_value': 'Latin Quarter; Clignancourt; Jussieu; Institut de Géographie; Malesherbes'}}}
+263: {'values_changed': {"root['academic_affiliations']": {'new_value': 'EUA ,  LERU ,  UNICA', 'old_value': 'EUA   LERU   UNICA'}}}
+290: {'values_changed': {"root['president']": {'new_value': 'Jean Chambaz', 'old_value': 'Nathalie Drach-Temam'}}}
+298: {'values_changed': {"root['administrative_staff']": {'new_value': '3600', 'old_value': '3,600'}, "root['faculty']": {'new_value': '6400', 'old_value': '6,400'}}}

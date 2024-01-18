@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of North Carolina at Pembroke', "root['image_name']": 'UNC Pembroke seal.png', "root['faculty']": '326 full-time', "root['chancellor']": 'Robin G. Cummings', "root['students']": '6,222 (Fall 2013)', "root['undergrad']": '5,429', "root['postgrad']": '793', "root['campus']": 'Rural, '}}
+22: {'values_changed': {"root['image_name']": {'new_value': 'UNC Pembroke seal.png', 'old_value': 'University of North Carolina at Pembroke seal.svg'}, "root['faculty']": {'new_value': '326 full-time', 'old_value': '326'}}}
+23: {'values_changed': {"root['students']": {'new_value': '6,222 (Fall 2013)', 'old_value': '6,252 (Fall 2017)'}, "root['undergrad']": {'new_value': '5,429', 'old_value': '5,481'}, "root['postgrad']": {'new_value': '793', 'old_value': '771'}}}
+26: {'values_changed': {"root['faculty']": {'new_value': '326', 'old_value': '387'}}}
+40: {'values_changed': {"root['chancellor']": {'new_value': 'Robin G. Cummings', 'old_value': 'Robin Gary Cummings'}, "root['students']": {'new_value': '6,252 (Fall 2017)', 'old_value': '7,137 (Fall 2018)'}, "root['undergrad']": {'new_value': '5,481', 'old_value': '6,068'}, "root['postgrad']": {'new_value': '771', 'old_value': '1,068'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'University of North Carolina at Pembroke', 'old_value': 'University of North Carolina at Pembroke, SOCIAL MEDIA MARKETING'}}}
+48: {'values_changed': {"root['name']": {'new_value': 'University of North Carolina at Pembroke, SOCIAL MEDIA MARKETING', 'old_value': 'University of North Carolina at Pembroke'}}}
+49: {'dictionary_item_removed': {"root['doctoral']": 'Tuition = $500'}}
+50: {'dictionary_item_added': {"root['doctoral']": 'Tuition = $500'}, 'dictionary_item_removed': {"root['Tuition']": '$500'}}
+65: {'dictionary_item_added': {"root['Tuition']": '$500'}, 'values_changed': {"root['students']": {'new_value': '7,137 (Fall 2018)', 'old_value': '7,698 (Fall 2019)'}, "root['undergrad']": {'new_value': '6,068', 'old_value': '6,353'}, "root['postgrad']": {'new_value': '1,068', 'old_value': '1,345'}}}
+70: {'dictionary_item_removed': {"root['endowment']": '$24.9 million (2019)'}}
+81: {'values_changed': {"root['students']": {'new_value': '7,698 (Fall 2019)', 'old_value': '8,262 (Fall 2020)'}, "root['undergrad']": {'new_value': '6,353', 'old_value': '6,436'}, "root['postgrad']": {'new_value': '1,345', 'old_value': '1,826'}}}
+84: {'values_changed': {"root['faculty']": {'new_value': '387', 'old_value': '295+'}, "root['students']": {'new_value': '8,262 (Fall 2020)', 'old_value': '8,262 '}}}
+87: {'values_changed': {"root['endowment']": {'new_value': '$24.9 million (2019)', 'old_value': '$24.5 million (2020)'}}}
+99: {'values_changed': {"root['faculty']": {'new_value': '295+', 'old_value': '325+'}, "root['students']": {'new_value': '8,262 ', 'old_value': '8,319 '}, "root['undergrad']": {'new_value': '6,436', 'old_value': '6,318'}, "root['postgrad']": {'new_value': '1,826', 'old_value': '2,001'}}}

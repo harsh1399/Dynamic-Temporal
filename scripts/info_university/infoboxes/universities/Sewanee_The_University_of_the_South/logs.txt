@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of the South', "root['endowment']": 'USD$246.1 million', "root['chancellor']": 'The Rt. Samuel Johnson Howard |', "root['vice_chancellor']": 'John McCardell, Jr.', "root['undergrad']": '1,383', "root['postgrad']": '177', "root['campus']": 'Southern Rural, 13,000 acres (40 km²)', "root['affiliations']": 'SAA'}}
+7: {'values_changed': {"root['chancellor']": {'new_value': 'The Rt. Samuel Johnson Howard |', 'old_value': 'The Rt. Rev. Samuel Johnson Howard |'}}}
+26: {'values_changed': {"root['chancellor']": {'new_value': 'The Rt. Rev. Samuel Johnson Howard |', 'old_value': 'The Rt. Rev. J. Neil Alexander'}}}
+38: {'values_changed': {"root['chancellor']": {'new_value': 'The Rt. Rev. J. Neil Alexander', 'old_value': 'The Rt. Rev. Samuel Johnson Howard'}}}
+39: {'values_changed': {"root['endowment']": {'new_value': 'USD$246.1 million', 'old_value': 'USD$$318,951,183'}}}
+40: {'values_changed': {"root['endowment']": {'new_value': 'USD$$318,951,183', 'old_value': 'USD$$318,951,183 As of 2012.  '}}}
+41: {'values_changed': {"root['endowment']": {'new_value': 'USD$$318,951,183 As of 2012.  ', 'old_value': 'USD$$318,951,183'}}}
+70: {'dictionary_item_added': {"root['affiliations']": 'SAA'}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – SAA', "root['sports']": '24 varsity teams'}, 'values_changed': {"root['endowment']": {'new_value': 'USD$$318,951,183', 'old_value': 'USD$318,951,183'}}}
+74: {'values_changed': {"root['chancellor']": {'new_value': 'The Rt. Rev. Samuel Johnson Howard', 'old_value': 'Samuel Johnson Howard'}}}
+81: {'values_changed': {"root['endowment']": {'new_value': 'USD$318,951,183', 'old_value': 'USD$432,378,400'}, "root['vice_chancellor']": {'new_value': 'John McCardell, Jr.', 'old_value': 'William Thomas.'}, "root['undergrad']": {'new_value': '1,383', 'old_value': '1,546'}, "root['postgrad']": {'new_value': '177', 'old_value': '188'}}}
+83: {'values_changed': {"root['chancellor']": {'new_value': 'Samuel Johnson Howard', 'old_value': 'Martin Davis'}}}
+84: {'values_changed': {"root['vice_chancellor']": {'new_value': 'William Thomas.', 'old_value': 'William Thomas has  chode .'}}}
+85: {'values_changed': {"root['vice_chancellor']": {'new_value': 'William Thomas has  chode .', 'old_value': 'William Thomas.'}}}
+86: {'values_changed': {"root['endowment']": {'new_value': 'USD$432,378,400', 'old_value': 'USD$42,432,356'}}}
+88: {'values_changed': {"root['chancellor']": {'new_value': 'Martin Davis', 'old_value': 'Martin Davis (Extreme angler)'}}}
+89: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – SAA', 'old_value': 'NCAA Division I – SAA'}, "root['sports']": {'new_value': '24 varsity teams', 'old_value': '38 varsity teams'}}}
+91: {'values_changed': {"root['endowment']": {'new_value': 'USD$42,432,356', 'old_value': 'USD$336,524,119'}, "root['chancellor']": {'new_value': 'Martin Davis (Extreme angler)', 'old_value': 'Rt. Rev. Samuel Johnson Howard'}, "root['vice_chancellor']": {'new_value': 'William Thomas.', 'old_value': 'John McCardell'}}}
+92: {'values_changed': {"root['chancellor']": {'new_value': 'Rt. Rev. Samuel Johnson Howard', 'old_value': 'Martin Davis'}, "root['vice_chancellor']": {'new_value': 'John McCardell', 'old_value': 'William Thomas'}}}
+96: {'values_changed': {"root['vice_chancellor']": {'new_value': 'William Thomas', 'old_value': 'John McCardell Jr.'}}}
+97: {'values_changed': {"root['vice_chancellor']": {'new_value': 'John McCardell Jr.', 'old_value': 'John McCardell'}}}
+99: {'values_changed': {"root['vice_chancellor']": {'new_value': 'John McCardell', 'old_value': 'One shot Willy: Campus drug dealer'}, "root['campus']": {'new_value': 'Southern Rural, 13,000 acres (40 km²)', 'old_value': 'Southern Rural, 130,000 acres (40 km²)'}}}
+100: {'values_changed': {"root['vice_chancellor']": {'new_value': 'One shot Willy: Campus drug dealer', 'old_value': 'John McCardell'}, "root['campus']": {'new_value': 'Southern Rural, 130,000 acres (40 km²)', 'old_value': 'Southern Rural, 13,000 acres (40 km²)'}}}
+106: {'dictionary_item_added': {"root['sports']": '38 varsity teams'}, 'values_changed': {"root['chancellor']": {'new_value': 'Martin Davis', 'old_value': 'Samuel Johnson Howard'}}}
+109: {'values_changed': {"root['chancellor']": {'new_value': 'Samuel Johnson Howard', 'old_value': 'Martin Davis'}, "root['vice_chancellor']": {'new_value': 'John McCardell', 'old_value': 'William Thoomas'}}}
+111: {'values_changed': {"root['chancellor']": {'new_value': 'Martin Davis', 'old_value': 'Samuel Johnson Howard'}, "root['vice_chancellor']": {'new_value': 'William Thoomas', 'old_value': 'John McCardell'}}}
+115: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – SAA', 'old_value': 'NCAA Division III – SAA'}}}
+124: {'values_changed': {"root['vice_chancellor']": {'new_value': 'John McCardell', 'old_value': 'John McCardell |Head Equipment Manager     =Andy Harrell |PA Announcer     =Andy Harrell'}}}
+126: {'values_changed': {"root['vice_chancellor']": {'new_value': 'John McCardell |Head Equipment Manager     =Andy Harrell |PA Announcer     =Andy Harrell', 'old_value': 'John McCardell'}}}
+130: {'values_changed': {"root['campus']": {'new_value': 'Southern Rural, 13,000 acres (40 km²)', 'old_value': 'Rural, 13,000 acres (40 km²)'}}}
+131: {'values_changed': {"root['chancellor']": {'new_value': 'Samuel Johnson Howard', 'old_value': 'Tricia Murphy'}}}
+133: {'dictionary_item_removed': {"root['dean_of_students']": 'George Morgan Lupton IV'}}
+134: {'dictionary_item_added': {"root['dean_of_students']": 'George Morgan Lupton IV'}, 'values_changed': {"root['chancellor']": {'new_value': 'Tricia Murphy', 'old_value': 'Samuel Johnson Howard'}}}
+137: {'dictionary_item_removed': {"root['image_name']": 'The Seal of The University of the South.png', "root['religious_affiliation']": 'Episcopal Church'}, 'values_changed': {"root['name']": {'new_value': 'The University of the South', 'old_value': 'Sewanee: The University of the South'}, "root['endowment']": {'new_value': 'USD$336,524,119', 'old_value': '$408.8 million (2019)'}, "root['chancellor']": {'new_value': 'Samuel Johnson Howard', 'old_value': 'Robert Skirving'}, "root['vice_chancellor']": {'new_value': 'John McCardell', 'old_value': 'Reuben Brigety'}, "root['undergrad']": {'new_value': '1,546', 'old_value': '1,653'}, "root['postgrad']": {'new_value': '188', 'old_value': '184'}, "root['campus']": {'new_value': 'Rural, 13,000 acres (40 km²)', 'old_value': 'Rural, 13,000 acres (53 km²)'}}}
+140: {'values_changed': {"root['endowment']": {'new_value': '$408.8 million (2019)', 'old_value': '$419.5 million (2020)'}}}
+148: {'values_changed': {"root['undergrad']": {'new_value': '1,653', 'old_value': '1,695'}, "root['postgrad']": {'new_value': '184', 'old_value': '73'}}}
+166: {'values_changed': {"root['undergrad']": {'new_value': '1,695', 'old_value': '1,695 '}}}

@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mercyhurst College', "root['endowment']": '$22.4 million', "root['faculty']": '124 full-time', "root['staff']": '403', "root['alumni']": '12,000+', "root['president']": 'Dr. Thomas Gamble', "root['students']": '3,080', "root['undergrad']": '2,856', "root['postgrad']": '224', "root['campus']": 'Urban - 70 acres', "root['sports']": '2 Division I/23 Division II', "root['affiliations']": 'NCAA Division II; GLIAC', "root['telephone']": '1-800-825-1926'}}
+40: {'dictionary_item_removed': {"root['provost']": 'James M. Adovasio'}}
+46: {'values_changed': {"root['sports']": {'new_value': '2 Division I/23 Division II', 'old_value': '2 Division I/22 Division II'}, "root['affiliations']": {'new_value': 'NCAA Division II; GLIAC', 'old_value': 'NCAA Division II; PSAC'}}}
+78: {'values_changed': {"root['students']": {'new_value': '3,080', 'old_value': 'approx. 3,500'}}}
+79: {'dictionary_item_added': {"root['staff']": '403', "root['undergrad']": '2,856', "root['postgrad']": '224'}, 'values_changed': {"root['faculty']": {'new_value': '124 full-time', 'old_value': '136 full-time |full-time employees = 434'}, "root['students']": {'new_value': 'approx. 3,500', 'old_value': '3,226'}, "root['campus']": {'new_value': 'Urban - 70 acres', 'old_value': 'Urban - 74 acres'}}}
+83: {'values_changed': {"root['endowment']": {'new_value': '$22.4 million', 'old_value': '$18.2 million'}}}
+90: {'values_changed': {"root['students']": {'new_value': '3,226', 'old_value': '3,312'}}}
+109: {'values_changed': {"root['students']": {'new_value': '3,312', 'old_value': '4,400'}}}
+115: {'values_changed': {"root['endowment']": {'new_value': '$18.2 million', 'old_value': '$12.8 million'}}}
+117: {'values_changed': {"root['campus']": {'new_value': 'Urban - 74 acres', 'old_value': 'Urban - '}}}
+120: {'values_changed': {"root['name']": {'new_value': 'Mercyhurst College', 'old_value': 'Mercyhurst University'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Mercyhurst University', 'old_value': 'Mercyhurst college'}}}
+126: {'values_changed': {"root['name']": {'new_value': 'Mercyhurst college', 'old_value': 'Mercyhurst University'}}}
+232: {'dictionary_item_added': {"root['telephone']": '1-800-825-1926'}, 'dictionary_item_removed': {"root['colours']": 'Kelly green, White and Blue ,  '}}
+241: {'values_changed': {"root['endowment']": {'new_value': '$12.8 million', 'old_value': '$31.8 million'}}}
+251: {'dictionary_item_added': {"root['provost']": 'James M. Adovasio', "root['colours']": 'Kelly green, White and Blue ,  '}, 'values_changed': {"root['president']": {'new_value': 'Dr. Thomas Gamble', 'old_value': 'Michael T. Victor'}, "root['sports']": {'new_value': '2 Division I/22 Division II', 'old_value': '3 NCAA Division I 22 Division II'}, "root['affiliations']": {'new_value': 'NCAA Division II; PSAC', 'old_value': 'Conference for Mercy Higher Education Middle States Association of Colleges and Schools ACCU NAICU'}}}
+261: {'dictionary_item_added': {"root['alumni']": '12,000+'}, 'dictionary_item_removed': {"root['staff']": '434'}, 'values_changed': {"root['faculty']": {'new_value': '136 full-time |full-time employees = 434', 'old_value': '136 full-time'}}}
+278: {'values_changed': {"root['president']": {'new_value': 'Michael T. Victor', 'old_value': 'Michael T. Victor, J.D.'}, "root['students']": {'new_value': '4,400', 'old_value': '2,759'}, "root['sports']": {'new_value': '3 NCAA Division I 22 Division II', 'old_value': '2 NCAA Division I 22 Division II'}}}
+282: {'values_changed': {"root['president']": {'new_value': 'Michael T. Victor, J.D.', 'old_value': 'Joseph NeCastro'}}}
+283: {'values_changed': {"root['president']": {'new_value': 'Joseph NeCastro', 'old_value': 'Joseph G. NeCastro, MBA'}}}
+285: {'values_changed': {"root['president']": {'new_value': 'Joseph G. NeCastro, MBA', 'old_value': 'Kathleen Getz'}}}
+286: {'dictionary_item_added': {"root['staff']": '434'}, 'dictionary_item_removed': {"root['administrative_staff']": '434'}}
+289: {'dictionary_item_added': {"root['sports']": '2 NCAA Division I 22 Division II', "root['affiliations']": 'Conference for Mercy Higher Education Middle States Association of Colleges and Schools ACCU NAICU'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Roman Catholic (Sisters of Mercy)', "root['academic_affiliations']": 'Conference for Mercy Higher Education Middle States Association of Colleges and Schools ACCU NAICU'}, 'values_changed': {"root['campus']": {'new_value': 'Urban - ', 'old_value': 'Urban, '}}}
+294: {'values_changed': {"root['president']": {'new_value': 'Kathleen Getz', 'old_value': 'Kathleen Getz |'}}}
+308: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Conference for Mercy Higher Education Middle States Association of Colleges and Schools ACCU NAICU', 'old_value': 'Conference for Mercy Higher Education ACCU NAICU'}}}
+325: {'dictionary_item_removed': {"root['former_names']": 'Mercyhurst College (1926–2012)'}}

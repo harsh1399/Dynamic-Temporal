@@ -1,0 +1,13 @@
+15: {'dictionary_item_removed': {"root['name']": 'University of North Alabama', "root['president']": 'Kenneth D. Kitts', "root['students']": '7,457', "root['faculty']": '365', "root['endowment']": '$36,600,000', "root['campus']": 'Urban, 130 acres (0.526 km²)', "root['athletics']": 'NCAA Division II – Gulf South'}}
+55: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II – Gulf South', 'old_value': 'NCAA Division I – ASUN'}}}
+81: {'values_changed': {"root['students']": {'new_value': '7,457', 'old_value': '7,650'}}}
+87: {'values_changed': {"root['endowment']": {'new_value': '$36,600,000', 'old_value': '$36.6 million'}}}
+96: {'values_changed': {"root['students']": {'new_value': '7,650', 'old_value': '8,046'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'University of North Alabama', 'old_value': "University of North Alabama ''':)'''"}}}
+105: {'values_changed': {"root['students']": {'new_value': '8,046', 'old_value': '8,400'}}}
+106: {'values_changed': {"root['students']": {'new_value': '8,400', 'old_value': '8,361'}}}
+107: {'values_changed': {"root['name']": {'new_value': "University of North Alabama ''':)'''", 'old_value': 'University of North Alabama'}}}
+132: {'values_changed': {"root['endowment']": {'new_value': '$36.6 million', 'old_value': '$48 million'}}}
+146: {'values_changed': {"root['endowment']": {'new_value': '$48 million', 'old_value': '$53 million'}}}
+147: {'values_changed': {"root['students']": {'new_value': '8,361', 'old_value': '8,832'}}}
+152: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – ASUN'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – ASUN'}, 'values_changed': {"root['campus']": {'new_value': 'Urban, 130 acres (0.526 km²)', 'old_value': 'Urban, '}}}

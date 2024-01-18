@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Derby', "root['image_name']": 'Derby University logo.png', "root['students']": '24,875 ', "root['undergrad']": '12,275', "root['postgrad']": '2,440', "root['other']": '7,165 FE', "root['campus']": 'Urban'}}
+81: {'dictionary_item_removed': {"root['vice_chancellor']": 'John Coyne', "root['endowment']": '£850.000'}}
+83: {'values_changed': {"root['endowment']": {'new_value': '£850.000', 'old_value': '£15.5m'}}}
+91: {'values_changed': {"root['name']": {'new_value': 'University of Derby', 'old_value': 'University of Derpy'}}}
+92: {'values_changed': {"root['name']": {'new_value': 'University of Derpy', 'old_value': 'University of Derby'}}}
+109: {'values_changed': {"root['students']": {'new_value': '24,875 ', 'old_value': '22,125 '}, "root['undergrad']": {'new_value': '12,275', 'old_value': '14,390'}, "root['postgrad']": {'new_value': '2,440', 'old_value': '3,085'}, "root['other']": {'new_value': '7,165 FE', 'old_value': '4,650 FE'}}}
+110: {'dictionary_item_added': {"root['endowment']": '£15.5m'}, 'dictionary_item_removed': {"root['chancellor']": 'Stoker Cavendish, 12th Duke of Devonshire', "root['head']": 'Chris Hughes', "root['colours']": 'Burgundy & Sky Blue '}, 'values_changed': {"root['image_name']": {'new_value': 'Derby University logo.png', 'old_value': 'University of Derby logo.svg'}}}
+122: {'values_changed': {"root['colours']": {'new_value': 'Burgundy & Sky Blue ', 'old_value': 'Burgundy & sky blue'}}}
+126: {'values_changed': {"root['chancellor']": {'new_value': 'Stoker Cavendish, 12th Duke of Devonshire', 'old_value': 'Stoker Cavendish, 12th Duke of Devonshire - Deceased'}}}
+127: {'values_changed': {"root['chancellor']": {'new_value': 'Stoker Cavendish, 12th Duke of Devonshire - Deceased', 'old_value': 'Stoker Cavendish, 12th Duke of Devonshire'}}}
+129: {'dictionary_item_removed': {"root['former_names']": 'Derby College, Derby College of Art and Technology, Derbyshire College of Higher Education '}}
+130: {'values_changed': {"root['vice_chancellor']": {'new_value': 'John Coyne', 'old_value': 'Professor Kathryn Mitchell.'}}}
+132: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Kathryn Mitchell.', 'old_value': 'Professor Kathryn Mitchell'}}}
+133: {'values_changed': {"root['chancellor']": {'new_value': 'Stoker Cavendish, 12th Duke of Devonshire', 'old_value': 'Peregrine Cavendish, 12th Duke of Devonshire'}}}
+137: {'dictionary_item_added': {"root['students']": '22,125 ', "root['undergrad']": '14,390', "root['postgrad']": '3,085'}, 'values_changed': {"root['other']": {'new_value': '4,650 FE', 'old_value': '4,650 FE '}}}

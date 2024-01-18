@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hamilton College', "root['image_name']": 'Hamilton College seal.png', "root['endowment']": '$858.8 million (2014)', "root['president']": 'Joan Hinde Stewart', "root['undergrad']": '1,850 ', "root['faculty']": '191', "root['campus']": 'Rural', "root['athletics']": 'NCAA Division III – NESCAC, MAISA', "root['affiliations']": 'Oberlin Group, Annapolis Group, CLAC'}}
+5: {'values_changed': {"root['endowment']": {'new_value': '$858.8 million (2014)', 'old_value': '$856.1 million (2015)'}}}
+6: {'values_changed': {"root['president']": {'new_value': 'Joan Hinde Stewart', 'old_value': "Joan Hinde Stewart ,  ''David Wippman (elect)''"}}}
+7: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – NESCAC, MAISA', 'old_value': 'NESCAC – Little Ivy'}}}
+8: {'values_changed': {"root['athletics']": {'new_value': 'NESCAC – Little Ivy', 'old_value': 'NCAA Division III – NESCAC, MAISA'}}}
+11: {'values_changed': {"root['endowment']": {'new_value': '$856.1 million (2015)', 'old_value': '$856.1 Billion (2015)'}}}
+12: {'values_changed': {"root['endowment']": {'new_value': '$856.1 Billion (2015)', 'old_value': '$856.1 million (2015)'}}}
+32: {'values_changed': {"root['president']": {'new_value': "Joan Hinde Stewart ,  ''David Wippman (elect)''", 'old_value': 'David Wippman'}}}
+72: {'values_changed': {"root['image_name']": {'new_value': 'Hamilton College seal.png', 'old_value': 'Hamilton College seal.svg'}, "root['endowment']": {'new_value': '$856.1 million (2015)', 'old_value': '$964.2 million (2018)'}, "root['undergrad']": {'new_value': '1,850 ', 'old_value': '1,850 (2019) '}, "root['faculty']": {'new_value': '191', 'old_value': '190 (2019)'}, "root['campus']": {'new_value': 'Rural', 'old_value': 'Rural '}}}
+82: {'values_changed': {"root['endowment']": {'new_value': '$964.2 million (2018)', 'old_value': '$969.4 million (2019)'}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '$969.4 million (2019)', 'old_value': '$1,017,291,220 (2019)'}}}
+118: {'values_changed': {"root['endowment']": {'new_value': '$1,017,291,220 (2019)', 'old_value': '$969.4 million (2019)'}}}
+119: {'values_changed': {"root['endowment']": {'new_value': '$969.4 million (2019)', 'old_value': '$1,017,291,220 (2019)'}}}
+121: {'values_changed': {"root['endowment']": {'new_value': '$1,017,291,220 (2019)', 'old_value': '$1 Billion (2019)'}}}
+124: {'dictionary_item_added': {"root['image_name']": 'Hamilton College seal.svg', "root['athletics']": 'NCAA Division III – NESCAC, MAISA', "root['affiliations']": 'Oberlin Group, Annapolis Group, CLAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NESCAC, MAISA', "root['academic_affiliations']": 'Oberlin Group Annapolis Group CLAC'}, 'values_changed': {"root['endowment']": {'new_value': '$1 Billion (2019)', 'old_value': '$1.47 billion (2020)'}}}
+145: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Oberlin Group', 'Annapolis Group', 'CLAC'], 'new_value': 'Oberlin Group Annapolis Group CLAC'}}, 'dictionary_item_added': {"root['athletics_affiliations']": 'NCAA Division III – NESCAC, MAISA'}, 'dictionary_item_removed': {"root['free_label1']": 'Newspaper', "root['free1']": "''The Spectator'' "}, 'values_changed': {"root['campus']": {'new_value': 'Rural ', 'old_value': 'Midsize Suburb, '}}}
+146: {'values_changed': {"root['free1']": {'new_value': "''The Spectator'' ", 'old_value': "''The Spectator''"}}}

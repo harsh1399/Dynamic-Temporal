@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Antioch College', "root['endowment']": '$36.2 million ', "root['president']": 'Matthew Derr, Interim President'}}
+10: {'values_changed': {"root['president']": {'new_value': 'Matthew Derr, Interim President', 'old_value': 'Mark Roosevelt, President'}}}
+35: {'values_changed': {"root['president']": {'new_value': 'Mark Roosevelt, President', 'old_value': 'Mark Roosevelt'}}}
+65: {'dictionary_item_removed': {"root['academic_staff']": '25', "root['administrative_staff']": '15', "root['students']": '108', "root['location']": 'Yellow Springs, Ohio, United States', "root['campus']": 'Rural', "root['affiliations']": 'Great Lakes Colleges Association'}, 'values_changed': {"root['endowment']": {'new_value': '$36.2 million ', 'old_value': '$51.7 million '}}}
+82: {'values_changed': {"root['president']": {'new_value': 'Mark Roosevelt', 'old_value': 'Tupac Shakur (RIP)'}}}
+85: {'values_changed': {"root['president']": {'new_value': 'Tupac Shakur (RIP)', 'old_value': 'Mark Roosevelt'}}}
+142: {'dictionary_item_added': {"root['academic_staff']": '25', "root['administrative_staff']": '15'}, 'dictionary_item_removed': {"root['full_time_faculty']": '29   |full_time_employees_(non-academic) = 84'}, 'values_changed': {"root['students']": {'new_value': '108', 'old_value': '200'}}}
+143: {'values_changed': {"root['full_time_faculty']": {'new_value': '29   |full_time_employees_(non-academic) = 84', 'old_value': '29full_time_employees_(non-academic) = 84'}}}
+144: {'dictionary_item_added': {"root['full_time_faculty']": '29full_time_employees_(non-academic) = 84'}, 'dictionary_item_removed': {"root['faculty']": '29', "root['staff']": '84'}}
+146: {'values_changed': {"root['endowment']": {'new_value': '$51.7 million ', 'old_value': '$44.3 million'}}}
+147: {'values_changed': {"root['affiliations']": {'new_value': 'Great Lakes Colleges Association', 'old_value': 'Great Lakes Colleges Association, Colleges that Change Lives'}}}
+154: {'values_changed': {"root['affiliations']": {'new_value': 'Great Lakes Colleges Association, Colleges that Change Lives', 'old_value': 'Great Lakes Colleges Association   Colleges That Change Lives'}}}
+253: {'values_changed': {"root['location']": {'new_value': 'Yellow Springs, Ohio, United States', 'old_value': 'Yellow Springs, Ohio, U.S.'}}}
+260: {'values_changed': {"root['faculty']": {'new_value': '29', 'old_value': '37 '}, "root['staff']": {'new_value': '84', 'old_value': '85'}, "root['students']": {'new_value': '200', 'old_value': '270'}}}
+267: {'values_changed': {"root['affiliations']": {'new_value': 'Great Lakes Colleges Association   Colleges That Change Lives', 'old_value': 'Great Lakes Colleges Association   Colleges That Change Lives   Global Liberal Arts Alliance'}}}
+321: {'values_changed': {"root['president']": {'new_value': 'Mark Roosevelt', 'old_value': 'Andi Adkins (interim)'}}}
+322: {'values_changed': {"root['president']": {'new_value': 'Andi Adkins (interim)', 'old_value': 'Andi Adkins (interim) ,  Thomas Manley (incoming)'}}}
+323: {'values_changed': {"root['president']": {'new_value': 'Andi Adkins (interim) ,  Thomas Manley (incoming)', 'old_value': 'Andi Adkins (interim) ,   Thomas Manley (incoming)'}}}
+325: {'values_changed': {"root['president']": {'new_value': 'Andi Adkins (interim) ,   Thomas Manley (incoming)', 'old_value': 'Andi Adkins (interim) ,  Tom Manley (colle'}}}
+329: {'values_changed': {"root['president']": {'new_value': 'Andi Adkins (interim) ,  Tom Manley (colle', 'old_value': 'Tom Manley (colle'}}}
+370: {'dictionary_item_added': {"root['location']": 'Yellow Springs, Ohio, U.S.'}, 'values_changed': {"root['president']": {'new_value': 'Tom Manley (colle', 'old_value': 'Interim leadership: Sharen Neuhardt (operations), John K. Jacobs (finance), Shadia Alvarez (equity and strategic development)'}, "root['students']": {'new_value': '270', 'old_value': 'Fewer than 100'}, "root['affiliations']": {'new_value': 'Great Lakes Colleges Association   Colleges That Change Lives   Global Liberal Arts Alliance', 'old_value': 'Great Lakes Colleges Association  Global Liberal Arts Alliance'}}}
+409: {'values_changed': {"root['students']": {'new_value': 'Fewer than 100', 'old_value': '116'}}}
+410: {'values_changed': {"root['president']": {'new_value': 'Interim leadership: Sharen Neuhardt (operations), John K. Jacobs (finance), Shadia Alvarez (equity and strategic development)', 'old_value': 'Jane Fernandes (incoming), Interim leadership: Sharen Neuhardt (operations), John K. Jacobs (finance), Shadia Alvarez (equity and strategic development)'}}}
+412: {'dictionary_item_added': {"root['staff']": '85'}, 'dictionary_item_removed': {"root['administrative_staff']": '85'}}
+414: {'values_changed': {"root['president']": {'new_value': 'Jane Fernandes (incoming), Interim leadership: Sharen Neuhardt (operations), John K. Jacobs (finance), Shadia Alvarez (equity and strategic development)', 'old_value': 'Jane Fernandes'}}}

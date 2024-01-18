@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Amherst College', "root['image_name']": 'Amherst College Seal.svg', "root['president']": 'Carolyn Martin', "root['campus']": 'Rural ', "root['undergrad']": '1,785', "root['staff']": '190', "root['athletics']": 'NCAA Division III – NESCAC', "root['endowment']": '$2.15 billion (2014) As of June 30, 2014.  | ', "root['affiliations']": 'Annapolis Group, NEASC, AICUM, 568 Group, NAICU'}}
+6: {'values_changed': {"root['undergrad']": {'new_value': '1,785', 'old_value': '1,795'}}}
+12: {'values_changed': {"root['endowment']": {'new_value': '$2.15 billion (2014) As of June 30, 2014.  | ', 'old_value': '$2.194 billion (2015)'}}}
+19: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – NESCAC', 'old_value': 'NESCAC – Little Ivy'}}}
+20: {'values_changed': {"root['athletics']": {'new_value': 'NESCAC – Little Ivy', 'old_value': 'NCAA Division III – NESCAC'}}}
+33: {'dictionary_item_added': {"root['staff']": '190'}, 'dictionary_item_removed': {"root['faculty']": '285 (2015)'}, 'values_changed': {"root['undergrad']": {'new_value': '1,795', 'old_value': '1,795 (2015)'}}}
+67: {'values_changed': {"root['undergrad']": {'new_value': '1,795 (2015)', 'old_value': '1,795 (Fall 2015)'}, "root['faculty']": {'new_value': '285 (2015)', 'old_value': '285 (Fall 2015)'}}}
+116: {'dictionary_item_added': {"root['affiliations']": 'Annapolis Group, NEASC, AICUM, 568 Group, NAICU'}, 'values_changed': {"root['endowment']": {'new_value': '$2.194 billion (2015)', 'old_value': '$2.378 billion (2018)'}, "root['undergrad']": {'new_value': '1,795 (Fall 2015)', 'old_value': '1,855 (Fall 2018) '}, "root['faculty']": {'new_value': '285 (Fall 2015)', 'old_value': '300 (Fall 2018)'}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '$2.378 billion (2018)', 'old_value': '$2.47 billion (2019) As of June 30, 2019. '}}}
+122: {'values_changed': {"root['president']": {'new_value': 'Carolyn Martin', 'old_value': 'Biddy “go home”Martin'}}}
+123: {'values_changed': {"root['president']": {'new_value': 'Biddy “go home”Martin', 'old_value': 'Carolyn Martin'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Amherst College', 'old_value': 'Amazon College'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'Amazon College', 'old_value': 'Amherst College'}}}
+175: {'values_changed': {"root['endowment']": {'new_value': '$2.47 billion (2019) As of June 30, 2019. ', 'old_value': '$2.57 billion (2020) As of June 30, 2020. '}}}
+192: {'dictionary_item_added': {"root['image_name']": 'Amherst College Seal.svg', "root['athletics']": 'NCAA Division III – NESCAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NESCAC'}}
+198: {'values_changed': {"root['endowment']": {'new_value': '$2.57 billion (2020) As of June 30, 2020. ', 'old_value': '$3.7 billion (2021) As of June 30, 2020. '}}}
+200: {'values_changed': {"root['endowment']": {'new_value': '$3.7 billion (2021) As of June 30, 2020. ', 'old_value': '$2.57 billion (2021) As of June 30, 2020. '}}}
+201: {'values_changed': {"root['endowment']": {'new_value': '$2.57 billion (2021) As of June 30, 2020. ', 'old_value': '$2.57 billion (2020) As of June 30, 2020. '}}}
+222: {'values_changed': {"root['endowment']": {'new_value': '$2.57 billion (2020) As of June 30, 2020. ', 'old_value': '$3.775 billion (2021) As of June 30, 2020. '}}}

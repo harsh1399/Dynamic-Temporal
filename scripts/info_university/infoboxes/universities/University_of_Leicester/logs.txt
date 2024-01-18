@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Leicester', "root['endowment']": '£17.7 million ', "root['budget']": '£302.8 million ', "root['chancellor']": 'David Willetts ', "root['vice_chancellor']": 'Nishan Canagarajah', "root['head']": 'The Queen', "root['academic_staff']": '1,705 (2018/19) ', "root['administrative_staff']": '2,205 (2018/19) ', "root['campus']": 'Urban parkland', "root['affiliations']": 'ACU, AMBA, EMUA, EUA, M5 Universities Universities UK '}}
+3: {'values_changed': {"root['endowment']": {'new_value': '£17.7 million ', 'old_value': '£20.0 million '}, "root['budget']": {'new_value': '£302.8 million ', 'old_value': '£323.1 million '}}}
+36: {'values_changed': {"root['budget']": {'new_value': '£323.1 million ', 'old_value': '£326 million '}}}
+41: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AMBA, EMUA, EUA, M5 Universities Universities UK ', 'old_value': 'ACU, AMBA, EMUA, EUA, M5 Universities Universities UK,  Sutton 30,  '}}}
+42: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AMBA, EMUA, EUA, M5 Universities Universities UK,  Sutton 30,  ', 'old_value': 'ACU, AMBA, EMUA, EUA, Sutton 30, M5 Universities Universities UK,  '}}}
+73: {'values_changed': {"root['name']": {'new_value': 'University of Leicester', 'old_value': 'University f Leicester'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'University f Leicester', 'old_value': 'University of Leicester'}}}
+94: {'values_changed': {"root['head']": {'new_value': 'The Queen', 'old_value': 'The King'}}}
+95: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AMBA, EMUA, EUA, Sutton 30, M5 Universities Universities UK,  ', 'old_value': 'ACU AMBA EMUA EUA Sutton 30 M5 Universities Universities UK '}}}
+102: {'values_changed': {"root['endowment']": {'new_value': '£20.0 million ', 'old_value': '£24.3 million '}, "root['budget']": {'new_value': '£326 million ', 'old_value': '£339.4 million '}}}
+105: {'values_changed': {"root['chancellor']": {'new_value': 'David Willetts ', 'old_value': 'Maggie Aderin-Pocock'}}}
+112: {'dictionary_item_removed': {"root['students']": '16,670 (2021/22) url=https://www.hesa.ac.uk/data-and-analysis/students/where-study#provider |website=www.hesa.ac.uk}', "root['undergrad']": '11,315 (2021/22)', "root['postgrad']": '5,355 (2021/22)'}, 'values_changed': {"root['academic_staff']": {'new_value': '1,705 (2018/19) ', 'old_value': '1,655 (2021/22) '}, "root['administrative_staff']": {'new_value': '2,205 (2018/19) ', 'old_value': '2,060 (2021/22)'}}}
+123: {'values_changed': {"root['chancellor']": {'new_value': 'Maggie Aderin-Pocock', 'old_value': 'Maggie Aderin-Pocock MBE'}}}

@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": 'Princeton University', "root['endowment']": 'US$25.9 billion As of October 10, 2018. ||', "root['president']": 'Christopher L. Eisgruber', "root['provost']": 'Deborah Prentice', "root['students']": '8,273 (Fall 2017) ', "root['undergrad']": '5,394 (Fall 2017)', "root['postgrad']": '2,879 (Fall 2017)', "root['faculty']": '1,238', "root['staff']": '1,103', "root['campus']": 'Suburban, college town ', "root['former_names']": 'College of New Jersey  (1746–1896)', "root['athletics_nickname']": 'Tigers', "root['academic_affiliations']": 'AAU URA NAICU', "root['pushpin_label']": 'Princeton', "root['pushpin_relief']": 'yes '}}
+37: {'dictionary_item_added': {"root['pushpin_label']": 'Princeton', "root['pushpin_relief']": 'yes '}, 'values_changed': {"root['name']": {'new_value': 'Princeton University', 'old_value': 'Princeton University worst collage'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'Princeton University worst collage', 'old_value': 'Princeton University'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Princeton University', 'old_value': 'Prince Charles University'}, "root['president']": {'new_value': 'Christopher L. Eisgruber', 'old_value': 'Betty Battenberg'}, "root['provost']": {'new_value': 'Deborah Prentice', 'old_value': 'Jeffrey Epstein'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Prince Charles University', 'old_value': 'Princeton University'}, "root['president']": {'new_value': 'Betty Battenberg', 'old_value': 'Christopher L. Eisgruber'}, "root['provost']": {'new_value': 'Jeffrey Epstein', 'old_value': 'Deborah Prentice'}}}
+102: {'values_changed': {"root['former_names']": {'new_value': 'College of New Jersey  (1746–1896)', 'old_value': 'College of New Jersey <(1746–1896)'}}}
+103: {'values_changed': {"root['former_names']": {'new_value': 'College of New Jersey <(1746–1896)', 'old_value': 'College of New Jersey (1746–1896)'}}}
+104: {'values_changed': {"root['endowment']": {'new_value': 'US$25.9 billion As of October 10, 2018. ||', 'old_value': '$25.9 billion (2018) As of June 30, 2018. ||'}}}
+122: {'values_changed': {"root['endowment']": {'new_value': '$25.9 billion (2018) As of June 30, 2018. ||', 'old_value': '$25.9 billion (2018)<ref<As of June 30, 2018. ||'}}}
+123: {'values_changed': {"root['endowment']": {'new_value': '$25.9 billion (2018)<ref<As of June 30, 2018. ||', 'old_value': '$25.9 billion (2018) As of June 30, 2018. ||'}}}
+149: {'values_changed': {"root['students']": {'new_value': '8,273 (Fall 2017) ', 'old_value': '8,374 (Fall 2018) '}, "root['undergrad']": {'new_value': '5,394 (Fall 2017)', 'old_value': '5,428 (Fall 2018)'}, "root['postgrad']": {'new_value': '2,879 (Fall 2017)', 'old_value': '2,946 (Fall 2018)'}}}
+151: {'values_changed': {"root['faculty']": {'new_value': '1,238', 'old_value': '1,289'}}}
+170: {'dictionary_item_added': {"root['endowment']": '$25.9 billion (2018) As of June 30, 2018. ||'}, 'dictionary_item_removed': {"root['budget']": '$26.1 Billion (2019)'}}
+171: {'values_changed': {"root['budget']": {'new_value': '$26.1 Billion (2019)', 'old_value': '$26.1 billion (2019)'}}}
+233: {'dictionary_item_added': {"root['budget']": '$26.1 billion (2019)'}, 'dictionary_item_removed': {"root['endowment']": '$26.1 billion (2019)'}}
+342: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Tigers', 'old_value': 'Tigersracist'}}}
+343: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Tigersracist', 'old_value': 'Tigers'}}}
+353: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU URA NAICU', 'old_value': 'AAU URA NAICU   Sea-grant'}}}
+367: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU URA NAICU   Sea-grant', 'old_value': 'AAU URA NAICU   Sea-grant Space-grant'}}}
+419: {'dictionary_item_added': {"root['endowment']": '$26.1 billion (2019)'}, 'dictionary_item_removed': {"root['publisher']": 'title=Princeton endowment grows to $26.6 billion, earning a smaller return rate than previous yea'}}
+420: {'dictionary_item_added': {"root['publisher']": 'title=Princeton endowment grows to $26.6 billion, earning a smaller return rate than previous yea'}, 'dictionary_item_removed': {"root['endowment']": '|'}}
+434: {'values_changed': {"root['students']": {'new_value': '8,374 (Fall 2018) ', 'old_value': '8,419 (Fall 2019) '}, "root['undergrad']": {'new_value': '5,428 (Fall 2018)', 'old_value': '5,422 (Fall 2019)'}, "root['postgrad']": {'new_value': '2,946 (Fall 2018)', 'old_value': '2,997 (Fall 2019)'}}}
+478: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU URA NAICU   Sea-grant Space-grant', 'old_value': 'AAU URA NAICU Sea-grant Space-grant'}}}
+511: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU URA NAICU Sea-grant Space-grant', 'old_value': 'AAU URA NAICU Space-grant'}}}
+594: {'dictionary_item_added': {"root['staff']": '1,103', "root['academic_affiliations']": 'AAU URA NAICU Space-grant'}, 'dictionary_item_removed': {"root['doctoral']": '2,631 (Fall 2019)'}}
+615: {'values_changed': {"root['campus']": {'new_value': 'Suburban, college town ', 'old_value': 'Suburban/College town, '}}}
+645: {'dictionary_item_removed': {"root['total_staff']": '7,300'}}
+649: {'values_changed': {"root['campus']": {'new_value': 'Suburban/College town, ', 'old_value': 'Suburban/College town'}}}
+693: {'values_changed': {"root['endowment']": {'new_value': '|', 'old_value': '$37.7 billion (2021)'}}}
+699: {'values_changed': {"root['endowment']": {'new_value': '$37.7 billion (2021)', 'old_value': '$37.7 billion (2021) ||'}}}
+792: {'values_changed': {"root['endowment']": {'new_value': '$37.7 billion (2021) ||', 'old_value': '$37.7 billion (FY2021)'}}}
+799: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban/College town', 'old_value': 'Small City'}}}
+800: {'values_changed': {"root['endowment']": {'new_value': '$37.7 billion (FY2021)', 'old_value': '$37.7 billion (2021) ||'}}}
+804: {'values_changed': {"root['endowment']": {'new_value': '$37.7 billion (2021) ||', 'old_value': '$37.4 billion (FY2021)'}}}
+805: {'values_changed': {"root['endowment']": {'new_value': '$37.4 billion (FY2021)', 'old_value': '$37.7 billion (2021) ||'}}}
+820: {'dictionary_item_removed': {"root['free2']": "''The Daily Princetonian''  "}}
+850: {'values_changed': {"root['undergrad']": {'new_value': '5,422 (Fall 2019)', 'old_value': '5,321 (Fall 2021)'}, "root['postgrad']": {'new_value': '2,997 (Fall 2019)', 'old_value': '3,157 (Fall 2021)'}, "root['faculty']": {'new_value': '1,289', 'old_value': '1,068 (Fall 2021)'}}}
+851: {'values_changed': {"root['students']": {'new_value': '8,419 (Fall 2019) ', 'old_value': '8,478 (Fall 2021) '}}}

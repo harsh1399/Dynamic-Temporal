@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Groningen (UG)', "root['rector']": 'Prof. Elmer Sterken', "root['president']": 'Prof. Sibrandes Poppema', "root['academic_staff']": '5,608 employees', "root['students']": '30,041', "root['postgrad']": '1,758'}}
+54: {'values_changed': {"root['president']": {'new_value': 'Prof. Sibrandes Poppema', 'old_value': 'Prof. Jouke de Vries'}}}
+65: {'dictionary_item_removed': {"root['affiliations']": 'Coimbra Group '}}
+73: {'values_changed': {"root['affiliations']": {'new_value': 'Coimbra Group ', 'old_value': 'Coimbra Group, Guild of European Research-Intensive Universities '}}}
+76: {'values_changed': {"root['rector']": {'new_value': 'Prof. Elmer Sterken', 'old_value': 'Prof. Cisca Wijmenga'}}}
+82: {'values_changed': {"root['academic_staff']": {'new_value': '5,608 employees', 'old_value': '5,608 employees (September 2016)'}, "root['students']": {'new_value': '30,041', 'old_value': '30,041 (September 2016)'}, "root['postgrad']": {'new_value': '1,758', 'old_value': '1,758 (September 2016)'}}}
+84: {'values_changed': {"root['academic_staff']": {'new_value': '5,608 employees (September 2016)', 'old_value': '5,608 employees (September 2016) '}}}
+97: {'values_changed': {"root['rector']": {'new_value': 'Prof. Cisca Wijmenga', 'old_value': 'Cisca Wijmenga'}, "root['president']": {'new_value': 'Prof. Jouke de Vries', 'old_value': 'Jouke de Vries'}}}
+100: {'values_changed': {"root['students']": {'new_value': '30,041 (September 2016)', 'old_value': '32,700 (October 2019)'}}}
+104: {'values_changed': {"root['students']": {'new_value': '32,700 (October 2019)', 'old_value': '33,500 (October 2019)'}}}
+110: {'values_changed': {"root['students']": {'new_value': '33,500 (October 2019)', 'old_value': '32,700 (October 2019)'}}}
+115: {'values_changed': {"root['students']": {'new_value': '32,700 (October 2019)', 'old_value': '33,500 (October 2019)'}}}
+156: {'dictionary_item_added': {"root['postgrad']": '1,758 (September 2016)'}, 'dictionary_item_removed': {"root['administrative_staff']": '6,250 employees (27 May 2021)', "root['doctoral']": '4,350 (in 2020)'}, 'values_changed': {"root['academic_staff']": {'new_value': '5,608 employees (September 2016) ', 'old_value': '3,600 employees (in 2020) '}, "root['students']": {'new_value': '33,500 (October 2019)', 'old_value': '34,000 (in 2020)'}}}

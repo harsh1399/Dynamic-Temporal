@@ -1,0 +1,12 @@
+12: {'dictionary_item_removed': {"root['name']": 'University of the Cumberlands', "root['image_name']": 'University of the Cumberlands seal.png', "root['president']": 'Dr. James H. Taylor', "root['undergrad']": '1,743', "root['postgrad']": '1,474', "root['campus']": 'Rural', "root['endowment']": '$61,619,099'}}
+72: {'dictionary_item_added': {"root['endowment']": '$61,619,099'}, 'dictionary_item_removed': {"root['chancellor']": 'Dr. James H. Taylor', "root['students']": '7,693 As of fall 2016. '}, 'values_changed': {"root['president']": {'new_value': 'Dr. James H. Taylor', 'old_value': 'Dr. Larry L. Cockrum'}, "root['undergrad']": {'new_value': '1,743', 'old_value': '3,082'}, "root['postgrad']": {'new_value': '1,474', 'old_value': '4,611'}}}
+75: {'values_changed': {"root['president']": {'new_value': 'Dr. Larry L. Cockrum', 'old_value': 'Larry L. Cockrum'}, "root['chancellor']": {'new_value': 'Dr. James H. Taylor', 'old_value': 'James H. Taylor'}}}
+84: {'values_changed': {"root['chancellor']": {'new_value': 'James H. Taylor', 'old_value': 'N/A'}, "root['students']": {'new_value': '7,693 As of fall 2016. ', 'old_value': '13,476 As of fall 2018. '}, "root['undergrad']": {'new_value': '3,082', 'old_value': '3,262'}, "root['postgrad']": {'new_value': '4,611', 'old_value': '10,214'}}}
+102: {'dictionary_item_added': {"root['chancellor']": 'N/A'}, 'values_changed': {"root['president']": {'new_value': 'Larry L. Cockrum', 'old_value': 'Alex Caruso'}}}
+103: {'values_changed': {"root['president']": {'new_value': 'Alex Caruso', 'old_value': 'Larry Cockrum'}}}
+112: {'dictionary_item_removed': {"root['athletics']": 'NAIA'}, 'values_changed': {"root['postgrad']": {'new_value': '10,214', 'old_value': '37,214'}}}
+113: {'values_changed': {"root['postgrad']": {'new_value': '37,214', 'old_value': '4,611'}}}
+114: {'values_changed': {"root['students']": {'new_value': '13,476 As of fall 2018. ', 'old_value': '16,996 As of fall 2019. '}, "root['undergrad']": {'new_value': '3,262', 'old_value': '3,381'}, "root['postgrad']": {'new_value': '4,611', 'old_value': '13,092'}}}
+125: {'dictionary_item_removed': {"root['provost']": 'Emily Coleman'}}
+144: {'dictionary_item_removed': {"root['religious_affiliation']": 'Christian'}}
+145: {'dictionary_item_added': {"root['image_name']": 'University of the Cumberlands seal.png', "root['athletics']": 'NAIA'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NAIA'}}

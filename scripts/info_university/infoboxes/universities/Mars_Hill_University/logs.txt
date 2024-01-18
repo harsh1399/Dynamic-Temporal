@@ -1,0 +1,18 @@
+113: {'dictionary_item_removed': {"root['name']": 'Mars Hill College', "root['president']": 'Dan G. Lunsford', "root['students']": '1,237'}}
+122: {'values_changed': {"root['president']": {'new_value': 'Dan G. Lunsford', 'old_value': 'Dr. Dan G. Lunsford'}, "root['students']": {'new_value': '1,237', 'old_value': '1,370'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Mars Hill College', 'old_value': 'Mars Hill University'}}}
+129: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division II', "root['affiliations']": 'South Atlantic Conference, National Collegiate Cycling Association'}}
+142: {'values_changed': {"root['students']": {'new_value': '1,370', 'old_value': '1,444'}}}
+150: {'dictionary_item_removed': {"root['endowment']": '$42 million'}}
+152: {'values_changed': {"root['endowment']": {'new_value': '$42 million', 'old_value': '$50 million'}}}
+155: {'values_changed': {"root['students']": {'new_value': '1,444', 'old_value': '1,395'}}}
+193: {'values_changed': {"root['president']": {'new_value': 'Dr. Dan G. Lunsford', 'old_value': 'Tony Floyd, J.D.'}}}
+197: {'values_changed': {"root['students']": {'new_value': '1,395', 'old_value': '1,395 https://www.usnews.com/best-colleges/mars-hill-college-2944'}}}
+198: {'values_changed': {"root['students']": {'new_value': '1,395 https://www.usnews.com/best-colleges/mars-hill-college-2944', 'old_value': '1,395 https://www.usnews.com/best-colleges/mars-hill-college-2944 '}}}
+204: {'values_changed': {"root['students']": {'new_value': '1,395 https://www.usnews.com/best-colleges/mars-hill-college-2944 ', 'old_value': '1,395 '}}}
+214: {'dictionary_item_removed': {"root['embed']": 'yes', "root['nrhp_type']": 'hd', "root['location']": 'Bet. Bailey and Cascade Sts. N and S, Mars Hill, North Carolina, United States', "root['locmapin']": 'North Carolina#USA', "root['built']": '1892 | architect OR builder =', "root['architecture']": 'Colonial Revival, Classical Revival, etc.', "root['added']": 'September 12, 2006', "root['refnum']": '06000865<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Mars Hill University', 'old_value': 'Mars Hill College Historic District'}}}
+222: {'dictionary_item_added': {"root['athletics']": 'NCAA Division II', "root['affiliations']": 'South Atlantic Conference, National Collegiate Cycling Association'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division II, South Atlantic Conference, National Collegiate Cycling Association'}, 'values_changed': {"root['location']": {'new_value': 'Bet. Bailey and Cascade Sts. N and S, Mars Hill, North Carolina, United States', 'old_value': 'Bet. Bailey and Cascade Sts. N and S'}, "root['built']": {'new_value': '1892 | architect OR builder =', 'old_value': '1892'}}}
+224: {'values_changed': {"root['president']": {'new_value': 'Tony Floyd, J.D.', 'old_value': 'Tony Floyd'}}}
+244: {'dictionary_item_removed': {"root['religious_affilitation']": 'Christian '}}
+245: {'dictionary_item_added': {"root['religious_affilitation']": 'Christian '}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Christian '}}
+248: {'dictionary_item_removed': {"root['former_names']": 'French Broad Baptist Institute (1856–1859) Mars Hill College (1859–2013)'}}

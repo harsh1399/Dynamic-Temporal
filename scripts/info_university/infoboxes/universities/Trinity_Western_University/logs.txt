@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": "'''Trinity Western University'''", "root['image_name']": 'TWU COA.jpg', "root['endowment']": '$7.7 million', "root['president']": 'Jonathan S. Raymond', "root['provost']": 'Dennis Jameson', "root['students']": '4000', "root['undergrad']": '2700', "root['postgrad']": '603 (2005-2006)', "root['campus']": 'city            =Langley |state           =British Columbia |country         =Cana', "root['colours']": 'gold '}}
+23: {'dictionary_item_added': {"root['campus']": 'city            =Langley |state           =British Columbia |country         =Cana'}, 'values_changed': {"root['provost']": {'new_value': 'Dennis Jameson', 'old_value': 'Bob Wood (interim)'}}}
+28: {'values_changed': {"root['image_name']": {'new_value': 'TWU COA.jpg', 'old_value': 'Trinity Western University coat of arms.jpg'}}}
+43: {'values_changed': {"root['provost']": {'new_value': 'Bob Wood (interim)', 'old_value': 'W. Robert Wood'}}}
+425: {'values_changed': {"root['students']": {'new_value': '4000', 'old_value': '3500'}}}
+564: {'values_changed': {"root['students']": {'new_value': '3500', 'old_value': '4000'}, "root['undergrad']": {'new_value': '2700', 'old_value': '1900'}}}
+587: {'dictionary_item_removed': {"root['affiliations']": 'AUCC, ATS CUP, CHEC, CCCU, RSC, BCEQA.'}}
+614: {'dictionary_item_removed': {"root['campus']": 'colours         = blue '}, 'values_changed': {"root['colours']": {'new_value': 'gold ', 'old_value': 'blue  campus          = Urban | colors'}}}
+615: {'dictionary_item_added': {"root['campus']": 'colours         = blue '}, 'values_changed': {"root['colours']": {'new_value': 'blue  campus          = Urban | colors', 'old_value': 'blue '}}}
+618: {'values_changed': {"root['colours']": {'new_value': 'blue ', 'old_value': 'Blue '}}}
+620: {'values_changed': {"root['colours']": {'new_value': 'Blue ', 'old_value': 'gold '}}}
+629: {'dictionary_item_added': {"root['colours']": 'gold '}, 'values_changed': {"root['affiliations']": {'new_value': 'AUCC, ATS CUP, CHEC, CCCU, RSC, BCEQA.', 'old_value': 'AUCC, ATS, CUP, CHEC, CCCU, RSC, BCEQA.'}}}
+757: {'dictionary_item_added': {"root['postgrad']": '603 (2005-2006)'}, 'dictionary_item_removed': {"root['colours']": 'gold & blue'}, 'values_changed': {"root['name']": {'new_value': "'''Trinity Western University'''", 'old_value': 'Trinity Western University'}, "root['endowment']": {'new_value': '$7.7 million', 'old_value': '$12.2 million'}, "root['president']": {'new_value': 'Jonathan S. Raymond', 'old_value': 'Robert "Bob" Kuhn'}}}
+774: {'dictionary_item_removed': {"root['athletics']": 'U Sports, CWUAA', "root['religious_affiliation']": 'Evangelical Christian (Evangelical Free Church of America)'}}
+775: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Evangelical Christian (Evangelical Free Church of America)', 'old_value': 'Evangelical Christian (Evangelical Free Church of Canada)'}}}
+776: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Evangelical Christian (Evangelical Free Church of Canada)', 'old_value': 'Evangelical Christian'}}}
+804: {'values_changed': {"root['president']": {'new_value': 'Robert "Bob" Kuhn', 'old_value': 'Dr. Mark Husbands'}, "root['provost']": {'new_value': 'W. Robert Wood', 'old_value': 'Dr. W. Robert Wood'}}}
+811: {'values_changed': {"root['students']": {'new_value': '4000', 'old_value': '6000'}}}
+812: {'values_changed': {"root['students']": {'new_value': '6000', 'old_value': '4000'}}}
+817: {'values_changed': {"root['students']": {'new_value': '4000', 'old_value': '5000'}}}
+818: {'values_changed': {"root['students']": {'new_value': '5000', 'old_value': '4000'}}}
+826: {'values_changed': {"root['endowment']": {'new_value': '$12.2 million', 'old_value': '$22.3 million (2019)'}}}
+827: {'values_changed': {"root['endowment']": {'new_value': '$22.3 million (2019)', 'old_value': '$22.4 million (2019)'}}}
+836: {'values_changed': {"root['endowment']": {'new_value': '$22.4 million (2019)', 'old_value': '$16.9 million (2019)'}, "root['president']": {'new_value': 'Dr. Mark Husbands', 'old_value': 'Mark Husbands'}, "root['provost']": {'new_value': 'Dr. W. Robert Wood', 'old_value': 'W. Robert Wood'}}}
+837: {'values_changed': {"root['endowment']": {'new_value': '$16.9 million (2019)', 'old_value': 'CAD $22.4 million (2019)'}}}

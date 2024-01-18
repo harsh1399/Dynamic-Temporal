@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Purchase College, State University of New York', "root['president']": 'Thomas Schwarz', "root['provost']": 'Dr. Damian J. Fernandez', "root['faculty']": '300 http://www.purchase.edu/aboutpurchase/', "root['students']": '4,000', "root['campus']": 'Suburban, 500 acres (2 km²) http://www.purchase.edu/AboutPurchase/VisitorsGuide/'}}
+35: {'values_changed': {"root['faculty']": {'new_value': '300 http://www.purchase.edu/aboutpurchase/', 'old_value': '300'}, "root['campus']": {'new_value': 'Suburban, 500 acres (2 km²) http://www.purchase.edu/AboutPurchase/VisitorsGuide/', 'old_value': 'Suburban, 500 acres (2 km²)'}}}
+52: {'dictionary_item_removed': {"root['endowment']": '$54.4 million (2013) '}, 'values_changed': {"root['name']": {'new_value': 'Purchase College, State University of New York', 'old_value': 'State University of New York at Purchase'}, "root['president']": {'new_value': 'Thomas Schwarz', 'old_value': 'Thomas J. Schwarz'}, "root['provost']": {'new_value': 'Dr. Damian J. Fernandez', 'old_value': 'Barry Pearson'}, "root['students']": {'new_value': '4,000', 'old_value': '4,265'}, "root['campus']": {'new_value': 'Suburban, 500 acres (2 km²)', 'old_value': 'Suburban, 550 acres (2 km²)'}}}
+59: {'values_changed': {"root['endowment']": {'new_value': '$54.4 million (2013) ', 'old_value': '$63.9 million (2014) '}, "root['students']": {'new_value': '4,265', 'old_value': '4,188'}, "root['campus']": {'new_value': 'Suburban, 550 acres (2 km²)', 'old_value': 'Suburban, 550 acres (2 km²) '}}}
+61: {'values_changed': {"root['president']": {'new_value': 'Thomas J. Schwarz', 'old_value': 'David Zheng'}}}
+65: {'values_changed': {"root['president']": {'new_value': 'David Zheng', 'old_value': 'Thomas J.Schwarz'}}}
+131: {'values_changed': {"root['endowment']": {'new_value': '$63.9 million (2014) ', 'old_value': '$61.1 million (2016) '}, "root['students']": {'new_value': '4,188', 'old_value': '4,224'}}}
+135: {'values_changed': {"root['president']": {'new_value': 'Thomas J.Schwarz', 'old_value': 'Thomas J. Schwarz'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'State University of New York at Purchase', 'old_value': 'Purchase College, SUNY'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Purchase College, SUNY', 'old_value': 'State University of New York at Purchase'}}}
+164: {'dictionary_item_removed': {"root['undergrad']": '4,134', "root['postgrad']": '100'}, 'values_changed': {"root['students']": {'new_value': '4,224', 'old_value': '4,234'}, "root['campus']": {'new_value': 'Suburban, 550 acres (2 km²) ', 'old_value': 'Suburban, '}}}
+177: {'values_changed': {"root['president']": {'new_value': 'Thomas J. Schwarz', 'old_value': 'Dennis Craig (Interim)'}}}
+201: {'values_changed': {"root['president']": {'new_value': 'Dennis Craig (Interim)', 'old_value': 'Dennis Craig (Interim) '}}}
+234: {'values_changed': {"root['president']": {'new_value': 'Dennis Craig (Interim) ', 'old_value': 'Milagros Peña https://www.suny.edu/suny-news/press-releases/05-20/5-29-20/purchase-president.html'}}}
+235: {'dictionary_item_added': {"root['provost']": 'Barry Pearson'}, 'values_changed': {"root['president']": {'new_value': 'Milagros Peña https://www.suny.edu/suny-news/press-releases/05-20/5-29-20/purchase-president.html', 'old_value': 'Milagros Peña'}}}
+236: {'dictionary_item_removed': {"root['provost']": 'Barry Pearson'}, 'values_changed': {"root['president']": {'new_value': 'Milagros Peña', 'old_value': 'Dennis Craig (Interim) '}}}
+251: {'values_changed': {"root['president']": {'new_value': 'Dennis Craig (Interim) ', 'old_value': 'Milagros “Milly” Peña'}}}
+255: {'values_changed': {"root['endowment']": {'new_value': '$61.1 million (2016) ', 'old_value': '$77.9 million (2019)'}}}
+256: {'values_changed': {"root['students']": {'new_value': '4,234', 'old_value': '4,234  '}}}
+257: {'values_changed': {"root['students']": {'new_value': '4,234  ', 'old_value': '3,695  '}, "root['undergrad']": {'new_value': '4,134', 'old_value': '3,610'}, "root['postgrad']": {'new_value': '100', 'old_value': '85'}}}
+260: {'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Suburban '}}}
+288: {'values_changed': {"root['president']": {'new_value': 'Milagros “Milly” Peña', 'old_value': 'Jack Coffey'}}}
+289: {'values_changed': {"root['president']": {'new_value': 'Jack Coffey', 'old_value': 'Milagros Peña'}}}
+290: {'values_changed': {"root['president']": {'new_value': 'Milagros Peña', 'old_value': 'Jack Coffey'}}}
+291: {'values_changed': {"root['president']": {'new_value': 'Jack Coffey', 'old_value': 'Milagros “Milly” Peña'}}}

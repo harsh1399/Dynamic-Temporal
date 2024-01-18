@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of KwaZulu-Natal', "root['staff']": '8,431', "root['chancellor']": 'Frene Ginwala', "root['vice_chancellor']": 'Prof. Malegapuru William Makgoba (Oxon)', "root['students']": '38,532', "root['undergrad']": '28,904', "root['postgrad']": '9,628', "root['campus']": '5 urban campuses', "root['affiliations']": 'AAU, ACU, HESA, IAU'}}
+129: {'dictionary_item_added': {"root['staff']": '8,431', "root['students']": '38,532', "root['undergrad']": '28,904', "root['postgrad']": '9,628', "root['campus']": '5 urban campuses', "root['affiliations']": 'AAU, ACU, HESA, IAU'}, 'values_changed': {"root['name']": {'new_value': 'University of KwaZulu-Natal', 'old_value': 'University of KwaZulu-Natal<r'}, "root['chancellor']": {'new_value': 'Frene Ginwala', 'old_value': 'Frene Ginwala<ref name="ukn'}, "root['vice_chancellor']": {'new_value': 'Prof. Malegapuru William Makgoba (Oxon)', 'old_value': 'Prof. Malegapuru William Makgoba '}}}
+172: {'values_changed': {"root['chancellor']": {'new_value': 'Frene Ginwala<ref name="ukn', 'old_value': 'Dr Zweli Mkhize<ref name="ukn'}}}
+255: {'dictionary_item_removed': {"root['academic_staff']": '1,472 ', "root['students']": '37,850  (2007)', "root['undergrad']": '24,897  (2007)', "root['postgrad']": '3,807  (2007)'}}
+268: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof. Malegapuru William Makgoba ', 'old_value': 'Dr. Albert van Jaarsveld'}}}
+285: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Zweli Mkhize<ref name="ukn', 'old_value': 'Mlonele<ref name="ukn'}}}
+286: {'values_changed': {"root['chancellor']": {'new_value': 'Mlonele<ref name="ukn', 'old_value': 'Dr Zweli Mkhize<ref name="ukn'}}}
+294: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr. Albert van Jaarsveld', 'old_value': 'Babes Wodumo'}}}
+295: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Babes Wodumo', 'old_value': 'Dr. Albert van Jaarsveld'}}}
+301: {'dictionary_item_removed': {"root['colours']": 'Black and red '}, 'values_changed': {"root['chancellor']": {'new_value': 'Dr Zweli Mkhize<ref name="ukn', 'old_value': 'Mogoeng Mogoeng'}}}
+321: {'dictionary_item_removed': {"root['campus']": '5 campuses '}, 'values_changed': {"root['name']": {'new_value': 'University of KwaZulu-Natal<r', 'old_value': 'University of KwaZulu-Natal '}, "root['academic_staff']": {'new_value': '1,472 ', 'old_value': '1,328 '}, "root['students']": {'new_value': '37,850  (2007)', 'old_value': '46,539 '}}}
+322: {'values_changed': {"root['undergrad']": {'new_value': '24,897  (2007)', 'old_value': '24,897 '}}}
+341: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr. Albert van Jaarsveld', 'old_value': 'Professor Nana Poku'}}}
+342: {'dictionary_item_removed': {"root['sports']": 'Varsity Cup', "root['affiliations']": 'AAU, ACU, HESA'}, 'values_changed': {"root['academic_staff']": {'new_value': '1,328 ', 'old_value': '1,328'}, "root['colours']": {'new_value': 'Black and red ', 'old_value': 'Black and Red, '}}}
+359: {'dictionary_item_removed': {"root['Campus']": 'Westville'}}
+362: {'dictionary_item_added': {"root['Campus']": 'Westville'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Nana Poku', 'old_value': 'Nana Poku'}, "root['colours']": {'new_value': 'Black and Red, ', 'old_value': 'Black and red, '}}}
+378: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Nana Poku', 'old_value': 'Professor Nana Poku '}}}
+384: {'values_changed': {"root['chancellor']": {'new_value': 'Mogoeng Mogoeng', 'old_value': 'vacant'}}}
+385: {'values_changed': {"root['chancellor']": {'new_value': 'vacant', 'old_value': 'Dr Reuel Jethro Khoza'}}}
+391: {'values_changed': {"root['students']": {'new_value': '46,539 ', 'old_value': '46,539  (2016)'}}}

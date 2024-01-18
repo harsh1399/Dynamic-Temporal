@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Arts University College at Bournemouth', "root['principal']": 'Professor Stuart Bartholomew', "root['location']": 'Poole, Dorset, United Kingdom', "root['campus']": 'Wallisdown Campus', "root['students']": '2,500+'}}
+4: {'values_changed': {"root['name']": {'new_value': 'The Arts University College at Bournemouth', 'old_value': 'The Arts University at Bournemouth'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'The Arts University at Bournemouth', 'old_value': 'The Arts University College at Bournemouth'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'The Arts University College at Bournemouth', 'old_value': 'Arts University Bournemouth'}}}
+38: {'values_changed': {"root['students']": {'new_value': '2,500+', 'old_value': '3000 +'}}}
+40: {'values_changed': {"root['students']": {'new_value': '3000 +', 'old_value': '3,500'}}}
+47: {'dictionary_item_removed': {"root['facebook']": 'http://www.'}}
+54: {'values_changed': {"root['facebook']": {'new_value': 'http://www.', 'old_value': 'http://'}}}
+96: {'values_changed': {"root['principal']": {'new_value': 'Professor Stuart Bartholomew', 'old_value': 'Stuart Bartholomew'}}}
+109: {'dictionary_item_added': {"root['principal']": 'Stuart Bartholomew', "root['students']": '3,500'}, 'dictionary_item_removed': {"root['vice_chancellor']": 'Stuart Bartholomew', "root['chairman']": 'Roger Laughton CBE', "root['undergrad']": '3,000', "root['postgrad']": '20', "root['doctoral']": '1'}}
+120: {'dictionary_item_added': {"root['postgrad']": '20', "root['doctoral']": '1', "root['facebook']": 'http://'}, 'dictionary_item_removed': {"root['academic_staff']": '330', "root['administrative_staff']": '135'}, 'values_changed': {"root['undergrad']": {'new_value': '3,000', 'old_value': '2,865'}}}
+121: {'dictionary_item_removed': {"root['budget']": '£4,159,000  (2013-2014)'}, 'values_changed': {"root['academic_staff']": {'new_value': '330', 'old_value': '330  (2013-2014)'}, "root['administrative_staff']": {'new_value': '135', 'old_value': '135  (2013-2014)'}, "root['undergrad']": {'new_value': '2,865', 'old_value': '2,865  (2013-2014)'}}}
+157: {'dictionary_item_added': {"root['administrative_staff']": '135  (2013-2014)'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Stuart Bartholomew', 'old_value': 'Stuart Bartholomew CBE'}}}
+165: {'dictionary_item_added': {"root['undergrad']": '2,865  (2013-2014)'}, 'dictionary_item_removed': {"root['former_names']": 'Arts University College at Bournemouth (AUCB), Arts Institute at Bournemouth (AIB), Bournemouth and Poole College of Art and Design '}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Stuart Bartholomew CBE', 'old_value': 'Paul Gough'}}}
+167: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Paul Gough', 'old_value': 'Professor Paul Gough'}, "root['chairman']": {'new_value': 'Roger Laughton CBE', 'old_value': 'Chris Martin'}}}

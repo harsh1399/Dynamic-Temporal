@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Canterbury', "root['image_name']": 'University of Canterbury Coat of Arms.png', "root['chancellor']": 'Susan McCormack', "root['vice_chancellor']": 'Cheryl de la Rey', "root['former_names']": 'Canterbury College', "root['students']": '15,564 http://www.canterbury.ac.nz/theuni/plans/facts.shtml University of Canterbury – UC Facts ', "root['undergrad']": '9,590', "root['postgrad']": '2,777', "root['academic_staff']": '715', "root['campus']": 'Urban'}}
+8: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Cheryl de la Rey', 'old_value': 'Christopher Hann'}}}
+9: {'values_changed': {"root['undergrad']": {'new_value': '9,590', 'old_value': '3'}, "root['postgrad']": {'new_value': '2,777', 'old_value': '20,777'}}}
+10: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Christopher Hann', 'old_value': 'Cheryl de la Rey'}, "root['undergrad']": {'new_value': '3', 'old_value': '9,590'}, "root['postgrad']": {'new_value': '20,777', 'old_value': '2,777'}}}
+17: {'dictionary_item_added': {"root['campus']": 'Urban'}, 'values_changed': {"root['students']": {'new_value': '15,564 http://www.canterbury.ac.nz/theuni/plans/facts.shtml University of Canterbury – UC Facts ', 'old_value': '17,299  '}, "root['undergrad']": {'new_value': '9,590', 'old_value': '10,965'}, "root['postgrad']": {'new_value': '2,777', 'old_value': '3,105'}, "root['academic_staff']": {'new_value': '715', 'old_value': '777'}}}
+18: {'values_changed': {"root['students']": {'new_value': '17,299  ', 'old_value': '17,299 '}}}
+20: {'values_changed': {"root['students']": {'new_value': '17,299 ', 'old_value': '17,299 (2018) '}, "root['undergrad']": {'new_value': '10,965', 'old_value': '10,965 (2018)'}, "root['postgrad']": {'new_value': '3,105', 'old_value': '3,105 (2018)'}}}
+23: {'dictionary_item_removed': {"root['campus']": 'Urban'}}
+46: {'values_changed': {"root['image_name']": {'new_value': 'University of Canterbury Coat of Arms.png', 'old_value': 'Shield of the University of Canterbury.svg'}}}
+106: {'values_changed': {"root['students']": {'new_value': '17,299 (2018) ', 'old_value': '18,364 (2019) '}, "root['undergrad']": {'new_value': '10,965 (2018)', 'old_value': '11,621 (2019)'}, "root['postgrad']": {'new_value': '3,105 (2018)', 'old_value': '3,271 (2019)'}, "root['academic_staff']": {'new_value': '777', 'old_value': '826'}}}
+133: {'dictionary_item_added': {"root['image_name']": 'Shield of the University of Canterbury.svg'}, 'dictionary_item_removed': {"root['colours']": 'UC Murrey Red and UC Gold   '}, 'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban    76 ha (190 acres)'}}}
+140: {'dictionary_item_removed': {"root['affiliations']": 'UCSA   Te Rūnanga o Ngāi Tahu  '}}
+141: {'dictionary_item_removed': {"root['image_name']": 'UCWhite UCRed RGB.jpg'}}
+147: {'values_changed': {"root['campus']": {'new_value': 'Urban    76 ha (190 acres)', 'old_value': 'Urban    76 ha (190 acres) | student magazine = Canta'}}}
+148: {'dictionary_item_added': {"root['affiliations']": 'UCSA   Te Rūnanga o Ngāi Tahu  '}, 'values_changed': {"root['campus']": {'new_value': 'Urban    76 ha (190 acres) | student magazine = Canta', 'old_value': 'Urban    76 ha (190 acres)'}}}
+157: {'dictionary_item_removed': {"root['affiliations']": 'UCSA   Te Rūnanga o Ngāi Tahu  '}}
+176: {'values_changed': {"root['affiliations']": {'new_value': 'UCSA   Te Rūnanga o Ngāi Tahu  ', 'old_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu  '}}}
+180: {'values_changed': {"root['affiliations']": {'new_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu  ', 'old_value': 'UCSA   Te Rūnanga o Ngāi Tahu  '}}}
+181: {'values_changed': {"root['affiliations']": {'new_value': 'UCSA   Te Rūnanga o Ngāi Tahu  ', 'old_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu  '}}}
+186: {'values_changed': {"root['colours']": {'new_value': 'UC Murrey Red and UC Gold   ', 'old_value': 'UC Murrey Red and UC Gold  '}, "root['affiliations']": {'new_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu  ', 'old_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu '}}}
+187: {'values_changed': {"root['campus']": {'new_value': 'Urban    76 ha (190 acres)', 'old_value': 'Residential    76 ha (190 acres)'}}}
+188: {'values_changed': {"root['campus']": {'new_value': 'Residential    76 ha (190 acres)', 'old_value': 'Suburban    76 ha (190 acres)'}}}
+257: {'values_changed': {"root['students']": {'new_value': '18,364 (2019) ', 'old_value': '18,771 (2020) '}, "root['undergrad']": {'new_value': '11,621 (2019)', 'old_value': '12,224 (2020)'}, "root['postgrad']": {'new_value': '3,271 (2019)', 'old_value': '3,154 (2020)'}, "root['academic_staff']": {'new_value': '826', 'old_value': '867'}}}
+301: {'values_changed': {"root['affiliations']": {'new_value': 'UCSA, SVA   Te Rūnanga o Ngāi Tahu ', 'old_value': 'UCSA   SVA   Te Rūnanga o Ngāi Tahu '}}}
+336: {'values_changed': {"root['campus']": {'new_value': 'Suburban    76 ha (190 acres)', 'old_value': 'Suburban    87 ha (214 acres)'}}}
+347: {'values_changed': {"root['academic_staff']": {'new_value': '867', 'old_value': '867 (2020)'}}}
+354: {'values_changed': {"root['affiliations']": {'new_value': 'UCSA   SVA   Te Rūnanga o Ngāi Tahu ', 'old_value': 'UCSA   SVA   Ngāi Tahu '}}}
+372: {'values_changed': {"root['campus']": {'new_value': 'Suburban    87 ha (214 acres)', 'old_value': 'Suburban and Urban    87 ha (214 acres)'}}}
+378: {'type_changes': {"root['affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UCSA', 'SVA', 'Ngāi Tahu', '', '', '', 'Crusaders (rugby union)'], 'new_value': 'UCSA   SVA   Ngāi Tahu '}}}
+402: {'dictionary_item_removed': {"root['endowment']": 'NZD $136.7million (31 December 2020)', "root['budget']": 'NZD $417.7million (31 December 2020)'}}
+405: {'values_changed': {"root['image_name']": {'new_value': 'UCWhite UCRed RGB.jpg', 'old_value': 'Svg (7).svg'}}}
+440: {'iterable_item_removed': {"root['affiliations'][6]": '', "root['affiliations'][7]": '', "root['affiliations'][8]": ''}}

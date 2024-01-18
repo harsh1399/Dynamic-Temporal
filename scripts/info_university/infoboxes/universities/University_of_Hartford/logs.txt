@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Hartford', "root['chartered']": '1957', "root['president']": 'Walter Harrison', "root['campus']": 'Suburban', "root['endowment']": '$115,831,000', "root['enrollment']": '7,025', "root['undergrad']": '5,350', "root['postgrad']": '1,675', "root['staff']": '718', "root['sports']": '18 varsity teams', "root['athletics']": 'NCAA Division I – AEC', "root['affiliations']": 'NAICU'}}
+5: {'values_changed': {"root['endowment']": {'new_value': '$115,831,000', 'old_value': '$144,991,000'}}}
+21: {'dictionary_item_added': {"root['chartered']": '1957', "root['sports']": '18 varsity teams'}, 'values_changed': {"root['president']": {'new_value': 'Walter Harrison', 'old_value': 'Gregory S. Woodward'}, "root['endowment']": {'new_value': '$144,991,000', 'old_value': '$145.0 million '}, "root['affiliations']": {'new_value': 'NAICU', 'old_value': 'NAICU   '}}}
+32: {'values_changed': {"root['affiliations']": {'new_value': 'NAICU   ', 'old_value': 'NAICU |'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'University of Hartford', 'old_value': 'GO See Stop Laughing Mom;s Finial Show this Wednesday'}, "root['president']": {'new_value': 'Gregory S. Woodward', 'old_value': 'Dan Owens'}}}
+67: {'values_changed': {"root['name']": {'new_value': 'GO See Stop Laughing Mom;s Finial Show this Wednesday', 'old_value': 'University of Hartford'}, "root['president']": {'new_value': 'Dan Owens', 'old_value': 'Gregory S. Woodward'}}}
+76: {'dictionary_item_added': {"root['affiliations']": 'NAICU |'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'NAICU'}}
+111: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – AEC'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Suburban | Sporting affiliations = NCAA Division I – AEC'}}}
+112: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I – AEC'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban | Sporting affiliations = NCAA Division I – AEC', 'old_value': 'Suburban'}}}
+114: {'values_changed': {"root['enrollment']": {'new_value': '7,025', 'old_value': '6,580'}, "root['undergrad']": {'new_value': '5,350', 'old_value': '4,477'}, "root['postgrad']": {'new_value': '1,675', 'old_value': '1,492'}}}
+128: {'values_changed': {"root['enrollment']": {'new_value': '6,580', 'old_value': '6,580 '}}}
+142: {'values_changed': {"root['enrollment']": {'new_value': '6,580 ', 'old_value': '6,792 '}, "root['undergrad']": {'new_value': '4,477', 'old_value': '5,019'}, "root['postgrad']": {'new_value': '1,492', 'old_value': '1,773'}}}
+152: {'values_changed': {"root['endowment']": {'new_value': '$145.0 million ', 'old_value': '$178.8 million '}}}
+153: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – AEC', 'old_value': 'NCAA Division I – America East'}}}
+154: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – America East', 'old_value': "NCAA Division I – America East, Big Sky (men's golf), MAAC (women's golf)"}}}
+174: {'values_changed': {"root['endowment']": {'new_value': '$178.8 million ', 'old_value': '$182.8 million (2019)'}}}
+183: {'values_changed': {"root['academic_affiliations']": {'new_value': 'NAICU', 'old_value': 'NAICU   Space-grant'}}}
+200: {'values_changed': {"root['endowment']": {'new_value': '$182.8 million (2019)', 'old_value': '$175.9 million (2020)'}}}
+215: {'values_changed': {"root['athletics']": {'new_value': "NCAA Division I – America East, Big Sky (men's golf), MAAC (women's golf)", 'old_value': 'NCAA Division I'}}}
+222: {'dictionary_item_added': {"root['staff']": '718'}, 'dictionary_item_removed': {"root['administrative_staff']": '718'}}
+236: {'dictionary_item_removed': {"root['style']": 'title'}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I', 'old_value': "MAAC (women's golf)"}}}
+238: {'dictionary_item_added': {"root['style']": 'title'}, 'values_changed': {"root['athletics']": {'new_value': "MAAC (women's golf)", 'old_value': 'NCAA Division I'}}}
+260: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I'}, 'dictionary_item_removed': {"root['style']": 'title'}, 'values_changed': {"root['enrollment']": {'new_value': '6,792 ', 'old_value': '5,740 |'}, "root['undergrad']": {'new_value': '5,019', 'old_value': '3,977'}, "root['postgrad']": {'new_value': '1,773', 'old_value': '1,763'}}}
+270: {'dictionary_item_added': {"root['style']": 'title'}, 'values_changed': {"root['enrollment']": {'new_value': '5,740 |', 'old_value': '5,740 '}}}

@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Whitman College', "root['image_name']": 'Whitman College Logo.jpg', "root['religious_affiliation']": 'Non-sectarian', "root['president']": 'Kathleen Murray', "root['endowment']": '$477.8 million (2016)', "root['undergrad']": '1,470 ', "root['faculty']": '200', "root['athletics']": 'NCAA Division III – NWC', "root['sports']": '15 varsity teams', "root['affiliations']": 'Annapolis Group, Oberlin Group, CLAC, Colleges That Change Lives'}}
+8: {'values_changed': {"root['endowment']": {'new_value': '$477.8 million (2016)', 'old_value': '$561.0 million (2018)'}}}
+11: {'values_changed': {"root['endowment']": {'new_value': '$561.0 million (2018)', 'old_value': '$761.0 million (2018)'}}}
+12: {'values_changed': {"root['endowment']": {'new_value': '$761.0 million (2018)', 'old_value': '$561.0 million (2018)'}}}
+37: {'values_changed': {"root['endowment']": {'new_value': '$561.0 million (2018)', 'old_value': '$565.3 million (2019)'}}}
+41: {'values_changed': {"root['affiliations']": {'new_value': 'Annapolis Group, Oberlin Group, CLAC, Colleges That Change Lives', 'old_value': 'Annapolis Group, Oberlin Group, CLAC'}}}
+52: {'values_changed': {"root['undergrad']": {'new_value': '1,470 ', 'old_value': '1,579 (2019)'}}}
+53: {'values_changed': {"root['faculty']": {'new_value': '200', 'old_value': '235 (2019)'}}}
+54: {'values_changed': {"root['undergrad']": {'new_value': '1,579 (2019)', 'old_value': '1,509 (2020)'}}}
+56: {'values_changed': {"root['undergrad']": {'new_value': '1,509 (2020)', 'old_value': '1,579 (2019)'}}}
+69: {'dictionary_item_added': {"root['affiliations']": 'Annapolis Group, Oberlin Group, CLAC'}, 'dictionary_item_removed': {"root['campus']": 'Rural small town, '}}
+91: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Non-sectarian', 'old_value': 'Ceased in 1882'}}}
+93: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Ceased in 1882', 'old_value': 'Ceased in 1907'}}}
+104: {'dictionary_item_removed': {"root['USNWR_LA']": '46', "root['Wamo_LA']": '81', "root['Forbes']": '89', "root['THE_WSJ']": '101  For students who are interested in foreign policy, Whitman is one of 16 institutions participating in the two-year-old Thomas R. Pickering Foreign Affairs Fellowship program. http://www.woodrow.org/public-policy/undergraduate.php Woodrow Wilson National Fellowship Foundation: Undergraduate Foreign Affairs u'}, 'values_changed': {"root['undergrad']": {'new_value': '1,579 (2019)', 'old_value': '1,509 (2020)'}, "root['faculty']": {'new_value': '235 (2019)', 'old_value': '235 (2020)'}}}
+105: {'values_changed': {"root['faculty']": {'new_value': '235 (2020)', 'old_value': '235 (2019)'}}}
+133: {'dictionary_item_added': {"root['USNWR_LA']": '46', "root['Wamo_LA']": '81', "root['Forbes']": '89', "root['THE_WSJ']": '101  For students who are interested in foreign policy, Whitman is one of 16 institutions participating in the two-year-old Thomas R. Pickering Foreign Affairs Fellowship program. http://www.woodrow.org/public-policy/undergraduate.php Woodrow Wilson National Fellowship Foundation: Undergraduate Foreign Affairs u'}, 'values_changed': {"root['image_name']": {'new_value': 'Whitman College Logo.jpg', 'old_value': 'Whitman Wordmark 2.0.jpg'}}}
+159: {'values_changed': {"root['sports']": {'new_value': '15 varsity teams', 'old_value': '17 varsity teams'}}}
+181: {'values_changed': {"root['endowment']": {'new_value': '$565.3 million (2019)', 'old_value': '$586.3 million (2020)'}}}
+216: {'values_changed': {"root['endowment']": {'new_value': '$586.3 million (2020)', 'old_value': '$812.5 million (2021)'}}}

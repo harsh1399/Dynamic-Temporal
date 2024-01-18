@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bahria University', "root['endowment']": 'Grants', "root['rector']": 'Vice Admiral Mohammad Haroon', "root['students']": '6050+ ', "root['campus']": 'Multi-campus', "root['affiliations']": 'Pakistan Engineering Council Higher Education Commission'}}
+10: {'values_changed': {"root['campus']": {'new_value': 'Multi-campus', 'old_value': 'Islamabad & Karachi'}}}
+11: {'values_changed': {"root['campus']": {'new_value': 'Islamabad & Karachi', 'old_value': 'Multi-campus'}}}
+22: {'values_changed': {"root['rector']": {'new_value': 'Vice Admiral Mohammad Haroon', 'old_value': 'Vice AdmiralShahid Iqbal HI(M) (Retired)'}}}
+23: {'values_changed': {"root['students']": {'new_value': '6050+ ', 'old_value': '9000+ '}}}
+24: {'values_changed': {"root['rector']": {'new_value': 'Vice AdmiralShahid Iqbal HI(M) (Retired)', 'old_value': 'Vice Admiral Shahid Iqbal HI(M) (Retired)'}}}
+26: {'values_changed': {"root['students']": {'new_value': '9000+ ', 'old_value': '9300+ '}}}
+55: {'dictionary_item_removed': {"root['location']": 'Islamabad, Pakistan (Main Campus)                    Karachi, Pakistan (Constituent Unit)'}}
+83: {'values_changed': {"root['affiliations']": {'new_value': 'Pakistan Engineering Council Higher Education Commission', 'old_value': 'Higher Education Commission of Pakistan                    Pakistan Engineering Council   Pakistan Medical and Dental Council   Pakistan Bar Council'}}}
+93: {'dictionary_item_added': {"root['affiliations']": 'Higher Education Commission of Pakistan                    Pakistan Engineering Council   Pakistan Medical and Dental Council   Pakistan Bar Council'}, 'dictionary_item_removed': {"root['recognition']": 'Higher Education Commission of Pakistan                    Pakistan Engineering Council   Pakistan Medical and Dental Council   Pakistan Bar Council'}}
+95: {'dictionary_item_added': {"root['recognition']": 'Higher Education Commission of Pakistan                    Pakistan Engineering Council   Pakistan Medical and Dental Council   Pakistan Bar Council'}, 'dictionary_item_removed': {"root['affiliations']": 'Higher Education Commission of Pakistan                    Pakistan Engineering Council   Pakistan Medical and Dental Council   Pakistan Bar Council'}}

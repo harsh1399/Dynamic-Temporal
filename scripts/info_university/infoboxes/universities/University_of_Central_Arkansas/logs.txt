@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Central Arkansas', "root['president']": 'Tom Courtway |vic', "root['endowment']": 'US $45.3 million (2011)', "root['students']": '13,863 (Fall 2011) http://uca.edu/news/freshman-enrollment-increases-six-percent/', "root['undergrad']": '12,302 (Fall 2011)', "root['postgrad']": '1,561 (Fall 2011)', "root['campus']": 'Suburban', "root['athletics']": 'NCAA Division I, Southland Conference'}}
+17: {'values_changed': {"root['endowment']": {'new_value': 'US $45.3 million (2011)', 'old_value': '$45.3 million (2011)'}}}
+19: {'values_changed': {"root['students']": {'new_value': '13,863 (Fall 2011) http://uca.edu/news/freshman-enrollment-increases-six-percent/', 'old_value': '13,863 (Fall 2011) '}}}
+32: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I, Southland Conference', 'old_value': 'NCAA Division I – Southland Conference'}}}
+33: {'values_changed': {"root['students']": {'new_value': '13,863 (Fall 2011) ', 'old_value': '11,698 (Fall 2014) '}}}
+34: {'values_changed': {"root['undergrad']": {'new_value': '12,302 (Fall 2011)', 'old_value': '9,842 (Fall 2014)'}, "root['postgrad']": {'new_value': '1,561 (Fall 2011)', 'old_value': '1,856 (Fall 2011)'}}}
+56: {'values_changed': {"root['endowment']": {'new_value': '$45.3 million (2011)', 'old_value': '$48.6 million (2015)'}, "root['postgrad']": {'new_value': '1,856 (Fall 2011)', 'old_value': '1,856 (Fall 2014)'}}}
+58: {'values_changed': {"root['students']": {'new_value': '11,698 (Fall 2014) ', 'old_value': '11,487 (Fall 2016) '}, "root['undergrad']": {'new_value': '9,842 (Fall 2014)', 'old_value': '9,615 (Fall 2016)'}, "root['postgrad']": {'new_value': '1,856 (Fall 2014)', 'old_value': '1,872 (Fall 2016)'}}}
+59: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'College Town '}}}
+60: {'values_changed': {"root['undergrad']": {'new_value': '9,615 (Fall 2016)', 'old_value': '9,615'}, "root['postgrad']": {'new_value': '1,872 (Fall 2016)', 'old_value': '1,872'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Tom Courtway |vic', 'old_value': 'Tom Courtway'}}}
+63: {'dictionary_item_removed': {"root['former_names']": 'Arkansas State Normal School (1907–1925) '}}
+69: {'dictionary_item_added': {"root['former_names']": 'Arkansas State Normal School (1907–1925) '}, 'values_changed': {"root['president']": {'new_value': 'Tom Courtway', 'old_value': 'Tom Courtway '}, "root['athletics']": {'new_value': 'NCAA Division I – Southland Conference', 'old_value': 'NCAA Division I – Southland Conference '}}}
+75: {'dictionary_item_removed': {"root['budget']": '$183 million (FY 2017)'}}
+92: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – Southland Conference '}, 'values_changed': {"root['president']": {'new_value': 'Tom Courtway ', 'old_value': 'Kelley Erstine (Interim) '}}}
+93: {'values_changed': {"root['president']": {'new_value': 'Kelley Erstine (Interim) ', 'old_value': 'Houston Davis '}}}
+104: {'dictionary_item_removed': {"root['provost']": 'Michael Hargis (Interim) '}}
+105: {'values_changed': {"root['budget']": {'new_value': '$183 million (FY 2017)', 'old_value': '$187 million (FY 2018)'}}}
+106: {'values_changed': {"root['campus']": {'new_value': 'College Town ', 'old_value': 'Rural (College Town) '}}}
+108: {'values_changed': {"root['president']": {'new_value': 'Houston Davis ', 'old_value': 'Houston Davis'}, "root['provost']": {'new_value': 'Michael Hargis (Interim) ', 'old_value': 'Michael Hargis (Interim)'}, "root['campus']": {'new_value': 'Rural (College Town) ', 'old_value': 'College Town '}}}
+111: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I – Southland Conference'}, 'values_changed': {"root['provost']": {'new_value': 'Michael Hargis (Interim)', 'old_value': 'Michael Hargis (Interim) |'}, "root['budget']": {'new_value': '$187 million (FY 2018)', 'old_value': '$187 million (FY 2018) |'}, "root['campus']": {'new_value': 'College Town ', 'old_value': 'Suburban '}}}
+132: {'values_changed': {"root['provost']": {'new_value': 'Michael Hargis (Interim) |', 'old_value': 'Patty Poulter'}}}
+168: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+174: {'values_changed': {"root['endowment']": {'new_value': '$48.6 million (2015)', 'old_value': '$29.9 million (2020)'}}}
+183: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – Southland Conference', 'old_value': 'NCAA Division I – ASUN Conference'}}}
+187: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – ASUN Conference'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – ASUN Conference'}, 'values_changed': {"root['budget']": {'new_value': '$187 million (FY 2018) |', 'old_value': '$187 million (FY 2018)'}, "root['campus']": {'new_value': 'Suburban ', 'old_value': 'Suburban, '}}}

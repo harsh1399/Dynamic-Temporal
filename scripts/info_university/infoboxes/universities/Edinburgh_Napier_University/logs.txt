@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Napier University', "root['staff']": '1,648  ', "root['chancellor']": 'vacant', "root['head']": 'Professor Joan Stringer CBE', "root['students']": '14,162'}}
+52: {'dictionary_item_added': {"root['chancellor']": 'vacant', "root['head']": 'Professor Joan Stringer CBE'}, 'dictionary_item_removed': {"root['image_name']": 'C_arms1.gif', "root['principal']": 'Prof. Joan Stringer CBE', "root['undergrad']": '11,685', "root['postgrad']": '3,165'}, 'values_changed': {"root['students']": {'new_value': '14,162', 'old_value': '14,850  '}}}
+95: {'dictionary_item_removed': {"root['chancellor']": 'Tim Waterstone'}}
+127: {'values_changed': {"root['image_name']": {'new_value': 'C_arms1.gif', 'old_value': 'C arms1.png'}, "root['staff']": {'new_value': '1,648  ', 'old_value': '1,648 '}, "root['students']": {'new_value': '14,850  ', 'old_value': '14,850 '}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Napier University', 'old_value': 'Edinburgh Napier University'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Edinburgh Napier University', 'old_value': 'Napier University'}}}
+150: {'values_changed': {"root['name']": {'new_value': 'Napier University', 'old_value': 'Edinburgh Napier University'}}}
+211: {'values_changed': {"root['image_name']": {'new_value': 'C arms1.png', 'old_value': 'EdNapUni_CoatOfArms.jpg'}}}
+252: {'dictionary_item_added': {"root['image_name']": 'EdNapUni_CoatOfArms.jpg'}, 'values_changed': {"root['principal']": {'new_value': 'Prof. Joan Stringer CBE', 'old_value': 'Prof. Dame Joan Stringer DBE'}}}
+262: {'dictionary_item_removed': {"root['image_name']": 'EdNapUni_CoatOfArms.jpg'}}
+283: {'dictionary_item_added': {"root['image_name']": 'EdNapUni_CoatOfArms.jpg'}, 'values_changed': {"root['name']": {'new_value': 'Edinburgh Napier University', 'old_value': 'Nigger'}}}
+284: {'values_changed': {"root['name']": {'new_value': 'Nigger', 'old_value': 'Edinburgh Napier University'}}}
+344: {'values_changed': {"root['students']": {'new_value': '14,850 ', 'old_value': '15,691 '}, "root['undergrad']": {'new_value': '11,685', 'old_value': '13,100'}, "root['postgrad']": {'new_value': '3,165', 'old_value': '2584'}}}
+345: {'values_changed': {"root['undergrad']": {'new_value': '13,100', 'old_value': '13,107'}}}
+347: {'values_changed': {"root['students']": {'new_value': '15,691 ', 'old_value': '15,691'}}}
+348: {'values_changed': {"root['staff']": {'new_value': '1,648 ', 'old_value': '1,858'}}}
+402: {'values_changed': {"root['staff']": {'new_value': '1,858', 'old_value': '1,660'}, "root['students']": {'new_value': '15,691', 'old_value': '17,793'}, "root['undergrad']": {'new_value': '13,107', 'old_value': '14,927'}, "root['postgrad']": {'new_value': '2584', 'old_value': '2,866'}}}
+405: {'values_changed': {"root['staff']": {'new_value': '1,660', 'old_value': '1,364'}}}
+406: {'dictionary_item_added': {"root['staff']": '1,364'}, 'dictionary_item_removed': {"root['academic_staff']": '802', "root['administrative_staff']": '562', "root['budget']": '£105 million (GBP, 2009/10) '}}
+431: {'dictionary_item_removed': {"root['campus']": 'Urban', "root['affiliations']": 'Million+, EUA, Universities UK,  Universities Scotland'}, 'values_changed': {"root['principal']": {'new_value': 'Prof. Dame Joan Stringer DBE', 'old_value': 'Professor Andrea Nolan OBE'}, "root['students']": {'new_value': '17,793', 'old_value': '17,264'}, "root['undergrad']": {'new_value': '14,927', 'old_value': '14,377'}, "root['postgrad']": {'new_value': '2,866', 'old_value': '2,693'}}}
+468: {'values_changed': {"root['chancellor']": {'new_value': 'Tim Waterstone', 'old_value': 'David Eustace'}}}
+518: {'dictionary_item_added': {"root['students']": '17,264', "root['undergrad']": '14,377', "root['postgrad']": '2,693'}, 'values_changed': {"root['budget']": {'new_value': '£105 million (GBP, 2009/10) ', 'old_value': '£123 million (GBP, 2015/16) '}}}

@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wentworth Institute of Technology', "root['president']": 'Zorica Pantic', "root['endowment']": '$80 Million', "root['undergrad']": '3,000', "root['faculty']": '125', "root['campus']": 'Urban'}}
+80: {'values_changed': {"root['endowment']": {'new_value': '$80 Million', 'old_value': '$91 Million'}, "root['undergrad']": {'new_value': '3,000', 'old_value': '3,412'}}}
+164: {'values_changed': {"root['undergrad']": {'new_value': '3,412', 'old_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html'}, "root['faculty']": {'new_value': '125', 'old_value': '134'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, 35 acres'}}}
+188: {'values_changed': {"root['endowment']": {'new_value': '$91 Million', 'old_value': '$66.7 Million'}}}
+194: {'values_changed': {"root['undergrad']": {'new_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html', 'old_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html WIT.edu'}}}
+219: {'dictionary_item_removed': {"root['affiliations']": 'Colleges of the Fenway'}}
+231: {'values_changed': {"root['endowment']": {'new_value': '$66.7 Million', 'old_value': 'US$ 81.9 Million'}, "root['campus']": {'new_value': 'Urban, 35 acres', 'old_value': 'Urban, '}, "root['affiliations']": {'new_value': 'Colleges of the Fenway', 'old_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC'}}}
+266: {'values_changed': {"root['endowment']": {'new_value': 'US$ 81.9 Million', 'old_value': 'US$ 81.9 million'}}}
+267: {'values_changed': {"root['undergrad']": {'new_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html WIT.edu', 'old_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html'}}}
+268: {'values_changed': {"root['undergrad']": {'new_value': '3,636 (3,412 full-time) http://www.wit.edu/about/facts.html', 'old_value': '3,636 (3,412 full-time) '}}}
+272: {'values_changed': {"root['undergrad']": {'new_value': '3,636 (3,412 full-time) ', 'old_value': '4,576 '}, "root['affiliations']": {'new_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC', 'old_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC |'}}}
+279: {'values_changed': {"root['affiliations']": {'new_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC |', 'old_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC| '}}}
+296: {'values_changed': {"root['endowment']": {'new_value': 'US$ 81.9 million', 'old_value': 'US$ 113 million  |'}}}
+301: {'values_changed': {"root['affiliations']": {'new_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC| ', 'old_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC|'}}}
+311: {'values_changed': {"root['president']": {'new_value': 'Zorica Pantic', 'old_value': 'Mark A. Thompson'}}}
+312: {'values_changed': {"root['president']": {'new_value': 'Mark A. Thompson', 'old_value': 'Zorica Pantic'}}}
+333: {'values_changed': {"root['president']": {'new_value': 'Zorica Pantic', 'old_value': 'Mark A. Thompson'}}}
+383: {'values_changed': {"root['endowment']": {'new_value': 'US$ 113 million  |', 'old_value': 'US $113 million  |'}}}
+386: {'values_changed': {"root['endowment']": {'new_value': 'US $113 million  |', 'old_value': '$116.1 million (2019)'}}}
+387: {'values_changed': {"root['president']": {'new_value': 'Mark A. Thompson', 'old_value': 'Mark A. Thompson '}}}
+400: {'values_changed': {"root['president']": {'new_value': 'Mark A. Thompson ', 'old_value': 'https://wit.edu/about/president/bio Mark A. Thompson '}}}
+414: {'values_changed': {"root['president']": {'new_value': 'https://wit.edu/about/president/bio Mark A. Thompson ', 'old_value': 'Mark A. Thompson '}}}
+422: {'values_changed': {"root['endowment']": {'new_value': '$116.1 million (2019)', 'old_value': '$116.6 million (2020)'}}}
+431: {'values_changed': {"root['affiliations']": {'new_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC|', 'old_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC| '}}}
+432: {'values_changed': {"root['affiliations']": {'new_value': 'AICUM, Colleges of the Fenway, NAAB, NEASC| ', 'old_value': 'Commonwealth Coast Conference https://d2o2figo6ddd0g.cloudfront.net/d/i/csot4iambh07v0/Map.jpg | mascot'}}}

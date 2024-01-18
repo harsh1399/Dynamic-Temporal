@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Clark University', "root['endowment']": '$371.9 million (2016)', "root['president']": 'David Angel', "root['faculty']": '197 (2015) ', "root['students']": '3,395 (2015)', "root['undergrad']": '2,301 (2015)', "root['postgrad']": '1,064 (2015)', "root['campus']": 'Urban ', "root['athletics']": 'NCAA Division III – NEWMAC', "root['affiliations']": 'AAC&U, NAICU, NEASC, AICUM, NEWMAC, HECCMA'}}
+10: {'values_changed': {"root['name']": {'new_value': 'Clark University', 'old_value': 'lolmans'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'lolmans', 'old_value': 'Clark University'}}}
+15: {'values_changed': {"root['name']": {'new_value': 'Clark University', 'old_value': 'lolmans'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'lolmans', 'old_value': 'Clark University'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Clark University', 'old_value': 'lolmans'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'lolmans', 'old_value': 'WE HATE BLACK PEOPLE'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'WE HATE BLACK PEOPLE', 'old_value': 'Clark University'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Clark University', 'old_value': 'WE HATE BLACK PEOPLE'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'WE HATE BLACK PEOPLE', 'old_value': 'Clark University'}}}
+46: {'values_changed': {"root['endowment']": {'new_value': '$371.9 million (2016)', 'old_value': '$441.8 million (2018)'}, "root['faculty']": {'new_value': '197 (2015) ', 'old_value': '212 (2015) '}, "root['students']": {'new_value': '3,395 (2015)', 'old_value': '3,095 (2017)'}, "root['undergrad']": {'new_value': '2,301 (2015)', 'old_value': '2,204 (2017)'}, "root['postgrad']": {'new_value': '1,064 (2015)', 'old_value': '891 (2017)'}}}
+47: {'values_changed': {"root['faculty']": {'new_value': '212 (2015) ', 'old_value': '212 (2017) '}}}
+70: {'dictionary_item_added': {"root['affiliations']": 'AAC&U, NAICU, NEASC, AICUM, NEWMAC, HECCMA'}, 'values_changed': {"root['endowment']": {'new_value': '$441.8 million (2018)', 'old_value': '$438.8 million (2019)'}}}
+81: {'values_changed': {"root['president']": {'new_value': 'David Angel', 'old_value': 'David Fithian'}}}
+82: {'values_changed': {"root['president']": {'new_value': 'David Fithian', 'old_value': 'David Angel'}}}
+83: {'values_changed': {"root['president']": {'new_value': 'David Angel', 'old_value': 'David Fithian'}}}
+92: {'values_changed': {"root['students']": {'new_value': '3,095 (2017)', 'old_value': '3,498 (2019) '}, "root['undergrad']": {'new_value': '2,204 (2017)', 'old_value': '2,349 (2019)'}, "root['postgrad']": {'new_value': '891 (2017)', 'old_value': '1,149 (2019)'}}}
+93: {'values_changed': {"root['faculty']": {'new_value': '212 (2017) ', 'old_value': '267 (2019)'}}}
+116: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NEWMAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NEWMAC'}, 'values_changed': {"root['endowment']": {'new_value': '$438.8 million (2019)', 'old_value': '$514 million (2021)'}, "root['campus']": {'new_value': 'Urban ', 'old_value': 'Urban, '}}}
+139: {'dictionary_item_added': {"root['name']": 'Clark University', "root['endowment']": '$514 million (2021)', "root['president']": 'David Fithian', "root['faculty']": '267 (2019)', "root['students']": '3,498 (2019) ', "root['undergrad']": '2,349 (2019)', "root['postgrad']": '1,149 (2019)', "root['campus']": 'Urban, ', "root['athletics_affiliations']": 'NCAA Division III – NEWMAC'}, 'dictionary_item_removed': {"root['campus_size']": ['colors                 =', 'sports_nickname        = Cougars', 'athletics_affiliations = NCAA Division III – NEWMAC', 'academic_affiliations  =', 'NAICU', 'HECCMA', 'website                =', 'logo                   = Clark University wordmark.svg', 'logo_upright           = .7']}}

@@ -1,0 +1,18 @@
+6: {'dictionary_item_removed': {"root['name']": 'Central Missouri State University', "root['president']": 'Dr. Aaron Podolefsky', "root['campus']": '1,561 acres', "root['undergrad']": '+8,817', "root['postgrad']": '+1,787', "root['total']": '+10,604 students', "root['staff']": '439'}}
+70: {'values_changed': {"root['name']": {'new_value': 'Central Missouri State University', 'old_value': 'University of Central Missouri'}}}
+111: {'values_changed': {"root['president']": {'new_value': 'Dr. Aaron Podolefsky', 'old_value': 'REESE WITHERSPOON'}}}
+112: {'values_changed': {"root['president']": {'new_value': 'REESE WITHERSPOON', 'old_value': 'Dr. Aaron Podolefsky'}}}
+115: {'dictionary_item_added': {"root['campus']": '1,561 acres', "root['total']": '+10,604 students', "root['staff']": '439'}, 'dictionary_item_removed': {"root['former_names']": 'Normal School No. 2, ', "root['endowment']": '$36.960 million', "root['provost']": 'Deborah J. Curtis', "root['academic_staff']": '486', "root['students']": '12,494 (Fall 2014) ', "root['athletics_nicknames']": 'Mules & Jennies'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Aaron Podolefsky', 'old_value': 'Charles M. Ambrose'}, "root['undergrad']": {'new_value': '+8,817', 'old_value': '9,955 (Fall 2014)'}, "root['postgrad']": {'new_value': '+1,787', 'old_value': '2,539 (Fall 2014)'}}}
+130: {'values_changed': {"root['endowment']": {'new_value': '$36.960 million', 'old_value': '$39.34 million (2015)'}}}
+132: {'values_changed': {"root['students']": {'new_value': '12,494 (Fall 2014) ', 'old_value': '14,395 (Fall 2015) '}, "root['undergrad']": {'new_value': '9,955 (Fall 2014)', 'old_value': '10,001 (Fall 2015)'}, "root['postgrad']": {'new_value': '2,539 (Fall 2014)', 'old_value': '4,394 (Fall 2015)'}, "root['athletics_nicknames']": {'new_value': 'Mules & Jennies', 'old_value': 'Mules and Jennies'}}}
+154: {'values_changed': {"root['endowment']": {'new_value': '$39.34 million (2015)', 'old_value': '$42.89 million (2017)'}}}
+159: {'values_changed': {"root['president']": {'new_value': 'Charles M. Ambrose', 'old_value': 'Rodger Best (Interim)'}}}
+160: {'values_changed': {"root['president']": {'new_value': 'Rodger Best (Interim)', 'old_value': 'Roger Best (Interim)'}}}
+161: {'values_changed': {"root['provost']": {'new_value': 'Deborah J. Curtis', 'old_value': 'Mike Godard'}}}
+162: {'values_changed': {"root['president']": {'new_value': 'Roger Best (Interim)', 'old_value': 'Roger Best (interim)'}}}
+164: {'values_changed': {"root['president']": {'new_value': 'Roger Best (interim)', 'old_value': 'Roger Best'}}}
+178: {'dictionary_item_added': {"root['former_names']": 'Normal School No. 2, '}, 'values_changed': {"root['president']": {'new_value': 'Roger Best', 'old_value': 'Roger Best (Inaugurated April 18, 2019)'}}}
+206: {'dictionary_item_added': {"root['undergrad']": '10,001 (Fall 2015)', "root['postgrad']": '4,394 (Fall 2015)'}, 'values_changed': {"root['students']": {'new_value': '14,395 (Fall 2015) ', 'old_value': '11,229 (2019)  '}}}
+209: {'values_changed': {"root['students']": {'new_value': '11,229 (2019)  ', 'old_value': '11,229 (2019) '}}}
+212: {'values_changed': {"root['provost']": {'new_value': 'Mike Godard', 'old_value': 'Phil Bridgmon'}}}
+220: {'dictionary_item_removed': {"root['undergrad']": '7,629   Fall 2021', "root['postgrad']": '2,330   Fall 2021'}, 'values_changed': {"root['academic_staff']": {'new_value': '486', 'old_value': '424 Full-time and 156 Part-time'}, "root['students']": {'new_value': '11,229 (2019) ', 'old_value': '9,959   Fall 2021'}}}

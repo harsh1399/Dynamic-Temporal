@@ -1,0 +1,9 @@
+31: {'dictionary_item_removed': {"root['name']": 'Missouri Western State University', "root['president']": 'Robert A. Vartabedian', "root['provost']": 'Jeanne Daffron', "root['students']": '5,795 (Fall 2014) ', "root['undergrad']": '5,616 (Fall 2014)', "root['postgrad']": '179 (Fall 2014)', "root['campus']": 'Urban, ', "root['athletics_nickname']": 'Griffons'}}
+66: {'values_changed': {"root['students']": {'new_value': '5,795 (Fall 2014) ', 'old_value': '5,388 (September 2016) '}, "root['undergrad']": {'new_value': '5,616 (Fall 2014)', 'old_value': '5,145 (September 2016)'}, "root['postgrad']": {'new_value': '179 (Fall 2014)', 'old_value': '243 (September 2016)'}}}
+73: {'values_changed': {"root['students']": {'new_value': '5,388 (September 2016) ', 'old_value': '5,388 (Fall 2016) '}}}
+82: {'values_changed': {"root['president']": {'new_value': 'Robert A. Vartabedian', 'old_value': 'Matthew Wilson'}}}
+83: {'values_changed': {"root['president']": {'new_value': 'Matthew Wilson', 'old_value': 'Robert A. Vartabedian'}}}
+86: {'values_changed': {"root['president']": {'new_value': 'Robert A. Vartabedian', 'old_value': 'Matthew J. Wilson'}}}
+102: {'values_changed': {"root['students']": {'new_value': '5,388 (Fall 2016) ', 'old_value': '5,413 (Fall 2019) '}}}
+107: {'values_changed': {"root['president']": {'new_value': 'Matthew J. Wilson', 'old_value': 'Dr. Elizabeth Kennedy'}, "root['provost']": {'new_value': 'Jeanne Daffron', 'old_value': 'Dr. Doug Davenport'}}}
+108: {'values_changed': {"root['president']": {'new_value': 'Dr. Elizabeth Kennedy', 'old_value': 'Elizabeth Kennedy'}, "root['provost']": {'new_value': 'Dr. Doug Davenport', 'old_value': 'Doug Davenport'}}}

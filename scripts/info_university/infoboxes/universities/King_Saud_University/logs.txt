@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'King Saud University', "root['endowment']": 'US $2.7 billion', "root['president']": 'Dr. BADRAN A. O. ALOMAR', "root['students']": '37,874', "root['staff']": '4,849', "root['campus']": 'Urban, enclosed 2,224 acres (900 ha) (9 km²)', "root['former_names']": 'Riyadh University'}}
+31: {'values_changed': {"root['president']": {'new_value': 'Dr. BADRAN A. O. ALOMAR', 'old_value': 'Badran A. O. Alomar'}}}
+39: {'values_changed': {"root['students']": {'new_value': '37,874', 'old_value': '35,810'}}}
+73: {'values_changed': {"root['president']": {'new_value': 'Badran A. O. Alomar', 'old_value': 'Badran A. O. Al Omar'}, "root['students']": {'new_value': '35,810', 'old_value': '55,000 (as of 26 March 2015)'}, "root['staff']": {'new_value': '4,849', 'old_value': '4,952'}}}
+135: {'values_changed': {"root['endowment']": {'new_value': 'US $2.7 billion', 'old_value': 'US $7.5 Trillion'}, "root['students']": {'new_value': '55,000 (as of 26 March 2015)', 'old_value': '76,245(as of 26 February  2020)'}}}
+136: {'values_changed': {"root['endowment']": {'new_value': 'US $7.5 Trillion', 'old_value': 'US $2.7 billion'}, "root['students']": {'new_value': '76,245(as of 26 February  2020)', 'old_value': '55,000 (as of 26 March 2015)'}}}
+143: {'dictionary_item_added': {"root['campus']": 'Urban, enclosed 2,224 acres (900 ha) (9 km²)'}, 'values_changed': {"root['endowment']": {'new_value': 'US $2.7 billion', 'old_value': 'US$2.7 billion (2013) '}}}
+154: {'dictionary_item_added': {"root['staff']": '4,952'}, 'dictionary_item_removed': {"root['administrative_staff']": '4,952'}, 'values_changed': {"root['students']": {'new_value': '55,000 (as of 26 March 2015)', 'old_value': '55,000 (as of 13 July 2012)'}}}

@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lebanon Valley College', "root['endowment']": '$47.6 million', "root['faculty']": '105 full-time', "root['president']": 'Stephen C. MacDonald', "root['undergrad']": '1,765', "root['postgrad']": '141', "root['campus']": 'Rural on 365 acres (1.48 km²)'}}
+34: {'values_changed': {"root['endowment']": {'new_value': '$47.6 million', 'old_value': 'US $39 million'}}}
+64: {'values_changed': {"root['endowment']": {'new_value': 'US $39 million', 'old_value': 'US $49.2 million'}, "root['faculty']": {'new_value': '105 full-time', 'old_value': '103 full-time'}, "root['president']": {'new_value': 'Stephen C. MacDonald', 'old_value': 'Lewis Evitts Thayne'}, "root['undergrad']": {'new_value': '1,765', 'old_value': '1,600'}, "root['postgrad']": {'new_value': '141', 'old_value': '150'}, "root['campus']": {'new_value': 'Rural on 365 acres (1.48 km²)', 'old_value': 'Rural on 340 acres (1.48 km²)'}}}
+94: {'dictionary_item_added': {"root['campus']": 'Rural on 340 acres (1.48 km²)'}, 'values_changed': {"root['faculty']": {'new_value': '103 full-time', 'old_value': '103 full-time '}}}
+99: {'dictionary_item_removed': {"root['students']": '1,746', "root['staff']": '215'}, 'values_changed': {"root['endowment']": {'new_value': 'US $49.2 million', 'old_value': 'US $65 million'}, "root['undergrad']": {'new_value': '1,600', 'old_value': '1,651'}, "root['postgrad']": {'new_value': '150', 'old_value': '95'}, "root['faculty']": {'new_value': '103 full-time ', 'old_value': '122 full-time '}}}
+114: {'values_changed': {"root['students']": {'new_value': '1,746', 'old_value': '1,731'}, "root['undergrad']": {'new_value': '1,651', 'old_value': '1,638'}, "root['postgrad']": {'new_value': '95', 'old_value': '93'}}}
+131: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church'}}
+160: {'values_changed': {"root['students']": {'new_value': '1,731', 'old_value': '1,916'}, "root['undergrad']": {'new_value': '1,638', 'old_value': '1,744'}, "root['postgrad']": {'new_value': '93', 'old_value': '172'}}}
+162: {'values_changed': {"root['president']": {'new_value': 'Lewis Evitts Thayne', 'old_value': 'James M. MacLaren'}}}
+164: {'values_changed': {"root['endowment']": {'new_value': 'US $65 million', 'old_value': 'US $70 million'}}}
+166: {'values_changed': {"root['endowment']": {'new_value': 'US $70 million', 'old_value': '$71.8 million (2019)'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Lebanon Valley College', 'old_value': 'Lebanon Valley College thumb'}}}
+168: {'values_changed': {"root['name']": {'new_value': 'Lebanon Valley College thumb', 'old_value': 'Lebanon Valley College'}}}
+184: {'values_changed': {"root['students']": {'new_value': '1,916', 'old_value': '1,915'}, "root['undergrad']": {'new_value': '1,744', 'old_value': '1,729'}, "root['postgrad']": {'new_value': '172', 'old_value': '186'}}}
+185: {'values_changed': {"root['endowment']": {'new_value': '$71.8 million (2019)', 'old_value': '$70.8 million (2020)'}}}
+186: {'values_changed': {"root['president']": {'new_value': 'James M. MacLaren', 'old_value': 'Bill Nye the Science Guy'}}}
+187: {'values_changed': {"root['president']": {'new_value': 'Bill Nye the Science Guy', 'old_value': 'James M. MacLaren'}}}
+189: {'dictionary_item_added': {"root['staff']": '215'}, 'dictionary_item_removed': {"root['administrative_staff']": '215'}}

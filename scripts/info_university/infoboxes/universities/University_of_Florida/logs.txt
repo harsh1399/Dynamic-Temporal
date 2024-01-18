@@ -1,0 +1,113 @@
+1098: {'dictionary_item_removed': {"root['name']": 'University of Florida', "root['image_name']": 'University_of_Florida_Seal.png', "root['endowment']": '$1.52 billion', "root['chairman']": 'Steven M. Scott', "root['president']": 'Jim Harbaugh', "root['provost']": 'Joseph Glover', "root['faculty']": '5,106 (Fall 2013)', "root['students']": '49,042 (Fall 2013)', "root['undergrad']": '32,781 ', "root['campus']": 'Suburban, ', "root['former_names']": 'University of the State of Florida', "root['athletics']": 'NCAA Division I FBS – SEC', "root['calendar']": 'Semester'}}
+1099: {'values_changed': {"root['president']": {'new_value': 'Jim Harbaugh', 'old_value': 'W. Kent Fuchs'}}}
+1100: {'values_changed': {"root['chairman']": {'new_value': 'Steven M. Scott', 'old_value': 'Jacob Coats'}}}
+1101: {'values_changed': {"root['chairman']": {'new_value': 'Jacob Coats', 'old_value': 'Steven M. Scott'}}}
+1125: {'dictionary_item_added': {"root['calendar']": 'Semester'}, 'values_changed': {"root['image_name']": {'new_value': 'University_of_Florida_Seal.png', 'old_value': 'University of Florida_Seal.png'}, "root['endowment']": {'new_value': '$1.52 billion', 'old_value': '$1.55 billion (2015)'}}}
+1142: {'values_changed': {"root['former_names']": {'new_value': 'University of the State of Florida', 'old_value': 'University of the State of Florida Rainbow and Blue  , '}}}
+1143: {'values_changed': {"root['former_names']": {'new_value': 'University of the State of Florida Rainbow and Blue  , ', 'old_value': 'University of the State of Florida'}}}
+1152: {'dictionary_item_added': {"root['name']": 'University of Florida', "root['image_name']": 'University of Florida_Seal.png', "root['endowment']": '$1.55 billion (2015)', "root['chairman']": 'Steven M. Scott', "root['president']": 'W. Kent Fuchs', "root['provost']": 'Joseph Glover', "root['faculty']": '5,106 (Fall 2013)', "root['students']": '49,042 (Fall 2013)', "root['undergrad']": '32,781 ', "root['campus']": 'Suburban, ', "root['former_names']": 'University of the State of Florida', "root['athletics']": 'NCAA Division I FBS – SEC'}, 'dictionary_item_removed': {"root['GUR']": '69th', "root['USNWR_NU']": '47 | USNWR All Around =', "root['USNWR_Bus']": '47', "root['USNWR_Law']": '47', "root['USNWR_Medr']": '45', "root['USNWR_Eng']": '30', "root['USNWR_Ed']": '52', "root['ARWU_W']": '83', "root['ARWU_N']": '44', "root['ARWU_ENG']": '33', "root['ARWU_LIFE']": '32', "root['ARWU_MED']": '42', "root['Forbes']": '83', "root['THES_W']": '120', "root['THES_N']": '52', "root['CMUP']": '26', "root['QS_W']": '180', "root['Wamo_NU']": '22 '}}
+1153: {'dictionary_item_added': {"root['GUR']": '69th', "root['USNWR_NU']": '47 | USNWR All Around =', "root['USNWR_Bus']": '47', "root['USNWR_Law']": '47', "root['USNWR_Medr']": '45', "root['USNWR_Eng']": '30', "root['USNWR_Ed']": '52', "root['ARWU_W']": '83', "root['ARWU_N']": '44', "root['ARWU_ENG']": '33', "root['ARWU_LIFE']": '32', "root['ARWU_MED']": '42', "root['Forbes']": '83', "root['THES_W']": '120', "root['THES_N']": '52', "root['CMUP']": '26', "root['QS_W']": '180', "root['Wamo_NU']": '22 '}, 'dictionary_item_removed': {"root['name']": 'University of Florida', "root['image_name']": 'University of Florida_Seal.png', "root['endowment']": '$1.55 billion (2015)', "root['chairman']": 'Steven M. Scott', "root['president']": 'W. Kent Fuchs', "root['provost']": 'Joseph Glover', "root['faculty']": '5,106 (Fall 2013)', "root['students']": '49,042 (Fall 2013)', "root['undergrad']": '32,781 ', "root['campus']": 'Suburban, ', "root['former_names']": 'University of the State of Florida', "root['athletics']": 'NCAA Division I FBS – SEC'}}
+1155: {'dictionary_item_removed': {"root['postgrad']": '15,754'}}
+1156: {'values_changed': {"root['students']": {'new_value': '49,042 (Fall 2013)', 'old_value': '48,542'}, "root['undergrad']": {'new_value': '32,781 ', 'old_value': '34,781 '}, "root['postgrad']": {'new_value': '15,754', 'old_value': '13,761'}}}
+1157: {'values_changed': {"root['students']": {'new_value': '48,542', 'old_value': '49,042 (Fall 2013)'}, "root['undergrad']": {'new_value': '34,781 ', 'old_value': '32,781 '}, "root['postgrad']": {'new_value': '13,761', 'old_value': '15,754'}}}
+1164: {'values_changed': {"root['students']": {'new_value': '49,042 (Fall 2013)', 'old_value': '52,519 (Fall 2015)'}}}
+1165: {'values_changed': {"root['faculty']": {'new_value': '5,106 (Fall 2013)', 'old_value': '4,998 (Fall 2015)'}}}
+1166: {'dictionary_item_added': {"root['faculty']": '4,998 (Fall 2015)'}, 'dictionary_item_removed': {"root['Workforce']": '29,596 (Fall 2015)'}}
+1167: {'dictionary_item_added': {"root['Workforce']": '29,596 (Fall 2015)'}, 'dictionary_item_removed': {"root['workforce']": '29,596 (Fall 2015)'}, 'values_changed': {"root['undergrad']": {'new_value': '32,781 ', 'old_value': '36,246 '}, "root['postgrad']": {'new_value': '15,754', 'old_value': '16,273'}}}
+1168: {'dictionary_item_added': {"root['workforce']": '29,596 (Fall 2015)'}, 'dictionary_item_removed': {"root['faculty']": '29,596 (Fall 2015)'}, 'values_changed': {"root['students']": {'new_value': '52,519 (Fall 2015)', 'old_value': '52,519 (Fall 2015) '}, "root['undergrad']": {'new_value': '36,246 ', 'old_value': '36,246'}}}
+1234: {'values_changed': {"root['president']": {'new_value': 'W. Kent Fuchs', 'old_value': 'John Sniffen'}}}
+1235: {'values_changed': {"root['president']": {'new_value': 'John Sniffen', 'old_value': 'W. Kent Fuchs'}}}
+1238: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'Florida University'}}}
+1239: {'values_changed': {"root['name']": {'new_value': 'Florida University', 'old_value': 'University of Florida'}}}
+1244: {'values_changed': {"root['chairman']": {'new_value': 'Steven M. Scott', 'old_value': 'Jimbo Fisher'}, "root['president']": {'new_value': 'W. Kent Fuchs', 'old_value': 'Jimbo Fisher'}}}
+1245: {'values_changed': {"root['chairman']": {'new_value': 'Jimbo Fisher', 'old_value': 'Steven M. Scott'}, "root['president']": {'new_value': 'Jimbo Fisher', 'old_value': 'W. Kent Fuchs'}}}
+1255: {'values_changed': {"root['endowment']": {'new_value': '$1.55 billion (2015)', 'old_value': '$1.461 billion (2016)'}}}
+1267: {'dictionary_item_added': {"root['postgrad']": '16,273'}, 'values_changed': {"root['students']": {'new_value': '52,519 (Fall 2015) ', 'old_value': '53,549 (Fall 2015) '}, "root['undergrad']": {'new_value': '36,246', 'old_value': '36,347'}}}
+1268: {'dictionary_item_removed': {"root['postgrad']": '16,273'}, 'values_changed': {"root['students']": {'new_value': '53,549 (Fall 2015) ', 'old_value': '52,519 (Fall 2015) '}, "root['undergrad']": {'new_value': '36,347', 'old_value': '36,246'}}}
+1275: {'values_changed': {"root['endowment']": {'new_value': '$1.461 billion (2016)', 'old_value': '$500 trillion (2016)'}}}
+1276: {'values_changed': {"root['endowment']": {'new_value': '$500 trillion (2016)', 'old_value': '$1.461 billion (2016)'}}}
+1319: {'dictionary_item_added': {"root['chairman']": 'Steven M. Scott', "root['athletics']": 'NCAA Division I FBS – SEC', "root['image_name']": 'University of Florida_Seal.png'}, 'values_changed': {"root['students']": {'new_value': '52,519 (Fall 2015) ', 'old_value': '54,854 (Fall 2016) '}, "root['undergrad']": {'new_value': '36,246', 'old_value': '38,035'}, "root['postgrad']": {'new_value': '16,273', 'old_value': '16,819'}, "root['faculty']": {'new_value': '29,596 (Fall 2015)', 'old_value': '30,135 (Fall 2016)'}}}
+1334: {'values_changed': {"root['faculty']": {'new_value': '30,135 (Fall 2016)', 'old_value': '5,077 (Fall 2016)'}}}
+1346: {'values_changed': {"root['president']": {'new_value': 'W. Kent Fuchs', 'old_value': 'John Kelly'}}}
+1347: {'values_changed': {"root['president']": {'new_value': 'John Kelly', 'old_value': 'W. Kent Fuchs'}}}
+1349: {'values_changed': {"root['endowment']": {'new_value': '$1.461 billion (2016)', 'old_value': '$1.61 billion (2017)'}}}
+1351: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of AIDS'}}}
+1354: {'values_changed': {"root['name']": {'new_value': 'University of AIDS', 'old_value': 'University of Florida'}}}
+1357: {'values_changed': {"root['president']": {'new_value': 'W. Kent Fuchs', 'old_value': 'W. Kent Fuchsmiguelhola'}}}
+1358: {'values_changed': {"root['president']": {'new_value': 'W. Kent Fuchsmiguelhola', 'old_value': 'W. Kent Fuchs'}}}
+1361: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'GO GATORS!!!'}}}
+1362: {'values_changed': {"root['name']": {'new_value': 'GO GATORS!!!', 'old_value': 'University of Florida'}}}
+1363: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'go gators!!'}}}
+1364: {'values_changed': {"root['name']": {'new_value': 'go gators!!', 'old_value': 'University of Florida'}}}
+1397: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'not you university'}}}
+1398: {'values_changed': {"root['name']": {'new_value': 'not you university', 'old_value': 'University of Florida'}}}
+1408: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Florida or Auburn’s little brother'}}}
+1409: {'values_changed': {"root['name']": {'new_value': 'University of Florida or Auburn’s little brother', 'old_value': 'University of Florida'}}}
+1424: {'values_changed': {"root['faculty']": {'new_value': '5,077 (Fall 2016)', 'old_value': '5,309 (Fall 2017)'}}}
+1425: {'values_changed': {"root['students']": {'new_value': '54,854 (Fall 2016) ', 'old_value': '55,862 (Fall 2017) '}, "root['undergrad']": {'new_value': '38,035', 'old_value': '39,565'}, "root['postgrad']": {'new_value': '16,819', 'old_value': '16,297'}}}
+1521: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Meth'}}}
+1522: {'values_changed': {"root['name']": {'new_value': 'University of Meth', 'old_value': 'University of Florida'}}}
+1524: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Meth'}}}
+1525: {'values_changed': {"root['name']": {'new_value': 'University of Meth', 'old_value': 'University of Florida'}}}
+1529: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of The cousins'}}}
+1530: {'values_changed': {"root['name']": {'new_value': 'University of The cousins', 'old_value': 'University of Florida'}}}
+1535: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Trash'}}}
+1536: {'values_changed': {"root['name']": {'new_value': 'University of Trash', 'old_value': 'University of Florida'}}}
+1537: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Trash'}}}
+1538: {'values_changed': {"root['name']": {'new_value': 'University of Trash', 'old_value': 'University of Florida'}}}
+1539: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Trash'}}}
+1540: {'values_changed': {"root['name']": {'new_value': 'University of Trash', 'old_value': 'University of Florida'}}}
+1574: {'values_changed': {"root['endowment']": {'new_value': '$1.61 billion (2017)', 'old_value': '$1.73 billion (2018)'}}}
+1581: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'FSU'}}}
+1582: {'values_changed': {"root['name']": {'new_value': 'FSU', 'old_value': 'FSU is better than UF by a lot'}}}
+1583: {'values_changed': {"root['name']": {'new_value': 'FSU is better than UF by a lot', 'old_value': 'University of Florida'}}}
+1584: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'rain rain go away come back another day'}}}
+1585: {'values_changed': {"root['name']": {'new_value': 'rain rain go away come back another day', 'old_value': 'University of Florida'}}}
+1604: {'values_changed': {"root['students']": {'new_value': '55,862 (Fall 2017) ', 'old_value': '56,079 (Fall 2018) '}, "root['undergrad']": {'new_value': '39,565', 'old_value': '37,527'}, "root['postgrad']": {'new_value': '16,297', 'old_value': '15,753'}, "root['faculty']": {'new_value': '5,309 (Fall 2017)', 'old_value': '5,506 (Fall 2018)'}}}
+1614: {'dictionary_item_removed': {"root['budget']": '$3.98 billion (2017)', "root['staff']": '6,556 (2018)'}, 'values_changed': {"root['faculty']": {'new_value': '5,506 (Fall 2018)', 'old_value': '8,231 (2018)'}}}
+1619: {'values_changed': {"root['budget']": {'new_value': '$3.98 billion (2017)', 'old_value': '$6 billion (2019)'}}}
+1627: {'values_changed': {"root['students']": {'new_value': '56,079 (Fall 2018) ', 'old_value': '56,079 (total) '}}}
+1645: {'values_changed': {"root['endowment']": {'new_value': '$1.73 billion (2018)', 'old_value': '$2.04 billion (2018)'}}}
+1690: {'dictionary_item_added': {"root['name']": 'University of Florida', "root['endowment']": '$2.04 billion (2018)', "root['budget']": '$6 billion (2019)', "root['president']": 'W. Kent Fuchs', "root['provost']": 'Joseph Glover', "root['students']": '56,079 (total) ', "root['undergrad']": '37,527', "root['postgrad']": '15,753', "root['staff']": '6,556 (2018)', "root['faculty']": '8,231 (2018)', "root['campus']": 'Suburban, ', "root['former_names']": 'University of the State of Florida'}, 'dictionary_item_removed': {"root['ARWU_W']": '95', "root['ARWU_N']": '41-43', "root['Wamo_NU']": '16', "root['THE_WSJ']": '63', "root['USNWR_NU']": '34', "root['USNWR_W']": '105', "root['Forbes']": '70', "root['THES_W']": '156', "root['QS_W']": '167 '}}
+1691: {'dictionary_item_added': {"root['ARWU_W']": '95', "root['ARWU_N']": '41-43', "root['Wamo_NU']": '16', "root['THE_WSJ']": '63', "root['USNWR_NU']": '34', "root['USNWR_W']": '105', "root['Forbes']": '70', "root['THES_W']": '156', "root['QS_W']": '167 '}, 'dictionary_item_removed': {"root['name']": 'University of Florida', "root['endowment']": '$2.04 billion (2018)', "root['budget']": '$6 billion (2019)', "root['president']": 'W. Kent Fuchs', "root['provost']": 'Joseph Glover', "root['students']": '56,079 (total) ', "root['undergrad']": '37,527', "root['postgrad']": '15,753', "root['staff']": '6,556 (2018)', "root['faculty']": '8,231 (2018)', "root['campus']": 'Suburban, ', "root['former_names']": 'University of the State of Florida'}}
+1701: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'Maazin Uddin Muhammed'}}}
+1702: {'values_changed': {"root['name']": {'new_value': 'Maazin Uddin Muhammed', 'old_value': 'University of Florida'}}}
+1703: {'dictionary_item_added': {"root['president']": 'W. Kent Fuchs'}, 'values_changed': {"root['endowment']": {'new_value': '$2.04 billion (2018)', 'old_value': '$1.825 billion (2019) As of June 30, 2019. '}, "root['students']": {'new_value': '56,079 (total) ', 'old_value': '56,567 (Fall 2019 total) '}, "root['undergrad']": {'new_value': '37,527', 'old_value': '37,874 (Fall 2019)'}, "root['postgrad']": {'new_value': '15,753', 'old_value': '15,916 (Fall 2019)'}, "root['staff']": {'new_value': '6,556 (2018)', 'old_value': '6,556 (2018) '}}}
+1712: {'values_changed': {"root['endowment']": {'new_value': '$1.825 billion (2019) As of June 30, 2019. ', 'old_value': '$1.85 billion (2020) As of June 30, 2020. '}}}
+1726: {'dictionary_item_removed': {"root['president']": 'Kent Fuchs'}}
+1743: {'dictionary_item_added': {"root['staff']": '6,556 (2018) '}, 'dictionary_item_removed': {"root['administrative_staff']": '6,556 (2018) '}}
+1744: {'dictionary_item_removed': {"root['academic_affiliations']": ['AAU', 'ORAU', 'URA', 'SURA', 'Sea-grant', 'Space-grant']}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Rural/College Town, '}, "root['former_names']": {'new_value': 'University of the State of Florida', 'old_value': 'East Florida Seminary, Florida Agricultural College, University of Florida at Lake City, St. Petersburg Normal and Industrial School, South Florida Military College, University of the State of Florida'}}}
+1746: {'values_changed': {"root['former_names']": {'new_value': 'East Florida Seminary, Florida Agricultural College, University of Florida at Lake City, St. Petersburg Normal and Industrial School, South Florida Military College, University of the State of Florida', 'old_value': 'University of the State of Florida (1905 - 1909)'}}}
+1753: {'values_changed': {"root['campus']": {'new_value': 'Rural/College Town, ', 'old_value': 'College Town, '}}}
+1755: {'values_changed': {"root['endowment']": {'new_value': '$1.85 billion (2020) As of June 30, 2020. ', 'old_value': '$2.29 billion (2021) As of June 30, 2021. '}}}
+1772: {'values_changed': {"root['campus']": {'new_value': 'College Town, ', 'old_value': 'Midsize City,   '}, "root['former_names']": {'new_value': 'University of the State of Florida (1905 - 1909)', 'old_value': 'University of the State of Florida (1905-1909)'}}}
+1775: {'values_changed': {"root['campus']": {'new_value': 'Midsize City,   ', 'old_value': 'College Town, '}, "root['former_names']": {'new_value': 'University of the State of Florida (1905-1909)', 'old_value': 'University of the State of Florida (1905 - 1909)'}}}
+1779: {'values_changed': {"root['endowment']": {'new_value': '$2.29 billion (2021) As of June 30, 2021. ', 'old_value': '$229 billion (2021) As of June 30, 2021. '}}}
+1780: {'values_changed': {"root['endowment']": {'new_value': '$229 billion (2021) As of June 30, 2021. ', 'old_value': '$727 quadrillion  (2021) As of June 30, 2021. '}}}
+1781: {'values_changed': {"root['endowment']": {'new_value': '$727 quadrillion  (2021) As of June 30, 2021. ', 'old_value': '$2.29 billion (2021) As of June 30, 2021. '}}}
+1782: {'dictionary_item_added': {"root['undergrad']": '37,874 (Fall 2019)'}, 'dictionary_item_removed': {"root['undershat']": '37874 (Fall 2019)'}}
+1783: {'dictionary_item_added': {"root['undershat']": '37874 (Fall 2019)'}, 'dictionary_item_removed': {"root['undergrad']": '37,874 (Fall 2019)'}}
+1784: {'values_changed': {"root['budget']": {'new_value': '$6 billion (2019)', 'old_value': '$6 trillion (2019)'}}}
+1785: {'values_changed': {"root['budget']": {'new_value': '$6 trillion (2019)', 'old_value': '$6 billion (2019)'}}}
+1815: {'dictionary_item_removed': {"root['free_label1']": 'Newspaper', "root['free1']": "''The Independent Florida Alligator''", "root['free_label2']": 'Other campuses', "root['free2']": ['Apopka', 'Davie', 'Fort Pierce', 'Hialeah', 'Jacksonville', 'Miami', 'Milton', 'Orlando', 'Plant City', 'Sarasota', 'Seminole', 'Shalimar', 'Sunrise', 'Wimauma', 'Vicenza']}}
+1819: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of  South Florida'}}}
+1820: {'values_changed': {"root['name']": {'new_value': 'University of  South Florida', 'old_value': 'University of Florida'}}}
+1822: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'Gator 🐊 of Florida'}}}
+1823: {'values_changed': {"root['name']": {'new_value': 'Gator 🐊 of Florida', 'old_value': 'University of Florida'}}}
+1831: {'values_changed': {"root['former_names']": {'new_value': 'University of the State of Florida (1905 - 1909)', 'old_value': 'University of the State of Florida (1905–1909)'}}}
+1836: {'values_changed': {"root['students']": {'new_value': '56,567 (Fall 2019 total) ', 'old_value': '56,567 (fall 2019 total) '}, "root['undergrad']": {'new_value': '37,874 (Fall 2019)', 'old_value': '37,874 (fall 2019)'}, "root['postgrad']": {'new_value': '15,916 (Fall 2019)', 'old_value': '15,916 (fall 2019)'}}}
+1870: {'type_changes': {"root['free2']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "''The Independent Florida Alligator''", 'new_value': ['Apopka', 'Davie', 'Fort Pierce', 'Hialeah', 'Jacksonville', 'Miami', 'Milton', 'Orlando', 'Plant City', 'Sarasota', 'Seminole', 'Shalimar', 'Sunrise', 'Wimauma', 'Vicenza']}}, 'dictionary_item_added': {"root['free_label1']": 'Newspaper', "root['free1']": "''The Independent Florida Alligator''"}, 'values_changed': {"root['campus']": {'new_value': 'College Town, ', 'old_value': 'Midsize City'}, "root['free_label2']": {'new_value': 'Other campuses', 'old_value': 'Newspaper'}}}
+1877: {'values_changed': {"root['campus']": {'new_value': 'Midsize City', 'old_value': 'College Town'}}}
+1892: {'iterable_item_added': {"root['academic_affiliations'][3]": 'SURA'}}
+1896: {'values_changed': {"root['campus']": {'new_value': 'College Town', 'old_value': 'Midsize City'}}}
+1898: {'values_changed': {"root['campus']": {'new_value': 'Midsize City', 'old_value': 'College Town'}}}
+1899: {'values_changed': {"root['campus']": {'new_value': 'College Town', 'old_value': 'Midsize City'}}}
+1921: {'values_changed': {"root['endowment']": {'new_value': '$2.29 billion (2021) As of June 30, 2021. ', 'old_value': '$2.379 billion (2021)'}}}
+1930: {'values_changed': {"root['name']": {'new_value': 'University of Florida', 'old_value': 'University of Florida man'}}}
+1931: {'values_changed': {"root['name']": {'new_value': 'University of Florida man', 'old_value': 'University of Florida'}}}
+1936: {'values_changed': {"root['president']": {'new_value': 'Kent Fuchs', 'old_value': 'Ben Sasse'}}}
+1937: {'values_changed': {"root['president']": {'new_value': 'Ben Sasse', 'old_value': 'Kent Fuchs'}}}
+1938: {'values_changed': {"root['president']": {'new_value': 'Kent Fuchs', 'old_value': 'Ben Sasse'}}}
+1948: {'values_changed': {"root['campus']": {'new_value': 'Midsize City', 'old_value': 'Midsize city'}, "root['former_names']": {'new_value': 'University of the State of Florida (1905–1909)', 'old_value': 'East Florida Seminary (1853-1861; 1866-1905), Florida Agricultural College (1884-1903), University of Florida at Lake City (1903-1905), St. Petersburg Normal and Industrial School (1893-1905), South Florida Military and Educational College (1894-1905), University of the State of Florida (1905-1909)'}}}
+1956: {'iterable_item_removed': {"root['academic_affiliations'][2]": 'SFEC'}}
+1957: {'iterable_item_added': {"root['academic_affiliations'][2]": 'SFEC'}}

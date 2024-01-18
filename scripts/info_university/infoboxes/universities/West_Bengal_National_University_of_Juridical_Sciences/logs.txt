@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'West Bengal National University of Juridical Sciences', "root['chancellor']": 'Chief Justice of India', "root['vice_chancellor']": 'Amit Taimur', "root['campus']": 'Urban, 5 acres', "root['affiliations']": 'BCI; UGC '}}
+2: {'values_changed': {"root['affiliations']": {'new_value': 'BCI; UGC ', 'old_value': 'BCI; UGC |SJA President'}}}
+3: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Taimur', 'old_value': 'Biju Murali'}, "root['affiliations']": {'new_value': 'BCI; UGC |SJA President', 'old_value': 'BCI; UGC '}}}
+4: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Biju Murali', 'old_value': 'Sanchit Khurana'}}}
+5: {'values_changed': {"root['campus']": {'new_value': 'Urban, 5 acres', 'old_value': 'Urban, 5 meter'}}}
+7: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sanchit Khurana', 'old_value': 'Amit Talukdar'}, "root['campus']": {'new_value': 'Urban, 5 meter', 'old_value': 'Urban, 5 acre'}}}
+9: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Talukdar', 'old_value': 'Amit Talukdar Topper_ = Atmik Jain'}}}
+10: {'dictionary_item_removed': {"root['Topper']": 'Atmik Jain'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Talukdar Topper_ = Atmik Jain', 'old_value': 'Amit Talukdar'}}}
+11: {'dictionary_item_added': {"root['Topper']": 'Atmik Jain'}, 'dictionary_item_removed': {"root['Established']": '1999'}}
+13: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Talukdar', 'old_value': 'Amit talukdar'}, "root['campus']": {'new_value': 'Urban, 5 acre', 'old_value': 'Urban, 5 acre, Beliyaghata'}}}
+14: {'values_changed': {"root['campus']": {'new_value': 'Urban, 5 acre, Beliyaghata', 'old_value': 'Urban, 5 acre'}}}
+16: {'dictionary_item_added': {"root['Established']": '1999'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit talukdar', 'old_value': 'Amit Talukdar'}}}
+20: {'values_changed': {"root['campus']": {'new_value': 'Urban, 5 acre', 'old_value': 'Urban, 500 acre'}}}
+21: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Talukdar', 'old_value': 'Kushagra Sharma'}}}
+22: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Kushagra Sharma', 'old_value': 'Amit Talukdar'}}}
+23: {'values_changed': {"root['campus']": {'new_value': 'Urban, 500 acre', 'old_value': 'Urban, 5 acre'}}}
+24: {'values_changed': {"root['campus']": {'new_value': 'Urban, 5 acre', 'old_value': 'Urban, 7 acre'}}}
+25: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Amit Talukdar', 'old_value': 'N. K. Chakrabarti'}}}
+50: {'values_changed': {"root['vice_chancellor']": {'new_value': 'N. K. Chakrabarti', 'old_value': 'N K Chakrabarti'}, "root['campus']": {'new_value': 'Urban, 7 acre', 'old_value': 'Urban'}}}
+53: {'dictionary_item_added': {"root['affiliations']": 'BCI; UGC '}, 'dictionary_item_removed': {"root['academic_staff']": '42', "root['students']": '743 ', "root['undergrad']": '629', "root['postgrad']": '42', "root['doctoral']": '72', "root['academic_affiliations']": 'BCI; UGC '}}
+60: {'values_changed': {"root['academic_affiliations']": {'new_value': 'BCI; UGC ', 'old_value': 'Bar Council of India '}}}
+90: {'values_changed': {"root['name']": {'new_value': 'West Bengal National University of Juridical Sciences', 'old_value': 'National University of Juridical Sciences'}}}
+94: {'values_changed': {"root['name']": {'new_value': 'National University of Juridical Sciences', 'old_value': 'West Bengal National University of Juridical Sciences'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'West Bengal National University of Juridical Sciences', 'old_value': 'National University of Juridical Sciences'}}}
+110: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UGC', 'AIU', 'BCI'], 'new_value': 'Bar Council of India '}}, 'values_changed': {"root['academic_staff']": {'new_value': '42', 'old_value': '42 ('}, "root['students']": {'new_value': '743 ', 'old_value': '762 ('}, "root['undergrad']": {'new_value': '629', 'old_value': '630 ('}, "root['postgrad']": {'new_value': '42', 'old_value': '41 ('}, "root['doctoral']": {'new_value': '72', 'old_value': '91 ('}}}
+113: {'values_changed': {"root['vice_chancellor']": {'new_value': 'N K Chakrabarti', 'old_value': 'Arya Kant'}}}
+114: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Arya Kant', 'old_value': 'Nirmal Kanti Chakrabarti'}}}
+118: {'values_changed': {"root['academic_staff']": {'new_value': '42 (', 'old_value': '66 ('}, "root['students']": {'new_value': '762 (', 'old_value': '855 ('}, "root['undergrad']": {'new_value': '630 (', 'old_value': '655 ('}, "root['postgrad']": {'new_value': '41 (', 'old_value': '82 ('}, "root['doctoral']": {'new_value': '91 (', 'old_value': '118 ('}}}
+143: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Nirmal Kanti Chakrabarti', 'old_value': 'Prof. (Dr.) Nirmal Kanti Chakrabarti'}}}
+144: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof. (Dr.) Nirmal Kanti Chakrabarti', 'old_value': 'Nirmal Kanti Chakrabarti'}}}

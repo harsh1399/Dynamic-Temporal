@@ -1,0 +1,45 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lehigh University', "root['calendar']": 'Semester', "root['endowment']": '$1.103 billion (2013)', "root['president']": 'Kevin Clayton (interim)', "root['provost']": 'Patrick V. Farrell', "root['zip']": '18015', "root['undergrad']": '4,883 ', "root['postgrad']": '2,187', "root['staff']": '1,196', "root['campus']": 'Urban and Suburban; ', "root['athletics']": 'NCAA Division I –                    Patriot League, MAISA', "root['sports']": '25 varsity teams', "root['affiliations']": 'NAICU'}}
+52: {'values_changed': {"root['endowment']": {'new_value': '$1.103 billion (2013)', 'old_value': '$1.22 billion (2014) As of June 30, 2014.'}}}
+53: {'values_changed': {"root['endowment']": {'new_value': '$1.22 billion (2014) As of June 30, 2014.', 'old_value': '$1.22 billion (2014)'}}}
+60: {'values_changed': {"root['president']": {'new_value': 'Kevin Clayton (interim)', 'old_value': 'John D. Simon'}, "root['undergrad']": {'new_value': '4,883 ', 'old_value': '4,904 '}, "root['postgrad']": {'new_value': '2,187', 'old_value': '2,057'}}}
+87: {'values_changed': {"root['president']": {'new_value': 'John D. Simon', 'old_value': 'Kim Jong Un'}, "root['provost']": {'new_value': 'Patrick V. Farrell', 'old_value': 'Kim Jong Un'}}}
+88: {'values_changed': {"root['president']": {'new_value': 'Kim Jong Un', 'old_value': 'John D. Simon'}, "root['provost']": {'new_value': 'Kim Jong Un', 'old_value': 'Patrick V. Farrell'}}}
+91: {'values_changed': {"root['calendar']": {'new_value': 'Semester', 'old_value': "Kim Il Sung's calendar"}, "root['president']": {'new_value': 'John D. Simon', 'old_value': 'Kim Jong Un'}}}
+92: {'values_changed': {"root['calendar']": {'new_value': "Kim Il Sung's calendar", 'old_value': 'Semester'}, "root['president']": {'new_value': 'Kim Jong Un', 'old_value': 'John D. Simon'}}}
+93: {'values_changed': {"root['calendar']": {'new_value': 'Semester', 'old_value': "Kim Il Sung's calendar"}, "root['president']": {'new_value': 'John D. Simon', 'old_value': 'Kim Jong Un'}}}
+94: {'values_changed': {"root['calendar']": {'new_value': "Kim Il Sung's calendar", 'old_value': 'Semester'}, "root['president']": {'new_value': 'Kim Jong Un', 'old_value': 'John D. Simon'}}}
+95: {'values_changed': {"root['calendar']": {'new_value': 'Semester', 'old_value': "Kim Il Sung's calendar"}, "root['president']": {'new_value': 'John D. Simon', 'old_value': 'Kim Jong Un'}}}
+96: {'values_changed': {"root['calendar']": {'new_value': "Kim Il Sung's calendar", 'old_value': 'Semester'}, "root['president']": {'new_value': 'Kim Jong Un', 'old_value': 'John D. Simon'}}}
+97: {'dictionary_item_added': {"root['zip']": '18015'}, 'values_changed': {"root['president']": {'new_value': 'John D. Simon', 'old_value': 'Osama bin Laden'}, "root['provost']": {'new_value': 'Patrick V. Farrell', 'old_value': 'Osama bin Laden'}, "root['affiliations']": {'new_value': 'NAICU', 'old_value': 'Al Qaeda'}}}
+98: {'dictionary_item_removed': {"root['zip']": '18015'}, 'values_changed': {"root['president']": {'new_value': 'Osama bin Laden', 'old_value': 'John D. Simon'}, "root['provost']": {'new_value': 'Osama bin Laden', 'old_value': 'Patrick V. Farrell'}, "root['affiliations']": {'new_value': 'Al Qaeda', 'old_value': 'NAICU'}}}
+99: {'dictionary_item_added': {"root['zip']": '18015'}, 'values_changed': {"root['president']": {'new_value': 'John D. Simon', 'old_value': 'Osama bin Laden'}, "root['provost']": {'new_value': 'Patrick V. Farrell', 'old_value': 'Osama bin Laden'}, "root['affiliations']": {'new_value': 'NAICU', 'old_value': 'Al Qaeda'}}}
+100: {'dictionary_item_removed': {"root['zip']": '18015'}, 'values_changed': {"root['president']": {'new_value': 'Osama bin Laden', 'old_value': 'John D. Simon'}, "root['provost']": {'new_value': 'Osama bin Laden', 'old_value': 'Patrick V. Farrell'}, "root['affiliations']": {'new_value': 'Al Qaeda', 'old_value': 'NAICU'}}}
+121: {'values_changed': {"root['endowment']": {'new_value': '$1.22 billion (2014)', 'old_value': '$1.213 billion (2015)'}}}
+122: {'values_changed': {"root['name']": {'new_value': 'Lehigh University', 'old_value': 'LeHigh University'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'LeHigh University', 'old_value': 'Lehigh University'}}}
+124: {'dictionary_item_removed': {"root['image_name']": 'LUwithShield-CMYK.svg'}}
+140: {'dictionary_item_added': {"root['calendar']": 'Semester', "root['zip']": '18015', "root['sports']": '25 varsity teams'}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I –                    Patriot League, MAISA', 'old_value': 'NCAA Division I –  '}}}
+155: {'values_changed': {"root['name']": {'new_value': 'Lehigh University', 'old_value': 'LeHigh University'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'LeHigh University', 'old_value': 'Lehigh University'}}}
+202: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I –  ', 'old_value': 'NCAA Division I –, '}}}
+219: {'values_changed': {"root['endowment']": {'new_value': '$1.213 billion (2015)', 'old_value': '$1.163 billion (2016)'}, "root['undergrad']": {'new_value': '4,904 ', 'old_value': '5,080 '}, "root['postgrad']": {'new_value': '2,057', 'old_value': '1,979'}}}
+246: {'values_changed': {"root['president']": {'new_value': 'John D. Simon', 'old_value': 'John Douglas Simon'}}}
+274: {'dictionary_item_added': {"root['affiliations']": 'NAICU'}, 'dictionary_item_removed': {"root['students']": '6, 849', "root['faculty']": '540 (full-time)'}, 'values_changed': {"root['endowment']": {'new_value': '$1.163 billion (2016)', 'old_value': '$1.353 billion (2018)'}, "root['undergrad']": {'new_value': '5,080 ', 'old_value': '5,047 '}, "root['postgrad']": {'new_value': '1,979', 'old_value': '1,802'}}}
+278: {'values_changed': {"root['endowment']": {'new_value': '$1.353 billion (2018)', 'old_value': '$1.411 billion (2019)'}}}
+280: {'values_changed': {"root['students']": {'new_value': '6, 849', 'old_value': '6,849'}}}
+291: {'values_changed': {"root['name']": {'new_value': 'Lehigh University', 'old_value': 'Poopoop University'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Poopoop University', 'old_value': 'Lehigh University'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Lehigh University', 'old_value': 'Lehigh Universitypoop'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Lehigh Universitypoop', 'old_value': 'Lehigh University'}}}
+337: {'values_changed': {"root['endowment']": {'new_value': '$1.411 billion (2019)', 'old_value': '$1.412 billion (2019)'}}}
+369: {'values_changed': {"root['name']": {'new_value': 'Lehigh University', 'old_value': 'LUwithShield-CMYK.svg | image_upright = .7'}, "root['provost']": {'new_value': 'Patrick V. Farrell', 'old_value': 'Nathan Urban'}}}
+410: {'values_changed': {"root['students']": {'new_value': '6,849', 'old_value': '6953'}, "root['undergrad']": {'new_value': '5,047 ', 'old_value': '5,178  '}, "root['postgrad']": {'new_value': '1,802', 'old_value': '1,775'}}}
+411: {'values_changed': {"root['students']": {'new_value': '6953', 'old_value': '6,953'}}}
+423: {'values_changed': {"root['endowment']": {'new_value': '$1.412 billion (2019)', 'old_value': '$1.37 billion (2020)'}}}
+430: {'values_changed': {"root['provost']": {'new_value': 'Nathan Urban', 'old_value': 'Nathan N Urban'}}}
+431: {'values_changed': {"root['provost']": {'new_value': 'Nathan N Urban', 'old_value': 'Nathan Urban'}}}
+432: {'values_changed': {"root['provost']": {'new_value': 'Nathan Urban', 'old_value': 'Nathan N. Urban'}}}
+433: {'values_changed': {"root['provost']": {'new_value': 'Nathan N. Urban', 'old_value': 'Nathan Urban'}}}
+444: {'dictionary_item_added': {"root['staff']": '1,196'}, 'dictionary_item_removed': {"root['administrative_staff']": '1,196'}}
+445: {'values_changed': {"root['president']": {'new_value': 'John Douglas Simon', 'old_value': 'Joseph J. Helble'}}}
+479: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I –, ', 'old_value': 'NCAA Division I – '}}}

@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mississippi College', "root['president']": 'Lee Royce', "root['students']": '5,145', "root['undergrad']": '3,200 ', "root['endowment']": '$60,716,982', "root['postgrad']": '1,310 graduate students ,  550 law students', "root['campus']": 'Suburban, 320 acre (3 km²)', "root['athletics']": 'NCAA Division II – GSC', "root['sports']": '16 varsity teams'}}
+23: {'dictionary_item_removed': {"root['affiliations']": 'Mississippi Baptist Convention, NAICU'}}
+40: {'dictionary_item_added': {"root['affiliations']": 'Mississippi Baptist Convention, NAICU'}, 'values_changed': {"root['students']": {'new_value': '5,145', 'old_value': '5,152'}}}
+47: {'values_changed': {"root['endowment']": {'new_value': '$60,716,982', 'old_value': 'US$60,716,982'}, "root['campus']": {'new_value': 'Suburban, 320 acre (3 km²)', 'old_value': 'Suburban, '}, "root['athletics']": {'new_value': 'NCAA Division II – GSC', 'old_value': 'NCAA Division II – Gulf South'}}}
+49: {'dictionary_item_removed': {"root['religious_affiliation']": 'Baptist'}}
+71: {'values_changed': {"root['endowment']": {'new_value': 'US$60,716,982', 'old_value': 'url =https://www.usnews.com/best-colleges/mississippi-college-2415'}}}
+72: {'values_changed': {"root['endowment']": {'new_value': 'url =https://www.usnews.com/best-colleges/mississippi-college-2415', 'old_value': 'US$73.7 million (2016) '}}}
+75: {'values_changed': {"root['undergrad']": {'new_value': '3,200 ', 'old_value': '3,200'}}}
+76: {'values_changed': {"root['undergrad']": {'new_value': '3,200', 'old_value': '3,200 '}}}
+77: {'values_changed': {"root['endowment']": {'new_value': 'US$73.7 million (2016) ', 'old_value': 'US$73.7 million (2016)'}}}
+78: {'values_changed': {"root['endowment']": {'new_value': 'US$73.7 million (2016)', 'old_value': 'US$73.7 million (2016) '}}}
+79: {'values_changed': {"root['undergrad']": {'new_value': '3,200 ', 'old_value': '3,145 '}}}
+82: {'values_changed': {"root['endowment']": {'new_value': 'US$73.7 million (2016) ', 'old_value': 'US$73.7 million (2016)'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'Lee Royce', 'old_value': 'Blake Thompson'}}}
+100: {'values_changed': {"root['president']": {'new_value': 'Blake Thompson', 'old_value': 'Blake Thompson '}}}
+105: {'dictionary_item_added': {"root['undergrad']": '3,145 ', "root['endowment']": 'US$73.7 million (2016)', "root['postgrad']": '1,310 graduate students ,  550 law students'}, 'values_changed': {"root['students']": {'new_value': '5,152', 'old_value': '5,154 (2018)'}}}
+106: {'dictionary_item_removed': {"root['undergrad']": '3,145 ', "root['endowment']": 'US$73.7 million (2016)', "root['postgrad']": '1,310 graduate students ,  550 law students'}, 'values_changed': {"root['students']": {'new_value': '5,154 (2018)', 'old_value': '5,152'}}}
+149: {'values_changed': {"root['endowment']": {'new_value': 'US$73.7 million (2016)', 'old_value': 'US$80.9 million (2016)'}}}
+150: {'values_changed': {"root['endowment']": {'new_value': 'US$80.9 million (2016)', 'old_value': 'US$80.9 million (2017)'}}}
+165: {'values_changed': {"root['endowment']": {'new_value': 'US$80.9 million (2017)', 'old_value': 'US$87 million (2018)'}}}
+176: {'dictionary_item_added': {"root['undergrad']": '3,145 '}, 'values_changed': {"root['students']": {'new_value': '5,152', 'old_value': '6,322 name="U.S. News & World Reports">'}}}
+178: {'values_changed': {"root['students']": {'new_value': '6,322 name="U.S. News & World Reports">', 'old_value': '6,322'}, "root['postgrad']": {'new_value': '1,310 graduate students ,  550 law students', 'old_value': '1,684 graduate students ,  570 law students'}}}

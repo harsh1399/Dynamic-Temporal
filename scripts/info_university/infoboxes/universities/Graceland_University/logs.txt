@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Graceland University', "root['faculty']": '146', "root['president']": 'Dr. John D. Sellars', "root['students']": '2,351', "root['affiliations']": 'Community of Christ'}}
+8: {'values_changed': {"root['president']": {'new_value': 'Dr. John D. Sellars', 'old_value': 'John Sellars, Ph.D.'}}}
+16: {'values_changed': {"root['president']": {'new_value': 'John Sellars, Ph.D.', 'old_value': 'Dr. John D. Sellars'}}}
+79: {'dictionary_item_removed': {"root['endowment']": '$37.2 million'}, 'values_changed': {"root['president']": {'new_value': 'Dr. John D. Sellars', 'old_value': 'John Sellars'}}}
+96: {'dictionary_item_added': {"root['affiliations']": 'Community of Christ'}, 'dictionary_item_removed': {"root['image_name']": 'Graceland University wordmark.png', "root['undergrad']": '1,495 (Fall 2013)', "root['postgrad']": '727 (Fall 2013)', "root['coor']": '-93.92580|form'}, 'values_changed': {"root['students']": {'new_value': '2,351', 'old_value': '2,222 (Fall 2013)'}}}
+98: {'dictionary_item_added': {"root['coor']": '-93.92580|form'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Community of Christ'}, 'values_changed': {"root['image_name']": {'new_value': 'Graceland University wordmark.png', 'old_value': 'Graceland University shield.svg'}}}
+110: {'values_changed': {"root['president']": {'new_value': 'John Sellars', 'old_value': 'Patricia Draves'}}}

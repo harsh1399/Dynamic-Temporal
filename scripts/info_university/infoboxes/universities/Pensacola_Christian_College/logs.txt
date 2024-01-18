@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pensacola Christian College', "root['president']": 'Troy Shoemaker', "root['undergrad']": '4,712', "root['staff']": '1,500'}}
+186: {'dictionary_item_added': {"root['undergrad']": '4,712', "root['staff']": '1,500'}, 'dictionary_item_removed': {"root['telephone']": '(850)478-8496', "root['alumni']": '17,911'}}
+198: {'values_changed': {"root['president']": {'new_value': 'Troy Shoemaker', 'old_value': 'Donald trump'}}}
+199: {'values_changed': {"root['president']": {'new_value': 'Donald trump', 'old_value': 'Troy Shoemaker'}}}
+200: {'values_changed': {"root['president']": {'new_value': 'Troy Shoemaker', 'old_value': 'Donald Trump'}, "root['telephone']": {'new_value': '(850)478-8496', 'old_value': '(850)478-8495'}}}
+201: {'values_changed': {"root['president']": {'new_value': 'Donald Trump', 'old_value': 'Troy Shoemaker'}, "root['telephone']": {'new_value': '(850)478-8495', 'old_value': '(850)478-8496'}}}
+231: {'dictionary_item_added': {"root['telephone']": '(850)478-8496', "root['alumni']": '17,911'}, 'dictionary_item_removed': {"root['students']": '4,882'}}

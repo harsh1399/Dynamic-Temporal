@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Morgan State University', "root['former_names']": 'Centenary Biblical Institute, Morgan College, Morgan State College', "root['endowment']": '$23,671,970 ', "root['chairman']": 'Kweisi Mfume', "root['president']": 'David Wilson', "root['provost']": 'Gloria J. Gibson', "root['academic_staff']": '1,556', "root['administrative_staff']": '437', "root['students']": '7,698 ', "root['undergrad']": '6,302', "root['postgrad']": '1,396', "root['campus']": 'Urban, ', "root['athletics_nickname']": 'Bears'}}
+7: {'values_changed': {"root['endowment']": {'new_value': '$23,671,970 ', 'old_value': '$28,000,000 '}}}
+24: {'values_changed': {"root['endowment']": {'new_value': '$28,000,000 ', 'old_value': '$32.9 million (2017) '}, "root['athletics_nickname']": {'new_value': 'Bears', 'old_value': '"Bears"'}}}
+47: {'values_changed': {"root['athletics_nickname']": {'new_value': '"Bears"', 'old_value': 'Bears'}}}
+53: {'values_changed': {"root['provost']": {'new_value': 'Gloria J. Gibson', 'old_value': 'Lesia L. Crumpton-Young'}}}
+81: {'values_changed': {"root['students']": {'new_value': '7,698 ', 'old_value': '7,763 '}, "root['undergrad']": {'new_value': '6,302', 'old_value': '6,461'}, "root['postgrad']": {'new_value': '1,396', 'old_value': '1,302'}}}
+91: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+113: {'dictionary_item_added': {"root['chairman']": 'Kweisi Mfume'}, 'values_changed': {"root['endowment']": {'new_value': '$32.9 million (2017) ', 'old_value': '$40.5 million (2019) '}}}
+144: {'values_changed': {"root['endowment']": {'new_value': '$40.5 million (2019) ', 'old_value': '$41.4 million (2020) '}}}
+145: {'values_changed': {"root['provost']": {'new_value': 'Lesia L. Crumpton-Young', 'old_value': 'Hongtao Yu'}}}

@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bethel University', "root['campus']": 'Suburban', "root['athletics']": '18 Varsity Teams '}}
+16: {'dictionary_item_removed': {"root['image_name']": 'Bethel-univercity-logo.gif', "root['endowment']": '$25.1 million', "root['president']": 'James H. Barnes III, Ed.D. | vice-president    =', "root['academic_staff']": '550', "root['students']": '6,500', "root['former_names']": 'Bethel College', "root['colours']": 'Navy Blue and Vegas Gold ', "root['affiliations']": 'NCAA Division III, Minnesota Intercollegiate Athletic Conference'}, 'values_changed': {"root['athletics']": {'new_value': '18 Varsity Teams ', 'old_value': '18 Varsity Teams'}}}
+17: {'dictionary_item_added': {"root['image_name']": 'Bethel-univercity-logo.gif', "root['endowment']": '$25.1 million', "root['president']": 'James H. Barnes III, Ed.D. | vice-president    =', "root['academic_staff']": '550', "root['students']": '6,500', "root['former_names']": 'Bethel College', "root['colours']": 'Navy Blue and Vegas Gold ', "root['affiliations']": 'NCAA Division III, Minnesota Intercollegiate Athletic Conference'}, 'values_changed': {"root['athletics']": {'new_value': '18 Varsity Teams', 'old_value': '18 Varsity Teams '}}}
+18: {'dictionary_item_added': {"root['athletics']": '18 Varsity Teams '}, 'dictionary_item_removed': {"root['endowment']": '$35.2 million', "root['students']": '6,532', "root['undergrad']": '3,996', "root['postgrad']": '1,423', "root['other']": '1,166 (Seminary)', "root['academic_staff']": '544'}}
+22: {'dictionary_item_removed': {"root['president']": 'James H. Barnes III, Ed.D.'}}
+31: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – MIAC', "root['sports']": '18 varsity teams'}, 'values_changed': {"root['undergrad']": {'new_value': '3,996', 'old_value': '2,800'}}}
+40: {'values_changed': {"root['other']": {'new_value': '1,166 (Seminary)', 'old_value': '578 (Seminary)'}}}
+76: {'dictionary_item_removed': {"root['affiliations']": []}}
+81: {'dictionary_item_added': {"root['affiliations']": []}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – MIAC', 'old_value': 'NCAA Division III , MIAC'}}}
+88: {'dictionary_item_added': {"root['endowment']": '$35.2 million', "root['postgrad']": '1,423', "root['other']": '578 (Seminary)'}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III , MIAC', 'old_value': 'NCAA Division III, MIAC'}}}
+90: {'dictionary_item_removed': {"root['endowment']": '$35.2 million (2013)', "root['budget']": '145.3 million (2016)'}}
+92: {'values_changed': {"root['budget']": {'new_value': '145.3 million (2016)', 'old_value': '$145.3 million (2016)'}}}
+97: {'dictionary_item_removed': {"root['religious_affiliation']": 'Converge'}, 'values_changed': {"root['president']": {'new_value': 'James H. Barnes III, Ed.D.', 'old_value': 'Ross Allen'}, "root['athletics']": {'new_value': 'NCAA Division III, MIAC', 'old_value': 'NCAA Division III MIAC'}}}
+119: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III MIAC', "root['sports']": '18 varsity teams'}, 'values_changed': {"root['endowment']": {'new_value': '$35.2 million (2013)', 'old_value': '$39.5 million (2021)'}}}
+127: {'values_changed': {"root['president']": {'new_value': 'Ross Allen', 'old_value': 'Barbara Bellefeuille'}}}
+130: {'values_changed': {"root['president']": {'new_value': 'Barbara Bellefeuille', 'old_value': 'Ross Allen'}}}
+151: {'dictionary_item_removed': {"root['former_names']": 'Baptist Union Theological Seminary (1871–1931)   Bethel Junior College (1931–1947) Bethel College and Seminary (1947–2004)'}}
+156: {'values_changed': {"root['name']": {'new_value': 'Bethel University', 'old_value': 'Moundsview Highschool'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'Moundsview Highschool', 'old_value': 'Bethel University'}}}

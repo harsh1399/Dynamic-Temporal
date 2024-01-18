@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Nottingham Trent University', "root['image_name']": 'Ntulogo.gif', "root['endowment']": '£758,000', "root['chancellor']": 'Sir Michael Parkinson', "root['vice_chancellor']": 'Edward Peck', "root['students']": '27,930 http://www.hesa.ac.uk/content/view/1897/239/ HESA - Higher Education Statistics Agency - Free Online Statistics - Students & qualifiers', "root['undergrad']": '22,780', "root['postgrad']": '5,155', "root['campus']": 'City, Clifton and Brackenhurst', "root['affiliations']": 'University Alliance, Association of Commonwealth Universities, European University Association'}}
+4: {'values_changed': {"root['chancellor']": {'new_value': 'Sir Michael Parkinson', 'old_value': 'Kevin Cahill'}}}
+7: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University', 'old_value': 'Shottingham Bent over and Rodgered'}}}
+8: {'values_changed': {"root['name']": {'new_value': 'Shottingham Bent over and Rodgered', 'old_value': 'Nottingham Trent University'}}}
+33: {'dictionary_item_added': {"root['image_name']": 'Ntulogo.gif'}, 'values_changed': {"root['campus']": {'new_value': 'City, Clifton and Brackenhurst', 'old_value': 'Urban, Suburban'}}}
+34: {'values_changed': {"root['endowment']": {'new_value': '£758,000', 'old_value': '£8.4m'}, "root['students']": {'new_value': '27,930 http://www.hesa.ac.uk/content/view/1897/239/ HESA - Higher Education Statistics Agency - Free Online Statistics - Students & qualifiers', 'old_value': '26,845  http://www.hesa.ac.uk/content/view/1897/239/ HESA - Higher Education Statistics Agency - Free Online Statistics - Students & qualifiers'}, "root['undergrad']": {'new_value': '22,780', 'old_value': '21,670'}, "root['postgrad']": {'new_value': '5,155', 'old_value': '5,175'}}}
+35: {'dictionary_item_removed': {"root['staff']": '3,430'}}
+39: {'dictionary_item_removed': {"root['image_name']": 'File:Nottingham_Trent_University_Logo.jpg'}}
+51: {'values_changed': {"root['image_name']": {'new_value': 'File:Nottingham_Trent_University_Logo.jpg', 'old_value': 'File:Ntu 1 burned (1).png'}}}
+52: {'dictionary_item_removed': {"root['colours']": 'Red '}}
+63: {'values_changed': {"root['students']": {'new_value': '26,845  http://www.hesa.ac.uk/content/view/1897/239/ HESA - Higher Education Statistics Agency - Free Online Statistics - Students & qualifiers', 'old_value': '26,845  '}}}
+86: {'dictionary_item_added': {"root['students']": '26,845  ', "root['undergrad']": '21,670', "root['postgrad']": '5,175'}, 'values_changed': {"root['campus']": {'new_value': 'Urban, Suburban', 'old_value': 'Urban, Suburban, Rural'}}}
+87: {'values_changed': {"root['colours']": {'new_value': 'Red ', 'old_value': 'Pink '}}}
+88: {'values_changed': {"root['campus']": {'new_value': 'Urban, Suburban, Rural', 'old_value': 'Urban, Suburban'}, "root['colours']": {'new_value': 'Pink ', 'old_value': 'Red '}}}
+92: {'dictionary_item_added': {"root['colours']": 'Red '}, 'dictionary_item_removed': {"root['budget']": '£313 million '}, 'values_changed': {"root['image_name']": {'new_value': 'File:Ntu 1 burned (1).png', 'old_value': 'Nottingham_Trent_University_shield.svg'}, "root['endowment']": {'new_value': '£8.4m', 'old_value': '£5.218 million '}, "root['chancellor']": {'new_value': 'Kevin Cahill', 'old_value': 'Sir John Peace'}}}
+93: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Edward Peck', 'old_value': "Charlie (CON) O'Neill"}}}
+94: {'values_changed': {"root['vice_chancellor']": {'new_value': "Charlie (CON) O'Neill", 'old_value': 'Edward Peck'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University', 'old_value': 'Nottingham Trent University, Located in Bulmer’s City'}}}
+96: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University, Located in Bulmer’s City', 'old_value': 'Nottingham Trent University, Located in Bulmer’s mum'}}}
+97: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University, Located in Bulmer’s mum', 'old_value': 'Nottingham Trent University, Located in Bulmer’s City'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University, Located in Bulmer’s City', 'old_value': 'Nottingham Trent University, Located in Bulmer’s Mum'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University, Located in Bulmer’s Mum', 'old_value': 'Nottingham Trent University, Located in Nottinghamshire'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Nottingham Trent University, Located in Nottinghamshire', 'old_value': 'Nottingham Trent University'}}}
+123: {'values_changed': {"root['campus']": {'new_value': 'Urban, Suburban', 'old_value': 'Urban, Suburban, Semirural, Rural'}}}
+125: {'dictionary_item_added': {"root['staff']": '3,430'}, 'dictionary_item_removed': {"root['administrative_staff']": '3,430'}}
+140: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance, Association of Commonwealth Universities, European University Association', 'old_value': 'University Alliance Association of Commonwealth Universities European University Association'}}}
+141: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance Association of Commonwealth Universities European University Association', 'old_value': 'Association of Commonwealth Universities European University Association'}}}
+176: {'values_changed': {"root['image_name']": {'new_value': 'Nottingham_Trent_University_shield.svg', 'old_value': 'Nottingham Trent University coat of arms.png'}}}
+209: {'dictionary_item_added': {"root['image_name']": 'Nottingham Trent University coat of arms.png'}, 'values_changed': {"root['endowment']": {'new_value': '£5.218 million ', 'old_value': '£4.67 million '}, "root['budget']": {'new_value': '£313 million ', 'old_value': '£393.5 million '}}}

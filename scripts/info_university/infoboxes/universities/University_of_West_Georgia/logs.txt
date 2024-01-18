@@ -1,0 +1,16 @@
+14: {'dictionary_item_removed': {"root['name']": 'University of West Georgia', "root['image_name']": 'UWGSeal.png', "root['endowment']": '$13,789,367 http://www.usnews.com/usnews/edu/college/directory/brief/drglance_1601_brief.php', "root['president']": 'Dr. Beheruz N. Sethna', "root['students']": '10,677  ', "root['undergrad']": '8,842', "root['postgrad']": '1,835', "root['campus']": '640 acres'}}
+63: {'dictionary_item_added': {"root['undergrad']": '8,842'}, 'dictionary_item_removed': {"root['former_names']": 'Fourth District A&M School,, West Georgia College, State University of West Georgia'}, 'values_changed': {"root['image_name']": {'new_value': 'UWGSeal.png', 'old_value': 'University of West Georgia seal.svg'}, "root['endowment']": {'new_value': '$13,789,367 http://www.usnews.com/usnews/edu/college/directory/brief/drglance_1601_brief.php', 'old_value': '||'}, "root['president']": {'new_value': 'Dr. Beheruz N. Sethna', 'old_value': 'Kyle Marrero (currently)'}, "root['students']": {'new_value': '10,677  ', 'old_value': '13,733'}, "root['postgrad']": {'new_value': '1,835', 'old_value': '2,598'}, "root['campus']": {'new_value': '640 acres', 'old_value': 'College Town '}}}
+64: {'values_changed': {"root['former_names']": {'new_value': 'Fourth District A&M School,, West Georgia College, State University of West Georgia', 'old_value': 'Fourth District A&M School (1906–1933), West Georgia College (1933–?) State University of West Georgia (?–?)'}}}
+68: {'values_changed': {"root['former_names']": {'new_value': 'Fourth District A&M School (1906–1933), West Georgia College (1933–?) State University of West Georgia (?–?)', 'old_value': 'Fourth District A&M School (1906–1933), West Georgia College (1933–1996) State University of West Georgia (1996–2005)'}}}
+70: {'values_changed': {"root['president']": {'new_value': 'Kyle Marrero (currently)', 'old_value': 'Micheal Crafton (interim)'}}}
+71: {'values_changed': {"root['endowment']": {'new_value': '||', 'old_value': '$27,919,873 '}}}
+77: {'values_changed': {"root['former_names']": {'new_value': 'Fourth District A&M School (1906–1933), West Georgia College (1933–1996) State University of West Georgia (1996–2005)', 'old_value': 'Fourth District A&M School (1906–1933) West Georgia College (1933–1996) State University of West Georgia (1996–2005)'}}}
+86: {'values_changed': {"root['students']": {'new_value': '13,733', 'old_value': '13,400'}}}
+87: {'values_changed': {"root['postgrad']": {'new_value': '2,598', 'old_value': '2,700'}}}
+88: {'values_changed': {"root['students']": {'new_value': '13,400', 'old_value': '13,733'}, "root['postgrad']": {'new_value': '2,700', 'old_value': '2,598'}}}
+97: {'values_changed': {"root['president']": {'new_value': 'Micheal Crafton (interim)', 'old_value': 'Dr Brendan Kelly'}}}
+103: {'values_changed': {"root['president']": {'new_value': 'Dr Brendan Kelly', 'old_value': 'Dr Brendan Kelly ||'}}}
+122: {'dictionary_item_added': {"root['postgrad']": '2,598'}, 'values_changed': {"root['students']": {'new_value': '13,733', 'old_value': '13,510'}}}
+125: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+130: {'values_changed': {"root['students']": {'new_value': '13,510', 'old_value': '13,418 (Fall 2020)'}}}
+131: {'values_changed': {"root['students']": {'new_value': '13,418 (Fall 2020)', 'old_value': '13,510'}}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indian Institute of Technology Kharagpur', "root['image_name']": 'IIT Kharagpur Logo.svg', "root['chairman']": 'Sanjiv Goenka', "root['director']": "Prof. Sriman Kumar Bhattacharyya  , '''(Officiating)'''", "root['academic_staff']": '758', "root['administrative_staff']": '1,500', "root['students']": '11,500 ', "root['undergrad']": '6,316', "root['postgrad']": '5,184', "root['campus']": 'Urban '}}
+1: {'values_changed': {"root['director']": {'new_value': "Prof. Sriman Kumar Bhattacharyya  , '''(Officiating)'''", 'old_value': 'Virendra Kumar Tewari |'}}}
+18: {'dictionary_item_removed': {"root['doctoral']": '2,621'}}
+19: {'dictionary_item_removed': {"root['academic_affiliations']": 'Institute of National Importance'}, 'values_changed': {"root['academic_staff']": {'new_value': '758', 'old_value': '781'}, "root['students']": {'new_value': '11,500 ', 'old_value': '11,794 '}, "root['undergrad']": {'new_value': '6,316', 'old_value': '2,769'}, "root['postgrad']": {'new_value': '5,184', 'old_value': '6,210'}, "root['doctoral']": {'new_value': '2,621', 'old_value': '2,815'}}}
+24: {'values_changed': {"root['chairman']": {'new_value': 'Sanjiv Goenka', 'old_value': 'Anmaya Naik'}}}
+25: {'values_changed': {"root['chairman']": {'new_value': 'Anmaya Naik', 'old_value': 'Sanjiv Goenka'}}}
+27: {'dictionary_item_removed': {"root['District']": 'West Midnapore'}}
+42: {'dictionary_item_added': {"root['District']": 'West Midnapore'}, 'values_changed': {"root['name']": {'new_value': 'Indian Institute of Technology Kharagpur', 'old_value': 'Indian Institute of Technology Kharagpur 2222'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of Technology Kharagpur 2222', 'old_value': 'Indian Institute of Technology Kharagpur'}}}
+59: {'values_changed': {"root['chairman']": {'new_value': 'Sanjiv Goenka', 'old_value': 'Sanjiv Goenka |'}}}
+78: {'values_changed': {"root['undergrad']": {'new_value': '2,769', 'old_value': '6,210'}, "root['postgrad']": {'new_value': '6,210', 'old_value': '2,769'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of Technology Kharagpur', 'old_value': 'Indian Institute of Technology Delhi'}, "root['image_name']": {'new_value': 'IIT Kharagpur Logo.svg', 'old_value': 'IIT Delhi Logo.svg'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of Technology Delhi', 'old_value': 'Indian Institute of Technology Kharagpur'}, "root['image_name']": {'new_value': 'IIT Delhi Logo.svg', 'old_value': 'IIT Kharagpur Logo.svg'}}}
+208: {'values_changed': {"root['academic_staff']": {'new_value': '781', 'old_value': '809'}}}

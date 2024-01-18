@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Miami Dade College logo', "root['former_names']": 'Dade Junior College, Miami Dade Junior College, Miami Dade Community College', "root['endowment']": '$306 million', "root['president']": 'Eduardo J. Padrón', "root['location']": 'Miami, Florida, USA', "root['campus']": 'Urban', "root['students']": '161,000 (2007–08)', "root['faculty']": '6,500'}}
+7: {'values_changed': {"root['students']": {'new_value': '161,000 (2007–08)', 'old_value': '165,000 (2014–15)'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Miami Dade College logo', 'old_value': 'Miami Dade College'}}}
+197: {'dictionary_item_added': {"root['location']": 'Miami, Florida, USA'}, 'values_changed': {"root['president']": {'new_value': 'Eduardo J. Padrón', 'old_value': 'Eduardo J. Padrón (Until the end of summer 2019)'}}}
+339: {'values_changed': {"root['former_names']": {'new_value': 'Dade Junior College, Miami Dade Junior College, Miami Dade Community College', 'old_value': 'Dade Junior College Miami Dade Junior College Miami Dade Community College'}}}
+342: {'values_changed': {"root['president']": {'new_value': 'Eduardo J. Padrón (Until the end of summer 2019)', 'old_value': 'Rolando Montoya (interim)'}}}
+557: {'values_changed': {"root['endowment']": {'new_value': '$306 million', 'old_value': '$491.7 million (2019)'}}}
+581: {'values_changed': {"root['president']": {'new_value': 'Rolando Montoya (interim)', 'old_value': 'Madeline Pumariega'}}}
+588: {'values_changed': {"root['students']": {'new_value': '165,000 (2014–15)', 'old_value': 'More than 100,000 (2019–20)'}}}

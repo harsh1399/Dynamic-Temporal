@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['name']": 'St. Bonaventure University', "root['president']": 'Dennis R. DePerro', "root['endowment']": '$60 million (2015)', "root['undergrad']": '~1,635', "root['postgrad']": '~465', "root['staff']": '~500', "root['campus']": 'Small town/rural, 500 acres (2 km²)', "root['athletics']": 'NCAA Division I – Atlantic 10', "root['sports']": "14 varsity teams, (7 men's & 7 women's)", "root['former_names']": "St. Bonaventure's College,  (1858-1950)", "root['affiliations']": 'ACCU, AFCU, NAICU, CIC'}}
+26: {'values_changed': {"root['endowment']": {'new_value': '$60 million (2015)', 'old_value': '$66.8 million (2017)'}}}
+27: {'values_changed': {"root['undergrad']": {'new_value': '~1,635', 'old_value': '~2,000'}}}
+31: {'values_changed': {"root['undergrad']": {'new_value': '~2,000', 'old_value': '1,812'}, "root['postgrad']": {'new_value': '~465', 'old_value': '560'}}}
+33: {'values_changed': {"root['undergrad']": {'new_value': '1,812', 'old_value': '1,627'}, "root['postgrad']": {'new_value': '560', 'old_value': '462'}}}
+35: {'values_changed': {"root['undergrad']": {'new_value': '1,627', 'old_value': '1,812 as of Fall 2018'}, "root['postgrad']": {'new_value': '462', 'old_value': '569'}}}
+36: {'values_changed': {"root['undergrad']": {'new_value': '1,812 as of Fall 2018', 'old_value': '1,627'}, "root['postgrad']": {'new_value': '569', 'old_value': '462'}}}
+38: {'values_changed': {"root['undergrad']": {'new_value': '1,627', 'old_value': '1,812 as of Fall 2018'}, "root['postgrad']": {'new_value': '462', 'old_value': '569'}}}
+39: {'values_changed': {"root['undergrad']": {'new_value': '1,812 as of Fall 2018', 'old_value': '1,812 '}}}
+40: {'values_changed': {"root['undergrad']": {'new_value': '1,812 ', 'old_value': '1,812 as of Fall 2018'}}}
+41: {'values_changed': {"root['undergrad']": {'new_value': '1,812 as of Fall 2018', 'old_value': '1,627'}, "root['postgrad']": {'new_value': '569', 'old_value': '462'}}}
+42: {'values_changed': {"root['undergrad']": {'new_value': '1,627', 'old_value': '1,627   '}}}
+43: {'values_changed': {"root['postgrad']": {'new_value': '462', 'old_value': '462   '}}}
+49: {'dictionary_item_removed': {"root['religious_affiliation']": 'Catholic Church (Franciscan)'}}
+53: {'values_changed': {"root['undergrad']": {'new_value': '1,627   ', 'old_value': '1,812 '}, "root['postgrad']": {'new_value': '462   ', 'old_value': '569'}}}
+54: {'values_changed': {"root['postgrad']": {'new_value': '569', 'old_value': '569  '}}}
+56: {'values_changed': {"root['postgrad']": {'new_value': '569  ', 'old_value': '569   as of Fall 2019'}}}
+59: {'values_changed': {"root['endowment']": {'new_value': '$66.8 million (2017)', 'old_value': '$71 million (2019)'}, "root['sports']": {'new_value': "14 varsity teams, (7 men's & 7 women's)", 'old_value': "17 varsity teams, (9 men's & 8 women's)"}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Dennis R. DePerro', 'old_value': 'Dr. Dennis R. DePerro'}, "root['endowment']": {'new_value': '$71 million (2019)', 'old_value': '$74 million (2019)'}, "root['undergrad']": {'new_value': '1,812 ', 'old_value': '1850  '}, "root['affiliations']": {'new_value': 'ACCU, AFCU, NAICU, CIC', 'old_value': 'CIC, American Association of Collegiate Schools of Business (AACSB), Accrediting Council on Education in Journalism (ACEJMC)'}}}
+63: {'values_changed': {"root['affiliations']": {'new_value': 'CIC, American Association of Collegiate Schools of Business (AACSB), Accrediting Council on Education in Journalism (ACEJMC)', 'old_value': 'ACCU, AFCU, NAICU, CIC'}}}
+68: {'values_changed': {"root['president']": {'new_value': 'Dr. Dennis R. DePerro', 'old_value': 'Dennis R. DePerro'}, "root['endowment']": {'new_value': '$74 million (2019)', 'old_value': '$74.4 million (2019)'}, "root['postgrad']": {'new_value': '569   as of Fall 2019', 'old_value': '569  as of Fall 2019'}}}
+74: {'values_changed': {"root['endowment']": {'new_value': '$74.4 million (2019)', 'old_value': '$71.9 million (2020)'}}}
+75: {'values_changed': {"root['president']": {'new_value': 'Dennis R. DePerro', 'old_value': 'vacant'}}}
+78: {'dictionary_item_removed': {"root['provost']": 'Dr. Joseph Zimmer'}, 'values_changed': {"root['president']": {'new_value': 'vacant', 'old_value': 'Dr. Joseph Zimmer (acting)'}}}
+111: {'dictionary_item_added': {"root['staff']": '~500'}, 'dictionary_item_removed': {"root['administrative_staff']": '~500'}}
+112: {'values_changed': {"root['endowment']": {'new_value': '$71.9 million (2020)', 'old_value': '$74.4 million (2020)'}}}
+118: {'values_changed': {"root['endowment']": {'new_value': '$74.4 million (2020)', 'old_value': '$90 million (2021)'}}}
+119: {'values_changed': {"root['endowment']": {'new_value': '$90 million (2021)', 'old_value': '$74.4 million (2020)'}}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$74.4 million (2020)', 'old_value': '$71.8 million (2020)'}}}
+129: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – Atlantic 10', "root['sports']": "17 varsity teams, (9 men's & 8 women's)", "root['affiliations']": 'ACCU, AFCU, NAICU, CIC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – Atlantic 10', "root['academic_affiliations']": 'ACCU AFCU NAICU CIC'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Joseph Zimmer (acting)', 'old_value': 'Joseph Zimmer (acting)'}, "root['provost']": {'new_value': 'Dr. Joseph Zimmer', 'old_value': 'Joseph Zimmer'}, "root['campus']": {'new_value': 'Small town/rural, 500 acres (2 km²)', 'old_value': 'Small town/rural, '}, "root['former_names']": {'new_value': "St. Bonaventure's College,  (1858-1950)", 'old_value': "St. Bonaventure's College  (1858-1950)"}}}
+134: {'dictionary_item_added': {"root['provost']": 'Joseph Zimmer'}, 'values_changed': {"root['president']": {'new_value': 'Joseph Zimmer (acting)', 'old_value': 'Jeff Gingerich'}}}
+137: {'dictionary_item_removed': {"root['provost']": 'David Hilmey (acting)'}, 'values_changed': {"root['president']": {'new_value': 'Jeff Gingerich', 'old_value': 'Joseph Zimmer (acting)'}}}
+142: {'values_changed': {"root['endowment']": {'new_value': '$71.8 million (2020)', 'old_value': '$92.3 million (2021)'}}}
+143: {'values_changed': {"root['undergrad']": {'new_value': '1850  ', 'old_value': '1,861 '}, "root['postgrad']": {'new_value': '569  as of Fall 2019', 'old_value': '935  as of Fall 2019'}}}
+144: {'values_changed': {"root['postgrad']": {'new_value': '935  as of Fall 2019', 'old_value': '935  as of Fall 2021'}}}
+151: {'values_changed': {"root['president']": {'new_value': 'Joseph Zimmer (acting)', 'old_value': 'Jeff Gingerich, Ph.D.'}, "root['provost']": {'new_value': 'David Hilmey (acting)', 'old_value': 'Joseph Zimmer, Ph.D.'}, "root['undergrad']": {'new_value': '1,861 ', 'old_value': '1,858 '}, "root['postgrad']": {'new_value': '935  as of Fall 2021', 'old_value': '756  as of Fall 2021'}}}
+163: {'values_changed': {"root['president']": {'new_value': 'Jeff Gingerich, Ph.D.', 'old_value': 'Jeff Gingerich'}, "root['provost']": {'new_value': 'Joseph Zimmer, Ph.D.', 'old_value': 'Joseph Zimmer'}, "root['former_names']": {'new_value': "St. Bonaventure's College  (1858-1950)", 'old_value': "St. Bonaventure's College (1858-1950)"}}}

@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Carthage College', "root['president']": 'Dr. John R. Swallow', "root['students']": '2,600', "root['faculty']": '150', "root['endowment']": '$107  million |'}}
+40: {'values_changed': {"root['students']": {'new_value': '2,600', 'old_value': '3,000'}}}
+42: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – CCIW'}}
+45: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – CCIW', "root['faculty']": '150'}, 'values_changed': {"root['students']": {'new_value': '3,000', 'old_value': '2,800'}}}
+51: {'dictionary_item_removed': {"root['faculty']": '150', "root['religious_affiliation']": 'Evangelical Lutheran Church in America'}}
+58: {'dictionary_item_removed': {"root['Tuition']": '$31,500 '}, 'values_changed': {"root['endowment']": {'new_value': '$107  million |', 'old_value': '$107  million'}}}
+59: {'dictionary_item_added': {"root['Tuition']": '$31,500 '}, 'values_changed': {"root['endowment']": {'new_value': '$107  million', 'old_value': '$107  million |'}}}
+61: {'dictionary_item_removed': {"root['Tuition']": '$31,500 '}, 'values_changed': {"root['endowment']": {'new_value': '$107  million |', 'old_value': '$107  million'}}}
+65: {'dictionary_item_added': {"root['Tuition']": '$31,500 '}, 'values_changed': {"root['endowment']": {'new_value': '$107  million', 'old_value': '$107  million |'}}}
+99: {'values_changed': {"root['president']": {'new_value': 'Dr. John R. Swallow', 'old_value': 'John R. Swallow'}, "root['endowment']": {'new_value': '$107  million |', 'old_value': '$111.5 million (2019) As of June 30, 2019. |'}}}
+106: {'dictionary_item_added': {"root['religious_affiliation']": 'Evangelical Lutheran Church in America'}, 'values_changed': {"root['endowment']": {'new_value': '$111.5 million (2019) As of June 30, 2019. |', 'old_value': '$111.5 million (2019)'}}}
+108: {'dictionary_item_removed': {"root['former_names']": 'The Literary and Theological Institute of the Lutheran Church in the Far West Lutheran College Hillsboro College Illinois State University (1852–1870)'}}

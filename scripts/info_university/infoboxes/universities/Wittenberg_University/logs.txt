@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wittenberg University', "root['image_name']": 'Witt seal.png', "root['president']": 'Michael L. Frandsen', "root['provost']": 'Mary Jo Zembar', "root['students']": '2,000', "root['postgrad']": '70', "root['faculty']": '196 full-time', "root['endowment']": '$98.7 million (2016)', "root['campus']": 'Small city, ', "root['athletics']": 'NCAA Division III — NCAC'}}
+1: {'values_changed': {"root['students']": {'new_value': '2,000', 'old_value': '1,900'}}}
+18: {'values_changed': {"root['endowment']": {'new_value': '$98.7 million (2016)', 'old_value': '$112 million (2018)'}}}
+33: {'values_changed': {"root['students']": {'new_value': '1,900', 'old_value': '1,838'}, "root['postgrad']": {'new_value': '70', 'old_value': '44'}}}
+51: {'values_changed': {"root['faculty']": {'new_value': '196 full-time', 'old_value': '196 full-time http://www.petersons.com/collegeprofiles/Profile.aspx?inunid'}, "root['endowment']": {'new_value': '$112 million (2018)', 'old_value': '$106,595,000 (2017)'}}}
+57: {'dictionary_item_removed': {"root['date']": 'website=The Chronicle of Higher Education|acces'}, 'values_changed': {"root['endowment']": {'new_value': '$106,595,000 (2017)', 'old_value': '?'}}}
+64: {'dictionary_item_added': {"root['students']": '1,838'}, 'dictionary_item_removed': {"root['undergrad']": '1,794'}}
+65: {'values_changed': {"root['faculty']": {'new_value': '196 full-time http://www.petersons.com/collegeprofiles/Profile.aspx?inunid', 'old_value': '188 full-time |'}}}
+66: {'values_changed': {"root['faculty']": {'new_value': '188 full-time |', 'old_value': '121 full-time |'}}}
+73: {'values_changed': {"root['provost']": {'new_value': 'Mary Jo Zembar', 'old_value': 'Mary Jo Zembar (Interim)'}}}
+102: {'values_changed': {"root['provost']": {'new_value': 'Mary Jo Zembar (Interim)', 'old_value': 'Michelle Mattson'}}}
+106: {'dictionary_item_added': {"root['image_name']": 'Witt seal.png', "root['date']": 'website=The Chronicle of Higher Education|acces', "root['athletics']": 'NCAA Division III — NCAC'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Evangelical Lutheran Church in America', "root['athletics_affiliations']": 'NCAA Division III – NCAC'}, 'values_changed': {"root['endowment']": {'new_value': '?', 'old_value': '$110.96 million (2018)'}, "root['undergrad']": {'new_value': '1,794', 'old_value': 'about 1,400'}}}
+120: {'values_changed': {"root['undergrad']": {'new_value': 'about 1,400', 'old_value': 'about 1,326'}, "root['faculty']": {'new_value': '121 full-time |', 'old_value': '102 full-time |'}}}
+131: {'values_changed': {"root['undergrad']": {'new_value': 'about 1,326', 'old_value': 'about 1,326 '}}}
+132: {'values_changed': {"root['provost']": {'new_value': 'Michelle Mattson', 'old_value': 'Brian D. Yontz'}}}
+133: {'values_changed': {"root['provost']": {'new_value': 'Brian D. Yontz', 'old_value': 'Brian D. Yontz (interim)'}}}

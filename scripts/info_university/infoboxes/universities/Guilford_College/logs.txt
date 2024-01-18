@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Guilford College', "root['endowment']": '$53.8 million', "root['president']": 'Kent John Chabotar', "root['faculty']": '126', "root['students']": '2,682 |traditional a', "root['campus']": 'Suburban, 340 acres (1.37 km²)'}}
+11: {'values_changed': {"root['faculty']": {'new_value': '126', 'old_value': '134'}, "root['students']": {'new_value': '2,682 |traditional a', 'old_value': '2,706 |traditional a'}}}
+57: {'values_changed': {"root['endowment']": {'new_value': '$53.8 million', 'old_value': 'US$53.8 million'}}}
+61: {'values_changed': {"root['endowment']": {'new_value': 'US$53.8 million', 'old_value': '$53.8 million'}}}
+62: {'values_changed': {"root['endowment']": {'new_value': '$53.8 million', 'old_value': 'US$53.8 million'}}}
+69: {'dictionary_item_removed': {"root['image_name']": 'guilfordcollegelogo.jpg'}}
+85: {'dictionary_item_removed': {"root['color1']": 'Crimson', "root['color2']": 'Grey'}, 'values_changed': {"root['endowment']": {'new_value': 'US$53.8 million', 'old_value': 'US $70.7 million'}, "root['president']": {'new_value': 'Kent John Chabotar', 'old_value': 'Jane Fernandes'}, "root['faculty']": {'new_value': '134', 'old_value': '118'}, "root['students']": {'new_value': '2,706 |traditional a', 'old_value': '2,137 | traditional age students = 1,205'}}}
+107: {'dictionary_item_added': {"root['color1']": 'Crimson', "root['color2']": 'Grey'}, 'values_changed': {"root['students']": {'new_value': '2,137 | traditional age students = 1,205', 'old_value': '2,137'}}}
+117: {'values_changed': {"root['image_name']": {'new_value': 'guilfordcollegelogo.jpg', 'old_value': 'Guilford College emblem (full).svg'}, "root['endowment']": {'new_value': 'US $70.7 million', 'old_value': 'US $86.2 million'}}}
+121: {'values_changed': {"root['endowment']": {'new_value': 'US $86.2 million', 'old_value': '$86.2 million'}}}
+126: {'values_changed': {"root['president']": {'new_value': 'Jane Fernandes', 'old_value': 'Carol Moore (Interim)'}}}
+144: {'values_changed': {"root['students']": {'new_value': '2,137', 'old_value': '1,429'}}}
+148: {'values_changed': {"root['endowment']": {'new_value': '$86.2 million', 'old_value': '$72.9 million (2020)'}}}
+150: {'values_changed': {"root['president']": {'new_value': 'Carol Moore (Interim)', 'old_value': 'Jim Hood (Interim)'}}}
+162: {'values_changed': {"root['president']": {'new_value': 'Jim Hood (Interim)', 'old_value': 'Jim Hood (interim)   Kyle Farmbry (incoming)'}}}
+163: {'values_changed': {"root['president']": {'new_value': 'Jim Hood (interim)   Kyle Farmbry (incoming)', 'old_value': 'Jim Hood (interim)'}}}
+164: {'values_changed': {"root['endowment']": {'new_value': '$72.9 million (2020)', 'old_value': '$93,033,012 million (2021)'}, "root['students']": {'new_value': '1,429', 'old_value': '1,222'}}}
+166: {'values_changed': {"root['endowment']": {'new_value': '$93,033,012 million (2021)', 'old_value': '$72.9 million (2020)'}, "root['students']": {'new_value': '1,222', 'old_value': '1,429'}}}
+170: {'values_changed': {"root['endowment']": {'new_value': '$72.9 million (2020)', 'old_value': '$92.7 million (2021)'}, "root['president']": {'new_value': 'Jim Hood (interim)', 'old_value': 'Kyle Kambry (incoming) Jim Hood (interim outgoing)'}, "root['faculty']": {'new_value': '118', 'old_value': '85'}, "root['students']": {'new_value': '1,429', 'old_value': '1,200'}}}

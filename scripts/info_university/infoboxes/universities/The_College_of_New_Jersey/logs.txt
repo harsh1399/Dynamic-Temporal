@@ -1,0 +1,16 @@
+411: {'dictionary_item_removed': {"root['name']": 'The College of New Jersey', "root['former_names']": 'Trenton State College', "root['image_name']": 'TCNJ Seal.jpg', "root['endowment']": '$43.7 million ', "root['president']": 'R. Barbara Gitenstein', "root['faculty']": '821 (347 full time, 474 adjunct) ', "root['students']": '7,340', "root['undergrad']": '6,653', "root['postgrad']": '687', "root['campus']": 'Suburban, 289 acres (1.2 km²) ', "root['athletics']": 'NCAA Division III – NJAC'}}
+443: {'values_changed': {"root['president']": {'new_value': 'R. Barbara Gitenstein', 'old_value': 'Dr. Kathryn A. Foster'}}}
+448: {'dictionary_item_added': {"root['former_names']": 'Trenton State College'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Kathryn A. Foster', 'old_value': 'Kathryn A. Foster'}}}
+453: {'values_changed': {"root['name']": {'new_value': 'The College of New Jersey', 'old_value': 'College of New Jersey'}}}
+454: {'values_changed': {"root['name']": {'new_value': 'College of New Jersey', 'old_value': 'The College of New Jersey'}}}
+467: {'dictionary_item_removed': {"root['provost']": 'William W. Keep (interim)', "root['former_names']": 'New Jersey State Normal School, Trenton State College'}, 'values_changed': {"root['president']": {'new_value': 'Kathryn A. Foster', 'old_value': 'Kathryn A. (Kate) Foster, PhD'}}}
+488: {'values_changed': {"root['endowment']": {'new_value': '$43.7 million ', 'old_value': '$32.2 million (2019)'}, "root['president']": {'new_value': 'Kathryn A. (Kate) Foster, PhD', 'old_value': 'Kathryn A. Foster'}}}
+500: {'dictionary_item_removed': {"root['academic_affilitations']": 'Sea-grant'}}
+501: {'dictionary_item_added': {"root['image_name']": 'TCNJ Seal.jpg', "root['academic_affilitations']": 'Sea-grant'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Sea-grant'}}
+507: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Sea-grant', 'old_value': 'Sea-grant, Space-grant'}}}
+513: {'values_changed': {"root['endowment']": {'new_value': '$32.2 million (2019)', 'old_value': '$39.8 million (2020)'}}}
+516: {'values_changed': {"root['provost']": {'new_value': 'William W. Keep (interim)', 'old_value': 'Jeffrey M. Osborn'}}}
+535: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NJAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NJAC'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, 289 acres (1.2 km²) ', 'old_value': 'Suburban, '}, "root['former_names']": {'new_value': 'New Jersey State Normal School, Trenton State College', 'old_value': 'nickname        = Lions'}}}
+536: {'values_changed': {"root['former_names']": {'new_value': 'nickname        = Lions', 'old_value': 'New Jersey State Normal School, Trenton State College'}}}
+537: {'values_changed': {"root['former_names']": {'new_value': 'New Jersey State Normal School, Trenton State College', 'old_value': 'New Jersey State Normal School Trenton State College'}}}
+544: {'dictionary_item_removed': {"root['chair']": 'Elaine A. Rocha', "root['free_label2']": 'Newspaper'}}

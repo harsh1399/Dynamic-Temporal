@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of the West of England, Bristol', "root['image_name']": 'Univ of the West of England arms.png', "root['endowment']": '£1.8 million (2014)', "root['chancellor']": 'Sir Ian Carruthers', "root['vice_chancellor']": 'Steven West', "root['students']": '29, 497 (2016/17) ', "root['undergrad']": '22, 172 (2016/17)', "root['campus']": 'Semi-urban', "root['colours']": 'White, Red & Black ', "root['affiliations']": 'EUA, AMBA,  Universities UK,  Association of Commonwealth Universities, University Alliance '}}
+12: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Steven West', 'old_value': 'Sam Allen'}}}
+13: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sam Allen', 'old_value': 'Steven West'}}}
+25: {'dictionary_item_removed': {"root['other_names']": ', UWE Bristol , UWE.'}}
+38: {'values_changed': {"root['other_names']": {'new_value': ', UWE Bristol , UWE.', 'old_value': ', UWE Bristol , UWE'}}}
+39: {'values_changed': {"root['affiliations']": {'new_value': 'EUA, AMBA,  Universities UK,  Association of Commonwealth Universities, University Alliance ', 'old_value': 'Bristol Old Vic Theatre School EUA, AMBA,  Universities UK,  Association of Commonwealth Universities, University Alliance '}}}
+61: {'dictionary_item_added': {"root['campus']": 'Semi-urban', "root['colours']": 'White, Red & Black '}, 'values_changed': {"root['students']": {'new_value': '29, 497 (2016/17) ', 'old_value': '29,497 (2016/17) '}, "root['undergrad']": {'new_value': '22, 172 (2016/17)', 'old_value': '22,172 (2016/17)'}}}
+101: {'dictionary_item_removed': {"root['budget']": '£271.3 million (2017-18)'}}
+102: {'values_changed': {"root['budget']": {'new_value': '£271.3 million (2017-18)', 'old_value': '£271.3 million (2017/18)'}}}
+105: {'values_changed': {"root['other_names']": {'new_value': ', UWE Bristol , UWE', 'old_value': 'UWE Bristol, UWE'}}}
+176: {'values_changed': {"root['budget']": {'new_value': '£271.3 million (2017/18)', 'old_value': '£303.1million (2019/20)'}}}
+177: {'values_changed': {"root['budget']": {'new_value': '£303.1million (2019/20)', 'old_value': '£303.1 million (2019/20)'}}}
+178: {'values_changed': {"root['endowment']": {'new_value': '£1.8 million (2014)', 'old_value': '£2.3 million (2018)'}}}
+179: {'dictionary_item_removed': {"root['colours']": '| website =  logo'}}
+181: {'values_changed': {"root['colours']": {'new_value': '| website =  logo', 'old_value': 'Black,White,Red   '}}}
+182: {'values_changed': {"root['colours']": {'new_value': 'Black,White,Red   ', 'old_value': 'Black, White, Red  '}}}
+183: {'values_changed': {"root['colours']": {'new_value': 'Black, White, Red  ', 'old_value': 'Black,White,Red     '}}}
+190: {'dictionary_item_added': {"root['colours']": 'Black,White,Red     '}, 'values_changed': {"root['chancellor']": {'new_value': 'Sir Ian Carruthers', 'old_value': 'Dame Chris Hatton of Hale Village'}}}
+192: {'values_changed': {"root['chancellor']": {'new_value': 'Dame Chris Hatton of Hale Village', 'old_value': 'Sir Ian Carruthers'}}}
+193: {'values_changed': {"root['other_names']": {'new_value': 'UWE Bristol, UWE', 'old_value': 'LORD LUCY HATTON'}}}
+194: {'values_changed': {"root['other_names']": {'new_value': 'LORD LUCY HATTON', 'old_value': 'UWE Bristol, UWE'}}}
+199: {'dictionary_item_removed': {"root['postgrad']": '7,325 (2016/17)'}}

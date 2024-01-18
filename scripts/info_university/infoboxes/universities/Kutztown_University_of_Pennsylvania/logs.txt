@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kutztown University of Pennsylvania', "root['endowment']": '$14.9 million', "root['president']": 'Dr. F. Javier Cevallos', "root['undergrad']": '9,189 ', "root['postgrad']": '1,004', "root['faculty']": '552', "root['staff']": '563', "root['campus']": 'Rural, ', "root['athletics']": 'NCAA Division II – PSAC (East)', "root['sports']": "21 varsity teams, (8 men's & 13 women's)", "root['affiliations']": 'PASSHE, CONAHEC, AASCU'}}
+15: {'values_changed': {"root['name']": {'new_value': 'Kutztown University of Pennsylvania', 'old_value': 'Kushtown University of Pennsylvania'}}}
+16: {'values_changed': {"root['affiliations']": {'new_value': 'PASSHE, CONAHEC, AASCU', 'old_value': 'PASSHB, CONAHEC, AASCU'}}}
+18: {'values_changed': {"root['affiliations']": {'new_value': 'PASSHB, CONAHEC, AASCU', 'old_value': 'PASSHE, CONAHEC, AASCU'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Kushtown University of Pennsylvania', 'old_value': 'Kutztown University of Pennsylvania'}}}
+24: {'values_changed': {"root['president']": {'new_value': 'Dr. F. Javier Cevallos', 'old_value': 'Dr. Kenneth S. Hawkinson'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Dr. Kenneth S. Hawkinson', 'old_value': 'Kenneth S. Hawkinson'}}}
+28: {'values_changed': {"root['president']": {'new_value': 'Kenneth S. Hawkinson', 'old_value': 'James Gindle'}}}
+29: {'values_changed': {"root['president']": {'new_value': 'James Gindle', 'old_value': 'Carlos Vargas-Aburto (acting)'}}}
+46: {'values_changed': {"root['president']": {'new_value': 'Carlos Vargas-Aburto (acting)', 'old_value': 'Kenneth S. Hawkinson '}}}
+88: {'dictionary_item_added': {"root['athletics']": 'NCAA Division II – PSAC (East)'}, 'values_changed': {"root['endowment']": {'new_value': '$14.9 million', 'old_value': '$27.9 million'}}}
+97: {'values_changed': {"root['undergrad']": {'new_value': '9,189 ', 'old_value': '7,389 '}, "root['postgrad']": {'new_value': '1,004', 'old_value': '920'}}}
+98: {'values_changed': {"root['endowment']": {'new_value': '$27.9 million', 'old_value': '$30.1 million'}}}
+137: {'values_changed': {"root['undergrad']": {'new_value': '7,389 ', 'old_value': '7,391 '}, "root['postgrad']": {'new_value': '920', 'old_value': '918'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'Kutztown University of Pennsylvania', 'old_value': 'Kutztown University of Pennsylvania founded by Jahseh Dwayne Ricardo Onfroy'}}}
+149: {'values_changed': {"root['president']": {'new_value': 'Kenneth S. Hawkinson ', 'old_value': 'Elijah J. Kutz  '}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Kutztown University of Pennsylvania founded by Jahseh Dwayne Ricardo Onfroy', 'old_value': 'Kutztown University of Pennsylvania'}, "root['president']": {'new_value': 'Elijah J. Kutz  ', 'old_value': 'Kenneth S. Hawkinson '}}}
+197: {'values_changed': {"root['endowment']": {'new_value': '$30.1 million', 'old_value': '$31.9 million (2019)'}}}
+207: {'values_changed': {"root['president']": {'new_value': 'Kenneth S. Hawkinson ', 'old_value': 'Kenneth Hawkinson '}}}
+208: {'values_changed': {"root['endowment']": {'new_value': '$31.9 million (2019)', 'old_value': '$33.7 million (2020)'}}}
+210: {'dictionary_item_added': {"root['affiliations']": 'PASSHE, CONAHEC, AASCU'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'CONAHEC'}}
+216: {'dictionary_item_added': {"root['staff']": '563'}, 'dictionary_item_removed': {"root['administrative_staff']": '563'}}

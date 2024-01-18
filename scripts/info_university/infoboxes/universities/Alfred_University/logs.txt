@@ -1,0 +1,11 @@
+29: {'dictionary_item_removed': {"root['name']": 'Alfred University', "root['image_name']": 'Alfred University seal.jpg', "root['president']": 'Dr. Charles M. Edmonson', "root['faculty']": '164', "root['students']": '2,300 ', "root['undergrad']": 'approx. 2,000', "root['postgrad']": 'approx. 300', "root['campus']": 'Rural, 232 acres (0.9 km²), plus another 400 acres of nearby recreational land', "root['fightsong']": "''On, Saxon Warriors''", "root['athletics']": '22 teams'}}
+88: {'dictionary_item_removed': {"root['endowment']": '$107.8 million'}, 'values_changed': {"root['image_name']": {'new_value': 'Alfred University seal.jpg', 'old_value': 'Steinheim Building at Alfred University.jpg'}, "root['president']": {'new_value': 'Dr. Charles M. Edmonson', 'old_value': 'Charles M. Edmondson'}, "root['campus']": {'new_value': 'Rural, 232 acres (0.9 km²), plus another 400 acres of nearby recreational land', 'old_value': 'Rural, 232 acres (0.9 km²), plus another '}}}
+90: {'values_changed': {"root['president']": {'new_value': 'Charles M. Edmondson', 'old_value': 'Mark Zupan |'}}}
+103: {'dictionary_item_added': {"root['fightsong']": "''On, Saxon Warriors''"}, 'values_changed': {"root['president']": {'new_value': 'Mark Zupan |', 'old_value': 'Mark Zupan  |'}, "root['endowment']": {'new_value': '$107.8 million', 'old_value': '$105.8 million (2016)'}}}
+158: {'values_changed': {"root['president']": {'new_value': 'Mark Zupan  |', 'old_value': 'Mark Zupan |'}}}
+159: {'values_changed': {"root['endowment']": {'new_value': '$105.8 million (2016)', 'old_value': '$138.25 million (2019)'}}}
+160: {'values_changed': {"root['endowment']": {'new_value': '$138.25 million (2019)', 'old_value': '$138.3 million (2019)'}}}
+162: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+166: {'values_changed': {"root['endowment']": {'new_value': '$138.3 million (2019)', 'old_value': '$136.8 million (2020)'}}}
+194: {'values_changed': {"root['campus']": {'new_value': 'Rural, 232 acres (0.9 km²), plus another ', 'old_value': 'Rural, '}}}
+198: {'dictionary_item_added': {"root['image_name']": 'Steinheim Building at Alfred University.jpg', "root['athletics']": '22 teams'}, 'values_changed': {"root['president']": {'new_value': 'Mark Zupan |', 'old_value': 'Mark Zupan'}}}

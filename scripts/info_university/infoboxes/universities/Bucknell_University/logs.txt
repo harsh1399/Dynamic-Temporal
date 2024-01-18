@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bucknell University', "root['image_name']": 'Bucknellseal.png', "root['former_names']": 'University at Lewisburg', "root['president']": 'John C. Bravman', "root['endowment']": '$789.4 million (2015)', "root['students']": '3,624', "root['undergrad']": '3,565 ', "root['postgrad']": '59', "root['faculty']": '372 (full-time)', "root['campus']": 'Rural, ', "root['athletics']": 'NCAA Division I'}}
+2: {'values_changed': {"root['endowment']": {'new_value': '$789.4 million (2015)', 'old_value': '$722.4 million (2016)'}}}
+41: {'values_changed': {"root['endowment']": {'new_value': '$722.4 million (2016)', 'old_value': '$801 million (2016)'}}}
+50: {'dictionary_item_added': {"root['campus']": 'Rural, '}, 'values_changed': {"root['image_name']": {'new_value': 'Bucknellseal.png', 'old_value': 'Bucknell University seal.svg'}}}
+60: {'values_changed': {"root['name']": {'new_value': 'Bucknell University', 'old_value': 'Snapchat University'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Snapchat University', 'old_value': 'Bucknell University'}}}
+85: {'values_changed': {"root['endowment']": {'new_value': '$801 million (2016)', 'old_value': '$851 million (2018)'}}}
+86: {'values_changed': {"root['undergrad']": {'new_value': '3,565 ', 'old_value': '3,600 '}, "root['postgrad']": {'new_value': '59', 'old_value': '60 '}}}
+87: {'values_changed': {"root['students']": {'new_value': '3,624', 'old_value': '3,660'}, "root['undergrad']": {'new_value': '3,600 ', 'old_value': '3,600'}, "root['postgrad']": {'new_value': '60 ', 'old_value': '60'}}}
+88: {'values_changed': {"root['endowment']": {'new_value': '$851 million (2018)', 'old_value': '$851 million (2018)https://www.bucknell.edu/Documents/FinanceOffice/EndowmentReport_Fall18.pdf'}, "root['students']": {'new_value': '3,660', 'old_value': '3,660https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf'}, "root['undergrad']": {'new_value': '3,600', 'old_value': '3,600https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf'}, "root['postgrad']": {'new_value': '60', 'old_value': '60https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf'}}}
+93: {'dictionary_item_added': {"root['image_name']": 'Bucknell University seal.svg', "root['students']": '3,660https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf', "root['former_names']": 'University at Lewisburg', "root['faculty']": '372 (full-time)'}, 'dictionary_item_removed': {"root['academic_staff']": '361 ', "root['alumni']": '54,000', "root['campus']": 'Rural ,  ', "root['athletics_nickname']": 'Bison'}, 'values_changed': {"root['endowment']": {'new_value': '$851 million (2018)https://www.bucknell.edu/Documents/FinanceOffice/EndowmentReport_Fall18.pdf', 'old_value': '$851 million (2018)'}, "root['president']": {'new_value': 'John C. Bravman', 'old_value': 'Dr. John C. Bravman '}, "root['undergrad']": {'new_value': '3,600https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf', 'old_value': '3,600'}, "root['postgrad']": {'new_value': '60https://www.bucknell.edu/Documents/Communication/BucknellFastFacts.pdf', 'old_value': '60'}}}
+116: {'values_changed': {"root['endowment']": {'new_value': '$851 million (2018)', 'old_value': '$851.3 million (2018)'}}}
+126: {'values_changed': {"root['endowment']": {'new_value': '$851.3 million (2018)', 'old_value': '$866.8 million (2019)'}}}
+127: {'values_changed': {"root['president']": {'new_value': 'Dr. John C. Bravman ', 'old_value': 'Dr. Caroline C. Ahearne '}}}
+128: {'values_changed': {"root['president']": {'new_value': 'Dr. Caroline C. Ahearne ', 'old_value': 'Dr. Trevor Price '}}}
+129: {'values_changed': {"root['president']": {'new_value': 'Dr. Trevor Price ', 'old_value': 'Dr. John C. Bravman '}}}
+168: {'values_changed': {"root['president']": {'new_value': 'Dr. John C. Bravman ', 'old_value': 'John C. Bravman '}}}
+184: {'dictionary_item_added': {"root['alumni']": '54,000'}, 'values_changed': {"root['campus']": {'new_value': 'Rural ,  ', 'old_value': 'Rural, '}}}
+186: {'values_changed': {"root['endowment']": {'new_value': '$866.8 million (2019)', 'old_value': '$844.8 million (2020)'}}}
+213: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I'}, 'values_changed': {"root['president']": {'new_value': 'John C. Bravman ', 'old_value': 'Justin Covington '}}}
+214: {'values_changed': {"root['president']": {'new_value': 'Justin Covington ', 'old_value': 'John C. Bravman '}}}
+221: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Bison', 'old_value': 'Beavers'}}}
+223: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Beavers', 'old_value': 'Bison'}}}
+224: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Bison', 'old_value': 'Beavers'}}}
+225: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Beavers', 'old_value': 'Bison'}}}
+228: {'values_changed': {"root['endowment']": {'new_value': '$844.8 million (2020)', 'old_value': '$1.1 billion (2021)'}}}

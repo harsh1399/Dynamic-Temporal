@@ -1,0 +1,5 @@
+10: {'dictionary_item_removed': {"root['name']": 'Taipei Medical University', "root['calendar']": 'Semester', "root['president']": 'Wen-Ta Chiu', "root['students']": '5,879', "root['undergrad']": '4,283 ', "root['postgrad']": '541'}}
+13: {'dictionary_item_removed': {"root['phone']": '+886-2-2736-1661'}}
+117: {'dictionary_item_added': {"root['name']": 'Taipei Medical University', "root['phone']": '+886-2-2736-1661'}, 'values_changed': {"root['president']": {'new_value': 'Wen-Ta Chiu', 'old_value': 'Yun Yen'}}}
+138: {'dictionary_item_removed': {"root['affiliations']": 'U9 League'}}
+139: {'values_changed': {"root['affiliations']": {'new_value': 'U9 League', 'old_value': 'U9 League, University System of Taipei'}}}

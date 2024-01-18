@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Endicott College', "root['image_name']": 'School seal.png', "root['endowment']": '$38.7 million', "root['president']": 'Richard E. Wylie', "root['undergrad']": '2,250', "root['postgrad']": '2,400', "root['campus']": 'Suburban', "root['athletics']": 'NCAA (TCCC)'}}
+24: {'values_changed': {"root['endowment']": {'new_value': '$38.7 million', 'old_value': '$51.5 million'}}}
+25: {'values_changed': {"root['undergrad']": {'new_value': '2,250', 'old_value': '2,485'}, "root['postgrad']": {'new_value': '2,400', 'old_value': '2,849'}}}
+27: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Suburban, 235 acres'}}}
+28: {'values_changed': {"root['endowment']": {'new_value': '$51.5 million', 'old_value': '$62.2 million'}}}
+89: {'values_changed': {"root['endowment']": {'new_value': '$62.2 million', 'old_value': '$62.2 million  http://www.endicott.edu/~/media/Endicott/shared/pdf-documents/EndicottFactsFiguresFall2014_Final%20with%20Edits.pdf'}}}
+178: {'values_changed': {"root['athletics']": {'new_value': 'NCAA (TCCC)', 'old_value': 'NCAA - Division III (TCCC)'}}}
+196: {'dictionary_item_added': {"root['athletics']": 'NCAA - Division III (TCCC)'}, 'values_changed': {"root['endowment']": {'new_value': '$62.2 million  http://www.endicott.edu/~/media/Endicott/shared/pdf-documents/EndicottFactsFiguresFall2014_Final%20with%20Edits.pdf', 'old_value': '$62.2 million http://www.endicott.edu/~/media/Endicott/shared/pdf-documents/EndicottFactsFiguresFall2014_Final%20with%20Edits.pdf'}}}
+197: {'values_changed': {"root['name']": {'new_value': 'Endicott College', 'old_value': 'Endicottt College'}}}
+198: {'values_changed': {"root['name']": {'new_value': 'Endicottt College', 'old_value': 'Endicott College'}}}
+223: {'values_changed': {"root['endowment']": {'new_value': '$62.2 million http://www.endicott.edu/~/media/Endicott/shared/pdf-documents/EndicottFactsFiguresFall2014_Final%20with%20Edits.pdf', 'old_value': '$62.2 million '}, "root['campus']": {'new_value': 'Suburban, 235 acres', 'old_value': 'Suburban, 235 acres '}}}
+226: {'values_changed': {"root['president']": {'new_value': 'Richard E. Wylie', 'old_value': 'Scott Benson'}}}
+227: {'values_changed': {"root['president']": {'new_value': 'Scott Benson', 'old_value': 'Doc Wylie'}}}
+228: {'values_changed': {"root['president']": {'new_value': 'Doc Wylie', 'old_value': 'Dr. Richard Wylie'}}}
+229: {'values_changed': {"root['endowment']": {'new_value': '$62.2 million ', 'old_value': '$100 million '}, "root['president']": {'new_value': 'Dr. Richard Wylie', 'old_value': 'Dr. Steven R. DiSalvo'}, "root['undergrad']": {'new_value': '2,485', 'old_value': '2,885'}}}
+249: {'values_changed': {"root['endowment']": {'new_value': '$100 million ', 'old_value': '$95.7 million (2019)'}, "root['president']": {'new_value': 'Dr. Steven R. DiSalvo', 'old_value': 'Steven DiSalvo'}}}
+251: {'values_changed': {"root['postgrad']": {'new_value': '2,849', 'old_value': '2,849 '}}}
+263: {'values_changed': {"root['endowment']": {'new_value': '$95.7 million (2019)', 'old_value': '$97.3 million (2020)'}}}
+274: {'dictionary_item_added': {"root['image_name']": 'School seal.png'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, 235 acres ', 'old_value': 'Suburban, '}}}

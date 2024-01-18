@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Rome "La Sapienza"', "root['staff']": '10,144', "root['rector']": 'Prof. Renato Guarini', "root['students']": '147,000'}}
+36: {'values_changed': {"root['name']": {'new_value': 'University of Rome "La Sapienza"', 'old_value': 'Sapienza University of Rome'}, "root['rector']": {'new_value': 'Prof. Renato Guarini', 'old_value': 'Prof. Luigi Frati'}}}
+92: {'dictionary_item_removed': {"root['affiliations']": 'PEGASUS'}}
+126: {'dictionary_item_added': {"root['affiliations']": 'PEGASUS'}, 'values_changed': {"root['staff']": {'new_value': '10,144', 'old_value': '8,000'}, "root['students']": {'new_value': '147,000', 'old_value': '140,000'}}}
+138: {'values_changed': {"root['students']": {'new_value': '140,000', 'old_value': '112,564'}}}
+140: {'values_changed': {"root['name']": {'new_value': 'Sapienza University of Rome', 'old_value': 'Sapienza, University of Rome'}}}
+149: {'dictionary_item_removed': {"root['campus']": 'Urban', "root['athletics']": 'CUS Roma'}}
+151: {'values_changed': {"root['name']": {'new_value': 'Sapienza, University of Rome', 'old_value': 'Sapienza University of Rome'}}}
+173: {'dictionary_item_added': {"root['staff']": '8,000'}, 'dictionary_item_removed': {"root['endowment']": '1.050 bilion euro |Accademic  staff            =4,000'}}
+174: {'values_changed': {"root['endowment']": {'new_value': '1.050 bilion euro |Accademic  staff            =4,000', 'old_value': '1.050 bilion euro |Accademic staff            =4,000'}}}
+175: {'dictionary_item_added': {"root['endowment']": '1.050 bilion euro |Accademic staff            =4,000'}, 'dictionary_item_removed': {"root['staff']": '8,000'}}
+195: {'dictionary_item_removed': {"root['affiliations']": 'European Spatial Development Planning, Partnership of a European Group of Aeronautics and Space Universities, CINECA, Santander Network, Institutional Network of the Universities from the Capitals of Europe, Mediterranean Universities Union.'}, 'values_changed': {"root['rector']": {'new_value': 'Prof. Luigi Frati', 'old_value': 'Dr. Eugenio Gaudio'}}}
+220: {'values_changed': {"root['rector']": {'new_value': 'Dr. Eugenio Gaudio', 'old_value': 'Dr. Antonella Polimeni'}}}

@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Juilliard School', "root['president']": 'Damian Woetzel', "root['campus']": 'Urban', "root['enrollment']": 'Approximately 850 college, approximately 290 pre-college'}}
+15: {'values_changed': {"root['name']": {'new_value': 'Juilliard School', 'old_value': 'St Joseph’s and saint Theresa Primary School'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'St Joseph’s and saint Theresa Primary School', 'old_value': 'Juilliard School'}}}
+84: {'values_changed': {"root['president']": {'new_value': 'Damian Woetzel', 'old_value': 'Axel Webber'}}}
+87: {'values_changed': {"root['president']": {'new_value': 'Axel Webber', 'old_value': 'Damian Woetzel'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Juilliard School', 'old_value': 'Dylan School'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Dylan School', 'old_value': 'Juilliard School'}}}
+242: {'values_changed': {"root['enrollment']": {'new_value': 'Approximately 850 college, approximately 290 pre-college', 'old_value': 'Approximately 950 college, approximately 290 pre-college'}}}
+306: {'dictionary_item_removed': {"root['former_names']": 'Institute of Musical Art, Juilliard School of Music', "root['endowment']": '$1.06 billion (2020)', "root['undergrad']": '~600 students (2020)', "root['postgrad']": '~370 students (2020)', "root['academic_staff']": 'Approximately 350'}}
+308: {'values_changed': {"root['name']": {'new_value': 'Juilliard School', 'old_value': 'The Juilliard School'}}}
+309: {'values_changed': {"root['postgrad']": {'new_value': '~370 students (2020)', 'old_value': '~350 students (2020)'}}}
+361: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Small Urban'}}}
+371: {'values_changed': {"root['enrollment']": {'new_value': 'Approximately 950 college, approximately 290 pre-college', 'old_value': '~950 college and ~290 pre-college'}}}
+373: {'dictionary_item_added': {"root['former_names']": 'Institute of Musical Art, Juilliard School of Music'}, 'values_changed': {"root['academic_staff']": {'new_value': 'Approximately 350', 'old_value': '~350 (2021)'}}}
+494: {'values_changed': {"root['name']": {'new_value': 'The Juilliard School', 'old_value': 'The Juilliard Prison'}}}
+495: {'values_changed': {"root['name']": {'new_value': 'The Juilliard Prison', 'old_value': 'The Juilliard School'}}}

@@ -1,0 +1,12 @@
+46: {'dictionary_item_removed': {"root['name']": 'Winston-Salem State University', "root['image_name']": 'Winston-Salem State University seal.svg', "root['endowment']": '$34 million', "root['chancellor']": 'Elwood Robinson', "root['faculty']": '400', "root['staff']": '800', "root['students']": '6,442', "root['undergrad']": '5,975', "root['postgrad']": '467', "root['campus']": 'Urban', "root['athletics']": 'NCAA Division II - CIAA'}}
+51: {'dictionary_item_added': {"root['postgrad']": '467'}, 'values_changed': {"root['students']": {'new_value': '6,442', 'old_value': '6,620'}, "root['undergrad']": {'new_value': '5,975', 'old_value': '6,018'}}}
+72: {'values_changed': {"root['endowment']": {'new_value': '$34 million', 'old_value': '$42.2 million (2017)'}}}
+75: {'values_changed': {"root['endowment']": {'new_value': '$42.2 million (2017)', 'old_value': '$34 million'}}}
+76: {'values_changed': {"root['endowment']": {'new_value': '$34 million', 'old_value': '$34 million (2015)'}}}
+94: {'values_changed': {"root['endowment']": {'new_value': '$34 million (2015)', 'old_value': '$42.3 million (2015)'}}}
+103: {'dictionary_item_added': {"root['athletics']": 'NCAA Division II - CIAA'}, 'dictionary_item_removed': {"root['postgrad']": '449'}, 'values_changed': {"root['students']": {'new_value': '6,620', 'old_value': '5,190'}, "root['undergrad']": {'new_value': '6,018', 'old_value': '4,741'}}}
+114: {'dictionary_item_removed': {"root['provost']": 'Anthony Graham'}}
+153: {'values_changed': {"root['endowment']": {'new_value': '$42.3 million (2015)', 'old_value': '$49.8 million (2019)'}}}
+158: {'dictionary_item_added': {"root['undergrad']": '4,741', "root['postgrad']": '449'}, 'values_changed': {"root['students']": {'new_value': '5,190', 'old_value': '5,382'}}}
+159: {'values_changed': {"root['students']": {'new_value': '5,382', 'old_value': '5,382 (Fall 2020)'}}}
+160: {'dictionary_item_removed': {"root['undergrad']": '4,741', "root['postgrad']": '449'}, 'values_changed': {"root['students']": {'new_value': '5,382 (Fall 2020)', 'old_value': '5,190'}}}

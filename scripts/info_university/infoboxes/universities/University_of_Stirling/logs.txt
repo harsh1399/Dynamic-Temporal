@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Stirling', "root['head']": 'label=Chairman of the Court', "root['principal']": 'Professor Christine Hallett', "root['chancellor']": 'Dame Diana Rigg', "root['students']": '9,000', "root['undergrad']": '7,000', "root['postgrad']": '2,000', "root['affiliations']": 'Association of Commonwealth Universities, Plate glass university'}}
+20: {'values_changed': {"root['affiliations']": {'new_value': 'Association of Commonwealth Universities, Plate glass university', 'old_value': 'Association of Commonwealth Universities'}}}
+59: {'dictionary_item_removed': {"root['image_name']": 'stiru crest.jpg', "root['other']": '10 FE'}, 'values_changed': {"root['students']": {'new_value': '9,000', 'old_value': '8,940  '}, "root['undergrad']": {'new_value': '7,000', 'old_value': '6,905'}, "root['postgrad']": {'new_value': '2,000', 'old_value': '2,030'}}}
+170: {'values_changed': {"root['students']": {'new_value': '8,940  ', 'old_value': '8,940 '}}}
+195: {'dictionary_item_removed': {"root['endowment']": '83,360,000', "root['endowment_label']": 'income', "root['staff']": '1,872'}}
+196: {'dictionary_item_added': {"root['endowment']": '83,360,000'}, 'dictionary_item_removed': {"root['income']": '83,360,000'}}
+197: {'values_changed': {"root['income']": {'new_value': '83,360,000', 'old_value': '83,360,000 (2006)'}}}
+224: {'dictionary_item_added': {"root['income']": '83,360,000 (2006)', "root['endowment_label']": 'income'}, 'dictionary_item_removed': {"root['endowment']": '£83,360,000 (2006)'}}
+225: {'values_changed': {"root['endowment']": {'new_value': '£83,360,000 (2006)', 'old_value': 'label=Revenue'}}}
+226: {'dictionary_item_added': {"root['endowment']": 'label=Revenue'}, 'dictionary_item_removed': {"root['endowment_label']": 'endowment=£83,360,000 (2006)'}}
+227: {'dictionary_item_added': {"root['endowment_label']": 'endowment=£83,360,000 (2006)'}, 'dictionary_item_removed': {"root['endowment']": 'label=Revenue £83,360,000 (2006)'}}
+251: {'values_changed': {"root['staff']": {'new_value': '1,872', 'old_value': '1,872 '}}}
+252: {'values_changed': {"root['staff']": {'new_value': '1,872 ', 'old_value': '1,872'}}}
+253: {'values_changed': {"root['staff']": {'new_value': '1,872', 'old_value': '1,872 '}}}
+261: {'dictionary_item_added': {"root['image_name']": 'stiru crest.jpg'}, 'values_changed': {"root['chancellor']": {'new_value': 'Dame Diana Rigg', 'old_value': 'James Naughtie'}}}
+272: {'values_changed': {"root['name']": {'new_value': 'University of Stirling', 'old_value': 'University of Stirling aka. The Grant Findlay Uni.'}}}
+273: {'values_changed': {"root['name']": {'new_value': 'University of Stirling aka. The Grant Findlay Uni.', 'old_value': 'University of Stirling aka. The Grant Findlay University of Shaggin.'}}}
+274: {'values_changed': {"root['name']": {'new_value': 'University of Stirling aka. The Grant Findlay University of Shaggin.', 'old_value': 'University of Stirling'}}}
+348: {'dictionary_item_added': {"root['head']": 'label=Chairman of the Court', "root['students']": '8,940 ', "root['undergrad']": '6,905', "root['postgrad']": '2,030', "root['other']": '10 FE'}, 'dictionary_item_removed': {"root['image_name']": 'University of Stirling crest.jpg', "root['budget']": '£113.3 million '}, 'values_changed': {"root['name']": {'new_value': 'University of Stirling', 'old_value': 'The University of Stirling'}, "root['endowment']": {'new_value': 'label=Revenue £83,360,000 (2006)', 'old_value': '£3.2m '}, "root['staff']": {'new_value': '1,872 ', 'old_value': '1,872  '}, "root['principal']": {'new_value': 'Professor Christine Hallett', 'old_value': 'Gerry McCormac  '}, "root['chancellor']": {'new_value': 'James Naughtie', 'old_value': 'Jack McConnell'}, "root['affiliations']": {'new_value': 'Association of Commonwealth Universities', 'old_value': 'Association of Commonwealth Universities, Universities UK'}}}
+361: {'values_changed': {"root['principal']": {'new_value': 'Gerry McCormac  ', 'old_value': 'Gerry McCormac '}}}
+363: {'dictionary_item_added': {"root['staff']": '1,872  '}, 'dictionary_item_removed': {"root['administrative_staff']": '1,872  '}}
+384: {'values_changed': {"root['image_name']": {'new_value': 'University of Stirling crest.jpg', 'old_value': 'University of Stirling arms.svg'}}}
+399: {'values_changed': {"root['endowment']": {'new_value': '£3.2m ', 'old_value': '£1.87 million '}, "root['budget']": {'new_value': '£113.3 million ', 'old_value': '£155.3 million '}}}

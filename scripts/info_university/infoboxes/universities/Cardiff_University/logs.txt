@@ -1,0 +1,29 @@
+42: {'dictionary_item_removed': {"root['name']": 'Cardiff University', "root['image_name']": 'CardiffUniversityCrest.png', "root['endowment']": '£27.5 million (2013)', "root['staff']": '5,230', "root['president']": 'Colin Riordan', "root['chancellor']": 'Martin Evans', "root['vice_chancellor']": 'Colin Riordan', "root['campus']": 'Urban', "root['affiliations']": 'Russell Group EUA Universities UK'}}
+78: {'dictionary_item_added': {"root['affiliations']": 'Russell Group EUA Universities UK'}, 'values_changed': {"root['endowment']": {'new_value': '£27.5 million (2013)', 'old_value': '£28.7 million (2015)'}}}
+108: {'values_changed': {"root['endowment']": {'new_value': '£28.7 million (2015)', 'old_value': '£30.3 million '}}}
+111: {'dictionary_item_added': {"root['president']": 'Colin Riordan'}, 'dictionary_item_removed': {"root['budget']": '£503.8 million '}, 'values_changed': {"root['endowment']": {'new_value': '£30.3 million ', 'old_value': '£33.1 million '}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '£33.1 million ', 'old_value': '£34.5 million '}, "root['budget']": {'new_value': '£503.8 million ', 'old_value': '£516.1 million '}}}
+118: {'values_changed': {"root['chancellor']": {'new_value': 'Martin Evans', 'old_value': 'Jenny Randerson'}}}
+162: {'values_changed': {"root['chancellor']": {'new_value': 'Jenny Randerson', 'old_value': 'Jenny Randerson |'}}}
+169: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Colin Riordan', 'old_value': 'David Beckham'}}}
+170: {'values_changed': {"root['vice_chancellor']": {'new_value': 'David Beckham', 'old_value': 'Colin Riordan'}}}
+181: {'values_changed': {"root['image_name']": {'new_value': 'CardiffUniversityCrest.png', 'old_value': 'Shield of the University of Cardiff.svg'}, "root['endowment']": {'new_value': '£34.5 million ', 'old_value': '£38.2 million (as of 31 July 2019)'}, "root['budget']": {'new_value': '£516.1 million ', 'old_value': '£644.8 million (2018–19)'}, "root['staff']": {'new_value': '5,230', 'old_value': '5,739'}}}
+190: {'values_changed': {"root['endowment']": {'new_value': '£38.2 million (as of 31 July 2019)', 'old_value': '£38.2 million (2019)'}}}
+201: {'values_changed': {"root['image_name']": {'new_value': 'Shield of the University of Cardiff.svg', 'old_value': 'Cardiff University Coat of Arms.jpg'}}}
+202: {'values_changed': {"root['image_name']": {'new_value': 'Cardiff University Coat of Arms.jpg', 'old_value': 'Shield of the University of Cardiff.svg'}}}
+203: {'values_changed': {"root['image_name']": {'new_value': 'Shield of the University of Cardiff.svg', 'old_value': 'Cardiff University Coat of Arms.jpg'}}}
+204: {'values_changed': {"root['image_name']": {'new_value': 'Cardiff University Coat of Arms.jpg', 'old_value': 'Shield of the University of Cardiff.svg'}}}
+205: {'values_changed': {"root['image_name']": {'new_value': 'Shield of the University of Cardiff.svg', 'old_value': 'Cardiff University Coat of Arms.jpg'}}}
+211: {'values_changed': {"root['image_name']": {'new_value': 'Cardiff University Coat of Arms.jpg', 'old_value': 'Shield of the University of Cardiff.svg'}}}
+215: {'dictionary_item_added': {"root['staff']": '5,739'}, 'dictionary_item_removed': {"root['administrative_staff']": '5,739'}}
+269: {'dictionary_item_added': {"root['administrative_staff']": '5,739'}, 'dictionary_item_removed': {"root['staff']": '5,739'}}
+270: {'dictionary_item_added': {"root['staff']": '5,739'}, 'dictionary_item_removed': {"root['total_staff']": '5,739'}}
+273: {'dictionary_item_removed': {"root['academic_staff']": '3,350 (2019/20)'}, 'values_changed': {"root['total_staff']": {'new_value': '5,739', 'old_value': '6,900 (2019/20) '}}}
+280: {'values_changed': {"root['endowment']": {'new_value': '£38.2 million (2019)', 'old_value': '£38.2 million (2019) '}}}
+290: {'values_changed': {"root['endowment']": {'new_value': '£38.2 million (2019) ', 'old_value': '£45.5 million (2021) '}, "root['budget']": {'new_value': '£644.8 million (2018–19)', 'old_value': '£603.4 million (2020–21)'}}}
+346: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Colin Riordan', 'old_value': 'David Beckham'}}}
+347: {'values_changed': {"root['vice_chancellor']": {'new_value': 'David Beckham', 'old_value': 'Colin Riordan'}}}
+374: {'values_changed': {"root['endowment']": {'new_value': '£45.5 million (2021) ', 'old_value': '£47.6 million (2022) '}, "root['budget']": {'new_value': '£603.4 million (2020–21)', 'old_value': '£631.6 million (2021–22)'}}}
+375: {'values_changed': {"root['endowment']": {'new_value': '£47.6 million (2022) ', 'old_value': '£45.6 million (2022) '}}}
+399: {'values_changed': {"root['budget']": {'new_value': '£631.6 million (2021–22)', 'old_value': '£604.2 million (2021–22; excluding pension provision)'}}}
+415: {'dictionary_item_added': {"root['total_staff']": '6,900 (2019/20) '}, 'dictionary_item_removed': {"root['administrative_staff']": '3,535 (2021/22)', "root['students']": '33,985 (2021/22) url=https://www.hesa.ac.uk/data-and-analysis/students/where-study#provider |website=www.hesa.ac.uk}', "root['undergrad']": '23,765 (2021/22)', "root['postgrad']": '10,220 (2021/22)'}, 'values_changed': {"root['academic_staff']": {'new_value': '3,350 (2019/20)', 'old_value': '3,400 (2021/22) '}}}

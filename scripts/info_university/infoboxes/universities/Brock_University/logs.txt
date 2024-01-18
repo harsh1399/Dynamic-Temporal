@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": "'''Brock University'''", "root['endowment']": '$83 million', "root['faculty']": '594 ', "root['staff']": '919', "root['president']": 'Jack N. Lightstone', "root['chancellor']": 'Shirley Cheechoo', "root['students']": '18,700', "root['undergrad']": '14,911 full-time, 2,243 part-time', "root['postgrad']": '1,259 full-time, 411 part-time', "root['campus']": 'Suburban', "root['affiliations']": 'AUCC, IAU, CARL, COU, ACU, CIS, OUA, CBIE, CUP'}}
+27: {'values_changed': {"root['president']": {'new_value': 'Jack N. Lightstone', 'old_value': 'Brian Hutchings'}}}
+40: {'values_changed': {"root['president']": {'new_value': 'Brian Hutchings', 'old_value': 'Tom Traves'}}}
+65: {'values_changed': {"root['president']": {'new_value': 'Tom Traves', 'old_value': 'Gervan Fearon'}}}
+80: {'values_changed': {"root['president']": {'new_value': 'Gervan Fearon', 'old_value': 'Dwayne “The Rock” Johnson'}}}
+81: {'values_changed': {"root['president']": {'new_value': 'Dwayne “The Rock” Johnson', 'old_value': 'Gervan Fearon'}}}
+82: {'values_changed': {"root['president']": {'new_value': 'Gervan Fearon', 'old_value': 'Dwayne “the Rock” Johnson'}}}
+83: {'values_changed': {"root['president']": {'new_value': 'Dwayne “the Rock” Johnson', 'old_value': 'Gervan Fearon'}}}
+107: {'values_changed': {"root['staff']": {'new_value': '919', 'old_value': '9'}}}
+109: {'values_changed': {"root['staff']": {'new_value': '9', 'old_value': '919'}}}
+114: {'values_changed': {"root['endowment']": {'new_value': '$83 million', 'old_value': '$95 million'}}}
+117: {'values_changed': {"root['staff']": {'new_value': '919', 'old_value': '921'}, "root['students']": {'new_value': '18,700', 'old_value': '18,704'}, "root['undergrad']": {'new_value': '14,911 full-time, 2,243 part-time', 'old_value': '14,838 full-time, 2,243 part-time'}, "root['postgrad']": {'new_value': '1,259 full-time, 411 part-time', 'old_value': '1,690 full-time, 411 part-time'}}}
+118: {'values_changed': {"root['postgrad']": {'new_value': '1,690 full-time, 411 part-time', 'old_value': '1,336 full-time, 354 part-time'}}}
+133: {'values_changed': {"root['faculty']": {'new_value': '594 ', 'old_value': '594  '}}}
+135: {'dictionary_item_removed': {"root['colours']": 'Red, grey, and black, '}}
+163: {'values_changed': {"root['name']": {'new_value': "'''Brock University'''", 'old_value': 'Brock University'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Brock University', 'old_value': 'Bruh University'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Bruh University', 'old_value': 'Brock University'}}}
+167: {'values_changed': {"root['endowment']": {'new_value': '$95 million', 'old_value': '$97 million'}}}
+174: {'values_changed': {"root['students']": {'new_value': '18,704', 'old_value': '19,112'}, "root['undergrad']": {'new_value': '14,838 full-time, 2,243 part-time', 'old_value': '14,980 full-time, 2,306 part-time'}, "root['postgrad']": {'new_value': '1,336 full-time, 354 part-time', 'old_value': '1493 full-time, 333 part-time'}}}
+179: {'dictionary_item_removed': {"root['budget']": '$350 million'}}
+193: {'dictionary_item_added': {"root['staff']": '921'}, 'dictionary_item_removed': {"root['administrative_staff']": '921', "root['provost']": 'Lynn Wells'}, 'values_changed': {"root['budget']": {'new_value': '$350 million', 'old_value': '$370 million'}, "root['endowment']": {'new_value': '$97 million', 'old_value': '$107 million'}, "root['president']": {'new_value': 'Gervan Fearon', 'old_value': 'Interim President Lynn Wells'}, "root['chancellor']": {'new_value': 'Shirley Cheechoo', 'old_value': 'Hilary Pearson'}}}
+207: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CARL, COU, ACU, CIS, OUA, CBIE, CUP', 'old_value': 'CARL, COU, Universities Canada'}}}
+208: {'dictionary_item_added': {"root['affiliations']": 'CARL, COU, Universities Canada'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'CARL, COU, Universities Canada'}}

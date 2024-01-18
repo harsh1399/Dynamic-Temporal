@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Birmingham', "root['image_name']": 'BirminghamUniversityCrest.svg', "root['campus']": 'Urban, Suburban', "root['head']": 'Her Majesty the Queen represented by the Lord President of the Council', "root['chancellor']": 'Sir Dominic Cadbury', "root['vice_chancellor']": 'David Eastwood', "root['endowment']": '£78.1 million', "root['students']": '26,073  ', "root['undergrad']": '17,355', "root['postgrad']": '8,718', "root['affiliations']": 'Russell Group, Universitas 21, Universities UK, EUA , ACU', "root['colours']": 'The University                                                                                         College of Arts and Law  '}}
+4: {'values_changed': {"root['colours']": {'new_value': 'The University                                                                                         College of Arts and Law  ', 'old_value': 'The University  '}}}
+43: {'values_changed': {"root['endowment']": {'new_value': '£78.1 million', 'old_value': '£88.3 million'}}}
+65: {'values_changed': {"root['chancellor']": {'new_value': 'Sir Dominic Cadbury', 'old_value': 'Lord Karan Bilimoria (from July 2014)'}}}
+69: {'values_changed': {"root['affiliations']": {'new_value': 'Russell Group, Universitas 21, Universities UK, EUA , ACU', 'old_value': 'Russell Group, Universitas 21, Universities UK, EUA , ACU, Sutton Trust 30'}}}
+70: {'values_changed': {"root['affiliations']": {'new_value': 'Russell Group, Universitas 21, Universities UK, EUA , ACU, Sutton Trust 30', 'old_value': 'Russell Group, Universitas 21, Universities UK, EUA , ACU, Sutton Trust'}}}
+71: {'values_changed': {"root['students']": {'new_value': '26,073  ', 'old_value': '28,664  '}, "root['undergrad']": {'new_value': '17,355', 'old_value': '19,347'}, "root['postgrad']": {'new_value': '8,718', 'old_value': '9,317'}}}
+76: {'values_changed': {"root['vice_chancellor']": {'new_value': 'David Eastwood', 'old_value': 'Sir David Eastwood'}}}
+139: {'values_changed': {"root['chancellor']": {'new_value': 'Lord Karan Bilimoria (from July 2014)', 'old_value': 'Lord Karan Bilimoria'}}}
+149: {'values_changed': {"root['chancellor']": {'new_value': 'Lord Karan Bilimoria', 'old_value': 'Lord Bilimoria'}}}
+187: {'values_changed': {"root['students']": {'new_value': '28,664  ', 'old_value': '28,664 '}}}
+638: {'dictionary_item_added': {"root['students']": '28,664 ', "root['undergrad']": '19,347', "root['postgrad']": '9,317'}, 'dictionary_item_removed': {"root['budget']": '£673.8 million '}, 'values_changed': {"root['image_name']": {'new_value': 'BirminghamUniversityCrest.svg', 'old_value': 'Shield of the University of Birmingham.svg'}, "root['campus']": {'new_value': 'Urban, Suburban', 'old_value': 'Urban, suburban'}, "root['head']": {'new_value': 'Her Majesty the Queen represented by the Lord President of the Council', 'old_value': 'Jacob Rees-Mogg, '}, "root['endowment']": {'new_value': '£88.3 million', 'old_value': '£120.3 million '}, "root['affiliations']": {'new_value': 'Russell Group, Universitas 21, Universities UK, EUA , ACU, Sutton Trust', 'old_value': 'Universitas 21 Universities UK EUA  ACU Sutton 13 Russell Group'}, "root['colours']": {'new_value': 'The University  ', 'old_value': 'The University '}}}
+668: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg, ', 'old_value': 'Harry Shersby-Wignall, '}}}
+675: {'values_changed': {"root['name']": {'new_value': 'University of Birmingham', 'old_value': 'The University of Birmingham'}}}
+676: {'values_changed': {"root['endowment']": {'new_value': '£120.3 million ', 'old_value': '£116.7 million '}, "root['budget']": {'new_value': '£673.8 million ', 'old_value': '£737.3 million '}}}
+688: {'values_changed': {"root['endowment']": {'new_value': '£116.7 million ', 'old_value': '£116.7 million (2020)'}, "root['budget']": {'new_value': '£737.3 million ', 'old_value': '£737.3 million (2019–20)'}}}
+707: {'values_changed': {"root['affiliations']": {'new_value': 'Universitas 21 Universities UK EUA  ACU Sutton 13 Russell Group', 'old_value': 'Universitas 21 Universities UK EUA  ACU Sutton 13 Russell Group |free_label      fire             ='}}}
+708: {'values_changed': {"root['affiliations']": {'new_value': 'Universitas 21 Universities UK EUA  ACU Sutton 13 Russell Group |free_label      fire             =', 'old_value': 'Universitas 21 Universities UK EUA  ACU Sutton 13 Russell Group'}}}
+710: {'values_changed': {"root['name']": {'new_value': 'The University of Birmingham', 'old_value': 'University of Birmingham'}}}
+711: {'values_changed': {"root['head']": {'new_value': 'Harry Shersby-Wignall, ', 'old_value': 'Jacob Rees-Mogg, '}}}
+712: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg, ', 'old_value': 'Harry Shersby-Wignall, '}}}
+713: {'values_changed': {"root['head']": {'new_value': 'Harry Shersby-Wignall, ', 'old_value': 'Jacob Rees-Mogg, '}}}
+714: {'dictionary_item_removed': {"root['staff']": '5,495 (2020) - including academic atypic'}}
+719: {'dictionary_item_added': {"root['staff']": '5,495 (2020) - including academic atypic', "root['colours']": 'The University '}, 'dictionary_item_removed': {"root['academic_staff']": '5,495 (2020) - including academic atypical staff'}}
+735: {'values_changed': {"root['name']": {'new_value': 'University of Birmingham', 'old_value': 'University of CIRCO'}}}
+737: {'values_changed': {"root['name']": {'new_value': 'University of CIRCO', 'old_value': 'University of Birmingham'}}}
+739: {'values_changed': {"root['academic_staff']": {'new_value': '5,495 (2020) - including academic atypical staff', 'old_value': '5,495 (2020) '}}}
+742: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sir David Eastwood', 'old_value': 'Adam Tickell'}}}
+747: {'values_changed': {"root['endowment']": {'new_value': '£116.7 million (2020)', 'old_value': '£134.5 million (2021)'}, "root['budget']": {'new_value': '£737.3 million (2019–20)', 'old_value': '£774.1 million (2020–21)'}}}
+749: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg, ', 'old_value': 'Jacob Rees-Mogg '}}}
+764: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': 'Rt Hon. Mark Spencer MP '}}}
+804: {'values_changed': {"root['head']": {'new_value': 'Rt Hon. Mark Spencer MP ', 'old_value': 'Rt Hon. Penny Mordaunt MP '}}}
+816: {'values_changed': {"root['head']": {'new_value': 'Rt Hon. Penny Mordaunt MP ', 'old_value': 'The Rt Hon Penny Mordaunt MP '}}}

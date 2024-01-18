@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Paris Institute of Political Studies', "root['budget']": '€172 million', "root['president']": 'Olivier Duhamel', "root['director']": 'Frédéric Mion', "root['students']": '13,000', "root['undergrad']": '6,325', "root['postgrad']": '7,035', "root['campus']": 'Urban', "root['former_names']": "''École libre des sciences politiques''", "root['athletics']": "''Les Parisiens''", "root['faculty']": '227 '}}
+38: {'values_changed': {"root['budget']": {'new_value': '€172 million', 'old_value': '€192 million'}}}
+41: {'dictionary_item_removed': {"root['affiliations']": 'Couperin consortium'}}
+65: {'dictionary_item_added': {"root['director']": 'Frédéric Mion', "root['athletics']": "''Les Parisiens''"}, 'values_changed': {"root['budget']": {'new_value': '€192 million', 'old_value': '€192 million | FN'}, "root['faculty']": {'new_value': '227 ', 'old_value': '216 '}}}
+66: {'values_changed': {"root['budget']": {'new_value': '€192 million | FN', 'old_value': '€192 million'}}}
+68: {'values_changed': {"root['president']": {'new_value': 'Olivier Duhamel', 'old_value': 'Frédéric Mion'}}}
+70: {'values_changed': {"root['budget']": {'new_value': '€192 million', 'old_value': '€197 million'}, "root['students']": {'new_value': '13,000', 'old_value': '14,000'}, "root['undergrad']": {'new_value': '6,325', 'old_value': '4,000'}, "root['postgrad']": {'new_value': '7,035', 'old_value': '10,000'}, "root['affiliations']": {'new_value': 'Couperin consortium', 'old_value': 'Sorbonne Paris Cité, APSIA, COUPERIN  , CGE'}}}
+174: {'values_changed': {"root['president']": {'new_value': 'Frédéric Mion', 'old_value': 'TBD'}}}
+178: {'values_changed': {"root['president']": {'new_value': 'TBD', 'old_value': 'Bénédicte Durand'}}}
+263: {'values_changed': {"root['faculty']": {'new_value': '216 ', 'old_value': '216 | Acceptance Rate'}}}
+264: {'values_changed': {"root['faculty']": {'new_value': '216 | Acceptance Rate', 'old_value': '216 '}}}
+265: {'values_changed': {"root['faculty']": {'new_value': '216 ', 'old_value': '216 | Acceptance Rate'}}}
+266: {'values_changed': {"root['faculty']": {'new_value': '216 | Acceptance Rate', 'old_value': '216 '}}}
+267: {'values_changed': {"root['affiliations']": {'new_value': 'Sorbonne Paris Cité, APSIA, COUPERIN  , CGE', 'old_value': 'Sorbonne Paris Cité APSIA COUPERIN   CGE'}}}
+299: {'dictionary_item_added': {"root['president']": 'Bénédicte Durand'}, 'dictionary_item_removed': {"root['director']": 'Bénédicte Durand (interim)'}}
+387: {'values_changed': {"root['director']": {'new_value': 'Bénédicte Durand (interim)', 'old_value': 'Mathias Vicherat'}}}
+492: {'dictionary_item_removed': {"root['colours']": 'Red   White'}}
+494: {'dictionary_item_added': {"root['director']": 'Mathias Vicherat', "root['campus']": 'Urban', "root['former_names']": "''École libre des sciences politiques''", "root['faculty']": '216 '}, 'dictionary_item_removed': {"root['endowment']": '€127.2 million (2018) ||', "root['chairperson']": 'Laurence Bertrand Dorléac (FNSP)', "root['president']": 'Mathias Vicherat', "root['provost']": 'Sergei Guriev', "root['academic_staff']": '270'}, 'values_changed': {"root['budget']": {'new_value': '€197 million', 'old_value': '€197 million (2018)'}, "root['affiliations']": {'new_value': 'Sorbonne Paris Cité APSIA COUPERIN   CGE', 'old_value': 'CIVICA Sorbonne Paris Cité APSIA COUPERIN   CGE'}}}
+495: {'dictionary_item_removed': {"root['doctoral']": '350'}}
+506: {'values_changed': {"root['budget']": {'new_value': '€197 million (2018)', 'old_value': '€197 million (2018) '}}}

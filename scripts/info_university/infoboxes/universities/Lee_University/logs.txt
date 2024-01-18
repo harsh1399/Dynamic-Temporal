@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'imag', "root['endowment']": 'US $9 million', "root['president']": 'Dr. Charles Paul Conn', "root['faculty']": '236', "root['students']": '4,377 (Fall 2010)', "root['campus']": 'Suburban, 120 acres', "root['athletics']": 'NAIA Division I-AA', "root['affiliations']": 'Church of God'}}
+27: {'values_changed': {"root['affiliations']": {'new_value': 'Church of God', 'old_value': 'Ties to Church of God and Pentecostalism, but open to students of all religious preferences'}}}
+28: {'values_changed': {"root['affiliations']": {'new_value': 'Ties to Church of God and Pentecostalism, but open to students of all religious preferences', 'old_value': 'Ties to the Church of God and Pentecostalism, but open to students of all religious preferences'}}}
+29: {'values_changed': {"root['affiliations']": {'new_value': 'Ties to the Church of God and Pentecostalism, but open to students of all religious preferences', 'old_value': 'Ties to the Church of God, but open to students of all religious preferences'}}}
+30: {'values_changed': {"root['affiliations']": {'new_value': 'Ties to the Church of God, but open to students of all religious preferences', 'old_value': 'Church of God, but admits students of all religious preferences'}}}
+66: {'dictionary_item_added': {"root['affiliations']": 'Church of God, but admits students of all religious preferences'}, 'values_changed': {"root['students']": {'new_value': '4,377 (Fall 2010)', 'old_value': '4,954 (Fall 2012)'}}}
+103: {'values_changed': {"root['students']": {'new_value': '4,954 (Fall 2012)', 'old_value': '4,411 (Spring 2013)'}}}
+104: {'values_changed': {"root['students']": {'new_value': '4,411 (Spring 2013)', 'old_value': '4,954(Fall 2012)'}}}
+108: {'values_changed': {"root['students']": {'new_value': '4,954(Fall 2012)', 'old_value': '4,954 (Fall 2012)'}}}
+127: {'values_changed': {"root['athletics']": {'new_value': 'NAIA Division I-AA', 'old_value': 'NCAA Division II'}}}
+129: {'values_changed': {"root['endowment']": {'new_value': 'US $9 million', 'old_value': 'US $12 million'}}}
+142: {'values_changed': {"root['name']": {'new_value': 'imag', 'old_value': 'image_name = Lee_University_Seal.png'}, "root['students']": {'new_value': '4,954 (Fall 2012)', 'old_value': '4,922 (Fall 2013)'}}}
+175: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II', 'old_value': 'NCAA Division II — GSC'}}}
+182: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II — GSC', 'old_value': 'NCAA Division II – Gulf South'}}}
+206: {'values_changed': {"root['endowment']": {'new_value': 'US $12 million', 'old_value': 'US $18.6 million (2015)'}}}

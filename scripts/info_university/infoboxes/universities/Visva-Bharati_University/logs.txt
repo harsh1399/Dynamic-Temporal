@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'Visva-Bharati University', "root['chancellor']": 'Prime Minister of India', "root['campus']": 'Rural', "root['affiliations']": 'UGC'}}
+17: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'Visva-Bharati (A Central University)'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati (A Central University)', 'old_value': 'Visva-Bharati University'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'Visva-Bharati (A Central University)'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati (A Central University)', 'old_value': 'Visva-Bharati University'}}}
+26: {'dictionary_item_removed': {"root['vice_chancellor']": 'Professor Sabuj Koli Sen'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC', 'old_value': 'UGC,  AIU'}}}
+28: {'dictionary_item_removed': {"root['undergrad']": '2,755 https://www.ugc.ac.in/centralniversitylist.aspx?id=35&Unitype=1 Visva Bharati information brochure for MSc, BTech  Retrieved 25 November 2011', "root['postgrad']": '1,818', "root['students']": '5,631'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC,  AIU', 'old_value': 'UGC, NAAC, AIU'}}}
+29: {'dictionary_item_added': {"root['undergrad']": '2,755 https://www.ugc.ac.in/centralniversitylist.aspx?id=35&Unitype=1 Visva Bharati information brochure for MSc, BTech  Retrieved 25 November 2011', "root['postgrad']": '1,818', "root['students']": '5,631'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU', 'old_value': 'UGC,  AIU'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'Bishow-Bharoti University'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Bishow-Bharoti University', 'old_value': 'Visva-Bharati University'}}}
+37: {'values_changed': {"root['affiliations']": {'new_value': 'UGC,  AIU', 'old_value': 'UGC, NAAC,  AIU'}}}
+38: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Sabuj Koli Sen', 'old_value': 'Professor Bidyut Chakraborty'}}}
+42: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Bidyut Chakraborty', 'old_value': 'Professor Bidyut Chakrabarty'}}}
+43: {'dictionary_item_removed': {"root['students']": '65,000', "root['faculty']": '515'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Bidyut Chakrabarty', 'old_value': 'Professor Subaj Kali Sen'}}}
+44: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Subaj Kali Sen', 'old_value': 'Professor Bidyut Chakrabarty'}}}
+46: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC,  AIU', 'old_value': 'UGC, NAAC, AIU'}}}
+53: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'PG garodian  University'}}}
+54: {'values_changed': {"root['name']": {'new_value': 'PG garodian  University', 'old_value': 'Visva-Bharati University'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'shrestha das'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'shrestha das', 'old_value': 'Visva-Bharati University'}}}
+67: {'dictionary_item_added': {"root['faculty']": '515'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU', 'old_value': 'UGC, NAAC, AIU, ACU'}}}
+70: {'values_changed': {"root['students']": {'new_value': '65,000', 'old_value': '70000'}}}
+71: {'values_changed': {"root['students']": {'new_value': '70000', 'old_value': '65,000'}}}
+196: {'dictionary_item_removed': {"root['rector']": 'Governor of West Bengal', "root['undergrad']": '3,591', "root['postgrad']": '2,906'}, 'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'Visva-Bharati'}, "root['vice_chancellor']": {'new_value': 'Professor Bidyut Chakrabarty', 'old_value': 'Bidyut Chakrabarty'}, "root['students']": {'new_value': '65,000', 'old_value': '6,497 '}}}
+210: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU, ACU', 'old_value': 'UGC, NAAC, AIU, ACU,  IU'}}}
+211: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU, ACU,  IU', 'old_value': 'UGC, NAAC, AIU, ACU'}}}
+212: {'dictionary_item_added': {"root['affiliations']": 'UGC, NAAC, AIU, ACU'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'UGC, NAAC, AIU, ACU'}}
+221: {'dictionary_item_removed': {"root['head']": 'President of India'}}
+229: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati', 'old_value': 'Visva-Bharati University'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Visva-Bharati University', 'old_value': 'Visva-Bharati'}}}
+233: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UGC', 'AIU', 'ACU'], 'new_value': 'UGC, NAAC, AIU, ACU'}}, 'dictionary_item_added': {"root['rector']": 'Governor of West Bengal', "root['head']": 'President of India'}, 'values_changed': {"root['students']": {'new_value': '6,497 ', 'old_value': '8,951 '}, "root['undergrad']": {'new_value': '3,591', 'old_value': '4,193'}, "root['postgrad']": {'new_value': '2,906', 'old_value': '3,105'}}}
+242: {'dictionary_item_removed': {"root['head']": 'President of India', "root['rector']": 'Governor of West Bengal', "root['academic_staff']": '473 ('}, 'values_changed': {"root['students']": {'new_value': '8,951 ', 'old_value': '7,967 ('}, "root['undergrad']": {'new_value': '4,193', 'old_value': '3,591 ('}, "root['postgrad']": {'new_value': '3,105', 'old_value': '2,929 ('}, "root['campus']": {'new_value': 'Rural', 'old_value': 'Rural '}}, 'iterable_item_removed': {"root['academic_affiliations'][1]": 'ICAR'}}

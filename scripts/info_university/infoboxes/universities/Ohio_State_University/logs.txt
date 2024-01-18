@@ -1,0 +1,192 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Ohio State University', "root['image_name']": 'Seal of the Ohio State University.png', "root['academic_affiliations']": 'University System of Ohio, AAU, BTAA, ORAU, APLU, Universitas 21', "root['endowment']": '$3.579 billion (2016)', "root['faculty']": '6,254 ', "root['staff']": '21,987', "root['president']": 'Baker Mayfield', "root['students']": '59,482 (Columbus), 66,046 (all campuses) ', "root['undergrad']": '45,831 (Columbus), 52,349 (all campuses)', "root['postgrad']": '13,651 (Columbus), 13,697 (all campuses)'}}
+1: {'values_changed': {"root['president']": {'new_value': 'Baker Mayfield', 'old_value': 'Michael V. Drake'}}}
+2: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+3: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+10: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+12: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+15: {'values_changed': {"root['students']": {'new_value': '59,482 (Columbus), 66,046 (all campuses) ', 'old_value': '59,837 (Columbus), 66,444 (all campuses) '}, "root['undergrad']": {'new_value': '45,831 (Columbus), 52,349 (all campuses)', 'old_value': '45,946 (Columbus), 52,517 (all campuses)'}, "root['postgrad']": {'new_value': '13,651 (Columbus), 13,697 (all campuses)', 'old_value': '10,672 (Columbus), 10,708 (all campuses)'}}}
+16: {'values_changed': {"root['postgrad']": {'new_value': '10,672 (Columbus), 10,708 (all campuses)', 'old_value': '13,891 (Columbus), 13,927 (all campuses)'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'THE Ohio State University'}, "root['image_name']": {'new_value': 'Seal of the Ohio State University.png', 'old_value': 'Seal of THE Ohio State University.png'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'THE Ohio State University', 'old_value': 'The Ohio State University'}, "root['image_name']": {'new_value': 'Seal of THE Ohio State University.png', 'old_value': 'Seal of the Ohio State University.png'}}}
+23: {'values_changed': {"root['president']": {'new_value': 'Michael V. Drake', 'old_value': 'Tony Carr'}}}
+24: {'values_changed': {"root['president']": {'new_value': 'Tony Carr', 'old_value': 'Michael V. Drake'}}}
+39: {'values_changed': {"root['image_name']": {'new_value': 'Seal of the Ohio State University.png', 'old_value': 'Ohio State University seal.svg'}}}
+60: {'values_changed': {"root['endowment']": {'new_value': '$3.579 billion (2016)', 'old_value': '$4.253 billion (2017)'}}}
+75: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'Ohio State sucks University seal.svg'}}}
+76: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State sucks University seal.svg', 'old_value': 'Ohio State University seal.svg'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State University (sucks)'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University (sucks)', 'old_value': 'The Ohio State University'}}}
+123: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'thumb thumb'}}}
+124: {'values_changed': {"root['image_name']": {'new_value': 'thumb thumb', 'old_value': 'Ohio State University seal.svg'}}}
+126: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'thumb thumb'}}}
+127: {'values_changed': {"root['image_name']": {'new_value': 'thumb thumb', 'old_value': 'Ohio State University seal.svg'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'Ohio State Universit'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Ohio State Universit', 'old_value': 'Ohio State University'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+134: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+140: {'dictionary_item_added': {"root['faculty']": '6,254 ', "root['staff']": '21,987', "root['president']": 'Michael V. Drake', "root['students']": '59,837 (Columbus), 66,444 (all campuses) ', "root['undergrad']": '45,946 (Columbus), 52,517 (all campuses)', "root['postgrad']": '13,891 (Columbus), 13,927 (all campuses)'}, 'values_changed': {"root['endowment']": {'new_value': '$4.253 billion (2017)', 'old_value': '$4.253 billion (2017) As of this is wrong es.ashx?la'}}}
+142: {'dictionary_item_removed': {"root['faculty']": '6,254 ', "root['staff']": '21,987', "root['president']": 'Michael V. Drake', "root['students']": '59,837 (Columbus), 66,444 (all campuses) ', "root['undergrad']": '45,946 (Columbus), 52,517 (all campuses)', "root['postgrad']": '13,891 (Columbus), 13,927 (all campuses)'}, 'values_changed': {"root['endowment']": {'new_value': '$4.253 billion (2017) As of this is wrong es.ashx?la', 'old_value': '$4.253 billion (2017)'}}}
+153: {'values_changed': {"root['students']": {'new_value': '59,837 (Columbus), 66,444 (all campuses) ', 'old_value': '59,837 (Columbus) 66,444 (all campuses) '}, "root['undergrad']": {'new_value': '45,946 (Columbus), 52,517 (all campuses)', 'old_value': '45,946 (Columbus) 52,517 (all campuses)'}, "root['postgrad']": {'new_value': '13,891 (Columbus), 13,927 (all campuses)', 'old_value': '13,891 (Columbus) 13,927 (all campuses)'}}}
+154: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State University cole graetz'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University cole graetz', 'old_value': 'The Ohio State University'}}}
+158: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University sucks gooooo michigan'}}}
+159: {'values_changed': {"root['name']": {'new_value': 'Ohio State University sucks gooooo michigan', 'old_value': 'The Ohio State University'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State University sucks go michigan'}}}
+161: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University sucks go michigan', 'old_value': 'The Ohio State University'}}}
+162: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State University ssssssssssssssssssss'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University ssssssssssssssssssss', 'old_value': 'The Ohio State University'}}}
+182: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'Ohio State  seal.svg'}}}
+183: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State  seal.svg', 'old_value': 'Ohio State University seal.svg'}}}
+194: {'values_changed': {"root['academic_affiliations']": {'new_value': 'University System of Ohio, AAU, BTAA, ORAU, APLU, Universitas 21', 'old_value': 'University System of Ohio, AAU, BTAA, ORAU, APLU,'}}}
+195: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The University Of Losers with no brains'}}}
+196: {'values_changed': {"root['name']": {'new_value': 'The University Of Losers with no brains', 'old_value': 'The University Of Ohio'}}}
+197: {'values_changed': {"root['name']": {'new_value': 'The University Of Ohio', 'old_value': 'The Ohio State University'}}}
+198: {'values_changed': {"root['endowment']": {'new_value': '$4.253 billion (2017)', 'old_value': '$5.2 billion (2018)'}}}
+199: {'values_changed': {"root['students']": {'new_value': '59,837 (Columbus) 66,444 (all campuses) ', 'old_value': '61,170 (Columbus) 68,100 (all campuses) '}, "root['undergrad']": {'new_value': '45,946 (Columbus) 52,517 (all campuses)', 'old_value': '46,820 (Columbus) 53,734 (all campuses)'}, "root['postgrad']": {'new_value': '13,891 (Columbus) 13,927 (all campuses)', 'old_value': '14,350 (Columbus) 14,366 (all campuses)'}}}
+203: {'values_changed': {"root['faculty']": {'new_value': '6,254 ', 'old_value': '7,310 '}, "root['staff']": {'new_value': '21,987', 'old_value': '27,158  | Student Employees = 13,218'}, "root['students']": {'new_value': '61,170 (Columbus) 68,100 (all campuses) ', 'old_value': '61,170 (Columbus) 68,100 (all campuses)'}}}
+204: {'values_changed': {"root['staff']": {'new_value': '27,158  | Student Employees = 13,218', 'old_value': '27,158 (plus student employees=13,218)'}}}
+212: {'values_changed': {"root['endowment']": {'new_value': '$5.2 billion (2018)', 'old_value': '$5.3 billion (2018)'}}}
+213: {'values_changed': {"root['endowment']": {'new_value': '$5.3 billion (2018)', 'old_value': '$5.2 billion (2018)'}}}
+226: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State UniverCity'}}}
+227: {'values_changed': {"root['name']": {'new_value': 'The Ohio State UniverCity', 'old_value': 'The Ohio State University'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State LSKFJNOSEFJOWIFO'}}}
+229: {'values_changed': {"root['name']": {'new_value': 'The Ohio State LSKFJNOSEFJOWIFO', 'old_value': 'The Ohio State University'}}}
+239: {'values_changed': {"root['academic_affiliations']": {'new_value': 'University System of Ohio, AAU, BTAA, ORAU, APLU,', 'old_value': 'AAU, APLU, BTAA, ORAU, University System of Ohio'}, "root['staff']": {'new_value': '27,158 (plus student employees=13,218)', 'old_value': '27,158'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+249: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+252: {'values_changed': {"root['president']": {'new_value': 'Michael V. Drake', 'old_value': 'Dominic Lucian Sauer'}}}
+253: {'values_changed': {"root['president']": {'new_value': 'Dominic Lucian Sauer', 'old_value': 'Michael V. Drake, M.D.'}}}
+279: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+281: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+282: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+283: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+284: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+289: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+291: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+294: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+299: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The™ Ohio State University'}}}
+306: {'values_changed': {"root['name']": {'new_value': 'The™ Ohio State University', 'old_value': 'The Ohio State University'}}}
+307: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+311: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU, APLU, BTAA, ORAU, University System of Ohio', 'old_value': 'AAU APLU BTAA ORAU University System of Ohio'}}}
+343: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'An Ohio State University'}}}
+344: {'values_changed': {"root['name']": {'new_value': 'An Ohio State University', 'old_value': 'AN Ohio State University'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'AN Ohio State University', 'old_value': 'THE Ohio State University'}}}
+351: {'values_changed': {"root['name']": {'new_value': 'THE Ohio State University', 'old_value': 'ONE OF THE MANY Ohio State University'}}}
+353: {'values_changed': {"root['name']": {'new_value': 'ONE OF THE MANY Ohio State University', 'old_value': 'AN Ohio State University'}}}
+356: {'values_changed': {"root['name']": {'new_value': 'AN Ohio State University', 'old_value': 'The Ohio State University'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'AN Ohio State University'}}}
+360: {'values_changed': {"root['name']": {'new_value': 'AN Ohio State University', 'old_value': 'The Ohio State University'}}}
+361: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+362: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'University of Ohio State'}}}
+363: {'values_changed': {"root['name']": {'new_value': 'University of Ohio State', 'old_value': 'The Ohio State University'}}}
+368: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'An Ohio State University'}}}
+369: {'values_changed': {"root['name']": {'new_value': 'An Ohio State University', 'old_value': 'The Ohio State University'}}}
+376: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The stupid  Ohio State University'}}}
+377: {'values_changed': {"root['name']": {'new_value': 'The stupid  Ohio State University', 'old_value': 'The Ohio State University'}}}
+399: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+400: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+404: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The stupid ohio state univerity'}}}
+405: {'values_changed': {"root['name']": {'new_value': 'The stupid ohio state univerity', 'old_value': 'The Ohio State University'}}}
+424: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+425: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+434: {'values_changed': {"root['students']": {'new_value': '61,170 (Columbus) 68,100 (all campuses)', 'old_value': 'r = r   |iso-8601|c = c   |wiki       = H:i:s, j F Y "(UTC)"   |date       = Y-m-d   |dmy        = j F Y   |medium   |#default   = F j, Y     |'}, "root['undergrad']": {'new_value': '46,820 (Columbus) 53,734 (all campuses)', 'old_value': '46,818 (Columbus) 53,669 (all campuses)'}, "root['postgrad']": {'new_value': '14,350 (Columbus) 14,366 (all campuses)', 'old_value': '14,573 (Columbus) 14,593 (all campuses)'}}}
+435: {'values_changed': {"root['students']": {'new_value': 'r = r   |iso-8601|c = c   |wiki       = H:i:s, j F Y "(UTC)"   |date       = Y-m-d   |dmy        = j F Y   |medium   |#default   = F j, Y     |', 'old_value': '61,391 (Columbus) 68,262 (all campuses)'}}}
+439: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'The Ohio State University seal.svg'}}}
+440: {'values_changed': {"root['image_name']": {'new_value': 'The Ohio State University seal.svg', 'old_value': 'Ohio State University seal.svg'}}}
+443: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The BOb Marley State University'}}}
+444: {'values_changed': {"root['name']": {'new_value': 'The BOb Marley State University', 'old_value': 'The Ohio State University'}}}
+460: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+461: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+467: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+468: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+469: {'dictionary_item_added': {"root['president']": 'Michael V. Drake, M.D.'}, 'values_changed': {"root['staff']": {'new_value': '27,158', 'old_value': '27,158  The best college in the big 10 go bucks!'}}}
+470: {'dictionary_item_removed': {"root['president']": 'Michael V. Drake, M.D.'}, 'values_changed': {"root['staff']": {'new_value': '27,158  The best college in the big 10 go bucks!', 'old_value': '27,158'}}}
+479: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'weird place'}}}
+480: {'values_changed': {"root['name']": {'new_value': 'weird place', 'old_value': 'The Ohio State University'}}}
+481: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+493: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+494: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+505: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Gayest School Around'}, "root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'Gay State University seal.svg'}}}
+506: {'values_changed': {"root['name']": {'new_value': 'The Gayest School Around', 'old_value': 'The Ohio State University'}, "root['image_name']": {'new_value': 'Gay State University seal.svg', 'old_value': 'Ohio State University seal.svg'}}}
+512: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State University seal.svg', 'old_value': 'Ohio State  | Owned By = Clemson Tigers University seal.svg'}}}
+513: {'values_changed': {"root['image_name']": {'new_value': 'Ohio State  | Owned By = Clemson Tigers University seal.svg', 'old_value': 'Ohio State University seal.svg'}}}
+521: {'dictionary_item_added': {"root['academic_affiliations']": 'AAU APLU BTAA ORAU University System of Ohio'}, 'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}, "root['endowment']": {'new_value': '$5.2 billion (2018)', 'old_value': '$5.26 billion (2019)'}, "root['president']": {'new_value': 'Michael V. Drake, M.D.', 'old_value': 'Kristina M. Johnson'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+523: {'values_changed': {"root['president']": {'new_value': 'Kristina M. Johnson', 'old_value': 'Devonta Smith'}}}
+524: {'values_changed': {"root['president']": {'new_value': 'Devonta Smith', 'old_value': 'Kristina M. Johnson'}}}
+527: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': "The Ohio State University TAKE THE L OHIO STATE YOU LOST TO BAMA' 52 TO 24!  your GARBaaGE"}}}
+528: {'values_changed': {"root['name']": {'new_value': "The Ohio State University TAKE THE L OHIO STATE YOU LOST TO BAMA' 52 TO 24!  your GARBaaGE", 'old_value': 'The Ohio State University'}}}
+543: {'values_changed': {"root['students']": {'new_value': '61,391 (Columbus) 68,262 (all campuses)', 'old_value': '61,369 (Columbus) 67,957 (all campuses) As of fall 2020. '}, "root['undergrad']": {'new_value': '46,818 (Columbus) 53,669 (all campuses)', 'old_value': '46,984 (Columbus) 53,557 (all campuses)'}, "root['postgrad']": {'new_value': '14,573 (Columbus) 14,593 (all campuses)', 'old_value': '14,385 (Columbus) 14,400 (all campuses)'}}}
+550: {'values_changed': {"root['president']": {'new_value': 'Kristina M. Johnson', 'old_value': 'Ryan D. Shupert'}}}
+551: {'values_changed': {"root['president']": {'new_value': 'Ryan D. Shupert', 'old_value': 'Kristina M. Johnson'}}}
+552: {'values_changed': {"root['endowment']": {'new_value': '$5.26 billion (2019)', 'old_value': '$5.29 billion (2020)'}}}
+565: {'values_changed': {"root['president']": {'new_value': 'Kristina M. Johnson', 'old_value': 'Mike Ock'}}}
+568: {'values_changed': {"root['president']": {'new_value': 'Mike Ock', 'old_value': 'Kristina M. Johnson'}}}
+569: {'values_changed': {"root['president']": {'new_value': 'Kristina M. Johnson', 'old_value': 'Oral Roberts University'}}}
+570: {'values_changed': {"root['president']": {'new_value': 'Oral Roberts University', 'old_value': 'Kristina M. Johnson'}}}
+599: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+600: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+612: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'ohio state trashaversity'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'ohio state trashaversity', 'old_value': 'The Ohio State University'}}}
+623: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+624: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+625: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+633: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+653: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+654: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+663: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+664: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+667: {'dictionary_item_added': {"root['staff']": '27,158'}, 'dictionary_item_removed': {"root['administrative_staff']": '27,158'}}
+668: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+669: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+672: {'values_changed': {"root['endowment']": {'new_value': '$5.29 billion (2020)', 'old_value': '$6.8 billion (2021)'}}}
+680: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+681: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+682: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Joe Biden is with the illuminati'}}}
+683: {'values_changed': {"root['name']": {'new_value': 'Joe Biden is with the illuminati', 'old_value': 'The Ohio State University'}}}
+688: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'The Ohio State University sucks'}}}
+689: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University sucks', 'old_value': 'The Ohio State University'}}}
+692: {'dictionary_item_removed': {"root['provost']": 'Melissa L. Gilliam'}}
+697: {'dictionary_item_removed': {"root['academic_affiliations']": ['AAU', 'Sea-grant', 'Space-grant'], "root['campus']": 'Urban, '}}
+698: {'dictionary_item_removed': {"root['former_names']": 'Ohio Agricultural and Mechanical College'}}
+699: {'values_changed': {"root['former_names']": {'new_value': 'Ohio Agricultural and Mechanical College', 'old_value': 'Ohio Agricultural and Mechanical College (1870-1878)'}}}
+703: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+704: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+712: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City,   '}}}
+713: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+715: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+727: {'values_changed': {"root['students']": {'new_value': '61,369 (Columbus) 67,957 (all campuses) As of fall 2020. ', 'old_value': '61,369 (residential) 67,957 (all campuses) As of fall 2020. '}}}
+728: {'values_changed': {"root['students']": {'new_value': '61,369 (residential) 67,957 (all campuses) As of fall 2020. ', 'old_value': '61,369 (Columbus) 67,957 (all campuses) As of fall 2020. '}}}
+738: {'values_changed': {"root['students']": {'new_value': '61,369 (Columbus) 67,957 (all campuses) As of fall 2020. ', 'old_value': '61,677 (Columbus) 67,772 (all campuses) As of fall 2021. '}, "root['undergrad']": {'new_value': '46,984 (Columbus) 53,557 (all campuses)', 'old_value': '47,106 (Columbus) 53,189 (all campuses)'}, "root['postgrad']": {'new_value': '14,385 (Columbus) 14,400 (all campuses)', 'old_value': '14,571 (Columbus) 14,583 (all campuses)'}}}
+756: {'values_changed': {"root['former_names']": {'new_value': 'Ohio Agricultural and Mechanical College (1870-1878)', 'old_value': 'Ohio Agricultural and Mechanical College (1870–1878)'}}}
+764: {'dictionary_item_removed': {"root['free_label1']": 'Newspaper', "root['free1']": "''The Lantern''", "root['free_label2']": 'Other campuses', "root['free2']": ['Lima', 'Mansfield', 'Marion', 'Newark', 'Wooster']}}
+769: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+770: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+773: {'iterable_item_removed': {"root['academic_affiliations'][1]": 'CRL'}}
+774: {'iterable_item_added': {"root['academic_affiliations'][1]": 'CRL'}}
+778: {'dictionary_item_added': {"root['free_label1']": 'Newspaper', "root['free1']": "''The Lantern''", "root['free2']": ['Lima', 'Mansfield', 'Marion', 'Newark', 'Wooster']}, 'values_changed': {"root['free_label2']": {'new_value': 'Other campuses', 'old_value': 'Newspaper'}}}
+779: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+780: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+784: {'values_changed': {"root['endowment']": {'new_value': '$6.8 billion (2021)', 'old_value': '$7.0 billion (2022)'}}}
+790: {'values_changed': {"root['campus']": {'new_value': 'Large City,   ', 'old_value': 'Large City'}}}
+795: {'dictionary_item_added': {"root['free_label2']": 'Newspaper'}, 'values_changed': {"root['campus']": {'new_value': 'Large City', 'old_value': 'Large city'}}}
+809: {'values_changed': {"root['name']": {'new_value': 'The Ohio State University', 'old_value': 'Ohio State University'}}}
+810: {'values_changed': {"root['name']": {'new_value': 'Ohio State University', 'old_value': 'The Ohio State University'}}}
+841: {'values_changed': {"root['president']": {'new_value': 'Kristina M. Johnson', 'old_value': 'Vacant'}}}
+850: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Lantern'' "}, 'iterable_item_removed': {"root['academic_affiliations'][1]": 'CUMU', "root['academic_affiliations'][2]": 'ORAU', "root['academic_affiliations'][3]": 'URA'}}

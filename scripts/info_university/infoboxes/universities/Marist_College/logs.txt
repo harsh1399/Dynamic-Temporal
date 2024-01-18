@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Marist College', "root['endowment']": '$221 million', "root['president']": 'David N. Yellen |total enrollment = 6,657', "root['undergrad']": '5,037', "root['postgrad']": '958', "root['campus']": 'Suburban, total ', "root['athletics']": 'NCAA Division I, MAAC, FCS Football, Pioneer', "root['affiliations']": 'NAICU, AAC&U'}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$221 million', 'old_value': '$253 million'}, "root['undergrad']": {'new_value': '5,037', 'old_value': '5,038'}, "root['postgrad']": {'new_value': '958', 'old_value': '982'}}}
+5: {'dictionary_item_removed': {"root['enrollment']": '6,657'}, 'values_changed': {"root['president']": {'new_value': 'David N. Yellen |total enrollment = 6,657', 'old_value': 'David N. Yellen'}}}
+13: {'values_changed': {"root['president']": {'new_value': 'David N. Yellen', 'old_value': 'Dennis J. Murray (Interim)'}}}
+14: {'values_changed': {"root['president']": {'new_value': 'Dennis J. Murray (Interim)', 'old_value': 'Dr. Dennis J. Murray (Interim)'}}}
+15: {'values_changed': {"root['president']": {'new_value': 'Dr. Dennis J. Murray (Interim)', 'old_value': 'Dennis J. Murray (Interim)'}}}
+65: {'values_changed': {"root['president']": {'new_value': 'Dennis J. Murray (Interim)', 'old_value': 'Dr. Dennis J. Murray (Interim)'}}}
+66: {'values_changed': {"root['president']": {'new_value': 'Dr. Dennis J. Murray (Interim)', 'old_value': 'Dr.Dennis J. Murray (Interim)'}}}
+67: {'values_changed': {"root['president']": {'new_value': 'Dr.Dennis J. Murray (Interim)', 'old_value': 'Dr. Dennis J. Murray (Interim)'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Marist College', 'old_value': 'Marist Middle School'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Marist Middle School', 'old_value': 'Marist College'}}}
+77: {'values_changed': {"root['undergrad']": {'new_value': '5,038', 'old_value': 'Sam and Gru. That’s it.'}}}
+79: {'values_changed': {"root['undergrad']": {'new_value': 'Sam and Gru. That’s it.', 'old_value': '5,038'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'Marist College', 'old_value': 'Marist Middle Smells like Butt'}}}
+81: {'values_changed': {"root['name']": {'new_value': 'Marist Middle Smells like Butt', 'old_value': 'Marist College'}}}
+83: {'values_changed': {"root['endowment']": {'new_value': '$253 million', 'old_value': '$253 million (2015)'}}}
+135: {'dictionary_item_removed': {"root['faculty']": '228 full-time  ,  350 adjuncts'}, 'values_changed': {"root['endowment']": {'new_value': '$253 million (2015)', 'old_value': '$71.2 million'}}}
+136: {'dictionary_item_added': {"root['faculty']": '228 full-time  ,  350 adjuncts'}, 'values_changed': {"root['endowment']": {'new_value': '$71.2 million', 'old_value': '$253 million (2015)'}}}
+199: {'dictionary_item_removed': {"root['faculty']": '228 full-time  ,  350 adjuncts'}, 'values_changed': {"root['endowment']": {'new_value': '$253 million (2015)', 'old_value': '$297.6 million (2020)'}}}

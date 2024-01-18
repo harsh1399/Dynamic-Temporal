@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Illinois State University', "root['president']": 'Dr. Al Bowman', "root['students']": '20,757', "root['undergrad']": '17,878', "root['postgrad']": '2,879', "root['staff']": '3,211', "root['campus']": 'Urban', "root['sports']": 'Division I NCAA'}}
+11: {'values_changed': {"root['president']": {'new_value': 'Dr. Al Bowman', 'old_value': 'Dr. Seuss'}}}
+12: {'values_changed': {"root['president']": {'new_value': 'Dr. Seuss', 'old_value': 'Dr. Al Bowman'}}}
+27: {'dictionary_item_removed': {"root['provost']": 'Dr. Sheri Noren Everts'}}
+83: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban  143 Buildings, 975 Acres'}}}
+85: {'values_changed': {"root['campus']": {'new_value': 'Urban  143 Buildings, 975 Acres', 'old_value': 'Urban  61 Buildings, 975 Acres'}}}
+91: {'values_changed': {"root['campus']": {'new_value': 'Urban  61 Buildings, 975 Acres', 'old_value': 'Urban  61 Buildings, 350 Acres'}}}
+105: {'values_changed': {"root['students']": {'new_value': '20,757', 'old_value': '20,859'}}}
+134: {'values_changed': {"root['students']": {'new_value': '20,859', 'old_value': '200,859'}, "root['undergrad']": {'new_value': '17,878', 'old_value': '170,878'}, "root['postgrad']": {'new_value': '2,879', 'old_value': '20,879'}, "root['staff']": {'new_value': '3,211', 'old_value': '3'}}}
+168: {'values_changed': {"root['students']": {'new_value': '200,859', 'old_value': '20,856'}, "root['undergrad']": {'new_value': '170,878', 'old_value': '18,344'}, "root['postgrad']": {'new_value': '20,879', 'old_value': '2,512'}, "root['staff']": {'new_value': '3', 'old_value': '3,481'}}}
+182: {'values_changed': {"root['name']": {'new_value': 'Illinois State University', 'old_value': 'Dumb State University'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'Dumb State University', 'old_value': 'Illinois State University'}}}
+216: {'dictionary_item_removed': {"root['endowment']": '$87.2 million'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Al Bowman', 'old_value': 'Larry Dietz'}, "root['provost']": {'new_value': 'Dr. Sheri Noren Everts', 'old_value': 'Janet Krejci'}, "root['students']": {'new_value': '20,856', 'old_value': '20,788  '}, "root['undergrad']": {'new_value': '18,344', 'old_value': '18,423'}, "root['postgrad']": {'new_value': '2,512', 'old_value': '2,365'}, "root['staff']": {'new_value': '3,481', 'old_value': '3,563 |student:faculty ratio= 19:1'}, "root['campus']": {'new_value': 'Urban  61 Buildings, 350 Acres', 'old_value': 'Urban 140 Buildings,,  '}, "root['sports']": {'new_value': 'Division I NCAA', 'old_value': 'NCAA Division I-FCS'}}}
+228: {'values_changed': {"root['endowment']": {'new_value': '$87.2 million', 'old_value': '$101.6 million'}}}
+229: {'values_changed': {"root['endowment']": {'new_value': '$101.6 million', 'old_value': '$101.8 million'}}}
+230: {'values_changed': {"root['staff']": {'new_value': '3,563 |student:faculty ratio= 19:1', 'old_value': '3,563'}}}
+231: {'values_changed': {"root['endowment']": {'new_value': '$101.8 million', 'old_value': '$87.2 million'}}}
+253: {'values_changed': {"root['endowment']": {'new_value': '$87.2 million', 'old_value': '$101.8 million'}}}
+274: {'dictionary_item_added': {"root['staff']": '3,563', "root['sports']": 'NCAA Division I-FCS'}, 'dictionary_item_removed': {"root['budget']": '$487.3 million (2021)', "root['administrative_staff']": '3,563'}, 'values_changed': {"root['endowment']": {'new_value': '$101.8 million', 'old_value': '$195.2 million (2021)'}, "root['president']": {'new_value': 'Larry Dietz', 'old_value': 'Terri Goss Kinzy'}, "root['provost']": {'new_value': 'Janet Krejci', 'old_value': 'Aondover Tarhule'}, "root['students']": {'new_value': '20,788  ', 'old_value': '20,233 '}, "root['undergrad']": {'new_value': '18,423', 'old_value': '17,674'}, "root['postgrad']": {'new_value': '2,365', 'old_value': '2,559'}, "root['campus']": {'new_value': 'Urban 140 Buildings,,  ', 'old_value': 'Urban Campus, '}}}
+287: {'values_changed': {"root['endowment']": {'new_value': '$195.2 million (2021)', 'old_value': '$196.9 million (2022)'}}}
+288: {'values_changed': {"root['budget']": {'new_value': '$487.3 million (2021)', 'old_value': '$497.7 million (2022)'}}}
+305: {'values_changed': {"root['students']": {'new_value': '20,233 ', 'old_value': '20,683 '}, "root['undergrad']": {'new_value': '17,674', 'old_value': '18,055'}, "root['postgrad']": {'new_value': '2,559', 'old_value': '2,628'}}}
+318: {'values_changed': {"root['president']": {'new_value': 'Terri Goss Kinzy', 'old_value': 'Aondover Tarhule (interim)'}, "root['provost']": {'new_value': 'Aondover Tarhule', 'old_value': 'Ani Yazedjian (interim)'}}}
+324: {'values_changed': {"root['provost']": {'new_value': 'Ani Yazedjian (interim)', 'old_value': 'Ani Yazeaian (interim)'}}}
+326: {'dictionary_item_removed': {"root['former_names']": 'Illinois State Normal University (1857–1964) Illinois State University at Normal (1964–1967)'}}
+327: {'values_changed': {"root['budget']": {'new_value': '$497.7 million (2022)', 'old_value': '$509.3 million (2023)'}}}

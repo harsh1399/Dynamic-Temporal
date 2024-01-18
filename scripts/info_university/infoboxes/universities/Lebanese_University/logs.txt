@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lebanese University', "root['president']": 'Adnan Hussein'}}
+5: {'dictionary_item_removed': {"root['faculty']": '5,000', "root['students']": '70,000', "root['campus']": 'Hadath main campus,Urban,705000m²'}}
+6: {'values_changed': {"root['campus']": {'new_value': 'Hadath main campus,Urban,705000m²', 'old_value': 'Hadath main campus,Urban,705,000m²'}}}
+15: {'values_changed': {"root['name']": {'new_value': 'Lebanese University', 'old_value': 'Lesbi anese University'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Lesbi anese University', 'old_value': 'Lebanese University'}}}
+20: {'dictionary_item_removed': {"root['administrative_staff']": '5,000'}, 'values_changed': {"root['president']": {'new_value': 'Adnan Hussein', 'old_value': 'Fouad Ayoub'}, "root['faculty']": {'new_value': '5,000', 'old_value': '8,000'}, "root['students']": {'new_value': '70,000', 'old_value': '79,000'}, "root['campus']": {'new_value': 'Hadath main campus,Urban,705,000m²', 'old_value': 'Main Campus in Hadath, Baabda District, Urban, 705,000m²'}}}
+21: {'values_changed': {"root['students']": {'new_value': '79,000', 'old_value': '80,000'}}}
+33: {'values_changed': {"root['president']": {'new_value': 'Fouad Ayoub', 'old_value': 'Fouad Ayoub, PhD'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Lebanese University', 'old_value': 'Lebanese hell University'}, "root['president']": {'new_value': 'Fouad Ayoub, PhD', 'old_value': 'zaiter, PhD'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Lebanese hell University', 'old_value': 'Lebanese University'}, "root['president']": {'new_value': 'zaiter, PhD', 'old_value': 'Fouad Ayoub, PhD'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Lebanese University', 'old_value': 'zaiter university for dealing and trading'}, "root['president']": {'new_value': 'Fouad Ayoub, PhD', 'old_value': 'rambo zaiter, PhD'}, "root['students']": {'new_value': '80,000', 'old_value': '80,000,000'}, "root['campus']": {'new_value': 'Main Campus in Hadath, Baabda District, Urban, 705,000m²', 'old_value': 'Main Campus in baalbeck, beqaa District, Urban, 705,000m²'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'zaiter university for dealing and trading', 'old_value': 'lebanese university'}, "root['president']": {'new_value': 'rambo zaiter, PhD', 'old_value': 'fouad ayoub, PhD'}, "root['students']": {'new_value': '80,000,000', 'old_value': '80,000'}, "root['campus']": {'new_value': 'Main Campus in baalbeck, beqaa District, Urban, 705,000m²', 'old_value': 'Main Campus in hadeth, baabda District, Urban, 705,000m²'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'lebanese university', 'old_value': 'yousef'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'yousef', 'old_value': 'Lebanese university'}}}

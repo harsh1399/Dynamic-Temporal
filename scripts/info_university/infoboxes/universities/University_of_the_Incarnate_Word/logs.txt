@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of the Incarnate Word', "root['endowment']": '$120 million (January 2016)', "root['president']": 'Louis J. Agnese Jr.', "root['students']": '10,984', "root['campus']": 'Urban, ', "root['athletics']": 'NCAA Division I – Southland Conference', "root['sports']": '21 varsity teams', "root['affiliations']": 'ACCU, CIC, NAICU'}}
+11: {'values_changed': {"root['president']": {'new_value': 'Louis J. Agnese Jr.', 'old_value': 'Dr. Denise J. Doyle (Acting)'}}}
+12: {'values_changed': {"root['students']": {'new_value': '10,984', 'old_value': '11,422'}}}
+24: {'values_changed': {"root['president']": {'new_value': 'Dr. Denise J. Doyle (Acting)', 'old_value': 'Dr. Thomas Evans'}}}
+36: {'values_changed': {"root['students']": {'new_value': '11,422', 'old_value': '10,389'}}}
+37: {'values_changed': {"root['president']": {'new_value': 'Dr. Thomas Evans', 'old_value': 'Thomas Evans'}, "root['students']": {'new_value': '10,389', 'old_value': '10,984'}}}
+40: {'values_changed': {"root['endowment']": {'new_value': '$120 million (January 2016)', 'old_value': '$142 million (2018)'}}}
+41: {'values_changed': {"root['students']": {'new_value': '10,984', 'old_value': '10,226'}}}
+49: {'values_changed': {"root['endowment']": {'new_value': '$142 million (2018)', 'old_value': '$142.0 million (2019)'}}}
+56: {'values_changed': {"root['endowment']": {'new_value': '$142.0 million (2019)', 'old_value': '$143.8 million (2020)'}}}
+60: {'dictionary_item_removed': {"root['religious_affiliation']": 'Catholic (Sisters of Charity of the Incarnate Word (CCVI))'}}
+64: {'values_changed': {"root['students']": {'new_value': '10,226', 'old_value': '7,917'}, "root['sports']": {'new_value': '21 varsity teams', 'old_value': '23 varsity teams'}}}
+90: {'values_changed': {"root['students']": {'new_value': '7,917', 'old_value': '9,366'}}}
+93: {'values_changed': {"root['affiliations']": {'new_value': 'ACCU, CIC, NAICU', 'old_value': 'ACCU CIC NAICU'}}}
+100: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – Southland Conference', "root['sports']": '23 varsity teams'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – Southland Conference'}, 'values_changed': {"root['affiliations']": {'new_value': 'ACCU CIC NAICU', 'old_value': 'NCAA Division I – Southland Conference | sports_nickname = Cardinals | mascot = Red the Cardinal | colors ='}}}
+108: {'dictionary_item_added': {"root['athletics_affiliations']": 'NCAA Division I – Southland Conference', "root['affiliations']": 'NCAA Division I – Southland Conference | sports_nickname = Cardinals | mascot = Red the Cardinal | colors ='}, 'dictionary_item_removed': {"root['academic_affiliations']": ['ACCU', 'CIC', 'NAICU']}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Catholic (Sisters of Charity of the Incarnate Word (CCVI))', 'old_value': 'Catholic (Sisters of Charity of the Incarnate Word)'}, "root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City'}}}
+109: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Logos'' "}}
+113: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Catholic (Sisters of Charity of the Incarnate Word)', 'old_value': 'Catholic - Sisters of Charity of the Incarnate Word'}}}
+114: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Catholic - Sisters of Charity of the Incarnate Word', 'old_value': 'Roman Catholic (Sisters of Charity of the Incarnate Word)'}}}
+135: {'values_changed': {"root['students']": {'new_value': '9,366', 'old_value': '9,275'}}}

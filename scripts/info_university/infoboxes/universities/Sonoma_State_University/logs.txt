@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sonoma State University', "root['endowment']": '$43.1 million (2014)', "root['faculty']": '542', "root['president']": 'Ruben Armiñana', "root['students']": '9,120', "root['campus']": 'Suburban, ', "root['affiliations']": 'California State University, COPLAC, CCAA', "root['former_names']": 'Sonoma State College (1960–1978)'}}
+3: {'values_changed': {"root['endowment']": {'new_value': '$43.1 million (2014)', 'old_value': '$44.6 million (2015)'}}}
+6: {'dictionary_item_removed': {"root['undergrad']": '8,615 (Fall 2015)', "root['postgrad']": '793 (Fall 2015)'}, 'values_changed': {"root['students']": {'new_value': '9,120', 'old_value': '9,408 (Fall 2015) '}}}
+7: {'values_changed': {"root['endowment']": {'new_value': '$44.6 million (2015)', 'old_value': '$44.6 billion (2015)'}}}
+8: {'values_changed': {"root['endowment']": {'new_value': '$44.6 billion (2015)', 'old_value': '$44.6 million (2015)'}}}
+16: {'values_changed': {"root['president']": {'new_value': 'Ruben Armiñana', 'old_value': 'Judy K. Sakaki'}}}
+17: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division II – CCAA'}, 'values_changed': {"root['affiliations']": {'new_value': 'California State University, COPLAC, CCAA', 'old_value': 'California State University, COPLAC'}}}
+26: {'dictionary_item_added': {"root['former_names']": 'Sonoma State College (1960–1978)'}, 'values_changed': {"root['endowment']": {'new_value': '$44.6 million (2015)', 'old_value': '$47.2 million (2017)'}, "root['students']": {'new_value': '9,408 (Fall 2015) ', 'old_value': '9,323 (Fall 2016) '}, "root['undergrad']": {'new_value': '8,615 (Fall 2015)', 'old_value': '8,606 (Fall 2016)'}, "root['postgrad']": {'new_value': '793 (Fall 2015)', 'old_value': '717 (Fall 2016)'}, "root['athletics']": {'new_value': 'NCAA Division II – CCAA', 'old_value': 'NCAA Division II – California Collegiate Athletic'}}}
+50: {'values_changed': {"root['endowment']": {'new_value': '$47.2 million (2017)', 'old_value': '$49.1 million (2018)'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Judy K. Sakaki', 'old_value': 'Jack Forman'}}}
+64: {'values_changed': {"root['president']": {'new_value': 'Jack Forman', 'old_value': 'Judy K. Sakaki'}}}
+68: {'values_changed': {"root['students']": {'new_value': '9,323 (Fall 2016) ', 'old_value': '9,201 (Fall 2018) '}, "root['undergrad']": {'new_value': '8,606 (Fall 2016)', 'old_value': '8,565 (Fall 2018)'}, "root['postgrad']": {'new_value': '717 (Fall 2016)', 'old_value': '636 (Fall 2018)'}}}
+72: {'dictionary_item_removed': {"root['budget']": '$149 million (2019)'}}
+82: {'values_changed': {"root['students']": {'new_value': '9,201 (Fall 2018) ', 'old_value': '8,649 (Fall 2019) '}, "root['undergrad']": {'new_value': '8,565 (Fall 2018)', 'old_value': '8,032 (Fall 2019)'}, "root['postgrad']": {'new_value': '636 (Fall 2018)', 'old_value': '617 (Fall 2019)'}}}
+92: {'values_changed': {"root['endowment']": {'new_value': '$49.1 million (2018)', 'old_value': '$52.3 million (2019)'}}}
+139: {'dictionary_item_added': {"root['affiliations']": 'California State University, COPLAC'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'COPLAC Space-grant'}}
+163: {'values_changed': {"root['students']": {'new_value': '8,649 (Fall 2019) ', 'old_value': '7,807 (Fall 2020) '}, "root['undergrad']": {'new_value': '8,032 (Fall 2019)', 'old_value': '7,154 (Fall 2020)'}, "root['postgrad']": {'new_value': '617 (Fall 2019)', 'old_value': '653 (Fall 2020)'}}}
+167: {'values_changed': {"root['endowment']": {'new_value': '$52.3 million (2019)', 'old_value': '$52.7 million (2020)'}}}

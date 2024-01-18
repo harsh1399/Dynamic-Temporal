@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Berea College', "root['religious_affiliation']": 'Christian (unaffiliated)', "root['president']": 'Lyle Roelofs', "root['endowment']": '$1.219 billion (2019) As of June 30, 2019. ', "root['undergrad']": '1,613', "root['postgrad']": '0', "root['faculty']": '131', "root['campus']": 'Exurban (140 acres)', "root['affiliations']": 'NCAA Division III — USA South'}}
+25: {'values_changed': {"root['undergrad']": {'new_value': '1,613', 'old_value': '1,688'}, "root['faculty']": {'new_value': '131', 'old_value': '147'}}}
+34: {'dictionary_item_added': {"root['affiliations']": 'NCAA Division III — USA South'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Christian (unaffiliated)', 'old_value': 'Christian'}}}
+60: {'values_changed': {"root['endowment']": {'new_value': '$1.219 billion (2019) As of June 30, 2019. ', 'old_value': '$1.25 billion (2020) As of June 30, 2020. '}}}
+71: {'values_changed': {"root['undergrad']": {'new_value': '1,688', 'old_value': '1,688 '}}}

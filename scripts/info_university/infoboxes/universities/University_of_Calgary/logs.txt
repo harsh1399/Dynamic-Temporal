@@ -1,0 +1,83 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Calgary', "root['image_name']": 'UofCCoat.svg', "root['endowment']": '$348M', "root['chancellor']": 'Joanne Cuthbertson', "root['president']": 'Warren Veale (interim)', "root['staff']": '5,363', "root['undergrad']": "19 801 full-time, 2,755 part-time http://oia.ucalgary.ca/system/files/06-07FB.pdf ''Student Enrollment Counts''", "root['postgrad']": '4,340 full-time, 1,300 part-time', "root['campus']": 'Urban, 2.13 km² or 213 hectares', "root['affiliations']": 'ACU, AUCC, IAU, G13, CIS, CWUAA, CUSID, CBIE', "root['colours']": 'Red, Gold, Black. '}}
+1: {'values_changed': {"root['president']": {'new_value': 'Warren Veale (interim)', 'old_value': 'Warren Veale (interim, 2010 - )'}}}
+9: {'dictionary_item_removed': {"root['incorporated']": 'April 29, 1966'}}
+25: {'dictionary_item_added': {"root['incorporated']": 'April 29, 1966'}, 'values_changed': {"root['affiliations']": {'new_value': 'ACU, AUCC, IAU, G13, CIS, CWUAA, CUSID, CBIE', 'old_value': 'ACU, AUCC, CARL, IAU, G13, CIS, CWUAA, CUSID, CBIE'}}}
+31: {'values_changed': {"root['president']": {'new_value': 'Warren Veale (interim, 2010 - )', 'old_value': 'Dr. Elizabeth Cannon (Beginning July 1, 2010)'}}}
+35: {'values_changed': {"root['president']": {'new_value': 'Dr. Elizabeth Cannon (Beginning July 1, 2010)', 'old_value': 'Dr. M. Elizabeth Cannon (Beginning July 1, 2010)'}}}
+37: {'values_changed': {"root['chancellor']": {'new_value': 'Joanne Cuthbertson', 'old_value': 'Jim Dinning (Beginning July 1, 2010)'}}}
+38: {'values_changed': {"root['endowment']": {'new_value': '$348M', 'old_value': '$340.1M'}}}
+39: {'values_changed': {"root['chancellor']": {'new_value': 'Jim Dinning (Beginning July 1, 2010)', 'old_value': 'Jim Dinning'}, "root['president']": {'new_value': 'Dr. M. Elizabeth Cannon (Beginning July 1, 2010)', 'old_value': 'Dr. M. Elizabeth Cannon'}}}
+41: {'values_changed': {"root['campus']": {'new_value': 'Urban, 2.13 km² or 213 hectares', 'old_value': 'Urban, 4.13 km(2)'}}}
+67: {'dictionary_item_removed': {"root['provost']": 'http://www.ucalgary.ca/provost.cfm Alan harrison'}}
+68: {'values_changed': {"root['provost']": {'new_value': 'http://www.ucalgary.ca/provost.cfm Alan harrison', 'old_value': 'http://www.ucalgary.ca/provost/.cfm Alan Harrison'}}}
+69: {'values_changed': {"root['endowment']": {'new_value': '$340.1M', 'old_value': '$442.1M'}}}
+179: {'values_changed': {"root['endowment']": {'new_value': '$442.1M', 'old_value': '$539.1M'}}}
+345: {'values_changed': {"root['endowment']": {'new_value': '$539.1M', 'old_value': '$539.1M '}}}
+429: {'values_changed': {"root['undergrad']": {'new_value': "19 801 full-time, 2,755 part-time http://oia.ucalgary.ca/system/files/06-07FB.pdf ''Student Enrollment Counts''", 'old_value': "~25,000 http://oia.ucalgary.ca/system/files/06-07FB.pdf ''Student Enrollment Counts''"}, "root['postgrad']": {'new_value': '4,340 full-time, 1,300 part-time', 'old_value': '5,500'}}}
+430: {'values_changed': {"root['postgrad']": {'new_value': '5,500', 'old_value': '~5,500'}}}
+435: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'University of Penis'}}}
+436: {'values_changed': {"root['name']": {'new_value': 'University of Penis', 'old_value': 'University of Calgary'}}}
+449: {'values_changed': {"root['endowment']": {'new_value': '$539.1M ', 'old_value': '$M '}}}
+450: {'values_changed': {"root['endowment']": {'new_value': '$M ', 'old_value': '$539.1M '}}}
+456: {'values_changed': {"root['provost']": {'new_value': 'http://www.ucalgary.ca/provost/.cfm Alan Harrison', 'old_value': 'http://www.ucalgary.ca/provost/ Alan Harrison'}}}
+475: {'values_changed': {"root['undergrad']": {'new_value': "~25,000 http://oia.ucalgary.ca/system/files/06-07FB.pdf ''Student Enrollment Counts''", 'old_value': '~25,000 '}}}
+479: {'values_changed': {"root['chancellor']": {'new_value': 'Jim Dinning', 'old_value': 'Lachlan McGinnis'}}}
+480: {'values_changed': {"root['chancellor']": {'new_value': 'Lachlan McGinnis', 'old_value': 'Jim Dinning'}}}
+500: {'values_changed': {"root['endowment']": {'new_value': '$539.1M ', 'old_value': '$441 million'}}}
+508: {'values_changed': {"root['campus']": {'new_value': 'Urban, 4.13 km(2)', 'old_value': 'Urban, 4.13 km 2'}}}
+509: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AUCC, CARL, IAU, G13, CIS, CWUAA, CUSID, CBIE', 'old_value': 'ACU, AUCC, CARL, IAU, U15, CIS, CWUAA, CUSID, CBIE'}}}
+536: {'values_changed': {"root['endowment']": {'new_value': '$441 million', 'old_value': '$866 million'}, "root['staff']": {'new_value': '5,363', 'old_value': '10,363'}, "root['undergrad']": {'new_value': '~25,000 ', 'old_value': '35,000 '}, "root['postgrad']": {'new_value': '~5,500', 'old_value': '7,500'}}}
+539: {'values_changed': {"root['campus']": {'new_value': 'Urban, 4.13 km 2', 'old_value': 'Urban, 4.15 km 2'}}}
+544: {'values_changed': {"root['endowment']": {'new_value': '$866 million', 'old_value': '$441 million'}, "root['staff']": {'new_value': '10,363', 'old_value': '5,363'}, "root['undergrad']": {'new_value': '35,000 ', 'old_value': '~25,000 '}, "root['postgrad']": {'new_value': '7,500', 'old_value': '~5,500'}, "root['campus']": {'new_value': 'Urban, 4.15 km 2', 'old_value': 'Urban, 4.13 km 2'}}}
+576: {'values_changed': {"root['colours']": {'new_value': 'Red, Gold, Black. ', 'old_value': 'Red, gold, and black  ,  '}}}
+578: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'University of Colin'}}}
+581: {'values_changed': {"root['name']": {'new_value': 'University of Colin', 'old_value': 'University of Calgary'}}}
+595: {'values_changed': {"root['endowment']": {'new_value': '$441 million', 'old_value': '$517 million'}}}
+612: {'values_changed': {"root['undergrad']": {'new_value': '~25,000 ', 'old_value': '~25,278 '}, "root['postgrad']": {'new_value': '~5,500', 'old_value': '~6,049'}}}
+619: {'values_changed': {"root['endowment']": {'new_value': '$517 million', 'old_value': '$516.7 million'}}}
+622: {'values_changed': {"root['provost']": {'new_value': 'http://www.ucalgary.ca/provost/ Alan Harrison', 'old_value': 'http://www.ucalgary.ca/provost/ Dru Marshall'}}}
+636: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'University of Calgary haha'}}}
+637: {'values_changed': {"root['name']": {'new_value': 'University of Calgary haha', 'old_value': 'University of Calgary'}}}
+641: {'values_changed': {"root['endowment']": {'new_value': '$516.7 million', 'old_value': '$716.7 million'}}}
+642: {'values_changed': {"root['endowment']": {'new_value': '$716.7 million', 'old_value': '$516.7 million'}}}
+654: {'values_changed': {"root['chancellor']": {'new_value': 'Jim Dinning', 'old_value': 'Robert Thirsk'}}}
+683: {'values_changed': {"root['colours']": {'new_value': 'Red, gold, and black  ,  ', 'old_value': 'Red, gold  ,  '}}}
+684: {'values_changed': {"root['colours']": {'new_value': 'Red, gold  ,  ', 'old_value': 'Red, gold, and black  ,  '}}}
+693: {'values_changed': {"root['president']": {'new_value': 'Dr. M. Elizabeth Cannon', 'old_value': 'Rev. M. Elizabeth Cannon'}}}
+700: {'values_changed': {"root['president']": {'new_value': 'Rev. M. Elizabeth Cannon', 'old_value': 'Dr. M. Elizabeth Cannon'}}}
+714: {'values_changed': {"root['endowment']": {'new_value': '$516.7 million', 'old_value': '$661.8 million'}}}
+729: {'values_changed': {"root['endowment']": {'new_value': '$661.8 million', 'old_value': '$790.6 million'}}}
+733: {'values_changed': {"root['endowment']": {'new_value': '$790.6 million', 'old_value': '$661.8 million'}}}
+736: {'values_changed': {"root['undergrad']": {'new_value': '~25,278 ', 'old_value': '~22,491 '}, "root['postgrad']": {'new_value': '~6,049', 'old_value': '~5,311'}}}
+737: {'values_changed': {"root['staff']": {'new_value': '5,363', 'old_value': '4,964 '}}}
+744: {'dictionary_item_added': {"root['colours']": 'Red, gold, and black  ,  '}, 'values_changed': {"root['endowment']": {'new_value': '$661.8 million', 'old_value': '$790.6 million'}}}
+763: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'University of Calgary  Admission Rate= 57%'}}}
+764: {'values_changed': {"root['name']": {'new_value': 'University of Calgary  Admission Rate= 57%', 'old_value': 'University of Calgary'}}}
+776: {'values_changed': {"root['provost']": {'new_value': 'http://www.ucalgary.ca/provost/ Dru Marshall', 'old_value': 'Dr. http://www.ucalgary.ca/provost/ Dru Marshall'}}}
+777: {'values_changed': {"root['chancellor']": {'new_value': 'Robert Thirsk', 'old_value': 'Dr. Robert Thirsk OC OBC'}}}
+783: {'values_changed': {"root['undergrad']": {'new_value': '~22,491 ', 'old_value': '24,387'}, "root['postgrad']": {'new_value': '~5,311', 'old_value': '5,804'}}}
+784: {'values_changed': {"root['endowment']": {'new_value': '$790.6 million', 'old_value': '$790,568'}}}
+785: {'values_changed': {"root['endowment']": {'new_value': '$790,568', 'old_value': '$790.6 million'}}}
+791: {'values_changed': {"root['undergrad']": {'new_value': '24,387', 'old_value': '24,387 '}, "root['postgrad']": {'new_value': '5,804', 'old_value': '5,804 '}}}
+795: {'dictionary_item_added': {"root['affiliations']": 'ACU, AUCC, CARL, IAU, U15, CIS, CWUAA, CUSID, CBIE'}, 'dictionary_item_removed': {"root['colours']": 'Red, gold, and black  ,  '}, 'values_changed': {"root['staff']": {'new_value': '4,964 ', 'old_value': '4,964<ref name'}}}
+862: {'dictionary_item_added': {"root['endowment']": '$790.6 million'}, 'dictionary_item_removed': {"root['students']": '30,900 ', "root['graduate']": '5,996 ', "root['affiliations']": 'ACU, AUCC, CARL, IAU, U15, U Sports, CWUAA, CUSID, CBIE'}, 'values_changed': {"root['provost']": {'new_value': 'Dr. http://www.ucalgary.ca/provost/ Dru Marshall', 'old_value': 'Dr. https://www.ucalgary.ca/provost/ Dru Marshall'}, "root['undergrad']": {'new_value': '24,387 ', 'old_value': '24,904 '}, "root['postgrad']": {'new_value': '5,804 ', 'old_value': '5,996 '}}}
+878: {'dictionary_item_added': {"root['graduate']": '5,996 '}, 'values_changed': {"root['undergrad']": {'new_value': '24,904 ', 'old_value': '24,904'}, "root['postgrad']": {'new_value': '5,996 ', 'old_value': '5,996'}}}
+890: {'values_changed': {"root['students']": {'new_value': '30,900 ', 'old_value': '31,950 '}, "root['undergrad']": {'new_value': '24,904', 'old_value': '25,855'}, "root['postgrad']": {'new_value': '5,996', 'old_value': '6,096'}}}
+898: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Robert Thirsk OC OBC', 'old_value': 'Deborah Yedlin'}}}
+908: {'values_changed': {"root['president']": {'new_value': 'Dr. M. Elizabeth Cannon', 'old_value': 'M. Elizabeth Cannon'}, "root['provost']": {'new_value': 'Dr. https://www.ucalgary.ca/provost/ Dru Marshall', 'old_value': 'Dru Marshall'}}}
+912: {'values_changed': {"root['president']": {'new_value': 'M. Elizabeth Cannon', 'old_value': 'Ed McCauley'}}}
+1166: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'University of Calgary established in 1320'}}}
+1168: {'values_changed': {"root['name']": {'new_value': 'University of Calgary established in 1320', 'old_value': 'University of Calgary'}}}
+1171: {'dictionary_item_added': {"root['image_name']": 'UofCCoat.svg', "root['affiliations']": 'ACU, AUCC, CARL, IAU, U15, U Sports, CWUAA, CUSID, CBIE', "root['staff']": '4,964<ref name'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'ACU, AUCC, CARL, IAU, U15, U Sports, CWUAA, CUSID, CBIE', "root['faculty']": '1,848  ', "root['administrative_staff']": '3,116<ref name'}, 'values_changed': {"root['provost']": {'new_value': 'Dru Marshall', 'old_value': 'Teri Balser'}, "root['campus']": {'new_value': 'Urban, 4.13 km 2', 'old_value': 'Urban, '}}}
+1178: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'Rohit University'}}}
+1179: {'values_changed': {"root['name']": {'new_value': 'Rohit University', 'old_value': 'University of Calgary'}}}
+1180: {'values_changed': {"root['name']": {'new_value': 'University of Calgary', 'old_value': 'Rohit University'}}}
+1182: {'values_changed': {"root['name']": {'new_value': 'Rohit University', 'old_value': 'University of Calgary'}}}
+1186: {'values_changed': {"root['students']": {'new_value': '31,950 ', 'old_value': '35,000 '}}}
+1187: {'values_changed': {"root['students']": {'new_value': '35,000 ', 'old_value': '33,000 '}}}
+1208: {'dictionary_item_added': {"root['provost']": 'Teri Balser'}, 'values_changed': {"root['chancellor']": {'new_value': 'Deborah Yedlin', 'old_value': 'Jon Cornish'}, "root['president']": {'new_value': 'Ed McCauley', 'old_value': 'Ed McCauley | provost (interim)     = Penny Werthner'}}}
+1209: {'dictionary_item_removed': {"root['provost']": 'Teri Balser'}, 'values_changed': {"root['chancellor']": {'new_value': 'Jon Cornish', 'old_value': 'Deborah Yedlin'}, "root['president']": {'new_value': 'Ed McCauley | provost (interim)     = Penny Werthner', 'old_value': 'Ed McCauley'}}}
+1210: {'values_changed': {"root['chancellor']": {'new_value': 'Deborah Yedlin', 'old_value': 'Jon Cornish '}, "root['provost']": {'new_value': 'Teri Balser', 'old_value': 'Penny Wertner '}}}
+1211: {'values_changed': {"root['provost']": {'new_value': 'Penny Wertner ', 'old_value': 'Penny Werthner '}}}
+1221: {'values_changed': {"root['academic_affiliations']": {'new_value': 'ACU, AUCC, CARL, IAU, U15, U Sports, CWUAA, CUSID, CBIE', 'old_value': 'CARL, CUSID, Universities Canada, U15'}}}
+1222: {'values_changed': {"root['academic_affiliations']": {'new_value': 'CARL, CUSID, Universities Canada, U15', 'old_value': 'CARL, CUSID, IAU, Universities Canada, U15'}}}

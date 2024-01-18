@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hillsdale College', "root['president']": 'Larry P. Arnn', "root['provost']": 'David M. Whalen', "root['endowment']": '$295 million (2011)', "root['undergrad']": '1,486', "root['faculty']": '124 full-time, 40 adjunct', "root['former_names']": 'Michigan Central College', "root['campus']": 'Rural, 200 acres (82 buildings)', "root['athletics']": 'NCAA Division II; 11 varsity intercollegiate sports teams'}}
+129: {'values_changed': {"root['endowment']": {'new_value': '$295 million (2011)', 'old_value': '$490 million (2015)'}}}
+130: {'values_changed': {"root['endowment']": {'new_value': '$490 million (2015)', 'old_value': '$295 million (2011)'}}}
+145: {'values_changed': {"root['endowment']": {'new_value': '$295 million (2011)', 'old_value': '$347 million (2013)'}}}
+152: {'values_changed': {"root['campus']": {'new_value': 'Rural, 200 acres (82 buildings)', 'old_value': 'Rural, 400 acres (84 buildings)'}}}
+155: {'values_changed': {"root['faculty']": {'new_value': '124 full-time, 40 adjunct', 'old_value': '124 full-time, 48 adjunct'}}}
+199: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II; 11 varsity intercollegiate sports teams', 'old_value': 'NCAA Division II — GLIAC'}}}
+201: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II — GLIAC', 'old_value': 'NCAA Division II – GLIAC'}}}
+214: {'values_changed': {"root['provost']": {'new_value': 'David M. Whalen', 'old_value': 'Christopher VanOrman'}, "root['endowment']": {'new_value': '$347 million (2013)', 'old_value': '$528 million (2016)'}, "root['athletics']": {'new_value': 'NCAA Division II – GLIAC', 'old_value': 'NCAA Division II – GMACin o'}}}
+215: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II – GMACin o', 'old_value': 'NCAA Division II – GMAC'}}}
+216: {'values_changed': {"root['campus']": {'new_value': 'Rural, 400 acres (84 buildings)', 'old_value': 'Rural, 400 acres (84 buildings) '}}}
+217: {'values_changed': {"root['campus']": {'new_value': 'Rural, 400 acres (84 buildings) ', 'old_value': 'Rural, 400 acres (84 buildings)'}}}
+282: {'values_changed': {"root['former_names']": {'new_value': 'Michigan Central College', 'old_value': 'Michigan Central College (1844–1855)'}}}
+285: {'values_changed': {"root['endowment']": {'new_value': '$528 million (2016)', 'old_value': '$900 million (2016)'}}}
+286: {'values_changed': {"root['endowment']": {'new_value': '$900 million (2016)', 'old_value': '$900 million (2021)'}}}
+306: {'dictionary_item_added': {"root['athletics']": 'NCAA Division II – GMAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division II – GMAC'}, 'values_changed': {"root['campus']": {'new_value': 'Rural, 400 acres (84 buildings)', 'old_value': 'Rural, '}}}

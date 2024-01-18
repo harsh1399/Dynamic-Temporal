@@ -1,0 +1,43 @@
+0: {'dictionary_item_removed': {"root['name']": 'Acadia University', "root['image_name']": 'AcadiaUniversityLogo.png', "root['endowment']": '$40 million', "root['students']": '3676 (as of 2006)', "root['undergrad']": '3600', "root['postgrad']": '76', "root['staff']": '211 full and 37 part-time', "root['president']": 'Gail Dinter-Gottlieb', "root['chancellor']": 'Arthur Irving', "root['campus']": '250 acres (1 km²)', "root['sports']": 'Axemen and Axewomen'}}
+9: {'values_changed': {"root['endowment']": {'new_value': '$40 million', 'old_value': '$ Well Endowed, we have the 1 trillion dollar bill'}}}
+11: {'values_changed': {"root['endowment']": {'new_value': '$ Well Endowed, we have the 1 trillion dollar bill', 'old_value': '$40 million'}}}
+43: {'values_changed': {"root['president']": {'new_value': 'Gail Dinter-Gottlieb', 'old_value': 'Tom Herman (acting)'}}}
+48: {'dictionary_item_removed': {"root['affiliations']": 'AUCC, IAU'}}
+51: {'values_changed': {"root['students']": {'new_value': '3676 (as of 2006)', 'old_value': '3000 (as of 2008)'}, "root['undergrad']": {'new_value': '3600', 'old_value': '2760'}, "root['president']": {'new_value': 'Tom Herman (acting)', 'old_value': 'Tom Herman (acting-interim)'}}}
+52: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU', 'old_value': 'AUCC, IAU, CVU'}}}
+68: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CVU', 'old_value': 'AUCC, IAU, CVU, CIS'}}}
+69: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CVU, CIS', 'old_value': 'AUCC, IAU, CVU, CIS, CUSID'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Acadia University', 'old_value': "'''Acadia University'''"}, "root['affiliations']": {'new_value': 'AUCC, IAU, CVU, CIS, CUSID', 'old_value': 'AUCC, IAU, CVU, CIS, AUS, CUSID'}}}
+100: {'values_changed': {"root['staff']": {'new_value': '211 full and 37 part-time', 'old_value': '211 full (excluding Chuck Norris) and 37 part-time'}}}
+106: {'values_changed': {"root['staff']": {'new_value': '211 full (excluding Chuck Norris) and 37 part-time', 'old_value': '211 full (excluding Chuck Norris who can actually email a roundhouse kick) and 37 part-time'}}}
+107: {'values_changed': {"root['staff']": {'new_value': '211 full (excluding Chuck Norris who can actually email a roundhouse kick) and 37 part-time', 'old_value': '211 full (excluding Chuck Norris) and 37 part-time'}}}
+108: {'values_changed': {"root['staff']": {'new_value': '211 full (excluding Chuck Norris) and 37 part-time', 'old_value': '211 full and 37 part-time'}}}
+147: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CVU, CIS, AUS, CUSID', 'old_value': 'AUCC, IAU, CVU, CIS, AUS, CUSID, CBIE'}}}
+148: {'dictionary_item_added': {"root['campus']": '250 acres (1 km²)'}, 'values_changed': {"root['image_name']": {'new_value': 'AcadiaUniversityLogo.png', 'old_value': 'Acadia U shield.png'}, "root['president']": {'new_value': 'Tom Herman (acting-interim)', 'old_value': 'Ray Ivany'}, "root['affiliations']": {'new_value': 'AUCC, IAU, CVU, CIS, AUS, CUSID, CBIE', 'old_value': 'AUCC, IAU, CIS, AUS, CUSID, CBIE, CUP'}}}
+159: {'values_changed': {"root['chancellor']": {'new_value': 'Arthur Irving', 'old_value': 'Libby Burnham'}}}
+160: {'values_changed': {"root['students']": {'new_value': '3000 (as of 2008)', 'old_value': '3485 (as of 2010)'}, "root['undergrad']": {'new_value': '2760', 'old_value': '3030'}, "root['postgrad']": {'new_value': '76', 'old_value': '455'}, "root['staff']": {'new_value': '211 full and 37 part-time', 'old_value': '211 full and 37 part-time (as of 2008)'}}}
+175: {'values_changed': {"root['image_name']": {'new_value': 'Acadia U shield.png', 'old_value': 'Acadia U shild.png'}, "root['staff']": {'new_value': '211 full and 37 part-time (as of 2008)', 'old_value': '211 full and 37 pat-time (as of 2008)'}}}
+176: {'values_changed': {"root['image_name']": {'new_value': 'Acadia U shild.png', 'old_value': 'Acadia U shield.png'}}}
+184: {'dictionary_item_removed': {"root['former_names']": "Queen's College (1838–1841), Acadia College (1841–1891)"}, 'values_changed': {"root['staff']": {'new_value': '211 full and 37 pat-time (as of 2008)', 'old_value': '211 full-time, 37 part-time (as of 2008)'}}}
+194: {'dictionary_item_added': {"root['sports']": 'Axemen and Axewomen'}, 'values_changed': {"root['image_name']": {'new_value': 'Acadia U shield.png', 'old_value': 'AcadiaUShield.svg'}, "root['students']": {'new_value': '3485 (as of 2010)', 'old_value': '4,358 '}, "root['undergrad']": {'new_value': '3030', 'old_value': '3,753'}, "root['postgrad']": {'new_value': '455', 'old_value': '605'}}}
+204: {'dictionary_item_added': {"root['chancellor']": 'Libby Burnham'}, 'values_changed': {"root['endowment']": {'new_value': '$40 million', 'old_value': '$112 million'}}}
+212: {'values_changed': {"root['endowment']": {'new_value': '$112 million', 'old_value': '$96 million'}}}
+246: {'dictionary_item_removed': {"root['athletics']": 'CIS – AUS'}, 'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CIS, AUS, CUSID, CBIE, CUP', 'old_value': 'AUCC, IAU, CUSID, CBIE, CUP'}}}
+256: {'dictionary_item_removed': {"root['chancellor']": 'Libby Burnham'}, 'values_changed': {"root['name']": {'new_value': "'''Acadia University'''", 'old_value': 'Acadia University'}}}
+257: {'dictionary_item_added': {"root['image_name']": 'AcadiaUShield.svg'}, 'values_changed': {"root['students']": {'new_value': '4,358 ', 'old_value': '3,737 '}, "root['undergrad']": {'new_value': '3,753', 'old_value': '3,549'}, "root['postgrad']": {'new_value': '605', 'old_value': '188'}, "root['president']": {'new_value': 'Ray Ivany', 'old_value': 'Peter Ricketts'}, "root['athletics']": {'new_value': 'CIS – AUS', 'old_value': 'U Sports – AUS'}}}
+269: {'values_changed': {"root['president']": {'new_value': 'Peter Ricketts', 'old_value': 'Pete'}}}
+270: {'values_changed': {"root['president']": {'new_value': 'Pete', 'old_value': 'Peter J. Ricketts'}}}
+271: {'values_changed': {"root['president']": {'new_value': 'Peter J. Ricketts', 'old_value': 'Pete'}}}
+272: {'values_changed': {"root['president']": {'new_value': 'Pete', 'old_value': 'Peter J. Ricketts'}}}
+289: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, CUSID, CBIE, CUP', 'old_value': 'AUCC, IAU, CUSID, CBIE, CUP, Maple League of Universities'}}}
+291: {'dictionary_item_added': {"root['staff']": '211 full-time, 37 part-time (as of 2008)'}, 'dictionary_item_removed': {"root['administrative_staff']": '211 full-time, 37 part-time (as of 2008)'}}
+295: {'dictionary_item_added': {"root['athletics']": 'U Sports – AUS', "root['affiliations']": 'AUCC, IAU, CUSID, CBIE, CUP, Maple League of Universities'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'U Sports – AUS', "root['religious_affiliation']": 'Currently non-denominational; initially founded by Baptists', "root['academic_affiliations']": 'AUCC, IAU, CUSID, CBIE, CUP, Maple League of Universities'}}
+296: {'values_changed': {"root['former_names']": {'new_value': "Queen's College (1838–1841), Acadia College (1841–1891)", 'old_value': "Queen's College (1838–1841) Acadia College (1841–1891)"}}}
+297: {'values_changed': {"root['president']": {'new_value': 'Peter J. Ricketts', 'old_value': 'Dr. Conor J. Feltmate (as of 2021)'}}}
+298: {'values_changed': {"root['president']": {'new_value': 'Dr. Conor J. Feltmate (as of 2021)', 'old_value': 'Dr. Peter J. Ricketts'}}}
+299: {'values_changed': {"root['endowment']": {'new_value': '$96 million', 'old_value': '$109.4 million (2021)'}}}
+308: {'values_changed': {"root['students']": {'new_value': '3,737 ', 'old_value': '4,542 '}, "root['undergrad']": {'new_value': '3,549', 'old_value': '4024'}, "root['postgrad']": {'new_value': '188', 'old_value': '518'}}}
+309: {'values_changed': {"root['undergrad']": {'new_value': '4024', 'old_value': '4,024'}}}
+328: {'dictionary_item_removed': {"root['colours']": 'Garnet and blue ,  '}}
+329: {'values_changed': {"root['endowment']": {'new_value': '$109.4 million (2021)', 'old_value': '$109.4 million '}, "root['administrative_staff']": {'new_value': '211 full-time, 37 part-time (as of 2008)', 'old_value': '211 full-time, 37 part-time '}, "root['colours']": {'new_value': 'Garnet and blue ,  ', 'old_value': 'Garnet and blue   '}}}
+331: {'values_changed': {"root['president']": {'new_value': 'Dr. Peter J. Ricketts', 'old_value': 'Peter J. Ricketts'}}}

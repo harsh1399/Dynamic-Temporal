@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'The City University of New York', "root['budget']": '$3.0 billion', "root['chancellor']": 'James Milliken ||', "root['students']": '272,957', "root['faculty']": '45,232', "root['campus']": '24 campuses'}}
+28: {'values_changed': {"root['students']": {'new_value': '272,957', 'old_value': '274,000'}}}
+31: {'values_changed': {"root['chancellor']": {'new_value': 'James Milliken ||', 'old_value': 'Vita C. Rabinowitz (acting)'}}}
+32: {'values_changed': {"root['chancellor']": {'new_value': 'Vita C. Rabinowitz (acting)', 'old_value': 'Vita C. Rabinowitz (interim)'}}}
+99: {'dictionary_item_added': {"root['campus']": '24 campuses'}, 'values_changed': {"root['chancellor']": {'new_value': 'Vita C. Rabinowitz (interim)', 'old_value': 'Félix V. Matos Rodríguez'}}}
+173: {'values_changed': {"root['faculty']": {'new_value': '45,232', 'old_value': '19,568   | no'}}}
+182: {'dictionary_item_added': {"root['faculty']": '19,568   | no'}, 'dictionary_item_removed': {"root['academic_staff']": '19,568', "root['administrative_staff']": '33,099'}}
+185: {'values_changed': {"root['budget']": {'new_value': '$3.0 billion', 'old_value': '$3.6 billion'}}}

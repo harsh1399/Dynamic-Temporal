@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Augusta State University', "root['staff']": '300', "root['faculty']": '200', "root['president']": 'William Bloodworth, Jr.', "root['students']": '6,564', "root['telephone']": '(800)341-4373'}}
+8: {'dictionary_item_removed': {"root['ninja']": '63'}}
+24: {'dictionary_item_added': {"root['ninja']": '63'}, 'dictionary_item_removed': {"root['campus']": 'Suburban'}}
+25: {'values_changed': {"root['president']": {'new_value': 'William Bloodworth, Jr.', 'old_value': 'James W. Booth.'}, "root['students']": {'new_value': '6,564', 'old_value': '16,564'}}}
+28: {'values_changed': {"root['president']": {'new_value': 'James W. Booth.', 'old_value': 'William A. Bloodworth'}, "root['students']": {'new_value': '16,564', 'old_value': 'About 6,000'}}}
+36: {'dictionary_item_removed': {"root['undergrad']": '5,628', "root['postgrad']": '960'}, 'values_changed': {"root['students']": {'new_value': 'About 6,000', 'old_value': '6,588  '}}}
+61: {'dictionary_item_removed': {"root['endowment']": 'US$45,478,931 http://www.aug.edu/budget/current_general_budget.htm'}}
+62: {'dictionary_item_removed': {"root['affiliations']": 'NCAA Division II, Peach Belt Conference'}}
+63: {'values_changed': {"root['affiliations']": {'new_value': 'NCAA Division II, Peach Belt Conference', 'old_value': 'NCAA Division II, Peach Belt Conference, 25 varsity teams'}}}
+65: {'values_changed': {"root['endowment']": {'new_value': 'US$45,478,931 http://www.aug.edu/budget/current_general_budget.htm', 'old_value': 'US$45,478,931 http://www.aug.edu/budget/current_general_budget.htm Current Budget'}}}
+68: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Urburn'}}}
+72: {'values_changed': {"root['campus']": {'new_value': 'Urburn', 'old_value': 'Urban'}}}

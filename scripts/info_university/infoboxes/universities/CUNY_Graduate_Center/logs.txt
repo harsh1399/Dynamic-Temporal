@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Graduate School and University Center of the City University of New York', "root['president']": 'Chase F. Robinson (Interim President)', "root['provost']": 'Louise Lennihan (Interim Provost)', "root['faculty']": '150 core, 1,800 consortial', "root['alumni']": 'over 10,000 doctoral graduates |international students = 21% representing about 80 countries', "root['campus']": 'Urban'}}
+10: {'values_changed': {"root['faculty']": {'new_value': '150 core, 1,800 consortial', 'old_value': '140 core, 1,600 consortial'}}}
+18: {'values_changed': {"root['president']": {'new_value': 'Chase F. Robinson (Interim President)', 'old_value': 'Chase F. Robinson'}}}
+31: {'values_changed': {"root['faculty']": {'new_value': '140 core, 1,600 consortial', 'old_value': '140 core, 1,700 consortial'}}}
+106: {'values_changed': {"root['provost']": {'new_value': 'Louise Lennihan (Interim Provost)', 'old_value': 'Joy Connolly'}}}
+110: {'dictionary_item_added': {"root['faculty']": '140 core, 1,700 consortial', "root['alumni']": 'over 10,000 doctoral graduates |international students = 21% representing about 80 countries'}, 'dictionary_item_removed': {"root['budget']": '$120.2 million (2015) ', "root['students']": '4,071 (2015)', "root['academic_staff']": '1,840 (2015)'}}
+114: {'dictionary_item_added': {"root['students']": '4,071 (2015)'}, 'dictionary_item_removed': {"root['postgrad']": '4,071 (2015) '}}
+120: {'values_changed': {"root['budget']": {'new_value': '$120.2 million (2015) ', 'old_value': "$120.2 million  ''(2015)''  "}, "root['postgrad']": {'new_value': '4,071 (2015) ', 'old_value': "4,071  ''(2015)''  "}, "root['academic_staff']": {'new_value': '1,840 (2015)', 'old_value': "1,840  ''(2015)''"}}}
+123: {'values_changed': {"root['postgrad']": {'new_value': "4,071  ''(2015)''  ", 'old_value': "3,809  ''(2016)''  "}}}
+124: {'values_changed': {"root['budget']": {'new_value': "$120.2 million  ''(2015)''  ", 'old_value': '$120.2 million (2015) '}, "root['postgrad']": {'new_value': "3,809  ''(2016)''  ", 'old_value': '4,071 (2015) '}, "root['academic_staff']": {'new_value': "1,840  ''(2015)''", 'old_value': '1,840 (2015)'}}}
+159: {'values_changed': {"root['budget']": {'new_value': '$120.2 million (2015) ', 'old_value': '$120.2 million  (2015)  '}, "root['postgrad']": {'new_value': '4,071 (2015) ', 'old_value': '4,071  (2015)  '}, "root['academic_staff']": {'new_value': '1,840 (2015)', 'old_value': '1,840  (2015)'}}}
+219: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban 570,000 sq ft '}}}
+241: {'values_changed': {"root['postgrad']": {'new_value': '4,071  (2015)  ', 'old_value': '3,809  (2016)  '}}}
+249: {'values_changed': {"root['budget']": {'new_value': '$120.2 million  (2015)  ', 'old_value': '$134.7 million  (2018)  '}}}
+271: {'values_changed': {"root['postgrad']": {'new_value': '3,809  (2016)  ', 'old_value': '4,071  (2018)  '}}}
+284: {'values_changed': {"root['president']": {'new_value': 'Chase F. Robinson', 'old_value': 'Joy Connolly (interim)'}, "root['provost']": {'new_value': 'Joy Connolly', 'old_value': 'Julia Wrigley (interim)'}}}

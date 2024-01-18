@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['coor']": '46|23|N|79|30|13|W|type:edu_region:CA-ON|displ'}}
+235: {'dictionary_item_added': {"root['coor']": '46|23|N|79|30|13|W|type:edu_region:CA-ON|displ'}, 'dictionary_item_removed': {"root['name']": "York University, ''Université York''", "root['endowment']": '$439 million', "root['chancellor']": 'Gregory Sorbara', "root['president']": 'Rhonda Lenton ', "root['provost']": 'Lisa Philipps', "root['students']": '52,300', "root['undergrad']": '46,400 ', "root['postgrad']": '5,900', "root['campus']": 'Urban', "root['affiliations']": 'AUCC, CARL, IAU, COU, U Sports, OUA, CUSID, Fields Institute, Ontario Network of Women in engineering, CBIE, CFS, CUP.', "root['image_name']": 'Yorkunicrest1.png', "root['staff']": '7,000 '}}
+249: {'values_changed': {"root['undergrad']": {'new_value': '46,400 ', 'old_value': '49,700 '}, "root['postgrad']": {'new_value': '5,900', 'old_value': '6,000'}}}
+250: {'values_changed': {"root['students']": {'new_value': '52,300', 'old_value': '55,700'}}}
+251: {'values_changed': {"root['endowment']": {'new_value': '$439 million', 'old_value': '$467.7 million'}}}
+267: {'values_changed': {"root['name']": {'new_value': "York University, ''Université York''", 'old_value': "York University ''Université York''"}}}
+268: {'values_changed': {"root['name']": {'new_value': "York University ''Université York''", 'old_value': "Fork University ''Université York''"}}}
+269: {'values_changed': {"root['name']": {'new_value': "Fork University ''Université York''", 'old_value': "York University ''Université York''"}}}
+292: {'values_changed': {"root['endowment']": {'new_value': '$467.7 million', 'old_value': '$496 million'}}}
+297: {'values_changed': {"root['name']": {'new_value': "York University ''Université York''", 'old_value': "York University{this is a antisemitic disgusting school that’s proarab don’t send your kids to this hostile environment}  ''Université York''"}}}
+298: {'values_changed': {"root['name']": {'new_value': "York University{this is a antisemitic disgusting school that’s proarab don’t send your kids to this hostile environment}  ''Université York''", 'old_value': "York University ''Université York''"}}}
+301: {'values_changed': {"root['name']": {'new_value': "York University ''Université York''", 'old_value': 'York University'}}}
+358: {'dictionary_item_added': {"root['staff']": '7,000 '}, 'dictionary_item_removed': {"root['administrative_staff']": '7,000 '}}
+428: {'dictionary_item_added': {"root['affiliations']": 'AUCC, CARL, IAU, COU, U Sports, OUA, CUSID, Fields Institute, Ontario Network of Women in engineering, CBIE, CFS, CUP.', "root['image_name']": 'Yorkunicrest1.png'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'CARL, COU, CUP, CUSID, Fields Institute,  IAU, Universities Canada'}}
+431: {'values_changed': {"root['academic_affiliations']": {'new_value': 'CARL, COU, CUP, CUSID, Fields Institute,  IAU, Universities Canada', 'old_value': 'CARL, COU, CUSID, Fields Institute,  IAU, Universities Canada'}}}
+433: {'values_changed': {"root['endowment']": {'new_value': '$496 million', 'old_value': '$632.7 million(2021)'}}}

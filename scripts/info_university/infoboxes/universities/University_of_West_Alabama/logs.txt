@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of West Alabama', "root['president']": 'Dr. Richard Holland', "root['enrollment']": '5,157 | student/teacher ratio=18 to 1', "root['campus']": 'Rural, 600 acres', "root['affiliations']": 'NCAA Division II; GSC', "root['telephone']": '(205) 652-3400'}}
+33: {'dictionary_item_removed': {"root['image_name']": 'UWALogo.png'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Richard Holland', 'old_value': 'Dr. Richard D. Holland'}, "root['affiliations']": {'new_value': 'NCAA Division II; GSC', 'old_value': 'Gulf South Conference, (NCAA Division II)'}, "root['telephone']": {'new_value': '(205) 652-3400', 'old_value': '(205)652-3400, 1(888)636-8800'}}}
+71: {'dictionary_item_removed': {"root['calendar']": 'Semester', "root['provost']": 'Dr. David M. Taylor', "root['athletics']": 'NCAA Division II, Gulf South Conference'}, 'values_changed': {"root['campus']": {'new_value': 'Rural, 600 acres', 'old_value': 'Rural, 600 acres (2.43 km²)'}, "root['affiliations']": {'new_value': 'Gulf South Conference, (NCAA Division II)', 'old_value': 'SACS'}}}
+87: {'values_changed': {"root['enrollment']": {'new_value': '5,157 | student/teacher ratio=18 to 1', 'old_value': '4,888  | student/teacher ratio=18 to 1'}}}
+110: {'values_changed': {"root['enrollment']": {'new_value': '4,888  | student/teacher ratio=18 to 1', 'old_value': '5,157  | student/teacher ratio=18 to 1'}}}
+146: {'values_changed': {"root['enrollment']": {'new_value': '5,157  | student/teacher ratio=18 to 1', 'old_value': '5,157  | student/teacher ratio=18:1'}}}
+148: {'values_changed': {"root['affiliations']": {'new_value': 'SACS', 'old_value': 'ACHE, SACS'}}}
+149: {'values_changed': {"root['enrollment']": {'new_value': '5,157  | student/teacher ratio=18:1', 'old_value': '4,888 | student/teacher ratio=18:1'}}}
+150: {'dictionary_item_removed': {"root['faculty']": '97'}, 'values_changed': {"root['enrollment']": {'new_value': '4,888 | student/teacher ratio=18:1', 'old_value': '4,888'}}}
+167: {'dictionary_item_removed': {"root['endowment']": '$375,613'}}
+183: {'values_changed': {"root['affiliations']": {'new_value': 'ACHE, SACS', 'old_value': 'Alabama Commission on Higher Education, Southern Association of Colleges and Schools'}}}
+212: {'values_changed': {"root['affiliations']": {'new_value': 'Alabama Commission on Higher Education, Southern Association of Colleges and Schools', 'old_value': 'ACHE, SACS'}}}
+247: {'values_changed': {"root['enrollment']": {'new_value': '4,888', 'old_value': '5,157'}}}

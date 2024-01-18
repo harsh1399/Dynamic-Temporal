@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Clark Atlanta University', "root['president']": 'Walter D. Broadnax', "root['undergrad']": '4000', "root['postgrad']": '1000', "root['campus']": 'Urban, suburban, park'}}
+1: {'values_changed': {"root['campus']": {'new_value': 'Urban, suburban, park', 'old_value': 'Urban'}}}
+64: {'dictionary_item_removed': {"root['staff']": '= N/A == Headline text =='}}
+65: {'values_changed': {"root['staff']": {'new_value': '= N/A == Headline text ==', 'old_value': 'N/A'}}}
+361: {'dictionary_item_added': {"root['undergrad']": '4000', "root['postgrad']": '1000', "root['staff']": 'N/A'}, 'dictionary_item_removed': {"root['image_name']": 'Causeal.jpg', "root['endowment']": '$69 million', "root['students']": '3,289 (Fall 2018)', "root['athletics']": 'NCAA Division II'}, 'values_changed': {"root['president']": {'new_value': 'Walter D. Broadnax', 'old_value': 'George T. French, Jr., Ph.D.   | vic'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, '}}}
+369: {'values_changed': {"root['students']": {'new_value': '3,289 (Fall 2018)', 'old_value': '3,920 (Fall 2019)'}}}
+458: {'values_changed': {"root['endowment']": {'new_value': '$69 million', 'old_value': '$71.4 million (2018)'}, "root['president']": {'new_value': 'George T. French, Jr., Ph.D.   | vic', 'old_value': 'George T. French Jr.   | vic'}}}
+489: {'values_changed': {"root['students']": {'new_value': '3,920 (Fall 2019)', 'old_value': '2,036 (Fall 2020)'}}}
+490: {'values_changed': {"root['students']": {'new_value': '2,036 (Fall 2020)', 'old_value': '3,920 (Fall 2019)'}}}
+497: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church'}}
+498: {'values_changed': {"root['students']": {'new_value': '3,920 (Fall 2019)', 'old_value': '2,875 (Fall 2020)'}}}
+499: {'values_changed': {"root['students']": {'new_value': '2,875 (Fall 2020)', 'old_value': '3,920 (Fall 2019)'}}}
+548: {'values_changed': {"root['image_name']": {'new_value': 'Causeal.jpg', 'old_value': 'Clark Atlanta University seal.svg'}}}
+549: {'values_changed': {"root['endowment']": {'new_value': '$71.4 million (2018)', 'old_value': '$74.4 million (2021)'}}}
+560: {'dictionary_item_added': {"root['image_name']": 'Clark Atlanta University seal.svg', "root['athletics']": 'NCAA Division II'}, 'values_changed': {"root['president']": {'new_value': 'George T. French Jr.   | vic', 'old_value': 'George T. French Jr.   | vice-president         ='}}}
+576: {'values_changed': {"root['students']": {'new_value': '3,920 (Fall 2019)', 'old_value': '2,436 (Fall 2021)'}}}
+607: {'values_changed': {"root['students']": {'new_value': '2,436 (Fall 2021)', 'old_value': '4,000 (Fall 2022)'}}}
+630: {'values_changed': {"root['endowment']": {'new_value': '$74.4 million (2021)', 'old_value': '$102,435,884 (2021)'}}}
+632: {'values_changed': {"root['name']": {'new_value': 'Clark Atlanta University', 'old_value': 'Clark Atlanta University, sorry hahahah theivyblogger.com'}}}
+633: {'values_changed': {"root['name']": {'new_value': 'Clark Atlanta University, sorry hahahah theivyblogger.com', 'old_value': 'Clark Atlanta University'}}}
+638: {'values_changed': {"root['president']": {'new_value': 'George T. French Jr.   | vice-president         =', 'old_value': 'George T. French Jr.  | vice-president         ='}}}

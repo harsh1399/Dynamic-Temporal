@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'High Point University', "root['image_name']": 'Hpu seal lg79.jpg', "root['endowment']": 'US$42 million', "root['president']": 'Nido Qubein', "root['calendar']": 'Semester', "root['faculty']": '879', "root['students']": '4,500', "root['undergrad']": '4,200', "root['postgrad']": '319', "root['campus']": 'Suburban 380 acres', "root['athletics']": 'NCAA Division I – Big South', "root['sports']": '16 varsity sports', "root['former_names']": 'High Point College  (1924–1991)', "root['affiliations']": 'IAMSCU, NAICU'}}
+80: {'values_changed': {"root['image_name']": {'new_value': 'Hpu seal lg79.jpg', 'old_value': 'High Point University seal.png'}, "root['endowment']": {'new_value': 'US$42 million', 'old_value': '$42 million'}}}
+82: {'values_changed': {"root['former_names']": {'new_value': 'High Point College  (1924–1991)', 'old_value': 'High Point College '}}}
+102: {'dictionary_item_added': {"root['calendar']": 'Semester'}, 'values_changed': {"root['endowment']": {'new_value': '$42 million', 'old_value': '$65 million'}, "root['students']": {'new_value': '4,500', 'old_value': '5,200'}, "root['undergrad']": {'new_value': '4,200', 'old_value': '4,500'}}}
+139: {'values_changed': {"root['endowment']": {'new_value': '$65 million', 'old_value': '$60.8 million  (2018)'}}}
+147: {'dictionary_item_removed': {"root['provost']": 'Dennis Carroll'}}
+148: {'dictionary_item_added': {"root['sports']": '16 varsity sports'}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – Big South', 'old_value': 'NCAA Division I – Big South Conference'}}}
+149: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church'}}
+161: {'values_changed': {"root['endowment']": {'new_value': '$60.8 million  (2018)', 'old_value': '$64.8 million  (2019)'}}}
+172: {'values_changed': {"root['endowment']": {'new_value': '$64.8 million  (2019)', 'old_value': '$64.8 million (2019)'}}}
+185: {'values_changed': {"root['endowment']": {'new_value': '$64.8 million (2019)', 'old_value': '$76.2 million (2020)'}}}
+189: {'values_changed': {"root['campus']": {'new_value': 'Suburban 380 acres', 'old_value': 'Suburban 430 acres'}}}
+198: {'values_changed': {"root['provost']": {'new_value': 'Dennis Carroll', 'old_value': 'Dr. Daniel Erb (appointed 2021)'}}}
+200: {'values_changed': {"root['faculty']": {'new_value': '879', 'old_value': '323'}, "root['undergrad']": {'new_value': '4,500', 'old_value': '5,850'}, "root['campus']": {'new_value': 'Suburban 430 acres', 'old_value': 'Suburban 500 acres'}}}
+201: {'values_changed': {"root['students']": {'new_value': '5,200', 'old_value': '5,850'}, "root['undergrad']": {'new_value': '5,850', 'old_value': '4,500'}}}
+206: {'dictionary_item_added': {"root['image_name']": 'High Point University seal.png', "root['athletics']": 'NCAA Division I – Big South Conference', "root['affiliations']": 'IAMSCU, NAICU'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – Big South Conference', "root['academic_affiliations']": 'IAMSCU, NAICU'}, 'values_changed': {"root['provost']": {'new_value': 'Dr. Daniel Erb (appointed 2021)', 'old_value': 'Daniel Erb (appointed 2021)'}, "root['campus']": {'new_value': 'Suburban 500 acres', 'old_value': 'Suburban, '}, "root['former_names']": {'new_value': 'High Point College ', 'old_value': 'High Point College (1924–1991)'}}}
+207: {'values_changed': {"root['academic_affiliations']": {'new_value': 'IAMSCU, NAICU', 'old_value': 'IAMSCU NAICU'}}}

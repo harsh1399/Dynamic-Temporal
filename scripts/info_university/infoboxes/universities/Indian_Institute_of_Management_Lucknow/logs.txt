@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indian Institute of Management Lucknow', "root['chairman']": 'Jamshed Jiji Irani', "root['director']": 'Ajit Prasad', "root['students']": '1100', "root['postgrad']": '825', "root['doctoral']": '65', "root['other']": '210 (executive education, part-time)', "root['campus']": 'Urban, ', "root['coor']": '56|14.55|N|80|53|57.74|E|region:IN_type:edu|displ'}}
+3: {'values_changed': {"root['chairman']": {'new_value': 'Jamshed Jiji Irani', 'old_value': 'Natarajan Chandrasekaran'}}}
+4: {'values_changed': {"root['chairman']": {'new_value': 'Natarajan Chandrasekaran', 'old_value': 'Jamshed Jiji Irani'}}}
+6: {'values_changed': {"root['chairman']": {'new_value': 'Jamshed Jiji Irani', 'old_value': 'Natarajan Chandrasekaran'}}}
+47: {'values_changed': {"root['chairman']": {'new_value': 'Natarajan Chandrasekaran', 'old_value': 'Natarajan Chandrasekaran |'}, "root['director']": {'new_value': 'Ajit Prasad', 'old_value': 'R. K. SRIVASTAVA |'}}}
+48: {'values_changed': {"root['chairman']": {'new_value': 'Natarajan Chandrasekaran |', 'old_value': 'Natarajan Chandrasekaran'}, "root['director']": {'new_value': 'R. K. SRIVASTAVA |', 'old_value': 'Ajit Prasad'}}}
+49: {'values_changed': {"root['chairman']": {'new_value': 'Natarajan Chandrasekaran', 'old_value': 'Natarajan Chandrasekaran |'}, "root['director']": {'new_value': 'Ajit Prasad', 'old_value': 'Ajit Prasad |'}}}
+54: {'values_changed': {"root['director']": {'new_value': 'Ajit Prasad |', 'old_value': 'Rajiv Srivastava |'}}}
+60: {'values_changed': {"root['director']": {'new_value': 'Rajiv Srivastava |', 'old_value': 'Archana Shukla |'}}}
+83: {'dictionary_item_removed': {"root['faculty']": '85'}}
+95: {'dictionary_item_added': {"root['other']": '210 (executive education, part-time)', "root['faculty']": '85'}, 'dictionary_item_removed': {"root['academic_staff']": '97 '}, 'values_changed': {"root['students']": {'new_value': '1100', 'old_value': '1,153'}, "root['postgrad']": {'new_value': '825', 'old_value': '995'}, "root['doctoral']": {'new_value': '65', 'old_value': '158'}}}

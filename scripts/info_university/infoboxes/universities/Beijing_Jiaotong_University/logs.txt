@@ -1,0 +1,16 @@
+3: {'dictionary_item_removed': {"root['name']": 'Beijing Jiaotong University ,  北京交通大学', "root['image_name']": 'Beijing Jiaotong University.png', "root['president']": 'Ning Bin ', "root['undergrad']": '13,800', "root['postgrad']": '7,100', "root['staff']": '1,445', "root['campus']": 'Urban'}}
+23: {'dictionary_item_removed': {"root['district']": 'Haidian'}}
+30: {'values_changed': {"root['undergrad']": {'new_value': '13,800', 'old_value': '14,800'}}}
+57: {'values_changed': {"root['postgrad']": {'new_value': '7,100', 'old_value': '8000'}}}
+74: {'values_changed': {"root['district']": {'new_value': 'Haidian', 'old_value': 'Haidian-海淀'}}}
+79: {'values_changed': {"root['undergrad']": {'new_value': '14,800', 'old_value': '14,650'}}}
+116: {'values_changed': {"root['undergrad']": {'new_value': '14,650', 'old_value': '14620'}, "root['postgrad']": {'new_value': '8000', 'old_value': '8036'}, "root['staff']": {'new_value': '1,445', 'old_value': '2980'}}}
+117: {'values_changed': {"root['staff']": {'new_value': '2980', 'old_value': '2543'}}}
+118: {'values_changed': {"root['staff']": {'new_value': '2543', 'old_value': '2528'}}}
+142: {'dictionary_item_added': {"root['district']": 'Haidian-海淀'}, 'values_changed': {"root['staff']": {'new_value': '2528', 'old_value': '2980'}}}
+151: {'values_changed': {"root['image_name']": {'new_value': 'Beijing Jiaotong University.png', 'old_value': 'Beijing Jiaotong University（bjtu）.png'}, "root['undergrad']": {'new_value': '14620', 'old_value': '20000'}, "root['staff']": {'new_value': '2980', 'old_value': '4500'}}}
+154: {'values_changed': {"root['image_name']": {'new_value': 'Beijing Jiaotong University（bjtu）.png', 'old_value': 'Beijing Jiaotong University.png'}, "root['undergrad']": {'new_value': '20000', 'old_value': '14620'}, "root['staff']": {'new_value': '4500', 'old_value': '2980'}}}
+182: {'values_changed': {"root['president']": {'new_value': 'Ning Bin ', 'old_value': 'Wang JiaQiong '}}}
+183: {'values_changed': {"root['president']": {'new_value': 'Wang JiaQiong ', 'old_value': 'Wang JiaQiong   '}}}
+187: {'values_changed': {"root['president']": {'new_value': 'Wang JiaQiong   ', 'old_value': 'Wang JiaQiong   ('}}}
+195: {'values_changed': {"root['name']": {'new_value': 'Beijing Jiaotong University ,  北京交通大学', 'old_value': 'Beijing Jiaotong University   北京交通大学'}}}

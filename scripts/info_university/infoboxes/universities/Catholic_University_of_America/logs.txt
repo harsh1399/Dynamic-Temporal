@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Catholic University of America', "root['image_name']": 'Catholic University Logo.svg', "root['religious_affiliation']": 'Catholic', "root['academic_affiliations']": 'ACCU, ORAU, CUWMA, NDEA  (International affiliate)', "root['endowment']": '$350.5 million|', "root['chancellor']": 'Wilton D. Gregory', "root['president']": 'John H. Garvey', "root['provost']": 'Aaron Dominguez', "root['students']": '5,956 ', "root['undergrad']": '3,332', "root['postgrad']": '2,624', "root['faculty']": '694', "root['campus']": 'Urban (Residential Zone); 176 acres (71 ha)  '}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$350.5 million|', 'old_value': '$330.18 million   (2017)'}}}
+11: {'values_changed': {"root['academic_affiliations']": {'new_value': 'ACCU, ORAU, CUWMA, NDEA  (International affiliate)', 'old_value': 'ACCU, ORAU, CUWMA, NDEA (international affiliate)'}}}
+12: {'values_changed': {"root['endowment']": {'new_value': '$330.18 million   (2017)', 'old_value': '$330.18 million  (2017)'}, "root['students']": {'new_value': '5,956 ', 'old_value': '5,956'}, "root['campus']": {'new_value': 'Urban (Residential Zone); 176 acres (71 ha)  ', 'old_value': 'Urban (Residential Zone); 176 acres (71 ha)'}}}
+14: {'values_changed': {"root['endowment']": {'new_value': '$330.18 million  (2017)', 'old_value': '$273,685  million'}}}
+16: {'values_changed': {"root['endowment']": {'new_value': '$273,685  million', 'old_value': '$273.685  million'}}}
+31: {'values_changed': {"root['name']": {'new_value': 'Catholic University of America', 'old_value': 'The Catholic University of America'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'The Catholic University of America', 'old_value': 'Catholic University of America'}}}
+108: {'values_changed': {"root['endowment']": {'new_value': '$273.685  million', 'old_value': '$273.685 million (2018)'}}}
+116: {'values_changed': {"root['undergrad']": {'new_value': '3,332', 'old_value': '3,279'}, "root['postgrad']": {'new_value': '2,624', 'old_value': '2,492'}}}
+117: {'values_changed': {"root['faculty']": {'new_value': '694', 'old_value': '793'}}}
+118: {'values_changed': {"root['students']": {'new_value': '5,956', 'old_value': '5,771'}}}
+130: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ACCU', 'ORAU', 'CUWMA', 'NDEA'], 'new_value': 'ACCU, ORAU, CUWMA, NDEA (international affiliate)'}}, 'dictionary_item_added': {"root['image_name']": 'Catholic University Logo.svg'}, 'values_changed': {"root['endowment']": {'new_value': '$273.685 million (2018)', 'old_value': '$276.1 million (2020)'}, "root['chancellor']": {'new_value': 'Wilton D. Gregory', 'old_value': 'Wilton Cardinal Gregory'}, "root['campus']": {'new_value': 'Urban (Residential Zone); 176 acres (71 ha)', 'old_value': 'Urban, '}}}
+136: {'values_changed': {"root['students']": {'new_value': '5,771', 'old_value': '5,366'}, "root['undergrad']": {'new_value': '3,279', 'old_value': '3,055'}, "root['postgrad']": {'new_value': '2,492', 'old_value': '2,311'}, "root['faculty']": {'new_value': '793', 'old_value': '455 Full-Time and 328 Part-Time (Spring 2022)'}}}
+137: {'values_changed': {"root['students']": {'new_value': '5,366', 'old_value': '5,366 (Spring 2022)'}}}
+146: {'values_changed': {"root['chancellor']": {'new_value': 'Wilton Cardinal Gregory', 'old_value': 'Wilton Daniel Gregory'}}}
+147: {'values_changed': {"root['chancellor']": {'new_value': 'Wilton Daniel Gregory', 'old_value': 'Wilton Cardinal Gregory'}}}
+148: {'values_changed': {"root['chancellor']": {'new_value': 'Wilton Cardinal Gregory', 'old_value': 'Cardinal Wilton Daniel Gregory'}}}
+180: {'values_changed': {"root['president']": {'new_value': 'John H. Garvey', 'old_value': 'Peter Kilpatrick'}, "root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City, '}}}

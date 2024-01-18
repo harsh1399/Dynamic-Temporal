@@ -1,0 +1,18 @@
+71: {'dictionary_item_removed': {"root['name']": 'Central Michigan University', "root['image_name']": 'Central-Michigan-University-seal.svg', "root['endowment']": '$130 million (2016)', "root['president']": 'George E. Ross | vic', "root['students']": '28,389', "root['undergrad']": '21,698', "root['postgrad']": '6,613', "root['faculty']": '1017  http://www.cmich.edu/about/institutional_profile/Pages/default.aspx', "root['staff']": '1441', "root['athletics']": 'NCAA Division I – MAC', "root['affiliations']": 'AASCU, APLU'}}
+103: {'dictionary_item_added': {"root['affiliations']": 'AASCU, APLU'}, 'values_changed': {"root['faculty']": {'new_value': '1017  http://www.cmich.edu/about/institutional_profile/Pages/default.aspx', 'old_value': '1017 http://www.cmich.edu/about/institutional_profile/Pages/default.aspx'}}}
+134: {'values_changed': {"root['president']": {'new_value': 'George E. Ross | vic', 'old_value': 'Robert Davies | vic'}}}
+135: {'values_changed': {"root['president']": {'new_value': 'Robert Davies | vic', 'old_value': 'George E. Ross | vic'}}}
+138: {'values_changed': {"root['president']": {'new_value': 'George E. Ross | vic', 'old_value': 'Michael Gealt (interim) | vic'}}}
+141: {'values_changed': {"root['faculty']": {'new_value': '1017 http://www.cmich.edu/about/institutional_profile/Pages/default.aspx', 'old_value': '1017 '}}}
+142: {'dictionary_item_added': {"root['undergrad']": '21,698', "root['postgrad']": '6,613'}, 'values_changed': {"root['president']": {'new_value': 'Michael Gealt (interim) | vic', 'old_value': 'Robert O. Davies | vic'}, "root['students']": {'new_value': '28,389', 'old_value': '23,335'}}}
+151: {'values_changed': {"root['president']": {'new_value': 'Robert O. Davies | vic', 'old_value': 'Robert | vic'}}}
+152: {'values_changed': {"root['president']": {'new_value': 'Robert | vic', 'old_value': 'Robert O. Davies | vic'}}}
+153: {'values_changed': {"root['president']": {'new_value': 'Robert O. Davies | vic', 'old_value': 'Sucks O. Lot | vic'}}}
+154: {'values_changed': {"root['president']": {'new_value': 'Sucks O. Lot | vic', 'old_value': 'Robert O. Davies | vic'}}}
+155: {'dictionary_item_removed': {"root['undergrad']": '16,432', "root['postgrad']": '5,273'}, 'values_changed': {"root['endowment']": {'new_value': '$130 million (2016)', 'old_value': '$156.4 million (2019)'}, "root['students']": {'new_value': '23,335', 'old_value': '21,705'}}}
+164: {'values_changed': {"root['president']": {'new_value': 'Robert O. Davies | vic', 'old_value': 'Robert O. Davies'}}}
+177: {'values_changed': {"root['endowment']": {'new_value': '$156.4 million (2019)', 'old_value': '$189.3 million (2019)'}}}
+203: {'values_changed': {"root['endowment']": {'new_value': '$189.3 million (2019)', 'old_value': '$187.8 million (2020)'}}}
+212: {'values_changed': {"root['students']": {'new_value': '21,705', 'old_value': '17,344'}, "root['undergrad']": {'new_value': '16,432', 'old_value': '13,048'}, "root['postgrad']": {'new_value': '5,273', 'old_value': '4,296'}}}
+219: {'dictionary_item_added': {"root['staff']": '1441'}, 'dictionary_item_removed': {"root['administrative_staff']": '1441'}}
+220: {'dictionary_item_added': {"root['image_name']": 'Central-Michigan-University-seal.svg', "root['athletics']": 'NCAA Division I – MAC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – MAC'}}

@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wilkes University', "root['endowment']": '$44.6 million', "root['faculty']": '134 Full Time ', "root['president']": 'Joseph E. (Tim) Gilmour, Ph.D', "root['provost']": 'C. Reynold Verret, Ph.D', "root['telephone']": '1-800-WILKES-U', "root['undergrad']": '2,245', "root['postgrad']": '2,254', "root['campus']": '27 acres; Urban', "root['former_names']": 'Bucknell Junior College '}}
+13: {'values_changed': {"root['former_names']": {'new_value': 'Bucknell Junior College ', 'old_value': 'Bucknell Junior College'}}}
+35: {'values_changed': {"root['faculty']": {'new_value': '134 Full Time ', 'old_value': '157 Full Time '}}}
+46: {'dictionary_item_added': {"root['telephone']": '1-800-WILKES-U'}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – MAC Freedom Conference'}, 'values_changed': {"root['president']": {'new_value': 'Joseph E. (Tim) Gilmour, Ph.D', 'old_value': 'Patrick F. Leahy, Ed.D'}, "root['provost']": {'new_value': 'C. Reynold Verret, Ph.D', 'old_value': 'Dr. Anne Skleder'}, "root['campus']": {'new_value': '27 acres; Urban', 'old_value': '35 acres; Urban'}}}
+100: {'values_changed': {"root['president']": {'new_value': 'Patrick F. Leahy, Ed.D', 'old_value': 'Patrick F. Leahy, Ed.D until July 31, 2019, ?Paul S. Adams, Ph.D as of Aug. 1, 2019'}}}
+103: {'values_changed': {"root['president']": {'new_value': 'Patrick F. Leahy, Ed.D until July 31, 2019, ?Paul S. Adams, Ph.D as of Aug. 1, 2019', 'old_value': 'Patrick F. Leahy, Ed.D until July 31, 2019, Paul S. Adams, Ph.D as of Aug. 1, 2019'}}}
+115: {'values_changed': {"root['president']": {'new_value': 'Patrick F. Leahy, Ed.D until July 31, 2019, Paul S. Adams, Ph.D as of Aug. 1, 2019', 'old_value': 'Patrick F. Leahy, EdD until July 31, 2019, Paul S. Adams, PhD as of Aug. 1, 2019'}, "root['provost']": {'new_value': 'Dr. Anne Skleder', 'old_value': 'Anne A. Skleder, PhD.'}}}
+116: {'values_changed': {"root['provost']": {'new_value': 'Anne A. Skleder, PhD.', 'old_value': 'Anne A. Skleder, PhD'}}}
+160: {'values_changed': {"root['provost']": {'new_value': 'Anne A. Skleder, PhD', 'old_value': 'Anne A. Skleder, PhD until July 31, 2019'}}}
+163: {'values_changed': {"root['president']": {'new_value': 'Patrick F. Leahy, EdD until July 31, 2019, Paul S. Adams, PhD as of Aug. 1, 2019', 'old_value': 'Paul S. Adams, PhD'}}}
+164: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD', 'old_value': 'Paul S. Adams, PhD (Interim)'}}}
+165: {'values_changed': {"root['provost']": {'new_value': 'Anne A. Skleder, PhD until July 31, 2019', 'old_value': 'Terese Wignot, PhD (Interim)'}}}
+182: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD (Interim)', 'old_value': 'Paul S. Adams, PhD (Interim)                = Greg Cant, PhD (as of 06/15/20)'}}}
+183: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD (Interim)                = Greg Cant, PhD (as of 06/15/20)', 'old_value': 'Paul S. Adams, PhD (Interim)  , Greg Cant, PhD (as of 06/15/20)'}}}
+184: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD (Interim)  , Greg Cant, PhD (as of 06/15/20)', 'old_value': 'Paul S. Adams, PhD (Interim) / Greg Cant, PhD (as of 06/15/20)'}}}
+201: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD (Interim) / Greg Cant, PhD (as of 06/15/20)', 'old_value': 'Paul S. Adams, PhD (interim)'}, "root['provost']": {'new_value': 'Terese Wignot, PhD (Interim)', 'old_value': 'Terese Wignot, PhD (interim)'}}}
+207: {'values_changed': {"root['president']": {'new_value': 'Paul S. Adams, PhD (interim)', 'old_value': 'Alan Gregory "Greg" Cant, PhD'}}}
+208: {'values_changed': {"root['president']": {'new_value': 'Alan Gregory "Greg" Cant, PhD', 'old_value': 'Alan Gregory Cant, PhD'}}}
+211: {'values_changed': {"root['endowment']": {'new_value': '$44.6 million', 'old_value': '$54.0 million (2019)'}, "root['president']": {'new_value': 'Alan Gregory Cant, PhD', 'old_value': 'Alan Gregory Cant'}, "root['provost']": {'new_value': 'Terese Wignot, PhD (interim)', 'old_value': 'Terese Wignot (interim)'}}}
+217: {'values_changed': {"root['provost']": {'new_value': 'Terese Wignot (interim)', 'old_value': 'David M. Ward'}}}
+218: {'values_changed': {"root['former_names']": {'new_value': 'Bucknell Junior College', 'old_value': 'Bucknell Junior College, Wilkes College'}}}
+220: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – MAC Freedom Conference'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – MAC Freedom Conference'}, 'values_changed': {"root['campus']": {'new_value': '35 acres; Urban', 'old_value': 'Urban, '}, "root['faculty']": {'new_value': '157 Full Time ', 'old_value': '157 full time '}}}
+230: {'values_changed': {"root['provost']": {'new_value': 'David M. Ward', 'old_value': "David M. Ward | board chair = William R. Miller, '81"}}}
+232: {'dictionary_item_removed': {"root['chair']": 'William R. Miller'}, 'values_changed': {"root['provost']": {'new_value': "David M. Ward | board chair = William R. Miller, '81", 'old_value': 'David M. Ward'}}}
+245: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban, Small City, '}}}
+247: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Beacon''"}}
+249: {'values_changed': {"root['former_names']": {'new_value': 'Bucknell Junior College, Wilkes College', 'old_value': 'Bucknell Junior College  Wilkes College'}}}
+283: {'dictionary_item_removed': {"root['free_label3']": 'Annual', "root['free3']": "''Amnicola''"}}

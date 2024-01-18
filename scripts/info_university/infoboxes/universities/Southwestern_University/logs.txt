@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Southwestern University', "root['calendar']": 'Semester', "root['president']": 'Edward Burger', "root['provost']": 'James Hunt', "root['undergrad']": '1,536', "root['endowment']": '$252.95 million', "root['staff']": '317', "root['faculty']": '386', "root['campus']": 'Suburban, 700 acres (2.8 km²)', "root['athletics']": 'NCAA Division III – SCAC'}}
+21: {'dictionary_item_added': {"root['provost']": 'James Hunt'}, 'dictionary_item_removed': {"root['dean']": 'Alisa Gaunder'}}
+42: {'dictionary_item_added': {"root['calendar']": 'Semester'}, 'values_changed': {"root['president']": {'new_value': 'Edward Burger', 'old_value': 'Edward B. Burger'}}}
+43: {'values_changed': {"root['endowment']": {'new_value': '$252.95 million', 'old_value': '$239.943 million'}}}
+44: {'values_changed': {"root['undergrad']": {'new_value': '1,536', 'old_value': '1,515 '}}}
+57: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 700 acres (2.8 km²)', 'old_value': 'Rural, 700 acres (2.8 km²)'}}}
+73: {'dictionary_item_removed': {"root['religious_affiliation']": 'Methodist'}, 'values_changed': {"root['president']": {'new_value': 'Edward B. Burger', 'old_value': 'Dale T. Knobel (interim)'}, "root['campus']": {'new_value': 'Rural, 700 acres (2.8 km²)', 'old_value': 'Rural 700 acres (2.8 km²)'}}}
+87: {'values_changed': {"root['campus']": {'new_value': 'Rural 700 acres (2.8 km²)', 'old_value': 'Suburban 700 acres (2.8 km²)'}}}
+94: {'values_changed': {"root['endowment']": {'new_value': '$239.943 million', 'old_value': '$296.4 million (2019)'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'Dale T. Knobel (interim)', 'old_value': 'Laura Skandera Trombley'}}}
+105: {'values_changed': {"root['endowment']": {'new_value': '$296.4 million (2019)', 'old_value': '$289.4 million (2020)'}}}
+115: {'dictionary_item_added': {"root['staff']": '317'}, 'dictionary_item_removed': {"root['administrative_staff']": '317'}}

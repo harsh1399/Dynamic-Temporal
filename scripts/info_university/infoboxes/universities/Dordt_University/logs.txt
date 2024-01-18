@@ -1,0 +1,15 @@
+36: {'dictionary_item_removed': {"root['name']": 'Dordt College', "root['image_name']": 'DordtCollege.logo.svg', "root['president']": 'Dr. Carl Zylstra', "root['endowment']": 'US $25 million', "root['faculty']": '78 Full Time', "root['students']": '1,300', "root['campus']": 'rural,  ', "root['former_names']": 'Midwest Christian Junior College (1955)', "root['athletics']": '13 Varsity Teams, NAIA Region III, GPAC', "root['affiliations']": 'CCCU'}}
+41: {'values_changed': {"root['campus']": {'new_value': 'rural,  ', 'old_value': 'urban,  '}}}
+42: {'values_changed': {"root['campus']": {'new_value': 'urban,  ', 'old_value': 'rural '}}}
+55: {'values_changed': {"root['president']": {'new_value': 'Dr. Carl Zylstra', 'old_value': 'Dr. Erik Hoekstra'}, "root['athletics']": {'new_value': '13 Varsity Teams, NAIA Region III, GPAC', 'old_value': '13 Varsity Teams, NAIA Division II, GPAC'}}}
+68: {'values_changed': {"root['image_name']": {'new_value': 'DordtCollege.logo.svg', 'old_value': 'DordtCollegeSeal.png'}}}
+71: {'values_changed': {"root['faculty']": {'new_value': '78 Full Time', 'old_value': '80 Full Time'}, "root['students']": {'new_value': '1,300', 'old_value': '1,450'}}}
+78: {'values_changed': {"root['endowment']": {'new_value': 'US $25 million', 'old_value': 'US $35.7 million (2015) '}, "root['students']": {'new_value': '1,450', 'old_value': '1,539'}, "root['affiliations']": {'new_value': 'CCCU', 'old_value': 'CCCU  '}}}
+79: {'values_changed': {"root['affiliations']": {'new_value': 'CCCU  ', 'old_value': 'CCCU '}}}
+81: {'values_changed': {"root['students']": {'new_value': '1,539', 'old_value': '1,449'}}}
+82: {'values_changed': {"root['students']": {'new_value': '1,449', 'old_value': '1,539'}}}
+89: {'values_changed': {"root['name']": {'new_value': 'Dordt College', 'old_value': 'Dordt University'}}}
+94: {'values_changed': {"root['athletics']": {'new_value': '13 Varsity Teams, NAIA Division II, GPAC', 'old_value': '13 Varsity Teams, NAIA, GPAC'}}}
+95: {'values_changed': {"root['former_names']": {'new_value': 'Midwest Christian Junior College (1955)', 'old_value': 'Midwest Christian Junior College (1955), Dordt College'}}}
+96: {'values_changed': {"root['campus']": {'new_value': 'rural ', 'old_value': 'Rural '}}}
+111: {'values_changed': {"root['athletics']": {'new_value': '13 Varsity Teams, NAIA, GPAC', 'old_value': 'NAIA – GPAC'}}}

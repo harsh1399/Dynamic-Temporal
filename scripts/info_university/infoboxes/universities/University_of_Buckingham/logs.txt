@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Buckingham', "root['image_name']": 'University of buckingham.jpg', "root['staff']": '89', "root['chancellor']": 'Lord Tanlaw', "root['vice_chancellor']": 'Dr Terence Kealey', "root['students']": '1308 ', "root['undergrad']": '856', "root['postgrad']": '452'}}
+36: {'values_changed': {"root['name']": {'new_value': 'University of Buckingham', 'old_value': 'The University of Buckingham'}}}
+89: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr Terence Kealey', 'old_value': 'Terence Kealey'}}}
+115: {'values_changed': {"root['staff']": {'new_value': '89', 'old_value': '97 academic, 103 support'}, "root['students']": {'new_value': '1308 ', 'old_value': '1507 '}, "root['undergrad']": {'new_value': '856', 'old_value': '1017'}, "root['postgrad']": {'new_value': '452', 'old_value': '490'}}}
+193: {'values_changed': {"root['chancellor']": {'new_value': 'Lord Tanlaw', 'old_value': 'march2014'}}}
+194: {'values_changed': {"root['chancellor']": {'new_value': 'march2014', 'old_value': 'march 2014'}}}
+195: {'values_changed': {"root['chancellor']": {'new_value': 'march 2014', 'old_value': 'due march 2014'}}}
+196: {'dictionary_item_added': {"root['vice_chancellor']": 'Terence Kealey'}, 'values_changed': {"root['name']": {'new_value': 'The University of Buckingham', 'old_value': 'Santandar Universities UK    The University of Buckingham'}}}
+197: {'dictionary_item_added': {"root['chancellor']": 'due march 2014'}, 'dictionary_item_removed': {"root['vice_chancellor']": 'Terence Kealey'}, 'values_changed': {"root['name']": {'new_value': 'Santandar Universities UK    The University of Buckingham', 'old_value': 'University of Buckingham'}, "root['image_name']": {'new_value': 'University of buckingham.jpg', 'old_value': 'University of Buckingham logo.png'}}}
+198: {'values_changed': {"root['name']": {'new_value': 'University of Buckingham', 'old_value': 'Santanders Universities UK , University of Buckingham'}}}
+207: {'values_changed': {"root['name']": {'new_value': 'Santanders Universities UK , University of Buckingham', 'old_value': 'University of Buckingham'}}}
+211: {'dictionary_item_removed': {"root['coor']": 'campus'}, 'values_changed': {"root['image_name']": {'new_value': 'University of Buckingham logo.png', 'old_value': 'image_size      ='}}}
+212: {'dictionary_item_added': {"root['coor']": 'campus'}, 'values_changed': {"root['image_name']": {'new_value': 'image_size      =', 'old_value': 'University of Buckingham logo.png'}}}
+241: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Terence Kealey', 'old_value': 'Alistair Alcock (acting)'}}}
+250: {'dictionary_item_removed': {"root['chancellor']": 'Tessa Keswick'}}

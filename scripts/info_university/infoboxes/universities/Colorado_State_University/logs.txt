@@ -1,0 +1,48 @@
+82: {'dictionary_item_removed': {"root['name']": 'Colorado State University', "root['president']": 'Dr. Tony Frank, Interim', "root['students']": '25,011 |    faculty'}}
+94: {'values_changed': {"root['president']": {'new_value': 'Dr. Tony Frank, Interim', 'old_value': 'Dr. Tony Frank'}}}
+95: {'values_changed': {"root['students']": {'new_value': '25,011 |    faculty', 'old_value': '33,280 |    faculty'}}}
+105: {'values_changed': {"root['students']": {'new_value': '33,280 |    faculty', 'old_value': '25,011 |'}}}
+110: {'values_changed': {"root['students']": {'new_value': '25,011 |', 'old_value': '33,011 |'}}}
+113: {'values_changed': {"root['students']": {'new_value': '33,011 |', 'old_value': '25,011 |'}}}
+167: {'dictionary_item_removed': {"root['endowment']": 'US $284.4 million', "root['campus']": 'Urban', "root['academic_affiliations']": 'APLU', "root['former_names']": 'Colorado Agricultural College  (1870–1935)  Colorado State College of Agriculture and Mechanic Arts  (1935–1957)', "root['chancellor']": 'Tony Frank', "root['undergrad']": '25,622 (Fall 2015)', "root['postgrad']": '7,458 (Fall 2015)', "root['faculty']": '1,468', "root['staff']": '4,379'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Tony Frank', 'old_value': 'Tony Frank'}, "root['students']": {'new_value': '25,011 |', 'old_value': '33,198 (Fall 2016)'}}}
+171: {'values_changed': {"root['endowment']": {'new_value': 'US $284.4 million', 'old_value': '$286.3 million (2016)'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Colorado State University', 'old_value': 'Colorado State College'}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Colorado State College', 'old_value': 'Colorado State University'}}}
+187: {'values_changed': {"root['academic_affiliations']": {'new_value': 'APLU', 'old_value': 'APLU  URA'}}}
+190: {'values_changed': {"root['students']": {'new_value': '33,198 (Fall 2016)', 'old_value': '37,198 (Fall 2017)'}, "root['undergrad']": {'new_value': '25,622 (Fall 2015)', 'old_value': '29,622 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,458 (Fall 2015)', 'old_value': '7,458 (Fall 2017)'}}}
+192: {'values_changed': {"root['students']": {'new_value': '37,198 (Fall 2017)', 'old_value': '37,080 (Fall 2017)'}}}
+201: {'values_changed': {"root['students']": {'new_value': '37,080 (Fall 2017)', 'old_value': '33,058 (Fall 2017)'}, "root['undergrad']": {'new_value': '29,622 (Fall 2017)', 'old_value': '25,688 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,458 (Fall 2017)', 'old_value': '7,370 (Fall 2017)'}}}
+203: {'values_changed': {"root['students']": {'new_value': '33,058 (Fall 2017)', 'old_value': '37,080 (Fall 2017)'}, "root['undergrad']": {'new_value': '25,688 (Fall 2017)', 'old_value': '29,622 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,370 (Fall 2017)', 'old_value': '7,458 (Fall 2017)'}}}
+204: {'values_changed': {"root['students']": {'new_value': '37,080 (Fall 2017)', 'old_value': '33,058 (Fall 2017)'}, "root['undergrad']": {'new_value': '29,622 (Fall 2017)', 'old_value': '25,688 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,458 (Fall 2017)', 'old_value': '7,370 (Fall 2017)'}}}
+208: {'values_changed': {"root['students']": {'new_value': '33,058 (Fall 2017)', 'old_value': '43,058 (Fall 2017)'}, "root['undergrad']": {'new_value': '25,688 (Fall 2017)', 'old_value': '33,688 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,370 (Fall 2017)', 'old_value': '10,370 (Fall 2017)'}}}
+212: {'values_changed': {"root['students']": {'new_value': '43,058 (Fall 2017)', 'old_value': '33,058 (Fall 2017)'}, "root['undergrad']": {'new_value': '33,688 (Fall 2017)', 'old_value': '25,688 (Fall 2017)'}, "root['postgrad']": {'new_value': '10,370 (Fall 2017)', 'old_value': '7,370 (Fall 2017)'}}}
+215: {'values_changed': {"root['endowment']": {'new_value': '$286.3 million (2016)', 'old_value': "They're broke (2016)"}}}
+218: {'values_changed': {"root['endowment']": {'new_value': "They're broke (2016)", 'old_value': '$286.3 million (2016)'}}}
+224: {'values_changed': {"root['endowment']": {'new_value': '$286.3 million (2016)', 'old_value': '$330.2 million (2017)'}, "root['students']": {'new_value': '33,058 (Fall 2017)', 'old_value': '33,877 (Fall 2018)'}}}
+236: {'values_changed': {"root['endowment']": {'new_value': '$330.2 million (2017)', 'old_value': '$355.9 million (2018)'}}}
+252: {'values_changed': {"root['president']": {'new_value': 'Tony Frank', 'old_value': 'Joyce McConnell'}}}
+254: {'values_changed': {"root['students']": {'new_value': '33,877 (Fall 2018)', 'old_value': '33,877 (Fall 2018)  , 28,691 (on-campus), 5,186 (online)'}}}
+270: {'values_changed': {"root['students']": {'new_value': '33,877 (Fall 2018)  , 28,691 (on-campus), 5,186 (online)', 'old_value': '33,877 (Fall 2018)   28,691 (on-campus) 5,186 (online)'}}}
+303: {'values_changed': {"root['endowment']": {'new_value': '$355.9 million (2018)', 'old_value': '$376.0 million (2019)'}, "root['students']": {'new_value': '33,877 (Fall 2018)   28,691 (on-campus) 5,186 (online)', 'old_value': '34,166 (Fall 2019)'}, "root['undergrad']": {'new_value': '25,688 (Fall 2017)', 'old_value': '26,559 (Fall 2019)'}, "root['postgrad']": {'new_value': '7,370 (Fall 2017)', 'old_value': '7,607 (Fall 2019)'}, "root['academic_affiliations']": {'new_value': 'APLU  URA', 'old_value': 'APLU URA Space-grant'}}}
+307: {'values_changed': {"root['endowment']": {'new_value': '$376.0 million (2019)', 'old_value': '$393.1 million (2020)'}}}
+312: {'values_changed': {"root['academic_affiliations']": {'new_value': 'APLU URA Space-grant', 'old_value': 'URA Space-grant'}}}
+313: {'values_changed': {"root['endowment']": {'new_value': '$393.1 million (2020)', 'old_value': '$512 million (2020) As of June 30, 2020.'}}}
+322: {'dictionary_item_added': {"root['staff']": '4,379'}, 'dictionary_item_removed': {"root['administrative_staff']": '4,379'}, 'values_changed': {"root['students']": {'new_value': '34,166 (Fall 2019)', 'old_value': '34,166 (Fall 2019) '}}}
+330: {'values_changed': {"root['endowment']": {'new_value': '$512 million (2020) As of June 30, 2020.', 'old_value': '$393.1 million (2020)  >'}}}
+331: {'values_changed': {"root['endowment']": {'new_value': '$393.1 million (2020)  >', 'old_value': '$393.1 million (2020)'}}}
+352: {'values_changed': {"root['former_names']": {'new_value': 'Colorado Agricultural College  (1870–1935)  Colorado State College of Agriculture and Mechanic Arts  (1935–1957)', 'old_value': 'Colorado Agricultural College  (1870–1935)  Colorado State College of Agriculture and Mechanic Arts (A&M)  (1935–1957)'}}}
+353: {'values_changed': {"root['former_names']": {'new_value': 'Colorado Agricultural College  (1870–1935)  Colorado State College of Agriculture and Mechanic Arts (A&M)  (1935–1957)', 'old_value': 'Colorado Agricultural College (1870–1935) Colorado State College of Agriculture and Mechanic Arts (A&M)'}}}
+356: {'values_changed': {"root['former_names']": {'new_value': 'Colorado Agricultural College (1870–1935) Colorado State College of Agriculture and Mechanic Arts (A&M)', 'old_value': 'Colorado Agricultural College (1870–1935),  Colorado State College of Agriculture and Mechanic Arts (A&M) (1936–1957)'}}}
+357: {'values_changed': {"root['former_names']": {'new_value': 'Colorado Agricultural College (1870–1935),  Colorado State College of Agriculture and Mechanic Arts (A&M) (1936–1957)', 'old_value': 'Colorado Agricultural College (1870–1935),  Colorado State College of Agriculture and Mechanic Arts (A&M) (1935–1957)'}}}
+362: {'values_changed': {"root['former_names']": {'new_value': 'Colorado Agricultural College (1870–1935),  Colorado State College of Agriculture and Mechanic Arts (A&M) (1935–1957)', 'old_value': 'Colorado Agricultural College (1870–1935)  Colorado State College of Agriculture and Mechanic Arts (A&M) (1935–1957)'}, "root['students']": {'new_value': '34,166 (Fall 2019) ', 'old_value': '34,166 (fall 2019) '}, "root['undergrad']": {'new_value': '26,559 (Fall 2019)', 'old_value': '26,559 (fall 2019)'}, "root['postgrad']": {'new_value': '7,607 (Fall 2019)', 'old_value': '7,607 (fall 2019)'}}}
+375: {'values_changed': {"root['endowment']": {'new_value': '$393.1 million (2020)', 'old_value': '$558 million (2021)'}}}
+376: {'values_changed': {"root['president']": {'new_value': 'Joyce McConnell', 'old_value': 'Joyce E. McConnell'}}}
+379: {'values_changed': {"root['president']": {'new_value': 'Joyce E. McConnell', 'old_value': 'Guy Cersaoli'}}}
+380: {'values_changed': {"root['president']": {'new_value': 'Guy Cersaoli', 'old_value': 'Joyce E. McConnell'}}}
+392: {'values_changed': {"root['president']": {'new_value': 'Joyce E. McConnell', 'old_value': 'Joyce E. McConnell access-date=October 24, 2019}'}}}
+404: {'values_changed': {"root['president']": {'new_value': 'Joyce E. McConnell access-date=October 24, 2019}', 'old_value': 'Rick Miranda (interim)'}}}
+425: {'values_changed': {"root['chancellor']": {'new_value': 'Tony Frank', 'old_value': 'Anthony A. Frank'}}}
+426: {'values_changed': {"root['president']": {'new_value': 'Rick Miranda (interim)', 'old_value': 'Bentley Bowell (interim)'}}}
+427: {'values_changed': {"root['president']": {'new_value': 'Bentley Bowell (interim)', 'old_value': 'Rick Miranda (interim)'}}}
+442: {'values_changed': {"root['president']": {'new_value': 'Rick Miranda (interim)', 'old_value': 'Amy Parsons'}}}
+443: {'values_changed': {"root['students']": {'new_value': '34,166 (fall 2019) ', 'old_value': '27,956 (fall 2022) '}}}

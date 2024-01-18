@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Chatham College', "root['president']": 'Esther Barazzone, Ph.D.'}}
+9: {'values_changed': {"root['name']": {'new_value': 'Chatham College', 'old_value': 'Chatham University'}}}
+34: {'dictionary_item_removed': {"root['endowment']": '$53.0 million'}, 'values_changed': {"root['president']": {'new_value': 'Esther Barazzone, Ph.D.', 'old_value': 'Esther L. Barazzone'}}}
+79: {'dictionary_item_removed': {"root['students']": '2,300 (approx.)', "root['former_names']": 'Pennsylvania Female College, Pennsylvania College for Women', "root['athletics']": 'NCAA Division III – PAC'}}
+81: {'dictionary_item_removed': {"root['affiliations']": 'Annapolis Group'}}
+83: {'values_changed': {"root['former_names']": {'new_value': 'Pennsylvania Female College, Pennsylvania College for Women', 'old_value': 'Pennsylvania Female College, Pennsylvania College for Women, Chatham College'}}}
+84: {'values_changed': {"root['president']": {'new_value': 'Esther L. Barazzone', 'old_value': 'Esther L. Barazzone, compensation $1,812,12 rank 5th among Pennsylvania private university presidents in 2012'}}}
+85: {'values_changed': {"root['president']": {'new_value': 'Esther L. Barazzone, compensation $1,812,12 rank 5th among Pennsylvania private university presidents in 2012', 'old_value': 'David Finegold, DPHIL'}}}
+109: {'values_changed': {"root['former_names']": {'new_value': 'Pennsylvania Female College, Pennsylvania College for Women, Chatham College', 'old_value': 'Pennsylvania Female College (1869–1890), Pennsylvania College for Women (1890–1955), Chatham College (1955–2007)'}}}
+128: {'values_changed': {"root['endowment']": {'new_value': '$53.0 million', 'old_value': '$94.2 million (2019)'}}}
+140: {'values_changed': {"root['endowment']": {'new_value': '$94.2 million (2019)', 'old_value': '$95.4 million (2020)'}}}
+143: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – PAC', "root['affiliations']": 'Annapolis Group'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – PAC'}}

@@ -1,0 +1,36 @@
+14: {'dictionary_item_removed': {"root['ARWU_NU']": '68-85', "root['ARWU_W']": '155', "root['QS_W']": '319', "root['USNWR_NU']": '101', "root['THES_W']": '183', "root['Wamo_NU']": '42', "root['Forbes']": '232 '}}
+116: {'dictionary_item_added': {"root['ARWU_NU']": '68-85', "root['ARWU_W']": '155', "root['QS_W']": '319', "root['USNWR_NU']": '101', "root['THES_W']": '183', "root['Wamo_NU']": '42', "root['Forbes']": '232 '}, 'dictionary_item_removed': {"root['name']": 'Iowa State University, of Science and Technology', "root['president']": 'Steven Leath', "root['students']": '36,660 (Fall 2016) ', "root['undergrad']": '30,671 (Fall 2016)', "root['postgrad']": '5,096 (Fall 2016)', "root['other']": '893 (Fall 2016)', "root['faculty']": '1,845', "root['endowment']": '$786.2 million (2015)', "root['campus']": 'Urban, ', "root['former_names']": 'Iowa Agricultural College and Model Farm (1858–1898), Iowa State College of Agriculture and Mechanic Arts (1898–1959)', "root['academic_affiliations']": 'Association of American Universities, Universities Research Association'}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$786.2 million (2015)', 'old_value': '$1.3 billion (2016)'}}}
+126: {'values_changed': {"root['endowment']": {'new_value': '$1.3 billion (2016)', 'old_value': '$786.2 million (2015)'}}}
+221: {'values_changed': {"root['endowment']": {'new_value': '$786.2 million (2015)', 'old_value': '$760.4 million (2016)'}}}
+222: {'values_changed': {"root['president']": {'new_value': 'Steven Leath', 'old_value': 'Andrew Miller'}}}
+223: {'values_changed': {"root['president']": {'new_value': 'Andrew Miller', 'old_value': 'Steven Leath'}}}
+236: {'values_changed': {"root['president']": {'new_value': 'Steven Leath', 'old_value': 'Vacant'}}}
+269: {'values_changed': {"root['president']": {'new_value': 'Vacant', 'old_value': 'Interim Pres. Ben Allen ||'}, "root['students']": {'new_value': '36,660 (Fall 2016) ', 'old_value': '36,321  (the second largest in school history) (Fall 2017) '}, "root['undergrad']": {'new_value': '30,671 (Fall 2016)', 'old_value': '30,406 (Fall 2017)'}, "root['postgrad']": {'new_value': '5,096 (Fall 2016)', 'old_value': '4,991 (Fall 2017)'}, "root['other']": {'new_value': '893 (Fall 2016)', 'old_value': '596 (Fall 2017)'}, "root['faculty']": {'new_value': '1,845', 'old_value': '1,845 (2016) - Unknown (2017)'}, "root['endowment']": {'new_value': '$760.4 million (2016)', 'old_value': '$758.56 million (2017)'}}}
+273: {'values_changed': {"root['students']": {'new_value': '36,321  (the second largest in school history) (Fall 2017) ', 'old_value': '36,321 (fall 2017) '}}}
+274: {'values_changed': {"root['faculty']": {'new_value': '1,845 (2016) - Unknown (2017)', 'old_value': '1,845 (2016)'}}}
+275: {'values_changed': {"root['president']": {'new_value': 'Interim Pres. Ben Allen ||', 'old_value': 'Ben Allen (interim) ||'}}}
+279: {'values_changed': {"root['endowment']": {'new_value': '$758.56 million (2017)', 'old_value': '$837.5 million (2017)'}}}
+280: {'values_changed': {"root['president']": {'new_value': 'Ben Allen (interim) ||', 'old_value': 'Joel Lanning ||'}}}
+281: {'values_changed': {"root['president']": {'new_value': 'Joel Lanning ||', 'old_value': 'Ben Allen (interim) ||'}}}
+288: {'values_changed': {"root['president']": {'new_value': 'Ben Allen (interim) ||', 'old_value': 'Wendy Wintersteen'}}}
+289: {'values_changed': {"root['president']": {'new_value': 'Wendy Wintersteen', 'old_value': 'Ben Allen (interim) ||'}}}
+292: {'values_changed': {"root['endowment']": {'new_value': '$837.5 million (2017)', 'old_value': '$760.5 million (2016)'}}}
+299: {'values_changed': {"root['president']": {'new_value': 'Ben Allen (interim) ||', 'old_value': 'Wendy Wintersteen'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'Iowa State University, of Science and Technology', 'old_value': 'Iowa State  hate trump'}, "root['faculty']": {'new_value': '1,845 (2016)', 'old_value': '9999 (2017)'}}}
+303: {'values_changed': {"root['name']": {'new_value': 'Iowa State  hate trump', 'old_value': 'Iowa State'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'Iowa State', 'old_value': 'Iowa State University, of Science and Technology'}, "root['faculty']": {'new_value': '9999 (2017)', 'old_value': '1,845 (2016)'}}}
+315: {'values_changed': {"root['president']": {'new_value': 'Wendy Wintersteen', 'old_value': 'Ronald McDonald'}}}
+316: {'values_changed': {"root['president']": {'new_value': 'Ronald McDonald', 'old_value': 'Wendy Wintersteen'}}}
+324: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['AAU', 'URA', 'APLU', 'UCAR', 'AAC&U', 'Space-grant'], 'new_value': 'Association of American Universities, Universities Research Association'}}, 'values_changed': {"root['name']": {'new_value': 'Iowa State University, of Science and Technology', 'old_value': 'Iowa State University'}, "root['endowment']": {'new_value': '$760.5 million (2016)', 'old_value': '$1.102 billion (2019)'}, "root['students']": {'new_value': '36,321 (fall 2017) ', 'old_value': '33,391 (Fall 2019) '}, "root['undergrad']": {'new_value': '30,406 (Fall 2017)', 'old_value': '28,294 (Fall 2019)'}, "root['postgrad']": {'new_value': '4,991 (Fall 2017)', 'old_value': '4,498 (Fall 2019)'}, "root['other']": {'new_value': '596 (Fall 2017)', 'old_value': '599 (Fall 2019)'}, "root['former_names']": {'new_value': 'Iowa Agricultural College and Model Farm (1858–1898), Iowa State College of Agriculture and Mechanic Arts (1898–1959)', 'old_value': 'Iowa Agricultural College and Model Farm (1858–1898) Iowa State College of Agriculture and Mechanic Arts (1898–1959)'}}}
+342: {'values_changed': {"root['endowment']": {'new_value': '$1.102 billion (2019)', 'old_value': '$1.10 billion (2020)'}}}
+347: {'iterable_item_added': {"root['academic_affiliations'][2]": 'APLU', "root['academic_affiliations'][4]": 'AAC&U'}}
+351: {'values_changed': {"root['endowment']": {'new_value': '$1.10 billion (2020)', 'old_value': '$19 fortnite card (2020)'}}}
+352: {'values_changed': {"root['endowment']": {'new_value': '$19 fortnite card (2020)', 'old_value': '$1.10 billion (2020)'}}}
+354: {'values_changed': {"root['endowment']": {'new_value': '$1.10 billion (2020)', 'old_value': '$.10 (2020)'}}}
+355: {'values_changed': {"root['endowment']": {'new_value': '$.10 (2020)', 'old_value': '$1.10 billion (2020)'}}}
+380: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'College Town, '}}}
+381: {'values_changed': {"root['campus']": {'new_value': 'College Town, ', 'old_value': 'Urban, '}}}
+388: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Small City  , '}}}
+389: {'values_changed': {"root['campus']": {'new_value': 'Small City  , ', 'old_value': 'Small City,   '}}}
+394: {'values_changed': {"root['endowment']": {'new_value': '$1.10 billion (2020)', 'old_value': '$1.30 billion (2021)'}}}

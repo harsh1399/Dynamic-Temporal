@@ -1,0 +1,16 @@
+8: {'dictionary_item_removed': {"root['name']": 'Buckinghamshire Chilterns University College', "root['image_name']": 'Buckinghamshire Chilterns UC logo.png', "root['head']": 'Dr Ruth Farwell', "root['students']": '9,395 ', "root['undergrad']": '8,770', "root['postgrad']": '535'}}
+9: {'values_changed': {"root['head']": {'new_value': 'Dr Ruth Farwell', 'old_value': 'Doctor Ruth Farwell'}}}
+40: {'values_changed': {"root['name']": {'new_value': 'Buckinghamshire Chilterns University College', 'old_value': 'Buckinghamshire New University'}}}
+43: {'values_changed': {"root['image_name']": {'new_value': 'Buckinghamshire Chilterns UC logo.png', 'old_value': 'Bucks_corporate_logo_web.jpg'}}}
+76: {'dictionary_item_removed': {"root['other']": '125 FE'}, 'values_changed': {"root['image_name']": {'new_value': 'Bucks_corporate_logo_web.jpg', 'old_value': 'Bucks corporate logo web.jpg'}, "root['students']": {'new_value': '9,395 ', 'old_value': '9,045 '}, "root['undergrad']": {'new_value': '8,770', 'old_value': '8,295'}, "root['postgrad']": {'new_value': '535', 'old_value': '620'}}}
+103: {'values_changed': {"root['image_name']": {'new_value': 'Bucks corporate logo web.jpg', 'old_value': 'N16569887391 417.jpg'}}}
+111: {'values_changed': {"root['image_name']": {'new_value': 'N16569887391 417.jpg', 'old_value': 'Image:Logobcuc.jpg'}}}
+112: {'values_changed': {"root['image_name']": {'new_value': 'Image:Logobcuc.jpg', 'old_value': 'Logobcuc.jpg'}}}
+119: {'dictionary_item_added': {"root['head']": 'Doctor Ruth Farwell'}, 'dictionary_item_removed': {"root['vice_chancellor']": 'Ruth Farwell'}, 'values_changed': {"root['image_name']": {'new_value': 'Logobcuc.jpg', 'old_value': 'Bucks corporate logo web.jpg'}}}
+178: {'values_changed': {"root['undergrad']": {'new_value': '8,295', 'old_value': '8,300'}, "root['other']": {'new_value': '125 FE', 'old_value': '130 FE'}}}
+180: {'values_changed': {"root['undergrad']": {'new_value': '8,300', 'old_value': '8,295'}, "root['other']": {'new_value': '130 FE', 'old_value': '125 FE'}}}
+189: {'dictionary_item_added': {"root['students']": '9,045 ', "root['undergrad']": '8,295', "root['postgrad']": '620'}, 'dictionary_item_removed': {"root['former_names']": 'School of Science and Art (1891) , Wycombe Technical Institute (1920), High Wycombe College of Technology and Art (1961), Buckinghamshire College of Higher Education (1975) , Buckinghamshire Chilterns University College (1999)', "root['affiliations']": 'Million+, GuildHE'}, 'values_changed': {"root['image_name']": {'new_value': 'Bucks corporate logo web.jpg', 'old_value': 'Buckinghamshire New University.jpg'}, "root['vice_chancellor']": {'new_value': 'Ruth Farwell', 'old_value': 'Nick Braisby'}, "root['other']": {'new_value': '125 FE', 'old_value': '125 FE '}}}
+195: {'dictionary_item_removed': {"root['chancellor']": 'Jay Blades'}}
+200: {'values_changed': {"root['chancellor']": {'new_value': 'Jay Blades', 'old_value': 'Jay Blades '}}}
+201: {'values_changed': {"root['image_name']": {'new_value': 'Buckinghamshire New University.jpg', 'old_value': 'Buckinghamshire New University coat of arms.png'}}}
+208: {'values_changed': {"root['image_name']": {'new_value': 'Buckinghamshire New University coat of arms.png', 'old_value': 'Coat of arms of Buckinghamshire New University.svg'}}}

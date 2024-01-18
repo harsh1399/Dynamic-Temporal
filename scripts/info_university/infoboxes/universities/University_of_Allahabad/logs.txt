@@ -1,0 +1,40 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Allahabad', "root['image_name']": 'Allahabad University logo.png', "root['chancellor']": 'Govardhan Mehta', "root['campus']": 'Urban', "root['affiliations']": 'UGC '}}
+8: {'dictionary_item_added': {"root['chancellor']": 'Govardhan Mehta'}, 'dictionary_item_removed': {"root['vice_chancellor']": 'Rajeev Ranjan Tewari'}}
+23: {'values_changed': {"root['name']": {'new_value': 'University of Allahabad', 'old_value': 'the University of Allahabad(also known as Prayag university)'}}}
+24: {'values_changed': {"root['name']": {'new_value': 'the University of Allahabad(also known as Prayag university)', 'old_value': 'the University of Allahabad'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'the University of Allahabad', 'old_value': 'the University of Allahabad(Prayag)'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'the University of Allahabad(Prayag)', 'old_value': 'University of Allahabad'}}}
+36: {'dictionary_item_added': {"root['vice_chancellor']": 'Rajeev Ranjan Tewari'}, 'dictionary_item_removed': {"root['chancellor']": 'Rajeev Ranjan Tewari', "root['visitor']": 'President of India', "root['rector']": 'Governor of Uttar Pradesh'}}
+39: {'dictionary_item_added': {"root['chancellor']": 'Rajeev Ranjan Tewari'}, 'dictionary_item_removed': {"root['vice_chancellor']": 'Rajeev Ranjan Tewari'}}
+42: {'dictionary_item_added': {"root['visitor']": 'President of India'}, 'dictionary_item_removed': {"root['head']": 'President of India'}}
+43: {'values_changed': {"root['affiliations']": {'new_value': 'UGC ', 'old_value': 'UGC AIU ACU NAAC '}}}
+45: {'values_changed': {"root['affiliations']": {'new_value': 'UGC AIU ACU NAAC ', 'old_value': 'UGC AIU  ACU NAAC '}}}
+47: {'dictionary_item_removed': {"root['chancellor']": 'Goverdhan Mehta'}}
+59: {'dictionary_item_removed': {"root['postgrad']": '1320'}}
+62: {'dictionary_item_added': {"root['affiliations']": 'UGC AIU  ACU NAAC '}, 'values_changed': {"root['postgrad']": {'new_value': '1320', 'old_value': '1320  ||'}}}
+64: {'dictionary_item_removed': {"root['affiliations']": 'UGC AIU  ACU NAAC '}, 'values_changed': {"root['postgrad']": {'new_value': '1320  ||', 'old_value': '1320'}}}
+65: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Rajeev Ranjan Tewari', 'old_value': 'Dr. PRASHANT SHUKLA'}}}
+66: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr. PRASHANT SHUKLA', 'old_value': 'Rajeev Ranjan Tewari'}}}
+72: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Rajeev Ranjan Tewari', 'old_value': 'Prof.R.R.Tiwari'}}}
+73: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof.R.R.Tiwari', 'old_value': 'R. R. Tiwari'}}}
+79: {'values_changed': {"root['vice_chancellor']": {'new_value': 'R. R. Tiwari', 'old_value': 'Sonika Shukla'}}}
+80: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sonika Shukla', 'old_value': 'R. R. Tewari'}}}
+100: {'values_changed': {"root['vice_chancellor']": {'new_value': 'R. R. Tewari', 'old_value': 'Sangeeta shrivastava'}}}
+103: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sangeeta shrivastava', 'old_value': 'Prof. Sangeeta Shrivastava'}}}
+104: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof. Sangeeta Shrivastava', 'old_value': 'Sangeeta Shrivastava'}}}
+167: {'dictionary_item_added': {"root['chancellor']": 'Goverdhan Mehta'}, 'dictionary_item_removed': {"root['students']": '1320  '}}
+168: {'dictionary_item_removed': {"root['doctoral']": '588'}, 'values_changed': {"root['students']": {'new_value': '1320  ', 'old_value': '1908  '}}}
+169: {'values_changed': {"root['students']": {'new_value': '1908  ', 'old_value': '1,908  '}, "root['postgrad']": {'new_value': '1320', 'old_value': '1,320'}}}
+170: {'values_changed': {"root['students']": {'new_value': '1,908  ', 'old_value': '10,035  '}, "root['postgrad']": {'new_value': '1,320', 'old_value': '9,447'}}}
+172: {'values_changed': {"root['students']": {'new_value': '10,035  ', 'old_value': '17,727  '}}}
+183: {'dictionary_item_removed': {"root['chancellor']": 'Goverdhan Mehta'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC AIU  ACU NAAC ', 'old_value': 'UGC, AIU, ACU,NAAC '}}}
+185: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, AIU, ACU,NAAC ', 'old_value': 'UGC, AIU, ACU, NAAC '}}}
+198: {'values_changed': {"root['chancellor']": {'new_value': 'Goverdhan Mehta', 'old_value': 'Ashish Chauhan'}}}
+209: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sangeeta Shrivastava', 'old_value': 'Sangita Shrivastava'}}}
+224: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sangita Shrivastava', 'old_value': 'Prof Sangita Shrivastava'}}}
+225: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof Sangita Shrivastava', 'old_value': 'Sangita Shrivastava'}}}
+230: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sangita Shrivastava', 'old_value': 'Sangita Srivastava'}}}
+264: {'values_changed': {"root['students']": {'new_value': '17,727  ', 'old_value': '17,727 '}}}
+271: {'type_changes': {"root['affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UGC', 'AIU', 'ACU', 'NAAC'], 'new_value': 'UGC, AIU, ACU, NAAC '}}}
+273: {'values_changed': {"root['rector']": {'new_value': 'Governor of Uttar Pradesh', 'old_value': 'Governor of Uttar Pradesh  academic_staff = 310'}}}
+274: {'dictionary_item_removed': {"root['academic_staff']": '310'}, 'values_changed': {"root['rector']": {'new_value': 'Governor of Uttar Pradesh  academic_staff = 310', 'old_value': 'Governor of Uttar Pradesh'}}}

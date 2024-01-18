@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Canberra', "root['staff']": '853', "root['chancellor']": 'Prof. John Mackay', "root['vice_chancellor']": 'Prof. Stephen Parker ', "root['students']": '12,223', "root['campus']": 'Urban ', "root['affiliations']": 'ASAIHL, New Generation Universities'}}
+3: {'values_changed': {"root['chancellor']": {'new_value': 'Prof. John Mackay', 'old_value': 'Dr. Tom Calma AO'}}}
+7: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Tom Calma AO', 'old_value': 'Prof. John Mackay'}}}
+8: {'values_changed': {"root['chancellor']": {'new_value': 'Prof. John Mackay', 'old_value': 'Dr. Tom Calma AO'}}}
+9: {'values_changed': {"root['staff']": {'new_value': '853', 'old_value': '1,000'}, "root['students']": {'new_value': '12,223', 'old_value': '13,000'}}}
+43: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Tom Calma AO', 'old_value': 'Dr. Tom Calma, '}, "root['vice_chancellor']": {'new_value': 'Prof. Stephen Parker ', 'old_value': 'Prof. Stephen Parker, '}}}
+53: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Tom Calma, ', 'old_value': 'Tom Calma, '}, "root['vice_chancellor']": {'new_value': 'Prof. Stephen Parker, ', 'old_value': 'Deep Saini'}}}
+75: {'dictionary_item_removed': {"root['colours']": 'Blue'}}
+93: {'values_changed': {"root['students']": {'new_value': '13,000', 'old_value': '16,814'}}}
+102: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Deep Saini', 'old_value': 'Paddy Nixon'}}}
+114: {'values_changed': {"root['chancellor']": {'new_value': 'Tom Calma, ', 'old_value': 'Tom Calma '}}}
+123: {'dictionary_item_added': {"root['staff']": '1,000', "root['affiliations']": 'ASAIHL, New Generation Universities'}, 'dictionary_item_removed': {"root['administrative_staff']": '1,000', "root['academic_affiliations']": 'ASAIHL, New Generation Universities'}, 'values_changed': {"root['campus']": {'new_value': 'Urban ', 'old_value': 'Urban, '}}}

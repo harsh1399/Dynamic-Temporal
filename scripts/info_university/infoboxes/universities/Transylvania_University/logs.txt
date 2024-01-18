@@ -1,0 +1,20 @@
+1: {'dictionary_item_removed': {"root['name']": 'Transylvania University', "root['president']": 'Charles L. Shearer', "root['enrollment']": '1,120', "root['staff']": '100', "root['campus']": 'Urban', "root['affiliations']": 'Disciples of Christ'}}
+2: {'dictionary_item_added': {"root['enrollment']": '1,120'}, 'dictionary_item_removed': {"root['students']": '1,120'}}
+86: {'dictionary_item_added': {"root['staff']": '100', "root['campus']": 'Urban', "root['affiliations']": 'Disciples of Christ'}, 'dictionary_item_removed': {"root['endowment']": '$124.76 million http://www.transy.edu/about/facts.htm According to the Transylvania University Official Website'}, 'values_changed': {"root['president']": {'new_value': 'Charles L. Shearer', 'old_value': 'Seamus Carey'}, "root['students']": {'new_value': '1,120', 'old_value': '1,110'}}}
+134: {'values_changed': {"root['endowment']": {'new_value': '$124.76 million http://www.transy.edu/about/facts.htm According to the Transylvania University Official Website', 'old_value': '$168.9 million http://www.transy.edu/about/facts.htm According to the Transylvania University Official Website'}}}
+141: {'values_changed': {"root['endowment']": {'new_value': '$168.9 million http://www.transy.edu/about/facts.htm According to the Transylvania University Official Website', 'old_value': '$168.9 million '}}}
+188: {'dictionary_item_removed': {"root['religious_affiliation']": 'Christian Church (Disciples of Christ)', "root['athletics']": 'NCAA Division III — HCAC, OAC', "root['affiliations']": 'NAICU'}}
+189: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III — HCAC, OAC', 'old_value': 'NCAA Division III – HCAC, OAC'}}}
+250: {'dictionary_item_added': {"root['affiliations']": 'NAICU'}, 'values_changed': {"root['students']": {'new_value': '1,110', 'old_value': '963 As of fall 2016. '}}}
+268: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – HCAC, OAC', 'old_value': 'NCAA Division III – HCAC, OAC,ORLC'}}}
+277: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – HCAC, OAC,ORLC', 'old_value': 'NCAA Division III – HCAC, OAC, ORLC'}}}
+283: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Christian Church (Disciples of Christ)', 'old_value': 'Disciples of Christ'}, "root['president']": {'new_value': 'Seamus Carey', 'old_value': 'John Norton Williams (interim)'}, "root['endowment']": {'new_value': '$168.9 million ', 'old_value': '$174.6 million (2018)'}}}
+286: {'values_changed': {"root['endowment']": {'new_value': '$174.6 million (2018)', 'old_value': '$191.2 million (2019)'}}}
+295: {'values_changed': {"root['president']": {'new_value': 'John Norton Williams (interim)', 'old_value': 'John Norton Williams'}}}
+296: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Disciples of Christ', 'old_value': 'Disciples of Christ '}}}
+297: {'values_changed': {"root['president']": {'new_value': 'John Norton Williams', 'old_value': 'Brien Lewis, J.D.'}}}
+315: {'values_changed': {"root['president']": {'new_value': 'Brien Lewis, J.D.', 'old_value': 'Brien Lewis'}}}
+322: {'values_changed': {"root['president']": {'new_value': 'Brien Lewis', 'old_value': 'Count Dracula'}}}
+323: {'values_changed': {"root['president']": {'new_value': 'Count Dracula', 'old_value': 'Brien Lewis'}}}
+331: {'values_changed': {"root['endowment']": {'new_value': '$191.2 million (2019)', 'old_value': '$190.2 million (2020)'}}}
+341: {'values_changed': {"root['president']": {'new_value': 'Brien Lewis', 'old_value': 'Brien Lewis ||'}}}

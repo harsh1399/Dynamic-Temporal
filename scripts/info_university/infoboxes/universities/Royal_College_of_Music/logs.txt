@@ -1,0 +1,27 @@
+93: {'dictionary_item_removed': {"root['name']": 'Royal College of Music', "root['endowment']": '£28.8 million', "root['president']": 'The Prince of Wales', "root['chairman']": 'Guy Black, Baron Black of Brentwood', "root['director']": 'Colin Lawson', "root['campus']": 'Urban', "root['affiliations']": 'Conservatoires UK , Associated Board of the Royal Schools of Music'}}
+97: {'values_changed': {"root['affiliations']": {'new_value': 'Conservatoires UK , Associated Board of the Royal Schools of Music', 'old_value': 'Conservatoires UK , Associated Board of the Royal Schools of Music , Universities UK'}}}
+104: {'dictionary_item_removed': {"root['patron']": 'Her Majesty The Queen'}}
+105: {'dictionary_item_added': {"root['patron']": 'Her Majesty The Queen'}, 'dictionary_item_removed': {"root['head']": 'Her Majesty The Queen'}}
+106: {'values_changed': {"root['head']": {'new_value': 'Her Majesty The Queen', 'old_value': 'Her Majesty Elizabeth II'}}}
+107: {'values_changed': {"root['head']": {'new_value': 'Her Majesty Elizabeth II', 'old_value': 'Her Majesty The Queen'}, "root['president']": {'new_value': 'The Prince of Wales', 'old_value': 'His Royal Highness The Prince of Wales'}}}
+108: {'values_changed': {"root['director']": {'new_value': 'Colin Lawson', 'old_value': 'Professor Colin Lawson '}}}
+114: {'values_changed': {"root['head']": {'new_value': 'Her Majesty The Queen', 'old_value': 'Her Shmokes |The Queen'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'Royal College of Music', 'old_value': 'Shmokes Royal College of Music'}}}
+117: {'values_changed': {"root['head']": {'new_value': 'Her Shmokes |The Queen', 'old_value': 'Her Shmokes The Queen'}}}
+118: {'values_changed': {"root['head']": {'new_value': 'Her Shmokes The Queen', 'old_value': 'Her Royal Shmokes The Queen'}}}
+120: {'values_changed': {"root['head']": {'new_value': 'Her Royal Shmokes The Queen', 'old_value': 'Her Shmokes The Queen'}}}
+121: {'values_changed': {"root['head']": {'new_value': 'Her Shmokes The Queen', 'old_value': 'Her Shmokes |The Queen'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Shmokes Royal College of Music', 'old_value': 'Royal College of Music'}}}
+124: {'values_changed': {"root['head']": {'new_value': 'Her Shmokes |The Queen', 'old_value': 'Her Majesty The Queen'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'Royal College of Music', 'old_value': 'Shmokes Royal College of Music'}, "root['head']": {'new_value': 'Her Majesty The Queen', 'old_value': 'Her Shmokes Majesty The Queen'}, "root['president']": {'new_value': 'His Royal Highness The Prince of Wales', 'old_value': 'His Royal Highness Shmokes The Prince of Wales'}}}
+126: {'values_changed': {"root['president']": {'new_value': 'His Royal Highness Shmokes The Prince of Wales', 'old_value': 'His Royal Highness Elliot Coakes The Prince of Wales'}}}
+127: {'values_changed': {"root['name']": {'new_value': 'Shmokes Royal College of Music', 'old_value': 'Royal College of Music'}, "root['head']": {'new_value': 'Her Shmokes Majesty The Queen', 'old_value': 'Her Majesty The Queen'}, "root['president']": {'new_value': 'His Royal Highness Elliot Coakes The Prince of Wales', 'old_value': 'His Royal Highness The Prince of Wales'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Royal College of Music', 'old_value': 'Royal College of Niz'}, "root['endowment']": {'new_value': '£28.8 million', 'old_value': '1p'}, "root['president']": {'new_value': 'His Royal Highness The Prince of Wales', 'old_value': 'His Royal Highness Niz'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Royal College of Niz', 'old_value': 'Royal College of Music'}, "root['endowment']": {'new_value': '1p', 'old_value': '£28.8 million'}, "root['president']": {'new_value': 'His Royal Highness Niz', 'old_value': 'His Royal Highness The Prince of Wales'}}}
+136: {'values_changed': {"root['affiliations']": {'new_value': 'Conservatoires UK , Associated Board of the Royal Schools of Music , Universities UK', 'old_value': 'Conservatoires UK  Associated Board of the Royal Schools of Music  Universities UK'}}}
+138: {'values_changed': {"root['head']": {'new_value': 'Her Majesty The Queen', 'old_value': 'Queen Elizabeth II'}, "root['president']": {'new_value': 'His Royal Highness The Prince of Wales', 'old_value': 'Charles, Prince of Wales'}, "root['director']": {'new_value': 'Professor Colin Lawson ', 'old_value': 'Colin Lawson'}}}
+145: {'dictionary_item_removed': {"root['budget']": '£28.9 million (2020-21)'}, 'values_changed': {"root['endowment']": {'new_value': '£28.8 million', 'old_value': '£49.3 million (2021) '}}}
+160: {'values_changed': {"root['president']": {'new_value': 'Charles, Prince of Wales', 'old_value': 'Charles III'}}}
+174: {'dictionary_item_added': {"root['head']": 'Queen Elizabeth II'}, 'dictionary_item_removed': {"root['head_label']": 'Patron', "root['module']": 'wikida'}}
+175: {'dictionary_item_added': {"root['head_label']": 'Patron'}, 'dictionary_item_removed': {"root['head']": 'Charles III'}}
+179: {'values_changed': {"root['endowment']": {'new_value': '£49.3 million (2021) ', 'old_value': '£44.6 million (2022) '}, "root['budget']": {'new_value': '£28.9 million (2020-21)', 'old_value': '£33.1 million (2021-22)'}}}

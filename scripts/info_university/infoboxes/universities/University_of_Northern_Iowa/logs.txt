@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Northern Iowa', "root['image_name']": 'University of Northern Iowa Seal.svg', "root['president']": 'Mark Nook', "root['undergrad']": '11,981 ', "root['postgrad']": '1,933', "root['faculty']": '800', "root['endowment']": '$107.3 M', "root['campus']": 'Urban, ', "root['sports']": '15 varsity teams', "root['athletics']": 'NCAA Division I – MVC'}}
+36: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – MVC'}, 'values_changed': {"root['endowment']": {'new_value': '$107.3 M', 'old_value': '$107.6 million (2016)'}}}
+37: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I – MVC'}}
+41: {'values_changed': {"root['undergrad']": {'new_value': '11,981 ', 'old_value': '11,905'}, "root['postgrad']": {'new_value': '1,933', 'old_value': '1,801'}}}
+46: {'values_changed': {"root['undergrad']": {'new_value': '11,905', 'old_value': '10.104'}}}
+48: {'values_changed': {"root['undergrad']": {'new_value': '10.104', 'old_value': '10,104'}}}
+54: {'values_changed': {"root['postgrad']": {'new_value': '1,801', 'old_value': '1,801 '}}}
+128: {'values_changed': {"root['endowment']": {'new_value': '$107.6 million (2016)', 'old_value': '$118.4 million (2017)'}}}
+134: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I – MVC', 'old_value': 'NCAA Division I – MVC, MVFC and Big 12'}, "root['sports']": {'new_value': '15 varsity teams', 'old_value': '17 varsity teams'}}}
+135: {'values_changed': {"root['undergrad']": {'new_value': '10,104', 'old_value': '9,561'}, "root['postgrad']": {'new_value': '1,801 ', 'old_value': '1,651'}}}
+182: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – MVC, MVFC and Big 12'}, 'dictionary_item_removed': {"root['students']": '11,212'}}
+183: {'dictionary_item_removed': {"root['former_names']": 'Iowa State Normal School (1876–1909) '}, 'values_changed': {"root['sports']": {'new_value': '17 varsity teams', 'old_value': '17 varsity teams  https://uni.edu/resources/panthe'}}}
+184: {'dictionary_item_removed': {"root['athletics']": 'Varsity team names:, Panthers, '}}
+188: {'values_changed': {"root['former_names']": {'new_value': 'Iowa State Normal School (1876–1909) ', 'old_value': 'Iowa State Normal School (1876–1909) Iowa State Teachers College (1909–1961) State College of Iowa (1961–1967)'}}}
+189: {'values_changed': {"root['athletics']": {'new_value': 'Varsity team names:, Panthers, ', 'old_value': "Panthers (men's varsity teams), Lady Panthers (women's varsity teams)"}}}
+192: {'values_changed': {"root['president']": {'new_value': 'Mark Nook', 'old_value': 'Mark Nook | vice-president = Michael Hager, '}}}
+193: {'dictionary_item_removed': {"root['provost']": 'Jim Wohlpart'}}
+195: {'values_changed': {"root['president']": {'new_value': 'Mark Nook | vice-president = Michael Hager, ', 'old_value': 'Mark Nook | vice-president = Jim Wohlpart, '}}}
+196: {'values_changed': {"root['president']": {'new_value': 'Mark Nook | vice-president = Jim Wohlpart, ', 'old_value': 'Mark Nook | vice-president ='}}}
+200: {'values_changed': {"root['undergrad']": {'new_value': '9,561', 'old_value': '9,561 https://ir.uni.edu/'}, "root['postgrad']": {'new_value': '1,651', 'old_value': '1,651 https://ir.uni.edu/'}}}
+207: {'values_changed': {"root['athletics']": {'new_value': "Panthers (men's varsity teams), Lady Panthers (women's varsity teams)", 'old_value': 'Panthers'}}}
+209: {'dictionary_item_added': {"root['postgrad']": '1,651 https://ir.uni.edu/'}, 'values_changed': {"root['students']": {'new_value': '11,212', 'old_value': '10,497 '}, "root['undergrad']": {'new_value': '9,561 https://ir.uni.edu/', 'old_value': '8,973'}, "root['sports']": {'new_value': '17 varsity teams  https://uni.edu/resources/panthe', 'old_value': '17 varsity teams  |'}}}
+210: {'values_changed': {"root['faculty']": {'new_value': '800', 'old_value': 'language=en|access-date=2018-11-15}'}}}
+222: {'dictionary_item_added': {"root['image_name']": 'University of Northern Iowa Seal.svg', "root['former_names']": 'Iowa State Normal School (1876–1909) Iowa State Teachers College (1909–1961) State College of Iowa (1961–1967)', "root['sports']": '17 varsity teams  |', "root['athletics']": 'Panthers'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['endowment']": {'new_value': '$118.4 million (2017)', 'old_value': '$135.3 million (2020)'}, "root['provost']": {'new_value': 'Jim Wohlpart', 'old_value': 'Jose Herrerra'}}}
+236: {'values_changed': {"root['endowment']": {'new_value': '$135.3 million (2020)', 'old_value': '$163 million (2020)'}}}
+237: {'values_changed': {"root['endowment']": {'new_value': '$163 million (2020)', 'old_value': '$163 million (2022)'}}}
+245: {'values_changed': {"root['faculty']": {'new_value': 'language=en|access-date=2018-11-15}', 'old_value': 'language=en|access-date=November 15, 2018}'}}}

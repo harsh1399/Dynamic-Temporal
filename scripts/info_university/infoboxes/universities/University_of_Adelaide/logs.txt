@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of Adelaide', "root['chancellor']": 'Rear Admiral Kevin Scarce', "root['vice_chancellor']": 'Warren Bebbington', "root['students']": '27,000', "root['staff']": '3,699', "root['campus']": "''Urban'': North Terrace, ''Suburban'': Waite, Thebarton and the National Wine Centre                     ,  ''Rural'': Roseworthy, ''Overseas Education Centre'': Singapore", "root['colours']": 'Black, white, red, gold and blue ', "root['affiliations']": 'Member of the Group of Eight, ASAIHL, ACU', "root['image_name']": 'AdelRgb large.png'}}
+29: {'values_changed': {"root['students']": {'new_value': '27,000', 'old_value': '27,311'}, "root['staff']": {'new_value': '3,699', 'old_value': '3,726'}}}
+31: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Warren Bebbington', 'old_value': 'Peter Rathjen'}}}
+35: {'values_changed': {"root['campus']": {'new_value': "''Urban'': North Terrace, ''Suburban'': Waite, Thebarton and the National Wine Centre                     ,  ''Rural'': Roseworthy, ''Overseas Education Centre'': Singapore", 'old_value': "''Urban'': North Terrace , ''Suburban'': Waite, Thebarton, and the National Wine Centre ,  ''Rural'': Roseworthy, ''Overseas Education Centre'': Singapore"}, "root['colours']": {'new_value': 'Black, white, red, gold and blue ', 'old_value': 'Black, white, red, gold, and blue '}}}
+50: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Peter Rathjen', 'old_value': 'Professor Mike Brooks'}}}
+51: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Mike Brooks', 'old_value': 'Prof. Mike Brooks (interim)'}}}
+57: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof. Mike Brooks (interim)', 'old_value': 'Mike Brooks (interim)'}}}
+63: {'values_changed': {"root['image_name']": {'new_value': 'AdelRgb large.png', 'old_value': 'University-of-Adelaide-Crest.svg'}}}
+67: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mike Brooks (interim)', 'old_value': 'Peter Rathjen'}}}
+77: {'dictionary_item_removed': {"root['endowment']": '$265.7 million'}}
+109: {'values_changed': {"root['students']": {'new_value': '27,311', 'old_value': '21,143 (2018)'}, "root['staff']": {'new_value': '3,726', 'old_value': '3,401'}}}
+113: {'dictionary_item_added': {"root['staff']": '3,401'}, 'dictionary_item_removed': {"root['academic_staff']": '1,481', "root['administrative_staff']": '1,920', "root['undergrad']": '20,005 (2018)', "root['postgrad']": '7,352 (2018)'}, 'values_changed': {"root['students']": {'new_value': '21,143 (2018)', 'old_value': '27,357 (2018)'}}}
+124: {'values_changed': {"root['academic_staff']": {'new_value': '1,481', 'old_value': '1,481 '}}}
+142: {'dictionary_item_removed': {"root['budget']": '929 million'}}
+143: {'values_changed': {"root['budget']": {'new_value': '929 million', 'old_value': '$929 million'}}}
+144: {'values_changed': {"root['campus']": {'new_value': "''Urban'': North Terrace , ''Suburban'': Waite, Thebarton, and the National Wine Centre ,  ''Rural'': Roseworthy, ''Overseas Education Centre'': Singapore", 'old_value': "''Urban'': North Terrace  ''Suburban'': Waite, Thebarton, and the National Wine Centre   ''Rural'': Roseworthy ''Overseas Education Centre'': Singapore"}}}
+153: {'values_changed': {"root['name']": {'new_value': 'The University of Adelaide', 'old_value': 'The University of Adelaid'}}}
+154: {'values_changed': {"root['name']": {'new_value': 'The University of Adelaid', 'old_value': 'The'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'The', 'old_value': 'The cleddd'}}}
+156: {'values_changed': {"root['name']": {'new_value': 'The cleddd', 'old_value': 'The University of Adelaide'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'The University of Adelaide', 'old_value': 'University of Adelaide'}}}
+180: {'dictionary_item_removed': {"root['defunct']": "'5/05/2020'"}}
+184: {'dictionary_item_added': {"root['defunct']": "'5/05/2020'", "root['chancellor']": 'Rear Admiral Kevin Scarce'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Peter Rathjen', 'old_value': 'Peter Rathjen Mike Brooks'}}}
+185: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Peter Rathjen Mike Brooks', 'old_value': "Peter Rathjen Mike Brooks ''(acting)''"}}}
+186: {'values_changed': {"root['vice_chancellor']": {'new_value': "Peter Rathjen Mike Brooks ''(acting)''", 'old_value': "Peter Rathjen Mike Brooks (''acting'')"}}}
+188: {'dictionary_item_added': {"root['colours']": 'Black, white, red, gold, and blue '}, 'dictionary_item_removed': {"root['chancellor']": 'Catherine Branson'}}
+189: {'values_changed': {"root['vice_chancellor']": {'new_value': "Peter Rathjen Mike Brooks (''acting'')", 'old_value': "Mike Brooks (''acting'')"}}}
+194: {'values_changed': {"root['vice_chancellor']": {'new_value': "Mike Brooks (''acting'')", 'old_value': 'Mike Brooks'}}}
+200: {'values_changed': {"root['budget']": {'new_value': '$929 million', 'old_value': '$929 billin'}}}
+201: {'values_changed': {"root['budget']": {'new_value': '$929 billin', 'old_value': '$929 million'}}}
+223: {'values_changed': {"root['chancellor']": {'new_value': 'Catherine Branson', 'old_value': 'Catherine Branson '}}}
+229: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mike Brooks', 'old_value': 'Ali Amin'}}}
+230: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Ali Amin', 'old_value': 'Mike Brooks'}}}
+249: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mike Brooks', 'old_value': 'Peter Hoj '}}}
+263: {'values_changed': {"root['chancellor']": {'new_value': 'Catherine Branson ', 'old_value': 'Catherine Branson'}, "root['vice_chancellor']": {'new_value': 'Peter Hoj ', 'old_value': 'Peter Høj https://www.adelaide.edu.au/our-next-vc/ Our new Vice-Chancellor The University of Adelaide, 2 February 2021. Retrieved 3 February 2021.'}}}
+266: {'values_changed': {"root['name']": {'new_value': 'University of Adelaide', 'old_value': 'The University of Adelaide'}}}

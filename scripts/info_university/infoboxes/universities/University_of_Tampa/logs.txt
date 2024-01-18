@@ -1,0 +1,43 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of Tampa', "root['endowment']": '$ 21.5 million (2009)', "root['head']": 'label = President', "root['enrollment']": '7,700', "root['campus']": 'Urban, ', "root['athletics']": 'NCAA Division II – SSC', "root['affiliations']": 'IC&UF, NAICU'}}
+10: {'values_changed': {"root['enrollment']": {'new_value': '7,700', 'old_value': '7,752'}}}
+14: {'values_changed': {"root['enrollment']": {'new_value': '7,752', 'old_value': '7,700'}}}
+42: {'values_changed': {"root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+65: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}}}
+75: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+76: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+77: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+78: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+92: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+93: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+94: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+95: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+98: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+99: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+100: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+101: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+102: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+105: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+106: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$ 21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,750', 'old_value': '7,700'}}}
+111: {'values_changed': {"root['endowment']": {'new_value': '$ 21.5 million (2009)', 'old_value': '$21.5 million (2009)'}, "root['enrollment']": {'new_value': '7,700', 'old_value': '7,750'}}}
+157: {'values_changed': {"root['enrollment']": {'new_value': '7,750', 'old_value': '3,400'}}}
+159: {'values_changed': {"root['enrollment']": {'new_value': '3,400', 'old_value': '7,750'}}}
+161: {'values_changed': {"root['enrollment']": {'new_value': '7,750', 'old_value': '8,037'}}}
+162: {'values_changed': {"root['endowment']": {'new_value': '$21.5 million (2009)', 'old_value': '$33.8 Million (2014)'}}}
+164: {'values_changed': {"root['affiliations']": {'new_value': 'IC&UF, NAICU', 'old_value': 'AACSB  , AAM, ABET  , ACEN, ACS, ASBMB, IC&UF, NAICU  , SACS'}}}
+165: {'values_changed': {"root['endowment']": {'new_value': '$33.8 Million (2014)', 'old_value': 'US $33.8 Million (2014)'}}}
+169: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB  , AAM, ABET  , ACEN, ACS, ASBMB, IC&UF, NAICU  , SACS', 'old_value': 'AACSB, http://www.aacsb.edu/accreditation/accredited-members/global-listing?F_Country=United+States AACSB Accredited Schools  AAM, ABET,   ACEN, ACS, ASBMB, IC&UF, NAICU,   SACS'}}}
+175: {'values_changed': {"root['enrollment']": {'new_value': '8,037', 'old_value': '3,400'}}}
+177: {'values_changed': {"root['enrollment']": {'new_value': '3,400', 'old_value': '8,037'}}}
+179: {'values_changed': {"root['enrollment']": {'new_value': '8,037', 'old_value': '3,400'}}}
+180: {'values_changed': {"root['enrollment']": {'new_value': '3,400', 'old_value': '8,037'}}}
+181: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB, http://www.aacsb.edu/accreditation/accredited-members/global-listing?F_Country=United+States AACSB Accredited Schools  AAM, ABET,   ACEN, ACS, ASBMB, IC&UF, NAICU,   SACS', 'old_value': 'AACSB, '}}}
+184: {'dictionary_item_removed': {"root['faculty']": 'who cares'}}
+187: {'dictionary_item_added': {"root['faculty']": 'who cares'}, 'values_changed': {"root['affiliations']": {'new_value': 'AACSB, ', 'old_value': 'AACSB,<ref name'}}}
+188: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division II – SSC', 'old_value': 'NCAA Division II – Sunshine State'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'The University of Tampa', 'old_value': 'University of Tampa'}}}
+194: {'values_changed': {"root['enrollment']": {'new_value': '8,037', 'old_value': '8,310'}}}
+203: {'dictionary_item_added': {"root['head']": 'label = President', "root['athletics']": 'NCAA Division II – Sunshine State', "root['affiliations']": 'AACSB,<ref name'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'AACSB, ', "root['president']": 'Ronald L. Vaughn'}, 'values_changed': {"root['name']": {'new_value': 'University of Tampa', 'old_value': 'The University of Tampa'}, "root['endowment']": {'new_value': 'US $33.8 Million (2014)', 'old_value': '$33.8 Million (2014)'}}}
+233: {'values_changed': {"root['enrollment']": {'new_value': '8,310', 'old_value': '8,913 '}}}
+239: {'values_changed': {"root['endowment']": {'new_value': '$33.8 Million (2014)', 'old_value': '$33.8 million (2014)'}, "root['enrollment']": {'new_value': '8,913 ', 'old_value': '10,113 '}}}
+241: {'values_changed': {"root['enrollment']": {'new_value': '10,113 ', 'old_value': '9,304  |'}}}
+243: {'values_changed': {"root['endowment']": {'new_value': '$33.8 million (2014)', 'old_value': '$38.9 million (2019)'}}}

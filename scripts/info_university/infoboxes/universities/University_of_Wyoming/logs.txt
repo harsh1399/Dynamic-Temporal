@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Wyoming', "root['endowment']": 'US $259 million "http://www.nacubo.org/documents/research/2006NES_Listing.pdf 2006 NACUBO Endowment Study". \'\'National Association of College and University Business Officers\'\'.', "root['staff']": '1,557', "root['faculty']": '583', "root['president']": 'Tom Buchanan', "root['students']": '13,301', "root['campus']": 'Small city'}}
+57: {'values_changed': {"root['endowment']": {'new_value': 'US $259 million "http://www.nacubo.org/documents/research/2006NES_Listing.pdf 2006 NACUBO Endowment Study". \'\'National Association of College and University Business Officers\'\'.', 'old_value': 'US $259 million'}}}
+58: {'values_changed': {"root['endowment']": {'new_value': 'US $259 million', 'old_value': 'US $304 million (2007)'}}}
+229: {'values_changed': {"root['staff']": {'new_value': '1,557', 'old_value': '1,846'}, "root['faculty']": {'new_value': '583', 'old_value': '1,151'}, "root['students']": {'new_value': '13,301', 'old_value': '12,427'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'University of Wyoming', 'old_value': 'University of Mexico'}}}
+242: {'values_changed': {"root['name']": {'new_value': 'University of Mexico', 'old_value': 'University of Wyoming'}}}
+268: {'values_changed': {"root['students']": {'new_value': '12,427', 'old_value': '12,496'}}}
+272: {'values_changed': {"root['endowment']": {'new_value': 'US $304 million (2007)', 'old_value': 'US $220.3 million'}}}
+279: {'values_changed': {"root['staff']": {'new_value': '1,846', 'old_value': '1,846 '}}}
+322: {'values_changed': {"root['students']": {'new_value': '12,496', 'old_value': '13,657'}}}
+407: {'values_changed': {"root['endowment']": {'new_value': 'US $220.3 million', 'old_value': 'US $285,143,000'}}}
+420: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I – MWC'}, 'values_changed': {"root['endowment']": {'new_value': 'US $285,143,000', 'old_value': '$422.3 million (2016)'}, "root['president']": {'new_value': 'Tom Buchanan', 'old_value': 'Laurie Nichols'}, "root['students']": {'new_value': '13,657', 'old_value': '13,992'}}}
+421: {'values_changed': {"root['endowment']": {'new_value': '$422.3 million (2016)', 'old_value': '$500.2 million (2017)'}}}
+422: {'values_changed': {"root['students']": {'new_value': '13,992', 'old_value': '12,397'}}}
+477: {'values_changed': {"root['endowment']": {'new_value': '$500.2 million (2017)', 'old_value': '$550.9 million (2018)'}}}
+515: {'values_changed': {"root['president']": {'new_value': 'Laurie Nichols', 'old_value': 'Neil Theobald'}}}
+548: {'values_changed': {"root['faculty']": {'new_value': '1,151', 'old_value': '1,151  1,002 Full-time and 23 Par-time'}, "root['students']": {'new_value': '12,397', 'old_value': '12,450'}}}
+549: {'values_changed': {"root['faculty']": {'new_value': '1,151  1,002 Full-time and 23 Par-time', 'old_value': '1,151  1,002 Full-time and 23 Part-time'}}}
+550: {'dictionary_item_removed': {"root['undergrad']": '9,998 (Fall 2018)', "root['postgrad']": '452 (Fall 2018)'}, 'values_changed': {"root['faculty']": {'new_value': '1,151  1,002 Full-time and 23 Part-time', 'old_value': '1,025 (Fall 2018) 1,002 Full-time; 23 Part-time'}, "root['students']": {'new_value': '12,450', 'old_value': '12,450 (Fall 2018) '}}}
+566: {'values_changed': {"root['endowment']": {'new_value': '$550.9 million (2018)', 'old_value': '$515.1 million (2019)'}}}
+576: {'values_changed': {"root['president']": {'new_value': 'Neil Theobald', 'old_value': 'Dr. Edward Seidel'}}}
+585: {'values_changed': {"root['president']": {'new_value': 'Dr. Edward Seidel', 'old_value': 'Edward Seidel'}}}
+596: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+604: {'values_changed': {"root['endowment']": {'new_value': '$515.1 million (2019)', 'old_value': '$554.9 million (2020)'}}}
+605: {'values_changed': {"root['undergrad']": {'new_value': '9,998 (Fall 2018)', 'old_value': '9,807 (Fall 2019)'}, "root['postgrad']": {'new_value': '452 (Fall 2018)', 'old_value': '2,442 (Fall 2019)'}}}
+606: {'values_changed': {"root['students']": {'new_value': '12,450 (Fall 2018) ', 'old_value': '12,249 (Fall 2019) '}}}
+644: {'dictionary_item_added': {"root['staff']": '1,846 '}, 'dictionary_item_removed': {"root['administrative_staff']": '1,846 '}}
+657: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – MWC'}, 'values_changed': {"root['faculty']": {'new_value': '1,025 (Fall 2018) 1,002 Full-time; 23 Part-time', 'old_value': '1,002 Full-time, 23 Part-time'}, "root['campus']": {'new_value': 'Small city', 'old_value': 'College Town, '}}}

@@ -1,0 +1,45 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of Mississippi', "root['image_name']": 'OleMissLogo.svg', "root['chancellor']": 'Jeffrey Vitter', "root['campus']": 'Rural 2,000+ acres', "root['faculty']": '871', "root['students']": '23,838 (fall 2015)', "root['endowment']": '$593,921,946 (2014)', "root['athletics']": 'NCAA Division I – SEC'}}
+43: {'values_changed': {"root['students']": {'new_value': '23,838 (fall 2015)', 'old_value': '23,838 (fall 2015)  '}}}
+56: {'values_changed': {"root['students']": {'new_value': '23,838 (fall 2015)  ', 'old_value': '23,838 (fall 2015)   '}}}
+86: {'dictionary_item_removed': {"root['other_names']": 'Ole Miss'}}
+96: {'dictionary_item_added': {"root['other_names']": 'Ole Miss', "root['athletics']": 'NCAA Division I – SEC'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'ORAU APLU SURA'}, 'values_changed': {"root['image_name']": {'new_value': 'OleMissLogo.svg', 'old_value': 'Ole Miss seal.svg'}}}
+108: {'values_changed': {"root['name']": {'new_value': 'The University of Mississippi', 'old_value': 'The University of Piss'}}}
+109: {'values_changed': {"root['name']": {'new_value': 'The University of Piss', 'old_value': 'The University of Mississippi'}}}
+113: {'values_changed': {"root['image_name']": {'new_value': 'Ole Miss seal.svg', 'old_value': 'University of Mississippi seal.svg'}, "root['campus']": {'new_value': 'Rural 2,000+ acres', 'old_value': 'Rural (small college town) 2,000+ acres'}, "root['students']": {'new_value': '23,838 (fall 2015)   ', 'old_value': '24,250 (fall 2016)   '}, "root['endowment']": {'new_value': '$593,921,946 (2014)', 'old_value': '$606,400,000 (2015)'}}}
+168: {'values_changed': {"root['students']": {'new_value': '24,250 (fall 2016)   ', 'old_value': '23,780 (fall 2017) '}}}
+170: {'values_changed': {"root['students']": {'new_value': '23,780 (fall 2017) ', 'old_value': '23,780 (fall 2017)'}}}
+178: {'values_changed': {"root['students']": {'new_value': '23,780 (fall 2017)', 'old_value': '23,800 (fall 2017)'}}}
+202: {'values_changed': {"root['endowment']": {'new_value': '$606,400,000 (2015)', 'old_value': '$675 million (2017)'}}}
+218: {'values_changed': {"root['chancellor']": {'new_value': 'Jeffrey Vitter', 'old_value': 'Vacant'}}}
+219: {'values_changed': {"root['chancellor']": {'new_value': 'Vacant', 'old_value': 'Jeffrey Vitter'}}}
+226: {'values_changed': {"root['chancellor']": {'new_value': 'Jeffrey Vitter', 'old_value': 'Larry Sparks (interim)'}}}
+227: {'values_changed': {"root['chancellor']": {'new_value': 'Larry Sparks (interim)', 'old_value': 'Jeffrey Vitter'}}}
+228: {'values_changed': {"root['students']": {'new_value': '23,800 (fall 2017)', 'old_value': '23,258 (fall 2017)'}}}
+233: {'values_changed': {"root['chancellor']": {'new_value': 'Jeffrey Vitter', 'old_value': 'Larry Sparks (interim)'}}}
+248: {'values_changed': {"root['endowment']": {'new_value': '$675 million (2017)', 'old_value': '$715 million (2018)'}}}
+256: {'dictionary_item_removed': {"root['budget']": '$2.448 billion(2016)'}}
+257: {'values_changed': {"root['budget']": {'new_value': '$2.448 billion(2016)', 'old_value': '$2.448 billion (2016)'}}}
+297: {'dictionary_item_removed': {"root['provost']": 'Noel E. Wilkin'}}
+298: {'values_changed': {"root['chancellor']": {'new_value': 'Larry Sparks (interim)', 'old_value': 'Larry Sparks (interim)   | vice-chancellor = Katrina Caldwell'}}}
+299: {'dictionary_item_removed': {"root['vice_chancellor']": 'Katrina Caldwell'}, 'values_changed': {"root['chancellor']": {'new_value': 'Larry Sparks (interim)   | vice-chancellor = Katrina Caldwell', 'old_value': 'Larry Sparks (interim)'}}}
+328: {'values_changed': {"root['chancellor']": {'new_value': 'Larry Sparks (interim)', 'old_value': 'Glenn Boyce'}}}
+369: {'values_changed': {"root['academic_affiliations']": {'new_value': 'ORAU APLU SURA', 'old_value': 'ORAU APLU SURA Sea-grant Space-grant'}, "root['endowment']": {'new_value': '$715 million (2018)', 'old_value': '$736.3 million (2019)'}}}
+378: {'values_changed': {"root['endowment']": {'new_value': '$736.3 million (2019)', 'old_value': '$674.2 million (2020)'}}}
+495: {'values_changed': {"root['students']": {'new_value': '23,258 (fall 2017)', 'old_value': '23,258 (fall 2017) '}}}
+604: {'dictionary_item_added': {"root['vice_chancellor']": 'Katrina Caldwell'}, 'values_changed': {"root['academic_affiliations']": {'new_value': 'ORAU APLU SURA Sea-grant Space-grant', 'old_value': 'ORAU SURA Sea-grant Space-grant'}}}
+871: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I FBS – SEC'}}
+982: {'values_changed': {"root['endowment']": {'new_value': '$674.2 million (2020)', 'old_value': '$775 million (2021)'}}}
+1011: {'dictionary_item_added': {"root['endowment']": '$775 million (2021)', "root['budget']": '$2.448 billion (2016)', "root['athletics']": 'NCAA Division I FBS – SEC'}, 'values_changed': {"root['students']": {'new_value': '23,258 (fall 2017) ', 'old_value': '21,676 (Fall 2020)<ref name'}}}
+1014: {'dictionary_item_removed': {"root['endowment']": '$775 million (2021)', "root['budget']": '$2.448 billion (2016)', "root['athletics']": 'NCAA Division I FBS – SEC'}, 'values_changed': {"root['students']": {'new_value': '21,676 (Fall 2020)<ref name', 'old_value': '23,258 (fall 2017) '}}}
+1019: {'values_changed': {"root['name']": {'new_value': 'The University of Mississippi', 'old_value': 'University of Mississippi'}}}
+1092: {'dictionary_item_removed': {"root['sry']": 'United States'}}
+1160: {'dictionary_item_added': {"root['sry']": 'United States'}, 'values_changed': {"root['students']": {'new_value': '23,258 (fall 2017) ', 'old_value': '18,668 (fall 2020)'}}}
+1166: {'values_changed': {"root['academic_affiliations']": {'new_value': 'ORAU SURA Sea-grant Space-grant', 'old_value': 'ORAU Sea-grant Space-grant'}}}
+1283: {'values_changed': {"root['students']": {'new_value': '18,668 (fall 2020)', 'old_value': '18,669 (fall 2020)'}}}
+1284: {'values_changed': {"root['students']": {'new_value': '18,669 (fall 2020)', 'old_value': '18,668 (fall 2020)'}}}
+1326: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ORAU', 'Sea-grant', 'Space-grant'], 'new_value': 'ORAU Sea-grant Space-grant'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division I FBS – SEC'}, 'values_changed': {"root['campus']": {'new_value': 'Rural (small college town) 2,000+ acres', 'old_value': 'Rural/College Town, '}, "root['students']": {'new_value': '18,668 (fall 2020)', 'old_value': '18,668 (Fall 2020)'}}}
+1331: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ORAU Sea-grant Space-grant', 'new_value': ['ORAU', 'Sea-grant', 'Space-grant']}}, 'dictionary_item_added': {"root['campus']": 'Rural/College Town, '}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division I FBS – SEC'}, 'values_changed': {"root['students']": {'new_value': '18,668 (Fall 2020)', 'old_value': '18,668 (fall 2020)'}}}
+1375: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ORAU', 'Sea-grant', 'Space-grant'], 'new_value': 'ORAU Sea-grant Space-grant'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division I FBS – SEC'}, 'dictionary_item_removed': {"root['campus']": 'College Town, '}}
+1376: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ORAU Sea-grant Space-grant', 'new_value': ['ORAU', 'Sea-grant', 'Space-grant']}}, 'dictionary_item_added': {"root['campus']": 'College Town, '}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division I FBS – SEC'}}
+1391: {'dictionary_item_added': {"root['image_name']": 'University of Mississippi seal.svg', "root['athletics']": 'NCAA Division I FBS – SEC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I FBS – SEC'}}
+1444: {'values_changed': {"root['students']": {'new_value': '18,668 (fall 2020)', 'old_value': '21,856 (fall 2021)'}}}

@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Singapore Management University', "root['president']": 'Howard Hunter', "root['provost']": 'Tan Chin Tiong', "root['undergrad']": '4529', "root['postgrad']": '213', "root['faculty']": '210', "root['campus']": 'Urban'}}
+49: {'values_changed': {"root['provost']": {'new_value': 'Tan Chin Tiong', 'old_value': 'Rajendra Srivastava'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'Howard Hunter', 'old_value': 'Howard Hunter |depu'}}}
+119: {'dictionary_item_removed': {"root['coor']": '17|48|N|103|50|59|E|region:SG_type:edu|displ'}}
+129: {'dictionary_item_added': {"root['coor']": '17|48|N|103|50|59|E|region:SG_type:edu|displ'}, 'dictionary_item_removed': {"root['image_name']": 'Singapore Management University logo.png', "root['chancellor']": 'Dr Yong Pung How', "root['colours']": 'SMU blue and SMU gold ', "root['publictransit']": 'Dhoby Ghaut, City Hall and Bras Basah MRT stations '}, 'values_changed': {"root['name']": {'new_value': 'Singapore Management University', 'old_value': 'Singapore Management University, 新加坡管理大学'}, "root['president']": {'new_value': 'Howard Hunter |depu', 'old_value': 'Professor Arnoud De Meyer'}, "root['provost']": {'new_value': 'Rajendra Srivastava', 'old_value': 'Professor Rajendra Srivastava'}, "root['undergrad']": {'new_value': '4529', 'old_value': '7297'}, "root['postgrad']": {'new_value': '213', 'old_value': '1006'}, "root['faculty']": {'new_value': '210', 'old_value': '330'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'Urban; Ci'}}}
+131: {'values_changed': {"root['undergrad']": {'new_value': '7297', 'old_value': '7541'}, "root['postgrad']": {'new_value': '1006', 'old_value': '1257'}}}
+134: {'values_changed': {"root['faculty']": {'new_value': '330', 'old_value': '349'}}}
+164: {'values_changed': {"root['provost']": {'new_value': 'Professor Rajendra Srivastava', 'old_value': 'Professor Lily Kong'}}}
+176: {'dictionary_item_added': {"root['colours']": 'SMU blue and SMU gold '}, 'values_changed': {"root['undergrad']": {'new_value': '7541', 'old_value': '7541 '}}}
+219: {'dictionary_item_removed': {"root['rivals']": 'Nanyang Business School '}, 'values_changed': {"root['publictransit']": {'new_value': 'Dhoby Ghaut, City Hall and Bras Basah MRT stations ', 'old_value': 'Dhoby Ghaut, City Hall and Bras Basah MRT stations'}}}
+220: {'dictionary_item_added': {"root['rivals']": 'Nanyang Business School '}, 'values_changed': {"root['publictransit']": {'new_value': 'Dhoby Ghaut, City Hall and Bras Basah MRT stations', 'old_value': 'Dhoby Ghaut, City Hall and Bras Basah MRT stations '}}}
+226: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Yong Pung How', 'old_value': 'Mr JY Pillay'}}}
+238: {'values_changed': {"root['name']": {'new_value': 'Singapore Management University, 新加坡管理大学', 'old_value': 'Singapore Management University,'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'Singapore Management University,', 'old_value': 'Singapore Management University'}}}
+249: {'values_changed': {"root['undergrad']": {'new_value': '7541 ', 'old_value': '7791 '}, "root['postgrad']": {'new_value': '1257', 'old_value': '1461'}}}
+251: {'values_changed': {"root['chancellor']": {'new_value': 'Mr JY Pillay', 'old_value': 'J. Y. Pillay'}, "root['president']": {'new_value': 'Professor Arnoud De Meyer', 'old_value': 'Arnoud De Meyer'}, "root['provost']": {'new_value': 'Professor Lily Kong', 'old_value': 'Lily Kong'}, "root['faculty']": {'new_value': '349', 'old_value': '356'}}}
+263: {'dictionary_item_added': {"root['publictransit']": 'Dhoby Ghaut, City Hall and Bras Basah MRT stations '}, 'dictionary_item_removed': {"root['coor']": '17|48|N|103|50|59|E|region:SG_type:edu|displ'}}
+264: {'values_changed': {"root['image_name']": {'new_value': 'Singapore Management University logo.png', 'old_value': 'Singapore Management University logo.svg'}}}
+278: {'dictionary_item_added': {"root['chancellor']": 'J. Y. Pillay'}, 'values_changed': {"root['president']": {'new_value': 'Arnoud De Meyer', 'old_value': 'Professor Arnoud De Meyer'}, "root['provost']": {'new_value': 'Lily Kong', 'old_value': 'Professor Lily Kong'}}}
+279: {'dictionary_item_removed': {"root['chancellor']": 'Mr J. Y. Pillay'}}
+283: {'values_changed': {"root['undergrad']": {'new_value': '7791 ', 'old_value': '7827 '}, "root['postgrad']": {'new_value': '1461', 'old_value': '1759'}, "root['faculty']": {'new_value': '356', 'old_value': '353'}}}
+355: {'values_changed': {"root['undergrad']": {'new_value': '7827 ', 'old_value': '7979 '}, "root['postgrad']": {'new_value': '1759', 'old_value': '1720'}}}
+357: {'values_changed': {"root['faculty']": {'new_value': '353', 'old_value': '353 '}}}
+428: {'values_changed': {"root['undergrad']": {'new_value': '7979 ', 'old_value': '8182 '}, "root['postgrad']": {'new_value': '1720', 'old_value': '1828'}, "root['faculty']": {'new_value': '353 ', 'old_value': '355'}}}

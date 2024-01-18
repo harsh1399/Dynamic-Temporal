@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": 'Roosevelt University', "root['president']": 'http://www.roosevelt.edu/About/Leadership/President/Bio.aspx Dr. Ali Malekzadeh', "root['students']": '5,352', "root['undergrad']": '3,239', "root['postgrad']": '2,113', "root['affiliations']": 'NCA   http://www.ncahlc.org/ The Higher Learning Commission', "root['athletics']": 'NAIA, CCAC', "root['endowment']": '$109.6 million'}}
+4: {'values_changed': {"root['endowment']": {'new_value': '$109.6 million', 'old_value': '$122.2 million'}}}
+6: {'values_changed': {"root['students']": {'new_value': '5,352', 'old_value': '4,329'}, "root['undergrad']": {'new_value': '3,239', 'old_value': '2,419'}, "root['postgrad']": {'new_value': '2,113', 'old_value': '1,910'}}}
+7: {'dictionary_item_removed': {"root['campus']": 'Chicago and Schaumburg'}, 'values_changed': {"root['president']": {'new_value': 'http://www.roosevelt.edu/About/Leadership/President/Bio.aspx Dr. Ali Malekzadeh', 'old_value': 'Dr. Ali Malekzadeh'}}}
+12: {'values_changed': {"root['affiliations']": {'new_value': 'NCA   http://www.ncahlc.org/ The Higher Learning Commission', 'old_value': 'NCA   The Higher Learning Commission'}}}
+13: {'values_changed': {"root['students']": {'new_value': '4,329', 'old_value': '4,457'}, "root['undergrad']": {'new_value': '2,419', 'old_value': '2,578'}, "root['postgrad']": {'new_value': '1,910', 'old_value': '1,879'}}}
+14: {'dictionary_item_removed': {"root['faculty']": '208'}}
+16: {'values_changed': {"root['campus']": {'new_value': 'Chicago and Schaumburg', 'old_value': 'Downtown LoopChicago and Schaumburg'}}}
+17: {'values_changed': {"root['campus']": {'new_value': 'Downtown LoopChicago and Schaumburg', 'old_value': 'Downtown Loop Chicago and Schaumburg'}}}
+19: {'values_changed': {"root['faculty']": {'new_value': '208', 'old_value': '208 https://nces.ed.gov/collegenavigator/?q=roosevelt+university&s=all&id=148487'}}}
+20: {'values_changed': {"root['faculty']": {'new_value': '208 https://nces.ed.gov/collegenavigator/?q=roosevelt+university&s=all&id=148487', 'old_value': '208 '}}}
+22: {'values_changed': {"root['campus']": {'new_value': 'Downtown Loop Chicago and Schaumburg', 'old_value': 'Chicago Loop, Illinois and Schaumburg'}}}
+23: {'dictionary_item_removed': {"root['former_names']": 'Roosevelt College (1945 – 1954)'}}
+25: {'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Illinois and Schaumburg', 'old_value': 'Chicago Loop, and Schaumburg'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Roosevelt University', 'old_value': 'University'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'University', 'old_value': 'Roosevelt University'}}}
+31: {'values_changed': {"root['affiliations']": {'new_value': 'NCA   The Higher Learning Commission', 'old_value': 'NCA   The Higher Learning Commission  NAICU'}}}
+34: {'values_changed': {"root['endowment']": {'new_value': '$122.2 million', 'old_value': '$123.2 million'}}}
+41: {'values_changed': {"root['students']": {'new_value': '4,457', 'old_value': '6,391 (March 2020)'}, "root['undergrad']": {'new_value': '2,578', 'old_value': '4,277 (March 2020)'}, "root['postgrad']": {'new_value': '1,879', 'old_value': '2,114 (March 2020)'}}}
+57: {'values_changed': {"root['affiliations']": {'new_value': 'NCA   The Higher Learning Commission  NAICU', 'old_value': 'NCA   HLC  NAICU'}}}
+58: {'dictionary_item_added': {"root['endowment']": '$123.2 million'}, 'values_changed': {"root['former_names']": {'new_value': 'Roosevelt College (1945 – 1954)', 'old_value': 'Roosevelt College (1945–1954)'}, "root['campus']": {'new_value': 'Chicago Loop, and Schaumburg', 'old_value': 'Chicago Loop, Peoria, and Schaumburg'}}}
+64: {'values_changed': {"root['athletics']": {'new_value': 'NAIA, CCAC', 'old_value': 'NAIA, CCAC, CCWHA'}}}
+67: {'values_changed': {"root['athletics']": {'new_value': 'NAIA, CCAC, CCWHA', 'old_value': 'NAIA  , CCAC  , CCWHA'}}}
+68: {'values_changed': {"root['affiliations']": {'new_value': 'NCA   HLC  NAICU', 'old_value': 'NCA   HLC    NAICU'}}}
+69: {'values_changed': {"root['athletics']": {'new_value': 'NAIA  , CCAC  , CCWHA', 'old_value': 'NAIA   –  CCAC  , CCWHA'}}}
+72: {'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Peoria, and Schaumburg', 'old_value': 'Chicago Loop, Peoria, Waukegan, Illinois and Schaumburg'}}}
+73: {'values_changed': {"root['president']": {'new_value': 'Dr. Ali Malekzadeh', 'old_value': 'Ali Malekzadeh'}}}
+82: {'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Peoria, Waukegan, Illinois and Schaumburg', 'old_value': 'Chicago Loop, Peoria, Waukegan and Schaumburg'}}}
+91: {'values_changed': {"root['athletics']": {'new_value': 'NAIA   –  CCAC  , CCWHA', 'old_value': 'NAIA   –  CCAC,   CCWHA'}}}
+143: {'values_changed': {"root['affiliations']": {'new_value': 'NCA   HLC    NAICU', 'old_value': 'NCA NAICU'}, "root['athletics']": {'new_value': 'NAIA   –  CCAC,   CCWHA', 'old_value': 'NAIA   –  CCAC  , ACHA, CCWHA'}}}
+146: {'dictionary_item_added': {"root['affiliations']": 'NCA NAICU'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'NAICU'}}
+148: {'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Peoria, Waukegan and Schaumburg', 'old_value': 'Chicago Loop, Peoria, Waukegan, and Schaumburg, Urban (total), '}}}
+149: {'type_changes': {"root['athletics']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['NAIA   –  CCAC', 'ACHA', 'CCWHA'], 'new_value': 'NAIA   –  CCAC  , ACHA, CCWHA'}}, 'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Peoria, Waukegan, and Schaumburg, Urban (total), ', 'old_value': 'Chicago Loop, Peoria, Waukegan, and Schaumburg, Urban, '}}}
+158: {'dictionary_item_added': {"root['athletics']": ['NAIA   –  CCAC', 'ACHA', 'CCWHA']}, 'values_changed': {"root['campus']": {'new_value': 'Chicago Loop, Peoria, Waukegan, and Schaumburg, Urban, ', 'old_value': 'Chicago Loop and Schaumburg, Urban, '}}}
+160: {'values_changed': {"root['campus']": {'new_value': 'Chicago Loop and Schaumburg, Urban, ', 'old_value': 'Chicago Loop and Schaumburg Urban, '}}}
+163: {'values_changed': {"root['faculty']": {'new_value': '208 ', 'old_value': '216 (Spring 2022) '}}}
+182: {'dictionary_item_removed': {"root['athletics_affiliations']": 'NAIA |'}}
+183: {'values_changed': {"root['athletics_affiliations']": {'new_value': 'NAIA |', 'old_value': 'NAIA   – CCAC  , ACHA – CCWHA'}}}

@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Oakland University', "root['endowment']": '$31,264,092', "root['president']": 'Gary Russi', "root['students']": '18,920 (Fall 2009)', "root['undergrad']": 'approx. 15,000', "root['postgrad']": 'approx. 4,000', "root['campus']": 'Suburban'}}
+3: {'values_changed': {"root['endowment']": {'new_value': '$31,264,092', 'old_value': '$39.0 million'}}}
+15: {'values_changed': {"root['students']": {'new_value': '18,920 (Fall 2009)', 'old_value': '18,553 (Spring 2010) '}, "root['undergrad']": {'new_value': 'approx. 15,000', 'old_value': '14,397'}, "root['postgrad']": {'new_value': 'approx. 4,000', 'old_value': '3,772'}}}
+55: {'values_changed': {"root['president']": {'new_value': 'Gary Russi', 'old_value': 'Bob-O'}}}
+56: {'values_changed': {"root['president']": {'new_value': 'Bob-O', 'old_value': 'Gary Russi'}}}
+68: {'values_changed': {"root['endowment']": {'new_value': '$39.0 million', 'old_value': '$56.3 million'}, "root['students']": {'new_value': '18,553 (Spring 2010) ', 'old_value': '19,379 (Fall 2011) '}, "root['undergrad']": {'new_value': '14,397', 'old_value': '15,838'}, "root['postgrad']": {'new_value': '3,772', 'old_value': '3,541'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'Gary Russi', 'old_value': 'Betty Youngblood (interim)'}}}
+111: {'values_changed': {"root['students']": {'new_value': '19,379 (Fall 2011) ', 'old_value': '20,169 (Fall 2013)  '}, "root['undergrad']": {'new_value': '15,838', 'old_value': '16,594 (Fall 2013)  '}, "root['postgrad']": {'new_value': '3,541', 'old_value': '3,575 (Fall 2013)'}}}
+125: {'values_changed': {"root['president']": {'new_value': 'Betty Youngblood (interim)', 'old_value': 'George W. Hynd'}, "root['campus']": {'new_value': 'Suburban', 'old_value': 'Suburban - 1,500 acres (6.1 km²)'}}}
+128: {'values_changed': {"root['campus']": {'new_value': 'Suburban - 1,500 acres (6.1 km²)', 'old_value': 'Suburban - 1,443 acres (6.1 km²)'}}}
+129: {'values_changed': {"root['campus']": {'new_value': 'Suburban - 1,443 acres (6.1 km²)', 'old_value': 'Suburban; '}}}
+154: {'values_changed': {"root['endowment']": {'new_value': '$56.3 million', 'old_value': '$84 million'}}}
+187: {'values_changed': {"root['endowment']": {'new_value': '$84 million', 'old_value': '$86 million'}, "root['students']": {'new_value': '20,169 (Fall 2013)  ', 'old_value': '20,012 (Fall 2016)  '}, "root['undergrad']": {'new_value': '16,594 (Fall 2013)  ', 'old_value': '16,568 (Fall 2016)  '}, "root['postgrad']": {'new_value': '3,575 (Fall 2013)', 'old_value': '3,444 (Fall 2016)'}}}
+192: {'values_changed': {"root['president']": {'new_value': 'George W. Hynd', 'old_value': 'Ora Hirsch Pescovitz, M.D.'}}}
+196: {'values_changed': {"root['president']": {'new_value': 'Ora Hirsch Pescovitz, M.D.', 'old_value': 'Western Michigan University'}}}
+197: {'values_changed': {"root['president']": {'new_value': 'Western Michigan University', 'old_value': 'Ora Hirsch Pescovitz, M.D.'}}}
+204: {'values_changed': {"root['president']": {'new_value': 'Ora Hirsch Pescovitz, M.D.', 'old_value': 'https://www.oakland.edu/president/the-president/ Ora Hirsch Pescovitz'}, "root['undergrad']": {'new_value': '16,568 (Fall 2016)  ', 'old_value': '16,568 (Fall 2016) '}}}
+209: {'values_changed': {"root['president']": {'new_value': 'https://www.oakland.edu/president/the-president/ Ora Hirsch Pescovitz', 'old_value': 'Ora Hirsch Pescovitz'}}}
+224: {'values_changed': {"root['endowment']": {'new_value': '$86 million', 'old_value': '$102 million'}}}
+246: {'values_changed': {"root['endowment']": {'new_value': '$102 million', 'old_value': '$99.4 million (2019)'}}}
+247: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+255: {'values_changed': {"root['endowment']": {'new_value': '$99.4 million (2019)', 'old_value': '$102.1 million (2020)'}}}
+270: {'values_changed': {"root['students']": {'new_value': '20,012 (Fall 2016)  ', 'old_value': '20,012 (Fall 2016) '}}}

@@ -1,0 +1,45 @@
+150: {'dictionary_item_removed': {"root['name']": 'Southampton Solent University', "root['image_name']": 'Southampton Solent Univ logo.jpg', "root['tagline']": '"Spark your imagination"', "root['chancellor']": 'Baron West of Spithead', "root['vice_chancellor']": 'Professor Roger Brown', "root['students']": '17,365  ', "root['undergrad']": '10,515', "root['postgrad']": '755', "root['campus']": 'Urban'}}
+155: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Roger Brown', 'old_value': 'Professor Van Gore'}}}
+157: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Van Gore', 'old_value': 'Professor Roger Brown'}}}
+168: {'dictionary_item_removed': {"root['email']": 'ask@solent.ac.uk', "root['telephone']": '+44 (0)23 8031 9000'}}
+172: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Roger Brown', 'old_value': 'Professor Van Gore'}}}
+176: {'dictionary_item_removed': {"root['other']": '6,815 FE'}, 'values_changed': {"root['students']": {'new_value': '17,365  ', 'old_value': '17,455 '}, "root['undergrad']": {'new_value': '10,515', 'old_value': '9,990'}, "root['postgrad']": {'new_value': '755', 'old_value': '650'}}}
+210: {'values_changed': {"root['image_name']": {'new_value': 'Southampton Solent Univ logo.jpg', 'old_value': 'http://img399.imageshack.us/img399/8050/srilanka2copyya3.jpg'}}}
+211: {'values_changed': {"root['image_name']": {'new_value': 'http://img399.imageshack.us/img399/8050/srilanka2copyya3.jpg', 'old_value': 'Southampton Solent Univ logo.jpg'}}}
+218: {'values_changed': {"root['image_name']": {'new_value': 'Southampton Solent Univ logo.jpg', 'old_value': 'Southampton Solent Univ logo.png'}}}
+219: {'values_changed': {"root['image_name']": {'new_value': 'Southampton Solent Univ logo.png', 'old_value': 'Southampton Solent Univ logo.jpg'}}}
+224: {'dictionary_item_removed': {"root['endowment']": '£633,000'}, 'values_changed': {"root['image_name']": {'new_value': 'Southampton Solent Univ logo.jpg', 'old_value': 'Southampton Solent University.svg'}, "root['chancellor']": {'new_value': 'Baron West of Spithead', 'old_value': 'The Lord West of Spithead'}, "root['students']": {'new_value': '17,455 ', 'old_value': '17,455 ||'}}}
+227: {'dictionary_item_removed': {"root['colours']": 'Dark Red and Black '}}
+229: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'City Campus'}}}
+234: {'dictionary_item_removed': {"root['athletics']": 'BUCS Head and Regatta , BUCS South Eastern ,  BUCS Western Conference 3A ,  Snows Group Hampshire 2'}}
+237: {'dictionary_item_removed': {"root['affiliations']": 'Universities UK'}}
+239: {'values_changed': {"root['affiliations']": {'new_value': 'Universities UK', 'old_value': 'Universities UK , GuildHE'}}}
+240: {'values_changed': {"root['campus']": {'new_value': 'City Campus', 'old_value': 'Urban, City Campus'}}}
+241: {'values_changed': {"root['image_name']": {'new_value': 'Southampton Solent University.svg', 'old_value': 'Southampton_Solent_University_Emblem.svg'}}}
+247: {'dictionary_item_added': {"root['tagline']": '"Spark your imagination"', "root['email']": 'ask@solent.ac.uk', "root['telephone']": '+44 (0)23 8031 9000'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Van Gore', 'old_value': 'Van Gore'}, "root['students']": {'new_value': '17,455 ||', 'old_value': '17,455 '}, "root['colours']": {'new_value': 'Dark Red and Black ', 'old_value': 'Dark red and black '}}}
+263: {'values_changed': {"root['name']": {'new_value': 'Southampton Solent University', 'old_value': 'Southampton Shit University'}}}
+264: {'values_changed': {"root['name']": {'new_value': 'Southampton Shit University', 'old_value': 'Southampton Solent University'}}}
+265: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Van Gore', 'old_value': 'Professor Graham Baldwin'}}}
+287: {'values_changed': {"root['affiliations']": {'new_value': 'Universities UK , GuildHE', 'old_value': 'Universities UK , GuildHE , Million+'}}}
+299: {'dictionary_item_added': {"root['students']": '17,455 ', "root['undergrad']": '9,990', "root['postgrad']": '650'}, 'values_changed': {"root['other']": {'new_value': '6,815 FE', 'old_value': '6,815 FE '}}}
+307: {'values_changed': {"root['endowment']": {'new_value': '£633,000', 'old_value': '£0.81 m (2015)'}, "root['chancellor']": {'new_value': 'The Lord West of Spithead', 'old_value': 'Alan West, Baron West of Spithead'}, "root['vice_chancellor']": {'new_value': 'Professor Graham Baldwin', 'old_value': 'Graham Baldwin'}, "root['colours']": {'new_value': 'Dark red and black ', 'old_value': 'Dark red and black'}}}
+311: {'values_changed': {"root['name']": {'new_value': 'Southampton Solent University', 'old_value': 'Solent University'}}}
+316: {'values_changed': {"root['chancellor']": {'new_value': 'Alan West, Baron West of Spithead', 'old_value': 'Lord West of Spithead'}}}
+325: {'values_changed': {"root['chancellor']": {'new_value': 'Lord West of Spithead', 'old_value': 'Theo Paphitis'}}}
+330: {'values_changed': {"root['chancellor']": {'new_value': 'Theo Paphitis', 'old_value': 'Lord West of Spithead'}}}
+332: {'values_changed': {"root['chancellor']": {'new_value': 'Lord West of Spithead', 'old_value': 'Theo Paphitis'}}}
+341: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Graham Baldwin', 'old_value': 'Professor Karen Stanton'}}}
+355: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Karen Stanton', 'old_value': "Professor Karen Stanton |President of the Students' Union = Vaios Koukouletsos"}}}
+356: {'dictionary_item_added': {"root['image_name']": 'Southampton_Solent_University_Emblem.svg'}, 'values_changed': {"root['vice_chancellor']": {'new_value': "Professor Karen Stanton |President of the Students' Union = Vaios Koukouletsos", 'old_value': 'Professor Karen Stanton'}, "root['campus']": {'new_value': 'Urban, City Campus', 'old_value': 'Urban city campus'}}}
+363: {'values_changed': {"root['campus']": {'new_value': 'Urban city campus', 'old_value': 'Urban ci'}}}
+382: {'values_changed': {"root['athletics']": {'new_value': 'BUCS Head and Regatta , BUCS South Eastern ,  BUCS Western Conference 3A ,  Snows Group Hampshire 2', 'old_value': 'British Universities and Colleges Sport,  Snows Group Hampshire 2'}}}
+402: {'values_changed': {"root['endowment']": {'new_value': '£0.81 m (2015)', 'old_value': '£0.81M (2015)'}}}
+419: {'values_changed': {"root['athletics']": {'new_value': 'British Universities and Colleges Sport,  Snows Group Hampshire 2', 'old_value': 'British Universities and Colleges Sport  Snows Group Hampshire 2'}, "root['affiliations']": {'new_value': 'Universities UK , GuildHE , Million+', 'old_value': 'Universities UK  GuildHE  Million+'}}}
+424: {'dictionary_item_added': {"root['colours']": 'Dark red and black', "root['athletics']": 'British Universities and Colleges Sport  Snows Group Hampshire 2', "root['affiliations']": 'Universities UK  GuildHE  Million+'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'British Universities and Colleges Sport  Snows Group Hampshire 2', "root['academic_affiliations']": 'Universities UK  GuildHE  Million+'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Karen Stanton', 'old_value': 'Karen Stanton'}}}
+457: {'values_changed': {"root['chancellor']": {'new_value': 'Theo Paphitis', 'old_value': 'John Duncalf'}, "root['vice_chancellor']": {'new_value': 'Karen Stanton', 'old_value': 'Jamie Somerville'}}}
+459: {'values_changed': {"root['chancellor']": {'new_value': 'John Duncalf', 'old_value': 'Theo Paphitis'}, "root['vice_chancellor']": {'new_value': 'Jamie Somerville', 'old_value': 'Karen Stanton'}}}
+460: {'values_changed': {"root['chancellor']": {'new_value': 'Theo Paphitis', 'old_value': 'John Duncalf'}, "root['vice_chancellor']": {'new_value': 'Karen Stanton', 'old_value': 'Peter Auf de Hyde'}}}
+461: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Peter Auf de Hyde', 'old_value': 'Daniel Watson'}}}
+462: {'dictionary_item_added': {"root['chancellor']": 'John Duncalf', "root['vice_chancellor']": 'Daniel Watson'}, 'dictionary_item_removed': {"root['administrative_staff']": '| Top Shagger = John Duncalf  | Head Cleaner = Daniel Watson'}}
+463: {'dictionary_item_added': {"root['administrative_staff']": '| Top Shagger = John Duncalf  | Head Cleaner = Daniel Watson'}, 'dictionary_item_removed': {"root['Chancellor']": 'John Duncalf  | Vi'}}
+464: {'dictionary_item_added': {"root['Chancellor']": 'John Duncalf  | Vi'}, 'dictionary_item_removed': {"root['chancellor']": 'Theo Paphitis', "root['vice_chancellor']": 'Karen Stanton'}}

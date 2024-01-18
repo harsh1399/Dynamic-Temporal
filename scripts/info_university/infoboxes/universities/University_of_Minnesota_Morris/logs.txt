@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Minnesota Morris', "root['image_name']": 'Umnseal.png', "root['endowment']": '$8,173,097 ', "root['chancellor']": 'Jacqueline Johnson', "root['dean']": 'Bart Finzel (interim)', "root['students']": '1,932', "root['campus']": 'Rural', "root['affiliations']": 'UMAC'}}
+19: {'values_changed': {"root['students']": {'new_value': '1,932', 'old_value': '1,896'}}}
+28: {'values_changed': {"root['endowment']": {'new_value': '$8,173,097 ', 'old_value': '$10,086,825'}, "root['affiliations']": {'new_value': 'UMAC', 'old_value': 'UMAC  , Council of Public Liberal Arts Colleges (CoPLAC)  , University of Minnesota System'}}}
+29: {'values_changed': {"root['affiliations']": {'new_value': 'UMAC  , Council of Public Liberal Arts Colleges (CoPLAC)  , University of Minnesota System', 'old_value': 'UMAC,   Council of Public Liberal Arts Colleges (CoPLAC),  University of Minnesota System'}}}
+57: {'dictionary_item_added': {"root['dean']": 'Bart Finzel (interim)', "root['affiliations']": 'UMAC,   Council of Public Liberal Arts Colleges (CoPLAC),  University of Minnesota System'}, 'values_changed': {"root['chancellor']": {'new_value': 'Jacqueline Johnson', 'old_value': 'Michelle Behr'}}}
+59: {'values_changed': {"root['endowment']": {'new_value': '$10,086,825', 'old_value': '$12,661,923'}}}
+66: {'values_changed': {"root['students']": {'new_value': '1,896', 'old_value': '1,771 (https://www.usnews.com/best-colleges/minnesota-morris-2389)'}}}
+67: {'dictionary_item_added': {"root['campus']": 'Rural'}, 'values_changed': {"root['students']": {'new_value': '1,771 (https://www.usnews.com/best-colleges/minnesota-morris-2389)', 'old_value': '1,771  '}}}
+68: {'dictionary_item_removed': {"root['campus']": 'Rural'}, 'values_changed': {"root['students']": {'new_value': '1,771  ', 'old_value': '1,771 (https://www.usnews.com/best-colleges/minnesota-morris-2389)'}}}
+69: {'values_changed': {"root['students']": {'new_value': '1,771 (https://www.usnews.com/best-colleges/minnesota-morris-2389)', 'old_value': '1,896'}}}
+90: {'values_changed': {"root['image_name']": {'new_value': 'Umnseal.png', 'old_value': 'University of Minnesota seal.svg'}}}
+115: {'dictionary_item_added': {"root['chancellor']": 'Michelle Behr'}, 'values_changed': {"root['image_name']": {'new_value': 'University of Minnesota seal.svg', 'old_value': 'Seal of the University of Minnesota.svg'}}}
+126: {'values_changed': {"root['students']": {'new_value': '1,896', 'old_value': '1,431'}}}

@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'Damascus University', "root['image_name']": 'Damascus University.png', "root['staff']": '2,173', "root['president']": "Dr. Wael Mua'lla |Vi", "root['students']": 'around 190`000 http://www.damascusuniversity.edu.sy/en/index.php/university-guide/faculties/13-statement-by-the-president-of-the-university'}}
+6: {'values_changed': {"root['image_name']": {'new_value': 'Damascus University.png', 'old_value': 'Damascus University free.png'}}}
+7: {'values_changed': {"root['image_name']": {'new_value': 'Damascus University free.png', 'old_value': 'Damascus University.png'}}}
+18: {'values_changed': {"root['president']": {'new_value': "Dr. Wael Mua'lla |Vi", 'old_value': 'Dr.alsead alsori |Vi'}}}
+28: {'values_changed': {"root['president']": {'new_value': 'Dr.alsead alsori |Vi', 'old_value': 'Prof.Dr.Mhd Amer Al Mardini |Vi'}}}
+32: {'dictionary_item_added': {"root['president']": 'Prof.Dr.Mhd Amer Al Mardini |Vi'}, 'values_changed': {"root['staff']": {'new_value': '2,173', 'old_value': 'alsead'}}}
+33: {'dictionary_item_removed': {"root['president']": 'Prof.Dr.Mhd Amer Al Mardini |Vi'}, 'values_changed': {"root['staff']": {'new_value': 'alsead', 'old_value': '2,173'}}}
+49: {'values_changed': {"root['name']": {'new_value': 'Damascus University', 'old_value': 'Damascus University |nativ'}, "root['president']": {'new_value': 'Prof.Dr.Mhd Amer Al Mardini |Vi', 'old_value': 'Mohammad Amer Al Mardini    |Vi'}}}
+51: {'dictionary_item_added': {"root['students']": 'around 190`000 http://www.damascusuniversity.edu.sy/en/index.php/university-guide/faculties/13-statement-by-the-president-of-the-university'}, 'values_changed': {"root['president']": {'new_value': 'Mohammad Amer Al Mardini    |Vi', 'old_value': '|Vi'}}}
+52: {'dictionary_item_removed': {"root['students']": 'around 190`000 http://www.damascusuniversity.edu.sy/en/index.php/university-guide/faculties/13-statement-by-the-president-of-the-university'}, 'values_changed': {"root['president']": {'new_value': '|Vi', 'old_value': 'Mohammad Amer Al Mardini    |Vi'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Damascus University |nativ', 'old_value': 'Damascus University الحرة |nativ'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'Damascus University الحرة |nativ', 'old_value': 'Damascus University |nativ'}}}
+74: {'values_changed': {"root['image_name']": {'new_value': 'Damascus University.png', 'old_value': 'Damascus university internal view.jpg'}}}
+78: {'dictionary_item_added': {"root['students']": 'around 190`000 http://www.damascusuniversity.edu.sy/en/index.php/university-guide/faculties/13-statement-by-the-president-of-the-university'}, 'values_changed': {"root['image_name']": {'new_value': 'Damascus university internal view.jpg', 'old_value': 'Damascus University.png'}}}
+79: {'dictionary_item_removed': {"root['campus']": 'Baramkeh'}}
+82: {'dictionary_item_removed': {"root['students']": '217993'}, 'values_changed': {"root['name']": {'new_value': 'Damascus University |nativ', 'old_value': 'Damascus University'}}}
+88: {'dictionary_item_removed': {"root['former_names']": 'Syrian University'}, 'values_changed': {"root['campus']": {'new_value': 'Baramkeh', 'old_value': 'Urban'}}}
+90: {'values_changed': {"root['staff']": {'new_value': '2,173', 'old_value': '2,653'}}}
+91: {'dictionary_item_removed': {"root['undergrad']": '197,493', "root['postgrad']": '13,436', "root['doctoral']": '1,211'}, 'values_changed': {"root['students']": {'new_value': '217993', 'old_value': '197,493'}}}
+92: {'values_changed': {"root['students']": {'new_value': '197,493', 'old_value': '210,929'}}}
+93: {'values_changed': {"root['image_name']": {'new_value': 'Damascus University.png', 'old_value': 'File:Damascus University.jpg'}}}
+95: {'values_changed': {"root['image_name']": {'new_value': 'File:Damascus University.jpg', 'old_value': 'File:Damascus University.png'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Damascus University', 'old_value': 'Damanhour University'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Damanhour University', 'old_value': 'Damascus University'}}}
+104: {'values_changed': {"root['president']": {'new_value': 'Mohammad Amer Al Mardini    |Vi', 'old_value': 'Mohammad Hassan Al Kurdi    |Vi'}}}
+127: {'values_changed': {"root['name']": {'new_value': 'Damascus University', 'old_value': 'Damascus sex University for all'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Damascus sex University for all', 'old_value': 'Damascus University'}}}
+132: {'dictionary_item_added': {"root['staff']": '2,653', "root['president']": 'Mohammad Hassan Al Kurdi    |Vi'}, 'dictionary_item_removed': {"root['administrative_staff']": '2,653'}, 'values_changed': {"root['image_name']": {'new_value': 'File:Damascus University.png', 'old_value': 'Damascus University.png'}, "root['former_names']": {'new_value': 'Syrian University', 'old_value': 'Syrian University (1923–1958)'}}}

@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of New Hampshire', "root['president']": 'Mark W. Huddleston (19th)', "root['students']": '15,340 ', "root['undergrad']": '12,840 ', "root['postgrad']": '2,500', "root['staff']": '586', "root['endowment']": '$336 million', "root['campus']": 'Rural  2,600 acres', "root['athletics']": 'NCAA Division I – America East, Hockey East', "root['affiliations']": 'University System of New Hampshire, APLU'}}
+16: {'values_changed': {"root['undergrad']": {'new_value': '12,840 ', 'old_value': '12,840'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Mark W. Huddleston (19th)', 'old_value': 'Mark W. Huddleston'}}}
+56: {'values_changed': {"root['president']": {'new_value': 'Mark W. Huddleston', 'old_value': 'James W. Dean Jr.'}}}
+60: {'values_changed': {"root['affiliations']": {'new_value': 'University System of New Hampshire, APLU', 'old_value': 'University System of New Hampshire, APLU, NHCUC'}}}
+61: {'values_changed': {"root['affiliations']": {'new_value': 'University System of New Hampshire, APLU, NHCUC', 'old_value': 'APLU, NHCUC, USNH'}}}
+153: {'values_changed': {"root['affiliations']": {'new_value': 'APLU, NHCUC, USNH', 'old_value': 'APLU NHCUC USNH'}}}
+166: {'values_changed': {"root['endowment']": {'new_value': '$336 million', 'old_value': '$776.8 million (2018)'}}}
+222: {'values_changed': {"root['endowment']": {'new_value': '$776.8 million (2018)', 'old_value': '$803.9 million (2019)'}}}
+238: {'values_changed': {"root['endowment']": {'new_value': '$803.9 million (2019)', 'old_value': '404 million (2019) https://www.unh.edu/give/endowment-reports'}}}
+239: {'values_changed': {"root['endowment']": {'new_value': '404 million (2019) https://www.unh.edu/give/endowment-reports', 'old_value': '404 million (2019)'}}}
+250: {'values_changed': {"root['endowment']": {'new_value': '404 million (2019)', 'old_value': '$404 million (2019)'}}}
+251: {'dictionary_item_added': {"root['staff']": '586'}, 'dictionary_item_removed': {"root['academic_staff']": '997 (2019)'}, 'values_changed': {"root['students']": {'new_value': '15,340 ', 'old_value': '14,784 (2019) '}, "root['undergrad']": {'new_value': '12,840', 'old_value': '12,202 (2019)'}, "root['postgrad']": {'new_value': '2,500', 'old_value': '2,582 (2019)'}}}
+273: {'dictionary_item_added': {"root['affiliations']": 'APLU NHCUC USNH'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'APLU NHCUC USNH Sea-grant Space-grant'}}
+297: {'values_changed': {"root['academic_affiliations']": {'new_value': 'APLU NHCUC USNH Sea-grant Space-grant', 'old_value': 'APLU NHCUC Sea-grant Space-grant'}}}
+298: {'values_changed': {"root['academic_affiliations']": {'new_value': 'APLU NHCUC Sea-grant Space-grant', 'old_value': 'Sea-grant Space-grant'}}}
+299: {'values_changed': {"root['campus']": {'new_value': 'Rural  2,600 acres', 'old_value': 'Rural  2,601 acres'}}}
+300: {'values_changed': {"root['campus']": {'new_value': 'Rural  2,601 acres', 'old_value': 'Rural  2,600 acres'}}}
+301: {'values_changed': {"root['endowment']": {'new_value': '$404 million (2019)', 'old_value': '$401 million (2020)'}}}
+321: {'dictionary_item_removed': {"root['former_names']": 'New Hampshire College of Agriculture and the Mechanic Arts (1866-1923)'}}
+322: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UPNE', 'Sea-grant', 'Space-grant'], 'new_value': 'Sea-grant Space-grant'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division I – America East, Hockey East'}, 'values_changed': {"root['campus']": {'new_value': 'Rural  2,600 acres', 'old_value': 'College Town, '}}}
+324: {'iterable_item_removed': {"root['academic_affiliations'][1]": 'UArctic'}}
+325: {'iterable_item_added': {"root['academic_affiliations'][0]": 'UPNE'}}

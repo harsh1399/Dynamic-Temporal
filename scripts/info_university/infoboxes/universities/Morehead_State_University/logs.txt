@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Morehead State University', "root['endowment']": '$22.5M', "root['president']": 'Wayne D. Andrews', "root['students']": '10,748 (Fall 2016)', "root['faculty']": '438 ', "root['staff']": '930', "root['campus']": 'Rural 700 acres (2 km²)|', "root['athletics']": 'NCAA Division I FCS, OVC, Pioneer Football League'}}
+2: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS, OVC, Pioneer Football League', 'old_value': 'NCAA Division I FCS OVC, Pioneer Football League'}}}
+9: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I FCS OVC, Pioneer Football League'}, 'values_changed': {"root['endowment']": {'new_value': '$22.5M', 'old_value': '$22.5 million'}, "root['president']": {'new_value': 'Wayne D. Andrews', 'old_value': "Wayne D. Andrews  accessdate = December 26, 2014| title = Morehead State University – President's Biograp"}}}
+12: {'dictionary_item_added': {"root['president']": "Wayne D. Andrews  accessdate = December 26, 2014| title = Morehead State University – President's Biograp"}, 'values_changed': {"root['endowment']": {'new_value': '$22.5 million', 'old_value': '$43.7 million (2015)'}}}
+22: {'values_changed': {"root['students']": {'new_value': '10,748 (Fall 2016)', 'old_value': '10,394 (Fall 2017)'}}}
+23: {'values_changed': {"root['endowment']": {'new_value': '$43.7 million (2015)', 'old_value': '$31.5 million (2016)'}}}
+37: {'values_changed': {"root['students']": {'new_value': '10,394 (Fall 2017)', 'old_value': '10,584 (Fall 2017)'}}}
+41: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['endowment']": {'new_value': '$31.5 million (2016)', 'old_value': '$43.4 million (2019)'}, "root['students']": {'new_value': '10,584 (Fall 2017)', 'old_value': '9,307 (Fall 2020)'}, "root['faculty']": {'new_value': '438 ', 'old_value': '416 '}, "root['staff']": {'new_value': '930', 'old_value': '690'}}}
+65: {'dictionary_item_added': {"root['staff']": '690'}, 'dictionary_item_removed': {"root['administrative_staff']": '690'}}
+69: {'values_changed': {"root['name']": {'new_value': 'Morehead State University', 'old_value': 'Same Amount of Head State University'}}}
+70: {'values_changed': {"root['name']": {'new_value': 'Same Amount of Head State University', 'old_value': 'Morehead State University'}}}
+72: {'values_changed': {"root['students']": {'new_value': '9,307 (Fall 2020)', 'old_value': '10,261 (Fall 2021)'}}}
+73: {'values_changed': {"root['students']": {'new_value': '10,261 (Fall 2021)', 'old_value': '8,984 (Fall 2021)'}}}
+88: {'values_changed': {"root['faculty']": {'new_value': '416 ', 'old_value': '405 '}, "root['administrative_staff']": {'new_value': '690', 'old_value': '591'}}}
+110: {'values_changed': {"root['students']": {'new_value': '8,984 (Fall 2021)', 'old_value': '8,810 (Fall 2022)'}}}
+115: {'values_changed': {"root['endowment']": {'new_value': '$43.4 million (2019)', 'old_value': '$70 million (2022) '}}}
+116: {'values_changed': {"root['endowment']": {'new_value': '$70 million (2022) ', 'old_value': '$70 million (2022)'}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '$70 million (2022)', 'old_value': '$71 million (2022)'}}}
+118: {'values_changed': {"root['students']": {'new_value': '8,810 (Fall 2022)', 'old_value': '8,810 (Fall 2022)  undergrad = 8,218 (Fall 2022)   | postgrad = 592 (Fall 2022'}}}

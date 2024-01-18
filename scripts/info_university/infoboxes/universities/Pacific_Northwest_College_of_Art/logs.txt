@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pacific Northwest College of Art', "root['endowment']": '$15.0 million', "root['faculty']": '67', "root['president']": 'Thomas Manley', "root['students']": '545', "root['campus']": 'Urban'}}
+52: {'dictionary_item_removed': {"root['provost']": 'Greg Ware', "root['affiliations']": 'AICAD, AAC&U, ACE, NAICU, CHEA, ARC NW, OICA, FATE', "root['telephone']": '503.226.4391'}, 'values_changed': {"root['faculty']": {'new_value': '67', 'old_value': '91 full and part-time'}, "root['students']": {'new_value': '545', 'old_value': '521'}}}
+54: {'values_changed': {"root['endowment']": {'new_value': '$15.0 million', 'old_value': '$14.7 million'}}}
+65: {'values_changed': {"root['faculty']": {'new_value': '91 full and part-time', 'old_value': '120 full and part-time'}, "root['students']": {'new_value': '521', 'old_value': '551'}}}
+74: {'dictionary_item_added': {"root['faculty']": '120 full and part-time', "root['provost']": 'Greg Ware'}, 'dictionary_item_removed': {"root['academic_staff']": '104 (2014) ', "root['grad']": '110 (2014)', "root['other']": '1,450-ce (2011)'}, 'values_changed': {"root['students']": {'new_value': '551', 'old_value': '519 (2014)'}}}
+93: {'values_changed': {"root['president']": {'new_value': 'Thomas Manley', 'old_value': 'Casey Mills (interim)'}}}
+96: {'values_changed': {"root['endowment']": {'new_value': '$14.7 million', 'old_value': 'unknown'}}}
+101: {'values_changed': {"root['endowment']": {'new_value': 'unknown', 'old_value': '$14.7 million'}}}
+105: {'values_changed': {"root['president']": {'new_value': 'Casey Mills (interim)', 'old_value': 'Donald Tuski'}}}
+111: {'dictionary_item_added': {"root['grad']": '110 (2014)'}, 'dictionary_item_removed': {"root['graduate']": '99 (2016)'}, 'values_changed': {"root['students']": {'new_value': '519 (2014)', 'old_value': '498 (2016)'}}}
+114: {'dictionary_item_added': {"root['graduate']": '99 (2016)', "root['telephone']": '503.226.4391'}, 'dictionary_item_removed': {"root['undergrad']": '358 (2016)', "root['postgrad']": '99 (2016)'}, 'values_changed': {"root['other']": {'new_value': '1,450-ce (2011)', 'old_value': '1,400 CE (2016)'}}}
+122: {'values_changed': {"root['academic_staff']": {'new_value': '104 (2014) ', 'old_value': '94 (2017)'}, "root['students']": {'new_value': '498 (2016)', 'old_value': '549 (2017)'}, "root['undergrad']": {'new_value': '358 (2016)', 'old_value': '412 (2017)'}, "root['postgrad']": {'new_value': '99 (2016)', 'old_value': '111 (2017)'}}}
+125: {'values_changed': {"root['academic_staff']": {'new_value': '94 (2017)', 'old_value': '94 (2017) '}}}
+141: {'dictionary_item_added': {"root['affiliations']": 'AICAD, AAC&U, ACE, NAICU, CHEA, ARC NW, OICA, FATE'}, 'dictionary_item_removed': {"root['dean']": 'Kate Copeland'}, 'values_changed': {"root['president']": {'new_value': 'Donald Tuski', 'old_value': 'Christopher Maples (interim)'}}}
+150: {'values_changed': {"root['students']": {'new_value': '549 (2017)', 'old_value': '642 (2019)'}, "root['undergrad']": {'new_value': '412 (2017)', 'old_value': '506 (2019)'}, "root['postgrad']": {'new_value': '111 (2017)', 'old_value': '136 (2019)'}}}

@@ -1,0 +1,45 @@
+0: {'dictionary_item_removed': {"root['image_name']": 'Jawaharlal Nehru University logo.jpg', "root['chancellor']": 'subramanian swamy', "root['vice_chancellor']": 'Sudhir Kumar Sopory', "root['campus']": 'Urban 1000 acres (4 km²)', "root['students']": '8,309 (on 31 August 2015)', "root['faculty']": '473 (on 31 January 2011)', "root['administrative_staff']": '1276 (on 31 March 2011)', "root['affiliations']": 'UGC, NAAC, AIU'}}
+1: {'values_changed': {"root['chancellor']": {'new_value': 'subramanian swamy', 'old_value': 'K. Kasturirangan'}}}
+12: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sudhir Kumar Sopory', 'old_value': 'Mamidala Jagadesh Kumar'}}}
+54: {'values_changed': {"root['campus']": {'new_value': 'Urban 1000 acres (4 km²)', 'old_value': 'Urban'}}}
+164: {'values_changed': {"root['faculty']": {'new_value': '473 (on 31 January 2011)', 'old_value': '6500 (on 31 January 2016)'}}}
+165: {'values_changed': {"root['faculty']": {'new_value': '6500 (on 31 January 2016)', 'old_value': '650 (on 31 January 2016)'}}}
+333: {'values_changed': {"root['chancellor']": {'new_value': 'K. Kasturirangan', 'old_value': 'ROHIT VEMULA'}, "root['vice_chancellor']": {'new_value': 'Mamidala Jagadesh Kumar', 'old_value': 'KANHAIYA KUMAR'}}}
+335: {'values_changed': {"root['chancellor']": {'new_value': 'ROHIT VEMULA', 'old_value': 'K. Kasturirangan'}, "root['vice_chancellor']": {'new_value': 'KANHAIYA KUMAR', 'old_value': 'Mamidala Jagadesh Kumar'}}}
+341: {'values_changed': {"root['chancellor']": {'new_value': 'K. Kasturirangan', 'old_value': 'MADARCHOD KANHAIYA KUMAR'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'INDIAN ARMY KO GALAT BOLKAR TUNE THIK NAHI KIYA'}}}
+342: {'values_changed': {"root['chancellor']": {'new_value': 'MADARCHOD KANHAIYA KUMAR', 'old_value': 'K. Kasturirangan'}, "root['campus']": {'new_value': 'INDIAN ARMY KO GALAT BOLKAR TUNE THIK NAHI KIYA', 'old_value': 'Urban'}}}
+449: {'dictionary_item_added': {"root['students']": '8,309 (on 31 August 2015)', "root['faculty']": '650 (on 31 January 2016)', "root['administrative_staff']": '1276 (on 31 March 2011)'}, 'values_changed': {"root['image_name']": {'new_value': 'Jawaharlal Nehru University logo.jpg', 'old_value': 'feels_good_man.jpg'}}}
+450: {'values_changed': {"root['image_name']": {'new_value': 'feels_good_man.jpg', 'old_value': 'Jawaharlal Nehru University logo.jpg'}}}
+459: {'values_changed': {"root['chancellor']": {'new_value': 'K. Kasturirangan', 'old_value': 'Sumit joon'}}}
+475: {'values_changed': {"root['chancellor']": {'new_value': 'Sumit joon', 'old_value': 'Prof. K. Kasturirangan'}}}
+476: {'values_changed': {"root['chancellor']": {'new_value': 'Prof. K. Kasturirangan', 'old_value': 'Krishnaswamy Kasturirangan'}, "root['affiliations']": {'new_value': 'UGC, NAAC, AIU', 'old_value': 'UGC, NAAC, AIU '}}}
+515: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mamidala Jagadesh Kumar', 'old_value': 'sanjeev'}}}
+517: {'values_changed': {"root['vice_chancellor']": {'new_value': 'sanjeev', 'old_value': 'Mamidala Jagadesh Kumar'}}}
+519: {'values_changed': {"root['chancellor']": {'new_value': 'Krishnaswamy Kasturirangan', 'old_value': 'V. K. Saraswat'}}}
+561: {'values_changed': {"root['image_name']": {'new_value': 'Jawaharlal Nehru University logo.jpg', 'old_value': 'JNU logo.svg'}}}
+576: {'dictionary_item_added': {"root['image_name']": 'JNU logo.svg'}, 'dictionary_item_removed': {"root['name']": 'Jawaharlal Nehru University', "root['head']": 'President of India', "root['academic_staff']": '614 ', "root['students']": '8,432', "root['undergrad']": '905', "root['postgrad']": '2,150', "root['doctoral']": '5,219', "root['other_students']": '158'}, 'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, total '}, "root['affiliations']": {'new_value': 'UGC, NAAC, AIU ', 'old_value': 'UGC NAAC AIU'}}}
+628: {'values_changed': {"root['undergrad']": {'new_value': '905', 'old_value': '904'}}}
+629: {'values_changed': {"root['undergrad']": {'new_value': '904', 'old_value': '905'}}}
+630: {'values_changed': {"root['chancellor']": {'new_value': 'V. K. Saraswat', 'old_value': 'Sumit joon'}}}
+631: {'values_changed': {"root['chancellor']": {'new_value': 'Sumit joon', 'old_value': 'V. K. Saraswat'}}}
+643: {'type_changes': {"root['affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UGC', 'NAAC', 'AIU'], 'new_value': 'UGC NAAC AIU'}}}
+782: {'values_changed': {"root['chancellor']": {'new_value': 'V. K. Saraswat', 'old_value': 'AK Dwivedi'}}}
+801: {'iterable_item_removed': {"root['affiliations'][3]": 'McDonnell International Scholars Academy'}}
+802: {'type_changes': {"root['affiliations']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'UGC, NAAC, AIU, McDonnell International Scholars Academy', 'new_value': ['UGC', 'NAAC', 'AIU', 'McDonnell International Scholars Academy']}}}
+803: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU, McDonnell International Scholars Academy', 'old_value': 'UGC, NAAC, AIU, Washington University in St. Louis McDonnell International Scholars Academy'}}}
+816: {'values_changed': {"root['chancellor']": {'new_value': 'AK Dwivedi', 'old_value': 'V.K.Saraswat'}}}
+824: {'values_changed': {"root['name']": {'new_value': 'Jawaharlal Nehru University', 'old_value': 'Rahul gandhi university'}}}
+825: {'values_changed': {"root['name']": {'new_value': 'Rahul gandhi university', 'old_value': 'Jawaharlal Nehru University'}}}
+826: {'values_changed': {"root['students']": {'new_value': '8,432', 'old_value': '432'}}}
+827: {'values_changed': {"root['undergrad']": {'new_value': '905', 'old_value': '105'}, "root['postgrad']": {'new_value': '2,150', 'old_value': '337'}, "root['doctoral']": {'new_value': '5,219', 'old_value': '27'}, "root['other_students']": {'new_value': '158', 'old_value': '19'}}}
+828: {'values_changed': {"root['students']": {'new_value': '432', 'old_value': '8,432'}, "root['undergrad']": {'new_value': '105', 'old_value': '905'}, "root['postgrad']": {'new_value': '337', 'old_value': '2,150'}, "root['doctoral']": {'new_value': '27', 'old_value': '5,219'}, "root['other_students']": {'new_value': '19', 'old_value': '158'}}}
+839: {'dictionary_item_added': {"root['doctoral']": '5,219'}, 'values_changed': {"root['postgrad']": {'new_value': '2,150', 'old_value': '2,150  | doctoral scholars = 5,219'}}}
+840: {'dictionary_item_removed': {"root['doctoral']": '5,219'}, 'values_changed': {"root['postgrad']": {'new_value': '2,150  | doctoral scholars = 5,219', 'old_value': '2,150'}}}
+852: {'values_changed': {"root['students']": {'new_value': '8,432', 'old_value': '8,432 (Average Age - 40+ Years)'}}}
+853: {'values_changed': {"root['students']": {'new_value': '8,432 (Average Age - 40+ Years)', 'old_value': '8,432 (Average Age - 40+Years)'}}}
+855: {'values_changed': {"root['students']": {'new_value': '8,432 (Average Age - 40+Years)', 'old_value': '8,432'}}}
+864: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mamidala Jagadesh Kumar', 'old_value': 'Divyansh'}}}
+865: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Divyansh', 'old_value': 'Mamidala Jagadesh Kumar'}}}
+870: {'values_changed': {"root['academic_staff']": {'new_value': '614 ', 'old_value': '599 '}, "root['students']": {'new_value': '8,432', 'old_value': '8,082'}, "root['undergrad']": {'new_value': '905', 'old_value': '1,053'}, "root['postgrad']": {'new_value': '2,150', 'old_value': '2,291'}, "root['doctoral']": {'new_value': '5,219', 'old_value': '4,594'}, "root['other_students']": {'new_value': '158', 'old_value': '144'}}}
+902: {'values_changed': {"root['chancellor']": {'new_value': 'V.K.Saraswat', 'old_value': 'V. K. Saraswat'}}}
+909: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Mamidala Jagadesh Kumar', 'old_value': 'Santishree Dhulipudi Pandit'}}}

@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sarah Lawrence College', "root['image_name']": 'SLCSeal.JPG', "root['endowment']": '$91.2 million (2015)', "root['president']": 'Karen R. Lawrence', "root['campus']": 'Suburban, 44 acres', "root['undergrad']": '1,437', "root['athletics']": 'NCAA Division III Skyline Conference', "root['affiliations']": 'Annapolis Group, Oberlin Group'}}
+2: {'values_changed': {"root['president']": {'new_value': 'Karen R. Lawrence', 'old_value': "Karen R. Lawrence ,  ''Cristle Collins Judd (incoming)''"}}}
+3: {'values_changed': {"root['endowment']": {'new_value': '$91.2 million (2015)', 'old_value': '$90.0 million (2016)'}}}
+8: {'values_changed': {"root['affiliations']": {'new_value': 'Annapolis Group, Oberlin Group', 'old_value': 'Annapolis Group, Oberlin Group '}}}
+9: {'values_changed': {"root['affiliations']": {'new_value': 'Annapolis Group, Oberlin Group ', 'old_value': 'Annapolis Group, Oberlin Group'}}}
+11: {'values_changed': {"root['affiliations']": {'new_value': 'Annapolis Group, Oberlin Group', 'old_value': 'Annapolis Group, Oberlin Group '}}}
+16: {'values_changed': {"root['endowment']": {'new_value': '$90.0 million (2016)', 'old_value': '$900 million (2016)'}}}
+17: {'values_changed': {"root['endowment']": {'new_value': '$900 million (2016)', 'old_value': '$90.0 million (2016)'}}}
+36: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 44 acres', 'old_value': 'Suburban, 41 acres'}}}
+37: {'values_changed': {"root['president']": {'new_value': "Karen R. Lawrence ,  ''Cristle Collins Judd (incoming)''", 'old_value': 'Cristle Collins Judd'}}}
+47: {'values_changed': {"root['endowment']": {'new_value': '$90.0 million (2016)', 'old_value': '$104.0 million (2017)'}, "root['undergrad']": {'new_value': '1,437', 'old_value': '1,377'}, "root['campus']": {'new_value': 'Suburban, 41 acres', 'old_value': 'Suburban, 44 acres'}}}
+63: {'dictionary_item_removed': {"root['postgrad']": '298'}, 'values_changed': {"root['president']": {'new_value': 'Cristle Collins Judd', 'old_value': 'Cristle Collins Judd (2017-present)'}}}
+121: {'dictionary_item_removed': {"root['students']": '1,675'}, 'values_changed': {"root['endowment']": {'new_value': '$104.0 million (2017)', 'old_value': '$113.8 million'}, "root['president']": {'new_value': 'Cristle Collins Judd (2017-present)', 'old_value': 'Cristle Collins Judd (2017–present)'}}}
+122: {'values_changed': {"root['endowment']": {'new_value': '$113.8 million', 'old_value': '$112.0 million (2018)'}}}
+129: {'values_changed': {"root['endowment']": {'new_value': '$112.0 million (2018)', 'old_value': '$117.0 million (2019)'}}}
+203: {'dictionary_item_added': {"root['affiliations']": 'Annapolis Group, Oberlin Group '}, 'values_changed': {"root['endowment']": {'new_value': '$117.0 million (2019)', 'old_value': '$110.2 million (2020)'}}}
+205: {'values_changed': {"root['image_name']": {'new_value': 'SLCSeal.JPG', 'old_value': 'Sarah Lawrence College Logo.svg'}}}
+222: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III Skyline Conference'}, 'dictionary_item_removed': {"root['affiliations']": 'masc'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, 44 acres', 'old_value': 'Suburban'}}}

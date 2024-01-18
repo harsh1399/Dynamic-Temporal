@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indian Institute of Management Calcutta', "root['image_name']": 'IIM Calcutta Logo.svg', "root['chairman']": 'Ajit Balakrishnan', "root['president']": '| vice-president    =', "root['director']": 'Saibal Chattopadhyay', "root['dean']": 'Uttam Kumar Sarkar,  Biju Paul Abraham', "root['academic_staff']": '92', "root['students']": '1714', "root['postgrad']": '868', "root['doctoral']": '65+', "root['campus']": 'Urban, '}}
+1: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of Management Calcutta', 'old_value': 'Indian Institute of Management Plagiarised'}}}
+3: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of Management Plagiarised', 'old_value': 'Indian Institute of Management Calcutta'}}}
+6: {'values_changed': {"root['chairman']": {'new_value': 'Ajit Balakrishnan', 'old_value': 'Shrikrishna Kulkarni'}}}
+12: {'values_changed': {"root['director']": {'new_value': 'Saibal Chattopadhyay', 'old_value': 'Bharatendu Nath Srivastava'}}}
+59: {'dictionary_item_added': {"root['dean']": 'Uttam Kumar Sarkar,  Biju Paul Abraham'}, 'values_changed': {"root['director']": {'new_value': 'Bharatendu Nath Srivastava', 'old_value': 'Anju Seth'}}}
+107: {'values_changed': {"root['image_name']": {'new_value': 'IIM Calcutta Logo.svg', 'old_value': 'thumb'}}}
+112: {'values_changed': {"root['image_name']": {'new_value': 'thumb', 'old_value': 'IIM Calcutta Logo.svg'}}}
+115: {'dictionary_item_removed': {"root['endowment']": '₹6.45 Billion (2016-17)'}}
+116: {'values_changed': {"root['academic_staff']": {'new_value': '92', 'old_value': '95'}, "root['doctoral']": {'new_value': '65+', 'old_value': '98'}}}
+146: {'dictionary_item_added': {"root['endowment']": '₹6.45 Billion (2016-17)', "root['doctoral']": '98'}, 'values_changed': {"root['postgrad']": {'new_value': '868', 'old_value': '868 | Phd.          = 98'}}}
+147: {'dictionary_item_removed': {"root['Phd']": '98'}, 'values_changed': {"root['postgrad']": {'new_value': '868 | Phd.          = 98', 'old_value': '868'}}}
+148: {'dictionary_item_added': {"root['Phd']": '98'}, 'dictionary_item_removed': {"root['doctoral']": '98'}}
+156: {'values_changed': {"root['academic_staff']": {'new_value': '95', 'old_value': '92'}, "root['doctoral']": {'new_value': '98', 'old_value': '65+'}}}
+185: {'dictionary_item_added': {"root['chairman']": 'Shrikrishna Kulkarni'}, 'dictionary_item_removed': {"root['chairperson']": 'Shrikrishna Kulkarni'}, 'values_changed': {"root['academic_staff']": {'new_value': '92', 'old_value': '91 '}, "root['students']": {'new_value': '1714', 'old_value': '1,134'}, "root['postgrad']": {'new_value': '868', 'old_value': '1,031'}, "root['doctoral']": {'new_value': '65+', 'old_value': '103'}}}
+204: {'values_changed': {"root['president']": {'new_value': '| vice-president    =', 'old_value': '| vic'}, "root['director']": {'new_value': 'Anju Seth', 'old_value': 'Subir Bhattacharya'}}}
+209: {'values_changed': {"root['director']": {'new_value': 'Subir Bhattacharya', 'old_value': 'Uttam Kumar Sarkar'}}}
+212: {'values_changed': {"root['students']": {'new_value': '1,134', 'old_value': '1,164'}, "root['postgrad']": {'new_value': '1,031', 'old_value': '1,067'}, "root['doctoral']": {'new_value': '103', 'old_value': '97'}}}
+226: {'values_changed': {"root['students']": {'new_value': '1,164', 'old_value': '1,164 '}, "root['postgrad']": {'new_value': '1,067', 'old_value': '1,067 '}, "root['doctoral']": {'new_value': '97', 'old_value': '97 '}}}
+231: {'dictionary_item_added': {"root['president']": '| vic', "root['doctoral']": '97 '}, 'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban  '}}}
+234: {'values_changed': {"root['campus']": {'new_value': 'Urban  ', 'old_value': 'City  '}}}
+235: {'values_changed': {"root['campus']": {'new_value': 'City  ', 'old_value': 'Large city  '}}}
+239: {'values_changed': {"root['academic_staff']": {'new_value': '91 ', 'old_value': '87 '}, "root['students']": {'new_value': '1,164 ', 'old_value': '1,178 '}, "root['postgrad']": {'new_value': '1,067 ', 'old_value': '1,081 '}}}
+254: {'values_changed': {"root['students']": {'new_value': '1,178 ', 'old_value': '1,166 '}, "root['postgrad']": {'new_value': '1,081 ', 'old_value': '1,069 '}}}

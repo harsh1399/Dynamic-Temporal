@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bastyr University', "root['staff']": '219', "root['faculty']": '273', "root['president']": 'Charles "Mac" Powell ', "root['provost']": 'Timothy C. Callahan', "root['students']": '1018', "root['campus']": '51 acres', "root['former_names']": 'John Bastyr College of Naturopathic Medicine Bastyr College', "root['colours']": 'Cranberry and ginger'}}
+35: {'values_changed': {"root['campus']": {'new_value': '51 acres', 'old_value': '51 acres (20.5 ha)'}}}
+80: {'dictionary_item_added': {"root['students']": '1018', "root['colours']": 'Cranberry and ginger', "root['staff']": '219', "root['faculty']": '273'}, 'values_changed': {"root['president']": {'new_value': 'Charles "Mac" Powell ', 'old_value': 'Harlan Patterson '}, "root['provost']": {'new_value': 'Timothy C. Callahan', 'old_value': 'Dave Rule'}}}
+121: {'dictionary_item_added': {"root['campus']": '51 acres (20.5 ha)'}, 'values_changed': {"root['president']": {'new_value': 'Harlan Patterson ', 'old_value': 'Dr. Devin Byrd '}}}
+122: {'values_changed': {"root['president']": {'new_value': 'Dr. Devin Byrd ', 'old_value': 'Harlan Patterson '}}}
+123: {'values_changed': {"root['president']": {'new_value': 'Harlan Patterson ', 'old_value': 'Dr Devin Byrd '}}}
+124: {'values_changed': {"root['president']": {'new_value': 'Dr Devin Byrd ', 'old_value': 'Harlan Patterson '}}}
+125: {'values_changed': {"root['president']": {'new_value': 'Harlan Patterson ', 'old_value': 'Devin Byrd'}}}

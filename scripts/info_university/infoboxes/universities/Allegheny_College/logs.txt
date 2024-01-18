@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Allegheny College', "root['image_name']": 'Seal of Allegheny College.svg', "root['president']": 'James H. Mullen, Jr.', "root['students']": '2,100', "root['faculty']": '157', "root['publisher']": 'Allegheny College', "root['date']": 'August 26, 2009', "root['campus']": 'Small town, ', "root['endowment']": '$146.5 million (2012)', "root['history']": '32 oldest college in the nation'}}
+1: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – NCAC'}}
+2: {'dictionary_item_removed': {"root['religion']": 'United Methodist Church'}}
+3: {'dictionary_item_removed': {"root['affiliations']": 'GLCA, MSA – MCHE, Annapolis Group'}}
+17: {'values_changed': {"root['students']": {'new_value': '2,100', 'old_value': '2,100, mainly big booty hoes'}}}
+19: {'values_changed': {"root['students']": {'new_value': '2,100, mainly big booty hoes', 'old_value': '2,100'}}}
+24: {'dictionary_item_added': {"root['faculty']": '157', "root['date']": 'August 26, 2009'}, 'values_changed': {"root['students']": {'new_value': '2,100', 'old_value': '1,931 (2015) '}, "root['publisher']": {'new_value': 'Allegheny College', 'old_value': 'Allegheny College Institutional Research   | faculty      = 157 |'}, "root['endowment']": {'new_value': '$146.5 million (2012)', 'old_value': '$184.6 million (2014)'}}}
+25: {'values_changed': {"root['endowment']": {'new_value': '$184.6 million (2014)', 'old_value': '$183.1 million (2015)'}}}
+28: {'dictionary_item_added': {"root['religion']": 'United Methodist Church', "root['publisher']": 'Allegheny College Institutional Research   | faculty      = 157 |', "root['history']": '32 oldest college in the nation'}, 'dictionary_item_removed': {"root['faculty']": '197 (2015)'}}
+50: {'values_changed': {"root['endowment']": {'new_value': '$183.1 million (2015)', 'old_value': '$204.5 million (2017)'}}}
+52: {'values_changed': {"root['students']": {'new_value': '1,931 (2015) ', 'old_value': '2,100 (2017) '}}}
+61: {'values_changed': {"root['president']": {'new_value': 'James H. Mullen, Jr.', 'old_value': 'Donald J. Trump'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Donald J. Trump', 'old_value': 'James H. Mullen, Jr.'}}}
+74: {'values_changed': {"root['endowment']": {'new_value': '$204.5 million (2017)', 'old_value': '$220.8 million (2018)'}}}
+98: {'dictionary_item_added': {"root['image_name']": 'Seal of Allegheny College.svg'}, 'values_changed': {"root['president']": {'new_value': 'James H. Mullen, Jr.', 'old_value': 'Hilary L. Link'}}}
+105: {'values_changed': {"root['students']": {'new_value': '2,100 (2017) ', 'old_value': '1,771 (2018) '}, "root['faculty']": {'new_value': '197 (2015)', 'old_value': '193 (2018)'}}}
+110: {'values_changed': {"root['affiliations']": {'new_value': 'GLCA, MSA – MCHE, Annapolis Group', 'old_value': 'GLCA, MCHE, Annapolis Group'}}}
+115: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NCAC', "root['affiliations']": 'GLCA, MCHE, Annapolis Group'}, 'values_changed': {"root['endowment']": {'new_value': '$220.8 million (2018)', 'old_value': '$230.5 million (2019) As of June 30, 2019'}}}
+123: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – NCAC', "root['affiliations']": 'GLCA, MCHE, Annapolis Group'}, 'values_changed': {"root['endowment']": {'new_value': '$230.5 million (2019) As of June 30, 2019', 'old_value': '$233.7 million (2020)'}}}
+124: {'values_changed': {"root['president']": {'new_value': 'Hilary L. Link', 'old_value': 'The 13th P. Link'}}}
+125: {'values_changed': {"root['president']": {'new_value': 'The 13th P. Link', 'old_value': 'Hilary L. Link'}}}
+142: {'values_changed': {"root['students']": {'new_value': '1,771 (2018) ', 'old_value': '1,543 (2021) '}}}
+144: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NCAC', "root['affiliations']": 'GLCA, MCHE, Annapolis Group'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NCAC', "root['academic_affiliations']": 'GLCA, MCHE, Annapolis Group'}}
+145: {'values_changed': {"root['academic_affiliations']": {'new_value': 'GLCA, MCHE, Annapolis Group', 'old_value': 'GLCA MCHE Annapolis Group'}}}
+165: {'values_changed': {"root['endowment']": {'new_value': '$233.7 million (2020)', 'old_value': '$289 million (2021)'}}}

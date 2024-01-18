@@ -1,0 +1,11 @@
+86: {'dictionary_item_removed': {"root['name']": 'Webster University', "root['endowment']": '$138.9 million (2017) ', "root['president']": 'Dr. Elizabeth J. Stroble', "root['students']": '14,471 (2017)', "root['alumni']": '190,000 (2017)', "root['campus']": 'Suburban, ', "root['athletics']": 'NCAA Division III', "root['athletics_nickname']": 'Gorloks'}}
+94: {'values_changed': {"root['president']": {'new_value': 'Dr. Elizabeth J. Stroble', 'old_value': 'Dr. Julian Schustet'}}}
+95: {'dictionary_item_added': {"root['president']": 'Dr. Julian Schustet'}, 'dictionary_item_removed': {"root['chancellor']": 'Dr. Elizabeth Stroble'}}
+115: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Elizabeth Stroble', 'old_value': 'Elizabeth Stroble'}, "root['students']": {'new_value': '14,471 (2017)', 'old_value': '9,966 (2019)  '}}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$138.9 million (2017) ', 'old_value': '$139.8 million (2019)'}}}
+126: {'values_changed': {"root['alumni']": {'new_value': '190,000 (2017)', 'old_value': '190,000 (2017) '}}}
+131: {'dictionary_item_added': {"root['alumni']": '190,000 (2017) '}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Suburbn, '}}}
+134: {'values_changed': {"root['endowment']": {'new_value': '$139.8 million (2019)', 'old_value': '$129.8 million (2020)'}}}
+143: {'values_changed': {"root['campus']": {'new_value': 'Suburbn, ', 'old_value': 'Suburban, '}}}
+165: {'values_changed': {"root['students']": {'new_value': '9,966 (2019)  ', 'old_value': '6,745 (2021)    '}}}
+166: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III, SLIAC'}}

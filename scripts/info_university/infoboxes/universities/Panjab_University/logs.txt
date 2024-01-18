@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Panjab University', "root['image_name']": 'Seal_Panjab_University.jpg', "root['location']": 'Chandigarh, India', "root['campus']": 'Urban', "root['chancellor']": 'The Honourable Vice-President of India', "root['vice_chancellor']": 'Professor Raj Kumar', "root['students']": '17000 (250,000+ including affiliated colleges)', "root['affiliations']": 'UGC, NAAC, AIU'}}
+3: {'values_changed': {"root['location']": {'new_value': 'Chandigarh, India', 'old_value': 'Sector 14 and Sector 25 Chandigarh, India'}}}
+17: {'dictionary_item_added': {"root['image_name']": 'Seal_Panjab_University.jpg'}, 'dictionary_item_removed': {"root['faculty']": '997', "root['undergrad']": '9,932', "root['postgrad']": '5,972', "root['doctoral']": '2,505'}, 'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban '}, "root['chancellor']": {'new_value': 'The Honourable Vice-President of India', 'old_value': 'Vice-President of India'}, "root['students']": {'new_value': '17000 (250,000+ including affiliated colleges)', 'old_value': '18,409 '}}}
+70: {'dictionary_item_removed': {"root['visitor']": 'President of India'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU', 'old_value': 'UGC, NAAC, AIU Association of Commonwealth Universities'}}}
+71: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU Association of Commonwealth Universities', 'old_value': 'UGC, NAAC, AIU ACU'}}}
+72: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU ACU', 'old_value': 'UGC, NAAC, AIU ,  ACU'}}}
+73: {'dictionary_item_added': {"root['visitor']": 'President of India'}, 'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAC, AIU ,  ACU', 'old_value': 'UGC, NAAC, AIU, ACU'}}}
+76: {'dictionary_item_removed': {"root['visitor']": 'President of India'}}
+77: {'dictionary_item_added': {"root['visitor']": 'President of India'}, 'dictionary_item_removed': {"root['head']": 'President of India'}}
+99: {'values_changed': {"root['students']": {'new_value': '18,409 ', 'old_value': 'Shintu Paa and 69 others  '}}}
+100: {'values_changed': {"root['students']": {'new_value': 'Shintu Paa and 69 others  ', 'old_value': '18,409 '}}}
+102: {'values_changed': {"root['students']": {'new_value': '18,409 ', 'old_value': 'Shintu Paa and 69 others  '}}}
+103: {'values_changed': {"root['students']": {'new_value': 'Shintu Paa and 69 others  ', 'old_value': '18,409 '}}}
+120: {'dictionary_item_removed': {"root['rector']": 'Lieutenant Governor of Chandigarh'}}
+133: {'dictionary_item_added': {"root['rector']": 'Lieutenant Governor of Chandigarh'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Raj Kumar', 'old_value': 'Raj Kumar'}}}
+167: {'dictionary_item_added': {"root['name']": 'Panjab University', "root['location']": 'Sector 14 and Sector 25 Chandigarh, India', "root['campus']": 'Urban ', "root['chancellor']": 'Vice-President of India', "root['head']": 'President of India', "root['vice_chancellor']": 'Raj Kumar', "root['faculty']": '997', "root['students']": '18,409 ', "root['undergrad']": '9,932', "root['postgrad']": '5,972', "root['doctoral']": '2,505', "root['affiliations']": 'UGC, NAAC, AIU, ACU'}, 'dictionary_item_removed': {"root['campus_size']": 'chancell'}}

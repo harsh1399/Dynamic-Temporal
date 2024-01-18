@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Christopher Newport University', "root['president']": 'Paul S. Trible, Jr.|', "root['undergrad']": '4,861', "root['postgrad']": '141', "root['staff']": '252 (total)', "root['campus']": 'Suburban,  Main: 260 acres (1.1 km²)'}}
+8: {'dictionary_item_added': {"root['staff']": '252 (total)'}, 'dictionary_item_removed': {"root['faculty']": '218'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban,  Main: 260 acres (1.1 km²)', 'old_value': 'Suburban, 260 acres (1.1 km²)'}}}
+9: {'dictionary_item_removed': {"root['students']": '~4,800', "root['athletics']": 'NCAA Division III, USA South Athletic Conference'}, 'values_changed': {"root['undergrad']": {'new_value': '4,861', 'old_value': '~4,400'}, "root['postgrad']": {'new_value': '141', 'old_value': '~400'}}}
+10: {'values_changed': {"root['students']": {'new_value': '~4,800', 'old_value': '4,793'}, "root['undergrad']": {'new_value': '~4,400', 'old_value': '4,623'}, "root['postgrad']": {'new_value': '~400', 'old_value': '170'}}}
+14: {'values_changed': {"root['students']": {'new_value': '4,793', 'old_value': '4,861'}, "root['undergrad']": {'new_value': '4,623', 'old_value': '4,691'}}}
+37: {'values_changed': {"root['students']": {'new_value': '4,861', 'old_value': '4,793'}, "root['undergrad']": {'new_value': '4,691', 'old_value': '4,623'}}}
+61: {'values_changed': {"root['president']": {'new_value': 'Paul S. Trible, Jr.|', 'old_value': 'Deputy Deuschbag|'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Deputy Deuschbag|', 'old_value': 'Paul S. Trible, Jr.|'}}}
+198: {'dictionary_item_removed': {"root['affiliations']": 'MAISA; AAU'}}
+270: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 260 acres (1.1 km²)', 'old_value': 'Suburban '}, "root['affiliations']": {'new_value': 'MAISA; AAU', 'old_value': 'MAISA AAU'}}}
+287: {'values_changed': {"root['affiliations']": {'new_value': 'MAISA AAU', 'old_value': 'MAISA'}}}
+332: {'dictionary_item_removed': {"root['provost']": 'Mark W. Padilla'}, 'values_changed': {"root['faculty']": {'new_value': '218', 'old_value': '240'}, "root['campus']": {'new_value': 'Suburban ', 'old_value': 'Suburban former names   = Christopher Newport Colle'}}}
+381: {'values_changed': {"root['students']": {'new_value': '4,793', 'old_value': '5,146'}}}
+385: {'values_changed': {"root['students']": {'new_value': '5,146', 'old_value': '5,186'}, "root['undergrad']": {'new_value': '4,623', 'old_value': '5,046'}, "root['postgrad']": {'new_value': '170', 'old_value': '140'}, "root['faculty']": {'new_value': '240', 'old_value': '258'}}}

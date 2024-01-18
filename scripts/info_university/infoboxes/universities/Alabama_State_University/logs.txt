@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Alabama State University', "root['president']": 'Dr. Joe A. Lee', "root['students']": '4,600 undergraduates // 1,000 graduates'}}
+13: {'values_changed': {"root['students']": {'new_value': '4,600 undergraduates // 1,000 graduates', 'old_value': '4,600 undergraduates and 1,000 graduates'}}}
+18: {'dictionary_item_removed': {"root['contact']": '915 South Jackson Street, Montgomery, AL 36101-0271 (800) 253-5037'}}
+175: {'dictionary_item_added': {"root['name']": 'Alabama State University', "root['president']": 'Dr. Joe A. Lee', "root['students']": '4,600 undergraduates and 1,000 graduates', "root['contact']": '915 South Jackson Street, Montgomery, AL 36101-0271 (800) 253-5037'}, 'dictionary_item_removed': {"root['image_name']": 'AlStateU seal.png  |colors'}}
+252: {'dictionary_item_removed': {"root['name']": 'Alabama State University', "root['academic_affiliations']": 'TMCF, AASCU', "root['endowment']": '$86.5 million', "root['president']": 'Quinton T. Ross Jr.', "root['provost']": 'Leon C. Wilson', "root['students']": '6,075', "root['undergrad']": '5,356', "root['postgrad']": '719', "root['campus']": 'Urban, 172-acres '}, 'values_changed': {"root['image_name']": {'new_value': 'AlStateU seal.png  |colors', 'old_value': 'AlStateU seal.png'}}}
+264: {'dictionary_item_added': {"root['postgrad']": '719'}, 'values_changed': {"root['students']": {'new_value': '6,075', 'old_value': '5,475'}, "root['undergrad']": {'new_value': '5,356', 'old_value': '5,116'}}}
+269: {'values_changed': {"root['image_name']": {'new_value': 'AlStateU seal.png', 'old_value': 'Alabama State University seal.svg'}, "root['academic_affiliations']": {'new_value': 'TMCF, AASCU', 'old_value': 'TMCF AASCU'}, "root['endowment']": {'new_value': '$86.5 million', 'old_value': '$93 million'}}}
+270: {'values_changed': {"root['endowment']": {'new_value': '$93 million', 'old_value': '$100 million (2017)'}}}
+271: {'values_changed': {"root['endowment']": {'new_value': '$100 million (2017)', 'old_value': '$101 million (2017)'}}}
+278: {'values_changed': {"root['provost']": {'new_value': 'Leon C. Wilson', 'old_value': 'Carl Pettis'}}}
+314: {'values_changed': {"root['academic_affiliations']": {'new_value': 'TMCF AASCU', 'old_value': 'TMCF'}, "root['provost']": {'new_value': 'Carl Pettis', 'old_value': 'Dr. Carl Pettis'}}}

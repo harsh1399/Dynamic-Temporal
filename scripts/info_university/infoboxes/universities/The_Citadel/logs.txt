@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Citadel, ', "root['endowment']": '$285 million (2016)', "root['academic_affiliations']": 'AASCU', "root['faculty']": '225', "root['president']": 'Gen Glenn M. Walters USMC, ret.', "root['provost']": 'BG Mark Bebensee SCM (acting)', "root['head']": 'CAPT Eugene F. Paluso USN, ret.', "root['students']": '3,527 ', "root['undergrad']": '2,323 cadets and 375 non-cadets', "root['postgrad']": '829', "root['campus']": 'Urban, '}}
+15: {'values_changed': {"root['endowment']": {'new_value': '$285 million (2016)', 'old_value': '$309 million (2018)'}}}
+32: {'values_changed': {"root['president']": {'new_value': 'Gen Glenn M. Walters USMC, ret.', 'old_value': 'General Glenn M. Walters USMC, ret.'}}}
+66: {'values_changed': {"root['provost']": {'new_value': 'BG Mark Bebensee SCM (acting)', 'old_value': 'BG Sally C. Selden SCM'}}}
+97: {'values_changed': {"root['president']": {'new_value': 'General Glenn M. Walters USMC, ret.', 'old_value': 'Gen Glenn M. Walters, USMC (Ret.)'}, "root['provost']": {'new_value': 'BG Sally C. Selden SCM', 'old_value': 'BG Sally C. Selden, SCM'}, "root['head']": {'new_value': 'CAPT Eugene F. Paluso USN, ret.', 'old_value': 'CAPT Eugene F. Paluso, USN (Ret.)'}}}
+99: {'values_changed': {"root['endowment']": {'new_value': '$309 million (2018)', 'old_value': '$314.4 million (2019)'}, "root['academic_affiliations']": {'new_value': 'AASCU', 'old_value': 'AASCU, Sea-grant'}, "root['president']": {'new_value': 'Gen Glenn M. Walters, USMC (Ret.)', 'old_value': 'GEN Glenn M. Walters, USMC (Ret.)'}, "root['students']": {'new_value': '3,527 ', 'old_value': '3,693 '}, "root['undergrad']": {'new_value': '2,323 cadets and 375 non-cadets', 'old_value': '2,323 cadets and 499 non-cadets'}, "root['postgrad']": {'new_value': '829', 'old_value': '846'}}}
+108: {'values_changed': {"root['endowment']": {'new_value': '$314.4 million (2019)', 'old_value': '$305.8 million (2020)'}}}
+133: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AASCU, Sea-grant', 'old_value': 'Sea-grant'}}}
+168: {'values_changed': {"root['name']": {'new_value': 'The Citadel, ', 'old_value': 'The Citadel, The Military College of South Carolina'}}}
+169: {'values_changed': {"root['name']": {'new_value': 'The Citadel, The Military College of South Carolina', 'old_value': 'The Citadel The Military College of South Carolina'}}}
+170: {'values_changed': {"root['head']": {'new_value': 'CAPT Eugene F. Paluso, USN (Ret.)', 'old_value': 'COL Thomas J. Gordon, USMC, (Ret.)'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'The Citadel The Military College of South Carolina', 'old_value': 'The Citadel'}}}
+180: {'values_changed': {"root['name']": {'new_value': 'The Citadel', 'old_value': 'The Citadel The Military College of South Carolina'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'The Citadel The Military College of South Carolina', 'old_value': 'The Citadel, The Military College of South Carolina'}}}
+185: {'values_changed': {"root['endowment']": {'new_value': '$305.8 million (2020)', 'old_value': '$423.6 million (2021)'}}}
+202: {'values_changed': {"root['name']": {'new_value': 'The Citadel, The Military College of South Carolina', 'old_value': 'The Citadel'}}}

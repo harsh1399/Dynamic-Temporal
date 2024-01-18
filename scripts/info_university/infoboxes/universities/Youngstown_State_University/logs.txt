@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Youngstown State University', "root['image_name']": 'Youngstown State University Seal.svg', "root['endowment']": '$223.3 million (2016)', "root['president']": 'Jim Tressel', "root['athletics']": 'NCAA Division I FCS, Horizon League (primary), MVFC', "root['undergrad']": '11,386 (Fall 2017)', "root['postgrad']": '1,258 (Fall 2017)'}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$223.3 million (2016)', 'old_value': '$265 million (2018)'}}}
+2: {'dictionary_item_removed': {"root['students']": '12,644 (fall 2017)'}, 'values_changed': {"root['undergrad']": {'new_value': '11,386 (Fall 2017)', 'old_value': '11,386 (fall 2017)'}, "root['postgrad']": {'new_value': '1,258 (Fall 2017)', 'old_value': '1,258 (fall 2017)'}}}
+3: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS, Horizon League (primary), MVFC', 'old_value': 'NCAA Division I – Horizon League, MVFC'}}}
+4: {'dictionary_item_added': {"root['image_name']": 'Youngstown State University Seal.svg', "root['athletics']": 'NCAA Division I – Horizon League, MVFC'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'NEOMED, University System of Ohio', "root['provost']": 'Brien N. Smith', "root['campus']": 'Urban, '}}
+24: {'values_changed': {"root['president']": {'new_value': 'Jim Tressel', 'old_value': 'James P. Tressel'}}}
+34: {'dictionary_item_removed': {"root['faculty']": '977  ', "root['staff']": '160'}}
+35: {'values_changed': {"root['academic_affiliations']": {'new_value': 'NEOMED, University System of Ohio', 'old_value': 'Northeast Ohio Medical University, University System of Ohio'}}}
+59: {'values_changed': {"root['faculty']": {'new_value': '977  ', 'old_value': '977 '}}}
+69: {'values_changed': {"root['students']": {'new_value': '12,644 (fall 2017)', 'old_value': '12,155 As of fall 2019. '}, "root['undergrad']": {'new_value': '11,386 (fall 2017)', 'old_value': '11,006'}, "root['postgrad']": {'new_value': '1,258 (fall 2017)', 'old_value': '1,149'}}}
+71: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Northeast Ohio Medical University, University System of Ohio', 'old_value': 'Northeast Ohio Medical University'}}}
+95: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Northeast Ohio Medical University', 'old_value': 'Northeast Ohio Medical University Space-grant'}}}
+96: {'values_changed': {"root['endowment']": {'new_value': '$265 million (2018)', 'old_value': '$275.9 million (2020)'}, "root['president']": {'new_value': 'James P. Tressel', 'old_value': 'Jim Tressel'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'Youngstown State University', 'old_value': 'Butt Crust University'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'Butt Crust University', 'old_value': 'Youngstown State University'}}}
+105: {'dictionary_item_added': {"root['staff']": '160'}, 'dictionary_item_removed': {"root['administrative_staff']": '160'}}
+111: {'values_changed': {"root['students']": {'new_value': '12,155 As of fall 2019. ', 'old_value': '11,298 As of fall 2021. '}, "root['undergrad']": {'new_value': '11,006', 'old_value': '9,447'}, "root['postgrad']": {'new_value': '1,149', 'old_value': '1,851'}}}
+112: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban '}}}
+121: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Northeast Ohio Medical University Space-grant', 'old_value': 'Northeast Ohio Medical University'}, "root['campus']": {'new_value': 'Urban ', 'old_value': 'Urban, '}}}
+122: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Northeast Ohio Medical University', 'Space-grant'], 'new_value': 'Northeast Ohio Medical University'}}}

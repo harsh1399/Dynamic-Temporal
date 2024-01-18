@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Fairmont State University', "root['endowment']": 'US $18 million', "root['staff']": '450', "root['faculty']": '597 (200 full time)', "root['president']": 'Dr. Maria Rose', "root['provost']": 'Dr. Christina Lavorata', "root['students']": '4,600', "root['undergrad']": 'Approx. 4,100', "root['postgrad']": 'Approx. 500', "root['campus']": 'Urban - 120 Acres', "root['athletics_nicknames']": 'Fighting Falcons ,  Lady Falcons', "root['fightsong']": "''Fairmont State College, We Love You!''", "root['affiliations']": 'NCAA Division II: Mountain East', "root['location']": '1201 Locust Ave., Fairmont, WV 26554'}}
+12: {'values_changed': {"root['students']": {'new_value': '4,600', 'old_value': '4,200'}}}
+56: {'dictionary_item_added': {"root['fightsong']": "''Fairmont State College, We Love You!''"}, 'values_changed': {"root['affiliations']": {'new_value': 'NCAA Division II: Mountain East', 'old_value': 'NCAA Division II: Mountain East Conference'}}}
+64: {'values_changed': {"root['endowment']": {'new_value': 'US $18 million', 'old_value': 'US $20 million'}}}
+69: {'values_changed': {"root['president']": {'new_value': 'Dr. Maria Rose', 'old_value': 'Dr. Stephen Jones (Interm)'}}}
+70: {'values_changed': {"root['president']": {'new_value': 'Dr. Stephen Jones (Interm)', 'old_value': 'Dr. Stephen Jones (Interim)'}}}
+121: {'dictionary_item_added': {"root['location']": '1201 Locust Ave., Fairmont, WV 26554'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Stephen Jones (Interim)', 'old_value': 'Mirta Martin'}, "root['provost']": {'new_value': 'Dr. Christina Lavorata', 'old_value': 'Christina Lavorata'}}}
+139: {'dictionary_item_added': {"root['affiliations']": 'NCAA Division II: Mountain East Conference'}, 'values_changed': {"root['faculty']": {'new_value': '597 (200 full time)', 'old_value': '597'}, "root['campus']": {'new_value': 'Urban - 120 Acres', 'old_value': 'Urban – '}, "root['athletics_nicknames']": {'new_value': 'Fighting Falcons ,  Lady Falcons', 'old_value': 'Fighting Falcons, Lady Falcons'}}}
+140: {'values_changed': {"root['president']": {'new_value': 'Mirta Martin', 'old_value': 'Dr. Mirta Martin'}}}
+141: {'values_changed': {"root['president']": {'new_value': 'Dr. Mirta Martin', 'old_value': 'Mirta Martin'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'Fairmont State University', 'old_value': 'FaiState University'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'FaiState University', 'old_value': 'Fairmont State University'}}}
+148: {'values_changed': {"root['provost']": {'new_value': 'Christina Lavorata', 'old_value': 'Richard Harvey'}}}
+150: {'values_changed': {"root['students']": {'new_value': '4,200', 'old_value': '3,800'}, "root['undergrad']": {'new_value': 'Approx. 4,100', 'old_value': 'Approx. 3,500 '}, "root['postgrad']": {'new_value': 'Approx. 500', 'old_value': 'Approx. 300'}}}

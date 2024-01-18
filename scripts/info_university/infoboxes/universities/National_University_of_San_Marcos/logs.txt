@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Universidad Nacional Mayor de San Marcos', "root['head']": 'Luis Izquierdo Vásquez', "root['undergrad']": '29,710', "root['postgrad']": '3,549', "root['faculty']": '2559 (full time) ,  674 (part time)', "root['campus']": 'Urban, '}}
+76: {'values_changed': {"root['name']": {'new_value': 'Universidad Nacional Mayor de San Marcos', 'old_value': 'National University of, San Marcos'}}}
+98: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban '}}}
+100: {'values_changed': {"root['name']": {'new_value': 'National University of, San Marcos', 'old_value': 'National University of San Marcos'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'National University of San Marcos', 'old_value': 'San Marcos NAtional University'}}}
+107: {'values_changed': {"root['name']": {'new_value': 'San Marcos NAtional University', 'old_value': 'San Marcos National University'}}}
+108: {'values_changed': {"root['name']": {'new_value': 'San Marcos National University', 'old_value': 'National University of San Marcos'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'National University of San Marcos', 'old_value': 'Major National University of San Marcos'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Major National University of San Marcos', 'old_value': 'National University of San Marcos'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'National University of San Marcos', 'old_value': 'Major National University of San Marcos'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'Major National University of San Marcos', 'old_value': 'National University of San Marcos'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'National University of San Marcos', 'old_value': 'Major National University of San Marcos'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'Major National University of San Marcos', 'old_value': 'National University of San Marcos'}}}
+182: {'dictionary_item_removed': {"root['Nobel']": '1'}}
+184: {'values_changed': {"root['head']": {'new_value': 'Luis Izquierdo Vásquez', 'old_value': 'Pedro Cotillo Vargas'}}}
+185: {'values_changed': {"root['head']": {'new_value': 'Pedro Cotillo Vargas', 'old_value': 'Pedro Cotillo Zegarra'}}}
+246: {'values_changed': {"root['head']": {'new_value': 'Pedro Cotillo Zegarra', 'old_value': 'Dr. Orestes Cachay Boza'}, "root['undergrad']": {'new_value': '29,710', 'old_value': '17,596'}, "root['postgrad']": {'new_value': '3,549', 'old_value': '2,198'}, "root['faculty']": {'new_value': '2559 (full time) ,  674 (part time)', 'old_value': '2005 (full time) ,  674 (part time)'}}}
+286: {'dictionary_item_added': {"root['head']": 'Dr. Orestes Cachay Boza', "root['Nobel']": '1'}, 'dictionary_item_removed': {"root['rector']": 'Dr. Orestes Cachay Boza', "root['endowment']": 'PEN S/. 400,732,439 (FY 2013)', "root['students']": '37,032 (2017)'}, 'values_changed': {"root['undergrad']": {'new_value': '17,596', 'old_value': '28,645 (2010)'}, "root['postgrad']": {'new_value': '2,198', 'old_value': '8,520 (2015)'}, "root['faculty']": {'new_value': '2005 (full time) ,  674 (part time)', 'old_value': '2,931 (2017)'}}}
+316: {'values_changed': {"root['endowment']": {'new_value': 'PEN S/. 400,732,439 (FY 2013)', 'old_value': 'PEN S/. 400,732,439 (FY 2013)     | Acceptance rate = less than 10%'}}}
+317: {'values_changed': {"root['endowment']": {'new_value': 'PEN S/. 400,732,439 (FY 2013)     | Acceptance rate = less than 10%', 'old_value': 'PEN S/. 400,732,439 (FY 2013)'}}}
+349: {'dictionary_item_added': {"root['undergrad']": '28,645 (2010)', "root['postgrad']": '8,520 (2015)'}, 'dictionary_item_removed': {"root['author']": '|'}, 'values_changed': {"root['endowment']": {'new_value': 'PEN S/. 400,732,439 (FY 2013)', 'old_value': '||'}}}

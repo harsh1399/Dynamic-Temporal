@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": "'''University of Windsor'''", "root['former_names']": 'Assumption College, Assumption University of Windsor', "root['president']": 'Dr. Alan Wildeman', "root['chancellor']": 'Ed Lumley', "root['undergrad']": '12,291 (full-time), 3,215 (part-time) Fall 2006, University of Windsor, http://www.uwindsor.ca/units/AEC/IA/InfoAnalysis.nsf/inToc/49120A70DDA4867785256D4A00571424 Office of Institutional Analysis', "root['postgrad']": '1,205 (full-time), 172 (part-time)', "root['campus']": 'Urban,,  ', "root['colours']": 'blue ', "root['endowment']": '$50.65 million', "root['affiliations']": 'AUCC, IAU, COU, CIS, OUA, CUSID, ONWiE, Fields Institute, CBIE, CUP, CARL.'}}
+38: {'values_changed': {"root['endowment']": {'new_value': '$50.65 million', 'old_value': '$70.89 million'}}}
+40: {'values_changed': {"root['undergrad']": {'new_value': '12,291 (full-time), 3,215 (part-time) Fall 2006, University of Windsor, http://www.uwindsor.ca/units/AEC/IA/InfoAnalysis.nsf/inToc/49120A70DDA4867785256D4A00571424 Office of Institutional Analysis', 'old_value': '10,544 (full-time), 1,822 (part-time)'}, "root['postgrad']": {'new_value': '1,205 (full-time), 172 (part-time)', 'old_value': '3,066 (full-time), 116 (part-time)'}, "root['endowment']": {'new_value': '$70.89 million', 'old_value': '$110.766 million (2017)'}}}
+69: {'values_changed': {"root['name']": {'new_value': "'''University of Windsor'''", 'old_value': 'University of Windsor'}}}
+72: {'values_changed': {"root['president']": {'new_value': 'Dr. Alan Wildeman', 'old_value': 'Dr. Douglas Kneale'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'Dr. Douglas Kneale', 'old_value': 'Douglas Kneale'}}}
+108: {'values_changed': {"root['endowment']": {'new_value': '$110.766 million (2017)', 'old_value': '$112.667 million (2018)'}}}
+111: {'values_changed': {"root['chancellor']": {'new_value': 'Ed Lumley', 'old_value': 'Mary Jo Haddad'}}}
+113: {'values_changed': {"root['undergrad']": {'new_value': '10,544 (full-time), 1,822 (part-time)', 'old_value': '10,572 (full-time), 1,711 (part-time)'}, "root['postgrad']": {'new_value': '3,066 (full-time), 116 (part-time)', 'old_value': '3,934 (full-time), 104 (part-time)'}}}
+114: {'values_changed': {"root['former_names']": {'new_value': 'Assumption College, Assumption University of Windsor', 'old_value': 'Assumption College (1857-1956), Assumption University of Windsor (1956-1963)'}}}
+115: {'dictionary_item_removed': {"root['students']": '16,321 (2018)'}}
+123: {'dictionary_item_added': {"root['colours']": 'blue '}, 'values_changed': {"root['affiliations']": {'new_value': 'AUCC, IAU, COU, CIS, OUA, CUSID, ONWiE, Fields Institute, CBIE, CUP, CARL.', 'old_value': 'CIS, OUA.'}}}
+124: {'dictionary_item_added': {"root['affiliations']": 'CIS, OUA.'}, 'dictionary_item_removed': {"root['athletics']": 'U Sports - CIS, OUA.'}}
+125: {'dictionary_item_removed': {"root['academic_staff']": '524'}}
+128: {'values_changed': {"root['endowment']": {'new_value': '$112.667 million (2018)', 'old_value': 'C$112.667 million (2018)'}}}
+129: {'dictionary_item_removed': {"root['sports']": '15 varsity teams'}}
+130: {'values_changed': {"root['campus']": {'new_value': 'Urban,,  ', 'old_value': 'Urban, '}}}
+131: {'values_changed': {"root['sports']": {'new_value': '15 varsity teams', 'old_value': '17 varsity teams'}}}
+134: {'values_changed': {"root['athletics']": {'new_value': 'U Sports - CIS, OUA.', 'old_value': 'U Sports - CIS, OUA'}}}
+141: {'values_changed': {"root['president']": {'new_value': 'Douglas Kneale', 'old_value': 'Douglas Kneale (Interim)'}}}
+142: {'values_changed': {"root['president']": {'new_value': 'Douglas Kneale (Interim)', 'old_value': 'Douglas Kneale (interim)'}}}
+156: {'values_changed': {"root['president']": {'new_value': 'Douglas Kneale (interim)', 'old_value': 'Robert Gordon'}}}
+182: {'values_changed': {"root['endowment']": {'new_value': 'C$112.667 million (2018)', 'old_value': 'C$118.734 million (2019)'}}}
+199: {'values_changed': {"root['former_names']": {'new_value': 'Assumption College (1857-1956), Assumption University of Windsor (1956-1963)', 'old_value': 'Assumption College (1857-1956), Federated with Assumption University of Windsor (1956-1963)'}}}

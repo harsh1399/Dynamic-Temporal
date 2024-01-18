@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Baruch College', "root['endowment']": '$197.3 million', "root['staff']": '699', "root['faculty']": '1,221', "root['president']": 'Mitchel Wallerstein', "root['provost']": 'James McCarthy', "root['students']": '18,433', "root['undergrad']": '15,254', "root['postgrad']": '3,179', "root['campus']": 'Urban', "root['athletics']": 'Division III', "root['affiliations']": 'City University of New York'}}
+3: {'values_changed': {"root['president']": {'new_value': 'Mitchel Wallerstein', 'old_value': 'S. David Wu'}}}
+4: {'values_changed': {"root['president']": {'new_value': 'S. David Wu', 'old_value': 'Mitchel B. Wallerstein, PhD.'}}}
+5: {'values_changed': {"root['president']": {'new_value': 'Mitchel B. Wallerstein, PhD.', 'old_value': 'Mitchel B. Wallerstein, PhD'}}}
+22: {'values_changed': {"root['president']": {'new_value': 'Mitchel B. Wallerstein, PhD', 'old_value': 'S. David Wu'}}}
+26: {'values_changed': {"root['endowment']": {'new_value': '$197.3 million', 'old_value': '$220.08 million'}}}
+29: {'values_changed': {"root['provost']": {'new_value': 'James McCarthy', 'old_value': 'James McCarthy (interim)'}}}
+178: {'dictionary_item_added': {"root['affiliations']": 'City University of New York'}, 'values_changed': {"root['provost']": {'new_value': 'James McCarthy (interim)', 'old_value': 'Myung-Soo Lee (interim)'}}}
+182: {'values_changed': {"root['endowment']": {'new_value': '$220.08 million', 'old_value': '$220 million'}}}
+183: {'values_changed': {"root['endowment']": {'new_value': '$220 million', 'old_value': '$220.08 million'}}}
+278: {'values_changed': {"root['provost']": {'new_value': 'Myung-Soo Lee (interim)', 'old_value': 'Linda Essig'}}}
+283: {'dictionary_item_added': {"root['staff']": '699'}, 'dictionary_item_removed': {"root['administrative_staff']": '699'}}
+306: {'dictionary_item_added': {"root['athletics']": 'Division III'}, 'values_changed': {"root['students']": {'new_value': '18,433', 'old_value': '19,740'}, "root['undergrad']": {'new_value': '15,254', 'old_value': '15,774'}, "root['postgrad']": {'new_value': '3,179', 'old_value': '3,966'}}}
+310: {'values_changed': {"root['students']": {'new_value': '19,740', 'old_value': '19,740 '}}}
+328: {'values_changed': {"root['endowment']": {'new_value': '$220.08 million', 'old_value': '$295.7 million'}}}
+351: {'values_changed': {"root['endowment']": {'new_value': '$295.7 million', 'old_value': '$295.7 million   (Baruch College), $3.6 billion (City University of New York)'}}}

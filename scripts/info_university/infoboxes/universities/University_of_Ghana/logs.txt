@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Ghana', "root['image_name']": 'University of Ghana (UG) logo.jpg', "root['chairman']": 'Justice Date-Baah', "root['chancellor']": 'Kofi Annan', "root['vice_chancellor']": 'Ernest Aryeetey', "root['students']": '38,000', "root['campus']": 'Suburban area', "root['colours']": 'Midnight Blue, Lemon Yellow and Vegas Gold , ', "root['affiliations']": 'See below', "root['telephone']": '+233 21 500383'}}
+23: {'values_changed': {"root['colours']": {'new_value': 'Midnight Blue, Lemon Yellow and Vegas Gold , ', 'old_value': 'Midnight Blue, Lemon Yellow and Vegas Gold  '}}}
+47: {'values_changed': {"root['chancellor']": {'new_value': 'Kofi Annan', 'old_value': 'Kofi Annan   Kut =Student'}}}
+48: {'values_changed': {"root['chancellor']": {'new_value': 'Kofi Annan   Kut =Student', 'old_value': 'Kofi Annan   Kut (Student)'}}}
+95: {'values_changed': {"root['chancellor']": {'new_value': 'Kofi Annan   Kut (Student)', 'old_value': 'Kofi Annan'}}}
+109: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Ernest Aryeetey', 'old_value': 'Professor Ebenezer Oduro Owusu'}}}
+115: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Ebenezer Oduro Owusu', 'old_value': 'Ebenezer Oduro Owusu'}}}
+124: {'values_changed': {"root['students']": {'new_value': '38,000', 'old_value': '38,000,000'}}}
+125: {'values_changed': {"root['students']": {'new_value': '38,000,000', 'old_value': '38,000'}}}
+155: {'dictionary_item_added': {"root['telephone']": '+233 21 500383'}, 'values_changed': {"root['chairman']": {'new_value': 'Justice Date-Baah', 'old_value': 'Samuel Kofi Date-Bah'}}}
+156: {'dictionary_item_added': {"root['affiliations']": 'See below'}, 'dictionary_item_removed': {"root['undergrad']": '33,703', "root['postgrad']": '5,546', "root['doctoral']": '652'}, 'values_changed': {"root['image_name']": {'new_value': 'University of Ghana (UG) logo.jpg', 'old_value': 'University of Ghana.png'}, "root['chairman']": {'new_value': 'Samuel Kofi Date-Bah', 'old_value': 'Yaw Twumasi'}, "root['chancellor']": {'new_value': 'Kofi Annan', 'old_value': 'Mary Chinery-Hesse'}, "root['students']": {'new_value': '38,000', 'old_value': '39,249 as at July 2016'}}}
+193: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Ebenezer Oduro Owusu', 'old_value': 'Nana Aba Appiah Amfo'}}}
+194: {'values_changed': {"root['chairman']": {'new_value': 'Yaw Twumasi', 'old_value': 'Sophia Akuffo'}}}
+195: {'dictionary_item_added': {"root['chairman']": 'Sophia Akuffo'}, 'dictionary_item_removed': {"root['chairperson']": 'Sophia Akuffo'}, 'values_changed': {"root['students']": {'new_value': '39,249 as at July 2016', 'old_value': '60,875 as at July 2021'}, "root['undergrad']": {'new_value': '33,703', 'old_value': '53,043'}, "root['postgrad']": {'new_value': '5,546', 'old_value': '6,612'}, "root['doctoral']": {'new_value': '652', 'old_value': '1,220'}}}

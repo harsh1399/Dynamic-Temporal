@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'King College', "root['president']": 'Dr. Gregory D. Jordan', "root['students']": '1516', "root['undergrad']": '829', "root['postgrad']": '687 (includes professional studies)', "root['campus']": 'Urban ,  135 wooded acres (0.55 km&sup2;)', "root['affiliations']": 'Presbyterian Church USA'}}
+4: {'values_changed': {"root['name']": {'new_value': 'King College', 'old_value': 'Kin College'}}}
+5: {'values_changed': {"root['name']": {'new_value': 'Kin College', 'old_value': 'King College'}}}
+20: {'dictionary_item_added': {"root['name']": 'King College'}, 'dictionary_item_removed': {"root['endowment']": 'US$32 million'}}
+34: {'values_changed': {"root['campus']": {'new_value': 'Urban ,  135 wooded acres (0.55 km&sup2;)', 'old_value': 'Urban ,  135 wooded acres (0.55 km²)'}}}
+91: {'values_changed': {"root['president']": {'new_value': 'Dr. Gregory D. Jordan', 'old_value': 'Dr. Gregory D. Jordan |vi'}}}
+109: {'dictionary_item_added': {"root['undergrad']": '829', "root['postgrad']": '687 (includes professional studies)'}, 'values_changed': {"root['students']": {'new_value': '1516', 'old_value': '1,804'}}}
+140: {'values_changed': {"root['president']": {'new_value': 'Dr. Gregory D. Jordan |vi', 'old_value': 'Dr. Gregory D. Jordan |vic'}}}
+141: {'values_changed': {"root['president']": {'new_value': 'Dr. Gregory D. Jordan |vic', 'old_value': 'Dr. Gregory D. Jordan'}}}
+146: {'values_changed': {"root['endowment']": {'new_value': 'US$32 million', 'old_value': '$20.4 million'}, "root['president']": {'new_value': 'Dr. Gregory D. Jordan', 'old_value': 'Gregory D. Jordan'}}}
+171: {'dictionary_item_removed': {"root['name']": 'King College of lesser advancement and social outcasts.'}}
+192: {'dictionary_item_added': {"root['name']": 'King College of lesser advancement and social outcasts.'}, 'values_changed': {"root['students']": {'new_value': '1,804', 'old_value': '2,381'}}}
+193: {'values_changed': {"root['students']": {'new_value': '2,381', 'old_value': '2,381 (2012-13 Academic Year)'}}}
+232: {'values_changed': {"root['president']": {'new_value': 'Gregory D. Jordan', 'old_value': 'Dr. Richard A. Ray (interim)'}}}
+285: {'values_changed': {"root['president']": {'new_value': 'Dr. Richard A. Ray (interim)', 'old_value': 'Dr. Richard A. Ray (interim); Mr. Alexander Whitaker (president-elect)'}}}
+286: {'values_changed': {"root['president']": {'new_value': 'Dr. Richard A. Ray (interim); Mr. Alexander Whitaker (president-elect)', 'old_value': 'Dr. Richard A. Ray (interim), Mr. Alexander Whitaker (president-elect)'}}}
+287: {'values_changed': {"root['president']": {'new_value': 'Dr. Richard A. Ray (interim), Mr. Alexander Whitaker (president-elect)', 'old_value': 'Dr. Richard A. Ray (interim)'}}}
+293: {'dictionary_item_removed': {"root['name']": 'King University'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Richard A. Ray (interim)', 'old_value': 'Dr. Richard A. Ray (interim); Mr. Alexander Whitaker (elect)'}, "root['students']": {'new_value': '2,381 (2012-13 Academic Year)', 'old_value': '2,920 (2015-16 Academic Year)'}, "root['affiliations']": {'new_value': 'Presbyterian Church USA', 'old_value': 'NCAA-Division II'}}}
+294: {'values_changed': {"root['affiliations']": {'new_value': 'NCAA-Division II', 'old_value': 'NCAA Division II'}}}
+298: {'dictionary_item_added': {"root['affiliations']": 'NCAA Division II'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Richard A. Ray (interim); Mr. Alexander Whitaker (elect)', 'old_value': 'Mr. Alexander Whitaker (elect)'}}}
+299: {'values_changed': {"root['president']": {'new_value': 'Mr. Alexander Whitaker (elect)', 'old_value': 'Mr. Alexander Whitaker'}}}
+333: {'dictionary_item_removed': {"root['religious_affiliation']": 'Presbyterian', "root['affiliations']": 'NCAA Division II, Conference Carolinas'}, 'values_changed': {"root['endowment']": {'new_value': '$20.4 million', 'old_value': '$37 million'}, "root['president']": {'new_value': 'Mr. Alexander Whitaker', 'old_value': 'Alexander W. Whitaker IV'}, "root['students']": {'new_value': '2,920 (2015-16 Academic Year)', 'old_value': '1,746 (Fall 2022)'}, "root['campus']": {'new_value': 'Urban ,  135 wooded acres (0.55 km²)', 'old_value': '135 wooded acres ('}}}
+335: {'dictionary_item_removed': {"root['academic_affiliations']": 'CCCU   CIC   NAICU'}}
+336: {'dictionary_item_removed': {"root['former_names']": 'King College (1867-2013)'}}
+347: {'values_changed': {"root['academic_affiliations']": {'new_value': 'CCCU   CIC   NAICU', 'old_value': 'CCCU     CIC   NAICU'}}}
+348: {'values_changed': {"root['academic_affiliations']": {'new_value': 'CCCU     CIC   NAICU', 'old_value': 'CCCU     CIC     NAICU'}}}
+379: {'values_changed': {"root['endowment']": {'new_value': '$37 million', 'old_value': '$37 million (2009)'}}}
+392: {'values_changed': {"root['students']": {'new_value': '1,746 (Fall 2022)', 'old_value': '1,656 (Summer 2022)'}}}
+393: {'values_changed': {"root['former_names']": {'new_value': 'King College (1867-2013)', 'old_value': 'King College (1867&ndash;2013)'}}}
+398: {'dictionary_item_added': {"root['affiliations']": 'NCAA Division II, Conference Carolinas'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division II – Carolinas'}, 'values_changed': {"root['former_names']": {'new_value': 'King College (1867&ndash;2013)', 'old_value': 'King College (1867–2013)'}}}

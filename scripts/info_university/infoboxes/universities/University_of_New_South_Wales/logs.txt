@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'The University of New South Wales', "root['image_name']": 'UNSW coat of arms.png', "root['endowment']": 'A$1.67 billion ', "root['chancellor']": 'David Gonski ', "root['president']": 'Ian Jacobs', "root['vice_chancellor']": 'Ian Jacobs', "root['students']": '53,481  ', "root['undergrad']": '32,501  ', "root['postgrad']": '20,980  ', "root['staff']": '6,117  ', "root['campus']": 'Urban, parks, ', "root['former_names']": 'New South Wales University of Technology  (1949–1958)'}}
+23: {'values_changed': {"root['endowment']": {'new_value': 'A$1.67 billion ', 'old_value': 'A$9999999.999999 billion '}}}
+24: {'values_changed': {"root['endowment']": {'new_value': 'A$9999999.999999 billion ', 'old_value': 'A$1.67 billion '}}}
+40: {'values_changed': {"root['president']": {'new_value': 'Ian Jacobs', 'old_value': 'Kelvin Mack'}}}
+41: {'values_changed': {"root['president']": {'new_value': 'Kelvin Mack', 'old_value': 'Ian Jacobs'}}}
+45: {'dictionary_item_added': {"root['endowment']": 'A$1.67 billion '}, 'values_changed': {"root['students']": {'new_value': '53,481  ', 'old_value': '53,481 '}}}
+76: {'values_changed': {"root['name']": {'new_value': 'The University of New South Wales', 'old_value': 'University of New South Wales'}}}
+77: {'dictionary_item_added': {"root['vice_chancellor']": 'Ian Jacobs'}, 'values_changed': {"root['chancellor']": {'new_value': 'David Gonski ', 'old_value': 'David Gonski'}}}
+93: {'values_changed': {"root['students']": {'new_value': '53,481 ', 'old_value': '62,509 '}, "root['undergrad']": {'new_value': '32,501  ', 'old_value': '35,679 '}, "root['postgrad']": {'new_value': '20,980  ', 'old_value': '18,226  '}, "root['staff']": {'new_value': '6,117  ', 'old_value': '6,739  '}}}
+161: {'dictionary_item_removed': {"root['colours']": 'Yellow and black '}, 'values_changed': {"root['image_name']": {'new_value': 'UNSW coat of arms.png', 'old_value': 'Shield of the University of New South Wales.svg'}}}
+164: {'values_changed': {"root['postgrad']": {'new_value': '18,226  ', 'old_value': '18,226  (2018)'}, "root['staff']": {'new_value': '6,739  ', 'old_value': '6,739  (2018)'}, "root['former_names']": {'new_value': 'New South Wales University of Technology  (1949–1958)', 'old_value': 'New South Wales University of Technology (1949–1958)'}}}
+194: {'dictionary_item_added': {"root['staff']": '6,739  (2018)'}, 'dictionary_item_removed': {"root['academic_staff']": '2,957  (2018)', "root['administrative_staff']": '3,390  (2018)'}}
+223: {'values_changed': {"root['chancellor']": {'new_value': 'David Gonski', 'old_value': 'David Gonski '}}}
+270: {'dictionary_item_added': {"root['former_names']": 'New South Wales University of Technology (1949–1958)'}, 'values_changed': {"root['chancellor']": {'new_value': 'David Gonski ', 'old_value': 'Lorenzo '}}}
+271: {'values_changed': {"root['chancellor']": {'new_value': 'Lorenzo ', 'old_value': 'David Gonski '}}}
+287: {'values_changed': {"root['chancellor']": {'new_value': 'David Gonski ', 'old_value': 'Declan Rickard'}}}
+289: {'values_changed': {"root['chancellor']": {'new_value': 'Declan Rickard', 'old_value': 'David Gonski '}}}
+292: {'values_changed': {"root['postgrad']": {'new_value': '18,226  (2018)', 'old_value': '3  (2018)'}, "root['academic_staff']": {'new_value': '2,957  (2018)', 'old_value': '2.078x10^80  (2018)'}}}
+293: {'values_changed': {"root['postgrad']": {'new_value': '3  (2018)', 'old_value': '18,226  (2018)'}, "root['academic_staff']": {'new_value': '2.078x10^80  (2018)', 'old_value': '2,957  (2018)'}}}
+346: {'dictionary_item_added': {"root['image_name']": 'Shield of the University of New South Wales.svg'}, 'values_changed': {"root['students']": {'new_value': '62,509 ', 'old_value': '63,232 '}, "root['academic_staff']": {'new_value': '2,957  (2018)', 'old_value': '3,243  (2020)'}, "root['administrative_staff']": {'new_value': '3,390  (2018)', 'old_value': '3,987  (2020)'}}}
+387: {'values_changed': {"root['president']": {'new_value': 'Ian Jacobs', 'old_value': 'Attila Brungs'}}}

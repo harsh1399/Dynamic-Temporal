@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hampshire College', "root['president']": 'Jonathan Lash', "root['undergrad']": '1,321 (Fall 2016) ', "root['staff']": '115', "root['faculty']": '165 ', "root['campus']": 'Rural, 800 acres (3.2 km²)', "root['endowment']": '$40 million'}}
+24: {'values_changed': {"root['endowment']": {'new_value': '$40 million', 'old_value': '$48.5 million'}}}
+41: {'values_changed': {"root['president']": {'new_value': 'Jonathan Lash', 'old_value': 'Miriam E. Nelson'}}}
+119: {'values_changed': {"root['president']": {'new_value': 'Miriam E. Nelson', 'old_value': 'Kenneth Rosenthal  (interim)'}}}
+141: {'values_changed': {"root['president']": {'new_value': 'Kenneth Rosenthal  (interim)', 'old_value': 'Edward Wingenbach'}}}
+164: {'values_changed': {"root['endowment']": {'new_value': '$48.5 million', 'old_value': '$53.4 million (2018)'}}}
+166: {'values_changed': {"root['undergrad']": {'new_value': '1,321 (Fall 2016) ', 'old_value': '1,191 (Fall 2018)'}, "root['faculty']": {'new_value': '165 ', 'old_value': '145 (Fall 2018)'}}}
+170: {'dictionary_item_added': {"root['staff']": '115'}, 'dictionary_item_removed': {"root['administrative_staff']": '115', "root['budget']": '$36.0 million', "root['affiliations']": 'Five College Consortium, CLAC, Annapolis Group, Project Pericles, NAICU, AICUM'}, 'values_changed': {"root['campus']": {'new_value': 'Rural, 800 acres (3.2 km²)', 'old_value': 'Rural, 800 acres (3.2 km 2 )'}, "root['endowment']": {'new_value': '$53.4 million (2018)', 'old_value': '$54.5 million (2019) '}}}
+182: {'values_changed': {"root['undergrad']": {'new_value': '1,191 (Fall 2018)', 'old_value': '470 (2021-2022)'}}}
+190: {'values_changed': {"root['undergrad']": {'new_value': '470 (2021-2022)', 'old_value': '470 (2021–2022)'}}}

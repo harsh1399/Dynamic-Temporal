@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pitzer College', "root['head']": 'Laura Skandera Trombley', "root['endowment']": '$110.2 million', "root['undergrad']": '1025 (approx)', "root['postgrad']": '0', "root['postgrad_label']": 'graduate', "root['faculty']": '116 (approx)', "root['faculty_label']": 'ratio', "root['staff']": '200 (approx)', "root['staff_label']": 'ratio', "root['campus']": 'Suburban, ', "root['symbol']": 'Orange Tree'}}
+9: {'values_changed': {"root['endowment']": {'new_value': '$110.2 million', 'old_value': '$118.4 million (2013)'}}}
+10: {'values_changed': {"root['undergrad']": {'new_value': '1025 (approx)', 'old_value': '1,025 (approx)'}}}
+24: {'values_changed': {"root['faculty']": {'new_value': '116 (approx)', 'old_value': '420 (approx)'}}}
+25: {'values_changed': {"root['faculty']": {'new_value': '420 (approx)', 'old_value': '116 (approx)'}}}
+39: {'values_changed': {"root['endowment']": {'new_value': '$118.4 million (2013)', 'old_value': '$134.3 million (2014)'}}}
+60: {'values_changed': {"root['head']": {'new_value': 'Laura Skandera Trombley', 'old_value': 'Thomas Poon'}}}
+133: {'values_changed': {"root['head']": {'new_value': 'Thomas Poon', 'old_value': 'Thomas Poon (interim), Melvin L. Oliver (designate)'}}}
+138: {'dictionary_item_added': {"root['postgrad_label']": 'graduate', "root['faculty_label']": 'ratio', "root['staff_label']": 'ratio', "root['symbol']": 'Orange Tree'}, 'values_changed': {"root['endowment']": {'new_value': '$134.3 million (2014)', 'old_value': '$132.7 million (2015)'}}}
+154: {'values_changed': {"root['head']": {'new_value': 'Thomas Poon (interim), Melvin L. Oliver (designate)', 'old_value': 'Melvin L. Oliver'}}}
+176: {'dictionary_item_added': {"root['postgrad']": '0', "root['staff']": '200 (approx)'}, 'values_changed': {"root['undergrad']": {'new_value': '1,025 (approx)', 'old_value': '1,067 (Fall 2015)'}, "root['faculty']": {'new_value': '116 (approx)', 'old_value': '116 '}}}
+177: {'dictionary_item_removed': {"root['location']": 'Claremont, California'}}
+228: {'values_changed': {"root['endowment']": {'new_value': '$132.7 million (2015)', 'old_value': '$127.1 million'}}}
+229: {'values_changed': {"root['endowment']": {'new_value': '$127.1 million', 'old_value': '$137.0 million'}}}
+259: {'dictionary_item_removed': {"root['budget']": '$95 million'}}
+292: {'dictionary_item_added': {"root['head']": 'Melvin L. Oliver', "root['location']": 'Claremont, California'}, 'dictionary_item_removed': {"root['president']": 'Melvin L. Oliver'}, 'values_changed': {"root['endowment']": {'new_value': '$137.0 million', 'old_value': '$144.3 million (2020)'}}}
+315: {'values_changed': {"root['president']": {'new_value': 'Melvin L. Oliver', 'old_value': 'Strom C. Thacker'}, "root['endowment']": {'new_value': '$144.3 million (2020)', 'old_value': '$180 million (2022)'}}}

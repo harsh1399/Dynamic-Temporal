@@ -1,0 +1,12 @@
+7: {'dictionary_item_removed': {"root['name']": 'Concordia College New York', "root['president']": '| vic'}}
+8: {'dictionary_item_removed': {"root['religious_affiliation']": 'The Lutheran Church–Missouri Synod', "root['provost']": 'Sherry Fraser', "root['academic_staff']": '50', "root['students']": '953', "root['postgrad']": '66', "root['athletics_nickname']": 'Clippers'}, 'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': 'Viji George | vic'}}}
+9: {'dictionary_item_removed': {"root['campus']": 'Suburb:Large'}}
+16: {'values_changed': {"root['campus']": {'new_value': 'Suburb:Large', 'old_value': 'Suburb:Large 33 acres (Main campus)'}}}
+34: {'values_changed': {"root['religious_affiliation']": {'new_value': 'The Lutheran Church–Missouri Synod', 'old_value': 'Lutheran Church–Missouri Synod'}}}
+124: {'dictionary_item_removed': {"root['undergrad']": '2020'}, 'values_changed': {"root['president']": {'new_value': 'Viji George | vic', 'old_value': 'John Arthur Nunes | vic'}}}
+125: {'values_changed': {"root['students']": {'new_value': '953', 'old_value': '983'}, "root['undergrad']": {'new_value': '2020', 'old_value': '930'}, "root['postgrad']": {'new_value': '66', 'old_value': '66ref>'}}}
+126: {'values_changed': {"root['students']": {'new_value': '983', 'old_value': '1,597 '}, "root['undergrad']": {'new_value': '930', 'old_value': '1,129'}, "root['postgrad']": {'new_value': '66ref>', 'old_value': '468'}}}
+134: {'dictionary_item_removed': {"root['endowment']": '12.7Million'}}
+135: {'values_changed': {"root['endowment']": {'new_value': '12.7Million', 'old_value': '$12.7 million'}}}
+141: {'dictionary_item_added': {"root['endowment']": '$12.7 million'}, 'values_changed': {"root['president']": {'new_value': 'John Arthur Nunes | vic', 'old_value': 'Rev.John Arthur Nunes Ph.D. | vic'}, "root['provost']": {'new_value': 'Sherry Fraser', 'old_value': 'Dr. Rachel Eells'}}}
+143: {'values_changed': {"root['president']": {'new_value': 'Rev.John Arthur Nunes Ph.D. | vic', 'old_value': 'John Arthur Nunes | vic'}, "root['provost']": {'new_value': 'Dr. Rachel Eells', 'old_value': 'Rachel Eells'}}}

@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Campinas http://www.pg.unicamp.br/mostra_norma.php?consolidada=undefined&id_norma=2867', "root['image_name']": 'UNICAMP logo.svg', "root['rector']": 'José Tadeu Jorge', "root['budget']": 'R$2,087 billions ', "root['students']": '36,801', "root['undergrad']": '17,083', "root['postgrad']": '19,718', "root['academic_staff']": '2,069', "root['administrative_staff']": '7,841'}}
+8: {'values_changed': {"root['name']": {'new_value': 'University of Campinas http://www.pg.unicamp.br/mostra_norma.php?consolidada=undefined&id_norma=2867', 'old_value': 'State University of Campinas http://www.pg.unicamp.br/mostra_norma.php?consolidada=undefined&id_norma=2867'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'State University of Campinas http://www.pg.unicamp.br/mostra_norma.php?consolidada=undefined&id_norma=2867', 'old_value': 'State University of Campinas'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'State University of Campinas', 'old_value': 'University of Campinas'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'University of Campinas', 'old_value': 'State University of Campinas'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'State University of Campinas', 'old_value': 'University of Campinas'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'University of Campinas', 'old_value': 'State University of Campinas'}}}
+22: {'values_changed': {"root['name']": {'new_value': 'State University of Campinas', 'old_value': 'University of Campinas'}}}
+34: {'values_changed': {"root['academic_staff']": {'new_value': '2,069', 'old_value': '1.795'}}}
+35: {'values_changed': {"root['students']": {'new_value': '36,801', 'old_value': '34,616'}, "root['undergrad']": {'new_value': '17,083', 'old_value': '18,698'}, "root['postgrad']": {'new_value': '19,718', 'old_value': '15,918'}, "root['academic_staff']": {'new_value': '1.795', 'old_value': '|'}, "root['administrative_staff']": {'new_value': '7,841', 'old_value': '8,527'}}}
+36: {'values_changed': {"root['students']": {'new_value': '34,616', 'old_value': '34,616 '}, "root['academic_staff']": {'new_value': '|', 'old_value': '1.795'}}}
+49: {'values_changed': {"root['budget']": {'new_value': 'R$2,087 billions ', 'old_value': 'R$2.3 billion '}}}
+50: {'dictionary_item_removed': {"root['campus']": 'Urban,'}}
+52: {'values_changed': {"root['campus']": {'new_value': 'Urban,', 'old_value': 'Urban'}}}
+68: {'values_changed': {"root['academic_staff']": {'new_value': '1.795', 'old_value': '1,795'}}}
+111: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Suburban'}}}
+198: {'values_changed': {"root['rector']": {'new_value': 'José Tadeu Jorge', 'old_value': 'Marcelo Knobel'}, "root['budget']": {'new_value': 'R$2.3 billion ', 'old_value': 'R$2.954 billion '}}}
+207: {'values_changed': {"root['rector']": {'new_value': 'Marcelo Knobel', 'old_value': 'Tom Zé (2021 - 2025) https://www.unicamp.br/unicamp/noticias/2021/04/19/tom-ze-toma-posse-como-novo-reitor-da-unicamp'}}}
+212: {'values_changed': {"root['rector']": {'new_value': 'Tom Zé (2021 - 2025) https://www.unicamp.br/unicamp/noticias/2021/04/19/tom-ze-toma-posse-como-novo-reitor-da-unicamp', 'old_value': 'Tom Zé'}}}
+214: {'values_changed': {"root['name']": {'new_value': 'University of Campinas', 'old_value': 'State University of Campinas'}}}

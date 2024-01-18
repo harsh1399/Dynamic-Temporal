@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Florida Atlantic University', "root['image_name']": 'Florida Atlantic University seal.svg', "root['endowment']": '$275 million', "root['president']": 'John W. Kelly', "root['provost']": 'Bret Danilowicz', "root['faculty']": '1,598', "root['staff']": '1,499', "root['students']": '30,808', "root['undergrad']": '24,687', "root['postgrad']": '4,670', "root['doctoral']": '790', "root['campus']": 'Urban area 850 acres (3.5 km²) 6 other satellite campuses', "root['athletics']": 'NCAA Division I – C-USA 19 varsity teams', "root['affiliations']": 'AACSB, NASULGC NSGCFP, SACS, SUSF ORAU'}}
+25: {'values_changed': {"root['endowment']": {'new_value': '$275 million', 'old_value': '$227 million'}}}
+33: {'values_changed': {"root['endowment']": {'new_value': '$227 million', 'old_value': '$227 million (2019)'}}}
+36: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB, NASULGC NSGCFP, SACS, SUSF ORAU', 'old_value': 'AACSB,  NASULGC Space-grant,  SACS, SUSF ORAU'}}}
+37: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB,  NASULGC Space-grant,  SACS, SUSF ORAU', 'old_value': 'AACSB,  NASULGC Space-grant,  SACS ORAU'}}}
+41: {'values_changed': {"root['endowment']": {'new_value': '$227 million (2019)', 'old_value': '$240.7 million (2020)'}}}
+46: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB,  NASULGC Space-grant,  SACS ORAU', 'old_value': 'AACSB,  NASULGC Space-grant,  SACS ORAU SFEC'}}}
+47: {'values_changed': {"root['affiliations']": {'new_value': 'AACSB,  NASULGC Space-grant,  SACS ORAU SFEC', 'old_value': 'AACSB,  NASULGC Space-grant,  SACS ORAU'}}}
+49: {'values_changed': {"root['president']": {'new_value': 'John W. Kelly', 'old_value': 'Christine Harpe'}}}
+50: {'values_changed': {"root['president']": {'new_value': 'Christine Harpe', 'old_value': 'John W. Kelly'}}}
+58: {'dictionary_item_added': {"root['affiliations']": 'AACSB,  NASULGC Space-grant,  SACS ORAU'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant ORAU'}}
+64: {'dictionary_item_added': {"root['staff']": '1,499'}, 'dictionary_item_removed': {"root['administrative_staff']": '1,499'}}
+72: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Space-grant ORAU', 'old_value': 'Sea-grant Space-grant ORAU'}}}
+73: {'dictionary_item_removed': {"root['Accredation']": 'SACS'}}
+74: {'dictionary_item_added': {"root['image_name']": 'Florida Atlantic University seal.svg', "root['athletics']": 'NCAA Division I – C-USA 19 varsity teams', "root['Accredation']": 'SACS'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – C-USA 19 varsity teams'}, 'values_changed': {"root['campus']": {'new_value': 'Urban area 850 acres (3.5 km²) 6 other satellite campuses', 'old_value': 'Urban area, '}}}
+76: {'dictionary_item_removed': {"root['Newspaper']": 'University Press '}}
+77: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Sea-grant Space-grant ORAU', 'old_value': 'Sea-grant Space-grant ORAU SURA'}}}
+109: {'dictionary_item_added': {"root['Newspaper']": 'University Press '}, 'dictionary_item_removed': {"root['budget']": '$900 million (2020)'}}
+128: {'values_changed': {"root['name']": {'new_value': 'Florida Atlantic University', 'old_value': 'Florida Clown University'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Florida Clown University', 'old_value': 'Florida Atlantic University'}}}

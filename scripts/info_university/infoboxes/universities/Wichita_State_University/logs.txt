@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wichita State University', "root['former_names']": 'Fairmount College, ', "root['endowment']": '$247.73 million (2017)', "root['president']": 'John Bardo', "root['provost']": 'Anthony J. Vizzini', "root['academic_staff']": '520', "root['students']": '15,081 (fall 2017) ', "root['campus']": 'Urban, ', "root['athletics_nickname']": 'Shockers'}}
+4: {'dictionary_item_removed': {"root['location']": 'Wichita, Kansas, U.S. http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:482712 Geographic Names Information System (GNIS) details for Wichita State University; United States Geological Survey (USGS); October 13, 1978.'}}
+11: {'values_changed': {"root['president']": {'new_value': 'John Bardo', 'old_value': 'Jon Elmore'}}}
+19: {'values_changed': {"root['president']": {'new_value': 'Jon Elmore', 'old_value': 'John Bardo'}}}
+21: {'values_changed': {"root['president']": {'new_value': 'John Bardo', 'old_value': 'John Elmore'}}}
+22: {'values_changed': {"root['president']": {'new_value': 'John Elmore', 'old_value': 'Ot Elmore'}}}
+23: {'values_changed': {"root['president']": {'new_value': 'Ot Elmore', 'old_value': 'John Bardo'}}}
+25: {'dictionary_item_added': {"root['location']": 'Wichita, Kansas, U.S. http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:3:::NO::P3_FID:482712 Geographic Names Information System (GNIS) details for Wichita State University; United States Geological Survey (USGS); October 13, 1978.'}, 'values_changed': {"root['president']": {'new_value': 'John Bardo', 'old_value': 'Jon Elmore'}}}
+26: {'values_changed': {"root['provost']": {'new_value': 'Anthony J. Vizzini', 'old_value': 'Dan D’Antoni'}}}
+27: {'values_changed': {"root['president']": {'new_value': 'Jon Elmore', 'old_value': 'John Bardo'}, "root['provost']": {'new_value': 'Dan D’Antoni', 'old_value': 'Richard Muma'}}}
+46: {'values_changed': {"root['students']": {'new_value': '15,081 (fall 2017) ', 'old_value': '15,784 (fall 2018) '}}}
+52: {'values_changed': {"root['endowment']": {'new_value': '$247.73 million (2017)', 'old_value': '$247.75 million (2017)'}}}
+56: {'values_changed': {"root['president']": {'new_value': 'John Bardo', 'old_value': 'Jay Golden'}, "root['provost']": {'new_value': 'Richard Muma', 'old_value': 'Rick Muma'}, "root['students']": {'new_value': '15,784 (fall 2018) ', 'old_value': '16,058 (Fall 2019)'}}}
+74: {'values_changed': {"root['former_names']": {'new_value': 'Fairmount College, ', 'old_value': 'Fairmount College (1895-1926), '}}}
+76: {'values_changed': {"root['endowment']": {'new_value': '$247.75 million (2017)', 'old_value': '$276.142 million (2019)'}}}
+78: {'dictionary_item_removed': {"root['academic_affiliations']": ['APLU', 'HLC']}}
+80: {'dictionary_item_added': {"root['academic_affiliations']": ['APLU', 'HLC']}, 'dictionary_item_removed': {"root['undergrad']": '11,206 (Fall 2019)', "root['postgrad']": '2,841 (Fall 2019)', "root['other']": '2,011 (Fall 2019)'}, 'values_changed': {"root['students']": {'new_value': '16,058 (Fall 2019)', 'old_value': '16,058 (Fall 2019) '}}}
+81: {'dictionary_item_added': {"root['campus']": 'Urban, '}, 'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": 'The Sunflower'}}
+82: {'dictionary_item_removed': {"root['budget']": '$398.212 million (2020)'}}
+89: {'dictionary_item_removed': {"root['campus']": 'Urban, '}}
+94: {'values_changed': {"root['president']": {'new_value': 'Jay Golden', 'old_value': 'Jay Golden   (Resigned September 25, 2020)'}}}
+95: {'values_changed': {"root['president']": {'new_value': 'Jay Golden   (Resigned September 25, 2020)', 'old_value': 'Rick Muma (acting)'}}}
+104: {'values_changed': {"root['president']": {'new_value': 'Rick Muma (acting)', 'old_value': 'Rick Muma (interim)'}}}
+113: {'dictionary_item_added': {"root['former_names']": 'Fairmount College (1895-1926), '}, 'values_changed': {"root['endowment']": {'new_value': '$276.142 million (2019)', 'old_value': '$270.5 million (2020)'}, "root['budget']": {'new_value': '$398.212 million (2020)', 'old_value': '$398.2 million (2020)'}}}
+124: {'values_changed': {"root['president']": {'new_value': 'Rick Muma (interim)', 'old_value': 'Rick Muma  ||'}, "root['provost']": {'new_value': 'Rick Muma', 'old_value': 'Shirley Lefever (interim)'}}}
+156: {'values_changed': {"root['students']": {'new_value': '16,058 (Fall 2019) ', 'old_value': '16,097 (Fall 2021) '}, "root['undergrad']": {'new_value': '11,206 (Fall 2019)', 'old_value': '10,473 (Fall 2021)'}, "root['postgrad']": {'new_value': '2,841 (Fall 2019)', 'old_value': '3,375 (Fall 2021)'}, "root['other']": {'new_value': '2,011 (Fall 2019)', 'old_value': '2,249 (Fall 2021)'}}}
+165: {'values_changed': {"root['president']": {'new_value': 'Rick Muma  ||', 'old_value': 'Richard Muma  ||'}}}
+167: {'values_changed': {"root['president']": {'new_value': 'Richard Muma  ||', 'old_value': 'Richard Muma ||'}}}
+169: {'values_changed': {"root['provost']": {'new_value': 'Shirley Lefever (interim)', 'old_value': 'Shirley Lefever'}}}
+186: {'dictionary_item_added': {"root['other']": '2,249 (Fall 2021)'}, 'values_changed': {"root['students']": {'new_value': '16,097 (Fall 2021) ', 'old_value': '14,999 (Spring 2022)'}, "root['undergrad']": {'new_value': '10,473 (Fall 2021)', 'old_value': '11,946 (Spring 2022)'}, "root['postgrad']": {'new_value': '3,375 (Fall 2021)', 'old_value': '3,053(Spring 2022)'}}}
+192: {'dictionary_item_removed': {"root['former_names']": 'Fairmont College (1895–1926), Municipal University of Wichita (1926–1964)'}}
+194: {'dictionary_item_removed': {"root['other']": '2,249 (Fall 2021)'}, 'values_changed': {"root['students']": {'new_value': '14,999 (Spring 2022)', 'old_value': '16,097 (Fall 2021) '}, "root['undergrad']": {'new_value': '11,946 (Spring 2022)', 'old_value': '10,473 (Fall 2021)'}, "root['postgrad']": {'new_value': '3,053(Spring 2022)', 'old_value': '3,375 (Fall 2021)'}}}
+199: {'values_changed': {"root['students']": {'new_value': '16,097 (Fall 2021) ', 'old_value': '16,921 (Fall 2022) '}, "root['undergrad']": {'new_value': '10,473 (Fall 2021)', 'old_value': '10,307 (Fall 2022)'}, "root['postgrad']": {'new_value': '3,375 (Fall 2021)', 'old_value': '4,225 (Fall 2022)'}, "root['other']": {'new_value': '2,249 (Fall 2021)', 'old_value': '2,389 (Fall 2022)'}}}
+202: {'values_changed': {"root['former_names']": {'new_value': 'Fairmont College (1895–1926), Municipal University of Wichita (1926–1964)', 'old_value': 'Fairmount College (1895–1926), Municipal University of Wichita (1926–1964)'}}}
+204: {'values_changed': {"root['free2']": {'new_value': 'The Sunflower', 'old_value': "''The Sunflower''"}, "root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large city'}}}
+207: {'values_changed': {"root['endowment']": {'new_value': '$270.5 million (2020)', 'old_value': '$320.1 million (2022)'}}}
+208: {'values_changed': {"root['budget']": {'new_value': '$398.2 million (2020)', 'old_value': '$606.3 million (2023)'}}}

@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Peking University', "root['image_name']": 'Peking University seal.svg', "root['president']": 'Wang Enge (', "root['faculty']": '4,206 ', "root['undergrad']": '15,128', "root['postgrad']": '15,119', "root['campus']": 'Urban, ', "root['former_names']": 'Imperial University of Peking', "root['affiliations']": 'IARU, AEARU, APRU, BESETOHA, C9'}}
+32: {'values_changed': {"root['president']": {'new_value': 'Wang Enge (', 'old_value': 'Lin Jianhua ('}}}
+36: {'dictionary_item_removed': {"root['head']": 'Zhu Shanlu'}}
+115: {'dictionary_item_removed': {"root['students']": '30,248', "root['colours']": 'Red '}, 'values_changed': {"root['head']": {'new_value': 'Zhu Shanlu', 'old_value': 'Hao Ping ('}, "root['postgrad']": {'new_value': '15,119', 'old_value': '15,120'}, "root['affiliations']": {'new_value': 'IARU, AEARU, APRU, BESETOHA, C9', 'old_value': 'IARU, AEARU, APRU, BESETOHA, C9 '}}}
+206: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AEARU, APRU, BESETOHA, C9 ', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9 '}}}
+236: {'values_changed': {"root['president']": {'new_value': 'Lin Jianhua (', 'old_value': 'Lin Jianhua'}, "root['head']": {'new_value': 'Hao Ping (', 'old_value': 'Hao Ping'}}}
+252: {'values_changed': {"root['students']": {'new_value': '30,248', 'old_value': '42,655'}, "root['undergrad']": {'new_value': '15,128', 'old_value': '15,628'}, "root['postgrad']": {'new_value': '15,120', 'old_value': '27,027'}}}
+253: {'values_changed': {"root['faculty']": {'new_value': '4,206 ', 'old_value': '7,317 '}}}
+254: {'values_changed': {"root['faculty']": {'new_value': '7,317 ', 'old_value': '7,317'}}}
+277: {'values_changed': {"root['president']": {'new_value': 'Lin Jianhua', 'old_value': 'Hao Ping'}, "root['head']": {'new_value': 'Hao Ping', 'old_value': 'Qiu Shuiping'}}}
+325: {'values_changed': {"root['students']": {'new_value': '42,655', 'old_value': '42,655,000'}, "root['undergrad']": {'new_value': '15,628', 'old_value': '15,628,000'}, "root['postgrad']": {'new_value': '27,027', 'old_value': '27,027,000'}}}
+326: {'values_changed': {"root['students']": {'new_value': '42,655,000', 'old_value': '42,655'}, "root['undergrad']": {'new_value': '15,628,000', 'old_value': '15,628'}, "root['postgrad']": {'new_value': '27,027,000', 'old_value': '27,027'}}}
+343: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9 ', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy '}}}
+344: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy ', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy |'}}}
+345: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy |', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, Washington University in St. Louis McDonnell International Scholars Academy |'}}}
+359: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, Washington University in St. Louis McDonnell International Scholars Academy |', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy |'}}}
+360: {'values_changed': {"root['students']": {'new_value': '42,655', 'old_value': '39,575'}}}
+381: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy |', 'old_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy '}}}
+423: {'values_changed': {"root['students']": {'new_value': '39,575', 'old_value': '44,729'}}}
+425: {'values_changed': {"root['students']": {'new_value': '44,729', 'old_value': '44,729  '}, "root['undergrad']": {'new_value': '15,628', 'old_value': '16,058'}, "root['postgrad']": {'new_value': '27,027', 'old_value': '28,671'}}}
+426: {'values_changed': {"root['faculty']": {'new_value': '7,317', 'old_value': '11,337'}}}
+519: {'values_changed': {"root['students']": {'new_value': '44,729  ', 'old_value': '44,729 '}}}
+607: {'values_changed': {"root['students']": {'new_value': '44,729 ', 'old_value': '44,730 '}, "root['undergrad']": {'new_value': '16,058', 'old_value': '16,060'}, "root['postgrad']": {'new_value': '28,671', 'old_value': '28,670'}}}
+632: {'dictionary_item_added': {"root['campus']": 'Urban, ', "root['colours']": 'Red '}, 'values_changed': {"root['affiliations']": {'new_value': 'IARU, AALAU, AEARU, APRU, BESETOHA, C9, McDonnell International Scholars Academy ', 'old_value': 'C9, IARU, AALAU, AEARU, APRU, BESETOHA, McDonnell International Scholars Academy '}}}

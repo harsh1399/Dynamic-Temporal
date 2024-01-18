@@ -1,0 +1,17 @@
+27: {'dictionary_item_removed': {"root['name']": 'Yale College', "root['image_name']": 'Sheffield-Sterling-Strathcona Hall Yale.JPG', "root['former_names']": 'The Collegiate School', "root['dean']": 'Mary Miller', "root['undergrad']": '5,409'}}
+34: {'dictionary_item_removed': {"root['academic_staff']": '1,155'}}
+42: {'dictionary_item_removed': {"root['alumni']": '75,021 (living, 2012)'}}
+43: {'values_changed': {"root['alumni']": {'new_value': '75,021 (living, 2012)', 'old_value': '75,021 (living 2012)'}}}
+59: {'values_changed': {"root['academic_staff']": {'new_value': '1,155', 'old_value': '1,155 '}}}
+66: {'values_changed': {"root['image_name']": {'new_value': 'Sheffield-Sterling-Strathcona Hall Yale.JPG', 'old_value': 'Yale-college-shield.jpg'}}}
+67: {'values_changed': {"root['image_name']": {'new_value': 'Yale-college-shield.jpg', 'old_value': 'Sheffield-Sterling-Strathcona Hall Yale.JPG'}}}
+74: {'values_changed': {"root['dean']": {'new_value': 'Mary Miller', 'old_value': 'Jonathan Holloway'}}}
+75: {'dictionary_item_added': {"root['academic_staff']": '1,155 '}, 'dictionary_item_removed': {"root['faculty']": '1,155 '}, 'values_changed': {"root['dean']": {'new_value': 'Jonathan Holloway', 'old_value': 'Mary Miller'}}}
+109: {'values_changed': {"root['dean']": {'new_value': 'Mary Miller', 'old_value': 'Jonathan Holloway'}}}
+116: {'values_changed': {"root['alumni']": {'new_value': '75,021 (living 2012)', 'old_value': '75,021'}}}
+117: {'dictionary_item_removed': {"root['rector']": 'James Dean', "root['director']": 'Lisa Ann', "root['head']": 'Rachel Roxxx'}}
+127: {'dictionary_item_added': {"root['image_name']": 'Sheffield-Sterling-Strathcona Hall Yale.JPG', "root['former_names']": 'The Collegiate School', "root['rector']": 'James Dean', "root['director']": 'Lisa Ann', "root['head']": 'Rachel Roxxx', "root['alumni']": '75,021'}, 'values_changed': {"root['dean']": {'new_value': 'Jonathan Holloway', 'old_value': 'Marvin Chun'}, "root['undergrad']": {'new_value': '5,409', 'old_value': '5,453'}}}
+145: {'values_changed': {"root['undergrad']": {'new_value': '5,453', 'old_value': '5,964 '}}}
+158: {'values_changed': {"root['undergrad']": {'new_value': '5,964 ', 'old_value': '6,092 '}}}
+161: {'dictionary_item_added': {"root['faculty']": '1,155 '}, 'values_changed': {"root['dean']": {'new_value': 'Marvin Chun', 'old_value': 'Marvin Chung belevi'}, "root['undergrad']": {'new_value': '6,092 ', 'old_value': '||¤'}}}
+162: {'values_changed': {"root['dean']": {'new_value': 'Marvin Chung belevi', 'old_value': 'Marvin Chun'}, "root['undergrad']": {'new_value': '||¤', 'old_value': '6,092 '}}}

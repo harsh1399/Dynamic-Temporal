@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Oakwood University', "root['president']": 'Delbert Baker', "root['campus']": 'Suburban', "root['students']": '1,824'}}
+6: {'values_changed': {"root['president']": {'new_value': 'Delbert Baker', 'old_value': 'Delbert and Susan Baker'}}}
+8: {'values_changed': {"root['president']": {'new_value': 'Delbert and Susan Baker', 'old_value': 'Delbert Baker'}}}
+15: {'values_changed': {"root['students']": {'new_value': '1,824', 'old_value': '1,800'}}}
+17: {'dictionary_item_removed': {"root['athletics']": 'USCAA Division I (basketball) and intramural sports'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': '1,185 acres, Suburban'}, "root['students']": {'new_value': '1,800', 'old_value': '1,824'}}}
+18: {'dictionary_item_removed': {"root['affiliations']": 'Southern Association of Colleges & Schools'}, 'values_changed': {"root['name']": {'new_value': 'Oakwood University', 'old_value': 'Oakwood University |ima'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Oakwood University |ima', 'old_value': 'Oakwood University  |ima'}}}
+20: {'dictionary_item_added': {"root['affiliations']": 'Southern Association of Colleges & Schools'}, 'values_changed': {"root['name']": {'new_value': 'Oakwood University  |ima', 'old_value': 'Oakwood University'}}}
+83: {'dictionary_item_removed': {"root['image_name']": 'Moran hall2.JPG', "root['former_names']": 'Oakwood Industrial School, Oakwood Manual Training School, Oakwood Junior College, Oakwood College', "root['sports']": 'basketball, intramural sports', "root['affiliations']": 'United States Collegiate Athletic Association'}, 'values_changed': {"root['president']": {'new_value': 'Delbert Baker', 'old_value': 'Leslie N. Pollard, PhD, DMin, MBA |vice-president    ='}, "root['campus']": {'new_value': '1,185 acres, Suburban', 'old_value': 'Suburban, '}, "root['students']": {'new_value': '1,824', 'old_value': '1,900'}, "root['athletics']": {'new_value': 'USCAA Division I (basketball) and intramural sports', 'old_value': 'Division I'}}}
+84: {'values_changed': {"root['president']": {'new_value': 'Leslie N. Pollard, PhD, DMin, MBA |vice-president    =', 'old_value': 'Leslie N. Pollard |vice-president    ='}}}
+93: {'values_changed': {"root['image_name']": {'new_value': 'Moran hall2.JPG', 'old_value': 'OakwoodU.jpg'}, "root['sports']": {'new_value': 'basketball, intramural sports', 'old_value': 'Basketball, Intramural sports'}}}
+100: {'dictionary_item_added': {"root['athletics']": 'Division I'}, 'values_changed': {"root['image_name']": {'new_value': 'OakwoodU.jpg', 'old_value': 'Moran hall2.JPG'}}}
+102: {'values_changed': {"root['image_name']": {'new_value': 'Moran hall2.JPG', 'old_value': 'OakwoodU.jpg'}}}
+107: {'values_changed': {"root['image_name']": {'new_value': 'OakwoodU.jpg', 'old_value': 'BNT.jpg'}}}
+113: {'dictionary_item_added': {"root['students']": '1,900'}, 'dictionary_item_removed': {"root['undergrad']": '1,810 date=22 November 2011}'}}
+114: {'values_changed': {"root['image_name']": {'new_value': 'BNT.jpg', 'old_value': 'Oakwood University logo.png'}}}
+117: {'dictionary_item_added': {"root['sports']": 'Basketball, Intramural sports'}, 'dictionary_item_removed': {"root['athletics']": 'USCAA Division I'}, 'values_changed': {"root['affiliations']": {'new_value': 'United States Collegiate Athletic Association', 'old_value': 'CIC, SACS, AAA'}}}
+123: {'values_changed': {"root['affiliations']": {'new_value': 'CIC, SACS, AAA', 'old_value': 'CIC, UCNF'}}}
+124: {'values_changed': {"root['affiliations']": {'new_value': 'CIC, UCNF', 'old_value': 'CIC, UNCF'}}}
+137: {'values_changed': {"root['president']": {'new_value': 'Leslie N. Pollard |vice-president    =', 'old_value': 'Leslie Pollard |vice-president    ='}, "root['undergrad']": {'new_value': '1,810 date=22 November 2011}', 'old_value': '1,810 '}}}
+141: {'dictionary_item_removed': {"root['religious_affiliation']": 'Seventh-day Adventist Church'}}

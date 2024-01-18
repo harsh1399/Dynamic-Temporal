@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Calcutta', "root['image_name']": 'University of Calcutta logo.svg', "root['vice_chancellor']": 'Sonali Chakravarti Banerjee', "root['sports']": 'University Athletic Club, University Rowing Club', "root['undergrad']": '3,715', "root['postgrad']": '15,750', "root['students']": '22,520   (As of 2019)', "root['doctoral']": '1,631', "root['campus']": 'Urban', "root['affiliations']": 'UGC, NAAC, AIU, AICTE'}}
+18: {'dictionary_item_added': {"root['affiliations']": 'UGC, NAAC, AIU, AICTE'}, 'dictionary_item_removed': {"root['academic_staff']": '1,279', "root['academic_affiliations']": ', UGC , NAAC , AIU , AICTE , BCI'}, 'values_changed': {"root['undergrad']": {'new_value': '3,715', 'old_value': '2,871'}, "root['postgrad']": {'new_value': '15,750', 'old_value': '12,353'}, "root['students']": {'new_value': '22,520   (As of 2019)', 'old_value': '19,004 '}, "root['doctoral']": {'new_value': '1,631', 'old_value': '3,780'}}}
+19: {'values_changed': {"root['academic_staff']": {'new_value': '1,279', 'old_value': '1,279 '}}}
+31: {'dictionary_item_removed': {"root['chancellor']": 'Governor of West Bengal'}}
+32: {'values_changed': {"root['academic_affiliations']": {'new_value': ', UGC , NAAC , AIU , AICTE , BCI', 'old_value': ', UGC , NAAC , AIU'}}}
+33: {'values_changed': {"root['academic_affiliations']": {'new_value': ', UGC , NAAC , AIU', 'old_value': ', UGC , NAAC , AIU ,ACU'}}}
+35: {'values_changed': {"root['chancellor']": {'new_value': 'Governor of West Bengal', 'old_value': 'Jahdeep Dhankhar'}}}
+36: {'values_changed': {"root['chancellor']": {'new_value': 'Jahdeep Dhankhar', 'old_value': 'Jagdeep Dhankhar'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'University of Calcutta', 'old_value': 'University of  Bashbagan'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'University of  Bashbagan', 'old_value': 'University of Calcutta'}}}
+80: {'dictionary_item_added': {"root['chancellor']": 'Jagdeep Dhankhar'}, 'values_changed': {"root['academic_affiliations']": {'new_value': ', UGC , NAAC , AIU ,ACU', 'old_value': 'UGC, NAAC, AIU, ACU'}}}
+106: {'dictionary_item_added': {"root['image_name']": 'University of Calcutta logo.svg', "root['sports']": 'University Athletic Club, University Rowing Club', "root['academic_affiliations']": 'UGC, NAAC, AIU, ACU'}, 'dictionary_item_removed': {"root['chancellor']": 'Governor of West Bengal'}}
+107: {'dictionary_item_removed': {"root['academic_affiliations']": ['UGC', 'AIU', 'ACU', 'AICTE', 'BCI']}}
+114: {'values_changed': {"root['chancellor']": {'new_value': 'Governor of West Bengal', 'old_value': 'Admiral general of republic of wadia'}}}
+115: {'values_changed': {"root['chancellor']": {'new_value': 'Admiral general of republic of wadia', 'old_value': 'Governor of West Bengal'}}}
+148: {'iterable_item_added': {"root['academic_affiliations'][3]": 'AICTE', "root['academic_affiliations'][4]": 'BCI'}}
+159: {'values_changed': {"root['academic_staff']": {'new_value': '1,279 ', 'old_value': '1,255 ('}, "root['undergrad']": {'new_value': '2,871', 'old_value': '2,830 ('}, "root['postgrad']": {'new_value': '12,353', 'old_value': '12,779 ('}, "root['students']": {'new_value': '19,004 ', 'old_value': '19,119 ('}, "root['doctoral']": {'new_value': '3,780', 'old_value': '3,510 ('}}}
+162: {'iterable_item_removed': {"root['academic_affiliations'][3]": 'AICTE'}}
+163: {'values_changed': {"root['chancellor']": {'new_value': 'Governor of West Bengal', 'old_value': 'Chief Minister of Bengal'}}}
+164: {'values_changed': {"root['chancellor']": {'new_value': 'Chief Minister of Bengal', 'old_value': 'Governor of West Bengal'}}}
+165: {'values_changed': {"root['chancellor']": {'new_value': 'Governor of West Bengal', 'old_value': 'Chief Minister of West Bengal'}}}
+166: {'values_changed': {"root['chancellor']": {'new_value': 'Chief Minister of West Bengal', 'old_value': 'Governor of West Bengal'}}}
+171: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sonali Chakravarti Banerjee', 'old_value': 'Sonali  Chakravarti Banerjee who has became VC by giving money & not by her talent'}}}
+173: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sonali  Chakravarti Banerjee who has became VC by giving money & not by her talent', 'old_value': 'Sonali Chakravarti Banerjee'}}}
+194: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sonali Chakravarti Banerjee', 'old_value': 'Dr. Asis Kumar Chattopadhyay'}}}
+195: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr. Asis Kumar Chattopadhyay', 'old_value': 'Asis Kumar Chattopadhyay'}}}
+228: {'dictionary_item_removed': {"root['rector']": 'Chief Minister of West Bengal'}, 'iterable_item_removed': {"root['academic_affiliations'][4]": 'BCI', "root['academic_affiliations'][5]": 'ICMR', "root['academic_affiliations'][6]": 'ICSSR'}}
+243: {'values_changed': {"root['undergrad']": {'new_value': '2,830 (', 'old_value': '2,190 ('}, "root['postgrad']": {'new_value': '12,779 (', 'old_value': '12,012 ('}, "root['students']": {'new_value': '19,119 (', 'old_value': '17,881 ('}, "root['doctoral']": {'new_value': '3,510 (', 'old_value': '3,679 ('}}}
+250: {'dictionary_item_added': {"root['rector']": 'Chief Minister of West Bengal'}, 'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Large city'}}}
+258: {'iterable_item_added': {"root['academic_affiliations'][3]": 'AICTE', "root['academic_affiliations'][4]": 'BCI', "root['academic_affiliations'][5]": 'ICMR', "root['academic_affiliations'][6]": 'ICSSR'}}

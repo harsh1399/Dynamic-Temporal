@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Northwestern University', "root['image_name']": 'Northwestern University seal.svg', "root['academic_affiliations']": 'AAU   BTAA URA   NAICU   COFHE   IAMSCU  Space-grant', "root['endowment']": '$11.1 billion (2019)', "root['president']": 'Morton O. Schapiro', "root['provost']": 'Kathleen Hagerty', "root['students']": '21,946 (Fall 2019) ', "root['faculty']": '3,781 (Fall 2018) ', "root['undergrad']": '8,327 (Fall 2019)', "root['postgrad']": '13,619 (Fall 2019)', "root['campus']": 'Evanston main campus, Urban, '}}
+30: {'values_changed': {"root['endowment']": {'new_value': '$11.1 billion (2019)', 'old_value': '$10.93 billion (2020)'}}}
+31: {'values_changed': {"root['endowment']": {'new_value': '$10.93 billion (2020)', 'old_value': '$12.2 billion (2021)'}}}
+67: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU   BTAA URA   NAICU   COFHE   IAMSCU  Space-grant', 'old_value': 'AAU URA   NAICU   COFHE   IAMSCU  Space-grant'}}}
+69: {'values_changed': {"root['endowment']": {'new_value': '$12.2 billion (2021)', 'old_value': '$10.92 billion (2021)'}}}
+73: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AAU URA   NAICU   COFHE   IAMSCU  Space-grant', 'old_value': 'AAU URA   NAICU   COFHE   IAMSCU  568 Group, Space-grant'}}}
+76: {'values_changed': {"root['endowment']": {'new_value': '$10.92 billion (2021)', 'old_value': '$12.2 billion (2021) As of February 19, 2021. |'}}}
+113: {'values_changed': {"root['endowment']": {'new_value': '$12.2 billion (2021) As of February 19, 2021. |', 'old_value': '$14 billion (2021) As of July 8, 2021. |'}}}
+133: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['AAU', 'URA', 'NAICU', 'COFHE', 'IAMSCU', '568 Group', 'Space-grant'], 'new_value': 'AAU URA   NAICU   COFHE   IAMSCU  568 Group, Space-grant'}}, 'values_changed': {"root['campus']": {'new_value': 'Evanston main campus, Urban, ', 'old_value': 'Evanston main campus, Suburban, '}}}
+149: {'values_changed': {"root['president']": {'new_value': 'Morton O. Schapiro', 'old_value': 'Rebecca M. Blank'}}}
+151: {'dictionary_item_added': {"root['president']": 'Rebecca M. Blank'}, 'values_changed': {"root['endowment']": {'new_value': '$14 billion (2021) As of July 8, 2021. |', 'old_value': '$14 billion (2021)'}}}
+153: {'dictionary_item_removed': {"root['president']": 'Morton Schapiro'}, 'values_changed': {"root['endowment']": {'new_value': '$14 billion (2021)', 'old_value': '$14 billion (2021) As of July 8, 2021. |'}}}
+154: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church'}}
+162: {'dictionary_item_added': {"root['religious_affiliation']": 'United Methodist Church'}, 'values_changed': {"root['endowment']": {'new_value': '$14 billion (2021) As of July 8, 2021. |', 'old_value': '$15 billion (2021)'}}}
+166: {'dictionary_item_removed': {"root['religious_affiliation']": 'Nonsectarian - Methodist historically'}}
+169: {'dictionary_item_added': {"root['religious_affiliation']": 'Nonsectarian - Methodist historically'}, 'values_changed': {"root['campus']": {'new_value': 'Evanston main campus, Suburban, ', 'old_value': 'Small City  , Main campus, '}}}
+184: {'values_changed': {"root['president']": {'new_value': 'Morton Schapiro', 'old_value': 'Morton O. Schapiro'}}}
+191: {'values_changed': {"root['endowment']": {'new_value': '$15 billion (2021)', 'old_value': '$16.1 billion (2021)'}}}
+193: {'values_changed': {"root['endowment']": {'new_value': '$16.1 billion (2021)', 'old_value': '$14.9 billion (2021)'}}}
+195: {'values_changed': {"root['endowment']": {'new_value': '$14.9 billion (2021)', 'old_value': '$16.1 billion (2021)'}}}
+235: {'values_changed': {"root['campus']": {'new_value': 'Small City  , Main campus, ', 'old_value': 'Small City   Main campus, '}}}
+247: {'iterable_item_removed': {"root['academic_affiliations'][1]": 'CRL'}}
+248: {'iterable_item_added': {"root['academic_affiliations'][1]": 'CRL'}}
+250: {'values_changed': {"root['endowment']": {'new_value': '$16.1 billion (2021)', 'old_value': '$14.9 billion (FY2021)'}}}
+257: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Daily Northwestern'' "}, 'values_changed': {"root['campus']": {'new_value': 'Small City   Main campus, ', 'old_value': 'Small City'}}}
+264: {'values_changed': {"root['endowment']": {'new_value': '$14.9 billion (FY2021)', 'old_value': '$16.1 billion (2021)'}}}
+265: {'values_changed': {"root['endowment']": {'new_value': '$16.1 billion (2021)', 'old_value': '$14.9 billion (FY2021)'}}}
+266: {'values_changed': {"root['endowment']": {'new_value': '$14.9 billion (FY2021)', 'old_value': '$16.1 billion (2021)'}}}
+278: {'values_changed': {"root['president']": {'new_value': 'Morton O. Schapiro', 'old_value': 'Michael H. Schill'}}}

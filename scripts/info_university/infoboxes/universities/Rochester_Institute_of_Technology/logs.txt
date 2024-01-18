@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['name']": 'Rochester Institute of Technology', "root['endowment']": 'US $661.5 million', "root['president']": 'William W. Destler', "root['undergrad']": '13,140', "root['postgrad']": '2,417', "root['faculty']": '915', "root['staff']": '1,831', "root['campus']": 'Suburban 1,300 acres (5.3 km²)'}}
+17: {'values_changed': {"root['president']": {'new_value': 'William W. Destler', 'old_value': 'William W. Destler(Orange Hair Mod)'}}}
+18: {'values_changed': {"root['president']": {'new_value': 'William W. Destler(Orange Hair Mod)', 'old_value': 'William W. Destler'}}}
+27: {'values_changed': {"root['president']": {'new_value': 'William W. Destler', 'old_value': 'William W. Destler (Now with 50% more orange hair!)'}}}
+29: {'values_changed': {"root['president']": {'new_value': 'William W. Destler (Now with 50% more orange hair!)', 'old_value': 'William W. Destler'}}}
+45: {'dictionary_item_removed': {"root['sports']": '24 varsity teams'}}
+60: {'values_changed': {"root['undergrad']": {'new_value': '13,140', 'old_value': '15,989'}, "root['postgrad']": {'new_value': '2,417', 'old_value': '2,513'}}}
+67: {'values_changed': {"root['undergrad']": {'new_value': '15,989', 'old_value': '15,989 http://www.rit.edu/news/umag/winter2007/pdfs/30_features_year_in_review.pdf'}}}
+69: {'values_changed': {"root['undergrad']": {'new_value': '15,989 http://www.rit.edu/news/umag/winter2007/pdfs/30_features_year_in_review.pdf', 'old_value': '15,989 '}}}
+91: {'dictionary_item_removed': {"root['affiliations']": 'MAISA; AAU'}}
+92: {'values_changed': {"root['affiliations']": {'new_value': 'MAISA; AAU', 'old_value': 'MAISA;'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'Rochester Institute of Technology', 'old_value': 'Rochester Constitutes Technology'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'Rochester Constitutes Technology', 'old_value': 'Rochester Institute of Technology'}}}
+189: {'values_changed': {"root['undergrad']": {'new_value': '15,989 ', 'old_value': '15,987 '}, "root['faculty']": {'new_value': '915', 'old_value': '916'}, "root['staff']": {'new_value': '1,831', 'old_value': '1,830'}, "root['sports']": {'new_value': '24 varsity teams', 'old_value': '23 varsity teams'}}}
+190: {'values_changed': {"root['undergrad']": {'new_value': '15,987 ', 'old_value': '15,989 '}, "root['faculty']": {'new_value': '916', 'old_value': '915'}, "root['staff']": {'new_value': '1,830', 'old_value': '1,831'}, "root['sports']": {'new_value': '23 varsity teams', 'old_value': '24 varsity teams'}}}
+216: {'values_changed': {"root['endowment']": {'new_value': 'US $661.5 million', 'old_value': 'US $671.5 million '}, "root['undergrad']": {'new_value': '15,989 ', 'old_value': '13,861'}, "root['postgrad']": {'new_value': '2,513', 'old_value': '2,633'}}}
+227: {'dictionary_item_added': {"root['sports']": '24 varsity teams', "root['affiliations']": 'MAISA;'}, 'dictionary_item_removed': {"root['provost']": 'Jeremy A. Haefner', "root['students']": '16,842 '}, 'values_changed': {"root['endowment']": {'new_value': 'US $671.5 million ', 'old_value': '$750.8 million '}, "root['president']": {'new_value': 'William W. Destler', 'old_value': 'David C. Munson, Jr'}, "root['undergrad']": {'new_value': '13,861', 'old_value': '13,711'}, "root['postgrad']": {'new_value': '2,633', 'old_value': '3,131'}, "root['faculty']": {'new_value': '915', 'old_value': '1,544 (Full-time, part-time, adjunct) '}, "root['staff']": {'new_value': '1,831', 'old_value': '2,310'}, "root['campus']": {'new_value': 'Suburban 1,300 acres (5.3 km²)', 'old_value': 'Suburban '}}}
+238: {'values_changed': {"root['undergrad']": {'new_value': '13,711', 'old_value': '15,741  '}, "root['faculty']": {'new_value': '1,544 (Full-time, part-time, adjunct) ', 'old_value': '4,022 (Full-time, part-time, adjunct) '}}}
+239: {'dictionary_item_added': {"root['postgrad']": '3,131'}, 'dictionary_item_removed': {"root['graduates']": '3,222 '}, 'values_changed': {"root['students']": {'new_value': '16,842 ', 'old_value': '18,963 '}}}
+251: {'values_changed': {"root['endowment']": {'new_value': '$750.8 million ', 'old_value': '$847.2 million '}}}
+265: {'values_changed': {"root['undergrad']": {'new_value': '15,741  ', 'old_value': '15,741'}, "root['graduates']": {'new_value': '3,222 ', 'old_value': '3,222'}, "root['faculty']": {'new_value': '4,022 (Full-time, part-time, adjunct) ', 'old_value': '4,022 (Full-time, part-time, adjunct)'}}}
+267: {'dictionary_item_added': {"root['graduates']": '3,222'}, 'dictionary_item_removed': {"root['postgrad']": '3,222'}}
+277: {'values_changed': {"root['provost']": {'new_value': 'Jeremy A. Haefner', 'old_value': 'Ellen Granberg'}}}
+292: {'values_changed': {"root['endowment']": {'new_value': '$847.2 million ', 'old_value': '$938.2 million '}}}
+294: {'values_changed': {"root['students']": {'new_value': '18,963 ', 'old_value': '19,047  '}, "root['undergrad']": {'new_value': '15,741', 'old_value': '15,946'}, "root['postgrad']": {'new_value': '3,222', 'old_value': '3,101'}, "root['faculty']": {'new_value': '4,022 (Full-time, part-time, adjunct)', 'old_value': '1,499 (Full-time, part-time, adjunct)'}, "root['staff']": {'new_value': '2,310', 'old_value': '2,515'}}}
+368: {'values_changed': {"root['students']": {'new_value': '19,047  ', 'old_value': '19,047 '}}}
+387: {'values_changed': {"root['name']": {'new_value': 'Rochester Institute of Technology', 'old_value': 'GRochester Institute of G'}}}
+389: {'values_changed': {"root['name']": {'new_value': 'GRochester Institute of G', 'old_value': 'Grochester Institute of G'}}}
+390: {'values_changed': {"root['endowment']": {'new_value': '$938.2 million ', 'old_value': '$1.28 '}}}
+391: {'values_changed': {"root['name']": {'new_value': 'Grochester Institute of G', 'old_value': 'Rochester Institute of Technology'}, "root['endowment']": {'new_value': '$1.28 ', 'old_value': '$938.2 million '}}}
+418: {'dictionary_item_added': {"root['staff']": '2,515'}, 'dictionary_item_removed': {"root['administrative_staff']": '2,515'}, 'values_changed': {"root['endowment']": {'new_value': '$938.2 million ', 'old_value': '$947.1 million (2020)'}}}
+435: {'values_changed': {"root['endowment']": {'new_value': '$947.1 million (2020)', 'old_value': '$1.295 billion (2021)'}}}
+437: {'values_changed': {"root['endowment']": {'new_value': '$1.295 billion (2021)', 'old_value': '$947.1 million (2020)'}}}
+439: {'values_changed': {"root['endowment']": {'new_value': '$947.1 million (2020)', 'old_value': '$1.295 billion (2021)'}}}

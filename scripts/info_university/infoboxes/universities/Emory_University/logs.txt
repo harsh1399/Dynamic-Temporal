@@ -1,0 +1,108 @@
+0: {'dictionary_item_removed': {"root['name']": 'Emory University', "root['image_name']": 'Emory University Seal.png', "root['calendar']": 'Semester', "root['president']": 'James W. Wagner', "root['students']": '12,338', "root['undergrad']": '6,646', "root['postgrad']": '4,080', "root['profess']": '1,612', "root['faculty']": '2,709', "root['staff']": '18,807', "root['campus']": 'Suburban, 631 acres (2.6 km²)', "root['endowment']": 'US $5.5 billion (2008)', "root['athletics']": 'NCAA Division III UAA'}}
+20: {'values_changed': {"root['students']": {'new_value': '12,338', 'old_value': '12,755'}, "root['undergrad']": {'new_value': '6,646', 'old_value': '6,890'}, "root['postgrad']": {'new_value': '4,080', 'old_value': '5,865'}}}
+22: {'dictionary_item_added': {"root['profess']": '1,612', "root['faculty']": '2,709', "root['staff']": '18,807'}, 'values_changed': {"root['postgrad']": {'new_value': '5,865', 'old_value': '5,865  |Faculty and Staff=12,429'}}}
+24: {'values_changed': {"root['postgrad']": {'new_value': '5,865  |Faculty and Staff=12,429', 'old_value': "5,865  |Faculty and Staff=12,429 name='IR' />"}}}
+96: {'values_changed': {"root['students']": {'new_value': '12,755', 'old_value': '12,755 "http://www.emory.edu/home/about/factsfigures/index.htm'}, "root['postgrad']": {'new_value': "5,865  |Faculty and Staff=12,429 name='IR' />", 'old_value': "5,865   |Faculty and Staff=12,429 name='IR' />"}}}
+97: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 631 acres (2.6 km²)', 'old_value': 'Suburban 631 acres (2.6 km²)'}}}
+103: {'values_changed': {"root['students']": {'new_value': '12,755 "http://www.emory.edu/home/about/factsfigures/index.htm', 'old_value': '12,755 '}, "root['postgrad']": {'new_value': "5,865   |Faculty and Staff=12,429 name='IR' />", 'old_value': '5,865'}, "root['endowment']": {'new_value': 'US $5.5 billion (2008)', 'old_value': 'US $5.5 billion'}}}
+104: {'values_changed': {"root['students']": {'new_value': '12,755 ', 'old_value': '12,755'}}}
+142: {'dictionary_item_removed': {"root['affiliations']": 'SACS, AAU'}}
+150: {'values_changed': {"root['affiliations']": {'new_value': 'SACS, AAU', 'old_value': 'Southern Association of Colleges and Schools, AAU'}}}
+164: {'values_changed': {"root['students']": {'new_value': '12,755', 'old_value': '12,756'}}}
+238: {'values_changed': {"root['affiliations']": {'new_value': 'Southern Association of Colleges and Schools, AAU', 'old_value': 'United Methodist Church, '}}}
+240: {'values_changed': {"root['affiliations']": {'new_value': 'United Methodist Church, ', 'old_value': 'Southern Association of Colleges and Schools, AAU'}}}
+241: {'values_changed': {"root['affiliations']": {'new_value': 'Southern Association of Colleges and Schools, AAU', 'old_value': 'United Methodist Church, '}}}
+242: {'values_changed': {"root['affiliations']": {'new_value': 'United Methodist Church, ', 'old_value': 'Southern Association of Colleges and Schools, AAU'}}}
+243: {'values_changed': {"root['affiliations']": {'new_value': 'Southern Association of Colleges and Schools, AAU', 'old_value': 'United Methodist Church, '}}}
+244: {'values_changed': {"root['affiliations']": {'new_value': 'United Methodist Church, ', 'old_value': 'Southern Association of Colleges and Schools, AAU'}}}
+316: {'values_changed': {"root['endowment']": {'new_value': 'US $5.5 billion', 'old_value': 'US $4.3 billion'}}}
+389: {'values_changed': {"root['name']": {'new_value': 'Emory University', 'old_value': 'Oliver Carleton University'}, "root['students']": {'new_value': '12,756', 'old_value': '128,756'}, "root['undergrad']": {'new_value': '6,890', 'old_value': '67,890'}, "root['postgrad']": {'new_value': '5,865', 'old_value': '59,865'}}}
+390: {'dictionary_item_added': {"root['name']": 'Oliver Carleton University', "root['image_name']": 'Emory University Seal.png', "root['calendar']": 'Semester', "root['president']": 'James W. Wagner', "root['students']": '128,756', "root['undergrad']": '67,890', "root['postgrad']": '59,865', "root['campus']": 'Suburban 631 acres (2.6 km²)', "root['endowment']": 'US $4.3 billion', "root['athletics']": 'NCAA Division III UAA', "root['affiliations']": 'Southern Association of Colleges and Schools, AAU'}, 'dictionary_item_removed': {"root['USNWR_NU']": '17', "root['USNWR_Bus']": '22 | GUR World            = 38', "root['USNWR_Law']": '20', "root['USNWR_Medr']": '20', "root['USNWR_Medc']": '42', "root['USNWR_Eng']": '26', "root['ARWU_W']": '100', "root['ARWU_N']": '62', "root['ARWU_LIFE']": '53', "root['THES_W']": '90', "root['Wamo_NU']": '113', "root['Forbes']": '59 '}}
+391: {'dictionary_item_added': {"root['USNWR_NU']": '17', "root['USNWR_Bus']": '22 | GUR World            = 38', "root['USNWR_Law']": '20', "root['USNWR_Medr']": '20', "root['USNWR_Medc']": '42', "root['USNWR_Eng']": '26', "root['ARWU_W']": '100', "root['ARWU_N']": '62', "root['ARWU_LIFE']": '53', "root['THES_W']": '90', "root['Wamo_NU']": '113', "root['Forbes']": '59 '}, 'dictionary_item_removed': {"root['name']": 'Oliver Carleton University', "root['image_name']": 'Emory University Seal.png', "root['calendar']": 'Semester', "root['president']": 'James W. Wagner', "root['students']": '128,756', "root['undergrad']": '67,890', "root['postgrad']": '59,865', "root['campus']": 'Suburban 631 acres (2.6 km²)', "root['endowment']": 'US $4.3 billion', "root['athletics']": 'NCAA Division III UAA', "root['affiliations']": 'Southern Association of Colleges and Schools, AAU'}}
+392: {'values_changed': {"root['name']": {'new_value': 'Oliver Carleton University', 'old_value': 'Emory University'}, "root['students']": {'new_value': '128,756', 'old_value': '12,756'}, "root['undergrad']": {'new_value': '67,890', 'old_value': '6,890'}, "root['postgrad']": {'new_value': '59,865', 'old_value': '5,865'}}}
+397: {'values_changed': {"root['endowment']": {'new_value': 'US $4.3 billion', 'old_value': 'US $4.5 billion'}}}
+398: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion', 'old_value': 'US $4.3 billion'}}}
+399: {'values_changed': {"root['endowment']": {'new_value': 'US $4.3 billion', 'old_value': 'US $4.5'}}}
+400: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5', 'old_value': 'US $4.5 billion'}}}
+401: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion', 'old_value': 'US $4.5 billion, '}}}
+402: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion, ', 'old_value': 'US $4.5 billion'}}}
+403: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion', 'old_value': 'US $4.5 billion, '}}}
+487: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion, ', 'old_value': 'US $4.5 billion'}}}
+569: {'values_changed': {"root['endowment']": {'new_value': 'US $4.5 billion', 'old_value': 'US $4.7 billion'}}}
+579: {'dictionary_item_added': {"root['affiliations']": 'Southern Association of Colleges and Schools, AAU'}, 'values_changed': {"root['students']": {'new_value': '12,756', 'old_value': '14,513 '}, "root['undergrad']": {'new_value': '6,890', 'old_value': '7,836'}, "root['postgrad']": {'new_value': '5,865', 'old_value': '6,677'}, "root['endowment']": {'new_value': 'US $4.7 billion', 'old_value': '$5.8 billion'}, "root['athletics']": {'new_value': 'NCAA Division III UAA', 'old_value': 'NCAA Division III, UAA'}}}
+582: {'values_changed': {"root['image_name']": {'new_value': 'Emory University Seal.png', 'old_value': 'thumbnail'}}}
+584: {'values_changed': {"root['image_name']": {'new_value': 'thumbnail', 'old_value': 'thumb|right|Emory University logo'}}}
+585: {'values_changed': {"root['image_name']": {'new_value': 'thumb|right|Emory University logo', 'old_value': 'thumbnail'}}}
+588: {'values_changed': {"root['image_name']": {'new_value': 'thumbnail', 'old_value': 'Emory University Seal.png'}}}
+600: {'values_changed': {"root['endowment']": {'new_value': '$5.8 billion', 'old_value': '$6.3 billion'}}}
+604: {'values_changed': {"root['endowment']": {'new_value': '$6.3 billion', 'old_value': '$5.8 billion'}}}
+608: {'values_changed': {"root['endowment']": {'new_value': '$5.8 billion', 'old_value': '$6.3 billion'}}}
+619: {'values_changed': {"root['undergrad']": {'new_value': '7,836', 'old_value': '5,700 '}}}
+700: {'values_changed': {"root['undergrad']": {'new_value': '5,700 ', 'old_value': '7,656 '}}}
+720: {'values_changed': {"root['endowment']": {'new_value': '$6.3 billion', 'old_value': '$5.8 billion'}}}
+721: {'values_changed': {"root['endowment']": {'new_value': '$5.8 billion', 'old_value': '$6.3 billion'}}}
+722: {'values_changed': {"root['endowment']": {'new_value': '$6.3 billion', 'old_value': '$5.8 billion'}}}
+723: {'values_changed': {"root['endowment']": {'new_value': '$5.8 billion', 'old_value': '$6.3 billion'}}}
+729: {'values_changed': {"root['endowment']": {'new_value': '$6.3 billion', 'old_value': '$5.8 billion'}}}
+730: {'values_changed': {"root['endowment']": {'new_value': '$5.8 billion', 'old_value': '$6.7 billion'}}}
+732: {'values_changed': {"root['endowment']": {'new_value': '$6.7 billion', 'old_value': '$6.7 billion ||'}}}
+735: {'values_changed': {"root['endowment']": {'new_value': '$6.7 billion ||', 'old_value': '$6.7 billion '}, "root['athletics']": {'new_value': 'NCAA Division III, UAA', 'old_value': 'NCAA Division III – UAA'}}}
+906: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'I. C. Weiner'}}}
+907: {'values_changed': {"root['president']": {'new_value': 'I. C. Weiner', 'old_value': 'James W. Wagner'}}}
+909: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'I. C. Weiner'}}}
+910: {'values_changed': {"root['president']": {'new_value': 'I. C. Weiner', 'old_value': 'James W. Wagner'}}}
+914: {'dictionary_item_removed': {"root['faculty']": '13,225'}}
+915: {'values_changed': {"root['faculty']": {'new_value': '13,225', 'old_value': '13,225  '}}}
+921: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – UAA'}, 'values_changed': {"root['undergrad']": {'new_value': '7,656 ', 'old_value': '7,656'}, "root['faculty']": {'new_value': '13,225  ', 'old_value': '13,225'}}}
+923: {'values_changed': {"root['undergrad']": {'new_value': '7,656', 'old_value': '7,656 '}}}
+1099: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – UAA'}}
+1247: {'dictionary_item_added': {"root['faculty']": '13,225'}, 'values_changed': {"root['calendar']": {'new_value': 'Semester', 'old_value': 'Semester |acceptance rate       =22.7%'}}}
+1273: {'dictionary_item_removed': {"root['faculty']": '13,225'}, 'values_changed': {"root['calendar']": {'new_value': 'Semester |acceptance rate       =22.7%', 'old_value': 'Semester'}, "root['endowment']": {'new_value': '$6.7 billion ', 'old_value': '$6.684 billion (2015)'}}}
+1309: {'dictionary_item_added': {"root['calendar']": 'Semester'}, 'values_changed': {"root['endowment']": {'new_value': '$6.684 billion (2015)', 'old_value': '$6.684 billion (2015)   |nickname          Vaginus Majoris'}}}
+1310: {'values_changed': {"root['endowment']": {'new_value': '$6.684 billion (2015)   |nickname          Vaginus Majoris', 'old_value': '$6.684 billion (2015)   |nickname          Vaginus Majoris, Pansies, Emroids'}}}
+1311: {'values_changed': {"root['students']": {'new_value': '14,513 ', 'old_value': '14,513 pansies '}}}
+1312: {'values_changed': {"root['students']": {'new_value': '14,513 pansies ', 'old_value': '14,513 '}}}
+1313: {'values_changed': {"root['endowment']": {'new_value': '$6.684 billion (2015)   |nickname          Vaginus Majoris, Pansies, Emroids', 'old_value': '$6.684 billion (2015)'}}}
+1335: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'Donald Trump 2016'}}}
+1336: {'values_changed': {"root['president']": {'new_value': 'Donald Trump 2016', 'old_value': 'James W. Wagner'}}}
+1337: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'Donald Trump 2016'}}}
+1338: {'values_changed': {"root['president']": {'new_value': 'Donald Trump 2016', 'old_value': 'James W. Wagner'}}}
+1339: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'Hillary Cinton then??'}}}
+1340: {'values_changed': {"root['president']": {'new_value': 'Hillary Cinton then??', 'old_value': 'James W. Wagner'}}}
+1394: {'values_changed': {"root['president']": {'new_value': 'James W. Wagner', 'old_value': 'Claire Sterk'}}}
+1396: {'values_changed': {"root['president']": {'new_value': 'Claire Sterk', 'old_value': 'Claire E. Sterk'}}}
+1432: {'dictionary_item_removed': {"root['affiliations']": []}}
+1434: {'values_changed': {"root['endowment']": {'new_value': '$6.684 billion (2015)', 'old_value': '$6.402 billion (2016)'}}}
+1441: {'dictionary_item_added': {"root['faculty']": '13,225'}, 'values_changed': {"root['students']": {'new_value': '14,513 ', 'old_value': '14,913 (Fall 2016) '}, "root['undergrad']": {'new_value': '7,656 ', 'old_value': '7,591 (Fall 2016)'}, "root['postgrad']": {'new_value': '6,677', 'old_value': '7,103 (Fall 2016)'}}}
+1495: {'values_changed': {"root['students']": {'new_value': '14,913 (Fall 2016) ', 'old_value': '15,252 (Fall 2017) '}, "root['undergrad']": {'new_value': '7,591 (Fall 2016)', 'old_value': '7,916 (Fall 2017)'}, "root['postgrad']": {'new_value': '7,103 (Fall 2016)', 'old_value': '7,336 (Fall 2017)'}}}
+1607: {'values_changed': {"root['endowment']": {'new_value': '$6.402 billion (2016)', 'old_value': '$6.97 billion (2017)'}}}
+1664: {'type_changes': {"root['affiliations']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'SACS   |ACE   |NAICU   |IAMSCU   |ORAU', 'new_value': []}}, 'values_changed': {"root['endowment']": {'new_value': '$6.97 billion (2017)', 'old_value': '$7.292  billion (2018) As of June 30, 2018. '}, "root['students']": {'new_value': '15,252 (Fall 2017) ', 'old_value': '15,451 (Fall 2018) '}, "root['undergrad']": {'new_value': '7,916 (Fall 2017)', 'old_value': '8,079 (Fall 2018)'}, "root['postgrad']": {'new_value': '7,336 (Fall 2017)', 'old_value': '7,372 (Fall 2018)'}, "root['campus']": {'new_value': 'Suburban 631 acres (2.6 km²)', 'old_value': 'Suburban '}}}
+1671: {'values_changed': {"root['endowment']": {'new_value': '$7.292  billion (2018) As of June 30, 2018. ', 'old_value': '$7.88 billion (2019)'}}}
+1672: {'values_changed': {"root['endowment']": {'new_value': '$7.88 billion (2019)', 'old_value': '$7.88 billion (2019) As of June 30, 2019. '}}}
+1728: {'values_changed': {"root['campus']": {'new_value': 'Suburban ', 'old_value': 'Suburban, '}}}
+1729: {'values_changed': {"root['endowment']": {'new_value': '$7.88 billion (2019) As of June 30, 2019. ', 'old_value': '$7.87 billion (2019) As of June 30, 2019. '}}}
+1751: {'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church '}}
+1789: {'values_changed': {"root['president']": {'new_value': 'Claire E. Sterk', 'old_value': 'Gregory L. Fenves'}}}
+1824: {'values_changed': {"root['students']": {'new_value': '15,451 (Fall 2018) ', 'old_value': '15,398 (Fall 2019) '}, "root['undergrad']": {'new_value': '8,079 (Fall 2018)', 'old_value': '8,101 (Fall 2019)'}, "root['postgrad']": {'new_value': '7,372 (Fall 2018)', 'old_value': '7,297 (Fall 2019)'}}}
+1831: {'values_changed': {"root['endowment']": {'new_value': '$7.87 billion (2019) As of June 30, 2019. ', 'old_value': '$7.94 billion (2019) As of June 30, 2019. '}}}
+1832: {'values_changed': {"root['endowment']": {'new_value': '$7.94 billion (2019) As of June 30, 2019. ', 'old_value': '$7.87 billion (2019) As of June 30, 2019. '}}}
+1853: {'values_changed': {"root['endowment']": {'new_value': '$7.87 billion (2019) As of June 30, 2019. ', 'old_value': '$7.94 billion (2020) As of June 30, 2020. '}}}
+1854: {'values_changed': {"root['affiliations']": {'new_value': 'SACS   |ACE   |NAICU   |IAMSCU   |ORAU', 'old_value': 'NAICU   |IAMSCU   |ORAU'}}}
+1886: {'dictionary_item_removed': {"root['USNWR_NU']": '21', "root['THE_WSJ']": '22', "root['USNWR_W']": '71', "root['QS_W']": '156', "root['ARWU_W']": '101–150', "root['ARWU_N']": '42–56', "root['THES_W']": '85', "root['Wamo_NU']": '63'}}
+1898: {'dictionary_item_added': {"root['USNWR_NU']": '21', "root['THE_WSJ']": '22', "root['USNWR_W']": '71', "root['QS_W']": '156', "root['ARWU_W']": '101–150', "root['ARWU_N']": '42–56', "root['THES_W']": '85', "root['Wamo_NU']": '63'}, 'dictionary_item_removed': {"root['administrative_staff']": '32,594'}}
+1901: {'dictionary_item_added': {"root['administrative_staff']": '32,594'}, 'dictionary_item_removed': {"root['total_staff']": '32,594'}}
+1902: {'dictionary_item_added': {"root['total_staff']": '32,594'}, 'dictionary_item_removed': {"root['administrative_staff']": '32,594'}}
+1909: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – UAA', "root['affiliations']": 'NAICU   |IAMSCU   |ORAU'}, 'dictionary_item_removed': {"root['academic_affiliations']": ['AAU', '', 'url=https://www.aau.edu/about/article.aspx?id=5476', '', '', 'NAICU', 'IAMSCU', 'ORAU']}, 'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Urban, '}}}
+1915: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City,   '}}}
+1917: {'values_changed': {"root['president']": {'new_value': 'Gregory L. Fenves', 'old_value': 'Daddy L. Fenves'}}}
+1918: {'values_changed': {"root['president']": {'new_value': 'Daddy L. Fenves', 'old_value': 'Gregory L. Fenves'}}}
+1932: {'dictionary_item_added': {"root['image_name']": 'Emory University Seal.png'}, 'values_changed': {"root['campus']": {'new_value': 'Large City,   ', 'old_value': 'Large city,   '}}}
+1935: {'values_changed': {"root['name']": {'new_value': 'Emory University', 'old_value': 'Scotland Alumni Stock University'}}}
+1936: {'values_changed': {"root['name']": {'new_value': 'Scotland Alumni Stock University', 'old_value': 'Emory University'}}}
+1940: {'values_changed': {"root['endowment']": {'new_value': '$7.94 billion (2020) As of June 30, 2020. ', 'old_value': '$11 billion (2021) As of June 30, 2021. '}}}
+1945: {'values_changed': {"root['students']": {'new_value': '15,398 (Fall 2019) ', 'old_value': '15,846 (Fall 2021) '}, "root['undergrad']": {'new_value': '8,101 (Fall 2019)', 'old_value': '8,197 (Fall 2021)'}, "root['postgrad']": {'new_value': '7,297 (Fall 2019)', 'old_value': '7,649 (Fall 2021)'}}}
+1964: {'iterable_item_removed': {"root['academic_affiliations'][5]": '', "root['academic_affiliations'][6]": 'archive-url=https://web.archive.org/web/20150508235503/http://www.aau.edu/about/article.aspx?id=5476', "root['academic_affiliations'][7]": ''}}
+1968: {'values_changed': {"root['campus']": {'new_value': 'Large city,   ', 'old_value': 'Large City,   '}}, 'iterable_item_removed': {"root['academic_affiliations'][8]": 'GRA'}}
+1974: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Emory Wheel''"}}
+1987: {'values_changed': {"root['campus']": {'new_value': 'Large City,   ', 'old_value': 'Large City'}}}
+1988: {'values_changed': {"root['campus']": {'new_value': 'Large City', 'old_value': 'Large City,   '}}}

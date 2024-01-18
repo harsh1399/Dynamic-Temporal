@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Grove City College', "root['endowment']": '$111.6 million - as of March 23, 2015', "root['president']": 'Paul McNulty  (PJ McNults)', "root['provost']": 'Robert J Graham', "root['dean']": 'David Ayers (Alva J. Calderwood School of Arts and Letters) & Stacy G. Birmingham (Hopeman School of Science, Engineering and Mathematics)', "root['students']": '2,500', "root['campus']": 'Rural   ', "root['affiliations']": 'NCAA Division III'}}
+1: {'values_changed': {"root['president']": {'new_value': 'Paul McNulty  (PJ McNults)', 'old_value': 'Paul McNulty'}}}
+2: {'values_changed': {"root['president']": {'new_value': 'Paul McNulty', 'old_value': 'Paul McNulty aka PJ McNults'}}}
+3: {'values_changed': {"root['president']": {'new_value': 'Paul McNulty aka PJ McNults', 'old_value': 'Paul McNulty'}}}
+4: {'values_changed': {"root['president']": {'new_value': 'Paul McNulty', 'old_value': 'Paul McNulty The man, the myth, the legend: PJ McNults'}}}
+5: {'values_changed': {"root['president']": {'new_value': 'Paul McNulty The man, the myth, the legend: PJ McNults', 'old_value': 'Paul McNulty'}}}
+101: {'values_changed': {"root['students']": {'new_value': '2,500', 'old_value': '0'}}}
+180: {'dictionary_item_added': {"root['students']": '0'}, 'dictionary_item_removed': {"root['image_name']": 'Arms of Grove City College.png'}}
+181: {'dictionary_item_added': {"root['provost']": 'Robert J Graham', "root['dean']": 'David Ayers (Alva J. Calderwood School of Arts and Letters) & Stacy G. Birmingham (Hopeman School of Science, Engineering and Mathematics)', "root['affiliations']": 'NCAA Division III'}, 'dictionary_item_removed': {"root['former_names']": 'Pine Grove Normal Academy', "root['undergrad']": '2,400 ', "root['faculty']": '150 ', "root['athletics']": "NCAA Division III – Presidents' Athletic Conference"}, 'values_changed': {"root['endowment']": {'new_value': '$111.6 million - as of March 23, 2015', 'old_value': 'US$111.6 million '}}}
+195: {'dictionary_item_added': {"root['image_name']": 'Arms of Grove City College.png'}, 'values_changed': {"root['undergrad']": {'new_value': '2,400 ', 'old_value': '2,400'}, "root['faculty']": {'new_value': '150 ', 'old_value': '150'}}}
+219: {'values_changed': {"root['endowment']": {'new_value': 'US$111.6 million ', 'old_value': 'US$1125.6 million '}}}
+221: {'values_changed': {"root['endowment']": {'new_value': 'US$1125.6 million ', 'old_value': 'US$125.6 million '}}}
+235: {'dictionary_item_removed': {"root['religious_affiliation']": 'Nondenominational Christian'}}
+266: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Nondenominational Christian', 'old_value': 'Undenominational, formerly Presbyterian Church (USA)'}}}

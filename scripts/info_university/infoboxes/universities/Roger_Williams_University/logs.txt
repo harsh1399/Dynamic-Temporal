@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['name']": 'Roger Williams University', "root['faculty']": '398', "root['students']": '3,650 undergraduate, 855 graduate', "root['campus']": 'Suburban, 140 Waterfront Acres', "root['endowment']": '$62.7 million', "root['president']": 'Ronald O. Champagne, Ph.D.'}}
+1: {'values_changed': {"root['president']": {'new_value': 'Ronald O. Champagne, Ph.D.', 'old_value': 'Andrew Markham, Ph.D. Noted Madden Player'}}}
+2: {'values_changed': {"root['president']": {'new_value': 'Andrew Markham, Ph.D. Noted Madden Player', 'old_value': 'Ronald O. Champagne, Ph.D.'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Ronald O. Champagne, Ph.D.', 'old_value': 'Donald J. Farish, Ph.D.'}}}
+31: {'values_changed': {"root['president']": {'new_value': 'Donald J. Farish, Ph.D.', 'old_value': 'Ronald Farish, Ph.D.'}}}
+32: {'values_changed': {"root['president']": {'new_value': 'Ronald Farish, Ph.D.', 'old_value': 'Ronald Farish'}}}
+35: {'values_changed': {"root['president']": {'new_value': 'Ronald Farish', 'old_value': 'Donald J. Farish, Ph.D.'}}}
+45: {'values_changed': {"root['students']": {'new_value': '3,650 undergraduate, 855 graduate', 'old_value': '4,425 undergraduate, 940 graduate'}, "root['campus']": {'new_value': 'Suburban, 140 Waterfront Acres', 'old_value': 'Suburban, 140 waterfront acres'}, "root['president']": {'new_value': 'Donald J. Farish, Ph.D.', 'old_value': 'Donald J. Farish'}}}
+68: {'values_changed': {"root['president']": {'new_value': 'Donald J. Farish', 'old_value': 'Nick Manzi'}}}
+69: {'dictionary_item_removed': {"root['chancellor']": 'Justin Robinson', "root['dean']": 'Tom Guerrette'}}
+70: {'dictionary_item_added': {"root['chancellor']": 'Justin Robinson'}, 'dictionary_item_removed': {"root['staff']": 'Justin Robinson'}}
+71: {'values_changed': {"root['president']": {'new_value': 'Nick Manzi', 'old_value': 'Donald Farish'}}}
+72: {'dictionary_item_added': {"root['dean']": 'Tom Guerrette'}, 'values_changed': {"root['staff']": {'new_value': 'Justin Robinson', 'old_value': 'Justin Robinsod'}}}
+73: {'values_changed': {"root['staff']": {'new_value': 'Justin Robinsod', 'old_value': 'Justin Robinson'}}}
+82: {'dictionary_item_added': {"root['staff']": 'Justin Robinson'}, 'values_changed': {"root['faculty']": {'new_value': '398', 'old_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track)'}}}
+90: {'dictionary_item_removed': {"root['staff']": '3,578'}}
+91: {'values_changed': {"root['faculty']": {'new_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track)', 'old_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track; data as of 2014)'}, "root['staff']": {'new_value': '3,578', 'old_value': '165 (full-time, as of 2011), 3,578 total employees'}}}
+92: {'values_changed': {"root['staff']": {'new_value': '165 (full-time, as of 2011), 3,578 total employees', 'old_value': '165 (full-time, as of 2011),   3,578 total employees (as of 2014)'}}}
+93: {'values_changed': {"root['faculty']": {'new_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track; data as of 2014)', 'old_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track) |'}}}
+94: {'values_changed': {"root['students']": {'new_value': '4,425 undergraduate, 940 graduate', 'old_value': '4,416 undergraduate, 741 graduate'}}}
+95: {'values_changed': {"root['president']": {'new_value': 'Donald Farish', 'old_value': 'Dr. Nicholas E. Manzi, Ed.D'}}}
+96: {'dictionary_item_removed': {"root['chancellor']": 'Dr. Eric F. Brogna'}}
+97: {'dictionary_item_added': {"root['chancellor']": 'Dr. Eric F. Brogna'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Nicholas E. Manzi, Ed.D', 'old_value': 'Donald Farish'}}}
+99: {'values_changed': {"root['president']": {'new_value': 'Donald Farish', 'old_value': 'Nick Manzi'}}}
+100: {'values_changed': {"root['president']": {'new_value': 'Nick Manzi', 'old_value': 'Barack Obama'}}}
+101: {'values_changed': {"root['president']": {'new_value': 'Barack Obama', 'old_value': 'Nick Manzi'}}}
+104: {'values_changed': {"root['president']": {'new_value': 'Nick Manzi', 'old_value': 'Donald Farish'}}}
+105: {'values_changed': {"root['president']": {'new_value': 'Donald Farish', 'old_value': 'Donald J. Farish'}}}
+127: {'values_changed': {"root['faculty']": {'new_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track) |', 'old_value': '489 (207 full-time, 282 part-time, 205 tenured or tenure-track)'}, "root['endowment']": {'new_value': '$62.7 million', 'old_value': '$79.2 million (2016)'}, "root['president']": {'new_value': 'Donald J. Farish', 'old_value': 'Dr. Ioannis Miaoulis'}}}
+129: {'values_changed': {"root['president']": {'new_value': 'Dr. Ioannis Miaoulis', 'old_value': 'Dr. Izzy Cumming'}}}
+130: {'values_changed': {"root['president']": {'new_value': 'Dr. Izzy Cumming', 'old_value': 'Dr. Ioannis Miaoulis'}}}
+156: {'values_changed': {"root['endowment']": {'new_value': '$79.2 million (2016)', 'old_value': '$86.0 million (2019)'}, "root['president']": {'new_value': 'Dr. Ioannis Miaoulis', 'old_value': 'Ioannis Miaoulis'}}}
+191: {'values_changed': {"root['endowment']": {'new_value': '$86.0 million (2019)', 'old_value': '$80.4 million (2020)'}}}
+205: {'dictionary_item_added': {"root['staff']": '165 (full-time, as of 2011),   3,578 total employees (as of 2014)'}, 'dictionary_item_removed': {"root['administrative_staff']": '165 (full-time, as of 2011),   3,578 total employees (as of 2014)'}}
+216: {'values_changed': {"root['students']": {'new_value': '4,416 undergraduate, 741 graduate', 'old_value': '3,980 undergraduate, 878'}}}
+221: {'values_changed': {"root['students']": {'new_value': '3,980 undergraduate, 878', 'old_value': '3,980 undergraduate, 878 graduate'}}}
+224: {'values_changed': {"root['students']": {'new_value': '3,980 undergraduate, 878 graduate', 'old_value': '4,416 undergraduate, 741 graduate'}}}

@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Greenwich', "root['endowment']": '£1.3 million (2013)', "root['chancellor']": 'Baroness Scotland of Asthal', "root['vice_chancellor']": 'David Maguire', "root['campus']": 'Greenwich Campus (London), Avery Hill Campus (London), Medway Campus, (Kent)', "root['colours']": 'Blue Colour- ', "root['affiliations']": 'University Alliance'}}
+42: {'values_changed': {"root['vice_chancellor']": {'new_value': 'David Maguire', 'old_value': 'Professor Jane Harrington'}}}
+44: {'values_changed': {"root['chancellor']": {'new_value': 'Baroness Scotland of Asthal', 'old_value': 'Baron Boateng'}}}
+48: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance', 'old_value': 'University Alliance Universities UK Association of Commonwealth Universities'}}}
+49: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance Universities UK Association of Commonwealth Universities', 'old_value': 'University Alliance, Universities UK, Association of Commonwealth Universities'}}}
+50: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance, Universities UK, Association of Commonwealth Universities', 'old_value': 'University Alliance, Universities UK, Association of Commonwealth Universities,  EUA'}}}
+98: {'values_changed': {"root['chancellor']": {'new_value': 'Baron Boateng', 'old_value': 'Lord Boateng'}}}
+122: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance, Universities UK, Association of Commonwealth Universities,  EUA', 'old_value': 'University Alliance, Universities UK, MillionPlus, Association of Commonwealth Universities,  EUA'}}}
+123: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance, Universities UK, MillionPlus, Association of Commonwealth Universities,  EUA', 'old_value': 'University Alliance, Universities UK, Association of Commonwealth Universities,  EUA'}}}
+125: {'values_changed': {"root['endowment']": {'new_value': '£1.3 million (2013)', 'old_value': '£1,063.000 (2020)'}, "root['campus']": {'new_value': 'Greenwich Campus (London), Avery Hill Campus (London), Medway Campus, (Kent)', 'old_value': 'Greenwich Campus (London), Avery Hill Campus (London), Medway Campus (Kent),'}}}
+145: {'values_changed': {"root['endowment']": {'new_value': '£1,063.000 (2020)', 'old_value': '£214.9 million (2020)'}}}
+160: {'dictionary_item_added': {"root['endowment']": '£214.9 million (2020)'}, 'dictionary_item_removed': {"root['budget']": '£214.9 million (2020)'}}
+197: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Jane Harrington', 'old_value': 'Jane Harrington'}}}

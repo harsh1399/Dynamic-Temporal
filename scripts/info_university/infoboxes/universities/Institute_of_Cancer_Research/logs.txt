@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Institute of Cancer Research', "root['staff']": '1,075 (full-time equivalent)', "root['chancellor']": 'HRH The Princess Royal (University of London)', "root['head']": 'Professor Peter Rigby', "root['students']": '292 (2009/10)', "root['campus']": 'Urban', "root['affiliations']": 'University of London'}}
+1: {'values_changed': {"root['head']": {'new_value': 'Professor Peter Rigby', 'old_value': 'Professor Alan Ashworth'}}}
+41: {'values_changed': {"root['name']": {'new_value': 'Institute of Cancer Research', 'old_value': 'Institute of Cancer Research (The)'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Institute of Cancer Research (The)', 'old_value': 'The Institute of Cancer Research'}}}
+46: {'values_changed': {"root['students']": {'new_value': '292 (2009/10)', 'old_value': '338 (2010/11)'}}}
+47: {'values_changed': {"root['staff']": {'new_value': '1,075 (full-time equivalent)', 'old_value': '1,096 '}}}
+60: {'dictionary_item_removed': {"root['image_name']": 'ICR.jpg'}}
+61: {'values_changed': {"root['image_name']": {'new_value': 'ICR.jpg', 'old_value': 'Institute of Cancer Research logo.svg'}}}
+79: {'values_changed': {"root['head']": {'new_value': 'Professor Alan Ashworth', 'old_value': 'Professor Alan Ashworth FRS'}}}
+83: {'dictionary_item_removed': {"root['chairman']": 'Lord Ryder of Wensum OBE'}}
+93: {'values_changed': {"root['chairman']": {'new_value': 'Lord Ryder of Wensum OBE', 'old_value': 'Lord Ryder of Wensum'}}}
+95: {'values_changed': {"root['staff']": {'new_value': '1,096 ', 'old_value': '1,096'}}}
+96: {'values_changed': {"root['staff']": {'new_value': '1,096', 'old_value': '1,075 (2011 average)'}}}
+111: {'dictionary_item_added': {"root['image_name']": 'Institute of Cancer Research logo.svg'}, 'values_changed': {"root['name']": {'new_value': 'The Institute of Cancer Research', 'old_value': 'The Institute of Cancer Research, London'}}}
+112: {'dictionary_item_removed': {"root['image_name']": 'File:Institute of Cancer Research logo.jpg'}}
+113: {'values_changed': {"root['image_name']": {'new_value': 'File:Institute of Cancer Research logo.jpg', 'old_value': 'Institute of Cancer Research logo.jpg'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'The Institute of Cancer Research, London', 'old_value': 'The Institute of Cancer Research'}}}
+127: {'values_changed': {"root['chairman']": {'new_value': 'Lord Ryder of Wensum', 'old_value': 'Luke Johnson'}}}
+136: {'values_changed': {"root['head']": {'new_value': 'Professor Alan Ashworth FRS', 'old_value': 'Professor Paul Workman'}}}
+139: {'values_changed': {"root['students']": {'new_value': '338 (2010/11)', 'old_value': '319 (2012/13)'}}}
+165: {'dictionary_item_added': {"root['students']": '319 (2012/13)'}, 'dictionary_item_removed': {"root['endowment']": '£2.4 million ', "root['budget']": '£162.1 million '}, 'values_changed': {"root['chancellor']": {'new_value': 'HRH The Princess Royal (University of London)', 'old_value': 'The Princess Royal (University of London)'}, "root['head']": {'new_value': 'Professor Paul Workman', 'old_value': 'Paul Workman'}}}
+167: {'dictionary_item_added': {"root['staff']": '1,075 (2011 average)'}, 'dictionary_item_removed': {"root['administrative_staff']": '1,075 (2011 average)'}}
+168: {'values_changed': {"root['chairman']": {'new_value': 'Luke Johnson', 'old_value': 'Julia Buckingham CBE'}, "root['head']": {'new_value': 'Paul Workman', 'old_value': 'Kristian Helin'}}}

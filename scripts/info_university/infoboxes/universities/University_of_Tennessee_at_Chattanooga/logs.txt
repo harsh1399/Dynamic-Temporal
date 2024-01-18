@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Tennessee at Chattanooga', "root['chancellor']": 'Dr. Roger Brown', "root['president']": 'John D. Petersen', "root['undergrad']": '10,526', "root['postgrad']": '1,364 (graduate, pre-professional, doctoral)', "root['staff']": '347', "root['campus']": 'Urban, 83 acres (336,000 m²)'}}
+7: {'values_changed': {"root['name']": {'new_value': 'University of Tennessee at Chattanooga', 'old_value': 'The University of Tennessee at Chattanooga'}}}
+8: {'values_changed': {"root['campus']": {'new_value': 'Urban, 83 acres (336,000 m²)', 'old_value': 'Urban, 102.3 acres (1,947,436 Gross Square Feet)'}}}
+10: {'values_changed': {"root['staff']": {'new_value': '347', 'old_value': '422'}}}
+13: {'values_changed': {"root['president']": {'new_value': 'John D. Petersen', 'old_value': 'Jan Simek (interim)'}}}
+22: {'dictionary_item_removed': {"root['endowment']": '$77.3 million'}, 'values_changed': {"root['chancellor']": {'new_value': 'Dr. Roger Brown', 'old_value': 'Roger Brown'}}}
+101: {'dictionary_item_added': {"root['president']": 'Jan Simek (interim)'}, 'dictionary_item_removed': {"root['image_name']": 'University of Tennessee at Chattanooga seal.png', "root['athletics']": 'NCAA Division I – SoCon', "root['affiliations']": 'UT System, CUMU, ORAU'}, 'values_changed': {"root['name']": {'new_value': 'The University of Tennessee at Chattanooga', 'old_value': 'University of Tennessee at Chattanooga'}, "root['chancellor']": {'new_value': 'Roger Brown', 'old_value': 'Steve Angle'}, "root['undergrad']": {'new_value': '10,526', 'old_value': '11,429'}, "root['campus']": {'new_value': 'Urban, 102.3 acres (1,947,436 Gross Square Feet)', 'old_value': 'Urban, '}}}
+132: {'dictionary_item_added': {"root['name']": 'University of Tennessee at Chattanooga'}, 'values_changed': {"root['endowment']": {'new_value': '$77.3 million', 'old_value': '$112.97 million'}}}
+136: {'values_changed': {"root['image_name']": {'new_value': 'University of Tennessee at Chattanooga seal.png', 'old_value': 'UT Chattanooga Logo.jpg'}}}
+156: {'values_changed': {"root['endowment']": {'new_value': '$112.97 million', 'old_value': '$1112.97 million'}, "root['staff']": {'new_value': '422', 'old_value': 'die'}}}
+159: {'values_changed': {"root['endowment']": {'new_value': '$1112.97 million', 'old_value': '$112.97 million'}, "root['staff']": {'new_value': 'die', 'old_value': '422'}}}
+160: {'values_changed': {"root['chancellor']": {'new_value': 'Steve Angle', 'old_value': 'Audrey Lay'}}}
+161: {'values_changed': {"root['chancellor']": {'new_value': 'Audrey Lay', 'old_value': 'Steve Angle'}}}
+162: {'values_changed': {"root['endowment']": {'new_value': '$112.97 million', 'old_value': '$112.9 million (2016)'}}}
+164: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – SoCon', "root['affiliations']": 'UT System, CUMU, ORAU'}, 'values_changed': {"root['image_name']": {'new_value': 'UT Chattanooga Logo.jpg', 'old_value': 'University of Tennessee at Chattanooga crest.svg'}}}
+165: {'dictionary_item_removed': {"root['image_width']": '150'}}
+213: {'dictionary_item_added': {"root['image_width']": '150'}, 'values_changed': {"root['endowment']": {'new_value': '$112.9 million (2016)', 'old_value': '$200 million (2018)'}}}
+227: {'values_changed': {"root['undergrad']": {'new_value': '11,429', 'old_value': '10,239'}, "root['postgrad']": {'new_value': '1,364 (graduate, pre-professional, doctoral)', 'old_value': '1,399 (graduate, pre-professional, doctoral)'}}}
+230: {'dictionary_item_added': {"root['image_name']": 'University of Tennessee at Chattanooga crest.svg'}, 'dictionary_item_removed': {"root['name']": 'University of Tennessee at Chattanooga', "root['academic_affiliations']": 'UT System, CUMU, ORAU', "root['former_names']": 'Chattanooga University (1886–1889), U.S. Grant Memorial University, Chattanooga campus (1889–1907), University of Chattanooga (1907–1969) '}, 'values_changed': {"root['endowment']": {'new_value': '$200 million (2018)', 'old_value': '$250 million (2019)'}}}
+272: {'values_changed': {"root['academic_affiliations']": {'new_value': 'UT System, CUMU, ORAU', 'old_value': 'CUMU ORAU Space-grant'}}}
+276: {'values_changed': {"root['endowment']": {'new_value': '$250 million (2019)', 'old_value': '$147.1 million (2020)'}}}
+285: {'values_changed': {"root['name']": {'new_value': 'University of Tennessee at Chattanooga', 'old_value': 'University of Tennessee at Chattanooga Owned by Ireland ONeil'}}}
+288: {'values_changed': {"root['name']": {'new_value': 'University of Tennessee at Chattanooga Owned by Ireland ONeil', 'old_value': 'University of Tennessee at Chattanooga'}}}
+289: {'dictionary_item_added': {"root['staff']": '422'}, 'dictionary_item_removed': {"root['administrative_staff']": '422'}}

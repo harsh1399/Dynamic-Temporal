@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Empire State College', "root['image_name']": 'Empire State College logo.png', "root['president']": 'Alan Davis ', "root['campus']": 'undergrad= 16,825 ', "root['faculty']": '157 full time and 1,113 part time '}}
+1: {'dictionary_item_removed': {"root['endowment']": '$11.0 million'}}
+16: {'values_changed': {"root['name']": {'new_value': 'Empire State College', 'old_value': 'State University of New York-Empire State College'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'State University of New York-Empire State College', 'old_value': 'Empire State College'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Empire State College', 'old_value': 'State University of New York-Empire State College'}}}
+26: {'values_changed': {"root['president']": {'new_value': 'Alan Davis ', 'old_value': 'Alan Davis'}, "root['campus']": {'new_value': 'undergrad= 16,825 ', 'old_value': 'undergrad= 16,825'}, "root['faculty']": {'new_value': '157 full time and 1,113 part time ', 'old_value': '157 full time and 1,113 part time'}}}
+35: {'values_changed': {"root['endowment']": {'new_value': '$11.0 million', 'old_value': '$14.5 million'}}}
+58: {'values_changed': {"root['president']": {'new_value': 'Alan Davis', 'old_value': 'Meg Benke'}}}
+64: {'dictionary_item_removed': {"root['grad']": '18,656'}, 'values_changed': {"root['campus']": {'new_value': 'undergrad= 16,825', 'old_value': 'und'}, "root['faculty']": {'new_value': '157 full time and 1,113 part time', 'old_value': '198 full time and 1,206 part time'}}}
+65: {'dictionary_item_added': {"root['grad']": '18,656'}, 'values_changed': {"root['campus']": {'new_value': 'und', 'old_value': 'undergrad= 18,656   |Graduate Students = 1128'}}}
+84: {'values_changed': {"root['president']": {'new_value': 'Meg Benke', 'old_value': 'Merodie A. Hancock |'}}}
+90: {'dictionary_item_removed': {"root['students']": '10,424', "root['undergrad']": '9,327 ', "root['postgrad']": '1,097'}, 'values_changed': {"root['president']": {'new_value': 'Merodie A. Hancock |', 'old_value': 'James Malatras as of July 2019'}, "root['campus']": {'new_value': 'undergrad= 18,656   |Graduate Students = 1128', 'old_value': '34 locations across the state of New York'}, "root['faculty']": {'new_value': '198 full time and 1,206 part time', 'old_value': '182 full time and 1,206 part time'}}}
+93: {'values_changed': {"root['president']": {'new_value': 'James Malatras as of July 2019', 'old_value': 'James Malatras'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'James Malatras', 'old_value': 'James Malatras as of July 2019'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'James Malatras as of July 2019', 'old_value': 'James Malatras'}}}
+113: {'values_changed': {"root['president']": {'new_value': 'James Malatras', 'old_value': 'Jim Malatras'}}}
+117: {'values_changed': {"root['president']": {'new_value': 'Jim Malatras', 'old_value': 'Beth Berlin (as Officer-in-Charge)'}}}
+118: {'dictionary_item_added': {"root['president']": 'Beth Berlin (as Officer-in-Charge)'}, 'dictionary_item_removed': {"root['head']": 'Beth Berlin'}}

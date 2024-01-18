@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bergen Community College | Nati', "root['principal']": '| e', "root['location']": 'New Jersey', "root['campus']": 'Paramus'}}
+1: {'values_changed': {"root['campus']": {'new_value': 'Paramus', 'old_value': 'Paramus (Main) Hackensack East Rutherford (Meadowlands)'}}}
+2: {'values_changed': {"root['location']": {'new_value': 'New Jersey', 'old_value': 'Bergen County, New Jersey'}}}
+4: {'dictionary_item_added': {"root['principal']": '| e'}, 'dictionary_item_removed': {"root['principals']": '| e'}}
+5: {'dictionary_item_removed': {"root['colours']": 'Violet, Orange, White '}}
+6: {'values_changed': {"root['colours']": {'new_value': 'Violet, Orange, White ', 'old_value': 'Persian indigo, Orange, White '}}}

@@ -1,0 +1,51 @@
+0: {'dictionary_item_removed': {"root['name']": 'East West University', "root['image_name']": 'Caption1 File:Example.jpg|Caption2', "root['chancellor']": 'H. E. President Zillur Rahman', "root['vice_chancellor']": 'Professor Ahmed Shafee', "root['president']": '(Trustee Board) Dr. Mohammed Farashuddin', "root['faculty']": 'about 320', "root['undergrad']": '4794(male:3591,female:1203)', "root['postgrad']": '1368(male:1052,female:316)', "root['campus']": 'Caption1 File:Example.jpg|Caption2   Aftab Nagar, Dhaka 1229', "root['affiliations']": 'University Grants Commission'}}
+1: {'values_changed': {"root['image_name']": {'new_value': 'Caption1 File:Example.jpg|Caption2', 'old_value': 'Ewu_logo.PNG'}}}
+2: {'values_changed': {"root['campus']": {'new_value': 'Caption1 File:Example.jpg|Caption2   Aftab Nagar, Dhaka 1229', 'old_value': 'Jahurul Islam City,         Aftab Nagar, Dhaka 1229'}}}
+4: {'values_changed': {"root['image_name']": {'new_value': 'Ewu_logo.PNG', 'old_value': 'Caption1 File:Example.jpg|Caption2'}, "root['campus']": {'new_value': 'Jahurul Islam City,         Aftab Nagar, Dhaka 1229', 'old_value': 'Caption1 File:Example.jpg|Caption2        Aftab Nagar, Dhaka 1229'}}}
+5: {'values_changed': {"root['image_name']": {'new_value': 'Caption1 File:Example.jpg|Caption2', 'old_value': 'Ewu_logo.PNG'}, "root['campus']": {'new_value': 'Caption1 File:Example.jpg|Caption2        Aftab Nagar, Dhaka 1229', 'old_value': 'Jahurul Islam City,       Aftab Nagar, Dhaka 1229'}}}
+7: {'values_changed': {"root['campus']": {'new_value': 'Jahurul Islam City,       Aftab Nagar, Dhaka 1229', 'old_value': 'Jahurul Islam City,    Aftab Nagar, Dhaka 1229'}}}
+13: {'values_changed': {"root['chancellor']": {'new_value': 'H. E. President Zillur Rahman', 'old_value': 'President of Bangladesh'}}}
+14: {'values_changed': {"root['campus']": {'new_value': 'Jahurul Islam City,    Aftab Nagar, Dhaka 1229', 'old_value': 'Jahurul Islam City, Aftab Nagar, Dhaka 1229'}}}
+15: {'values_changed': {"root['undergrad']": {'new_value': '4794(male:3591,female:1203)', 'old_value': '4794 (male:3591, female:1203)'}, "root['postgrad']": {'new_value': '1368(male:1052,female:316)', 'old_value': '1368 (male:1052, female:316)'}}}
+23: {'values_changed': {"root['image_name']": {'new_value': 'Ewu_logo.PNG', 'old_value': 'Ewulogo2.jpg'}}}
+24: {'values_changed': {"root['chancellor']": {'new_value': 'President of Bangladesh', 'old_value': 'Abdul Hamid'}}}
+25: {'values_changed': {"root['chancellor']": {'new_value': 'Abdul Hamid', 'old_value': 'President Abdul Hamid'}}}
+26: {'values_changed': {"root['campus']": {'new_value': 'Jahurul Islam City, Aftab Nagar, Dhaka 1229', 'old_value': 'Jahurul Islam City, Aftab Nagar, Dhaka 1212'}}}
+30: {'values_changed': {"root['undergrad']": {'new_value': '4794 (male:3591, female:1203)', 'old_value': '4794 (male 3591, female 1203)'}, "root['postgrad']": {'new_value': '1368 (male:1052, female:316)', 'old_value': '1368 (male 1052, female 316)'}}}
+39: {'values_changed': {"root['image_name']": {'new_value': 'Ewulogo2.jpg', 'old_value': 'Ewubdlogowiki.jpg'}}}
+40: {'values_changed': {"root['image_name']": {'new_value': 'Ewubdlogowiki.jpg', 'old_value': '1049177 195379033955254 2015960918 o.jpg'}}}
+42: {'values_changed': {"root['image_name']": {'new_value': '1049177 195379033955254 2015960918 o.jpg', 'old_value': 'Eastwestuniversitybdlogo.jpg'}}}
+46: {'values_changed': {"root['image_name']": {'new_value': 'Eastwestuniversitybdlogo.jpg', 'old_value': 'Image:Iub logo.png'}}}
+47: {'values_changed': {"root['image_name']": {'new_value': 'Image:Iub logo.png', 'old_value': 'EWU campus1.jpg'}}}
+48: {'values_changed': {"root['image_name']": {'new_value': 'EWU campus1.jpg', 'old_value': 'East_West_University_Logo_HD.jpg'}}}
+49: {'values_changed': {"root['image_name']": {'new_value': 'East_West_University_Logo_HD.jpg', 'old_value': 'http://ewubd.edu/ewu/images/EWULogo.png'}}}
+50: {'values_changed': {"root['image_name']": {'new_value': 'http://ewubd.edu/ewu/images/EWULogo.png', 'old_value': 'EWULogo.png'}}}
+51: {'values_changed': {"root['image_name']": {'new_value': 'EWULogo.png', 'old_value': 'ewubd.edu/~asif/ewulogo%20high.jpg'}}}
+52: {'values_changed': {"root['image_name']": {'new_value': 'ewubd.edu/~asif/ewulogo%20high.jpg', 'old_value': 'EWU_campus1.jpg'}}}
+55: {'values_changed': {"root['image_name']": {'new_value': 'EWU_campus1.jpg', 'old_value': 'East_West_University_Logo_SIRAT.jpg'}}}
+67: {'values_changed': {"root['undergrad']": {'new_value': '4794 (male 3591, female 1203)', 'old_value': '4899 (male 3591, female 1308)'}}}
+76: {'values_changed': {"root['undergrad']": {'new_value': '4899 (male 3591, female 1308)', 'old_value': '4899 students'}, "root['postgrad']": {'new_value': '1368 (male 1052, female 316)', 'old_value': '1368 students'}}}
+81: {'values_changed': {"root['president']": {'new_value': '(Trustee Board) Dr. Mohammed Farashuddin', 'old_value': 'Dr. Mohammed Farashuddin (Trustee Board)'}}}
+82: {'values_changed': {"root['faculty']": {'new_value': 'about 320', 'old_value': 'about 189'}}}
+86: {'values_changed': {"root['image_name']": {'new_value': 'East_West_University_Logo_SIRAT.jpg', 'old_value': 'EWUBD000000.jpg'}}}
+90: {'values_changed': {"root['image_name']": {'new_value': 'EWUBD000000.jpg', 'old_value': 'Ewu_logo.PNG'}}}
+91: {'values_changed': {"root['image_name']": {'new_value': 'Ewu_logo.PNG', 'old_value': 'EWU_SIRAT.jpg'}}}
+94: {'values_changed': {"root['undergrad']": {'new_value': '4899 students', 'old_value': '6211 students'}, "root['postgrad']": {'new_value': '1368 students', 'old_value': '1951 students'}}}
+97: {'values_changed': {"root['image_name']": {'new_value': 'EWU_SIRAT.jpg', 'old_value': 'frameless'}}}
+98: {'values_changed': {"root['image_name']": {'new_value': 'frameless', 'old_value': 'EWU_SIRAT.jpg'}}}
+104: {'values_changed': {"root['image_name']": {'new_value': 'EWU_SIRAT.jpg', 'old_value': 'eastwest-Logo'}}}
+105: {'values_changed': {"root['image_name']": {'new_value': 'eastwest-Logo', 'old_value': 'image'}}}
+108: {'dictionary_item_removed': {"root['Caption']": 'Bangla'}, 'values_changed': {"root['image_name']": {'new_value': 'image', 'old_value': 'East_West_University_Logo.jpg'}, "root['faculty']": {'new_value': 'about 189', 'old_value': 'Full Time: 290  ,  Adjunct: 120'}, "root['campus']": {'new_value': 'Jahurul Islam City, Aftab Nagar, Dhaka 1212', 'old_value': 'Urban Jahurul Islam City, Aftab Nagar, Dhaka 1212'}}}
+114: {'values_changed': {"root['faculty']": {'new_value': 'Full Time: 290  ,  Adjunct: 120', 'old_value': 'Full Time: 290 '}}}
+123: {'values_changed': {"root['undergrad']": {'new_value': '6211 students', 'old_value': '9000 students (approx)'}, "root['postgrad']": {'new_value': '1951 students', 'old_value': '2500 students (approx)'}}}
+165: {'values_changed': {"root['undergrad']": {'new_value': '9000 students (approx)', 'old_value': '13000 students (approx)'}, "root['postgrad']": {'new_value': '2500 students (approx)', 'old_value': '3000 students (approx)'}}}
+168: {'dictionary_item_removed': {"root['Facebook']": 'http://www.facebook.com/EastWestUniversity'}}
+169: {'dictionary_item_added': {"root['Facebook']": 'http://www.facebook.com/EastWestUniversity'}, 'values_changed': {"root['undergrad']": {'new_value': '13000 students (approx)', 'old_value': '9000 students (approx)'}, "root['postgrad']": {'new_value': '3000 students (approx)', 'old_value': '2500 students (approx)'}}}
+186: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Ahmed Shafee', 'old_value': 'Dr. M. M. Shahidul Hassan'}}}
+197: {'values_changed': {"root['faculty']": {'new_value': 'Full Time: 290 ', 'old_value': 'Full Time: 350 '}, "root['undergrad']": {'new_value': '9000 students (approx)', 'old_value': '8366 students'}, "root['postgrad']": {'new_value': '2500 students (approx)', 'old_value': '2034 students'}}}
+203: {'values_changed': {"root['president']": {'new_value': 'Dr. Mohammed Farashuddin (Trustee Board)', 'old_value': 'Dr. Mohammed Farashuddin'}}}
+209: {'dictionary_item_added': {"root['Caption']": 'Bangla'}, 'dictionary_item_removed': {"root['students']": '10,400 (2013)', "root['Logo']": 'East West University University Logo', "root['staff']": '350| '}, 'values_changed': {"root['undergrad']": {'new_value': '8366 students', 'old_value': '8,366 (2013)'}, "root['postgrad']": {'new_value': '2034 students', 'old_value': '2,034 (2013)'}}}
+221: {'dictionary_item_added': {"root['Logo']": 'East West University University Logo'}, 'values_changed': {"root['students']": {'new_value': '10,400 (2013)', 'old_value': '10,400    (2013)'}}}
+223: {'values_changed': {"root['staff']": {'new_value': '350| ', 'old_value': '350| |Founder Member Directors'}}}
+224: {'dictionary_item_added': {"root['staff']": '350| |Founder Member Directors'}, 'values_changed': {"root['campus']": {'new_value': 'Urban Jahurul Islam City, Aftab Nagar, Dhaka 1212', 'old_value': 'Urban'}}}
+256: {'values_changed': {"root['faculty']": {'new_value': 'Full Time: 350 ', 'old_value': 'Full Time: 210 '}}}

@@ -1,0 +1,22 @@
+128: {'dictionary_item_removed': {"root['name']": 'Roanoke College', "root['president']": "Dr. Sabine O'Hara", "root['undergrad']": '1,900', "root['faculty']": '115', "root['campus']": 'Suburban'}}
+155: {'values_changed': {"root['undergrad']": {'new_value': '1,900', 'old_value': '1,970 (2006)'}, "root['faculty']": {'new_value': '115', 'old_value': '117 (2006)'}}}
+222: {'dictionary_item_removed': {"root['image_name']": 'Roanoke College.png', "root['endowment']": '$122.37 million', "root['tagline']": 'Classic for Tomorrow'}, 'values_changed': {"root['president']": {'new_value': "Dr. Sabine O'Hara", 'old_value': 'Michael C. Maxey'}, "root['undergrad']": {'new_value': '1,970 (2006)', 'old_value': '2,100'}, "root['faculty']": {'new_value': '117 (2006)', 'old_value': '125'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'Roanoke College', 'old_value': 'Micheal Perry college'}}}
+259: {'values_changed': {"root['endowment']": {'new_value': '$122.37 million', 'old_value': 'Michael Perry million'}, "root['president']": {'new_value': 'Michael C. Maxey', 'old_value': 'Michael Perry'}}}
+260: {'values_changed': {"root['name']": {'new_value': 'Micheal Perry college', 'old_value': 'Roanoke  college'}, "root['endowment']": {'new_value': 'Michael Perry million', 'old_value': '$12,300million'}, "root['president']": {'new_value': 'Michael Perry', 'old_value': 'Michael Maxy'}}}
+261: {'values_changed': {"root['name']": {'new_value': 'Roanoke  college', 'old_value': 'Roanoke College'}, "root['endowment']": {'new_value': '$12,300million', 'old_value': '$122.37 million'}, "root['president']": {'new_value': 'Michael Maxy', 'old_value': 'Michael C. Maxey'}}}
+262: {'values_changed': {"root['endowment']": {'new_value': '$122.37 million', 'old_value': 'US $113.9 million'}}}
+264: {'values_changed': {"root['endowment']": {'new_value': 'US $113.9 million', 'old_value': 'US$113.9 million'}}}
+265: {'dictionary_item_added': {"root['tagline']": 'Classic for Tomorrow'}, 'values_changed': {"root['endowment']": {'new_value': 'US$113.9 million', 'old_value': 'US$137.5 million'}, "root['undergrad']": {'new_value': '2,100', 'old_value': '2,000'}, "root['faculty']": {'new_value': '125', 'old_value': '131 (tenure-track)'}}}
+272: {'values_changed': {"root['image_name']": {'new_value': 'Roanoke College.png', 'old_value': 'RCSeal.jpg'}}}
+274: {'values_changed': {"root['president']": {'new_value': 'Michael C. Maxey', 'old_value': 'Michael Maxey'}}}
+282: {'values_changed': {"root['undergrad']": {'new_value': '2,000', 'old_value': '1,875'}}}
+283: {'values_changed': {"root['undergrad']": {'new_value': '1,875', 'old_value': '1,907'}}}
+284: {'dictionary_item_added': {"root['president']": 'Michael Maxey', "root['undergrad']": '1,907', "root['faculty']": '131 (tenure-track)', "root['campus']": 'Suburban'}, 'values_changed': {"root['endowment']": {'new_value': 'US$137.5 million', 'old_value': 'US$143 million https://webapps.roanoke.edu/www/IR/PDF-Files/EndowmentFund1.pdf'}}}
+285: {'values_changed': {"root['endowment']": {'new_value': 'US$143 million https://webapps.roanoke.edu/www/IR/PDF-Files/EndowmentFund1.pdf', 'old_value': 'US$144 million https://webapps.roanoke.edu/www/IR/PDF-Files/EndowmentFund1.pdf'}}}
+296: {'dictionary_item_removed': {"root['president']": 'Michael Maxey', "root['undergrad']": '1,907', "root['faculty']": '131 (tenure-track)', "root['campus']": 'Suburban, 80 acres'}, 'values_changed': {"root['endowment']": {'new_value': 'US$144 million https://webapps.roanoke.edu/www/IR/PDF-Files/EndowmentFund1.pdf', 'old_value': 'US$144 million'}}}
+314: {'dictionary_item_added': {"root['endowment']": 'US$144 million'}, 'values_changed': {"root['undergrad']": {'new_value': '1,907', 'old_value': '2,006'}}}
+326: {'values_changed': {"root['image_name']": {'new_value': 'RCSeal.jpg', 'old_value': 'RCSeal2.gif'}, "root['undergrad']": {'new_value': '2,006', 'old_value': '2,037'}}}
+337: {'dictionary_item_removed': {"root['endowment']": '$148.8 million (2019)'}}
+344: {'values_changed': {"root['endowment']": {'new_value': '$148.8 million (2019)', 'old_value': '$142.3 million (2020)'}}}
+355: {'dictionary_item_removed': {"root['religious_affiliation']": 'Evangelical Lutheran Church in America'}}

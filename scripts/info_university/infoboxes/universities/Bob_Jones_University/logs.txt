@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bob Jones University', "root['image_name']": 'BJUSign.jpg', "root['staff']": '1,450', "root['president']": 'Stephen Jones', "root['chancellor']": 'Bob Jones III', "root['students']": '4,200', "root['undergrad']": '3,600', "root['postgrad']": '600', "root['campus']": 'Suburban, '}}
+29: {'dictionary_item_removed': {"root['endowment']": 'small endowment', "root['affiliations']": 'Right wing fundamentalism', "root['telephone']": '864-242-5100'}}
+31: {'dictionary_item_added': {"root['endowment']": 'small endowment', "root['affiliations']": 'Right wing fundamentalism'}, 'values_changed': {"root['telephone']": {'new_value': '864-242-5100', 'old_value': '800Bjmeplease'}}}
+123: {'dictionary_item_added': {"root['telephone']": '800Bjmeplease'}, 'values_changed': {"root['name']": {'new_value': 'Bob Jones University', 'old_value': 'Bob Jones University - ITS GREAT :)'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Bob Jones University - ITS GREAT :)', 'old_value': 'Bob Jones University'}}}
+134: {'values_changed': {"root['name']": {'new_value': 'Bob Jones University', 'old_value': 'Bob Jones Universit'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Bob Jones Universit', 'old_value': 'Bob Jones University'}}}
+141: {'dictionary_item_removed': {"root['alumni']": 'ME', "root['faculty']": 'Play runescape now and get paid. Rs-gold.com', "root['dean']": 'RUNESCAPE'}}
+145: {'dictionary_item_added': {"root['alumni']": 'ME', "root['faculty']": 'Play runescape now and get paid. Rs-gold.com', "root['dean']": 'RUNESCAPE'}, 'values_changed': {"root['name']": {'new_value': 'Bob Jones University', 'old_value': 'Bob Jones University sucks'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'Bob Jones University sucks', 'old_value': 'Bob Jones University'}}}
+171: {'dictionary_item_removed': {"root['faculty']": '281'}, 'values_changed': {"root['students']": {'new_value': '4,200', 'old_value': '3,950'}, "root['undergrad']": {'new_value': '3,600', 'old_value': '3,450'}, "root['postgrad']": {'new_value': '600', 'old_value': '500'}}}
+178: {'dictionary_item_removed': {"root['head']": 'label='}, 'values_changed': {"root['image_name']": {'new_value': 'BJUSign.jpg', 'old_value': 'Bob-jones-university-logo.PNG'}, "root['faculty']": {'new_value': '281', 'old_value': "281 ''Greenville Journal'', December 11, 2009, 27."}}}
+202: {'dictionary_item_removed': {"root['provost']": 'David Fisher'}}
+203: {'dictionary_item_removed': {"root['telephone']": '864-242-5100'}}
+223: {'dictionary_item_removed': {"root['endowment']": '9 inches'}}
+237: {'dictionary_item_added': {"root['endowment']": '9 inches'}, 'values_changed': {"root['students']": {'new_value': '3,950', 'old_value': '3,469'}, "root['undergrad']": {'new_value': '3,450', 'old_value': '2,976'}}}
+248: {'dictionary_item_added': {"root['staff']": '1,450', "root['faculty']": "281 ''Greenville Journal'', December 11, 2009, 27.", "root['head']": 'label=', "root['undergrad']": '2,976', "root['postgrad']": '500', "root['telephone']": '864-242-5100'}, 'values_changed': {"root['image_name']": {'new_value': 'Bob-jones-university-logo.PNG', 'old_value': 'Bob Jones University logo (adopted 2013).png'}, "root['president']": {'new_value': 'Stephen Jones', 'old_value': 'Steve Pettit'}, "root['provost']": {'new_value': 'David Fisher', 'old_value': 'Gary Weier'}, "root['students']": {'new_value': '3,469', 'old_value': '3,008'}}}
+285: {'dictionary_item_added': {"root['campus']": 'Suburban, '}, 'values_changed': {"root['name']": {'new_value': 'Bob Jones University', 'old_value': 'Blow Job University'}, "root['chancellor']": {'new_value': 'Bob Jones III', 'old_value': 'Blow Jonb III'}}}
+286: {'values_changed': {"root['name']": {'new_value': 'Blow Job University', 'old_value': 'Bob Jones University'}, "root['chancellor']": {'new_value': 'Blow Jonb III', 'old_value': 'Bob Jones III'}}}
+289: {'dictionary_item_added': {"root['image_name']": 'Bob Jones University logo (adopted 2013).png'}, 'dictionary_item_removed': {"root['academic_staff']": '264', "root['undergrad']": '2,705', "root['postgrad']": '450', "root['zipcode']": '29614-0001'}, 'values_changed': {"root['students']": {'new_value': '3,008', 'old_value': '3,155 '}}}
+290: {'dictionary_item_removed': {"root['religious_affiliation']": 'Evangelical Christian'}}
+308: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Evangelical Christian', 'old_value': 'Evangelical Christian  (formerly Christian Fundamentalism)'}}}
+330: {'values_changed': {"root['president']": {'new_value': 'Steve Pettit', 'old_value': 'tbd'}}}

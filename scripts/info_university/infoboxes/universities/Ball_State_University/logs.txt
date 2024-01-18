@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ball State University', "root['image_name']": 'Ball State University seal.png', "root['endowment']": '$212.9 million (2018)', "root['president']": 'Geoffrey Mearns', "root['students']": '22,513', "root['undergrad']": '17,004', "root['postgrad']": '5,509', "root['faculty']": '1,245'}}
+1: {'dictionary_item_removed': {"root['provost']": 'Susana Rivera-Mills'}}
+2: {'values_changed': {"root['endowment']": {'new_value': '$212.9 million (2018)', 'old_value': '$212.8 million (2019)'}}}
+14: {'values_changed': {"root['students']": {'new_value': '22,513', 'old_value': '22,513  '}}}
+23: {'values_changed': {"root['students']": {'new_value': '22,513  ', 'old_value': '22,513 '}}}
+28: {'dictionary_item_added': {"root['image_name']": 'Ball State University seal.png'}, 'values_changed': {"root['name']": {'new_value': 'Ball State University', 'old_value': 'Ball is life University'}}}
+29: {'dictionary_item_removed': {"root['image_name']": 'Ball State University seal.png'}, 'values_changed': {"root['name']": {'new_value': 'Ball is life University', 'old_value': 'Ball State University'}}}
+31: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+39: {'values_changed': {"root['students']": {'new_value': '22,513 ', 'old_value': '22,541 (Fall 2019) '}}}
+41: {'values_changed': {"root['students']": {'new_value': '22,541 (Fall 2019) ', 'old_value': '21,597 (Fall 2020) '}, "root['undergrad']": {'new_value': '17,004', 'old_value': '15,205'}, "root['postgrad']": {'new_value': '5,509', 'old_value': '5,817'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Ball State University', 'old_value': 'Testical Tech University'}}}
+67: {'values_changed': {"root['name']": {'new_value': 'Testical Tech University', 'old_value': 'Ball State University'}}}
+92: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Space-grant', 'old_value': 'none'}, "root['endowment']": {'new_value': '$212.8 million (2019)', 'old_value': 'Well Endowed'}, "root['students']": {'new_value': '21,597 (Fall 2020) ', 'old_value': '21,597 (Fall 2020), including the Ball State Brick Theif '}}}
+93: {'values_changed': {"root['academic_affiliations']": {'new_value': 'none', 'old_value': 'Space-grant'}, "root['endowment']": {'new_value': 'Well Endowed', 'old_value': '$212.8 million (2019)'}, "root['students']": {'new_value': '21,597 (Fall 2020), including the Ball State Brick Theif ', 'old_value': '21,597 (Fall 2020) '}}}
+98: {'dictionary_item_added': {"root['endowment']": '$212.8 million (2019)'}, 'values_changed': {"root['image_name']": {'new_value': 'Ball State University seal.png', 'old_value': 'Ball_State_University_presidential_seal.png'}}}
+127: {'dictionary_item_removed': {"root['endowment']": '$212.8 million (2019)'}, 'values_changed': {"root['image_name']": {'new_value': 'Ball_State_University_presidential_seal.png', 'old_value': 'Ball State University seal.svg'}}}
+147: {'values_changed': {"root['endowment']": {'new_value': '$212.8 million (2019)', 'old_value': '$325.6million (2022)'}}}
+148: {'values_changed': {"root['endowment']": {'new_value': '$325.6million (2022)', 'old_value': '$325.6 million (2022)'}}}
+163: {'dictionary_item_removed': {"root['campus']": 'Small city'}}
+165: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Ball State Daily News''"}}

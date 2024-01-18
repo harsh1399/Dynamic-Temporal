@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indian Institute of Science', "root['director']": 'Anurag Kumar', "root['campus']": 'Urban'}}
+62: {'dictionary_item_removed': {"root['students']": '3743', "root['undergrad']": '418', "root['postgrad']": '3325', "root['coor']": '13.022° N, 77.567° E'}, 'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, 400 acres.'}}}
+67: {'dictionary_item_removed': {"root['academic_staff']": '467'}}
+73: {'values_changed': {"root['campus']": {'new_value': 'Urban, 400 acres.', 'old_value': 'Urban, 400 acres (ma'}}}
+74: {'values_changed': {"root['campus']": {'new_value': 'Urban, 400 acres (ma', 'old_value': 'Urban. 400 acres: ma'}}}
+78: {'values_changed': {"root['academic_staff']": {'new_value': '467', 'old_value': '467 '}, "root['students']": {'new_value': '3743', 'old_value': '3743 '}}}
+113: {'dictionary_item_added': {"root['coor']": '13.022° N, 77.567° E'}, 'values_changed': {"root['campus']": {'new_value': 'Urban. 400 acres: ma', 'old_value': 'Ma'}}}
+155: {'dictionary_item_removed': {"root['founders']": 'Jamsetji Tata, Krishnaraja Wadiyar IV'}, 'values_changed': {"root['students']": {'new_value': '3743 ', 'old_value': '3,743'}, "root['postgrad']": {'new_value': '3325', 'old_value': '3,325'}, "root['campus']": {'new_value': 'Ma', 'old_value': 'Urban'}}}
+202: {'values_changed': {"root['academic_staff']": {'new_value': '467 ', 'old_value': '502 '}}}
+222: {'dictionary_item_added': {"root['founders']": 'Jamsetji Tata, Krishnaraja Wadiyar IV'}, 'values_changed': {"root['name']": {'new_value': 'Indian Institute of Science', 'old_value': 'Indian Institute of history'}, "root['undergrad']": {'new_value': '418', 'old_value': '0'}, "root['postgrad']": {'new_value': '3,325', 'old_value': '0'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Indian Institute of history', 'old_value': 'Indian Institute of Science'}, "root['undergrad']": {'new_value': '0', 'old_value': '418'}, "root['postgrad']": {'new_value': '0', 'old_value': '3,325'}}}
+264: {'dictionary_item_removed': {"root['administrative_staff']": '354', "root['doctoral']": '2,728'}, 'values_changed': {"root['academic_staff']": {'new_value': '502 ', 'old_value': '515 '}, "root['students']": {'new_value': '3,743', 'old_value': '4,118'}, "root['undergrad']": {'new_value': '418', 'old_value': '501'}, "root['postgrad']": {'new_value': '3,325', 'old_value': '889'}}}
+271: {'dictionary_item_removed': {"root['founders']": 'Jamsetji Tata, Krishnaraja Wadiyar IV'}}
+272: {'values_changed': {"root['students']": {'new_value': '4,118', 'old_value': '3,842'}, "root['undergrad']": {'new_value': '501', 'old_value': '453'}, "root['postgrad']": {'new_value': '889', 'old_value': '947'}, "root['doctoral']": {'new_value': '2,728', 'old_value': '2,442'}}}
+282: {'values_changed': {"root['founders']": {'new_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV', 'old_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV '}}}
+334: {'values_changed': {"root['director']": {'new_value': 'Anurag Kumar', 'old_value': 'Govindan Rangarajan'}}}
+335: {'values_changed': {"root['director']": {'new_value': 'Govindan Rangarajan', 'old_value': 'Anurag Kumar'}}}
+336: {'values_changed': {"root['director']": {'new_value': 'Anurag Kumar', 'old_value': 'Govindan Rangarajan'}}}
+337: {'values_changed': {"root['director']": {'new_value': 'Govindan Rangarajan', 'old_value': 'Anurag Kumar'}}}
+340: {'dictionary_item_added': {"root['doctoral']": '2,442'}, 'values_changed': {"root['director']": {'new_value': 'Anurag Kumar', 'old_value': 'Govindan Rangarajan'}}}
+361: {'dictionary_item_removed': {"root['Nickname']": 'IIScians'}}
+366: {'dictionary_item_added': {"root['Nickname']": 'IIScians'}, 'values_changed': {"root['founders']": {'new_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV ', 'old_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV, Swami Vivekananda '}}}
+368: {'values_changed': {"root['founders']": {'new_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV, Swami Vivekananda ', 'old_value': 'Jamsetji Tata, Krishnaraja Wadiyar IV  '}}}

@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'LeTourneau University', "root['image_name']": 'LeTourneau University, Longview, TX, entrance IMG 4004.JPG', "root['president']": 'Dale A. Lunsford', "root['provost']": 'Philip A. Coyle', "root['undergrad']": '3,606, 1,396  (Longview)  http://www.letu.edu/opencms/opencms/_Admissions/quickfacts.html LeTourneau University Quick Facts', "root['postgrad']": '458', "root['postgrad_label']": 'Graduate', "root['faculty']": '325', "root['campus']": 'Urban', "root['athletics']": 'NCAA Division III – ASC', "root['sports']": '13 varsity teams', "root['affiliations']": 'CCCU, NAICU', "root['former_names']": 'LeTourneau College, LeTourneau Technical Institute'}}
+53: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+57: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+58: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+59: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Santa Clause'}}}
+60: {'values_changed': {"root['president']": {'new_value': 'Santa Clause', 'old_value': 'Dale Lunsford'}}}
+61: {'values_changed': {"root['president']": {'new_value': 'Dale Lunsford', 'old_value': 'Santa Clause'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Santa Clause', 'old_value': 'John Cena'}}}
+63: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+64: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+65: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+67: {'dictionary_item_added': {"root['president']": 'Dale A. Lunsford'}, 'dictionary_item_removed': {"root['primary']": 'Jesus Christ'}}
+68: {'values_changed': {"root['primary']": {'new_value': 'Jesus Christ', 'old_value': '"Jesus Christ"'}}}
+69: {'dictionary_item_added': {"root['primary']": '"Jesus Christ"'}, 'dictionary_item_removed': {"root['president']": 'Dale A. Lunsford'}}
+70: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+72: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale Lunsford'}}}
+73: {'values_changed': {"root['president']": {'new_value': 'Dale Lunsford', 'old_value': 'John Cena'}}}
+74: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+75: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+76: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+81: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'John Cena'}}}
+82: {'values_changed': {"root['president']": {'new_value': 'John Cena', 'old_value': 'Dale A. Lunsford'}}}
+86: {'dictionary_item_added': {"root['postgrad_label']": 'Graduate'}, 'dictionary_item_removed': {"root['enrollment']": '3,003'}, 'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'Dr. Dale A. Lunsford'}, "root['provost']": {'new_value': 'Philip A. Coyle', 'old_value': 'Dr. Steven D. Mason'}, "root['undergrad']": {'new_value': '3,606, 1,396  (Longview)  http://www.letu.edu/opencms/opencms/_Admissions/quickfacts.html LeTourneau University Quick Facts', 'old_value': ', 1,846'}, "root['postgrad']": {'new_value': '458', 'old_value': '392'}}}
+96: {'values_changed': {"root['undergrad']": {'new_value': ', 1,846', 'old_value': '1,846'}}}
+101: {'values_changed': {"root['image_name']": {'new_value': 'LeTourneau University, Longview, TX, entrance IMG 4004.JPG', 'old_value': 'LeTourneau University November 2019 4 (Belcher Center).jpg'}}}
+103: {'values_changed': {"root['sports']": {'new_value': '13 varsity teams', 'old_value': '17 varsity teams'}}}
+122: {'values_changed': {"root['president']": {'new_value': 'Dr. Dale A. Lunsford', 'old_value': 'Dale A. Lunsford'}, "root['provost']": {'new_value': 'Dr. Steven D. Mason', 'old_value': 'Steven D. Mason'}}}
+129: {'values_changed': {"root['president']": {'new_value': 'Dale A. Lunsford', 'old_value': 'Steven D. Mason'}, "root['provost']": {'new_value': 'Steven D. Mason', 'old_value': 'Vacant'}}}
+134: {'dictionary_item_added': {"root['provost']": 'Vacant'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Christian (interdenominational)', "root['endowment']": '$22.9 million (2020)'}}

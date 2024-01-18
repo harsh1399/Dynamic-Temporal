@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['name']": 'Colgate University', "root['endowment']": '$785 million', "root['faculty']": '294', "root['president']": 'Jeffrey Herbst', "root['undergrad']": '2,927', "root['postgrad']": '12', "root['campus']": 'Rural, 575 acre (2.08 km²)', "root['athletics']": 'NCAA ,  Division I (FCS Football) ,  Patriot League ,  ECAC Hockey', "root['affiliations']": 'MAISA'}}
+6: {'values_changed': {"root['endowment']": {'new_value': '$785 million', 'old_value': '$814 million'}}}
+22: {'values_changed': {"root['endowment']": {'new_value': '$814 million', 'old_value': '$835 million'}}}
+103: {'dictionary_item_added': {"root['affiliations']": 'MAISA'}, 'values_changed': {"root['athletics']": {'new_value': 'NCAA ,  Division I (FCS Football) ,  Patriot League ,  ECAC Hockey', 'old_value': 'NCAA Division I FCS ,  Patriot League, ECAC Hockey, MAISA'}}}
+104: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS ,  Patriot League, ECAC Hockey, MAISA', 'old_value': 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}}}
+105: {'values_changed': {"root['endowment']": {'new_value': '$835 million', 'old_value': '$865 million'}}}
+108: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA', 'old_value': 'NCAA Division I FCS –                    Patriot League, ECAC Hockey, MAISA'}}}
+121: {'values_changed': {"root['endowment']": {'new_value': '$865 million', 'old_value': '$856 million'}}}
+137: {'values_changed': {"root['endowment']": {'new_value': '$856 million', 'old_value': '$883 million'}}}
+143: {'values_changed': {"root['president']": {'new_value': 'Jeffrey Herbst', 'old_value': 'Jill Harsin'}}}
+158: {'values_changed': {"root['endowment']": {'new_value': '$883 million', 'old_value': '$892 million'}}}
+183: {'values_changed': {"root['endowment']": {'new_value': '$892 million', 'old_value': '$837 million'}}}
+204: {'values_changed': {"root['president']": {'new_value': 'Jill Harsin', 'old_value': 'Jill Harsin (Interim)'}}}
+206: {'values_changed': {"root['endowment']": {'new_value': '$837 million', 'old_value': '$810 million'}}}
+214: {'values_changed': {"root['president']": {'new_value': 'Jill Harsin (Interim)', 'old_value': 'Brian W. Casey'}}}
+236: {'values_changed': {"root['endowment']": {'new_value': '$810 million', 'old_value': '$833 million'}}}
+246: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS –                    Patriot League, ECAC Hockey, MAISA', 'old_value': 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}}}
+247: {'values_changed': {"root['endowment']": {'new_value': '$833 million', 'old_value': '$889 million'}}}
+250: {'values_changed': {"root['endowment']": {'new_value': '$889 million', 'old_value': '$908 million'}}}
+260: {'values_changed': {"root['endowment']": {'new_value': '$908 million', 'old_value': '$910 million'}}}
+295: {'values_changed': {"root['endowment']": {'new_value': '$910 million', 'old_value': '$925 million'}}}
+298: {'dictionary_item_removed': {"root['former_names']": 'Madison University  (1846–1890)'}}
+299: {'values_changed': {"root['former_names']": {'new_value': 'Madison University  (1846–1890)', 'old_value': 'Madison University  (1846–1890) ,  Hamilton Literary & Theological Institution  (1823–1846) , Baptist Education Society of the State of New York  (1819–1823)'}}}
+310: {'values_changed': {"root['endowment']": {'new_value': '$925 million', 'old_value': '$934 million'}}}
+311: {'values_changed': {"root['endowment']": {'new_value': '$934 million', 'old_value': '$934 million (2018)'}}}
+340: {'values_changed': {"root['endowment']": {'new_value': '$934 million (2018)', 'old_value': '$934.8 million (2018)'}}}
+357: {'values_changed': {"root['undergrad']": {'new_value': '2,927', 'old_value': '2,958 (2018) '}, "root['postgrad']": {'new_value': '12', 'old_value': '11 (2018)'}, "root['faculty']": {'new_value': '294', 'old_value': '355 (2018)'}, "root['campus']": {'new_value': 'Rural, 575 acre (2.08 km²)', 'old_value': 'Rural, 575 acres (2.08 km²)'}}}
+358: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['endowment']": {'new_value': '$934.8 million (2018)', 'old_value': '$986 million (2020)'}}}
+362: {'values_changed': {"root['endowment']": {'new_value': '$986 million (2020)', 'old_value': '$1.08 billion (2020)'}}}
+363: {'values_changed': {"root['endowment']": {'new_value': '$1.08 billion (2020)', 'old_value': '$959.7 million (2020)'}}}
+367: {'values_changed': {"root['endowment']": {'new_value': '$959.7 million (2020)', 'old_value': '$1.08 billion (2020)'}}}
+370: {'dictionary_item_added': {"root['name']": 'Colgate University', "root['academic_affiliations']": 'Space-grant', "root['endowment']": '$1.08 billion (2020)', "root['president']": 'Brian W. Casey', "root['undergrad']": '2,958 (2018) ', "root['postgrad']": '11 (2018)', "root['faculty']": '355 (2018)', "root['campus']": 'Rural, 575 acres (2.08 km²)', "root['former_names']": 'Madison University  (1846–1890) ,  Hamilton Literary & Theological Institution  (1823–1846) , Baptist Education Society of the State of New York  (1819–1823)', "root['athletics']": 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}, 'dictionary_item_removed': {"root['Forbes']": '46', "root['USNWR_LA']": '20', "root['Wamo_LA']": '22', "root['THE_WSJ']": '48 '}}
+372: {'dictionary_item_added': {"root['Forbes']": '46', "root['USNWR_LA']": '20', "root['Wamo_LA']": '22', "root['THE_WSJ']": '48 '}, 'dictionary_item_removed': {"root['name']": 'Colgate University', "root['academic_affiliations']": 'Space-grant', "root['endowment']": '$1.08 billion (2020)', "root['president']": 'Brian W. Casey', "root['undergrad']": '2,958 (2018) ', "root['postgrad']": '11 (2018)', "root['faculty']": '355 (2018)', "root['campus']": 'Rural, 575 acres (2.08 km²)', "root['former_names']": 'Madison University  (1846–1890) ,  Hamilton Literary & Theological Institution  (1823–1846) , Baptist Education Society of the State of New York  (1819–1823)', "root['athletics']": 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}}
+378: {'values_changed': {"root['endowment']": {'new_value': '$1.08 billion (2020)', 'old_value': '$1.14 billion (2020)'}}}
+381: {'values_changed': {"root['endowment']": {'new_value': '$1.14 billion (2020)', 'old_value': '$1.14 billion (2021)'}}}
+401: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA'}, 'values_changed': {"root['campus']": {'new_value': 'Rural, 575 acres (2.08 km²)', 'old_value': 'Rura, '}, "root['former_names']": {'new_value': 'Madison University  (1846–1890) ,  Hamilton Literary & Theological Institution  (1823–1846) , Baptist Education Society of the State of New York  (1819–1823)', 'old_value': 'Madison University (1846–1890),  Hamilton Literary & Theological Institution (1823–1846), Baptist Education Society of the State of New York (1819–1823)'}}}
+403: {'values_changed': {"root['former_names']": {'new_value': 'Madison University (1846–1890),  Hamilton Literary & Theological Institution (1823–1846), Baptist Education Society of the State of New York (1819–1823)', 'old_value': 'Madison University (1846–1890)  Hamilton Literary & Theological Institution (1823–1846) Baptist Education Society of the State of New York (1819–1823)'}, "root['athletics_affiliations']": {'new_value': 'NCAA Division I FCS – Patriot League, ECAC Hockey, MAISA', 'old_value': 'NCAA Division I FCS – Patriot League, ECAC Hockey MAISA'}}}
+404: {'values_changed': {"root['endowment']": {'new_value': '$1.14 billion (2021)', 'old_value': '$1.24 billion (2021)'}}}
+405: {'values_changed': {"root['campus']": {'new_value': 'Rura, ', 'old_value': 'Rural, '}}}
+408: {'values_changed': {"root['endowment']": {'new_value': '$1.24 billion (2021)', 'old_value': '$1.28 billion (2021)'}}}
+443: {'values_changed': {"root['endowment']": {'new_value': '$1.28 billion (2021)', 'old_value': '$1.19 billion (2022)'}}}
+444: {'values_changed': {"root['former_names']": {'new_value': 'Madison University (1846–1890)  Hamilton Literary & Theological Institution (1823–1846) Baptist Education Society of the State of New York (1819–1823)', 'old_value': 'Baptist Education Society of the State of New York, (1819–1823)   ,  Hamilton Literary & Theological Institution (1823–1846),  Madison University (1846–1890)'}}}
+451: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Space-grant', 'old_value': 'Space-grant | acceptance rate = 12%'}}}
+452: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Space-grant | acceptance rate = 12%', 'old_value': 'Space-grant'}}}

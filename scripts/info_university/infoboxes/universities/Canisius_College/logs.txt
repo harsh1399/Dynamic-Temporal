@@ -1,0 +1,12 @@
+158: {'dictionary_item_removed': {"root['image_name']": 'Canisius_College_logo.jpg  | faculty'}}
+197: {'dictionary_item_added': {"root['image_name']": 'Canisius_College_logo.jpg  | faculty'}, 'dictionary_item_removed': {"root['name']": 'Canisius College', "root['religious_affiliation']": 'Roman Catholic (Jesuit)', "root['academic_affiliations']": 'ACCU AJCU NAICU', "root['endowment']": '$129.2 million  (2019)', "root['president']": 'John J. Hurley', "root['faculty']": 'Total: 368, (174 full-time/194 part-time) ', "root['students']": '3,464  ', "root['undergrad']": '2,398', "root['postgrad']": '1,066', "root['campus']": 'Urban - ', "root['sports']": '17 varsi'}}
+215: {'values_changed': {"root['students']": {'new_value': '3,464  ', 'old_value': '3,464 '}}}
+220: {'dictionary_item_added': {"root['sports']": '17 varsi'}, 'values_changed': {"root['campus']": {'new_value': 'Urban - ', 'old_value': 'Urban, '}}}
+226: {'values_changed': {"root['students']": {'new_value': '3,464 ', 'old_value': '2,630 '}, "root['undergrad']": {'new_value': '2,398', 'old_value': '1,866'}, "root['postgrad']": {'new_value': '1,066', 'old_value': '764'}}}
+227: {'values_changed': {"root['endowment']": {'new_value': '$129.2 million  (2019)', 'old_value': '$124.5 million  (2019)'}}}
+240: {'values_changed': {"root['faculty']": {'new_value': 'Total: 368, (174 full-time/194 part-time) ', 'old_value': 'Total: 368 (174 full-time/194 part-time) '}}}
+242: {'values_changed': {"root['president']": {'new_value': 'John J. Hurley', 'old_value': 'Steve Stoute'}}}
+261: {'values_changed': {"root['faculty']": {'new_value': 'Total: 368 (174 full-time/194 part-time) ', 'old_value': '368 (174 full-time/194 part-time) '}}}
+266: {'values_changed': {"root['endowment']": {'new_value': '$124.5 million  (2019)', 'old_value': '$170 million (2022) https://www.griffinnewspaper.com/pos'}}}
+268: {'values_changed': {"root['faculty']": {'new_value': '368 (174 full-time/194 part-time) ', 'old_value': '283 (122 full-time/161 part-time)'}}}
+271: {'values_changed': {"root['endowment']": {'new_value': '$170 million (2022) https://www.griffinnewspaper.com/pos', 'old_value': '$170 million (2022) |'}}}

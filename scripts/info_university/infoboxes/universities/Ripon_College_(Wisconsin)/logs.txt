@@ -1,0 +1,14 @@
+18: {'dictionary_item_removed': {"root['name']": 'Ripon College', "root['endowment']": '$62.3 million', "root['president']": 'Zach P. Messitte', "root['students']": 'Approximately 1000 undergraduate', "root['campus']": 'Small Town Urban, 250 Acres'}}
+62: {'values_changed': {"root['endowment']": {'new_value': '$62.3 million', 'old_value': '$85 million'}, "root['students']": {'new_value': 'Approximately 1000 undergraduate', 'old_value': 'Approximately 800 undergraduate'}, "root['campus']": {'new_value': 'Small Town Urban, 250 Acres', 'old_value': 'Small Town Urban, '}}}
+63: {'values_changed': {"root['campus']": {'new_value': 'Small Town Urban, ', 'old_value': 'Small town, '}}}
+74: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III  – Midwest Conference', "root['athletics_nickname']": 'Red Hawks'}, 'values_changed': {"root['endowment']": {'new_value': '$85 million', 'old_value': '$84.5 million (2017) '}, "root['president']": {'new_value': 'Zach P. Messitte', 'old_value': 'Zach P. Messitte '}, "root['students']": {'new_value': 'Approximately 800 undergraduate', 'old_value': '756 (2017)'}, "root['campus']": {'new_value': 'Small town, ', 'old_value': 'Small town ,  '}}}
+82: {'values_changed': {"root['endowment']": {'new_value': '$84.5 million (2017) ', 'old_value': '$92.8 million (2017) '}}}
+83: {'values_changed': {"root['endowment']": {'new_value': '$92.8 million (2017) ', 'old_value': '$92.8 million (2018) '}}}
+84: {'values_changed': {"root['students']": {'new_value': '756 (2017)', 'old_value': '807 (2019)'}}}
+113: {'values_changed': {"root['endowment']": {'new_value': '$92.8 million (2018) ', 'old_value': '$103 million (2021)'}}}
+114: {'values_changed': {"root['students']": {'new_value': '807 (2019)', 'old_value': '807 (2019) '}}}
+117: {'values_changed': {"root['endowment']": {'new_value': '$103 million (2021)', 'old_value': '$107 million (Fiscal year 2020-2021)'}}}
+124: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III  – Midwest Conference', "root['athletics_nickname']": 'Red Hawks'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III  – Midwest Conference'}, 'values_changed': {"root['campus']": {'new_value': 'Small town ,  ', 'old_value': 'Small town, '}}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$107 million (Fiscal year 2020-2021)', 'old_value': '$108.1 million (2021)'}}}
+135: {'values_changed': {"root['president']": {'new_value': 'Zach P. Messitte ', 'old_value': 'Dr. Victoria N. Folse '}}}
+136: {'values_changed': {"root['president']": {'new_value': 'Dr. Victoria N. Folse ', 'old_value': 'Victoria N. Folse '}}}

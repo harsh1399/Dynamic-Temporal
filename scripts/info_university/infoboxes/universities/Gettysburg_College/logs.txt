@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gettysburg College', "root['religious_affiliation']": 'Evangelical Lutheran Church in America', "root['academic_staff']": '225', "root['president']": 'Janet Morgan Riggs | vic', "root['undergrad']": '2,451', "root['campus']": 'Rural, 200 acres', "root['sports']": 'Division III'}}
+5: {'values_changed': {"root['president']": {'new_value': 'Janet Morgan Riggs | vic', 'old_value': 'Robert W. Iuliano | vic'}}}
+8: {'values_changed': {"root['president']": {'new_value': 'Robert W. Iuliano | vic', 'old_value': 'Janet Morgan Riggs | vic'}}}
+25: {'dictionary_item_removed': {"root['endowment']": '$314 million'}}
+26: {'values_changed': {"root['endowment']": {'new_value': '$314 million', 'old_value': '$314 million (2016)'}}}
+27: {'values_changed': {"root['endowment']": {'new_value': '$314 million (2016)', 'old_value': '$331 million (2018)'}}}
+44: {'values_changed': {"root['president']": {'new_value': 'Janet Morgan Riggs | vic', 'old_value': 'Patrick Thomas Santini | vic'}}}
+45: {'values_changed': {"root['president']": {'new_value': 'Patrick Thomas Santini | vic', 'old_value': 'Janet Morgan Riggs | vic'}}}
+46: {'values_changed': {"root['president']": {'new_value': 'Janet Morgan Riggs | vic', 'old_value': 'Robert W. Iuliano   | vic'}}}
+47: {'values_changed': {"root['endowment']": {'new_value': '$331 million (2018)', 'old_value': '$324.0 million (2018)'}}}
+53: {'values_changed': {"root['president']": {'new_value': 'Robert W. Iuliano   | vic', 'old_value': 'Patrick Santini    | vic'}}}
+54: {'values_changed': {"root['president']": {'new_value': 'Patrick Santini    | vic', 'old_value': 'Robert W. Iuliano   | vic'}}}
+71: {'values_changed': {"root['endowment']": {'new_value': '$324.0 million (2018)', 'old_value': '$330.7 million (2019)'}}}
+132: {'dictionary_item_removed': {"root['coor']": 'campus = Rural, 200 acres | language'}}
+134: {'dictionary_item_added': {"root['coor']": 'campus = Rural, 200 acres | language'}, 'values_changed': {"root['endowment']": {'new_value': '$330.7 million (2019)', 'old_value': '$320.0 million (2020)'}}}
+144: {'dictionary_item_added': {"root['sports']": 'Division III'}, 'values_changed': {"root['president']": {'new_value': 'Robert W. Iuliano   | vic', 'old_value': 'Robert W. Iuliano   | vice-president        ='}, "root['campus']": {'new_value': 'Rural, 200 acres', 'old_value': 'Rural, '}}}

@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['image_name']": 'University of Rochester seal.svg', "root['name']": 'University of Rochester', "root['calendar']": 'Semester', "root['president']": 'Joel Seligman', "root['provost']": 'Peter Lennie', "root['undergrad']": '5,643 Total 4,683 Arts, Sciences, and Engineering', "root['postgrad']": '4,647 Total 1,104 Arts, Sciences, and Engineering', "root['staff']": '1,225', "root['campus']": 'Suburban/Urban,   ', "root['athletics']": 'NCAA Division III – UAA', "root['affiliations']": 'AAU, COFHE, WUN, NAICU', "root['endowment']": 'US $2.13 billion (2014)'}}
+29: {'dictionary_item_added': {"root['calendar']": 'Semester'}, 'values_changed': {"root['endowment']": {'new_value': 'US $2.13 billion (2014)', 'old_value': '$2.13 billion (2014)'}}}
+57: {'values_changed': {"root['endowment']": {'new_value': '$2.13 billion (2014)', 'old_value': '$2.12 billion (2016)'}, "root['undergrad']": {'new_value': '5,643 Total 4,683 Arts, Sciences, and Engineering', 'old_value': '6,304 Total'}, "root['postgrad']": {'new_value': '4,647 Total 1,104 Arts, Sciences, and Engineering', 'old_value': '4,822 Total'}}}
+59: {'values_changed': {"root['provost']": {'new_value': 'Peter Lennie', 'old_value': 'Robert Clark'}}}
+77: {'values_changed': {"root['undergrad']": {'new_value': '6,304 Total', 'old_value': '6,304'}, "root['postgrad']": {'new_value': '4,822 Total', 'old_value': '4,822'}, "root['campus']": {'new_value': 'Suburban/Urban,   ', 'old_value': 'Suburban/Urban, '}}}
+89: {'values_changed': {"root['affiliations']": {'new_value': 'AAU, COFHE, WUN, NAICU', 'old_value': 'AAU, COFHE, NAICU  , WUN'}}}
+137: {'values_changed': {"root['endowment']": {'new_value': '$2.12 billion (2016)', 'old_value': '$2.35 billion (2017)'}}}
+184: {'dictionary_item_removed': {"root['students']": '11,126'}}
+188: {'values_changed': {"root['president']": {'new_value': 'Joel Seligman', 'old_value': 'Richard Feldman  (interim)'}}}
+189: {'values_changed': {"root['president']": {'new_value': 'Richard Feldman  (interim)', 'old_value': 'Joel Seligman'}}}
+193: {'values_changed': {"root['president']": {'new_value': 'Joel Seligman', 'old_value': 'Richard Feldman  (interim)    -->'}}}
+194: {'values_changed': {"root['president']": {'new_value': 'Richard Feldman  (interim)    -->', 'old_value': 'Richard Feldman  (interim)'}}}
+249: {'values_changed': {"root['affiliations']": {'new_value': 'AAU, COFHE, NAICU  , WUN', 'old_value': 'AAU COFHE NAICU   WUN'}}}
+351: {'values_changed': {"root['president']": {'new_value': 'Richard Feldman  (interim)', 'old_value': 'Richard Feldman  (interim) '}}}
+370: {'values_changed': {"root['endowment']": {'new_value': '$2.35 billion (2017)', 'old_value': '$2.51 billion (2017-2018)'}}}
+371: {'dictionary_item_added': {"root['name']": 'University of Rochester', "root['image_name']": 'University of Rochester seal.svg', "root['endowment']": '$2.51 billion (2017-2018)', "root['president']": 'Richard Feldman  (interim) ', "root['provost']": 'Robert Clark', "root['students']": '11,126', "root['undergrad']": '6,304', "root['postgrad']": '4,822', "root['campus']": 'Suburban/Urban, ', "root['athletics']": 'NCAA Division III – UAA', "root['staff']": '1,225', "root['affiliations']": 'AAU COFHE NAICU   WUN'}, 'dictionary_item_removed': {"root['ARWU_NU']": '52-65', "root['Forbes']": '83', "root['USNWR_NU']": '33', "root['Wamo_NU']": '53', "root['ARWU_W']": '101-150', "root['QS_W']": '190', "root['THES_W']": '158', "root['USNWR_W']": '111 '}}
+372: {'dictionary_item_added': {"root['ARWU_NU']": '52-65', "root['Forbes']": '83', "root['USNWR_NU']": '33', "root['Wamo_NU']": '53', "root['ARWU_W']": '101-150', "root['QS_W']": '190', "root['THES_W']": '158', "root['USNWR_W']": '111 '}, 'dictionary_item_removed': {"root['name']": 'University of Rochester', "root['image_name']": 'University of Rochester seal.svg', "root['endowment']": '$2.51 billion (2017-2018)', "root['president']": 'Richard Feldman  (interim) ', "root['provost']": 'Robert Clark', "root['students']": '11,126', "root['undergrad']": '6,304', "root['postgrad']": '4,822', "root['campus']": 'Suburban/Urban, ', "root['athletics']": 'NCAA Division III – UAA', "root['staff']": '1,225', "root['affiliations']": 'AAU COFHE NAICU   WUN'}}
+390: {'values_changed': {"root['president']": {'new_value': 'Richard Feldman  (interim) ', 'old_value': 'Sarah Mangelsdorf'}}}
+391: {'values_changed': {"root['president']": {'new_value': 'Sarah Mangelsdorf', 'old_value': 'Richard Feldman  (interim) '}}}
+453: {'values_changed': {"root['president']": {'new_value': 'Richard Feldman  (interim) ', 'old_value': 'Sarah Mangelsdorf ||'}}}
+455: {'values_changed': {"root['president']": {'new_value': 'Sarah Mangelsdorf ||', 'old_value': 'Sarah C. Mangelsdorf ||'}}}
+471: {'values_changed': {"root['endowment']": {'new_value': '$2.51 billion (2017-2018)', 'old_value': '$2.26 billion (2018)'}}}
+481: {'values_changed': {"root['endowment']": {'new_value': '$2.26 billion (2018)', 'old_value': '$2.58 billion (201)'}}}
+482: {'values_changed': {"root['endowment']": {'new_value': '$2.58 billion (201)', 'old_value': '$2.58 billion (2019)'}}}
+483: {'values_changed': {"root['endowment']": {'new_value': '$2.58 billion (2019)', 'old_value': '$2.26 billion (2018)'}}}
+495: {'values_changed': {"root['name']": {'new_value': 'University of Rochester', 'old_value': 'University of Roch'}}}
+496: {'values_changed': {"root['name']": {'new_value': 'University of Roch', 'old_value': 'University of Rochester'}}}
+501: {'dictionary_item_removed': {"root['other']": '423 (Fall 2019)'}, 'values_changed': {"root['students']": {'new_value': '11,126', 'old_value': '12,233 (Fall 2019) '}, "root['undergrad']": {'new_value': '6,304', 'old_value': '6,780 (Fall 2019)'}, "root['postgrad']": {'new_value': '4,822', 'old_value': '5,030 (Fall 2019)'}}}
+507: {'dictionary_item_added': {"root['affiliations']": 'AAU COFHE NAICU   WUN'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'AAU COFHE NAICU http://www.naicu.edu/member_center/members.asp NAICU – Member Directory u'}, 'values_changed': {"root['endowment']": {'new_value': '$2.26 billion (2018)', 'old_value': '$2.61 billion (2020) As of June 30, 2020. '}}}
+515: {'values_changed': {"root['endowment']": {'new_value': '$2.61 billion (2020) As of June 30, 2020. ', 'old_value': '$2.33 billion (2020)   As of June 30, 2020. '}}}
+516: {'dictionary_item_removed': {"root['budget']": '$4.80 billion (2020) '}}
+517: {'values_changed': {"root['endowment']": {'new_value': '$2.33 billion (2020)   As of June 30, 2020. ', 'old_value': '$2.61 billion (2020)  June 30, 2020.'}}}
+518: {'values_changed': {"root['endowment']": {'new_value': '$2.61 billion (2020)  June 30, 2020.', 'old_value': '$2.61 billion (2020)'}}}
+525: {'values_changed': {"root['provost']": {'new_value': 'Robert Clark', 'old_value': 'Robert Clark | academ'}, "root['staff']": {'new_value': '1,225', 'old_value': '3,000  |'}}}
+526: {'values_changed': {"root['provost']": {'new_value': 'Robert Clark | academ', 'old_value': 'Robert Clark'}}}
+527: {'values_changed': {"root['staff']": {'new_value': '3,000  |', 'old_value': '3,000 faculty  |'}}}
+532: {'dictionary_item_added': {"root['staff']": '3,000 faculty  |'}, 'dictionary_item_removed': {"root['academic_staff']": '3,000 faculty  '}}
+538: {'values_changed': {"root['provost']": {'new_value': 'Robert Clark', 'old_value': 'Sarah Peter (Interim)'}}}
+539: {'values_changed': {"root['provost']": {'new_value': 'Sarah Peter (Interim)', 'old_value': 'Sarah Peyre (Interim)'}}}
+545: {'values_changed': {"root['endowment']": {'new_value': '$2.61 billion (2020)', 'old_value': '$3.71 billion (2020)'}}}
+546: {'values_changed': {"root['endowment']": {'new_value': '$3.71 billion (2020)', 'old_value': '$3.71 billion (2021)'}}}
+547: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['AAU', 'COFHE', 'NAICU', 'WUN', 'Space-grant'], 'new_value': 'AAU COFHE NAICU http://www.naicu.edu/member_center/members.asp NAICU – Member Directory u'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division III – UAA'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban/Urban, ', 'old_value': 'Midsize City,   '}}}

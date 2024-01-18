@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Evansville', "root['endowment']": '$117.7 million (2013)', "root['president']": 'Thomas A. Kazee', "root['students']": '2,526', "root['undergrad']": '2,290', "root['postgrad']": '236', "root['campus']": 'Urban; ', "root['athletics']": '14 Division I NCAA teams, called Purple Aces', "root['affiliations']": 'Missouri Valley Conference'}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$117.7 million (2013)', 'old_value': '$189.5 million (2013)'}}}
+31: {'dictionary_item_added': {"root['athletics']": '14 Division I NCAA teams, called Purple Aces'}, 'values_changed': {"root['president']": {'new_value': 'Thomas A. Kazee', 'old_value': 'Christopher M. Pietruszkiewicz'}, "root['affiliations']": {'new_value': 'Missouri Valley Conference', 'old_value': 'NCAA Division I – Missouri Valley | nickname = Purple Aces | colors      = purple and orange  | mascot      = Ace Purple | logo        = University of Evansville logo.svg | logo_size   ='}}}
+41: {'values_changed': {"root['endowment']": {'new_value': '$189.5 million (2013)', 'old_value': '$189.5 war2a (2013)'}}}
+42: {'values_changed': {"root['endowment']": {'new_value': '$189.5 war2a (2013)', 'old_value': '$189.5 million (2013)'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'University of Evansville', 'old_value': 'University of Rami Malek'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'University of Rami Malek', 'old_value': 'University of Evansville'}}}
+81: {'dictionary_item_added': {"root['affiliations']": 'NCAA Division I – Missouri Valley | nickname = Purple Aces | colors      = purple and orange  | mascot      = Ace Purple | logo        = University of Evansville logo.svg | logo_size   ='}, 'dictionary_item_removed': {"root['religious_affiliation']": 'United Methodist Church'}}
+87: {'values_changed': {"root['name']": {'new_value': 'University of Evansville', 'old_value': 'Kentucky’s Daddies'}}}
+88: {'values_changed': {"root['name']": {'new_value': 'Kentucky’s Daddies', 'old_value': 'University of Evansville'}}}
+118: {'values_changed': {"root['endowment']": {'new_value': '$189.5 million (2013)', 'old_value': '$85.7 million (2019)'}}}
+126: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+134: {'values_changed': {"root['endowment']": {'new_value': '$85.7 million (2019)', 'old_value': '$93.4 million (2020)'}}}
+141: {'values_changed': {"root['campus']": {'new_value': 'Urban; ', 'old_value': 'Urban, '}}}

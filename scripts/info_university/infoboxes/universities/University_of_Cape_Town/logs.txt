@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Cape Town', "root['image_name']": 'University of Cape Town coat of arms.png', "root['endowment']": 'R2,173.4 million    (US$300 million ', "root['chancellor']": 'Graça Machel', "root['vice_chancellor']": 'Capitulator Max Price', "root['academic_staff']": '1,980', "root['administrative_staff']": '2,520', "root['students']": '26,116', "root['undergrad']": '15,800', "root['postgrad']": '6,700', "root['campus']": '4 suburban and 2 urban campuses', "root['former_names']": 'South African College', "root['colours']": 'Light Blue, Dark Blue, Black and White ', "root['affiliations']": 'AAU, ACU, CHEC, HESA, IAU, WUN'}}
+1: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Capitulator Max Price', 'old_value': 'Dr Max Price'}}}
+14: {'values_changed': {"root['academic_staff']": {'new_value': '1,980', 'old_value': '1,629'}, "root['administrative_staff']": {'new_value': '2,520', 'old_value': '3,179'}, "root['students']": {'new_value': '26,116', 'old_value': '29 074'}, "root['undergrad']": {'new_value': '15,800', 'old_value': '18 421'}, "root['postgrad']": {'new_value': '6,700', 'old_value': '10 653'}}}
+37: {'values_changed': {"root['endowment']": {'new_value': 'R2,173.4 million    (US$300 million ', 'old_value': 'R5,519 million    (US$426 million '}}}
+51: {'values_changed': {"root['image_name']": {'new_value': 'University of Cape Town coat of arms.png', 'old_value': 'University of Cape Town logo.svg'}}}
+62: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr Max Price', 'old_value': 'Prof Mamokgethi Setati   '}}}
+71: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof Mamokgethi Setati   ', 'old_value': 'Dr Max Price   '}}}
+72: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr Max Price   ', 'old_value': 'Prof Mamokgethi Setati   '}}}
+73: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Prof Mamokgethi Setati   ', 'old_value': 'Dr Max PRice'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'University of Cape Town', 'old_value': 'Winnie Madikizela-Mandela University'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'Winnie Madikizela-Mandela University', 'old_value': 'University of Cape Town'}}}
+79: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr Max PRice', 'old_value': 'Dr Mamokgethi Phakeng'}}}
+80: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr Mamokgethi Phakeng', 'old_value': 'Mamokgethi Phakeng'}}}
+81: {'dictionary_item_removed': {"root['head']": 'Mamokgethi Phakeng'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Mamokgethi Phakeng', 'old_value': 'Max Price'}}}
+87: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Max Price', 'old_value': 'Mamokgethi Phakeng'}}}
+97: {'values_changed': {"root['endowment']": {'new_value': 'R5,519 million    (US$426 million ', 'old_value': 'R5. 519 billion     (US$426 million '}}}
+98: {'values_changed': {"root['endowment']": {'new_value': 'R5. 519 billion     (US$426 million ', 'old_value': 'R7,379.9 million'}, "root['academic_staff']": {'new_value': '1,629', 'old_value': '1,208'}, "root['students']": {'new_value': '29 074', 'old_value': '28,703 '}, "root['undergrad']": {'new_value': '18 421', 'old_value': '17,217'}, "root['postgrad']": {'new_value': '10 653', 'old_value': '10,511'}}}
+112: {'values_changed': {"root['undergrad']": {'new_value': '17,217', 'old_value': 'You’re wrong Stuart'}}}
+113: {'values_changed': {"root['undergrad']": {'new_value': 'You’re wrong Stuart', 'old_value': '17,217'}}}
+121: {'values_changed': {"root['endowment']": {'new_value': 'R7,379.9 million', 'old_value': 'R7.9 million'}}}
+124: {'values_changed': {"root['endowment']": {'new_value': 'R7.9 million', 'old_value': 'ZAR7.9 million'}}}
+125: {'values_changed': {"root['endowment']": {'new_value': 'ZAR7.9 million', 'old_value': 'ZAR 7.9 million'}}}
+134: {'values_changed': {"root['endowment']": {'new_value': 'ZAR 7.9 million', 'old_value': 'ZAR 11.8 billion'}}}
+164: {'values_changed': {"root['chancellor']": {'new_value': 'Graça Machel', 'old_value': 'Precious Moloi-Motsepe'}}}
+226: {'values_changed': {"root['affiliations']": {'new_value': 'AAU, ACU, CHEC, HESA, IAU, WUN', 'old_value': 'AAU, ACU, CHEC, HESA, IARU, IAU, WUN'}}}
+282: {'dictionary_item_added': {"root['colours']": 'Light Blue, Dark Blue, Black and White ', "root['affiliations']": 'AAU, ACU, CHEC, HESA, IARU, IAU, WUN'}, 'values_changed': {"root['endowment']": {'new_value': 'ZAR 11.8 billion', 'old_value': 'ZAR 11.8 billion    (roughly equivilent to US$ 901 million) '}}}
+283: {'values_changed': {"root['endowment']": {'new_value': 'ZAR 11.8 billion    (roughly equivilent to US$ 901 million) ', 'old_value': 'ZAR 11.8 billion    ,  (US$ 901 million)  '}}}

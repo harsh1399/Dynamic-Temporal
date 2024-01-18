@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Elon University', "root['president']": 'Connie Ledoux Book', "root['provost']": 'Steven D. House', "root['students']": '6,791', "root['faculty']": '424', "root['endowment']": '$202.9 million (2016)', "root['campus']": 'Suburban ', "root['former_names']": 'Elon College (1889–2001)', "root['athletics']": 'NCAA Division I – CAA'}}
+43: {'dictionary_item_added': {"root['former_names']": 'Elon College (1889–2001)'}, 'values_changed': {"root['endowment']": {'new_value': '$202.9 million (2016)', 'old_value': '$253.7 million (2018)'}}}
+61: {'dictionary_item_removed': {"root['undergrad']": '6,196', "root['postgrad']": '795'}, 'values_changed': {"root['faculty']": {'new_value': '424', 'old_value': '439'}}}
+77: {'values_changed': {"root['provost']": {'new_value': 'Steven D. House', 'old_value': 'Aswani Volety'}}}
+83: {'values_changed': {"root['endowment']": {'new_value': '$253.7 million (2018)', 'old_value': '$273.4 million (2019)'}}}
+90: {'values_changed': {"root['endowment']": {'new_value': '$273.4 million (2019)', 'old_value': '$261.6 million (2020)'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'Connie Ledoux Book', 'old_value': 'Sean Ryan Coughlin'}}}
+95: {'values_changed': {"root['president']": {'new_value': 'Sean Ryan Coughlin', 'old_value': 'Connie Ledoux Book'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Elon University', 'old_value': 'sanjay saran sachu'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'sanjay saran sachu', 'old_value': 'Elon University'}}}
+108: {'values_changed': {"root['president']": {'new_value': 'Connie Ledoux Book', 'old_value': 'Sean Ryan Coughlin'}}}
+109: {'values_changed': {"root['president']": {'new_value': 'Sean Ryan Coughlin', 'old_value': 'Connie Ledoux Book'}}}
+113: {'values_changed': {"root['president']": {'new_value': 'Connie Ledoux Book', 'old_value': 'Elon Musk'}, "root['provost']": {'new_value': 'Aswani Volety', 'old_value': 'Joe Rogan'}}}
+114: {'dictionary_item_removed': {"root['image_caption']": 'Elon Musk, the President of Elon University, in 2019'}}
+116: {'dictionary_item_added': {"root['image_caption']": 'Elon Musk, the President of Elon University, in 2019'}, 'values_changed': {"root['president']": {'new_value': 'Elon Musk', 'old_value': 'Connie Ledoux Book'}, "root['provost']": {'new_value': 'Joe Rogan', 'old_value': 'Aswani Volety'}}}
+117: {'values_changed': {"root['president']": {'new_value': 'Connie Ledoux Book', 'old_value': 'Elon Musk'}, "root['provost']": {'new_value': 'Aswani Volety', 'old_value': 'Joe Rogan'}}}
+123: {'values_changed': {"root['president']": {'new_value': 'Elon Musk', 'old_value': 'Connie Ledoux Book'}, "root['provost']": {'new_value': 'Joe Rogan', 'old_value': 'Aswani Volety'}}}
+125: {'values_changed': {"root['endowment']": {'new_value': '$261.6 million (2020)', 'old_value': '$335 million (2021) As of June 30, 2021. ||'}}}
+127: {'values_changed': {"root['undergrad']": {'new_value': '6,196', 'old_value': '6,291'}, "root['postgrad']": {'new_value': '795', 'old_value': '826'}, "root['faculty']": {'new_value': '439', 'old_value': '447'}}}
+128: {'values_changed': {"root['students']": {'new_value': '6,791', 'old_value': '7,117'}}}
+155: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – CAA'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Nonsectarian/Independent (historic ties with the United Church of Christ)'}}
+181: {'values_changed': {"root['name']": {'new_value': 'Elon University', 'old_value': 'Elon Musk'}}}
+182: {'values_changed': {"root['name']": {'new_value': 'Elon Musk', 'old_value': 'Elon University'}}}
+185: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Pendulum'' "}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Nonsectarian/Independent (historic ties with the United Church of Christ)', 'old_value': 'Nonsectarian, historic ties with the United Church of Christ'}, "root['campus']": {'new_value': 'Suburban ', 'old_value': 'Midsize Suburb'}}}

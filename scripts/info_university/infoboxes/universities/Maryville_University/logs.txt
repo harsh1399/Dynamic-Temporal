@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Maryville University of St. Louis', "root['endowment']": '$46 million as of May 15, 2015.', "root['faculty']": '300+', "root['president']": 'Mark Lombardi', "root['students']": '6,414', "root['undergrad']": '2,795', "root['postgrad']": '3,619', "root['campus']": 'Suburban', "root['coor']": '-90.5038|type:edu_region:US-MO|displ'}}
+29: {'values_changed': {"root['endowment']": {'new_value': '$46 million as of May 15, 2015.', 'old_value': '$55 million as of May 15, 2017.'}}}
+41: {'dictionary_item_removed': {"root['religious_affiliation']": 'Roman Catholic'}}
+46: {'values_changed': {"root['religious_affiliation']": {'new_value': 'Roman Catholic', 'old_value': 'None'}}}
+59: {'dictionary_item_removed': {"root['Motto']": 'Omnium rerum praestantia excellentes'}}
+98: {'dictionary_item_added': {"root['Motto']": 'Omnium rerum praestantia excellentes', "root['coor']": '-90.5038|type:edu_region:US-MO|displ'}, 'values_changed': {"root['endowment']": {'new_value': '$55 million as of May 15, 2017.', 'old_value': '$54.2 million (2019)'}}}
+100: {'values_changed': {"root['students']": {'new_value': '6,414', 'old_value': '11,000'}, "root['undergrad']": {'new_value': '2,795', 'old_value': '3,500'}, "root['postgrad']": {'new_value': '3,619', 'old_value': '7,500'}}}
+105: {'values_changed': {"root['endowment']": {'new_value': '$54.2 million (2019)', 'old_value': '$50.7 million (2020)'}}}

@@ -1,0 +1,10 @@
+60: {'dictionary_item_removed': {"root['name']": 'Murdoch University', "root['endowment']": 'AU$40 million', "root['chancellor']": 'David Flanagan', "root['vice_chancellor']": 'Eeva Leinonen ', "root['students']": '16,606 (2015)', "root['campus']": 'Urban', "root['affiliations']": 'Innovative Research Universities Open Universities Australia Universities Australia'}}
+86: {'values_changed': {"root['chancellor']": {'new_value': 'David Flanagan', 'old_value': 'Gary Smith'}}}
+87: {'values_changed': {"root['chancellor']": {'new_value': 'Gary Smith', 'old_value': 'David Flanagan'}}}
+96: {'values_changed': {"root['chancellor']": {'new_value': 'David Flanagan', 'old_value': 'Gary Smith'}}}
+97: {'values_changed': {"root['chancellor']": {'new_value': 'Gary Smith', 'old_value': 'David Flanagan'}}}
+98: {'values_changed': {"root['chancellor']": {'new_value': 'David Flanagan', 'old_value': 'Gary Smith |'}}}
+124: {'values_changed': {"root['students']": {'new_value': '16,606 (2015)', 'old_value': '25,406 (2020)'}}}
+126: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Eeva Leinonen ', 'old_value': 'Eeva Leinonen (&ndash;2021) '}}}
+134: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Eeva Leinonen (&ndash;2021) ', 'old_value': 'Andrew J Deeks (&ndash;2021) '}, "root['students']": {'new_value': '25,406 (2020)', 'old_value': '23,296 (2021)'}}}
+135: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Andrew J Deeks (&ndash;2021) ', 'old_value': 'Andrew Deeks (&ndash;2022) '}}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Leipzig University', "root['image_name']": 'Uni Leipzig - Siegel.png', "root['staff']": '3,246 (2010) ', "root['president']": 'Beate Schücking', "root['students']": '28,125 (winter 2011/12)', "root['campus']": 'Urban'}}
+80: {'values_changed': {"root['image_name']": {'new_value': 'Uni Leipzig - Siegel.png', 'old_value': 'Uni Leipzig - Siegel.svg'}}}
+116: {'dictionary_item_added': {"root['staff']": '3,246 (2010) '}, 'dictionary_item_removed': {"root['budget']": '€ 408.9 million', "root['academic_staff']": '3,234 ', "root['administrative_staff']": '1,962'}, 'values_changed': {"root['students']": {'new_value': '28,125 (winter 2011/12)', 'old_value': '29,459'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Leipzig University', 'old_value': 'University of Leipzig'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'University of Leipzig', 'old_value': 'Leipzig University'}}}
+139: {'values_changed': {"root['image_name']": {'new_value': 'Uni Leipzig - Siegel.svg', 'old_value': 'Universität Leipzig crest.svg'}}}
+149: {'dictionary_item_added': {"root['president']": 'Beate Schücking'}, 'values_changed': {"root['budget']": {'new_value': '€ 408.9 million', 'old_value': '€ 408.9 million  |president  (rector)        = Beate Schücking'}}}

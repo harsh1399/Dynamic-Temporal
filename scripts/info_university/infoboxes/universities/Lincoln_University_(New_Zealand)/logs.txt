@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lincoln University', "root['chancellor']": 'Tony Hall', "root['vice_chancellor']": 'Professor Robin Pollard', "root['students']": '4500 (2013)'}}
+15: {'values_changed': {"root['chancellor']": {'new_value': 'Tony Hall', 'old_value': 'Steve Smith'}}}
+23: {'values_changed': {"root['students']": {'new_value': '4500 (2013)', 'old_value': '6,279 (2016)'}}}
+26: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor Robin Pollard', 'old_value': 'Professor James McWha'}}}
+27: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Professor James McWha', 'old_value': 'James McWha'}}}
+28: {'values_changed': {"root['students']": {'new_value': '6,279 (2016)', 'old_value': '2695 Equivalent Full Time Students (EFTS) in 2017'}}}
+30: {'dictionary_item_removed': {"root['doctoral']": '1,388 (2014)'}}
+31: {'values_changed': {"root['doctoral']": {'new_value': '1,388 (2014)', 'old_value': '330 (2017)'}}}
+34: {'values_changed': {"root['doctoral']": {'new_value': '330 (2017)', 'old_value': '329 (2017)'}}}
+36: {'values_changed': {"root['students']": {'new_value': '2695 Equivalent Full Time Students (EFTS) in 2017', 'old_value': '2695 (2017)'}}}
+37: {'values_changed': {"root['students']": {'new_value': '2695 (2017)', 'old_value': '2695 (EFTS, 2017)'}}}
+39: {'dictionary_item_removed': {"root['postgrad']": 'undergrad'}}
+55: {'dictionary_item_added': {"root['vice_chancellor']": 'James McWha', "root['students']": '2695 (EFTS, 2017)', "root['doctoral']": '329 (2017)', "root['postgrad']": 'undergrad'}, 'values_changed': {"root['chancellor']": {'new_value': 'Steve Smith', 'old_value': 'title'}}}
+56: {'dictionary_item_removed': {"root['vice_chancellor']": 'James McWha', "root['students']": '2695 (EFTS, 2017)', "root['doctoral']": '329 (2017)', "root['postgrad']": 'undergrad'}, 'values_changed': {"root['chancellor']": {'new_value': 'title', 'old_value': 'Bruce Gemmell'}}}
+58: {'values_changed': {"root['postgrad']": {'new_value': 'undergrad', 'old_value': 'undergrad=1577|academic_staff=294|administrative_staff=349'}}}
+60: {'values_changed': {"root['vice_chancellor']": {'new_value': 'James McWha', 'old_value': 'Bruce McKenzie'}}}
+151: {'dictionary_item_removed': {"root['undergrad']": '1577', "root['academic_staff']": '294', "root['administrative_staff']": '349'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Bruce McKenzie', 'old_value': 'Bruce McKenzie (acting) '}, "root['postgrad']": {'new_value': 'undergrad=1577|academic_staff=294|administrative_staff=349', 'old_value': '879'}}}
+157: {'dictionary_item_removed': {"root['campus']": 'University town, 58 ha (143 acres)'}}

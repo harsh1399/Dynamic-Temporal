@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Politecnico di Milano', "root['faculty']": '1,400', "root['staff']": '1,200', "root['rector']": 'Prof. Giovanni Azzone', "root['students']": '35,000'}}
+7: {'dictionary_item_removed': {"root['campus']": 'urban'}}
+9: {'values_changed': {"root['faculty']": {'new_value': '1,400', 'old_value': '1,386 (at 31/12/2012)'}, "root['staff']": {'new_value': '1,200', 'old_value': '1,180 (at 31/12/2012)'}, "root['students']": {'new_value': '35,000', 'old_value': '36,722 (at 31/12/2012)'}}}
+10: {'values_changed': {"root['faculty']": {'new_value': '1,386 (at 31/12/2012)', 'old_value': '1,386 (2011)'}, "root['staff']": {'new_value': '1,180 (at 31/12/2012)', 'old_value': '1,180 (2011)'}, "root['students']": {'new_value': '36,722 (at 31/12/2012)', 'old_value': '36,722 (2011)'}}}
+16: {'dictionary_item_removed': {"root['doctoral']": '900'}, 'values_changed': {"root['faculty']": {'new_value': '1,386 (2011)', 'old_value': '1,400 '}, "root['staff']": {'new_value': '1,180 (2011)', 'old_value': '1,200'}, "root['students']": {'new_value': '36,722 (2011)', 'old_value': '35,000'}}}
+42: {'dictionary_item_added': {"root['faculty']": '1,400 ', "root['staff']": '1,200'}, 'dictionary_item_removed': {"root['academic_staff']": '1,400 ', "root['administrative_staff']": '1,200'}}
+69: {'values_changed': {"root['students']": {'new_value': '35,000', 'old_value': '38,731'}}}
+70: {'values_changed': {"root['students']": {'new_value': '38,731', 'old_value': '38,731 '}}}
+76: {'values_changed': {"root['rector']": {'new_value': 'Prof. Giovanni Azzone', 'old_value': 'Giovanni Azzone'}, "root['students']": {'new_value': '38,731 ', 'old_value': '40,670 '}}}
+88: {'dictionary_item_removed': {"root['affiliations']": 'PEGASUS, NEREUS'}}
+89: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA'}}}
+97: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA ,  EASN'}}}
+98: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA ,  EASN', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN'}}}
+110: {'values_changed': {"root['academic_staff']": {'new_value': '1,400 ', 'old_value': '5,400 '}}}
+111: {'values_changed': {"root['administrative_staff']": {'new_value': '1,200', 'old_value': '2,200'}, "root['campus']": {'new_value': 'urban', 'old_value': 'Urban'}}}
+112: {'values_changed': {"root['academic_staff']": {'new_value': '5,400 ', 'old_value': '1,400 '}, "root['administrative_staff']": {'new_value': '2,200', 'old_value': '1,200'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'urban'}}}
+157: {'dictionary_item_added': {"root['name']": 'Politecnico di Milano'}, 'values_changed': {"root['rector']": {'new_value': 'Giovanni Azzone', 'old_value': 'Ferruccio Resta'}}}
+158: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN,IDEA League '}}}
+166: {'values_changed': {"root['students']": {'new_value': '40,670 ', 'old_value': '42,496 '}}}
+171: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN,IDEA League ', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN, IDEA League '}}}
+187: {'dictionary_item_added': {"root['campus']": 'urban'}, 'dictionary_item_removed': {"root['undergrad']": '27,663', "root['postgrad']": '14,331'}}
+246: {'values_changed': {"root['affiliations']": {'new_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN, IDEA League ', 'old_value': 'PEGASUS, NEREUS, TIME, CESAER, EUA, EASN, IDEA League, UNITECH International  '}}}

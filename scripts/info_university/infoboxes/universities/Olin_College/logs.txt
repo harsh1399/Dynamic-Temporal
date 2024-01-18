@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Olin College of Engineering', "root['image_name']": 'OlinCollege.png', "root['president']": 'Richard Miller', "root['undergrad']": '350', "root['faculty']": '37', "root['staff']": '75', "root['campus']": 'Suburban', "root['affiliations']": 'AICUM, AITU, NEASC', "root['endowment']": '$384.1 million (2018)'}}
+1: {'values_changed': {"root['president']": {'new_value': 'Richard Miller', 'old_value': 'Dr. Gilda Barabino ||'}}}
+5: {'values_changed': {"root['president']": {'new_value': 'Dr. Gilda Barabino ||', 'old_value': 'Gilda Barabino ||'}}}
+6: {'values_changed': {"root['president']": {'new_value': 'Gilda Barabino ||', 'old_value': 'Gilda Barabino'}, "root['undergrad']": {'new_value': '350', 'old_value': '390'}}}
+12: {'dictionary_item_added': {"root['affiliations']": 'AICUM, AITU, NEASC'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'AICUM, AITU, Space-grant'}}
+19: {'values_changed': {"root['endowment']": {'new_value': '$384.1 million (2018)', 'old_value': '$369.7 million (2020)'}}}
+22: {'values_changed': {"root['endowment']": {'new_value': '$369.7 million (2020)', 'old_value': '$369.7 million (2020) As of June 30, 2020. |'}}}
+23: {'dictionary_item_added': {"root['staff']": '75'}, 'dictionary_item_removed': {"root['administrative_staff']": '75'}}
+33: {'values_changed': {"root['endowment']": {'new_value': '$369.7 million (2020) As of June 30, 2020. |', 'old_value': '$455.64 million (2021) As of June 30, 2021. |'}}}
+47: {'values_changed': {"root['undergrad']": {'new_value': '390', 'old_value': '382'}, "root['faculty']": {'new_value': '37', 'old_value': '58'}}}
+52: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['AICUM', 'AITU', 'Space-grant'], 'new_value': 'AICUM, AITU, Space-grant'}}}

@@ -1,0 +1,39 @@
+45: {'dictionary_item_removed': {"root['name']": 'Fullerton College', "root['president']": 'Greg Schulz, Ed.D  http://www.fullcoll.edu/president/presidents-welcome', "root['students']": '25,000 http://news.fullcoll.edu/fullerton-college-welcomes-25000-first-day-fall-semester/'}}
+48: {'values_changed': {"root['president']": {'new_value': 'Greg Schulz, Ed.D  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome'}}}
+49: {'values_changed': {"root['president']": {'new_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Dr. Greg Schulz  http://www.fullcoll.edu/president/presidents-welcome'}}}
+52: {'values_changed': {"root['students']": {'new_value': '25,000 http://news.fullcoll.edu/fullerton-college-welcomes-25000-first-day-fall-semester/', 'old_value': '25,001 http://news.fullcoll.edu/fullerton-college-welcomes-25000-first-day-fall-semester/'}}}
+57: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome'}}}
+58: {'values_changed': {"root['president']": {'new_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Dr. Greg Schulz  http://www.fullcoll.edu/president/presidents-welcome'}}}
+59: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome'}}}
+60: {'values_changed': {"root['president']": {'new_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Santa Claus  http://www.fullcoll.edu/president/presidents-welcome'}}}
+61: {'values_changed': {"root['president']": {'new_value': 'Santa Claus  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome'}}}
+62: {'values_changed': {"root['president']": {'new_value': 'Ben Bates  http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Dr. Greg Shulz http://www.fullcoll.edu/president/presidents-welcome'}}}
+63: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Shulz http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'http://www.fullcoll.edu/president/presidents-welcome'}}}
+64: {'values_changed': {"root['president']": {'new_value': 'http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Ben Bates http://www.fullcoll.edu/president/presidents-welcome'}}}
+66: {'values_changed': {"root['president']": {'new_value': 'Ben Bates http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Dr. Greg Schulz http://www.fullcoll.edu/president/presidents-welcome'}}}
+72: {'values_changed': {"root['students']": {'new_value': '25,001 http://news.fullcoll.edu/fullerton-college-welcomes-25000-first-day-fall-semester/', 'old_value': '25,001'}}}
+88: {'dictionary_item_removed': {"root['budget']": '$87 million', "root['campus']": 'Metropolitan, ', "root['athletics']": 'Football   Basketball   Softball', "root['athletics_nickname']": 'Hornets'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz http://www.fullcoll.edu/president/presidents-welcome', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}, "root['students']": {'new_value': '25,001', 'old_value': '34,602 (2016-17)  '}}}
+90: {'values_changed': {"root['athletics']": {'new_value': 'Football   Basketball   Softball', 'old_value': 'Football ,  Basketball ,  Softball'}}}
+92: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Donald Duck    | vice-president        ='}}}
+93: {'values_changed': {"root['president']": {'new_value': 'Donald Duck    | vice-president        =', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}}}
+97: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Master Ben Bates    | vice-president        ='}}}
+98: {'values_changed': {"root['president']": {'new_value': 'Master Ben Bates    | vice-president        =', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}}}
+99: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Master Ben Bates    | vice-president        ='}}}
+100: {'values_changed': {"root['president']": {'new_value': 'Master Ben Bates    | vice-president        =', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}}}
+101: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Dr. ben bates    | vice-president        ='}}}
+102: {'values_changed': {"root['president']": {'new_value': 'Dr. ben bates    | vice-president        =', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}}}
+117: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Hornets', 'old_value': 'Corn nuts'}}}
+118: {'values_changed': {"root['athletics_nickname']": {'new_value': 'Corn nuts', 'old_value': 'Hornets'}}}
+120: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Ben Bates    | vice-president        ='}}}
+121: {'values_changed': {"root['president']": {'new_value': 'Ben Bates    | vice-president        =', 'old_value': 'Dr. Greg Schulz    | vice-president        ='}}}
+122: {'values_changed': {"root['budget']": {'new_value': '$87 million', 'old_value': '$87 billion'}}}
+123: {'values_changed': {"root['budget']": {'new_value': '$87 billion', 'old_value': '$87 million'}}}
+128: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz    | vice-president        =', 'old_value': 'Dr. Greg Schulz   | vice-president        ='}, "root['athletics']": {'new_value': 'Football ,  Basketball ,  Softball', 'old_value': 'Football   Basketball   Softball'}}}
+130: {'values_changed': {"root['students']": {'new_value': '34,602 (2016-17)  ', 'old_value': '21,017 (Spring 2019)  '}}}
+132: {'values_changed': {"root['budget']": {'new_value': '$87 million', 'old_value': '$87 million  '}}}
+143: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz   | vice-president        =', 'old_value': 'Ben Bates   | vice-president        ='}}}
+144: {'values_changed': {"root['president']": {'new_value': 'Ben Bates   | vice-president        =', 'old_value': 'Dr. Greg Schulz   | vice-president        ='}}}
+145: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz   | vice-president        =', 'old_value': 'Dr. Greg Schulz   | vice-president        = yezan alqawasmi'}}}
+146: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz   | vice-president        = yezan alqawasmi', 'old_value': 'Dr. Greg Schulz   | vice-president        ='}}}
+147: {'values_changed': {"root['president']": {'new_value': 'Dr. Greg Schulz   | vice-president        =', 'old_value': 'Ben Bates   | vice-president        ='}}}
+148: {'values_changed': {"root['president']": {'new_value': 'Ben Bates   | vice-president        =', 'old_value': 'Dr. Greg Schulz   | vice-president        ='}}}

@@ -1,0 +1,5 @@
+403: {'dictionary_item_removed': {"root['name']": 'Babson College', "root['endowment']": '$488.1 million (2020)', "root['president']": 'Stephen Spinelli Jr. | vic', "root['provost']": 'Mark P. Rice', "root['faculty']": '306 full-time', "root['students']": '3,340 https://www.usnews.com/best-colleges/babson-college-2121', "root['undergrad']": '2,457', "root['postgrad']": '883', "root['campus']": 'Suburban,', "root['former_names']": 'Babson Institute (1919–1969)'}}
+425: {'dictionary_item_added': {"root['provost']": 'Mark P. Rice'}, 'values_changed': {"root['endowment']": {'new_value': '$488.1 million (2020)', 'old_value': '$701.5 million (2021)'}}}
+426: {'values_changed': {"root['endowment']": {'new_value': '$701.5 million (2021)', 'old_value': '$488.1 million (2020)'}}}
+446: {'values_changed': {"root['students']": {'new_value': '3,340 https://www.usnews.com/best-colleges/babson-college-2121', 'old_value': '3,340'}}}
+458: {'values_changed': {"root['campus']": {'new_value': 'Suburban,', 'old_value': 'Suburban, '}}}

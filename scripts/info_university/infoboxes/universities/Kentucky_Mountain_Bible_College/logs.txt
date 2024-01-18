@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kentucky Mountain Bible College', "root['president']": 'Dr. Philip Speas', "root['school_colors']": 'Purple  █  and White  █'}}
+8: {'dictionary_item_removed': {"root['students']": '89'}}
+32: {'dictionary_item_added': {"root['school_colors']": 'Purple  █  and White  █'}, 'dictionary_item_removed': {"root['staff']": '30'}}
+37: {'dictionary_item_removed': {"root['image_name']": 'KMBC Seal.jpg', "root['former_names']": 'Kentucky Mountain Bible Institute, Vancleve Bible School'}}
+38: {'dictionary_item_added': {"root['staff']": '30'}, 'dictionary_item_removed': {"root['academic_staff']": '17', "root['administrative_staff']": '30'}}
+47: {'dictionary_item_removed': {"root['dean']": 'Randall Huff', "root['affililations']": 'Kentucky Mountain Holiness Association, Mount Carmel High School, WMTC-AM'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Philip Speas', 'old_value': 'Dr. Philip Speas, B.A., M.Div., D.D. | vic'}}}
+48: {'dictionary_item_added': {"root['affililations']": 'Kentucky Mountain Holiness Association, Mount Carmel High School, WMTC-AM'}, 'dictionary_item_removed': {"root['affiliations']": 'Kentucky Mountain Holiness Association, Mount Carmel High School, WMTC-AM'}}
+50: {'values_changed': {"root['students']": {'new_value': '89', 'old_value': '89 '}}}
+68: {'values_changed': {"root['affiliations']": {'new_value': 'Kentucky Mountain Holiness Association, Mount Carmel High School, WMTC-AM', 'old_value': 'Kentucky Mountain Holiness Association, Mount Carmel High School, WMTC-AM, National Association of Independent Colleges and Universities'}}}
+72: {'dictionary_item_removed': {"root['campus']": 'Rural'}}
+74: {'values_changed': {"root['academic_staff']": {'new_value': '17', 'old_value': '17 '}}}
+105: {'values_changed': {"root['dean']": {'new_value': 'Randall Huff', 'old_value': 'James Nelson'}}}

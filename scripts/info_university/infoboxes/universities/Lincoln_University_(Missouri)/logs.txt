@@ -1,0 +1,13 @@
+31: {'dictionary_item_removed': {"root['name']": 'Lincoln University', "root['president']": 'Kevin D. Rome', "root['provost']": 'Said L. Sewell', "root['students']": '3,043 (Fall 2014)', "root['athletics_nickname']": 'Blue Tigers'}}
+32: {'values_changed': {"root['provost']": {'new_value': 'Said L. Sewell', 'old_value': 'Said L. Sewell, Ph. D.'}}}
+33: {'values_changed': {"root['provost']": {'new_value': 'Said L. Sewell, Ph. D.', 'old_value': 'Said L. Sewell'}}}
+35: {'values_changed': {"root['president']": {'new_value': 'Kevin D. Rome', 'old_value': 'Amy Gossett'}, "root['provost']": {'new_value': 'Said L. Sewell', 'old_value': 'Jacob Luck'}, "root['athletics_nickname']": {'new_value': 'Blue Tigers', 'old_value': 'Red Tigers'}}}
+36: {'values_changed': {"root['president']": {'new_value': 'Amy Gossett', 'old_value': 'Kevin D. Rome'}, "root['provost']": {'new_value': 'Jacob Luck', 'old_value': 'Said L. Sewell'}, "root['athletics_nickname']": {'new_value': 'Red Tigers', 'old_value': 'Blue Tigers'}}}
+63: {'values_changed': {"root['president']": {'new_value': 'Kevin D. Rome', 'old_value': 'Michael A. Middleton (interim)'}}}
+84: {'values_changed': {"root['president']": {'new_value': 'Michael A. Middleton (interim)', 'old_value': 'Jerald Jones Woolfolk'}}}
+89: {'values_changed': {"root['provost']": {'new_value': 'Said L. Sewell', 'old_value': 'John D. Jones https://www.lincolnu.edu/web/provost/leadership/about-th'}}}
+112: {'values_changed': {"root['provost']": {'new_value': 'John D. Jones https://www.lincolnu.edu/web/provost/leadership/about-th', 'old_value': 'Alphonso Sanders  https://www.lincolnu.edu/web/provost/leadership/about-th'}}}
+113: {'values_changed': {"root['students']": {'new_value': '3,043 (Fall 2014)', 'old_value': '2,436 (Fall 2019)  '}}}
+114: {'values_changed': {"root['provost']": {'new_value': 'Alphonso Sanders  https://www.lincolnu.edu/web/provost/leadership/about-th', 'old_value': 'Alphonso Sanders https://www.lincolnu.edu/web/provost/leadership/about-th'}, "root['students']": {'new_value': '2,436 (Fall 2019)  ', 'old_value': '2,436 (Fall 2019) '}}}
+116: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+126: {'values_changed': {"root['president']": {'new_value': 'Jerald Jones Woolfolk', 'old_value': 'John B. Moseley (Interim)'}, "root['provost']": {'new_value': 'Alphonso Sanders https://www.lincolnu.edu/web/provost/leadership/about-th', 'old_value': 'Jennifer Benne (Interim)'}}}

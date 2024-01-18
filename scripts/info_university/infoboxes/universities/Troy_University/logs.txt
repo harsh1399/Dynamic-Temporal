@@ -1,0 +1,40 @@
+20: {'dictionary_item_removed': {"root['name']": 'Troy University', "root['former_names']": 'Troy Normal School (1887–1929) Troy State Teachers College (1929–1957) Troy State College (1957–1967) Troy State University(1967–2005)', "root['endowment']": '$21.4 million', "root['chancellor']": 'Jack Hawkins, Jr.', "root['students']": '29,689', "root['undergrad']": '23,071', "root['postgrad']": '6,618', "root['campus']": 'Rural', "root['fightsong']": '"Trojans, One and All"', "root['telephone']": '(800) 551-9716'}}
+39: {'values_changed': {"root['former_names']": {'new_value': 'Troy Normal School (1887–1929) Troy State Teachers College (1929–1957) Troy State College (1957–1967) Troy State University(1967–2005)', 'old_value': 'Troy Normal School (1887–1929) Troy State Teachers College (1929–1957) Troy State College (1957–1967) Troy State University (1967–2005)'}}}
+63: {'values_changed': {"root['campus']": {'new_value': 'Rural', 'old_value': 'The Alabama campus is rural'}}}
+89: {'dictionary_item_removed': {"root['vice_chancellor']": 'Dr. Ed D. Roach', "root['sports']": 'NCAA Division I-FBS', "root['affiliations']": 'Sun Belt Conference', "root['publictransit']": 'Troy University Transportation Services'}, 'values_changed': {"root['chancellor']": {'new_value': 'Jack Hawkins, Jr.', 'old_value': 'Dr. Jack Hawkins, Jr.'}}}
+90: {'values_changed': {"root['campus']": {'new_value': 'The Alabama campus is rural', 'old_value': 'Rural'}}}
+142: {'values_changed': {"root['campus']": {'new_value': 'Rural', 'old_value': 'Rural, 650 acres (1.9 km²)'}, "root['sports']": {'new_value': 'NCAA Division I-FBS', 'old_value': 'NCAA Division I FBS, SBC'}}}
+146: {'values_changed': {"root['campus']": {'new_value': 'Rural, 650 acres (1.9 km²)', 'old_value': 'Rural'}, "root['sports']": {'new_value': 'NCAA Division I FBS, SBC', 'old_value': 'NCAA Division I-FBS'}}}
+148: {'values_changed': {"root['campus']": {'new_value': 'Rural', 'old_value': 'Rural, 650 acres (1.9 km²)'}, "root['sports']": {'new_value': 'NCAA Division I-FBS', 'old_value': 'NCAA Division I FBS, SBC'}}}
+153: {'values_changed': {"root['affiliations']": {'new_value': 'Sun Belt Conference', 'old_value': 'SACS, SBC'}}}
+154: {'values_changed': {"root['affiliations']": {'new_value': 'SACS, SBC', 'old_value': 'ACHE,SACS, SBC'}}}
+155: {'values_changed': {"root['affiliations']": {'new_value': 'ACHE,SACS, SBC', 'old_value': 'ACHE, SACS, SBC'}}}
+174: {'values_changed': {"root['endowment']": {'new_value': '$21.4 million', 'old_value': '$389,466'}}}
+175: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Jack Hawkins, Jr.', 'old_value': 'Dr. Barrock Obama'}}}
+177: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Barrock Obama', 'old_value': 'Dr. Jack Hawkins, Jr.'}}}
+204: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Dr. Ed D. Roach', 'old_value': 'Dr. Earl Ingram'}}}
+207: {'dictionary_item_added': {"root['undergrad']": '23,071', "root['postgrad']": '6,618', "root['sports']": 'NCAA Division I FBS, SBC', "root['fightsong']": '"Trojans, One and All"', "root['affiliations']": 'ACHE, SACS, SBC', "root['publictransit']": 'Troy University Transportation Services', "root['telephone']": '(800) 551-9716'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'ACHE, SACS'}, 'values_changed': {"root['endowment']": {'new_value': '$389,466', 'old_value': '$85.53 million'}, "root['chancellor']": {'new_value': 'Dr. Jack Hawkins, Jr.', 'old_value': 'Jack Hawkins, Jr.'}, "root['vice_chancellor']": {'new_value': 'Dr. Earl Ingram', 'old_value': 'Earl Ingram'}, "root['students']": {'new_value': '29,689', 'old_value': '19,579'}}}
+211: {'values_changed': {"root['students']": {'new_value': '19,579', 'old_value': '5'}}}
+219: {'values_changed': {"root['students']": {'new_value': '5', 'old_value': '19,579'}}}
+223: {'values_changed': {"root['students']": {'new_value': '19,579', 'old_value': '18,393'}}}
+241: {'values_changed': {"root['former_names']": {'new_value': 'Troy Normal School (1887–1929) Troy State Teachers College (1929–1957) Troy State College (1957–1967) Troy State University (1967–2005)', 'old_value': 'Troy Normal School, (1887–1929), Troy State Teachers College, (1929–1957), Troy State College, (1957–1967), Troy State University, (1967–2005)'}, "root['campus']": {'new_value': 'Rural, 650 acres (1.9 km²)', 'old_value': '650 acres (1.9 km²)'}}}
+263: {'values_changed': {"root['campus']": {'new_value': '650 acres (1.9 km²)', 'old_value': '820 acres (1.9 km²)'}}}
+264: {'values_changed': {"root['campus']": {'new_value': '820 acres (1.9 km²)', 'old_value': '820 acres (1.28 miles²)'}}}
+265: {'values_changed': {"root['campus']": {'new_value': '820 acres (1.28 miles²)', 'old_value': '820 acres (1.28 mi²)'}}}
+266: {'values_changed': {"root['campus']": {'new_value': '820 acres (1.28 mi²)', 'old_value': 'College town, 820 acres (1.28 mi²)'}}}
+267: {'values_changed': {"root['campus']": {'new_value': 'College town, 820 acres (1.28 mi²)', 'old_value': 'College town (small town), 820 acres (1.28 mi²)'}}}
+280: {'values_changed': {"root['students']": {'new_value': '18,393', 'old_value': '19,192'}}}
+286: {'values_changed': {"root['students']": {'new_value': '19,192', 'old_value': '18,086'}}}
+287: {'values_changed': {"root['endowment']": {'new_value': '$85.53 million', 'old_value': '$97.2 million'}}}
+303: {'values_changed': {"root['chancellor']": {'new_value': 'Jack Hawkins, Jr.', 'old_value': 'Jack Hawkins, Jr., Second longest serving acti'}}}
+307: {'values_changed': {"root['endowment']": {'new_value': '$97.2 million', 'old_value': '$104.4 million'}}}
+308: {'values_changed': {"root['chancellor']": {'new_value': 'Jack Hawkins, Jr., Second longest serving acti', 'old_value': 'Jack Hawkins, Jr.'}}}
+339: {'values_changed': {"root['chancellor']": {'new_value': 'Jack Hawkins, Jr.', 'old_value': 'Jack Hawkins Jr.'}, "root['campus']": {'new_value': 'College town (small town), 820 acres (1.28 mi²)', 'old_value': 'College town (small town), '}}}
+378: {'values_changed': {"root['students']": {'new_value': '18,086', 'old_value': '18,086    (all campuses and online students)'}}}
+381: {'dictionary_item_added': {"root['vice_chancellor']": 'Earl Ingram'}, 'values_changed': {"root['former_names']": {'new_value': 'Troy Normal School, (1887–1929), Troy State Teachers College, (1929–1957), Troy State College, (1957–1967), Troy State University, (1967–2005)', 'old_value': 'Troy State Normal School, (1887–1929), Troy State Teachers College, (1929–1957), Troy State College, (1957–1967), Troy State University, (1967–2005)'}}}
+405: {'values_changed': {"root['students']": {'new_value': '18,086    (all campuses and online students)', 'old_value': '18,086     (all campuses and online students)'}}}
+423: {'values_changed': {"root['endowment']": {'new_value': '$104.4 million', 'old_value': '$129.2 million (2019)'}}}
+435: {'values_changed': {"root['endowment']": {'new_value': '$129.2 million (2019)', 'old_value': '$152.1 million (2020)'}}}
+452: {'values_changed': {"root['students']": {'new_value': '18,086     (all campuses and online students)', 'old_value': '18,086   (all campuses and online students)'}}}
+503: {'dictionary_item_added': {"root['academic_affiliations']": 'ACHE, SACS'}, 'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Tropolitan''"}, 'values_changed': {"root['former_names']": {'new_value': 'Troy State Normal School, (1887–1929), Troy State Teachers College, (1929–1957), Troy State College, (1957–1967), Troy State University, (1967–2005)', 'old_value': 'Troy State Normal School (1887–1929), Troy State Teachers College (1929–1957), Troy State College (1957–1967), Troy State University (1967–2005)'}, "root['campus']": {'new_value': 'College town (small town), ', 'old_value': 'Remote Town'}}}
+511: {'values_changed': {"root['endowment']": {'new_value': '$152.1 million (2020)', 'old_value': '$192 million (2022)'}}}

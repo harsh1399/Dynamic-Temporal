@@ -1,0 +1,54 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tufts University', "root['image_name']": 'Tufts University seal.svg', "root['endowment']": '$1.351 billion', "root['president']": 'Anthony P. Monaco', "root['faculty']": '1,339  ', "root['students']": '10,685', "root['grad']": '5,186', "root['campus']": 'Urban', "root['affiliations']": 'NESCAC'}}
+16: {'values_changed': {"root['endowment']": {'new_value': '$1.351 billion', 'old_value': '$1.440 billion'}}}
+17: {'values_changed': {"root['endowment']": {'new_value': '$1.440 billion', 'old_value': '$1.351 billion'}}}
+21: {'values_changed': {"root['endowment']": {'new_value': '$1.351 billion', 'old_value': '$1.441 billion  As of June 30, 2013. '}}}
+53: {'values_changed': {"root['grad']": {'new_value': '5,186', 'old_value': '5,499'}}}
+80: {'dictionary_item_removed': {"root['former_names']": 'Tufts College', "root['athletics']": 'NCAA Division III – NESCAC'}, 'values_changed': {"root['affiliations']": {'new_value': 'NESCAC', 'old_value': 'AICUM, NAICU'}}}
+82: {'dictionary_item_added': {"root['former_names']": 'Tufts College', "root['athletics']": 'NCAA Division III – NESCAC'}, 'values_changed': {"root['affiliations']": {'new_value': 'AICUM, NAICU', 'old_value': 'NESCAC'}}}
+83: {'dictionary_item_removed': {"root['former_names']": 'Tufts College', "root['athletics']": 'NCAA Division III – NESCAC'}, 'values_changed': {"root['affiliations']": {'new_value': 'NESCAC', 'old_value': 'URA, AICUM, NAICU'}}}
+84: {'values_changed': {"root['former_names']": {'new_value': 'Tufts College', 'old_value': 'Tufts College,  (1852-1954)'}}}
+85: {'values_changed': {"root['former_names']": {'new_value': 'Tufts College,  (1852-1954)', 'old_value': 'Tufts College (1852–1954)'}}}
+86: {'values_changed': {"root['former_names']": {'new_value': 'Tufts College (1852–1954)', 'old_value': 'Tufts College,  (1852-1954)'}}}
+87: {'values_changed': {"root['former_names']": {'new_value': 'Tufts College,  (1852-1954)', 'old_value': 'Tufts College (1852–1954)'}}}
+99: {'values_changed': {"root['endowment']": {'new_value': '$1.441 billion  As of June 30, 2013. ', 'old_value': '$1.6 billion  As of June 30, 2014. '}}}
+100: {'values_changed': {"root['endowment']": {'new_value': '$1.6 billion  As of June 30, 2014. ', 'old_value': '$2.1 billion  End of FY 2014. '}}}
+124: {'values_changed': {"root['endowment']": {'new_value': '$2.1 billion  End of FY 2014. ', 'old_value': '$1.6 billion  End of FY 2014. '}}}
+192: {'values_changed': {"root['name']": {'new_value': 'Tufts University', 'old_value': 'Ayy man Tufts University 20% more titties than the other one'}}}
+193: {'values_changed': {"root['name']": {'new_value': 'Ayy man Tufts University 20% more titties than the other one', 'old_value': 'Tufts University'}}}
+205: {'values_changed': {"root['image_name']": {'new_value': 'Tufts University seal.svg', 'old_value': 'Tufts University seal.png'}}}
+221: {'values_changed': {"root['endowment']": {'new_value': '$1.6 billion  End of FY 2014. ', 'old_value': '$1.593 billion (2015)'}}}
+227: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – NESCAC', 'old_value': 'NESCAC – Little Ivy'}}}
+228: {'values_changed': {"root['athletics']": {'new_value': 'NESCAC – Little Ivy', 'old_value': 'NCAA Division III – NESCAC'}}}
+236: {'dictionary_item_added': {"root['grad']": '5,499'}, 'dictionary_item_removed': {"root['undergrad']": '5,186', "root['postgrad']": '5,499'}}
+318: {'values_changed': {"root['image_name']": {'new_value': 'Tufts University seal.png', 'old_value': 'Tufts official seal.svg'}}}
+387: {'dictionary_item_removed': {"root['chairman']": 'Peter R. Dolan', "root['provost']": 'David Harris', "root['sports']": '29 varsity teams'}, 'values_changed': {"root['faculty']": {'new_value': '1,339  ', 'old_value': '1,339 (fall 2012; full-time)  '}, "root['students']": {'new_value': '10,685', 'old_value': '10,685 (fall 2012)'}, "root['undergrad']": {'new_value': '5,186', 'old_value': '5,186 (fall 2012)'}, "root['postgrad']": {'new_value': '5,499', 'old_value': '5,499 (fall 2012)'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, total '}}}
+443: {'values_changed': {"root['provost']": {'new_value': 'David Harris', 'old_value': 'David R. Harris'}}}
+485: {'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU', 'old_value': 'URA, AICUM, NAICU  , UPNE'}}}
+487: {'values_changed': {"root['faculty']": {'new_value': '1,339 (fall 2012; full-time)  ', 'old_value': '1,423 (fall 2015; full-time)  '}, "root['students']": {'new_value': '10,685 (fall 2012)', 'old_value': '10,659 (fall 2015)'}, "root['undergrad']": {'new_value': '5,186 (fall 2012)', 'old_value': '5,216 (fall 2015)'}, "root['postgrad']": {'new_value': '5,499 (fall 2012)', 'old_value': '5,443 (fall 2015)'}}}
+495: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NESCAC', "root['sports']": '29 varsity teams'}, 'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU  , UPNE', 'old_value': "NCAA Division III – NESCAC |nickname     = Jumbos |mascot       = Jumbo the Elephant   |free_label    = Student newspaper |free          = ''The Tufts Daily''"}}}
+521: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – NESCAC'}, 'values_changed': {"root['affiliations']": {'new_value': "NCAA Division III – NESCAC |nickname     = Jumbos |mascot       = Jumbo the Elephant   |free_label    = Student newspaper |free          = ''The Tufts Daily''", 'old_value': 'URA, AICUM, NAICU  , UPNE'}}}
+523: {'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU  , UPNE', 'old_value': 'URA, AICUM, NAICU  , UPNE Association of Professional Schools of International Affairs'}}}
+526: {'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU  , UPNE Association of Professional Schools of International Affairs', 'old_value': 'URA, AICUM, NAICU  , UPNE, APSIA'}}}
+545: {'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU  , UPNE, APSIA', 'old_value': 'URA, AICUM, NAICU  , UPNE,'}}}
+546: {'values_changed': {"root['affiliations']": {'new_value': 'URA, AICUM, NAICU  , UPNE,', 'old_value': 'URA, AICUM, NAICU  , UPNE'}}}
+550: {'values_changed': {"root['endowment']": {'new_value': '$1.593 billion (2015)', 'old_value': '$1.563 billion (2016)'}}}
+703: {'values_changed': {"root['students']": {'new_value': '10,659 (fall 2015)', 'old_value': '11,489 (fall 2016)'}, "root['undergrad']": {'new_value': '5,216 (fall 2015)', 'old_value': '5,508 (fall 2015)'}, "root['postgrad']": {'new_value': '5,443 (fall 2015)', 'old_value': '5,981 (fall 2015)'}}}
+707: {'dictionary_item_added': {"root['affiliations']": 'URA, AICUM, NAICU  , UPNE'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'URA AICUM NAICU   UPNE Space-grant'}, 'values_changed': {"root['endowment']": {'new_value': '$1.563 billion (2016)', 'old_value': '$1.87 billion (2019) As of June 30, 2019. '}, "root['provost']": {'new_value': 'David R. Harris', 'old_value': 'Nadine Aubry'}, "root['faculty']": {'new_value': '1,423 (fall 2015; full-time)  ', 'old_value': '1,546 (fall 2019) '}, "root['students']": {'new_value': '11,489 (fall 2016)', 'old_value': '11,878 (fall 2019)'}, "root['undergrad']": {'new_value': '5,508 (fall 2015)', 'old_value': '5,825 (fall 2019)'}, "root['postgrad']": {'new_value': '5,981 (fall 2015)', 'old_value': '5,781 (fall 2019)'}}}
+710: {'values_changed': {"root['endowment']": {'new_value': '$1.87 billion (2019) As of June 30, 2019. ', 'old_value': '$1.89 billion (2020) As of June 30, 2020. '}}}
+715: {'values_changed': {"root['name']": {'new_value': 'Tufts University', 'old_value': 'Tofts University'}, "root['former_names']": {'new_value': 'Tufts College (1852–1954)', 'old_value': 'Tufts College (1852–2021)'}}}
+716: {'values_changed': {"root['name']": {'new_value': 'Tofts University', 'old_value': 'Tufts University'}, "root['former_names']": {'new_value': 'Tufts College (1852–2021)', 'old_value': 'Tufts College (1852–1954)'}}}
+717: {'values_changed': {"root['name']": {'new_value': 'Tufts University', 'old_value': 'Tofts University'}, "root['former_names']": {'new_value': 'Tufts College (1852–1954)', 'old_value': 'Tufts College (1852–2021)'}}}
+719: {'values_changed': {"root['name']": {'new_value': 'Tofts University', 'old_value': 'Tufts University'}}}
+721: {'values_changed': {"root['former_names']": {'new_value': 'Tufts College (1852–2021)', 'old_value': 'Tufts College (1852–1954)'}}}
+722: {'values_changed': {"root['name']": {'new_value': 'Tufts University', 'old_value': 'Tofts University'}}}
+723: {'values_changed': {"root['name']": {'new_value': 'Tofts University', 'old_value': 'Tufts University'}}}
+725: {'values_changed': {"root['endowment']": {'new_value': '$1.89 billion (2020) As of June 30, 2020. ', 'old_value': '$1.94 billion (2020) As of June 30, 2020. ||'}}}
+726: {'values_changed': {"root['academic_affiliations']": {'new_value': 'URA AICUM NAICU   UPNE Space-grant', 'old_value': 'AAU URA AICUM NAICU   UPNE Space-grant'}}}
+758: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['AAU', 'URA', 'AICUM', 'NAICU', 'UPNE', 'Space-grant'], 'new_value': 'AAU URA AICUM NAICU   UPNE Space-grant'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division III – NESCAC'}, 'values_changed': {"root['campus']": {'new_value': 'Urban, total ', 'old_value': 'Suburban, '}}}
+764: {'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Large Suburb,   '}}}
+765: {'iterable_item_added': {"root['academic_affiliations'][4]": 'UPNE'}}
+770: {'values_changed': {"root['endowment']": {'new_value': '$1.94 billion (2020) As of June 30, 2020. ||', 'old_value': '$2.70 billion (2021) As of June 30, 2021. '}}}
+776: {'values_changed': {"root['provost']": {'new_value': 'Nadine Aubry', 'old_value': 'Caroline Genco'}}}
+811: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''The Tufts Daily''"}}
+841: {'values_changed': {"root['campus']": {'new_value': 'Large Suburb,   ', 'old_value': 'Large Suburb'}}}
+842: {'values_changed': {"root['campus']": {'new_value': 'Large Suburb', 'old_value': 'Large Suburb,   '}}}

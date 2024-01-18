@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Northern Illinois University', "root['endowment']": '$58.8 million', "root['president']": 'Douglas D. Baker', "root['provost']": 'Raymond W. Alden III', "root['students']": '20,611 ', "root['undergrad']": '15,814 ', "root['campus']": 'Suburban, ', "root['athletics']": 'NCAA Division I FBS MAC', "root['affiliations']": 'APLU URA'}}
+2: {'values_changed': {"root['endowment']": {'new_value': '$58.8 million', 'old_value': '$70.7 million'}}}
+3: {'dictionary_item_removed': {"root['postgrad']": '5,324'}, 'values_changed': {"root['students']": {'new_value': '20,611 ', 'old_value': '21,138'}, "root['undergrad']": {'new_value': '15,814 ', 'old_value': '15,814'}}}
+6: {'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'University town; '}}}
+7: {'values_changed': {"root['provost']": {'new_value': 'Raymond W. Alden III', 'old_value': 'Lisa C. Freeman'}}}
+16: {'values_changed': {"root['students']": {'new_value': '21,138', 'old_value': '21,138 '}}}
+23: {'values_changed': {"root['students']": {'new_value': '21,138 ', 'old_value': '28,581 '}}}
+24: {'values_changed': {"root['undergrad']": {'new_value': '15,814', 'old_value': '17,856'}}}
+25: {'dictionary_item_removed': {"root['law']": '286'}, 'values_changed': {"root['undergrad']": {'new_value': '17,856', 'old_value': '21,435'}, "root['postgrad']": {'new_value': '5,324', 'old_value': '6,860'}}}
+56: {'values_changed': {"root['endowment']": {'new_value': '$70.7 million', 'old_value': '$71.2 million'}}}
+67: {'dictionary_item_added': {"root['law']": '286'}, 'values_changed': {"root['students']": {'new_value': '28,581 ', 'old_value': '20130'}, "root['undergrad']": {'new_value': '21,435', 'old_value': '15027'}, "root['postgrad']": {'new_value': '6,860', 'old_value': '4850'}}}
+69: {'values_changed': {"root['students']": {'new_value': '20130', 'old_value': '20,130'}, "root['undergrad']": {'new_value': '15027', 'old_value': '15,027'}, "root['postgrad']": {'new_value': '4850', 'old_value': '5,103'}}}
+119: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I FBS MAC', "root['affiliations']": 'APLU URA'}, 'values_changed': {"root['endowment']": {'new_value': '$71.2 million', 'old_value': '$80.0 million (2019)'}, "root['president']": {'new_value': 'Douglas D. Baker', 'old_value': 'Lisa Freeman'}, "root['provost']": {'new_value': 'Lisa C. Freeman', 'old_value': 'Beth Ingram'}, "root['students']": {'new_value': '20,130', 'old_value': '20,015'}, "root['undergrad']": {'new_value': '15,027', 'old_value': '15,079'}, "root['postgrad']": {'new_value': '5,103', 'old_value': '4,936'}}}
+124: {'values_changed': {"root['endowment']": {'new_value': '$80.0 million (2019)', 'old_value': '$76.5 million (2020)'}}}
+137: {'values_changed': {"root['students']": {'new_value': '20,015', 'old_value': '16,609'}, "root['undergrad']": {'new_value': '15,079', 'old_value': '12,131'}, "root['postgrad']": {'new_value': '4,936', 'old_value': '4,478'}}}
+157: {'values_changed': {"root['students']": {'new_value': '16,609', 'old_value': '16,609 '}, "root['undergrad']": {'new_value': '12,131', 'old_value': '12,131 '}, "root['postgrad']": {'new_value': '4,478', 'old_value': '4,478 '}}}
+165: {'values_changed': {"root['endowment']": {'new_value': '$76.5 million (2020)', 'old_value': '$99.2 million (2021)'}}}
+191: {'values_changed': {"root['students']": {'new_value': '16,609 ', 'old_value': '15,649 (Fall 2022) '}, "root['undergrad']": {'new_value': '12,131 ', 'old_value': '11,429 (Fall 2022) '}, "root['postgrad']": {'new_value': '4,478 ', 'old_value': '4,220 (Fall 2022) '}}}

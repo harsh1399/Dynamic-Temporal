@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Austin College', "root['president']": 'Oscar C. Page', "root['undergrad']": '1,291', "root['postgrad']": '29', "root['staff']": '104', "root['endowment']": 'US$144,710,000  |campus', "root['campus']": 'Suburban, 70 acres  (City of Sherman, Grayson County, Texas)'}}
+1: {'values_changed': {"root['undergrad']": {'new_value': '1,291', 'old_value': '3,021'}}}
+4: {'values_changed': {"root['undergrad']": {'new_value': '3,021', 'old_value': '1,291'}}}
+18: {'values_changed': {"root['president']": {'new_value': 'Oscar C. Page', 'old_value': 'Marjorie Hass'}}}
+23: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 70 acres  (City of Sherman, Grayson County, Texas)', 'old_value': 'Suburban, 70 acres  (City of Shitman, Grayson County, Texas)'}}}
+25: {'values_changed': {"root['campus']": {'new_value': 'Suburban, 70 acres  (City of Shitman, Grayson County, Texas)', 'old_value': 'Suburban, 70 acres  (City of Sherman, Grayson County, Texas)'}}}
+42: {'values_changed': {"root['endowment']": {'new_value': 'US$144,710,000  |campus', 'old_value': 'US$109.4 million'}, "root['campus']": {'new_value': 'Suburban, 70 acres  (City of Sherman, Grayson County, Texas)', 'old_value': 'Suburban, '}}}
+45: {'values_changed': {"root['endowment']": {'new_value': 'US$109.4 million', 'old_value': 'US$124.8 million'}}}
+91: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – SCAC'}, 'values_changed': {"root['endowment']": {'new_value': 'US$124.8 million', 'old_value': '$124.8 million'}}}
+93: {'dictionary_item_removed': {"root['affiliations']": 'Oberlin Group, Annapolis Group, CIC'}}
+120: {'values_changed': {"root['undergrad']": {'new_value': '1,291', 'old_value': '1,208'}, "root['postgrad']": {'new_value': '29', 'old_value': '16'}}}
+122: {'values_changed': {"root['affiliations']": {'new_value': 'Oberlin Group, Annapolis Group, CIC', 'old_value': 'Oberlin Group, Annapolis Group, CIC, APCU'}}}
+127: {'values_changed': {"root['endowment']": {'new_value': '$124.8 million', 'old_value': '$133 million'}}}
+143: {'values_changed': {"root['undergrad']": {'new_value': '1,208', 'old_value': '1,208 http://www.austincollege.edu/wp-content/uploads/2010/03/CDS_2013-2014.pdf'}}}
+176: {'values_changed': {"root['president']": {'new_value': 'Marjorie Hass', 'old_value': 'Dr. Marjorie Hass'}}}
+203: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III – SCAC', 'old_value': "NCAA Division III – SCAC ,  ''Will compete in the Southern Athletic Association for football beginning in 2017''"}}}
+224: {'dictionary_item_added': {"root['undergrad']": '1,208 http://www.austincollege.edu/wp-content/uploads/2010/03/CDS_2013-2014.pdf', "root['postgrad']": '16'}, 'dictionary_item_removed': {"root['students']": '1,328 (2017) http://www.austincollege.edu/wp-content/uploads/2010/03/CDS_2013-2014.pdf   | (2013-2014)'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Marjorie Hass', 'old_value': "Steven O'Day"}, "root['athletics']": {'new_value': "NCAA Division III – SCAC ,  ''Will compete in the Southern Athletic Association for football beginning in 2017''", 'old_value': "NCAA Division III – SCAC ,  ''Compete in the Southern Athletic Association for football''"}, "root['affiliations']": {'new_value': 'Oberlin Group, Annapolis Group, CIC, APCU', 'old_value': 'Oberlin Group, Annapolis Group, CIC, APCU '}}}
+228: {'values_changed': {"root['students']": {'new_value': '1,328 (2017) http://www.austincollege.edu/wp-content/uploads/2010/03/CDS_2013-2014.pdf   | (2013-2014)', 'old_value': '1,223 (2019)'}}}
+251: {'dictionary_item_added': {"root['affiliations']": 'Oberlin Group, Annapolis Group, CIC, APCU '}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Oberlin Group, Annapolis Group, CIC, APCU '}}
+266: {'values_changed': {"root['academic_affiliations']": {'new_value': 'Oberlin Group, Annapolis Group, CIC, APCU ', 'old_value': 'Oberlin Group, Annapolis Group, CIC, APCU'}}}
+286: {'dictionary_item_added': {"root['academic_affiliations']": 'Oberlin Group, Annapolis Group, CIC, APCU'}, 'values_changed': {"root['endowment']": {'new_value': '$133 million', 'old_value': '$149.6 million (2019)'}}}
+293: {'values_changed': {"root['endowment']": {'new_value': '$149.6 million (2019)', 'old_value': '$155.4 million (2020)'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'Austin College', 'old_value': 'Bostin College'}, "root['endowment']": {'new_value': '$155.4 million (2020)', 'old_value': '20 Bucks (2020)'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Bostin College', 'old_value': 'Austin College'}, "root['endowment']": {'new_value': '20 Bucks (2020)', 'old_value': '$155.4 million (2020)'}}}
+301: {'dictionary_item_removed': {"root['religious_affiliation']": 'Presbyterian'}}
+303: {'dictionary_item_added': {"root['staff']": '104'}, 'dictionary_item_removed': {"root['administrative_staff']": '104'}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Leiden University', "root['campus']": 'Urban', "root['endowment']": '€528 million ', "root['rector']": 'Prof. mr. Carel Stolker', "root['faculty']": '1,239', "root['staff']": '1,120', "root['students']": '23,007', "root['undergrad']": '14,977', "root['postgrad']": '4,560', "root['doctoral']": '1,147', "root['former_names']": 'Rijksuniversiteit Leiden |Nobel Prizes   = 16'}}
+4: {'dictionary_item_added': {"root['undergrad']": '14,977', "root['postgrad']": '4,560', "root['doctoral']": '1,147'}, 'values_changed': {"root['endowment']": {'new_value': '€528 million ', 'old_value': '€558 million (2014) '}, "root['faculty']": {'new_value': '1,239', 'old_value': '1,352'}, "root['staff']": {'new_value': '1,120', 'old_value': '1,142'}, "root['students']": {'new_value': '23,007', 'old_value': '24,270 (2014)'}}}
+45: {'dictionary_item_added': {"root['endowment']": '€558 million (2014) '}, 'dictionary_item_removed': {"root['budget']": '€558 million (2014) '}}
+46: {'values_changed': {"root['former_names']": {'new_value': 'Rijksuniversiteit Leiden |Nobel Prizes   = 16', 'old_value': 'Rijksuniversiteit Leiden |Nobel Prizes   = 15'}}}
+55: {'values_changed': {"root['rector']": {'new_value': 'Prof. mr. Carel Stolker', 'old_value': 'Prof. Mr. Carel Stolker'}}}
+56: {'values_changed': {"root['rector']": {'new_value': 'Prof. Mr. Carel Stolker', 'old_value': 'Prof. Carel Stolker'}}}
+65: {'values_changed': {"root['budget']": {'new_value': '€558 million (2014) ', 'old_value': '€588 million (2016) '}, "root['faculty']": {'new_value': '1,352', 'old_value': '1,352 '}}}
+89: {'dictionary_item_added': {"root['former_names']": 'Rijksuniversiteit Leiden |Nobel Prizes   = 15'}, 'values_changed': {"root['rector']": {'new_value': 'Prof. Carel Stolker', 'old_value': 'Carel Stolker'}}}
+95: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Urban/College town'}}}
+98: {'values_changed': {"root['students']": {'new_value': '24,270 (2014)', 'old_value': '26,900 (2017)'}}}
+117: {'values_changed': {"root['campus']": {'new_value': 'Urban/College town', 'old_value': 'Urban and College town'}, "root['budget']": {'new_value': '€588 million (2016) ', 'old_value': '€652 million (2019)'}, "root['staff']": {'new_value': '1,142', 'old_value': '6,700'}, "root['students']": {'new_value': '26,900 (2017)', 'old_value': '29,542 (2019)'}}}
+128: {'values_changed': {"root['rector']": {'new_value': 'Carel Stolker', 'old_value': 'Hester Bijl'}}}
+149: {'dictionary_item_added': {"root['staff']": '6,700'}, 'dictionary_item_removed': {"root['administrative_staff']": '6,700'}}
+160: {'dictionary_item_removed': {"root['president']": 'Annetje Ottow'}}

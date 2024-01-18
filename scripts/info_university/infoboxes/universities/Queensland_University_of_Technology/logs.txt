@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Queensland University of Technology', "root['endowment']": 'A$1.063 billion (2017) ', "root['chancellor']": 'Tim Fairfax ', "root['vice_chancellor']": 'Professor Margaret Sheil ', "root['students']": '49,843 ', "root['undergrad']": '37,792 ', "root['postgrad']": '11,310 ', "root['faculty']": '2,096 ', "root['campus']": 'Urban', "root['colours']": 'Blue, White ', "root['affiliations']": 'ASAIHL, ATN', "root['coor']": '28|37|S|153|01|41|E|region:AU_type:edu_source:dewiki|displ'}}
+30: {'values_changed': {"root['affiliations']": {'new_value': 'ASAIHL, ATN', 'old_value': 'ASAIHL'}}}
+35: {'values_changed': {"root['affiliations']": {'new_value': 'ASAIHL', 'old_value': 'Universities Australia, ASAIHL'}}}
+42: {'values_changed': {"root['name']": {'new_value': 'Queensland University of Technology', 'old_value': 'Queensland University of bro im so fkn stressed rn'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Queensland University of bro im so fkn stressed rn', 'old_value': 'Queensland University of Technology'}}}
+49: {'values_changed': {"root['name']": {'new_value': 'Queensland University of Technology', 'old_value': 'Queensland University of Tafe'}}}
+50: {'values_changed': {"root['name']": {'new_value': 'Queensland University of Tafe', 'old_value': 'Queensland Unordinary Tafe'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'Queensland Unordinary Tafe', 'old_value': 'Queensland University of Technology'}}}
+53: {'values_changed': {"root['chancellor']": {'new_value': 'Tim Fairfax ', 'old_value': 'Dr Xiaoling Liu'}}}
+67: {'values_changed': {"root['endowment']": {'new_value': 'A$1.063 billion (2017) ', 'old_value': 'A$1.16 billion (2019) '}, "root['students']": {'new_value': '49,843 ', 'old_value': '52,510 '}, "root['undergrad']": {'new_value': '37,792 ', 'old_value': '39,744 '}}}
+70: {'dictionary_item_added': {"root['endowment']": 'A$1.16 billion (2019) ', "root['affiliations']": 'Universities Australia, ASAIHL'}, 'values_changed': {"root['chancellor']": {'new_value': 'Dr Xiaoling Liu', 'old_value': 'Xiaoling Liu'}, "root['vice_chancellor']": {'new_value': 'Professor Margaret Sheil ', 'old_value': 'Margaret Sheil'}, "root['students']": {'new_value': '52,510 ', 'old_value': '52,510 (2019) '}, "root['undergrad']": {'new_value': '39,744 ', 'old_value': '39,744 (2019) '}, "root['postgrad']": {'new_value': '11,310 ', 'old_value': '11,310 (2017) '}, "root['faculty']": {'new_value': '2,096 ', 'old_value': '2,096 (FTE, 2015) '}, "root['colours']": {'new_value': 'Blue, White ', 'old_value': 'White on blue'}}}
+85: {'dictionary_item_removed': {"root['affiliations']": 'Universities AustraliaASAIHL, AACSB, EQUIS, AMBA'}}
+86: {'values_changed': {"root['affiliations']": {'new_value': 'Universities AustraliaASAIHL, AACSB, EQUIS, AMBA', 'old_value': 'Universities Australia, ASAIHL, AACSB, EQUIS, AMBA'}}}
+87: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Australia, ASAIHL, AACSB, EQUIS, AMBA', 'old_value': 'Universities Australia, ASAIHL'}}}
+88: {'values_changed': {"root['affiliations']": {'new_value': 'Universities Australia, ASAIHL', 'old_value': 'ASAIHL, AACSB,   AMBA, EQUIS,   Universities Australia'}}}
+89: {'values_changed': {"root['affiliations']": {'new_value': 'ASAIHL, AACSB,   AMBA, EQUIS,   Universities Australia', 'old_value': 'ASAIHL, AMBA,   AACSB, EQUIS,   Universities Australia'}}}
+91: {'values_changed': {"root['name']": {'new_value': 'Queensland University of Technology', 'old_value': 'Queensland University of Technology (Real World)'}}}
+92: {'values_changed': {"root['name']": {'new_value': 'Queensland University of Technology (Real World)', 'old_value': 'Queensland University of Technology'}}}
+99: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Sheil', 'old_value': 'Margaret Sheil '}}}
+121: {'dictionary_item_removed': {"root['salary']": '$1.2m+'}}
+145: {'dictionary_item_added': {"root['salary']": '$1.2m+'}, 'values_changed': {"root['students']": {'new_value': '52,510 (2019) ', 'old_value': '52,511 (2019) '}, "root['undergrad']": {'new_value': '39,744 (2019) ', 'old_value': '39,871 (2019) '}, "root['postgrad']": {'new_value': '11,310 (2017) ', 'old_value': '11,938 (2019) '}}}
+150: {'values_changed': {"root['faculty']": {'new_value': '2,096 (FTE, 2015) ', 'old_value': '2,259 (FTE, 2019) '}}}
+157: {'values_changed': {"root['postgrad']": {'new_value': '11,938 (2019) ', 'old_value': '11,938 (2019)'}, "root['faculty']": {'new_value': '2,259 (FTE, 2019) ', 'old_value': '2,259 (FTE, 2019)'}}}
+174: {'values_changed': {"root['students']": {'new_value': '52,511 (2019) ', 'old_value': '52,672 (2020)'}, "root['undergrad']": {'new_value': '39,871 (2019) ', 'old_value': '39,156 (2020)'}, "root['postgrad']": {'new_value': '11,938 (2019)', 'old_value': '10,390 (2020)'}, "root['faculty']": {'new_value': '2,259 (FTE, 2019)', 'old_value': '2,293 (FTE, 2020)'}}}
+188: {'dictionary_item_added': {"root['colours']": 'White on blue'}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Sheil ', 'old_value': 'Margaret Sheil'}}}

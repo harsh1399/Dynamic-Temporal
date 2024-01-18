@@ -1,0 +1,90 @@
+0: {'dictionary_item_removed': {"root['name']": 'Monash University', "root['chancellor']": 'Alan Finkel AM', "root['vice_chancellor']": 'Edward Byrne, AO', "root['undergrad']": '39,000', "root['postgrad']": '16,000', "root['faculty']": '8172', "root['campus']": 'Clayton, Caulfield, Berwick, Peninsula, Parkville, Gippsland, Malaysia, South Africa, India, Italy, China', "root['affiliations']": 'Group of Eight, ASAIHL, Monash College'}}
+3: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Edward Byrne, AO', 'old_value': 'Edward Byrne, AC'}}}
+28: {'values_changed': {"root['faculty']": {'new_value': '8172', 'old_value': '8,172'}}}
+40: {'values_changed': {"root['campus']": {'new_value': 'Clayton, Caulfield, Berwick, Peninsula, Parkville, Gippsland, Malaysia, South Africa, India, Italy, China', 'old_value': 'Clayton, Caulfield, Berwick, Peninsula, Parkville, Malaysia, South Africa, India, Italy, China'}}}
+46: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel AM', 'old_value': 'Our dear leader,Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Edward Byrne, AC', 'old_value': 'Our dear leader,Edward Byrne, AC'}}}
+47: {'values_changed': {"root['chancellor']": {'new_value': 'Our dear leader,Alan Finkel AM', 'old_value': 'Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Our dear leader,Edward Byrne, AC', 'old_value': 'Edward Byrne, AC'}}}
+48: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel AM', 'old_value': 'Our dear leader,Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Edward Byrne, AC', 'old_value': 'Our dear leader,Edward Byrne, AC'}}}
+49: {'values_changed': {"root['chancellor']": {'new_value': 'Our dear leader,Alan Finkel AM', 'old_value': 'Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Our dear leader,Edward Byrne, AC', 'old_value': 'Edward Byrne, AC'}}}
+50: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel AM', 'old_value': 'Our dear leader,Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Edward Byrne, AC', 'old_value': 'Our dear leader,Edward Byrne, AC'}}}
+51: {'values_changed': {"root['chancellor']": {'new_value': 'Our dear leader,Alan Finkel AM', 'old_value': 'Alan Finkel AM'}, "root['vice_chancellor']": {'new_value': 'Our dear leader,Edward Byrne, AC', 'old_value': 'Edward Byrne, AC'}}}
+71: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Edward Byrne, AC', 'old_value': 'Margaret Gardner'}}}
+72: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Gardner', 'old_value': 'Margaret Gardner AO'}}}
+101: {'dictionary_item_removed': {"root['location']": 'Melbourne, Australia  (Main Clayton Campus)'}}
+105: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Australia  (Main Clayton Campus)', 'old_value': 'Melbourne, Australia  ,  (Main Clayton Campus)'}}}
+107: {'values_changed': {"root['campus']": {'new_value': 'Clayton, Caulfield, Berwick, Peninsula, Parkville, Malaysia, South Africa, India, Italy, China', 'old_value': 'Suburban'}}}
+108: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Australia  ,  (Main Clayton Campus)', 'old_value': 'Melbourne, Australia  ,'}}}
+109: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Australia  ,', 'old_value': 'Melbourne, Victoria, Australia  ,'}}}
+110: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Victoria, Australia  ,', 'old_value': 'Melbourne, Victoria, Australia'}}}
+114: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Suburban '}}}
+117: {'values_changed': {"root['campus']": {'new_value': 'Suburban ', 'old_value': 'Suburban, '}}}
+122: {'dictionary_item_removed': {"root['students']": '55,000'}}
+124: {'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Suburban (Clayton campus), '}}}
+125: {'values_changed': {"root['campus']": {'new_value': 'Suburban (Clayton campus), ', 'old_value': 'Suburban, (Clayton campus), '}}}
+126: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel AM', 'old_value': 'Alan Finkel, '}, "root['vice_chancellor']": {'new_value': 'Margaret Gardner AO', 'old_value': 'Margaret Gardner, '}}}
+130: {'values_changed': {"root['students']": {'new_value': '55,000', 'old_value': '69'}}}
+132: {'values_changed': {"root['students']": {'new_value': '69', 'old_value': '55,000'}}}
+143: {'dictionary_item_removed': {"root['endowment']": "We're broke! :("}, 'values_changed': {"root['students']": {'new_value': '55,000', 'old_value': '1086'}, "root['undergrad']": {'new_value': '39,000', 'old_value': '420'}, "root['postgrad']": {'new_value': '16,000', 'old_value': '666'}, "root['faculty']": {'new_value': '8,172', 'old_value': '3.14'}}}
+145: {'dictionary_item_added': {"root['endowment']": "We're broke! :("}, 'values_changed': {"root['students']": {'new_value': '1086', 'old_value': '55,000'}, "root['undergrad']": {'new_value': '420', 'old_value': '39,000'}, "root['postgrad']": {'new_value': '666', 'old_value': '16,000'}, "root['faculty']": {'new_value': '3.14', 'old_value': '8,172'}}}
+265: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel, ', 'old_value': 'Les Hughes, '}}}
+266: {'values_changed': {"root['chancellor']": {'new_value': 'Les Hughes, ', 'old_value': 'Alan Finkel, '}}}
+274: {'values_changed': {"root['students']": {'new_value': '55,000', 'old_value': '67,000'}, "root['undergrad']": {'new_value': '39,000', 'old_value': '40,000'}, "root['postgrad']": {'new_value': '16,000', 'old_value': '27,000'}}}
+275: {'values_changed': {"root['chancellor']": {'new_value': 'Alan Finkel, ', 'old_value': 'Simon McKeon , '}, "root['undergrad']": {'new_value': '40,000', 'old_value': '47,000'}, "root['postgrad']": {'new_value': '27,000', 'old_value': '20,000'}}}
+343: {'dictionary_item_removed': {"root['other']": '887'}, 'values_changed': {"root['students']": {'new_value': '67,000', 'old_value': '67,076'}, "root['undergrad']": {'new_value': '47,000', 'old_value': '47,068'}, "root['postgrad']": {'new_value': '20,000', 'old_value': '19,121'}, "root['faculty']": {'new_value': '8,172', 'old_value': '6,961'}}}
+359: {'values_changed': {"root['name']": {'new_value': 'Monash University', 'old_value': 'Shaun University'}}}
+360: {'values_changed': {"root['name']": {'new_value': 'Shaun University', 'old_value': 'Monash University'}}}
+370: {'values_changed': {"root['chancellor']": {'new_value': 'Simon McKeon , ', 'old_value': 'Barack Obama , '}, "root['campus']": {'new_value': 'Suburban, (Clayton campus), ', 'old_value': 'Suburban, (Cambridge, Massachusetts, United States), '}}}
+371: {'values_changed': {"root['chancellor']": {'new_value': 'Barack Obama , ', 'old_value': 'Simon McKeon, '}}}
+372: {'values_changed': {"root['campus']": {'new_value': 'Suburban, (Cambridge, Massachusetts, United States), ', 'old_value': 'Suburban, '}}}
+385: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Victoria, Australia', 'old_value': 'Melbourne, Victoria, Australia  '}}}
+387: {'values_changed': {"root['location']": {'new_value': 'Melbourne, Victoria, Australia  ', 'old_value': 'Melbourne, Victoria, Australia'}}}
+408: {'values_changed': {"root['students']": {'new_value': '67,076', 'old_value': '70,071'}, "root['undergrad']": {'new_value': '47,068', 'old_value': '48,414'}, "root['postgrad']": {'new_value': '19,121', 'old_value': '20,976'}, "root['other']": {'new_value': '887', 'old_value': '681'}}}
+445: {'values_changed': {"root['chancellor']": {'new_value': 'Simon McKeon, ', 'old_value': 'Erdem Sen, '}}}
+446: {'values_changed': {"root['chancellor']": {'new_value': 'Erdem Sen, ', 'old_value': 'Simon McKeon, '}}}
+478: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Gardner, ', 'old_value': 'Sel, '}}}
+479: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Sel, ', 'old_value': 'Margaret Gardner, '}}}
+485: {'values_changed': {"root['affiliations']": {'new_value': 'Group of Eight, ASAIHL, Monash College', 'old_value': 'Group of Eight, ASAIHL, Monash College '}}}
+545: {'dictionary_item_added': {"root['postgrad']": '20,976'}, 'values_changed': {"root['students']": {'new_value': '70,071', 'old_value': '73,807'}, "root['undergrad']": {'new_value': '48,414', 'old_value': '50,461 |postgrad/higher degree = 22,848'}, "root['other']": {'new_value': '681', 'old_value': '498'}}}
+547: {'values_changed': {"root['undergrad']": {'new_value': '50,461 |postgrad/higher degree = 22,848', 'old_value': '50,461 |postgrad and higher degree = 22,848'}}}
+548: {'values_changed': {"root['undergrad']": {'new_value': '50,461 |postgrad and higher degree = 22,848', 'old_value': '50,461'}}}
+549: {'values_changed': {"root['undergrad']": {'new_value': '50,461', 'old_value': '50,461 |postgrad and higher degree = 22,848'}}}
+550: {'values_changed': {"root['undergrad']": {'new_value': '50,461 |postgrad and higher degree = 22,848', 'old_value': '50,461'}}}
+551: {'values_changed': {"root['undergrad']": {'new_value': '50,461', 'old_value': '50,461 |postgrad and higher degree = 22,848'}}}
+552: {'values_changed': {"root['undergrad']": {'new_value': '50,461 |postgrad and higher degree = 22,848', 'old_value': '50,461 |postgrad/higher degree = 22,848'}}}
+553: {'dictionary_item_removed': {"root['postgrad']": '22,848'}, 'values_changed': {"root['undergrad']": {'new_value': '50,461 |postgrad/higher degree = 22,848', 'old_value': '50,461'}}}
+554: {'values_changed': {"root['faculty']": {'new_value': '6,961', 'old_value': '8,109'}}}
+566: {'dictionary_item_added': {"root['faculty']": '8,109', "root['location']": 'Melbourne, Victoria, Australia', "root['affiliations']": 'Group of Eight, ASAIHL, Monash College '}, 'dictionary_item_removed': {"root['president']": '| vice-president    =', "root['academic_staff']": '8,109'}}
+567: {'values_changed': {"root['undergrad']": {'new_value': '50,461', 'old_value': '50,461 '}}}
+568: {'dictionary_item_added': {"root['president']": '| vice-president    =', "root['academic_staff']": '8,109'}, 'dictionary_item_removed': {"root['faculty']": '8,109', "root['location']": 'Melbourne, Victoria, Australia', "root['affiliations']": 'Group of Eight, ASAIHL, Monash College '}, 'values_changed': {"root['undergrad']": {'new_value': '50,461 ', 'old_value': '50,461'}}}
+569: {'dictionary_item_added': {"root['faculty']": '8,109', "root['location']": 'Melbourne, Victoria, Australia', "root['affiliations']": 'Group of Eight, ASAIHL, Monash College '}, 'dictionary_item_removed': {"root['president']": '| vice-president    =', "root['academic_staff']": '8,109'}, 'values_changed': {"root['undergrad']": {'new_value': '50,461', 'old_value': '50,461 '}}}
+607: {'dictionary_item_removed': {"root['Mascot']": "The unofficial mascot of Monash University is a possum dubbed 'Sir John' who was found attending a chemistry lecture. "}, 'values_changed': {"root['president']": {'new_value': '| vice-president    =', 'old_value': '| vic'}}}
+608: {'dictionary_item_added': {"root['Mascot']": "The unofficial mascot of Monash University is a possum dubbed 'Sir John' who was found attending a chemistry lecture. "}, 'values_changed': {"root['undergrad']": {'new_value': '50,461 ', 'old_value': '50,461 + 1 Possum  '}}}
+609: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president    ='}, "root['undergrad']": {'new_value': '50,461 + 1 Possum  ', 'old_value': '50,461 '}}}
+611: {'values_changed': {"root['students']": {'new_value': '73,807', 'old_value': '73,807 + 1 possum'}}}
+617: {'values_changed': {"root['president']": {'new_value': '| vice-president    =', 'old_value': '| vic'}, "root['students']": {'new_value': '73,807 + 1 possum', 'old_value': '73,807'}}}
+618: {'values_changed': {"root['undergrad']": {'new_value': '50,461 ', 'old_value': '50,461+1 possum  '}}}
+619: {'values_changed': {"root['undergrad']": {'new_value': '50,461+1 possum  ', 'old_value': '50,461 '}}}
+620: {'values_changed': {"root['undergrad']": {'new_value': '50,461 ', 'old_value': '50,461 + 1 Possum  '}}}
+622: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president    ='}, "root['undergrad']": {'new_value': '50,461 + 1 Possum  ', 'old_value': '50,461 '}}}
+623: {'values_changed': {"root['students']": {'new_value': '73,807', 'old_value': '73,807 + 1 possum'}}}
+624: {'values_changed': {"root['students']": {'new_value': '73,807 + 1 possum', 'old_value': '73,807'}}}
+625: {'values_changed': {"root['president']": {'new_value': '| vice-president    =', 'old_value': '| vic'}, "root['other']": {'new_value': '498', 'old_value': '498 + 1 possum'}}}
+626: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president    ='}, "root['other']": {'new_value': '498 + 1 possum', 'old_value': '498'}}}
+627: {'values_changed': {"root['undergrad']": {'new_value': '50,461 ', 'old_value': '50,461+1 Possum '}}}
+628: {'values_changed': {"root['undergrad']": {'new_value': '50,461+1 Possum ', 'old_value': '50,461 '}}}
+636: {'values_changed': {"root['president']": {'new_value': '| vice-president    =', 'old_value': '| vic'}}}
+638: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president    ='}}}
+640: {'dictionary_item_added': {"root['president']": '| vice-president    ='}, 'values_changed': {"root['chancellor']": {'new_value': 'Simon McKeon, ', 'old_value': 'Simon McKeon'}, "root['vice_chancellor']": {'new_value': 'Margaret Gardner, ', 'old_value': 'Margaret Gardner'}}}
+648: {'values_changed': {"root['name']": {'new_value': 'Monash University', 'old_value': 'Sir John Monash University'}}}
+652: {'values_changed': {"root['name']": {'new_value': 'Sir John Monash University', 'old_value': 'Monash University'}}}
+719: {'dictionary_item_added': {"root['other']": '498'}, 'dictionary_item_removed': {"root['colours']": 'Blue, Black  ,  '}, 'values_changed': {"root['academic_staff']": {'new_value': '8,109', 'old_value': '8,109  '}, "root['students']": {'new_value': '73,807', 'old_value': '73,807 '}, "root['postgrad']": {'new_value': '22,848', 'old_value': '22,848 '}}}
+720: {'values_changed': {"root['academic_staff']": {'new_value': '8,109  ', 'old_value': '8,109 '}}}
+736: {'values_changed': {"root['students']": {'new_value': '73,807 ', 'old_value': '78,257 '}, "root['undergrad']": {'new_value': '50,461 ', 'old_value': '52,305 '}, "root['postgrad']": {'new_value': '22,848 ', 'old_value': '20,600 '}}}
+743: {'dictionary_item_added': {"root['name']": 'Monash University', "root['chancellor']": 'Simon McKeon', "root['vice_chancellor']": 'Margaret Gardner', "root['academic_staff']": '8,109 ', "root['students']": '78,257 ', "root['undergrad']": '52,305 ', "root['postgrad']": '20,600 ', "root['campus']": 'Suburban, ', "root['colours']": 'Blue, Black  ,  '}, 'dictionary_item_removed': {"root['UniName']": 'Monash University', "root['QS_W']": '59=', "root['THES_W']": '80=', "root['ARWU_W']": '78', "root['USNWR_W']": '68', "root['LEIDEN_W']": '64', "root['QS_AUS']": '6', "root['THES_AUS']": '5', "root['ARWU_AUS']": '3', "root['USNWR_AUS']": '4', "root['LEIDEN_AUS']": '4', "root['ERA_AUS']": '4 |'}}
+744: {'dictionary_item_added': {"root['UniName']": 'Monash University', "root['QS_W']": '59=', "root['THES_W']": '80=', "root['ARWU_W']": '78', "root['USNWR_W']": '68', "root['LEIDEN_W']": '64', "root['QS_AUS']": '6', "root['THES_AUS']": '5', "root['ARWU_AUS']": '3', "root['USNWR_AUS']": '4', "root['LEIDEN_AUS']": '4', "root['ERA_AUS']": '4 |'}, 'dictionary_item_removed': {"root['name']": 'Monash University', "root['chancellor']": 'Simon McKeon', "root['vice_chancellor']": 'Margaret Gardner', "root['academic_staff']": '8,109 ', "root['students']": '78,257 ', "root['undergrad']": '52,305 ', "root['postgrad']": '20,600 ', "root['campus']": 'Suburban, ', "root['colours']": 'Blue, Black  ,  '}}
+745: {'values_changed': {"root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Suburban '}, "root['colours']": {'new_value': 'Blue, Black  ,  ', 'old_value': 'Blue, Black    '}}}
+750: {'dictionary_item_removed': {"root['doctoral']": '4,874 '}}
+825: {'dictionary_item_removed': {"root['administrative_staff']": '9,029 '}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Gardner', 'old_value': 'Margaret Gardner AC'}, "root['academic_staff']": {'new_value': '8,109 ', 'old_value': '8,990 '}, "root['students']": {'new_value': '78,257 ', 'old_value': '86,753 '}, "root['undergrad']": {'new_value': '52,305 ', 'old_value': '55,650 '}, "root['postgrad']": {'new_value': '20,600 ', 'old_value': '25,392 '}, "root['doctoral']": {'new_value': '4,874 ', 'old_value': '5,236 '}}}
+860: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Margaret Gardner AC', 'old_value': 'Margaret Gardner '}}}
+861: {'values_changed': {"root['chancellor']": {'new_value': 'Simon McKeon', 'old_value': 'Simon McKeon '}}}
+875: {'values_changed': {"root['colours']": {'new_value': 'Blue, Black    ', 'old_value': 'Blue, black    '}}}

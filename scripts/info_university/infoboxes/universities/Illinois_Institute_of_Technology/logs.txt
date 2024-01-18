@@ -1,0 +1,26 @@
+363: {'dictionary_item_removed': {"root['name']": 'Illinois Institute of Technology', "root['faculty']": '642', "root['president']": 'John L. Anderson ||', "root['undergrad']": '2,576', "root['postgrad']": '4,833 ', "root['endowment']": '$338.1 million ', "root['campus']": 'Urban, '}}
+382: {'dictionary_item_removed': {"root['image_name']": 'IIT Coat.svg', "root['athletics']": '12 varsity teams,'}}
+385: {'values_changed': {"root['faculty']": {'new_value': '642', 'old_value': '659'}}}
+387: {'values_changed': {"root['image_name']": {'new_value': 'IIT Coat.svg', 'old_value': 'IIT Seal.svg'}}}
+389: {'values_changed': {"root['athletics']": {'new_value': '12 varsity teams,', 'old_value': '10 varsity teams,'}}}
+514: {'dictionary_item_removed': {"root['provost']": 'Alan W. Cramb'}}
+515: {'values_changed': {"root['provost']": {'new_value': 'Alan W. Cramb', 'old_value': 'Alan W. Cramb ||'}}}
+524: {'values_changed': {"root['athletics']": {'new_value': '10 varsity teams,', 'old_value': '10 varsity teams'}}}
+531: {'dictionary_item_removed': {"root['students']": '7,790  ', "root['doctoral']": '1,528', "root['sports']": '10 varsity teams'}, 'values_changed': {"root['faculty']": {'new_value': '659', 'old_value': '659 '}, "root['president']": {'new_value': 'John L. Anderson ||', 'old_value': 'Alan W. Cramb ||'}, "root['provost']": {'new_value': 'Alan W. Cramb ||', 'old_value': 'Frances Bronet'}, "root['undergrad']": {'new_value': '2,576', 'old_value': '2,991'}, "root['postgrad']": {'new_value': '4,833 ', 'old_value': '3,271'}, "root['endowment']": {'new_value': '$338.1 million ', 'old_value': '$235.5 million'}, "root['athletics']": {'new_value': '10 varsity teams', 'old_value': 'NCAA Division III (in transition)  ,  Formerly NAIA – CACC'}}}
+574: {'values_changed': {"root['students']": {'new_value': '7,790  ', 'old_value': '7,809  '}, "root['undergrad']": {'new_value': '2,991', 'old_value': '2,977'}, "root['postgrad']": {'new_value': '3,271', 'old_value': '3,289'}, "root['doctoral']": {'new_value': '1,528', 'old_value': '1,543'}}}
+633: {'values_changed': {"root['students']": {'new_value': '7,809  ', 'old_value': '7,266  '}, "root['undergrad']": {'new_value': '2,977', 'old_value': '2,924'}, "root['postgrad']": {'new_value': '3,289', 'old_value': '2,996'}, "root['doctoral']": {'new_value': '1,543', 'old_value': '1,346'}}}
+634: {'values_changed': {"root['students']": {'new_value': '7,266  ', 'old_value': '7,266 '}}}
+646: {'values_changed': {"root['provost']": {'new_value': 'Frances Bronet', 'old_value': 'Russell Betts'}}}
+660: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III (in transition)  ,  Formerly NAIA – CACC', 'old_value': 'NCAA Division III'}}}
+666: {'values_changed': {"root['provost']": {'new_value': 'Russell Betts', 'old_value': 'Peter Kilpatrick'}}}
+695: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division III', 'old_value': 'NCAA Division III — Northern Athletics Collegiate Conference'}}}
+747: {'values_changed': {"root['endowment']": {'new_value': '$235.5 million', 'old_value': '$236.9 million (2019)'}}}
+758: {'values_changed': {"root['president']": {'new_value': 'Alan W. Cramb ||', 'old_value': 'Raj Echambadi'}}}
+768: {'dictionary_item_added': {"root['image_name']": 'IIT Seal.svg', "root['athletics']": 'NCAA Division III — Northern Athletics Collegiate Conference', "root['sports']": '10 varsity teams'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III — Northern Athletics Collegiate Conference'}}
+777: {'values_changed': {"root['name']": {'new_value': 'Illinois Institute of Technology', 'old_value': 'Illlinois Institute of Technology'}}}
+778: {'values_changed': {"root['name']": {'new_value': 'Illlinois Institute of Technology', 'old_value': 'Illinois Institute of Technology'}}}
+808: {'values_changed': {"root['endowment']": {'new_value': '$236.9 million (2019)', 'old_value': '$304 million (2021)'}}}
+811: {'values_changed': {"root['name']": {'new_value': 'Illinois Institute of Technology', 'old_value': 'Illinois Institute of Technology (IIT)'}}}
+812: {'values_changed': {"root['name']": {'new_value': 'Illinois Institute of Technology (IIT)', 'old_value': 'Illinois Institute of Technology'}}}
+819: {'values_changed': {"root['provost']": {'new_value': 'Peter Kilpatrick', 'old_value': 'Kenneth T. Christensen'}}}
+821: {'dictionary_item_removed': {"root['former_names']": 'Armour Institute (1890–1940) Lewis Institute (1895–1940)'}}

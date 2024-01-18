@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'St. Catherine University', "root['president']": 'Andrea J. Lee, IHM', "root['undergrad']": '3,663', "root['postgrad']": '1,412', "root['campus']": 'Urban', "root['athletics']": 'NCAA Division III – MIAC', "root['affiliations']": 'NCA, ACCU, CIC', "root['telephone']": '(800) 945-4599'}}
+1: {'values_changed': {"root['affiliations']": {'new_value': 'NCA, ACCU, CIC', 'old_value': 'NCA, ACCU, CIC, WCC'}}}
+23: {'dictionary_item_added': {"root['telephone']": '(800) 945-4599'}, 'dictionary_item_removed': {"root['endowment']": '$74.8 million', "root['faculty']": '337'}, 'values_changed': {"root['undergrad']": {'new_value': '3,663', 'old_value': '3,491'}, "root['postgrad']": {'new_value': '1,412', 'old_value': '1,564'}}}
+24: {'values_changed': {"root['faculty']": {'new_value': '337', 'old_value': '337 '}}}
+28: {'values_changed': {"root['president']": {'new_value': 'Andrea J. Lee, IHM', 'old_value': 'ReBecca Koenig Roloff'}}}
+29: {'values_changed': {"root['president']": {'new_value': 'ReBecca Koenig Roloff', 'old_value': 'Halima Mohamed ref>https://www.stkate.edu/news-and-events/news/rebecca-roloff-named-president'}}}
+30: {'values_changed': {"root['president']": {'new_value': 'Halima Mohamed ref>https://www.stkate.edu/news-and-events/news/rebecca-roloff-named-president', 'old_value': 'ReBecca Koenig Roloff'}}}
+48: {'dictionary_item_removed': {"root['budget']": '$128.3 million (2016)'}, 'values_changed': {"root['endowment']": {'new_value': '$74.8 million', 'old_value': '$74.8 million (2016)'}}}
+82: {'values_changed': {"root['undergrad']": {'new_value': '3,491', 'old_value': '3,158'}, "root['postgrad']": {'new_value': '1,564', 'old_value': '1,566'}}}
+83: {'values_changed': {"root['faculty']": {'new_value': '337 ', 'old_value': '340'}}}
+84: {'values_changed': {"root['faculty']": {'new_value': '340', 'old_value': '340 https://www.stkate.edu/about/university-facts University Facts, St. Catherine University. Retrieved June 11, 2018.'}}}

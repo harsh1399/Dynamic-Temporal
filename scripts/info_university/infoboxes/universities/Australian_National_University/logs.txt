@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Australian National University', "root['endowment']": 'A$1.13 billion', "root['chancellor']": 'Gareth Evans ', "root['vice_chancellor']": 'Brian Schmidt ', "root['undergrad']": '10,052', "root['postgrad']": '10,840', "root['image_name']": 'Australian National University coat of arms.svg', "root['staff']": '3,753', "root['affiliations']": 'IARU, Group of Eight, APRU, AURA, ASAIHL '}}
+12: {'dictionary_item_removed': {"root['students']": '20,892'}}
+38: {'values_changed': {"root['name']": {'new_value': 'The Australian National University', 'old_value': '"The Australian National University"  apparently'}}}
+39: {'values_changed': {"root['name']": {'new_value': '"The Australian National University"  apparently', 'old_value': 'The Australian National University'}}}
+95: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, AURA, ASAIHL ', 'old_value': 'IARU, Group of Eight, APRU, AURA, ASAIHL,edX '}}}
+96: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, AURA, ASAIHL,edX ', 'old_value': 'IARU, Group of Eight, APRU, AURA, ASAIHL, edX, OUA '}}}
+103: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmidt ', 'old_value': 'Joss Schmidt '}, "root['undergrad']": {'new_value': '10,052', 'old_value': '10,069'}, "root['postgrad']": {'new_value': '10,840', 'old_value': '10,420'}}}
+104: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Joss Schmidt ', 'old_value': 'Brian Schmidt '}, "root['undergrad']": {'new_value': '10,069', 'old_value': '10,052'}, "root['postgrad']": {'new_value': '10,420', 'old_value': '10,840'}}}
+105: {'dictionary_item_removed': {"root['campus']": 'xperience Ft. Flooding" |established = 1946 |type = Public, National |endowment = A$1.13 billion  |chancellor = Gareth Evans vice_chancellor = Brian Schmidtty '}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmidt ', 'old_value': 'Brian Schmidtty '}}}
+106: {'dictionary_item_added': {"root['campus']": 'xperience Ft. Flooding" |established = 1946 |type = Public, National |endowment = A$1.13 billion  |chancellor = Gareth Evans vice_chancellor = Brian Schmidtty '}, 'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmidtty ', 'old_value': 'Brian Schmidt '}}}
+125: {'values_changed': {"root['name']": {'new_value': 'The Australian National University', 'old_value': 'Australian National University'}}}
+160: {'dictionary_item_added': {"root['endowment']": 'A$1.13 billion'}, 'values_changed': {"root['chancellor']": {'new_value': 'Gareth Evans ', 'old_value': 'Julie Bishop'}}}
+161: {'dictionary_item_removed': {"root['colours']": 'ANU Platinum '}}
+194: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, AURA, ASAIHL, edX, OUA ', 'old_value': 'IARU, Group of Eight, APRU, Winter Institute  ,  AURA, ASAIHL, edX, OUA '}}}
+195: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, Winter Institute  ,  AURA, ASAIHL, edX, OUA ', 'old_value': 'IARU, Group of Eight, APRU, U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA '}}}
+200: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA ', 'old_value': 'IARU, Group of Eight, APRU, UNESCO Chairs,U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA '}}}
+201: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, UNESCO Chairs,U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA ', 'old_value': 'IARU, Group of Eight, APRU, UNESCO Chairs, U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA '}}}
+213: {'values_changed': {"root['affiliations']": {'new_value': 'IARU, Group of Eight, APRU, UNESCO Chairs, U7 Alliance  , Winter Institute  ,  AURA, ASAIHL, edX, OUA ', 'old_value': 'IARU, Group of Eight, APRU, UNESCO Chairs, U7 Alliance,<ref name'}}}
+243: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmidt ', 'old_value': 'Brian Schmitty '}}}
+244: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmitty ', 'old_value': 'Brian Schmidt '}}}
+254: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Brian Schmidt ', 'old_value': 'Varshith '}}}
+255: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Varshith ', 'old_value': 'Brian Schmidt '}}}
+283: {'values_changed': {"root['chancellor']": {'new_value': 'Julie Bishop', 'old_value': 'Joshua Goldsmith'}, "root['vice_chancellor']": {'new_value': 'Brian Schmidt ', 'old_value': 'David Caplan '}}}
+284: {'values_changed': {"root['name']": {'new_value': 'Australian National University', 'old_value': "Hi Fard I'm At The Darts"}}}
+285: {'values_changed': {"root['name']": {'new_value': "Hi Fard I'm At The Darts", 'old_value': 'Australian National University'}, "root['chancellor']": {'new_value': 'Joshua Goldsmith', 'old_value': 'Julie Bishop'}, "root['vice_chancellor']": {'new_value': 'David Caplan ', 'old_value': 'Brian Schmidt '}}}
+300: {'dictionary_item_added': {"root['staff']": '3,753'}, 'dictionary_item_removed': {"root['administrative_staff']": '3,753'}}

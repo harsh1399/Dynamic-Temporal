@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": "Massey University, ''Te Kunenga ki Pūrehuroa''", "root['chancellor']": 'Dr Russell Ballard', "root['vice_chancellor']": 'Hon. Steve Maharey', "root['students']": '33,904 ', "root['campus']": 'Urban'}}
+51: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Russell Ballard', 'old_value': 'Chris Kelly '}}}
+88: {'dictionary_item_removed': {"root['affiliations']": 'ASAIHL'}}
+96: {'dictionary_item_added': {"root['affiliations']": 'ASAIHL'}, 'values_changed': {"root['chancellor']": {'new_value': 'Chris Kelly ', 'old_value': 'Michael Ahie '}}}
+106: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Hon. Steve Maharey', 'old_value': 'Jan Thomas'}}}
+149: {'dictionary_item_added': {"root['campus']": 'Urban'}, 'values_changed': {"root['name']": {'new_value': "Massey University, ''Te Kunenga ki Pūrehuroa''", 'old_value': 'Massey University'}, "root['students']": {'new_value': '33,904 ', 'old_value': '30,883 (2017)'}}}

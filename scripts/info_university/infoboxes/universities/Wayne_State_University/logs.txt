@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wayne State University', "root['endowment']": '$394.5 million (2019)', "root['academic_affiliations']": ['APLU', 'URA', 'URC', 'GCU', 'CUSU'], "root['president']": 'M. Roy Wilson', "root['provost']": 'Keith E. Whitfield', "root['students']": '26,844', "root['faculty']": '2,544'}}
+1: {'values_changed': {"root['students']": {'new_value': '26,844', 'old_value': '26,251'}}}
+5: {'values_changed': {"root['endowment']": {'new_value': '$394.5 million (2019)', 'old_value': '$401.6 million (2020)'}}}
+8: {'iterable_item_added': {"root['academic_affiliations'][0]": 'APLU'}}
+14: {'values_changed': {"root['provost']": {'new_value': 'Keith E. Whitfield', 'old_value': 'Mark Kornbluh'}}}
+16: {'dictionary_item_removed': {"root['campus']": 'Urban, '}}
+26: {'values_changed': {"root['students']": {'new_value': '26,251', 'old_value': '24,931'}, "root['faculty']": {'new_value': '2,544', 'old_value': '2,312'}}}
+41: {'dictionary_item_removed': {"root['free_label1']": 'Newspaper', "root['free1']": "''The South End''", "root['free_label2']": 'Other campuses', "root['free2']": ['Clinton Township', 'Farmington Hills', 'Jackson', 'Livonia', 'Warren']}, 'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City,   '}}}
+48: {'values_changed': {"root['endowment']": {'new_value': '$401.6 million (2020)', 'old_value': '$519.2 million (2021)'}}}
+140: {'dictionary_item_added': {"root['free_label2']": 'Other campuses', "root['free2']": ['Clinton Township', 'Farmington Hills', 'Jackson', 'Livonia', 'Warren']}, 'dictionary_item_removed': {"root['undergrad']": '16,851 (2021)', "root['postgrad']": '8,080 (2021)', "root['administrative_staff']": '4,512'}, 'values_changed': {"root['endowment']": {'new_value': '$519.2 million (2021)', 'old_value': '$519.92 million (2021)'}, "root['students']": {'new_value': '24,931', 'old_value': '24,931 (2021) '}}}
+148: {'dictionary_item_removed': {"root['former_names']": 'Detroit Medical College (1868–1933) Detroit Normal Training School for Teachers (1881–1920) Detroit Teachers College (1920–1924) College of the City of Detroit (1924–1933) Detroit Junior College (1917–1933) Detroit City Law School (1927–1933) Wayne University (1933–1956)'}}

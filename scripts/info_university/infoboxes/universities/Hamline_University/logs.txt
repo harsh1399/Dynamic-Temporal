@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hamline University', "root['head']": 'Linda N. Hanson', "root['undergrad']": '2,100 ', "root['postgrad']": '2,800', "root['faculty']": '185 full time, 297 part time', "root['campus']": 'Urban (residential),,  '}}
+24: {'values_changed': {"root['head']": {'new_value': 'Linda N. Hanson', 'old_value': 'Dr. Fayneese Miller'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Hamline University', 'old_value': 'Heilman University'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'Heilman University', 'old_value': 'Hamline University'}}}
+96: {'values_changed': {"root['head']": {'new_value': 'Dr. Fayneese Miller', 'old_value': 'Fayneese Miller'}, "root['undergrad']": {'new_value': '2,100 ', 'old_value': '2,117  (2017)'}, "root['postgrad']": {'new_value': '2,800', 'old_value': '1,668  (2017)'}, "root['faculty']": {'new_value': '185 full time, 297 part time', 'old_value': '178 full time, 215 part time'}, "root['campus']": {'new_value': 'Urban (residential),,  ', 'old_value': 'Urban (residential),  '}}}
+108: {'dictionary_item_removed': {"root['endowment']": '$82.3 million (2016)', "root['budget']": '$122.7 million (2016)'}}
+109: {'dictionary_item_added': {"root['head']": 'Fayneese Miller'}, 'dictionary_item_removed': {"root['president']": 'Fayneese Miller'}}
+116: {'values_changed': {"root['endowment']": {'new_value': '$82.3 million (2016)', 'old_value': '$100.6 million (2019)'}}}
+128: {'values_changed': {"root['endowment']": {'new_value': '$100.6 million (2019)', 'old_value': '$100.6 million (2020)'}}}

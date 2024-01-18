@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jahangirnagar University', "root['chancellor']": 'Abdul Hamid', "root['vice_chancellor']": 'Farzana Islam', "root['head']": 'Md. Abul Hossain', "root['academic_staff']": '755 (2014)', "root['administrative_staff']": '1,700 (2014)', "root['students']": '16,781(2014)', "root['undergrad']": '10,983 (2014)', "root['postgrad']": '3,501 (2014)', "root['doctoral']": '2,274 (2014)', "root['campus']": 'Rural, 697.56 acres (2.8 km²)'}}
+137: {'values_changed': {"root['campus']": {'new_value': 'Rural, 697.56 acres (2.8 km²)', 'old_value': 'Rural, 690.56 acres (2.8 km²)'}}}
+138: {'values_changed': {"root['campus']": {'new_value': 'Rural, 690.56 acres (2.8 km²)', 'old_value': 'Rural, 697.56 acres (2.8 km²)'}}}
+139: {'values_changed': {"root['undergrad']": {'new_value': '10,983 (2014)', 'old_value': '10,000(2014)'}}}
+140: {'values_changed': {"root['undergrad']": {'new_value': '10,000(2014)', 'old_value': '14560(2014)'}}}
+141: {'values_changed': {"root['undergrad']": {'new_value': '14560(2014)', 'old_value': '14,560(2014)'}}}
+142: {'values_changed': {"root['undergrad']": {'new_value': '14,560(2014)', 'old_value': '11,006 (2014)'}}}
+143: {'values_changed': {"root['undergrad']": {'new_value': '11,006 (2014)', 'old_value': '14,560(2014)'}}}
+146: {'dictionary_item_added': {"root['vice_chancellor']": 'Farzana Islam'}, 'values_changed': {"root['chancellor']": {'new_value': 'Abdul Hamid', 'old_value': 'Abdul Hamid |Illegal vc = Farzana Islam'}}}
+147: {'dictionary_item_removed': {"root['vc']": 'Farzana Islam Illegal'}, 'values_changed': {"root['chancellor']": {'new_value': 'Abdul Hamid |Illegal vc = Farzana Islam', 'old_value': 'Abdul Hamid'}}}
+148: {'dictionary_item_added': {"root['vc']": 'Farzana Islam Illegal'}, 'values_changed': {"root['chancellor']": {'new_value': 'Abdul Hamid', 'old_value': 'Abdul Hamid |vice chancellor = Farzana Islam Illegal'}}}
+149: {'dictionary_item_added': {"root['head']": 'Md. Abul Hossain'}, 'values_changed': {"root['chancellor']": {'new_value': 'Abdul Hamid |vice chancellor = Farzana Islam Illegal', 'old_value': 'Abdul Hamid'}}}
+152: {'dictionary_item_removed': {"root['vice_chancellor']": 'Farzana Islam', "root['head']": 'Md. Abul Hossain'}}
+182: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farzana Islam', 'old_value': 'farhan Sadaf'}}}
+183: {'values_changed': {"root['vice_chancellor']": {'new_value': 'farhan Sadaf', 'old_value': 'Farzana Islam'}}}
+184: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farzana Islam', 'old_value': 'Farhan Sadaf'}}}
+185: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farhan Sadaf', 'old_value': 'Farzana Islam'}}}
+186: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farzana Islam', 'old_value': 'Farhan Sadaf'}}}
+187: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farhan Sadaf', 'old_value': 'Farzana Islam'}}}
+188: {'values_changed': {"root['head']": {'new_value': 'Md. Abul Hossain', 'old_value': 'Md. Amir Hossain'}}}
+232: {'values_changed': {"root['students']": {'new_value': '16,781(2014)', 'old_value': '16,781 (2014)'}, "root['undergrad']": {'new_value': '14,560(2014)', 'old_value': '14,560 (2014)'}}}
+253: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farzana Islam', 'old_value': 'https://en.m.wikipedia.org/wiki/Carmen_Lamagna Dr. Carmen Z. Lamagna'}}}
+254: {'values_changed': {"root['vice_chancellor']": {'new_value': 'https://en.m.wikipedia.org/wiki/Carmen_Lamagna Dr. Carmen Z. Lamagna', 'old_value': 'https://en.wikipedia.org/wiki/Carmen_Lamagna Dr. Carmen Z. Lamagna'}}}
+255: {'values_changed': {"root['vice_chancellor']": {'new_value': 'https://en.wikipedia.org/wiki/Carmen_Lamagna Dr. Carmen Z. Lamagna', 'old_value': 'Carmen Lamagna'}}}
+256: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Carmen Lamagna', 'old_value': 'Farzana Islam'}}}
+277: {'values_changed': {"root['vice_chancellor']": {'new_value': 'Farzana Islam', 'old_value': 'Md Nurul Alam (acting)'}}}

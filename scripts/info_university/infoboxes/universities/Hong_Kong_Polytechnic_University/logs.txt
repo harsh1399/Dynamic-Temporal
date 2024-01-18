@@ -1,0 +1,50 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hong Kong Polytechnic University', "root['image_name']": 'PolyU.svg', "root['students']": 'UGC-funded: 13,917 , Total: 28,354 http://www.polyu.edu.hk/cpa/polyu/the_university/studentgrad_e.php', "root['affiliations']": 'ASAIHL'}}
+1: {'values_changed': {"root['students']": {'new_value': 'UGC-funded: 13,917 , Total: 28,354 http://www.polyu.edu.hk/cpa/polyu/the_university/studentgrad_e.php', 'old_value': 'UGC-funded: 13,917, Total: 28,354 http://www.polyu.edu.hk/cpa/polyu/the_university/studentgrad_e.php'}}}
+10: {'dictionary_item_removed': {"root['President']": 'Dr. Timothy W. Tong'}}
+11: {'dictionary_item_added': {"root['President']": 'Dr. Timothy W. Tong'}, 'dictionary_item_removed': {"root['president']": 'Dr. Timothy W. Tong'}}
+15: {'values_changed': {"root['name']": {'new_value': 'Hong Kong Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'The Hong Kong Polytechnic University', 'old_value': 'Hong Kong Polytechnic University'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'Hong Kong Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}}}
+38: {'dictionary_item_removed': {"root['campus']": 'Urban, '}}
+50: {'values_changed': {"root['image_name']": {'new_value': 'PolyU.svg', 'old_value': 'PolyU.svg image_size       ='}}}
+81: {'dictionary_item_added': {"root['image_name']": 'PolyU.svg image_size       ='}, 'dictionary_item_removed': {"root['chancellor']": 'C Y Leung'}}
+82: {'values_changed': {"root['chancellor']": {'new_value': 'C Y Leung', 'old_value': 'Leung Chun-ying'}}}
+87: {'values_changed': {"root['students']": {'new_value': 'UGC-funded: 13,917, Total: 28,354 http://www.polyu.edu.hk/cpa/polyu/the_university/studentgrad_e.php', 'old_value': 'UGC-funded: 13,917, Total: 28,354'}}}
+108: {'dictionary_item_added': {"root['affiliations']": 'ASAIHL'}, 'values_changed': {"root['chancellor']": {'new_value': 'Leung Chun-ying', 'old_value': 'The Hon Leung Chun-ying'}, "root['students']": {'new_value': 'UGC-funded: 13,917, Total: 28,354', 'old_value': '32,676 (as at June 2014)'}}}
+110: {'dictionary_item_removed': {"root['academics']": '1,233 (as at June 2014)'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Timothy W. Tong', 'old_value': 'Prof. Timothy W. Tong'}, "root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban, total area       = 9.46 hectares |corporate colours = '}}}
+141: {'values_changed': {"root['students']": {'new_value': '32,676 (as at June 2014)', 'old_value': 'More than 32,000'}, "root['campus']": {'new_value': 'Urban, total area       = 9.46 hectares |corporate colours = ', 'old_value': 'Urban, Site area of main campus       = Around 9.46 hectares |corporate colours = '}}}
+146: {'dictionary_item_added': {"root['campus']": 'Urban, Site area of main campus       = Around 9.46 hectares |corporate colours = '}, 'values_changed': {"root['academics']": {'new_value': '1,233 (as at June 2014)', 'old_value': '1,233'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'The Hong Kong Polytechnic University', 'old_value': 'The KING KONG SMOKED FROM A BONG Polytechnic University'}}}
+158: {'values_changed': {"root['name']": {'new_value': 'The KING KONG SMOKED FROM A BONG Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}}}
+159: {'values_changed': {"root['name']": {'new_value': 'The Hong Kong Polytechnic University', 'old_value': 'The KING KONG SMOKED FROM A BONG Polytechnic University'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'The KING KONG SMOKED FROM A BONG Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}}}
+171: {'values_changed': {"root['students']": {'new_value': 'More than 32,000', 'old_value': '32,000'}}}
+172: {'dictionary_item_added': {"root['academics']": '1,233'}, 'dictionary_item_removed': {"root['faculty']": '1,233', "root['campus']": 'Urban, Around 9.46 hectares'}, 'values_changed': {"root['chancellor']": {'new_value': 'The Hon Leung Chun-ying', 'old_value': 'Chief Executive of Hong Kong,  (Current officeholder: Carrie Lam)'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'The Hong Kong Polytechnic University', 'old_value': 'Hong Kong Polytechnic University'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Hong Kong Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}}}
+188: {'values_changed': {"root['name']": {'new_value': 'The Hong Kong Polytechnic University', 'old_value': 'Hong Kong Polytechnic University'}}}
+195: {'dictionary_item_removed': {"root['chairman']": 'Chan Tze-ching'}}
+206: {'values_changed': {"root['president']": {'new_value': 'Prof. Timothy W. Tong', 'old_value': "Prof. Philip C. H. Chan (''Interim'')"}}}
+207: {'values_changed': {"root['chairman']": {'new_value': 'Chan Tze-ching', 'old_value': 'Dr Lam Tai-fai'}}}
+234: {'values_changed': {"root['chairman']": {'new_value': 'Dr Lam Tai-fai', 'old_value': 'Lam Tai-fai'}, "root['president']": {'new_value': "Prof. Philip C. H. Chan (''Interim'')", 'old_value': "Philip C. H. Chan (''Interim'')"}}}
+236: {'values_changed': {"root['campus']": {'new_value': 'Urban, Around 9.46 hectares', 'old_value': 'Urban,  ~9.46 hectares'}}}
+239: {'values_changed': {"root['president']": {'new_value': "Philip C. H. Chan (''Interim'')", 'old_value': 'Prof. Teng Jin-Guang'}}}
+241: {'dictionary_item_added': {"root['faculty']": '1,233'}, 'dictionary_item_removed': {"root['academic_staff']": '1,352 |'}, 'values_changed': {"root['name']": {'new_value': 'Hong Kong Polytechnic University', 'old_value': 'The Hong Kong Polytechnic University'}, "root['president']": {'new_value': 'Prof. Teng Jin-Guang', 'old_value': 'Teng Jin-guang'}, "root['students']": {'new_value': '32,000', 'old_value': '27,088'}, "root['campus']": {'new_value': 'Urban,  ~9.46 hectares', 'old_value': 'Urban, '}}}
+292: {'values_changed': {"root['academic_staff']": {'new_value': '1,352 |', 'old_value': '1,352<ref name'}}}
+304: {'dictionary_item_removed': {"root['provost']": 'Philip Chan '}, 'values_changed': {"root['academic_staff']": {'new_value': '1,352<ref name', 'old_value': '1,352 '}}}
+319: {'values_changed': {"root['academic_staff']": {'new_value': '1,352 ', 'old_value': '1,230 '}}}
+320: {'values_changed': {"root['students']": {'new_value': '27,088', 'old_value': '25,827'}}}
+329: {'values_changed': {"root['president']": {'new_value': 'Teng Jin-guang', 'old_value': 'Teng Jin-Guang'}, "root['provost']": {'new_value': 'Philip Chan ', 'old_value': 'Ir Professor Ping-kong Alexander Wai '}}}
+330: {'values_changed': {"root['provost']": {'new_value': 'Ir Professor Ping-kong Alexander Wai ', 'old_value': 'Ping-kong Alexander Wai '}}}
+331: {'values_changed': {"root['chairman']": {'new_value': 'Lam Tai-fai', 'old_value': 'Dr Lam Tai-fai'}, "root['president']": {'new_value': 'Teng Jin-Guang', 'old_value': 'Professor Jin-Guang Teng'}, "root['provost']": {'new_value': 'Ping-kong Alexander Wai ', 'old_value': 'Ir Professor Ping-kong Alexander Wai '}}}
+332: {'values_changed': {"root['chairman']": {'new_value': 'Dr Lam Tai-fai', 'old_value': 'Lam Tai-fai'}, "root['president']": {'new_value': 'Professor Jin-Guang Teng', 'old_value': 'Teng Jin-guang'}, "root['provost']": {'new_value': 'Ir Professor Ping-kong Alexander Wai ', 'old_value': 'Philip Chan '}}}
+333: {'values_changed': {"root['chairman']": {'new_value': 'Lam Tai-fai', 'old_value': 'Dr Lam Tai-fai'}, "root['president']": {'new_value': 'Teng Jin-guang', 'old_value': 'Professor Jin-Guang Teng'}, "root['provost']": {'new_value': 'Philip Chan ', 'old_value': 'Ir Professor Ping-kong Alexander Wai '}}}
+334: {'values_changed': {"root['chairman']": {'new_value': 'Dr Lam Tai-fai', 'old_value': 'Lam Tai-fai'}, "root['president']": {'new_value': 'Professor Jin-Guang Teng', 'old_value': 'Teng Jin-guang'}, "root['provost']": {'new_value': 'Ir Professor Ping-kong Alexander Wai ', 'old_value': 'Philip Chan '}}}
+335: {'values_changed': {"root['provost']": {'new_value': 'Philip Chan ', 'old_value': 'Ping-kong Alexander Wai '}}}
+338: {'values_changed': {"root['provost']": {'new_value': 'Ping-kong Alexander Wai ', 'old_value': 'Alexander Wai '}}}
+340: {'values_changed': {"root['provost']": {'new_value': 'Alexander Wai ', 'old_value': 'Philip Chan '}}}
+342: {'values_changed': {"root['academic_staff']": {'new_value': '1,230 ', 'old_value': '1,230<ref name'}, "root['provost']": {'new_value': 'Philip Chan ', 'old_value': 'Alexander Wai'}}}
+367: {'values_changed': {"root['provost']": {'new_value': 'Alexander Wai', 'old_value': 'Wing-tak Wong'}}}
+369: {'values_changed': {"root['chancellor']": {'new_value': 'Chief Executive of Hong Kong,  (Current officeholder: Carrie Lam)', 'old_value': "Carrie Lam ''(as Chief Executive of Hong Kong)''"}}}
+411: {'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Urban '}}}
+460: {'values_changed': {"root['provost']": {'new_value': 'Wing-tak Wong', 'old_value': 'Wing-tak Wong  vice-president = Miranda Lou , Kwok-yin Wong , Ben Young , Christopher Cha'}}}

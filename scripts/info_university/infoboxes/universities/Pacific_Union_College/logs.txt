@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pacific Union College', "root['president']": 'Heather Knight, Ph.D.', "root['campus']": 'Rural, ', "root['students']": '1500'}}
+6: {'dictionary_item_added': {"root['president']": 'Heather Knight, Ph.D.'}, 'dictionary_item_removed': {"root['head']": 'Heather Knight, Ph.D.'}}
+92: {'dictionary_item_removed': {"root['county']": 'Napa Valley'}}
+106: {'dictionary_item_added': {"root['county']": 'Napa Valley'}, 'dictionary_item_removed': {"root['image_name']": 'Pacific Union College Sign 2008.jpg', "root['president']": '| vice-president    ='}}
+107: {'dictionary_item_removed': {"root['former_names']": 'Healdsburg Academy, Healdsburg College'}}
+108: {'dictionary_item_removed': {"root['sports']": 'Basketball, Cross-country, soccer, volleyball'}}
+147: {'values_changed': {"root['sports']": {'new_value': 'Basketball, Cross-country, soccer, volleyball', 'old_value': 'Basketball, cross-country, soccer, volleyball'}}}
+154: {'values_changed': {"root['campus']": {'new_value': 'Rural, ', 'old_value': 'Rural'}}}
+232: {'values_changed': {"root['students']": {'new_value': '1500', 'old_value': '1,527 '}}}
+255: {'values_changed': {"root['image_name']": {'new_value': 'Pacific Union College Sign 2008.jpg', 'old_value': 'PUC campanile.jpg'}}}
+270: {'values_changed': {"root['students']": {'new_value': '1,527 ', 'old_value': '1,567 '}}}
+315: {'dictionary_item_added': {"root['head']": 'Heather Knight, Ph.D.'}, 'dictionary_item_removed': {"root['athletics']": 'NAIA – Cal-Pac', "root['affiliations']": 'NAICU  , CIC'}, 'values_changed': {"root['image_name']": {'new_value': 'PUC campanile.jpg', 'old_value': 'Seal of PUC.jpeg'}, "root['president']": {'new_value': '| vice-president    =', 'old_value': 'Heather Knight, Ph.D. | vice-president    ='}, "root['students']": {'new_value': '1,567 ', 'old_value': '1,605 '}, "root['sports']": {'new_value': 'Basketball, cross-country, soccer, volleyball', 'old_value': '6 varsity sports teams'}}}
+316: {'dictionary_item_added': {"root['affiliations']": 'NAICU  , CIC'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Adventist Christian'}}
+366: {'dictionary_item_removed': {"root['affiliations']": 'NAICU  , CIC'}}
+388: {'dictionary_item_added': {"root['affiliations']": 'NAICU  , CIC'}, 'values_changed': {"root['president']": {'new_value': 'Heather Knight, Ph.D. | vice-president    =', 'old_value': 'Bob Cushman, Ph.D.   | vice-president    ='}, "root['former_names']": {'new_value': 'Healdsburg Academy, Healdsburg College', 'old_value': 'Healdsburg Academy Healdsburg College'}}}
+394: {'dictionary_item_removed': {"root['affiliations']": 'NAICU   CIC'}, 'values_changed': {"root['president']": {'new_value': 'Bob Cushman, Ph.D.   | vice-president    =', 'old_value': 'Ralph Trecartin   | vice-president    ='}}}
+397: {'dictionary_item_added': {"root['image_name']": 'Seal of PUC.jpeg', "root['athletics']": 'NAIA – Cal-Pac', "root['sports']": '6 varsity sports teams', "root['affiliations']": 'NAICU   CIC'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NAIA – Cal-Pac', "root['academic_affiliations']": 'NAICU   CIC'}}
+413: {'values_changed': {"root['former_names']": {'new_value': 'Healdsburg Academy Healdsburg College', 'old_value': 'Healdsburg Academy (1882–1899) Healdsburg College (1899–1906)'}, "root['athletics_affiliations']": {'new_value': 'NAIA – Cal-Pac', 'old_value': 'NAIA – Cal Pac'}}}

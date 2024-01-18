@@ -1,0 +1,12 @@
+141: {'dictionary_item_removed': {"root['name']": 'Columbus State University', "root['image_name']": 'Columbus State University seal.png', "root['endowment']": '$62.6 million (2017)', "root['president']": 'Dr. Chris Markwood', "root['provost']": 'Dr. Deborah Bordelon', "root['students']": '7,348 (Fall 2018)', "root['doctoral']": '39', "root['campus']": 'Suburban, 132 acres (Main campus); Urban (RiverPark campus)', "root['former_names']": 'Columbus College', "root['athletics']": 'NCAA Division II – Peach Belt Conference', "root['faculty']": '300', "root['staff']": '495'}}
+165: {'values_changed': {"root['students']": {'new_value': '7,348 (Fall 2018)', 'old_value': '7,600 (Fall 2018)'}}}
+166: {'values_changed': {"root['students']": {'new_value': '7,600 (Fall 2018)', 'old_value': '6,800 (Fall 2019)'}}}
+167: {'values_changed': {"root['students']": {'new_value': '6,800 (Fall 2019)', 'old_value': '7,348 (Fall 2018)'}}}
+169: {'values_changed': {"root['students']": {'new_value': '7,348 (Fall 2018)', 'old_value': '7,877 (Fall 2019)'}}}
+180: {'dictionary_item_added': {"root['doctoral']": '39'}, 'values_changed': {"root['endowment']": {'new_value': '$62.6 million (2017)', 'old_value': '$69.5 million (2019)'}, "root['president']": {'new_value': 'Dr. Chris Markwood', 'old_value': 'Chris Markwood'}, "root['provost']": {'new_value': 'Dr. Deborah Bordelon', 'old_value': 'Deborah Bordelon'}}}
+181: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+182: {'values_changed': {"root['students']": {'new_value': '7,877 (Fall 2019)', 'old_value': '7,687 (Fall 2020)'}}}
+183: {'values_changed': {"root['students']": {'new_value': '7,687 (Fall 2020)', 'old_value': '7,877 (Fall 2019)'}}}
+192: {'values_changed': {"root['endowment']": {'new_value': '$69.5 million (2019)', 'old_value': '$70.7 million (2020)'}}}
+198: {'dictionary_item_added': {"root['staff']": '495'}, 'dictionary_item_removed': {"root['administrative_staff']": '495'}}
+201: {'dictionary_item_added': {"root['image_name']": 'Columbus State University seal.png', "root['athletics']": 'NCAA Division II – Peach Belt Conference'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division II – Peach Belt Conference'}}

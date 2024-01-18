@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Redlands', "root['faculty']": '204 full-time; 100 adjunct', "root['president']": 'Stuart Dorsey', "root['students']": '2400 under and post-grad', "root['campus']": 'Suburban, ', "root['affiliations']": 'None'}}
+1: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III, Southern California Intercollegiate Athletic Conference'}}
+4: {'values_changed': {"root['students']": {'new_value': '2400 under and post-grad', 'old_value': '4500 under and post-grad'}}}
+10: {'dictionary_item_removed': {"root['endowment']": '$106.3 million'}}
+12: {'values_changed': {"root['president']": {'new_value': 'Stuart Dorsey', 'old_value': 'Open'}}}
+15: {'values_changed': {"root['president']": {'new_value': 'Open', 'old_value': 'James R. Appleton'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'University of Redlands', 'old_value': 'University of Faggots'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'University of Faggots', 'old_value': 'University of Redlands'}}}
+65: {'values_changed': {"root['president']": {'new_value': 'James R. Appleton', 'old_value': 'Ralph W. Kuncl'}, "root['endowment']": {'new_value': '$106.3 million', 'old_value': '$103.8 million'}, "root['students']": {'new_value': '4500 under and post-grad', 'old_value': '4500 under and post-graduate'}, "root['campus']": {'new_value': 'Suburban, ', 'old_value': 'Suburban, 160 acres (65 ha)'}, "root['affiliations']": {'new_value': 'None', 'old_value': 'NAICU  , CIC'}, "root['athletics']": {'new_value': 'NCAA Division III, Southern California Intercollegiate Athletic Conference', 'old_value': 'NCAA Division III SCIAC'}}}
+94: {'dictionary_item_added': {"root['athletics']": 'NCAA Division III SCIAC'}, 'values_changed': {"root['president']": {'new_value': 'Ralph W. Kuncl', 'old_value': 'Ralph Kuncl'}, "root['endowment']": {'new_value': '$103.8 million', 'old_value': '$152.9 million'}, "root['affiliations']": {'new_value': 'NAICU  , CIC', 'old_value': 'NAICU   CIC'}}}
+98: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III SCIAC'}, 'values_changed': {"root['endowment']": {'new_value': '$152.9 million', 'old_value': '$167.2 million'}}}
+121: {'values_changed': {"root['students']": {'new_value': '4500 under and post-graduate', 'old_value': '2400 undergraduate and  100 post-graduate students'}}}
+122: {'values_changed': {"root['endowment']": {'new_value': '$167.2 million', 'old_value': '$700 million'}}}
+123: {'values_changed': {"root['endowment']": {'new_value': '$700 million', 'old_value': '$167.2 million'}}}
+124: {'values_changed': {"root['students']": {'new_value': '2400 undergraduate and  100 post-graduate students', 'old_value': '3100 undergraduate and 1800 post-graduate students'}}}
+131: {'dictionary_item_removed': {"root['undergrad']": '3130', "root['postgrad']": '1768'}, 'values_changed': {"root['students']": {'new_value': '3100 undergraduate and 1800 post-graduate students', 'old_value': '4898 '}}}
+168: {'values_changed': {"root['endowment']": {'new_value': '$167.2 million', 'old_value': '$182.3 million (2019)'}}}
+177: {'values_changed': {"root['endowment']": {'new_value': '$182.3 million (2019)', 'old_value': '$212.5 million (2020)'}}}
+182: {'values_changed': {"root['president']": {'new_value': 'Ralph Kuncl', 'old_value': 'Krista L. Newkirk'}}}

@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Scripps College', "root['head']": 'Lori Bettison-Varga', "root['students']": '1,009', "root['undergrad']": '990 (2013) ', "root['postgrad']": '19 (2013)', "root['postgrad_label']": 'postbaccalaureate premedical', "root['faculty']": '112 (75% full-time)  ', "root['faculty_label']": 'ratio', "root['campus']": 'Suburban, ', "root['endowment']": '$282.3 million (2013)'}}
+3: {'values_changed': {"root['endowment']": {'new_value': '$282.3 million (2013)', 'old_value': '$310.5 million (2014)'}}}
+119: {'dictionary_item_added': {"root['postgrad_label']": 'postbaccalaureate premedical', "root['faculty_label']": 'ratio'}, 'values_changed': {"root['endowment']": {'new_value': '$310.5 million (2014)', 'old_value': '$305.3 million (2015)'}}}
+124: {'values_changed': {"root['head']": {'new_value': 'Lori Bettison-Varga', 'old_value': 'Amy Marcus-Newhall (interim)'}}}
+128: {'dictionary_item_removed': {"root['affiliations']": 'Claremont Colleges, NAICU'}}
+129: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division III – SCIAC'}}
+130: {'values_changed': {"root['affiliations']": {'new_value': 'Claremont Colleges, NAICU', 'old_value': 'Claremont Colleges, NAICU  , CLAC, Annapolis Group'}}}
+134: {'values_changed': {"root['students']": {'new_value': '1,009', 'old_value': '989 (2015)'}, "root['undergrad']": {'new_value': '990 (2013) ', 'old_value': '973 (2015) '}, "root['postgrad']": {'new_value': '19 (2013)', 'old_value': '16 (2015)'}, "root['faculty']": {'new_value': '112 (75% full-time)  ', 'old_value': '122 (88 full-time)(2015)'}}}
+139: {'values_changed': {"root['head']": {'new_value': 'Amy Marcus-Newhall (interim)', 'old_value': 'Lara Tiedens'}}}
+147: {'values_changed': {"root['endowment']": {'new_value': '$305.3 million (2015)', 'old_value': '$295.8 million (2016)'}}}
+148: {'values_changed': {"root['endowment']": {'new_value': '$295.8 million (2016)', 'old_value': '$343.2 million'}}}
+170: {'values_changed': {"root['endowment']": {'new_value': '$343.2 million', 'old_value': '$343.2 million   | budget $83 million'}}}
+171: {'dictionary_item_removed': {"root['budget']": '$83 million'}, 'values_changed': {"root['endowment']": {'new_value': '$343.2 million   | budget $83 million', 'old_value': '$343.2 million'}}}
+203: {'values_changed': {"root['endowment']": {'new_value': '$343.2 million', 'old_value': '$362.0 million (2018)'}}}
+228: {'values_changed': {"root['endowment']": {'new_value': '$362.0 million (2018)', 'old_value': '$375.6 million (2019)'}}}
+231: {'values_changed': {"root['students']": {'new_value': '989 (2015)', 'old_value': '1,109 (2019) '}, "root['undergrad']": {'new_value': '973 (2015) ', 'old_value': '1,089 (2019)'}, "root['postgrad']": {'new_value': '16 (2015)', 'old_value': '20 (2019)'}, "root['faculty']": {'new_value': '122 (88 full-time)(2015)', 'old_value': '136 (102 full-time)(2019)'}}}
+292: {'values_changed': {"root['endowment']": {'new_value': '$375.6 million (2019)', 'old_value': '$374.9 million (2020)'}}}
+333: {'values_changed': {"root['head']": {'new_value': 'Lara Tiedens', 'old_value': 'Amy Marcus-Newhall (interim)'}}}

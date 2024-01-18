@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Dhaka Medical College and Hospital', "root['principal']": 'Khan Abul Kalam Azad', "root['director']": 'Brig. Gen. Mohammad Mizanur Rahman', "root['administrative_staff']": '3,406', "root['students']": '1,050', "root['postgrad']": '900 (2009)'}}
+18: {'values_changed': {"root['director']": {'new_value': 'Brig. Gen. Mohammad Mizanur Rahman', 'old_value': 'Brig. Gen. Mohammad Nasir Uddin.'}}}
+20: {'values_changed': {"root['director']": {'new_value': 'Brig. Gen. Mohammad Nasir Uddin.', 'old_value': 'Brig. Gen. Mohammad Nasir Uddin |'}}}
+93: {'dictionary_item_added': {"root['students']": '1,050'}, 'dictionary_item_removed': {"root['undergrad']": '1136 (2020)'}, 'values_changed': {"root['postgrad']": {'new_value': '900 (2009)', 'old_value': '877 ( 2020)'}}}
+97: {'dictionary_item_removed': {"root['coor']": 'Secretariat Rd'}}
+105: {'dictionary_item_added': {"root['administrative_staff']": '3,406'}, 'values_changed': {"root['director']": {'new_value': 'Brig. Gen. Mohammad Nasir Uddin |', 'old_value': 'Colonel Nazmul Haque'}}}
+107: {'values_changed': {"root['undergrad']": {'new_value': '1136 (2020)', 'old_value': '1008 (2020)'}, "root['postgrad']": {'new_value': '877 ( 2020)', 'old_value': '877 (2020)'}}}
+110: {'dictionary_item_added': {"root['coor']": 'Secretariat Rd'}, 'values_changed': {"root['name']": {'new_value': 'Dhaka Medical College and Hospital', 'old_value': 'Dhaka Medical College Hospital'}, "root['principal']": {'new_value': 'Khan Abul Kalam Azad', 'old_value': 'Prof. Khan Abul Kalam Azad'}}}
+112: {'values_changed': {"root['name']": {'new_value': 'Dhaka Medical College Hospital', 'old_value': 'Dhaka Medical College'}}}
+113: {'values_changed': {"root['name']": {'new_value': 'Dhaka Medical College', 'old_value': 'Dhaka Medical College and Hospital'}}}
+137: {'values_changed': {"root['director']": {'new_value': 'Colonel Nazmul Haque', 'old_value': 'Brig. Gen. AKM Nasir Uddin'}}}
+139: {'values_changed': {"root['director']": {'new_value': 'Brig. Gen. AKM Nasir Uddin', 'old_value': 'Colonel Nazmul Haque'}}}
+140: {'dictionary_item_removed': {"root['campus']": 'Urban ,  '}, 'values_changed': {"root['director']": {'new_value': 'Colonel Nazmul Haque', 'old_value': 'Brig. Gen. A K M Nasir Uddin'}}}
+172: {'dictionary_item_added': {"root['director']": 'Brig. Gen. A K M Nasir Uddin', "root['campus']": 'Urban ,  '}, 'dictionary_item_removed': {"root['head']": 'Colonel Nazmul Haque'}, 'values_changed': {"root['name']": {'new_value': 'Dhaka Medical College and Hospital', 'old_value': 'Dhaka Medical College'}}}
+243: {'values_changed': {"root['head']": {'new_value': 'Colonel Nazmul Haque', 'old_value': 'Brig. Gen. Md. Nazmul Haque'}}}
+244: {'values_changed': {"root['head']": {'new_value': 'Brig. Gen. Md. Nazmul Haque', 'old_value': 'Brig. Gen. Md. Nazmul Haque  '}}}
+252: {'values_changed': {"root['principal']": {'new_value': 'Prof. Khan Abul Kalam Azad', 'old_value': 'Prof. Md. Titu Miah'}}}
+305: {'values_changed': {"root['principal']": {'new_value': 'Prof. Md. Titu Miah', 'old_value': 'Md. Titu Miah'}}}
+333: {'values_changed': {"root['principal']": {'new_value': 'Md. Titu Miah', 'old_value': 'Titu Miah'}}}

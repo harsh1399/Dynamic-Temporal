@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Huddersfield', "root['endowment']": '£2.47 m  (2015)', "root['chancellor']": 'Vacant – previously The Duke of York (resigned Nov 2019)', "root['vice_chancellor']": 'Bob Cryan', "root['campus']": 'Semi-urban', "root['colours']": 'Blue  ', "root['image_name']": 'University of Huddersfield new logo December 2013.jpg', "root['staff']": '1,100 academic,  900 support', "root['affiliations']": 'University Alliance, Association of Commonwealth Universities, Universities UK'}}
+43: {'dictionary_item_added': {"root['colours']": 'Blue  '}, 'values_changed': {"root['chancellor']": {'new_value': 'Vacant – previously The Duke of York (resigned Nov 2019)', 'old_value': 'George W. Buckley'}}}
+58: {'values_changed': {"root['endowment']": {'new_value': '£2.47 m  (2015)', 'old_value': '£2.47 million (2015)'}}}
+68: {'values_changed': {"root['affiliations']": {'new_value': 'University Alliance, Association of Commonwealth Universities, Universities UK', 'old_value': 'University Alliance Association of Commonwealth Universities Universities UK'}}}
+69: {'dictionary_item_added': {"root['staff']": '1,100 academic,  900 support'}, 'dictionary_item_removed': {"root['administrative_staff']": '1,100 academic,  900 support'}}
+82: {'values_changed': {"root['image_name']": {'new_value': 'University of Huddersfield new logo December 2013.jpg', 'old_value': 'University of Huddersfield logo.svg'}}}
+88: {'values_changed': {"root['image_name']": {'new_value': 'University of Huddersfield logo.svg', 'old_value': 'University of Huddersfield coat of arms.png'}}}
+100: {'dictionary_item_removed': {"root['budget']": '£181.3 million(2021-22) '}, 'values_changed': {"root['endowment']": {'new_value': '£2.47 million (2015)', 'old_value': '£2.71 million (2022)'}}}
+101: {'values_changed': {"root['budget']": {'new_value': '£181.3 million(2021-22) ', 'old_value': '£181.3 million (2021-22) '}}}

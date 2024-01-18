@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Manhattan College', "root['endowment']": '$46 million', "root['president']": "Dr. Brennan O'Donnell", "root['undergrad']": '2,600', "root['postgrad']": '400', "root['campus']": 'Urban'}}
+2: {'values_changed': {"root['endowment']": {'new_value': '$46 million', 'old_value': '$55.8 million'}}}
+68: {'values_changed': {"root['undergrad']": {'new_value': '2,600', 'old_value': '4000'}}}
+78: {'dictionary_item_removed': {"root['provost']": 'Dr. William Clyde'}}
+94: {'values_changed': {"root['undergrad']": {'new_value': '4000', 'old_value': '2900'}, "root['postgrad']": {'new_value': '400', 'old_value': '600'}}}
+126: {'values_changed': {"root['endowment']": {'new_value': '$55.8 million', 'old_value': '$56.9 million (2012)'}}}
+143: {'values_changed': {"root['undergrad']": {'new_value': '2900', 'old_value': '2900  http://www.manhattan.edu/admissions/facts-figures'}}}
+151: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division I – MAAC', "root['affiliations']": 'ACCU, NAICU, Annapolis Group, CLAC, Oberlin Group'}, 'values_changed': {"root['endowment']": {'new_value': '$56.9 million (2012)', 'old_value': '$71.8 million (2014)'}, "root['president']": {'new_value': "Dr. Brennan O'Donnell", 'old_value': "Brennan O'Donnell"}, "root['provost']": {'new_value': 'Dr. William Clyde', 'old_value': 'William Clyde'}, "root['undergrad']": {'new_value': '2900  http://www.manhattan.edu/admissions/facts-figures', 'old_value': '3,195 http://www.manhattan.edu/admissions/facts-figures Facts & Figures'}, "root['postgrad']": {'new_value': '600', 'old_value': '480'}, "root['campus']": {'new_value': 'Urban', 'old_value': 'Urban, '}}}
+173: {'values_changed': {"root['endowment']": {'new_value': '$71.8 million (2014)', 'old_value': '$97.0 million (2018)'}, "root['undergrad']": {'new_value': '3,195 http://www.manhattan.edu/admissions/facts-figures Facts & Figures', 'old_value': '3,195 '}}}
+177: {'values_changed': {"root['endowment']": {'new_value': '$97.0 million (2018)', 'old_value': '$107.2 million (2019)'}}}
+199: {'values_changed': {"root['endowment']": {'new_value': '$107.2 million (2019)', 'old_value': '$114.9 million (2020)'}}}
+216: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – MAAC', "root['affiliations']": 'ACCU, NAICU, Annapolis Group, CLAC, Oberlin Group'}, 'dictionary_item_removed': {"root['religious_affiliation']": 'Catholic (Lasallian)', "root['athletics_affiliations']": 'NCAA Division I – MAAC', "root['academic_affiliations']": 'ACCU, NAICU, Annapolis Group, CLAC, Oberlin Group'}}
+218: {'values_changed': {"root['academic_affiliations']": {'new_value': 'ACCU, NAICU, Annapolis Group, CLAC, Oberlin Group', 'old_value': 'ACCU NAICU Annapolis Group CLAC Oberlin Group'}}}

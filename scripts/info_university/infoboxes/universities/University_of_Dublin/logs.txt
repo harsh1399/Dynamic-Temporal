@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Dublin', "root['chancellor']": 'Dr Mary Robinson', "root['alumni']": '70,300', "root['students']": '15,000 (2006)', "root['undergrad']": '(2006)', "root['postgrad']": '(2006)', "root['affiliations']": 'EUA  IUA  UI', "root['telephone']": '+353-1-896 1000 '}}
+18: {'values_changed': {"root['chancellor']": {'new_value': 'Dr Mary Robinson', 'old_value': 'Mary Robinson'}, "root['telephone']": {'new_value': '+353-1-896 1000 ', 'old_value': '+353-1-896 1000'}}}
+21: {'dictionary_item_removed': {"root['image_name']": 'Blazon University of Dublin.svg'}}
+23: {'values_changed': {"root['chancellor']": {'new_value': 'Mary Robinson', 'old_value': 'Dr. Mary Robinson'}}}
+50: {'dictionary_item_added': {"root['undergrad']": '(2006)', "root['postgrad']": '(2006)'}, 'values_changed': {"root['chancellor']": {'new_value': 'Dr. Mary Robinson', 'old_value': 'Mary Robinson'}}}
+69: {'dictionary_item_removed': {"root['undergrad']": '11,009 (2009)'}, 'values_changed': {"root['students']": {'new_value': '15,000 (2006)', 'old_value': '16,215 (2009) '}}}
+72: {'values_changed': {"root['affiliations']": {'new_value': 'EUA  IUA  UI', 'old_value': 'Coimbra Group, EUA IUA UI AMBA  CLUSTER'}}}
+73: {'dictionary_item_removed': {"root['academic_staff']": '1,404 (2011) ', "root['administrative_staff']": '1,456 (2011)'}, 'values_changed': {"root['students']": {'new_value': '16,215 (2009) ', 'old_value': '16,747 (2011) '}, "root['undergrad']": {'new_value': '11,009 (2009)', 'old_value': '11,844 (2011)'}}}
+94: {'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin.svg', 'old_value': 'Blazon University of Dublin redrawn.svg'}}}
+95: {'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin redrawn.svg', 'old_value': 'Blazon University of Dublin.svg'}}}
+96: {'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin.svg', 'old_value': 'Blazon University of Dublin redrawn.svg'}}}
+100: {'dictionary_item_removed': {"root['postgrad']": '4,903 (2011)'}}
+117: {'dictionary_item_added': {"root['alumni']": '70,300', "root['postgrad']": '4,903 (2011)'}, 'values_changed': {"root['chancellor']": {'new_value': 'Mary Robinson', 'old_value': 'Mary i love canderIreland'}}}
+118: {'dictionary_item_removed': {"root['alumni']": '70,300'}, 'values_changed': {"root['chancellor']": {'new_value': 'Mary i love canderIreland', 'old_value': 'Mary Robinson'}}}
+158: {'dictionary_item_removed': {"root['postgrad']": '4,309 (2014) |type            = Public'}, 'values_changed': {"root['academic_staff']": {'new_value': '1,404 (2011) ', 'old_value': '777 (2014) '}, "root['administrative_staff']": {'new_value': '1,456 (2011)', 'old_value': '2,097, of which 606 research staff (2014)'}, "root['students']": {'new_value': '16,747 (2011) ', 'old_value': '16,729 (2014)'}, "root['undergrad']": {'new_value': '11,844 (2011)', 'old_value': '12,420 (2014)  '}}}
+159: {'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin redrawn.svg', 'old_value': 'File:Seal of the University of Dublin.png'}}}
+160: {'values_changed': {"root['image_name']": {'new_value': 'File:Seal of the University of Dublin.png', 'old_value': 'Blazon University of Dublin redrawn.svg'}}}
+161: {'dictionary_item_removed': {"root['endowment']": '€144 million (2013) ', "root['budget']": '€268 million (2013) '}}
+174: {'dictionary_item_added': {"root['telephone']": '+353-1-896 1000'}, 'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin redrawn.svg', 'old_value': 'Seal of the University of Dublin.png'}}}
+175: {'values_changed': {"root['image_name']": {'new_value': 'Seal of the University of Dublin.png', 'old_value': 'Dublin_University_Seal.svg'}}}
+181: {'dictionary_item_removed': {"root['campus']": 'Urban '}, 'values_changed': {"root['image_name']": {'new_value': 'Dublin_University_Seal.svg', 'old_value': 'Blazon University of Dublin redrawn.svg'}}}
+204: {'dictionary_item_added': {"root['alumni']": '70,300'}, 'values_changed': {"root['undergrad']": {'new_value': '12,420 (2014)  ', 'old_value': '12,420 (2014) '}, "root['affiliations']": {'new_value': 'Coimbra Group, EUA IUA UI AMBA  CLUSTER', 'old_value': 'Coimbra Group, EUA IUA UI LERU AMBA  CLUSTER'}}}
+220: {'values_changed': {"root['chancellor']": {'new_value': 'Mary Robinson', 'old_value': 'Mary McAleese'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'University of Dublin', 'old_value': 'The University of Dublin'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'The University of Dublin', 'old_value': 'University of Dublin'}, "root['endowment']": {'new_value': '€144 million (2013) ', 'old_value': '€216 million (2019) https://www.tcd.ie/financial-services/external-assets/pdfs/Consol_Financial_Statements_1819.pdf'}, "root['budget']": {'new_value': '€268 million (2013) ', 'old_value': '€382.9 million (2019)'}}}
+237: {'values_changed': {"root['endowment']": {'new_value': '€216 million (2019) https://www.tcd.ie/financial-services/external-assets/pdfs/Consol_Financial_Statements_1819.pdf', 'old_value': '€216 million (2019) https://www.tcd.ie/financial-services/external-assets/pdfs/Consol_Financial_Statements_1819.pdf '}, "root['affiliations']": {'new_value': 'Coimbra Group, EUA IUA UI LERU AMBA  CLUSTER', 'old_value': 'Coimbra Group EUA IUA UI LERU AMBA  CLUSTER'}}}
+245: {'values_changed': {"root['image_name']": {'new_value': 'Blazon University of Dublin redrawn.svg', 'old_value': 'Senatus Universitatis Dubliniensis.svg'}}}
+246: {'values_changed': {"root['image_name']": {'new_value': 'Senatus Universitatis Dubliniensis.svg', 'old_value': 'Blazon University of Dublin redrawn.svg'}}}

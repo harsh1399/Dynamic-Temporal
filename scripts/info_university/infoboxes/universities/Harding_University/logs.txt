@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Harding University', "root['president']": 'Bruce D. McLarty', "root['provost']": 'Marty Spears', "root['students']": '5,904', "root['faculty']": '314', "root['endowment']": '$141.6 million', "root['religious_affiliation']": 'Churches of Christ', "root['campus']": 'Suburban, ', "root['coor']": '-91.72711|form'}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$141.6 million', 'old_value': '$151.4 million |'}}}
+6: {'values_changed': {"root['president']": {'new_value': 'Bruce D. McLarty', 'old_value': 'Parker'}, "root['provost']": {'new_value': 'Marty Spears', 'old_value': 'Parker'}}}
+7: {'values_changed': {"root['president']": {'new_value': 'Parker', 'old_value': 'Big Papa'}}}
+8: {'values_changed': {"root['president']": {'new_value': 'Big Papa', 'old_value': 'Parker'}}}
+9: {'values_changed': {"root['president']": {'new_value': 'Parker', 'old_value': 'Bruce D. McLarty'}, "root['provost']": {'new_value': 'Parker', 'old_value': 'Marty Spears'}}}
+62: {'values_changed': {"root['endowment']": {'new_value': '$151.4 million |', 'old_value': '$151.4 million (2019) |'}}}
+64: {'values_changed': {"root['endowment']": {'new_value': '$151.4 million (2019) |', 'old_value': '$169 million (2020)'}}}
+65: {'values_changed': {"root['students']": {'new_value': '5,904', 'old_value': '4,879'}}}
+69: {'dictionary_item_added': {"root['endowment']": '$169 million (2020)'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Churches of Christ', 'old_value': 'Christian | president = Bruce D. McLarty | provost = Marty Spears | city = Searcy | state = Arkansas | country = United States | students = 4,879 | faculty = 314 | endowment = $169 million (2020)'}}}
+70: {'dictionary_item_removed': {"root['endowment']": '$169 million (2020)'}, 'values_changed': {"root['religious_affiliation']": {'new_value': 'Christian | president = Bruce D. McLarty | provost = Marty Spears | city = Searcy | state = Arkansas | country = United States | students = 4,879 | faculty = 314 | endowment = $169 million (2020)', 'old_value': 'Churches of Christ'}}}
+71: {'values_changed': {"root['president']": {'new_value': 'Bruce D. McLarty', 'old_value': '||'}}}
+130: {'values_changed': {"root['endowment']": {'new_value': '$169 million (2020)', 'old_value': '$164.6 million (2020)'}}}
+211: {'values_changed': {"root['president']": {'new_value': '||', 'old_value': 'Dr. Michael D. Williams'}}}
+214: {'values_changed': {"root['president']": {'new_value': 'Dr. Michael D. Williams', 'old_value': '|'}}}

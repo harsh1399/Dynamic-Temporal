@@ -1,0 +1,14 @@
+28: {'dictionary_item_removed': {"root['name']": 'Monroe Community College', "root['president']": 'Anne M. Kress', "root['faculty']": '868 ', "root['staff']": '322 ', "root['students']": '18,977 ', "root['campus']": 'Suburban ', "root['sports']": 'Basketball', "root['affiliations']": 'National Junior College Athletic Association, Region III'}}
+46: {'values_changed': {"root['faculty']": {'new_value': '868 ', 'old_value': '966 '}, "root['staff']": {'new_value': '322 ', 'old_value': '601 '}}}
+52: {'dictionary_item_removed': {"root['image_name']": 'File:MCC Seal.jpg'}}
+53: {'values_changed': {"root['image_name']": {'new_value': 'File:MCC Seal.jpg', 'old_value': 'MCC Seal.jpg'}}}
+54: {'values_changed': {"root['image_name']": {'new_value': 'MCC Seal.jpg', 'old_value': 'MCCSeal.jpg'}}}
+99: {'dictionary_item_added': {"root['image_name']": 'MCCSeal.jpg'}, 'values_changed': {"root['faculty']": {'new_value': '966 ', 'old_value': '966'}, "root['students']": {'new_value': '18,977 ', 'old_value': '18,977'}}}
+100: {'dictionary_item_removed': {"root['image_name']": 'Monroe Community College Brighton Campus Logo.jpg'}, 'values_changed': {"root['name']": {'new_value': 'Monroe Community College', 'old_value': 'Monroe Community College, State University of New York'}, "root['sports']": {'new_value': 'Basketball', 'old_value': 'Basketball Soccer Baseball Hockey Lacrosse Softball Swimming Golf Volleyball'}}}
+133: {'dictionary_item_added': {"root['affiliations']": 'National Junior College Athletic Association, Region III'}, 'values_changed': {"root['students']": {'new_value': '18,977', 'old_value': '12,907'}}}
+135: {'dictionary_item_added': {"root['image_name']": 'Monroe Community College Brighton Campus Logo.jpg', "root['students']": '12,907'}, 'dictionary_item_removed': {"root['undergrad']": '12,273'}}
+144: {'values_changed': {"root['sports']": {'new_value': 'Basketball Soccer Baseball Hockey Lacrosse Softball Swimming Golf Volleyball', 'old_value': 'Basketball, soccer, baseball, hockey, lacrosse, softball swimming, golf, volleyball'}}}
+145: {'dictionary_item_removed': {"root['endowment']": '$15.4 million (2020)'}}
+149: {'dictionary_item_added': {"root['staff']": '601 '}, 'dictionary_item_removed': {"root['administrative_staff']": '601 '}}
+150: {'values_changed': {"root['president']": {'new_value': 'Anne M. Kress', 'old_value': 'Deanna R. Burt-Nanna'}}}
+153: {'dictionary_item_added': {"root['sports']": 'Basketball, soccer, baseball, hockey, lacrosse, softball swimming, golf, volleyball'}, 'values_changed': {"root['campus']": {'new_value': 'Suburban ', 'old_value': 'Suburban, '}}}

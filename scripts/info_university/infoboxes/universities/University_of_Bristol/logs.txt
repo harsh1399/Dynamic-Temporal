@@ -1,0 +1,29 @@
+63: {'dictionary_item_removed': {"root['name']": 'University of Bristol', "root['image_name']": 'Ubristol-logo.gif', "root['staff']": '5,119  ', "root['chancellor']": 'The Baroness Hale of Richmond', "root['vice_chancellor']": 'Prof Eric Thomas', "root['campus']": 'Urban', "root['students']": '23,630  ', "root['undergrad']": '15,845', "root['postgrad']": '7,785', "root['affiliations']": 'Russell Group, Coimbra Group, Worldwide Universities Network'}}
+80: {'values_changed': {"root['staff']": {'new_value': '5,119  ', 'old_value': '5,119 '}, "root['students']": {'new_value': '23,630  ', 'old_value': '23,630 '}}}
+100: {'values_changed': {"root['chancellor']": {'new_value': 'The Baroness Hale of Richmond', 'old_value': 'Baroness Hale of Richmond'}}}
+109: {'values_changed': {"root['name']": {'new_value': 'University of Bristol', 'old_value': 'Bristol University'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Bristol University', 'old_value': 'University of Bristol'}}}
+132: {'dictionary_item_added': {"root['affiliations']": 'Russell Group, Coimbra Group, Worldwide Universities Network'}, 'values_changed': {"root['chancellor']": {'new_value': 'Baroness Hale of Richmond', 'old_value': 'Baroness Hale of Richmond  '}, "root['vice_chancellor']": {'new_value': 'Prof Eric Thomas', 'old_value': 'Prof Eric Thomas '}}}
+153: {'dictionary_item_removed': {"root['endowment']": '£42m'}}
+239: {'values_changed': {"root['chancellor']": {'new_value': 'Baroness Hale of Richmond  ', 'old_value': 'Baroness Hale of Richmond '}}}
+265: {'values_changed': {"root['image_name']": {'new_value': 'Ubristol-logo.gif', 'old_value': 'Bristol_Stool_Chart.png'}}}
+266: {'values_changed': {"root['image_name']": {'new_value': 'Bristol_Stool_Chart.png', 'old_value': 'Ubristol-logo.gif'}}}
+289: {'dictionary_item_removed': {"root['head']": "The Lord President of the Council ''ex officio''"}}
+299: {'values_changed': {"root['students']": {'new_value': '23,630 ', 'old_value': '17,244 (2006)'}, "root['undergrad']": {'new_value': '15,845', 'old_value': '11,795 (2006)'}, "root['postgrad']": {'new_value': '7,785', 'old_value': '5,449 (2006)'}}}
+300: {'values_changed': {"root['staff']": {'new_value': '5,119 ', 'old_value': '5,119 (2006) '}}}
+301: {'values_changed': {"root['students']": {'new_value': '17,244 (2006)', 'old_value': '23,630 '}, "root['undergrad']": {'new_value': '11,795 (2006)', 'old_value': '15,845'}, "root['postgrad']": {'new_value': '5,449 (2006)', 'old_value': '7,785'}}}
+311: {'values_changed': {"root['endowment']": {'new_value': '£42m', 'old_value': '£43,192,000'}}}
+325: {'values_changed': {"root['endowment']": {'new_value': '£43,192,000', 'old_value': '£43.2 million'}}}
+396: {'dictionary_item_added': {"root['students']": '23,630 ', "root['undergrad']": '15,845', "root['postgrad']": '7,785'}, 'dictionary_item_removed': {"root['budget']": '£642.7 million ', "root['affiliations']": 'Russell Group  Coimbra Group  Worldwide Universities Network Universities UK, PEGASUS SETsquared GW4   Sutton 13   EUA '}, 'values_changed': {"root['image_name']": {'new_value': 'Ubristol-logo.gif', 'old_value': 'Arms of the University of Bristol.svg'}, "root['endowment']": {'new_value': '£43.2 million', 'old_value': '£72.2m '}, "root['staff']": {'new_value': '5,119 (2006) ', 'old_value': '6,199 '}, "root['chancellor']": {'new_value': 'Baroness Hale of Richmond ', 'old_value': 'Sir Paul Nurse '}, "root['vice_chancellor']": {'new_value': 'Prof Eric Thomas ', 'old_value': 'Hugh Brady'}}}
+409: {'values_changed': {"root['endowment']": {'new_value': '£72.2m ', 'old_value': '£78.7m '}, "root['budget']": {'new_value': '£642.7 million ', 'old_value': '£682.9 million '}}}
+435: {'values_changed': {"root['endowment']": {'new_value': '£78.7m ', 'old_value': '£78.7 million (2020)'}, "root['budget']": {'new_value': '£682.9 million ', 'old_value': '£682.9 million (2019–20)'}}}
+460: {'dictionary_item_added': {"root['staff']": '6,199 '}, 'dictionary_item_removed': {"root['academic_staff']": '1552'}}
+461: {'values_changed': {"root['academic_staff']": {'new_value': '1552', 'old_value': '1924 (2021) http://www.bristol.ac.uk/university/facts/ '}}}
+462: {'values_changed': {"root['academic_staff']": {'new_value': '1924 (2021) http://www.bristol.ac.uk/university/facts/ ', 'old_value': '1924 (2021)'}}}
+463: {'values_changed': {"root['academic_staff']": {'new_value': '1924 (2021)', 'old_value': '5,370 (2020) - including academic atypical staff'}}}
+468: {'values_changed': {"root['academic_staff']": {'new_value': '5,370 (2020) - including academic atypical staff', 'old_value': '3,385 (2020)'}}}
+495: {'values_changed': {"root['endowment']": {'new_value': '£78.7 million (2020)', 'old_value': '£91.3 million (2021)'}, "root['budget']": {'new_value': '£682.9 million (2019–20)', 'old_value': '£752.0 million (2020–21)'}}}
+509: {'values_changed': {"root['chancellor']": {'new_value': 'Sir Paul Nurse ', 'old_value': 'Paul Nurse '}}}
+543: {'values_changed': {"root['image_name']": {'new_value': 'Arms of the University of Bristol.svg', 'old_value': 'University of Bristol Arms.svg'}}}
+544: {'values_changed': {"root['image_name']": {'new_value': 'University of Bristol Arms.svg', 'old_value': 'File:Shield_of_the_University_of_Bristol.svg'}}}
+558: {'values_changed': {"root['head']": {'new_value': "The Lord President of the Council ''ex officio''", 'old_value': 'Rt Hon. Penny Mordaunt MP '}}}

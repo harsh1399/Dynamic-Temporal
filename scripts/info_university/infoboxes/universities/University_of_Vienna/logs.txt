@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Vienna', "root['image_name']": 'File:Uni wien siegel.svg.png', "root['budget']": '€ 544 million', "root['head']": 'Heinz Engl', "root['faculty']": '6,765', "root['staff']": '3,106', "root['students']": '91,715 ', "root['postgrad']": '16,490', "root['doctoral']": '8,945', "root['campus']": 'Urban'}}
+18: {'values_changed': {"root['image_name']": {'new_value': 'File:Uni wien siegel.svg.png', 'old_value': 'Seal of the University of Vienna.svg'}}}
+23: {'dictionary_item_added': {"root['staff']": '3,106'}, 'dictionary_item_removed': {"root['administrative_staff']": '3,106'}}
+46: {'values_changed': {"root['head']": {'new_value': 'Heinz Engl', 'old_value': 'Sebastian Schütze'}}}
+47: {'values_changed': {"root['faculty']": {'new_value': '6,765', 'old_value': '7,538'}, "root['administrative_staff']": {'new_value': '3,106', 'old_value': '3,043'}}}

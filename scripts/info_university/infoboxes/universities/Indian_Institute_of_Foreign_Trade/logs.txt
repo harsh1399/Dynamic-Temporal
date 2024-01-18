@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indian Institute of Foreign Trade', "root['image_name']": 'Indian Institute of Foreign Trade logo.jpg', "root['endowment']": 'INR 19.50 million', "root['budget']": 'INR 32.73 million', "root['president']": '| vice-president       =', "root['director']": 'Surajit Mitra', "root['academic_staff']": '49', "root['administrative_staff']": '31', "root['campus']": 'Urban, ', "root['affiliations']": 'UGC'}}
+3: {'values_changed': {"root['director']": {'new_value': 'Surajit Mitra', 'old_value': 'Ajay Kumar Bhalla'}}}
+50: {'dictionary_item_added': {"root['endowment']": 'INR 19.50 million', "root['budget']": 'INR 32.73 million'}, 'values_changed': {"root['director']": {'new_value': 'Ajay Kumar Bhalla', 'old_value': 'Manoj Pant'}}}
+54: {'dictionary_item_added': {"root['academic_staff']": '49', "root['administrative_staff']": '31'}, 'values_changed': {"root['director']": {'new_value': 'Manoj Pant', 'old_value': 'Prof. Manoj Pant'}}}
+55: {'values_changed': {"root['director']": {'new_value': 'Prof. Manoj Pant', 'old_value': 'Manoj Pant'}}}
+60: {'values_changed': {"root['image_name']": {'new_value': 'Indian Institute of Foreign Trade logo.jpg', 'old_value': 'thumb'}}}
+62: {'values_changed': {"root['image_name']": {'new_value': 'thumb', 'old_value': 'IIFT Logo2.jpg'}}}
+63: {'values_changed': {"root['image_name']": {'new_value': 'IIFT Logo2.jpg', 'old_value': 'Indian Institute of Foreign Trade logo.png'}}}
+100: {'values_changed': {"root['affiliations']": {'new_value': 'UGC', 'old_value': 'UGC,  NAAC'}}}
+101: {'values_changed': {"root['affiliations']": {'new_value': 'UGC,  NAAC', 'old_value': 'UGC'}}}
+106: {'values_changed': {"root['affiliations']": {'new_value': 'UGC', 'old_value': 'UGC, NAAChttp://www.naac.gov.in/images/docs/ACCREDITATION_STATUS/Institutions-accredited-by-NAAC-whose-accreditation-period-is-valid-as-on-September-2018.xls'}}}
+107: {'values_changed': {"root['affiliations']": {'new_value': 'UGC, NAAChttp://www.naac.gov.in/images/docs/ACCREDITATION_STATUS/Institutions-accredited-by-NAAC-whose-accreditation-period-is-valid-as-on-September-2018.xls', 'old_value': 'UGC, NAAC'}}}
+129: {'values_changed': {"root['president']": {'new_value': '| vice-president       =', 'old_value': '| vic'}, "root['director']": {'new_value': 'Manoj Pant', 'old_value': 'Manoj Pant ||'}}}
+131: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president       ='}, "root['director']": {'new_value': 'Manoj Pant ||', 'old_value': 'Manoj Pant'}}}
+144: {'dictionary_item_removed': {"root['academic_staff']": '69', "root['students']": '784 ', "root['postgrad']": '650', "root['doctoral']": '134'}}
+154: {'values_changed': {"root['president']": {'new_value': '| vice-president       =', 'old_value': '| vic'}, "root['director']": {'new_value': 'Manoj Pant', 'old_value': 'Manoj Pant ||'}}}
+162: {'values_changed': {"root['president']": {'new_value': '| vic', 'old_value': '| vice-president       ='}, "root['director']": {'new_value': 'Manoj Pant ||', 'old_value': 'Manoj Pant'}}}
+163: {'values_changed': {"root['president']": {'new_value': '| vice-president       =', 'old_value': '| vic'}, "root['director']": {'new_value': 'Manoj Pant', 'old_value': 'Manoj Pant ||'}}}

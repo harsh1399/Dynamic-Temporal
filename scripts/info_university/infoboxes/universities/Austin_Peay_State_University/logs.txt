@@ -1,0 +1,19 @@
+146: {'dictionary_item_removed': {"root['staff']": '629  |', "root['faculty']": '550  |', "root['undergrad']": '9,835', "root['postgrad']": '888', "root['campus']": 'Urban, 160 acres (0.8 km²)| mascot'}}
+157: {'values_changed': {"root['undergrad']": {'new_value': '9,835', 'old_value': '10,723'}}}
+169: {'values_changed': {"root['undergrad']": {'new_value': '10,723', 'old_value': '9,835'}}}
+239: {'dictionary_item_removed': {"root['name']": 'Austin Peay State University', "root['endowment']": '$6.7 million', "root['president']": 'Timothy Hall'}, 'values_changed': {"root['staff']": {'new_value': '629  |', 'old_value': '629'}, "root['faculty']": {'new_value': '550  |', 'old_value': '550'}, "root['campus']": {'new_value': 'Urban, 160 acres (0.8 km²)| mascot', 'old_value': 'Urban, 160 acres (0.8 km²)'}}}
+242: {'values_changed': {"root['president']": {'new_value': 'Timothy Hall', 'old_value': 'Alissa White'}}}
+243: {'values_changed': {"root['president']": {'new_value': 'Alissa White', 'old_value': 'Alisa White'}}}
+249: {'values_changed': {"root['endowment']": {'new_value': '$6.7 million', 'old_value': '$22 million'}}}
+266: {'dictionary_item_removed': {"root['athletics']": 'NCAA Division 1 FCS - Ohio Valley Conference'}, 'values_changed': {"root['campus']": {'new_value': 'Urban, 160 acres (0.8 km²)', 'old_value': 'Urban, '}}}
+269: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division 1 FCS - Ohio Valley Conference', 'old_value': 'NCAA Division I - , Ohio Valley Conference'}}}
+276: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I - , Ohio Valley Conference', 'old_value': 'NCAA Division I – , Ohio Valley Conference'}}}
+284: {'values_changed': {"root['president']": {'new_value': 'Alisa White', 'old_value': 'Interim President Dannelle Whiteside'}}}
+285: {'values_changed': {"root['president']": {'new_value': 'Interim President Dannelle Whiteside', 'old_value': 'Dannelle Whiteside (interim)'}}}
+287: {'values_changed': {"root['president']": {'new_value': 'Dannelle Whiteside (interim)', 'old_value': '|'}}}
+288: {'values_changed': {"root['president']": {'new_value': '|', 'old_value': 'Dannelle Whiteside (interim)'}}}
+291: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+293: {'values_changed': {"root['president']": {'new_value': 'Dannelle Whiteside (interim)', 'old_value': 'Michael J. Licari |'}}}
+298: {'dictionary_item_added': {"root['staff']": '629'}, 'dictionary_item_removed': {"root['administrative_staff']": '629'}}
+304: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – , Ohio Valley Conference'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I – , Ohio Valley Conference'}, 'values_changed': {"root['president']": {'new_value': 'Michael J. Licari |', 'old_value': 'Michael J. Licari'}}}
+306: {'values_changed': {"root['athletics_affiliations']": {'new_value': 'NCAA Division I – , Ohio Valley Conference', 'old_value': 'NCAA Division I –  Ohio Valley Conference'}}}

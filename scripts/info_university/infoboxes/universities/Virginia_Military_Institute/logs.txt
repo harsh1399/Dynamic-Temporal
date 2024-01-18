@@ -1,0 +1,17 @@
+167: {'dictionary_item_removed': {"root['name']": 'Virginia Military Institute', "root['image_name']": 'Virginia Military Institute crest.png', "root['endowment']": '$383 million', "root['superintendent']": 'General J. H. Binford Peay III, U.S. Army (ret)', "root['students']": '1,653', "root['campus']": 'Small town, 134 acres (54.22 ha)', "root['sports']": '16 varsi', "root['athletics']": 'NCAA Division I FCS – SoCon'}}
+168: {'dictionary_item_added': {"root['sports']": '16 varsi', "root['athletics']": 'NCAA Division I FCS – SoCon'}, 'values_changed': {"root['superintendent']": {'new_value': 'General J. H. Binford Peay III, U.S. Army (ret)', 'old_value': 'Gen. J. H. Binford Peay III, U.S. Army (ret)'}, "root['campus']": {'new_value': 'Small town, 134 acres (54.22 ha)', 'old_value': 'Small town, '}}}
+183: {'values_changed': {"root['image_name']": {'new_value': 'Virginia Military Institute crest.png', 'old_value': 'Virginia Military Institute seal.svg'}, "root['superintendent']": {'new_value': 'Gen. J. H. Binford Peay III, U.S. Army (ret)', 'old_value': 'General J. H. Binford Peay III, (U.S. Army, ret.)'}}}
+260: {'values_changed': {"root['endowment']": {'new_value': '$383 million', 'old_value': '$492 million'}}}
+303: {'values_changed': {"root['students']": {'new_value': '1,653', 'old_value': '1,685'}}}
+304: {'dictionary_item_removed': {"root['faculty']": '143 full-time and 55 part-time (Fall 2019)'}}
+335: {'values_changed': {"root['endowment']": {'new_value': '$492 million', 'old_value': '$512.2 million (2019)'}}}
+341: {'values_changed': {"root['faculty']": {'new_value': '143 full-time and 55 part-time (Fall 2019)', 'old_value': '143 full-time and 55 part-time (Fall 2019) https://nces.ed.gov/collegenavigator/?q=Virginia+Military+Institute&s=all&id=234085'}, "root['students']": {'new_value': '1,685', 'old_value': '1,685 https://nces.ed.gov/collegenavigator/?q=Virginia+Military+Institute&s=all&id=234085'}}}
+390: {'values_changed': {"root['superintendent']": {'new_value': 'General J. H. Binford Peay III, (U.S. Army, ret.)', 'old_value': 'Vacant'}}}
+413: {'values_changed': {"root['superintendent']": {'new_value': 'Vacant', 'old_value': 'Cedric T. Wins (interim)'}}}
+450: {'values_changed': {"root['endowment']": {'new_value': '$512.2 million (2019)', 'old_value': '$539.6 million (2020)'}}}
+493: {'values_changed': {"root['superintendent']": {'new_value': 'Cedric T. Wins (interim)', 'old_value': 'Cedric T. Wins'}}}
+494: {'values_changed': {"root['superintendent']": {'new_value': 'Cedric T. Wins', 'old_value': 'Cedric T. Wins (interim)'}}}
+495: {'values_changed': {"root['superintendent']": {'new_value': 'Cedric T. Wins (interim)', 'old_value': 'Cedric T. Wins'}}}
+547: {'values_changed': {"root['faculty']": {'new_value': '143 full-time and 55 part-time (Fall 2019) https://nces.ed.gov/collegenavigator/?q=Virginia+Military+Institute&s=all&id=234085', 'old_value': '143 full-time and 55 part-time (Fall 2019) '}, "root['students']": {'new_value': '1,685 https://nces.ed.gov/collegenavigator/?q=Virginia+Military+Institute&s=all&id=234085', 'old_value': '1,685 '}}}
+577: {'values_changed': {"root['endowment']": {'new_value': '$539.6 million (2020)', 'old_value': '$696.8 million (2021)'}}}
+594: {'values_changed': {"root['campus']": {'new_value': 'Small town, ', 'old_value': 'Distant Town'}}}

@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['endowment']": 'US $25.8 million (2006) http://www.nacubo.org/documents/research/2006NES_Listing.pdf NACUBO', "root['staff']": '172', "root['president']": 'James E. Collins', "root['students']": '1,683 (http://www.loras.edu/explore/facts.asp)', "root['undergrad']": '1,500', "root['postgrad']": '250', "root['campus']": 'Urban', "root['affiliations']": 'Roman Catholic Church', "root['publictransit']": 'KeyLine Transit (Gray & Green Lines)', "root['telephone']": '(563) 588-7100', "root['coor']": '42.502592, -90.680984'}}
+12: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'Suburban'}}}
+13: {'values_changed': {"root['campus']": {'new_value': 'Suburban', 'old_value': 'Urban'}}}
+17: {'values_changed': {"root['campus']": {'new_value': 'Urban', 'old_value': 'suburban'}}}
+18: {'values_changed': {"root['campus']": {'new_value': 'suburban', 'old_value': 'Urban'}}}
+20: {'values_changed': {"root['endowment']": {'new_value': 'US $25.8 million (2006) http://www.nacubo.org/documents/research/2006NES_Listing.pdf NACUBO', 'old_value': 'US $25.8 million (2006)'}, "root['students']": {'new_value': '1,683 (http://www.loras.edu/explore/facts.asp)', 'old_value': '1,683'}}}
+33: {'dictionary_item_added': {"root['undergrad']": '1,500', "root['postgrad']": '250', "root['affiliations']": 'Roman Catholic Church', "root['telephone']": '(563) 588-7100', "root['coor']": '42.502592, -90.680984'}, 'dictionary_item_removed': {"root['name']": 'Loras College', "root['provost']": 'Dr. Cheryl Jacobsen', "root['fightsong']": 'Purple & Gold'}, 'values_changed': {"root['endowment']": {'new_value': 'US $25.8 million (2006)', 'old_value': '$24.3 million (2013)'}, "root['students']": {'new_value': '1,683', 'old_value': '1,600'}}}
+57: {'dictionary_item_added': {"root['fightsong']": 'Purple & Gold', "root['publictransit']": 'KeyLine Transit (Gray & Green Lines)'}, 'values_changed': {"root['endowment']": {'new_value': '$24.3 million (2013)', 'old_value': '$30.5 million + (2015)'}}}
+71: {'dictionary_item_added': {"root['provost']": 'Dr. Cheryl Jacobsen'}, 'dictionary_item_removed': {"root['chancellor']": 'Archbishop Michael Jackels'}}
+96: {'dictionary_item_removed': {"root['coor']": '-90.679|type:edu_region:US-IA|displ'}}
+109: {'values_changed': {"root['endowment']": {'new_value': '$30.5 million + (2015)', 'old_value': '$39.1 million (2018)'}}}
+123: {'values_changed': {"root['endowment']": {'new_value': '$39.1 million (2018)', 'old_value': '$41.6 million (2019)'}}}
+125: {'dictionary_item_removed': {"root['motto_eng']": "''For God And Country''", "root['religious_affiliation']": 'Archdiocese of Dubuque', "root['academic_affiliations']": 'Space-grant'}}

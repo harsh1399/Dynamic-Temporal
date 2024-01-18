@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['name']": 'American University of Beirut  الجامعة الأميركية في بيروت', "root['image_name']": 'American University of Beirut.png', "root['president']": 'Peter Dorman', "root['provost']": 'Ahmad Dallal', "root['students']": '7,572 (2008–09)', "root['undergrad']": '6,221', "root['postgrad']": '1,351', "root['staff']": '606 full-time instructional faculty', "root['campus']": "Urban, 73 acre; and AREC (Agricultural Research and Education Center), a 247-acre research farm and educational facility in the Beqa'a Valley"}}
+4: {'values_changed': {"root['president']": {'new_value': 'Peter Dorman', 'old_value': 'Emile Kordahi'}}}
+6: {'values_changed': {"root['president']": {'new_value': 'Emile Kordahi', 'old_value': 'Peter Dorman'}}}
+40: {'values_changed': {"root['president']": {'new_value': 'Peter Dorman', 'old_value': 'Michael karadsheh'}}}
+41: {'values_changed': {"root['president']": {'new_value': 'Michael karadsheh', 'old_value': 'Peter F. Dorman'}}}
+51: {'values_changed': {"root['president']": {'new_value': 'Peter F. Dorman', 'old_value': 'Peter F. Davreuv'}}}
+72: {'values_changed': {"root['image_name']": {'new_value': 'American University of Beirut.png', 'old_value': 'American University of Beirut logo.svg'}}}
+73: {'values_changed': {"root['president']": {'new_value': 'Peter F. Davreuv', 'old_value': 'Peter F. Dorman'}}}
+77: {'values_changed': {"root['president']": {'new_value': 'Peter F. Dorman', 'old_value': 'Peter F. Davreuv'}}}
+79: {'values_changed': {"root['president']": {'new_value': 'Peter F. Davreuv', 'old_value': 'Peter F. Dorman'}}}
+82: {'values_changed': {"root['president']": {'new_value': 'Peter F. Dorman', 'old_value': 'Peter F. Davreuv'}}}
+86: {'values_changed': {"root['president']": {'new_value': 'Peter F. Davreuv', 'old_value': 'Peter F. Dorman'}}}
+123: {'values_changed': {"root['students']": {'new_value': '7,572 (2008–09)', 'old_value': '7,776 (2009–10)'}, "root['undergrad']": {'new_value': '6,221', 'old_value': '6,391'}, "root['postgrad']": {'new_value': '1,351', 'old_value': '1,382'}, "root['staff']": {'new_value': '606 full-time instructional faculty', 'old_value': '717 full-time instructional faculty  .'}}}
+134: {'values_changed': {"root['staff']": {'new_value': '717 full-time instructional faculty  .', 'old_value': '717 full-time instructional faculty.'}}}
+179: {'dictionary_item_added': {"root['staff']": '717 full-time instructional faculty.'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'AACU, CGS', "root['endowment']": '$605 million', "root['faculty']": '903 full-time and 293 part-time instructional faculty. '}, 'values_changed': {"root['name']": {'new_value': 'American University of Beirut  الجامعة الأميركية في بيروت', 'old_value': 'American University of Beirut'}, "root['image_name']": {'new_value': 'American University of Beirut logo.svg', 'old_value': 'AUB_Seal_3.png'}, "root['president']": {'new_value': 'Peter F. Dorman', 'old_value': 'Fadlo R. Khuri'}, "root['provost']": {'new_value': 'Ahmad Dallal', 'old_value': 'Muhamad Harajli'}, "root['students']": {'new_value': '7,776 (2009–10)', 'old_value': '9,102 (Fall 2017) '}, "root['undergrad']": {'new_value': '6,391', 'old_value': '7,180 (Fall 2017)'}, "root['postgrad']": {'new_value': '1,382', 'old_value': '1,922 (Fall 2017)'}, "root['campus']": {'new_value': "Urban, 73 acre; and AREC (Agricultural Research and Education Center), a 247-acre research farm and educational facility in the Beqa'a Valley", 'old_value': 'Urban, '}}}
+181: {'dictionary_item_removed': {"root['administrative_staff']": '4,340'}}
+193: {'values_changed': {"root['name']": {'new_value': 'American University of Beirut', 'old_value': 'American University of Ghali'}}}
+194: {'values_changed': {"root['name']": {'new_value': 'American University of Ghali', 'old_value': 'American University of Ghali(king)'}}}
+196: {'dictionary_item_added': {"root['image_name']": 'AUB_Seal_3.png'}, 'values_changed': {"root['endowment']": {'new_value': '$605 million', 'old_value': 'billions of ghali $'}, "root['provost']": {'new_value': 'Muhamad Harajli', 'old_value': 'Muhammad Ghali'}}}
+201: {'dictionary_item_removed': {"root['image_name']": 'AUB_Seal_3.png'}, 'values_changed': {"root['name']": {'new_value': 'American University of Ghali(king)', 'old_value': 'American University of Beirut'}, "root['endowment']": {'new_value': 'billions of ghali $', 'old_value': '$605 million'}, "root['provost']": {'new_value': 'Muhammad Ghali', 'old_value': 'Muhamad Harajli'}}}
+204: {'values_changed': {"root['endowment']": {'new_value': '$605 million', 'old_value': '$3 tafraneen'}}}
+219: {'dictionary_item_added': {"root['endowment']": '$3 tafraneen'}, 'values_changed': {"root['students']": {'new_value': '9,102 (Fall 2017) ', 'old_value': '9,102 (Fall 2018) '}, "root['undergrad']": {'new_value': '7,180 (Fall 2017)', 'old_value': '7,180 (Fall 2018)'}, "root['postgrad']": {'new_value': '1,922 (Fall 2017)', 'old_value': '1,922 (Fall 2018)'}, "root['faculty']": {'new_value': '903 full-time and 293 part-time instructional faculty. ', 'old_value': '1,200 instructional faculty '}}}
+243: {'values_changed': {"root['students']": {'new_value': '9,102 (Fall 2018) ', 'old_value': '9,102 (Fall 2018)'}, "root['faculty']": {'new_value': '1,200 instructional faculty ', 'old_value': '1,200 instructional faculty'}}}
+263: {'values_changed': {"root['name']": {'new_value': 'American University of Beirut', 'old_value': 'A'}}}
+264: {'values_changed': {"root['name']": {'new_value': 'A', 'old_value': 'American University of Beirut'}}}
+269: {'values_changed': {"root['students']": {'new_value': '9,102 (Fall 2018)', 'old_value': '9,408 (2019)'}, "root['undergrad']": {'new_value': '7,180 (Fall 2018)', 'old_value': '7,782 (2019)'}, "root['postgrad']": {'new_value': '1,922 (Fall 2018)', 'old_value': '1,626 (2019)'}}}
+288: {'values_changed': {"root['academic_affiliations']": {'new_value': 'AACU, CGS', 'old_value': 'AACU CGS'}}}
+290: {'values_changed': {"root['president']": {'new_value': 'Fadlo R. Khuri', 'old_value': 'Fadlo R. Khuri, MD'}, "root['provost']": {'new_value': 'Muhamad Harajli', 'old_value': 'Muhamad Harajli, PhD'}}}
+301: {'dictionary_item_removed': {"root['free_label2']": 'Student Newspaper', "root['free2']": 'Outlook'}}
+303: {'dictionary_item_added': {"root['free2']": 'Outlook'}, 'values_changed': {"root['students']": {'new_value': '9,408 (2019)', 'old_value': '9,408 (2019) '}}}
+335: {'dictionary_item_removed': {"root['endowment']": '$768 million (2019)'}}
+397: {'dictionary_item_added': {"root['provost']": 'Muhamad Harajli, PhD'}, 'values_changed': {"root['president']": {'new_value': 'Fadlo R. Khuri, MD', 'old_value': 'Fadlo R. Khuri'}}}
+444: {'values_changed': {"root['endowment']": {'new_value': '$768 million (2019)', 'old_value': '$779.3 million (2020)'}}}
+483: {'dictionary_item_added': {"root['academic_affiliations']": 'AACU CGS'}, 'values_changed': {"root['president']": {'new_value': 'Fadlo R. Khuri', 'old_value': 'Daniel L. Bliss'}}}
+484: {'values_changed': {"root['students']": {'new_value': '9,408 (2019) ', 'old_value': '9 (2019) '}}}
+485: {'values_changed': {"root['president']": {'new_value': 'Daniel L. Bliss', 'old_value': 'Fadlo R. Khuri'}, "root['students']": {'new_value': '9 (2019) ', 'old_value': '9,408 (2019) '}}}

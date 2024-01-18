@@ -1,0 +1,43 @@
+281: {'dictionary_item_removed': {"root['name']": 'Imperial College London', "root['image_name']": 'Imperial College London crest.svg', "root['endowment']": '£141.7 million ', "root['budget']": '£983.2 million ', "root['president']": 'Alice Gast', "root['provost']": 'Ian Walmsley', "root['head']": "The Lord President of the Council ''ex officio''", "root['students']": '17,565 ', "root['undergrad']": '9,583  ', "root['postgrad']": '7,982  ', "root['faculty']": '3,765  ', "root['staff']": '3,940  ', "root['affiliations']": 'ACU AMBA EUA G5 Global Alliance of Technological Universities Golden Triangle LERU MedCity Russell Group, SES '}}
+333: {'dictionary_item_removed': {"root['colours']": 'Imperial Blue |'}}
+348: {'values_changed': {"root['endowment']": {'new_value': '£141.7 million ', 'old_value': '£157.1 million '}, "root['budget']": {'new_value': '£983.2 million ', 'old_value': '£1,027.0 million '}}}
+429: {'dictionary_item_added': {"root['students']": '17,565 ', "root['undergrad']": '9,583  ', "root['postgrad']": '7,982  ', "root['affiliations']": 'ACU AMBA EUA G5 Global Alliance of Technological Universities Golden Triangle LERU MedCity Russell Group, SES '}, 'values_changed': {"root['endowment']": {'new_value': '£157.1 million ', 'old_value': '£178.1 million '}, "root['budget']": {'new_value': '£1,027.0 million ', 'old_value': '£1.064 billion '}, "root['head']": {'new_value': "The Lord President of the Council ''ex officio''", 'old_value': 'Jacob Rees-Mogg '}, "root['colours']": {'new_value': 'Imperial Blue |', 'old_value': 'Imperial blue    '}}}
+451: {'dictionary_item_added': {"root['colours']": 'Imperial blue    '}, 'values_changed': {"root['faculty']": {'new_value': '3,765  ', 'old_value': '3,765 '}, "root['staff']": {'new_value': '3,940  ', 'old_value': '3,940 '}}}
+453: {'dictionary_item_removed': {"root['colours']": 'Imperial blue '}}
+468: {'values_changed': {"root['faculty']": {'new_value': '3,765 ', 'old_value': '4,390 '}, "root['staff']": {'new_value': '3,940 ', 'old_value': '4,075 '}}}
+469: {'values_changed': {"root['endowment']": {'new_value': '£178.1 million ', 'old_value': '£477 million '}, "root['colours']": {'new_value': 'Imperial blue ', 'old_value': 'Imperial blue'}}}
+470: {'values_changed': {"root['endowment']": {'new_value': '£477 million ', 'old_value': '£178.1 million '}, "root['colours']": {'new_value': 'Imperial blue', 'old_value': 'Imperial blue '}}}
+497: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}}
+512: {'dictionary_item_added': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}, 'values_changed': {"root['colours']": {'new_value': 'Imperial blue ', 'old_value': 'Imperial blue'}}}
+514: {'dictionary_item_added': {"root['colours']": 'Imperial blue'}, 'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}}
+515: {'dictionary_item_added': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}, 'dictionary_item_removed': {"root['colours']": 'Imperial blue'}}
+524: {'dictionary_item_added': {"root['colours']": 'Imperial blue'}, 'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}}
+526: {'dictionary_item_added': {"root['free_label2']": 'Newspaper', "root['free2']": "''Felix''"}, 'dictionary_item_removed': {"root['colours']": 'Imperial blue'}}
+577: {'values_changed': {"root['image_name']": {'new_value': 'Imperial College London crest.svg', 'old_value': 'Shield of Imperial College London.svg'}}}
+579: {'values_changed': {"root['image_name']": {'new_value': 'Shield of Imperial College London.svg', 'old_value': 'Imperial College London crest.svg'}}}
+580: {'values_changed': {"root['image_name']": {'new_value': 'Imperial College London crest.svg', 'old_value': 'Shield of Imperial College London.svg'}}}
+659: {'dictionary_item_added': {"root['colours']": 'Imperial blue'}, 'values_changed': {"root['endowment']": {'new_value': '£178.1 million ', 'old_value': '£477 million '}}}
+660: {'values_changed': {"root['endowment']": {'new_value': '£477 million ', 'old_value': '£176.0 million '}, "root['budget']": {'new_value': '£1.064 billion ', 'old_value': '£1.033 billion (excluding pension provisions) ('}}}
+674: {'values_changed': {"root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (', 'old_value': '£0.961 billion (excluding pension provisions) ('}}}
+675: {'values_changed': {"root['budget']": {'new_value': '£0.961 billion (excluding pension provisions) (', 'old_value': '£0.961 billion'}}}
+676: {'values_changed': {"root['budget']": {'new_value': '£0.961 billion', 'old_value': '£0.961 billion '}}}
+677: {'values_changed': {"root['budget']": {'new_value': '£0.961 billion ', 'old_value': '£1.033 billion (excluding pension provisions) ('}}}
+678: {'values_changed': {"root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (', 'old_value': '£1.033 billion (excluding pension provisions) '}}}
+693: {'dictionary_item_added': {"root['head']": 'Jacob Rees-Mogg '}, 'dictionary_item_removed': {"root['head_label']": 'Visitor'}}
+699: {'values_changed': {"root['endowment']": {'new_value': '£176.0 million ', 'old_value': '£176.0 million (2020) '}, "root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) ', 'old_value': '£1.033 billion (excluding pension provisions) (2019/20)'}, "root['faculty']": {'new_value': '4,390 ', 'old_value': '4,390 (2018/19)<ref name=HE'}, "root['staff']": {'new_value': '4,075 ', 'old_value': '4,075 (2016/17)'}}}
+700: {'dictionary_item_added': {"root['head_label']": 'Visitor'}, 'dictionary_item_removed': {"root['head']": 'Jacob Rees-Mogg '}}
+701: {'values_changed': {"root['head']": {'new_value': 'Jacob Rees-Mogg ', 'old_value': "Jacob Rees-Mogg (as Lord President of the Council ''ex officio'')"}}}
+732: {'dictionary_item_added': {"root['head']": "Jacob Rees-Mogg (as Lord President of the Council ''ex officio'')"}, 'values_changed': {"root['faculty']": {'new_value': '4,390 (2018/19)<ref name=HE', 'old_value': '4,620 (2020) - including academic atypic'}, "root['staff']": {'new_value': '4,075 (2016/17)', 'old_value': 'ref> https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he '}}}
+734: {'values_changed': {"root['staff']": {'new_value': 'ref> https://www.hesa.ac.uk/data-and-analysis/staff/working-in-he ', 'old_value': 'ref>'}}}
+735: {'dictionary_item_added': {"root['staff']": 'ref>'}, 'dictionary_item_removed': {"root['administrative_staff']": '4,075 (2016/17)'}, 'values_changed': {"root['faculty']": {'new_value': '4,620 (2020) - including academic atypic', 'old_value': '4,620 (2020) - including academic atypical staff'}}}
+736: {'values_changed': {"root['faculty']": {'new_value': '4,620 (2020) - including academic atypical staff', 'old_value': '4,435 (2020)'}}}
+753: {'values_changed': {"root['administrative_staff']": {'new_value': '4,075 (2016/17)', 'old_value': '4,075 (2016/17) '}}}
+769: {'values_changed': {"root['endowment']": {'new_value': '£176.0 million (2020) ', 'old_value': '£478 million (2020) '}}}
+770: {'values_changed': {"root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (2019/20)', 'old_value': '£1.033 billion (excluding pension provisions) (2019/20) '}}}
+771: {'values_changed': {"root['endowment']": {'new_value': '£478 million (2020) ', 'old_value': '£176.0 million (2020) '}, "root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (2019/20) ', 'old_value': '£1.033 billion (excluding pension provisions) (2019/20)'}}}
+784: {'values_changed': {"root['endowment']": {'new_value': '£176.0 million (2020) ', 'old_value': '£566.898 million (Q2 2021)'}}}
+785: {'values_changed': {"root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (2019/20)', 'old_value': '£1.033 billion (excluding pension provisions) (2019/20) '}}}
+787: {'values_changed': {"root['endowment']": {'new_value': '£566.898 million (Q2 2021)', 'old_value': '£176.0 million (2020) '}, "root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (2019/20) ', 'old_value': '£1.033 billion (excluding pension provisions) (2019/20)'}}}
+803: {'values_changed': {"root['endowment']": {'new_value': '£176.0 million (2020) ', 'old_value': '£582.8 million (2020) '}}}
+804: {'values_changed': {"root['endowment']": {'new_value': '£582.8 million (2020) ', 'old_value': '£176.0 million (2020) '}}}
+834: {'values_changed': {"root['endowment']": {'new_value': '£176.0 million (2020) ', 'old_value': '£202.1 million (2020) '}, "root['budget']": {'new_value': '£1.033 billion (excluding pension provisions) (2019/20)', 'old_value': '£1.072 billion (2020/21)'}}}

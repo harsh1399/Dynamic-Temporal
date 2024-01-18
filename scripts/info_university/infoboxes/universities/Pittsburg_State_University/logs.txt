@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pittsburg State University', "root['endowment']": '$40,784,334', "root['faculty']": '700', "root['president']": 'Tom W. Bryant', "root['undergrad']": '5,200', "root['postgrad']": '1,400', "root['campus']": 'Rural, 223 acres', "root['affiliations']": 'NCAA DII, MIAA', "root['telephone']": '620-231-7000'}}
+11: {'values_changed': {"root['affiliations']": {'new_value': 'NCAA DII, MIAA', 'old_value': 'NCAA DII, MIAA, ASAIHL'}}}
+64: {'dictionary_item_removed': {"root['students']": '7,200'}, 'values_changed': {"root['endowment']": {'new_value': '$40,784,334', 'old_value': '$65,000,000'}, "root['faculty']": {'new_value': '700', 'old_value': '300'}, "root['president']": {'new_value': 'Tom W. Bryant', 'old_value': 'Steven A. Scott'}, "root['undergrad']": {'new_value': '5,200', 'old_value': '6,000'}, "root['postgrad']": {'new_value': '1,400', 'old_value': '1,200'}, "root['campus']": {'new_value': 'Rural, 223 acres', 'old_value': 'Rural, '}}}
+69: {'values_changed': {"root['students']": {'new_value': '7,200', 'old_value': '7,277 '}}}
+70: {'values_changed': {"root['faculty']": {'new_value': '300', 'old_value': '301 '}}}
+71: {'values_changed': {"root['endowment']": {'new_value': '$65,000,000', 'old_value': '$39.9 million'}}}
+97: {'dictionary_item_added': {"root['faculty']": '301 ', "root['undergrad']": '6,000', "root['postgrad']": '1,200', "root['affiliations']": 'NCAA DII, MIAA, ASAIHL', "root['telephone']": '620-231-7000'}, 'dictionary_item_removed': {"root['former_names']": 'Auxiliary Manual Training, ', "root['provost']": 'Lynette J. Olson', "root['academic_staff']": '301 ', "root['location']": 'Pittsburg, Kansas, U.S.', "root['athletics_nickname']": 'Gorillas'}, 'values_changed': {"root['endowment']": {'new_value': '$39.9 million', 'old_value': '$69.41 million'}, "root['president']": {'new_value': 'Steven A. Scott', 'old_value': 'Steven Scott'}, "root['students']": {'new_value': '7,277 ', 'old_value': '7,244 (fall 2015) '}}}
+106: {'values_changed': {"root['endowment']": {'new_value': '$69.41 million', 'old_value': '$71.28 million (2015)'}, "root['students']": {'new_value': '7,244 (fall 2015) ', 'old_value': '|'}}}
+107: {'values_changed': {"root['endowment']": {'new_value': '$71.28 million (2015)', 'old_value': '$71.22 million (2015)'}}}
+132: {'dictionary_item_added': {"root['former_names']": 'Auxiliary Manual Training, '}, 'values_changed': {"root['name']": {'new_value': 'Pittsburg State University', 'old_value': 'Pitty burg State University'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Pitty burg State University', 'old_value': 'Pittsburg State University'}}}
+134: {'dictionary_item_added': {"root['location']": 'Pittsburg, Kansas, U.S.'}, 'values_changed': {"root['endowment']": {'new_value': '$71.22 million (2015)', 'old_value': '$70.18 million (2017)'}, "root['president']": {'new_value': 'Steven Scott', 'old_value': 'Steven A. Scott'}, "root['students']": {'new_value': '|', 'old_value': '6,645 (Fall 2019)'}}}
+154: {'values_changed': {"root['endowment']": {'new_value': '$70.18 million (2017)', 'old_value': '$76.5 million (2019)'}}}
+162: {'values_changed': {"root['endowment']": {'new_value': '$76.5 million (2019)', 'old_value': '$74.6 million (2020)'}}}
+174: {'values_changed': {"root['provost']": {'new_value': 'Lynette J. Olson', 'old_value': 'Howard W. Smith'}}}
+176: {'values_changed': {"root['students']": {'new_value': '6,645 (Fall 2019)', 'old_value': '6,017 (Fall 2021) '}}}
+184: {'values_changed': {"root['president']": {'new_value': 'Steven A. Scott', 'old_value': 'Daniel Shipp'}}}
+196: {'dictionary_item_removed': {"root['former_names']": 'Auxiliary Manual Training Normal School (1903–1913), Kansas State Teachers College of Pittsburg (1913–1959), Kansas State College of Pittsburg (1959–1977)'}}
+200: {'values_changed': {"root['president']": {'new_value': 'Daniel Shipp', 'old_value': 'Dan Shipp'}}}
+201: {'values_changed': {"root['students']": {'new_value': '6,017 (Fall 2021) ', 'old_value': '5,858 (Fall 2022) '}}}

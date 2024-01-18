@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Athabasca University', "root['image_name']": 'AthabascaUniversity.svg', "root['president']": 'Dr. Frits Pannekoek', "root['students']": '38,464 ', "root['undergrad']": '34,921', "root['postgrad']": '3,543', "root['campus']": 'Rural and urban', "root['colours']": 'Blue And Green ', "root['affiliations']": 'AUCC, ACU,  CVU, UArctic, CBIE, CUP, http://www.cags.ca CAGS.'}}
+25: {'values_changed': {"root['president']": {'new_value': 'Dr. Frits Pannekoek', 'old_value': 'Frits Pannekoek'}}}
+44: {'values_changed': {"root['colours']": {'new_value': 'Blue And Green ', 'old_value': 'Blue And Orange '}}}
+58: {'values_changed': {"root['image_name']": {'new_value': 'AthabascaUniversity.svg', 'old_value': 'AthabascaU COA.jpg'}}}
+68: {'values_changed': {"root['president']": {'new_value': 'Frits Pannekoek', 'old_value': 'Peter MacKinnon'}}}
+70: {'values_changed': {"root['students']": {'new_value': '38,464 ', 'old_value': '40,722 (2012-13) '}, "root['undergrad']": {'new_value': '34,921', 'old_value': '36,622'}, "root['postgrad']": {'new_value': '3,543', 'old_value': '4,100'}}}
+71: {'values_changed': {"root['students']": {'new_value': '40,722 (2012-13) ', 'old_value': '40,722 '}}}
+74: {'values_changed': {"root['campus']": {'new_value': 'Rural and urban', 'old_value': 'E-learning, rural and urban'}}}
+76: {'values_changed': {"root['campus']": {'new_value': 'E-learning, rural and urban', 'old_value': 'Online, rural and urban'}}}
+77: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, ACU,  CVU, UArctic, CBIE, CUP, http://www.cags.ca CAGS.', 'old_value': 'ACU, AUCC, CAGS, CBIE, CUP, CVU, UArctic'}}}
+78: {'values_changed': {"root['colours']": {'new_value': 'Blue And Orange ', 'old_value': 'Blue and orange '}}}
+79: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AUCC, CAGS, CBIE, CUP, CVU, UArctic', 'old_value': 'ACU, AUCC, http://www.cags.ca CAGS, CBIE, CUP, CVU, UArctic'}}}
+105: {'values_changed': {"root['affiliations']": {'new_value': 'ACU, AUCC, http://www.cags.ca CAGS, CBIE, CUP, CVU, UArctic', 'old_value': 'ACU, AUCC, http://www.cags.ca CAGS, CBIE, CUP, CVU, UArctic, IAU'}}}
+115: {'dictionary_item_removed': {"root['faculty']": '699'}}
+143: {'dictionary_item_added': {"root['faculty']": '699'}, 'values_changed': {"root['affiliations']": {'new_value': 'ACU, AUCC, http://www.cags.ca CAGS, CBIE, CUP, CVU, UArctic, IAU', 'old_value': 'ACU, AUCC, CAGS, CBIE, CUP, CVU, UArctic, IAU'}}}
+147: {'values_changed': {"root['president']": {'new_value': 'Peter MacKinnon', 'old_value': 'Neil Fassina'}, "root['affiliations']": {'new_value': 'ACU, AUCC, CAGS, CBIE, CUP, CVU, UArctic, IAU', 'old_value': 'ACU, AUCC, CAGS, CBIE, CUP, CVU, UArctic, IAU '}}}

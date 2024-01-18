@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of New Mexico', "root['president']": 'David J. Schmidly', "root['undergrad']": '18,027', "root['postgrad']": '6,065', "root['staff']": '1,838', "root['endowment']": '$385.7 million', "root['campus']": 'Urban, 600 acres (2.4 km²)'}}
+147: {'dictionary_item_added': {"root['postgrad']": '6,065'}, 'dictionary_item_removed': {"root['students']": '27,304  http://www.unm.edu/~unmreg/statsinfo/OER0980/Fall2009OER.pdf'}, 'values_changed': {"root['name']": {'new_value': 'University of New Mexico', 'old_value': 'University of New Mexico,  Albuquerque (Main Campus)'}, "root['undergrad']": {'new_value': '18,027', 'old_value': '19,611'}}}
+148: {'values_changed': {"root['students']": {'new_value': '27,304  http://www.unm.edu/~unmreg/statsinfo/OER0980/Fall2009OER.pdf', 'old_value': '27,304'}}}
+167: {'values_changed': {"root['endowment']": {'new_value': '$385.7 million', 'old_value': '$279.7 million'}}}
+247: {'dictionary_item_added': {"root['undergrad']": '19,611'}, 'dictionary_item_removed': {"root['undergraduate']": '24,962', "root['postgraduate']": '4,393'}, 'values_changed': {"root['students']": {'new_value': '27,304', 'old_value': '34,674'}, "root['staff']": {'new_value': '1,838', 'old_value': '6,899'}}}
+254: {'dictionary_item_removed': {"root['mascots']": 'Lobo'}}
+264: {'values_changed': {"root['students']": {'new_value': '34,674', 'old_value': '27,304'}}}
+269: {'values_changed': {"root['name']": {'new_value': 'University of New Mexico,  Albuquerque (Main Campus)', 'old_value': 'The University of New Mexico,  Albuquerque, New Mexico,  (Main Campus)'}}}
+291: {'dictionary_item_added': {"root['mascots']": 'Lobo'}, 'dictionary_item_removed': {"root['athletics']": 'NCAA Division I, Mountain West Conference'}}
+294: {'values_changed': {"root['students']": {'new_value': '27,304', 'old_value': '34,674'}}}
+374: {'values_changed': {"root['name']": {'new_value': 'The University of New Mexico,  Albuquerque, New Mexico,  (Main Campus)', 'old_value': 'The University of New Mexico,  Albuquerque, New Mexico (Main Campus)'}}}
+386: {'dictionary_item_added': {"root['undergraduate']": '24,962', "root['postgraduate']": '4,393', "root['athletics']": 'NCAA Division I, Mountain West Conference'}, 'dictionary_item_removed': {"root['undergrad']": '19,147 (Fall 2017)', "root['postgrad']": '7,031(Fall 2017)'}, 'values_changed': {"root['name']": {'new_value': 'The University of New Mexico,  Albuquerque, New Mexico (Main Campus)', 'old_value': 'The University of New Mexico'}, "root['president']": {'new_value': 'David J. Schmidly', 'old_value': 'Garnett S. Stokes'}, "root['students']": {'new_value': '34,674', 'old_value': '26,278 (Fall 2017) '}, "root['staff']": {'new_value': '6,899', 'old_value': '6,899 '}, "root['endowment']": {'new_value': '$279.7 million', 'old_value': '$452.5 million (2018)'}, "root['campus']": {'new_value': 'Urban, 600 acres (2.4 km²)', 'old_value': 'Urban, '}}}
+388: {'values_changed': {"root['endowment']": {'new_value': '$452.5 million (2018)', 'old_value': '$457.3 million (2019)'}}}
+393: {'dictionary_item_removed': {"root['provost']": 'James Paul Holloway'}}
+411: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+419: {'values_changed': {"root['endowment']": {'new_value': '$457.3 million (2019)', 'old_value': '$442.5 million (2020)'}}}
+435: {'dictionary_item_added': {"root['staff']": '6,899 '}, 'dictionary_item_removed': {"root['administrative_staff']": '6,899 '}}
+436: {'values_changed': {"root['undergrad']": {'new_value': '19,147 (Fall 2017)', 'old_value': '19,010 (Fall 2021)'}, "root['postgrad']": {'new_value': '7,031(Fall 2017)', 'old_value': '6,431(Fall 2017)'}}}
+437: {'values_changed': {"root['students']": {'new_value': '26,278 (Fall 2017) ', 'old_value': '25,441 (Fall 2021)'}, "root['postgrad']": {'new_value': '6,431(Fall 2017)', 'old_value': '6,431(Fall 2021)'}}}
+443: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ORAU', 'URA', 'Space-grant'], 'new_value': 'Space-grant'}}}
+451: {'values_changed': {"root['name']": {'new_value': 'The University of New Mexico', 'old_value': 'The University of Spain'}}}
+452: {'values_changed': {"root['name']": {'new_value': 'The University of Spain', 'old_value': 'The University of New Mexico'}}}
+453: {'dictionary_item_removed': {"root['free_label1']": 'Newspaper', "root['free1']": "''Daily Lobo''", "root['free_label2']": 'Other campuses', "root['free2']": ['Gallup', 'Los Alamos', 'Rio Rancho', 'Taos', 'Valencia']}, 'values_changed': {"root['campus']": {'new_value': 'Urban, ', 'old_value': 'Large City, '}}}
+454: {'values_changed': {"root['students']": {'new_value': '25,441 (Fall 2021)', 'old_value': '25,441 (Fall 2021) '}}, 'iterable_item_removed': {"root['free2'][5]": 'date'}}
+455: {'values_changed': {"root['free2'][4]": {'new_value': 'Valencia', 'old_value': 'Los Lunas'}}, 'iterable_item_added': {"root['free2'][5]": 'date'}}
+462: {'dictionary_item_added': {"root['free_label1']": 'Newspaper', "root['free1']": "''Daily Lobo''", "root['free2']": ['Gallup', 'Los Alamos', 'Rio Rancho', 'Taos', 'Los Lunas']}, 'values_changed': {"root['free_label2']": {'new_value': 'Other campuses', 'old_value': 'Newspaper'}}}

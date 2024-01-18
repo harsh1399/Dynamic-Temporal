@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Denison University', "root['image_name']": 'Denison University seal2.png', "root['endowment']": '$852 million (2018)', "root['president']": 'Adam S. Weinberg', "root['provost']": 'Kimberly Coplin', "root['undergrad']": '2,150 ', "root['athletics']": 'NCAA Division III – NCAC', "root['sports']": '23 Varsity Teams', "root['faculty']": '235'}}
+31: {'values_changed': {"root['undergrad']": {'new_value': '2,150 ', 'old_value': '2,300'}}}
+33: {'values_changed': {"root['endowment']": {'new_value': '$852 million (2018)', 'old_value': '$836.4 million (2018)'}}}
+34: {'values_changed': {"root['undergrad']": {'new_value': '2,300', 'old_value': '2,300 '}}}
+35: {'values_changed': {"root['sports']": {'new_value': '23 Varsity Teams', 'old_value': '24 Varsity Teams'}}}
+57: {'values_changed': {"root['sports']": {'new_value': '24 Varsity Teams', 'old_value': '24 varsity teams'}}}
+65: {'dictionary_item_added': {"root['image_name']": 'Denison University seal2.png', "root['athletics']": 'NCAA Division III – NCAC', "root['sports']": '24 varsity teams'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III – NCAC'}, 'values_changed': {"root['endowment']": {'new_value': '$836.4 million (2018)', 'old_value': '$1.1 billion (2021)'}, "root['provost']": {'new_value': 'Kimberly Coplin', 'old_value': 'Kim Coplin'}}}
+99: {'dictionary_item_removed': {"root['former_names']": 'Granville Literary and Theological Institution (1831–1845) Granville College (1845–1853)'}}

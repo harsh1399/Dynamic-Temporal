@@ -1,0 +1,14 @@
+3: {'dictionary_item_removed': {"root['name']": 'Centre College', "root['president']": 'Dr. John A. Roush', "root['undergrad']": '1,070', "root['staff']": '77', "root['campus']": 'Rural'}}
+11: {'dictionary_item_removed': {"root['endowment']": '$149,900,000'}}
+80: {'dictionary_item_added': {"root['undergrad']": '1,070', "root['staff']": '77'}, 'dictionary_item_removed': {"root['students']": '1,100', "root['faculty']": '77'}, 'values_changed': {"root['president']": {'new_value': 'Dr. John A. Roush', 'old_value': 'John A. Roush'}, "root['endowment']": {'new_value': '$149,900,000', 'old_value': 'US $158 Million'}, "root['campus']": {'new_value': 'Rural', 'old_value': 'National Register of Historic Places 115 acres 60 buildings'}}}
+193: {'dictionary_item_added': {"root['students']": '1,100'}, 'dictionary_item_removed': {"root['undergrad']": '1,385', "root['athletics']": 'Southern Athletic Association NCAA Division III'}, 'values_changed': {"root['faculty']": {'new_value': '77', 'old_value': '145'}, "root['endowment']": {'new_value': 'US $158 Million', 'old_value': '$263.81 Million'}, "root['campus']": {'new_value': 'National Register of Historic Places 115 acres 60 buildings', 'old_value': 'Small city '}}}
+197: {'values_changed': {"root['name']": {'new_value': 'Centre College', 'old_value': 'Bum poo'}}}
+198: {'values_changed': {"root['name']": {'new_value': 'Bum poo', 'old_value': 'Centre College'}}}
+226: {'dictionary_item_removed': {"root['religious_affiliation']": 'Presbyterian Church (USA)', "root['affiliations']": 'APCU, ACS, NAICU  , CIC,'}}
+238: {'dictionary_item_added': {"root['athletics']": 'Southern Athletic Association NCAA Division III'}, 'values_changed': {"root['undergrad']": {'new_value': '1,385', 'old_value': '1,430 As of fall 2016. '}}}
+242: {'values_changed': {"root['name']": {'new_value': 'Centre College', 'old_value': 'Center Coleg'}, "root['president']": {'new_value': 'John A. Roush', 'old_value': 'John Ass-Rush'}}}
+243: {'values_changed': {"root['name']": {'new_value': 'Center Coleg', 'old_value': 'Centre College'}, "root['president']": {'new_value': 'John Ass-Rush', 'old_value': 'John A. Roush'}}}
+263: {'dictionary_item_added': {"root['faculty']": '145'}, 'values_changed': {"root['president']": {'new_value': 'John A. Roush', 'old_value': 'John A. Roush |bossman stats keeper        = Coleman Gilkey Newton, NQB'}}}
+264: {'dictionary_item_removed': {"root['faculty']": '145'}, 'values_changed': {"root['president']": {'new_value': 'John A. Roush |bossman stats keeper        = Coleman Gilkey Newton, NQB', 'old_value': 'John A. Roush'}}}
+335: {'dictionary_item_added': {"root['affiliations']": 'APCU, ACS, NAICU  , CIC,'}, 'values_changed': {"root['president']": {'new_value': 'John A. Roush', 'old_value': 'Milton C. Moreland'}}}
+337: {'values_changed': {"root['endowment']": {'new_value': '$263.81 Million', 'old_value': '$329.3 million (2019)'}}}

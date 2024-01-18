@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hampton University', "root['endowment']": '$263.2 million', "root['president']": 'William R. Harvey', "root['chancellor']": 'JoAnn Haysbert', "root['provost']": 'JoAnn Haysbert', "root['students']": '4,646', "root['undergrad']": '3,836', "root['postgrad']": '810', "root['campus']": 'Suburban, ', "root['former_names']": 'Hampton Normal and Agricultural Institute Hampton Institute', "root['athletics']": 'NCAA Division I FCS', "root['affiliations']": 'Big South Conference MAISA '}}
+53: {'values_changed': {"root['endowment']": {'new_value': '$263.2 million', 'old_value': '$263.2 million (2015)'}}}
+55: {'values_changed': {"root['endowment']": {'new_value': '$263.2 million (2015)', 'old_value': '$282.5 million (2019)'}}}
+96: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}, 'values_changed': {"root['affiliations']": {'new_value': 'Big South Conference MAISA ', 'old_value': 'Space-grant | endowment'}}}
+109: {'values_changed': {"root['endowment']": {'new_value': '$282.5 million (2019)', 'old_value': '$280.6 million (2020)'}}}
+168: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I FCS', 'old_value': 'NCAA Division 2 FCS'}}}
+176: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division 2 FCS', 'old_value': 'NCAA Division I - FCS'}}}
+273: {'values_changed': {"root['affiliations']": {'new_value': 'Space-grant | endowment', 'old_value': 'Big South Conference MAISA'}}}
+278: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I - FCS'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division I - FCS'}}

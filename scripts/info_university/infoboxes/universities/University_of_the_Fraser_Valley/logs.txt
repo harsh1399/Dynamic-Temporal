@@ -1,0 +1,11 @@
+27: {'dictionary_item_removed': {"root['name']": "'''University of the Fraser Valley'''", "root['campus']": 'Urban, 26 ha (64 acres)(Abbotsford)', "root['chancellor']": 'Dr. Brian Minter', "root['president']": 'Dr. Mark D. Evered', "root['students']": '15,446 (c. 2009)', "root['faculty']": '661   (c. 2005)', "root['affiliations']": 'CIS  AUCC  CWUAA  CBIE  CUP , CASA.'}}
+35: {'values_changed': {"root['campus']": {'new_value': 'Urban, 26 ha (64 acres)(Abbotsford)', 'old_value': 'Urban, '}}}
+56: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Brian Minter', 'old_value': 'Brian Minter'}}}
+60: {'values_changed': {"root['chancellor']": {'new_value': 'Brian Minter', 'old_value': 'Dr. Gwen Point'}, "root['students']": {'new_value': '15,446 (c. 2009)', 'old_value': '15,176 (c. 2012)'}, "root['faculty']": {'new_value': '661   (c. 2005)', 'old_value': '710   (c. 2012)'}}}
+62: {'values_changed': {"root['affiliations']": {'new_value': 'CIS  AUCC  CWUAA  CBIE  CUP , CASA.', 'old_value': 'U SPORTS  AUCC  CWUAA  CBIE  CUP , CASA.'}}}
+64: {'values_changed': {"root['affiliations']": {'new_value': 'U SPORTS  AUCC  CWUAA  CBIE  CUP , CASA.', 'old_value': 'U Sports , AUCC , CWUAA , CBIE , CUP , CASA.'}}}
+79: {'dictionary_item_added': {"root['affiliations']": 'U Sports , AUCC , CWUAA , CBIE , CUP , CASA.'}, 'values_changed': {"root['president']": {'new_value': 'Dr. Mark D. Evered', 'old_value': 'Jackie Hogan'}}}
+84: {'values_changed': {"root['chancellor']": {'new_value': 'Dr. Gwen Point', 'old_value': 'Andy Sidhu'}}}
+85: {'values_changed': {"root['president']": {'new_value': 'Jackie Hogan', 'old_value': 'Dr. Joanne MacLean'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'Dr. Joanne MacLean', 'old_value': 'Joanne MacLean'}}}
+105: {'values_changed': {"root['students']": {'new_value': '15,176 (c. 2012)', 'old_value': '9,310'}}}

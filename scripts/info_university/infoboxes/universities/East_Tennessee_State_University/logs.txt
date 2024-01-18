@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'East Tennessee State University', "root['endowment']": 'US$100.1 million (2012), ', "root['faculty']": '866 (Fall 2011)', "root['president']": 'Dr. Brian Noland ', "root['provost']": 'Bert C. Bach', "root['chancellor']": 'Charles W. Manning', "root['vice_chancellor']": 'David Gregory', "root['students']": '15,536', "root['postgrad']": '2,144 (Spring 2009)', "root['doctoral']": '445 (Fall 2010)', "root['other']": '723 (Spring 2009)', "root['campus']": 'Urban, ', "root['athletics']": 'NCAA Division I, Atlantic Sun, 15 varsity teams'}}
+22: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I, Atlantic Sun, 15 varsity teams', 'old_value': 'NCAA Division I, SoCon, 15 varsity teams'}}}
+45: {'values_changed': {"root['athletics']": {'new_value': 'NCAA Division I, SoCon, 15 varsity teams', 'old_value': 'NCAA Division I, SoCon 15 varsity teams'}}}
+69: {'values_changed': {"root['endowment']": {'new_value': 'US$100.1 million (2012), ', 'old_value': '$100.1 million (2012) '}, "root['president']": {'new_value': 'Dr. Brian Noland ', 'old_value': 'Brian Noland '}}}
+75: {'values_changed': {"root['endowment']": {'new_value': '$100.1 million (2012) ', 'old_value': '$115 million (2014) '}}}
+87: {'values_changed': {"root['students']": {'new_value': '15,536', 'old_value': '14,952 (Fall 2013)'}}}
+94: {'values_changed': {"root['president']": {'new_value': 'Brian Noland ', 'old_value': 'Zack Wolfe '}}}
+95: {'values_changed': {"root['president']": {'new_value': 'Zack Wolfe ', 'old_value': 'Brian Noland'}}}
+96: {'values_changed': {"root['president']": {'new_value': 'Brian Noland', 'old_value': 'Zack Wolfe'}, "root['provost']": {'new_value': 'Bert C. Bach', 'old_value': 'Zach Tiberi'}, "root['chancellor']": {'new_value': 'Charles W. Manning', 'old_value': 'Karthik Venkataramin'}, "root['vice_chancellor']": {'new_value': 'David Gregory', 'old_value': 'Ian Watson'}}}
+97: {'values_changed': {"root['chancellor']": {'new_value': 'Karthik Venkataramin', 'old_value': 'Karthik Venkataraman'}}}
+100: {'values_changed': {"root['president']": {'new_value': 'Zack Wolfe', 'old_value': 'Brian Noland'}}}
+114: {'dictionary_item_added': {"root['chancellor']": 'Karthik Venkataraman'}, 'values_changed': {"root['provost']": {'new_value': 'Zach Tiberi', 'old_value': 'Bert C. Bach'}}}
+121: {'dictionary_item_added': {"root['vice_chancellor']": 'Ian Watson', "root['doctoral']": '445 (Fall 2010)'}, 'values_changed': {"root['students']": {'new_value': '14,952 (Fall 2013)', 'old_value': '14,334'}, "root['postgrad']": {'new_value': '2,144 (Spring 2009)', 'old_value': '2,355'}, "root['other']": {'new_value': '723 (Spring 2009)', 'old_value': '607'}, "root['faculty']": {'new_value': '866 (Fall 2011)', 'old_value': '806'}}}
+131: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I, SoCon 15 varsity teams'}, 'values_changed': {"root['endowment']": {'new_value': '$115 million (2014) ', 'old_value': '$122.8 million (2018)'}, "root['provost']": {'new_value': 'Bert C. Bach', 'old_value': 'Wilsie S. Bishop'}, "root['students']": {'new_value': '14,334', 'old_value': '14,334 '}}}
+135: {'values_changed': {"root['endowment']": {'new_value': '$122.8 million (2018)', 'old_value': '$127.6 million (2019)'}}}
+155: {'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant'}}
+158: {'values_changed': {"root['endowment']": {'new_value': '$127.6 million (2019)', 'old_value': '$130.1 million (2020)'}}}
+173: {'values_changed': {"root['provost']": {'new_value': 'Wilsie S. Bishop', 'old_value': 'Kimberly D. McCorkle'}}}
+174: {'values_changed': {"root['endowment']": {'new_value': '$130.1 million (2020)', 'old_value': '$151.8 million (2021)'}}}

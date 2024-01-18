@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Western Illinois University', "root['endowment']": '$59.7 million', "root['president']": 'Martin Abraham (interim)', "root['academic_staff']": '556', "root['administrative_staff']": '1,027', "root['undergrad']": '5,151', "root['postgrad']": '729', "root['doctoral']": '13', "root['students']": '5,880 (Macomb Campus). 1,744 (Quad Cities Campus).', "root['campus']": 'Small town, 64 buildings over '}}
+2: {'values_changed': {"root['students']": {'new_value': '5,880 (Macomb Campus). 1,744 (Quad Cities Campus).', 'old_value': '6,994 (Spring 2020, Macomb). 792 (Spring 2018, Quad Cities).'}}}
+3: {'values_changed': {"root['president']": {'new_value': 'Martin Abraham (interim)', 'old_value': 'Martin Abraham (Interim)'}}}
+13: {'values_changed': {"root['president']": {'new_value': 'Martin Abraham (Interim)', 'old_value': 'Martin Abraham (interim)'}}}
+14: {'values_changed': {"root['students']": {'new_value': '6,994 (Spring 2020, Macomb). 792 (Spring 2018, Quad Cities).', 'old_value': '5,880 (Macomb Campus). 1,744 (Quad Cities Campus).'}}}
+21: {'values_changed': {"root['students']": {'new_value': '5,880 (Macomb Campus). 1,744 (Quad Cities Campus).', 'old_value': '7,490.'}}}
+26: {'dictionary_item_added': {"root['undergrad']": '5,151', "root['postgrad']": '729', "root['doctoral']": '13'}, 'values_changed': {"root['president']": {'new_value': 'Martin Abraham (interim)', 'old_value': 'Guiyou Huang'}}}
+28: {'values_changed': {"root['endowment']": {'new_value': '$59.7 million', 'old_value': '$59.7 million (2018)'}}}
+30: {'values_changed': {"root['students']": {'new_value': '7,490.', 'old_value': '6,965'}}}
+31: {'values_changed': {"root['students']": {'new_value': '6,965', 'old_value': '7,490.'}}}
+32: {'values_changed': {"root['students']": {'new_value': '7,490.', 'old_value': '6,965 (2,034'}, "root['campus']": {'new_value': 'Small town, 64 buildings over ', 'old_value': 'ue to the COVID-19 Pandemic).'}}}
+36: {'values_changed': {"root['campus']": {'new_value': 'ue to the COVID-19 Pandemic).', 'old_value': 'ue to the COVID-19 pandemic).'}}}
+48: {'values_changed': {"root['students']": {'new_value': '6,965 (2,034', 'old_value': '6,068 (Fall 2021)'}, "root['campus']": {'new_value': 'ue to the COVID-19 pandemic).', 'old_value': 'Small town, 64 buildings over '}}}
+49: {'dictionary_item_removed': {"root['provost']": 'William T. Clow'}}
+68: {'values_changed': {"root['students']": {'new_value': '6,068 (Fall 2021)', 'old_value': '7,643 (Fall 2022)'}}}
+69: {'values_changed': {"root['provost']": {'new_value': 'William T. Clow', 'old_value': 'Manoochehr Zoghi'}}}
+70: {'values_changed': {"root['campus']": {'new_value': 'Small town, 64 buildings over ', 'old_value': '64 buildings over '}}}
+71: {'dictionary_item_added': {"root['campus']": '64 buildings over '}, 'dictionary_item_removed': {"root['campuses']": '64 buildings over '}}
+72: {'dictionary_item_added': {"root['campuses']": '64 buildings over '}, 'dictionary_item_removed': {"root['campus']": '64 buildings over '}}
+73: {'values_changed': {"root['endowment']": {'new_value': '$59.7 million (2018)', 'old_value': '$63.6 million (2020)'}}}
+110: {'dictionary_item_removed': {"root['free_label2']": 'Newspaper', "root['free2']": "''Western Courier''"}}
+111: {'values_changed': {"root['academic_staff']": {'new_value': '556', 'old_value': '515'}, "root['administrative_staff']": {'new_value': '1,027', 'old_value': '798'}}}
+112: {'dictionary_item_removed': {"root['former_names']": 'Western Illinois State Normal School (1899–1921) Western Illinois State Teachers College (1921–1957)'}}
+113: {'dictionary_item_removed': {"root['undergrad']": '5,309 (Fall 2022)', "root['postgrad']": '2,334 (Fall 2022)'}}
+116: {'values_changed': {"root['former_names']": {'new_value': 'Western Illinois State Normal School (1899–1921) Western Illinois State Teachers College (1921–1957)', 'old_value': 'Western Illinois State Normal School (1899–1921) Western Illinois State Teachers College (1921–1947), Western Illinois State College (1947-1957)'}}}

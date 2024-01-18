@@ -1,0 +1,25 @@
+145: {'dictionary_item_removed': {"root['name']": 'The University of Maine', "root['endowment']": '$252.3 million', "root['faculty']": '720', "root['president']": 'Susan J. Hunter', "root['students']": '11,247 (Fall 2013)  http://umaine.edu/oir/files/2013/11/0913-enrollment1.pdf', "root['undergrad']": '9,182 (Fall 2013)', "root['campus']": 'Rural', "root['athletics']": 'NCAA Division I – America East', "root['affiliations']": 'University of Maine System, APLU, UArctic', "root['fightsong']": 'Maine Stein Song'}}
+165: {'values_changed': {"root['endowment']": {'new_value': '$252.3 million', 'old_value': '$285 million'}}}
+202: {'dictionary_item_added': {"root['fightsong']": 'Maine Stein Song'}, 'dictionary_item_removed': {"root['postgrad']": '1,896 (Fall 2016)'}, 'values_changed': {"root['students']": {'new_value': '11,247 (Fall 2013)  http://umaine.edu/oir/files/2013/11/0913-enrollment1.pdf', 'old_value': '11,219 (Fall 2016)  '}, "root['undergrad']": {'new_value': '9,182 (Fall 2013)', 'old_value': '9,323 (Fall 2016)'}, "root['athletics']": {'new_value': 'NCAA Division I – America East', 'old_value': 'NCAA Division I – America East, Hockey East, CAA'}}}
+205: {'values_changed': {"root['endowment']": {'new_value': '$285 million', 'old_value': '$179.9 million (2016)'}}}
+252: {'values_changed': {"root['endowment']": {'new_value': '$179.9 million (2016)', 'old_value': '$293 million (2017)'}, "root['president']": {'new_value': 'Susan J. Hunter', 'old_value': 'Joan Ferrini-Mundy'}, "root['students']": {'new_value': '11,219 (Fall 2016)  ', 'old_value': '11,240 (Fall 2017)  '}, "root['undergrad']": {'new_value': '9,323 (Fall 2016)', 'old_value': '9,279 (Fall 2017)'}, "root['postgrad']": {'new_value': '1,896 (Fall 2016)', 'old_value': '1,961 (Fall 2017)'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'The University of Maine', 'old_value': 'The University of tits'}}}
+257: {'values_changed': {"root['name']": {'new_value': 'The University of tits', 'old_value': 'The University of Maine'}}}
+260: {'values_changed': {"root['name']": {'new_value': 'The University of Maine', 'old_value': 'The school of Maine'}}}
+261: {'values_changed': {"root['name']": {'new_value': 'The school of Maine', 'old_value': 'The University of Maine'}}}
+283: {'values_changed': {"root['name']": {'new_value': 'The University of Maine', 'old_value': 'University of Maine'}}}
+298: {'values_changed': {"root['endowment']": {'new_value': '$293 million (2017)', 'old_value': '$220.7 million (2018)'}}}
+304: {'values_changed': {"root['affiliations']": {'new_value': 'University of Maine System, APLU, UArctic', 'old_value': 'University of Maine System APLU UArctic'}}}
+307: {'values_changed': {"root['students']": {'new_value': '11,240 (Fall 2017)  ', 'old_value': '11,404 (Fall 2018)  '}, "root['undergrad']": {'new_value': '9,279 (Fall 2017)', 'old_value': '9,365 (Fall 2018)'}, "root['postgrad']": {'new_value': '1,961 (Fall 2017)', 'old_value': '2,039 (Fall 2018)'}}}
+308: {'values_changed': {"root['faculty']": {'new_value': '720', 'old_value': '578'}}}
+342: {'values_changed': {"root['students']": {'new_value': '11,404 (Fall 2018)  ', 'old_value': '11,561 (Fall 2019)  '}, "root['undergrad']": {'new_value': '9,365 (Fall 2018)', 'old_value': '9,430 (Fall 2019)'}, "root['postgrad']": {'new_value': '2,039 (Fall 2018)', 'old_value': '2,131 (Fall 2019)'}}}
+344: {'dictionary_item_added': {"root['affiliations']": 'University of Maine System APLU UArctic'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'APLU UArctic Sea-grant Space-grant'}, 'values_changed': {"root['endowment']": {'new_value': '$220.7 million (2018)', 'old_value': '$365.0 million (2019)'}}}
+352: {'values_changed': {"root['endowment']": {'new_value': '$365.0 million (2019)', 'old_value': '$228.1 million (2020)'}}}
+353: {'values_changed': {"root['students']": {'new_value': '11,561 (Fall 2019)  ', 'old_value': '11,561 (Fall 2019) '}}}
+354: {'values_changed': {"root['students']": {'new_value': '11,561 (Fall 2019) ', 'old_value': '11,231,561 (Fall 2019) '}}}
+355: {'values_changed': {"root['academic_affiliations']": {'new_value': 'APLU UArctic Sea-grant Space-grant', 'old_value': 'UArctic Sea-grant Space-grant'}}}
+357: {'values_changed': {"root['students']": {'new_value': '11,231,561 (Fall 2019) ', 'old_value': '11,561 (Fall 2019) '}}}
+361: {'values_changed': {"root['endowment']": {'new_value': '$228.1 million (2020)', 'old_value': '$444.9 million (2021)'}}}
+363: {'type_changes': {"root['academic_affiliations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['UArctic', 'Sea-grant', 'Space-grant'], 'new_value': 'UArctic Sea-grant Space-grant'}}, 'dictionary_item_added': {"root['athletics']": 'NCAA Division I – America East, Hockey East, CAA'}}
+364: {'dictionary_item_removed': {"root['former_names']": 'Maine State College of Agriculture and the Mechanic Arts (1865-1897), University of Maine at Orono (1968-1986)'}}
+365: {'values_changed': {"root['campus']": {'new_value': 'Rural', 'old_value': 'Rural/College Town, '}}}

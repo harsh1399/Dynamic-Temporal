@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Maharishi University of Management', "root['image_name']": 'Maharishi University Of Managment 2.jpg', "root['staff']": '200', "root['faculty']": '47 full-time, 10 part-time', "root['president']": 'Bevan Morris', "root['students']": '930', "root['campus']": 'Rural, ', "root['telephone']": '(641) 472-7000'}}
+1: {'values_changed': {"root['name']": {'new_value': 'Maharishi University of Management', 'old_value': 'Maharishi University of Management kanagwa'}}}
+2: {'values_changed': {"root['name']": {'new_value': 'Maharishi University of Management kanagwa', 'old_value': 'Maharishi University of Management'}}}
+21: {'values_changed': {"root['students']": {'new_value': '930', 'old_value': '1070'}}}
+95: {'values_changed': {"root['students']": {'new_value': '1070', 'old_value': '1236'}}}
+129: {'dictionary_item_removed': {"root['endowment']": '$9.0 million', "root['undergrad']": '256 full time  26 part-time', "root['postgrad']": '498 full time  430 part-time', "root['affiliations']": 'Transcendental Meditation movement', "root['former_names']": 'Maharishi International University'}, 'values_changed': {"root['image_name']": {'new_value': 'Maharishi University Of Managment 2.jpg', 'old_value': 'MUM_campus_and_tower_.JPG'}, "root['president']": {'new_value': 'Bevan Morris', 'old_value': 'Bevan Morris   |vice-president  = Craig Pearson'}, "root['students']": {'new_value': '1236', 'old_value': '1210'}}}
+212: {'dictionary_item_added': {"root['staff']": '200'}, 'values_changed': {"root['faculty']": {'new_value': '47 full-time, 10 part-time', 'old_value': '67 full-time, 31 part-time'}}}
+231: {'values_changed': {"root['image_name']": {'new_value': 'MUM_campus_and_tower_.JPG', 'old_value': 'thumb'}}}
+232: {'dictionary_item_added': {"root['telephone']": '(641) 472-7000'}, 'values_changed': {"root['image_name']": {'new_value': 'thumb', 'old_value': 'Maharishi University of Management logo 1.jpg'}}}
+285: {'values_changed': {"root['undergrad']": {'new_value': '256 full time  26 part-time', 'old_value': '256 full-time  26 part-time'}, "root['postgrad']": {'new_value': '498 full time  430 part-time', 'old_value': '498 full-time  430 part-time'}}}
+310: {'values_changed': {"root['president']": {'new_value': 'Bevan Morris   |vice-president  = Craig Pearson', 'old_value': 'John Hagelin |vice-president  = Craig Pearson'}}}
+311: {'values_changed': {"root['president']": {'new_value': 'John Hagelin |vice-president  = Craig Pearson', 'old_value': 'John Hagelin   |vice-president  = Craig Pearson'}}}
+317: {'values_changed': {"root['president']": {'new_value': 'John Hagelin   |vice-president  = Craig Pearson', 'old_value': 'John Hagelin vice-president'}}}

@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'University of Arkansas at Little Rock', "root['chancellor']": 'Joel E. Anderson', "root['President']": 'Donald R. Bobbitt', "root['Provost']": 'Zulma Toro', "root['students']": '12,000+', "root['campus']": 'Metropolitan', "root['location']": 'Little Rock, Arkansas, USA'}}
+4: {'dictionary_item_added': {"root['location']": 'Little Rock, Arkansas, USA'}, 'dictionary_item_removed': {"root['calendar']": 'Semester', "root['budget']": 'US$ 168,139,644  (2014)', "root['faculty']": '471 (full-time)', "root['staff']": '1,852 (1,465 full-time)', "root['athletics']": 'Division I, Sun Belt Conference', "root['former_names']": 'Little Rock Junior College (1927 to 1957), Little Rock University (1957 to 1969)'}}
+36: {'values_changed': {"root['budget']": {'new_value': 'US$ 168,139,644  (2014)', 'old_value': '$168,139,644 '}}}
+40: {'dictionary_item_added': {"root['calendar']": 'Semester', "root['President']": 'Donald R. Bobbitt', "root['Provost']": 'Zulma Toro'}, 'dictionary_item_removed': {"root['president']": 'Donald R. Bobbitt', "root['provost']": 'Zulma Toro'}, 'values_changed': {"root['athletics']": {'new_value': 'Division I, Sun Belt Conference', 'old_value': 'NCAA Division I – Sun Belt Conference'}}}
+56: {'values_changed': {"root['chancellor']": {'new_value': 'Joel E. Anderson', 'old_value': 'Andrew Rogerson'}}}
+58: {'dictionary_item_added': {"root['athletics']": 'NCAA Division I – Sun Belt Conference', "root['former_names']": 'Little Rock Junior College (1927 to 1957), Little Rock University (1957 to 1969)'}, 'values_changed': {"root['budget']": {'new_value': '$168,139,644 ', 'old_value': '$168.14 million '}}}
+67: {'values_changed': {"root['students']": {'new_value': '12,000+', 'old_value': '18,000+'}}}
+73: {'values_changed': {"root['students']": {'new_value': '18,000+', 'old_value': '11,848 (Fall 2015)'}}}
+79: {'values_changed': {"root['provost']": {'new_value': 'Zulma Toro', 'old_value': 'Christina Drale'}}}
+92: {'values_changed': {"root['budget']": {'new_value': '$168.14 million ', 'old_value': '$80 million '}}}
+93: {'dictionary_item_added': {"root['budget']": '$80 million '}, 'dictionary_item_removed': {"root['Endowment']": '$80 million '}}
+94: {'dictionary_item_added': {"root['Endowment']": '$80 million '}, 'dictionary_item_removed': {"root['endowment']": '$80 million '}}
+97: {'values_changed': {"root['endowment']": {'new_value': '$80 million ', 'old_value': '$80 million (2019)'}}}
+98: {'dictionary_item_added': {"root['provost']": 'Christina Drale'}, 'values_changed': {"root['chancellor']": {'new_value': 'Andrew Rogerson', 'old_value': 'Christina Drale'}}}
+107: {'values_changed': {"root['campus']": {'new_value': 'Metropolitan', 'old_value': 'Urban'}}}
+110: {'dictionary_item_added': {"root['staff']": '1,852 (1,465 full-time)'}, 'dictionary_item_removed': {"root['academic_affiliations']": 'Space-grant', "root['administrative_staff']": '1,852 (1,465 full-time)'}, 'values_changed': {"root['students']": {'new_value': '11,848 (Fall 2015)', 'old_value': '9,579 (Fall 2019)'}}}
+165: {'values_changed': {"root['students']": {'new_value': '9,579 (Fall 2019)', 'old_value': '8,197 (Fall 2022)'}}}

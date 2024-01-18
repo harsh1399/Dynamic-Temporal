@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Malaspina University-College', "root['president']": 'Ralph Nilson', "root['students']": '10,000+'}}
+20: {'values_changed': {"root['name']": {'new_value': 'Malaspina University-College', 'old_value': 'Malaspina University-College (now known as Vancouver Island University).'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Malaspina University-College (now known as Vancouver Island University).', 'old_value': 'Malaspina University-College'}}}
+26: {'values_changed': {"root['name']": {'new_value': 'Malaspina University-College', 'old_value': 'Vancouver Island University'}, "root['students']": {'new_value': '10,000+', 'old_value': '19,000+'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Vancouver Island University', 'old_value': 'Malaspina University-College'}, "root['students']": {'new_value': '19,000+', 'old_value': '10,000+'}}}
+37: {'values_changed': {"root['students']": {'new_value': '10,000+', 'old_value': '19,124  http://www.mala.ca/mainly/page.asp?Story=&ID=1410 Province to Establish Vancouver Island University'}}}
+50: {'dictionary_item_removed': {"root['Mascot']": 'Mariners'}}
+54: {'values_changed': {"root['name']": {'new_value': 'Malaspina University-College', 'old_value': 'Vancouver Island University'}}}
+55: {'values_changed': {"root['name']": {'new_value': 'Vancouver Island University', 'old_value': 'Malaspina University-College'}}}
+58: {'dictionary_item_added': {"root['Mascot']": 'Mariners'}, 'values_changed': {"root['name']": {'new_value': 'Malaspina University-College', 'old_value': 'Vancouver Island University'}}}
+62: {'dictionary_item_removed': {"root['affiliations']": 'UACC'}, 'values_changed': {"root['name']": {'new_value': 'Vancouver Island University', 'old_value': "'''Vancouver Island University'''"}}}
+88: {'dictionary_item_removed': {"root['undergrad']": 'available'}}
+92: {'dictionary_item_removed': {"root['chancellor']": 'Shawn Atleo'}}
+100: {'values_changed': {"root['chancellor']": {'new_value': 'Shawn Atleo', 'old_value': 'Chief Shawn Atleo'}, "root['president']": {'new_value': 'Ralph Nilson', 'old_value': 'Dr. Ralph Nilson'}}}
+110: {'values_changed': {"root['affiliations']": {'new_value': 'UACC', 'old_value': 'AUCC'}}}
+144: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC', 'old_value': 'AUCC, CBIE'}}}
+145: {'dictionary_item_removed': {"root['colours']": 'blue '}}
+147: {'values_changed': {"root['affiliations']": {'new_value': 'AUCC, CBIE', 'old_value': 'AUCC, Canadian Colleges Athletic Association, CBIE'}}}
+148: {'dictionary_item_removed': {"root['endowment']": 'C$5,930,722', "root['Mascot']": 'Mariners'}, 'values_changed': {"root['students']": {'new_value': '19,124  http://www.mala.ca/mainly/page.asp?Story=&ID=1410 Province to Establish Vancouver Island University', 'old_value': '19,780 http://www.aved.gov.bc.ca/datawarehouse/documents/headcount.pdf Student Headcount by Institution by Fiscal Year 2009/2010, BC Ministry of Education'}, "root['affiliations']": {'new_value': 'AUCC, Canadian Colleges Athletic Association, CBIE', 'old_value': 'AUCC, Canadian Colleges Athletic Association, CBIE, CUP, WUSC.'}}}
+155: {'values_changed': {"root['chancellor']": {'new_value': 'Chief Shawn Atleo', 'old_value': 'Shawn Atleo'}}}
+156: {'values_changed': {"root['endowment']": {'new_value': 'C$5,930,722', 'old_value': 'C$12,197,041'}}}
+164: {'dictionary_item_added': {"root['Mascot']": 'Mariners'}, 'values_changed': {"root['endowment']": {'new_value': 'C$12,197,041', 'old_value': 'C$26.3 million'}, "root['chancellor']": {'new_value': 'Shawn Atleo', 'old_value': 'Louise Mandell'}, "root['president']": {'new_value': 'Dr. Ralph Nilson', 'old_value': 'Dr. Deborah Saucier'}, "root['students']": {'new_value': '19,780 http://www.aved.gov.bc.ca/datawarehouse/documents/headcount.pdf Student Headcount by Institution by Fiscal Year 2009/2010, BC Ministry of Education', 'old_value': '16,175 '}}}

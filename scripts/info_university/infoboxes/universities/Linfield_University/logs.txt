@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Linfield College (emblem).png', "root['calendar']": '4-1-4', "root['president']": 'Thomas L. Hellie', "root['undergrad']": '1,660 (McMinnville Campus)  333 (Portland Campus) 273 (Adult Degree Program) ', "root['faculty']": '153', "root['campus']": 'Rural', "root['athletics']": 'NCAA Division III', "root['endowment']": '$103.5 million As of June 30, 2014.<ref name'}}
+1: {'values_changed': {"root['endowment']": {'new_value': '$103.5 million As of June 30, 2014.<ref name', 'old_value': '$84.3 million As of June 30, 2011.<ref name'}}}
+3: {'dictionary_item_removed': {"root['students']": '2,466 (2014)'}, 'values_changed': {"root['undergrad']": {'new_value': '1,660 (McMinnville Campus)  333 (Portland Campus) 273 (Adult Degree Program) ', 'old_value': '1,683 (McMinnville Campus)  347 (Portland Campus) 436 (Adult Degree Program) '}, "root['faculty']": {'new_value': '153', 'old_value': '157'}, "root['campus']": {'new_value': 'Rural', 'old_value': 'Rural, '}, "root['endowment']": {'new_value': '$84.3 million As of June 30, 2011.<ref name', 'old_value': '$103.5 million (2014) As of June 30, 2014. |'}}}
+13: {'dictionary_item_added': {"root['calendar']": '4-1-4', "root['president']": 'Thomas L. Hellie'}, 'dictionary_item_removed': {"root['image_name']": 'Linfield College (emblem).png'}, 'values_changed': {"root['name']": {'new_value': 'Linfield College (emblem).png', 'old_value': 'Linfield College'}, "root['students']": {'new_value': '2,466 (2014)', 'old_value': '2,282 (2017)'}, "root['endowment']": {'new_value': '$103.5 million (2014) As of June 30, 2014. |', 'old_value': '$124.5 million (2018)'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Linfield College', 'old_value': 'Linfield University'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Linfield University', 'old_value': 'Linfield College'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Linfield College', 'old_value': 'Linfield University'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'Linfield University', 'old_value': 'Linfield College'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Linfield College', 'old_value': 'Linfield University'}}}
+38: {'values_changed': {"root['image_name']": {'new_value': 'Linfield College (emblem).png', 'old_value': 'thumb'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'Linfield University', 'old_value': 'Linfield University |'}, "root['image_name']": {'new_value': 'thumb', 'old_value': 'thumb |'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Linfield University |', 'old_value': 'Linfield University'}, "root['image_name']": {'new_value': 'thumb |', 'old_value': 'thumb'}}}
+51: {'values_changed': {"root['image_name']": {'new_value': 'thumb', 'old_value': 'Linfield University Logo, 2020.png'}}}
+61: {'values_changed': {"root['endowment']": {'new_value': '$124.5 million (2018)', 'old_value': '$108.1 million (2019)'}}}
+65: {'values_changed': {"root['students']": {'new_value': '2,282 (2017)', 'old_value': '1,931 (2021)'}}}
+70: {'values_changed': {"root['endowment']": {'new_value': '$108.1 million (2019)', 'old_value': '$106.1 million (2020)'}}}
+114: {'dictionary_item_added': {"root['image_name']": 'Linfield University Logo, 2020.png', "root['athletics']": 'NCAA Division III', "root['faculty']": '157'}, 'dictionary_item_removed': {"root['athletics_affiliations']": 'NCAA Division III', "root['affiliations']": 'NCAA Division III | colors'}}
