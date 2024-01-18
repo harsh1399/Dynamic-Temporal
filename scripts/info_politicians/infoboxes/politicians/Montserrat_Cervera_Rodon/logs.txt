@@ -1,0 +1,3 @@
+15: {'dictionary_item_removed': {"root['name']": 'Montserrat Cervera Rodon', "root['alma_mater']": 'University of Barcelona '}}
+18: {'dictionary_item_removed': {"root['known_for']": ['anti-militarist', 'feminist', "women's health activist"]}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Barcelona ', 'old_value': 'University of Barcelona'}}}
+22: {'dictionary_item_removed': {"root['spouse']": 'e'}, 'iterable_item_added': {"root['known_for'][0]": 'anti-militarist', "root['known_for'][1]": 'feminist', "root['known_for'][2]": "women's health activist"}}

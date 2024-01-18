@@ -1,0 +1,10 @@
+9: {'dictionary_item_removed': {"root['name']": 'Howie Hawkins', "root['party']": 'New York Green Party'}}
+42: {'values_changed': {"root['name']": {'new_value': 'Howie Hawkins', 'old_value': 'Howie Hawkins the biggest derp'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Howie Hawkins the biggest derp', 'old_value': 'Howie Hawkins number 1 derp'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Howie Hawkins number 1 derp', 'old_value': 'Howie Hawkins'}}}
+46: {'values_changed': {"root['party']": {'new_value': 'New York Green Party', 'old_value': 'Green Party (United States)'}}}
+53: {'dictionary_item_removed': {"root['otherparty']": 'Socialist Party USA', "root['alma_mater']": 'Dartmouth College'}, 'values_changed': {"root['party']": {'new_value': 'Green Party (United States)', 'old_value': 'Green Party of the United States'}}}
+66: {'dictionary_item_removed': {"root['allegiance']": 'flag', "root['branch']": 'flag', "root['battles']": 'Vietnam War '}}
+72: {'dictionary_item_added': {"root['allegiance']": 'flag'}, 'values_changed': {"root['branch']": {'new_value': 'flag', 'old_value': 'United States Marine Corps'}}}
+75: {'dictionary_item_added': {"root['alma_mater']": 'Dartmouth College'}, 'dictionary_item_removed': {"root['education']": 'Dartmouth College'}}
+76: {'dictionary_item_removed': {"root['allegiance']": 'flag'}, 'values_changed': {"root['branch']": {'new_value': 'United States Marine Corps', 'old_value': 'flag'}}}

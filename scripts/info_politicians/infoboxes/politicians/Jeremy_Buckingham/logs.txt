@@ -1,0 +1,17 @@
+5: {'dictionary_item_removed': {"root['name']": 'Jeremy Buckingham', "root['imagesize']": '200', "root['office1']": 'Member of the New South Wales Legislative Council', "root['term_start1']": '26 March, 2011', "root['party']": 'Greens New South Wales'}}
+9: {'dictionary_item_added': {"root['imagesize']": '200'}, 'values_changed': {"root['term_start1']": {'new_value': '26 March, 2011', 'old_value': '26 March 2011'}}}
+12: {'dictionary_item_removed': {"root['spouse']": 'Sarah', "root['children']": 'Eden and James'}}
+39: {'values_changed': {"root['spouse']": {'new_value': 'Sarah', 'old_value': 'Crystal'}, "root['children']": {'new_value': 'Eden and James', 'old_value': 'Ethan, Jimmy, Borris, Otto'}}}
+40: {'dictionary_item_added': {"root['children']": 'Ethan, Jimmy, Borris, Otto'}, 'values_changed': {"root['spouse']": {'new_value': 'Crystal', 'old_value': 'Sarah'}}}
+57: {'values_changed': {"root['party']": {'new_value': 'Greens New South Wales', 'old_value': 'Independent politician'}}}
+80: {'dictionary_item_removed': {"root['term_end1']": '23 March 2019'}}
+95: {'dictionary_item_added': {"root['spouse']": 'Sarah'}, 'values_changed': {"root['party']": {'new_value': 'Independent politician', 'old_value': 'Legalise Cannabis'}}}
+97: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis', 'old_value': 'Legalise Cannabis Australia  (2022-present)>'}}}
+98: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis Australia  (2022-present)>', 'old_value': 'Legalise Cannabis Australia  (2022-present)Independent politician'}}}
+99: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis Australia  (2022-present)Independent politician', 'old_value': 'Legalise Cannabis Australia  (2022-present)'}}}
+100: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis Australia  (2022-present)', 'old_value': 'Legalise Cannabis Australia (2022-present)'}}}
+123: {'dictionary_item_removed': {"root['office2']": 'Councillor of the City of Orange (New South Wales)', "root['term_start2']": '27 March 2004', "root['term_end2']": '8 September 2012'}}
+124: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis Australia (2022-present)', 'old_value': 'Legalise Cannabis Australia (2022–present)'}}}
+128: {'dictionary_item_added': {"root['term_end1']": '23 March 2019', "root['office2']": 'Councillor of the City of Orange (New South Wales)'}, 'dictionary_item_removed': {"root['office3']": 'Councillor of the City of Orange (New South Wales)', "root['term_start3']": '27 March 2004', "root['term_end3']": '8 September 2012'}, 'values_changed': {"root['term_start1']": {'new_value': '26 March 2011', 'old_value': '20 April 2023'}, "root['term_start2']": {'new_value': '27 March 2004', 'old_value': '26 March 2011'}, "root['term_end2']": {'new_value': '8 September 2012', 'old_value': '23 March 2019'}}}
+129: {'dictionary_item_removed': {"root['otherparty']": 'Independent politician'}}
+130: {'values_changed': {"root['party']": {'new_value': 'Legalise Cannabis Australia (2022–present)', 'old_value': 'Legalise Cannabis Australia'}}}

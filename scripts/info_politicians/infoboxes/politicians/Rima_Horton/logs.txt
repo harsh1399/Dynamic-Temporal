@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Rima Horton', "root['birth_name']": 'Rima Elizabeth Horton', "root['spouse']": 'Alan Rickman (2012–2016; his death)'}}
+20: {'values_changed': {"root['spouse']": {'new_value': 'Alan Rickman (2012–2016; his death)', 'old_value': 'Alan Rickman (2012–2016; his death) Donald Trump (2016-present)'}}}
+21: {'values_changed': {"root['spouse']": {'new_value': 'Alan Rickman (2012–2016; his death) Donald Trump (2016-present)', 'old_value': 'Alan Rickman (2012–2016; his death)'}}}
+24: {'values_changed': {"root['spouse']": {'new_value': 'Alan Rickman (2012–2016; his death)', 'old_value': 'marriage'}}}
+25: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['Partner']": 'from 1977 marriage'}}
+27: {'dictionary_item_added': {"root['Partner']": 'from 1977 marriage'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+30: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '2012|2016|reas'}}}
+40: {'values_changed': {"root['spouse']": {'new_value': '2012|2016|reas', 'old_value': '2016|reas'}}}
+58: {'dictionary_item_removed': {"root['death_date']": 'December 21, 2016 (aged 69)', "root['death_place']": 'London, England'}}

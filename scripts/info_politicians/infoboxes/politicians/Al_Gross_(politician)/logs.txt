@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Al Gross', "root['party']": 'Independent', "root['education']": 'Amherst College (BA), University of Washington School of Medicine(MD), University of California Los Angeles Fielding School of Public Health (MPH)', "root['spouse']": 'Dr. Monica Gross', "root['children']": '4'}}
+4: {'values_changed': {"root['party']": {'new_value': 'Independent', 'old_value': 'Independent politician'}}}
+5: {'values_changed': {"root['party']": {'new_value': 'Independent politician', 'old_value': 'Independent'}}}
+6: {'values_changed': {"root['party']": {'new_value': 'Independent', 'old_value': 'Independent politician'}}}
+7: {'dictionary_item_removed': {"root['father']": 'Avrum Gross'}}
+10: {'values_changed': {"root['education']": {'new_value': 'Amherst College (BA), University of Washington School of Medicine(MD), University of California Los Angeles Fielding School of Public Health (MPH)', 'old_value': 'Amherst College (BA), University of Washington School of Medicine (MD), University of California, Los Angeles (Master of Public Health'}}}
+11: {'values_changed': {"root['education']": {'new_value': 'Amherst College (BA), University of Washington School of Medicine (MD), University of California, Los Angeles (Master of Public Health', 'old_value': 'Amherst College (BA), University of Washington School of Medicine'}}}
+12: {'values_changed': {"root['education']": {'new_value': 'Amherst College (BA), University of Washington School of Medicine', 'old_value': 'Amherst College (Bachelor of Arts'}}}
+27: {'values_changed': {"root['spouse']": {'new_value': 'Dr. Monica Gross', 'old_value': 'Monica Gross'}}}
+65: {'dictionary_item_removed': {"root['birth_name']": 'Alan Stuart Gross'}}
+80: {'values_changed': {"root['birth_name']": {'new_value': 'Alan Stuart Gross', 'old_value': 'Albatross Ross Gross'}}}
+81: {'values_changed': {"root['birth_name']": {'new_value': 'Albatross Ross Gross', 'old_value': 'Alan Stuart Gross'}}}
+82: {'values_changed': {"root['birth_name']": {'new_value': 'Alan Stuart Gross', 'old_value': 'Albatross Ross Gross'}}}
+83: {'values_changed': {"root['birth_name']": {'new_value': 'Albatross Ross Gross', 'old_value': 'Alan Stuart Gross'}}}
+84: {'dictionary_item_removed': {"root['otherparty']": 'Democratic Party (United States)'}}
+154: {'dictionary_item_added': {"root['otherparty']": 'Democratic Party (United States)', "root['father']": 'Avrum Gross'}, 'dictionary_item_removed': {"root['imgcaption']": 'Gross in 2022.'}}
+166: {'dictionary_item_removed': {"root['otherparty']": 'Democratic Party (United States)'}}
+167: {'values_changed': {"root['imgcaption']": {'new_value': 'Gross in 2022.', 'old_value': 'Gross in 2020.'}}}

@@ -1,0 +1,26 @@
+22: {'dictionary_item_removed': {"root['name']": 'Thae Yong-ho', "root['native_name']": '트해 용호', "root['native_name_lang']": 'ko', "root['Residence']": 'Plainlist', "root['known_for']": 'Defection'}}
+29: {'dictionary_item_added': {"root['Residence']": 'Plainlist'}, 'values_changed': {"root['native_name']": {'new_value': '트해 용호', 'old_value': '태용호'}}}
+30: {'values_changed': {"root['native_name']": {'new_value': '태용호', 'old_value': '태영호'}}}
+35: {'dictionary_item_removed': {"root['module']": 'Infobox Korean name', "root['hangul']": '태영호', "root['hanja']": '太', "root['rr']": 'Tae Yeong-ho', "root['mr']": "T'ae Yŏng-ho", "root['context']": 'north', "root['child']": 'yes '}}
+58: {'values_changed': {"root['hanja']": {'new_value': '太', 'old_value': '太永浩 http://chinese.yonhapnews.co.kr/newpgm/9908000000.html?cid'}}}
+59: {'values_changed': {"root['hanja']": {'new_value': '太永浩 http://chinese.yonhapnews.co.kr/newpgm/9908000000.html?cid', 'old_value': '太永浩'}}}
+66: {'dictionary_item_removed': {"root['spouse']": 'O Hye-son', "root['children']": '2 sons'}}
+128: {'dictionary_item_removed': {"root['citizenship']": 'South Korea'}, 'values_changed': {"root['hangul']": {'new_value': '태영호', 'old_value': 'linktext'}, "root['hanja']": {'new_value': '太永浩', 'old_value': 'linktext'}}}
+133: {'dictionary_item_removed': {"root['party']": 'United Future Party (2020 - present)'}}
+135: {'dictionary_item_removed': {"root['office']": 'Member of the National Assembly of the Republic of Korea', "root['term_start']": '15 April 2020', "root['constituency']": 'Gangnam-gu', "root['otherparty']": 'Workers’ Party of Korea small'}, 'values_changed': {"root['party']": {'new_value': 'United Future Party (2020 - present)', 'old_value': 'United Future Party small'}}}
+137: {'dictionary_item_removed': {"root['office1']": 'North Korean Deputy Ambassador to the United Kingdom', "root['term_start1']": '1 June 2006', "root['term_end1']": '15 August 2016', "root['leader2']": 'Kim Jong-il, Kim Jong-un'}}
+138: {'values_changed': {"root['office1']": {'new_value': 'North Korean Deputy Ambassador to the United Kingdom', 'old_value': 'North Korea–United Kingdom relations'}}}
+140: {'values_changed': {"root['constituency']": {'new_value': 'Gangnam-gu', 'old_value': 'Gangnam district'}}}
+142: {'values_changed': {"root['otherparty']": {'new_value': 'Workers’ Party of Korea small', 'old_value': "Workers' Party of Korea small"}}}
+146: {'values_changed': {"root['term_start']": {'new_value': '15 April 2020', 'old_value': '30 May 2020'}}}
+148: {'dictionary_item_removed': {"root['term_label']": 'Assuming office'}}
+149: {'dictionary_item_added': {"root['term_label']": 'Assuming office'}, 'dictionary_item_removed': {"root['termlabel']": 'Assuming office'}}
+150: {'dictionary_item_added': {"root['termlabel']": 'Assuming office', "root['term_start']": '30 May 2020'}, 'dictionary_item_removed': {"root['term_label']": 'Assuming office', "root['term']": '30 May 2020'}}
+156: {'dictionary_item_removed': {"root['succeeding']": 'Lee Jong-gu'}}
+157: {'dictionary_item_added': {"root['term_label']": 'Assuming office', "root['term']": '30 May 2020'}, 'dictionary_item_removed': {"root['status']": 'Elected', "root['term_start']": '30 May 2020'}}
+159: {'values_changed': {"root['constituency']": {'new_value': 'Gangnam district', 'old_value': 'Seoul, Gangnam district'}}}
+173: {'dictionary_item_added': {"root['leader2']": 'Kim Jong-il, Kim Jong-un'}, 'dictionary_item_removed': {"root['1blankname1']": 'nowrap', "root['1namedata1']": 'Kim Jong-il, Kim Jong-un'}}
+175: {'dictionary_item_added': {"root['status']": 'Elected', "root['succeeding']": 'Lee Jong-gu'}, 'dictionary_item_removed': {"root['predecessor']": 'Lee Jong-gu'}}
+176: {'dictionary_item_removed': {"root['othername1']": 'Pseudonym', "root['hangul1']": 'linktext', "root['hanja1']": 'linktext', "root['mr1']": 'Tae Gu-min', "root['rr1']": "T'ae Kumin"}}
+181: {'dictionary_item_added': {"root['context']": 'north'}, 'values_changed': {"root['citizenship']": {'new_value': 'South Korea', 'old_value': 'North and South Korea'}}}
+182: {'values_changed': {"root['citizenship']": {'new_value': 'North and South Korea', 'old_value': 'Korea'}}}

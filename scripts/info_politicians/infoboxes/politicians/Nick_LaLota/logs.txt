@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Nick LaLota', "root['state']": 'New York (state)', "root['district']": 'ushr', "root['term_start']": 'January 3, 2023', "root['succeeding']": 'Lee Zeldin', "root['predecessor']": 'Lee Zeldin', "root['party']": 'Republican Party (United States)', "root['education']": 'United States Naval Academy (BS), Hofstra University (JD, MBA) '}}
+7: {'values_changed': {"root['education']": {'new_value': 'United States Naval Academy (BS), Hofstra University (JD, MBA) ', 'old_value': 'United States Naval Academy (Bachelor of Science'}}}
+11: {'dictionary_item_added': {"root['predecessor']": 'Lee Zeldin'}, 'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'TBD'}}}
+14: {'values_changed': {"root['term_start']": {'new_value': 'TBD', 'old_value': 'January 3, 2023'}}}
+15: {'dictionary_item_added': {"root['succeeding']": 'Lee Zeldin'}, 'dictionary_item_removed': {"root['predecessor']": 'Lee Zeldin'}}
+18: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+19: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023'}}}
+20: {'dictionary_item_removed': {"root['spouse']": 'Kaylie', "root['children']": '3'}}
+30: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+31: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023'}}}
+33: {'dictionary_item_removed': {"root['allegiance']": 'United States', "root['branch']": 'United States Navy '}}
+34: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+35: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023'}}}
+36: {'values_changed': {"root['branch']": {'new_value': 'United States Navy ', 'old_value': 'United States Navy'}}}
+40: {'values_changed': {"root['allegiance']": {'new_value': 'United States', 'old_value': 'flag'}, "root['branch']": {'new_value': 'United States Navy', 'old_value': 'United States Navy '}}}
+41: {'values_changed': {"root['branch']": {'new_value': 'United States Navy ', 'old_value': 'flag'}}}
+44: {'values_changed': {"root['branch']": {'new_value': 'flag', 'old_value': 'United States Navy '}}}
+58: {'values_changed': {"root['branch']": {'new_value': 'United States Navy ', 'old_value': 'flag'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Angela Nicole Walker', "root['party']": 'Socialist Party USA', "root['alma_mater']": 'University of North Florida'}}
+2: {'dictionary_item_removed': {"root['otherparty']": 'Green Party of the United States'}}
+4: {'dictionary_item_removed': {"root['allegiance']": 'flag', "root['branch']": 'flag'}}
+28: {'dictionary_item_added': {"root['allegiance']": 'flag', "root['branch']": 'flag'}, 'dictionary_item_removed': {"root['office']": 'Legislative Director of Amalgamated Transit Union', "root['termstart']": '2011', "root['termend']": '2013'}}
+31: {'dictionary_item_removed': {"root['allegiance']": 'flagu', "root['branch']": 'File:Seal of the United States Army Reserve.svg'}}
+35: {'values_changed': {"root['party']": {'new_value': 'Socialist Party USA', 'old_value': 'Green Party of the United States'}, "root['otherparty']": {'new_value': 'Green Party of the United States', 'old_value': 'Socialist Party USA'}}}
+36: {'values_changed': {"root['party']": {'new_value': 'Green Party of the United States', 'old_value': 'Socialist Party USA'}, "root['otherparty']": {'new_value': 'Socialist Party USA', 'old_value': 'Green Party of the United States'}}}
+56: {'dictionary_item_added': {"root['office']": 'Legislative Director of Amalgamated Transit Union', "root['termstart']": '2011', "root['termend']": '2013', "root['alma_mater']": 'University of North Florida'}, 'dictionary_item_removed': {"root['education']": 'University of North Florida', "root['unit']": 'United States Army Reserve |'}, 'values_changed': {"root['allegiance']": {'new_value': 'flagu', 'old_value': 'flag'}, "root['branch']": {'new_value': 'File:Seal of the United States Army Reserve.svg', 'old_value': 'flag'}}}
+79: {'dictionary_item_added': {"root['otherparty']": 'Green Party of the United States'}, 'values_changed': {"root['education']": {'new_value': 'University of North Florida', 'old_value': 'University of North Florida (no degree)'}}}
+81: {'values_changed': {"root['education']": {'new_value': 'University of North Florida (no degree)', 'old_value': 'University of North Florida'}}}

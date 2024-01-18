@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['citizenship']": 'American', "root['education']": 'University of Chicago', "root['religion']": 'Presbyterian'}}
+17: {'values_changed': {"root['education']": {'new_value': 'University of Chicago', 'old_value': 'Williams College, University of Chicago'}}}
+18: {'values_changed': {"root['education']": {'new_value': 'Williams College, University of Chicago', 'old_value': 'Williams College, University of Chicago, Princeton Theological Seminary'}}}
+19: {'dictionary_item_removed': {"root['height']": '6\'2"', "root['weight']": '180 lbs', "root['party']": 'Republican'}, 'values_changed': {"root['citizenship']": {'new_value': 'American', 'old_value': 'United States of America'}}}
+23: {'dictionary_item_removed': {"root['death_date']": 'Death date and age'}}
+29: {'dictionary_item_removed': {"root['death_place']": 'Danbury, Connecticut'}}

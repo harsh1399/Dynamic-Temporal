@@ -1,0 +1,66 @@
+0: {'dictionary_item_removed': {"root['name']": 'Arjo Atayde', "root['birthname']": 'Juan Carlos Sanchez Atayde', "root['other_names']": 'Arjo Atayde', "root['yearsactive']": '2011-present', "root['school']": 'DeLa Salle University '}}
+4: {'values_changed': {"root['yearsactive']": {'new_value': '2011-present', 'old_value': '2012-present'}}}
+14: {'values_changed': {"root['birthname']": {'new_value': 'Juan Carlos Sanchez Atayde', 'old_value': 'Juan Carlos Campo Atayde'}}}
+34: {'values_changed': {"root['birthname']": {'new_value': 'Juan Carlos Campo Atayde', 'old_value': 'Arjo Miguel Carlos Atayde'}}}
+41: {'values_changed': {"root['birthname']": {'new_value': 'Arjo Miguel Carlos Atayde', 'old_value': 'Juan Miguel Carlos Campo Atayde'}}}
+60: {'values_changed': {"root['birthname']": {'new_value': 'Juan Miguel Carlos Campo Atayde', 'old_value': 'Arjo Miguel Carlos Campos Atayde'}}}
+67: {'values_changed': {"root['birthname']": {'new_value': 'Arjo Miguel Carlos Campos Atayde', 'old_value': 'Juan Carlos Campo Atayde'}}}
+103: {'dictionary_item_added': {"root['school']": 'DeLa Salle University '}, 'dictionary_item_removed': {"root['agent']": 'Star Magic (2012–present)', "root['alma_mater']": 'DeLa Salle University '}}
+104: {'values_changed': {"root['alma_mater']": {'new_value': 'DeLa Salle University ', 'old_value': 'De La Salle University '}}}
+108: {'dictionary_item_added': {"root['other_names']": 'Arjo Atayde'}, 'values_changed': {"root['yearsactive']": {'new_value': '2012-present', 'old_value': '2001-2002 ; 2012–present'}, "root['alma_mater']": {'new_value': 'De La Salle University ', 'old_value': 'De La Salle University'}}}
+170: {'dictionary_item_removed': {"root['awards']": 'Best New Male TV Personality - PMPC 2012; Best Drama Supporting Actor for TV - PMPC 2013; Best Single Performance by an Actor - PMPC 2014; Best Drama Supporting Actor of the Year- PMPC 2016 '}}
+175: {'values_changed': {"root['agent']": {'new_value': 'Star Magic (2012–present)', 'old_value': 'Star Magic (2012–present), Viva Entertainment'}}}
+176: {'values_changed': {"root['agent']": {'new_value': 'Star Magic (2012–present), Viva Entertainment', 'old_value': 'Star Magic (2012–present) ,  Viva Entertainment'}}}
+177: {'values_changed': {"root['agent']": {'new_value': 'Star Magic (2012–present) ,  Viva Entertainment', 'old_value': 'Star Magic (2012–present)'}}}
+178: {'values_changed': {"root['birthname']": {'new_value': 'Juan Carlos Campo Atayde', 'old_value': 'Juan Carlos Ocampo Atayde'}, "root['agent']": {'new_value': 'Star Magic (2012–present)', 'old_value': 'Star Magic (2012–present), Viva Communications'}}}
+181: {'values_changed': {"root['yearsactive']": {'new_value': '2001-2002 ; 2012–present', 'old_value': '2001-2002 ; 2008–present'}}}
+182: {'values_changed': {"root['yearsactive']": {'new_value': '2001-2002 ; 2008–present', 'old_value': '2001-2002 ; 2012–present'}}}
+193: {'dictionary_item_removed': {"root['height']": '6 ft 1.25 in'}}
+210: {'values_changed': {"root['height']": {'new_value': '6 ft 1.25 in', 'old_value': '1.83'}}}
+211: {'values_changed': {"root['height']": {'new_value': '1.83', 'old_value': '1.82'}}}
+217: {'dictionary_item_removed': {"root['partner']": 'Maine Mendoza (2018-present)'}, 'values_changed': {"root['agent']": {'new_value': 'Star Magic (2012–present), Viva Communications', 'old_value': 'Star Magic, (2012–present)'}, "root['height']": {'new_value': '1.82', 'old_value': '1.82 m'}}}
+226: {'dictionary_item_added': {"root['partner']": 'Maine Mendoza (2018-present)'}, 'values_changed': {"root['birthname']": {'new_value': 'Juan Carlos Ocampo Atayde', 'old_value': 'Juan Carlos Campo Atayde'}}}
+228: {'dictionary_item_removed': {"root['partner']": 'Maine Mendoza (2019-present)'}}
+241: {'values_changed': {"root['yearsactive']": {'new_value': '2001-2002 ; 2012–present', 'old_value': '2001–2002, 2012–present'}}}
+252: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2019-present)', 'old_value': 'Maine Mendoza (2018-present)'}}}
+258: {'values_changed': {"root['yearsactive']": {'new_value': '2001–2002, 2012–present', 'old_value': 'ubl'}}}
+260: {'values_changed': {"root['yearsactive']": {'new_value': 'ubl', 'old_value': '1998–2006-/bl2012–present'}}}
+261: {'values_changed': {"root['yearsactive']": {'new_value': '1998–2006-/bl2012–present', 'old_value': '2001–2002, 2012–present'}}}
+262: {'values_changed': {"root['yearsactive']": {'new_value': '2001–2002, 2012–present', 'old_value': '1998–2006, 2012–present'}}}
+264: {'values_changed': {"root['yearsactive']": {'new_value': '1998–2006, 2012–present', 'old_value': '2001–2002, 2012–present'}}}
+278: {'dictionary_item_added': {"root['partner']": 'Maine Mendoza (2018-present)'}, 'values_changed': {"root['alma_mater']": {'new_value': 'De La Salle University', 'old_value': 'De La Salle University -- Please do not add partners as it is considered couples that are living together but not married or engaged couple -->'}}}
+279: {'values_changed': {"root['alma_mater']": {'new_value': 'De La Salle University -- Please do not add partners as it is considered couples that are living together but not married or engaged couple -->', 'old_value': 'De La Salle University'}}}
+289: {'dictionary_item_removed': {"root['partner']": 'Maine Mendoza (2018-present)'}}
+292: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018-present)', 'old_value': 'Maine Mendoza (2018 2020'}}}
+293: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018 2020', 'old_value': 'Maine Mendoza 2018-2020'}}}
+296: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza 2018-2020', 'old_value': 'Maine Mendoza (2018-present)'}}}
+305: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018-present)', 'old_value': 'Maine Mendoza (2018–present)'}}}
+325: {'dictionary_item_added': {"root['partner']": 'Maine Mendoza (2018–present)'}, 'values_changed': {"root['awards']": {'new_value': 'Best New Male TV Personality - PMPC 2012; Best Drama Supporting Actor for TV - PMPC 2013; Best Single Performance by an Actor - PMPC 2014; Best Drama Supporting Actor of the Year- PMPC 2016 ', 'old_value': 'Best New Male TV Personality - PMPC 2012; Best Drama Supporting Actor for TV - PMPC 2013; Best Single Performance by an Actor - PMPC 2014; Best Drama Supporting Actor of the Year - PMPC 2016; Best Actor in a Leading Role - 3rd Asian Academy Creative Awards 2020 '}}}
+345: {'values_changed': {"root['alma_mater']": {'new_value': 'De La Salle University', 'old_value': 'La Salle Greenhills'}}}
+346: {'values_changed': {"root['alma_mater']": {'new_value': 'La Salle Greenhills', 'old_value': 'La Salle Green Hills'}}}
+350: {'dictionary_item_removed': {"root['office']": 'Member of the House of Representatives of the Philippines', "root['term_start']": 'June 30, 2022'}}
+351: {'dictionary_item_removed': {"root['succeeding']": 'Anthony Peter Crisologo'}}
+352: {'dictionary_item_added': {"root['yearsactive']": '2001–2002, 2012–present'}, 'dictionary_item_removed': {"root['party']": 'Independent politician', "root['years_active']": '2001–2002, 2012–present'}}
+353: {'dictionary_item_added': {"root['succeeding']": 'Anthony Peter Crisologo'}, 'dictionary_item_removed': {"root['predecessor']": 'Anthony Peter Crisologo'}}
+354: {'dictionary_item_added': {"root['predecessor']": 'Anthony Peter Crisologo'}, 'dictionary_item_removed': {"root['succeeding']": 'Anthony Peter Crisologo'}, 'values_changed': {"root['office']": {'new_value': 'Member of the House of Representatives of the Philippines', 'old_value': 'Member of the , Philippine House of Representatives for Legislative districts of Quezon City'}}}
+356: {'values_changed': {"root['office']": {'new_value': 'Member of the , Philippine House of Representatives for Legislative districts of Quezon City', 'old_value': 'Member of the , Philippine House of Representatives-elect,  for Legislative districts of Quezon City'}}}
+357: {'dictionary_item_added': {"root['years_active']": '2001–2002, 2012–present', "root['agent']": 'Star Magic, (2012–present)'}, 'dictionary_item_removed': {"root['otherparty']": 'Serbisyo Sa Bayan (2021–present)'}}
+358: {'values_changed': {"root['office']": {'new_value': 'Member of the , Philippine House of Representatives-elect,  for Legislative districts of Quezon City', 'old_value': 'Member-elect of the Philippine House of Representatives for Legislative districts of Quezon City'}}}
+359: {'values_changed': {"root['office']": {'new_value': 'Member-elect of the Philippine House of Representatives for Legislative districts of Quezon City', 'old_value': 'Member-elect of the , Philippine House of Representatives,  for Legislative districts of Quezon City'}}}
+361: {'values_changed': {"root['office']": {'new_value': 'Member-elect of the , Philippine House of Representatives,  for Legislative districts of Quezon City', 'old_value': 'Member-elect of the , Philippine House of Representatives,  from Legislative districts of Quezon City'}}}
+365: {'dictionary_item_added': {"root['height']": '1.82 m'}, 'values_changed': {"root['alma_mater']": {'new_value': 'La Salle Green Hills', 'old_value': 'La Salle Green Hills, De La Salle University'}}}
+366: {'dictionary_item_added': {"root['succeeding']": 'Anthony Peter Crisologo'}, 'dictionary_item_removed': {"root['predecessor']": 'Anthony Peter Crisologo'}, 'values_changed': {"root['office']": {'new_value': 'Member-elect of the , Philippine House of Representatives,  from Legislative districts of Quezon City', 'old_value': 'Member of the , Philippine House of Representatives,  from Legislative districts of Quezon City'}}}
+376: {'dictionary_item_removed': {"root['partner']": 'Maine Mendoza (2019–present; engaged)'}}
+395: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2019–present; engaged)', 'old_value': 'Maine Mendoza (2018–present; engaged)'}}}
+406: {'values_changed': {"root['party']": {'new_value': 'Independent politician', 'old_value': 'Nacionalista Party'}, "root['otherparty']": {'new_value': 'Serbisyo Sa Bayan (2021–present)', 'old_value': 'Serbisyo Sa Bayan (2021–present) Independent politician'}}}
+407: {'dictionary_item_added': {"root['term_start']": 'June 30, 2022'}, 'dictionary_item_removed': {"root['termstart']": 'June 30, 2022', "root['relations']": 'Ria Atayde (sister), Coleen Garcia (cousin)', "root['honorific_prefix']": 'The Honorable '}, 'values_changed': {"root['office']": {'new_value': 'Member of the , Philippine House of Representatives,  from Legislative districts of Quezon City', 'old_value': 'Member of the House of Representatives of the Philippines'}, "root['otherparty']": {'new_value': 'Serbisyo Sa Bayan (2021–present) Independent politician', 'old_value': 'Independent politician'}, "root['alma_mater']": {'new_value': 'La Salle Green Hills, De La Salle University', 'old_value': 'De La Salle University'}, "root['awards']": {'new_value': 'Best New Male TV Personality - PMPC 2012; Best Drama Supporting Actor for TV - PMPC 2013; Best Single Performance by an Actor - PMPC 2014; Best Drama Supporting Actor of the Year - PMPC 2016; Best Actor in a Leading Role - 3rd Asian Academy Creative Awards 2020 ', 'old_value': 'Best New Male TV Personality - PMPC 2012; Best Drama Supporting Actor for TV - PMPC 2013; Best Single Performance by an Actor - PMPC 2014; Best Drama Supporting Actor of the Year - PMPC 2016; Best Actor in a Leading Role - 3rd Asian Academy Creative Awards 2020'}}}
+409: {'values_changed': {"root['office']": {'new_value': 'Member of the House of Representatives of the Philippines', 'old_value': 'Member of the, House of Representatives of the Philippines'}}}
+410: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018–present; engaged)', 'old_value': 'Sammie (2018–present; engaged)'}}}
+411: {'values_changed': {"root['partner']": {'new_value': 'Sammie (2018–present; engaged)', 'old_value': 'SammieRimando  (2018–present; engaged)'}}}
+412: {'values_changed': {"root['partner']": {'new_value': 'SammieRimando  (2018–present; engaged)', 'old_value': 'Maine Mendoza (2018–present; engaged)'}}}
+413: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018–present; engaged)', 'old_value': 'sammie  (2018–present; engaged)'}}}
+414: {'values_changed': {"root['partner']": {'new_value': 'sammie  (2018–present; engaged)', 'old_value': 'sammie Rimando  (2018–present; engaged)'}}}
+415: {'values_changed': {"root['partner']": {'new_value': 'sammie Rimando  (2018–present; engaged)', 'old_value': 'sammie rimando  (2018–present; engaged)'}}}
+416: {'values_changed': {"root['partner']": {'new_value': 'sammie rimando  (2018–present; engaged)', 'old_value': 'Maine Mendoza (2018–present; engaged)'}}}
+421: {'values_changed': {"root['partner']": {'new_value': 'Maine Mendoza (2018–present; engaged)', 'old_value': 'Sammie Rimando (2018–present; engaged)'}}}
+422: {'values_changed': {"root['partner']": {'new_value': 'Sammie Rimando (2018–present; engaged)', 'old_value': 'Maine Mendoza (2018–present; engaged)'}}}

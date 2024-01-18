@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sajjan Kumar', "root['constituency']": 'Outer Delhi (Lok Sabha constituency)', "root['office']": 'Member of Parliament', "root['party']": 'Indian National Congress', "root['spouse']": 'Ram Kaur', "root['children']": '1 son and 2 daughters', "root['date']": 'Birth', "root['year']": '2006', "root['source']": 'http://164.100.24.208/ls/lsmember/biodata.asp?mpsno'}}
+5: {'values_changed': {"root['name']": {'new_value': 'Sajjan Kumar', 'old_value': 'Sajjan Pawan Kumar'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'Sajjan Pawan Kumar', 'old_value': 'Sajjan Kumar'}}}
+40: {'dictionary_item_added': {"root['children']": '1 son and 2 daughters', "root['year']": '2006', "root['source']": 'http://164.100.24.208/ls/lsmember/biodata.asp?mpsno'}, 'values_changed': {"root['constituency']": {'new_value': 'Outer Delhi (Lok Sabha constituency)', 'old_value': 'Outer Delhi'}, "root['office']": {'new_value': 'Member of Parliament', 'old_value': 'Former Member of Parliament'}, "root['spouse']": {'new_value': 'Ram Kaur', 'old_value': 'Ram Kumar'}}}
+43: {'values_changed': {"root['spouse']": {'new_value': 'Ram Kumar', 'old_value': 'Ram Kaur'}}}
+44: {'values_changed': {"root['spouse']": {'new_value': 'Ram Kaur', 'old_value': 'Ram Kumar'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Sajjan Kumar', 'old_value': 'Sanjan Kumar'}, "root['constituency']": {'new_value': 'Outer Delhi', 'old_value': 'Bangalore'}, "root['office']": {'new_value': 'Former Member of Parliament', 'old_value': 'Employe'}, "root['spouse']": {'new_value': 'Ram Kumar', 'old_value': 'Devender kamat'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'Sanjan Kumar', 'old_value': 'Sajjan Kumar'}, "root['constituency']": {'new_value': 'Bangalore', 'old_value': 'Outer Delhi'}, "root['office']": {'new_value': 'Employe', 'old_value': 'Former Member of Parliament'}, "root['spouse']": {'new_value': 'Devender kamat', 'old_value': 'Ram Kumar'}}}
+48: {'values_changed': {"root['party']": {'new_value': 'Indian National Congress', 'old_value': 'bhartiya janta party'}}}
+49: {'values_changed': {"root['party']": {'new_value': 'bhartiya janta party', 'old_value': 'Indian National Congress'}}}
+74: {'dictionary_item_added': {"root['party']": 'Indian National Congress', "root['spouse']": 'Ram Kumar'}, 'values_changed': {"root['name']": {'new_value': 'Sajjan Kumar', 'old_value': 'Sajjan Lavda Kumar'}}}
+78: {'values_changed': {"root['name']": {'new_value': 'Sajjan Lavda Kumar', 'old_value': 'Sajjan gandu Kumar'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'Sajjan gandu Kumar', 'old_value': 'Sajjan Gandu Kumar'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'Sajjan Gandu Kumar', 'old_value': 'Sajjan Chutmaar Kumar'}}}
+81: {'values_changed': {"root['name']": {'new_value': 'Sajjan Chutmaar Kumar', 'old_value': 'Sajjan Kumar'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Sajjan Kumar', 'old_value': 'Lavda Sajjan Kumar'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'Lavda Sajjan Kumar', 'old_value': 'Sajjan Kumar'}}}
+85: {'dictionary_item_removed': {"root['children']": "Arvind 'Chanda' Kejriwal"}}
+88: {'dictionary_item_added': {"root['children']": "Arvind 'Chanda' Kejriwal"}, 'values_changed': {"root['name']": {'new_value': 'Sajjan Kumar', 'old_value': 'Sajjan lavda Kumar'}}}
+90: {'values_changed': {"root['name']": {'new_value': 'Sajjan lavda Kumar', 'old_value': 'Sajjan Kumar'}}}
+95: {'dictionary_item_removed': {"root['party']": 'Indian National Congress'}}
+99: {'dictionary_item_removed': {"root['criminal_status']": 'Convicted', "root['module']": 'Infobox Indian politician'}}
+100: {'dictionary_item_removed': {"root['criminal_charge']": 'abetting & instigating Sikh killings'}}
+104: {'dictionary_item_added': {"root['module']": 'Infobox Indian politician', "root['constituency']": 'Outer Delhi', "root['office']": 'Former Member of Parliament'}, 'dictionary_item_removed': {"root['office1']": 'Member of Parliament, Lok Sabha', "root['constituency3']": 'Outer Delhi', "root['term1']": '1980-1984', "root['predecessor1']": 'Chaudhary Brahm Prakash', "root['successor1']": 'Choudhury Bharat Singh', "root['term2']": '1991-1996', "root['predecessor2']": 'Tarif Singh', "root['successor2']": 'Krishan Lal Sharma', "root['term3']": '1991-1996', "root['predecessor3']": 'Sahib Singh Verma', "root['spouse']": 'Ram Kaur', "root['source']": 'http://164.100.47.194/Loksabha/Members/MemberBioprofile.aspx?mpsno'}, 'values_changed': {"root['party']": {'new_value': 'Indian National Congress', 'old_value': 'Indian National Congress till 2018'}}}
+111: {'values_changed': {"root['term3']": {'new_value': '1991-1996', 'old_value': '2004-2009'}}}

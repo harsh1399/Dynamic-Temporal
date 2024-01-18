@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Cielito del Mundo', "root['birth_name']": 'Cielito del Mundo', "root['death_date']": 'Death date', "root['death_place']": 'Phoenix, Arizona, United States of America', "root['death_cause']": 'Cardiac arrest', "root['othername']": 'Mahal'}}
+1: {'values_changed': {"root['death_cause']": {'new_value': 'Cardiac arrest', 'old_value': 'Stroke, Brain tumor'}}}
+8: {'values_changed': {"root['death_date']": {'new_value': 'Death date', 'old_value': 'Death date and given age'}}}
+18: {'values_changed': {"root['othername']": {'new_value': 'Mahal', 'old_value': 'Mahal, The Queen of Public Service'}}}

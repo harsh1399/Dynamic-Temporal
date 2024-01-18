@@ -1,0 +1,11 @@
+43: {'dictionary_item_removed': {"root['name']": 'Taro Yamamoto', "root['native_name']": '山本 太郎', "root['native_name_lang']": 'ja'}}
+76: {'dictionary_item_removed': {"root['office']": 'Leader of Reiwa Shinsengumi', "root['term_start']": '1 April 2019', "root['predecessor']": 'Position established', "root['constituency']": 'Tokyo at-large district'}}
+77: {'dictionary_item_added': {"root['constituency']": 'Tokyo at-large district'}, 'dictionary_item_removed': {"root['office1']": 'Member of the House of Councillors', "root['term_start1']": '21 July 2013', "root['constituency1']": 'Tokyo at-large district'}}
+78: {'dictionary_item_removed': {"root['party']": 'Nowrap', "root['otherparty']": 'Nowrap'}}
+81: {'dictionary_item_removed': {"root['term_end1']": '21 July 2019'}}
+99: {'dictionary_item_removed': {"root['office2']": 'Member of the House of Representatives', "root['term_start2']": '31 October 2021', "root['constituency2']": 'Proportional representation'}}
+100: {'values_changed': {"root['office2']": {'new_value': 'Member of the House of Representatives', 'old_value': 'Member of the House of Representatives (Japan)'}}}
+111: {'dictionary_item_removed': {"root['term_end2']": '15 April 2022', "root['successor2']": 'Mari Kushibuchi'}}
+114: {'dictionary_item_added': {"root['term_end2']": '15 April 2022'}, 'values_changed': {"root['term_start2']": {'new_value': '31 October 2021', 'old_value': '25 July 2022'}}}
+115: {'dictionary_item_added': {"root['office2']": 'Member of the House of Representatives (Japan)', "root['successor2']": 'Mari Kushibuchi'}, 'dictionary_item_removed': {"root['office3']": 'Member of the House of Representatives (Japan)', "root['term_start3']": '31 October 2021', "root['term_end3']": '15 April 2022', "root['successor3']": 'Mari Kushibuchi', "root['constituency3']": 'Proportional representation'}, 'values_changed': {"root['constituency2']": {'new_value': 'Proportional representation', 'old_value': 'Tokyo at-large district'}}}
+116: {'dictionary_item_added': {"root['term_end1']": '21 July 2019'}, 'dictionary_item_removed': {"root['term_end2']": '21 July 2019'}, 'values_changed': {"root['term_start1']": {'new_value': '21 July 2013', 'old_value': '25 July 2022'}, "root['term_start2']": {'new_value': '25 July 2022', 'old_value': '21 July 2013'}}}

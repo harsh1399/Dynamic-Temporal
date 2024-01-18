@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Palmerston', "root['office']": 'Chief Mouser to the Foreign & Commonwealth Office', "root['monarch']": 'Elizabeth II', "root['primeminister']": 'David Cameron', "root['term_start']": '13 April 2016', "root['gender']": 'Male', "root['owner']": 'Simon McDonald | political party'}}
+10: {'dictionary_item_added': {"root['primeminister']": 'David Cameron', "root['owner']": 'Simon McDonald | political party'}, 'dictionary_item_removed': {"root['1blankname']": 'Foreign Secretary', "root['1namedata']": 'Phillip Hammond', "root['predecessor']": "''Position established''", "root['relations']": 'Simon McDonald (owner) | political party'}}
+11: {'values_changed': {"root['1namedata']": {'new_value': 'Phillip Hammond', 'old_value': 'Boris Johnson'}}}
+12: {'values_changed': {"root['1namedata']": {'new_value': 'Boris Johnson', 'old_value': 'Phillip Hammond ,  Boris Johnson'}}}
+14: {'values_changed': {"root['relations']": {'new_value': 'Simon McDonald (owner) | political party', 'old_value': 'Simon McDonald (owner) '}}}
+20: {'values_changed': {"root['relations']": {'new_value': 'Simon McDonald (owner) ', 'old_value': 'Simon McDonald (guardian) '}}}
+21: {'values_changed': {"root['relations']": {'new_value': 'Simon McDonald (guardian) ', 'old_value': 'Simon McDonald (owner) '}}}
+22: {'dictionary_item_added': {"root['1blankname']": 'Foreign Secretary', "root['1namedata']": 'Phillip Hammond ,  Boris Johnson'}, 'dictionary_item_removed': {"root['primeminister']": 'David Cameron ,  Theresa May'}}
+23: {'values_changed': {"root['primeminister']": {'new_value': 'David Cameron ,  Theresa May', 'old_value': 'Theresa May'}}}
+29: {'dictionary_item_added': {"root['gender']": 'Male'}, 'dictionary_item_removed': {"root['1blankname']": 'Foreign Secretary', "root['1namedata']": 'Phillip Hammond ,  Boris Johnson'}}
+38: {'values_changed': {"root['1namedata']": {'new_value': 'Phillip Hammond ,  Boris Johnson', 'old_value': 'Philip Hammond ,  Boris Johnson'}}}
+39: {'values_changed': {"root['primeminister']": {'new_value': 'Theresa May', 'old_value': 'David Cameron Theresa May'}, "root['1namedata']": {'new_value': 'Philip Hammond ,  Boris Johnson', 'old_value': 'Philip Hammond Boris Johnson'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Palmerston', 'old_value': 'Palmerston the great'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'Palmerston the great', 'old_value': 'Palmerston'}}}
+66: {'dictionary_item_added': {"root['monarch']": 'Elizabeth II', "root['1blankname']": 'Foreign Secretary', "root['1namedata']": 'Philip Hammond Boris Johnson', "root['relations']": 'Simon McDonald (owner) '}, 'dictionary_item_removed': {"root['leader']": 'Philip Hammond, Boris Johnson, Jeremy Hunt, Dominic Raab', "root['blank1']": 'Gender', "root['data1']": 'Male '}, 'values_changed': {"root['office']": {'new_value': 'Chief Mouser to the Foreign & Commonwealth Office', 'old_value': 'Chief Mouser to the Cabinet Office'}, "root['primeminister']": {'new_value': 'David Cameron Theresa May', 'old_value': 'David Cameron Theresa May Boris Johnson'}}}
+68: {'dictionary_item_added': {"root['leader']": 'Philip Hammond, Boris Johnson, Jeremy Hunt, Dominic Raab'}, 'dictionary_item_removed': {"root['1blankname']": 'Secretary of State for Foreign and Commonwealth Affairs', "root['1namedata']": 'Philip Hammond'}, 'values_changed': {"root['primeminister']": {'new_value': 'David Cameron Theresa May Boris Johnson', 'old_value': 'David Cameron'}}}
+69: {'values_changed': {"root['primeminister']": {'new_value': 'David Cameron', 'old_value': 'David Cameron Theresa May Boris Johnson'}, "root['1namedata']": {'new_value': 'Philip Hammond', 'old_value': 'Philip Hammond Boris Johnson Jeremy Hunt Dominic Raab'}}}
+70: {'dictionary_item_removed': {"root['monarch']": 'Elizabeth II'}}
+71: {'dictionary_item_removed': {"root['term_end']": '7 August 2020'}}
+73: {'dictionary_item_removed': {"root['successor']": "''Vacant''"}}

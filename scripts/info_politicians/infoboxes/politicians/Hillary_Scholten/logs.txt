@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hillary Scholten', "root['state']": 'Michigan', "root['district']": 'ushr', "root['term_start']": 'January 3, 2023', "root['succeeding']": 'Peter Meijer', "root['party']": 'Democratic Party (United States)', "root['children']": '2', "root['education']": 'Gordon College (BA) '}}
+2: {'dictionary_item_added': {"root['succeeding']": 'Peter Meijer'}, 'dictionary_item_removed': {"root['predecessor']": 'Peter Meijer'}}
+6: {'values_changed': {"root['education']": {'new_value': 'Gordon College (BA) ', 'old_value': 'ubl'}}}
+10: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+11: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'John Bachtell', "root['alma_mater']": 'Antioch College, (Bachelor of Arts', "root['office']": 'Chairman of the Communist Party USA', "root['term_start']": 'June 15, 2014', "root['predecessor']": 'Sam Webb', "root['party']": 'Communist Party USA'}}
+6: {'dictionary_item_removed': {"root['birthname']": 'John Bachtell'}}
+16: {'dictionary_item_added': {"root['birthname']": 'John Bachtell'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Antioch College, (Bachelor of Arts', 'old_value': 'Antioch College'}}}
+24: {'dictionary_item_removed': {"root['term_end']": 'June 23, 2019', "root['successor']": 'Rossana Cambron & Joe Sims'}}
+26: {'values_changed': {"root['successor']": {'new_value': 'Rossana Cambron & Joe Sims', 'old_value': 'Rossana Cambron and Joe Sims (Communist Party)'}}}

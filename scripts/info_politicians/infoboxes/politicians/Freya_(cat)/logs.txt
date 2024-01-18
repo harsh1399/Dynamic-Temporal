@@ -1,0 +1,10 @@
+2: {'dictionary_item_removed': {"root['name']": 'Freya', "root['office']": 'Chief Mouser to the Cabinet Office', "root['monarch']": 'Elizabeth II', "root['term_start']": '16 September 2012', "root['predecessor']": 'Larry(cat)', "root['gender']": 'Female'}}
+3: {'values_changed': {"root['predecessor']": {'new_value': 'Larry(cat)', 'old_value': 'Larry (cat)'}}}
+61: {'dictionary_item_added': {"root['predecessor']": 'Larry (cat)'}, 'dictionary_item_removed': {"root['alongside']": 'Larry (cat)'}}
+62: {'dictionary_item_removed': {"root['primeminister']": 'David Cameron'}}
+74: {'dictionary_item_added': {"root['gender']": 'Female'}, 'dictionary_item_removed': {"root['term_end']": '9 November 2014', "root['term_label']": 'Held title', "root['predecessor']": 'Sybil (cat)', "root['successor']": 'Larry (cat)', "root['blank1']": 'Gender', "root['data1']": 'Female', "root['blank2']": 'Owned by', "root['data2']": 'George Osborne', "root['blank3']": 'Namesake', "root['data3']": 'Freya '}}
+75: {'values_changed': {"root['data3']": {'new_value': 'Freya ', 'old_value': 'Freyja '}}}
+81: {'dictionary_item_added': {"root['alongside']": 'Larry (cat)'}, 'values_changed': {"root['term_label']": {'new_value': 'Held title', 'old_value': 'In position'}}}
+82: {'values_changed': {"root['term_label']": {'new_value': 'In position', 'old_value': 'In role'}}}
+85: {'values_changed': {"root['term_label']": {'new_value': 'In role', 'old_value': 'In Office'}}}
+86: {'values_changed': {"root['term_label']": {'new_value': 'In Office', 'old_value': 'In role'}}}

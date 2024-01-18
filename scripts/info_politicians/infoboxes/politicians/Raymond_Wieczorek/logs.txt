@@ -1,0 +1,6 @@
+4: {'dictionary_item_removed': {"root['name']": 'Raymond Wieczorek', "root['office']": 'New Hampshire Executive Council, District 4', "root['term_start']": '2002', "root['term_end']": '2012', "root['predecessor']": 'Thomas Coluontuno', "root['successor']": 'Chris Pappas (politician)', "root['party']": 'Republican Party (United States)'}}
+6: {'dictionary_item_removed': {"root['office2']": '52nd Mayor of Manchester, New Hampshire', "root['term_start2']": '1990', "root['term_end2']": '2000', "root['predecessor2']": 'Emile Beaulieu', "root['successor2']": 'Robert A. Baines'}, 'values_changed': {"root['office']": {'new_value': 'New Hampshire Executive Council, District 4', 'old_value': 'Member of the Executive Council of New Hampshire from the 4th District'}, "root['predecessor']": {'new_value': 'Thomas Coluontuno', 'old_value': 'Thomas P. Colantuono'}}}
+7: {'dictionary_item_removed': {"root['death_date']": 'Death date and age'}}
+21: {'dictionary_item_removed': {"root['partner']": 'Susan (wife)'}}
+22: {'dictionary_item_added': {"root['partner']": 'Susan (wife)'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+23: {'dictionary_item_removed': {"root['death_place']": 'Manchester, New Hampshire, U.S.', "root['children']": '3'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}

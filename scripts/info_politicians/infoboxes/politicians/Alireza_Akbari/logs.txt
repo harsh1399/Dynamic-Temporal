@@ -1,0 +1,12 @@
+49: {'dictionary_item_removed': {"root['name']": 'Alireza Akbari', "root['death_date']": '14 January 2023', "root['death_cause']": 'Execution'}}
+63: {'values_changed': {"root['death_date']": {'new_value': '14 January 2023', 'old_value': 'death date and age'}}}
+64: {'dictionary_item_removed': {"root['death_place']": 'Iran'}}
+65: {'dictionary_item_removed': {"root['citizenship']": ['Iran', 'United Kingdom']}}
+67: {'values_changed': {"root['death_date']": {'new_value': 'death date and age', 'old_value': 'c. death date and age'}}}
+70: {'dictionary_item_removed': {"root['order2']": 'Ministry of Defence and Armed Forces Logistics (Iran)', "root['term_start2']": 'February 2000', "root['term_end2']": '24 August 2005', "root['minister2']": 'Ali Shamkhani'}}
+75: {'values_changed': {"root['death_date']": {'new_value': 'c. death date and age', 'old_value': 'circa death date and age'}}}
+77: {'values_changed': {"root['death_cause']": {'new_value': 'Execution', 'old_value': 'Execution by hanging'}}}
+91: {'type_changes': {"root['citizenship']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Iran, UK ', 'new_value': ['Iran', 'United Kingdom']}}}
+92: {'type_changes': {"root['citizenship']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Iran', 'United Kingdom'], 'new_value': 'Iran, UK '}}}
+125: {'values_changed': {"root['death_date']": {'new_value': 'circa death date and age', 'old_value': 'circa'}}}
+148: {'type_changes': {"root['citizenship']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Iran, United Kingdom ', 'new_value': ['Iran', 'United Kingdom']}}, 'values_changed': {"root['death_date']": {'new_value': 'circa', 'old_value': 'death date and age'}}}

@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Monica De La Cruz', "root['state']": 'Texas', "root['district']": 'ushr', "root['term_start']": 'January 3, 2023', "root['succeeding']": 'Vicente Gonzalez (politician)', "root['party']": 'Republican Party (United States)', "root['spouse']": 'marriage', "root['children']": '2 '}}
+3: {'dictionary_item_added': {"root['succeeding']": 'Vicente Gonzalez (politician)'}, 'dictionary_item_removed': {"root['predecessor']": 'Vicente Gonzalez (politician)'}}
+6: {'dictionary_item_added': {"root['predecessor']": 'Vicente Gonzalez (politician)'}, 'dictionary_item_removed': {"root['succeeding']": 'Vicente Gonzalez (politician)'}}
+7: {'dictionary_item_added': {"root['succeeding']": 'Vicente Gonzalez (politician)'}, 'dictionary_item_removed': {"root['predecessor']": 'Vicente Gonzalez (politician)'}}
+11: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+17: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+18: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023'}}}
+19: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023', 'old_value': 'January 7, 2023'}}}
+21: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 2023', 'old_value': 'January 3, 2023efn'}}}
+22: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2023efn', 'old_value': 'start date'}}}
+56: {'dictionary_item_removed': {"root['education']": 'University of Texas, San Antonio (Bachelor of Business Administration'}, 'values_changed': {"root['term_start']": {'new_value': 'start date', 'old_value': 'January 3, 2023'}}}
+64: {'dictionary_item_removed': {"root['module']": 'p'}}

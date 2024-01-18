@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Shivaji', "root['reign']": '1700-1707', "root['birth_name']": 'Shiva Rajaram', "root['death_date']": '14 March 1726', "root['death_place']": 'Raigarh Fort', "root['father']": 'Rajaram', "root['mother']": 'Tara Bai', "root['religion']": 'Hinduism'}}
+2: {'dictionary_item_removed': {"root['predecessor']": 'Rajaram Chhatrapati', "root['successor']": 'Chhatrapati Shahu', "root['issue']": 'Rajaram II'}, 'values_changed': {"root['death_date']": {'new_value': '14 March 1726', 'old_value': 'March 04, 1726'}, "root['death_place']": {'new_value': 'Raigarh Fort', 'old_value': 'Raigad Fort'}, "root['father']": {'new_value': 'Rajaram', 'old_value': 'Rajaram Chhatrapati'}, "root['mother']": {'new_value': 'Tara Bai', 'old_value': 'Tarabai'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'Shivaji', 'old_value': 'Shivaji Raje'}}}
+7: {'values_changed': {"root['name']": {'new_value': 'Shivaji Raje', 'old_value': 'Shivaji'}}}
+8: {'dictionary_item_added': {"root['birth_name']": 'Shiva Rajaram'}, 'values_changed': {"root['successor']": {'new_value': 'Chhatrapati Shahu', 'old_value': 'Chhatrapati Shahu, Sambhaji II (Kolhapur State)'}}}
+9: {'values_changed': {"root['reign']": {'new_value': '1700-1707', 'old_value': '1700-1707, 1710-1714 (Kolhapur State)'}}}
+10: {'values_changed': {"root['issue']": {'new_value': 'Rajaram II', 'old_value': 'Rajaram II of Satara'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'Shivaji', 'old_value': 'Shivaji Raje II'}}}
+15: {'values_changed': {"root['name']": {'new_value': 'Shivaji Raje II', 'old_value': 'Shivaji'}}}
+18: {'values_changed': {"root['death_place']": {'new_value': 'Raigad Fort', 'old_value': 'Raigad Fort(aged 29)'}}}
+20: {'values_changed': {"root['father']": {'new_value': 'Rajaram Chhatrapati', 'old_value': 'Sambhaji !!'}, "root['mother']": {'new_value': 'Tarabai', 'old_value': 'yesubai'}}}
+21: {'values_changed': {"root['father']": {'new_value': 'Sambhaji !!', 'old_value': 'Rajaram Chhatrapati'}, "root['mother']": {'new_value': 'yesubai', 'old_value': 'Tarabai'}}}

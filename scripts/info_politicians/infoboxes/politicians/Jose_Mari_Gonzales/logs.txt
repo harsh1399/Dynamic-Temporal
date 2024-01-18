@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'José Mari', "root['birth_name']": 'José Mari Gonzáles', "root['yearsactive']": '1958–1968', "root['spouse']": 'Charito Malarky (1964–present)  '}}
+1: {'dictionary_item_removed': {"root['death_date']": ' death date and age'}, 'values_changed': {"root['spouse']": {'new_value': 'Charito Malarky (1964–present)  ', 'old_value': 'Charito Malarky (1964–2019)  '}}}
+6: {'dictionary_item_removed': {"root['death_place']": 'Pasig, Metro Manila, Philippines'}}
+8: {'dictionary_item_removed': {"root['children']": 'Christina Gonzales '}, 'values_changed': {"root['spouse']": {'new_value': 'Charito Malarky (1964–2019)  ', 'old_value': 'Charito Malarky (1964–2019)'}}}
+9: {'values_changed': {"root['children']": {'new_value': 'Christina Gonzales ', 'old_value': 'Christiná Gonzales '}}}
+10: {'values_changed': {"root['children']": {'new_value': 'Christiná Gonzales ', 'old_value': 'Christina Gonzàles '}}}
+11: {'values_changed': {"root['children']": {'new_value': 'Christina Gonzàles ', 'old_value': 'Cristina Gonzáles, Anna Margarita Gonzáles '}}}
+12: {'values_changed': {"root['children']": {'new_value': 'Cristina Gonzáles, Anna Margarita Gonzáles ', 'old_value': 'Cristina Gonzales, Anna Margarita Gonzáles '}}}
+15: {'values_changed': {"root['children']": {'new_value': 'Cristina Gonzales, Anna Margarita Gonzáles ', 'old_value': '5 Cristina Gonzales '}}}
+16: {'values_changed': {"root['children']": {'new_value': '5 Cristina Gonzales ', 'old_value': '5  (including Cristina Gonzales) '}}}
+20: {'dictionary_item_added': {"root['name']": 'José Mari', "root['birth_name']": 'José Mari Gonzáles'}, 'values_changed': {"root['death_place']": {'new_value': 'Pasig, Metro Manila, Philippines', 'old_value': 'Pasig, Metro Manila, Philippines https://www.gmanetwork.com/entertainment/showbiznews/news/50122/former-matinee-idol-jose-mari-gonzales-passes-away/story'}}}
+22: {'values_changed': {"root['death_date']": {'new_value': ' death date and age', 'old_value': 'death date and age'}, "root['children']": {'new_value': '5  (including Cristina Gonzales) ', 'old_value': '5 (including Cristina Gonzales) '}}}
+29: {'values_changed': {"root['spouse']": {'new_value': 'Charito Malarky (1964–2019)', 'old_value': 'marriage'}}}
+30: {'values_changed': {"root['death_place']": {'new_value': 'Pasig, Metro Manila, Philippines https://www.gmanetwork.com/entertainment/showbiznews/news/50122/former-matinee-idol-jose-mari-gonzales-passes-away/story', 'old_value': 'Pasig, Metro Manila, Philippines'}}}
+33: {'values_changed': {"root['children']": {'new_value': '5 (including Cristina Gonzales) ', 'old_value': '5 (including Cristina Gonzáles) '}}}
+34: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'values_changed': {"root['yearsactive']": {'new_value': '1958–1968', 'old_value': '1958–68'}}}
+37: {'values_changed': {"root['death_place']": {'new_value': 'Pasig, Metro Manila, Philippines', 'old_value': 'Muntinlupa, Metro Manila, Philippines'}}}

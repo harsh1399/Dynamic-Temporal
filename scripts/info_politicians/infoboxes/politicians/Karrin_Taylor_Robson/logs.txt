@@ -1,0 +1,10 @@
+1: {'dictionary_item_removed': {"root['name']": 'Karrin Taylor Robson', "root['birth_name']": 'Karrin Kunasek', "root['party']": 'Republican Party (United States)', "root['spouse']": 'Edward J. Robson', "root['children']": '4', "root['education']": 'Arizona State University (BA, 1987), Arizona State University (JD, 1994)<ref name'}}
+11: {'values_changed': {"root['spouse']": {'new_value': 'Edward J. Robson', 'old_value': 'ubl'}}}
+12: {'dictionary_item_removed': {"root['relations']": 'Andy Kunasek, brother, Carl Kunasek, father'}}
+18: {'values_changed': {"root['relations']": {'new_value': 'Andy Kunasek, brother, Carl Kunasek, father', 'old_value': 'Carl Kunasek (father), Andy Kunasek (brother)'}, "root['spouse']": {'new_value': 'ubl', 'old_value': 'marriage'}, "root['education']": {'new_value': 'Arizona State University (BA, 1987), Arizona State University (JD, 1994)<ref name', 'old_value': 'Arizona State University, Tempe (BA, JD) '}}}
+24: {'values_changed': {"root['education']": {'new_value': 'Arizona State University, Tempe (BA, JD) ', 'old_value': 'Arizona State University Tempe campus'}}}
+57: {'values_changed': {"root['birth_name']": {'new_value': 'Karrin Kunasek', 'old_value': 'Karrin Margaret Kunasek'}}}
+59: {'values_changed': {"root['education']": {'new_value': 'Arizona State University Tempe campus', 'old_value': 'Arizona State University, Tempe (BA, JD) '}}}
+66: {'dictionary_item_added': {"root['relations']": 'Carl Kunasek (father), Andy Kunasek (brother)'}, 'dictionary_item_removed': {"root['office']": 'Member of the Arizona Board of Regents', "root['term_start']": 'June 2017', "root['term_end']": 'July 2021', "root['appointer']": 'Doug Ducey', "root['predecessor']": 'Greg Patterson', "root['successor']": 'Bob Herbold, Jessica Pacheco'}}
+76: {'values_changed': {"root['term_start']": {'new_value': 'June 2017', 'old_value': 'July 2017'}}}
+84: {'values_changed': {"root['education']": {'new_value': 'Arizona State University, Tempe (BA, JD) ', 'old_value': 'Arizona State University, Tempe (Bachelor of Arts, Juris Doctor) '}}}

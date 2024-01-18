@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Anders Kompass', "root['birth_name']": 'Per Anders Gunnar Kompass'}}
+1: {'dictionary_item_removed': {"root['ambassador_from']": 'Sweden', "root['country']": 'Guatemala', "root['term_start']": 'TBD', "root['predecessor']": 'Georg Andrén', "root['monarch']": 'Carl XVI Gustaf |prime minister'}}
+3: {'dictionary_item_added': {"root['predecessor']": 'Georg Andrén'}, 'dictionary_item_removed': {"root['succeding']": 'Georg Andrén'}}
+4: {'dictionary_item_added': {"root['succeding']": 'Georg Andrén'}, 'dictionary_item_removed': {"root['succeeding']": 'Georg Andrén', "root['primeminister']": 'Stefan Löfven '}, 'values_changed': {"root['monarch']": {'new_value': 'Carl XVI Gustaf |prime minister', 'old_value': 'Carl XVI Gustaf of Sweden'}}}
+5: {'values_changed': {"root['term_start']": {'new_value': 'TBD', 'old_value': '5 December 2017'}}}
+6: {'dictionary_item_added': {"root['succeeding']": 'Georg Andrén'}, 'dictionary_item_removed': {"root['successor']": 'Georg Andrén'}}
+7: {'dictionary_item_added': {"root['successor']": 'Georg Andrén'}, 'dictionary_item_removed': {"root['predecessor']": 'Georg Andrén'}}
