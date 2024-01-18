@@ -1,0 +1,118 @@
+30: {'dictionary_item_removed': {"root['type']": 'U.S. State', "root['name']": 'California', "root['output']": '$1,936,400 million (2010)<ref name', "root['outputpc']": '$51,914 (2010)<ref name', "root['laborforcesize']": '18,115,600', "root['unemployment']": '11.1%', "root['giniinequality']": '0.467 http://factfinder.census.gov/servlet/DTTable?_bm', "root['poverty']": '13.3', "root['budgetexpenditures']": '$85,937 million (2011-12)<ref name', "root['taxrevenue']": '$88,456 million (2011-12)<ref name'}}
+33: {'values_changed': {"root['output']": {'new_value': '$1,936,400 million (2010)<ref name', 'old_value': '$1,936,400 trillion (2010)<ref name'}}}
+37: {'values_changed': {"root['output']": {'new_value': '$1,936,400 trillion (2010)<ref name', 'old_value': '$1,936,400 million (2010)<ref name'}}}
+41: {'values_changed': {"root['output']": {'new_value': '$1,936,400 million (2010)<ref name', 'old_value': '$1,936,400 trillion (2010)<ref name'}}}
+42: {'values_changed': {"root['output']": {'new_value': '$1,936,400 trillion (2010)<ref name', 'old_value': '$1.9364 trillion (2010)<ref name'}}}
+43: {'values_changed': {"root['output']": {'new_value': '$1.9364 trillion (2010)<ref name', 'old_value': '$100 (2010)<ref name'}}}
+46: {'values_changed': {"root['output']": {'new_value': '$100 (2010)<ref name', 'old_value': '$1.9364 trillion (2010)<ref name'}}}
+49: {'dictionary_item_added': {"root['type']": 'U.S. State', "root['name']": 'California', "root['output']": '$1.9364 trillion (2010)<ref name', "root['outputpc']": '$51,914 (2010)<ref name', "root['laborforcesize']": '18,115,600', "root['giniinequality']": '0.467 http://factfinder.census.gov/servlet/DTTable?_bm', "root['budgetexpenditures']": '$85,937 million (2011-12)<ref name', "root['taxrevenue']": '$88,456 million (2011-12)<ref name'}, 'dictionary_item_removed': {"root['spelling']": 'US', "root['gdp']": '$2.496 trillion (2015)', "root['per capita']": '$63,763 (2015)<ref name', "root['date']": 'March 25, 2014', "root['accessdate']": 'June 11, 2014', "root['labor']": '18,600,000 (June 2014)', "root['website']": 'bls.gov', "root['publisher']": 'Bureau of Labor Statistics  | average gross salary', "root['gross median']": '| average net salary', "root['expenses']": '$45 billion (2011–12) State and local', "root['usebelowbox']": 'no | presentUS$asdefault'}, 'values_changed': {"root['unemployment']": {'new_value': '11.1%', 'old_value': '5.2% (May 2016)'}, "root['poverty']": {'new_value': '13.3', 'old_value': '16.4% (absolute) http://www.ppic.org/main/publication_show.asp?i'}}}
+50: {'values_changed': {"root['expenses']": {'new_value': '$45 billion (2011–12) State and local', 'old_value': '$220 billion (2011–12) State and local'}}}
+57: {'values_changed': {"root['unemployment']": {'new_value': '5.2% (May 2016)', 'old_value': '5.0% (February 2017)'}}}
+61: {'dictionary_item_removed': {"root['growth']": '3.3% (Q3 2016)'}, 'values_changed': {"root['accessdate']": {'new_value': 'June 11, 2014', 'old_value': '6 May 2017  | per capita'}, "root['website']": {'new_value': 'bls.gov', 'old_value': 'BEA.gov'}, "root['publisher']": {'new_value': 'Bureau of Labor Statistics  | average gross salary', 'old_value': 'accessdate'}}}
+62: {'values_changed': {"root['unemployment']": {'new_value': '5.0% (February 2017)', 'old_value': '4.9% (March 2017)'}}}
+66: {'values_changed': {"root['gdp']": {'new_value': '$2.496 trillion (2015)', 'old_value': '$2.603 trillion (2016)'}, "root['growth']": {'new_value': '3.3% (Q3 2016)', 'old_value': '2.9% (2016)'}, "root['unemployment']": {'new_value': '4.9% (March 2017)', 'old_value': '4.8% (April 2017)'}}}
+67: {'values_changed': {"root['per capita']": {'new_value': '$63,763 (2015)<ref name', 'old_value': '$66,310 (2016)<ref name'}}}
+73: {'dictionary_item_added': {"root['growth']": '2.9% (2016)', "root['per capita']": '$66,310 (2016)<ref name', "root['date']": 'March 25, 2014', "root['poverty']": '16.4% (absolute) http://www.ppic.org/main/publication_show.asp?i', "root['labor']": '18,600,000 (June 2014)', "root['unemployment']": '4.8% (April 2017)', "root['gross median']": '| average net salary', "root['expenses']": '$220 billion (2011–12) State and local', "root['usebelowbox']": 'no | presentUS$asdefault'}, 'values_changed': {"root['gdp']": {'new_value': '$2.603 trillion (2016)', 'old_value': 'Worst in the USA | Domestic Product by State'}, "root['publisher']": {'new_value': 'accessdate', 'old_value': 'Bureau of Economic Analysis'}, "root['accessdate']": {'new_value': '6 May 2017  | per capita', 'old_value': '6 May 2017'}}}
+74: {'dictionary_item_removed': {"root['growth']": '2.9% (2016)', "root['per capita']": '$66,310 (2016)<ref name', "root['date']": 'March 25, 2014', "root['poverty']": '16.4% (absolute) http://www.ppic.org/main/publication_show.asp?i', "root['labor']": '18,600,000 (June 2014)', "root['unemployment']": '4.8% (April 2017)', "root['gross median']": '| average net salary', "root['expenses']": '$220 billion (2011–12) State and local', "root['usebelowbox']": 'no | presentUS$asdefault'}, 'values_changed': {"root['gdp']": {'new_value': 'Worst in the USA | Domestic Product by State', 'old_value': '$2.603 trillion (2016)'}, "root['publisher']": {'new_value': 'Bureau of Economic Analysis', 'old_value': 'accessdate'}, "root['accessdate']": {'new_value': '6 May 2017', 'old_value': '6 May 2017  | per capita'}}}
+84: {'values_changed': {"root['poverty']": {'new_value': '16.4% (absolute) http://www.ppic.org/main/publication_show.asp?i', 'old_value': '16.4% (absolute)'}}}
+85: {'values_changed': {"root['publisher']": {'new_value': 'accessdate', 'old_value': 'Bureau of Economic Analysis'}}}
+86: {'values_changed': {"root['date']": {'new_value': 'March 25, 2014', 'old_value': 'March 25, 2014 |work'}, "root['labor']": {'new_value': '18,600,000 (June 2014)', 'old_value': '18,600,000 (June 2014) http://research.stlouisfed.org/fred2/data/CALFN.txt dead link'}, "root['expenses']": {'new_value': '$220 billion (2011–12) State and local', 'old_value': '$220 billion (2011–12) State and local State and local taxes in California are 11.2% of state GDP as determined by the Tax Fiundation. Trying to unscramble the state & local taxes and tax transfers between the state, local and school districts is difficult; but the Tax foundation has been doing it for over 20 years. http://taxfoundation.org/article/state-and-local-tax-burdens-all-states-one-year-1977-2010 dead link'}}}
+87: {'values_changed': {"root['expenses']": {'new_value': '$220 billion (2011–12) State and local State and local taxes in California are 11.2% of state GDP as determined by the Tax Fiundation. Trying to unscramble the state & local taxes and tax transfers between the state, local and school districts is difficult; but the Tax foundation has been doing it for over 20 years. http://taxfoundation.org/article/state-and-local-tax-burdens-all-states-one-year-1977-2010 dead link', 'old_value': '$220 billion (2011–12) http://taxfoundation.org/article/state-and-local-tax-burdens-all-states-one-year-1977-2010 dead link'}}}
+89: {'values_changed': {"root['gdp']": {'new_value': '$2.603 trillion (2016)', 'old_value': '$2.623 trillion (2016)'}, "root['per capita']": {'new_value': '$66,310 (2016)<ref name', 'old_value': '$66,821 (2016)<ref name'}}}
+90: {'values_changed': {"root['growth']": {'new_value': '2.9% (2016)', 'old_value': '2.1% (2016)'}, "root['per capita']": {'new_value': '$66,821 (2016)<ref name', 'old_value': '$47,401 (2014)<ref name'}, "root['poverty']": {'new_value': '16.4% (absolute)', 'old_value': '14.3% (absolute)'}}}
+91: {'values_changed': {"root['per capita']": {'new_value': '$47,401 (2014)<ref name', 'old_value': '$56,374(2016)<ref name'}, "root['date']": {'new_value': 'March 25, 2014 |work', 'old_value': 'September 26, 2017 |website'}, "root['unemployment']": {'new_value': '4.8% (April 2017)', 'old_value': '4.9% (October 2017)'}}}
+92: {'values_changed': {"root['growth']": {'new_value': '2.1% (2016)', 'old_value': '2.9% (2016)'}, "root['per capita']": {'new_value': '$56,374(2016)<ref name', 'old_value': '$66,821(2016)<ref name'}}}
+93: {'values_changed': {"root['growth']": {'new_value': '2.9% (2016)', 'old_value': '3.3% (2016)'}}}
+94: {'values_changed': {"root['growth']": {'new_value': '3.3% (2016)', 'old_value': '2.9% (2016)'}}}
+95: {'values_changed': {"root['growth']": {'new_value': '2.9% (2016)', 'old_value': '3.3% (2016)'}}}
+97: {'values_changed': {"root['growth']": {'new_value': '3.3% (2016)', 'old_value': '2.1% (2016)'}, "root['per capita']": {'new_value': '$66,821(2016)<ref name', 'old_value': '$56,374 (2016)<ref name'}}}
+98: {'values_changed': {"root['growth']": {'new_value': '2.1% (2016)', 'old_value': '3.3% (2016)'}, "root['unemployment']": {'new_value': '4.9% (October 2017)', 'old_value': '4.6% (November 2017)'}}}
+99: {'values_changed': {"root['per capita']": {'new_value': '$56,374 (2016)<ref name', 'old_value': '$66,821 (2016)<ref name'}}}
+100: {'values_changed': {"root['growth']": {'new_value': '3.3% (2016)', 'old_value': '2.1% (2016)'}, "root['per capita']": {'new_value': '$66,821 (2016)<ref name', 'old_value': '$56,374 (2016)<ref name'}}}
+101: {'values_changed': {"root['growth']": {'new_value': '2.1% (2016)', 'old_value': '2.1% (2017)'}, "root['per capita']": {'new_value': '$56,374 (2016)<ref name', 'old_value': '$56,374 (2017)<ref name'}}}
+105: {'values_changed': {"root['unemployment']": {'new_value': '4.6% (November 2017)', 'old_value': '4.3% (December 2017)'}}}
+106: {'values_changed': {"root['labor']": {'new_value': '18,600,000 (June 2014) http://research.stlouisfed.org/fred2/data/CALFN.txt dead link', 'old_value': '19,286,476 (December 2017)'}}}
+111: {'dictionary_item_removed': {"root['language']": 'access-date'}, 'values_changed': {"root['per capita']": {'new_value': '$56,374 (2017)<ref name', 'old_value': '$66,232 (2016)'}, "root['date']": {'new_value': 'September 26, 2017 |website', 'old_value': 'October 2017'}}}
+112: {'values_changed': {"root['gdp']": {'new_value': '$2.623 trillion (2016)', 'old_value': '$2.751 trillion (2017)'}}}
+118: {'values_changed': {"root['gdp']": {'new_value': '$2.751 trillion (2017)', 'old_value': '$2.816trillion (2017)'}}}
+120: {'values_changed': {"root['gdp']": {'new_value': '$2.816trillion (2017)', 'old_value': '$2.816 trillion (2017)'}}}
+122: {'values_changed': {"root['per capita']": {'new_value': '$66,232 (2016)', 'old_value': '$69,477 (2017)'}}}
+123: {'values_changed': {"root['growth']": {'new_value': '2.1% (2017)', 'old_value': '3.0% (2017)'}}}
+124: {'values_changed': {"root['gdp']": {'new_value': '$2.816 trillion (2017)', 'old_value': '$2.746 trillion (2017)'}, "root['unemployment']": {'new_value': '4.3% (December 2017)', 'old_value': '4.2% (April 2018)'}}}
+134: {'dictionary_item_added': {"root['date']": 'October 2017'}, 'dictionary_item_removed': {"root['df']": '  | per capita'}, 'values_changed': {"root['accessdate']": {'new_value': '6 May 2017  | per capita', 'old_value': 'archive-url'}, "root['expenses']": {'new_value': '$220 billion (2011–12) http://taxfoundation.org/article/state-and-local-tax-burdens-all-states-one-year-1977-2010 dead link', 'old_value': '$220 billion (2011–12)'}}}
+135: {'values_changed': {"root['gdp']": {'new_value': '$2.746 trillion (2017)', 'old_value': '$2.746 trillion wrong (2017)'}}}
+136: {'values_changed': {"root['gdp']": {'new_value': '$2.746 trillion wrong (2017)', 'old_value': '$2.746 trillion (2017)'}}}
+139: {'values_changed': {"root['poverty']": {'new_value': '14.3% (absolute)', 'old_value': '13.3% (absolute)'}}}
+140: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (April 2018)', 'old_value': '4.2% (Aug. 2018)'}}}
+143: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (Aug. 2018)', 'old_value': '4.1% (Sept. 2018)'}}}
+144: {'values_changed': {"root['gdp']": {'new_value': '$2.746 trillion (2017)', 'old_value': '$2.798 trillion (2017)'}, "root['per capita']": {'new_value': '$69,477 (2017)', 'old_value': '$70,760 (2017)'}}}
+145: {'values_changed': {"root['unemployment']": {'new_value': '4.1% (Sept. 2018)', 'old_value': '4.1% (Oct. 2018)'}}}
+146: {'values_changed': {"root['gdp']": {'new_value': '$2.798 trillion (2017)', 'old_value': '$2.9 trillion (2018-Q2)'}}}
+154: {'values_changed': {"root['unemployment']": {'new_value': '4.1% (Oct. 2018)', 'old_value': '4.2% (Jan. 2019)'}}}
+155: {'values_changed': {"root['gdp']": {'new_value': '$2.9 trillion (2018-Q2)', 'old_value': '$2.797 trillion (2017)'}, "root['per capita']": {'new_value': '$70,760 (2017)', 'old_value': '$71,209 (2017)'}}}
+161: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (Jan. 2019)', 'old_value': '4.2% (Feb. 2019)'}}}
+165: {'values_changed': {"root['per capita']": {'new_value': '$71,209 (2017)', 'old_value': '$71,006 (2017)'}}}
+166: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (Feb. 2019)', 'old_value': '4.3% (March 2019)'}}}
+167: {'values_changed': {"root['gdp']": {'new_value': '$2.797 trillion (2017)', 'old_value': '$3.0 trillion (2018)'}, "root['per capita']": {'new_value': '$71,006 (2017)', 'old_value': '$76,000 (2018)'}}}
+176: {'values_changed': {"root['gdp']": {'new_value': '$3.0 trillion (2018)', 'old_value': '$3.018 trillion (Q4 2018)'}}}
+179: {'values_changed': {"root['gdp']": {'new_value': '$3.018 trillion (Q4 2018)', 'old_value': '$3.0 trillion (2018)'}}}
+180: {'values_changed': {"root['unemployment']": {'new_value': '4.3% (March 2019)', 'old_value': '4.2% (May 2019)'}}}
+184: {'values_changed': {"root['website']": {'new_value': 'BEA.gov', 'old_value': 'www.bea.gov |access-date'}}}
+186: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (May 2019)', 'old_value': '4.1% (July 2019)'}}}
+196: {'dictionary_item_added': {"root['df']": '  | per capita'}, 'values_changed': {"root['gdp']": {'new_value': '$3.0 trillion (2018)', 'old_value': '$2.998 trillion (2018)'}, "root['growth']": {'new_value': '3.0% (2017)', 'old_value': '4.3% (2018)'}, "root['per capita']": {'new_value': '$76,000 (2018)', 'old_value': '$75,783 (2018)'}, "root['unemployment']": {'new_value': '4.1% (July 2019)', 'old_value': '3.9% (Oct. 2019)'}}}
+199: {'values_changed': {"root['unemployment']": {'new_value': '3.9% (Oct. 2019)', 'old_value': '3.9% (Nov. 2019)'}}}
+200: {'values_changed': {"root['gdp']": {'new_value': '$2.998 trillion (2018)', 'old_value': '$3.0 trillion (2018)'}}}
+202: {'values_changed': {"root['per capita']": {'new_value': '$75,783 (2018)', 'old_value': '$75,966 (2018)'}}}
+203: {'dictionary_item_added': {"root['accessdate']": 'archive-url'}, 'values_changed': {"root['gdp']": {'new_value': '$3.0 trillion (2018)', 'old_value': '$3.1 trillion (2019)'}, "root['growth']": {'new_value': '4.3% (2018)', 'old_value': '2.6% (2019)'}, "root['publisher']": {'new_value': 'Bureau of Economic Analysis', 'old_value': 'access-date'}, "root['per capita']": {'new_value': '$75,966 (2018)', 'old_value': '$70,662 (2019)'}, "root['unemployment']": {'new_value': '3.9% (Nov. 2019)', 'old_value': '3.9% (Feb. 2020)'}}}
+205: {'values_changed': {"root['gdp']": {'new_value': '$3.1 trillion (2019)', 'old_value': '$3.133 trillion (2019)'}, "root['growth']": {'new_value': '2.6% (2019)', 'old_value': '3.4% (2019)'}, "root['per capita']": {'new_value': '$70,662 (2019)', 'old_value': '$79,436 (2019)'}}}
+209: {'values_changed': {"root['gdp']": {'new_value': '$3.133 trillion (2019)', 'old_value': '$3.018 trillion (2019)'}}}
+210: {'values_changed': {"root['gdp']": {'new_value': '$3.018 trillion (2019)', 'old_value': '$3.018 trillion (2021)'}, "root['per capita']": {'new_value': '$79,436 (2019)', 'old_value': '76,194 (2019)'}}}
+211: {'values_changed': {"root['per capita']": {'new_value': '76,194 (2019)', 'old_value': '76,194 (2021)'}}}
+212: {'values_changed': {"root['growth']": {'new_value': '3.4% (2019)', 'old_value': '-3.5% (2020)'}}}
+216: {'values_changed': {"root['gdp']": {'new_value': '$3.018 trillion (2021)', 'old_value': '$3.018 million (2021)'}}}
+218: {'values_changed': {"root['gdp']": {'new_value': '$3.018 million (2021)', 'old_value': '$3.018 trillion (2021)'}}}
+226: {'values_changed': {"root['gdp']": {'new_value': '$3.018 trillion (2021)', 'old_value': '$3.032 trillion (2020)'}, "root['per capita']": {'new_value': '76,194 (2021)', 'old_value': '76,500 (2020)'}}}
+227: {'values_changed': {"root['growth']": {'new_value': '-3.5% (2020)', 'old_value': '-3.5% (2020)<ref name'}, "root['publisher']": {'new_value': 'access-date', 'old_value': 'language'}}}
+229: {'values_changed': {"root['gdp']": {'new_value': '$3.032 trillion (2020)', 'old_value': '$2.987trillion (2020)'}}}
+233: {'values_changed': {"root['unemployment']": {'new_value': '3.9% (Feb. 2020)', 'old_value': '7.6 (July 2021)'}}}
+234: {'values_changed': {"root['unemployment']": {'new_value': '7.6 (July 2021)', 'old_value': '7.6% (July 2021)'}}}
+236: {'values_changed': {"root['unemployment']": {'new_value': '7.6% (July 2021)', 'old_value': '3.9% (Feb. 2020)'}}}
+237: {'dictionary_item_removed': {"root['date']": 'access-date'}, 'values_changed': {"root['unemployment']": {'new_value': '3.9% (Feb. 2020)', 'old_value': '7.6% (July 2021)'}}}
+244: {'values_changed': {"root['gdp']": {'new_value': '$2.987trillion (2020)', 'old_value': '3.007trillion (2020)'}, "root['growth']": {'new_value': '-3.5% (2020)<ref name', 'old_value': '-2.8% (2020)<ref name'}, "root['per capita']": {'new_value': '76,500 (2020)', 'old_value': '76,058 (2020)'}, "root['unemployment']": {'new_value': '7.6% (July 2021)', 'old_value': '7.5% (Sept. 2021)'}}}
+245: {'values_changed': {"root['gdp']": {'new_value': '3.007trillion (2020)', 'old_value': '3.007 trillion (2020)'}}}
+246: {'values_changed': {"root['gdp']": {'new_value': '3.007 trillion (2020)', 'old_value': '$3.007 trillion (2020)'}}}
+247: {'values_changed': {"root['per capita']": {'new_value': '76,058 (2020)', 'old_value': '$76,058 (2020)'}}}
+250: {'values_changed': {"root['unemployment']": {'new_value': '7.5% (Sept. 2021)', 'old_value': '6.9% (Nov. 2021)'}}}
+259: {'values_changed': {"root['gdp']": {'new_value': '$3.007 trillion (2020)', 'old_value': '$3.0 trillion (2020)'}, "root['website']": {'new_value': 'www.bea.gov |access-date', 'old_value': 'language'}}}
+260: {'values_changed': {"root['unemployment']": {'new_value': '6.9% (Nov. 2021)', 'old_value': '6.5% (Dec. 2021)'}}}
+268: {'values_changed': {"root['expenses']": {'new_value': '$220 billion (2011–12)', 'old_value': '$286 billion (2022-23)'}}}
+270: {'values_changed': {"root['unemployment']": {'new_value': '6.5% (Dec. 2021)', 'old_value': '5.8% (Dec. 2021)'}}}
+271: {'values_changed': {"root['unemployment']": {'new_value': '5.8% (Dec. 2021)', 'old_value': '5.8% (January 2022)'}}}
+272: {'values_changed': {"root['labor']": {'new_value': '19,286,476 (December 2017)', 'old_value': '18,946,000 (December 2021)'}}}
+277: {'values_changed': {"root['unemployment']": {'new_value': '5.8% (January 2022)', 'old_value': '5.4% (February 2022)'}}}
+284: {'values_changed': {"root['gdp']": {'new_value': '$3.0 trillion (2020)', 'old_value': '$3.356 trillion (2020)'}, "root['growth']": {'new_value': '-2.8% (2020)<ref name', 'old_value': '7.8% (2021)<ref name'}, "root['per capita']": {'new_value': '$76,058 (2020)', 'old_value': '$85,546 (2021)'}, "root['unemployment']": {'new_value': '5.4% (February 2022)', 'old_value': '4.9% (March 2022)'}}}
+286: {'values_changed': {"root['gdp']": {'new_value': '$3.356 trillion (2020)', 'old_value': '$3.356 trillion (2021)'}}}
+287: {'values_changed': {"root['gdp']": {'new_value': '$3.356 trillion (2021)', 'old_value': '$3.4 trillion (2021)'}}}
+292: {'values_changed': {"root['unemployment']": {'new_value': '4.9% (March 2022)', 'old_value': '4.6% (April 2022)'}}}
+297: {'values_changed': {"root['unemployment']": {'new_value': '4.6% (April 2022)', 'old_value': '4.3% (May 2022)'}}}
+313: {'values_changed': {"root['date']": {'new_value': 'access-date', 'old_value': 'January 1997'}, "root['unemployment']": {'new_value': '4.3% (May 2022)', 'old_value': '4.2% (June 2022)'}}}
+317: {'values_changed': {"root['unemployment']": {'new_value': '4.2% (June 2022)', 'old_value': '3.9% (July 2022)'}}}
+319: {'values_changed': {"root['spelling']": {'new_value': 'US', 'old_value': 'US | country ornia'}}}
+320: {'values_changed': {"root['spelling']": {'new_value': 'US | country ornia', 'old_value': 'US'}}}
+321: {'values_changed': {"root['per capita']": {'new_value': '$85,546 (2021)', 'old_value': '$85,969 (2021)'}, "root['unemployment']": {'new_value': '3.9% (July 2022)', 'old_value': '4.1% (Aug. 2022)'}}}
+322: {'values_changed': {"root['gdp']": {'new_value': '$3.4 trillion (2021)', 'old_value': '$3.558 trillion (2022-Q2)'}, "root['date']": {'new_value': 'January 1997', 'old_value': '21 December 2021 |url-status'}, "root['per capita']": {'new_value': '$85,969 (2021)', 'old_value': '$90,696 (2022-Q2)<ref name'}, "root['website']": {'new_value': 'language', 'old_value': 'New Vintage 2021 Population Estimates Available for the Nation, States and Puerto Rico |publisher'}}}
+336: {'values_changed': {"root['gdp']": {'new_value': '$3.558 trillion (2022-Q2)', 'old_value': '$3.37 trillion (2021)'}}}
+341: {'values_changed': {"root['unemployment']": {'new_value': '4.1% (Aug. 2022)', 'old_value': '4.0% (Oct. 2022)'}}}
+349: {'values_changed': {"root['gdp']": {'new_value': '$3.37 trillion (2021)', 'old_value': '$3.63 trillion (2022)'}, "root['per capita']": {'new_value': '$90,696 (2022-Q2)<ref name', 'old_value': '$93,130 (2022-Q3)<ref name'}, "root['labor']": {'new_value': '18,946,000 (December 2021)', 'old_value': '19,254,000 (November 2022)'}}}
+353: {'values_changed': {"root['gdp']": {'new_value': '$3.63 trillion (2022)', 'old_value': '$5.63 trillion (2022)'}}}
+354: {'values_changed': {"root['gdp']": {'new_value': '$5.63 trillion (2022)', 'old_value': '$3.63 trillion (2022)'}}}
+356: {'values_changed': {"root['gdp']": {'new_value': '$3.63 trillion (2022)', 'old_value': '$3.83 trillion (2023)'}}}
+357: {'values_changed': {"root['gdp']": {'new_value': '$3.83 trillion (2023)', 'old_value': '$3.63 trillion (2023)'}}}
+361: {'values_changed': {"root['gdp']": {'new_value': '$3.63 trillion (2023)', 'old_value': '$3.6 trillion (2023)'}, "root['growth']": {'new_value': '7.8% (2021)<ref name', 'old_value': '0.4% (2022)<ref name'}}}
+362: {'values_changed': {"root['gdp']": {'new_value': '$3.6 trillion (2023)', 'old_value': '$3.6 trillion (2022)'}, "root['per capita']": {'new_value': '$93,130 (2022-Q3)<ref name', 'old_value': '$92,190 (2022)<ref name'}}}
+365: {'values_changed': {"root['unemployment']": {'new_value': '4.0% (Oct. 2022)', 'old_value': '4.3% (Feb. 2023)'}}}
+366: {'values_changed': {"root['gdp']": {'new_value': '$3.6 trillion (2022)', 'old_value': '$2.89 trillion (2022)'}}}
+371: {'values_changed': {"root['gdp']": {'new_value': '$2.89 trillion (2022)', 'old_value': '$3.598 trillion (2022)'}, "root['unemployment']": {'new_value': '4.3% (Feb. 2023)', 'old_value': '4.4% (March 2023)'}}}
+377: {'dictionary_item_removed': {"root['revenue']": '$195.7 billion'}, 'values_changed': {"root['expenses']": {'new_value': '$286 billion (2022-23)', 'old_value': '$286.4 billion (2022-23)'}}}
+378: {'dictionary_item_added': {"root['expenses']": '$286.4 billion (2022-23)', "root['usebelowbox']": 'no | presentUS$asdefault'}, 'values_changed': {"root['revenue']": {'new_value': '$195.7 billion', 'old_value': '$195.7 billion (2022-23'}}}
+379: {'dictionary_item_removed': {"root['expenses']": '$286.4 billion (2022-23)', "root['usebelowbox']": 'no | presentUS$asdefault'}, 'values_changed': {"root['revenue']": {'new_value': '$195.7 billion (2022-23', 'old_value': '$195.7 billion (2022-23)'}}}

@@ -1,0 +1,26 @@
+65: {'dictionary_item_removed': {"root['year']": 'Calendar year '}}
+75: {'dictionary_item_removed': {"root['date']": '3 February 2009 '}, 'values_changed': {"root['year']": {'new_value': 'Calendar year ', 'old_value': '6 April - 5 April '}}}
+81: {'values_changed': {"root['year']": {'new_value': '6 April - 5 April ', 'old_value': '6 April -hsjsjdk '}}}
+82: {'values_changed': {"root['year']": {'new_value': '6 April -hsjsjdk ', 'old_value': '6 April - 5 April '}}}
+83: {'dictionary_item_removed': {"root['gdp']": '£2.4 trillion (est.)', "root['Labour Force']": '27.475 million (est.)'}, 'values_changed': {"root['year']": {'new_value': '6 April - 5 April ', 'old_value': '6 April - 5 April'}}}
+89: {'values_changed': {"root['year']": {'new_value': '6 April - 5 April', 'old_value': '6 April – 5 April'}}}
+91: {'values_changed': {"root['gdp']": {'new_value': '£2.4 trillion (est.)', 'old_value': '£2 million  (est.)'}}}
+92: {'values_changed': {"root['gdp']": {'new_value': '£2 million  (est.)', 'old_value': '£2.4 trillion (est.)'}}}
+104: {'values_changed': {"root['gdp']": {'new_value': '£2.4 trillion (est.)', 'old_value': '$2.828640 trillion (2018)'}, "root['Labour Force']": {'new_value': '27.475 million (est.)', 'old_value': '27.475 million (est.) '}}}
+107: {'values_changed': {"root['gdp']": {'new_value': '$2.828640 trillion (2018)', 'old_value': '$2.828 trillion (UK incl. Wales, Scotland and NI, 2018, World Bank)'}}}
+108: {'values_changed': {"root['gdp']": {'new_value': '$2.828 trillion (UK incl. Wales, Scotland and NI, 2018, World Bank)', 'old_value': "this was UKs gdp that is not England's gdp  (UK incl. Wales, Scotland and NI, 2018, World Bank)"}}}
+109: {'dictionary_item_removed': {"root['reason']": "'Values for UK-wide GDP are easy to verify; comparable and separate GDP shares for the UK's major constituent nations (England, Scotland, Wales and Northern Ireland) are harder to assess.'"}, 'values_changed': {"root['gdp']": {'new_value': "this was UKs gdp that is not England's gdp  (UK incl. Wales, Scotland and NI, 2018, World Bank)", 'old_value': 'Unclear, see #GDP expert needed'}}}
+117: {'dictionary_item_added': {"root['reason']": "'Values for UK-wide GDP are easy to verify; comparable and separate GDP shares for the UK's major constituent nations (England, Scotland, Wales and Northern Ireland) are harder to assess.'"}, 'values_changed': {"root['gdp']": {'new_value': 'Unclear, see #GDP expert needed', 'old_value': 'Unclear, see #GDP'}}}
+120: {'values_changed': {"root['gdp']": {'new_value': 'Unclear, see #GDP', 'old_value': '£1.5 trillion'}}}
+121: {'values_changed': {"root['gdp']": {'new_value': '£1.5 trillion', 'old_value': '£1.5 trillion (US$ 2.0 trillion)'}}}
+131: {'values_changed': {"root['gdp']": {'new_value': '£1.5 trillion (US$ 2.0 trillion)', 'old_value': '$2.0 trillion'}}}
+136: {'dictionary_item_removed': {"root['growth']": 'increase1.4%', "root['per capita']": 'increase$42,976<ref name', "root['website']": 'access-date'}, 'values_changed': {"root['gdp']": {'new_value': '$2.0 trillion', 'old_value': 'increase$2.5 trillion'}}}
+159: {'values_changed': {"root['gdp']": {'new_value': 'increase$2.5 trillion', 'old_value': 'increase$2.6 trillion'}, "root['per capita']": {'new_value': 'increase$42,976<ref name', 'old_value': 'increase$46,008<ref name'}}}
+160: {'values_changed': {"root['gdp']": {'new_value': 'increase$2.6 trillion', 'old_value': 'increase$2.87trillion'}}}
+172: {'values_changed': {"root['gdp']": {'new_value': 'increase$2.87trillion', 'old_value': 'increase£1.8 trillion<ref name'}, "root['growth']": {'new_value': 'increase1.4%', 'old_value': 'increase1.4%<ref name'}}}
+176: {'values_changed': {"root['gdp']": {'new_value': 'increase£1.8 trillion<ref name', 'old_value': 'increase£700 quintillion<ref name'}}}
+177: {'values_changed': {"root['gdp']": {'new_value': 'increase£700 quintillion<ref name', 'old_value': 'increase£1.8 trillion<ref name'}}}
+236: {'values_changed': {"root['Labour Force']": {'new_value': '27.475 million (est.) ', 'old_value': '27.475 million (est.)'}}}
+242: {'dictionary_item_added': {"root['growth']": 'increase1.4%<ref name', "root['date']": '3 February 2009 '}, 'values_changed': {"root['gdp']": {'new_value': 'increase£1.8 trillion<ref name', 'old_value': 'increase£1.86 trillion<ref name'}, "root['per capita']": {'new_value': 'increase$46,008<ref name', 'old_value': 'increase£32,866<ref name'}}}
+247: {'dictionary_item_removed': {"root['growth']": 'increase1.4%<ref name', "root['date']": '3 February 2009 '}, 'values_changed': {"root['gdp']": {'new_value': 'increase£1.86 trillion<ref name', 'old_value': 'increase£1.8 trillion<ref name'}, "root['per capita']": {'new_value': 'increase£32,866<ref name', 'old_value': 'increase$46,008<ref name'}, "root['Labour Force']": {'new_value': '27.475 million (est.)', 'old_value': '27.475 million (est.) '}}}
+287: {'values_changed': {"root['gdp']": {'new_value': 'increase£1.8 trillion<ref name', 'old_value': 'increase£2.0 trillion<ref name'}, "root['website']": {'new_value': 'access-date', 'old_value': 'date'}, "root['per capita']": {'new_value': 'increase$46,008<ref name', 'old_value': 'increase£34,690<ref name'}, "root['date']": {'new_value': '3 February 2009 ', 'old_value': 'archive-date'}}}
