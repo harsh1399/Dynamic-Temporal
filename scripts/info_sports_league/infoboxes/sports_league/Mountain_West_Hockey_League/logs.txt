@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['inaugural']": '2012–13', "root['teams']": '10', "root['champion']": 'NorCal Ice Raiders (2018)', "root['Commissioner']": 'Thomas Brown', "root['most_champs']": 'San Diego Skates ,  Vail Yeti (2 each)'}}
+5: {'dictionary_item_removed': {"root['media']": 'https://youtube.com/mwhl_network YouTube.com/MWHL_Network'}}
+12: {'dictionary_item_added': {"root['media']": 'https://youtube.com/mwhl_network YouTube.com/MWHL_Network'}, 'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}, "root['champion']": {'new_value': 'NorCal Ice Raiders (2018)', 'old_value': 'NorCal Ice Raiders ,  (2019)'}, "root['most_champs']": {'new_value': 'San Diego Skates ,  Vail Yeti (2 each)', 'old_value': 'San Diego Skates ,  Vail Yeti  ,  NorCal Ice Raiders (2 each)'}}}
+22: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+24: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '8'}}}

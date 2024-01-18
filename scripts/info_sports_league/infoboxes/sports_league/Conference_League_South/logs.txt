@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['teams']": '14', "root['levels']": '4', "root['domest_cup']": 'Challenge Cup', "root['champions']": 'Hammersmith Hills Hoists'}}
+5: {'dictionary_item_removed': {"root['name']": 'Southern Conference League'}}
+8: {'dictionary_item_added': {"root['levels']": '4'}, 'dictionary_item_removed': {"root['current']": '2022 SCL Season'}, 'values_changed': {"root['champions']": {'new_value': 'Hammersmith Hills Hoists', 'old_value': 'Wests Warriors'}}}
+13: {'dictionary_item_added': {"root['domest_cup']": 'Challenge Cup', "root['current']": '2022 SCL Season'}, 'dictionary_item_removed': {"root['sport']": 'Rugby league', "root['domestic_cup']": 'Challenge Cup', "root['current_season']": '2023 Conference League South'}}
+31: {'dictionary_item_removed': {"root['champ_season']": '2022'}, 'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '8'}, "root['current_season']": {'new_value': '2023 Conference League South', 'old_value': '2023 Southern Conference League'}, "root['name']": {'new_value': 'Southern Conference League', 'old_value': 'Southern Conference League '}}}

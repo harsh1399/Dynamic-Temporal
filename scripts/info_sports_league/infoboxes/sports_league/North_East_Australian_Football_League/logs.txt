@@ -1,0 +1,16 @@
+21: {'dictionary_item_removed': {"root['sport']": 'Australian rules football', "root['Headquarters']": 'Melbourne, Victoria (Australia)', "root['inaugural']": '2011'}}
+42: {'dictionary_item_removed': {"root['current_season']": '2011 North East Australian Football League season', "root['teams']": '17'}, 'values_changed': {"root['inaugural']": {'new_value': '2011', 'old_value': '2011 North East Australian Football League season'}}}
+51: {'dictionary_item_removed': {"root['champion']": 'Northern_Territory_Football_Club', "root['most_champs']": 'Northern_Territory_Football_Club'}}
+62: {'values_changed': {"root['current_season']": {'new_value': '2011 North East Australian Football League season', 'old_value': '2011 NEAFL season'}}}
+72: {'dictionary_item_added': {"root['Headquarters']": 'Melbourne, Victoria (Australia)'}, 'dictionary_item_removed': {"root['TV']": 'National Indigenous Television'}, 'values_changed': {"root['current_season']": {'new_value': '2011 NEAFL season', 'old_value': '2018 NEAFL season'}, "root['teams']": {'new_value': '17', 'old_value': '10'}, "root['champion']": {'new_value': 'Northern_Territory_Football_Club', 'old_value': 'NEAFL SP (2018 NEAFL season'}, "root['most_champs']": {'new_value': 'Northern_Territory_Football_Club', 'old_value': 'NEAFL BL   (3 premierships)'}}}
+73: {'dictionary_item_added': {"root['TV']": 'National Indigenous Television'}, 'dictionary_item_removed': {"root['confed']": 'AFL Queensland', "root['champ_season']": '2018 NEAFL season', "root['tv']": 'National Indigenous Television', "root['levels']": '2'}, 'values_changed': {"root['champion']": {'new_value': 'NEAFL SP (2018 NEAFL season', 'old_value': 'NEAFL SP'}, "root['most_champs']": {'new_value': 'NEAFL BL   (3 premierships)', 'old_value': 'NEAFL BL   (3)'}}}
+74: {'values_changed': {"root['levels']": {'new_value': '2', 'old_value': '1'}}}
+75: {'values_changed': {"root['inaugural']": {'new_value': '2011 North East Australian Football League season', 'old_value': '2011 NEAFL season'}}}
+76: {'values_changed': {"root['confed']": {'new_value': 'AFL Queensland', 'old_value': 'AFL NSW/ACT, AFL Northern Territory , AFL Queensland'}}}
+77: {'values_changed': {"root['levels']": {'new_value': '1', 'old_value': '2'}}}
+82: {'values_changed': {"root['champion']": {'new_value': 'NEAFL SP', 'old_value': 'NEAFL BL'}, "root['champ_season']": {'new_value': '2018 NEAFL season', 'old_value': '2019 NEAFL season'}, "root['most_champs']": {'new_value': 'NEAFL BL   (3)', 'old_value': 'NEAFL BL   (4)'}}}
+86: {'dictionary_item_added': {"root['current_season']": '2018 NEAFL season'}, 'values_changed': {"root['confed']": {'new_value': 'AFL NSW/ACT, AFL Northern Territory , AFL Queensland', 'old_value': 'AFL NSW/ACT, AFL Queensland'}}}
+99: {'dictionary_item_removed': {"root['folded']": '2020'}}
+101: {'values_changed': {"root['confed']": {'new_value': 'AFL NSW/ACT, AFL Queensland', 'old_value': 'AFL NSW/ACT, AFL Queensland, AFL Northern Territory  (until 2018)'}}}
+102: {'values_changed': {"root['confed']": {'new_value': 'AFL NSW/ACT, AFL Queensland, AFL Northern Territory  (until 2018)', 'old_value': 'AFL NSW/ACT, AFL Queensland, AFL Northern Territory'}}}
+107: {'values_changed': {"root['tv']": {'new_value': 'National Indigenous Television', 'old_value': 'Seven Network'}}}

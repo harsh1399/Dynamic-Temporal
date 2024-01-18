@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Volleyball', "root['founder']": 'Sports Vision', "root['continent']": 'Asian Volleyball Confederation'}}
+4: {'dictionary_item_removed': {"root['upcoming_season']": '2022 V-League Collegiate Challenge', "root['teams']": 'M: 12 ,  W: 8', "root['venue']": 'Paco Arena'}}
+5: {'dictionary_item_added': {"root['upcoming_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['current_season']": "2022 V-League Men's Collegiate Challenge", "root['current_season2']": "2022 V-League Women's Collegiate Challenge"}}
+6: {'dictionary_item_added': {"root['current_season']": "2022 V-League Men's Collegiate Challenge", "root['current_season2']": "2022 V-League Women's Collegiate Challenge"}, 'dictionary_item_removed': {"root['upcoming_season']": '2022 V-League Collegiate Challenge'}}
+20: {'type_changes': {"root['teams']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'M: 12 ,  W: 8'}}, 'dictionary_item_added': {"root['upcoming_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['current_season']": '2022 V-League Collegiate Challenge'}}
+27: {'dictionary_item_removed': {"root['TV']": 'CNN Philippines'}}
+37: {'type_changes': {"root['teams']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'M: 12, W: 8', 'new_value': []}}, 'dictionary_item_removed': {"root['champions']": 'M: TBD, W: TBD', "root['most_champs']": 'M: TBD, W: TBD', "root['streaming']": 'https://vleague.ph/live V-League'}}
+42: {'dictionary_item_removed': {"root['logo_upright']": '0.75'}}
+44: {'values_changed': {"root['champions']": {'new_value': 'M: TBD, W: TBD', 'old_value': 'M: UAAPteam'}, "root['most_champs']": {'new_value': 'M: TBD, W: TBD', 'old_value': 'M: UAAPteam'}}}
+46: {'dictionary_item_added': {"root['current_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['last_season']": '2022 V-League Collegiate Challenge'}}
+47: {'dictionary_item_added': {"root['last_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['current_season']": '2022 V-League Collegiate Challenge'}}
+48: {'dictionary_item_added': {"root['current_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['last_season']": '2022 V-League Collegiate Challenge'}}
+49: {'dictionary_item_added': {"root['last_season']": '2022 V-League Collegiate Challenge'}, 'dictionary_item_removed': {"root['current_season']": '2022 V-League Collegiate Challenge'}}

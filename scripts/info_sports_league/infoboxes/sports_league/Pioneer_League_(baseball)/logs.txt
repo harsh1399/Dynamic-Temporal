@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021 Pioneer League season', "root['sport']": 'Baseball', "root['classification']": 'Independent', "root['teams']": '8 (10 in 2022)', "root['champion']": 'Missoula PaddleHeads (2021)', "root['most_champs']": 'Billings Mustangs (15)', "root['President']": 'Michael Shapiro'}}
+6: {'values_changed': {"root['teams']": {'new_value': '8 (10 in 2022)', 'old_value': '10'}}}
+8: {'values_changed': {"root['President']": {'new_value': 'Michael Shapiro', 'old_value': 'Michael Shapiro '}}}
+10: {'dictionary_item_added': {"root['President']": 'Michael Shapiro '}, 'dictionary_item_removed': {"root['champ_season']": '2021', "root['president']": 'Mike Shapiro', "root['commissioner']": 'Jim McCurdy '}, 'values_changed': {"root['champion']": {'new_value': 'Missoula PaddleHeads (2021)', 'old_value': 'Missoula PaddleHeads'}}}
+14: {'dictionary_item_added': {"root['champ_season']": '2021'}, 'values_changed': {"root['current_season']": {'new_value': '2021 Pioneer League season', 'old_value': '2022 Pioneer League season'}, "root['champion']": {'new_value': 'Missoula PaddleHeads', 'old_value': 'Missoula PaddleHeads (5th title)'}}}
+22: {'dictionary_item_added': {"root['current_season']": '2022 Pioneer League season'}, 'values_changed': {"root['champion']": {'new_value': 'Missoula PaddleHeads (5th title)', 'old_value': 'Missoula PaddleHeads (2021)'}}}
+25: {'values_changed': {"root['champion']": {'new_value': 'Missoula PaddleHeads (2021)', 'old_value': 'Grand Junction Rockies (2022)'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11 (including the Helena Gold Sox/Brewers)'}}}
+40: {'values_changed': {"root['teams']": {'new_value': '11 (including the Helena Gold Sox/Brewers)', 'old_value': '10'}}}
+45: {'dictionary_item_removed': {"root['upcoming_season']": '2023 Pioneer League season'}}
+46: {'dictionary_item_added': {"root['upcoming_season']": '2023 Pioneer League season'}, 'dictionary_item_removed': {"root['current_season']": '2023 Pioneer League season'}}

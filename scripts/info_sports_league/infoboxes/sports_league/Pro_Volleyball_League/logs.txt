@@ -1,0 +1,13 @@
+12: {'dictionary_item_removed': {"root['current_season']": '2019', "root['last_season']": '2019', "root['upcoming_season']": '2019', "root['sport']": 'volleyball', "root['owner']": 'Volleyball Federation of India', "root['teams']": '6', "root['venue']": '2'}}
+16: {'dictionary_item_removed': {"root['ceo']": 'Jay Bhattacharya', "root['inaugural']": '2019'}}
+17: {'values_changed': {"root['ceo']": {'new_value': 'Jay Bhattacharya', 'old_value': 'Joy Bhattacharjya'}}}
+23: {'dictionary_item_removed': {"root['sponsor']": 'Rupay'}}
+24: {'values_changed': {"root['sponsor']": {'new_value': 'Rupay', 'old_value': 'RuPay'}}}
+34: {'dictionary_item_added': {"root['last_season']": '2019'}, 'values_changed': {"root['upcoming_season']": {'new_value': '2019', 'old_value': '2020'}}}
+35: {'values_changed': {"root['current_season']": {'new_value': '2019', 'old_value': '2019 Pro Volleyball League'}, "root['inaugural']": {'new_value': '2019', 'old_value': '2019 Pro Volleyball League'}}}
+36: {'values_changed': {"root['sport']": {'new_value': 'volleyball', 'old_value': 'Volleyball'}, "root['owner']": {'new_value': 'Volleyball Federation of India', 'old_value': 'Volleyball Federation of India & Baseline Venture'}}}
+62: {'dictionary_item_added': {"root['upcoming_season']": '2020', "root['sport']": 'Volleyball', "root['owner']": 'Volleyball Federation of India & Baseline Venture', "root['inaugural']": '2019 Pro Volleyball League', "root['teams']": '6', "root['venue']": '2', "root['sponsor']": 'RuPay'}, 'dictionary_item_removed': {"root['TV']": 'Sony Pictures Networks India', "root['administrator']": 'Volleyball Federation of India', "root['champion']": 'TBD'}, 'values_changed': {"root['ceo']": {'new_value': 'Joy Bhattacharjya', 'old_value': 'Joy Bhattacharya'}}}
+64: {'values_changed': {"root['administrator']": {'new_value': 'Volleyball Federation of India', 'old_value': 'Volleyball Federation of India and Baseline Ventures'}}}
+78: {'values_changed': {"root['champion']": {'new_value': 'TBD', 'old_value': 'Chennai Spartans'}}}
+81: {'values_changed': {"root['current_season']": {'new_value': '2019 Pro Volleyball League', 'old_value': 'pixels'}}}
+91: {'values_changed': {"root['ceo']": {'new_value': 'Joy Bhattacharya', 'old_value': 'Joy Bhattacharjya'}}}

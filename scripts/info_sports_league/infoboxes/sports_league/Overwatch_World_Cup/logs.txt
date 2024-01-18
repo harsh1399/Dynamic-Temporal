@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['sport']": 'eSports', "root['inaugural']": 'Overwatch World Cup 2016', "root['teams']": '32', "root['continent']": 'International', "root['champions']": 'bk', "root['most_champs']": 'South Korea (2 titles) '}}
+33: {'type_changes': {"root['teams']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': '32'}}, 'dictionary_item_removed': {"root['TV']": []}, 'values_changed': {"root['sport']": {'new_value': 'eSports', 'old_value': 'Esports'}}}
+39: {'values_changed': {"root['champions']": {'new_value': 'bk', 'old_value': 'flag'}}}
+44: {'values_changed': {"root['most_champs']": {'new_value': 'South Korea (2 titles) ', 'old_value': 'South Korea (3 titles) '}}}
+50: {'values_changed': {"root['sport']": {'new_value': 'Esports', 'old_value': 'Pepega'}}}
+57: {'values_changed': {"root['sport']": {'new_value': 'Pepega', 'old_value': 'Esports'}}}
+59: {'dictionary_item_added': {"root['teams']": []}, 'dictionary_item_removed': {"root['game']": "''Overwatch''"}, 'values_changed': {"root['sport']": {'new_value': 'Esports', 'old_value': 'esports'}, "root['inaugural']": {'new_value': 'Overwatch World Cup 2016', 'old_value': '2016 Overwatch World Cup'}}}
+66: {'dictionary_item_removed': {"root['current_season']": '2023 Overwatch World Cup'}}

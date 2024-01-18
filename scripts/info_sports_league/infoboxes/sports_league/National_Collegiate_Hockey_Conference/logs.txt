@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Collegiate Hockey Conference (working name)', "root['established']": '2011 (play will begin in 2013)', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'Division I (NCAA)', "root['members']": '6', "root['sports']": 'Ice hockey', "root['region']": 'Midwestern United States', "root['hq_city']": 'to be announced', "root['commissioner']": 'to be announced'}}
+14: {'values_changed': {"root['name']": {'new_value': 'Collegiate Hockey Conference (working name)', 'old_value': 'National Collegiate Hockey Conference'}}}
+20: {'dictionary_item_removed': {"root['logo_size']": '264'}, 'values_changed': {"root['region']": {'new_value': 'Midwestern United States', 'old_value': 'United States'}, "root['hq_city']": {'new_value': 'to be announced', 'old_value': 'to be decided'}, "root['commissioner']": {'new_value': 'to be announced', 'old_value': 'to be decided'}}}
+35: {'dictionary_item_added': {"root['logo_size']": '264'}, 'dictionary_item_removed': {"root['hq_state']": 'Colorado'}, 'values_changed': {"root['hq_city']": {'new_value': 'to be decided', 'old_value': 'Colorado Springs'}, "root['commissioner']": {'new_value': 'to be decided', 'old_value': 'To Be Determined'}}}
+41: {'values_changed': {"root['members']": {'new_value': '6', 'old_value': '8'}}}
+44: {'values_changed': {"root['members']": {'new_value': '8', 'old_value': '6'}}}
+45: {'values_changed': {"root['members']": {'new_value': '6', 'old_value': '8'}}}
+48: {'values_changed': {"root['members']": {'new_value': '8', 'old_value': '6'}}}
+49: {'values_changed': {"root['members']": {'new_value': '6', 'old_value': '7'}}}
+62: {'values_changed': {"root['members']": {'new_value': '7', 'old_value': '8'}}}
+70: {'dictionary_item_removed': {"root['map']": 'NCHC states.svg', "root['map_size']": '250 '}}
+78: {'values_changed': {"root['region']": {'new_value': 'United States', 'old_value': 'Midwestern United States Western United States'}, "root['commissioner']": {'new_value': 'To Be Determined', 'old_value': 'Jim Scherr'}}}
+128: {'values_changed': {"root['region']": {'new_value': 'Midwestern United States Western United States', 'old_value': 'Midwestern United States, Western United States'}}}
+130: {'values_changed': {"root['commissioner']": {'new_value': 'Jim Scherr', 'old_value': 'Josh Fenton'}}}
+133: {'values_changed': {"root['established']": {'new_value': '2011 (play will begin in 2013)', 'old_value': '2011 (began play in 2013)'}}}

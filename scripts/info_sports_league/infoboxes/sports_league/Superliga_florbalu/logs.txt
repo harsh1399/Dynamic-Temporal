@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Floorball', "root['teams']": '14', "root['confed']": 'Český florbal', "root['champion']": 'Florbal MB', "root['champ_season']": '2021', "root['domestic_cup']": 'Pohár Českého florbalu', "root['confed_cup']": 'Champions Cup '}}
+4: {'dictionary_item_removed': {"root['current_season']": '2021-22 Superliga '}, 'values_changed': {"root['confed_cup']": {'new_value': 'Champions Cup ', 'old_value': 'Champions Cup (floorball)'}}}
+5: {'dictionary_item_added': {"root['confed']": 'Český florbal'}, 'dictionary_item_removed': {"root['administrator']": 'Český florbal', "root['continent']": 'Europe'}}
+9: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Superliga ', 'old_value': '2021-22 Superliga'}}}
+12: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Superliga', 'old_value': '2021-22 Livesport Superliga'}}}
+14: {'dictionary_item_removed': {"root['sponsor']": 'Livesport'}}
+15: {'dictionary_item_removed': {"root['level']": 'League system'}}
+42: {'values_changed': {"root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}
+48: {'values_changed': {"root['champ_season']": {'new_value': '2022', 'old_value': '2021-22'}}}
+49: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Livesport Superliga', 'old_value': '2022-23 Livesport Superliga'}}}
+66: {'dictionary_item_added': {"root['sponsor']": 'Livesport'}, 'values_changed': {"root['current_season']": {'new_value': '2022-23 Livesport Superliga', 'old_value': '2022–23 Livesport Superliga '}}}
+67: {'values_changed': {"root['current_season']": {'new_value': '2022–23 Livesport Superliga ', 'old_value': '2022–23 Superliga florbalu '}}}
+68: {'values_changed': {"root['current_season']": {'new_value': '2022–23 Superliga florbalu ', 'old_value': '2022–23 Livesport Superliga '}}}
+69: {'dictionary_item_removed': {"root['sponsor']": 'Livesport'}}
+70: {'values_changed': {"root['champ_season']": {'new_value': '2021-22', 'old_value': '2021–22'}}}
+72: {'dictionary_item_removed': {"root['tv']": 'ČT Sport'}}
+73: {'dictionary_item_removed': {"root['streaming']": 'https://www.tvcom.cz/Zapasy/Sport-Florbal/Soutez-Superliga-florbalu/Pohlavi-Muzi/ tvcom.cz'}}
+74: {'values_changed': {"root['streaming']": {'new_value': 'https://www.tvcom.cz/Zapasy/Sport-Florbal/Soutez-Superliga-florbalu/Pohlavi-Muzi/ tvcom.cz', 'old_value': 'https://www.tvcom.cz/Zapasy/Sport-Florbal/Soutez-Superliga-florbalu/Pohlavi-Muzi/ TVcom.cz'}}}

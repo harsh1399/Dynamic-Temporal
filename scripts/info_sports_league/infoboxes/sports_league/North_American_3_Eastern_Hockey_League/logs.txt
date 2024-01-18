@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['teams']": '7'}}
+6: {'dictionary_item_removed': {"root['current_season']": '2012–13 NSHL season', "root['champion']": 'National Sports Academy Mountaineers'}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '9'}}}
+8: {'dictionary_item_added': {"root['current_season']": '2012–13 NSHL season'}, 'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '7'}}}
+9: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '9'}}}
+12: {'dictionary_item_removed': {"root['most_champs']": 'Jersey Shore Wildcats (2)'}, 'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '13'}, "root['champion']": {'new_value': 'National Sports Academy Mountaineers', 'old_value': 'Jersey Shore Wildcats'}}}
+16: {'values_changed': {"root['most_champs']": {'new_value': 'Jersey Shore Wildcats (2)', 'old_value': 'Jersey Shore Wildcats (3)'}}}
+17: {'dictionary_item_removed': {"root['folded']": '2016'}}

@@ -1,0 +1,5 @@
+3: {'dictionary_item_removed': {"root['teams']": '18', "root['countries']": 'United States ,  Canada', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": 'Dallas Mustangs (2018)', "root['most_champs']": '3 teams (1 title each)'}}
+5: {'values_changed': {"root['teams']": {'new_value': '18', 'old_value': '17'}, "root['countries']": {'new_value': 'United States ,  Canada', 'old_value': 'United States'}}}
+6: {'values_changed': {"root['teams']": {'new_value': '17', 'old_value': '13'}}}
+8: {'values_changed': {"root['champion']": {'new_value': 'Dallas Mustangs (2018)', 'old_value': 'Georgia Kingz (2019)'}, "root['most_champs']": {'new_value': '3 teams (1 title each)', 'old_value': '4 teams (1 title each)'}}}
+14: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '9'}}}

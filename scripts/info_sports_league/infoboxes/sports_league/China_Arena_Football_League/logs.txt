@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['formerly']": 'China Arena Football League, AFL Global, AFL China', "root['sport']": 'Arena football', "root['president']": 'David Niu', "root['inaugural']": '2016', "root['teams']": '6 or 8', "root['champion']": 'None as of yet', "root['founder']": 'Martin E. Judge, Jr. '}}
+1: {'values_changed': {"root['teams']": {'new_value': '6 or 8', 'old_value': '6'}}}
+9: {'values_changed': {"root['formerly']": {'new_value': 'China Arena Football League, AFL Global, AFL China', 'old_value': 'China Arena Football League, AFL Global, AFL China, China American Football League'}}}
+25: {'values_changed': {"root['formerly']": {'new_value': 'China Arena Football League, AFL Global, AFL China, China American Football League', 'old_value': 'AFL Global, AFL China, China American Football League'}}}
+59: {'values_changed': {"root['formerly']": {'new_value': 'AFL Global, AFL China, China American Football League', 'old_value': 'AFL China, China American Football League'}}}
+67: {'dictionary_item_removed': {"root['current_season']": '2016 CAFL season'}}
+68: {'dictionary_item_removed': {"root['headquarters']": 'Beijing, China'}, 'values_changed': {"root['inaugural']": {'new_value': '2016', 'old_value': '2016 CAFL season'}}}
+81: {'dictionary_item_removed': {"root['most_champs']": 'Beijing Lions (1 title)'}, 'values_changed': {"root['champion']": {'new_value': 'None as of yet', 'old_value': 'Beijing Lions (1st title)'}}}
+85: {'values_changed': {"root['current_season']": {'new_value': '2016 CAFL season', 'old_value': '2019 CAFL season'}, "root['president']": {'new_value': 'David Niu', 'old_value': 'Ed Wang'}}}
+96: {'values_changed': {"root['founder']": {'new_value': 'Martin E. Judge, Jr. ', 'old_value': 'Martin E. Judge Jr. '}}}
+100: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4'}}}

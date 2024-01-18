@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['president']": 'Steve Wagner (2015–present)', "root['teams']": '4', "root['champion']": 'Souris Valley Sabre Dogs (2021)', "root['countries']": 'USA CAN', "root['headquarters']": 'Rapid City, South Dakota, United States'}}
+2: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '12'}}}
+5: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '5'}}}
+10: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+13: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '12'}}}
+26: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '5'}}}
+29: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}, "root['countries']": {'new_value': 'USA CAN', 'old_value': 'USA'}}}
+30: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '12'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '4'}}}
+40: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '12'}}}
+52: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '5'}}}
+54: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+55: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '12'}}}
+56: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '4'}}}
+57: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+58: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+59: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}
+60: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+61: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+62: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4'}}}
+71: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+75: {'values_changed': {"root['champion']": {'new_value': 'Souris Valley Sabre Dogs (2021)', 'old_value': 'Souris Valley Sabre Dogs (2022)'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4'}}}
+77: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+78: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4'}}}
+87: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+92: {'values_changed': {"root['president']": {'new_value': 'Steve Wagner (2015–present)', 'old_value': 'Steve Wagner (2015–2022)'}}}
+97: {'values_changed': {"root['president']": {'new_value': 'Steve Wagner (2015–2022)', 'old_value': 'Steve Wagner (2015–Present)'}}}

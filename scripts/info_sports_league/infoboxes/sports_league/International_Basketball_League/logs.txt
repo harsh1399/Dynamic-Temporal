@@ -1,0 +1,6 @@
+7: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2005', "root['teams']": '#Current clubs', "root['countries']": 'USA (9 teams)   JPN (1 team)', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": 'Bellingham Slam (3rd title)', "root['most_champs']": 'Bellingham Slam (3 titles)'}}
+8: {'values_changed': {"root['countries']": {'new_value': 'USA (9 teams)   JPN (1 team)', 'old_value': 'USA (9 teams)   Japan (1 team)'}}}
+20: {'values_changed': {"root['champion']": {'new_value': 'Bellingham Slam (3rd title)', 'old_value': 'Bellingham Slam (4th title)'}, "root['most_champs']": {'new_value': 'Bellingham Slam (3 titles)', 'old_value': 'Bellingham Slam (4 titles)'}}}
+21: {'values_changed': {"root['teams']": {'new_value': '#Current clubs', 'old_value': '10'}, "root['champion']": {'new_value': 'Bellingham Slam (4th title)', 'old_value': 'Bellingham Slam (2014)'}, "root['most_champs']": {'new_value': 'Bellingham Slam (4 titles)', 'old_value': 'Bellingham Slam (4)'}}}
+22: {'values_changed': {"root['countries']": {'new_value': 'USA (9 teams)   Japan (1 team)', 'old_value': 'USA (7 teams)'}}}
+24: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '13'}, "root['countries']": {'new_value': 'USA (7 teams)', 'old_value': 'USA'}}}

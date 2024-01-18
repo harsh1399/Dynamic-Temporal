@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['commissioner']": 'Deron Brown', "root['teams']": '12', "root['location']": 'Ohio, Michigan, Indiana & Ontario', "root['champion']": 'Lima Locos (2019)'}}
+6: {'dictionary_item_added': {"root['location']": 'Ohio, Michigan, Indiana & Ontario'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '14'}}}
+9: {'values_changed': {"root['champion']": {'new_value': 'Lima Locos (2019)', 'old_value': 'Hamilton Joes (2021)'}}}

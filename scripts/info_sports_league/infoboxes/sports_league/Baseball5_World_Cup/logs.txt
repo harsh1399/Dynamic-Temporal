@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['upcoming_season']": '2022', "root['sport']": 'Baseball5', "root['inaugural']": '2022', "root['administrator']": 'World Baseball Softball Confederation', "root['teams']": '12', "root['related_comps']": 'Youth Baseball5 World Cup'}}
+10: {'values_changed': {"root['upcoming_season']": {'new_value': '2022', 'old_value': '2022 Baseball5 World Cup'}}}
+16: {'dictionary_item_added': {"root['upcoming_season']": '2022 Baseball5 World Cup'}, 'dictionary_item_removed': {"root['last_season']": '2022', "root['champion']": 'Cuba', "root['champ_season']": '2022'}}
+19: {'values_changed': {"root['champion']": {'new_value': 'Cuba', 'old_value': 'bb5'}}}
+20: {'values_changed': {"root['last_season']": {'new_value': '2022', 'old_value': '2022 Baseball5 World Cup'}}}

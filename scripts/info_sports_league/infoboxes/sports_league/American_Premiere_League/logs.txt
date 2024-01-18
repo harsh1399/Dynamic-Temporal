@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2009 American Premier League', "root['sport']": 'Cricket', "root['ceo']": 'Jay Mir', "root['teams']": '6 international'}}
+27: {'dictionary_item_added': {"root['current_season']": '2009 American Premier League'}, 'values_changed': {"root['teams']": {'new_value': '6 international', 'old_value': '7 Franchises'}}}
+28: {'dictionary_item_added': {"root['teams']": '7 Franchises'}, 'dictionary_item_removed': {"root['franchise']": '7 Franchises'}}
+29: {'dictionary_item_added': {"root['franchise']": '7 Franchises'}, 'dictionary_item_removed': {"root['team']": '7 Franchises'}}
+49: {'dictionary_item_added': {"root['team']": '7 Franchises'}, 'dictionary_item_removed': {"root['teams']": '7 franchises'}}
+51: {'values_changed': {"root['teams']": {'new_value': '7 franchises', 'old_value': '6 international'}}}
+52: {'values_changed': {"root['teams']": {'new_value': '6 international', 'old_value': '7 franchises'}}}
+74: {'values_changed': {"root['teams']": {'new_value': '7 franchises', 'old_value': '6 international'}}}
+75: {'values_changed': {"root['teams']": {'new_value': '6 international', 'old_value': '7 franchises'}}}
+80: {'dictionary_item_removed': {"root['tournament_format']": 'Twenty20', "root['last_season']": '2021', "root['upcoming_season']": '2022', "root['champion']": 'Premium Windees', "root['champ_season']": '2021', "root['most_champs']": '1'}, 'values_changed': {"root['teams']": {'new_value': '7 franchises', 'old_value': '7'}}}
+81: {'dictionary_item_removed': {"root['abbrev']": 'APL'}}
+82: {'values_changed': {"root['abbrev']": {'new_value': 'APL', 'old_value': 'APL '}}}
+102: {'dictionary_item_added': {"root['tournament_format']": 'Twenty20', "root['last_season']": '2021', "root['upcoming_season']": '2022', "root['champion']": 'Premium Windees', "root['champ_season']": '2021', "root['most_champs']": '1', "root['abbrev']": 'APL '}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6 international'}}}
+103: {'dictionary_item_removed': {"root['tournament_format']": 'Twenty20', "root['last_season']": '2021', "root['upcoming_season']": '2022', "root['champion']": 'Premium Windees', "root['champ_season']": '2021', "root['most_champs']": '1'}, 'values_changed': {"root['teams']": {'new_value': '6 international', 'old_value': '7'}}}
+126: {'dictionary_item_added': {"root['ceo']": 'Jay Mir'}, 'dictionary_item_removed': {"root['inaugural']": '2021', "root['owner']": 'Jay Mir'}}

@@ -1,0 +1,39 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021–22 PlusLiga', "root['sport']": 'Volleyball', "root['administrator']": 'PLS SA', "root['inaugural']": '2000–01 Polish Volleyball League', "root['president']": 'Artur Popko', "root['teams']": '14', "root['continent']": 'Europe', "root['confed']": 'European Volleyball Confederation', "root['most_champs']": 'Skra Bełchatów,  (9 titles)', "root['champion']": 'Jastrzębski Węgiel,  (2nd title)', "root['domestic_cup']": "Polish Men's Volleyball Cup", "root['confed_cup']": 'CEV Champions League,  CEV Cup', "root['sponsor']": 'Plus (telecommunications Poland)', "root['TV']": 'Polsat Sport,  Polsat Sport Extra'}}
+1: {'values_changed': {"root['TV']": {'new_value': 'Polsat Sport,  Polsat Sport Extra', 'old_value': 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}}}
+9: {'dictionary_item_removed': {"root['level']": 'League system'}}
+17: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Cup', 'old_value': 'CEV Champions League,  CEV Challenge Cup,  CEV Cup'}}}
+20: {'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Challenge Cup,  CEV Cup', 'old_value': 'CEV Champions League,  CEV Cup,  CEV Challenge Cup'}}}
+24: {'values_changed': {"root['most_champs']": {'new_value': 'Skra Bełchatów,  (9 titles)', 'old_value': 'Skra Bełchatów,   (9 titles)'}, "root['champion']": {'new_value': 'Jastrzębski Węgiel,  (2nd title)', 'old_value': 'ZAKSA Kędzierzyn-Koźle,  (7th title)'}}}
+26: {'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Cup,  CEV Challenge Cup', 'old_value': 'CEV Champions League,  CEV Cup'}}}
+27: {'values_changed': {"root['current_season']": {'new_value': '2021–22 PlusLiga', 'old_value': '2022–23 PlusLiga'}, "root['teams']": {'new_value': '14', 'old_value': '16'}}}
+30: {'values_changed': {"root['most_champs']": {'new_value': 'Skra Bełchatów,   (9 titles)', 'old_value': 'Skra Bełchatów (9 titles)'}, "root['champion']": {'new_value': 'ZAKSA Kędzierzyn-Koźle,  (7th title)', 'old_value': 'ZAKSA Kędzierzyn-Koźle'}}}
+35: {'dictionary_item_removed': {"root['champ_season']": '2021–22 Plusliga'}}
+36: {'values_changed': {"root['champ_season']": {'new_value': '2021–22 Plusliga', 'old_value': '2021–22 PlusLiga'}}}
+37: {'dictionary_item_removed': {"root['level']": 'League system'}}
+39: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['champ_season']": {'new_value': '2021–22 PlusLiga', 'old_value': '2021-22'}}}
+42: {'values_changed': {"root['champ_season']": {'new_value': '2021-22', 'old_value': '2021–22 PlusLiga'}}}
+46: {'dictionary_item_added': {"root['sponsor']": 'Plus (telecommunications Poland)'}, 'values_changed': {"root['champ_season']": {'new_value': '2021–22 PlusLiga', 'old_value': '2021-22'}}}
+47: {'dictionary_item_added': {"root['champ_season']": '2021-22'}, 'dictionary_item_removed': {"root['sponsor']": 'Plus (telecommunications Poland)'}}
+55: {'dictionary_item_removed': {"root['champ_season']": '2021–22 PlusLiga'}}
+78: {'dictionary_item_added': {"root['administrator']": 'PLS SA', "root['inaugural']": '2000–01 Polish Volleyball League', "root['continent']": 'Europe', "root['TV']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}, 'dictionary_item_removed': {"root['tv']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}}
+81: {'dictionary_item_added': {"root['tv']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}, 'dictionary_item_removed': {"root['administrator']": 'PLS SA', "root['inaugural']": '2000–01 Polish Volleyball League', "root['continent']": 'Europe', "root['TV']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}}
+82: {'dictionary_item_added': {"root['administrator']": 'PLS SA', "root['inaugural']": '2000–01 Polish Volleyball League', "root['continent']": 'Europe', "root['TV']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}, 'dictionary_item_removed': {"root['tv']": 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}}
+86: {'values_changed': {"root['tv']": {'new_value': 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go', 'old_value': 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go,  Sport Klub'}}}
+88: {'type_changes': {"root['tv']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Polsat Sport,  https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go,  Sport Klub'}}}
+89: {'type_changes': {"root['tv']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Polsat Sport', 'new_value': []}}, 'dictionary_item_removed': {"root['streaming']": 'https://polsatboxgo.pl/wideo/plusliga/5027232/autoplay Polsat Box Go'}}
+94: {'dictionary_item_removed': {"root['administrator']": 'PLS SA'}}
+96: {'dictionary_item_removed': {"root['inaugural']": '2000–01 Polish Volleyball League'}}
+97: {'values_changed': {"root['administrator']": {'new_value': 'PLS SA', 'old_value': 'PLS S.A.'}}}
+99: {'values_changed': {"root['tv']": {'new_value': 'Polsat Sport', 'old_value': 'Polsat Sport, Sport Klub'}}}
+101: {'values_changed': {"root['administrator']": {'new_value': 'PLS S.A.', 'old_value': 'PLS SA'}}}
+102: {'values_changed': {"root['administrator']": {'new_value': 'PLS SA', 'old_value': 'PLS S.A.'}, "root['tv']": {'new_value': 'Polsat Sport, Sport Klub', 'old_value': 'Polsat Sport'}}}
+103: {'values_changed': {"root['administrator']": {'new_value': 'PLS S.A.', 'old_value': 'PLS SA'}, "root['tv']": {'new_value': 'Polsat Sport', 'old_value': 'Polsat Sport, Sport Klub'}}}
+107: {'values_changed': {"root['champion']": {'new_value': 'ZAKSA Kędzierzyn-Koźle', 'old_value': 'Jastrzębski Węgiel'}, "root['champ_season']": {'new_value': '2021–22 PlusLiga', 'old_value': '2022–23 PlusLiga'}}}
+114: {'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Cup', 'old_value': 'CEV Champions League,  CEV Cup,  CEV Challenge Cup'}}}
+116: {'values_changed': {"root['tv']": {'new_value': 'Polsat Sport, Sport Klub', 'old_value': 'Polsat Sport,  Sport Klub'}}}
+117: {'values_changed': {"root['most_champs']": {'new_value': 'Skra Bełchatów (9 titles)', 'old_value': 'nowrap'}}}
+118: {'values_changed': {"root['most_champs']": {'new_value': 'nowrap', 'old_value': 'Skra Bełchatów (9 titles)'}}}
+119: {'values_changed': {"root['tv']": {'new_value': 'Polsat Sport,  Sport Klub', 'old_value': 'Polsat Sport'}, "root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Cup,  CEV Challenge Cup', 'old_value': 'CEV Champions League,  CEV Challenge Cup'}}}
+120: {'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Challenge Cup', 'old_value': 'CEV Champions League,  CEV Challenge Cup<ref name'}}}
+121: {'values_changed': {"root['tv']": {'new_value': 'Polsat Sport', 'old_value': 'Polsat Sport,  Sport Klub'}, "root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Challenge Cup<ref name', 'old_value': 'CEV Champions League,  CEV Cup,  CEV Challenge Cup'}}}
+123: {'dictionary_item_added': {"root['current_season']": '2022–23 PlusLiga'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023–24 PlusLiga'}}

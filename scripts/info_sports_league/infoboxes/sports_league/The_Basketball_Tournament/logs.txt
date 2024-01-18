@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['last_season']": 'The Basketball Tournament 2021', "root['sport']": 'Basketball', "root['founder']": 'Jonathan Mugar', "root['teams']": '64 (2021 tournament)', "root['tournament_format']": 'single-elimination tournament', "root['countries']": 'United States', "root['champion']": "Boeheim's Army (2021)", "root['most_champs']": 'Overseas Elite (4)', "root['TV']": 'ESPN'}}
+3: {'values_changed': {"root['teams']": {'new_value': '64 (2021 tournament)', 'old_value': '278 (2021 tournament)'}}}
+8: {'dictionary_item_added': {"root['last_season']": 'The Basketball Tournament 2021'}, 'dictionary_item_removed': {"root['upcoming_season']": 'The Basketball Tournament 2022'}}
+13: {'values_changed': {"root['teams']": {'new_value': '278 (2021 tournament)', 'old_value': '64 (2022 tournament)'}}}
+23: {'values_changed': {"root['champion']": {'new_value': "Boeheim's Army (2021)", 'old_value': 'Blue Collar U (2022)'}}}
+55: {'values_changed': {"root['upcoming_season']": {'new_value': 'The Basketball Tournament 2022', 'old_value': 'The Basketball Tournament 2023'}}}

@@ -1,0 +1,62 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2018 American Arena League season', "root['sport']": 'Indoor American football', "root['inaugural']": '2018', "root['teams']": '7'}}
+68: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+71: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+82: {'dictionary_item_removed': {"root['CEO']": 'Tony Zefiretto, Sr.', "root['president']": 'Jack Bowman', "root['commissioner']": 'Lawrence Fisher', "root['related_comps']": 'Can-Am Indoor Football League, Arena Pro Football, Supreme Indoor Football'}}
+86: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '8'}}}
+91: {'values_changed': {"root['commissioner']": {'new_value': 'Lawrence Fisher', 'old_value': 'TBA'}}}
+98: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+109: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+112: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+114: {'values_changed': {"root['CEO']": {'new_value': 'Tony Zefiretto, Sr.', 'old_value': 'Tony Zefiretto'}}}
+124: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+125: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '11'}}}
+129: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+139: {'dictionary_item_added': {"root['CEO']": 'Tony Zefiretto'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13 (and 3 affiliate teams)'}}}
+149: {'values_changed': {"root['teams']": {'new_value': '13 (and 3 affiliate teams)', 'old_value': '12 (and 3 affiliate teams)'}}}
+159: {'values_changed': {"root['teams']": {'new_value': '12 (and 3 affiliate teams)', 'old_value': '12 (and 4 affiliate teams)'}}}
+173: {'dictionary_item_removed': {"root['headquarters']": 'Raleigh, NC'}}
+174: {'values_changed': {"root['headquarters']": {'new_value': 'Raleigh, NC', 'old_value': 'Raleigh, North Carolina'}}}
+176: {'values_changed': {"root['teams']": {'new_value': '12 (and 4 affiliate teams)', 'old_value': '13 (and 3 affiliate teams)'}}}
+188: {'values_changed': {"root['teams']": {'new_value': '13 (and 3 affiliate teams)', 'old_value': '12 (and 3 affiliate teams)'}}}
+215: {'values_changed': {"root['teams']": {'new_value': '12 (and 3 affiliate teams)', 'old_value': '12 (and 2 affiliate teams)'}}}
+238: {'dictionary_item_removed': {"root['champion']": 'Atlanta Havoc (2018)'}}
+246: {'dictionary_item_added': {"root['commissioner']": 'TBA'}, 'values_changed': {"root['teams']": {'new_value': '12 (and 2 affiliate teams)', 'old_value': '12 (and 1 affiliate team)'}}}
+256: {'values_changed': {"root['teams']": {'new_value': '12 (and 1 affiliate team)', 'old_value': '11 (and 1 affiliate team)'}}}
+265: {'values_changed': {"root['teams']": {'new_value': '11 (and 1 affiliate team)', 'old_value': '11'}}}
+271: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+275: {'values_changed': {"root['related_comps']": {'new_value': 'Can-Am Indoor Football League, Arena Pro Football, Supreme Indoor Football', 'old_value': 'National Arena League'}}}
+276: {'values_changed': {"root['related_comps']": {'new_value': 'National Arena League', 'old_value': 'Arena Football League, National Arena League'}}}
+277: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '4 (confirmed)'}}}
+282: {'values_changed': {"root['teams']": {'new_value': '4 (confirmed)', 'old_value': '5 (confirmed)'}}}
+289: {'values_changed': {"root['teams']": {'new_value': '5 (confirmed)', 'old_value': '6 (confirmed)'}}}
+297: {'values_changed': {"root['teams']": {'new_value': '6 (confirmed)', 'old_value': '8'}}}
+298: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '14'}}}
+302: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '12'}}}
+313: {'dictionary_item_added': {"root['president']": 'Jack Bowman'}, 'dictionary_item_removed': {"root['ceo']": 'Tony Zefiretto', "root['founder']": 'Tony Zefiretto, Jack Bowman, Tim Viens '}, 'values_changed': {"root['current_season']": {'new_value': '2018 American Arena League season', 'old_value': '2019 American Arena League season'}, "root['teams']": {'new_value': '12', 'old_value': '8'}, "root['champion']": {'new_value': 'Atlanta Havoc (2018)', 'old_value': 'West Virginia Roughriders (2019)'}}}
+318: {'values_changed': {"root['current_season']": {'new_value': '2019 American Arena League season', 'old_value': '2020 American Arena League season'}}}
+320: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '11'}}}
+324: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+346: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '14'}}}
+353: {'dictionary_item_removed': {"root['president']": 'Jack Bowman, Ermeritus'}, 'values_changed': {"root['headquarters']": {'new_value': 'Raleigh, North Carolina', 'old_value': 'West Palm Beach, FL'}, "root['founder']": {'new_value': 'Tony Zefiretto, Jack Bowman, Tim Viens ', 'old_value': 'Tony Zefiretto, Jack Bowman '}}}
+354: {'dictionary_item_added': {"root['president']": 'Jack Bowman, Ermeritus'}, 'values_changed': {"root['headquarters']": {'new_value': 'West Palm Beach, FL', 'old_value': 'Raleigh, North Carolina'}, "root['founder']": {'new_value': 'Tony Zefiretto, Jack Bowman ', 'old_value': 'Tony Zefiretto, Jack Bowman, Tim Viens '}}}
+365: {'values_changed': {"root['founder']": {'new_value': 'Tony Zefiretto, Jack Bowman, Tim Viens ', 'old_value': 'Jack Brown, Jack Bowman, Tim Viens '}}}
+366: {'values_changed': {"root['ceo']": {'new_value': 'Tony Zefiretto', 'old_value': 'Jack Brown'}}}
+367: {'values_changed': {"root['founder']": {'new_value': 'Jack Brown, Jack Bowman, Tim Viens ', 'old_value': 'Jack Brown, Jack Bowman, Nate from discord, Tim Viens '}}}
+370: {'values_changed': {"root['founder']": {'new_value': 'Jack Brown, Jack Bowman, Nate from discord, Tim Viens ', 'old_value': 'Jack Brown, Jack Bowman, Nate from discord, Mr. Boogie Woogie, Tim Viens '}}}
+371: {'values_changed': {"root['founder']": {'new_value': 'Jack Brown, Jack Bowman, Nate from discord, Mr. Boogie Woogie, Tim Viens ', 'old_value': 'Jack Brown, Jack Bowman, Tim Viens '}}}
+377: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '13'}}}
+384: {'values_changed': {"root['related_comps']": {'new_value': 'Arena Football League, National Arena League', 'old_value': 'American Indoor Football'}}}
+397: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '15'}}}
+400: {'dictionary_item_added': {"root['current_season']": '2020 American Arena League season', "root['ceo']": 'Jack Brown'}, 'dictionary_item_removed': {"root['upcoming_season']": '2021 American Arena League season', "root['president']": 'Tony Zefiretto'}, 'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '17'}, "root['founder']": {'new_value': 'Jack Brown, Jack Bowman, Tim Viens ', 'old_value': 'Tony Zefiretto, Jack Bowman, Tim Viens'}}}
+407: {'values_changed': {"root['teams']": {'new_value': '17', 'old_value': '16'}}}
+410: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '17'}}}
+412: {'values_changed': {"root['teams']": {'new_value': '17', 'old_value': '16'}}}
+418: {'dictionary_item_added': {"root['upcoming_season']": '2021 American Arena League season'}, 'dictionary_item_removed': {"root['current_season']": '2021 American Arena League season'}}
+419: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '15'}}}
+432: {'dictionary_item_added': {"root['president']": 'Tony Zefiretto'}, 'values_changed': {"root['champion']": {'new_value': 'West Virginia Roughriders (2019)', 'old_value': 'North Texas Bulls (2021)refn'}}}
+437: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '15 (in 2021)'}}}
+447: {'values_changed': {"root['teams']": {'new_value': '15 (in 2021)', 'old_value': '11'}}}
+453: {'dictionary_item_added': {"root['founder']": 'Tony Zefiretto, Jack Bowman, Tim Viens'}, 'dictionary_item_removed': {"root['owner']": 'AJ Roque and Jermaine Sanders'}, 'values_changed': {"root['headquarters']": {'new_value': 'Raleigh, North Carolina', 'old_value': 'Sayreville, New Jersey'}}}
+454: {'dictionary_item_added': {"root['owner']": 'AJ Roque and Jermaine Sanders'}, 'dictionary_item_removed': {"root['founder']": 'Tony Zefiretto, Jack Bowman, Tim Viens'}, 'values_changed': {"root['headquarters']": {'new_value': 'Sayreville, New Jersey', 'old_value': 'Raleigh, North Carolina'}}}
+455: {'dictionary_item_added': {"root['headquarters']": 'Raleigh, North Carolina'}, 'dictionary_item_removed': {"root['owner']": 'AJ Roque and Jermaine Sanders', "root['commissioner']": "Kevin O'Hanlon"}}
+460: {'dictionary_item_added': {"root['current_season']": '2021 American Arena League season', "root['teams']": '11'}, 'dictionary_item_removed': {"root['last_season']": '2023 American Arena League season'}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['president']": 'Lee Landers', "root['classification']": 'Rookie Advanced', "root['teams']": '10', "root['champion']": 'Elizabethton Twins (2018)', "root['most_champs']": 'Bluefield Blue Jays (14)'}}
+1: {'values_changed': {"root['champion']": {'new_value': 'Elizabethton Twins (2018)', 'old_value': 'Johnson City Cardinals (2019)'}}}
+4: {'values_changed': {"root['president']": {'new_value': 'Lee Landers', 'old_value': 'Dan Moushon'}}}
+90: {'values_changed': {"root['classification']": {'new_value': 'Rookie Advanced', 'old_value': 'ubl'}}}
+103: {'values_changed': {"root['champion']": {'new_value': 'Johnson City Cardinals (2019)', 'old_value': 'Kingsport Axmen (2022)'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Indoor American football', "root['teams']": '4', "root['inaugural']": '2003', "root['champion']": 'Sioux City Bandits', "root['most_champs']": 'Kansas Koyotes (6)', "root['owner']": 'Ralph Adams', "root['ceo']": 'Ralph Adams', "root['President']": 'Ralph Adams', "root['Founder']": 'Ralph Adams', "root['related_comps']": 'Champions Professional Indoor Football League, Continental Indoor Football League, Indoor Football League, Ultimate Indoor Football League'}}
+3: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+14: {'dictionary_item_removed': {"root['folded']": '2013'}}
+16: {'dictionary_item_added': {"root['folded']": '2013'}, 'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+23: {'dictionary_item_added': {"root['teams']": '4', "root['owner']": 'Ralph Adams', "root['ceo']": 'Ralph Adams', "root['Founder']": 'Ralph Adams'}, 'values_changed': {"root['champion']": {'new_value': 'Sioux City Bandits', 'old_value': 'North Texas Crunch'}}}
+31: {'dictionary_item_removed': {"root['VP']": 'Ted Adams'}}
+32: {'dictionary_item_added': {"root['VP']": 'Ted Adams'}, 'dictionary_item_removed': {"root['Director']": 'Ted Adams'}}
+36: {'dictionary_item_added': {"root['inaugural']": '2003'}, 'dictionary_item_removed': {"root['teams']": 'TBA'}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'North Star Athletic Association', "root['short_name']": 'NSAA', "root['established']": '2013', "root['association']": 'National Association of Intercollegiate Athletics', "root['members']": '5 (6 in 2014)', "root['sports']": 'TBA', "root['hq_city']": 'TBA', "root['commissioner']": 'TBA'}}
+3: {'values_changed': {"root['commissioner']": {'new_value': 'TBA', 'old_value': 'Cory Anderson'}}}
+7: {'dictionary_item_removed': {"root['map']": 'DAC-USA-States.PNG'}}
+9: {'dictionary_item_removed': {"root['map_size']": '250 '}, 'values_changed': {"root['map']": {'new_value': 'DAC-USA-States.PNG', 'old_value': 'DAC-USA-states.PNG'}}}
+17: {'dictionary_item_added': {"root['sports']": 'TBA', "root['map']": 'DAC-USA-states.PNG', "root['map_size']": '250 '}, 'dictionary_item_removed': {"root['mens']": '9', "root['womens']": '9'}}

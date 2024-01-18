@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bundesliga', "root['confed']": 'European Handball Federation', "root['inaugural']": '1965', "root['teams']": '18', "root['levels']": '1', "root['domest_cup']": 'DHB-Pokal, DHB-Supercup', "root['confed_cup']": 'EHF Champions League', "root['champions']": 'THW Kiel (22nd title) ,   (2020–21)', "root['tv']": 'Sky Sport (Germany)', "root['current']": '2021–22 Handball-Bundesliga '}}
+24: {'dictionary_item_added': {"root['levels']": '1'}, 'values_changed': {"root['champions']": {'new_value': 'THW Kiel (22nd title) ,   (2020–21)', 'old_value': 'THW Kiel (22nd title)'}}}
+26: {'dictionary_item_removed': {"root['levels']": '1'}, 'values_changed': {"root['champions']": {'new_value': 'THW Kiel (22nd title)', 'old_value': 'THW Kiel (22nd title) ,   (2020–21)'}}}
+27: {'dictionary_item_removed': {"root['sponsor']": 'PGNiG'}}
+28: {'values_changed': {"root['confed_cup']": {'new_value': 'EHF Champions League', 'old_value': 'EHF Champions League, EHF European League'}}}
+29: {'values_changed': {"root['sponsor']": {'new_value': 'PGNiG', 'old_value': 'Liqui Moly'}}}
+43: {'values_changed': {"root['champions']": {'new_value': 'THW Kiel (22nd title) ,   (2020–21)', 'old_value': 'SC Magdeburg (2nd title) ,   (2021–22)'}}}
+44: {'values_changed': {"root['champions']": {'new_value': 'SC Magdeburg (2nd title) ,   (2021–22)', 'old_value': 'SC Magdeburg (2nd title)'}}}
+48: {'dictionary_item_added': {"root['levels']": '1', "root['sponsor']": 'Liqui Moly'}, 'values_changed': {"root['current']": {'new_value': '2021–22 Handball-Bundesliga ', 'old_value': '2022–23 Handball-Bundesliga '}}}
+49: {'dictionary_item_added': {"root['inaugural']": '1965', "root['domest_cup']": 'DHB-Pokal, DHB-Supercup'}, 'dictionary_item_removed': {"root['most_champs']": 'THW Kiel (22 titles)'}}
+50: {'dictionary_item_added': {"root['current']": '2022–23 Handball-Bundesliga '}, 'dictionary_item_removed': {"root['current_season']": '2022–23 Handball-Bundesliga '}}
+51: {'dictionary_item_removed': {"root['sport']": 'Handball'}}
+53: {'dictionary_item_removed': {"root['inaugural']": '1965', "root['level']": 'League system', "root['domest_cup']": 'DHB-Pokal, DHB-Supercup', "root['sponsor']": 'Liqui Moly'}}
+54: {'dictionary_item_removed': {"root['administrator']": 'Polish Handball Association'}}
+55: {'values_changed': {"root['administrator']": {'new_value': 'Polish Handball Association', 'old_value': 'German Handball Association'}}}
+56: {'values_changed': {"root['inaugural']": {'new_value': '1965', 'old_value': '1966'}}}
+57: {'dictionary_item_removed': {"root['champ_season']": '2021–22 Handball-Bundesliga'}, 'values_changed': {"root['inaugural']": {'new_value': '1966', 'old_value': '1966-67'}}}
+59: {'dictionary_item_added': {"root['domest_cup']": 'DHB-Pokal, DHB-Supercup'}, 'dictionary_item_removed': {"root['domestic_cup']": 'DHB-Pokal, DHB-Supercup'}}
+60: {'values_changed': {"root['inaugural']": {'new_value': '1966-67', 'old_value': '1966–67'}}}
+61: {'values_changed': {"root['inaugural']": {'new_value': '1966–67', 'old_value': '1966-67'}}}
+81: {'dictionary_item_added': {"root['administrator']": 'German Handball Association', "root['inaugural']": '1966-67', "root['level']": 'League system', "root['champ_season']": '2021–22 Handball-Bundesliga', "root['domestic_cup']": 'DHB-Pokal, DHB-Supercup', "root['sponsor']": 'Liqui Moly'}, 'values_changed': {"root['champions']": {'new_value': 'SC Magdeburg (2nd title)', 'old_value': 'SC Magdeburg, (2nd title)'}}}
+82: {'dictionary_item_removed': {"root['administrator']": 'German Handball Association', "root['inaugural']": '1966-67', "root['level']": 'League system', "root['champ_season']": '2021–22 Handball-Bundesliga', "root['domestic_cup']": 'DHB-Pokal, DHB-Supercup', "root['sponsor']": 'Liqui Moly'}, 'values_changed': {"root['champions']": {'new_value': 'SC Magdeburg, (2nd title)', 'old_value': 'SC Magdeburg (2nd title)'}}}

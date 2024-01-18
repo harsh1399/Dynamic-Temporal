@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2013 CPIFL season', "root['upcoming_season']": '2013 CPIFL season', "root['sport']": 'indoor American football', "root['teams']": '5', "root['ceo']": 'James Bain', "root['Director']": 'Bob Scott,', "root['related_comps']": 'Ultimate Indoor Football League, Indoor Football League', "root['Founder']": 'Bob Scott'}}
+1: {'values_changed': {"root['Director']": {'new_value': 'Bob Scott,', 'old_value': 'Bob Scott, Jeremy Ploeger, Ethan Henson, John Blazek'}}}
+16: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+19: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}, "root['Director']": {'new_value': 'Bob Scott, Jeremy Ploeger, Ethan Henson, John Blazek', 'old_value': 'Bob Scott'}}}
+20: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}, "root['Director']": {'new_value': 'Bob Scott', 'old_value': 'Bob Scott, Jeremy Ploeger, Ethan Henson, John Blazek'}}}
+22: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+23: {'values_changed': {"root['related_comps']": {'new_value': 'Ultimate Indoor Football League, Indoor Football League', 'old_value': 'American Professional Football League, Ultimate Indoor Football League, Indoor Football League'}}}
+29: {'values_changed': {"root['Director']": {'new_value': 'Bob Scott, Jeremy Ploeger, Ethan Henson, John Blazek', 'old_value': 'Bob Scott, Jerry Ploeger, Ethan Henson, John Blazek'}}}
+30: {'values_changed': {"root['Director']": {'new_value': 'Bob Scott, Jerry Ploeger, Ethan Henson, John Blazek', 'old_value': 'Bob Scott, Jerry Ploeger,Ethan Henson, John Blazek'}}}
+33: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+35: {'values_changed': {"root['Director']": {'new_value': 'Bob Scott, Jerry Ploeger,Ethan Henson, John Blazek', 'old_value': 'Bob Scott, Jerry Ploeger, Ethan Henson, John Blazek'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+49: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+65: {'dictionary_item_added': {"root['Founder']": 'Bob Scott'}, 'dictionary_item_removed': {"root['inaugural']": '2013 Champions Professional Indoor Football league Season', "root['champion']": 'Wichita Wild', "root['most_champs']": 'Wichita Wild (1)'}}
+67: {'values_changed': {"root['inaugural']": {'new_value': '2013 Champions Professional Indoor Football league Season', 'old_value': '2013'}}}
+72: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+73: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+77: {'values_changed': {"root['upcoming_season']": {'new_value': '2013 CPIFL season', 'old_value': '2014 CPIFL season'}, "root['teams']": {'new_value': '10', 'old_value': '9'}}}
+80: {'values_changed': {"root['most_champs']": {'new_value': 'Wichita Wild (1)', 'old_value': 'Wichita Wild (2)'}}}
+85: {'dictionary_item_added': {"root['current_season']": '2013 CPIFL season', "root['upcoming_season']": '2014 CPIFL season', "root['ceo']": 'James Bain', "root['related_comps']": 'American Professional Football League, Ultimate Indoor Football League, Indoor Football League'}, 'dictionary_item_removed': {"root['folded']": '2014'}, 'values_changed': {"root['champion']": {'new_value': 'Wichita Wild', 'old_value': 'Wichita Wild (2nd title)'}, "root['most_champs']": {'new_value': 'Wichita Wild (2)', 'old_value': 'Wichita Wild (2 titles)'}}}

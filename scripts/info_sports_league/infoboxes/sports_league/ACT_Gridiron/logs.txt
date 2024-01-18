@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['pixels']": '200', "root['sport']": 'Gridiron football', "root['president']": 'George Stosic', "root['inaugural']": '1993', "root['teams']": '6 (two active in 2019)', "root['venue']": 'Greenway Oval, Gungahlin Oval, Griffith Park', "root['champion']": 'Centurions', "root['most_champs']": 'University of Canberra Firebirds', "root['levels']": 'Seniors, Womens, Juniors', "root['domestic_cup']": 'Capital Bowl'}}
+7: {'values_changed': {"root['levels']": {'new_value': 'Seniors, Womens, Juniors', 'old_value': "Seniors, Women's, Juniors"}}}
+9: {'values_changed': {"root['teams']": {'new_value': '6 (two active in 2019)', 'old_value': '3'}, "root['champion']": {'new_value': 'Centurions', 'old_value': 'Centurions (3rd Title)'}}}
+16: {'dictionary_item_added': {"root['most_champs']": 'University of Canberra Firebirds'}, 'dictionary_item_removed': {"root['champ_season']": '2021'}}
+22: {'values_changed': {"root['champion']": {'new_value': 'Centurions (3rd Title)', 'old_value': 'Centurions (4th Title)'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}

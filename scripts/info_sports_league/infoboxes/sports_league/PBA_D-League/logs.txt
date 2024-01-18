@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2011', "root['teams']": '#Current teams', "root['continent']": 'FIBA Asia (Asia)'}}
+13: {'dictionary_item_removed': {"root['current_season']": '2011 PBA D-League Foundation Cup'}}
+17: {'dictionary_item_removed': {"root['TV']": 'Intercontinental Broadcasting Corporation'}}
+20: {'values_changed': {"root['TV']": {'new_value': 'Intercontinental Broadcasting Corporation', 'old_value': 'AksyonTV'}}}
+21: {'values_changed': {"root['TV']": {'new_value': 'AksyonTV', 'old_value': 'Sports5 (Intercontinental Broadcasting Corporation'}}}
+26: {'dictionary_item_added': {"root['current_season']": '2011 PBA D-League Foundation Cup'}, 'dictionary_item_removed': {"root['champion']": 'NLEX Road Warriors (1st title)', "root['most_champs']": 'NLEX Road Warriors (1st title)'}}
+27: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation'}}}
+28: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (Intercontinental Broadcasting Corporation'}}}
+40: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation'}}}
+41: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (Intercontinental Broadcasting Corporation'}}}
+43: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation'}}}
+44: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (Intercontinental Broadcasting Corporation'}}}
+45: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (AK'}}}
+47: {'values_changed': {"root['TV']": {'new_value': 'Sports5 (AK', 'old_value': 'Sports5 (Intercontinental Broadcasting Corporation'}}}
+52: {'dictionary_item_removed': {"root['current_season']": "2011 PBA D-League Aspirant's Cup"}, 'values_changed': {"root['TV']": {'new_value': 'Sports5 (Intercontinental Broadcasting Corporation', 'old_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation'}}}
+75: {'dictionary_item_removed': {"root['commissioner']": 'Willie Marcial'}, 'values_changed': {"root['current_season']": {'new_value': "2011 PBA D-League Aspirant's Cup", 'old_value': '2019 PBA D-League Foundation Cup'}, "root['teams']": {'new_value': '#Current teams', 'old_value': '14'}, "root['champion']": {'new_value': 'NLEX Road Warriors (1st title)', 'old_value': 'NLEX Road Warriors'}, "root['most_champs']": {'new_value': 'NLEX Road Warriors (1st title)', 'old_value': 'NLEX Road Warriors (PBA D-League)'}, "root['TV']": {'new_value': 'Sports5 (AKTV on Intercontinental Broadcasting Corporation', 'old_value': '5 Plus (ESPN 5), PBA Rush'}}}
+76: {'values_changed': {"root['current_season']": {'new_value': '2019 PBA D-League Foundation Cup', 'old_value': '2020 PBA D-League Aspirants Cup'}, "root['teams']": {'new_value': '14', 'old_value': '12'}}}
+86: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}}}
+89: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '12'}}}
+110: {'values_changed': {"root['current_season']": {'new_value': '2020 PBA D-League Aspirants Cup', 'old_value': "2020 PBA D-League Aspirants' Cup"}}}
+114: {'values_changed': {"root['TV']": {'new_value': '5 Plus (ESPN 5), PBA Rush', 'old_value': 'One Sports ('}}}
+125: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': 'TBA'}}}
+129: {'dictionary_item_removed': {"root['folded']": '2020'}}
+155: {'dictionary_item_added': {"root['folded']": '2020', "root['teams']": 'TBA'}, 'values_changed': {"root['current_season']": {'new_value': "2020 PBA D-League Aspirants' Cup", 'old_value': "2022 PBA D-League Aspirants' Cup"}, "root['champion']": {'new_value': 'NLEX Road Warriors', 'old_value': 'Eco Oil-La Salle Green Archers   (1st title)'}}}
+156: {'dictionary_item_removed': {"root['teams']": '8'}, 'values_changed': {"root['current_season']": {'new_value': "2022 PBA D-League Aspirants' Cup", 'old_value': "2023 PBA D-League Aspirants' Cup"}}}
+161: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+171: {'values_changed': {"root['inaugural']": {'new_value': '2011', 'old_value': '2021'}}}

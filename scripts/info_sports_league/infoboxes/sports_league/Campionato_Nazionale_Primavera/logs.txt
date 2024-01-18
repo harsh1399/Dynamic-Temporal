@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Lega Calcio.png', "root['teams']": '42', "root['champion']": 'Palermo '}}
+3: {'values_changed': {"root['sport']": {'new_value': 'Lega Calcio.png', 'old_value': 'Campionato Primavera'}}}
+18: {'values_changed': {"root['champion']": {'new_value': 'Palermo ', 'old_value': 'Genoa '}}}
+22: {'values_changed': {"root['sport']": {'new_value': 'Campionato Primavera', 'old_value': 'Association football'}}}
+28: {'dictionary_item_removed': {"root['continent']": 'EU'}, 'values_changed': {"root['champion']": {'new_value': 'Genoa ', 'old_value': 'Genoa C.F.C.'}}}
+29: {'values_changed': {"root['continent']": {'new_value': 'EU', 'old_value': 'flagicon'}}}
+33: {'dictionary_item_added': {"root['sport']": 'Association football', "root['champion']": 'Genoa C.F.C.'}, 'dictionary_item_removed': {"root['domest_cup']": 'Coppa Italia Primavera', "root['overseas_tournament']": 'Torneo di Viareggio', "root['champions']": 'A.S. Roma Primavera', "root['most_champs']": 'Torino F.C.', "root['tv']": 'Rai Sport 1 & Rai Sport 2'}, 'values_changed': {"root['teams']": {'new_value': '42', 'old_value': '42 teams (regular season)  8 teams (finals)'}, "root['continent']": {'new_value': 'flagicon', 'old_value': 'UEFA'}}}
+34: {'values_changed': {"root['champions']": {'new_value': 'A.S. Roma Primavera', 'old_value': 'Inter (8th title)'}}}
+35: {'values_changed': {"root['champions']": {'new_value': 'Inter (8th title)', 'old_value': 'F.C. Internazionale Milano Primavera'}}}

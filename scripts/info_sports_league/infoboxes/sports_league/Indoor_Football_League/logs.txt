@@ -1,0 +1,47 @@
+1: {'dictionary_item_removed': {"root['sport']": 'Indoor football', "root['teams']": '17', "root['champion']": 'TBD '}}
+42: {'values_changed': {"root['teams']": {'new_value': '17', 'old_value': '24'}}}
+72: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '23'}}}
+113: {'values_changed': {"root['teams']": {'new_value': '23', 'old_value': '19'}}}
+117: {'dictionary_item_removed': {"root['current_season']": '2009 Indoor Football League season'}}
+123: {'dictionary_item_removed': {"root['Website']": 'http://goifl.com/ '}, 'values_changed': {"root['champion']": {'new_value': 'TBD ', 'old_value': 'TBD'}}}
+143: {'dictionary_item_added': {"root['Website']": 'http://goifl.com/ '}, 'values_changed': {"root['champion']": {'new_value': 'TBD', 'old_value': 'Billings Outlaws'}}}
+192: {'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '22 (Pending)'}}}
+200: {'values_changed': {"root['teams']": {'new_value': '22 (Pending)', 'old_value': '24 (Pending)'}}}
+210: {'values_changed': {"root['teams']": {'new_value': '24 (Pending)', 'old_value': '24'}}}
+225: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '26'}}}
+250: {'dictionary_item_removed': {"root['ceo']": 'Tommy Benizio', "root['most_champs']": 'Billings Outlaws 1'}}
+269: {'dictionary_item_removed': {"root['inaugural']": '2009 Indoor Football League season', "root['Founder']": 'Paul Aaron, Dan Blum '}, 'values_changed': {"root['current_season']": {'new_value': '2009 Indoor Football League season', 'old_value': '2019 Indoor Football League season'}, "root['sport']": {'new_value': 'Indoor football', 'old_value': 'indoor American football'}, "root['ceo']": {'new_value': 'Tommy Benizio', 'old_value': 'Michael Allshouse'}, "root['teams']": {'new_value': '26', 'old_value': '10'}, "root['champion']": {'new_value': 'Billings Outlaws', 'old_value': 'Iowa Barnstormers (1st title)'}, "root['most_champs']": {'new_value': 'Billings Outlaws 1', 'old_value': 'Sioux Falls Storm (6)'}}}
+281: {'values_changed': {"root['Founder']": {'new_value': 'Paul Aaron, Dan Blum ', 'old_value': 'Deek slurp bolz, Dan Blum '}}}
+282: {'values_changed': {"root['Founder']": {'new_value': 'Deek slurp bolz, Dan Blum ', 'old_value': 'Paul Aaron, Dan Blum '}}}
+304: {'dictionary_item_removed': {"root['headquarters']": 'Grand Island, Nebraska'}}
+306: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11 (ten current, one expansion)'}}}
+307: {'values_changed': {"root['teams']": {'new_value': '11 (ten current, one expansion)', 'old_value': '10'}}}
+339: {'values_changed': {"root['champion']": {'new_value': 'Iowa Barnstormers (1st title)', 'old_value': 'Sioux Falls Storm (7th title)'}, "root['most_champs']": {'new_value': 'Sioux Falls Storm (6)', 'old_value': 'Sioux Falls Storm (7)'}}}
+342: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+348: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+350: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+390: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+405: {'values_changed': {"root['ceo']": {'new_value': 'Michael Allshouse', 'old_value': 'Vacant'}}}
+406: {'dictionary_item_added': {"root['ceo']": 'Vacant'}, 'dictionary_item_removed': {"root['commissioner']": "''Vacant''"}}
+408: {'values_changed': {"root['commissioner']": {'new_value': "''Vacant''", 'old_value': 'Todd Tryon'}}}
+409: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}}}
+415: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '12'}}}
+419: {'values_changed': {"root['current_season']": {'new_value': '2019 Indoor Football League season', 'old_value': '2020 Indoor Football League season'}}}
+421: {'values_changed': {"root['Founder']": {'new_value': 'Paul Aaron, Dan Blum ', 'old_value': 'Tommy Benizio, Chad Dittman '}}}
+422: {'values_changed': {"root['Founder']": {'new_value': 'Tommy Benizio, Chad Dittman ', 'old_value': 'Paul Aaron, Dan Blum '}}}
+424: {'dictionary_item_added': {"root['Founder']": 'Paul Aaron, Dan Blum '}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}}}
+464: {'values_changed': {"root['current_season']": {'new_value': '2020 Indoor Football League season', 'old_value': '2020 Indoor Football League Season'}}}
+466: {'values_changed': {"root['current_season']": {'new_value': '2020 Indoor Football League Season', 'old_value': '2020 Indoor Football League season'}}}
+500: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+510: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '15 (14 current and 1 future expansion)'}}}
+527: {'values_changed': {"root['teams']": {'new_value': '15 (14 current and 1 future expansion)', 'old_value': '16 (15 current and 1 future expansion)'}}}
+539: {'values_changed': {"root['teams']": {'new_value': '16 (15 current and 1 future expansion)', 'old_value': '14'}}}
+541: {'dictionary_item_removed': {"root['fame']": 'The longest continuously operating professional indoor football league in America'}}
+542: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '16 (14 current, 2 future)'}}}
+549: {'dictionary_item_removed': {"root['related_comps']": 'Intense Football League & United Indoor Football'}, 'values_changed': {"root['fame']": {'new_value': 'The longest continuously operating professional indoor football league in America', 'old_value': "America's longest continuously running indoor football league"}}}
+551: {'values_changed': {"root['teams']": {'new_value': '16 (14 current, 2 future)', 'old_value': '16 (13 current, 3 future)'}}}
+553: {'values_changed': {"root['teams']": {'new_value': '16 (13 current, 3 future)', 'old_value': '17 (14 current, 3 dormant)'}}}
+556: {'values_changed': {"root['teams']": {'new_value': '17 (14 current, 3 dormant)', 'old_value': '17 (12 current, 5 dormant)'}}}
+577: {'dictionary_item_added': {"root['current_season']": '2020 Indoor Football League season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 Indoor Football League season', "root['TV']": 'YouTube, Stadium (sports network)'}, 'values_changed': {"root['sport']": {'new_value': 'indoor American football', 'old_value': 'Arena football'}, "root['teams']": {'new_value': '17 (12 current, 5 dormant)', 'old_value': '16 (14 current, 2 expansion)'}, "root['champion']": {'new_value': 'Sioux Falls Storm (7th title)', 'old_value': 'Northern Arizona Wranglers (1st title)'}, "root['related_comps']": {'new_value': 'Intense Football League & United Indoor Football', 'old_value': 'XFL (2020)'}}}
+579: {'values_changed': {"root['related_comps']": {'new_value': 'XFL (2020)', 'old_value': "'''Direct:''' XFL (2020)"}}}
+595: {'values_changed': {"root['TV']": {'new_value': 'YouTube, Stadium (sports network)', 'old_value': 'YouTube, CBS Sports Network'}}}

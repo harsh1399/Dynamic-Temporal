@@ -1,0 +1,126 @@
+0: {'dictionary_item_removed': {"root['sport']": 'XFL', "root['inaugural']": '2020', "root['owner']": 'Alpha Entertainment'}}
+7: {'dictionary_item_removed': {"root['teams']": '8'}}
+13: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment', 'old_value': 'Alpha Entertainment, LLC'}}}
+16: {'values_changed': {"root['inaugural']": {'new_value': '2020', 'old_value': '2020 (planned)'}}}
+26: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment, LLC', 'old_value': 'Alpha Entertainment LLC'}}}
+30: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment LLC', 'old_value': 'Alpha Entertainment'}}}
+32: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment', 'old_value': 'Alpha Entertainment LLC'}}}
+35: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment LLC', 'old_value': 'Alpha Entertainment'}}}
+44: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment', 'old_value': 'Alpha Entertainment, (Vince McMahon, chairman)'}}}
+45: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment, (Vince McMahon, chairman)', 'old_value': 'Alpha Entertainment LLC, Vince McMahon, (chairman)'}}}
+46: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment LLC, Vince McMahon, (chairman)', 'old_value': 'Alpha Entertainment LLC'}}}
+86: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment LLC', 'old_value': 'Vince McMahon, small'}}}
+108: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8 (proposed)'}}}
+119: {'dictionary_item_removed': {"root['champion']": 'Los Angles'}}
+175: {'dictionary_item_added': {"root['champion']": 'Los Angles'}, 'dictionary_item_removed': {"root['commissioner']": 'Oliver Luck'}}
+188: {'dictionary_item_removed': {"root['Reestablished']": '2018'}}
+190: {'dictionary_item_added': {"root['Reestablished']": '2018'}, 'values_changed': {"root['teams']": {'new_value': '8 (proposed)', 'old_value': '8 (none officially announced yet)'}}}
+191: {'values_changed': {"root['teams']": {'new_value': '8 (none officially announced yet)', 'old_value': '8 (planned)'}}}
+194: {'values_changed': {"root['teams']": {'new_value': '8 (planned)', 'old_value': '#Teams'}}}
+195: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '8 (planned)'}}}
+196: {'values_changed': {"root['inaugural']": {'new_value': '2020 (planned)', 'old_value': '2018(planned)'}}}
+197: {'values_changed': {"root['inaugural']": {'new_value': '2018(planned)', 'old_value': '2020 (planned)'}}}
+198: {'values_changed': {"root['sport']": {'new_value': 'XFL', 'old_value': 'sheen'}}}
+199: {'values_changed': {"root['sport']": {'new_value': 'sheen', 'old_value': 'XFL'}}}
+281: {'values_changed': {"root['owner']": {'new_value': 'Vince McMahon, small', 'old_value': '(Alpha Entertainment LLC, (Vince McMahon)'}}}
+283: {'values_changed': {"root['owner']": {'new_value': '(Alpha Entertainment LLC, (Vince McMahon)', 'old_value': 'Alpha Entertainment LLC, (Vince McMahon)'}}}
+327: {'values_changed': {"root['teams']": {'new_value': '8 (planned)', 'old_value': '8'}}}
+330: {'values_changed': {"root['inaugural']": {'new_value': '2020 (planned)', 'old_value': 'February 8th 2020 (planned)'}}}
+331: {'values_changed': {"root['inaugural']": {'new_value': 'February 8th 2020 (planned)', 'old_value': '2020 (planned)'}}}
+345: {'dictionary_item_removed': {"root['upcoming_season']": '2020 XFL season', "root['president']": 'Jeffrey Pollack', "root['headquarters']": 'Stamford, Connecticut', "root['TV']": 'ABC ESPN Fox FS1 '}, 'values_changed': {"root['sport']": {'new_value': 'XFL', 'old_value': 'American football'}}}
+348: {'values_changed': {"root['TV']": {'new_value': 'ABC ESPN Fox FS1 ', 'old_value': 'ABC/ESPN Fox Sports '}}}
+387: {'values_changed': {"root['inaugural']": {'new_value': '2020 (planned)', 'old_value': '2020 XFL season'}}}
+433: {'dictionary_item_added': {"root['upcoming_season']": '2020 XFL season'}, 'dictionary_item_removed': {"root['current_season']": '2020 XFL season'}}
+499: {'dictionary_item_removed': {"root['slogan']": '"For the Love of Football"'}}
+521: {'dictionary_item_added': {"root['slogan']": '"For the Love of Football"'}, 'dictionary_item_removed': {"root['champion']": 'houston roughnecks'}}
+543: {'dictionary_item_added': {"root['champion']": 'houston roughnecks'}, 'dictionary_item_removed': {"root['folded']": '2020'}}
+547: {'values_changed': {"root['folded']": {'new_value': '2020', 'old_value': 'end date'}}}
+557: {'values_changed': {"root['folded']": {'new_value': 'end date', 'old_value': '2020'}}}
+576: {'dictionary_item_added': {"root['folded']": '2020'}, 'values_changed': {"root['commissioner']": {'new_value': 'Oliver Luck', 'old_value': 'Oliver Luck (2018–2020)'}}}
+588: {'dictionary_item_removed': {"root['Fate']": 'Bankruptcy '}, 'values_changed': {"root['TV']": {'new_value': 'ABC/ESPN Fox Sports ', 'old_value': 'ESPN on ABC'}}}
+620: {'dictionary_item_added': {"root['current_season']": '2020 XFL season'}, 'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment LLC, (Vince McMahon)', 'old_value': 'Vince McMahon'}}}
+621: {'values_changed': {"root['owner']": {'new_value': 'Vince McMahon', 'old_value': 'Vince McMahon World Wrestling Entertainment'}}}
+646: {'values_changed': {"root['owner']": {'new_value': 'Vince McMahon World Wrestling Entertainment', 'old_value': 'Alpha Entertainment'}}}
+647: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment', 'old_value': 'Alpha Entertainment, LLC'}}}
+654: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment, LLC', 'old_value': 'Vince McMahon World Wrestling Entertainment<ref name'}}}
+657: {'values_changed': {"root['owner']": {'new_value': 'Vince McMahon World Wrestling Entertainment<ref name', 'old_value': 'Alpha Entertainment, LLC'}}}
+663: {'dictionary_item_removed': {"root['folded']": '2020'}}
+664: {'values_changed': {"root['inaugural']": {'new_value': '2020 XFL season', 'old_value': '2001 XFL season'}}}
+665: {'values_changed': {"root['inaugural']": {'new_value': '2001 XFL season', 'old_value': '2020 XFL season'}}}
+670: {'dictionary_item_added': {"root['folded']": '2020'}, 'values_changed': {"root['Fate']": {'new_value': 'Bankruptcy ', 'old_value': 'Suspended '}}}
+672: {'dictionary_item_removed': {"root['folded']": '2020'}, 'values_changed': {"root['Fate']": {'new_value': 'Suspended ', 'old_value': 'Bankruptcy '}}}
+698: {'dictionary_item_added': {"root['folded']": '2020'}, 'dictionary_item_removed': {"root['last_season']": '2020', "root['ceased']": '2020'}}
+733: {'dictionary_item_added': {"root['last_season']": '2020'}, 'values_changed': {"root['ceased']": {'new_value': '2020', 'old_value': 'end date'}}}
+738: {'dictionary_item_added': {"root['ceased']": 'end date', "root['TV']": 'ESPN on ABC', "root['Fate']": 'Bankruptcy '}, 'dictionary_item_removed': {"root['logo_size']": '200', "root['folded']": 'start date and age', "root['champion']": '(none)', "root['tv']": 'ABC/ESPN Fox/FS1 '}}
+742: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment, LLC', 'old_value': 'Dwayne "The Rock" Johnson'}}}
+743: {'values_changed': {"root['owner']": {'new_value': 'Dwayne "The Rock" Johnson', 'old_value': 'Alpha Entertainment, LLC'}}}
+744: {'values_changed': {"root['owner']": {'new_value': 'Alpha Entertainment, LLC', 'old_value': 'RedBird Capital'}}}
+748: {'dictionary_item_added': {"root['folded']": 'start date and age'}, 'values_changed': {"root['commissioner']": {'new_value': 'Oliver Luck (2018–2020)', 'old_value': 'Oliver Luck (2018–2020) Position Currently Vacant'}}}
+752: {'values_changed': {"root['commissioner']": {'new_value': 'Oliver Luck (2018–2020) Position Currently Vacant', 'old_value': 'N/A (vacant)'}}}
+759: {'values_changed': {"root['owner']": {'new_value': 'RedBird Capital', 'old_value': "Dwayne 'The Rock' Johnson"}}}
+761: {'values_changed': {"root['owner']": {'new_value': "Dwayne 'The Rock' Johnson", 'old_value': "Dwayne 'The Rock' Johnson, Dany Garcia, RedBird Capital"}}}
+763: {'values_changed': {"root['owner']": {'new_value': "Dwayne 'The Rock' Johnson, Dany Garcia, RedBird Capital", 'old_value': 'Dwayne Johnson, Dany Garcia, RedBird Capital'}}}
+764: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Dwayne Johnson, Dany Garcia, RedBird Capital'}}}
+794: {'dictionary_item_added': {"root['champion']": '(none)', "root['commissioner']": 'N/A (vacant)'}, 'dictionary_item_removed': {"root['founder']": 'Vince McMahon'}}
+797: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Alpha Acquico, LLC', 'new_value': []}}}
+804: {'dictionary_item_removed': {"root['commissioner']": 'Vacant'}}
+806: {'values_changed': {"root['president']": {'new_value': 'Jeffrey Pollack', 'old_value': 'Jimmy Moncrieff'}}}
+816: {'values_changed': {"root['president']": {'new_value': 'Jimmy Moncrieff', 'old_value': 'Jeffrey Pollack'}}}
+821: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN Fox/FS1 ', 'old_value': 'Fox/FS1 '}}}
+822: {'values_changed': {"root['tv']": {'new_value': 'Fox/FS1 ', 'old_value': 'ABC/ESPN Fox/FS1 '}}}
+832: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN Fox/FS1 ', 'old_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name'}}}
+840: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name', 'old_value': 'ABC/ESPN Fox/FS1 '}}}
+841: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN Fox/FS1 ', 'old_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name'}}}
+843: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name', 'old_value': 'ABC/ESPN Fox/FS1 '}}}
+844: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN Fox/FS1 ', 'old_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name'}}}
+845: {'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN (ended partnership following change in ownership)<ref name', 'old_value': 'ABC/ESPN Fox/FS1 '}}}
+855: {'values_changed': {"root['logo_size']": {'new_value': '200', 'old_value': '260'}}}
+861: {'values_changed': {"root['sport']": {'new_value': 'American football', 'old_value': 'Mexican football'}, "root['founder']": {'new_value': 'Vince McMahon', 'old_value': 'Jamal Adams'}}}
+862: {'values_changed': {"root['sport']": {'new_value': 'Mexican football', 'old_value': 'American football'}, "root['founder']": {'new_value': 'Jamal Adams', 'old_value': 'Vince McMahon'}}}
+877: {'dictionary_item_added': {"root['founder']": 'Vince McMahon'}, 'values_changed': {"root['owner']": {'new_value': 'Alpha Acquico, LLC', 'old_value': 'Alpha Acquico, LLC<ref name'}}}
+878: {'dictionary_item_removed': {"root['related_comps']": 'XFL (2001) '}, 'values_changed': {"root['tv']": {'new_value': 'ABC/ESPN Fox/FS1 ', 'old_value': 'ESPN on ABC'}}}
+880: {'dictionary_item_removed': {"root['founder']": 'Vince McMahon'}}
+881: {'dictionary_item_removed': {"root['classification']": 'Spring Football'}}
+882: {'dictionary_item_removed': {"root['current_season']": '2020 XFL season'}}
+896: {'values_changed': {"root['commissioner']": {'new_value': 'Vacant', 'old_value': 'Tom Coughlin'}}}
+899: {'values_changed': {"root['commissioner']": {'new_value': 'Tom Coughlin', 'old_value': 'Vacant'}}}
+902: {'dictionary_item_added': {"root['classification']": 'Spring Football', "root['commissioner']": 'Vacant', "root['tv']": 'ESPN on ABC'}, 'dictionary_item_removed': {"root['current_season2']": '2023 XFL Season'}, 'values_changed': {"root['logo_size']": {'new_value': '260', 'old_value': '280'}, "root['president']": {'new_value': 'Jeffrey Pollack', 'old_value': 'Russ Brandon'}, "root['headquarters']": {'new_value': 'Stamford, Connecticut', 'old_value': 'New York City'}, "root['related_comps']": {'new_value': 'XFL (2001) ', 'old_value': 'XFL (2001) USFL (2022) '}}}
+904: {'values_changed': {"root['current_season2']": {'new_value': '2023 XFL Season', 'old_value': '2023 XFL season'}}}
+909: {'dictionary_item_added': {"root['current_season2']": '2023 XFL season'}, 'values_changed': {"root['current_season']": {'new_value': '2020 XFL season', 'old_value': '2023 XFL season'}}}
+910: {'dictionary_item_removed': {"root['tv']": []}}
+911: {'values_changed': {"root['related_comps']": {'new_value': 'XFL (2001) USFL (2022) ', 'old_value': 'The Spring League, USFL (2022), Fall Experimental Football League '}}}
+913: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, USFL (2022), Fall Experimental Football League ', 'old_value': 'The Spring League, USFL, Fall Experimental Football League '}}}
+914: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, USFL, Fall Experimental Football League ', 'old_value': 'The Spring League, USFL, FXFL '}}}
+915: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, USFL, FXFL ', 'old_value': 'The Spring League '}}}
+918: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League ', 'old_value': 'The Spring League, USFL '}}}
+921: {'values_changed': {"root['headquarters']": {'new_value': 'New York City', 'old_value': 'Greenwich, Connecticut'}}}
+932: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, USFL ', 'old_value': 'USFL '}}}
+933: {'values_changed': {"root['related_comps']": {'new_value': 'USFL ', 'old_value': 'The Spring League, USFL '}}}
+935: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, USFL ', 'old_value': 'USFL '}}}
+938: {'values_changed': {"root['owner']": {'new_value': 'Alpha Acquico, LLC<ref name', 'old_value': 'The Rock'}}}
+939: {'values_changed': {"root['owner']": {'new_value': 'The Rock', 'old_value': 'Alpha Acquico, LLC<ref name'}}}
+969: {'dictionary_item_added': {"root['tv']": []}, 'dictionary_item_removed': {"root['TV']": []}}
+970: {'values_changed': {"root['founder']": {'new_value': 'Vince McMahon', 'old_value': 'Cohen Robb'}}}
+971: {'values_changed': {"root['founder']": {'new_value': 'Cohen Robb', 'old_value': 'Vince McMahon'}}}
+1010: {'dictionary_item_added': {"root['logo_size']": '280'}, 'dictionary_item_removed': {"root['last_season']": '2020', "root['upcoming_season']": '2023'}}
+1031: {'values_changed': {"root['headquarters']": {'new_value': 'Greenwich, Connecticut', 'old_value': 'Arlington, Texas'}}}
+1047: {'values_changed': {"root['headquarters']": {'new_value': 'Arlington, Texas', 'old_value': 'Choctaw Stadium'}}}
+1066: {'values_changed': {"root['president']": {'new_value': 'Russ Brandon', 'old_value': 'Donut Remer'}}}
+1067: {'values_changed': {"root['president']": {'new_value': 'Donut Remer', 'old_value': 'Russ Brandon'}}}
+1096: {'dictionary_item_removed': {"root['logo_size']": '250'}}
+1202: {'dictionary_item_removed': {"root['commissioner']": 'TBD'}, 'values_changed': {"root['owner']": {'new_value': 'Alpha Acquico, LLC<ref name', 'old_value': 'ubl'}}}
+1204: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '10'}}}
+1205: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '8'}}}
+1279: {'values_changed': {"root['related_comps']": {'new_value': 'USFL ', 'old_value': "'''Direct:''' Indoor Football League '''Other:''' USFL "}}}
+1285: {'values_changed': {"root['commissioner']": {'new_value': 'TBD', 'old_value': 'Dwayne Johnson'}}}
+1286: {'dictionary_item_removed': {"root['ceo']": 'Dany Garcia'}}
+1351: {'values_changed': {"root['commissioner']": {'new_value': 'Dwayne Johnson', 'old_value': 'TBD'}}}
+1424: {'dictionary_item_added': {"root['logo_size']": '250'}, 'values_changed': {"root['related_comps']": {'new_value': "'''Direct:''' Indoor Football League '''Other:''' USFL ", 'old_value': "'''Direct:''' Indoor Football League, Your Call Football and The Spring League '''Other:''' USFL "}}}
+1425: {'values_changed': {"root['founder']": {'new_value': 'Vince McMahon', 'old_value': 'Michael Langston'}}}
+1426: {'values_changed': {"root['founder']": {'new_value': 'Michael Langston', 'old_value': 'Vince McMahon'}}}
+1427: {'dictionary_item_removed': {"root['classification']": 'Spring football league'}, 'values_changed': {"root['commissioner']": {'new_value': 'TBD', 'old_value': 'Noneefn'}}}
+1435: {'values_changed': {"root['related_comps']": {'new_value': "'''Direct:''' Indoor Football League, Your Call Football and The Spring League '''Other:''' USFL ", 'old_value': "'''Direct:''' Indoor Football League, Your Call Football, and The Spring League '''Other:''' USFL "}}}
+1450: {'dictionary_item_removed': {"root['champion']": 'Arlington Renegades', "root['champ_season']": '2023 XFL season'}}
+1460: {'dictionary_item_removed': {"root['most_champs']": 'Arlington Renegades (1 title)'}, 'values_changed': {"root['champion']": {'new_value': 'Arlington Renegades', 'old_value': 'Arlington Renegades (1st title)'}}}
+1465: {'dictionary_item_added': {"root['champ_season']": '2023 XFL season'}, 'values_changed': {"root['current_season']": {'new_value': '2023 XFL season', 'old_value': '2024 XFL season'}, "root['upcoming_season']": {'new_value': '2023', 'old_value': '2024'}}}
+1500: {'dictionary_item_added': {"root['commissioner']": 'Noneefn'}, 'values_changed': {"root['related_comps']": {'new_value': "'''Direct:''' Indoor Football League, Your Call Football, and The Spring League '''Other:''' USFL ", 'old_value': "'''Direct:''' Indoor Football League  '''Other:''' USFL "}}}

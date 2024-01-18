@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball'}}
+2: {'dictionary_item_removed': {"root['upcoming_season']": '2022', "root['headquarters']": 'Stockholm, Sweden', "root['inaugural']": '1963', "root['teams']": 'Rättvik Butchers, Leksand Lumberjacks, Karlskoga Bats, Stockholm Monarchs, Sundbyberg Heat, Sundsvall Mosquitoes, Sölvesborg Firehawks', "root['most_champs']": 'Leksand Lumberjacks (23)'}}
+3: {'values_changed': {"root['teams']": {'new_value': 'Rättvik Butchers, Leksand Lumberjacks, Karlskoga Bats, Stockholm Monarchs, Sundbyberg Heat, Sundsvall Mosquitoes, Sölvesborg Firehawks', 'old_value': 'Rättvik Butchers  Leksand Lumberjacks  Karlskoga Bats Stockholm Monarchs Sundbyberg Heat Sundsvall Mosquitoes Sölvesborg Firehawks'}}}
+4: {'values_changed': {"root['teams']": {'new_value': 'Rättvik Butchers  Leksand Lumberjacks  Karlskoga Bats Stockholm Monarchs Sundbyberg Heat Sundsvall Mosquitoes Sölvesborg Firehawks', 'old_value': 'Rättvik Butchers Leksand Lumberjacks Karlskoga Bats Stockholm Monarchs Sundbyberg Heat Sundsvall Mosquitoes Sölvesborg Firehawks'}}}
+5: {'dictionary_item_removed': {"root['Commissioner']": 'Rob Manfred'}, 'values_changed': {"root['teams']": {'new_value': 'Rättvik Butchers Leksand Lumberjacks Karlskoga Bats Stockholm Monarchs Sundbyberg Heat Sundsvall Mosquitoes Sölvesborg Firehawks', 'old_value': '7'}}}
+9: {'values_changed': {"root['Commissioner']": {'new_value': 'Rob Manfred', 'old_value': 'Jan Mikael Johnson'}}}
+10: {'dictionary_item_removed': {"root['current_champion']": 'Rättvik Butchers'}}

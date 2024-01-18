@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['pixels']": '150 px', "root['sport']": 'Rugby Union', "root['inaugural']": '2009', "root['teams']": '8', "root['champion']": 'Brown'}}
+4: {'values_changed': {"root['pixels']": {'new_value': '150 px', 'old_value': '150'}, "root['sport']": {'new_value': 'Rugby Union', 'old_value': 'Rugby union'}, "root['inaugural']": {'new_value': '2009', 'old_value': '1969'}, "root['champion']": {'new_value': 'Brown', 'old_value': 'Brown Bears'}}}
+7: {'dictionary_item_removed': {"root['most_champs']": 'Dartmouth Rugby'}, 'values_changed': {"root['pixels']": {'new_value': '150', 'old_value': '200'}}}
+10: {'values_changed': {"root['inaugural']": {'new_value': '1969', 'old_value': '2009'}}}
+32: {'dictionary_item_removed': {"root['TV']": 'ESPN+ '}}
+33: {'values_changed': {"root['champion']": {'new_value': 'Brown Bears', 'old_value': '15s: Brown Bears'}, "root['most_champs']": {'new_value': 'Dartmouth Rugby', 'old_value': '15s: Dartmouth Rugby'}}}

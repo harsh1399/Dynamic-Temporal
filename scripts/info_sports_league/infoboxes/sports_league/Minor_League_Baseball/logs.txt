@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['tv']": 'CBS Sports Network, MiLB.tv, local tv stations', "root['teams']": '120 (as of 2021 season;, Class A and above)', "root['countries']": 'United States, Canada, Mexico, Dominican Republic', "root['headquarters']": 'St. Petersburg, Florida, U.S.'}}
+1: {'values_changed': {"root['headquarters']": {'new_value': 'St. Petersburg, Florida, U.S.', 'old_value': 'New York City, U.S.'}}}
+2: {'values_changed': {"root['headquarters']": {'new_value': 'New York City, U.S.', 'old_value': 'St. Petersburg, Florida, U.S.'}}}
+4: {'values_changed': {"root['headquarters']": {'new_value': 'St. Petersburg, Florida, U.S.', 'old_value': 'New York City, U.S.'}}}
+20: {'values_changed': {"root['teams']": {'new_value': '120 (as of 2021 season;, Class A and above)', 'old_value': '120 (as of 2021 season;, Low A and above)'}}}
+36: {'values_changed': {"root['teams']": {'new_value': '120 (as of 2021 season;, Low A and above)', 'old_value': '150 (as of 2021 season;, US and Canada)'}}}
+42: {'values_changed': {"root['teams']": {'new_value': '150 (as of 2021 season;, US and Canada)', 'old_value': '120 (as of 2021 season;, US and Canada)'}}}
+44: {'values_changed': {"root['teams']": {'new_value': '120 (as of 2021 season;, US and Canada)', 'old_value': '150 (as of 2021 season;, US and Canada)'}}}
+45: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada, Mexico, Dominican Republic', 'old_value': 'United States, Canada, Dominican Republic'}}}
+46: {'values_changed': {"root['teams']": {'new_value': '150 (as of 2021 season;, US and Canada)', 'old_value': '120 (as of 2021 season;, US and Canada)'}}}
+47: {'values_changed': {"root['teams']": {'new_value': '120 (as of 2021 season;, US and Canada)', 'old_value': '15 0 (as of 2021 season;, US and Canada)'}}}
+48: {'values_changed': {"root['teams']": {'new_value': '15 0 (as of 2021 season;, US and Canada)', 'old_value': '150  (as of 2021 season;, US and Canada)'}}}
+49: {'values_changed': {"root['teams']": {'new_value': '150  (as of 2021 season;, US and Canada)', 'old_value': '120  (as of 2021 season;, US and Canada)'}}}
+58: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada, Dominican Republic', 'old_value': 'United States, Canada'}}}
+61: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada', 'old_value': 'United States, Canada, Dominican Republic'}}}
+74: {'values_changed': {"root['teams']": {'new_value': '120  (as of 2021 season;, US and Canada)', 'old_value': '120, ″(as of 2021 season;, US and Canada)'}}}
+75: {'values_changed': {"root['teams']": {'new_value': '120, ″(as of 2021 season;, US and Canada)', 'old_value': '120, (as of 2021 season;, US and Canada)'}}}
+77: {'values_changed': {"root['teams']": {'new_value': '120, (as of 2021 season;, US and Canada)', 'old_value': '120 (as of 2021 season;, US and Canada)'}}}
+185: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada, Dominican Republic', 'old_value': 'United States, Canada'}}}
+186: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada', 'old_value': 'United States, Canada, Dominican Republic'}}}

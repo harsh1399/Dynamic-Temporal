@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'South Eastern Collegiate Hockey Conference', "root['short_name']": 'SECHC', "root['established']": '2008', "root['association']": 'CHF', "root['members']": '17', "root['sports']": 'College Ice Hockey', "root['mens']": 'Yes', "root['womens']": 'No', "root['region']": 'Southeastern United States', "root['commissioner']": 'Justin Bradford', "root['font_color']": 'white', "root['map_size']": '250 '}}
+3: {'dictionary_item_removed': {"root['former_names']": 'South Eastern Collegiate Hockey Conference (CHS) 2008-2021'}, 'values_changed': {"root['name']": {'new_value': 'South Eastern Collegiate Hockey Conference', 'old_value': 'College Hockey South'}, "root['short_name']": {'new_value': 'SECHC', 'old_value': 'CHS'}, "root['established']": {'new_value': '2008', 'old_value': '2022'}, "root['association']": {'new_value': 'CHF', 'old_value': 'CHS'}}}
+5: {'values_changed': {"root['established']": {'new_value': '2022', 'old_value': '2008'}}}
+6: {'values_changed': {"root['established']": {'new_value': '2008', 'old_value': '2022'}}}
+7: {'values_changed': {"root['former_names']": {'new_value': 'South Eastern Collegiate Hockey Conference (CHS) 2008-2021', 'old_value': 'South Eastern Collegiate Hockey Conference (SECHC) 2008-2021'}}}
+16: {'values_changed': {"root['members']": {'new_value': '17', 'old_value': '20'}}}
+18: {'values_changed': {"root['commissioner']": {'new_value': 'Justin Bradford', 'old_value': 'Justin Bradferd'}}}
+19: {'values_changed': {"root['members']": {'new_value': '20', 'old_value': '19'}, "root['commissioner']": {'new_value': 'Justin Bradferd', 'old_value': 'Matt Loughran'}}}
+29: {'values_changed': {"root['commissioner']": {'new_value': 'Matt Loughran', 'old_value': 'TBD'}}}
+30: {'dictionary_item_added': {"root['short_name']": 'CHS', "root['established']": '2022', "root['association']": 'CHS', "root['members']": '19', "root['former_names']": 'South Eastern Collegiate Hockey Conference (SECHC) 2008-2021'}, 'dictionary_item_removed': {"root['conference']": 'CHS', "root['teams']": '19', "root['formerly']": 'South Eastern Collegiate Hockey Conference (SECHC) 2008-2021'}}
+35: {'values_changed': {"root['womens']": {'new_value': 'No', 'old_value': 'Beginning in 2023-2024'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '28'}}}
+41: {'values_changed': {"root['commissioner']": {'new_value': 'TBD', 'old_value': 'Kyle Knell (2022)'}}}

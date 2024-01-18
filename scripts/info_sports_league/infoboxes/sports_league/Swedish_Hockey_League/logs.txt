@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2012–13 Elitserien season', "root['sport']": 'Ice hockey', "root['Formerly']": 'Swedish Division I', "root['teams']": '12', "root['TV']": 'TV4 Group', "root['champion']": 'Brynäs IF'}}
+17: {'values_changed': {"root['champion']": {'new_value': 'Brynäs IF', 'old_value': 'Skellefteå AIK (2nd title)'}}}
+20: {'values_changed': {"root['current_season']": {'new_value': '2012–13 Elitserien season', 'old_value': '2013–14 Elitserien season'}}}
+25: {'dictionary_item_removed': {"root['inaugural']": '1975–76 Elitserien season'}}
+32: {'values_changed': {"root['current_season']": {'new_value': '2013–14 Elitserien season', 'old_value': '2013–14 SHL season'}}}
+44: {'dictionary_item_removed': {"root['last_season']": '2012-13 Elitserien season', "root['formerly']": 'Elitserien'}}
+45: {'dictionary_item_added': {"root['formerly']": 'Elitserien'}, 'values_changed': {"root['Formerly']": {'new_value': 'Swedish Division I', 'old_value': 'Elitserien  (until 2013)'}}}
+90: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'TV4 Group'}}, 'dictionary_item_added': {"root['last_season']": '2012-13 Elitserien season'}, 'dictionary_item_removed': {"root['levels']": '1', "root['most_champs']": 'Djurgårdens IF Hockey', "root['related_comps']": "Swedish Women's Hockey League"}, 'values_changed': {"root['current_season']": {'new_value': '2013–14 SHL season', 'old_value': '2021–22 SHL season'}, "root['teams']": {'new_value': '12', 'old_value': '14'}, "root['champion']": {'new_value': 'Skellefteå AIK (2nd title)', 'old_value': 'Växjö Lakers (3rd title)'}}}
+100: {'values_changed': {"root['champion']": {'new_value': 'Växjö Lakers (3rd title)', 'old_value': 'Färjestad (3rd title)'}}}
+101: {'values_changed': {"root['champion']": {'new_value': 'Färjestad (3rd title)', 'old_value': 'Färjestad (11th title)'}}}
+104: {'dictionary_item_added': {"root['current_season']": '2021–22 SHL season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022–23 SHL season'}}
+105: {'values_changed': {"root['champion']": {'new_value': 'Färjestad (11th title)', 'old_value': 'Färjestad (10th title)'}}}
+106: {'values_changed': {"root['champion']": {'new_value': 'Färjestad (10th title)', 'old_value': 'Färjestad BK (10th title)'}, "root['most_champs']": {'new_value': 'Djurgårdens IF Hockey', 'old_value': 'Färjestad BK (10 titles)'}}}
+127: {'values_changed': {"root['Formerly']": {'new_value': 'Elitserien  (until 2013)', 'old_value': 'Elitserien (1975–2013)'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Box lacrosse', "root['current']": '2020 Interstate Box Lacrosse Association Season', "root['teams']": '32', "root['champion']": 'Philadelphia Phunk (1st title)'}}
+8: {'values_changed': {"root['teams']": {'new_value': '32', 'old_value': '40'}}}
+13: {'dictionary_item_added': {"root['current']": '2020 Interstate Box Lacrosse Association Season'}, 'values_changed': {"root['teams']": {'new_value': '40', 'old_value': '42'}}}
+19: {'dictionary_item_removed': {"root['most_champs']": '4 teams tied with 1'}}
+23: {'values_changed': {"root['teams']": {'new_value': '42', 'old_value': '46'}}}
+26: {'values_changed': {"root['teams']": {'new_value': '46', 'old_value': '47'}}}
+28: {'values_changed': {"root['teams']": {'new_value': '47', 'old_value': '48'}}}
+32: {'values_changed': {"root['teams']": {'new_value': '48', 'old_value': '49'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '49', 'old_value': '52'}}}
+47: {'values_changed': {"root['champion']": {'new_value': 'Philadelphia Phunk (1st title)', 'old_value': 'Seneca Marksmen (1st title)'}, "root['most_champs']": {'new_value': '4 teams tied with 1', 'old_value': '5 teams tied with 1'}}}

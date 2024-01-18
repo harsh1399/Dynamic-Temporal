@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Rugby union', "root['teams']": '10', "root['champion']": 'Budowlani Łódź', "root['most_champs']": 'AZS-AWF Warszawa '}}
+4: {'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warszawa ', 'old_value': 'AZS-AWF Warsaw '}}}
+12: {'values_changed': {"root['champion']": {'new_value': 'Budowlani Łódź', 'old_value': 'Ogniwo Sopot'}}}
+16: {'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warsaw ', 'old_value': 'AZS-AWF Warsaw | Relagation to I Liga '}}}
+17: {'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warsaw | Relagation to I Liga ', 'old_value': 'AZS-AWF Warsaw | Relagation to'}}}
+18: {'dictionary_item_removed': {"root['Relagation_to']": 'I Liga '}, 'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warsaw | Relagation to', 'old_value': 'AZS-AWF Warsaw'}}}
+19: {'dictionary_item_added': {"root['Relagation_to']": 'I Liga '}, 'dictionary_item_removed': {"root['Relagation']": 'I Liga '}}
+20: {'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warsaw', 'old_value': 'AZS-AWF Warsaw '}, "root['Relagation']": {'new_value': 'I Liga ', 'old_value': 'I Liga'}}}
+21: {'dictionary_item_added': {"root['Relagation']": 'I Liga'}, 'values_changed': {"root['most_champs']": {'new_value': 'AZS-AWF Warsaw ', 'old_value': 'AZS-AWF Warsaw'}}}
+23: {'dictionary_item_removed': {"root['organising']": 'Polski Związek Rugby'}}
+25: {'values_changed': {"root['organising']": {'new_value': 'Polski Związek Rugby', 'old_value': 'Polski Zwiazek Rugby '}}}
+26: {'dictionary_item_added': {"root['organising']": 'Polski Zwiazek Rugby '}, 'dictionary_item_removed': {"root['Organising']": 'Polski Zwiazek Rugby '}}
+27: {'values_changed': {"root['Organising']": {'new_value': 'Polski Zwiazek Rugby ', 'old_value': 'polski zwiazek Rugby'}}}
+29: {'dictionary_item_added': {"root['Organising']": 'polski zwiazek Rugby'}, 'dictionary_item_removed': {"root['organising']": 'Polski zwiazek Rugby'}}
+35: {'dictionary_item_added': {"root['organising']": 'Polski zwiazek Rugby'}, 'dictionary_item_removed': {"root['unionname']": 'Polish Rugby Union'}}
+36: {'values_changed': {"root['unionname']": {'new_value': 'Polish Rugby Union', 'old_value': 'Rugby Europe'}}}
+43: {'dictionary_item_added': {"root['unionname']": 'Rugby Europe'}, 'dictionary_item_removed': {"root['organising_body']": 'Polski Zwiazek Rugby '}}
+46: {'values_changed': {"root['organising_body']": {'new_value': 'Polski Zwiazek Rugby ', 'old_value': 'Polish Rugby Union '}}}
+48: {'dictionary_item_added': {"root['organising_body']": 'Polish Rugby Union '}, 'dictionary_item_removed': {"root['Union']": 'Polish Rugby Union '}}
+49: {'dictionary_item_added': {"root['most_champs']": 'AZS-AWF Warsaw'}, 'dictionary_item_removed': {"root['inaugural']": '1957'}}
+52: {'dictionary_item_removed': {"root['current_season']": 'Ekstraliga 2021/2022', "root['last_season']": 'Ekstraliga 2020/2021', "root['upcoming_season']": 'Ekstraliga 2022/2023', "root['TV']": 'TVP'}}

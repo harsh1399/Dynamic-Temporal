@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2017 Asean Grand Prix', "root['sport']": 'Volleyball', "root['teams']": 'at least 4', "root['countries']": 'INA, PHI, THA, VIE', "root['continent']": 'Asian Volleyball Confederation'}}
+7: {'dictionary_item_added': {"root['current_season']": '2017 Asean Grand Prix'}, 'dictionary_item_removed': {"root['inaugural']": '2019 Asean Grand Prix'}}
+9: {'dictionary_item_removed': {"root['current_season']": '2019 South East Asian Grand Prix'}}
+10: {'values_changed': {"root['teams']": {'new_value': 'at least 4', 'old_value': '4'}}}
+11: {'values_changed': {"root['inaugural']": {'new_value': '2019 Asean Grand Prix', 'old_value': '2019 South East Asian Grand Prix'}}}
+13: {'values_changed': {"root['countries']": {'new_value': 'INA, PHI, THA, VIE', 'old_value': 'vbw'}}}
+16: {'values_changed': {"root['current_season']": {'new_value': '2019 South East Asian Grand Prix', 'old_value': '2019 ASEAN Grand Prix'}}}
+26: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': "5 ''(2019 season)''"}}}
+31: {'values_changed': {"root['teams']": {'new_value': "5 ''(2019 season)''", 'old_value': "5 ''(2019 South East Asian Grand Prix"}}}
+42: {'dictionary_item_removed': {"root['champion']": 'vbw', "root['most_champs']": 'vbw'}, 'values_changed': {"root['current_season']": {'new_value': '2019 ASEAN Grand Prix', 'old_value': '2019 ASEAN Grand Prix - Second Leg'}}}
+60: {'values_changed': {"root['teams']": {'new_value': "5 ''(2019 South East Asian Grand Prix", 'old_value': "4 ''(2019 South East Asian Grand Prix"}}}
+82: {'dictionary_item_added': {"root['current_season']": '2019 ASEAN Grand Prix - Second Leg'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022 ASEAN Grand Prix'}, 'values_changed': {"root['inaugural']": {'new_value': '2019 South East Asian Grand Prix', 'old_value': '2019 ASEAN Grand Prix'}, "root['teams']": {'new_value': "4 ''(2019 South East Asian Grand Prix", 'old_value': "4 ''(2019 ASEAN Grand Prix"}}}
+86: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 ASEAN Grand Prix', 'old_value': '2022 ASEAN Grand Prix – First Leg'}}}
+92: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 ASEAN Grand Prix – First Leg', 'old_value': '2022 ASEAN Grand Prix'}}}
+111: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 ASEAN Grand Prix', 'old_value': '2022 ASEAN Grand Prix – First Leg'}}}
+116: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 ASEAN Grand Prix – First Leg', 'old_value': '2022 ASEAN Grand Prix'}}}
+118: {'dictionary_item_added': {"root['upcoming_season']": '2022 ASEAN Grand Prix'}, 'dictionary_item_removed': {"root['current_season']": '2022 ASEAN Grand Prix'}, 'values_changed': {"root['teams']": {'new_value': "4 ''(2019 ASEAN Grand Prix", 'old_value': '4'}}}
+131: {'dictionary_item_added': {"root['current_season']": '2022 ASEAN Grand Prix'}, 'dictionary_item_removed': {"root['last_season']": '2022 ASEAN Grand Prix'}}
+162: {'values_changed': {"root['countries']": {'new_value': 'vbw', 'old_value': 'INA PHI THA VIE'}}}
+165: {'values_changed': {"root['inaugural']": {'new_value': '2019 ASEAN Grand Prix', 'old_value': '2023 SEA V.League (Men)'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Water polo', "root['levels']": '2', "root['domestic_cup']": 'No', "root['teams']": '10', "root['continent']": 'LEN (Europe)', "root['champion']": 'VK Jug', "root['most_champs']": 'Jug (4 titles)'}}
+1: {'values_changed': {"root['levels']": {'new_value': '2', 'old_value': '1'}}}
+20: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '22, small'}}}
+30: {'values_changed': {"root['champion']": {'new_value': 'VK Jug', 'old_value': 'VK Mladost'}}}
+31: {'values_changed': {"root['champion']": {'new_value': 'VK Mladost', 'old_value': 'HAVK Mladost'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '22, small', 'old_value': '22 small'}, "root['most_champs']": {'new_value': 'Jug (4 titles)', 'old_value': 'VK Jug'}}}
+54: {'values_changed': {"root['teams']": {'new_value': '22 small', 'old_value': '12'}, "root['champion']": {'new_value': 'HAVK Mladost', 'old_value': 'VK Radnički Kragujevac'}}}
+80: {'values_changed': {"root['champion']": {'new_value': 'VK Radnički Kragujevac', 'old_value': 'VK Novi Beograd'}}}

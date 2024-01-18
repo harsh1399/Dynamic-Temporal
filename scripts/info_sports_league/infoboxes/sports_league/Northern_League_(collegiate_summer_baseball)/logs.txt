@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '6', "root['countries']": 'USA', "root['champion']": 'Joliet Generals (2021)', "root['most_champs']": 'Northwest Indiana Oilmen (3)'}}
+31: {'dictionary_item_added': {"root['countries']": 'USA'}, 'dictionary_item_removed': {"root['formerly']": 'Midwest Collegiate League', "root['champ_season']": '2021'}, 'values_changed': {"root['champion']": {'new_value': 'Joliet Generals (2021)', 'old_value': 'Joliet Generals'}}}
+42: {'values_changed': {"root['champion']": {'new_value': 'Joliet Generals', 'old_value': 'Lake County Corn Dogs'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}
+57: {'dictionary_item_added': {"root['formerly']": 'Midwest Collegiate League'}, 'dictionary_item_removed': {"root['commissioner']": 'Don Poparvak'}}
+70: {'dictionary_item_added': {"root['commissioner']": 'Don Poparvak'}, 'dictionary_item_removed': {"root['president']": 'Don Poparvak'}}
+72: {'dictionary_item_added': {"root['president']": 'Don Poparvak'}, 'dictionary_item_removed': {"root['formerly']": 'Midwest Collegiate League'}}
+73: {'dictionary_item_removed': {"root['president']": 'Don Popravak'}}

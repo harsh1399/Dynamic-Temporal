@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['current']": '2014 International Premier Tennis League', "root['participants']": 'Four teams'}}
+27: {'values_changed': {"root['participants']": {'new_value': 'Four teams', 'old_value': 'Four teams form four countries'}}}
+35: {'values_changed': {"root['participants']": {'new_value': 'Four teams form four countries', 'old_value': 'Four teams form four cities'}}}
+56: {'values_changed': {"root['participants']": {'new_value': 'Four teams form four cities', 'old_value': '4 teams from 4 cities'}}}
+206: {'dictionary_item_added': {"root['current']": '2014 International Premier Tennis League', "root['participants']": '4 teams from 4 cities'}, 'dictionary_item_removed': {"root['upcoming_season']": '2014 International Premier Tennis League season', "root['sport']": 'Team tennis', "root['inaugural']": '2014', "root['director']": 'Mahesh Bhupathi', "root['teams']": '4', "root['continent']": 'Asia', "root['sponsor']": 'The Coca-Cola Company', "root['founder']": 'Mahesh Bupathi '}}
+207: {'dictionary_item_added': {"root['sponsor']": 'The Coca-Cola Company', "root['founder']": 'Mahesh Bupathi '}, 'dictionary_item_removed': {"root['countries']": 'SNG'}}
+208: {'dictionary_item_removed': {"root['sponsor']": 'The Coca-Cola Company', "root['founder']": 'Mahesh Bupathi }'}, 'values_changed': {"root['countries']": {'new_value': 'SNG', 'old_value': 'flagicon'}}}
+210: {'values_changed': {"root['countries']": {'new_value': 'flagicon', 'old_value': 'flagcountry'}}}
+211: {'values_changed': {"root['founder']": {'new_value': 'Mahesh Bupathi }', 'old_value': 'Mahesh Bupathi '}}}
+212: {'values_changed': {"root['founder']": {'new_value': 'Mahesh Bupathi ', 'old_value': 'Mahesh Bupathi }'}}}
+213: {'values_changed': {"root['founder']": {'new_value': 'Mahesh Bupathi }', 'old_value': 'Mahesh Bupathi '}}}
+214: {'values_changed': {"root['founder']": {'new_value': 'Mahesh Bupathi ', 'old_value': 'Mahesh Bhupathi '}}}
+246: {'dictionary_item_removed': {"root['TV']": 'STAR Sports'}}
+256: {'dictionary_item_added': {"root['sponsor']": 'The Coca-Cola Company', "root['founder']": 'Mahesh Bhupathi '}, 'values_changed': {"root['TV']": {'new_value': 'STAR Sports', 'old_value': 'ABS-CBN'}}}
+257: {'dictionary_item_removed': {"root['sponsor']": 'The Coca-Cola Company', "root['founder']": 'Mahesh Bhupathi '}, 'values_changed': {"root['TV']": {'new_value': 'ABS-CBN', 'old_value': 'ABS-CBN, Abu Dhabi Media, SingTel, STAR Sports'}}}
+270: {'dictionary_item_removed': {"root['Blog']": 'url'}}
+286: {'dictionary_item_added': {"root['Blog']": 'url'}, 'values_changed': {"root['TV']": {'new_value': 'ABS-CBN, Abu Dhabi Media, SingTel, STAR Sports', 'old_value': 'flagicon'}}}
+353: {'dictionary_item_removed': {"root['champion']": "'''Micromax Indian Aces''' (1st title) https://twitter.com/iptl/status/543830879429083136"}}
+354: {'values_changed': {"root['champion']": {'new_value': "'''Micromax Indian Aces''' (1st title) https://twitter.com/iptl/status/543830879429083136", 'old_value': "'''Indian Aces''' (1st title) https://twitter.com/iptl/status/543830879429083136"}}}
+359: {'values_changed': {"root['upcoming_season']": {'new_value': '2014 International Premier Tennis League season', 'old_value': '2015 International Premier Tennis League season'}, "root['teams']": {'new_value': '4', 'old_value': '5'}, "root['champion']": {'new_value': "'''Indian Aces''' (1st title) https://twitter.com/iptl/status/543830879429083136", 'old_value': "'''Singapore Slammers''' (1st title) https://twitter.com/iptl/status/543830879429083136"}}}
+365: {'values_changed': {"root['upcoming_season']": {'new_value': '2015 International Premier Tennis League season', 'old_value': '2016 International Premier Tennis League season'}}}
+366: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}, "root['continent']": {'new_value': 'Asia', 'old_value': 'Asia, Latin America'}, "root['countries']": {'new_value': 'flagcountry', 'old_value': 'flag'}}}
+373: {'values_changed': {"root['continent']": {'new_value': 'Asia, Latin America', 'old_value': 'Asia, Latin America, Middle East'}}}
+375: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}, "root['countries']": {'new_value': 'flag', 'old_value': 'flagcountry'}}}
+379: {'values_changed': {"root['TV']": {'new_value': 'flagicon', 'old_value': 'Sky Sports'}}}
+380: {'values_changed': {"root['continent']": {'new_value': 'Asia, Latin America, Middle East', 'old_value': 'Asia'}}}
+381: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+382: {'values_changed': {"root['TV']": {'new_value': 'Sky Sports', 'old_value': 'flagicon'}}}
+388: {'dictionary_item_added': {"root['TV']": 'flagicon'}, 'dictionary_item_removed': {"root['most_champs']": 'Singapore Slammers  (2)'}, 'values_changed': {"root['champion']": {'new_value': "'''Singapore Slammers''' (1st title) https://twitter.com/iptl/status/543830879429083136", 'old_value': "'''Singapore Slammers'''"}}}

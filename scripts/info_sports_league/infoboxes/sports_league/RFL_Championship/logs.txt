@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2020 RFL Championship', "root['sport']": 'Rugby league', "root['organiser']": 'Rugby Football League', "root['teams']": '14', "root['levels']": '2', "root['domestic_cup']": 'Challenge Cup RFL 1895 Cup', "root['champions']": 'leagueicon', "root['most_champs']": 'leagueicon', "root['tv']": 'Sky Sports'}}
+1: {'values_changed': {"root['current_season']": {'new_value': '2020 RFL Championship', 'old_value': '2021 RFL Championship'}}}
+9: {'values_changed': {"root['tv']": {'new_value': 'Sky Sports', 'old_value': 'Sky Sportsefn'}}}
+36: {'type_changes': {"root['tv']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Sky Sportsefn'}}, 'dictionary_item_added': {"root['organiser']": 'Rugby Football League'}}
+52: {'values_changed': {"root['current_season']": {'new_value': '2021 RFL Championship', 'old_value': '2022 RFL Championship'}}}
+53: {'values_changed': {"root['current_season']": {'new_value': '2022 RFL Championship', 'old_value': '2023 RFL Championship'}}}

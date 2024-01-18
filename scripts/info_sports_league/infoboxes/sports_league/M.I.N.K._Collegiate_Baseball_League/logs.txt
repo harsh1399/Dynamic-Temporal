@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['president']": 'Bob Steincamp', "root['teams']": '8 (as of January 1, 2019)', "root['champion']": 'Sedalia Bombers', "root['countries']": 'USA', "root['continent']": 'North America'}}
+20: {'values_changed': {"root['teams']": {'new_value': '8 (as of January 1, 2019)', 'old_value': '9 (as of December 7, 2019)'}}}
+21: {'values_changed': {"root['president']": {'new_value': 'Bob Steincamp', 'old_value': 'Ky Turner'}, "root['champion']": {'new_value': 'Sedalia Bombers', 'old_value': 'St. Joseph Mustangs'}}}

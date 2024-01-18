@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Bandy', "root['teams']": '14', "root['levels']": '1st Tier (Russia)', "root['champion']": 'SKA-Neftyanik', "root['most_champs']": 'Vodnik Arkhangelsk', "root['current']": '2018–19 '}}
+8: {'values_changed': {"root['champion']": {'new_value': 'SKA-Neftyanik', 'old_value': 'Yenisey Krasnoyarsk Bandy Club'}, "root['current']": {'new_value': '2018–19 ', 'old_value': '2021–22 '}}}
+10: {'dictionary_item_added': {"root['current']": '2021–22 '}, 'dictionary_item_removed': {"root['level']": 'League system', "root['champ_season']": '(2020–21)'}, 'values_changed': {"root['most_champs']": {'new_value': 'Vodnik Arkhangelsk', 'old_value': 'Vodnik (Arkhangelsk), (9 titles) | current season'}}}
+11: {'dictionary_item_added': {"root['levels']": '1st Tier (Russia)'}, 'values_changed': {"root['level']": {'new_value': 'League system', 'old_value': '1st Tier (Russia)'}, "root['champ_season']": {'new_value': '(2020–21)', 'old_value': '2020–21'}}}
+12: {'dictionary_item_removed': {"root['confed_cup']": '| current season'}, 'values_changed': {"root['most_champs']": {'new_value': 'Vodnik (Arkhangelsk), (9 titles) | current season', 'old_value': 'Vodnik Arkhangelsk'}}}
+13: {'dictionary_item_removed': {"root['domestic_cup']": 'Russian Cup (bandy)'}, 'values_changed': {"root['level']": {'new_value': '1st Tier (Russia)', 'old_value': 'League system'}, "root['confed_cup']": {'new_value': '| current season', 'old_value': 'Bandy World Cup'}}}
+14: {'dictionary_item_removed': {"root['administrator']": 'Russian Bandy Federation'}}
+30: {'values_changed': {"root['champion']": {'new_value': 'Yenisey Krasnoyarsk Bandy Club', 'old_value': 'Dynamo Moscow Bandy Club'}, "root['champ_season']": {'new_value': '2020–21', 'old_value': '2021–22'}}}
+31: {'values_changed': {"root['most_champs']": {'new_value': 'Vodnik Arkhangelsk', 'old_value': 'Dynamo Moscow Bandy Club'}}}

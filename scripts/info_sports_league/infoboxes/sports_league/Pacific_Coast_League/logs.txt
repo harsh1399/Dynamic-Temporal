@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['classification']": 'Triple-A (baseball)', "root['president']": 'Branch Barrett Rickey', "root['champion']": 'Sacramento River Cats (2019)', "root['most_champs']": 'San Francisco Seals (baseball)', "root['folded']": 'baseball year', "root['replaced']": 'Triple-A West'}}
+2: {'dictionary_item_added': {"root['folded']": 'baseball year', "root['replaced']": 'Triple-A West'}, 'dictionary_item_removed': {"root['teams']": '10 (2022–present), 16 (1998–2020)'}}
+6: {'dictionary_item_added': {"root['president']": 'Branch Barrett Rickey'}, 'values_changed': {"root['teams']": {'new_value': '10 (2022–present), 16 (1998–2020)', 'old_value': '10'}}}
+7: {'values_changed': {"root['champion']": {'new_value': 'Sacramento River Cats (2019)', 'old_value': 'Tacoma Rainiers (2021)'}}}
+37: {'values_changed': {"root['champion']": {'new_value': 'Tacoma Rainiers (2021)', 'old_value': 'Reno Aces (2022)'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Australian rules football', "root['inaugural']": '2010 Australian Football International Cup', "root['teams']": '8', "root['champion']": 'flagicon', "root['most_champs']": 'flagicon'}}
+2: {'values_changed': {"root['inaugural']": {'new_value': '2010 Australian Football International Cup', 'old_value': '2010 European Championships in Australian Football'}, "root['teams']": {'new_value': '8', 'old_value': '2010 European Championships in Australian Football'}}}
+3: {'dictionary_item_removed': {"root['current_season']": '2013 AFL Europe Championship'}, 'values_changed': {"root['inaugural']": {'new_value': '2010 European Championships in Australian Football', 'old_value': '2010 AFL Europe Championship'}, "root['teams']": {'new_value': '2010 European Championships in Australian Football', 'old_value': '2010 AFL Europe Championship'}}}
+6: {'values_changed': {"root['current_season']": {'new_value': '2013 AFL Europe Championship', 'old_value': '2016 AFL Europe Championship'}}}
+13: {'dictionary_item_removed': {"root['region']": 'Europe'}, 'values_changed': {"root['teams']": {'new_value': '2010 AFL Europe Championship', 'old_value': '2010: 8; 2013: 6; 2016: 4; 2019: 6'}}}
+15: {'values_changed': {"root['current_season']": {'new_value': '2016 AFL Europe Championship', 'old_value': '2022 AFL Europe Championship'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['divisions']": '2', "root['teams']": '16 (division A)', "root['continent']": 'Europe (FIBA Europe)', "root['champion']": 'bku', "root['most_champs']": 'bku', "root['related_comps']": 'FIBA U16 European Championship'}}
+1: {'values_changed': {"root['teams']": {'new_value': '16 (division A)', 'old_value': '16 (Division A)'}}}
+2: {'dictionary_item_removed': {"root['current_season']": '2022 FIBA U20 European Championship'}}
+32: {'values_changed': {"root['most_champs']": {'new_value': 'bku', 'old_value': ', bku'}}}
+33: {'values_changed': {"root['most_champs']": {'new_value': ', bku', 'old_value': 'bku'}}}
+57: {'dictionary_item_added': {"root['current_season']": '2022 FIBA U20 European Championship'}, 'dictionary_item_removed': {"root['last_season']": '2022 FIBA U20 European Championship'}}

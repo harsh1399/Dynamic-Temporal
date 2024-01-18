@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['subtitle']": '1st FIBA Polynesian Basketball Cup', "root['year']": '2018', "root['size']": '280', "root['host']": 'TBC', "root['dates']": 'October', "root['teams']": 'TBC', "root['venues']": '1'}}
+1: {'values_changed': {"root['dates']": {'new_value': 'October', 'old_value': 'May'}}}
+2: {'values_changed': {"root['dates']": {'new_value': 'May', 'old_value': 'October'}}}
+5: {'dictionary_item_removed': {"root['cities']": '1'}, 'values_changed': {"root['host']": {'new_value': 'TBC', 'old_value': 'SAM'}, "root['dates']": {'new_value': 'October', 'old_value': '19-24 November'}, "root['teams']": {'new_value': 'TBC', 'old_value': '5'}}}
+10: {'dictionary_item_added': {"root['subtitle']": '1st FIBA Polynesian Basketball Cup', "root['year']": '2018', "root['size']": '280', "root['host']": 'SAM', "root['dates']": '19-24 November', "root['venues']": '1', "root['cities']": '1'}, 'dictionary_item_removed': {"root['current_season']": '2018 FIBA Polynesia Basketball Cup', "root['sport']": 'Basketball', "root['continent']": 'FIBA Oceania (Oceania)'}}
+12: {'dictionary_item_removed': {"root['champion']": 'bk', "root['most_champs']": 'bk'}}
+19: {'values_changed': {"root['current_season']": {'new_value': '2018 FIBA Polynesia Basketball Cup', 'old_value': '2022 FIBA Polynesia Basketball Cup'}}}

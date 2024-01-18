@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'ONE Fighting Championship', "root['company_type']": 'Private', "root['foundation']": '2011', "root['founder']": 'Victor Cui, CEO', "root['location_country']": 'Singapore', "root['industry']": 'Mixed martial arts promotion'}}
+1: {'values_changed': {"root['founder']": {'new_value': 'Victor Cui, CEO', 'old_value': 'Victor Cui, CEO & Founder'}, "root['location_country']": {'new_value': 'Singapore', 'old_value': 'Kallang, Singapore'}}}
+2: {'dictionary_item_removed': {"root['homepage']": 'http://www.onefc.com/ '}}
+4: {'values_changed': {"root['founder']": {'new_value': 'Victor Cui, CEO & Founder', 'old_value': 'Victor Cui'}}}
+5: {'values_changed': {"root['founder']": {'new_value': 'Victor Cui', 'old_value': 'Victor Cui, Owner/CEO'}}}
+6: {'dictionary_item_removed': {"root['location_city']": 'Kallang'}, 'values_changed': {"root['location_country']": {'new_value': 'Kallang, Singapore', 'old_value': 'Singapore'}}}
+7: {'values_changed': {"root['foundation']": {'new_value': '2011', 'old_value': 'July 2011'}, "root['founder']": {'new_value': 'Victor Cui, Owner/CEO', 'old_value': 'Victor Cui, Owner/CEO<ref name'}}}
+8: {'dictionary_item_added': {"root['founder']": 'Victor Cui, Owner/CEO<ref name'}, 'dictionary_item_removed': {"root['key_people']": 'Victor Cui, Owner/CEO<ref name'}}
+10: {'values_changed': {"root['key_people']": {'new_value': 'Victor Cui, Owner/CEO<ref name', 'old_value': 'Victor Cui, Owner/CEO'}}}
+12: {'dictionary_item_removed': {"root['company_logo']": 'File:Onefc.jpg'}}
+13: {'values_changed': {"root['industry']": {'new_value': 'Mixed martial arts promotion', 'old_value': 'Mixed martial arts event'}}}
+31: {'dictionary_item_added': {"root['company_name']": 'ONE Fighting Championship', "root['company_logo']": 'File:Onefc.jpg', "root['company_type']": 'Private', "root['foundation']": 'July 2011', "root['location_country']": 'Singapore', "root['location_city']": 'Kallang', "root['key_people']": 'Victor Cui, Owner/CEO', "root['industry']": 'Mixed martial arts event', "root['homepage']": 'http://www.onefc.com/ '}, 'dictionary_item_removed': {"root['current_season']": '2022 in ONE Championship', "root['last_season']": '2021 in ONE Championship', "root['owner']": 'Group One Holdings Pte. Ltd.', "root['ceo']": 'Chatri Sityodtong (Chairman and CEO)', "root['director']": 'Saurabh Mittal (Vice Chairman), Hua Fung Teh (Group President (corporate title)', "root['headquarters']": 'Singapore', "root['sport']": 'Mixed martial arts'}}
+48: {'values_changed': {"root['sport']": {'new_value': 'Mixed martial arts', 'old_value': 'Mixed martial arts Kickboxing Muay Thai'}}}
+67: {'values_changed': {"root['sport']": {'new_value': 'Mixed martial arts Kickboxing Muay Thai', 'old_value': 'Mixed martial arts, Kickboxing, Muay Thai'}}}
+70: {'values_changed': {"root['sport']": {'new_value': 'Mixed martial arts, Kickboxing, Muay Thai', 'old_value': 'Mixed martial arts'}}}
+74: {'values_changed': {"root['headquarters']": {'new_value': 'Singapore', 'old_value': '3 Fraser Street, #14-24 Singapore 189352'}}}
+187: {'values_changed': {"root['sport']": {'new_value': 'Mixed martial arts', 'old_value': 'Mixed martial arts, Kickboxing, Muay Thai, Submission grappling'}}}
+258: {'values_changed': {"root['sport']": {'new_value': 'Mixed martial arts, Kickboxing, Muay Thai, Submission grappling', 'old_value': 'Combat sports small'}}}
+259: {'type_changes': {"root['sport']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Combat sports small'}}}
+269: {'values_changed': {"root['ceo']": {'new_value': 'Chatri Sityodtong (Chairman and CEO)', 'old_value': 'Chatri Sityodtong and Andi Setyawan (Chairman and CEO)'}}}
+270: {'values_changed': {"root['ceo']": {'new_value': 'Chatri Sityodtong and Andi Setyawan (Chairman and CEO)', 'old_value': 'Chatri Sityodtong (Chairman and CEO)'}}}
+304: {'values_changed': {"root['current_season']": {'new_value': '2022 in ONE Championship', 'old_value': '2023 in ONE Championship'}, "root['last_season']": {'new_value': '2021 in ONE Championship', 'old_value': '2022 in ONE Championship'}}}

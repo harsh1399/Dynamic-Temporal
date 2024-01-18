@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['sport']": "NCAA Men's Volleyball , NCAA Division I", "root['commissioner']": "Tim O'Brien", "root['teams']": '8', "root['champion']": 'Lewis University'}}
+2: {'values_changed': {"root['sport']": {'new_value': "NCAA Men's Volleyball , NCAA Division I", 'old_value': "NCAA Men's Volleyball  NCAA Division I"}}}
+14: {'dictionary_item_removed': {"root['association']": 'National Collegiate Athletic Association', "root['division']": 'NCAA Division I'}, 'values_changed': {"root['sport']": {'new_value': "NCAA Men's Volleyball  NCAA Division I", 'old_value': 'Volleyball'}}}
+17: {'dictionary_item_removed': {"root['champ_season']": '2022'}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8 (9 in 2023)'}, "root['champion']": {'new_value': 'Lewis University', 'old_value': 'Ball State Cardinals'}}}

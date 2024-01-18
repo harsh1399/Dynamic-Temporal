@@ -1,0 +1,32 @@
+4: {'dictionary_item_removed': {"root['sport']": 'indoor American football', "root['inaugural']": '2018', "root['teams']": '8', "root['Founder']": 'Sohrob Farudi, FANchise '}}
+6: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8 (proposed)'}}}
+9: {'values_changed': {"root['sport']": {'new_value': 'indoor American football', 'old_value': 'Indoor American football'}, "root['Founder']": {'new_value': 'Sohrob Farudi, FANchise ', 'old_value': 'Sohrob Farudi, Project FANchise '}}}
+14: {'dictionary_item_removed': {"root['Commissioner']": 'Ray Austin (American football)', "root['tv']": 'Twitch (service)', "root['related_comps']": 'Indoor Football League '}, 'values_changed': {"root['inaugural']": {'new_value': '2018', 'old_value': '2021 (proposed)'}, "root['teams']": {'new_value': '8 (proposed)', 'old_value': '4'}, "root['Founder']": {'new_value': 'Sohrob Farudi, Project FANchise ', 'old_value': 'Project Fanchise'}}}
+43: {'values_changed': {"root['inaugural']": {'new_value': '2021 (proposed)', 'old_value': '2021'}}}
+53: {'dictionary_item_removed': {"root['ceo']": 'Sohrob Farudi'}}
+124: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+125: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4'}}}
+126: {'dictionary_item_removed': {"root['champion']": 'Glacier Boys', "root['most_champs']": 'Dillan'}}
+152: {'dictionary_item_added': {"root['champion']": 'Glacier Boys', "root['most_champs']": 'Dillan'}, 'values_changed': {"root['inaugural']": {'new_value': '2021', 'old_value': '2021 Fan Controlled Football Season'}}}
+153: {'dictionary_item_removed': {"root['current_season']": '2021 Fan Controlled Football Season'}}
+159: {'dictionary_item_added': {"root['current_season']": '2021 Fan Controlled Football Season'}, 'values_changed': {"root['related_comps']": {'new_value': 'Indoor Football League ', 'old_value': "Indoor Football League } '''Fan Controlled Football''' ('''FCF''') is a professional indoor football league created in 2017 as the first sports league controlled by fans. |"}}}
+160: {'values_changed': {"root['related_comps']": {'new_value': "Indoor Football League } '''Fan Controlled Football''' ('''FCF''') is a professional indoor football league created in 2017 as the first sports league controlled by fans. |", 'old_value': 'Indoor Football League '}}}
+161: {'dictionary_item_removed': {"root['current_season']": '2021', "root['last_season']": '2021', "root['upcoming_season']": '2022', "root['champion']": 'Wild Aces', "root['champ_season']": 'Wild Aces'}}
+163: {'dictionary_item_added': {"root['current_season']": '2021', "root['upcoming_season']": '2022'}, 'values_changed': {"root['last_season']": {'new_value': '2021', 'old_value': '2021 Fan Controlled Football Season'}, "root['champ_season']": {'new_value': 'Wild Aces', 'old_value': '2021'}}}
+207: {'values_changed': {"root['last_season']": {'new_value': '2021 Fan Controlled Football Season', 'old_value': '2021 Fan Controlled Football season'}}}
+211: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '8'}}}
+213: {'dictionary_item_removed': {"root['current_season']": '2022 Fan Controlled Football season'}}
+220: {'values_changed': {"root['champion']": {'new_value': 'Wild Aces', 'old_value': 'FCF Wild Aces'}}}
+221: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '6'}}}
+234: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+236: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '4'}}}
+237: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '8'}}}
+252: {'values_changed': {"root['champion']": {'new_value': 'FCF Wild Aces', 'old_value': 'FCF Team X (formerly known as the Wild Aces'}}}
+254: {'values_changed': {"root['champion']": {'new_value': 'FCF Team X (formerly known as the Wild Aces', 'old_value': 'FCF Team X (formerly known as the Wild Aces)'}}}
+255: {'values_changed': {"root['champion']": {'new_value': 'FCF Team X (formerly known as the Wild Aces)', 'old_value': 'Team X (formerly known as the Wild Aces)'}}}
+256: {'values_changed': {"root['champion']": {'new_value': 'Team X (formerly known as the Wild Aces)', 'old_value': 'FCF Team X (formerly known as the Wild Aces)'}}}
+257: {'values_changed': {"root['champion']": {'new_value': 'FCF Team X (formerly known as the Wild Aces)', 'old_value': 'FCF Wild Aces'}}}
+263: {'dictionary_item_removed': {"root['Arena']": 'Pullman Yards '}, 'values_changed': {"root['related_comps']": {'new_value': 'Indoor Football League ', 'old_value': 'Indoor Football League'}}}
+328: {'values_changed': {"root['champion']": {'new_value': 'FCF Wild Aces', 'old_value': 'Zappers'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}
+339: {'values_changed': {"root['Founder']": {'new_value': 'Project Fanchise', 'old_value': 'FANchise, LLC'}}}
+364: {'values_changed': {"root['champion']": {'new_value': 'Zappers', 'old_value': 'FCF Zappers'}}}

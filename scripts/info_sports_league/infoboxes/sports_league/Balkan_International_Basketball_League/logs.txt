@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['competitors']": '10'}}
+18: {'dictionary_item_added': {"root['competitors']": '10'}, 'dictionary_item_removed': {"root['teams']": '10', "root['continent']": 'flagicon'}, 'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'Balkan International Basketball League'}}}
+32: {'dictionary_item_removed': {"root['champion']": '-'}}
+33: {'dictionary_item_removed': {"root['TV']": 'BNT 1, BNT Sat '}}
+34: {'dictionary_item_removed': {"root['current_season']": '2008/2009'}}
+35: {'values_changed': {"root['current_season']": {'new_value': '2008/2009', 'old_value': 'BIBL 2008/2009'}}}
+45: {'dictionary_item_added': {"root['champion']": '-'}, 'dictionary_item_removed': {"root['countries']": 'ALB ,  BUL ,  MKD ,  MNE ,  ISR ,  KOS', "root['champions']": 'flagicon', "root['most_champs']": 'flagicon'}, 'values_changed': {"root['current_season']": {'new_value': 'BIBL 2008/2009', 'old_value': '2021–22 BIBL season'}, "root['sport']": {'new_value': 'Balkan International Basketball League', 'old_value': 'Basketball'}, "root['teams']": {'new_value': '10', 'old_value': 'Variable'}, "root['continent']": {'new_value': 'flagicon', 'old_value': 'FIBA Europe (Europe)'}, "root['TV']": {'new_value': 'BNT 1, BNT Sat ', 'old_value': 'http://www.sportmedia.tv/ sportmedia.tv, YouTube '}}}
+47: {'values_changed': {"root['countries']": {'new_value': 'ALB ,  BUL ,  MKD ,  MNE ,  ISR ,  KOS', 'old_value': 'ALB ,  BUL ,  MKD ,  MNE ,  ISR ,  KOS ,  ROM ,  KAZ'}}}
+53: {'values_changed': {"root['current_season']": {'new_value': '2021–22 BIBL season', 'old_value': '2022–23 BIBL season'}}}
+54: {'values_changed': {"root['countries']": {'new_value': 'ALB ,  BUL ,  MKD ,  MNE ,  ISR ,  KOS ,  ROM ,  KAZ', 'old_value': 'ALB ,  BUL ,  MKD ,  MNE ,  ISR ,  KOS ,  ROM ,  KAZ ,  UKR'}}}

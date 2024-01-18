@@ -1,0 +1,5 @@
+21: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '6', "root['countries']": 'United States, Canada', "root['champion']": 'Sussex County Miners (2018)', "root['most_champs']": 'Québec Capitales (7)'}}
+27: {'values_changed': {"root['champion']": {'new_value': 'Sussex County Miners (2018)', 'old_value': 'New Jersey Jackals (2019)'}}}
+39: {'dictionary_item_removed': {"root['ceased']": '2019'}}
+46: {'dictionary_item_added': {"root['ceased']": '2019', "root['most_champs']": 'Québec Capitales (7)'}, 'dictionary_item_removed': {"root['folded']": '2019'}}
+47: {'dictionary_item_removed': {"root['most_champs']": 'Québec Capitales (7)'}}

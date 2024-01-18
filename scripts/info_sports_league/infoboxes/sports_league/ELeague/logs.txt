@@ -1,0 +1,15 @@
+1: {'dictionary_item_removed': {"root['name']": 'ELEAGUE', "root['sport']": 'ELEAGUE', "root['location']": 'Atlanta, Georgia (U.S. state)', "root['establishment']": '2016', "root['teams']": '24', "root['commissioner']": 'Min-Sik Ko', "root['format']": 'Regular season + playoffs', "root['current_champion']": 'Virtus.pro', "root['television']": 'TBS '}}
+7: {'values_changed': {"root['current_champion']": {'new_value': 'Virtus.pro', 'old_value': 'flagicon'}}}
+10: {'dictionary_item_added': {"root['name']": 'ELEAGUE', "root['location']": 'Atlanta, Georgia (U.S. state)', "root['establishment']": '2016', "root['format']": 'Regular season + playoffs', "root['current_champion']": 'flagicon', "root['television']": 'TBS '}, 'dictionary_item_removed': {"root['current_season']": 'ELeague Season 1', "root['champion']": 'flagicon', "root['most_champs']": 'Virtus.pro (1 title)', "root['headquarters']": 'Atlanta, Georgia (U.S. state)', "root['TV']": []}, 'values_changed': {"root['sport']": {'new_value': 'ELEAGUE', 'old_value': 'Counter Strike: Global Offensive'}, "root['commissioner']": {'new_value': 'Min-Sik Ko', 'old_value': 'Min-Sik Ko  https://twitter.com/minsikko?ref_src'}}}
+14: {'values_changed': {"root['current_season']": {'new_value': 'ELeague Season 1', 'old_value': 'ELeague Season 2'}}}
+17: {'values_changed': {"root['sport']": {'new_value': 'Counter Strike: Global Offensive', 'old_value': "''Counter Strike: Global Offensive''"}}}
+23: {'values_changed': {"root['current_season']": {'new_value': 'ELeague Season 2', 'old_value': 'Eleague Season 2'}}}
+28: {'dictionary_item_added': {"root['current_season']": 'Eleague Season 2'}, 'values_changed': {"root['champion']": {'new_value': 'flagicon', 'old_value': '<span class'}, "root['most_champs']": {'new_value': 'Virtus.pro (1 title)', 'old_value': 'Virtus.pro OpTic Gaming'}}}
+38: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': 'varies'}}}
+50: {'values_changed': {"root['champion']": {'new_value': '<span class', 'old_value': 'flagicon'}, "root['most_champs']": {'new_value': 'Virtus.pro OpTic Gaming', 'old_value': 'flagicon'}}}
+52: {'values_changed': {"root['sport']": {'new_value': "''Counter Strike: Global Offensive''", 'old_value': "''Counter Strike: Global Offensive'', Street Fighter V"}}}
+54: {'values_changed': {"root['sport']": {'new_value': "''Counter Strike: Global Offensive'', Street Fighter V", 'old_value': "''Counter Strike: Global Offensive'', Street Fighter V, Injustice 2"}}}
+61: {'dictionary_item_removed': {"root['current_season']": 'ELEAGUE CS:GO Premier'}}
+63: {'values_changed': {"root['sport']": {'new_value': "''Counter Strike: Global Offensive'', Street Fighter V, Injustice 2", 'old_value': "''Counter Strike: Global Offensive'', Overwatch (video game)"}}}
+64: {'values_changed': {"root['sport']": {'new_value': "''Counter Strike: Global Offensive'', Overwatch (video game)", 'old_value': "''Counter Strike: Global Offensive'', ''Overwatch (video game)"}}}
+73: {'values_changed': {"root['current_season']": {'new_value': 'ELEAGUE CS:GO Premier', 'old_value': 'ELEAGUE Major: Boston 2018'}}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['classification']": 'Class A-Advanced', "root['president']": 'Charlie Blaney', "root['teams']": '8', "root['champion']": 'Visalia Rawhide (2019)', "root['most_champs']": 'San Jose Giants (11), Stockton Ports (11)'}}
+23: {'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'Class A (baseball)'}}}
+39: {'dictionary_item_removed': {"root['folded']": '2021'}}
+47: {'dictionary_item_removed': {"root['replaced']": 'Low-A West'}}
+52: {'values_changed': {"root['classification']": {'new_value': 'Class A (baseball)', 'old_value': 'Class A-Advanced'}}}
+59: {'values_changed': {"root['folded']": {'new_value': '2021', 'old_value': '2020'}}}
+65: {'dictionary_item_added': {"root['president']": 'Charlie Blaney', "root['folded']": '2020', "root['replaced']": 'Low-A West'}, 'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'Single-A (2021–present), Class A-Advanced (1990–2020)'}, "root['champion']": {'new_value': 'Visalia Rawhide (2019)', 'old_value': 'San Jose Giants (2021)'}, "root['most_champs']": {'new_value': 'San Jose Giants (11), Stockton Ports (11)', 'old_value': 'San Jose Giants (12)'}}}
+82: {'values_changed': {"root['classification']": {'new_value': 'Single-A (2021–present), Class A-Advanced (1990–2020)', 'old_value': 'Class A (baseball)'}}}
+83: {'values_changed': {"root['champion']": {'new_value': 'San Jose Giants (2021)', 'old_value': 'Lake Elsinore Storm (2022)'}}}

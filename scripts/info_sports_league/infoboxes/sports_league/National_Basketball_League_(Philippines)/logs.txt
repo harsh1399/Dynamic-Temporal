@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2018–19', "root['commissioner']": 'Nandy Garcia', "root['president']": 'Celso "Soy" Mercado', "root['teams']": '6 (target)', "root['continent']": 'FIBA Asia (Asia)', "root['TV']": 'Basketball TV'}}
+4: {'values_changed': {"root['teams']": {'new_value': '6 (target)', 'old_value': '6–8 (target)'}}}
+23: {'values_changed': {"root['inaugural']": {'new_value': '2018–19', 'old_value': '2018-19'}}}
+25: {'values_changed': {"root['inaugural']": {'new_value': '2018-19', 'old_value': '2018–19'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '6–8 (target)', 'old_value': '8'}}}
+78: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '12'}}}
+131: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}}}
+136: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV', 'old_value': 'Basketball TV ,  Solar Sports ,  NET25'}}}
+137: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '12'}, "root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  NET25', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25'}}}
+140: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}, "root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN5'}}}
+141: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN5', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5'}}}
+142: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '12'}, "root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 Aksyon TV'}}}
+143: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 Aksyon TV', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV'}}}
+145: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25'}}}
+146: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV ,  ABS-CBN Sports (S+A Channel 23 & HD Channel 166)'}}}
+147: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV ,  ABS-CBN Sports (S+A Channel 23 & HD Channel 166)', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV ,  ABS-CBN Sports (S+A Channel 23 & HD Channel 166)  '}}}
+149: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  ESPN 5 AksyonTV ,  ABS-CBN Sports (S+A Channel 23 & HD Channel 166)  ', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25  '}}}
+184: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '11'}}}
+187: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+203: {'dictionary_item_removed': {"root['current_season']": '2018–19 National Basketball League (Philippines) season'}}
+237: {'values_changed': {"root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25  ', 'old_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  MBC  '}}}
+296: {'values_changed': {"root['current_season']": {'new_value': '2018–19 National Basketball League (Philippines) season', 'old_value': '2018 National Basketball League (Philippines) season'}}}
+298: {'values_changed': {"root['inaugural']": {'new_value': '2018–19', 'old_value': '2018'}}}
+299: {'values_changed': {"root['current_season']": {'new_value': '2018 National Basketball League (Philippines) season', 'old_value': '2018-19 National Basketball League (Philippines) season'}}}
+300: {'dictionary_item_removed': {"root['champion']": 'Parañaque Aces (1st title)', "root['most_champs']": 'Parañaque Aces (1st title)'}}
+305: {'dictionary_item_added': {"root['teams']": '10'}, 'values_changed': {"root['current_season']": {'new_value': '2018-19 National Basketball League (Philippines) season', 'old_value': '2022 NBL–Philippines season'}, "root['commissioner']": {'new_value': 'Nandy Garcia', 'old_value': 'John Edward Aquino'}, "root['champion']": {'new_value': 'Parañaque Aces (1st title)', 'old_value': 'Pampanga Delta (3rd title)'}, "root['most_champs']": {'new_value': 'Parañaque Aces (1st title)', 'old_value': 'Pampanga Delta (3 titles)'}, "root['TV']": {'new_value': 'Basketball TV ,  Solar Sports ,  Net 25 ,  MBC  ', 'old_value': 'Solar Sports'}}}
+306: {'values_changed': {"root['champion']": {'new_value': 'Pampanga Delta (3rd title)', 'old_value': 'Taguig Generals (2nd title)'}}}
+314: {'values_changed': {"root['current_season']": {'new_value': '2022 NBL–Philippines season', 'old_value': '2023 NBL–Philippines season'}}}
+322: {'values_changed': {"root['TV']": {'new_value': 'Solar Sports', 'old_value': 'Aliw Broadcasting Corporation'}}}

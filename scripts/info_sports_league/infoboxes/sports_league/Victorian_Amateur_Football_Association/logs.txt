@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2020', "root['sport']": 'Australian rules football', "root['teams']": '68', "root['levels']": '7'}}
+8: {'values_changed': {"root['teams']": {'new_value': '68', 'old_value': '66'}}}
+16: {'dictionary_item_added': {"root['levels']": '7'}, 'dictionary_item_removed': {"root['divisions']": '7'}}
+25: {'values_changed': {"root['current_season']": {'new_value': '2020', 'old_value': '2022'}, "root['teams']": {'new_value': '66', 'old_value': '70'}}}

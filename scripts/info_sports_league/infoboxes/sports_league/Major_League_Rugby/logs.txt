@@ -1,0 +1,31 @@
+58: {'dictionary_item_removed': {"root['sport']": 'Rugby union'}}
+60: {'dictionary_item_removed': {"root['inaugural']": '2018'}}
+73: {'dictionary_item_removed': {"root['current_season']": '2018 Major League Rugby season'}}
+74: {'dictionary_item_added': {"root['current_season']": '2018 Major League Rugby season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2018 Major League Rugby season'}}
+80: {'dictionary_item_removed': {"root['teams']": '7'}}
+101: {'dictionary_item_added': {"root['teams']": '7'}, 'dictionary_item_removed': {"root['commissioner']": 'Dean Howes <ref name'}}
+107: {'dictionary_item_removed': {"root['tv']": 'CBS Sports Network'}}
+133: {'dictionary_item_removed': {"root['teams']": '7'}}
+134: {'values_changed': {"root['tv']": {'new_value': 'CBS Sports Network', 'old_value': 'CBS Sports Network (English), Univision Deportes Network (Spanish)'}}}
+173: {'values_changed': {"root['tv']": {'new_value': 'CBS Sports Network (English), Univision Deportes Network (Spanish)', 'old_value': 'CBS Sports Network'}}}
+190: {'values_changed': {"root['tv']": {'new_value': 'CBS Sports Network', 'old_value': 'CBS Sports Network ESPN'}}}
+191: {'values_changed': {"root['tv']": {'new_value': 'CBS Sports Network ESPN', 'old_value': 'CBS Sports Network, ESPN'}}}
+196: {'values_changed': {"root['tv']": {'new_value': 'CBS Sports Network, ESPN', 'old_value': 'CBS Sports Network, ESPN, AT&T Sports Networks'}}}
+202: {'values_changed': {"root['commissioner']": {'new_value': 'Dean Howes <ref name', 'old_value': 'Dean Howeshsp<ref name'}}}
+208: {'dictionary_item_added': {"root['upcoming_season']": '2018 Major League Rugby season'}, 'dictionary_item_removed': {"root['current_season']": '2018 Major League Rugby season'}}
+218: {'values_changed': {"root['commissioner']": {'new_value': 'Dean Howeshsp<ref name', 'old_value': 'The Big Dog'}}}
+222: {'values_changed': {"root['commissioner']": {'new_value': 'The Big Dog', 'old_value': 'Dean Howeshsp<ref name'}}}
+247: {'values_changed': {"root['commissioner']": {'new_value': 'Dean Howeshsp<ref name', 'old_value': 'Gladamashsp<ref name'}}}
+248: {'values_changed': {"root['commissioner']": {'new_value': 'Gladamashsp<ref name', 'old_value': 'Dean Howeshsp<ref name'}}}
+263: {'values_changed': {"root['inaugural']": {'new_value': '2018', 'old_value': '2018 Major League Rugby season'}}}
+283: {'dictionary_item_removed': {"root['champion']": 'Seattle Seawolves'}}
+284: {'dictionary_item_added': {"root['commissioner']": 'Dean Howeshsp<ref name', "root['tv']": 'CBS Sports Network, ESPN, AT&T Sports Networks'}, 'dictionary_item_removed': {"root['name']": 'Major League Rugby', "root['seasontag']": 'Recent season', "root['ceotag']": 'Commissioner', "root['ceo']": 'Dean Howeshsp<ref name', "root['championtag']": 'Champions', "root['TV']": 'CBS Sports Network, ESPN, AT&T Sports Networks  '}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '#Teams'}, "root['champion']": {'new_value': 'Seattle Seawolves', 'old_value': 'Seattle Seawolves (2018 Major League Rugby season'}}}
+351: {'dictionary_item_removed': {"root['countrytag']": 'Countries'}}
+372: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '9'}}}
+383: {'values_changed': {"root['current_season']": {'new_value': '2018 Major League Rugby season', 'old_value': '2019 Major League Rugby season'}}}
+384: {'values_changed': {"root['seasontag']": {'new_value': 'Recent season', 'old_value': 'Upcoming season'}}}
+404: {'values_changed': {"root['seasontag']": {'new_value': 'Upcoming season', 'old_value': 'show by date'}}}
+441: {'dictionary_item_added': {"root['name']": 'Major League Rugby', "root['seasontag']": 'show by date', "root['ceotag']": 'Commissioner', "root['ceo']": 'Dean Howeshsp<ref name', "root['countrytag']": 'Countries', "root['championtag']": 'Champions', "root['TV']": 'CBS Sports Network, ESPN, AT&T Sports Networks  '}, 'dictionary_item_removed': {"root['commissioner']": 'George Killebrewhsp<ref name', "root['countries']": 'flag', "root['headquarters']": 'Dallas, Texas, United States', "root['confed']": 'Rugby Americas North', "root['most_champs']": 'Seattle Seawolves (2 titles)', "root['tv']": []}, 'values_changed': {"root['current_season']": {'new_value': '2019 Major League Rugby season', 'old_value': '2022 Major League Rugby season'}, "root['teams']": {'new_value': '9', 'old_value': '12 (from 2023)'}, "root['champion']": {'new_value': 'Seattle Seawolves (2018 Major League Rugby season', 'old_value': 'Rugby New York (1st title)'}}}
+459: {'values_changed': {"root['current_season']": {'new_value': '2022 Major League Rugby season', 'old_value': '2023 Major League Rugby season'}}}
+491: {'values_changed': {"root['teams']": {'new_value': '12 (from 2023)', 'old_value': '12 (from 2023), 13 (from 2024)'}}}
+506: {'values_changed': {"root['commissioner']": {'new_value': 'George Killebrewhsp<ref name', 'old_value': 'Nic Benson'}}}

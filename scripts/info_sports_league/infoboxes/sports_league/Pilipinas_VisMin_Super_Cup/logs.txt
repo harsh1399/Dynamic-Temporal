@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['president']": 'Vicente Guingona  cite news', "root['inaugural']": '2021'}}
+10: {'dictionary_item_removed': {"root['team']": '8'}}
+12: {'dictionary_item_added': {"root['team']": '8'}, 'dictionary_item_removed': {"root['coo']": 'Rocky Chan', "root['teams']": '8'}}
+32: {'dictionary_item_removed': {"root['tv']": 'Solar Sports  cite news'}}
+33: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': 'TBD'}}}
+39: {'values_changed': {"root['teams']": {'new_value': 'TBD', 'old_value': '12'}}}
+57: {'dictionary_item_removed': {"root['current']": '2021 Pilipinas VisMin Super Cup '}}
+62: {'dictionary_item_removed': {"root['sponsor']": 'Bounty Agro Ventures'}}
+78: {'values_changed': {"root['current']": {'new_value': '2021 Pilipinas VisMin Super Cup ', 'old_value': 'Pilipinas VisMin Super Cup#2021 season '}}}
+86: {'values_changed': {"root['current']": {'new_value': 'Pilipinas VisMin Super Cup#2021 season ', 'old_value': '2021 Pilipinas VisMin Super Cup '}}}
+116: {'values_changed': {"root['tv']": {'new_value': 'Solar Sports  cite news', 'old_value': 'Solar Entertainment Corporation'}}}
+125: {'dictionary_item_removed': {"root['champion']": 'Basilan Peace Riders'}}
+127: {'values_changed': {"root['tv']": {'new_value': 'Solar Entertainment Corporation', 'old_value': 'MyTV Cebu   Solar Entertainment Corporation'}}}
+128: {'values_changed': {"root['champion']": {'new_value': 'Basilan Peace Riders', 'old_value': 'Basilan Peace Riders, small'}}}
+132: {'values_changed': {"root['current']": {'new_value': '2021 Pilipinas VisMin Super Cup ', 'old_value': '2021–22 Pilipinas VisMin Super Cup '}}}
+139: {'dictionary_item_added': {"root['current']": '2021–22 Pilipinas VisMin Super Cup '}, 'dictionary_item_removed': {"root['current_season']": 'Pilipinas VisMin Super Cup 2nd Conference', "root['last_season']": 'Pilipinas VisMin Super Cup 1st Conference'}, 'values_changed': {"root['inaugural']": {'new_value': '2021', 'old_value': 'Pilipinas VisMin Super Cup 1st Conference'}}}
+153: {'dictionary_item_added': {"root['president']": 'Vicente Guingona  cite news', "root['inaugural']": 'Pilipinas VisMin Super Cup 1st Conference', "root['teams']": '12', "root['champion']": 'Basilan Peace Riders, small', "root['tv']": 'MyTV Cebu   Solar Entertainment Corporation', "root['sponsor']": 'Bounty Agro Ventures'}, 'dictionary_item_removed': {"root['ceo']": 'Rocky Chan'}, 'values_changed': {"root['coo']": {'new_value': 'Rocky Chan', 'old_value': 'Chelito Caro'}}}
+154: {'dictionary_item_removed': {"root['inaugural']": 'Pilipinas VisMin Super Cup 1st Conference', "root['teams']": 'varies', "root['champion']": 'Basilan Peace Riders, small', "root['tv']": 'MyTV Cebu   Solar Entertainment Corporation', "root['sponsor']": 'Bounty Agro Ventures'}}
+155: {'values_changed': {"root['tv']": {'new_value': 'MyTV Cebu   Solar Entertainment Corporation', 'old_value': 'MyTV Cebu   Solar Sports  cite news'}}}
+173: {'dictionary_item_added': {"root['coo']": 'Chelito Caro'}, 'dictionary_item_removed': {"root['commissioner']": 'Cris Bautista'}, 'values_changed': {"root['ceo']": {'new_value': 'Rocky Chan', 'old_value': 'Cris Bautista'}}}
+175: {'dictionary_item_removed': {"root['upcoming_season']": '2022 Pilipinas VisMin Super Cup 1st Conference'}}
+176: {'dictionary_item_added': {"root['upcoming_season']": '2022 Pilipinas VisMin Super Cup 1st Conference'}, 'values_changed': {"root['current_season']": {'new_value': 'Pilipinas VisMin Super Cup 2nd Conference', 'old_value': '2022 Pilipinas VisMin Super Cup 1st Conference'}}}
+183: {'values_changed': {"root['champion']": {'new_value': 'Basilan Peace Riders, small', 'old_value': 'Basilan Peace Riders, Zamboanga Sibugay Warriors, small'}}}
+184: {'dictionary_item_removed': {"root['most_champs']": 'Basilan Peace Riders, Zamboanga Sibugay Warriors, small'}, 'values_changed': {"root['champion']": {'new_value': 'Basilan Peace Riders, Zamboanga Sibugay Warriors, small', 'old_value': 'Basilan Peace Riders, small'}}}
+200: {'values_changed': {"root['sponsor']": {'new_value': 'Bounty Agro Ventures', 'old_value': 'NorthPort Batang Pier'}}}
+204: {'values_changed': {"root['teams']": {'new_value': 'varies', 'old_value': '8'}}}
+213: {'dictionary_item_removed': {"root['continent']": 'FIBA Asia (Asia)'}}
+216: {'dictionary_item_added': {"root['teams']": '8'}, 'values_changed': {"root['champion']": {'new_value': 'Basilan Peace Riders, small', 'old_value': 'CPG-Bohol Dolphins, small'}, "root['most_champs']": {'new_value': 'Basilan Peace Riders, Zamboanga Sibugay Warriors, small', 'old_value': 'Basilan Peace Riders, Zamboanga Sibugay Warriors, CPG-Bohol Dolphins, small'}}}
+228: {'dictionary_item_added': {"root['current_season']": '2022 Pilipinas VisMin Super Cup 1st Conference', "root['last_season']": 'Pilipinas VisMin Super Cup 1st Conference'}, 'values_changed': {"root['sponsor']": {'new_value': 'NorthPort Batang Pier', 'old_value': 'Go For Gold (sports program)'}}}
+230: {'values_changed': {"root['tv']": {'new_value': 'MyTV Cebu   Solar Sports  cite news', 'old_value': 'MyTV Cebu  cite news'}}}

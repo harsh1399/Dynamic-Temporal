@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '16', "root['continent']": 'International'}}
+9: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '13'}}}
+11: {'dictionary_item_removed': {"root['champion']": 'Chinese Taipei'}}
+12: {'values_changed': {"root['champion']": {'new_value': 'Chinese Taipei', 'old_value': 'bb'}}}
+15: {'dictionary_item_removed': {"root['last_season']": '2019 U-12 Baseball World Cup', "root['formerly']": '12U Baseball World Championship (2011)', "root['most_champs']": 'USA (3 titles) '}, 'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+17: {'values_changed': {"root['champion']": {'new_value': 'bb', 'old_value': 'bbu'}, "root['most_champs']": {'new_value': 'USA (3 titles) ', 'old_value': '12 (3 titles) '}}}
+20: {'values_changed': {"root['last_season']": {'new_value': '2019 U-12 Baseball World Cup', 'old_value': '2022 U-12 Baseball World Cup'}}}
+21: {'values_changed': {"root['most_champs']": {'new_value': '12 (3 titles) ', 'old_value': 'bbu'}}}

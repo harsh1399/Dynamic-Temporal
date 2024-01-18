@@ -1,0 +1,37 @@
+1: {'dictionary_item_removed': {"root['sport']": 'American football', "root['teams']": '8', "root['countries']": 'Germany, Poland, Spain', "root['continent']": 'Europe', "root['most_champs']": '| most successful club'}}
+2: {'dictionary_item_added': {"root['most_champs']": '| most successful club'}, 'dictionary_item_removed': {"root['owner']": 'SEH Sports & Entertainment Holding, Patrick Esume', "root['ceo']": 'Zeljko Karajica', "root['commissioner']": 'Patrick Esume', "root['TV']": 'ranSports '}}
+31: {'dictionary_item_removed': {"root['upcoming_season']": '2021 ELF season', "root['headquarters']": 'Hamburg, Germany'}, 'values_changed': {"root['TV']": {'new_value': 'ranSports ', 'old_value': 'ProSieben Maxx, ranSports '}}}
+93: {'dictionary_item_removed': {"root['inaugural']": '2021 ELF season'}, 'values_changed': {"root['countries']": {'new_value': 'Germany, Poland, Spain', 'old_value': 'GER, POL, ESP'}, "root['TV']": {'new_value': 'ProSieben Maxx, ranSports ', 'old_value': 'ProSieben Maxx, ranSport '}}}
+121: {'dictionary_item_added': {"root['upcoming_season']": '2021 ELF season'}, 'dictionary_item_removed': {"root['current_season']": '2021 ELF season'}}
+124: {'values_changed': {"root['TV']": {'new_value': 'ProSieben Maxx, ranSport ', 'old_value': " '''Germany:'''  "}}}
+149: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '10'}, "root['countries']": {'new_value': 'GER, POL, ESP', 'old_value': 'GER, POL, ESP, AUT'}}}
+163: {'values_changed': {"root['countries']": {'new_value': 'GER, POL, ESP, AUT', 'old_value': 'AUT, GER, POL, ESP'}}}
+168: {'dictionary_item_removed': {"root['champion']": 'flagicon', "root['champ_season']": '2021 European League of Football season', "root['most_champs']": 'flagicon'}}
+170: {'dictionary_item_added': {"root['champ_season']": '2021 European League of Football season'}, 'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+176: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '11+'}}}
+191: {'values_changed': {"root['countries']": {'new_value': 'AUT, GER, POL, ESP', 'old_value': 'AUT GER POL ESP'}}}
+200: {'values_changed': {"root['teams']": {'new_value': '11+', 'old_value': '12'}, "root['countries']": {'new_value': 'AUT GER POL ESP', 'old_value': 'AUT GER POL ESP TUR'}}}
+256: {'values_changed': {"root['current_season']": {'new_value': '2021 ELF season', 'old_value': '2022 ELF season'}}}
+257: {'dictionary_item_added': {"root['current_season']": '2022 ELF season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022 European League of Football season'}}
+304: {'values_changed': {"root['TV']": {'new_value': " '''Germany:'''  ", 'old_value': " '''Germany/Austria:'''  "}}}
+305: {'values_changed': {"root['TV']": {'new_value': " '''Germany/Austria:'''  ", 'old_value': " '''Germany:'''  "}}}
+306: {'values_changed': {"root['TV']": {'new_value': " '''Germany:'''  ", 'old_value': "'''Austria:'''  "}}}
+345: {'values_changed': {"root['ceo']": {'new_value': 'Zeljko Karajica', 'old_value': 'Željko Karajica'}}}
+375: {'values_changed': {"root['countries']": {'new_value': 'AUT GER POL ESP TUR', 'old_value': "AUT GER POL ESP TUR '''Future:'''  HUN ITA SUI"}}}
+377: {'values_changed': {"root['countries']": {'new_value': "AUT GER POL ESP TUR '''Future:'''  HUN ITA SUI", 'old_value': "AUT GER POL ESP TUR, '''Future:'''  HUN ITA SUI"}}}
+384: {'values_changed': {"root['countries']": {'new_value': "AUT GER POL ESP TUR, '''Future:'''  HUN ITA SUI", 'old_value': "Austria Germany Poland Spain Turkey, '''Future:'''  Hungary Italy Switzerland"}, "root['champion']": {'new_value': 'flagicon', 'old_value': 'Frankfurt Galaxy (ELF)'}, "root['most_champs']": {'new_value': 'flagicon', 'old_value': 'Frankfurt Galaxy (ELF)'}}}
+393: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '12 (2023: 16)'}}}
+394: {'values_changed': {"root['teams']": {'new_value': '12 (2023: 16)', 'old_value': '12 (2023: 18)'}}}
+398: {'values_changed': {"root['countries']": {'new_value': "Austria Germany Poland Spain Turkey, '''Future:'''  Hungary Italy Switzerland", 'old_value': "Austria Germany Poland Spain Turkey '''Future:''', Czech Republic France, Hungary Italy Switzerland"}}}
+407: {'values_changed': {"root['champion']": {'new_value': 'Frankfurt Galaxy (ELF)', 'old_value': 'Vienna Vikings (1st title)'}}}
+410: {'values_changed': {"root['champion']": {'new_value': 'Vienna Vikings (1st title)', 'old_value': 'Frankfurt Galaxy (ELF)'}}}
+412: {'values_changed': {"root['champion']": {'new_value': 'Frankfurt Galaxy (ELF)', 'old_value': 'Vienna Vikings (1st title)'}, "root['most_champs']": {'new_value': 'Frankfurt Galaxy (ELF)', 'old_value': 'Vienna Vikings (1 title)'}}}
+414: {'values_changed': {"root['most_champs']": {'new_value': 'Vienna Vikings (1 title)', 'old_value': 'Frankfurt Galaxy (ELF)'}}}
+418: {'values_changed': {"root['countries']": {'new_value': "Austria Germany Poland Spain Turkey '''Future:''', Czech Republic France, Hungary Italy Switzerland", 'old_value': "Austria Germany Poland Spain Turkey '''Future:''' Czech Republic France Hungary Italy Switzerland"}}}
+420: {'values_changed': {"root['TV']": {'new_value': "'''Austria:'''  ", 'old_value': 'Broadcasters '}}}
+422: {'values_changed': {"root['teams']": {'new_value': '12 (2023: 18)', 'old_value': '12 (18 in 2023)'}, "root['countries']": {'new_value': "Austria Germany Poland Spain Turkey '''Future:''' Czech Republic France Hungary Italy Switzerland", 'old_value': "Austria Germany Poland Spain Turkey '''Future (2023):''' Czech Republic France Hungary Italy Switzerland"}, "root['headquarters']": {'new_value': 'Hamburg, Germany', 'old_value': 'Hamburg'}, "root['TV']": {'new_value': 'Broadcasters ', 'old_value': "'''Austria:'''  "}}}
+426: {'dictionary_item_removed': {"root['last_season']": '2022 European League of Football season'}, 'values_changed': {"root['upcoming_season']": {'new_value': '2022 European League of Football season', 'old_value': '2023 European League of Football season'}}}
+452: {'values_changed': {"root['teams']": {'new_value': '12 (18 in 2023)', 'old_value': '17'}, "root['countries']": {'new_value': "Austria Germany Poland Spain Turkey '''Future (2023):''' Czech Republic France Hungary Italy Switzerland", 'old_value': 'Austria Germany Poland Spain Czech Republic France Hungary Italy Switzerland'}}}
+454: {'dictionary_item_added': {"root['upcoming_season']": '2023 European League of Football season'}, 'dictionary_item_removed': {"root['current_season']": '2023 European League of Football season'}}
+494: {'values_changed': {"root['countries']": {'new_value': 'Austria Germany Poland Spain Czech Republic France Hungary Italy Switzerland', 'old_value': 'flagicon'}}}
+495: {'values_changed': {"root['countries']": {'new_value': 'flagicon', 'old_value': 'Austria Germany Poland Spain Czech Republic France Hungary Italy Switzerland'}}}

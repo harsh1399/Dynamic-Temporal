@@ -1,0 +1,4 @@
+34: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['teams']": '11', "root['champion']": 'TBD'}}
+36: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+38: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '11'}}}
+43: {'dictionary_item_removed': {"root['formerly']": 'Midwest Basketball League (2015-19)', "root['founder']": 'Michael A. Wright', "root['inaugural']": '2015'}, 'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '45'}, "root['champion']": {'new_value': 'TBD', 'old_value': 'CHICAGO FURY (2023)'}}}

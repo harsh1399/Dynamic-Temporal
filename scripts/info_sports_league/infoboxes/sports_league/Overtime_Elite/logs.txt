@@ -1,0 +1,11 @@
+3: {'dictionary_item_removed': {"root['current_season']": '2022-2023', "root['last_season']": '2021-2022', "root['sport']": 'Basketball', "root['founder']": 'Dan Porter and Zack Weiner', "root['inaugural']": '2021-2022', "root['administrator']": 'Damien Wilkens - General Manager', "root['teams']": '6', "root['headquarters']": 'Atlanta, GA', "root['champion']": 'Team Elite', "root['sponsor']": 'Gatorade, Meta, State Farm'}}
+101: {'dictionary_item_removed': {"root['ceo']": 'Dan Porter', "root['venue']": 'Overtime Elite Arena', "root['champ_season']": '2021-2022'}, 'values_changed': {"root['administrator']": {'new_value': 'Damien Wilkens - General Manager', 'old_value': 'Damien Wilkins - General Manager'}, "root['sponsor']": {'new_value': 'Gatorade, Meta, State Farm', 'old_value': 'Meta, Gatorade, State Farm'}}}
+119: {'values_changed': {"root['sponsor']": {'new_value': 'Meta, Gatorade, State Farm', 'old_value': 'Gatorade, Meta, State Farm'}}}
+128: {'values_changed': {"root['sponsor']": {'new_value': 'Gatorade, Meta, State Farm', 'old_value': 'Gatorade, GMC, Meta, State Farm'}}}
+134: {'dictionary_item_removed': {"root['streaming']": 'Amazon Prime Video'}}
+135: {'values_changed': {"root['streaming']": {'new_value': 'Amazon Prime Video', 'old_value': 'Amazon Prime'}}}
+136: {'values_changed': {"root['streaming']": {'new_value': 'Amazon Prime', 'old_value': 'Amazon Prime Video'}}}
+166: {'values_changed': {"root['current_season']": {'new_value': '2022-2023', 'old_value': '2022–2023'}, "root['last_season']": {'new_value': '2021-2022', 'old_value': '2021–2022'}, "root['inaugural']": {'new_value': '2021-2022', 'old_value': '2021–2022'}, "root['administrator']": {'new_value': 'Damien Wilkins - General Manager', 'old_value': 'Damien Wilkins – general manager'}, "root['champ_season']": {'new_value': '2021-2022', 'old_value': '2021–2022'}}}
+172: {'values_changed': {"root['champion']": {'new_value': 'Team Elite', 'old_value': 'City Reapers'}, "root['champ_season']": {'new_value': '2021–2022', 'old_value': '2022-2023'}}}
+203: {'values_changed': {"root['headquarters']": {'new_value': 'Atlanta, GA', 'old_value': 'Atlanta, Georgia'}}}
+204: {'values_changed': {"root['champ_season']": {'new_value': '2022-2023', 'old_value': '2022–2023'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Netball', "root['inaugural']": '2009', "root['teams']": '6'}}
+3: {'dictionary_item_removed': {"root['pixels']": '180'}}
+10: {'dictionary_item_removed': {"root['current_season']": '2009 World Netball Series'}}
+11: {'dictionary_item_removed': {"root['champion']": 'nb'}}
+14: {'dictionary_item_added': {"root['pixels']": '180'}, 'values_changed': {"root['current_season']": {'new_value': '2009 World Netball Series', 'old_value': '2011 World Netball Series'}, "root['sport']": {'new_value': 'Netball', 'old_value': 'Netball (Fastnet (netball)'}, "root['champion']": {'new_value': 'nb', 'old_value': 'Nb'}}}
+15: {'values_changed': {"root['current_season']": {'new_value': '2011 World Netball Series', 'old_value': '2012 Fast5 Netball World Series'}, "root['sport']": {'new_value': 'Netball (Fastnet (netball)', 'old_value': 'Netball (Fast5)'}}}
+20: {'dictionary_item_removed': {"root['most_champs']": 'Nb', "root['TV']": 'flagicon'}, 'values_changed': {"root['current_season']": {'new_value': '2012 Fast5 Netball World Series', 'old_value': '2018 Fast5 Netball World Series'}, "root['sport']": {'new_value': 'Netball (Fast5)', 'old_value': 'Fast5 netball'}}}
+26: {'values_changed': {"root['champion']": {'new_value': 'Nb', 'old_value': 'Australia'}}}
+29: {'values_changed': {"root['current_season']": {'new_value': '2018 Fast5 Netball World Series', 'old_value': '2022 Fast5 Netball World Series'}}}
+30: {'values_changed': {"root['champion']": {'new_value': 'Australia', 'old_value': 'nb'}}}

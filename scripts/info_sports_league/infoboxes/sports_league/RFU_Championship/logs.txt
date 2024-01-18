@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2020–21 RFU Championship', "root['sport']": 'Rugby union', "root['administrator']": 'Rugby Football Union', "root['teams']": '12', "root['countries']": 'ENG, flag', "root['champions']": 'Newcastle Falcons (3rd title)', "root['champ_season']": '2019–20 RFU Championship', "root['most_champs']": 'Bristol Bears (4 titles)', "root['tv']": 'Sky Sports', "root['levels']": '2', "root['domestic_cup']": 'RFU Championship Cup'}}
+2: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '11'}}}
+11: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '11efn'}}}
+56: {'dictionary_item_added': {"root['tv']": 'Sky Sports'}, 'values_changed': {"root['champions']": {'new_value': 'Newcastle Falcons (3rd title)', 'old_value': 'Saracens F.C.'}}}
+57: {'values_changed': {"root['champ_season']": {'new_value': '2019–20 RFU Championship', 'old_value': '2020–21 RFU Championship'}}}
+58: {'values_changed': {"root['teams']": {'new_value': '11efn', 'old_value': '11'}}}
+66: {'dictionary_item_added': {"root['most_champs']": 'Bristol Bears (4 titles)'}, 'dictionary_item_removed': {"root['last_season']": '2020–21 RFU Championship'}, 'values_changed': {"root['current_season']": {'new_value': '2020–21 RFU Championship', 'old_value': '2021–22 RFU Championship'}}}
+143: {'values_changed': {"root['countries']": {'new_value': 'ENG, flag', 'old_value': 'ENG flag'}}}
+146: {'values_changed': {"root['champions']": {'new_value': 'Saracens F.C.', 'old_value': 'Ealing Trailfinders Rugby Club'}, "root['champ_season']": {'new_value': '2020–21 RFU Championship', 'old_value': '2021–22 RFU Championship'}}}
+150: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+152: {'values_changed': {"root['current_season']": {'new_value': '2021–22 RFU Championship', 'old_value': '2022–23 RFU Championship'}}}
+176: {'values_changed': {"root['levels']": {'new_value': '2', 'old_value': 'English rugby union system'}}}

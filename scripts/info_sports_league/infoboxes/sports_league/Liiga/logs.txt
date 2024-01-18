@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021–22 Liiga season', "root['sport']": 'Ice hockey', "root['inaugural']": '1975–76 SM-liiga season', "root['teams']": '15', "root['champion']": 'Lukko (1st title)', "root['most_champs']": 'Tappara, HC TPS', "root['ceo']": 'Riku Kallioniemi', "root['TV']": 'Telia Company, TV5 (Finland)', "root['related_comps']": 'Mestis, Suomi-sarja'}}
+8: {'values_changed': {"root['champion']": {'new_value': 'Lukko (1st title)', 'old_value': 'Tappara'}, "root['most_champs']": {'new_value': 'Tappara, HC TPS', 'old_value': 'Tappara (11)'}}}
+21: {'dictionary_item_added': {"root['most_champs']": 'Tappara (11)'}, 'dictionary_item_removed': {"root['champ_season']": '2022'}}
+28: {'values_changed': {"root['current_season']": {'new_value': '2021–22 Liiga season', 'old_value': '2022–23 Liiga season'}}}
+35: {'dictionary_item_removed': {"root['level']": 'League system'}}
+36: {'values_changed': {"root['champ_season']": {'new_value': '2022', 'old_value': '2021–22 Liiga season'}}}
+37: {'values_changed': {"root['champion']": {'new_value': 'Tappara', 'old_value': 'Tappara (11th title)'}}}
+39: {'values_changed': {"root['related_comps']": {'new_value': 'Mestis, Suomi-sarja', 'old_value': 'Suomi-sarja, Mestis'}}}
+40: {'values_changed': {"root['related_comps']": {'new_value': 'Suomi-sarja, Mestis', 'old_value': 'Mestis, Suomi-sarja'}}}
+41: {'dictionary_item_removed': {"root['confed_cup']": 'Champions Hockey League'}}
+67: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['champion']": {'new_value': 'Tappara (11th title)', 'old_value': 'Tappara (12th title)'}, "root['champ_season']": {'new_value': '2021–22 Liiga season', 'old_value': '2022–23 Liiga season'}}}
+72: {'dictionary_item_added': {"root['current_season']": '2022–23 Liiga season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023–24 Liiga season'}}
+73: {'dictionary_item_removed': {"root['level']": 'League system'}}

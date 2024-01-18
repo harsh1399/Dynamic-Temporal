@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['upcoming_season']": '2019', "root['sport']": 'Basketball', "root['inaugural']": '2019', "root['teams']": '18'}}
+14: {'values_changed': {"root['upcoming_season']": {'new_value': '2019', 'old_value': '2019 NBL1 season'}}}
+21: {'dictionary_item_added': {"root['upcoming_season']": '2019 NBL1 season'}, 'dictionary_item_removed': {"root['current_season']": '2019 NBL1 season'}}
+26: {'values_changed': {"root['teams']": {'new_value': '18', 'old_value': '17'}}}

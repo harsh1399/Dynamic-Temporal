@@ -1,0 +1,10 @@
+1: {'dictionary_item_removed': {"root['current_season']": '2012 Canadian Professional Golf Tour', "root['sport']": 'Golf', "root['most_champs']": 'flagicon', "root['Director']": 'Tim Finchem', "root['TV']": 'PGA Tour on CBS'}}
+9: {'dictionary_item_added': {"root['most_champs']": 'flagicon', "root['Director']": 'Tim Finchem'}, 'dictionary_item_removed': {"root['ceo']": 'Richard A. Janes'}}
+10: {'dictionary_item_removed': {"root['most_champs']": 'http://www.cantour.com/leagues/front_pageCantourQ.cfm?leagueID'}}
+11: {'values_changed': {"root['TV']": {'new_value': 'PGA Tour on CBS', 'old_value': 'Formerly broadcast on the Golf Channel'}}}
+22: {'dictionary_item_added': {"root['most_champs']": 'http://www.cantour.com/leagues/front_pageCantourQ.cfm?leagueID'}, 'values_changed': {"root['current_season']": {'new_value': '2012 Canadian Professional Golf Tour', 'old_value': '2012 Canadian Tour'}}}
+35: {'dictionary_item_added': {"root['ceo']": 'Richard A. Janes', "root['TV']": 'Formerly broadcast on the Golf Channel'}, 'dictionary_item_removed': {"root['Formerly']": 'Peter Jackson Tour (1971–1977), Canadian Professional Golf Tour (1986–2012)', "root['inaugural']": '1971', "root['President']": 'Scott Pritchard', "root['related_comps']": 'PGA Tour, Korn Ferry Tour, PGA Tour Latinoamérica, PGA Tour China'}, 'values_changed': {"root['current_season']": {'new_value': '2012 Canadian Tour', 'old_value': '2022 PGA Tour Canada'}}}
+37: {'values_changed': {"root['related_comps']": {'new_value': 'PGA Tour, Korn Ferry Tour, PGA Tour Latinoamérica, PGA Tour China', 'old_value': 'PGA Tour, Korn Ferry Tour, PGA Tour Latinoamérica, PGA Tour Series-China'}}}
+38: {'values_changed': {"root['related_comps']": {'new_value': 'PGA Tour, Korn Ferry Tour, PGA Tour Latinoamérica, PGA Tour Series-China', 'old_value': 'PGA Tour, Korn Ferry Tour, PGA Tour Latinoamérica, PGA Tour China'}}}
+41: {'values_changed': {"root['current_season']": {'new_value': '2022 PGA Tour Canada', 'old_value': '2023 PGA Tour Canada'}}}
+43: {'dictionary_item_removed': {"root['folded']": '2023'}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2019', "root['sport']": 'Rugby union', "root['teams']": '12 (Zona Campeonato)', "root['confed']": 'Unión de Rugby de Rosario', "root['champion']": 'Old Resian', "root['champ_season']": '2019', "root['most_champs']": 'Duendes Rugby Club', "root['levels']": '2'}}
+2: {'values_changed': {"root['teams']": {'new_value': '12 (Zona Campeonato)', 'old_value': '10'}}}
+4: {'values_changed': {"root['champion']": {'new_value': 'Old Resian', 'old_value': 'Club de Rugby Ateneo Inmaculada'}, "root['champ_season']": {'new_value': '2019', 'old_value': '2021'}}}
+5: {'values_changed': {"root['champion']": {'new_value': 'Club de Rugby Ateneo Inmaculada', 'old_value': 'Old Resian'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2019'}}}
+12: {'values_changed': {"root['most_champs']": {'new_value': 'Duendes Rugby Club', 'old_value': 'Club Atlético del Rosario'}}}
+14: {'values_changed': {"root['current_season']": {'new_value': '2019', 'old_value': '2021'}}}
+17: {'values_changed': {"root['levels']": {'new_value': '2', 'old_value': '1'}}}

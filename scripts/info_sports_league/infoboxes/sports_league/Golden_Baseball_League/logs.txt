@@ -1,0 +1,6 @@
+25: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '10', "root['champion']": 'Calgary Vipers'}}
+43: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': "11 ''(10 active)''"}}}
+52: {'values_changed': {"root['teams']": {'new_value': "11 ''(10 active)''", 'old_value': '10'}}}
+107: {'dictionary_item_removed': {"root['most_champs']": 'Chico Outlaws (2)'}, 'values_changed': {"root['champion']": {'new_value': 'Calgary Vipers', 'old_value': 'Chico Outlaws'}}}
+121: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': "8 ''(as of October 2010)''"}}}
+136: {'values_changed': {"root['teams']": {'new_value': "8 ''(as of October 2010)''", 'old_value': "6 ''(as of November 2010)''"}}}

@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Australian rules football', "root['Headquarters']": 'Melbourne, Victoria (Australia)', "root['inaugural']": '1992', "root['teams']": '12', "root['champion']": 'Geelong Falcons', "root['most_champs']": 'Calder Cannons (6)'}}
+24: {'dictionary_item_added': {"root['Headquarters']": 'Melbourne, Victoria (Australia)'}, 'values_changed': {"root['champion']": {'new_value': 'Geelong Falcons', 'old_value': 'Dandenong Stingrays (1)'}}}
+27: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '18'}}}
+35: {'dictionary_item_removed': {"root['Formerly']": 'TAC Cup (1992–2018)'}}
+61: {'values_changed': {"root['champion']": {'new_value': 'Dandenong Stingrays (1)', 'old_value': 'Oakleigh Chargers'}}}
+62: {'values_changed': {"root['champion']": {'new_value': 'Oakleigh Chargers', 'old_value': 'Oakleigh Chargers (5)'}}}
+80: {'dictionary_item_removed': {"root['current_season']": '2021 NAB League Boys season'}, 'values_changed': {"root['teams']": {'new_value': '18', 'old_value': '13'}}}
+84: {'values_changed': {"root['current_season']": {'new_value': '2021 NAB League Boys season', 'old_value': '2022 NAB League Boys season'}}}
+101: {'values_changed': {"root['current_season']": {'new_value': '2022 NAB League Boys season', 'old_value': '2023 Coates Talent League season'}}}
+102: {'values_changed': {"root['Formerly']": {'new_value': 'TAC Cup (1992–2018)', 'old_value': 'TAC Cup (1992–2018) NAB League (2019-2022)'}}}
+104: {'values_changed': {"root['Formerly']": {'new_value': 'TAC Cup (1992–2018) NAB League (2019-2022)', 'old_value': 'TAC Cup (1992–2018),  NAB League (2019–2022)'}}}
+107: {'values_changed': {"root['champion']": {'new_value': 'Oakleigh Chargers (5)', 'old_value': 'Sandringham Dragons (4)'}}}
+109: {'values_changed': {"root['inaugural']": {'new_value': '1992', 'old_value': '10 April 1992.'}}}

@@ -1,0 +1,15 @@
+1: {'dictionary_item_removed': {"root['sport']": 'Chess', "root['commissioner']": 'Paul Elaria', "root['inaugural']": '2021'}}
+7: {'dictionary_item_removed': {"root['president']": 'Paul Elauria'}, 'values_changed': {"root['commissioner']": {'new_value': 'Paul Elaria', 'old_value': 'Paul Elauria'}}}
+9: {'dictionary_item_removed': {"root['ceo']": 'Michael Angelo Chua'}}
+14: {'dictionary_item_removed': {"root['teams']": '24'}}
+25: {'dictionary_item_removed': {"root['current_season']": '2021 Professional Chess Association of the Philippines season'}}
+45: {'dictionary_item_removed': {"root['champion']": 'Small', "root['most_champs']": 'Laguna Heroes (1 title)'}}
+47: {'values_changed': {"root['most_champs']": {'new_value': 'Laguna Heroes (1 title)', 'old_value': 'Laguna Heroes, Iloilo Kisela Knights, (1 title each)'}}}
+49: {'dictionary_item_added': {"root['current_season']": '2021 Professional Chess Association of the Philippines season'}, 'dictionary_item_removed': {"root['last_season']": '2021 Professional Chess Association of the Philippines season'}}
+50: {'values_changed': {"root['most_champs']": {'new_value': 'Laguna Heroes, Iloilo Kisela Knights, (1 title each)', 'old_value': 'Laguna Heroes, Iloilo Kisela Knights, San Juan Predators, (1 title each)'}}}
+52: {'dictionary_item_added': {"root['last_season']": '2021 Professional Chess Association of the Philippines season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022 Professional Chess Association of the Philippines season'}}
+53: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '23'}}}
+59: {'values_changed': {"root['teams']": {'new_value': '23', 'old_value': '24'}}}
+61: {'values_changed': {"root['most_champs']": {'new_value': 'Laguna Heroes, Iloilo Kisela Knights, San Juan Predators, (1 title each)', 'old_value': 'Laguna Heroes Iloilo Kisela Knights San Juan Predators (1 title each)'}}}
+67: {'values_changed': {"root['most_champs']": {'new_value': 'Laguna Heroes Iloilo Kisela Knights San Juan Predators (1 title each)', 'old_value': 'Pasig City King Pirates San Juan Predators (2 titles each)'}}}
+68: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 Professional Chess Association of the Philippines season', 'old_value': '2023 Professional Chess Association of the Philippines season'}, "root['teams']": {'new_value': '24', 'old_value': '20'}}}

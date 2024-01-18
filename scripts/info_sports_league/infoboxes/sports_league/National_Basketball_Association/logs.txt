@@ -1,0 +1,40 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2018–19 NBA season', "root['pixels']": '100', "root['sport']": 'Basketball', "root['inaugural']": '1946–47 BAA season', "root['commissioner']": 'Adam Silver', "root['teams']": '30', "root['countries']": 'United States (29 teams) Canada (1 team)', "root['headquarters']": 'New York City', "root['most_champs']": 'Boston Celtics (17 titles)', "root['champion']": 'Golden State Warriors (6th title)', "root['continent']": 'FIBA Americas (Americas)', "root['TV']": ['NBA on ABC']}}
+33: {'values_changed': {"root['current_season']": {'new_value': '2018–19 NBA season', 'old_value': '2019 NBA playoffs'}}}
+64: {'values_changed': {"root['current_season']": {'new_value': '2019 NBA playoffs', 'old_value': '2019 NBA Finals'}}}
+66: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors (6th title)', 'old_value': 'Toronto Raptors (1st title)'}}}
+74: {'values_changed': {"root['current_season']": {'new_value': '2019 NBA Finals', 'old_value': '2019–20 NBA season'}}}
+107: {'dictionary_item_added': {"root['current_season']": '2019–20 NBA season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2019–20 NBA season'}}
+108: {'dictionary_item_added': {"root['upcoming_season']": '2019–20 NBA season'}, 'dictionary_item_removed': {"root['current_season']": '2019–20 NBA season'}}
+110: {'dictionary_item_added': {"root['current_season']": '2019–20 NBA season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2019–20 NBA season'}}
+119: {'dictionary_item_added': {"root['upcoming_season']": '2019–20 NBA season'}, 'dictionary_item_removed': {"root['current_season']": '2019–20 NBA season'}}
+127: {'dictionary_item_added': {"root['pixels']": '100', "root['continent']": 'FIBA Americas (Americas)'}, 'values_changed': {"root['current_season']": {'new_value': '2019–20 NBA season', 'old_value': '2021–22 NBA season'}, "root['headquarters']": {'new_value': 'New York City', 'old_value': '345 Park Avenue'}, "root['most_champs']": {'new_value': 'Boston Celtics (17 titles)', 'old_value': 'Boston Celtics Los Angeles Lakers (17 each)'}, "root['champion']": {'new_value': 'Toronto Raptors (1st title)', 'old_value': 'Milwaukee Bucks (2nd title)'}}, 'iterable_item_added': {"root['TV'][0]": 'NBA on ABC'}}
+137: {'values_changed': {"root['headquarters']": {'new_value': '345 Park Avenue', 'old_value': 'Olympic Tower'}}}
+148: {'values_changed': {"root['countries']": {'new_value': 'United States (29 teams) Canada (1 team)', 'old_value': 'USA (29 teams) CAN (1 team)'}}}
+149: {'values_changed': {"root['countries']": {'new_value': 'USA (29 teams) CAN (1 team)', 'old_value': 'United States (29 teams) Canada (1 team)'}}}
+156: {'dictionary_item_removed': {"root['align']": '"wikitable" style', "root['colspan']": '"9"', "root['rowspan']": '"5"', "root['style']": '"width:100%;" |- !'}}
+163: {'dictionary_item_added': {"root['align']": '"wikitable" style', "root['colspan']": '"9"', "root['rowspan']": '"5"', "root['style']": '"width:100%;" |- !'}, 'values_changed': {"root['current_season']": {'new_value': '2021–22 NBA season', 'old_value': '2022 NBA playoffs'}}}
+164: {'values_changed': {"root['current_season']": {'new_value': '2022 NBA playoffs', 'old_value': 'NBA Play-In Tournament#2022'}}}
+165: {'values_changed': {"root['current_season']": {'new_value': 'NBA Play-In Tournament#2022', 'old_value': '2022 NBA Play-in Tournament'}}}
+167: {'values_changed': {"root['current_season']": {'new_value': '2022 NBA Play-in Tournament', 'old_value': '2022 NBA Playoffs'}}}
+168: {'values_changed': {"root['current_season']": {'new_value': '2022 NBA Playoffs', 'old_value': '2022 NBA playoffs'}}}
+180: {'values_changed': {"root['current_season']": {'new_value': '2022 NBA playoffs', 'old_value': '2022 NBA Finals'}}}
+182: {'values_changed': {"root['countries']": {'new_value': 'United States (29 teams) Canada (1 team)', 'old_value': 'USA (29 teams) CAN (1 team)'}}}
+183: {'values_changed': {"root['countries']": {'new_value': 'USA (29 teams) CAN (1 team)', 'old_value': 'United States (29 teams) Canada (1 team)'}}}
+184: {'values_changed': {"root['champion']": {'new_value': 'Milwaukee Bucks (2nd title)', 'old_value': 'Milwaukee Bucks (2020–21 NBA season'}}}
+185: {'values_changed': {"root['champion']": {'new_value': 'Milwaukee Bucks (2020–21 NBA season', 'old_value': 'Milwaukee Bucks (2nd title)'}}}
+187: {'values_changed': {"root['champion']": {'new_value': 'Milwaukee Bucks (2nd title)', 'old_value': 'Golden State Warriors (7th title)'}}}
+189: {'dictionary_item_added': {"root['current_season']": '2022 NBA Finals'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022–23 NBA season'}}
+231: {'dictionary_item_added': {"root['upcoming_season']": '2022–23 NBA season'}, 'dictionary_item_removed': {"root['current_season']": '2022–23 NBA season'}}
+239: {'values_changed': {"root['most_champs']": {'new_value': 'Boston Celtics Los Angeles Lakers (17 each)', 'old_value': 'Boston Celtics Los Angeles Lakers (17 championships each)'}}}
+240: {'values_changed': {"root['most_champs']": {'new_value': 'Boston Celtics Los Angeles Lakers (17 championships each)', 'old_value': 'Boston Celtics Los Angeles Lakers (17 each)'}}}
+263: {'values_changed': {"root['current_season']": {'new_value': '2022–23 NBA season', 'old_value': '2023 NBA playoffs'}}}
+285: {'values_changed': {"root['current_season']": {'new_value': '2023 NBA playoffs', 'old_value': '2023 NBA Finals'}}}
+291: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors (7th title)', 'old_value': 'Denver Nuggets (1st title)'}}}
+294: {'dictionary_item_added': {"root['current_season']": '2023 NBA Finals'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023–24 NBA season'}}
+295: {'dictionary_item_added': {"root['upcoming_season']": '2023–24 NBA season'}, 'dictionary_item_removed': {"root['current_season']": '2023 NBA Finals'}}
+296: {'dictionary_item_added': {"root['current_season']": '2023 NBA Finals'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023–24 NBA season'}}
+298: {'values_changed': {"root['champion']": {'new_value': 'Denver Nuggets (1st title)', 'old_value': 'Denver Nuggets (2023)'}}}
+300: {'values_changed': {"root['champion']": {'new_value': 'Denver Nuggets (2023)', 'old_value': 'Denver Nuggets (1st Title)'}}}
+301: {'values_changed': {"root['champion']": {'new_value': 'Denver Nuggets (1st Title)', 'old_value': 'Denver Nuggets (1st title)'}}}
+302: {'values_changed': {"root['champion']": {'new_value': 'Denver Nuggets (1st title)', 'old_value': 'Golden State Warriors (7st title)'}}}
+303: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors (7st title)', 'old_value': 'Denver Nuggets (1st title)'}}}

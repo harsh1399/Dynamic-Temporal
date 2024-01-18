@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['confed']": 'European Handball Federation', "root['teams']": '16', "root['levels']": '1', "root['domest_cup']": 'Coupe de France (handball)', "root['confed_cup']": 'EHF Champions League', "root['champions']": 'PSG Handball', "root['season']": '2020–21 LNH Division 1', "root['tv']": 'beIN Sports (French TV channel)', "root['current']": '2021–22 LNH Division 1 '}}
+16: {'dictionary_item_added': {"root['domest_cup']": 'Coupe de France (handball)'}, 'values_changed': {"root['season']": {'new_value': '2020–21 LNH Division 1', 'old_value': '2021–22 LNH Division 1'}}}
+20: {'dictionary_item_added': {"root['season']": '2021–22 LNH Division 1'}, 'dictionary_item_removed': {"root['champ_season']": '2021–22 LNH Division 1', "root['most_champs']": 'Montpellier Handball', "root['prem_season']": '2021–22 LNH Division 1'}}
+21: {'dictionary_item_added': {"root['current']": '2021–22 LNH Division 1 '}, 'dictionary_item_removed': {"root['sport']": 'Handball', "root['current_season']": '2021–22 LNH Division 1 '}}
+31: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['domestic_cup']": 'DHB-Pokal, DHB-Supercup'}, 'values_changed': {"root['confed_cup']": {'new_value': 'EHF Champions League', 'old_value': 'EHF Champions League, EHF European League'}}}
+32: {'values_changed': {"root['domestic_cup']": {'new_value': 'DHB-Pokal, DHB-Supercup', 'old_value': 'Coupe de France (handball)'}}}
+33: {'dictionary_item_removed': {"root['administrator']": 'German Handball Association'}}
+39: {'values_changed': {"root['administrator']": {'new_value': 'German Handball Association', 'old_value': 'French Handball Federation'}}}
+40: {'dictionary_item_removed': {"root['sponsor']": 'Liqui Moly'}}
+41: {'dictionary_item_removed': {"root['inaugural']": '1952-53'}}
+44: {'values_changed': {"root['current_season']": {'new_value': '2021–22 LNH Division 1 ', 'old_value': '2022–23 LNH Division 1 '}}}
+45: {'values_changed': {"root['inaugural']": {'new_value': '1952-53', 'old_value': '1952–53'}}}
+51: {'values_changed': {"root['administrator']": {'new_value': 'French Handball Federation', 'old_value': 'Ligue Nationale de Handball'}}}
+53: {'dictionary_item_added': {"root['administrator']": 'Ligue Nationale de Handball', "root['inaugural']": '1952–53', "root['sponsor']": 'Liqui Moly', "root['domestic_cup']": 'Coupe de France (handball)'}, 'values_changed': {"root['current_season']": {'new_value': '2022–23 LNH Division 1 ', 'old_value': '2021–22 LNH Division 1 '}}}
+56: {'dictionary_item_removed': {"root['level']": 'League system', "root['sponsor']": 'Liqui Moly', "root['domestic_cup']": 'Coupe de France (handball)'}, 'values_changed': {"root['current_season']": {'new_value': '2021–22 LNH Division 1 ', 'old_value': '2022–23 LNH Division 1 '}}}
+57: {'dictionary_item_removed': {"root['administrator']": 'Ligue Nationale de Handball', "root['inaugural']": '1952–53'}}

@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['teams']": '4', "root['champion']": 'To Be Determined'}}
+31: {'dictionary_item_removed': {"root['inaugural']": '2010-2011'}}
+32: {'values_changed': {"root['inaugural']": {'new_value': '2010-2011', 'old_value': '2010'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}}}
+103: {'dictionary_item_added': {"root['champion']": 'To Be Determined'}, 'dictionary_item_removed': {"root['ceo']": 'Don Kirnan'}, 'values_changed': {"root['inaugural']": {'new_value': '2010', 'old_value': '2010–11'}}}
+110: {'dictionary_item_added': {"root['ceo']": 'Don Kirnan'}, 'dictionary_item_removed': {"root['Commissioner']": 'Don Kirnan'}}
+125: {'dictionary_item_added': {"root['Commissioner']": 'Don Kirnan'}, 'dictionary_item_removed': {"root['upcoming_season']": '2020–21 FPHL season', "root['champion']": 'Carolina Thunderbirds (FPHL)', "root['commissioner']": 'Don Kirnan'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+133: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '4'}}}
+140: {'values_changed': {"root['champion']": {'new_value': 'Carolina Thunderbirds (FPHL)', 'old_value': 'Columbus River Dragons (2021)'}}}
+156: {'values_changed': {"root['upcoming_season']": {'new_value': '2020–21 FPHL season', 'old_value': '2021–22 FPHL season'}, "root['teams']": {'new_value': '4', 'old_value': '8'}}}
+158: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+191: {'values_changed': {"root['champion']": {'new_value': 'Columbus River Dragons (2021)', 'old_value': 'WATERTOWN WOLVES (2022)'}}}
+193: {'values_changed': {"root['champion']": {'new_value': 'WATERTOWN WOLVES (2022)', 'old_value': 'Columbus River Dragons (2021)'}}}
+194: {'values_changed': {"root['champion']": {'new_value': 'Columbus River Dragons (2021)', 'old_value': 'Watertown Wolves (2022)'}}}
+195: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '10'}}}
+219: {'dictionary_item_removed': {"root['current_season']": '2022-23 FPHL Season', "root['last_season']": '2021-22 FPHL Season'}}
+251: {'values_changed': {"root['current_season']": {'new_value': '2022-23 FPHL Season', 'old_value': '2022–23 FPHL Season'}, "root['last_season']": {'new_value': '2021-22 FPHL Season', 'old_value': '2021–22 FPHL Season'}}}
+269: {'values_changed': {"root['champion']": {'new_value': 'Watertown Wolves (2022)', 'old_value': 'Danbury Hat Tricks (2023)'}}}
+272: {'dictionary_item_removed': {"root['divisions']": '2'}}

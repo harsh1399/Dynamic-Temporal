@@ -1,0 +1,6 @@
+8: {'dictionary_item_removed': {"root['name']": 'Maha Handball Super League', "root['pixels']": 'px 200', "root['confed']": 'Handball Association of Maharashtra', "root['teams']": '7', "root['tv']": 'DD Sports'}}
+10: {'values_changed': {"root['pixels']": {'new_value': 'px 200', 'old_value': '200'}}}
+11: {'values_changed': {"root['pixels']": {'new_value': '200', 'old_value': '200 px'}}}
+21: {'dictionary_item_removed': {"root['divisions']": '1', "root['levels']": '1'}, 'values_changed': {"root['pixels']": {'new_value': '200 px', 'old_value': '300 px'}}}
+23: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+24: {'dictionary_item_added': {"root['name']": 'Maha Handball Super League', "root['divisions']": '1'}, 'dictionary_item_removed': {"root['current_season']": '2015-16 Maha Handball Super League', "root['upcoming_season']": '2016-17 Maha Handball Super League', "root['sport']": 'Handball', "root['owner']": 'Handball Association of Maharashtra', "root['inaugural']": '2015-16 Maha Handball Super League', "root['venue']": 'Sholapur, Maharashtra', "root['founder']": 'Mr. Ravi Giakwad'}, 'values_changed': {"root['pixels']": {'new_value': '300 px', 'old_value': '300'}}}

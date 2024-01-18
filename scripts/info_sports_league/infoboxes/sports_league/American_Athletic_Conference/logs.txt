@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['name']": "Renamed Big East Conference, ''(Official Name TBD)''", "root['established']": '2013', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'Division I (NCAA)', "root['subdivision']": 'Football Bowl Subdivision', "root['members']": '10 (Full Members)', "root['sports']": '24', "root['mens']": '11', "root['womens']": '13', "root['region']": 'Eastern United States', "root['hq_city']": 'Providence', "root['hq_state']": 'Rhode Island', "root['commissioner']": 'Michael Aresco', "root['since']": '2013', "root['map']": 'Renamed Big East Conference Map.png', "root['map_size']": '250 '}}
+9: {'values_changed': {"root['established']": {'new_value': '2013', 'old_value': 'July 1, 2013'}}}
+14: {'values_changed': {"root['name']": {'new_value': "Renamed Big East Conference, ''(Official Name TBD)''", 'old_value': "Renamed Big East Conference, ''(America 12 Conference)''"}}}
+15: {'values_changed': {"root['name']": {'new_value': "Renamed Big East Conference, ''(America 12 Conference)''", 'old_value': "Renamed Big East Conference, ''(Official Name TBD)''"}}}
+34: {'dictionary_item_added': {"root['since']": '2013'}, 'values_changed': {"root['established']": {'new_value': 'July 1, 2013', 'old_value': '1979'}}}
+41: {'dictionary_item_removed': {"root['short_name']": 'Official Name TBD', "root['former_names']": 'Big East Conference (1979–2013)'}, 'values_changed': {"root['name']": {'new_value': "Renamed Big East Conference, ''(Official Name TBD)''", 'old_value': 'Renamed Big East Conference'}, "root['established']": {'new_value': '1979', 'old_value': '1979, (Reorganized 2013)'}, "root['members']": {'new_value': '10 (Full Members)', 'old_value': '10 small'}, "root['sports']": {'new_value': '24', 'old_value': '22'}, "root['mens']": {'new_value': '11', 'old_value': '10'}, "root['womens']": {'new_value': '13', 'old_value': '12'}}}
+45: {'values_changed': {"root['short_name']": {'new_value': 'Official Name TBD', 'old_value': 'official name TBD'}}}
+57: {'values_changed': {"root['commissioner']": {'new_value': 'Michael Aresco', 'old_value': 'Michael Aresco small'}}}
+86: {'values_changed': {"root['hq_state']": {'new_value': 'Rhode Island', 'old_value': 'Rhode Island (presumed)'}}}
+87: {'values_changed': {"root['hq_state']": {'new_value': 'Rhode Island (presumed)', 'old_value': 'Rhode Island'}}}
+88: {'values_changed': {"root['sports']": {'new_value': '22', 'old_value': 'TBD'}, "root['mens']": {'new_value': '10', 'old_value': 'TBD'}, "root['womens']": {'new_value': '12', 'old_value': 'TBD'}}}
+90: {'dictionary_item_added': {"root['mens']": 'TBD', "root['womens']": 'TBD'}, 'values_changed': {"root['commissioner']": {'new_value': 'Michael Aresco small', 'old_value': 'Michael Aresco'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Renamed Big East Conference', 'old_value': 'American Athletic Conference'}}}
+149: {'values_changed': {"root['short_name']": {'new_value': 'official name TBD', 'old_value': 'AAC'}}}
+150: {'values_changed': {"root['map']": {'new_value': 'Renamed Big East Conference Map.png', 'old_value': 'American Athletic Conference Map.png'}}}
+156: {'values_changed': {"root['members']": {'new_value': '10 small', 'old_value': '11 small'}}}
+157: {'values_changed': {"root['short_name']": {'new_value': 'AAC', 'old_value': 'The American'}}}
+173: {'dictionary_item_added': {"root['short_name']": 'The American'}, 'values_changed': {"root['established']": {'new_value': '1979, (Reorganized 2013)', 'old_value': '1979 (as Big East Conference), 2013 (reorganized as AAC)'}}}
+185: {'values_changed': {"root['established']": {'new_value': '1979 (as Big East Conference), 2013 (reorganized as AAC)', 'old_value': '1979 small'}}}
+285: {'dictionary_item_removed': {"root['short_name']": 'AAC'}}
+297: {'values_changed': {"root['short_name']": {'new_value': 'AAC', 'old_value': 'The American'}}}
+298: {'values_changed': {"root['short_name']": {'new_value': 'The American', 'old_value': 'The American or AAC'}}}
+299: {'values_changed': {"root['short_name']": {'new_value': 'The American or AAC', 'old_value': 'The American'}}}
+326: {'dictionary_item_removed': {"root['mens']": '10', "root['womens']": '11', "root['since']": '2013'}, 'values_changed': {"root['members']": {'new_value': '11 small', 'old_value': '10 small'}, "root['sports']": {'new_value': 'TBD', 'old_value': '21'}}}
+328: {'dictionary_item_added': {"root['mens']": '10', "root['womens']": '11', "root['since']": '2013'}, 'values_changed': {"root['members']": {'new_value': '10 small', 'old_value': '11 small'}, "root['sports']": {'new_value': '21', 'old_value': 'TBD'}}}
+329: {'dictionary_item_removed': {"root['mens']": '10', "root['womens']": '11'}, 'values_changed': {"root['members']": {'new_value': '11 small', 'old_value': '10 small'}, "root['sports']": {'new_value': 'TBD', 'old_value': '21'}}}
+342: {'dictionary_item_removed': {"root['since']": '2012'}}
+350: {'values_changed': {"root['hq_city']": {'new_value': 'Providence', 'old_value': 'Las Vegas'}, "root['hq_state']": {'new_value': 'Rhode Island', 'old_value': 'Nevada'}}}
+351: {'values_changed': {"root['hq_city']": {'new_value': 'Las Vegas', 'old_value': 'Providence'}, "root['hq_state']": {'new_value': 'Nevada', 'old_value': 'Rhode Island'}}}
+353: {'values_changed': {"root['region']": {'new_value': 'Eastern United States', 'old_value': 'Northeastern United States (3 schools), Midwestern United States (1 school), Southern United States (6 schools)'}}}
+354: {'values_changed': {"root['region']": {'new_value': 'Northeastern United States (3 schools), Midwestern United States (1 school), Southern United States (6 schools)', 'old_value': 'Northeastern United States (3 schools, 2 schools in 2014), Midwestern United States (1 school), Southern United States (6 schools, 8 schools in 2014, 9 schools in 2015)'}}}
+355: {'dictionary_item_removed': {"root['color']": '#081549', "root['font_color']": '#FFFFFF'}}
+356: {'values_changed': {"root['region']": {'new_value': 'Northeastern United States (3 schools, 2 schools in 2014), Midwestern United States (1 school), Southern United States (6 schools, 8 schools in 2014, 9 schools in 2015)', 'old_value': 'Northeastern United States (3 schools), Midwestern United States (1 school), Southern United States (6 schools)'}}}
+357: {'values_changed': {"root['region']": {'new_value': 'Northeastern United States (3 schools), Midwestern United States (1 school), Southern United States (6 schools)', 'old_value': 'Eastern United States'}}}
+366: {'values_changed': {"root['region']": {'new_value': 'Eastern United States', 'old_value': 'Northeastern United States (3 schools, 2 schools in 2014), Midwestern United States (1 school), Southern United States (6 schools, 8 schools in 2014, 9 schools in 2015)'}}}
+376: {'values_changed': {"root['region']": {'new_value': 'Northeastern United States (3 schools, 2 schools in 2014), Midwestern United States (1 school), Southern United States (6 schools, 8 schools in 2014, 9 schools in 2015)', 'old_value': 'Northeastern United States'}, "root['since']": {'new_value': '2012', 'old_value': '2013'}}}
+395: {'values_changed': {"root['region']": {'new_value': 'Northeastern United States', 'old_value': 'Southern United States'}, "root['map_size']": {'new_value': '250 ', 'old_value': '275 '}}}
+511: {'values_changed': {"root['short_name']": {'new_value': 'The American', 'old_value': 'AAC'}}}
+512: {'values_changed': {"root['short_name']": {'new_value': 'AAC', 'old_value': 'AAC, The American'}}}
+520: {'values_changed': {"root['short_name']": {'new_value': 'AAC, The American', 'old_value': 'The American'}}}
+536: {'values_changed': {"root['members']": {'new_value': '10 small', 'old_value': '11 (small'}}}
+556: {'values_changed': {"root['established']": {'new_value': '1979 small', 'old_value': 'May 31, 1979 small'}}}

@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Premier Handball League', "root['confed']": 'Asian Handball Federation', "root['divisions']": '1', "root['teams']": '6', "root['levels']": '1', "root['confed_cup']": 'Asian Club League Handball Championship', "root['tv']": 'Sony Pictures Networks India', "root['current']": '2020 Indian Premier Handball League '}}
+2: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['sponsor']": 'Dream11 ,  TYKA Sports ,  FanCode'}}
+3: {'dictionary_item_added': {"root['divisions']": '1', "root['tv']": 'Sony Pictures Networks India', "root['sponsor']": 'Dream11 ,  TYKA Sports ,  FanCode'}, 'dictionary_item_removed': {"root['inaugural']": '2023 Indian Premier Handball League season', "root['champions']": '(1st title)', "root['levels']": '1'}, 'values_changed': {"root['confed']": {'new_value': 'Asian Handball Federation', 'old_value': 'Handball Federation of India'}, "root['teams']": {'new_value': '6', 'old_value': '#Teams'}, "root['current']": {'new_value': '2020 Indian Premier Handball League ', 'old_value': '2023 Indian Premier Handball League season '}}}
+17: {'values_changed': {"root['champions']": {'new_value': '(1st title)', 'old_value': 'TBA (1st title)'}}}
+32: {'dictionary_item_removed': {"root['tv']": 'JioCinema ,  Sports18'}}
+35: {'values_changed': {"root['inaugural']": {'new_value': '2023 Indian Premier Handball League season', 'old_value': '2023'}}}
+40: {'dictionary_item_added': {"root['tv']": 'JioCinema ,  Sports18'}, 'values_changed': {"root['inaugural']": {'new_value': '2023', 'old_value': '2023 Indian Premier Handball League season'}}}
+41: {'dictionary_item_removed': {"root['tv']": 'JioCinema ,  Sports18 ,  FanCode'}}
+51: {'dictionary_item_added': {"root['current']": '2023 Indian Premier Handball League season '}, 'values_changed': {"root['inaugural']": {'new_value': '2023 Indian Premier Handball League season', 'old_value': '2023'}}}
+53: {'dictionary_item_removed': {"root['current']": '2023 Indian Premier Handball League season '}, 'values_changed': {"root['inaugural']": {'new_value': '2023', 'old_value': '2023 Indian Premier Handball League season'}}}
+55: {'values_changed': {"root['inaugural']": {'new_value': '2023 Indian Premier Handball League season', 'old_value': '2023 Premier Handball League (India)'}, "root['current']": {'new_value': '2023 Indian Premier Handball League season ', 'old_value': '2023 Premier Handball League (India) '}}}
+59: {'values_changed': {"root['inaugural']": {'new_value': '2023 Premier Handball League (India)', 'old_value': '2023'}}}
+60: {'values_changed': {"root['current']": {'new_value': '2023 Premier Handball League (India) ', 'old_value': '2023 PHL '}}}
+65: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['tournament_format']": 'Round Robin tournament', "root['streaming']": 'JioCinema ,  FanCode'}, 'values_changed': {"root['tv']": {'new_value': 'JioCinema ,  Sports18 ,  FanCode', 'old_value': 'Sports18'}}}
+75: {'dictionary_item_added': {"root['streaming']": 'JioCinema ,  FanCode'}, 'values_changed': {"root['tv']": {'new_value': 'Sports18', 'old_value': 'Sports18 JioCinema ,  FanCode ,  PHL (YouTube)'}}}
+77: {'dictionary_item_added': {"root['confed']": 'Handball Federation of India'}, 'dictionary_item_removed': {"root['current_season']": '2023', "root['sport']": 'Handball', "root['founder']": [], "root['organiser']": 'Handball Association of India'}, 'values_changed': {"root['champions']": {'new_value': 'TBA (1st title)', 'old_value': 'TBA'}, "root['tv']": {'new_value': 'Sports18 JioCinema ,  FanCode ,  PHL (YouTube)', 'old_value': 'bulleted list'}}}
+78: {'values_changed': {"root['organiser']": {'new_value': 'Handball Association of India', 'old_value': 'HFI'}}}
+85: {'dictionary_item_added': {"root['current_season']": '2023', "root['organiser']": 'HFI'}, 'dictionary_item_removed': {"root['levels']": '1'}}
+87: {'dictionary_item_removed': {"root['confed']": 'Asian Handball Federation'}}
+89: {'dictionary_item_removed': {"root['most_champs']": 'TBA'}}
+91: {'values_changed': {"root['champions']": {'new_value': 'TBA', 'old_value': 'Maharashtra Ironmen'}, "root['most_champs']": {'new_value': 'TBA', 'old_value': 'Maharashtra Ironmen (1 title)'}}}
+92: {'values_changed': {"root['champions']": {'new_value': 'Maharashtra Ironmen', 'old_value': 'Maharashtra Ironmen (2023)'}}}

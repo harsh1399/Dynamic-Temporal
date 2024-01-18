@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Sepak takraw', "root['teams']": '18 (2020)', "root['champion']": 'Perak Bison', "root['champ_season']": '2019', "root['most_champs']": '| most successful club'}}
+2: {'values_changed': {"root['champion']": {'new_value': 'Perak Bison', 'old_value': 'Kuala Lumpur Thunder'}, "root['champ_season']": {'new_value': '2019', 'old_value': '2020'}}}
+16: {'dictionary_item_removed': {"root['current_season']": 'STL 2021/22'}}
+17: {'dictionary_item_added': {"root['current_season']": 'STL 2021/22', "root['most_champs']": '| most successful club'}, 'dictionary_item_removed': {"root['current']": 'STL 2021/22'}}
+19: {'values_changed': {"root['current']": {'new_value': 'STL 2021/22', 'old_value': 'Liga Sepak Takraw (STL) 2021/22'}}}
+20: {'values_changed': {"root['current']": {'new_value': 'Liga Sepak Takraw (STL) 2021/22', 'old_value': 'Liga Sepak Takraw (STL) 2021/22 '}}}
+31: {'dictionary_item_added': {"root['current']": 'Liga Sepak Takraw (STL) 2021/22 '}, 'values_changed': {"root['teams']": {'new_value': '18 (2020)', 'old_value': '10 (2021)'}, "root['champion']": {'new_value': 'Kuala Lumpur Thunder', 'old_value': 'ATM Guardians'}, "root['champ_season']": {'new_value': '2020', 'old_value': '2021/2022'}}}

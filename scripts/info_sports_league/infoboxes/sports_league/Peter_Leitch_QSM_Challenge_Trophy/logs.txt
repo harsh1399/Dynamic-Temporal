@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Peter Leitch QSM Challenge Trophy', "root['Badge']": 'New Zealand Rugby League logo.png', "root['Association']": 'New Zealand Rugby League', "root['Region']": 'Pacific', "root['pattern_la1']": '_whiteborder', "root['leftarm1']": 'body1'}}
+7: {'dictionary_item_added': {"root['Badge']": 'New Zealand Rugby League logo.png', "root['pattern_la1']": '_whiteborder', "root['leftarm1']": 'body1'}, 'values_changed': {"root['Region']": {'new_value': 'Pacific', 'old_value': 'Pacific | Top try-scorer'}}}
+8: {'dictionary_item_added': {"root['Association']": 'New Zealand Rugby League', "root['Region']": 'Pacific | Top try-scorer'}, 'dictionary_item_removed': {"root['sport']": 'Peter Leitch QSM Challenge Trophy', "root['teams']": '5'}}
+9: {'dictionary_item_removed': {"root['Region']": 'Pacific'}}
+10: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+11: {'dictionary_item_added': {"root['Name']": 'Peter Leitch QSM Challenge Trophy', "root['sport']": 'Peter Leitch QSM Challenge Trophy', "root['Region']": 'Pacific'}, 'dictionary_item_removed': {"root['champion']": 'England '}}

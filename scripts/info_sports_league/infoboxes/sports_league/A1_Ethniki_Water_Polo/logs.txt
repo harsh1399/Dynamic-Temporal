@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['current_season']": "2020–21 A1 Ethniki (men's water polo)", "root['sport']": 'Water polo', "root['teams']": '12', "root['continent']": 'Europe', "root['champion']": 'Olympiacos Water Polo Club', "root['most_champs']": 'Ethnikos Piraeus Water Polo Club', "root['domestic_cup']": 'Greek Water Polo Cup', "root['TV']": 'Hellenic Broadcasting Corporation', "root['Founder']": 'Olympiacos '}}
+13: {'values_changed': {"root['current_season']": {'new_value': "2020–21 A1 Ethniki (men's water polo)", 'old_value': '2020–21 A1 Ethniki'}}}
+14: {'values_changed': {"root['current_season']": {'new_value': '2020–21 A1 Ethniki', 'old_value': '2021–22 A1 Ethniki'}}}
+17: {'dictionary_item_removed': {"root['confed']": 'European Volleyball Confederation'}}
+18: {'values_changed': {"root['confed']": {'new_value': 'European Volleyball Confederation', 'old_value': 'LEN'}}}
+19: {'dictionary_item_removed': {"root['confed_cup']": 'LEN Champions League, LEN Trophy'}, 'values_changed': {"root['Founder']": {'new_value': 'Olympiacos ', 'old_value': 'Olympiacos'}}}
+23: {'dictionary_item_removed': {"root['administrator']": 'PLS SA'}}
+24: {'values_changed': {"root['administrator']": {'new_value': 'PLS SA', 'old_value': 'Hellenic Swimming Federation'}}}
+43: {'dictionary_item_added': {"root['domestic_cup']": 'Greek Water Polo Cup'}, 'values_changed': {"root['Founder']": {'new_value': 'Olympiacos', 'old_value': 'Olympiacos Piraeus'}}}
+47: {'dictionary_item_removed': {"root['domestic_cup']": 'Greek Water Polo Cup'}, 'values_changed': {"root['Founder']": {'new_value': 'Olympiacos Piraeus', 'old_value': 'Olympiacos'}}}
+48: {'values_changed': {"root['Founder']": {'new_value': 'Olympiacos', 'old_value': 'Olympiacos Piraeus'}}}
+50: {'dictionary_item_removed': {"root['champ_season']": '2021-22'}}
+59: {'dictionary_item_added': {"root['Founder']": 'Olympiacos Piraeus', "root['administrator']": 'Hellenic Swimming Federation'}, 'values_changed': {"root['current_season']": {'new_value': '2021–22 A1 Ethniki', 'old_value': '2022–23 A1 Ethniki'}}}

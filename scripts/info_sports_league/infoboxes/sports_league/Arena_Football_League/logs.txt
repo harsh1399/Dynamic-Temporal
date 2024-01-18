@@ -1,0 +1,87 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Arena football', "root['inaugural']": '1987', "root['last']": '2008', "root['folded']": '2009', "root['teams']": '15', "root['champion']": 'Philadelphia Soul', "root['most_champs']": 'Tampa Bay Storm (5)', "root['Founder']": 'Jim Foster '}}
+9: {'dictionary_item_added': {"root['last']": '2008', "root['folded']": '2009'}, 'dictionary_item_removed': {"root['TV']": 'NFL Network'}}
+24: {'dictionary_item_added': {"root['TV']": 'NFL Network'}, 'dictionary_item_removed': {"root['folded']": '2009 (New AFL formed)'}}
+25: {'values_changed': {"root['folded']": {'new_value': '2009 (New AFL formed)', 'old_value': '2009 (New Arena Football League (2010)'}}}
+57: {'dictionary_item_added': {"root['folded']": '2009 (New Arena Football League (2010)'}, 'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '19'}, "root['champion']": {'new_value': 'Philadelphia Soul', 'old_value': 'Spokane Shock'}, "root['Founder']": {'new_value': 'Jim Foster ', 'old_value': 'Jim Foster, Jr. '}}}
+58: {'dictionary_item_removed': {"root['folded']": '2009 (New Arena Football League (2010)'}, 'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '15'}, "root['champion']": {'new_value': 'Spokane Shock', 'old_value': 'Philadelphia Soul'}, "root['Founder']": {'new_value': 'Jim Foster, Jr. ', 'old_value': 'Jim Foster '}}}
+61: {'dictionary_item_added': {"root['folded']": '2009 (New Arena Football League (2010)'}, 'dictionary_item_removed': {"root['current_season']": '2010 Arena Football League season', "root['ceo']": 'Jerry Kurz', "root['TV']": 'NFL Network', "root['related_comps']": 'Gridiron Enterprises'}, 'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '15 (19 for 2011)'}, "root['champion']": {'new_value': 'Philadelphia Soul', 'old_value': 'Spokane Shock'}}}
+72: {'values_changed': {"root['teams']": {'new_value': '15 (19 for 2011)', 'old_value': '19'}}}
+79: {'values_changed': {"root['inaugural']": {'new_value': '1987', 'old_value': '1987 Arena Football League season'}}}
+127: {'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '18'}}}
+150: {'values_changed': {"root['current_season']": {'new_value': '2010 Arena Football League season', 'old_value': '2011 Arena Football League season'}}}
+156: {'dictionary_item_added': {"root['current_season']": '2011 Arena Football League season'}, 'dictionary_item_removed': {"root['last_season']": '2012 Arena Football League season'}, 'values_changed': {"root['teams']": {'new_value': '18', 'old_value': '17'}, "root['champion']": {'new_value': 'Spokane Shock', 'old_value': 'Jacksonville Sharks'}}}
+169: {'values_changed': {"root['last_season']": {'new_value': '2012 Arena Football League season', 'old_value': '2011 Arena Football League season'}}}
+170: {'values_changed': {"root['last_season']": {'new_value': '2011 Arena Football League season', 'old_value': '1700 Arena Football League season'}}}
+171: {'values_changed': {"root['last_season']": {'new_value': '1700 Arena Football League season', 'old_value': '2012 Arena Football League season'}}}
+172: {'values_changed': {"root['ceo']": {'new_value': 'Jerry Kurz', 'old_value': 'Jerry Henry'}}}
+173: {'values_changed': {"root['ceo']": {'new_value': 'Jerry Henry', 'old_value': 'Eric Paye'}}}
+174: {'values_changed': {"root['ceo']": {'new_value': 'Eric Paye', 'old_value': 'Jerry Kutz'}}}
+175: {'values_changed': {"root['ceo']": {'new_value': 'Jerry Kutz', 'old_value': 'Jerry Kurz'}}}
+179: {'dictionary_item_added': {"root['last_season']": '2012 Arena Football League season'}, 'dictionary_item_removed': {"root['current_season']": '2012 Arena Football League season'}}
+221: {'values_changed': {"root['champion']": {'new_value': 'Jacksonville Sharks', 'old_value': 'Arizona Rattlers'}}}
+222: {'values_changed': {"root['teams']": {'new_value': '17', 'old_value': '16'}}}
+225: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '15'}}}
+226: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '16'}}}
+227: {'dictionary_item_removed': {"root['last_season']": '2011 Arena Football League season'}}
+228: {'dictionary_item_added': {"root['current_season']": '2012 Arena Football League season'}, 'values_changed': {"root['last_season']": {'new_value': '2011 Arena Football League season', 'old_value': '2012 Arena Football League season'}}}
+232: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '14'}}}
+241: {'values_changed': {"root['last_season']": {'new_value': '2012 Arena Football League season', 'old_value': '2013 Arena Football League season'}}}
+242: {'values_changed': {"root['TV']": {'new_value': 'NFL Network', 'old_value': 'CBS Sports Network'}}}
+250: {'dictionary_item_added': {"root['last_season']": '2013 Arena Football League season', "root['related_comps']": 'Gridiron Enterprises', "root['Founder']": 'Jim Foster '}, 'dictionary_item_removed': {"root['current_season']": '2014 Arena Football League season', "root['formerly']": 'Arena Football 1 (2010)', "root['sponsor']": 'NET10 Wireless', "root['founder']": 'Jim Foster '}, 'values_changed': {"root['champion']": {'new_value': 'Arizona Rattlers', 'old_value': 'Arizona Rattlers (4th title)'}, "root['most_champs']": {'new_value': 'Tampa Bay Storm (5)', 'old_value': 'Tampa Bay Storm (5 titles)'}, "root['TV']": {'new_value': 'CBS Sports Network', 'old_value': 'CBS Sports Network, ESPN'}}}
+335: {'values_changed': {"root['champion']": {'new_value': 'Arizona Rattlers (4th title)', 'old_value': 'Arizona Rattlers (5th title)'}}}
+336: {'values_changed': {"root['most_champs']": {'new_value': 'Tampa Bay Storm (5 titles)', 'old_value': 'Tampa Bay Storm Arizona Rattlers (5 titles)'}}}
+337: {'values_changed': {"root['most_champs']": {'new_value': 'Tampa Bay Storm Arizona Rattlers (5 titles)', 'old_value': 'Tampa Bay Storm, Arizona Rattlers (5 titles)'}}}
+340: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '15'}}}
+346: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '14'}}}
+349: {'dictionary_item_added': {"root['ceo']": 'Jerry Kurz'}, 'dictionary_item_removed': {"root['president']": 'Jerry Kurz'}}
+351: {'dictionary_item_removed': {"root['commissioner']": 'Scott Butera'}}
+381: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '13'}}}
+397: {'values_changed': {"root['formerly']": {'new_value': 'Arena Football 1 (2010)', 'old_value': 'Arena Football 1 (2010), NET 10 Wireless AFL (2012-2014)'}}}
+409: {'values_changed': {"root['formerly']": {'new_value': 'Arena Football 1 (2010), NET 10 Wireless AFL (2012-2014)', 'old_value': 'Arena Football 1 (2010), NET 10 Wireless AFL (2012–2014)'}}}
+411: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '12'}}}
+430: {'dictionary_item_added': {"root['president']": 'Jerry Kurz', "root['sponsor']": 'NET10 Wireless'}, 'dictionary_item_removed': {"root['headquarters']": 'Las Vegas, Nevada'}, 'values_changed': {"root['current_season']": {'new_value': '2014 Arena Football League season', 'old_value': '2017 Arena Football League season'}, "root['formerly']": {'new_value': 'Arena Football 1 (2010), NET 10 Wireless AFL (2012–2014)', 'old_value': 'Arena Football 1 (2010) NET 10 Wireless AFL (2012–2014)'}, "root['teams']": {'new_value': '12', 'old_value': '#Teams'}, "root['champion']": {'new_value': 'Arizona Rattlers (5th title)', 'old_value': 'Philadelphia Soul (3rd title)'}, "root['most_champs']": {'new_value': 'Tampa Bay Storm, Arizona Rattlers (5 titles)', 'old_value': 'Tampa Bay Storm & Arizona Rattlers (5 titles)'}, "root['TV']": {'new_value': 'CBS Sports Network, ESPN', 'old_value': 'CBS Sports Network, local tv broadcasts'}}}
+433: {'values_changed': {"root['current_season']": {'new_value': '2017 Arena Football League season', 'old_value': '2018 Arena Football League season'}}}
+446: {'dictionary_item_added': {"root['teams']": '#Teams'}, 'dictionary_item_removed': {"root['folded']": '2018'}}
+447: {'values_changed': {"root['current_season']": {'new_value': '2018 Arena Football League season', 'old_value': '2017 Arena Football League season'}}}
+448: {'dictionary_item_added': {"root['folded']": '2018'}, 'dictionary_item_removed': {"root['teams']": '#Teams'}, 'values_changed': {"root['current_season']": {'new_value': '2017 Arena Football League season', 'old_value': '2018 Arena Football League season'}}}
+451: {'dictionary_item_removed': {"root['folded']": '2018'}, 'values_changed': {"root['current_season']": {'new_value': '2018 Arena Football League season', 'old_value': '2017 Arena Football League season'}}}
+453: {'dictionary_item_added': {"root['folded']": '2018'}, 'values_changed': {"root['current_season']": {'new_value': '2017 Arena Football League season', 'old_value': '2018 Arena Football League season'}}}
+497: {'dictionary_item_removed': {"root['folded']": '2018'}}
+514: {'dictionary_item_added': {"root['folded']": '2018'}, 'values_changed': {"root['commissioner']": {'new_value': 'Scott Butera', 'old_value': 'Randall Boe'}}}
+516: {'values_changed': {"root['TV']": {'new_value': 'CBS Sports Network, local tv broadcasts', 'old_value': 'CBS Sports Network, local TV broadcasts'}}}
+517: {'values_changed': {"root['TV']": {'new_value': 'CBS Sports Network, local TV broadcasts', 'old_value': 'CBS Sports Network'}}}
+529: {'dictionary_item_removed': {"root['president']": 'Ron Jaworski (Chairman of Executive Committee)'}}
+530: {'dictionary_item_added': {"root['president']": 'Ron Jaworski (Chairman of Executive Committee)'}, 'dictionary_item_removed': {"root['chairman']": 'Ron Jaworski (Chairman of Executive Committee)'}}
+531: {'dictionary_item_added': {"root['chairman']": 'Ron Jaworski (Chairman of Executive Committee)'}, 'dictionary_item_removed': {"root['president']": 'Ron Jaworski (Chairman of Executive Committee)'}}
+603: {'values_changed': {"root['most_champs']": {'new_value': 'Tampa Bay Storm & Arizona Rattlers (5 titles)', 'old_value': 'Tampa Bay Storm and Arizona Rattlers (5 titles)'}}}
+604: {'values_changed': {"root['champion']": {'new_value': 'Philadelphia Soul (3rd title)', 'old_value': 'Washington Valor (1st title)'}}}
+611: {'values_changed': {"root['headquarters']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Philadelphia, Pennsylvania'}}}
+615: {'values_changed': {"root['president']": {'new_value': 'Ron Jaworski (Chairman of Executive Committee)', 'old_value': 'John Adams'}}}
+635: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '4'}}}
+658: {'values_changed': {"root['current_season']": {'new_value': '2018 Arena Football League season', 'old_value': '2019 Arena Football League season'}}}
+675: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+722: {'values_changed': {"root['TV']": {'new_value': 'CBS Sports Network', 'old_value': 'None'}}}
+728: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+741: {'dictionary_item_added': {"root['TV']": 'None'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+746: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+767: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+777: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+792: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+793: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+803: {'dictionary_item_removed': {"root['TV']": 'AFL website, ESPN'}}
+804: {'values_changed': {"root['TV']": {'new_value': 'AFL website, ESPN', 'old_value': 'AFL website, Monumental Sports Net, ESPN'}}}
+806: {'values_changed': {"root['TV']": {'new_value': 'AFL website, Monumental Sports Net, ESPN', 'old_value': 'AFL website, Monumental Sports Net, ESPN Inc.'}}}
+807: {'dictionary_item_removed': {"root['ceased']": '2009 (original)'}}
+808: {'dictionary_item_added': {"root['ceased']": '2009 (original)'}, 'dictionary_item_removed': {"root['folded']": '2009 (original)'}}
+841: {'dictionary_item_added': {"root['folded']": '2009 (original)'}, 'values_changed': {"root['champion']": {'new_value': 'Washington Valor (1st title)', 'old_value': 'Albany Empire (1st title)'}}}
+842: {'values_changed': {"root['champion']": {'new_value': 'Albany Empire (1st title)', 'old_value': 'Albany Empire (2nd title)'}}}
+843: {'values_changed': {"root['champion']": {'new_value': 'Albany Empire (2nd title)', 'old_value': 'Albany Empire (AFL)'}}}
+845: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+846: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+873: {'dictionary_item_removed': {"root['ceased']": '2019'}}
+875: {'dictionary_item_added': {"root['ceased']": '2019'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '0'}}}
+882: {'dictionary_item_added': {"root['teams']": '0'}, 'dictionary_item_removed': {"root['folded']": '2019'}}
+890: {'dictionary_item_added': {"root['current_season']": '2019 Arena Football League season'}, 'dictionary_item_removed': {"root['last_season']": '2019 Arena Football League season'}}
+892: {'dictionary_item_added': {"root['president']": 'John Adams', "root['commissioner']": 'Randall Boe'}, 'values_changed': {"root['folded']": {'new_value': '2019', 'old_value': 'November 27, 2019 (bankruptcy)'}}}
+896: {'values_changed': {"root['folded']": {'new_value': 'November 27, 2019 (bankruptcy)', 'old_value': 'November 27, 2019 (bankruptcy)<ref name'}}}
+898: {'values_changed': {"root['folded']": {'new_value': 'November 27, 2019 (bankruptcy)<ref name', 'old_value': '2019 Arena Football League season'}}}

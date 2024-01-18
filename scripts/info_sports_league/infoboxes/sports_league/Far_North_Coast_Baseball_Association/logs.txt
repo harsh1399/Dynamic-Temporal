@@ -1,0 +1,8 @@
+91: {'dictionary_item_removed': {"root['sport']": 'baseball', "root['teams']": 'Six', "root['champion']": 'Easts Redbirds'}}
+92: {'dictionary_item_removed': {"root['Founder']": 'Laurie Thew |'}, 'values_changed': {"root['sport']": {'new_value': 'baseball', 'old_value': 'Baseball'}}}
+119: {'dictionary_item_removed': {"root['venue']": 'Baxter Field'}}
+135: {'dictionary_item_added': {"root['Founder']": 'Laurie Thew |'}, 'dictionary_item_removed': {"root['Commissioner']": 'Paul Latta |'}}
+139: {'dictionary_item_removed': {"root['Founder']": 'Laurie Thew |'}, 'values_changed': {"root['Commissioner']": {'new_value': 'Paul Latta |', 'old_value': 'Paul Latta'}}}
+179: {'values_changed': {"root['venue']": {'new_value': 'Baxter Field', 'old_value': 'Baxter Field, Lismore, New South Wales'}}}
+180: {'values_changed': {"root['venue']": {'new_value': 'Baxter Field, Lismore, New South Wales', 'old_value': 'Baxter Field'}}}
+191: {'dictionary_item_removed': {"root['Age']": 'age'}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Bandy', "root['teams']": '14', "root['champion']": 'Edsbyns IF (play-off winner) '}}
+7: {'dictionary_item_removed': {"root['current_season']": '2021–22 Elitserien (bandy)', "root['level']": 'League system', "root['domestic_cup']": 'Svenska Cupen (bandy)', "root['confed_cup']": 'Bandy World Cup', "root['most_champs']": 'Västerås SK Bandy', "root['TV']": 'https://www.bandyplay.se Bandyplay, https://www.bandypuls.se Bandypuls'}, 'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '16'}, "root['champion']": {'new_value': 'Edsbyns IF (play-off winner) ', 'old_value': 'Villa Lidköping BK,  (2020–21 Elitserien (bandy)'}}}
+9: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['champion']": {'new_value': 'Villa Lidköping BK,  (2020–21 Elitserien (bandy)', 'old_value': 'Edsbyns IF,  (2021–22 Elitserien (bandy)'}}}
+13: {'dictionary_item_removed': {"root['levels']": 'Swedish bandy league system'}, 'values_changed': {"root['current_season']": {'new_value': '2021–22 Elitserien (bandy)', 'old_value': '2022–23 Elitserien (bandy)'}}}
+14: {'dictionary_item_removed': {"root['administrator']": 'Swedish Bandy Association'}}
+22: {'values_changed': {"root['champion']": {'new_value': 'Edsbyns IF,  (2021–22 Elitserien (bandy)', 'old_value': 'Edsbyns IF,  (2021–22)'}}}
+23: {'values_changed': {"root['champion']": {'new_value': 'Edsbyns IF,  (2021–22)', 'old_value': 'Edsbyns IF (2021–22)'}}}
+24: {'values_changed': {"root['champion']": {'new_value': 'Edsbyns IF (2021–22)', 'old_value': 'Edsbyns IF, (2021–22)'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '14'}}}

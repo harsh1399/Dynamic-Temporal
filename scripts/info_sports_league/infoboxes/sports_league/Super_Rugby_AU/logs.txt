@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'Super Rugby AU', "root['countries']": 'flag', "root['matches']": '22'}}
+3: {'values_changed': {"root['countries']": {'new_value': 'flag', 'old_value': 'Australia'}}}
+42: {'dictionary_item_removed': {"root['attendance']": '5590'}, 'values_changed': {"root['matches']": {'new_value': '22', 'old_value': '1'}}}
+47: {'values_changed': {"root['matches']": {'new_value': '1', 'old_value': '2'}, "root['attendance']": {'new_value': '5590', 'old_value': '7090'}}}
+116: {'values_changed': {"root['matches']": {'new_value': '2', 'old_value': '3'}, "root['attendance']": {'new_value': '7090', 'old_value': '13980'}}}
+120: {'values_changed': {"root['matches']": {'new_value': '3', 'old_value': '12'}}}
+161: {'values_changed': {"root['matches']": {'new_value': '12', 'old_value': '18'}}}
+191: {'dictionary_item_removed': {"root['champions']": 'Rut Brumbies', "root['count']": '1'}, 'values_changed': {"root['matches']": {'new_value': '18', 'old_value': '22'}}}
+192: {'dictionary_item_removed': {"root['tries']": '125'}}
+205: {'dictionary_item_added': {"root['name']": 'Super Rugby AU', "root['countries']": 'Australia', "root['champions']": 'Rut Brumbies', "root['count']": '1', "root['matches']": '22', "root['attendance']": '13980', "root['tries']": '125'}, 'dictionary_item_removed': {"root['last_season']": '2020 Super Rugby AU season', "root['sport']": 'Rugby union', "root['inaugural']": '2020 Super Rugby AU season', "root['teams']": '5', "root['champion']": 'Rut Brumbies', "root['champ_season']": '2020 Super Rugby AU season', "root['most_champs']": 'Rut Brumbies (1 title)', "root['tv']": 'ESPN Latin America', "root['sponsor']": 'Vodafone Australia (brand)', "root['related_comps']": 'Super Rugby, Super Rugby Aotearoa, Super Rugby Unlocked'}}
+207: {'dictionary_item_removed': {"root['current_season']": '2020 Super Rugby Aotearoa season'}}
+208: {'values_changed': {"root['current_season']": {'new_value': '2020 Super Rugby Aotearoa season', 'old_value': '2020 Super Rugby AU season'}}}
+211: {'dictionary_item_added': {"root['last_season']": '2020 Super Rugby AU season'}, 'values_changed': {"root['tv']": {'new_value': 'ESPN Latin America', 'old_value': 'Nine Network, Stan (streaming service)'}}}
+212: {'values_changed': {"root['current_season']": {'new_value': '2020 Super Rugby AU season', 'old_value': '2021 Super Rugby AU season'}, "root['tv']": {'new_value': 'Nine Network, Stan (streaming service)', 'old_value': 'Nine Network, Stan (streaming service) ,  Sky Sport (New Zealand)'}}}
+216: {'values_changed': {"root['tv']": {'new_value': 'Nine Network, Stan (streaming service) ,  Sky Sport (New Zealand)', 'old_value': 'Nine Network, Stan (streaming service)'}}}
+219: {'values_changed': {"root['sponsor']": {'new_value': 'Vodafone Australia (brand)', 'old_value': 'None'}}}
+221: {'values_changed': {"root['tv']": {'new_value': 'Nine Network, Stan (streaming service)', 'old_value': 'ESPN Latin America'}}}
+223: {'values_changed': {"root['sponsor']": {'new_value': 'None', 'old_value': 'Harvey Norman'}}}
+228: {'values_changed': {"root['tv']": {'new_value': 'ESPN Latin America', 'old_value': 'Nine Network, Sky Sport (New Zealand)'}}}
+233: {'values_changed': {"root['tv']": {'new_value': 'Nine Network, Sky Sport (New Zealand)', 'old_value': 'Digicel, ESPN, ESPN International, Nine Network, Sky Sport (New Zealand)'}}}
+235: {'values_changed': {"root['champion']": {'new_value': 'Rut Brumbies', 'old_value': 'Queensland Reds'}, "root['champ_season']": {'new_value': '2020 Super Rugby AU season', 'old_value': '2021 Super Rugby AU season'}, "root['most_champs']": {'new_value': 'Rut Brumbies (1 title)', 'old_value': 'Queensland Reds (1 title)'}}}
+236: {'values_changed': {"root['champion']": {'new_value': 'Queensland Reds', 'old_value': 'Nic Berry'}, "root['most_champs']": {'new_value': 'Queensland Reds (1 title)', 'old_value': 'Nic Berry (1 title)'}}}
+237: {'values_changed': {"root['champion']": {'new_value': 'Nic Berry', 'old_value': 'Queensland Reds'}, "root['most_champs']": {'new_value': 'Nic Berry (1 title)', 'old_value': 'Queensland Reds (1 title)'}}}
+238: {'values_changed': {"root['champion']": {'new_value': 'Queensland Reds', 'old_value': 'Rut Reds'}, "root['most_champs']": {'new_value': 'Queensland Reds (1 title)', 'old_value': 'Rut Brumbies & ,  Rut Reds (1 title)'}}}
+239: {'values_changed': {"root['champion']": {'new_value': 'Rut Reds', 'old_value': 'Nic Berry'}}}
+240: {'values_changed': {"root['champion']": {'new_value': 'Nic Berry', 'old_value': 'https://en.m.wikipedia.org/wiki/Nic_Berry'}}}
+241: {'values_changed': {"root['champion']": {'new_value': 'https://en.m.wikipedia.org/wiki/Nic_Berry', 'old_value': 'Rut Reds'}}}
+242: {'values_changed': {"root['champion']": {'new_value': 'Rut Reds', 'old_value': 'Rut Reds (1st title)'}}}

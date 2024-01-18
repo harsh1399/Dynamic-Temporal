@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2019', "root['teams']": '6', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": 'St. Louis Trotters (Spring 2019)', "root['most_champs']": 'St. Louis Trotters (1)'}}
+2: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+7: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+10: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '7'}, "root['champion']": {'new_value': 'St. Louis Trotters (Spring 2019)', 'old_value': 'St. Louis Trotters (Fall 2019)'}, "root['most_champs']": {'new_value': 'St. Louis Trotters (1)', 'old_value': 'St. Louis Trotters (2)'}}}

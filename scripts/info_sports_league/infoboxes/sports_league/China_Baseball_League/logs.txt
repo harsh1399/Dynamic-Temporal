@@ -1,0 +1,5 @@
+25: {'dictionary_item_removed': {"root['pixels']": 'hi', "root['sport']": 'Baseball', "root['teams']": '7', "root['continent']": 'Asia', "root['champion']": 'Tianjin Lions (5th title)', "root['most_champs']": 'Tianjin Lions (5 titles)'}}
+27: {'dictionary_item_removed': {"root['folded']": '543', "root['ceo']": 'Erik Kiewlack'}, 'values_changed': {"root['sport']": {'new_value': 'Baseball', 'old_value': 'Boxing'}}}
+28: {'dictionary_item_added': {"root['pixels']": 'hi', "root['folded']": '543', "root['ceo']": 'Erik Kiewlack'}, 'values_changed': {"root['sport']": {'new_value': 'Boxing', 'old_value': 'Baseball'}}}
+33: {'dictionary_item_removed': {"root['levels']": '1', "root['qualification']": 'Asia Series  (2005–2008, 2012)'}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '#Current clubs'}, "root['champion']": {'new_value': 'Tianjin Lions (5th title)', 'old_value': 'Tianjin Lions (6th title)'}, "root['most_champs']": {'new_value': 'Tianjin Lions (5 titles)', 'old_value': 'Tianjin Lions (6 titles)'}}}
+37: {'dictionary_item_removed': {"root['folded']": '2016'}}

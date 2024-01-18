@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['established']": '2012', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'Division II (NCAA)', "root['members']": '8', "root['sports']": '1', "root['mens']": '1', "root['womens']": '0', "root['region']": 'United States', "root['hq_city']": 'Centerville', "root['hq_stateabb']": 'MA', "root['hq_state']": 'Massachusetts', "root['commissioner']": 'Rudy Keeling', "root['since']": '2012', "root['color']": '#000000', "root['font_color']": 'white'}}
+2: {'dictionary_item_added': {"root['color']": '#000000', "root['font_color']": 'white'}, 'dictionary_item_removed': {"root['map']": 'ECACDIILax-USA-states.png'}}
+11: {'values_changed': {"root['members']": {'new_value': '8', 'old_value': '9'}}}
+15: {'values_changed': {"root['division']": {'new_value': 'Division II (NCAA)', 'old_value': 'NCAA Division II'}}}
+16: {'values_changed': {"root['members']": {'new_value': '9', 'old_value': '3'}}}
+18: {'dictionary_item_removed': {"root['dissolved']": '2016'}, 'values_changed': {"root['members']": {'new_value': '3', 'old_value': '9'}, "root['hq_city']": {'new_value': 'Centerville', 'old_value': 'Danbury'}, "root['hq_stateabb']": {'new_value': 'MA', 'old_value': 'CT'}, "root['hq_state']": {'new_value': 'Massachusetts', 'old_value': 'Connecticut'}}}

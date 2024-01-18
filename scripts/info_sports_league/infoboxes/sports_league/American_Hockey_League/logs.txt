@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['president']": 'David Andrews', "root['teams']": '29', "root['champion']": 'Hershey Bears', "root['most_champs']": 'Hershey Bears (10)', "root['current_season']": '2009–10 AHL season '}}
+8: {'values_changed': {"root['most_champs']": {'new_value': 'Hershey Bears (10)', 'old_value': 'Hershey Bears (11)'}}}
+9: {'values_changed': {"root['most_champs']": {'new_value': 'Hershey Bears (11)', 'old_value': 'Hershey Bears (10)'}}}
+88: {'dictionary_item_added': {"root['president']": 'David Andrews'}, 'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '30'}}}
+89: {'dictionary_item_removed': {"root['president']": 'David Andrews'}, 'values_changed': {"root['teams']": {'new_value': '30', 'old_value': '29'}}}
+90: {'dictionary_item_added': {"root['president']": 'David Andrews'}, 'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '30'}}}
+94: {'dictionary_item_removed': {"root['president']": 'David Andrews'}, 'values_changed': {"root['teams']": {'new_value': '30', 'old_value': '29'}}}
+154: {'values_changed': {"root['current_season']": {'new_value': '2009–10 AHL season ', 'old_value': '2010 Calder Cup Playoffs '}}}
+162: {'values_changed': {"root['most_champs']": {'new_value': 'Hershey Bears (10)', 'old_value': 'Hershey Bears (11)'}}}
+171: {'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '30'}}}
+184: {'values_changed': {"root['current_season']": {'new_value': '2010 Calder Cup Playoffs ', 'old_value': '2010-2011 Season '}}}
+185: {'values_changed': {"root['current_season']": {'new_value': '2010-2011 Season ', 'old_value': '2010-2011 American Hockey League season '}}}
+186: {'values_changed': {"root['current_season']": {'new_value': '2010-2011 American Hockey League season ', 'old_value': '2010-2011 AHL season '}}}
+187: {'values_changed': {"root['current_season']": {'new_value': '2010-2011 AHL season ', 'old_value': '2010–11 AHL season '}}}
+256: {'dictionary_item_removed': {"root['countries']": 'United States (26 teams), Canada (5 teams)', "root['TV']": 'Canada (English): Sportsnet/Sportsnet One ,  Canada (French): Réseau des sports ,  Europe: Premier Sports ,  United States (English): NHL Network (United States)'}, 'values_changed': {"root['president']": {'new_value': 'David Andrews', 'old_value': 'Scott Howson'}, "root['teams']": {'new_value': '30', 'old_value': '31'}, "root['champion']": {'new_value': 'Hershey Bears', 'old_value': 'Charlotte Checkers (1st title)'}, "root['most_champs']": {'new_value': 'Hershey Bears (11)', 'old_value': 'Hershey Bears (11) http://theahl.com/team-records-s11576 "Calder Cup Record Book" Webarchive'}, "root['current_season']": {'new_value': '2010–11 AHL season ', 'old_value': '2021–22 AHL season '}}}
+268: {'values_changed': {"root['teams']": {'new_value': '31', 'old_value': '32'}, "root['countries']": {'new_value': 'United States (26 teams), Canada (5 teams)', 'old_value': 'United States (26 teams), Canada (6 teams)'}, "root['champion']": {'new_value': 'Charlotte Checkers (1st title)', 'old_value': 'Chicago Wolves (5th title)'}, "root['current_season']": {'new_value': '2021–22 AHL season ', 'old_value': '2022–23 AHL season '}}}
+269: {'values_changed': {"root['champion']": {'new_value': 'Chicago Wolves (5th title)', 'old_value': 'Chicago Wolves (3rd title)'}}}
+270: {'values_changed': {"root['teams']": {'new_value': '32', 'old_value': '31'}}}
+272: {'values_changed': {"root['countries']": {'new_value': 'United States (26 teams), Canada (6 teams)', 'old_value': 'United States (25  teams), Canada (6 teams)'}}}
+274: {'values_changed': {"root['teams']": {'new_value': '31', 'old_value': '32'}, "root['countries']": {'new_value': 'United States (25  teams), Canada (6 teams)', 'old_value': 'United States (26 teams), Canada (6 teams)'}}}

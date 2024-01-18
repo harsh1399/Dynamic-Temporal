@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['upcoming_season']": '2017 ANZ Premiership season', "root['sport']": 'Netball', "root['replaced']": 'ANZ Championship', "root['inaugural']": '2017', "root['teams']": '#Current teams', "root['tv']": 'Sky Sport (New Zealand)', "root['sponsor']": 'ANZ Bank New Zealand'}}
+13: {'dictionary_item_added': {"root['upcoming_season']": '2017 ANZ Premiership season', "root['replaced']": 'ANZ Championship'}, 'dictionary_item_removed': {"root['current_season']": '2017 ANZ Premiership season'}}
+17: {'dictionary_item_added': {"root['current_season']": '2017 ANZ Premiership season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2021 ANZ Premiership season', "root['champion']": 'Northern Mystics (2021 ANZ Premiership season'}, 'values_changed': {"root['teams']": {'new_value': '#Current teams', 'old_value': '6'}}}
+21: {'values_changed': {"root['upcoming_season']": {'new_value': '2021 ANZ Premiership season', 'old_value': '2022 ANZ Premiership season'}}}
+22: {'values_changed': {"root['champion']": {'new_value': 'Northern Mystics (2021 ANZ Premiership season', 'old_value': 'Central Pulse (2022 ANZ Premiership season'}}}
+25: {'dictionary_item_added': {"root['upcoming_season']": '2022 ANZ Premiership season'}, 'dictionary_item_removed': {"root['current_season']": '2022 ANZ Premiership season', "root['owner']": 'Netball New Zealand', "root['most_champs']": 'Central Pulse, (3 titles)', "root['related_comps']": 'National Netball League (New Zealand)', "root['levels']": '1'}, 'values_changed': {"root['inaugural']": {'new_value': '2017', 'old_value': '2017 ANZ Premiership season'}, "root['champion']": {'new_value': 'Central Pulse (2022 ANZ Premiership season', 'old_value': 'Central Pulse, (3 titles)'}}}
+35: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+40: {'values_changed': {"root['level']": {'new_value': 'League system', 'old_value': '1'}}}
+44: {'values_changed': {"root['level']": {'new_value': '1', 'old_value': 'League system'}}}
+45: {'dictionary_item_removed': {"root['formerly']": 'ANZ Championship'}}
+51: {'dictionary_item_removed': {"root['champ_season']": '2022 ANZ Premiership season'}, 'values_changed': {"root['champion']": {'new_value': 'Central Pulse, (3 titles)', 'old_value': 'Central Pulse (3rd title)'}}}
+52: {'values_changed': {"root['most_champs']": {'new_value': 'Central Pulse, (3 titles)', 'old_value': 'Central Pulse (3 titles)'}}}
+56: {'dictionary_item_added': {"root['owner']": 'Netball New Zealand'}, 'dictionary_item_removed': {"root['administrator']": 'Netball New Zealand'}}
+61: {'values_changed': {"root['level']": {'new_value': 'League system', 'old_value': '1'}}}
+63: {'values_changed': {"root['related_comps']": {'new_value': 'National Netball League (New Zealand)', 'old_value': 'Netball New Zealand Super Club'}}}
+73: {'values_changed': {"root['current_season']": {'new_value': '2022 ANZ Premiership season', 'old_value': '2023 ANZ Premiership season'}}}
+78: {'values_changed': {"root['champion']": {'new_value': 'Central Pulse (3rd title)', 'old_value': 'Northern Mystics (2nd title)'}, "root['champ_season']": {'new_value': '2022 ANZ Premiership season', 'old_value': '2023 ANZ Premiership season'}}}
+79: {'values_changed': {"root['champ_season']": {'new_value': '2023 ANZ Premiership season', 'old_value': '2022 ANZ Premiership season'}}}

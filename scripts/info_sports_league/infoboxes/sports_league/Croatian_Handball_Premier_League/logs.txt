@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Croatian Premier League', "root['confed']": 'European Handball Federation', "root['teams']": '12', "root['confed_cup']": 'EHF Champions League EHF Cup EHF Challenge Cup SEHA League', "root['champions']": 'RK Zagreb (2018–19)', "root['most_successful_club']": 'RK Zagreb (26)', "root['current']": '2020–21 season '}}
+4: {'values_changed': {"root['champions']": {'new_value': 'RK Zagreb (2018–19)', 'old_value': 'RK Zagreb (2021/22)'}}}
+5: {'dictionary_item_added': {"root['current']": '2020–21 season '}, 'values_changed': {"root['most_successful_club']": {'new_value': 'RK Zagreb (26)', 'old_value': 'RK Zagreb'}}}
+6: {'values_changed': {"root['confed_cup']": {'new_value': 'EHF Champions League EHF Cup EHF Challenge Cup SEHA League', 'old_value': 'EHF Champions League EHF Cup EHF European Cup SEHA League'}}}
+7: {'values_changed': {"root['confed_cup']": {'new_value': 'EHF Champions League EHF Cup EHF European Cup SEHA League', 'old_value': 'EHF Champions League EHF European League EHF European Cup SEHA League'}}}
+8: {'dictionary_item_removed': {"root['inaugural']": '1991'}}
+13: {'dictionary_item_added': {"root['inaugural']": '1991', "root['most_successful_club']": 'RK Zagreb'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '16'}}}

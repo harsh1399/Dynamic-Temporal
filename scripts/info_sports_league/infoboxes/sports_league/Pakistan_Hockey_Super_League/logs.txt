@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pakistan Hockey League', "root['administrator']": 'Hockey Pakistan', "root['headquarter']": 'Lahore, Pakistan', "root['tformat']": 'Round-robin tournament', "root['first']": '2016 Hockey India League', "root['participants']": 'Pakistan Hockey League#Franchises', "root['TV']": '#Broadcasting'}}
+1: {'dictionary_item_added': {"root['tformat']": 'Round-robin tournament'}, 'dictionary_item_removed': {"root['format']": 'Round-robin tournament'}, 'values_changed': {"root['participants']": {'new_value': 'Pakistan Hockey League#Franchises', 'old_value': '#Teams'}}}
+4: {'values_changed': {"root['administrator']": {'new_value': 'Hockey Pakistan', 'old_value': 'Pakistan Hockey Federation'}, "root['first']": {'new_value': '2016 Hockey India League', 'old_value': 'Pakistan Hockey League'}}}
+71: {'values_changed': {"root['first']": {'new_value': 'Pakistan Hockey League', 'old_value': '2016 Pakistan Hockey League'}}}
+77: {'dictionary_item_added': {"root['format']": 'Round-robin tournament'}, 'dictionary_item_removed': {"root['tformat']": 'Round-robin tournament'}}
+79: {'dictionary_item_removed': {"root['venues']": '2016 Pakistan Hockey League#Venues'}}
+80: {'values_changed': {"root['venues']": {'new_value': '2016 Pakistan Hockey League#Venues', 'old_value': '3'}}}
+81: {'dictionary_item_added': {"root['venues']": '3'}, 'dictionary_item_removed': {"root['champions']": 'TBA'}}
+82: {'dictionary_item_removed': {"root['current']": '2016 Pakistan Hockey League '}}
+83: {'dictionary_item_removed': {"root['next']": '2017'}}
+98: {'values_changed': {"root['name']": {'new_value': 'Pakistan Hockey League', 'old_value': 'Pakistan Pro Hockey League'}}}
+109: {'values_changed': {"root['first']": {'new_value': '2016 Pakistan Hockey League', 'old_value': '2017'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Pakistan Pro Hockey League', 'old_value': 'Pakistan Hockey League'}}}
+116: {'dictionary_item_added': {"root['name']": 'Pakistan Hockey League', "root['headquarter']": 'Lahore, Pakistan', "root['tformat']": 'Round-robin tournament', "root['first']": '2017', "root['next']": '2017', "root['participants']": '#Teams', "root['champions']": 'TBA', "root['current']": '2016 Pakistan Hockey League '}, 'dictionary_item_removed': {"root['sport']": 'Field hockey', "root['confed']": 'Asian Hockey Federation', "root['headquarters']": 'Lahore, Punjab, Pakistan', "root['tournament_format']": 'Round-robin tournament', "root['teams']": '#Teams', "root['current_season']": '2021 Pakistan Hockey Super League '}, 'values_changed': {"root['TV']": {'new_value': '#Broadcasting', 'old_value': 'PTV Sports ,  Ten Sports ,  Geo Super'}}}
+117: {'values_changed': {"root['current_season']": {'new_value': '2021 Pakistan Hockey Super League ', 'old_value': '2022 Pakistan Hockey Super League '}}}
+122: {'dictionary_item_added': {"root['current_season']": '2022 Pakistan Hockey Super League '}, 'dictionary_item_removed': {"root['upcoming_season']": '2022', "root['inaugural']": '2022'}}
+126: {'dictionary_item_added': {"root['upcoming_season']": '2022'}, 'values_changed': {"root['TV']": {'new_value': 'PTV Sports ,  Ten Sports ,  Geo Super', 'old_value': 'PTV Sports'}}}
+141: {'values_changed': {"root['confed']": {'new_value': 'Asian Hockey Federation', 'old_value': 'Federation International Hockey'}, "root['TV']": {'new_value': 'PTV Sports', 'old_value': 'PTV Sports GEO SUPER'}}}
+144: {'values_changed': {"root['confed']": {'new_value': 'Federation International Hockey', 'old_value': 'International Hockey Federation'}, "root['TV']": {'new_value': 'PTV Sports GEO SUPER', 'old_value': 'PTV Sports Geo Super'}}}
+147: {'values_changed': {"root['confed']": {'new_value': 'International Hockey Federation', 'old_value': 'Asian Hockey Federation'}, "root['TV']": {'new_value': 'PTV Sports Geo Super', 'old_value': 'PTV Sports'}}}
+152: {'dictionary_item_added': {"root['inaugural']": '2022'}, 'dictionary_item_removed': {"root['current_season']": '2022 Pakistan Hockey Super League '}, 'values_changed': {"root['TV']": {'new_value': 'PTV Sports', 'old_value': 'PTV Sports ,  Ten Sports ,  Geo Super'}}}
+153: {'dictionary_item_removed': {"root['inaugural']": '2022'}}
+162: {'dictionary_item_removed': {"root['level']": 'League system'}}

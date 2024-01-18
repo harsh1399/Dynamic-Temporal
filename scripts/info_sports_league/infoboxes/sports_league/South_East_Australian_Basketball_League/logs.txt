@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '1981', "root['director']": 'Paul Maley', "root['teams']": "'''M:''' 16   '''W:''' 16", "root['champion']": "'''M:''' Mount Gambier Pioneers (4th national title)   '''W:''' Geelong Supercats (1st title)", "root['most_champs']": "'''M:''' Bendigo Braves (7 conference titles)   '''W:''' Dandenong Rangers (8 titles)"}}
+12: {'values_changed': {"root['champion']": {'new_value': "'''M:''' Mount Gambier Pioneers (4th national title)   '''W:''' Geelong Supercats (1st title)", 'old_value': "'''M:''' Hobart Chargers (4th national title)   '''W:''' Bendigo Braves (6th title)"}}}
+13: {'values_changed': {"root['champion']": {'new_value': "'''M:''' Hobart Chargers (4th national title)   '''W:''' Bendigo Braves (6th title)", 'old_value': "'''M:''' Hobart Chargers (4th title)   '''W:''' Bendigo Braves (6th title)"}}}
+19: {'values_changed': {"root['inaugural']": {'new_value': '1981', 'old_value': '1981 Ended'}}}
+20: {'values_changed': {"root['inaugural']": {'new_value': '1981 Ended', 'old_value': '1981 Final season 2018'}}}
+21: {'values_changed': {"root['inaugural']": {'new_value': '1981 Final season 2018', 'old_value': '1981'}}}
+22: {'dictionary_item_added': {"root['director']": 'Paul Maley', "root['teams']": "'''M:''' 16   '''W:''' 16"}, 'dictionary_item_removed': {"root['folded']": '2018'}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '?'}}
+2: {'dictionary_item_removed': {"root['commissioner']": 'Chris Hall'}}
+3: {'dictionary_item_removed': {"root['current_season']": '2021 FCBL season', "root['champion']": 'Vermont Lake Monsters', "root['most_champs']": '5, Nashua Silver Knights'}, 'values_changed': {"root['teams']": {'new_value': '?', 'old_value': '8'}, "root['commissioner']": {'new_value': 'Chris Hall', 'old_value': 'Joe Paolucci'}}}
+16: {'values_changed': {"root['champion']": {'new_value': 'Vermont Lake Monsters', 'old_value': 'Nashua Silver Knights'}}}
+18: {'values_changed': {"root['most_champs']": {'new_value': '5, Nashua Silver Knights', 'old_value': '6, Nashua Silver Knights'}}}
+23: {'values_changed': {"root['current_season']": {'new_value': '2021 FCBL season', 'old_value': '2022 FCBL season'}}}

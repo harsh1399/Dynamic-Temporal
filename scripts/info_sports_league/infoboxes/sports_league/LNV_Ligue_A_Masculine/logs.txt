@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021-22 LNV Ligue A Masculine', "root['sport']": 'Volleyball', "root['inaugural']": '1938', "root['teams']": '14', "root['continent']": 'Europe', "root['confed']": 'European Volleyball Confederation', "root['administrator']": 'Ligue Nationale de Volley', "root['champion']": 'AS Cannes Volley-Ball', "root['most_champs']": 'AS Cannes Volley-Ball', "root['President']": 'Yves Bouget small', "root['TV']": 'Sport en France'}}
+6: {'dictionary_item_removed': {"root['domestic_cup']": 'French Cup', "root['confed_cup']": 'nobreak'}, 'values_changed': {"root['current_season']": {'new_value': '2021-22 LNV Ligue A Masculine', 'old_value': '2021 LNV Ligue A Masculine'}, "root['inaugural']": {'new_value': '1938', 'old_value': 'Start date and age'}}}
+7: {'dictionary_item_removed': {"root['level']": '1'}}
+11: {'values_changed': {"root['domestic_cup']": {'new_value': 'French Cup', 'old_value': 'Coupe de France ,  Supercoupe'}}}
+26: {'values_changed': {"root['current_season']": {'new_value': '2021 LNV Ligue A Masculine', 'old_value': '2021-22 LNV Ligue A Masculine'}}}
+62: {'values_changed': {"root['current_season']": {'new_value': '2021-22 LNV Ligue A Masculine', 'old_value': '2021-22 LNV Ligue A'}}}
+63: {'values_changed': {"root['current_season']": {'new_value': '2021-22 LNV Ligue A', 'old_value': '2021-22 LNV Ligue A Masculine'}}}
+67: {'dictionary_item_added': {"root['level']": '1', "root['President']": 'Yves Bouget small'}, 'values_changed': {"root['administrator']": {'new_value': 'Ligue Nationale de Volley', 'old_value': 'LNV'}}}
+78: {'dictionary_item_added': {"root['administrator']": 'LNV', "root['domestic_cup']": 'Coupe de France ,  Supercoupe'}, 'values_changed': {"root['champion']": {'new_value': 'AS Cannes Volley-Ball', 'old_value': 'Montpellier HSC VB (8th title),  (2022)'}}}
+80: {'values_changed': {"root['champion']": {'new_value': 'Montpellier HSC VB (8th title),  (2022)', 'old_value': 'Montpellier Volley'}}}
+82: {'values_changed': {"root['champion']": {'new_value': 'Montpellier Volley', 'old_value': 'Montpellier Volley (8th title),  (2022)'}}}
+83: {'dictionary_item_removed': {"root['champ_seasons']": '2021-22'}, 'values_changed': {"root['champion']": {'new_value': 'Montpellier Volley (8th title),  (2022)', 'old_value': 'Montpellier Volley'}}}
+84: {'dictionary_item_added': {"root['champ_seasons']": '2021-22'}, 'dictionary_item_removed': {"root['champ_season']": '2021-22'}}
+86: {'values_changed': {"root['current_season']": {'new_value': '2021-22 LNV Ligue A Masculine', 'old_value': '2022-23 LNV Ligue A Masculine'}}}

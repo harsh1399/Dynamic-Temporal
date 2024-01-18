@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2016 IQA World Cup', "root['last_season']": '2014 IQA Global Games', "root['formerly']": 'Summer Games, Global Games', "root['sport']": 'Quidditch', "root['inaugural']": '2012 IQA Summer Games', "root['teams']": '21', "root['champion']": 'quid', "root['most_champs']": 'quid'}}
+6: {'values_changed': {"root['current_season']": {'new_value': '2016 IQA World Cup', 'old_value': '2018 IQA World Cup'}, "root['last_season']": {'new_value': '2014 IQA Global Games', 'old_value': '2016 IQA World Cup'}}}
+19: {'values_changed': {"root['teams']": {'new_value': '21', 'old_value': 'Varies'}}}
+29: {'dictionary_item_added': {"root['current_season']": '2018 IQA World Cup'}, 'values_changed': {"root['last_season']": {'new_value': '2016 IQA World Cup', 'old_value': '2018 IQA World Cup'}}}

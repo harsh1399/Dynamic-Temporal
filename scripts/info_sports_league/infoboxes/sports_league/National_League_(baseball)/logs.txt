@@ -1,0 +1,31 @@
+24: {'dictionary_item_removed': {"root['current_season']": '2008 Major League Baseball season', "root['sport']": 'Baseball', "root['teams']": '16', "root['champion']": 'Colorado Rockies'}}
+76: {'values_changed': {"root['champion']": {'new_value': 'Colorado Rockies', 'old_value': "Colorado Rockies''Italic text''"}}}
+77: {'values_changed': {"root['champion']": {'new_value': "Colorado Rockies''Italic text''", 'old_value': 'Colorado Rockies'}}}
+79: {'values_changed': {"root['current_season']": {'new_value': '2008 Major League Baseball season', 'old_value': '2008 National League Division Series'}}}
+81: {'values_changed': {"root['current_season']": {'new_value': '2008 National League Division Series', 'old_value': '2008 National League Championship Series'}}}
+82: {'values_changed': {"root['champion']": {'new_value': 'Colorado Rockies', 'old_value': 'Philadelphia Phillies'}}}
+84: {'values_changed': {"root['champion']": {'new_value': 'Philadelphia Phillies', 'old_value': 'St. Louis Cardinals'}}}
+85: {'values_changed': {"root['champion']": {'new_value': 'St. Louis Cardinals', 'old_value': 'Montreal Expos'}}}
+86: {'values_changed': {"root['champion']": {'new_value': 'Montreal Expos', 'old_value': 'Philadelphia Phillies'}}}
+93: {'values_changed': {"root['current_season']": {'new_value': '2008 National League Championship Series', 'old_value': '2008 World Series'}}}
+108: {'dictionary_item_added': {"root['current_season']": '2008 World Series'}, 'dictionary_item_removed': {"root['most_champs']": 'San Francisco Giants (23)', "root['President']": 'Bill Giles (honorary) '}, 'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '15'}, "root['champion']": {'new_value': 'Philadelphia Phillies', 'old_value': 'Chicago Cubs (17th)'}}}
+129: {'values_changed': {"root['President']": {'new_value': 'Bill Giles (honorary) ', 'old_value': 'John Vonck (honorary) '}}}
+131: {'values_changed': {"root['President']": {'new_value': 'John Vonck (honorary) ', 'old_value': 'Bill Giles (honorary) '}}}
+132: {'values_changed': {"root['President']": {'new_value': 'Bill Giles (honorary) ', 'old_value': 'Bill Giles (honorary)da'}}}
+133: {'dictionary_item_added': {"root['President']": 'Bill Giles (honorary)da'}, 'dictionary_item_removed': {"root['league']": 'Major League Baseball'}, 'values_changed': {"root['most_champs']": {'new_value': 'San Francisco Giants (23)', 'old_value': 'San Francisco Giants (23)  '}}}
+136: {'dictionary_item_added': {"root['league']": 'Major League Baseball'}, 'dictionary_item_removed': {"root['President']": 'Bill Giles (honorary)da'}, 'values_changed': {"root['most_champs']": {'new_value': 'San Francisco Giants (23)  ', 'old_value': 'San Francisco Giants (23)'}}}
+137: {'values_changed': {"root['President']": {'new_value': 'Bill Giles (honorary)da', 'old_value': 'Bill Giles (honorary) |'}}}
+144: {'values_changed': {"root['champion']": {'new_value': 'Chicago Cubs (17th)', 'old_value': 'Chicago Cubs (3rd)'}, "root['most_champs']": {'new_value': 'San Francisco Giants (23)', 'old_value': 'St.Louis Cardinals (11)'}}}
+145: {'values_changed': {"root['champion']": {'new_value': 'Chicago Cubs (3rd)', 'old_value': 'Chicago Cubs (17th)'}, "root['most_champs']": {'new_value': 'St.Louis Cardinals (11)', 'old_value': 'San Francisco Giants (23)'}}}
+146: {'values_changed': {"root['champion']": {'new_value': 'Chicago Cubs (17th)', 'old_value': 'Los Angeles Dodgers (18th)'}}}
+148: {'values_changed': {"root['champion']": {'new_value': 'Los Angeles Dodgers (18th)', 'old_value': 'Chicago Cubs (17th)'}}}
+149: {'values_changed': {"root['champion']": {'new_value': 'Chicago Cubs (17th)', 'old_value': 'Chicago Cubs (17th title)'}, "root['most_champs']": {'new_value': 'San Francisco Giants (23)', 'old_value': 'San Francisco Giants (23 titles)'}}}
+152: {'dictionary_item_removed': {"root['pixels']": '125'}}
+153: {'values_changed': {"root['pixels']": {'new_value': '125', 'old_value': '200'}}}
+158: {'values_changed': {"root['most_champs']": {'new_value': 'San Francisco Giants (23 titles)', 'old_value': 'New York Yankees (23 titles)'}}}
+159: {'values_changed': {"root['most_champs']": {'new_value': 'New York Yankees (23 titles)', 'old_value': 'San Francisco Giants (23 titles)'}}}
+162: {'values_changed': {"root['champion']": {'new_value': 'Chicago Cubs (17th title)', 'old_value': 'Los Angeles Dodgers (22nd title)'}}}
+164: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '30'}, "root['most_champs']": {'new_value': 'San Francisco Giants (23 titles)', 'old_value': 'New York Yankees (27 titles)'}}}
+165: {'values_changed': {"root['teams']": {'new_value': '30', 'old_value': '15'}, "root['most_champs']": {'new_value': 'New York Yankees (27 titles)', 'old_value': 'San Francisco Giants (23 titles)'}}}
+168: {'values_changed': {"root['champion']": {'new_value': 'Los Angeles Dodgers (22nd title)', 'old_value': 'Los Angeles Dodgers who will not win the World Series  (22nd title)'}}}
+169: {'values_changed': {"root['champion']": {'new_value': 'Los Angeles Dodgers who will not win the World Series  (22nd title)', 'old_value': 'Los Angeles Dodgers (22nd title)'}}}

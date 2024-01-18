@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ukrainian Supreme League', "root['pixels']": '150', "root['teams']": '15', "root['champ']": 'Ukrainian Championship', "root['champions']": 'Sokil Kyiv', "root['season']": '2007-08'}}
+4: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '13'}}}
+11: {'values_changed': {"root['pixels']": {'new_value': '150', 'old_value': '200'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'Ukrainian Supreme League', 'old_value': 'Ukrainian Major League'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Ukrainian Major League', 'old_value': 'Major League'}}}
+26: {'values_changed': {"root['season']": {'new_value': '2007-08', 'old_value': '2009'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '15'}}}
+40: {'dictionary_item_added': {"root['name']": 'Major League', "root['pixels']": '200', "root['champ']": 'Ukrainian Championship', "root['champions']": 'Sokil Kyiv', "root['season']": '2009'}, 'dictionary_item_removed': {"root['current_season']": '2021–22 Ukrainian Hockey League season', "root['champion']": 'HK Kremenchuk (1st title)', "root['most_champs']": 'Sokil Kyiv (12)'}, 'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '8'}}}
+46: {'dictionary_item_added': {"root['champion']": 'HK Kremenchuk (1st title)'}, 'dictionary_item_removed': {"root['sport']": 'Ice Hockey'}}

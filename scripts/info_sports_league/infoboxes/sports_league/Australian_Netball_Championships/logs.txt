@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Netball', "root['teams']": '8', "root['champion']": 'Collingwood Magpies Netball#Tasmanian Magpies', "root['most_champs']": 'Melbourne Vixens#Victorian Fury', "root['sponsor']": 'Deakin University', "root['levels']": '2'}}
+3: {'values_changed': {"root['champion']": {'new_value': 'Collingwood Magpies Netball#Tasmanian Magpies', 'old_value': 'Melbourne Vixens#Victorian Fury'}}}
+14: {'dictionary_item_added': {"root['sport']": 'Netball'}, 'dictionary_item_removed': {"root['owner']": 'Netball Australia'}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}, "root['champion']": {'new_value': 'Melbourne Vixens#Victorian Fury', 'old_value': 'Victorian Fury'}, "root['most_champs']": {'new_value': 'Melbourne Vixens#Victorian Fury', 'old_value': 'Victorian Fury, (8 titles)'}}}
+34: {'values_changed': {"root['champion']": {'new_value': 'Victorian Fury', 'old_value': 'Victorian Fury (2019)'}}}
+40: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10 (2021)'}}}

@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['president']": 'Ken Carson', "root['classification']": 'Class A-Advanced', "root['teams']": '12', "root['champion']": 'Fort Myers Miracle (2018)', "root['most_champs']": 'Orlando Twins (7)'}}
+14: {'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'Low Single-A'}}}
+17: {'values_changed': {"root['classification']": {'new_value': 'Low Single-A', 'old_value': 'Class A (baseball)'}, "root['teams']": {'new_value': '12', 'old_value': '10'}}}
+25: {'values_changed': {"root['president']": {'new_value': 'Ken Carson', 'old_value': 'Terry Reynolds'}}}
+32: {'dictionary_item_removed': {"root['folded']": 'by'}}
+38: {'dictionary_item_removed': {"root['replaced']": 'Low-A Southeast'}}
+42: {'values_changed': {"root['classification']": {'new_value': 'Class A (baseball)', 'old_value': 'Class A-Advanced'}}}
+50: {'dictionary_item_added': {"root['most_champs']": 'Orlando Twins (7)'}, 'values_changed': {"root['champion']": {'new_value': 'Fort Myers Miracle (2018)', 'old_value': 'Bradenton Marauders 2021'}}}
+52: {'values_changed': {"root['champion']": {'new_value': 'Bradenton Marauders 2021', 'old_value': 'Fort Myers Miracle (2018)'}}}
+55: {'dictionary_item_added': {"root['folded']": 'by'}, 'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'Low-A (2022), Class A-Advanced (1919-2020)'}}}
+59: {'values_changed': {"root['champion']": {'new_value': 'Fort Myers Miracle (2018)', 'old_value': 'Bradenton Marauders (2021)'}, "root['replaced']": {'new_value': 'Low-A Southeast', 'old_value': 'Low-A Southeast (2021)'}}}
+62: {'dictionary_item_removed': {"root['folded']": "2020  '''Resumed 2022'''"}, 'values_changed': {"root['replaced']": {'new_value': 'Low-A Southeast (2021)', 'old_value': 'Low-A Southeast'}}}
+64: {'dictionary_item_added': {"root['folded']": "2020  '''Resumed 2022'''", "root['replaced']": 'Low-A Southeast', "root['president']": 'Terry Reynolds'}, 'values_changed': {"root['classification']": {'new_value': 'Low-A (2022), Class A-Advanced (1919-2020)', 'old_value': 'Single-A (2021–present), Class A-Advanced (1990–2020)'}}}
+68: {'values_changed': {"root['classification']": {'new_value': 'Single-A (2021–present), Class A-Advanced (1990–2020)', 'old_value': 'Single-A (2021–present) Class A-Advanced (1990–2020)'}}}
+75: {'values_changed': {"root['classification']": {'new_value': 'Single-A (2021–present) Class A-Advanced (1990–2020)', 'old_value': 'Class A (baseball)'}}}
+76: {'values_changed': {"root['champion']": {'new_value': 'Bradenton Marauders (2021)', 'old_value': 'St. Lucie Mets (2022)'}}}

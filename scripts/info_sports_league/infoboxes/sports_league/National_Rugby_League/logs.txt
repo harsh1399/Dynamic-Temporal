@@ -1,0 +1,57 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2020 NRL season', "root['sport']": 'Rugby league', "root['CEO']": 'Andrew Abdo (interim)', "root['teams']": '16', "root['levels']": '1', "root['confed_cup']": 'World Club Challenge', "root['champions']": 'league icon', "root['most_champs']": 'league icon', "root['tv']": 'Nine Network, Fox League,  Sky Sport (New Zealand)'}}
+9: {'values_changed': {"root['current_season']": {'new_value': '2020 NRL season', 'old_value': '20201 NRL season'}}}
+10: {'values_changed': {"root['current_season']": {'new_value': '20201 NRL season', 'old_value': '2021 NRL season'}}}
+32: {'dictionary_item_removed': {"root['inaugural']": '1998'}}
+47: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '46'}, "root['levels']": {'new_value': '1', 'old_value': '3'}}}
+48: {'values_changed': {"root['levels']": {'new_value': '3', 'old_value': '1'}}}
+52: {'values_changed': {"root['teams']": {'new_value': '46', 'old_value': '16'}}}
+69: {'values_changed': {"root['CEO']": {'new_value': 'Andrew Abdo (interim)', 'old_value': 'Reg Regan (interim)'}}}
+71: {'values_changed': {"root['CEO']": {'new_value': 'Reg Regan (interim)', 'old_value': 'Andrew Abdo (interim)'}}}
+80: {'values_changed': {"root['CEO']": {'new_value': 'Andrew Abdo (interim)', 'old_value': 'Denan Kemp (interim)'}}}
+81: {'values_changed': {"root['CEO']": {'new_value': 'Denan Kemp (interim)', 'old_value': 'Andrew Abdo (interim)'}}}
+98: {'values_changed': {"root['current_season']": {'new_value': '2021 NRL season', 'old_value': '200012 NDRL season'}}}
+99: {'values_changed': {"root['current_season']": {'new_value': '200012 NDRL season', 'old_value': '2021 NRL season'}}}
+103: {'values_changed': {"root['most_champs']": {'new_value': 'league icon', 'old_value': 'league icon Cronulla Sharks'}}}
+104: {'values_changed': {"root['most_champs']": {'new_value': 'league icon Cronulla Sharks', 'old_value': 'league icon'}}}
+131: {'values_changed': {"root['tv']": {'new_value': 'Nine Network, Fox League,  Sky Sport (New Zealand)', 'old_value': 'flagicon'}}}
+202: {'dictionary_item_added': {"root['CEO']": 'Andrew Abdo (interim)'}, 'dictionary_item_removed': {"root['last_season']": '2020 NRL season', "root['upcoming_season']": '2022 NRL season'}}
+238: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '16 (17 from 2023)'}}}
+256: {'values_changed': {"root['current_season']": {'new_value': '2021 NRL season', 'old_value': '2022 NRL season'}}}
+315: {'values_changed': {"root['current_season']": {'new_value': '2022 NRL season', 'old_value': 'nyah dagoat'}}}
+317: {'values_changed': {"root['current_season']": {'new_value': 'nyah dagoat', 'old_value': '2022 NRL season'}}}
+349: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+350: {'dictionary_item_added': {"root['level']": 'League system'}, 'dictionary_item_removed': {"root['levels']": '1'}}
+352: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+353: {'dictionary_item_added': {"root['level']": 'League system'}, 'dictionary_item_removed': {"root['levels']": '1'}}
+366: {'values_changed': {"root['levels']": {'new_value': '1', 'old_value': 'League system'}}}
+373: {'values_changed': {"root['champions']": {'new_value': 'league icon', 'old_value': 'St George Illawara Dragons  (2nd title)'}}}
+376: {'values_changed': {"root['champions']": {'new_value': 'St George Illawara Dragons  (2nd title)', 'old_value': 'league icon'}}}
+413: {'values_changed': {"root['most_champs']": {'new_value': 'league icon', 'old_value': 'flagicon'}}}
+417: {'values_changed': {"root['most_champs']": {'new_value': 'flagicon', 'old_value': 'league icon'}}}
+454: {'dictionary_item_removed': {"root['classification']": 'National Rugby League'}}
+477: {'dictionary_item_added': {"root['classification']": 'National Rugby League'}, 'dictionary_item_removed': {"root['headquarters']": 'Sydney Football Stadium (2022)', "root['ceo']": 'Andrew Abdo', "root['commissioner']": "Peter V'Landys", "root['streaming']": 'flagicon', "root['sponsor']": 'Telstra', "root['related_comps']": 'Super League'}}
+484: {'values_changed': {"root['inaugural']": {'new_value': '1998', 'old_value': '1908'}}}
+486: {'values_changed': {"root['headquarters']": {'new_value': 'Sydney Football Stadium (2022)', 'old_value': 'Sydney Football Stadium (2022)#Rugby League Central'}}}
+487: {'values_changed': {"root['commissioner']": {'new_value': "Peter V'Landys", 'old_value': "Peter V'landys"}}}
+506: {'values_changed': {"root['tv']": {'new_value': 'flagicon', 'old_value': 'Nine Network (Australia) Fox League (Australia) Sky Sport (New Zealand)'}, "root['streaming']": {'new_value': 'flagicon', 'old_value': '9Now (Australia) Kayo Sports (Australia) Fox League#Watch NRL'}}}
+507: {'type_changes': {"root['tv']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Nine Network (Australia)', 'Fox League (Australia)', 'Sky Sport (New Zealand)'], 'new_value': 'Nine Network (Australia) Fox League (Australia) Sky Sport (New Zealand)'}, "root['streaming']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['9Now (Australia)', 'Kayo Sports (Australia)', 'Fox League#Watch NRL'], 'new_value': '9Now (Australia) Kayo Sports (Australia) Fox League#Watch NRL'}}}
+510: {'type_changes': {"root['tv']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "'''Australia''' Nine Network Fox League '''New Zealand''' Sky Sport (New Zealand)", 'new_value': ['Nine Network (Australia)', 'Fox League (Australia)', 'Sky Sport (New Zealand)']}, "root['streaming']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "'''Australia''' 9Now Kayo Sports '''Overseas''' Fox League#Watch NRL", 'new_value': ['9Now (Australia)', 'Kayo Sports (Australia)', 'Fox League#Watch NRL']}}}
+515: {'values_changed': {"root['inaugural']": {'new_value': '1908', 'old_value': '1998'}}}
+518: {'values_changed': {"root['most_champs']": {'new_value': 'league icon', 'old_value': 'leagueicon'}}}
+519: {'values_changed': {"root['most_champs']": {'new_value': 'leagueicon', 'old_value': 'league icon'}}}
+535: {'dictionary_item_removed': {"root['founder']": 'James J Giltinan', "root['coo']": 'Alexi Baker', "root['president']": "Peter V'landys"}}
+564: {'values_changed': {"root['current_season']": {'new_value': '2022 NRL season', 'old_value': '2023 NRL season'}, "root['last_season']": {'new_value': '2020 NRL season', 'old_value': '2022 NRL season'}, "root['upcoming_season']": {'new_value': '2022 NRL season', 'old_value': '2023 NRL season'}}}
+578: {'dictionary_item_added': {"root['coo']": 'Alexi Baker', "root['president']": "Peter V'landys", "root['streaming']": "'''Australia''' 9Now Kayo Sports '''Overseas''' Fox League#Watch NRL"}, 'values_changed': {"root['inaugural']": {'new_value': '1998', 'old_value': '1998 NRL season'}, "root['teams']": {'new_value': '16 (17 from 2023)', 'old_value': '17'}, "root['tv']": {'new_value': "'''Australia''' Nine Network Fox League '''New Zealand''' Sky Sport (New Zealand)", 'old_value': 'Nine Network ,  Fox League ,  Kayo Sports ,  Sky Sport (New Zealand)'}}}
+579: {'dictionary_item_added': {"root['founder']": 'James J Giltinan', "root['headquarters']": 'Sydney Football Stadium (2022)#Rugby League Central', "root['ceo']": 'Andrew Abdo', "root['commissioner']": "Peter V'landys", "root['sponsor']": 'Telstra', "root['related_comps']": 'Super League'}, 'values_changed': {"root['current_season']": {'new_value': '2023 NRL season', 'old_value': '2022 NRL season'}, "root['last_season']": {'new_value': '2022 NRL season', 'old_value': '2020 NRL season'}, "root['upcoming_season']": {'new_value': '2023 NRL season', 'old_value': '2022 NRL season'}, "root['inaugural']": {'new_value': '1998 NRL season', 'old_value': '1998'}, "root['teams']": {'new_value': '17', 'old_value': '16 (17 from 2023)'}, "root['levels']": {'new_value': 'League system', 'old_value': '1'}, "root['tv']": {'new_value': 'Nine Network ,  Fox League ,  Kayo Sports ,  Sky Sport (New Zealand)', 'old_value': 'flagicon'}}}
+580: {'dictionary_item_removed': {"root['founder']": 'James J Giltinan', "root['headquarters']": 'Sydney Football Stadium (2022)#Rugby League Central', "root['ceo']": 'Andrew Abdo', "root['commissioner']": "Peter V'landys", "root['sponsor']": 'Telstra', "root['related_comps']": 'Super League'}, 'values_changed': {"root['current_season']": {'new_value': '2022 NRL season', 'old_value': '2023 NRL season'}, "root['last_season']": {'new_value': '2020 NRL season', 'old_value': '2022 NRL season'}, "root['upcoming_season']": {'new_value': '2022 NRL season', 'old_value': '2023 NRL season'}, "root['inaugural']": {'new_value': '1998', 'old_value': '1998 NRL season'}, "root['teams']": {'new_value': '16 (17 from 2023)', 'old_value': '17'}, "root['levels']": {'new_value': '1', 'old_value': 'League system'}, "root['tv']": {'new_value': 'flagicon', 'old_value': 'Nine Network ,  Fox League ,  Kayo Sports ,  Sky Sport (New Zealand)'}}}
+583: {'values_changed': {"root['tv']": {'new_value': 'Nine Network ,  Fox League ,  Kayo Sports ,  Sky Sport (New Zealand)', 'old_value': 'Nine Network ,  Fox League (Kayo Sports'}}}
+603: {'dictionary_item_removed': {"root['streaming']": 'Kayo Sports ,  9Now'}, 'values_changed': {"root['tv']": {'new_value': 'Nine Network ,  Fox League (Kayo Sports', 'old_value': "'''Australia:''' ,  Nine Network ,  Fox League ,  '''New Zealand:''' ,  Sky Sport (New Zealand)"}}}
+635: {'dictionary_item_added': {"root['founder']": 'James J Giltinan'}, 'values_changed': {"root['tv']": {'new_value': "'''Australia:''' ,  Nine Network ,  Fox League ,  '''New Zealand:''' ,  Sky Sport (New Zealand)", 'old_value': "'''Australia:''' ,  Nine Network/Fox League ,  '''New Zealand:''' ,  Sky Sport (New Zealand)"}}}
+646: {'values_changed': {"root['levels']": {'new_value': 'League system', 'old_value': 'Rugby league in Australia#Pyramid'}}}
+679: {'values_changed': {"root['ceo']": {'new_value': 'Andrew Abdo', 'old_value': 'Jimmy Rockliff'}}}
+680: {'values_changed': {"root['ceo']": {'new_value': 'Jimmy Rockliff', 'old_value': 'Andrew Abdo'}}}
+681: {'values_changed': {"root['ceo']": {'new_value': 'Andrew Abdo', 'old_value': 'Alaxander blueberry'}}}
+682: {'values_changed': {"root['ceo']": {'new_value': 'Alaxander blueberry', 'old_value': 'Andrew Abdo'}}}
+688: {'values_changed': {"root['ceo']": {'new_value': 'Andrew Abdo', 'old_value': "Benjiman O'donnel"}}}
+689: {'values_changed': {"root['ceo']": {'new_value': "Benjiman O'donnel", 'old_value': 'Andrew Abdo'}}}
+691: {'dictionary_item_removed': {"root['least_champs']": 'league icon'}}

@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['teams']": '8', "root['continent']": 'flag'}}
+4: {'dictionary_item_removed': {"root['current_season']": '2016 Karaliaus Mindaugo taurė'}}
+13: {'dictionary_item_removed': {"root['champion']": 'BC Lietuvos rytas', "root['most_champs']": 'BC Lietuvos rytas'}}
+16: {'values_changed': {"root['current_season']": {'new_value': '2016 Karaliaus Mindaugo taurė', 'old_value': '2017 Karaliaus Mindaugo taurė'}}}
+17: {'values_changed': {"root['current_season']": {'new_value': '2017 Karaliaus Mindaugo taurė', 'old_value': '2018 Karaliaus Mindaugo taurė'}, "root['champion']": {'new_value': 'BC Lietuvos rytas', 'old_value': 'BC Žalgiris'}}}
+18: {'dictionary_item_added': {"root['current_season']": '2018 Karaliaus Mindaugo taurė', "root['sport']": 'Basketball', "root['continent']": 'flag', "root['champion']": 'BC Žalgiris'}, 'dictionary_item_removed': {"root['name']": 'Karaliaus Mindaugo taurė', "root['first']": '2016 Karaliaus Mindaugo taurė', "root['champions']": 'BC Žalgiris', "root['current']": '2018 Karaliaus Mindaugo taurė '}}
+34: {'values_changed': {"root['most_champs']": {'new_value': 'BC Lietuvos rytas', 'old_value': 'BC Žalgiris'}}}
+51: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8  (2016–2018) , 14  (2019–present)'}}}
+53: {'values_changed': {"root['champions']": {'new_value': 'BC Žalgiris', 'old_value': 'BC Rytas'}, "root['most_champs']": {'new_value': 'BC Žalgiris', 'old_value': 'BC Rytas'}}}
+55: {'values_changed': {"root['teams']": {'new_value': '8  (2016–2018) , 14  (2019–present)', 'old_value': '8  (2016–2018)  14  (2019–present)'}}}
+56: {'dictionary_item_added': {"root['first']": '2016 Karaliaus Mindaugo taurė', "root['champions']": 'BC Rytas'}, 'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2016', "root['champion']": 'BC Rytas', "root['related_comps']": 'Lietuvos krepšinio lyga', "root['TV']": 'LRT televizija'}, 'values_changed': {"root['teams']": {'new_value': '8  (2016–2018)  14  (2019–present)', 'old_value': '8  (2016–2018)  14  (2018-2019)  16  (2019-2020)'}}}
+70: {'values_changed': {"root['champion']": {'new_value': 'BC Rytas', 'old_value': 'BC Žalgiris'}, "root['most_champs']": {'new_value': 'BC Rytas', 'old_value': 'BC Žalgiris'}}}
+75: {'values_changed': {"root['current']": {'new_value': '2018 Karaliaus Mindaugo taurė ', 'old_value': '2021 Karaliaus Mindaugo taurė '}}}

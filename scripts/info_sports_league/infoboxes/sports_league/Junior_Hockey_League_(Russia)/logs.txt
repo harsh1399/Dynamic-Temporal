@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice Hockey', "root['teams']": '20'}}
+5: {'values_changed': {"root['teams']": {'new_value': '20', 'old_value': '21'}}}
+100: {'values_changed': {"root['teams']": {'new_value': '21', 'old_value': '22'}}}
+116: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '21'}}}
+124: {'values_changed': {"root['teams']": {'new_value': '21', 'old_value': '22'}}}
+136: {'dictionary_item_removed': {"root['TV']": "KHL-TV (Russia (as part of the NTV Plus package), International (through KHL's website))"}}
+146: {'dictionary_item_removed': {"root['related_comps']": 'Kontinental Hockey League'}}
+165: {'dictionary_item_removed': {"root['champion']": 'Steel Foxes (1)'}}
+176: {'values_changed': {"root['related_comps']": {'new_value': 'Kontinental Hockey League', 'old_value': 'Kontinental Hockey League Russian Major League'}}}
+177: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '29'}}}
+192: {'values_changed': {"root['champion']": {'new_value': 'Steel Foxes (1)', 'old_value': 'Stalnye Lisy (1)'}}}
+216: {'dictionary_item_removed': {"root['Founder']": "  The '''Minor Hockey League (MHL)'''", "root['align']": '"center" rowspan', "root['style']": '"font-size: 95%"'}}
+239: {'dictionary_item_added': {"root['Founder']": "  The '''Minor Hockey League (MHL)'''", "root['align']": '"center" rowspan', "root['style']": '"font-size: 95%"'}, 'dictionary_item_removed': {"root['most_champs']": 'Omskie Yastreby (2)'}, 'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '32'}, "root['champion']": {'new_value': 'Stalnye Lisy (1)', 'old_value': 'Loko Yaroslavl (1st title)'}, "root['related_comps']": {'new_value': 'Kontinental Hockey League Russian Major League', 'old_value': 'Kontinental Hockey League Supreme Hockey League'}}}
+242: {'values_changed': {"root['champion']": {'new_value': 'Loko Yaroslavl (1st title)', 'old_value': 'Krasnaya Armiya (2nd title)'}, "root['most_champs']": {'new_value': 'Omskie Yastreby (2)', 'old_value': 'Omskie Yastreby & Krasnaya Armiya (2)'}, "root['related_comps']": {'new_value': 'Kontinental Hockey League Supreme Hockey League', 'old_value': 'Kontinental Hockey League'}}}
+244: {'dictionary_item_removed': {"root['current_season']": '2017–18 Junior Hockey League season'}, 'values_changed': {"root['teams']": {'new_value': '32', 'old_value': '33'}}}
+260: {'values_changed': {"root['champion']": {'new_value': 'Krasnaya Armiya (2nd title)', 'old_value': 'Krasnaya Armiya (JHL)'}, "root['most_champs']": {'new_value': 'Omskie Yastreby & Krasnaya Armiya (2)', 'old_value': 'Avangard Omsk'}}}

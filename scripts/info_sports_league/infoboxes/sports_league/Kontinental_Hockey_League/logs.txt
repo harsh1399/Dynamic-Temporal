@@ -1,0 +1,64 @@
+0: {'dictionary_item_removed': {"root['teams']": '24'}}
+110: {'dictionary_item_removed': {"root['sport']": 'KHL_logo.jpg'}}
+116: {'values_changed': {"root['sport']": {'new_value': 'KHL_logo.jpg', 'old_value': 'KHL_logo_eng.jpg'}}}
+117: {'values_changed': {"root['sport']": {'new_value': 'KHL_logo_eng.jpg', 'old_value': 'CHL_logo_eng.jpg'}}}
+118: {'values_changed': {"root['sport']": {'new_value': 'CHL_logo_eng.jpg', 'old_value': 'Chl_logo_eng.jpg'}}}
+146: {'values_changed': {"root['sport']": {'new_value': 'Chl_logo_eng.jpg', 'old_value': 'khl_logo.png'}}}
+159: {'values_changed': {"root['sport']": {'new_value': 'khl_logo.png', 'old_value': 'Chl logo eng.jpg'}}}
+160: {'values_changed': {"root['sport']": {'new_value': 'Chl logo eng.jpg', 'old_value': 'khl_logo.png'}}}
+167: {'values_changed': {"root['sport']": {'new_value': 'khl_logo.png', 'old_value': 'Chl logo eng.jpg'}}}
+170: {'values_changed': {"root['sport']": {'new_value': 'Chl logo eng.jpg', 'old_value': 'khl_logo.png'}}}
+180: {'dictionary_item_added': {"root['sport']": 'khl_logo.png', "root['teams']": '24'}, 'dictionary_item_removed': {"root['name']": 'Kontinental Hockey League', "root['pixels']": '150', "root['divisions']": '4', "root['champ']": "'''Gagarin Cup'''", "root['assc_champ']": 'Opening Cup'}}
+181: {'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup', 'old_value': "'''Opening Cup'''  '''Victoria Cup'''"}}}
+182: {'values_changed': {"root['assc_champ']": {'new_value': "'''Opening Cup'''  '''Victoria Cup'''", 'old_value': 'Opening Cup Victoria Cup Silver Stone Trophy'}}}
+183: {'dictionary_item_removed': {"root['feeder']": 'Vysshaya Liga (ice hockey)'}}
+184: {'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup Victoria Cup Silver Stone Trophy', 'old_value': 'Opening Cup Victoria Cup Silver Stone Trophy Governor Cup'}}}
+188: {'dictionary_item_removed': {"root['republic']": 'flagicon'}}
+195: {'values_changed': {"root['pixels']": {'new_value': '150', 'old_value': '200'}}}
+196: {'values_changed': {"root['pixels']": {'new_value': '200', 'old_value': '184'}}}
+255: {'dictionary_item_added': {"root['pixels']": '184', "root['republic']": 'flagicon'}, 'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup Victoria Cup Silver Stone Trophy Governor Cup', 'old_value': 'Opening Cup Silver Stone Trophy Governor Cup'}}}
+270: {'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup Silver Stone Trophy Governor Cup', 'old_value': 'Opening Cup Silver Stone Trophy Victoria Cup Governor Cup'}}}
+271: {'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup Silver Stone Trophy Victoria Cup Governor Cup', 'old_value': 'Opening Cup Silver Stone Trophy Governor Cup'}}}
+292: {'dictionary_item_removed': {"root['teams']": '24'}}
+307: {'values_changed': {"root['assc_champ']": {'new_value': 'Opening Cup Silver Stone Trophy Governor Cup', 'old_value': 'Opening Cup Alexei Cherepanov Award Governor Cup'}}}
+344: {'values_changed': {"root['feeder']": {'new_value': 'Vysshaya Liga (ice hockey)', 'old_value': 'Russian Supreme League'}}}
+463: {'dictionary_item_added': {"root['name']": 'Kontinental Hockey League', "root['divisions']": '4', "root['feeder']": 'Russian Supreme League', "root['champ']": "'''Gagarin Cup'''", "root['assc_champ']": 'Opening Cup Alexei Cherepanov Award Governor Cup'}, 'dictionary_item_removed': {"root['current_season']": '2008–09 KHL season', "root['Formerly']": 'Russian Superleague', "root['sport']": 'Ice Hockey', "root['ceo']": 'Alexander Medvedev', "root['TV']": "'''RUS:''' Sport"}}
+488: {'values_changed': {"root['TV']": {'new_value': "'''RUS:''' Sport", 'old_value': "'''RUS:''' RTR Sport"}}}
+490: {'dictionary_item_removed': {"root['champion']": 'Ak Bars Kazan (1)', "root['related_comps']": 'Russian Open Championship'}, 'values_changed': {"root['current_season']": {'new_value': '2008–09 KHL season', 'old_value': '2009–10 KHL season'}, "root['TV']": {'new_value': "'''RUS:''' RTR Sport", 'old_value': "KHL-TV (Russia (as part of the NTV Plus package), International (through http://www.khl.ru/tv/ KHL's website)) RTR Sport"}}}
+495: {'values_changed': {"root['related_comps']": {'new_value': 'Russian Open Championship', 'old_value': 'Russian Open Hockey Championship'}}}
+509: {'values_changed': {"root['TV']": {'new_value': "KHL-TV (Russia (as part of the NTV Plus package), International (through http://www.khl.ru/tv/ KHL's website)) RTR Sport", 'old_value': "KHL-TV (Russia (as part of the NTV Plus package), International (through http://www.khl.ru/tv/ KHL's website)) Russia 2 (Russia)<ref name"}}}
+567: {'values_changed': {"root['sport']": {'new_value': 'Ice Hockey', 'old_value': 'Ice hockey'}}}
+603: {'values_changed': {"root['TV']": {'new_value': "KHL-TV (Russia (as part of the NTV Plus package), International (through http://www.khl.ru/tv/ KHL's website)) Russia 2 (Russia)<ref name", 'old_value': 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV)'}}}
+611: {'dictionary_item_removed': {"root['most_champs']": 'Ak Bars Kazan (2)'}, 'values_changed': {"root['champion']": {'new_value': 'Ak Bars Kazan (1)', 'old_value': 'Ak Bars Kazan (2)'}}}
+635: {'values_changed': {"root['TV']": {'new_value': 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV)', 'old_value': 'flagicon'}}}
+636: {'values_changed': {"root['TV']": {'new_value': 'flagicon', 'old_value': 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV)'}}}
+641: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '23'}}}
+645: {'values_changed': {"root['ceo']": {'new_value': 'Alexander Medvedev', 'old_value': 'ALEX OVECHKIN'}}}
+646: {'values_changed': {"root['ceo']": {'new_value': 'ALEX OVECHKIN', 'old_value': 'Alexander Medvedev'}}}
+647: {'values_changed': {"root['teams']": {'new_value': '23', 'old_value': '24'}}}
+703: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '23'}}}
+704: {'values_changed': {"root['current_season']": {'new_value': '2009–10 KHL season', 'old_value': '2010–11 KHL season'}}}
+722: {'values_changed': {"root['TV']": {'new_value': 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV)', 'old_value': 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV),'}}}
+740: {'dictionary_item_added': {"root['Formerly']": 'Russian Superleague'}, 'dictionary_item_removed': {"root['formerly']": 'Russian Superleague'}}
+742: {'dictionary_item_added': {"root['ceo']": 'Alexander Medvedev', "root['TV']": 'KHL-TV (Russia (as part of the NTV Plus package), USA and Canada (part of ViaNetTV),'}, 'dictionary_item_removed': {"root['president']": 'Dmitry Chernyshenko', "root['tv']": 'collapsible list'}, 'values_changed': {"root['current_season']": {'new_value': '2010–11 KHL season', 'old_value': '2015–16 KHL season'}, "root['teams']": {'new_value': '23', 'old_value': '28'}, "root['champion']": {'new_value': 'Ak Bars Kazan (2)', 'old_value': "'''SKA Saint Petersburg''' (1st title)"}, "root['most_champs']": {'new_value': 'Ak Bars Kazan (2)', 'old_value': "'''Ak Bars Kazan''' (2)  '''HC Dynamo Moscow"}, "root['related_comps']": {'new_value': 'Russian Open Hockey Championship', 'old_value': 'Supreme Hockey League (VHL), Junior Hockey League (Russia)'}}}
+769: {'values_changed': {"root['related_comps']": {'new_value': 'Supreme Hockey League (VHL), Junior Hockey League (Russia)', 'old_value': 'Supreme Hockey League (VHL),  Hockey Premier League (From 16/17  ) (HPL) , Junior Hockey League (Russia)'}}}
+770: {'values_changed': {"root['related_comps']": {'new_value': 'Supreme Hockey League (VHL),  Hockey Premier League (From 16/17  ) (HPL) , Junior Hockey League (Russia)', 'old_value': 'Supreme Hockey League (VHL),  Hockey_Premier_League'}}}
+771: {'values_changed': {"root['related_comps']": {'new_value': 'Supreme Hockey League (VHL),  Hockey_Premier_League', 'old_value': 'Supreme Hockey League (VHL),  Hockey Premier League (From 16/17  ) (HPL) , Junior Hockey League (Russia)'}}}
+778: {'values_changed': {"root['champion']": {'new_value': "'''SKA Saint Petersburg''' (1st title)", 'old_value': "'''Metallurg Magnitogorsk''' (2nd title)"}, "root['most_champs']": {'new_value': "'''Ak Bars Kazan''' (2)  '''HC Dynamo Moscow", 'old_value': "'''Ak Bars Kazan''' (2),  '''Metallurg Magnitogorsk''' (2),  '''HC Dynamo Moscow"}}}
+791: {'values_changed': {"root['related_comps']": {'new_value': 'Supreme Hockey League (VHL),  Hockey Premier League (From 16/17  ) (HPL) , Junior Hockey League (Russia)', 'old_value': 'Supreme Hockey League (VHL),  Hockey Premier League (HPL) (From 16/17'}}}
+808: {'values_changed': {"root['teams']": {'new_value': '28', 'old_value': '29'}}}
+809: {'values_changed': {"root['most_champs']": {'new_value': "'''Ak Bars Kazan''' (2),  '''Metallurg Magnitogorsk''' (2),  '''HC Dynamo Moscow", 'old_value': "'''Ak Bars Kazan''' (2), '''Metallurg Magnitogorsk''' (2), '''HC Dynamo Moscow"}}}
+831: {'values_changed': {"root['current_season']": {'new_value': '2015–16 KHL season', 'old_value': '2016–17 KHL season'}}}
+839: {'values_changed': {"root['current_season']": {'new_value': '2016–17 KHL season', 'old_value': '2021–22 KHL season'}, "root['formerly']": {'new_value': 'Russian Superleague', 'old_value': 'Russian Superleague (RSL)'}, "root['teams']": {'new_value': '29', 'old_value': '24'}, "root['champion']": {'new_value': "'''Metallurg Magnitogorsk''' (2nd title)", 'old_value': 'Avangard Omsk, (1st title)'}, "root['most_champs']": {'new_value': "'''Ak Bars Kazan''' (2), '''Metallurg Magnitogorsk''' (2), '''HC Dynamo Moscow", 'old_value': 'Ak Bars Kazan, (3 titles)'}, "root['president']": {'new_value': 'Dmitry Chernyshenko', 'old_value': 'Alexei Morozov'}, "root['tv']": {'new_value': 'collapsible list', 'old_value': 'hidden'}, "root['related_comps']": {'new_value': 'Supreme Hockey League (VHL),  Hockey Premier League (HPL) (From 16/17', 'old_value': 'ubl'}}}
+852: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '23'}}}
+855: {'values_changed': {"root['teams']": {'new_value': '23', 'old_value': '24'}}}
+879: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '22'}}}
+881: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '24'}}}
+885: {'values_changed': {"root['teams']": {'new_value': '24', 'old_value': '22'}}}
+918: {'values_changed': {"root['champion']": {'new_value': 'Avangard Omsk, (1st title)', 'old_value': 'CSKA Moscow, (2nd title)'}}}
+919: {'values_changed': {"root['champion']": {'new_value': 'CSKA Moscow, (2nd title)', 'old_value': 'HC CSKA Moscow, (2nd title)'}}}
+920: {'values_changed': {"root['champion']": {'new_value': 'HC CSKA Moscow, (2nd title)', 'old_value': 'HC CSKA Moscow'}}}
+927: {'values_changed': {"root['formerly']": {'new_value': 'Russian Superleague (RSL)', 'old_value': 'Nazi-Russian Superleague (RSL)'}}}
+928: {'values_changed': {"root['formerly']": {'new_value': 'Nazi-Russian Superleague (RSL)', 'old_value': 'Russian Superleague (RSL)'}}}
+931: {'values_changed': {"root['most_champs']": {'new_value': 'Ak Bars Kazan, (3 titles)', 'old_value': 'Ak Bars Kazan (3 titles)'}}}
+947: {'values_changed': {"root['current_season']": {'new_value': '2021–22 KHL season', 'old_value': '2022–23 KHL season'}}}

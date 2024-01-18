@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['pixels']": '250', "root['sport']": 'Basketball', "root['teams']": '11', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": 'TBD', "root['most_champs']": 'TBD'}}
+13: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+31: {'dictionary_item_added': {"root['pixels']": '250'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '10'}}}
+33: {'values_changed': {"root['champion']": {'new_value': 'TBD', 'old_value': 'PrimeTime Players (2015)'}, "root['most_champs']": {'new_value': 'TBD', 'old_value': 'PrimeTime Players (1)'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '12'}}}
+47: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '11'}}}
+50: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+52: {'dictionary_item_removed': {"root['inaugural']": '2014', "root['champ_season']": '2019'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '27'}, "root['champion']": {'new_value': 'PrimeTime Players (2015)', 'old_value': 'PrimeTime Players'}, "root['most_champs']": {'new_value': 'PrimeTime Players (1)', 'old_value': 'PrimeTime Players (5)'}}}
+57: {'dictionary_item_added': {"root['most_champs']": 'PrimeTime Players (5)'}, 'values_changed': {"root['champ_season']": {'new_value': '2019', 'old_value': '2021'}}}
+62: {'values_changed': {"root['teams']": {'new_value': '27', 'old_value': '25'}}}
+63: {'values_changed': {"root['teams']": {'new_value': '25', 'old_value': '29'}}}
+65: {'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '28'}}}

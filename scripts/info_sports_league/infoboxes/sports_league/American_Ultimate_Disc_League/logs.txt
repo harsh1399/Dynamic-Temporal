@@ -1,0 +1,9 @@
+56: {'dictionary_item_removed': {"root['current_season']": '2021 American Ultimate Disc League season!2021 AUDL season', "root['sport']": 'Ultimate (sport)', "root['inaugural']": '2012', "root['teams']": '22', "root['champion']": 'Raleigh Flyers (AUDL)', "root['most_champs']": 'San Jose Spiders (AUDL)', "root['TV']": 'Stadium ,  Eleven Sports Network '}}
+74: {'dictionary_item_added': {"root['current_season']": '2021 American Ultimate Disc League season!2021 AUDL season'}, 'values_changed': {"root['champion']": {'new_value': 'Raleigh Flyers (AUDL)', 'old_value': 'Carolina Flyers'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '25'}}}
+86: {'values_changed': {"root['TV']": {'new_value': 'Stadium ,  Eleven Sports Network ', 'old_value': 'Stadium ,  Eleven Sports Network,  Recast.app '}}}
+92: {'dictionary_item_removed': {"root['champ_season']": '2022'}, 'values_changed': {"root['champion']": {'new_value': 'Carolina Flyers', 'old_value': 'New York Empire'}}}
+93: {'values_changed': {"root['champion']": {'new_value': 'New York Empire', 'old_value': 'New York Empire (AUDL)'}}}
+99: {'values_changed': {"root['TV']": {'new_value': 'Stadium ,  Eleven Sports Network,  Recast.app ', 'old_value': 'FOX Sports 2,  AUDL.tv '}}}
+100: {'values_changed': {"root['TV']": {'new_value': 'FOX Sports 2,  AUDL.tv ', 'old_value': 'Fox Sports 2, AUDL.tv '}}}
+101: {'values_changed': {"root['teams']": {'new_value': '25', 'old_value': '24'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['last_season']": '2011 World Youth Baseball Championship', "root['sport']": 'Baseball', "root['teams']": '12 (Finals)', "root['continent']": 'International', "root['champion']": 'nowrap', "root['most_champs']": 'USA (5) '}}
+10: {'values_changed': {"root['last_season']": {'new_value': '2011 World Youth Baseball Championship', 'old_value': '2012 15U Baseball World Championship'}}}
+14: {'values_changed': {"root['teams']": {'new_value': '12 (Finals)', 'old_value': '15 (in 2012)'}}}
+17: {'dictionary_item_added': {"root['most_champs']": 'USA (5) '}, 'dictionary_item_removed': {"root['current_season']": '2021 U-15 Baseball World Cup'}, 'values_changed': {"root['last_season']": {'new_value': '2012 15U Baseball World Championship', 'old_value': '2018 U-15 Baseball World Cup'}, "root['teams']": {'new_value': '15 (in 2012)', 'old_value': '12 (in 2021)'}}}
+21: {'dictionary_item_removed': {"root['most_champs']": 'bb'}}

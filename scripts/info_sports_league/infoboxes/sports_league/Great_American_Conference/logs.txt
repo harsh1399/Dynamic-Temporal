@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Great American Conference', "root['short_name']": 'GAC', "root['established']": '2010', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'Division II (NCAA)', "root['members']": '9', "root['hq_city']": 'Unknown', "root['hq_state']": 'to be decided', "root['commissioner']": 'Will Prewitt', "root['since']": '2010'}}
+8: {'values_changed': {"root['hq_state']": {'new_value': 'to be decided', 'old_value': 'Russellville, Arkansas'}}}
+9: {'values_changed': {"root['hq_city']": {'new_value': 'Unknown', 'old_value': 'Russellville'}, "root['hq_state']": {'new_value': 'Russellville, Arkansas', 'old_value': 'Arkansas'}}}
+23: {'dictionary_item_added': {"root['hq_city']": 'Russellville', "root['hq_state']": 'Arkansas'}, 'dictionary_item_removed': {"root['region']": 'South Central United States'}}
+28: {'dictionary_item_removed': {"root['sports']": '11', "root['mens']": '5', "root['womens']": '6', "root['hq_city']": 'Russellville', "root['hq_state']": 'Arkansas'}, 'values_changed': {"root['members']": {'new_value': '9', 'old_value': '9 (11 2012)'}}}
+30: {'dictionary_item_removed': {"root['map']": 'GACstates.png', "root['map_size']": '250 '}}
+38: {'values_changed': {"root['established']": {'new_value': '2010', 'old_value': '2011'}}}
+46: {'values_changed': {"root['sports']": {'new_value': '11', 'old_value': '13'}, "root['mens']": {'new_value': '5', 'old_value': '6'}, "root['womens']": {'new_value': '6', 'old_value': '7'}}}
+78: {'dictionary_item_removed': {"root['color']": '#002A5C', "root['font_color']": '#FFFFFF'}}

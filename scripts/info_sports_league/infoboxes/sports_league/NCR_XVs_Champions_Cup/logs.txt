@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['last_season']": "2018 NCAA Division I Men's Basketball Tournament", "root['sport']": 'Rugby union', "root['teams']": '249'}}
+13: {'dictionary_item_added': {"root['last_season']": "2018 NCAA Division I Men's Basketball Tournament"}, 'dictionary_item_removed': {"root['champion']": 'Loyola University Maryland Ranked #1 (No final in 2020)', "root['most_champs']": 'Five schools with 2 titles each'}}
+18: {'values_changed': {"root['champion']": {'new_value': 'Loyola University Maryland Ranked #1 (No final in 2020)', 'old_value': 'Christendom College'}, "root['most_champs']": {'new_value': 'Five schools with 2 titles each', 'old_value': 'Furman University (3)'}}}
+22: {'dictionary_item_removed': {"root['logo_size']": '200'}}
+26: {'dictionary_item_removed': {"root['current_season']": '2022', "root['champ_season']": '2022'}, 'values_changed': {"root['most_champs']": {'new_value': 'Furman University (3)', 'old_value': 'Furman University'}}}

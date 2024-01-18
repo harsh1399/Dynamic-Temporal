@@ -1,0 +1,37 @@
+791: {'dictionary_item_removed': {"root['teams']": '16 (Finals)', "root['continent']": 'International', "root['champion']": 'Japan '}}
+846: {'dictionary_item_removed': {"root['current_season']": '2009 World Baseball Classic', "root['sport']": '2009 World Baseball Classic'}}
+909: {'dictionary_item_added': {"root['current_season']": '2009 World Baseball Classic'}, 'dictionary_item_removed': {"root['most_champs']": 'Japan (2) '}, 'values_changed': {"root['champion']": {'new_value': 'Japan ', 'old_value': 'bb'}}}
+936: {'values_changed': {"root['most_champs']": {'new_value': 'Japan (2) ', 'old_value': 'South Korea (2) '}}}
+939: {'values_changed': {"root['most_champs']": {'new_value': 'South Korea (2) ', 'old_value': 'Japan (2) '}}}
+958: {'values_changed': {"root['most_champs']": {'new_value': 'Japan (2) ', 'old_value': 'JPN (2) '}}}
+1062: {'dictionary_item_removed': {"root['current_season']": '2017 World Baseball Classic', "root['last_season']": '2013 World Baseball Classic'}, 'values_changed': {"root['sport']": {'new_value': '2009 World Baseball Classic', 'old_value': '2017 World Baseball Classic'}, "root['teams']": {'new_value': '16 (Finals)', 'old_value': '16 (finals)'}, "root['most_champs']": {'new_value': 'JPN (2) ', 'old_value': 'JPN (2 titles) '}}}
+1188: {'dictionary_item_added': {"root['current_season']": '2017 World Baseball Classic', "root['sport']": '2017 World Baseball Classic'}, 'values_changed': {"root['last_season']": {'new_value': '2013 World Baseball Classic', 'old_value': '2017 World Baseball Classic'}}}
+1248: {'dictionary_item_added': {"root['last_season']": '2017 World Baseball Classic'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 World Baseball Classic', "root['champ_season']": '2017 World Baseball Classic'}, 'values_changed': {"root['teams']": {'new_value': '16 (finals)', 'old_value': '20 (finals)'}}}
+1298: {'dictionary_item_added': {"root['upcoming_season']": '2023 World Baseball Classic'}, 'dictionary_item_removed': {"root['current_season']": '2023 World Baseball Classic', "root['sport']": 'Baseball'}}
+1379: {'dictionary_item_removed': {"root['administrator']": 'Major League Baseball (MLB),  Major League Baseball Players Association(MLBPA), World Baseball Softball Confederation (WBSC)'}}
+1398: {'dictionary_item_added': {"root['current_season']": '2023 World Baseball Classic'}, 'dictionary_item_removed': {"root['tv']": 'FOX, MLB Network'}}
+1400: {'dictionary_item_removed': {"root['current_season']": '2023 World Baseball Classic'}}
+1422: {'values_changed': {"root['current_season']": {'new_value': '2023 World Baseball Classic', 'old_value': '2045 World Baseball Classic'}}}
+1423: {'values_changed': {"root['current_season']": {'new_value': '2045 World Baseball Classic', 'old_value': '2023 World Baseball Classic'}, "root['sport']": {'new_value': 'Baseball', 'old_value': 'Cricket or Baseball'}}}
+1424: {'values_changed': {"root['sport']": {'new_value': 'Cricket or Baseball', 'old_value': 'Baseball'}}}
+1434: {'values_changed': {"root['most_champs']": {'new_value': 'JPN (2 titles) ', 'old_value': 'CUB (2 titles) '}}}
+1437: {'values_changed': {"root['most_champs']": {'new_value': 'CUB (2 titles) ', 'old_value': 'JPN (2 titles) '}}}
+1438: {'values_changed': {"root['most_champs']": {'new_value': 'JPN (2 titles) ', 'old_value': 'JAPAN (2 titles) '}}}
+1439: {'values_changed': {"root['most_champs']": {'new_value': 'JAPAN (2 titles) ', 'old_value': 'JPN (2 titles) '}}}
+1452: {'values_changed': {"root['most_champs']": {'new_value': 'JPN (2 titles) ', 'old_value': 'JPN (3 titles) '}}}
+1454: {'values_changed': {"root['champ_season']": {'new_value': '2017 World Baseball Classic', 'old_value': '2023 World Baseball Classic'}}}
+1494: {'values_changed': {"root['administrator']": {'new_value': 'Major League Baseball (MLB),  Major League Baseball Players Association(MLBPA), World Baseball Softball Confederation (WBSC)', 'old_value': 'Major League Baseball (MLB),  Major League Baseball Players Association (MLBPA), World Baseball Softball Confederation (WBSC)'}}}
+1513: {'dictionary_item_added': {"root['current_season']": '2023 World Baseball Classic'}, 'dictionary_item_removed': {"root['uocoming_season']": '2026 World Baseball Classic'}}
+1514: {'dictionary_item_added': {"root['uocoming_season']": '2026 World Baseball Classic'}, 'dictionary_item_removed': {"root['current_season']": '2023 World Baseball Classic'}}
+1515: {'dictionary_item_added': {"root['current_season']": '2023 World Baseball Classic'}, 'dictionary_item_removed': {"root['upcoming_season']": '2026 World Baseball Classic'}}
+1563: {'type_changes': {"root['tv']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'FOX, MLB Network'}}, 'values_changed': {"root['administrator']": {'new_value': 'Major League Baseball (MLB),  Major League Baseball Players Association (MLBPA), World Baseball Softball Confederation (WBSC)', 'old_value': 'Indented plainlist'}}}
+1581: {'dictionary_item_removed': {"root['streaming']": 'Tubi (2023) '}, 'values_changed': {"root['most_champs']": {'new_value': 'JPN (3 titles) ', 'old_value': 'bb'}}}
+2334: {'dictionary_item_added': {"root['streaming']": 'Tubi (2023) '}, 'values_changed': {"root['most_champs']": {'new_value': 'bb', 'old_value': 'JPN (3 titles) '}}}
+2377: {'dictionary_item_removed': {"root['streaming']": 'Tubi (2023)'}}
+2381: {'values_changed': {"root['most_champs']": {'new_value': 'JPN (3 titles) ', 'old_value': 'bb'}}}
+2389: {'dictionary_item_added': {"root['continent']": 'International', "root['tv']": []}, 'dictionary_item_removed': {"root['inaugural']": '2006', "root['region']": 'Worldwide', "root['TV']": 'MLB International  Fox Sports (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)'}}
+2395: {'dictionary_item_removed': {"root['sponsor']": 'Metlife (2013) GungHo, Hublot, Nomura Securities (2017) Konami, Kowa (company)'}}
+2397: {'values_changed': {"root['TV']": {'new_value': 'MLB International  Fox Sports (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)', 'old_value': 'MLB International  Fox (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)'}}}
+2398: {'values_changed': {"root['TV']": {'new_value': 'MLB International  Fox (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)', 'old_value': 'MLB International  FOX (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)'}}}
+2400: {'dictionary_item_added': {"root['sponsor']": 'Metlife (2013) GungHo, Hublot, Nomura Securities (2017) Konami, Kowa (company)'}, 'values_changed': {"root['TV']": {'new_value': 'MLB International  FOX (2023-)  ESPN (2006-2009)  MLB Network (2012-2017)', 'old_value': 'MLB International  ESPN (2006-2009)  MLB Network (2012-2017) FOX Sports (2023-)'}}}
+2423: {'values_changed': {"root['TV']": {'new_value': 'MLB International  ESPN (2006-2009)  MLB Network (2012-2017) FOX Sports (2023-)', 'old_value': 'MLB International  ESPN (2006-2009)  MLB Network (2012-2017) FOX (2023-) FOX Sports (2023-) Fox Deportes'}}}

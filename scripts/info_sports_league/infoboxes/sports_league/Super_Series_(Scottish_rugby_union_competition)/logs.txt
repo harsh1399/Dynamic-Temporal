@@ -1,0 +1,5 @@
+3: {'dictionary_item_removed': {"root['sport']": 'Super 6', "root['teams']": '6', "root['level']": '1'}}
+11: {'dictionary_item_removed': {"root['current_season']": '2019–20 Super 6'}}
+14: {'dictionary_item_removed': {"root['champion']": 'Ayrshire Bulls', "root['most_champs']": '1 (Ayrshire Bulls)'}, 'values_changed': {"root['current_season']": {'new_value': '2019–20 Super 6', 'old_value': '2021–22 Super 6'}}}
+31: {'values_changed': {"root['current_season']": {'new_value': '2021–22 Super 6', 'old_value': '2022–23 Super 6'}}}
+32: {'values_changed': {"root['champion']": {'new_value': 'Ayrshire Bulls', 'old_value': 'Watsonians'}, "root['most_champs']": {'new_value': '1 (Ayrshire Bulls)', 'old_value': '1 (Ayrshire Bulls, Watsonians)'}}}

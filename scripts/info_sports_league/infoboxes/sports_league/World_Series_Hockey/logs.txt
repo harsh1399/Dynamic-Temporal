@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['tournament']": 'World Series Hockey 2011', "root['teams']": '8', "root['champions']": 'TBD', "root['matches']": '61', "root['next_year']": '2012'}}
+4: {'dictionary_item_added': {"root['tournament']": 'World Series Hockey 2011', "root['champions']": 'TBD', "root['matches']": '61', "root['next_year']": '2012'}, 'dictionary_item_removed': {"root['sport']": 'Field Hockey', "root['champion']": 'TBD', "root['TV']": 'Nimbus Sport'}}
+92: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8 (world series hockey#franchises¦List of teams)'}}}
+93: {'values_changed': {"root['teams']": {'new_value': '8 (world series hockey#franchises¦List of teams)', 'old_value': '8 (world series hockey#franchises'}}}
+96: {'values_changed': {"root['teams']": {'new_value': '8 (world series hockey#franchises', 'old_value': '8 (World Series Hockey#Franchises'}}}
+143: {'dictionary_item_added': {"root['sport']": 'Field Hockey', "root['teams']": '8 (World Series Hockey#Franchises', "root['champion']": 'TBD'}, 'dictionary_item_removed': {"root['tformat']": 'Round-robin tournament', "root['first']": '2012 World Series Hockey', "root['participants']": '8 (World Series Hockey#Franchises', "root['champions']": 'TBD', "root['current']": '2012 World Series Hockey '}}
+144: {'dictionary_item_removed': {"root['administrator']": 'Indian Hockey Federation'}}
+238: {'values_changed': {"root['champions']": {'new_value': 'TBD', 'old_value': 'Sher-e-Punjab'}}}
+240: {'dictionary_item_removed': {"root['headquarter']": 'Mumbai, Maharashtra, India'}, 'values_changed': {"root['participants']": {'new_value': '8 (World Series Hockey#Franchises', 'old_value': 'World Series Hockey#Franchises'}, "root['TV']": {'new_value': 'Nimbus Sport', 'old_value': 'Neo Sports Broadcast Pvt. Ltd.'}}}
+253: {'values_changed': {"root['champions']": {'new_value': 'Sher-e-Punjab', 'old_value': 'Sher-e-Punjab (1st title)'}}}
+257: {'dictionary_item_removed': {"root['name']": 'Bridgestone World Series Hockey'}}
+277: {'dictionary_item_added': {"root['current']": '2012 World Series Hockey '}, 'dictionary_item_removed': {"root['next']": '2012-13 World Series Hockey'}}
+287: {'dictionary_item_removed': {"root['current']": '2012-13 World Series Hockey '}}

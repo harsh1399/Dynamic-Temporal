@@ -1,0 +1,9 @@
+8: {'dictionary_item_removed': {"root['pixels']": '200', "root['sport']": 'Baseball and softball', "root['president']": 'Abraham Key', "root['countries']": 'United States, Mexico, Caribbean, Europe, Asia-Pacific'}}
+12: {'dictionary_item_removed': {"root['champion']": 'Covina, California', "root['champ_season']": '2017', "root['most_champs']": 'Long Beach, California (4)', "root['sponsor']": "Dick's Sporting Goods", "root['tv']": 'MLB.com'}}
+15: {'values_changed': {"root['most_champs']": {'new_value': 'Long Beach, California (4)', 'old_value': 'Chinese Taipei (8), Long Beach, California (4)'}}}
+17: {'values_changed': {"root['champion']": {'new_value': 'Covina, California', 'old_value': 'Taipei'}, "root['champ_season']": {'new_value': '2017', 'old_value': '2018'}, "root['most_champs']": {'new_value': 'Chinese Taipei (8), Long Beach, California (4)', 'old_value': 'flagicon'}}}
+25: {'values_changed': {"root['champion']": {'new_value': 'Taipei', 'old_value': 'Taipei County'}}}
+26: {'values_changed': {"root['champion']": {'new_value': 'Taipei County', 'old_value': 'Taipei'}}}
+27: {'values_changed': {"root['champion']": {'new_value': 'Taipei', 'old_value': 'Taipei County'}}}
+28: {'values_changed': {"root['champion']": {'new_value': 'Taipei County', 'old_value': 'Taipei, Taiwan'}}}
+29: {'values_changed': {"root['champion']": {'new_value': 'Taipei, Taiwan', 'old_value': 'Taipei County'}}}

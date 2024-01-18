@@ -1,0 +1,135 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2015 CFL season', "root['sport']": 'Canadian football', "root['commissioner']": 'Jeffrey Orridge', "root['inaugural']": '1958 CFL season', "root['teams']": '9', "root['champion']": 'Edmonton Eskimos (11th title)', "root['most_champs']": 'Edmonton Eskimos (11)', "root['TV']": 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US)   BT Sport, BT Sport ESPN (UK & Ireland) '}}
+9: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'John Cena'}}}
+10: {'values_changed': {"root['commissioner']": {'new_value': 'John Cena', 'old_value': 'Jeffrey Orridge'}}}
+11: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'John cena'}}}
+12: {'values_changed': {"root['commissioner']": {'new_value': 'John cena', 'old_value': 'Jeffrey Orridge'}}}
+13: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'Not jeffrey Orridge'}}}
+14: {'values_changed': {"root['commissioner']": {'new_value': 'Not jeffrey Orridge', 'old_value': 'Jeffrey Orridge'}}}
+15: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'Papa John'}}}
+16: {'values_changed': {"root['commissioner']": {'new_value': 'Papa John', 'old_value': 'Jeffrey Orridge'}}}
+17: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'John Cena'}, "root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Triple H (11th title)'}}}
+18: {'values_changed': {"root['commissioner']": {'new_value': 'John Cena', 'old_value': 'Jeffrey Orridge'}, "root['champion']": {'new_value': 'Triple H (11th title)', 'old_value': 'Edmonton Eskimos (11th title)'}}}
+32: {'values_changed': {"root['current_season']": {'new_value': '2015 CFL season', 'old_value': '2016 CFL season'}}}
+36: {'dictionary_item_removed': {"root['headquarters']": 'Toronto, Ontario, Canada'}}
+37: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '#Teams'}}}
+38: {'dictionary_item_added': {"root['most_champs']": 'Edmonton Eskimos (11)'}, 'dictionary_item_removed': {"root['most_grey_cup_wins']": 'Toronto Argonauts (16)'}, 'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Edmonton Eskimos (14th title)'}}}
+39: {'dictionary_item_added': {"root['most_grey_cup_wins']": 'Toronto Argonauts (16)'}, 'dictionary_item_removed': {"root['most_champs']": 'Edmonton Eskimos (11)'}, 'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (14th title)', 'old_value': 'Edmonton Eskimos (11th title)'}}}
+50: {'values_changed': {"root['current_season']": {'new_value': '2016 CFL season', 'old_value': '2016 TNA season'}, "root['sport']": {'new_value': 'Canadian football', 'old_value': 'Canadian Wrestling'}}}
+51: {'values_changed': {"root['current_season']": {'new_value': '2016 TNA season', 'old_value': '2016 CFL season'}, "root['sport']": {'new_value': 'Canadian Wrestling', 'old_value': 'Canadian football'}}}
+52: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (16)'}}}
+53: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (16)', 'old_value': 'Edmonton Eskimos (11)'}}}
+54: {'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Toronto Argonauts (16 titles)'}}}
+55: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (16 titles)', 'old_value': 'Edmonton Eskimos (11th title)'}}}
+120: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (16)'}}}
+121: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (16)', 'old_value': 'Edmonton Eskimos (11)'}}}
+138: {'values_changed': {"root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US)   BT Sport, BT Sport ESPN (UK & Ireland) ', 'old_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US)   BT Sport, BT Sport ESPN (UK & Ireland)  ESPN Brasil '}}}
+163: {'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Ottawa REDBLACKS (11th title)'}}}
+164: {'values_changed': {"root['champion']": {'new_value': 'Ottawa REDBLACKS (11th title)', 'old_value': 'Edmonton Eskimos (11th title)'}}}
+170: {'values_changed': {"root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US)   BT Sport, BT Sport ESPN (UK & Ireland)  ESPN Brasil ', 'old_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil '}}}
+211: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (16}'}, "root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil ', 'old_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil }'}}}
+212: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (16}', 'old_value': 'Edmonton Eskimos (11)'}, "root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil }', 'old_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil '}}}
+221: {'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Ottawa Redblacks (1st title)'}}}
+222: {'values_changed': {"root['champion']": {'new_value': 'Ottawa Redblacks (1st title)', 'old_value': 'Edmonton Eskimos (11th title)'}}}
+223: {'values_changed': {"root['champion']": {'new_value': 'Edmonton Eskimos (11th title)', 'old_value': 'Ottawa Redblacks (1st title)'}}}
+229: {'values_changed': {"root['champion']": {'new_value': 'Ottawa Redblacks (1st title)', 'old_value': 'Ottawa Redblacks (1)'}}}
+239: {'values_changed': {"root['current_season']": {'new_value': '2016 CFL season', 'old_value': '2017 CFL season'}}}
+242: {'values_changed': {"root['champion']": {'new_value': 'Ottawa Redblacks (1)', 'old_value': 'Ottawa Redblacks (1st title)'}}}
+246: {'values_changed': {"root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Brasil ', 'old_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Latin America ESPN Brasil '}}}
+247: {'values_changed': {"root['TV']": {'new_value': 'TSN TSN2 RDS NBCSN, ESPN, ESPN2 ESPN3 (US) BT Sport, BT Sport ESPN (UK & Ireland) ESPN Latin America ESPN Brasil ', 'old_value': 'TSN TSN2 RDS '}}}
+249: {'values_changed': {"root['sport']": {'new_value': 'Canadian football', 'old_value': 'corn football'}}}
+250: {'values_changed': {"root['sport']": {'new_value': 'corn football', 'old_value': 'Canadian football'}}}
+256: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (16)'}}}
+257: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (16)', 'old_value': 'Edmonton Eskimos (11)'}}}
+278: {'values_changed': {"root['TV']": {'new_value': 'TSN TSN2 RDS ', 'old_value': 'TSN, TSN2, RDS '}}}
+312: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Edmonton Eskimos (the best team ever!) (11)'}}}
+313: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (the best team ever!) (11)', 'old_value': 'Edmonton Eskimos (11)'}}}
+322: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'Vacant'}}}
+326: {'values_changed': {"root['commissioner']": {'new_value': 'Vacant', 'old_value': 'Jeffrey Orridge'}}}
+337: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey Orridge', 'old_value': 'Vacant'}}}
+338: {'values_changed': {"root['commissioner']": {'new_value': 'Vacant', 'old_value': 'Jim Lawson (interim)'}}}
+339: {'values_changed': {"root['commissioner']": {'new_value': 'Jim Lawson (interim)', 'old_value': 'Jim Lawson (sports executive)'}}}
+350: {'values_changed': {"root['commissioner']": {'new_value': 'Jim Lawson (sports executive)', 'old_value': 'Randy Ambrosie'}}}
+359: {'values_changed': {"root['commissioner']": {'new_value': 'Randy Ambrosie', 'old_value': 'Jim Lawson (sports executive)'}}}
+362: {'values_changed': {"root['commissioner']": {'new_value': 'Jim Lawson (sports executive)', 'old_value': 'Randy Ambrosie'}}}
+384: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (16)'}}}
+385: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (16)', 'old_value': 'Edmonton Eskimos (11)'}}}
+431: {'values_changed': {"root['champion']": {'new_value': 'Ottawa Redblacks (1st title)', 'old_value': 'Toronto Argonauts (17th title)'}, "root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Edmonton Eskiemos (11)'}}}
+433: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (17th title)', 'old_value': 'Toronto Argonauts (7th title)'}}}
+434: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskiemos (11)', 'old_value': 'Edmonton Eskimos (11)'}}}
+442: {'dictionary_item_removed': {"root['most_Grey_Cups']": 'Toronto Argonauts (17)'}}
+444: {'dictionary_item_added': {"root['most_Grey_Cups']": 'Toronto Argonauts (17)'}, 'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Toronto Argonauts (17th title)'}}}
+446: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (17th title)', 'old_value': 'Toronto Argonauts (7th title)'}}}
+448: {'values_changed': {"root['current_season']": {'new_value': '2017 CFL season', 'old_value': '2018 CFL season'}}}
+451: {'values_changed': {"root['inaugural']": {'new_value': '1958 CFL season', 'old_value': '1909 CFL season'}}}
+452: {'values_changed': {"root['inaugural']": {'new_value': '1909 CFL season', 'old_value': '1958 CFL season'}}}
+507: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+508: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Toronto Argonauts (17th title)'}}}
+509: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (17th title)', 'old_value': 'Toronto Argonauts (7th title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+510: {'values_changed': {"root['TV']": {'new_value': 'TSN, TSN2, RDS ', 'old_value': 'TSN, RDS '}}}
+513: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Toronto Argonauts (17th title)'}, "root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+514: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (17th title)', 'old_value': 'Toronto Argonauts (7th title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+530: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Toronto Argonauts (17th title)'}, "root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+531: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (17th title)', 'old_value': 'Toronto Argonauts (7th title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+534: {'dictionary_item_added': {"root['most_champs']": 'Edmonton Eskimos (11)'}, 'values_changed': {"root['inaugural']": {'new_value': '1958 CFL season', 'old_value': '1909 CFL season'}, "root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Toronto Argonauts (17th title) <!-- Toronto has 17 Grey Cups. This is for CFL champions.'}}}
+535: {'dictionary_item_removed': {"root['most_champs']": 'Edmonton Eskimos (11)'}, 'values_changed': {"root['inaugural']": {'new_value': '1909 CFL season', 'old_value': '1958 CFL season'}, "root['champion']": {'new_value': 'Toronto Argonauts (17th title) <!-- Toronto has 17 Grey Cups. This is for CFL champions.', 'old_value': 'Toronto Argonauts (7th title)'}}}
+547: {'values_changed': {"root['sport']": {'new_value': 'Canadian football', 'old_value': 'football'}}}
+548: {'values_changed': {"root['sport']": {'new_value': 'football', 'old_value': 'Canadian football'}}}
+596: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '9'}}}
+637: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts (7th title)', 'old_value': 'Calgary Stampeders (8th title)'}}}
+641: {'values_changed': {"root['current_season']": {'new_value': '2018 CFL season', 'old_value': '2019 CFL season'}}}
+652: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Edmonton Eskimos (11); Toronto Argonauts (17)'}}}
+653: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11); Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+654: {'values_changed': {"root['inaugural']": {'new_value': '1958 CFL season', 'old_value': '1909 CFL season'}, "root['teams']": {'new_value': '9', 'old_value': '10'}, "root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+656: {'values_changed': {"root['inaugural']": {'new_value': '1909 CFL season', 'old_value': '1958 CFL season'}, "root['teams']": {'new_value': '10', 'old_value': '9'}, "root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+659: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+660: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+727: {'values_changed': {"root['headquarters']": {'new_value': 'Toronto, Ontario, Canada', 'old_value': 'Toronto, Ontario'}}}
+729: {'dictionary_item_removed': {"root['align']": '"background:#06407C;" colspan', "root['rowspan']": '"2"', "root['list1']": 'CFL seasons 2018 CFL season by team Professional gridiron football leagues in North America Major Leagues   Authority control  Category:1958 establishments in Quebec   Category:Canadian football leagues Category:Professional sports leagues in Canada Category:Sports leagues established in 1958 Category:Organizations based in Toronto'}, 'values_changed': {"root['TV']": {'new_value': 'TSN, RDS ', 'old_value': 'The Sports Network'}}}
+730: {'dictionary_item_added': {"root['align']": '"background:#06407C;" colspan', "root['rowspan']": '"2"', "root['list1']": 'CFL seasons 2018 CFL season by team Professional gridiron football leagues in North America Major Leagues   Authority control  Category:1958 establishments in Quebec   Category:Canadian football leagues Category:Professional sports leagues in Canada Category:Sports leagues established in 1958 Category:Organizations based in Toronto'}, 'values_changed': {"root['TV']": {'new_value': 'The Sports Network', 'old_value': 'TSN, RDS '}}}
+771: {'values_changed': {"root['current_season']": {'new_value': '2019 CFL season', 'old_value': '2019 CFL mcshittles'}}}
+772: {'values_changed': {"root['current_season']": {'new_value': '2019 CFL mcshittles', 'old_value': '2019 CFL season'}}}
+773: {'values_changed': {"root['current_season']": {'new_value': '2019 CFL season', 'old_value': '2019 CFL mcshittles'}}}
+774: {'values_changed': {"root['current_season']": {'new_value': '2019 CFL mcshittles', 'old_value': '2019 CFL season'}}}
+776: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Edmonton Eskimos (14)'}}}
+777: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (14)', 'old_value': 'Edmonton Eskimos (11)'}}}
+791: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Edmonton Eskimos (14)'}}}
+792: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (14)', 'old_value': 'Edmonton Eskimos (11)'}}}
+818: {'values_changed': {"root['headquarters']": {'new_value': 'Toronto, Ontario', 'old_value': 'Toronto'}}}
+845: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+846: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+866: {'values_changed': {"root['champion']": {'new_value': 'Calgary Stampeders (8th title)', 'old_value': 'Winnipeg Blue Bombers (8th title)'}}}
+867: {'values_changed': {"root['champion']": {'new_value': 'Winnipeg Blue Bombers (8th title)', 'old_value': 'Winnipeg Blue Bombers (12th title)'}}}
+868: {'values_changed': {"root['champion']": {'new_value': 'Winnipeg Blue Bombers (12th title)', 'old_value': 'Winnipeg Blue Bombers (11th title)'}}}
+871: {'values_changed': {"root['champion']": {'new_value': 'Winnipeg Blue Bombers (11th title)', 'old_value': 'Winnipeg Blue Bombers (8th title)'}}}
+873: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+875: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+876: {'values_changed': {"root['current_season']": {'new_value': '2019 CFL season', 'old_value': '2020 CFL season'}}}
+885: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'Toronto Argonauts (17)'}}}
+886: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts (17)', 'old_value': 'Edmonton Eskimos (11)'}}}
+889: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'TSN, RDS '}}, 'dictionary_item_added': {"root['current_season']": '2020 CFL season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 CFL season'}, 'values_changed': {"root['headquarters']": {'new_value': 'Toronto', 'old_value': '50 Wellington Street East Toronto, Ontario'}, "root['champion']": {'new_value': 'Winnipeg Blue Bombers (8th title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}, "root['most_champs']": {'new_value': 'Edmonton Eskimos (11)', 'old_value': 'TorontoArgonauts, (18 CFL titles)'}}}
+890: {'values_changed': {"root['most_champs']": {'new_value': 'TorontoArgonauts, (18 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+891: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+897: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+898: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+899: {'dictionary_item_added': {"root['most_champs']": 'Edmonton Elks, (11 CFL titles)', "root['TV']": []}, 'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': "TSN1/TSN2/TSN3/TSN4/TSN5 | RDS/RDS2 | '''United States:''' | ESPN2/ESPNEWS | ESPN+ | '''International:''' | See list "}}}
+901: {'dictionary_item_removed': {"root['most_champs']": 'Edmonton Elks, (11 CFL titles)', "root['TV']": []}, 'values_changed': {"root['champion']": {'new_value': "TSN1/TSN2/TSN3/TSN4/TSN5 | RDS/RDS2 | '''United States:''' | ESPN2/ESPNEWS | ESPN+ | '''International:''' | See list ", 'old_value': 'Toronto Argonauts, (8th CFL title)'}}}
+911: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}}}
+912: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}}}
+929: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}, "root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+930: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+937: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}}}
+938: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}}}
+947: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}}}
+948: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+949: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+958: {'values_changed': {"root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+959: {'values_changed': {"root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+960: {'dictionary_item_added': {"root['upcoming_season']": '2023 CFL season'}, 'dictionary_item_removed': {"root['current_season']": '2023 CFL season'}}
+961: {'values_changed': {"root['commissioner']": {'new_value': 'Randy Ambrosie', 'old_value': 'Tom Brady'}}}
+963: {'values_changed': {"root['commissioner']": {'new_value': 'Tom Brady', 'old_value': 'Randy Ambrosie'}}}
+964: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}, "root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+965: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+966: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}, "root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+967: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}
+968: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (8th CFL title)', 'old_value': 'Toronto Argonauts, (18th CFL title)'}, "root['most_champs']": {'new_value': 'Edmonton Elks, (11 CFL titles)', 'old_value': 'Toronto Argonauts, (18 CFL titles)'}}}
+969: {'values_changed': {"root['champion']": {'new_value': 'Toronto Argonauts, (18th CFL title)', 'old_value': 'Toronto Argonauts, (8th CFL title)'}, "root['most_champs']": {'new_value': 'Toronto Argonauts, (18 CFL titles)', 'old_value': 'Edmonton Elks, (11 CFL titles)'}}}

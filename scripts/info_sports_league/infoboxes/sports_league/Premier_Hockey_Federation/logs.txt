@@ -1,0 +1,50 @@
+1: {'dictionary_item_removed': {"root['name']": "National Women's Hockey League", "root['teams']": '4'}}
+6: {'dictionary_item_removed': {"root['headquarters']": 'New York, New York'}}
+10: {'dictionary_item_removed': {"root['leader_title']": 'Commissioner', "root['leader_name']": 'Dani Rylan'}}
+23: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+25: {'dictionary_item_removed': {"root['pixels']": 'HELLO JACOB WAS HERE'}}
+28: {'dictionary_item_removed': {"root['republic']": 'jdjdj', "root['region']": 'ncjcjc'}, 'values_changed': {"root['pixels']": {'new_value': 'HELLO JACOB WAS HERE', 'old_value': 'Jong'}}}
+29: {'dictionary_item_removed': {"root['confed']": 'jfjfj'}}
+30: {'dictionary_item_removed': {"root['leader_title2']": 'neneje'}}
+33: {'values_changed': {"root['leader_title2']": {'new_value': 'neneje', 'old_value': 'poor website and ya...'}}}
+34: {'values_changed': {"root['leader_title2']": {'new_value': 'poor website and ya...', 'old_value': 'neneje'}}}
+35: {'values_changed': {"root['pixels']": {'new_value': 'Jong', 'old_value': 'Pee'}}}
+36: {'values_changed': {"root['pixels']": {'new_value': 'Pee', 'old_value': 'Jong'}}}
+43: {'dictionary_item_added': {"root['pixels']": 'Jong', "root['republic']": 'jdjdj', "root['region']": 'ncjcjc', "root['confed']": 'jfjfj', "root['leader_title2']": 'neneje'}, 'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+44: {'dictionary_item_removed': {"root['champ']": 'Isobel Cup'}}
+57: {'dictionary_item_removed': {"root['season']": '2015–16 NWHL season'}}
+87: {'dictionary_item_removed': {"root['region']": 'Northeast', "root['current_season']": '2015–16 NWHL season '}}
+151: {'dictionary_item_added': {"root['name']": "National Women's Hockey League", "root['region']": 'Northeast', "root['leader_title']": 'Commissioner', "root['leader_name']": 'Dani Rylan', "root['season']": '2015–16 NWHL season'}, 'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['commissioner']": 'Dani Rylan', "root['countries']": 'United States', "root['TV']": "ESPN 3, '''Regional''', NESN (Boston Pride)"}, 'values_changed': {"root['headquarters']": {'new_value': 'New York, New York', 'old_value': 'New York City, New York, U.S.'}}}
+152: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': "ESPN 3, '''Regional''', NESN (Boston Pride)"}}, 'dictionary_item_removed': {"root['continent']": 'North America'}}
+163: {'type_changes': {"root['TV']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Cheddar (', 'new_value': []}}, 'dictionary_item_added': {"root['champ']": 'Isobel Cup'}, 'dictionary_item_removed': {"root['champion']": 'Minnesota Whitecaps (1st title)'}, 'values_changed': {"root['commissioner']": {'new_value': 'Dani Rylan', 'old_value': 'Tyler Tumminia'}, "root['headquarters']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}, "root['teams']": {'new_value': '4', 'old_value': '6'}, "root['countries']": {'new_value': 'United States', 'old_value': 'United States, Canada'}, "root['current_season']": {'new_value': '2015–16 NWHL season ', 'old_value': '2020–21 NWHL season '}}}
+167: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia', 'old_value': 'Dave Portnoy'}}}
+168: {'values_changed': {"root['commissioner']": {'new_value': 'Dave Portnoy', 'old_value': 'Ty Tumminia'}}}
+170: {'values_changed': {"root['commissioner']": {'new_value': 'Ty Tumminia', 'old_value': 'Tyler Tumminia'}}}
+172: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia', 'old_value': 'Erika Nardini'}}}
+173: {'values_changed': {"root['commissioner']": {'new_value': 'Erika Nardini', 'old_value': 'Tyler Tumminia'}}}
+178: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia', 'old_value': 'Dave Portnoy'}}}
+179: {'values_changed': {"root['commissioner']": {'new_value': 'Dave Portnoy', 'old_value': 'Tyler Tumminia'}}}
+192: {'dictionary_item_removed': {"root['most_champs']": '<!--Boston Pride'}, 'values_changed': {"root['champion']": {'new_value': 'Minnesota Whitecaps (1st title)', 'old_value': 'Boston Pride (2nd title)'}}}
+193: {'values_changed': {"root['most_champs']": {'new_value': '<!--Boston Pride', 'old_value': 'Boston Pride (2)'}}}
+212: {'dictionary_item_removed': {"root['formerly']": "National Women's Hockey League"}}
+213: {'values_changed': {"root['formerly']": {'new_value': "National Women's Hockey League", 'old_value': "National Women's Hockey League (2015-21)"}}}
+215: {'dictionary_item_added': {"root['continent']": 'North America'}, 'values_changed': {"root['formerly']": {'new_value': "National Women's Hockey League (2015-21)", 'old_value': "National Women's Hockey League (2015–2021)"}}}
+217: {'values_changed': {"root['current_season']": {'new_value': '2020–21 NWHL season ', 'old_value': '2021–22 PHF season '}}}
+222: {'values_changed': {"root['countries']": {'new_value': 'United States, Canada', 'old_value': 'Canada (1 team) United States (5 teams)'}, "root['champion']": {'new_value': 'Boston Pride (2nd title)', 'old_value': 'Boston Pride, (2nd title)'}, "root['most_champs']": {'new_value': 'Boston Pride (2)', 'old_value': 'Boston Pride, (2 titles)'}}}
+226: {'values_changed': {"root['champion']": {'new_value': 'Boston Pride, (2nd title)', 'old_value': 'Boston Pride (2nd title)'}, "root['most_champs']": {'new_value': 'Boston Pride, (2 titles)', 'old_value': 'Boston Pride (2 titles)'}}}
+227: {'values_changed': {"root['formerly']": {'new_value': "National Women's Hockey League (2015–2021)", 'old_value': "NWHL - National Women's Hockey League (2015–2021)"}}}
+238: {'values_changed': {"root['TV']": {'new_value': 'Cheddar (', 'old_value': 'NBCSN ESPN+ YouTube Twitch (service)'}}}
+257: {'values_changed': {"root['formerly']": {'new_value': "NWHL - National Women's Hockey League (2015–2021)", 'old_value': "National Women's Hockey League (2015–2021)"}}}
+266: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia', 'old_value': 'Tyler Tumminia (outgoing'}}}
+267: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia (outgoing', 'old_value': 'Tyler Tumminia (outgoing)'}}}
+268: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia (outgoing)', 'old_value': 'Tyler Tumminia (outgoing'}}}
+269: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia (outgoing', 'old_value': 'Tyler Tumminia'}}}
+272: {'values_changed': {"root['TV']": {'new_value': 'NBCSN ESPN+ YouTube Twitch (service)', 'old_value': 'ESPN+ YouTube Twitch (service)'}}}
+273: {'values_changed': {"root['champion']": {'new_value': 'Boston Pride (2nd title)', 'old_value': 'Boston Pride (3rd title)'}, "root['most_champs']": {'new_value': 'Boston Pride (2 titles)', 'old_value': 'Boston Pride (3 titles)'}}}
+275: {'values_changed': {"root['commissioner']": {'new_value': 'Tyler Tumminia', 'old_value': 'Reagan Carey'}}}
+278: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}, "root['countries']": {'new_value': 'Canada (1 team) United States (5 teams)', 'old_value': 'Canada (2 teams) United States (5 teams)'}}}
+286: {'dictionary_item_added': {"root['TV']": 'ESPN+ YouTube Twitch (service)'}, 'dictionary_item_removed': {"root['tv']": 'ESPN+ YouTube Twitch (service)'}, 'values_changed': {"root['formerly']": {'new_value': "National Women's Hockey League (2015–2021)", 'old_value': "'''National Women's Hockey League''' (2015–2021)"}, "root['current_season']": {'new_value': '2021–22 PHF season ', 'old_value': '2022–23 PHF season '}}}
+309: {'values_changed': {"root['tv']": {'new_value': 'ESPN+ YouTube Twitch (service)', 'old_value': 'ESPN+ The Sports Network'}}}
+312: {'values_changed': {"root['formerly']": {'new_value': "'''National Women's Hockey League''' (2015–2021)", 'old_value': "National Women's Hockey League (2015–2021)"}}}
+316: {'values_changed': {"root['champion']": {'new_value': 'Boston Pride (3rd title)', 'old_value': 'Toronto Six (1st title)'}}}
+329: {'dictionary_item_added': {"root['current_season']": '2022–23 PHF season '}, 'dictionary_item_removed': {"root['folded']": 'End date', "root['replaced']": "''Professional Women's Hockey Players Association", "root['last_season']": '2022–23 PHF season '}}

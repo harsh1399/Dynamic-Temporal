@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Rugby union', "root['inaugural']": '2017', "root['teams']": '15', "root['sponsor']": 'SuperSport', "root['related_comps']": 'Currie Cup '}}
+3: {'dictionary_item_removed': {"root['current_season']": '2017 Rugby Challenge'}}
+9: {'dictionary_item_added': {"root['current_season']": '2017 Rugby Challenge'}, 'dictionary_item_removed': {"root['last_season']": '2018 Rugby Challenge', "root['countries']": 'South Africa, ,  Namibia', "root['champion']": 'Rut Pumas', "root['most_champs']": 'Rut Pumas, ,  Rut Western Province'}, 'values_changed': {"root['sponsor']": {'new_value': 'SuperSport', 'old_value': 'SuperSport (South African TV channel)'}}}
+12: {'dictionary_item_added': {"root['last_season']": '2018 Rugby Challenge'}, 'dictionary_item_removed': {"root['current_season']": '2019 Rugby Challenge'}}
+20: {'values_changed': {"root['champion']": {'new_value': 'Rut Pumas', 'old_value': 'Rut Griquas'}, "root['most_champs']": {'new_value': 'Rut Pumas, ,  Rut Western Province', 'old_value': 'Rut Griquas, ,  Rut Pumas, ,  Rut Western Province'}}}
+23: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '16'}, "root['countries']": {'new_value': 'South Africa, ,  Namibia', 'old_value': 'South Africa, ,  Namibia, ,  Zimbabwe'}}}

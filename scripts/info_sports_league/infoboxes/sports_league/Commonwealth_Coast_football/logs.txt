@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'New England Football Conference', "root['short_name']": 'NEFC', "root['established']": '1965', "root['logo_size']": '150', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'Division III (NCAA)', "root['members']": '8', "root['sports']": '1', "root['mens']": '1 (football)', "root['womens']": '0', "root['region']": 'New England', "root['commissioner']": 'John Harper', "root['map']": 'NEFC-USA-states.png', "root['map_size']": '250 '}}
+5: {'dictionary_item_removed': {"root['since']": '2015'}, 'values_changed': {"root['commissioner']": {'new_value': 'John Harper', 'old_value': 'Gregg Kaye'}}}
+8: {'values_changed': {"root['commissioner']": {'new_value': 'Gregg Kaye', 'old_value': 'Gregg M. Kaye'}}}
+11: {'dictionary_item_removed': {"root['renamed']": '2017 (Commonwealth Coast Football)'}, 'values_changed': {"root['division']": {'new_value': 'Division III (NCAA)', 'old_value': 'NCAA Division III'}}}
+12: {'values_changed': {"root['renamed']": {'new_value': '2017 (Commonwealth Coast Football)', 'old_value': '2017'}}}
+25: {'dictionary_item_added': {"root['short_name']": 'NEFC'}, 'values_changed': {"root['name']": {'new_value': 'New England Football Conference', 'old_value': 'Commonwealth Coast Football'}, "root['members']": {'new_value': '8', 'old_value': '6 (2017), 7 (2018)'}}}
+28: {'dictionary_item_added': {"root['renamed']": '2017'}, 'values_changed': {"root['established']": {'new_value': '1965', 'old_value': '1965 (Renamed 2017)'}}}
+41: {'dictionary_item_removed': {"root['short_name']": 'CCC Football', "root['former_names']": 'New England Football Conference'}}

@@ -1,0 +1,40 @@
+0: {'dictionary_item_removed': {"root['name']": 'Atlantic Coast Conference', "root['short_name']": 'ACC', "root['established']": '1953', "root['logo_size']": '125', "root['association']": 'NCAA', "root['division']": 'Division I', "root['subdivision']": 'Division I#Football Bowl Subdivision', "root['members']": '12', "root['sports']": '23', "root['mens']": '12', "root['womens']": '11', "root['region']": 'East Coast of the United States', "root['hq_city']": 'Greensboro', "root['hq_stateabb']": 'NC', "root['hq_state']": 'North Carolina', "root['commissioner']": 'John Swofford', "root['since']": '1997', "root['color']": '193980', "root['font_color']": 'FFFFFF', "root['map']": 'ACC-USA-states (1).PNG', "root['map_size']": '300 '}}
+68: {'values_changed': {"root['division']": {'new_value': 'Division I', 'old_value': 'Division I (NCAA)'}, "root['subdivision']": {'new_value': 'Division I#Football Bowl Subdivision', 'old_value': 'Division I (NCAA)#Football Bowl Subdivision'}}}
+100: {'values_changed': {"root['sports']": {'new_value': '23', 'old_value': '25'}, "root['womens']": {'new_value': '11', 'old_value': '13'}}}
+179: {'values_changed': {"root['association']": {'new_value': 'NCAA', 'old_value': 'National Collegiate Athletic Association'}}}
+224: {'dictionary_item_added': {"root['hq_stateabb']": 'NC'}, 'values_changed': {"root['sports']": {'new_value': '25', 'old_value': '25<ref name'}, "root['mens']": {'new_value': '12', 'old_value': '12<ref name'}, "root['womens']": {'new_value': '13', 'old_value': '13<ref name'}}}
+328: {'values_changed': {"root['map_size']": {'new_value': '300 ', 'old_value': '225 '}}}
+329: {'values_changed': {"root['mens']": {'new_value': '12<ref name', 'old_value': '12'}, "root['womens']": {'new_value': '13<ref name', 'old_value': '13'}}}
+332: {'values_changed': {"root['region']": {'new_value': 'East Coast of the United States', 'old_value': 'South Atlantic State'}}}
+333: {'values_changed': {"root['region']": {'new_value': 'South Atlantic State', 'old_value': 'South Atlantic States'}}}
+361: {'values_changed': {"root['members']": {'new_value': '12', 'old_value': '12 (14 in 2013)'}}}
+372: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013)', 'old_value': '12 (14 in TBD)'}}}
+375: {'values_changed': {"root['members']": {'new_value': '12 (14 in TBD)', 'old_value': '12 (14 in TBA)'}}}
+378: {'values_changed': {"root['members']": {'new_value': '12 (14 in TBA)', 'old_value': '12 (14 in 2013)'}}}
+379: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013)', 'old_value': "12 ('''14''' in 2014)"}}}
+389: {'values_changed': {"root['members']": {'new_value': "12 ('''14''' in 2014)", 'old_value': '12 (+2 joining)'}}}
+415: {'values_changed': {"root['members']": {'new_value': '12 (+2 joining)', 'old_value': '12 (14 by 2014)'}}}
+419: {'values_changed': {"root['members']": {'new_value': '12 (14 by 2014)', 'old_value': '12 (+2 joining)'}}}
+420: {'values_changed': {"root['members']": {'new_value': '12 (+2 joining)', 'old_value': '12 (14 by 2014)'}}}
+422: {'values_changed': {"root['members']": {'new_value': '12 (14 by 2014)', 'old_value': '12 (+2 joining)'}}}
+423: {'values_changed': {"root['members']": {'new_value': '12 (+2 joining)', 'old_value': '12 (14 by 2014)'}}}
+425: {'values_changed': {"root['members']": {'new_value': '12 (14 by 2014)', 'old_value': '12 (+2 joining)'}}}
+430: {'values_changed': {"root['map']": {'new_value': 'ACC-USA-states (1).PNG', 'old_value': 'ACC-USA-states (1).png'}}}
+453: {'values_changed': {"root['map']": {'new_value': 'ACC-USA-states (1).png', 'old_value': 'ACC-USA-states.png'}}}
+470: {'values_changed': {"root['subdivision']": {'new_value': 'Division I (NCAA)#Football Bowl Subdivision', 'old_value': 'Football Bowl Subdivision'}}}
+641: {'values_changed': {"root['map']": {'new_value': 'ACC-USA-states.png', 'old_value': 'Map_of_ACC_member_institutions.png'}}}
+645: {'values_changed': {"root['map']": {'new_value': 'Map_of_ACC_member_institutions.png', 'old_value': 'ACC_overview_map_2012-13.png'}}}
+651: {'values_changed': {"root['map']": {'new_value': 'ACC_overview_map_2012-13.png', 'old_value': 'Map_of_ACC_member_institutions.png'}}}
+652: {'values_changed': {"root['map']": {'new_value': 'Map_of_ACC_member_institutions.png', 'old_value': 'ACC_overview_map_2012-13.png'}}}
+670: {'values_changed': {"root['members']": {'new_value': '12 (+2 joining)', 'old_value': '12 (14 in 2013)'}}}
+697: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013)', 'old_value': '12 (14 in 2013, 15 in 2015)'}}}
+741: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013, 15 in 2015)', 'old_value': '12 (14 in 2013, 15 by 2015)'}}}
+787: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013, 15 by 2015)', 'old_value': '12 (14 in 2013)'}}}
+797: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013)', 'old_value': '12 (14 in 2013, 13 in 2014)'}}}
+807: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2013, 13 in 2014)', 'old_value': '12 (14 in 2013)'}}}
+813: {'dictionary_item_added': {"root['hq_state']": 'North Carolina'}, 'values_changed': {"root['hq_city']": {'new_value': 'Greensboro', 'old_value': "Bojangles' Famous Chicken 'n Biscuits"}}}
+814: {'dictionary_item_removed': {"root['hq_state']": 'North Carolina'}, 'values_changed': {"root['hq_city']": {'new_value': "Bojangles' Famous Chicken 'n Biscuits", 'old_value': 'Greensboro'}}}
+816: {'values_changed': {"root['hq_city']": {'new_value': 'Greensboro', 'old_value': 'Bojangles'}, "root['hq_state']": {'new_value': 'North Carolina', 'old_value': 'Chicken n Biscuits'}}}
+817: {'values_changed': {"root['hq_city']": {'new_value': 'Bojangles', 'old_value': 'Greensboro'}, "root['hq_state']": {'new_value': 'Chicken n Biscuits', 'old_value': 'North Carolina'}}}
+944: {'type_changes': {"root['region']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Southern United States'], 'new_value': 'South Atlantic States'}}, 'dictionary_item_added': {"root['short_name']": 'ACC'}, 'values_changed': {"root['established']": {'new_value': '1953', 'old_value': 'Start date and age'}, "root['logo_size']": {'new_value': '125', 'old_value': '250'}, "root['division']": {'new_value': 'Division I (NCAA)', 'old_value': 'NCAA Division I'}, "root['subdivision']": {'new_value': 'Football Bowl Subdivision', 'old_value': 'NCAA Division I Football Bowl Subdivision'}, "root['members']": {'new_value': '12 (14 in 2013)', 'old_value': '15'}, "root['sports']": {'new_value': '25<ref name', 'old_value': '28<ref name'}, "root['mens']": {'new_value': '12', 'old_value': '14'}, "root['womens']": {'new_value': '13', 'old_value': '14'}, "root['since']": {'new_value': '1997', 'old_value': 'July 1, 1997'}, "root['color']": {'new_value': '193980', 'old_value': '#013CA6'}, "root['font_color']": {'new_value': 'FFFFFF', 'old_value': '#FFFFFF'}, "root['map']": {'new_value': 'ACC_overview_map_2012-13.png', 'old_value': 'ACC_overview_map_2012-13a.png'}}}
+959: {'values_changed': {"root['commissioner']": {'new_value': 'John Swofford', 'old_value': 'James J. Phillips'}, "root['since']": {'new_value': 'July 1, 1997', 'old_value': 'February 1, 2021'}}}

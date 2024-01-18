@@ -1,0 +1,56 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Indoor American football', "root['inaugural']": '2014', "root['ceo']": 'Andrew Haines & LaMonte Coleman', "root['teams']": '4', "root['related_comps']": 'Continental Indoor Football League, Ultimate Indoor Football League'}}
+1: {'dictionary_item_added': {"root['ceo']": 'Andrew Haines & LaMonte Coleman'}, 'dictionary_item_removed': {"root['President']": 'LaMonte Coleman'}}
+4: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+12: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+13: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '3'}}}
+15: {'values_changed': {"root['President']": {'new_value': 'LaMonte Coleman', 'old_value': 'Kacee Smith'}}}
+18: {'dictionary_item_removed': {"root['Director']": 'Michael Mink', "root['Founder']": 'Kacee Smith, Michael Mink, Andrew Hines '}}
+22: {'values_changed': {"root['teams']": {'new_value': '3', 'old_value': '4'}}}
+24: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '6'}, "root['Founder']": {'new_value': 'Kacee Smith, Michael Mink, Andrew Hines ', 'old_value': 'Kacee Smith, Michael Mink '}}}
+25: {'dictionary_item_added': {"root['Director']": 'Michael Mink'}, 'dictionary_item_removed': {"root['Commissioner']": 'Michael Mink'}}
+27: {'dictionary_item_added': {"root['Commissioner']": 'Michael Mink'}, 'dictionary_item_removed': {"root['Director']": 'Michael Mink'}}
+34: {'values_changed': {"root['related_comps']": {'new_value': 'Continental Indoor Football League, Ultimate Indoor Football League', 'old_value': 'Continental Indoor Football League, Arena Football League'}}}
+35: {'dictionary_item_removed': {"root['Commissioner']": 'Michael Mink'}}
+39: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}
+48: {'values_changed': {"root['inaugural']": {'new_value': '2014', 'old_value': '2014 XLIF season'}}}
+49: {'values_changed': {"root['inaugural']": {'new_value': '2014 XLIF season', 'old_value': '2014 X-League Indoor Football season'}}}
+50: {'dictionary_item_added': {"root['President']": 'Kacee Smith', "root['Commissioner']": 'Michael Mink'}, 'dictionary_item_removed': {"root['current_season']": '2014 X-League Indoor Football season', "root['president']": 'Kacee Smith', "root['ceo']": 'Michael Mink'}, 'values_changed': {"root['related_comps']": {'new_value': 'Continental Indoor Football League, Arena Football League', 'old_value': 'Continental Indoor Football League'}}}
+57: {'dictionary_item_removed': {"root['champion']": 'Marine Raiders (2014)', "root['most_champs']": 'Marine Raiders (1)'}}
+58: {'values_changed': {"root['champion']": {'new_value': 'Marine Raiders (2014)', 'old_value': 'Florida Marine Raiders (2014)'}, "root['most_champs']": {'new_value': 'Marine Raiders (1)', 'old_value': 'Florida Marine Raiders (1)'}}}
+59: {'values_changed': {"root['related_comps']": {'new_value': 'Continental Indoor Football League', 'old_value': 'Arena Football League, American Indoor Football, Continental Indoor Football League'}}}
+62: {'dictionary_item_added': {"root['Founder']": 'Kacee Smith, Michael Mink '}, 'dictionary_item_removed': {"root['Founders']": 'Kacee Smith, Michael Mink '}}
+63: {'dictionary_item_added': {"root['Founders']": 'Kacee Smith, Michael Mink '}, 'dictionary_item_removed': {"root['Founder']": 'Kacee Smith, Michael Mink '}}
+66: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+67: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+70: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+75: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+77: {'values_changed': {"root['champion']": {'new_value': 'Florida Marine Raiders (2014)', 'old_value': 'Florida Marine Raiders (1st title)'}, "root['most_champs']": {'new_value': 'Florida Marine Raiders (1)', 'old_value': 'Florida Marine Raiders (1 title)'}, "root['related_comps']": {'new_value': 'Arena Football League, American Indoor Football, Continental Indoor Football League', 'old_value': 'American Indoor Football, Professional Indoor Football League (2012)'}}}
+78: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+79: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+81: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+82: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+83: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+84: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+85: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+93: {'dictionary_item_added': {"root['Director']": 'Michael Mink'}, 'values_changed': {"root['most_champs']": {'new_value': 'Florida Marine Raiders (1 title)', 'old_value': 'Florida Marine Raiders (1)'}, "root['related_comps']": {'new_value': 'American Indoor Football, Professional Indoor Football League (2012)', 'old_value': 'Arena Football League, Indoor Football League, Professional Indoor Football League (2012)'}}}
+94: {'dictionary_item_removed': {"root['Commissioner']": 'Michael Mink'}}
+99: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+103: {'values_changed': {"root['current_season']": {'new_value': '2014 X-League Indoor Football season', 'old_value': '2015 X-League Indoor Football season'}}}
+105: {'values_changed': {"root['related_comps']": {'new_value': 'Arena Football League, Indoor Football League, Professional Indoor Football League (2012)', 'old_value': 'American Indoor Football, Indoor Football League, Professional Indoor Football League (2012)'}}}
+107: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+110: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+112: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '9'}, "root['related_comps']": {'new_value': 'American Indoor Football, Indoor Football League, Professional Indoor Football League (2012)', 'old_value': 'American Indoor Football, Indoor Football League, Professional Indoor Football League, Champions Indoor Football'}}}
+115: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '8'}}}
+118: {'values_changed': {"root['champion']": {'new_value': 'Florida Marine Raiders (1st title)', 'old_value': 'Florida Tarpons (1st title)'}, "root['most_champs']": {'new_value': 'Florida Marine Raiders (1)', 'old_value': 'Florida Marine Raiders, Florida Tarpons (1 title each)'}}}
+119: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+123: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+125: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '9'}}}
+126: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '8'}}}
+132: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+133: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '8'}}}
+134: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+137: {'dictionary_item_removed': {"root['folded']": '2015'}}
+138: {'values_changed': {"root['related_comps']": {'new_value': 'American Indoor Football, Indoor Football League, Professional Indoor Football League, Champions Indoor Football', 'old_value': 'American Indoor Football, Indoor Football League, Champions Indoor Football'}}}
+139: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '5'}}}
+141: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+142: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '3'}}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['classification']": 'Class A (baseball)', "root['president']": 'Richard A. Nussbaum II', "root['teams']": '16', "root['champion']": 'South Bend Cubs (2019)', "root['most_champs']": 'Wisconsin Timber Rattlers and Lansing Lugnuts (9)', "root['TV']": 'Fox Sports Midwest'}}
+25: {'values_changed': {"root['classification']": {'new_value': 'Class A (baseball)', 'old_value': 'Class A-Advanced'}, "root['teams']": {'new_value': '16', 'old_value': '12'}}}
+66: {'dictionary_item_removed': {"root['folded']": '2021', "root['replaced']": 'High-A Central'}}
+71: {'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'Class A (baseball)'}}}
+74: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '16'}}}
+75: {'values_changed': {"root['folded']": {'new_value': '2021', 'old_value': '2020'}}}
+76: {'dictionary_item_added': {"root['president']": 'Richard A. Nussbaum II', "root['folded']": '2020', "root['replaced']": 'High-A Central'}, 'values_changed': {"root['classification']": {'new_value': 'Class A (baseball)', 'old_value': 'High-A (2021–present), Class A (baseball)'}, "root['teams']": {'new_value': '16', 'old_value': '12'}, "root['champion']": {'new_value': 'South Bend Cubs (2019)', 'old_value': 'Quad Cities River Bandits (2021)'}}}
+81: {'values_changed': {"root['classification']": {'new_value': 'High-A (2021–present), Class A (baseball)', 'old_value': 'High-A (2021–present) Class A (baseball)'}}}
+91: {'dictionary_item_added': {"root['TV']": 'Fox Sports Midwest'}, 'values_changed': {"root['champion']": {'new_value': 'Quad Cities River Bandits (2021)', 'old_value': 'South Bend Cubs (2022)'}}}

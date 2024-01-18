@@ -1,0 +1,6 @@
+43: {'dictionary_item_removed': {"root['sport']": 'Hockey', "root['teams']": '6', "root['champion']": 'New Westminster Whalers', "root['ceo']": 'Bobby Hull (Commissioner) Rick Smith (hockey)'}}
+49: {'values_changed': {"root['champion']": {'new_value': 'New Westminster Whalers', 'old_value': 'Oliver Jets'}}}
+75: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+83: {'dictionary_item_removed': {"root['folded']": '2008'}}
+97: {'dictionary_item_removed': {"root['inaugural']": '2006'}, 'values_changed': {"root['sport']": {'new_value': 'Hockey', 'old_value': 'Ice hockey'}, "root['teams']": {'new_value': '8', 'old_value': '6 (original)'}, "root['ceo']": {'new_value': 'Bobby Hull (Commissioner) Rick Smith (hockey)', 'old_value': 'Bobby Hull (Commissioner) Ricky Smith (sports executive)'}}}

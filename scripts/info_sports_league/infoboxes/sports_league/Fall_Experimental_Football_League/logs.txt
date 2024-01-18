@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['pixels']": '125 px', "root['sport']": 'American football', "root['inaugural']": '2014', "root['teams']": '#Teams', "root['ceo']": 'Brian Woods'}}
+67: {'dictionary_item_removed': {"root['TV']": 'ESPN 3 Soul of the South Network'}}
+69: {'values_changed': {"root['inaugural']": {'new_value': '2014', 'old_value': 'dts'}}}
+71: {'values_changed': {"root['TV']": {'new_value': 'ESPN 3 Soul of the South Network', 'old_value': 'regional channels, plus ESPN 3'}}}
+92: {'values_changed': {"root['TV']": {'new_value': 'regional channels, plus ESPN 3', 'old_value': 'Broadcast syndication'}}}
+96: {'values_changed': {"root['TV']": {'new_value': 'Broadcast syndication', 'old_value': 'regional channels, plus ESPN 3'}}}
+122: {'dictionary_item_removed': {"root['champion']": 'Brooklyn Bolts (1st)'}}
+126: {'dictionary_item_removed': {"root['current_season']": '2015 FXFL season', "root['most_champs']": 'Brookyln Bolts (2)'}, 'values_changed': {"root['champion']": {'new_value': 'Brooklyn Bolts (1st)', 'old_value': 'Brooklyn Bolts'}, "root['TV']": {'new_value': 'regional channels, plus ESPN 3', 'old_value': 'Regional channels, plus ESPN 3'}}}
+131: {'values_changed': {"root['most_champs']": {'new_value': 'Brookyln Bolts (2)', 'old_value': 'Brooklyn Bolts (2)'}}}
+145: {'values_changed': {"root['most_champs']": {'new_value': 'Brooklyn Bolts (2)', 'old_value': 'Brooklyn Bolts (1)'}}}
+156: {'dictionary_item_added': {"root['current_season']": '2015 FXFL season'}, 'dictionary_item_removed': {"root['folded']": 'August 26, 2016'}}
+158: {'dictionary_item_added': {"root['folded']": 'August 26, 2016'}, 'dictionary_item_removed': {"root['current_season']": '2015 FXFL season'}}
+160: {'dictionary_item_removed': {"root['folded']": '2016'}}
+192: {'dictionary_item_added': {"root['current_season']": '2015 FXFL season'}, 'values_changed': {"root['folded']": {'new_value': '2016', 'old_value': '5016'}}}
+193: {'values_changed': {"root['folded']": {'new_value': '5016', 'old_value': '2016'}}}
+195: {'dictionary_item_added': {"root['folded']": '2016'}, 'dictionary_item_removed': {"root['last_season']": '2015'}}
+197: {'dictionary_item_added': {"root['last_season']": '2015'}, 'dictionary_item_removed': {"root['folded']": '2016'}}
+204: {'values_changed': {"root['folded']": {'new_value': '2016', 'old_value': 'dts'}}}
+211: {'dictionary_item_added': {"root['most_champs']": 'Brooklyn Bolts (1)'}, 'dictionary_item_removed': {"root['related_comps']": 'The Spring League, United States Football League (2022)'}, 'values_changed': {"root['folded']": {'new_value': 'dts', 'old_value': '2016'}, "root['TV']": {'new_value': 'Regional channels, plus ESPN 3', 'old_value': 'ESPN3, Regional channels'}}}

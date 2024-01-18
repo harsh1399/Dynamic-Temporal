@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['last_season']": '2020 LCK season', "root['sport']": 'Esports', "root['game']": "''League of Legends''", "root['teams']": '10', "root['venue']": 'LoL Park, (33 Jong-ro, Cheongjin-dong, Jongno-gu, Seoul)', "root['champion']": 'Damwon Gaming (1st title)', "root['most_champs']": 'T1 (esports)', "root['qualification']": 'Sports franchise', "root['sponsor']": 'Republic of Gamers, Sidiz, Logitech, SK Telecom', "root['domestic_cup']": 'KeSPA Cup', "root['confed_cup']": 'Mid-Season Invitational, World Championship '}}
+7: {'dictionary_item_added': {"root['last_season']": '2020 LCK season'}, 'values_changed': {"root['sponsor']": {'new_value': 'Republic of Gamers, Sidiz, Logitech, SK Telecom', 'old_value': 'Sidiz, Logitech, SK Telecom, Lotte Corporation'}}}
+8: {'values_changed': {"root['confed_cup']": {'new_value': 'Mid-Season Invitational, World Championship ', 'old_value': 'Mid-Season Invitational World Championship '}}}
+19: {'values_changed': {"root['sponsor']": {'new_value': 'Sidiz, Logitech, SK Telecom, Lotte Corporation', 'old_value': "HP Omen, Logitech, McDonald's, Secretlab, Woori Bank"}}}
+33: {'dictionary_item_removed': {"root['current_season']": '2021 LCK season'}}
+43: {'values_changed': {"root['champion']": {'new_value': 'Damwon Gaming (1st title)', 'old_value': 'DWG KIA (2nd title)'}}}
+46: {'dictionary_item_removed': {"root['champ_season']": '2021 LCK season#Spring'}, 'values_changed': {"root['venue']": {'new_value': 'LoL Park, (33 Jong-ro, Cheongjin-dong, Jongno-gu, Seoul)', 'old_value': 'LoL Park, Seoul'}, "root['confed_cup']": {'new_value': 'Mid-Season Invitational World Championship ', 'old_value': 'Mid-Season Invitational League of Legends World Championship'}}}
+62: {'values_changed': {"root['champion']": {'new_value': 'DWG KIA (2nd title)', 'old_value': 'DWG KIA (3rd title)'}, "root['champ_season']": {'new_value': '2021 LCK season#Spring', 'old_value': '2021 LCK season#Summer'}}}
+110: {'dictionary_item_removed': {"root['last_season']": '2021 LCK season'}, 'values_changed': {"root['current_season']": {'new_value': '2021 LCK season', 'old_value': '2022 LCK season'}}}
+130: {'values_changed': {"root['champion']": {'new_value': 'DWG KIA (3rd title)', 'old_value': 'T1 (esports)'}, "root['champ_season']": {'new_value': '2021 LCK season#Summer', 'old_value': '2022 LCK season#Spring'}}}
+156: {'values_changed': {"root['champion']": {'new_value': 'T1 (esports)', 'old_value': 'Gen.G (1st title)'}}}
+157: {'values_changed': {"root['champ_season']": {'new_value': '2022 LCK season#Spring', 'old_value': '2022 LCK season#Summer'}}}
+159: {'values_changed': {"root['champion']": {'new_value': 'Gen.G (1st title)', 'old_value': 'Gen.G (3rd title)'}}}
+200: {'values_changed': {"root['current_season']": {'new_value': '2022 LCK season', 'old_value': '2023 LCK season'}, "root['last_season']": {'new_value': '2021 LCK season', 'old_value': '2022 LCK season'}}}
+209: {'values_changed': {"root['champion']": {'new_value': 'Gen.G (3rd title)', 'old_value': 'Gen.G (2nd title)'}}}
+215: {'values_changed': {"root['champion']": {'new_value': 'Gen.G (2nd title)', 'old_value': 'Gen.G (3rd title)'}, "root['champ_season']": {'new_value': '2022 LCK season#Summer', 'old_value': '2023 LCK season#Spring'}}}
+232: {'values_changed': {"root['champion']": {'new_value': 'Gen.G (3rd title)', 'old_value': 'Gen.G (4th title)'}}}
+233: {'values_changed': {"root['champion']": {'new_value': 'Gen.G (4th title)', 'old_value': 'Gen.G (3rd title)'}}}

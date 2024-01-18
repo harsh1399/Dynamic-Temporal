@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'College basketball', "root['teams']": '16', "root['venue']": 'Rose Quarter, Portland, Oregon', "root['TV']": 'ESPN'}}
+9: {'values_changed': {"root['venue']": {'new_value': 'Rose Quarter, Portland, Oregon', 'old_value': 'Moda Center, Veterans Memorial Coliseum (Portland, Oregon)'}}}
+138: {'dictionary_item_removed': {"root['champion']": "2017–18 Michigan State Spartans men's basketball team"}}
+140: {'dictionary_item_added': {"root['champion']": "2017–18 Michigan State Spartans men's basketball team"}, 'dictionary_item_removed': {"root['Champions']": "2017–18 Michigan State Spartans men's basketball team"}}
+141: {'dictionary_item_added': {"root['Champions']": "2017–18 Michigan State Spartans men's basketball team"}, 'dictionary_item_removed': {"root['champion']": "2017–18 Michigan State Spartans men's basketball team"}}
+250: {'values_changed': {"root['champion']": {'new_value': "2017–18 Michigan State Spartans men's basketball team", 'old_value': "Men's: 2022–23 UConn Huskies men's basketball team"}}}

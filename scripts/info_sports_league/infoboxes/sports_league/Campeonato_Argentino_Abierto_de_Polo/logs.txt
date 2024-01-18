@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Polo', "root['teams']": '10', "root['venue']": 'Campo Argentino de Polo', "root['champion']": 'La Dolfina Polo Team', "root['most_champs']": 'Coronel Suárez ,  (25 titles)', "root['TV']": 'ESPN', "root['sponsor']": 'Movistar, Mercedes-Benz ,  (main sponsors)'}}
+2: {'values_changed': {"root['champion']": {'new_value': 'La Dolfina Polo Team', 'old_value': 'La Natividad   (2021)'}}}
+8: {'values_changed': {"root['champion']": {'new_value': 'La Natividad   (2021)', 'old_value': 'La Natividad  (2021)'}}}
+48: {'dictionary_item_added': {"root['sponsor']": 'Movistar, Mercedes-Benz ,  (main sponsors)'}, 'dictionary_item_removed': {"root['last_season']": '2022', "root['organiser']": 'Argentine Polo Association', "root['formerly']": 'River Plate Polo Championship', "root['level']": '1', "root['champ_season']": '2022'}, 'values_changed': {"root['champion']": {'new_value': 'La Natividad  (2021)', 'old_value': 'La Dolfina Polo Team'}}}
+51: {'values_changed': {"root['most_champs']": {'new_value': 'Coronel Suárez ,  (25 titles)', 'old_value': 'Coronel Suárez (25 titles)'}}}
+53: {'values_changed': {"root['most_champs']": {'new_value': 'Coronel Suárez (25 titles)', 'old_value': 'Coronel Suárez ,  (25 titles)'}}}

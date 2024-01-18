@@ -1,0 +1,6 @@
+3: {'dictionary_item_removed': {"root['sport']": 'Field Hockey', "root['inaugural']": '2000', "root['teams']": '8', "root['champion']": "'''M:''' Bayleys Midlands '''W:''' Canterbury Cats", "root['most_champs']": "'''M:''' Auckland (men's field hockey team)"}}
+6: {'values_changed': {"root['champion']": {'new_value': "'''M:''' Bayleys Midlands '''W:''' Canterbury Cats", 'old_value': "'''M:''' Midlands (men's field hockey team)"}}}
+7: {'values_changed': {"root['champion']": {'new_value': "'''M:''' Midlands (men's field hockey team)", 'old_value': "'''M:''' North Harbour (men's field hockey team)"}}}
+14: {'values_changed': {"root['inaugural']": {'new_value': '2000', 'old_value': '1999'}, "root['champion']": {'new_value': "'''M:''' North Harbour (men's field hockey team)", 'old_value': "'''M:''' Capital (men's field hockey team)"}, "root['most_champs']": {'new_value': "'''M:''' Auckland (men's field hockey team)", 'old_value': "'''M:''' Wellington/Capital (men's field hockey team)"}}}
+16: {'values_changed': {"root['inaugural']": {'new_value': '1999', 'old_value': '2000'}}}
+17: {'dictionary_item_added': {"root['inaugural']": '2000'}, 'dictionary_item_removed': {"root['folded']": '2019'}}

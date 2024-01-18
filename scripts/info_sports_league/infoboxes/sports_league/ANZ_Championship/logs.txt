@@ -1,0 +1,26 @@
+34: {'dictionary_item_removed': {"root['sport']": 'Anzchampionship.jpg', "root['teams']": '10', "root['champion']": '|caption'}}
+55: {'dictionary_item_added': {"root['champion']": '|caption'}, 'dictionary_item_removed': {"root['current_season']": 'ANZ Championship season 2008', "root['pixels']": '150', "root['inaugural']": '2008', "root['TV']": 'Fox Sports (Australia)'}, 'values_changed': {"root['sport']": {'new_value': 'Anzchampionship.jpg', 'old_value': 'Netball'}}}
+76: {'dictionary_item_removed': {"root['champion']": 'NSW Swifts'}}
+79: {'values_changed': {"root['TV']": {'new_value': 'Fox Sports (Australia)', 'old_value': 'Network Ten (Australia)'}}}
+80: {'values_changed': {"root['TV']": {'new_value': 'Network Ten (Australia)', 'old_value': 'Network Ten'}}}
+81: {'values_changed': {"root['TV']": {'new_value': 'Network Ten', 'old_value': 'Fox Sports (Australia)'}}}
+95: {'values_changed': {"root['current_season']": {'new_value': 'ANZ Championship season 2008', 'old_value': '2010 ANZ Championship season'}, "root['champion']": {'new_value': 'NSW Swifts', 'old_value': 'Melbourne Vixens'}, "root['TV']": {'new_value': 'Fox Sports (Australia)', 'old_value': 'ONE (TV channel)'}}}
+102: {'dictionary_item_removed': {"root['fame']": '\'\'"the pre-eminent professional netball league in the World"\'\''}, 'values_changed': {"root['TV']": {'new_value': 'ONE (TV channel)', 'old_value': 'Network Ten'}}}
+103: {'dictionary_item_added': {"root['fame']": '\'\'"the pre-eminent professional netball league in the World"\'\''}, 'values_changed': {"root['TV']": {'new_value': 'Network Ten', 'old_value': 'ONE (TV channel)'}}}
+114: {'values_changed': {"root['champion']": {'new_value': 'Melbourne Vixens', 'old_value': 'Adelaide Thunderbirds'}}}
+127: {'dictionary_item_added': {"root['current_season']": '2010 ANZ Championship season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2011 ANZ Championship season'}}
+128: {'dictionary_item_added': {"root['upcoming_season']": '2011 ANZ Championship season'}, 'dictionary_item_removed': {"root['current_season']": '2011 ANZ Championship season'}}
+129: {'dictionary_item_added': {"root['current_season']": '2011 ANZ Championship season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2011 ANZ Championship season'}}
+131: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Fox Sports (Australia)'], 'new_value': 'ONE (TV channel)'}}, 'dictionary_item_removed': {"root['most_champs']": 'File:ANZ Thunderbirds.svg'}, 'values_changed': {"root['upcoming_season']": {'new_value': '2011 ANZ Championship season', 'old_value': '2016 ANZ Championship'}, "root['inaugural']": {'new_value': '2008', 'old_value': '2008 ANZ Championship season'}, "root['teams']": {'new_value': '10', 'old_value': '#Current teams'}, "root['champion']": {'new_value': 'Adelaide Thunderbirds', 'old_value': 'File:ANZ Firebirds.svg'}}}
+133: {'values_changed': {"root['upcoming_season']": {'new_value': '2016 ANZ Championship', 'old_value': '2016 ANZ Championship season'}}}
+140: {'dictionary_item_added': {"root['upcoming_season']": '2016 ANZ Championship season'}, 'dictionary_item_removed': {"root['current_season']": '2016 ANZ Championship season'}}
+141: {'dictionary_item_removed': {"root['last_season']": '2016'}}
+143: {'dictionary_item_added': {"root['last_season']": '2016', "root['pixels']": '150', "root['TV']": ['Fox Sports (Australia)']}, 'dictionary_item_removed': {"root['countries']": 'AUS (5 teams) ,  NZL (5 teams)', "root['tv']": ['Fox Sports (Australia)'], "root['sponsor']": 'ANZ', "root['levels']": '1'}}
+144: {'values_changed': {"root['most_champs']": {'new_value': 'File:ANZ Thunderbirds.svg', 'old_value': 'File:ANZ Firebirds.svg'}}}
+153: {'dictionary_item_added': {"root['current_season']": '2016 ANZ Championship season', "root['tv']": ['Fox Sports (Australia)']}, 'dictionary_item_removed': {"root['folded']": '2016 ANZ Championship season'}}
+164: {'dictionary_item_removed': {"root['replaced']": 'National Netball League and ANZ Netball Elite League'}}
+171: {'values_changed': {"root['replaced']": {'new_value': 'National Netball League and ANZ Netball Elite League', 'old_value': 'Suncorp Super Netball, ANZ Premiership'}}}
+173: {'values_changed': {"root['countries']": {'new_value': 'AUS (5 teams) ,  NZL (5 teams)', 'old_value': 'flagu'}}}
+180: {'dictionary_item_added': {"root['sport']": 'Netball'}, 'dictionary_item_removed': {"root['owner']": 'Trans-Tasman Netball League Ltd (TTNL)', "root['tv']": "''see ANZ Championship#Media coverage"}, 'values_changed': {"root['teams']": {'new_value': '#Current teams', 'old_value': '10'}, "root['countries']": {'new_value': 'flagu', 'old_value': 'AUS, NZL'}, "root['champion']": {'new_value': 'File:ANZ Firebirds.svg', 'old_value': 'Queensland Firebirds, (3rd title)'}, "root['most_champs']": {'new_value': 'File:ANZ Firebirds.svg', 'old_value': 'Queensland Firebirds, (3 titles)'}, "root['sponsor']": {'new_value': 'ANZ', 'old_value': 'Australia and New Zealand Banking Group <ref name'}}}
+181: {'values_changed': {"root['sponsor']": {'new_value': 'Australia and New Zealand Banking Group <ref name', 'old_value': 'Australia and New Zealand Banking Group<ref name'}}}
+187: {'values_changed': {"root['countries']": {'new_value': 'AUS, NZL', 'old_value': 'Australia, New Zealand'}}}

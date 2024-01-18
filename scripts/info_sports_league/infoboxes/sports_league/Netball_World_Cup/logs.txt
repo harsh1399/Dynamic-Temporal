@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['teams']": '16 (Finals)', "root['continent']": 'International (International Federation of Netball Associations', "root['champion']": 'Australia '}}
+7: {'dictionary_item_removed': {"root['sport']": 'Netball', "root['most_champs']": 'Australia (9 titles) '}, 'values_changed': {"root['champion']": {'new_value': 'Australia ', 'old_value': 'nb'}}}
+12: {'dictionary_item_removed': {"root['inaugural']": '1963 World Netball Championships'}}
+17: {'dictionary_item_removed': {"root['current_season']": '2011 World Netball Championships'}, 'values_changed': {"root['teams']": {'new_value': '16 (Finals)', 'old_value': '16'}, "root['continent']": {'new_value': 'International (International Federation of Netball Associations', 'old_value': 'International'}}}
+21: {'values_changed': {"root['most_champs']": {'new_value': 'Australia (9 titles) ', 'old_value': 'Australia (10 titles) '}}}
+24: {'dictionary_item_added': {"root['current_season']": '2011 World Netball Championships', "root['teams']": '16', "root['continent']": 'International'}, 'dictionary_item_removed': {"root['last_season']": '2011 World Netball Championships'}, 'values_changed': {"root['most_champs']": {'new_value': 'Australia (10 titles) ', 'old_value': 'nb'}}}
+30: {'dictionary_item_removed': {"root['TV']": 'Network Ten'}}
+33: {'dictionary_item_added': {"root['last_season']": '2011 World Netball Championships', "root['TV']": 'Network Ten'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 Netball World Cup', "root['administrator']": 'World Netball', "root['Formerly']": "''World Netball Championships'' (1963–2011)", "root['teams']": '16 teams (2023 Netball World Cup'}}

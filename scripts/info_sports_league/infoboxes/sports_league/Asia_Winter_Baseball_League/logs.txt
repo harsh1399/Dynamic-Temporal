@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2', "root['sport']": 'Baseball', "root['continent']": 'Asia', "root['champion']": 'Japan (1st title)', "root['most_champs']": 'Japan (1 title)'}}
+5: {'dictionary_item_removed': {"root['teams']": '5'}}
+8: {'values_changed': {"root['current_season']": {'new_value': '2', 'old_value': '5'}, "root['teams']": {'new_value': '5', 'old_value': '4~6'}, "root['champion']": {'new_value': 'Japan (1st title)', 'old_value': 'Japan (2016)'}, "root['most_champs']": {'new_value': 'Japan (1 title)', 'old_value': 'Japan (3 titles)'}}}
+10: {'values_changed': {"root['champion']": {'new_value': 'Japan (2016)', 'old_value': 'Japan (2017)'}, "root['most_champs']": {'new_value': 'Japan (3 titles)', 'old_value': 'Japan (4 titles)'}}}
+20: {'values_changed': {"root['current_season']": {'new_value': '5', 'old_value': '6'}}}
+42: {'values_changed': {"root['champion']": {'new_value': 'Japan (2017)', 'old_value': 'Japan (NPB East in 2018)'}, "root['most_champs']": {'new_value': 'Japan (4 titles)', 'old_value': 'Japan (5 titles)'}}}

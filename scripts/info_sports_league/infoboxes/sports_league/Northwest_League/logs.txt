@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['pixels']": '230', "root['sport']": 'Baseball', "root['formerly']": 'Western International League (WIL) (1937–1954)', "root['president']": 'Mike Ellis', "root['teams']": '8', "root['countries']": 'Canada, United States', "root['champion']": 'Hillsboro Hops (2019)', "root['most_champs']": 'Spokane Indians (8), Yakima Bears (8)', "root['classification']": 'Class A Short Season'}}
+26: {'values_changed': {"root['president']": {'new_value': 'Mike Ellis', 'old_value': 'North Johnson'}}}
+37: {'values_changed': {"root['classification']": {'new_value': 'Class A Short Season', 'old_value': 'High Single-A'}}}
+40: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+43: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+52: {'values_changed': {"root['classification']": {'new_value': 'High Single-A', 'old_value': 'Class A-Advanced'}}}
+53: {'values_changed': {"root['classification']": {'new_value': 'Class A-Advanced', 'old_value': 'High Single-A'}}}
+65: {'dictionary_item_removed': {"root['folded']": '2021'}, 'values_changed': {"root['classification']": {'new_value': 'High Single-A', 'old_value': 'Class A Short Season'}}}
+72: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+78: {'dictionary_item_removed': {"root['replaced']": 'High-A West'}}
+85: {'dictionary_item_added': {"root['pixels']": '230'}, 'values_changed': {"root['folded']": {'new_value': '2021', 'old_value': '2020'}}}
+86: {'dictionary_item_added': {"root['replaced']": 'High-A West', "root['president']": 'North Johnson'}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '6'}, "root['champion']": {'new_value': 'Hillsboro Hops (2019)', 'old_value': 'Eugene Emeralds (2021)'}, "root['classification']": {'new_value': 'Class A Short Season', 'old_value': 'High-A (2021–present), Class A Short Season (1966–2020)'}}}
+89: {'dictionary_item_added': {"root['folded']": '2020'}, 'values_changed': {"root['countries']": {'new_value': 'Canada, United States', 'old_value': 'Canada United States'}, "root['most_champs']": {'new_value': 'Spokane Indians (8), Yakima Bears (8)', 'old_value': 'Spokane Indians (8) Yakima Bears (8)'}, "root['classification']": {'new_value': 'High-A (2021–present), Class A Short Season (1966–2020)', 'old_value': 'High-A (2021–present) Class A Short Season (1966–2020)'}}}
+91: {'values_changed': {"root['formerly']": {'new_value': 'Western International League (WIL) (1937–1954)', 'old_value': 'Western International League (1937–1954)'}}}
+97: {'values_changed': {"root['formerly']": {'new_value': 'Western International League (1937–1954)', 'old_value': 'Western International League (1937–1954), High-A West (2021)'}, "root['countries']": {'new_value': 'Canada United States', 'old_value': 'United States and Canada'}}}
+101: {'values_changed': {"root['champion']": {'new_value': 'Eugene Emeralds (2021)', 'old_value': 'Eugene Emeralds (2022)'}, "root['most_champs']": {'new_value': 'Spokane Indians (8) Yakima Bears (8)', 'old_value': 'Eugene Emeralds (8) Spokane Indians (8) Yakima Bears (8)'}}}

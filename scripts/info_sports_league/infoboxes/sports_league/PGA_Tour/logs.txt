@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2019–20 Video game', "root['sport']": 'Golf', "root['most_champs']": 'flagicon', "root['commissioner']": 'Jay Monahan (2017–present)', "root['TV']": 'PGA Tour on CBS'}}
+1: {'values_changed': {"root['current_season']": {'new_value': '2019–20 Video game', 'old_value': '2019–20 PGA Tour'}}}
+33: {'values_changed': {"root['current_season']": {'new_value': '2019–20 PGA Tour', 'old_value': '2019–20 PGA TOUR'}}}
+34: {'values_changed': {"root['current_season']": {'new_value': '2019–20 PGA TOUR', 'old_value': '2019–20 PGA Tour'}}}
+45: {'dictionary_item_removed': {"root['last_season']": '2019–20 PGA Tour'}, 'values_changed': {"root['current_season']": {'new_value': '2019–20 PGA Tour', 'old_value': '2020–21 PGA Tour'}}}
+54: {'values_changed': {"root['commissioner']": {'new_value': 'Jay Monahan (2017–present)', 'old_value': 'Jay Monahan (2016–17 PGA Tour'}}}
+55: {'values_changed': {"root['commissioner']": {'new_value': 'Jay Monahan (2016–17 PGA Tour', 'old_value': 'Jay Monahan (2017–present)'}}}
+75: {'values_changed': {"root['commissioner']": {'new_value': 'Jay Monahan (2017–present)', 'old_value': 'Brooksy (2017–present)'}}}
+76: {'values_changed': {"root['commissioner']": {'new_value': 'Brooksy (2017–present)', 'old_value': 'Jay Monahan (2017–present)'}}}
+101: {'values_changed': {"root['current_season']": {'new_value': '2020–21 PGA Tour', 'old_value': '2021–22 PGA Tour'}, "root['last_season']": {'new_value': '2019–20 PGA Tour', 'old_value': '2020–21 PGA Tour'}}}
+113: {'dictionary_item_removed': {"root['Founder']": '}'}}
+158: {'dictionary_item_added': {"root['Founder']": '}'}, 'dictionary_item_removed': {"root['related_comps']": 'Korn Ferry Tour, PGA Tour Canada, PGA Tour Champions, PGA Tour China, PGA Tour Latinoamérica'}, 'values_changed': {"root['most_champs']": {'new_value': 'flagicon', 'old_value': "'''Money list titles''':, 10: flagicon"}, "root['commissioner']": {'new_value': 'Jay Monahan (2017–present)', 'old_value': 'Jay Monahan'}}}
+160: {'values_changed': {"root['most_champs']": {'new_value': "'''Money list titles''':, 10: flagicon", 'old_value': "'''Money list titles''': 10: flagicon"}}}
+161: {'values_changed': {"root['most_champs']": {'new_value': "'''Money list titles''': 10: flagicon", 'old_value': "'''Money list titles''': 10:, flagicon"}}}
+171: {'dictionary_item_removed': {"root['headquarters']": 'New York City, New York, United States'}}
+174: {'dictionary_item_added': {"root['headquarters']": 'New York City, New York, United States'}, 'values_changed': {"root['current_season']": {'new_value': '2021–22 PGA Tour', 'old_value': '2022–23 PGA Tour'}, "root['last_season']": {'new_value': '2020–21 PGA Tour', 'old_value': '2021–22 PGA Tour'}}}
+179: {'values_changed': {"root['most_champs']": {'new_value': "'''Money list titles''': 10:, flagicon", 'old_value': "'''Money list titles''': 10:, flagathlete"}}}
+185: {'values_changed': {"root['most_champs']": {'new_value': "'''Money list titles''': 10:, flagathlete", 'old_value': "'''Money list titles''': 10:, flagicon"}}}
+207: {'values_changed': {"root['most_champs']": {'new_value': "'''Money list titles''': 10:, flagicon", 'old_value': "'''Money list titles''': 10: flagicon"}, "root['related_comps']": {'new_value': 'Korn Ferry Tour, PGA Tour Canada, PGA Tour Champions, PGA Tour China, PGA Tour Latinoamérica', 'old_value': 'Korn Ferry Tour PGA Tour Canada PGA Tour Champions PGA Tour China PGA Tour Latinoamérica'}}}

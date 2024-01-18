@@ -1,0 +1,24 @@
+1: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2018', "root['teams']": '10', "root['continent']": 'FIBA Asia (Asia)', "root['TV']": 'ABS-CBN Sports and Action'}}
+28: {'dictionary_item_removed': {"root['current_season']": '2018 MPBL Anta Rajah Cup'}}
+61: {'dictionary_item_removed': {"root['commissioner']": 'Kenneth Duremdes', "root['president']": 'Manny Pacquiao'}}
+1029: {'dictionary_item_added': {"root['current_season']": '2018 MPBL Anta Rajah Cup', "root['president']": 'Manny Pacquiao', "root['TV']": 'ABS-CBN Sports and Action'}, 'dictionary_item_removed': {"root['last_season']": '2021 MPBL Invitational', "root['founder']": 'Manny Pacquiao', "root['coo']": 'Zaldy Realubit', "root['headquarters']": 'Pasig, Philippines', "root['champion']": 'nowrap', "root['most_champs']": 'nowrap'}, 'values_changed': {"root['inaugural']": {'new_value': '2018', 'old_value': '2018 MPBL season'}, "root['teams']": {'new_value': '10', 'old_value': '#Teams'}}}
+1044: {'values_changed': {"root['last_season']": {'new_value': '2021 MPBL Invitational', 'old_value': '2022-23 MPBL season'}}}
+1066: {'values_changed': {"root['last_season']": {'new_value': '2022-23 MPBL season', 'old_value': '2022–23 MPBL season'}}}
+1087: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '21'}}}
+1107: {'values_changed': {"root['teams']": {'new_value': '21', 'old_value': '22'}}}
+1114: {'values_changed': {"root['coo']": {'new_value': 'Zaldy Realubit', 'old_value': 'Elmar Arcueno'}}}
+1115: {'values_changed': {"root['coo']": {'new_value': 'Elmar Arcueno', 'old_value': 'Zaldy'}}}
+1116: {'values_changed': {"root['coo']": {'new_value': 'Zaldy', 'old_value': 'Zaldy Realubit'}}}
+1142: {'values_changed': {"root['last_season']": {'new_value': '2022–23 MPBL season', 'old_value': '2022 MPBL season'}}}
+1161: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '25'}}}
+1173: {'values_changed': {"root['teams']": {'new_value': '25', 'old_value': '32'}}}
+1174: {'values_changed': {"root['teams']": {'new_value': '32', 'old_value': '22'}}}
+1201: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '29'}}}
+1206: {'values_changed': {"root['teams']": {'new_value': '29', 'old_value': '30'}}}
+1213: {'dictionary_item_added': {"root['last_season']": '2022 MPBL season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 MPBL season'}, 'values_changed': {"root['teams']": {'new_value': '30', 'old_value': '22'}}}
+1227: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '30'}}}
+1258: {'values_changed': {"root['teams']": {'new_value': '30', 'old_value': '29'}}}
+1283: {'dictionary_item_removed': {"root['TV']": 'One Sports ,  One PH ,  Cignal TV'}}
+1285: {'values_changed': {"root['TV']": {'new_value': 'One Sports ,  One PH ,  Cignal TV', 'old_value': 'One Sports ('}}}
+1300: {'dictionary_item_added': {"root['upcoming_season']": '2023 MPBL season'}, 'dictionary_item_removed': {"root['current_season']": '2023 MPBL season'}}
+1315: {'values_changed': {"root['TV']": {'new_value': 'One Sports (', 'old_value': 'One Sports (TV channel)'}}}

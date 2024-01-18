@@ -1,0 +1,52 @@
+18: {'dictionary_item_removed': {"root['current_season']": '2022 USFL season', "root['logo_size']": '200', "root['sport']": 'American football', "root['teams']": '8', "root['tv']": 'Fox Sports (United States)'}}
+34: {'dictionary_item_removed': {"root['inaugural']": '2022 USFL season'}}
+46: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '8+'}}}
+52: {'dictionary_item_added': {"root['tv']": 'Fox Sports (United States)'}, 'dictionary_item_removed': {"root['owner']": 'Fox Sports', "root['ceo']": 'Brian Woods', "root['TV']": 'Fox Sports (United States)', "root['related_comps']": 'The Spring League', "root['headquarters']": '| most successful club'}, 'values_changed': {"root['teams']": {'new_value': '8+', 'old_value': '8 (planned)'}}}
+58: {'values_changed': {"root['owner']": {'new_value': 'Fox Sports', 'old_value': 'National Spring Football League<ref name'}}}
+60: {'values_changed': {"root['owner']": {'new_value': 'National Spring Football League<ref name', 'old_value': 'National Spring Football League Enterprises Co, LLC<ref name'}}}
+61: {'values_changed': {"root['inaugural']": {'new_value': '2022 USFL season', 'old_value': 'April2022 USFL season'}}}
+64: {'values_changed': {"root['inaugural']": {'new_value': 'April2022 USFL season', 'old_value': '2022 USFL season'}}}
+66: {'values_changed': {"root['teams']": {'new_value': '8 (planned)', 'old_value': '15 (planned)'}}}
+67: {'values_changed': {"root['teams']": {'new_value': '15 (planned)', 'old_value': '8 (planned)'}}}
+82: {'values_changed': {"root['teams']": {'new_value': '8 (planned)', 'old_value': '8'}}}
+95: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fox Sports (United States)'}}, 'dictionary_item_added': {"root['logo_size']": '200'}}
+118: {'type_changes': {"root['TV']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Fox Sports (United States)', 'new_value': []}}}
+119: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fox Sports (United States)'}}}
+137: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League', 'old_value': 'The Spring League, XFL (2020)'}}}
+143: {'dictionary_item_added': {"root['ceo']": 'Brian Woods', "root['related_comps']": 'The Spring League, XFL (2020)'}, 'dictionary_item_removed': {"root['president']": 'Brian Woods'}}
+150: {'dictionary_item_added': {"root['headquarters']": '| most successful club'}, 'dictionary_item_removed': {"root['related_comps']": 'The Spring League '}}
+151: {'dictionary_item_added': {"root['related_comps']": 'The Spring League '}, 'dictionary_item_removed': {"root['headquarters']": '| most successful club'}}
+152: {'dictionary_item_added': {"root['headquarters']": '| most successful club'}, 'dictionary_item_removed': {"root['related_comps']": 'The Spring League '}}
+166: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '344'}}}
+169: {'values_changed': {"root['teams']": {'new_value': '344', 'old_value': '8'}}}
+182: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League ', 'old_value': 'The Spring League, XFL (2020), Fall Experimental Football League '}}}
+184: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL (2020), Fall Experimental Football League ', 'old_value': 'The Spring League, XFL, Fall Experimental Football League '}}}
+185: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL, Fall Experimental Football League ', 'old_value': 'The Spring League, XFL, FXFL '}}}
+198: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL, FXFL ', 'old_value': 'The Spring League, XFL '}}}
+202: {'dictionary_item_removed': {"root['headquarters']": 'Birmingham, Alabama'}}
+220: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL ', 'old_value': 'XFL '}}}
+221: {'values_changed': {"root['related_comps']": {'new_value': 'XFL ', 'old_value': 'The Spring League, XFL '}}}
+233: {'dictionary_item_removed': {"root['venue']": 'Protective Stadium, Legion Field'}}
+263: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL ', 'old_value': 'The Spring League '}}}
+320: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League ', 'old_value': 'The Spring League, XFL '}}}
+325: {'values_changed': {"root['related_comps']": {'new_value': 'The Spring League, XFL ', 'old_value': 'XFL '}}}
+409: {'values_changed': {"root['venue']": {'new_value': 'Protective Stadium, Legion Field', 'old_value': 'Protective Stadium Legion Field'}}}
+458: {'dictionary_item_removed': {"root['founder']": 'Brian Woods', "root['upcoming_season']": '2022'}}
+466: {'dictionary_item_removed': {"root['champion']": 'Birmingham Stallions (2022)'}}
+467: {'dictionary_item_removed': {"root['most_champs']": 'Birmingham Stallions (2022)'}}
+468: {'dictionary_item_removed': {"root['last_season']": '2022'}, 'values_changed': {"root['upcoming_season']": {'new_value': '2022', 'old_value': '2023'}}}
+481: {'values_changed': {"root['current_season']": {'new_value': '2022 USFL season', 'old_value': '2023 USFL season'}}}
+500: {'values_changed': {"root['headquarters']": {'new_value': 'Birmingham, Alabama', 'old_value': 'Birmingham, Alabama U.S.'}}}
+517: {'values_changed': {"root['headquarters']": {'new_value': 'Birmingham, Alabama U.S.', 'old_value': 'Birmingham, Alabama United States'}}}
+572: {'values_changed': {"root['founder']": {'new_value': 'Brian Woods', 'old_value': 'Brian B. Woods'}}}
+573: {'values_changed': {"root['founder']": {'new_value': 'Brian B. Woods', 'old_value': 'Brian Woods'}}}
+583: {'values_changed': {"root['related_comps']": {'new_value': 'XFL ', 'old_value': "'''Direct:''' The Spring League, Fall Experimental Football League '''Other: '''XFL "}}}
+584: {'values_changed': {"root['venue']": {'new_value': 'Protective Stadium Legion Field', 'old_value': 'Protective Stadium Legion Field Simmons Bank Liberty Stadium Tom Benson Hall of Fame Stadium Ford Field'}}}
+612: {'dictionary_item_added': {"root['venue']": 'Protective Stadium Legion Field Simmons Bank Liberty Stadium Tom Benson Hall of Fame Stadium Ford Field'}, 'dictionary_item_removed': {"root['classification']": 'Spring football league'}}
+613: {'values_changed': {"root['president']": {'new_value': 'Brian Woods', 'old_value': 'Daryl Johnston'}}}
+614: {'values_changed': {"root['president']": {'new_value': 'Daryl Johnston', 'old_value': 'Brian Woods'}}}
+615: {'values_changed': {"root['founder']": {'new_value': 'Brian Woods', 'old_value': 'Brian Woods<ref name'}}}
+617: {'values_changed': {"root['president']": {'new_value': 'Brian Woods', 'old_value': 'Daryl Johnston'}}}
+644: {'values_changed': {"root['most_champs']": {'new_value': 'Birmingham Stallions (2022)', 'old_value': 'Philadelphia Stars (2022)'}}}
+654: {'values_changed': {"root['most_champs']": {'new_value': 'Philadelphia Stars (2022)', 'old_value': 'Birmingham Stallions (2022)'}}}
+703: {'values_changed': {"root['current_season']": {'new_value': '2023 USFL season', 'old_value': '2024 USFL season'}}}

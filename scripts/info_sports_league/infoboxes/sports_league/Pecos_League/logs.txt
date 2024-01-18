@@ -1,0 +1,19 @@
+8: {'dictionary_item_removed': {"root['current_season']": 'Offseason', "root['sport']": 'Baseball', "root['ceo']": 'Andrew Dunn (baseball)', "root['teams']": '6-10 (proposed)', "root['champion']": 'None', "root['continent']": 'North America'}}
+9: {'values_changed': {"root['teams']": {'new_value': '6-10 (proposed)', 'old_value': '6-8 (proposed)'}}}
+12: {'values_changed': {"root['teams']": {'new_value': '6-8 (proposed)', 'old_value': '6'}}}
+19: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+23: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+28: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '10'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '8'}}}
+72: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '6'}}}
+75: {'values_changed': {"root['current_season']": {'new_value': 'Offseason', 'old_value': 'In Season'}}}
+76: {'dictionary_item_removed': {"root['most_champs']": '2011 Roswell Invaders'}, 'values_changed': {"root['current_season']": {'new_value': 'In Season', 'old_value': 'Off Season'}, "root['champion']": {'new_value': 'None', 'old_value': 'Roswell Invaders'}}}
+91: {'dictionary_item_added': {"root['current_season']": 'Off Season', "root['most_champs']": '2011 Roswell Invaders'}, 'dictionary_item_removed': {"root['inaugural']": '2011', "root['champ_season']": '2021'}, 'values_changed': {"root['ceo']": {'new_value': 'Andrew Dunn (baseball)', 'old_value': 'Andrew Dunn'}, "root['teams']": {'new_value': '6', 'old_value': '16'}, "root['champion']": {'new_value': 'Roswell Invaders', 'old_value': 'Tucson Saguaros'}}}
+107: {'dictionary_item_removed': {"root['current_season']": '2022 Pecos League season'}}
+117: {'dictionary_item_removed': {"root['last_season']": '2021 Pecos League season', "root['upcoming_season']": '2023 Pecos League season'}, 'values_changed': {"root['champion']": {'new_value': 'Tucson Saguaros', 'old_value': 'Roswell Invaders'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}
+156: {'dictionary_item_removed': {"root['founder']": 'Ryan Stevens, Donnie Randal, JR Smith, Andrew Dunn and Chris Schmidt', "root['replaced']": 'Continental League', "root['owner']": 'Andrew Dunn', "root['commissioner']": 'Andrew Dunn', "root['divisions']": '2', "root['most_champs']": 'Jonathan Fleckenstein (3)', "root['streaming']": 'Meridex', "root['headquarters']": 'Houston, Texas'}, 'values_changed': {"root['current_season']": {'new_value': '2022 Pecos League season', 'old_value': 'Offseason'}}}
+159: {'values_changed': {"root['current_season']": {'new_value': 'Offseason', 'old_value': '2023 Pecos League season'}}}
+161: {'values_changed': {"root['current_season']": {'new_value': '2023 Pecos League season', 'old_value': '2023 Pecos League Season'}}}
+162: {'values_changed': {"root['current_season']": {'new_value': '2023 Pecos League Season', 'old_value': '2023 Pecos League season'}}}
+163: {'values_changed': {"root['founder']": {'new_value': 'Ryan Stevens, Donnie Randal, JR Smith, Andrew Dunn and Chris Schmidt', 'old_value': 'Bob Ward, Andrew Dunn'}}}
+182: {'dictionary_item_added': {"root['most_champs']": 'Jonathan Fleckenstein (3)'}, 'values_changed': {"root['last_season']": {'new_value': '2021 Pecos League season', 'old_value': '2022 Pecos League season'}}}

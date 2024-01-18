@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['pixels']": '1', "root['teams']": '6', "root['levels']": '1', "root['tv']": 'TBD', "root['season']": '2016 PRO Rugby season'}}
+55: {'values_changed': {"root['pixels']": {'new_value': '1', 'old_value': '195'}}}
+76: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}
+79: {'dictionary_item_added': {"root['pixels']": '195', "root['levels']": '1', "root['tv']": 'TBD', "root['season']": '2016 PRO Rugby season'}, 'dictionary_item_removed': {"root['current_season']": '2016 PRO Rugby season', "root['sport']": 'Rugby union', "root['Commissioner']": 'Douglas Schoninger', "root['inaugural']": '2016 PRO Rugby season'}, 'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '#Teams and players'}}}
+81: {'dictionary_item_added': {"root['current_season']": '2016 PRO Rugby season'}, 'values_changed': {"root['inaugural']": {'new_value': '2016 PRO Rugby season', 'old_value': '2016'}, "root['teams']": {'new_value': '#Teams and players', 'old_value': '5'}}}
+83: {'dictionary_item_removed': {"root['current_season']": '2016 PRO Rugby season'}, 'values_changed': {"root['inaugural']": {'new_value': '2016', 'old_value': '2016 PRO Rugby season'}, "root['teams']": {'new_value': '5', 'old_value': '#Teams and players'}}}
+84: {'dictionary_item_added': {"root['current_season']": '2016 PRO Rugby season'}, 'values_changed': {"root['inaugural']": {'new_value': '2016 PRO Rugby season', 'old_value': '2016'}}}
+88: {'values_changed': {"root['teams']": {'new_value': '#Teams and players', 'old_value': '5'}}}
+90: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '#Teams and players'}}}
+95: {'dictionary_item_added': {"root['Commissioner']": 'Douglas Schoninger'}, 'dictionary_item_removed': {"root['owner']": 'USA Rugby, World Rugby', "root['ceo']": 'Douglas Schoninger'}}
+120: {'dictionary_item_added': {"root['owner']": 'USA Rugby, World Rugby'}, 'values_changed': {"root['teams']": {'new_value': '#Teams and players', 'old_value': '5'}}}
+151: {'dictionary_item_removed': {"root['current_season']": '2016 PRO Rugby season'}}
+176: {'values_changed': {"root['inaugural']": {'new_value': '2016', 'old_value': '2016 PRO Rugby season'}, "root['teams']": {'new_value': '5', 'old_value': 'PRO Rugby#Teams'}}}
+177: {'values_changed': {"root['teams']": {'new_value': 'PRO Rugby#Teams', 'old_value': '5'}}}
+215: {'dictionary_item_removed': {"root['tv']": 'One World Sports'}}
+216: {'values_changed': {"root['tv']": {'new_value': 'One World Sports', 'old_value': 'ONE World Sports'}}}
+231: {'values_changed': {"root['tv']": {'new_value': 'ONE World Sports', 'old_value': 'ONE World Sports, Time Warner Cable SportsChannel (Ohio)'}}}
+238: {'dictionary_item_removed': {"root['related_comps']": 'Ru'}}
+240: {'dictionary_item_removed': {"root['champion']": 'Denver Stampede'}}
+242: {'dictionary_item_added': {"root['related_comps']": 'Ru'}, 'values_changed': {"root['champion']": {'new_value': 'Denver Stampede', 'old_value': 'Denver Stampede  (2016)'}}}
+261: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+269: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+270: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+273: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+274: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+281: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+283: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+294: {'dictionary_item_removed': {"root['folded']": 'January 2017'}}
+295: {'dictionary_item_removed': {"root['most_champs']": 'Denver Stampede  (1)'}}
+304: {'dictionary_item_added': {"root['current_season']": '2016 PRO Rugby season', "root['teams']": '4', "root['most_champs']": 'Denver Stampede  (1)'}, 'values_changed': {"root['folded']": {'new_value': 'January 2017', 'old_value': '2017'}}}

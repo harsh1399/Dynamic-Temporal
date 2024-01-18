@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Southeastern Conference', "root['short_name']": 'SEC', "root['established']": '1933', "root['logo_size']": '150', "root['association']": 'NCAA', "root['division']": 'Division I', "root['subdivision']": 'FBS', "root['members']": '12', "root['sports']": '17', "root['mens']": '8', "root['womens']": '9', "root['region']": 'Southern United States', "root['hq_city']": 'Birmingham', "root['hq_stateabb']": 'AL', "root['hq_state']": 'Alabama', "root['commissioner']": 'Michael Slive', "root['since']": '2002', "root['champion']": 'LSU Tigers', "root['color']": '161149', "root['font_color']": 'FFCB39', "root['map']": 'SEC-USA-states.PNG', "root['map_size']": '275 '}}
+2: {'values_changed': {"root['short_name']": {'new_value': 'SEC', 'old_value': 'gay'}, "root['established']": {'new_value': '1933', 'old_value': '2009'}}}
+3: {'values_changed': {"root['short_name']": {'new_value': 'gay', 'old_value': 'SEC'}, "root['established']": {'new_value': '2009', 'old_value': '1933'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Southeastern Conference', 'old_value': 'Southeastern basketball Creampuffs'}, "root['short_name']": {'new_value': 'SEC', 'old_value': 'football only schools...and then Kentucky'}, "root['established']": {'new_value': '1933', 'old_value': '1833'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Southeastern basketball Creampuffs', 'old_value': 'Southeastern Conference'}, "root['short_name']": {'new_value': 'football only schools...and then Kentucky', 'old_value': 'SEC'}, "root['established']": {'new_value': '1833', 'old_value': '1933'}}}
+46: {'values_changed': {"root['sports']": {'new_value': '17', 'old_value': '18'}, "root['womens']": {'new_value': '9', 'old_value': '10'}}}
+63: {'values_changed': {"root['subdivision']": {'new_value': 'FBS', 'old_value': 'Football Bowl Subdivision'}}}
+87: {'values_changed': {"root['division']": {'new_value': 'Division I', 'old_value': 'Division I (NCAA)'}, "root['subdivision']": {'new_value': 'Football Bowl Subdivision', 'old_value': 'Division I (NCAA)#Football Bowl Subdivision'}}}
+179: {'values_changed': {"root['sports']": {'new_value': '18', 'old_value': '19'}, "root['mens']": {'new_value': '8', 'old_value': '9'}}}
+181: {'values_changed': {"root['sports']": {'new_value': '19', 'old_value': '20'}, "root['womens']": {'new_value': '10', 'old_value': '11'}}}
+302: {'dictionary_item_added': {"root['hq_stateabb']": 'AL', "root['champion']": 'LSU Tigers'}, 'values_changed': {"root['association']": {'new_value': 'NCAA', 'old_value': 'National Collegiate Athletic Association'}}}
+343: {'values_changed': {"root['name']": {'new_value': 'Southeastern Conference', 'old_value': "Southeastern Conference Motto:  If you ain't cheatin', you ain't tryin."}}}
+344: {'values_changed': {"root['name']": {'new_value': "Southeastern Conference Motto:  If you ain't cheatin', you ain't tryin.", 'old_value': 'Southeastern Conference'}}}
+349: {'values_changed': {"root['short_name']": {'new_value': 'SEC', 'old_value': 'SEC wishes they were BIG 10'}}}
+350: {'values_changed': {"root['short_name']": {'new_value': 'SEC wishes they were BIG 10', 'old_value': 'SEC'}}}
+450: {'values_changed': {"root['established']": {'new_value': '1933', 'old_value': '1932'}}}
+617: {'values_changed': {"root['established']": {'new_value': '1932', 'old_value': '1933'}}}
+618: {'values_changed': {"root['established']": {'new_value': '1933', 'old_value': '1932'}}}
+792: {'values_changed': {"root['members']": {'new_value': '12', 'old_value': '12 (13 in 2012)'}}}
+793: {'values_changed': {"root['members']": {'new_value': '12 (13 in 2012)', 'old_value': '12'}}}
+806: {'values_changed': {"root['members']": {'new_value': '12', 'old_value': '12 (13 on July 1, 2012)'}}}
+809: {'values_changed': {"root['map']": {'new_value': 'SEC-USA-states.PNG', 'old_value': 'SEC-USA-states2011.png'}}}
+824: {'values_changed': {"root['name']": {'new_value': 'Southeastern Conference', 'old_value': 'Stupid Cheaters Conference'}}}
+825: {'values_changed': {"root['name']": {'new_value': 'Stupid Cheaters Conference', 'old_value': 'South Eastern Conference'}}}
+826: {'values_changed': {"root['name']": {'new_value': 'South Eastern Conference', 'old_value': 'Southeastern Conference'}}}
+930: {'values_changed': {"root['members']": {'new_value': '12 (13 on July 1, 2012)', 'old_value': '12 (14 on July 1, 2012)'}}}
+936: {'values_changed': {"root['region']": {'new_value': 'Southern United States', 'old_value': 'Southern United States, Midwestern United States'}}}
+937: {'values_changed': {"root['region']": {'new_value': 'Southern United States, Midwestern United States', 'old_value': 'Southern United States, Midwestern United States(University of Missouri in 2012)'}}}
+938: {'values_changed': {"root['region']": {'new_value': 'Southern United States, Midwestern United States(University of Missouri in 2012)', 'old_value': 'Southern United States, Midwestern United States(University of Missouri)'}}}
+939: {'values_changed': {"root['region']": {'new_value': 'Southern United States, Midwestern United States(University of Missouri)', 'old_value': 'Southern United States, Midwestern United States (University of Missouri)'}}}
+985: {'values_changed': {"root['region']": {'new_value': 'Southern United States, Midwestern United States (University of Missouri)', 'old_value': 'Southern United States'}}}
+988: {'values_changed': {"root['region']": {'new_value': 'Southern United States', 'old_value': 'Southern United States, Midwestern United States'}}}
+1066: {'type_changes': {"root['region']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Southern United States'], 'new_value': 'Southern United States, Midwestern United States'}}, 'values_changed': {"root['established']": {'new_value': '1932', 'old_value': '1933'}, "root['subdivision']": {'new_value': 'Division I (NCAA)#Football Bowl Subdivision', 'old_value': 'Football Bowl Subdivision'}, "root['members']": {'new_value': '12 (14 on July 1, 2012)', 'old_value': '14'}, "root['sports']": {'new_value': '20', 'old_value': '21'}, "root['womens']": {'new_value': '11', 'old_value': '12'}, "root['color']": {'new_value': '161149', 'old_value': '#1D427D'}, "root['font_color']": {'new_value': 'FFCB39', 'old_value': '#FFD24F'}}}
+1078: {'values_changed': {"root['established']": {'new_value': '1933', 'old_value': '1932'}}}
+1211: {'values_changed': {"root['short_name']": {'new_value': 'SEC', 'old_value': 'SEC which is owned by thee Mason Berry'}}}
+1212: {'values_changed': {"root['short_name']": {'new_value': 'SEC which is owned by thee Mason Berry', 'old_value': 'SEC'}}}
+1214: {'values_changed': {"root['short_name']": {'new_value': 'SEC', 'old_value': 'SEC Which is owned by thee Mason Berry'}}}
+1215: {'values_changed': {"root['short_name']": {'new_value': 'SEC Which is owned by thee Mason Berry', 'old_value': 'SEC'}}}
+1232: {'values_changed': {"root['commissioner']": {'new_value': 'Michael Slive', 'old_value': 'Greg Sankey'}, "root['since']": {'new_value': '2002', 'old_value': '2015'}}}
+1247: {'values_changed': {"root['members']": {'new_value': '14', 'old_value': '16'}}}
+1248: {'values_changed': {"root['members']": {'new_value': '16', 'old_value': '14'}}}

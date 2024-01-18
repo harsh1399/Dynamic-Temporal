@@ -1,0 +1,12 @@
+13: {'dictionary_item_removed': {"root['current_season']": '2016–17 NLA season', "root['Formerly']": ["'''NDA''' , 1916–1999"], "root['sport']": 'Ice hockey', "root['ceo']": 'Marc Furrer', "root['teams']": '12', "root['champion']": 'SC Bern (14)', "root['most_champs']": 'HC Davos (31)', "root['TV']": 'SRG SSR idée suisse', "root['related_comps']": 'National League B '}}
+17: {'values_changed': {"root['champion']": {'new_value': 'SC Bern (14)', 'old_value': 'SC Bern (15)'}}}
+22: {'values_changed': {"root['related_comps']": {'new_value': 'National League B ', 'old_value': 'Swiss League '}}}
+23: {'values_changed': {"root['ceo']": {'new_value': 'Marc Furrer', 'old_value': 'Jean-Marie Viaccoz, Michael Rindlisbacher'}}}
+30: {'values_changed': {"root['current_season']": {'new_value': '2016–17 NLA season', 'old_value': '2017–18 NL season'}}}
+32: {'type_changes': {"root['Formerly']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "'''NDA''', 1938–1999, '''Nationalliga A''', 1999–2007, '''National League A''', 2007–2017", 'new_value': ["'''NDA''' , 1916–1999"]}}}
+33: {'values_changed': {"root['TV']": {'new_value': 'SRG SSR idée suisse', 'old_value': 'Swiss Broadcasting Corporation'}, "root['related_comps']": {'new_value': 'Swiss League ', 'old_value': 'National League B '}}}
+35: {'values_changed': {"root['related_comps']": {'new_value': 'National League B ', 'old_value': 'Swiss League '}}}
+36: {'values_changed': {"root['Formerly']": {'new_value': "'''NDA''', 1938–1999, '''Nationalliga A''', 1999–2007, '''National League A''', 2007–2017", 'old_value': "'''NDA''', 1938–1999, '''Nationalliga A''', 1999–2007, '''National League A''', 2007–2017, '''National League''', 2017–present"}}}
+37: {'values_changed': {"root['current_season']": {'new_value': '2017–18 NL season', 'old_value': '2021–22 NL season'}, "root['ceo']": {'new_value': 'Jean-Marie Viaccoz, Michael Rindlisbacher', 'old_value': 'Denis Vaucher'}, "root['teams']": {'new_value': '12', 'old_value': '13'}, "root['champion']": {'new_value': 'SC Bern (15)', 'old_value': 'EV Zug'}, "root['TV']": {'new_value': 'Swiss Broadcasting Corporation', 'old_value': 'UPC Switzerland#UPC TV and MySports'}}}
+41: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+58: {'values_changed': {"root['current_season']": {'new_value': '2021–22 NL season', 'old_value': '2022–23 NL season'}}}

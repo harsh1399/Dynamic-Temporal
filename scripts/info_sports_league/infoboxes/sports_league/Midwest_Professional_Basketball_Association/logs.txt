@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['inaugural']": '2015', "root['teams']": '6', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": 'TBD', "root['most_champs']": 'none'}}
+5: {'dictionary_item_added': {"root['champion']": 'TBD', "root['most_champs']": 'none'}, 'dictionary_item_removed': {"root['ceo']": 'Ed Schumer'}, 'values_changed': {"root['continent']": {'new_value': 'FIBA Americas (Americas)', 'old_value': 'FIBA Americas'}}}
+17: {'dictionary_item_removed': {"root['champion']": 'Champaign Swarm (1st title)', "root['most_champs']": 'Champaign Swarm'}}
+23: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}, "root['champion']": {'new_value': 'Champaign Swarm (1st title)', 'old_value': 'Champaign Swarm (2015)'}, "root['most_champs']": {'new_value': 'Champaign Swarm', 'old_value': 'Champaign Swarm (1)'}}}
+50: {'values_changed': {"root['champion']": {'new_value': 'Champaign Swarm (2015)', 'old_value': 'Chicago Blues (2016)'}, "root['most_champs']": {'new_value': 'Champaign Swarm (1)', 'old_value': 'Champaign Swarm, Chicago Blues (1)'}}}
+57: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['sport']": 'College basketball', "root['teams']": '8', "root['Founder']": 'Kerzner International '}}
+4: {'dictionary_item_removed': {"root['TV']": 'Versus (TV channel)'}}
+8: {'dictionary_item_removed': {"root['venue']": 'Atlantis Resorts'}}
+9: {'values_changed': {"root['venue']": {'new_value': 'Atlantis Resorts', 'old_value': 'Imperial Arena'}}}
+21: {'values_changed': {"root['venue']": {'new_value': 'Imperial Arena', 'old_value': 'Imperial Arena, Paradise Island, Nassau, Bahamas'}}}
+32: {'dictionary_item_removed': {"root['champion']": "Harvard Crimson men's basketball"}}
+42: {'dictionary_item_added': {"root['Founder']": 'Kerzner International '}, 'dictionary_item_removed': {"root['most_champs']": "Villanova Wildcats men's basketball", "root['founder']": 'Kerzner International '}, 'values_changed': {"root['venue']": {'new_value': 'Imperial Arena, Paradise Island, Nassau, Bahamas', 'old_value': 'Imperial Arena Paradise Island, Nassau, Bahamas'}, "root['champion']": {'new_value': "Harvard Crimson men's basketball", 'old_value': "2019–20 Michigan Wolverines men's basketball team"}, "root['TV']": {'new_value': 'Versus (TV channel)', 'old_value': 'ESPN College Basketball'}}}
+48: {'dictionary_item_removed': {"root['related_comps']": 'Crossover Classic'}}
+53: {'dictionary_item_added': {"root['related_comps']": 'Crossover Classic'}, 'dictionary_item_removed': {"root['sponsor']": 'Bad Boy Mowers'}, 'values_changed': {"root['venue']": {'new_value': 'Imperial Arena Paradise Island, Nassau, Bahamas', 'old_value': 'Imperial Arena Paradise Island, The Bahamas'}, "root['champion']": {'new_value': "2019–20 Michigan Wolverines men's basketball team", 'old_value': "2021–22 Baylor Bears men's basketball team"}}}
+155: {'values_changed': {"root['champion']": {'new_value': "2021–22 Baylor Bears men's basketball team", 'old_value': '2022–23 Tennessee Volunteers basketball team'}}}

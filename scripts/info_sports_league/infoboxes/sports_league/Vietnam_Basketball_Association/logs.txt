@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['teams']": '#Teams', "root['continent']": 'FIBA Asia (Asia)'}}
+9: {'dictionary_item_removed': {"root['commissioner']": 'Tonichi Pujante'}}
+17: {'dictionary_item_removed': {"root['current_season']": '2016 VBA season', "root['inaugural']": '2016 VBA season'}}
+27: {'dictionary_item_removed': {"root['champion']": 'Danang Dragons (1st title)', "root['most_champs']": 'Danang Dragons (1 title)'}}
+29: {'dictionary_item_added': {"root['commissioner']": 'Tonichi Pujante'}, 'values_changed': {"root['current_season']": {'new_value': '2016 VBA season', 'old_value': '2022 VBA season'}, "root['teams']": {'new_value': '#Teams', 'old_value': '7'}, "root['continent']": {'new_value': 'FIBA Asia (Asia)', 'old_value': 'FIBA Asia'}, "root['champion']": {'new_value': 'Danang Dragons (1st title)', 'old_value': 'Saigon Heat (VBA)'}, "root['most_champs']": {'new_value': 'Danang Dragons (1 title)', 'old_value': 'Saigon Heat (VBA)'}}}
+30: {'values_changed': {"root['current_season']": {'new_value': '2022 VBA season', 'old_value': '2023 VBA season'}}}
+38: {'values_changed': {"root['most_champs']": {'new_value': 'Saigon Heat (VBA)', 'old_value': 'Saigon Heat, (3 titles)'}}}

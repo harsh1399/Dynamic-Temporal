@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['teams']": '6'}}
+3: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+12: {'dictionary_item_removed': {"root['champion']": 'Delaware Eastern Shore Generals (2018)', "root['most_champs']": 'New Jersey Thunder, Beltway Bombers (2 each)', "root['owner']": 'Brian Graham  '}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '17'}}}
+13: {'values_changed': {"root['champion']": {'new_value': 'Delaware Eastern Shore Generals (2018)', 'old_value': 'Beltway Bombers (2019)'}, "root['most_champs']": {'new_value': 'New Jersey Thunder, Beltway Bombers (2 each)', 'old_value': 'Beltway Bombers (3)'}}}
+14: {'dictionary_item_removed': {"root['folded']": '2019'}}
+23: {'values_changed': {"root['champion']": {'new_value': 'Beltway Bombers (2019)', 'old_value': 'Beltway Bombers (2019)fact'}, "root['most_champs']": {'new_value': 'Beltway Bombers (3)', 'old_value': 'Beltway Bombers (3)fact'}, "root['owner']": {'new_value': 'Brian Graham  ', 'old_value': 'Brian Graham fact '}}}
+24: {'values_changed': {"root['owner']": {'new_value': 'Brian Graham fact ', 'old_value': 'Brian Graham da'}}}

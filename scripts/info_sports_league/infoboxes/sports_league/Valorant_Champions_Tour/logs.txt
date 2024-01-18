@@ -1,0 +1,7 @@
+1: {'dictionary_item_removed': {"root['sport']": 'Esports', "root['game']": "''Valorant''", "root['owner']": 'Riot Games', "root['inaugural']": '2021', "root['champion']": 'Acend'}}
+13: {'values_changed': {"root['sport']": {'new_value': 'Esports', 'old_value': 'Sash'}}}
+16: {'values_changed': {"root['sport']": {'new_value': 'Sash', 'old_value': 'Esports'}}}
+31: {'values_changed': {"root['champion']": {'new_value': 'Acend', 'old_value': 'LOUD'}}}
+48: {'values_changed': {"root['champion']": {'new_value': 'LOUD', 'old_value': 'LOUD (esports)'}}}
+57: {'values_changed': {"root['champion']": {'new_value': 'LOUD (esports)', 'old_value': 'OpTic Gaming'}}}
+58: {'values_changed': {"root['champion']": {'new_value': 'OpTic Gaming', 'old_value': 'LOUD (esports)'}}}

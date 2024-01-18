@@ -1,0 +1,10 @@
+2: {'dictionary_item_removed': {"root['sport']": 'Cricket', "root['administrator']": 'International Cricket Council', "root['teams']": '13', "root['current']": '2020–22 ICC Cricket World Cup Super League '}}
+7: {'values_changed': {"root['current']": {'new_value': '2020–22 ICC Cricket World Cup Super League ', 'old_value': '2020–22 ICC Cricket World Cup Super League'}}}
+9: {'values_changed': {"root['current']": {'new_value': '2020–22 ICC Cricket World Cup Super League', 'old_value': '2020–23 ICC Cricket World Cup Super League'}}}
+19: {'dictionary_item_removed': {"root['replaced']": 'ICC Cricket World Cup Qualifier<ref name'}}
+23: {'values_changed': {"root['current']": {'new_value': '2020–23 ICC Cricket World Cup Super League', 'old_value': '2020–2023 ICC Cricket World Cup Super League'}, "root['replaced']": {'new_value': 'ICC Cricket World Cup Qualifier<ref name', 'old_value': 'ICC World Cup Qualifier<ref name'}}}
+30: {'values_changed': {"root['replaced']": {'new_value': 'ICC World Cup Qualifier<ref name', 'old_value': 'ICC ODI Rankings<ref name'}}}
+31: {'values_changed': {"root['replaced']": {'new_value': 'ICC ODI Rankings<ref name', 'old_value': "ICC Men's ODI Team Rankings<ref name"}}}
+45: {'dictionary_item_removed': {"root['champions']": 'cr', "root['count']": '1'}}
+47: {'dictionary_item_added': {"root['champions']": 'cr', "root['count']": '1'}, 'dictionary_item_removed': {"root['champion']": 'cr'}}
+48: {'dictionary_item_added': {"root['current']": '2020–2023 ICC Cricket World Cup Super League'}, 'dictionary_item_removed': {"root['first']": '2020–2023 ICC Cricket World Cup Super League', "root['last']": '2020–2023 ICC Cricket World Cup Super League', "root['next']": '2020–2023 ICC Cricket World Cup Super League'}}

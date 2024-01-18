@@ -1,0 +1,116 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['founder']": 'LaVar Ball', "root['inaugural']": '2018', "root['fame']": 'First junior professional basketball league', "root['ceo']": 'LaVar Ball', "root['teams']": '8', "root['sponsor']": 'Big Baller Brand'}}
+6: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '0 (potentially 8)'}}}
+7: {'dictionary_item_removed': {"root['champions']": 'Lavar himself'}}
+9: {'dictionary_item_added': {"root['champions']": 'Lavar himself'}, 'values_changed': {"root['ceo']": {'new_value': 'LaVar Ball', 'old_value': 'Adam Sandler'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Nike'}}}
+10: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Kevin Hart'}, "root['teams']": {'new_value': '0 (potentially 8)', 'old_value': '0 (potentially 100)'}}}
+11: {'values_changed': {"root['founder']": {'new_value': 'Kevin Hart', 'old_value': 'LaVar Ball'}, "root['ceo']": {'new_value': 'Adam Sandler', 'old_value': 'LaVar Ball'}, "root['teams']": {'new_value': '0 (potentially 100)', 'old_value': '0 (potentially 8)'}, "root['sponsor']": {'new_value': 'Nike', 'old_value': 'Big Baller Brand'}}}
+14: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Bob Bass'}, "root['ceo']": {'new_value': 'LaVar Ball', 'old_value': '21 Savage'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Walmart'}}}
+16: {'dictionary_item_added': {"root['ceo']": '21 Savage'}, 'values_changed': {"root['founder']": {'new_value': 'Bob Bass', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Walmart', 'old_value': 'Big Baller Brand'}}}
+19: {'values_changed': {"root['teams']": {'new_value': '0 (potentially 8)', 'old_value': '0 (8 planned)'}}}
+28: {'values_changed': {"root['teams']": {'new_value': '0 (8 planned)', 'old_value': '3 (8 planned)'}}}
+29: {'values_changed': {"root['teams']": {'new_value': '3 (8 planned)', 'old_value': '0 (8 planned)'}}}
+41: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Frank Washburn and Carter Peabody'}}}
+42: {'dictionary_item_removed': {"root['headquarters']": 'My house'}, 'values_changed': {"root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Air Jordan'}}}
+44: {'dictionary_item_added': {"root['headquarters']": 'My house'}, 'values_changed': {"root['teams']": {'new_value': '0 (8 planned)', 'old_value': '0 (36366 planned)'}}}
+45: {'values_changed': {"root['teams']": {'new_value': '0 (36366 planned)', 'old_value': '0 (69 planned)'}}}
+47: {'dictionary_item_removed': {"root['tv']": 'follow me on instagram carter_peabody'}}
+48: {'dictionary_item_added': {"root['tv']": 'follow me on instagram carter_peabody'}, 'values_changed': {"root['founder']": {'new_value': 'Frank Washburn and Carter Peabody', 'old_value': 'LaVar Ball'}, "root['teams']": {'new_value': '0 (69 planned)', 'old_value': '0 (8 planned)'}, "root['sponsor']": {'new_value': 'Air Jordan', 'old_value': 'Big Baller Brand'}}}
+49: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'carter peabody'}}}
+50: {'values_changed': {"root['founder']": {'new_value': 'carter peabody', 'old_value': 'carter peabody and Frank washburn'}}}
+52: {'values_changed': {"root['founder']": {'new_value': 'carter peabody and Frank washburn', 'old_value': 'LaVar Ball'}}}
+56: {'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'Baseball'}}}
+57: {'values_changed': {"root['sport']": {'new_value': 'Baseball', 'old_value': 'Basketball'}}}
+63: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Javier Amaya'}}}
+64: {'values_changed': {"root['founder']": {'new_value': 'Javier Amaya', 'old_value': 'LaVar Ball'}}}
+65: {'values_changed': {"root['teams']": {'new_value': '0 (8 planned)', 'old_value': '8 (planned)'}}}
+69: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Coloniel Sanders'}}}
+70: {'values_changed': {"root['founder']": {'new_value': 'Coloniel Sanders', 'old_value': 'LaVar Ball'}}}
+77: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Jeffrey Smith'}}}
+78: {'values_changed': {"root['founder']": {'new_value': 'Jeffrey Smith', 'old_value': 'Lavar Ball'}}}
+79: {'values_changed': {"root['founder']": {'new_value': 'Lavar Ball', 'old_value': 'LaVar Ball'}}}
+95: {'dictionary_item_added': {"root['sport']": 'Basketball'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'm Ball'}}}
+96: {'dictionary_item_removed': {"root['sport']": 'Basketball'}, 'values_changed': {"root['founder']": {'new_value': 'm Ball', 'old_value': 'LaVar Ball'}}}
+97: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'LaVar Ball and Cristian Crotti'}}}
+98: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball and Cristian Crotti', 'old_value': 'LaVar Ball and Criaea'}}}
+100: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball and Criaea', 'old_value': 'LaVar Ball'}}}
+109: {'dictionary_item_removed': {"root['director']": 'LaVar Ball', "root['commissioner']": 'LaVar Ball', "root['champions']": 'Los Angeles Ballers', "root['headquarters']": 'Los Angeles, CA', "root['tv']": 'ESPN'}}
+153: {'dictionary_item_added': {"root['director']": 'LaVar Ball', "root['commissioner']": 'LaVar Ball', "root['champions']": 'Los Angeles Ballers', "root['headquarters']": 'Los Angeles, CA', "root['tv']": 'ESPN'}, 'dictionary_item_removed': {"root['current_season']": 'Season One starts soon'}}
+166: {'dictionary_item_added': {"root['current_season']": 'Season One starts soon', "root['fame']": 'First junior professional basketball league'}, 'values_changed': {"root['inaugural']": {'new_value': '2018', 'old_value': '2018 JBA season'}, "root['teams']": {'new_value': '8 (planned)', 'old_value': '8'}}}
+170: {'dictionary_item_removed': {"root['current_season']": '2018 JBA season'}}
+181: {'dictionary_item_removed': {"root['tv']": 'Facebook Live'}}
+189: {'values_changed': {"root['current_season']": {'new_value': '2018 JBA season', 'old_value': '2018 JBL season'}}}
+190: {'values_changed': {"root['current_season']": {'new_value': '2018 JBL season', 'old_value': '2018 JBA season'}}}
+199: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '50'}}}
+200: {'values_changed': {"root['teams']": {'new_value': '50', 'old_value': '8'}}}
+201: {'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'LAVAR ball'}, "root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Balls McGee eat'}}}
+202: {'values_changed': {"root['sport']": {'new_value': 'LAVAR ball', 'old_value': 'Basketball'}, "root['founder']": {'new_value': 'Balls McGee eat', 'old_value': 'LaVar Ball'}}}
+205: {'dictionary_item_removed': {"root['director']": 'Sean McLoughlin', "root['commissioner']": 'Mark Fischbach'}}
+206: {'values_changed': {"root['tv']": {'new_value': 'Facebook Live', 'old_value': 'Facebook Watch'}}}
+227: {'dictionary_item_added': {"root['director']": 'Sean McLoughlin', "root['commissioner']": 'Mark Fischbach'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Reese Aguirre'}}}
+228: {'values_changed': {"root['founder']": {'new_value': 'Reese Aguirre', 'old_value': 'LaVar Ball'}}}
+229: {'dictionary_item_removed': {"root['commissioner']": 'Adolf hitler'}}
+231: {'values_changed': {"root['commissioner']": {'new_value': 'Adolf hitler', 'old_value': 'Lonzo ball'}}}
+233: {'values_changed': {"root['commissioner']": {'new_value': 'Lonzo ball', 'old_value': 'Lonzo Ball'}}}
+234: {'values_changed': {"root['commissioner']": {'new_value': 'Lonzo Ball', 'old_value': 'LaVar Ball'}}}
+235: {'dictionary_item_removed': {"root['director']": 'LaVar Ball', "root['headquarters']": 'Big Baller Brand House'}}
+236: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Bad teeth'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Bankrupt Brand'}}}
+237: {'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Bad teeth', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Bankrupt Brand', 'old_value': 'Big Baller Brand'}}}
+238: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Captain white teeth'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Bankrupt Brand'}}}
+239: {'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Captain white teeth', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Bankrupt Brand', 'old_value': 'Big Baller Brand'}}}
+240: {'dictionary_item_removed': {"root['folded']": 'probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Black Uncle Fester'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Colgate'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Bankrupt Brand'}}}
+241: {'dictionary_item_added': {"root['folded']": 'probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Black Uncle Fester', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Mr. Colgate', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Bankrupt Brand', 'old_value': 'Big Baller Brand'}}}
+242: {'dictionary_item_removed': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr.potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. National embarrassment'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Bankrupt  Brand'}}}
+243: {'dictionary_item_added': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Mr.potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Mr. National embarrassment', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Bankrupt  Brand', 'old_value': 'Big Baller Brand'}}}
+244: {'dictionary_item_removed': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Captain horrible teeth'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Bankrupt Brand'}}}
+245: {'dictionary_item_added': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Captain horrible teeth', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Bankrupt Brand', 'old_value': 'Big Baller Brand'}}}
+248: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}}}
+249: {'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}}}
+254: {'dictionary_item_removed': {"root['folded']": 'Probably next week'}}
+256: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'A guy who was a worse college player than Donovan Mcnabb'}, "root['folded']": {'new_value': 'Probably next week', 'old_value': 'next week around noon'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}}}
+257: {'dictionary_item_added': {"root['folded']": 'next week around noon'}, 'values_changed': {"root['founder']": {'new_value': 'A guy who was a worse college player than Donovan Mcnabb', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}}}
+262: {'dictionary_item_removed': {"root['folded']": 'Next week sometime'}}
+266: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['folded']": {'new_value': 'Next week sometime', 'old_value': 'Probably next week'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Colgates clean teeth'}}}
+267: {'dictionary_item_added': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Colgates clean teeth', 'old_value': 'LaVar Ball'}}}
+268: {'dictionary_item_removed': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Colgates yellow teeth'}}}
+269: {'dictionary_item_added': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Colgates yellow teeth', 'old_value': 'LaVar Ball'}}}
+270: {'dictionary_item_removed': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Potato head'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Steve Harvey’s ugly brother'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Mr. Crooked teeth'}}}
+271: {'dictionary_item_added': {"root['folded']": 'Probably next week'}, 'values_changed': {"root['founder']": {'new_value': 'Mr. Potato head', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Steve Harvey’s ugly brother', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Mr. Crooked teeth', 'old_value': 'LaVar Ball'}}}
+283: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'LaVar booty Ball'}, "root['sponsor']": {'new_value': 'Big Baller Brand', 'old_value': 'Big Booty Brand'}}}
+284: {'values_changed': {"root['founder']": {'new_value': 'LaVar booty Ball', 'old_value': 'LaVar Ball'}, "root['sponsor']": {'new_value': 'Big Booty Brand', 'old_value': 'Big Baller Brand'}}}
+291: {'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'Baseball'}}}
+292: {'values_changed': {"root['sport']": {'new_value': 'Baseball', 'old_value': 'Basketball'}}}
+293: {'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'Baseball'}}}
+294: {'values_changed': {"root['sport']": {'new_value': 'Baseball', 'old_value': 'Basketball'}}}
+296: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'L.A. Var Balls'}}}
+297: {'values_changed': {"root['founder']": {'new_value': 'L.A. Var Balls', 'old_value': 'LaVar Ball'}}}
+304: {'values_changed': {"root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'LaVar Ball Lonzo Ball'}}}
+305: {'values_changed': {"root['commissioner']": {'new_value': 'LaVar Ball Lonzo Ball', 'old_value': 'LaVar Ball'}}}
+310: {'values_changed': {"root['headquarters']": {'new_value': 'Big Baller Brand House', 'old_value': 'Big Baller Brand House (Big Baller Estate)'}}}
+313: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'LaVar Ball and his partner Alan'}}}
+314: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball and his partner Alan', 'old_value': 'LaVar Ball'}}}
+315: {'dictionary_item_removed': {"root['champions']": 'LOs Angeles Ballers'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Miguel Schrute'}, "root['teams']": {'new_value': '8', 'old_value': '500'}}}
+316: {'values_changed': {"root['founder']": {'new_value': 'Miguel Schrute', 'old_value': 'Miguel caca'}}}
+319: {'values_changed': {"root['founder']": {'new_value': 'Miguel caca', 'old_value': 'Lavar Ball'}}}
+320: {'dictionary_item_added': {"root['champions']": 'LOs Angeles Ballers'}, 'values_changed': {"root['founder']": {'new_value': 'Lavar Ball', 'old_value': 'LaVar Ball'}, "root['teams']": {'new_value': '500', 'old_value': '8'}}}
+326: {'values_changed': {"root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Tuff Buckets'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Luke gregoli'}}}
+327: {'values_changed': {"root['director']": {'new_value': 'Tuff Buckets', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Luke gregoli', 'old_value': 'LaVar Ball'}}}
+328: {'values_changed': {"root['headquarters']": {'new_value': 'Big Baller Brand House (Big Baller Estate)', 'old_value': 'Flemming Park Inola Oklahoma'}}}
+329: {'values_changed': {"root['headquarters']": {'new_value': 'Flemming Park Inola Oklahoma', 'old_value': 'Big Baller Brand House, (Big Baller Estate)'}}}
+335: {'dictionary_item_added': {"root['headquarters']": 'Big Baller Brand House, (Big Baller Estate)'}, 'dictionary_item_removed': {"root['venue']": 'Murica'}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '69'}}}
+336: {'dictionary_item_added': {"root['venue']": 'Murica'}, 'values_changed': {"root['teams']": {'new_value': '69', 'old_value': '8'}}}
+366: {'dictionary_item_removed': {"root['ended']": 'start date and age'}}
+375: {'dictionary_item_added': {"root['ended']": 'start date and age'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'lavarBetter then mj ball'}}}
+376: {'values_changed': {"root['founder']": {'new_value': 'lavarBetter then mj ball', 'old_value': 'LaVar Ball'}}}
+379: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Ball Family'}}}
+380: {'values_changed': {"root['founder']": {'new_value': 'Ball Family', 'old_value': 'LaVar Ball'}}}
+384: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'God'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'God'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'God'}}}
+385: {'values_changed': {"root['founder']": {'new_value': 'God', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'God', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'God', 'old_value': 'LaVar Ball'}}}
+387: {'dictionary_item_removed': {"root['champions']": 'Fargo Ballers'}, 'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Pasquali Smith'}, "root['director']": {'new_value': 'LaVar Ball', 'old_value': 'Pasquali Smith'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Pasquali Smith'}}}
+391: {'dictionary_item_added': {"root['champions']": 'Fargo Ballers'}, 'values_changed': {"root['founder']": {'new_value': 'Pasquali Smith', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Pasquali Smith', 'old_value': 'LaVar Ball'}, "root['commissioner']": {'new_value': 'Pasquali Smith', 'old_value': 'LaVar Ball'}}}
+397: {'dictionary_item_added': {"root['current_season']": '2018 JBA season'}, 'dictionary_item_removed': {"root['last_season']": '2018 JBA season'}}
+415: {'dictionary_item_removed': {"root['folded']": 'BBB', "root['fame']": 'BBB', "root['venue']": 'BBB Arena', "root['champions']": 'LA', "root['headquarters']": 'Los Angeles, CA'}}
+416: {'values_changed': {"root['director']": {'new_value': 'LaVar Ball', 'old_value': 'LaVar Ball, Alan Foster'}}}
+420: {'values_changed': {"root['folded']": {'new_value': 'BBB', 'old_value': '2019'}}}
+432: {'values_changed': {"root['founder']": {'new_value': 'LaVar Ball', 'old_value': 'Gus Macdonald'}, "root['director']": {'new_value': 'LaVar Ball, Alan Foster', 'old_value': 'Gus Macdonald'}, "root['commissioner']": {'new_value': 'LaVar Ball', 'old_value': 'Gus Macdonald'}}}
+433: {'values_changed': {"root['founder']": {'new_value': 'Gus Macdonald', 'old_value': 'LaVar Ball'}, "root['director']": {'new_value': 'Gus Macdonald', 'old_value': 'LaVar Ball, Alan Foster'}, "root['commissioner']": {'new_value': 'Gus Macdonald', 'old_value': 'LaVar Ball'}}}
+435: {'values_changed': {"root['director']": {'new_value': 'LaVar Ball, Alan Foster', 'old_value': 'LaVar Ball, Alan Foster (businessman)'}}}

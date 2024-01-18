@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2019–20 Czech 2.liga season', "root['sport']": '2019–20 Czech 2.liga season', "root['teams']": '27 in 3 divisions', "root['champion']": 'CZE', "root['related_comps']": 'Czech Extraliga, 1st Czech Republic Hockey League'}}
+3: {'values_changed': {"root['current_season']": {'new_value': '2019–20 Czech 2.liga season', 'old_value': '2021–22 Czech 2.liga season'}, "root['sport']": {'new_value': '2019–20 Czech 2.liga season', 'old_value': '2021–22 Czech 2.liga season'}}}
+4: {'values_changed': {"root['teams']": {'new_value': '27 in 3 divisions', 'old_value': '24 in 3 divisions'}}}
+7: {'values_changed': {"root['sport']": {'new_value': '2021–22 Czech 2.liga season', 'old_value': 'Ice hockey'}, "root['champion']": {'new_value': 'CZE', 'old_value': 'Upcoming'}}}
+13: {'values_changed': {"root['teams']": {'new_value': '24 in 3 divisions', 'old_value': 'TBD'}, "root['champion']": {'new_value': 'Upcoming', 'old_value': 'HC Tábor'}}}
+17: {'dictionary_item_added': {"root['current_season']": '2021–22 Czech 2.liga season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022–23 Czech 2.liga season'}, 'values_changed': {"root['teams']": {'new_value': 'TBD', 'old_value': '28'}}}

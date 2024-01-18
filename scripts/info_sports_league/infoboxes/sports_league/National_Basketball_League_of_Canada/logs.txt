@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['teams']": '3'}}
+22: {'values_changed': {"root['teams']": {'new_value': '3', 'old_value': '4'}}}
+23: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+25: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+27: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+47: {'dictionary_item_removed': {"root['current_season']": '2011–12 NBL Canada season'}}
+58: {'dictionary_item_added': {"root['current_season']": '2011–12 NBL Canada season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2020–21 NBL Canada season', "root['inaugural']": '2011–12 NBL Canada season', "root['ceo']": 'Dante Lerra', "root['president']": 'Mark Lever', "root['continent']": 'FIBA Americas (Americas)', "root['champion']": '(2019) Moncton Magic (1st title)', "root['most_champs']": 'London Lightning (4 titles)'}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '#Teams'}}}
+69: {'dictionary_item_added': {"root['upcoming_season']": '2020–21 NBL Canada season'}, 'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '8'}, "root['continent']": {'new_value': 'FIBA Americas (Americas)', 'old_value': 'FIBA Americas'}, "root['champion']": {'new_value': '(2019) Moncton Magic (1st title)', 'old_value': 'Moncton Magic (1st title) (2018–19 NBL Canada season'}}}
+70: {'dictionary_item_added': {"root['president']": 'Mark Lever'}, 'values_changed': {"root['ceo']": {'new_value': 'Dante Lerra', 'old_value': 'Gary Curgin'}}}
+72: {'values_changed': {"root['ceo']": {'new_value': 'Gary Curgin', 'old_value': 'Gary Curgin<ref name'}}}
+78: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+85: {'values_changed': {"root['champion']": {'new_value': 'Moncton Magic (1st title) (2018–19 NBL Canada season', 'old_value': 'Moncton Magic, (1st title), (2018–19 NBL Canada season'}, "root['most_champs']": {'new_value': 'London Lightning (4 titles)', 'old_value': 'London Lightning, (4 titles)'}}}
+86: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+90: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+92: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+98: {'dictionary_item_removed': {"root['upcoming_season']": '2021–22 NBL Canada season'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '4 active, (2 on hiatus)'}}}
+102: {'values_changed': {"root['teams']": {'new_value': '4 active, (2 on hiatus)', 'old_value': '4 active (2 on hiatus)'}, "root['champion']": {'new_value': 'Moncton Magic, (1st title), (2018–19 NBL Canada season', 'old_value': 'Moncton Magic (1st title) (2018–19 NBL Canada season'}, "root['most_champs']": {'new_value': 'London Lightning, (4 titles)', 'old_value': 'London Lightning (4 titles)'}}}
+107: {'dictionary_item_added': {"root['upcoming_season']": '2021–22 NBL Canada season', "root['continent']": 'FIBA Americas'}, 'dictionary_item_removed': {"root['current_season']": '2023 NBL Canada season', "root['levels']": 'French basketball league system', "root['confed']": 'FIBA Americas', "root['TV']": 'https://nblc.tv/ NBLC TV'}, 'values_changed': {"root['teams']": {'new_value': '4 active (2 on hiatus)', 'old_value': '4 (2023)'}, "root['champion']": {'new_value': 'Moncton Magic (1st title) (2018–19 NBL Canada season', 'old_value': 'London Lightning (5th title) (2022)'}, "root['most_champs']": {'new_value': 'London Lightning (4 titles)', 'old_value': 'London Lightning (5 titles)'}}}
+108: {'values_changed': {"root['teams']": {'new_value': '4 (2023)', 'old_value': '4 (2023 season)'}}}
+138: {'dictionary_item_added': {"root['levels']": 'French basketball league system'}, 'values_changed': {"root['champion']": {'new_value': 'London Lightning (5th title) (2022)', 'old_value': 'London Lightning (6th title) (2023)'}, "root['most_champs']": {'new_value': 'London Lightning (5 titles)', 'old_value': 'London Lightning (6 titles)'}}}

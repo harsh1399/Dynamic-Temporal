@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Major League', "root['pixels']": '180', "root['divisions']": '3', "root['teams']": '33', "root['feeder']": 'Pervaya Liga', "root['champ']": 'Bratina Cup', "root['champions']": 'Yugra Khanty-Mansiysk', "root['season']": '2008–09', "root['colspan']": '2 align', "root['align']": '"width:12%" | Division ! style'}}
+19: {'dictionary_item_added': {"root['colspan']": '2 align', "root['align']": '"width:12%" | Division ! style'}, 'values_changed': {"root['name']": {'new_value': 'Major League', 'old_value': 'Major Hockey League'}}}
+37: {'dictionary_item_added': {"root['feeder']": 'Pervaya Liga'}, 'dictionary_item_removed': {"root['folded']": '2010 (old league under Ice Hockey Federation of Russia'}}
+38: {'values_changed': {"root['season']": {'new_value': '2008–09', 'old_value': '2009–10'}}}
+39: {'values_changed': {"root['divisions']": {'new_value': '3', 'old_value': '2'}, "root['teams']": {'new_value': '33', 'old_value': '22'}}}
+44: {'dictionary_item_added': {"root['divisions']": '2'}, 'dictionary_item_removed': {"root['conferences']": '2'}, 'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '20'}}}
+52: {'values_changed': {"root['teams']": {'new_value': '20', 'old_value': '19'}}}
+59: {'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '20'}}}
+69: {'values_changed': {"root['pixels']": {'new_value': '180', 'old_value': '200'}}}
+70: {'values_changed': {"root['pixels']": {'new_value': '200', 'old_value': '180'}}}
+77: {'values_changed': {"root['pixels']": {'new_value': '180', 'old_value': '75'}}}
+78: {'values_changed': {"root['pixels']": {'new_value': '75', 'old_value': '70'}}}
+81: {'dictionary_item_removed': {"root['current_season']": '2010-11 VHL season'}}
+82: {'dictionary_item_removed': {"root['related_comps']": 'Kontinental Hockey League Minor Hockey League '}}
+113: {'dictionary_item_added': {"root['name']": 'Major Hockey League', "root['pixels']": '70', "root['folded']": '2010 (old league under Ice Hockey Federation of Russia', "root['conferences']": '2', "root['champ']": 'Bratina Cup', "root['champions']": 'Yugra Khanty-Mansiysk', "root['season']": '2009–10'}, 'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['countries']": 'Russia (27 Teams)', "root['champion']": 'Saryarka Karagandy (2)', "root['most_champs']": 'Toros Neftekamsk (3)'}, 'values_changed': {"root['current_season']": {'new_value': '2010-11 VHL season', 'old_value': '2021–22 Supreme Hockey League season'}, "root['teams']": {'new_value': '20', 'old_value': '27 (2022–2023 season)'}, "root['related_comps']": {'new_value': 'Kontinental Hockey League Minor Hockey League ', 'old_value': 'Kontinental Hockey League VHL-B Junior Hockey League National Junior Hockey League '}}}
+123: {'dictionary_item_added': {"root['current_season']": '2021–22 Supreme Hockey League season'}, 'values_changed': {"root['countries']": {'new_value': 'Russia (27 Teams)', 'old_value': 'Russia (26 Teams)'}, "root['champion']": {'new_value': 'Saryarka Karagandy (2)', 'old_value': 'Khimik Voskresensk (2005)'}, "root['teams']": {'new_value': '27 (2022–2023 season)', 'old_value': '26 (2022–2023 season)'}}}
+127: {'values_changed': {"root['countries']": {'new_value': 'Russia (26 Teams)', 'old_value': 'Russia (29 Teams)'}, "root['teams']": {'new_value': '26 (2022–2023 season)', 'old_value': '29 (2023–2024 season)'}}}

@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['founder']": 'Ice Cube', "root['inaugural']": 'June 24, 2017', "root['headquarters']": 'New York, NY'}}
+4: {'dictionary_item_removed': {"root['teams']": '8'}}
+42: {'dictionary_item_removed': {"root['commissioner']": 'Roger Mason Jr.'}}
+43: {'type_changes': {"root['founder']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Ice Cube'}}}
+58: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '#Teams'}}}
+116: {'dictionary_item_removed': {"root['current_season']": '2017 BIG3 season'}}
+119: {'dictionary_item_removed': {"root['tv']": 'Fox Sports 1'}}
+123: {'dictionary_item_removed': {"root['venue']": '2017 BIG3 season#Venues'}}
+188: {'values_changed': {"root['inaugural']": {'new_value': 'June 24, 2017', 'old_value': '2017'}}}
+221: {'dictionary_item_removed': {"root['ceo']": 'Amy Trask'}}
+303: {'values_changed': {"root['headquarters']": {'new_value': 'New York, NY', 'old_value': 'New York City'}}}
+352: {'values_changed': {"root['current_season']": {'new_value': '2017 BIG3 season', 'old_value': '2018 BIG3 season'}}}
+362: {'values_changed': {"root['headquarters']": {'new_value': 'New York City', 'old_value': 'Santa Monica, CA'}}}
+366: {'dictionary_item_added': {"root['founder']": []}, 'dictionary_item_removed': {"root['founders']": []}}
+367: {'dictionary_item_added': {"root['founders']": []}, 'dictionary_item_removed': {"root['founder']": []}}
+394: {'dictionary_item_added': {"root['venue']": '2017 BIG3 season#Venues'}, 'dictionary_item_removed': {"root['champions']": 'Trilogy (basketball)', "root['most_champs']": 'Trilogy (basketball)'}, 'values_changed': {"root['current_season']": {'new_value': '2018 BIG3 season', 'old_value': '2023 Big3 season'}, "root['sport']": {'new_value': 'Basketball', 'old_value': '3x3 Basketball'}, "root['inaugural']": {'new_value': '2017', 'old_value': '2017 Big3 season'}, "root['ceo']": {'new_value': 'Amy Trask', 'old_value': 'Ice Cube'}, "root['commissioner']": {'new_value': 'Roger Mason Jr.', 'old_value': 'Clyde Drexler'}, "root['headquarters']": {'new_value': 'Santa Monica, CA', 'old_value': 'Los Angeles, California'}, "root['tv']": {'new_value': 'Fox Sports 1', 'old_value': 'CBS Sports'}}}

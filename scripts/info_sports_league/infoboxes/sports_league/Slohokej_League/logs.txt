@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Ice hockey', "root['teams']": '10'}}
+38: {'dictionary_item_removed': {"root['pixels']": '150'}}
+113: {'dictionary_item_removed': {"root['current_season']": '2010–11 Slohokej Liga season', "root['champion']": 'HDK Maribor'}}
+120: {'values_changed': {"root['champion']": {'new_value': 'HDK Maribor', 'old_value': 'HK Partizan'}}}
+131: {'values_changed': {"root['current_season']": {'new_value': '2010–11 Slohokej Liga season', 'old_value': '2011–12 Slohokej Liga season'}}}
+133: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '8'}}}
+144: {'values_changed': {"root['champion']": {'new_value': 'HK Partizan', 'old_value': 'HK Partizan (2nd title)'}}}
+146: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7 (present)'}}}
+151: {'dictionary_item_added': {"root['current_season']": '2011–12 Slohokej Liga season', "root['teams']": '7 (present)'}, 'dictionary_item_removed': {"root['last_season']": '2011–12 Slohokej Liga season', "root['folded']": '2012'}}
+180: {'values_changed': {"root['last_season']": {'new_value': '2011–12 Slohokej Liga season', 'old_value': '2011–12 Slohokej League season'}}}

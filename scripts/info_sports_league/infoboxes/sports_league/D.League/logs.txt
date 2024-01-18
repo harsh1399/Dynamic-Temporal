@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['league']": '1', "root['organizer']": 'D.League', "root['divisions']": '1', "root['teams']": '12', "root['region']": 'Asia', "root['level']": '1'}}
+9: {'dictionary_item_removed': {"root['owner']": 'D.League'}}
+20: {'dictionary_item_added': {"root['league']": '1', "root['owner']": 'D.League', "root['divisions']": '1', "root['level']": '1'}, 'values_changed': {"root['organizer']": {'new_value': 'D.League', 'old_value': 'D.League (corporation)'}}}
+21: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13 (from 2023–24 season)'}}}
+23: {'values_changed': {"root['teams']": {'new_value': '13 (from 2023–24 season)', 'old_value': '13 (from 2023–24 season)<ref name'}}}

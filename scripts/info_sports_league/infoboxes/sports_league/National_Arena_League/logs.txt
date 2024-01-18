@@ -1,0 +1,56 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Arena football', "root['ceo']": 'Skip Seda', "root['commissioner']": 'John Gregory', "root['headquarters']": 'Columbus, Georgia, U.S.A.', "root['inaugural']": '2017', "root['teams']": 'TBA', "root['founder']": 'Skip Seda, Keke Seda '}}
+12: {'values_changed': {"root['teams']": {'new_value': 'TBA', 'old_value': '1 (as of July 7, 2016)'}}}
+23: {'values_changed': {"root['sport']": {'new_value': 'Arena football', 'old_value': 'Indoor American football'}}}
+24: {'dictionary_item_added': {"root['ceo']": 'Skip Seda'}, 'dictionary_item_removed': {"root['CEO']": 'Skip Seda'}, 'values_changed': {"root['teams']": {'new_value': '1 (as of July 7, 2016)', 'old_value': '2 (as of July 19, 2016)'}}}
+26: {'values_changed': {"root['headquarters']": {'new_value': 'Columbus, Georgia, U.S.A.', 'old_value': 'Columbus, Georgia'}}}
+32: {'values_changed': {"root['teams']": {'new_value': '2 (as of July 19, 2016)', 'old_value': '3 (as of July 21, 2016)'}}}
+41: {'values_changed': {"root['founder']": {'new_value': 'Skip Seda, Keke Seda ', 'old_value': 'Skip Seda, Kike Seda '}}}
+43: {'values_changed': {"root['founder']": {'new_value': 'Skip Seda, Kike Seda ', 'old_value': 'Skip Seda, Keke Seda '}}}
+48: {'values_changed': {"root['founder']": {'new_value': 'Skip Seda, Keke Seda ', 'old_value': 'Skip Seda, Kike Seda '}}}
+49: {'values_changed': {"root['founder']": {'new_value': 'Skip Seda, Kike Seda ', 'old_value': 'Skip Seda, Keke Seda '}}}
+50: {'values_changed': {"root['teams']": {'new_value': '3 (as of July 21, 2016)', 'old_value': '4 (as of August 11, 2016)'}}}
+53: {'values_changed': {"root['teams']": {'new_value': '4 (as of August 11, 2016)', 'old_value': '5 (as of September 13, 2016)'}}}
+54: {'values_changed': {"root['teams']": {'new_value': '5 (as of September 13, 2016)', 'old_value': '6 (as of September 21, 2016)'}}}
+57: {'values_changed': {"root['teams']": {'new_value': '6 (as of September 21, 2016)', 'old_value': '7 (as of October 6, 2016)'}}}
+59: {'values_changed': {"root['commissioner']": {'new_value': 'John Gregory', 'old_value': 'John Gregory (American football coach)'}, "root['teams']": {'new_value': '7 (as of October 6, 2016)', 'old_value': '8 (as of October 6, 2016)'}}}
+63: {'values_changed': {"root['teams']": {'new_value': '8 (as of October 6, 2016)', 'old_value': '10 (as of October 20, 2016)'}}}
+64: {'values_changed': {"root['teams']": {'new_value': '10 (as of October 20, 2016)', 'old_value': '9 (as of October 20, 2016)'}}}
+68: {'values_changed': {"root['teams']": {'new_value': '9 (as of October 20, 2016)', 'old_value': '9 (as of October 28, 2016)'}}}
+70: {'values_changed': {"root['teams']": {'new_value': '9 (as of October 28, 2016)', 'old_value': '8 (as of November 5, 2016)'}}}
+74: {'values_changed': {"root['teams']": {'new_value': '8 (as of November 5, 2016)', 'old_value': '7 (as of November 10, 2016)'}}}
+81: {'values_changed': {"root['teams']": {'new_value': '7 (as of November 10, 2016)', 'old_value': '6 (as of November 18, 2016)'}}}
+87: {'values_changed': {"root['teams']": {'new_value': '6 (as of November 18, 2016)', 'old_value': '7 (as of November 18, 2016)'}}}
+96: {'values_changed': {"root['teams']": {'new_value': '7 (as of November 18, 2016)', 'old_value': '8 (as of November 18, 2016)'}}}
+100: {'values_changed': {"root['teams']": {'new_value': '8 (as of November 18, 2016)', 'old_value': '7 (as of November 18, 2016)'}}}
+103: {'dictionary_item_added': {"root['CEO']": 'Skip Seda', "root['founder']": 'Skip Seda, Keke Seda '}, 'values_changed': {"root['headquarters']": {'new_value': 'Columbus, Georgia', 'old_value': 'Ponte Vedra Beach, Florida'}}}
+105: {'values_changed': {"root['teams']": {'new_value': '7 (as of November 18, 2016)', 'old_value': '8 (as of November 30, 2016)'}}}
+116: {'values_changed': {"root['teams']": {'new_value': '8 (as of November 30, 2016)', 'old_value': '8'}}}
+118: {'dictionary_item_removed': {"root['current_season']": '2017 National Arena League season'}, 'values_changed': {"root['sport']": {'new_value': 'Indoor American football', 'old_value': 'Arena football'}}}
+119: {'values_changed': {"root['sport']": {'new_value': 'Arena football', 'old_value': 'Indoor American football'}}}
+120: {'values_changed': {"root['sport']": {'new_value': 'Indoor American football', 'old_value': 'Arena football'}}}
+121: {'values_changed': {"root['sport']": {'new_value': 'Arena football', 'old_value': 'Indoor American football'}}}
+123: {'dictionary_item_added': {"root['headquarters']": 'Ponte Vedra Beach, Florida'}, 'dictionary_item_removed': {"root['TV']": 'Fox Sports (United States)'}}
+130: {'values_changed': {"root['TV']": {'new_value': 'Fox Sports (United States)', 'old_value': 'beIN Sports'}}}
+179: {'dictionary_item_added': {"root['TV']": 'beIN Sports'}, 'dictionary_item_removed': {"root['champion']": 'Jacksonville Sharks (1st title)'}}
+180: {'dictionary_item_removed': {"root['headquarters']": 'Atlanta, Georgia'}}
+183: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+206: {'values_changed': {"root['current_season']": {'new_value': '2017 National Arena League season', 'old_value': '2018 National Arena League season'}}}
+221: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+224: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+235: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+248: {'values_changed': {"root['commissioner']": {'new_value': 'John Gregory (American football coach)', 'old_value': 'Chris Siegfried'}}}
+251: {'dictionary_item_removed': {"root['most_champs']": 'Jacksonville Sharks (1)'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+252: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+256: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}
+259: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+260: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}
+271: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+274: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+278: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+279: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '6'}}}
+281: {'dictionary_item_added': {"root['current_season']": '2018 National Arena League season'}, 'dictionary_item_removed': {"root['last_season']": '2023 National Arena League season'}, 'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}, "root['champion']": {'new_value': 'Jacksonville Sharks (1st title)', 'old_value': 'Albany Empire (NAL)'}, "root['most_champs']": {'new_value': 'Jacksonville Sharks (1)', 'old_value': 'Albany Empire (NAL)'}}}
+284: {'dictionary_item_removed': {"root['related_comps']": 'Indoor Football League, Champions Indoor Football'}}
+294: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+300: {'dictionary_item_added': {"root['champion']": 'Albany Empire (NAL)'}, 'values_changed': {"root['most_champs']": {'new_value': 'Albany Empire (NAL)', 'old_value': 'Jacksonville Sharks (2 each)'}}}
+301: {'dictionary_item_removed': {"root['champion']": 'Albany Empire (NAL)'}, 'values_changed': {"root['most_champs']": {'new_value': 'Jacksonville Sharks (2 each)', 'old_value': 'Albany Empire (NAL)'}}}
+313: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '5'}}}

@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['confed']": 'European Handball Federation', "root['rank']": '2', "root['teams']": '16', "root['levels']": '1', "root['domest_cup']": 'Copa del Rey de Balonmano', "root['confed_cup']": 'EHF Champions League', "root['champions']": 'FC Barcelona Handbol', "root['season']": '2019–20Liga ASOBAL', "root['tv']": 'Gol Televisión, LaLiga TV', "root['current']": '2020–21 season '}}
+2: {'values_changed': {"root['season']": {'new_value': '2019–20Liga ASOBAL', 'old_value': '2020–21Liga ASOBAL'}}}
+14: {'values_changed': {"root['current']": {'new_value': '2020–21 season ', 'old_value': '2021–22 season '}}}
+31: {'values_changed': {"root['current']": {'new_value': '2021–22 season ', 'old_value': '2021–22 Liga ASOBAL '}}}
+54: {'values_changed': {"root['season']": {'new_value': '2020–21Liga ASOBAL', 'old_value': '2021–22 Liga ASOBAL'}}}
+55: {'values_changed': {"root['tv']": {'new_value': 'Gol Televisión, LaLiga TV', 'old_value': 'Gol Televisión'}}}
+57: {'dictionary_item_added': {"root['rank']": '2', "root['domest_cup']": 'Copa del Rey de Balonmano', "root['season']": '2021–22 Liga ASOBAL'}, 'dictionary_item_removed': {"root['champ_season']": '2021–22 Liga ASOBAL', "root['most_champs']": 'FC Barcelona Handbol', "root['prem_season']": '2021–22 Liga ASOBAL'}}
+58: {'values_changed': {"root['tv']": {'new_value': 'Gol Televisión', 'old_value': 'GOL PLAY, LaLigaSportsTV'}}}
+59: {'dictionary_item_removed': {"root['sport']": 'Handball'}}
+60: {'dictionary_item_added': {"root['current']": '2021–22 Liga ASOBAL '}, 'dictionary_item_removed': {"root['current_season']": '2021–22 Liga ASOBAL '}}
+61: {'dictionary_item_removed': {"root['administrator']": 'Polish Handball Association'}}
+62: {'values_changed': {"root['administrator']": {'new_value': 'Polish Handball Association', 'old_value': 'Royal Spanish Handball Federation'}}}
+66: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+68: {'values_changed': {"root['confed_cup']": {'new_value': 'EHF Champions League', 'old_value': 'EHF Champions League,  EHF European League'}}}
+69: {'dictionary_item_removed': {"root['domestic_cup']": 'Polish Handball Cup'}}
+70: {'values_changed': {"root['domestic_cup']": {'new_value': 'Polish Handball Cup', 'old_value': 'Copa del Rey de Balonmano'}}}
+71: {'dictionary_item_removed': {"root['sponsor']": 'PGNiG'}}
+72: {'values_changed': {"root['sponsor']": {'new_value': 'PGNiG', 'old_value': 'Sacyr'}}}
+90: {'values_changed': {"root['current_season']": {'new_value': '2021–22 Liga ASOBAL ', 'old_value': '2022–23 Liga ASOBAL '}}}
+97: {'dictionary_item_added': {"root['administrator']": 'Royal Spanish Handball Federation', "root['sponsor']": 'Sacyr', "root['level']": 'League system', "root['domestic_cup']": 'Copa del Rey de Balonmano'}, 'values_changed': {"root['most_champs']": {'new_value': 'FC Barcelona Handbol', 'old_value': 'FC Barcelona (29 titles)'}}}

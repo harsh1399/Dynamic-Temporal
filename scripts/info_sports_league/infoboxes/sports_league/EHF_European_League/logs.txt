@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'EHF Cup', "root['confed']": 'flagicon', "root['teams']": '16 (group stage) 32 (total)', "root['levels']": '2', "root['confed_cup']": 'EHF Champions League  EHF Challenge Cup', "root['champions']": 'flagicon', "root['current']": '2019–20 Season '}}
+7: {'values_changed': {"root['name']": {'new_value': 'EHF Cup', 'old_value': 'EHF European League'}}}
+9: {'dictionary_item_added': {"root['confed_cup']": 'EHF Champions League  EHF Challenge Cup'}, 'values_changed': {"root['current']": {'new_value': '2019–20 Season ', 'old_value': '2020–21 EHF European League '}}}
+11: {'values_changed': {"root['name']": {'new_value': 'EHF European League', 'old_value': 'EHF Europa League'}}}
+12: {'values_changed': {"root['name']": {'new_value': 'EHF Europa League', 'old_value': 'EHF European League'}}}
+24: {'values_changed': {"root['current']": {'new_value': '2020–21 EHF European League ', 'old_value': '2021–22 EHF European League '}}}
+27: {'values_changed': {"root['confed']": {'new_value': 'flagicon', 'old_value': 'European Handball Federation'}}}
+57: {'dictionary_item_removed': {"root['most_champs']": 'Flagicon'}}
+58: {'values_changed': {"root['current']": {'new_value': '2021–22 EHF European League ', 'old_value': '2022–23 EHF European League '}}}
+59: {'dictionary_item_added': {"root['current']": '2022–23 EHF European League '}, 'dictionary_item_removed': {"root['sport']": 'Handball', "root['current_season']": '2021–22 EHF European League '}}
+60: {'values_changed': {"root['current_season']": {'new_value': '2021–22 EHF European League ', 'old_value': '2022–23 EHF European League '}}}

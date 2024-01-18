@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '11', "root['countries']": 'USA, flagicon', "root['champion']": 'Corvallis Knights', "root['president']": 'Donnie Marbut<ref name'}}
+14: {'dictionary_item_added': {"root['president']": 'Donnie Marbut<ref name'}, 'dictionary_item_removed': {"root['commissioner']": 'Rob Neyer<ref name'}}
+42: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '12'}}}
+65: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '15'}}}
+67: {'values_changed': {"root['countries']": {'new_value': 'USA, flagicon', 'old_value': 'United States, Canada'}}}

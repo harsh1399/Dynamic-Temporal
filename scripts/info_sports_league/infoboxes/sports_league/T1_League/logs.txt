@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['commissioner']": 'Rosa Chien', "root['inaugural']": '2021–22 T1 League season', "root['founder']": 'Kuan Kuang-Chung', "root['coo']": 'Chia Fan', "root['teams']": '#Teams', "root['TV']": 'Eleven Sports、ELTA', "root['current_season']": '2021–22 T1 League season '}}
+23: {'values_changed': {"root['commissioner']": {'new_value': 'Rosa Chien', 'old_value': 'Chien Wei-chuan'}}}
+36: {'values_changed': {"root['founder']": {'new_value': 'Kuan Kuang-Chung', 'old_value': 'Kuan Kuang-chung'}}}
+37: {'values_changed': {"root['teams']": {'new_value': '#Teams', 'old_value': '#Current clubs'}}}
+39: {'values_changed': {"root['founder']": {'new_value': 'Kuan Kuang-chung', 'old_value': 'Kuan Kuang-Chung'}, "root['teams']": {'new_value': '#Current clubs', 'old_value': '#Teams'}}}
+40: {'values_changed': {"root['founder']": {'new_value': 'Kuan Kuang-Chung', 'old_value': 'Kuan Kuang-chung'}, "root['teams']": {'new_value': '#Teams', 'old_value': '#Current clubs'}}}
+41: {'values_changed': {"root['teams']": {'new_value': '#Current clubs', 'old_value': '#Teams'}}}
+43: {'values_changed': {"root['founder']": {'new_value': 'Kuan Kuang-chung', 'old_value': 'Kuan Kuang-Chung'}}}
+89: {'values_changed': {"root['current_season']": {'new_value': '2021–22 T1 League season ', 'old_value': '2022 T1 League playoffs '}}}
+99: {'values_changed': {"root['current_season']": {'new_value': '2022 T1 League playoffs ', 'old_value': '2022 T1 League Finals '}}}
+100: {'dictionary_item_removed': {"root['continent']": 'FIBA Asia'}}
+108: {'dictionary_item_added': {"root['continent']": 'FIBA Asia'}, 'dictionary_item_removed': {"root['champion']": 'Kaohsiung Aquas (1st title)', "root['most_champs']": 'Kaohsiung Aquas (1 title)'}}
+119: {'dictionary_item_added': {"root['current_season']": '2022 T1 League Finals '}, 'dictionary_item_removed': {"root['upcoming_season']": '2022–23 T1 League season '}}
+142: {'values_changed': {"root['coo']": {'new_value': 'Chia Fan', 'old_value': 'Hsieh Chih-Cheng'}}}
+145: {'dictionary_item_added': {"root['upcoming_season']": '2022–23 T1 League season '}, 'dictionary_item_removed': {"root['current_season']": '2022–23 T1 League season '}, 'values_changed': {"root['TV']": {'new_value': 'Eleven Sports、ELTA', 'old_value': 'Eleven Sports、VL Sports、ELTA'}}}
+236: {'values_changed': {"root['champion']": {'new_value': 'Kaohsiung Aquas (1st title)', 'old_value': 'Kaohsiung Aquas, (1st title)'}, "root['most_champs']": {'new_value': 'Kaohsiung Aquas (1 title)', 'old_value': 'Kaohsiung Aquas, (1 title)'}}}
+242: {'values_changed': {"root['current_season']": {'new_value': '2022–23 T1 League season ', 'old_value': '2023 T1 League playoffs '}}}
+248: {'values_changed': {"root['TV']": {'new_value': 'Eleven Sports、VL Sports、ELTA', 'old_value': 'Eleven Sports、VL Sports、ELTA TV'}}}
+252: {'values_changed': {"root['current_season']": {'new_value': '2023 T1 League playoffs ', 'old_value': '2023 T1 League Finals '}}}
+253: {'values_changed': {"root['TV']": {'new_value': 'Eleven Sports、VL Sports、ELTA TV', 'old_value': 'Eleven Sports, VL Sports, ELTA TV'}}}
+256: {'values_changed': {"root['champion']": {'new_value': 'Kaohsiung Aquas, (1st title)', 'old_value': 'New Taipei CTBC DEA, (1st title)'}, "root['most_champs']": {'new_value': 'Kaohsiung Aquas, (1 title)', 'old_value': 'Kaohsiung Aquas, New Taipei CTBC DEA, (1 each)'}, "root['current_season']": {'new_value': '2023 T1 League Finals ', 'old_value': '2023–24 T1 League season '}}}

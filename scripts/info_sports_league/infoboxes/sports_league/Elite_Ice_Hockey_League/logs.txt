@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2016-17 EIHL season', "root['sport']": 'Ice Hockey', "root['inaugural']": '2003–04 EIHL season', "root['headquarters']": '53 Chandos Place, Covent Garden, London, WC2N 4HS', "root['teams']": '10', "root['countries']": 'United Kingdom', "root['continent']": 'Europe', "root['champion']": 'Sheffield Steelers (5th title)', "root['most_champs']": 'Sheffield Steelers (5 titles)', "root['TV']": 'T.B.A'}}
+10: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '10 (12 for 2017)'}, "root['TV']": {'new_value': 'T.B.A', 'old_value': 'Front Runner'}}}
+11: {'values_changed': {"root['teams']": {'new_value': '10 (12 for 2017)', 'old_value': '10 (12 for 2017-18)'}}}
+19: {'values_changed': {"root['countries']": {'new_value': 'United Kingdom', 'old_value': 'flagicon'}}}
+26: {'values_changed': {"root['champion']": {'new_value': 'Sheffield Steelers (5th title)', 'old_value': 'Cardiff Devils (1st title)'}}}
+34: {'values_changed': {"root['champion']": {'new_value': 'Cardiff Devils (1st title)', 'old_value': 'Cardiff Devils (5th title)'}}}
+35: {'values_changed': {"root['most_champs']": {'new_value': 'Sheffield Steelers (5 titles)', 'old_value': 'Sheffield Steelers & Cardiff Devils (5 titles)'}}}
+38: {'values_changed': {"root['champion']": {'new_value': 'Cardiff Devils (5th title)', 'old_value': 'Cardiff Devils (1st title)'}}}
+39: {'values_changed': {"root['most_champs']": {'new_value': 'Sheffield Steelers & Cardiff Devils (5 titles)', 'old_value': 'Sheffield Steelers (5 titles)'}}}
+40: {'values_changed': {"root['headquarters']": {'new_value': '53 Chandos Place, Covent Garden, London, WC2N 4HS', 'old_value': 'beer Garden England'}}}
+44: {'values_changed': {"root['headquarters']": {'new_value': 'beer Garden England', 'old_value': 'London'}}}
+55: {'values_changed': {"root['TV']": {'new_value': 'Front Runner', 'old_value': 'TBA'}}}
+64: {'values_changed': {"root['teams']": {'new_value': '10 (12 for 2017-18)', 'old_value': '12'}}}
+84: {'values_changed': {"root['champion']": {'new_value': 'Cardiff Devils (1st title)', 'old_value': 'Sheffield Steelers (5th title)'}}}
+85: {'values_changed': {"root['current_season']": {'new_value': '2016-17 EIHL season', 'old_value': '2017-2018 EIHL season'}}}
+86: {'values_changed': {"root['current_season']": {'new_value': '2017-2018 EIHL season', 'old_value': '2017-18 EIHL season'}, "root['champion']": {'new_value': 'Sheffield Steelers (5th title)', 'old_value': 'Cardiff Devils (1 title)'}}}
+102: {'values_changed': {"root['current_season']": {'new_value': '2017-18 EIHL season', 'old_value': '2017–18 EIHL season'}}}
+103: {'dictionary_item_added': {"root['TV']": 'TBA'}, 'values_changed': {"root['sport']": {'new_value': 'Ice Hockey', 'old_value': 'Ice hockey'}, "root['headquarters']": {'new_value': 'London', 'old_value': 'London, England, United Kingdom'}, "root['countries']": {'new_value': 'flagicon', 'old_value': 'United Kingdom'}, "root['champion']": {'new_value': 'Cardiff Devils (1 title)', 'old_value': 'Cardiff Devils (1st title)'}}}
+110: {'dictionary_item_added': {"root['countries']": 'United Kingdom'}, 'dictionary_item_removed': {"root['TV']": 'Premier Sports'}, 'values_changed': {"root['current_season']": {'new_value': '2017–18 EIHL season', 'old_value': '2021–22 EIHL season'}, "root['teams']": {'new_value': '12', 'old_value': '10'}, "root['champion']": {'new_value': 'Cardiff Devils (1st title)', 'old_value': 'Belfast Giants (2018–19 EIHL season'}}}
+121: {'values_changed': {"root['champion']": {'new_value': 'Belfast Giants (2018–19 EIHL season', 'old_value': 'Belfast Giants (2021–22 EIHL season'}}}
+123: {'values_changed': {"root['most_champs']": {'new_value': 'Sheffield Steelers (5 titles)', 'old_value': 'Sheffield Steelers, Belfast Giants (5 titles)'}}}
+142: {'values_changed': {"root['current_season']": {'new_value': '2021–22 EIHL season', 'old_value': '2022–23 EIHL season'}}}
+151: {'values_changed': {"root['TV']": {'new_value': 'Premier Sports', 'old_value': 'Viaplay'}}}
+171: {'values_changed': {"root['TV']": {'new_value': 'Viaplay', 'old_value': 'Viaplay Sports'}}}
+172: {'values_changed': {"root['champion']": {'new_value': 'Belfast Giants (2021–22 EIHL season', 'old_value': 'Belfast Giants (2022–23 EIHL season'}, "root['most_champs']": {'new_value': 'Sheffield Steelers, Belfast Giants (5 titles)', 'old_value': 'Belfast Giants (6 titles)'}}}
+199: {'dictionary_item_removed': {"root['last_season']": '2021-22 EIHL season', "root['upcoming_season']": '2023-24 EIHL season'}}
+201: {'values_changed': {"root['current_season']": {'new_value': '2022–23 EIHL season', 'old_value': '2023–24 EIHL season'}, "root['last_season']": {'new_value': '2021-22 EIHL season', 'old_value': '2022-23 EIHL season'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2022 Epson Tour', "root['sport']": 'Golf', "root['inaugural']": '1981', "root['continent']": 'North America', "root['related_comps']": 'LPGA Tour'}}
+1: {'values_changed': {"root['current_season']": {'new_value': '2022 Epson Tour', 'old_value': '2021 Symetra Tour'}}}
+2: {'dictionary_item_removed': {"root['upcoming_season']": '2022 Epson Tour'}}
+3: {'values_changed': {"root['current_season']": {'new_value': '2021 Symetra Tour', 'old_value': '2021 Epson Tour'}}}
+6: {'values_changed': {"root['current_season']": {'new_value': '2021 Epson Tour', 'old_value': '2021 Symetra Tour'}}}
+9: {'dictionary_item_added': {"root['current_season']": '2021 Symetra Tour'}, 'dictionary_item_removed': {"root['last_season']": '2021 Symetra Tour', "root['formerly']": 'Symetra Tour'}}
+17: {'dictionary_item_added': {"root['upcoming_season']": '2022 Epson Tour'}, 'dictionary_item_removed': {"root['current_season']": '2022 Epson Tour'}, 'values_changed': {"root['formerly']": {'new_value': 'Symetra Tour', 'old_value': 'Symetra Tour, Duramed Futures Tour, LPGA Futures Tour'}}}
+22: {'values_changed': {"root['current_season']": {'new_value': '2022 Epson Tour', 'old_value': '2023 Epson Tour'}, "root['last_season']": {'new_value': '2021 Symetra Tour', 'old_value': '2022 Symetra Tour'}}}

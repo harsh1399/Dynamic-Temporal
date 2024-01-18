@@ -1,0 +1,4 @@
+3: {'dictionary_item_removed': {"root['pixels']": '300 px', "root['sport']": 'Starcraft II'}}
+12: {'values_changed': {"root['sport']": {'new_value': 'Starcraft II', 'old_value': "''Starcraft II''"}}}
+13: {'values_changed': {"root['sport']": {'new_value': "''Starcraft II''", 'old_value': "''StarCraft II''"}}}
+54: {'values_changed': {"root['sport']": {'new_value': "''StarCraft II''", 'old_value': "''StarCraft II, Heroes of Newerth''"}}}

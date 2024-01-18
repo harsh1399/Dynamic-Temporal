@@ -1,0 +1,9 @@
+10: {'dictionary_item_removed': {"root['sport']": 'American football', "root['inaugural']": '2015'}}
+14: {'dictionary_item_removed': {"root['teams']": '8'}}
+27: {'dictionary_item_removed': {"root['pixels']": '125 px', "root['ceo']": 'Scott McKibben', "root['TV']": 'ESPN2, 2014 Showcase Games, 2015 regular season'}, 'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '#Clubs'}}}
+65: {'values_changed': {"root['TV']": {'new_value': 'ESPN2, 2014 Showcase Games, 2015 regular season', 'old_value': 'ESPN2'}}}
+83: {'dictionary_item_added': {"root['inaugural']": '2015'}, 'dictionary_item_removed': {"root['folded']": '2014'}}
+87: {'dictionary_item_added': {"root['folded']": '2014'}, 'dictionary_item_removed': {"root['inaugural']": '2015'}}
+107: {'dictionary_item_removed': {"root['folded']": '2014'}}
+108: {'values_changed': {"root['inaugural']": {'new_value': '2015', 'old_value': '2014 (planned)'}}}
+114: {'values_changed': {"root['TV']": {'new_value': 'ESPN2', 'old_value': 'ESPN'}}}

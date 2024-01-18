@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['last_season']": '2017 NBA Playoffs', "root['sport']": 'Basketball', "root['teams']": '16', "root['champion']": 'Golden State Warriors (5)', "root['most_champs']": 'Boston Celtics (17)', "root['TV']": 'NBA on ESPN'}}
+11: {'dictionary_item_added': {"root['last_season']": '2017 NBA Playoffs'}, 'dictionary_item_removed': {"root['upcoming_season']": '2018 NBA playoffs'}}
+21: {'values_changed': {"root['upcoming_season']": {'new_value': '2018 NBA playoffs', 'old_value': '2018 NBA Playoffs'}}}
+40: {'dictionary_item_removed': {"root['last_season']": 'Bonz tha man'}}
+51: {'dictionary_item_added': {"root['last_season']": 'Bonz tha man'}, 'dictionary_item_removed': {"root['pixels']": 'semi finals'}}
+60: {'dictionary_item_added': {"root['pixels']": 'semi finals'}, 'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors (5)', 'old_value': 'Golden State Warriors (6)'}}}
+61: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors (6)', 'old_value': 'Golden State Warriors'}}}
+62: {'dictionary_item_added': {"root['upcoming_season']": '2018 NBA Playoffs'}, 'dictionary_item_removed': {"root['last_season']": '2018 NBA Playoffs'}}
+68: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors', 'old_value': 'MJ Team'}}}
+69: {'values_changed': {"root['champion']": {'new_value': 'MJ Team', 'old_value': 'Golden State Warriors'}}}
+74: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'NBA on ESPN'}}, 'dictionary_item_added': {"root['last_season']": '2018 NBA Playoffs', "root['most_champs']": 'Boston Celtics (17)'}, 'dictionary_item_removed': {"root['current_season']": '2022 NBA playoffs', "root['champ_season']": '2022'}, 'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '16 (Playoffs) 8 (Play In)'}}}
+83: {'values_changed': {"root['current_season']": {'new_value': '2022 NBA playoffs', 'old_value': '2023 NBA playoffs'}}}
+95: {'values_changed': {"root['sport']": {'new_value': 'Basketball', 'old_value': 'Basketereteball'}}}
+96: {'values_changed': {"root['sport']": {'new_value': 'Basketereteball', 'old_value': 'Basketball'}}}
+107: {'values_changed': {"root['current_season']": {'new_value': '2023 NBA playoffs', 'old_value': '2069 NBA playoffs'}}}
+108: {'values_changed': {"root['current_season']": {'new_value': '2069 NBA playoffs', 'old_value': '2023 NBA playoffs'}}}
+116: {'values_changed': {"root['champion']": {'new_value': 'Golden State Warriors', 'old_value': 'Denver Nuggets'}, "root['champ_season']": {'new_value': '2022', 'old_value': '2023'}}}
+118: {'dictionary_item_added': {"root['current_season']": '2023 NBA playoffs'}, 'dictionary_item_removed': {"root['upcoming_season']": '2024 NBA playoffs'}}
+124: {'values_changed': {"root['teams']": {'new_value': '16 (Playoffs) 8 (Play In)', 'old_value': '16 (Playoffs), 20 (Including NBA play-in tournament'}}}
+125: {'values_changed': {"root['teams']": {'new_value': '16 (Playoffs), 20 (Including NBA play-in tournament', 'old_value': '16 (postseason), 20 (including NBA play-in tournament'}}}

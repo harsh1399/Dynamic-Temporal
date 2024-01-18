@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2020–21 BUCS Super Rugbyy', "root['sport']": 'Rugby union', "root['administrator']": 'Rugby Football Union', "root['teams']": '10', "root['champions']": 'Durham (2nd title)', "root['tv']": 'England Rugby, FreeSports', "root['levels']": '1', "root['domestic_cup']": 'Championship Cup'}}
+6: {'dictionary_item_added': {"root['current_season']": '2020–21 BUCS Super Rugbyy'}, 'values_changed': {"root['champions']": {'new_value': 'Durham (2nd title)', 'old_value': 'Durham'}}}
+18: {'values_changed': {"root['champions']": {'new_value': 'Durham', 'old_value': 'Durham, England'}}}
+34: {'values_changed': {"root['champions']": {'new_value': 'Durham, England', 'old_value': 'Durham University Rugby Football Club'}}}
+74: {'dictionary_item_added': {"root['tv']": 'England Rugby, FreeSports'}, 'dictionary_item_removed': {"root['most_champs']": 'Hartpury University R.F.C.'}}
+82: {'dictionary_item_added': {"root['most_champs']": 'Hartpury University R.F.C.', "root['domestic_cup']": 'Championship Cup'}, 'dictionary_item_removed': {"root['current_season']": '2021-22', "root['inaugural']": '2016-17'}, 'values_changed': {"root['administrator']": {'new_value': 'Rugby Football Union', 'old_value': 'British Universities and Colleges Sport'}}}

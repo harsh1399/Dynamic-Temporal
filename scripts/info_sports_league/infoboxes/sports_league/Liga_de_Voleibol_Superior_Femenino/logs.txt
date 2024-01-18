@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['pixels']": '125', "root['sport']": 'Volleyball', "root['teams']": '10', "root['continent']": 'North America', "root['champion']": 'Criollas de Caguas', "root['ceo']": 'Carlos Villa', "root['TV']": 'DirecTV, Tele-Isla '}}
+1: {'values_changed': {"root['pixels']": {'new_value': '125', 'old_value': '160'}}}
+4: {'values_changed': {"root['TV']": {'new_value': 'DirecTV, Tele-Isla ', 'old_value': 'DirecTV, SistemaTV, Dish Network '}}}
+5: {'values_changed': {"root['TV']": {'new_value': 'DirecTV, SistemaTV, Dish Network ', 'old_value': 'DirecTV, Sistema TV, Dish Network '}}}
+9: {'dictionary_item_removed': {"root['current_season']": '2016 LVSF season'}}
+10: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '9'}}}
+11: {'values_changed': {"root['champion']": {'new_value': 'Criollas de Caguas', 'old_value': 'Criollas de Caguas (11th title)'}}}
+15: {'dictionary_item_removed': {"root['levels']": '1 '}, 'values_changed': {"root['TV']": {'new_value': 'DirecTV, Sistema TV, Dish Network ', 'old_value': 'DirecTV, WMTJ'}}}
+18: {'dictionary_item_removed': {"root['most_champs']": 'Pinkin de Corozal (17 titles)'}}
+20: {'values_changed': {"root['current_season']": {'new_value': '2016 LVSF season', 'old_value': '2020 LVSF season'}, "root['teams']": {'new_value': '9', 'old_value': '7'}, "root['champion']": {'new_value': 'Criollas de Caguas (11th title)', 'old_value': 'Criollas de Caguas (13th title)'}, "root['ceo']": {'new_value': 'Carlos Villa', 'old_value': 'Jose Servera'}, "root['TV']": {'new_value': 'DirecTV, WMTJ', 'old_value': 'Wapa Deportes'}}}
+25: {'values_changed': {"root['current_season']": {'new_value': '2020 LVSF season', 'old_value': '2022 LVSF season'}, "root['champion']": {'new_value': 'Criollas de Caguas (13th title)', 'old_value': 'Pinkin de Corozal'}, "root['most_champs']": {'new_value': 'Pinkin de Corozal (17 titles)', 'old_value': 'Pinkin de Corozal (18 titles)'}}}

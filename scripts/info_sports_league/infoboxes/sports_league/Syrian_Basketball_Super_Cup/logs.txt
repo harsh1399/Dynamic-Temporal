@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021 Syrian Basketball Cup', "root['sport']": 'Basketball', "root['teams']": '6 (since 2021)', "root['continent']": 'Asia', "root['champion']": ', (1st title)', "root['most_champs']": ', (1 title),', "root['related_comps']": 'Syrian Basketball League,'}}
+2: {'values_changed': {"root['current_season']": {'new_value': '2021 Syrian Basketball Cup', 'old_value': '2021 Syrian Basketball Super Cup'}}}
+4: {'values_changed': {"root['champion']": {'new_value': ', (1st title)', 'old_value': "Al-Ittihad SC Aleppo (men's basketball)"}, "root['most_champs']": {'new_value': ', (1 title),', 'old_value': "Al-Ittihad SC Aleppo (men's basketball)"}}}
+6: {'dictionary_item_removed': {"root['tv']": 'Sama TV,  Syria TV '}}
+7: {'dictionary_item_added': {"root['tv']": 'Sama TV,  Syria TV '}, 'dictionary_item_removed': {"root['TV']": 'Sama TV,  Syria TV '}}
+12: {'dictionary_item_added': {"root['current_season']": '2021 Syrian Basketball Super Cup'}, 'values_changed': {"root['related_comps']": {'new_value': 'Syrian Basketball League,', 'old_value': 'Syrian Basketball League, Syrian Basketball Cup'}}}
+75: {'dictionary_item_added': {"root['continent']": 'Asia'}, 'dictionary_item_removed': {"root['confed']": 'FIBA Asia'}}
+128: {'dictionary_item_removed': {"root['inaugural']": '2021'}}
+130: {'dictionary_item_added': {"root['inaugural']": '2021'}, 'values_changed': {"root['teams']": {'new_value': '6 (since 2021)', 'old_value': '8 (since 2022)'}}}
+131: {'dictionary_item_removed': {"root['ceo']": 'Tarif Koutrach (Syrian Basketball Federation'}}
+140: {'dictionary_item_removed': {"root['sponsor']": 'Cham Wings Airlines, Syriatel, Lactomil '}, 'values_changed': {"root['TV']": {'new_value': 'Sama TV,  Syria TV ', 'old_value': 'Sama TV,  Syria TV'}}}
+146: {'values_changed': {"root['sponsor']": {'new_value': 'Cham Wings Airlines, Syriatel, Lactomil ', 'old_value': 'Cham Wings Airlines, Syriatel, Sinalco, Lactomil '}}}
+228: {'values_changed': {"root['champion']": {'new_value': "Al-Ittihad SC Aleppo (men's basketball)", 'old_value': "Al Wahda (men's basketball)"}}}

@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['teams']": '16', "root['levels']": '1', "root['domest_cup']": 'WRU Challenge Cup', "root['champions']": 'Merthyr RFC', "root['most_champs']": 'Neath RFC', "root['tv']": 'BBC Wales'}}
+6: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '12'}}}
+7: {'dictionary_item_removed': {"root['current_season']": '2019–20 Indigo Group Premiership', "root['sport']": 'Rugby union'}}
+8: {'dictionary_item_added': {"root['domest_cup']": 'WRU Challenge Cup'}, 'dictionary_item_removed': {"root['domestic_cup']": 'WRU Challenge Cup'}}
+11: {'dictionary_item_removed': {"root['twitter']": 'twitter.com/welshpremrugby'}}
+13: {'values_changed': {"root['twitter']": {'new_value': 'twitter.com/welshpremrugby', 'old_value': 'https://twitter.com/welshpremrugby '}}}
+14: {'values_changed': {"root['twitter']": {'new_value': 'https://twitter.com/welshpremrugby ', 'old_value': '@welshpremrugby '}}}
+16: {'values_changed': {"root['twitter']": {'new_value': '@welshpremrugby ', 'old_value': 'welshpremrugby '}}}
+17: {'dictionary_item_added': {"root['twitter']": 'welshpremrugby '}, 'dictionary_item_removed': {"root['season']": '2019/2020'}}
+18: {'values_changed': {"root['tv']": {'new_value': 'BBC Wales', 'old_value': 'BBC Wales, S4C'}}}
+20: {'dictionary_item_removed': {"root['twitter']": 'https://twitter.com/welshpremrugby/ Welsh Prem Rugby '}}
+22: {'values_changed': {"root['twitter']": {'new_value': 'https://twitter.com/welshpremrugby/ Welsh Prem Rugby ', 'old_value': 'https://community.wru.wales/club/indigo-group-premiership/ Indigo Group Premiership '}}}
+31: {'dictionary_item_added': {"root['twitter']": 'https://community.wru.wales/club/indigo-group-premiership/ Indigo Group Premiership '}, 'values_changed': {"root['current_season']": {'new_value': '2019–20 Indigo Group Premiership', 'old_value': '2021–22 Indigo Group Premiership'}}}
+44: {'values_changed': {"root['champions']": {'new_value': 'Merthyr RFC', 'old_value': 'Cardiff RFC'}}}
+45: {'values_changed': {"root['current_season']": {'new_value': '2021–22 Indigo Group Premiership', 'old_value': '2022–23 Indigo Group Premiership'}}}

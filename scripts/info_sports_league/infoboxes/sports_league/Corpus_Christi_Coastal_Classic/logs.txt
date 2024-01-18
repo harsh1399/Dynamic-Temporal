@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'College basketball', "root['teams']": '8', "root['venue']": 'American Bank Center', "root['champion']": '2014–15 Mississippi State Bulldogs basketball team', "root['most_champs']": 'Mississippi State Bulldogs basketball', "root['TV']": 'CBS Sports Network '}}
+6: {'values_changed': {"root['champion']": {'new_value': '2014–15 Mississippi State Bulldogs basketball team', 'old_value': "2014–15 TCU Horned Frogs men's basketball team"}, "root['most_champs']": {'new_value': 'Mississippi State Bulldogs basketball', 'old_value': "TCU Horned Frogs men's basketball"}}}
+14: {'values_changed': {"root['TV']": {'new_value': 'CBS Sports Network ', 'old_value': 'American Sports Network '}}}
+24: {'values_changed': {"root['champion']": {'new_value': "2014–15 TCU Horned Frogs men's basketball team", 'old_value': '2015–16 UTEP Miners basketball team'}, "root['most_champs']": {'new_value': "TCU Horned Frogs men's basketball", 'old_value': '2015–16 UTEP Miners basketball team'}}}
+25: {'values_changed': {"root['most_champs']": {'new_value': '2015–16 UTEP Miners basketball team', 'old_value': "UTEP Miners men's basketball"}}}

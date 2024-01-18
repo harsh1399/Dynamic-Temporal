@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sun Belt Conference', "root['established']": '1976', "root['logo_size']": '200', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'NCAA Division I', "root['subdivision']": 'Football Bowl Subdivision', "root['members']": '12', "root['sports']": '18', "root['mens']": '9', "root['womens']": '9', "root['region']": 'Southern United States', "root['hq_city']": 'New Orleans', "root['hq_state']": 'Louisiana', "root['commissioner']": 'Karl Benson', "root['since']": '2012', "root['color']": '#003087', "root['font_color']": 'white', "root['map']": 'Sun Belt states', "root['map_size']": '275 '}}
+30: {'values_changed': {"root['commissioner']": {'new_value': 'Karl Benson', 'old_value': 'Keith Gill'}, "root['since']": {'new_value': '2012', 'old_value': '2019'}}}
+50: {'values_changed': {"root['members']": {'new_value': '12', 'old_value': '13'}}}
+51: {'values_changed': {"root['members']": {'new_value': '13', 'old_value': '12'}}}
+225: {'values_changed': {"root['subdivision']": {'new_value': 'Football Bowl Subdivision', 'old_value': 'NCAA Division I Football Bowl Subdivision'}, "root['color']": {'new_value': '#003087', 'old_value': '#0C2340'}, "root['font_color']": {'new_value': 'white', 'old_value': '#FFFFFF'}}}
+337: {'values_changed': {"root['sports']": {'new_value': '18', 'old_value': '17'}, "root['mens']": {'new_value': '9', 'old_value': '8'}, "root['commissioner']": {'new_value': 'Keith Gill', 'old_value': 'Keith Gill (athletic director)'}}}
+367: {'values_changed': {"root['members']": {'new_value': '12', 'old_value': '12 (11 in 2022, 13 in 2023)'}}}
+368: {'values_changed': {"root['members']": {'new_value': '12 (11 in 2022, 13 in 2023)', 'old_value': '12 (11 in 2022, 14 in 2023)'}}}
+379: {'values_changed': {"root['members']": {'new_value': '12 (11 in 2022, 14 in 2023)', 'old_value': '12 (12 in 2022, 14 in 2023)'}}}
+383: {'values_changed': {"root['members']": {'new_value': '12 (12 in 2022, 14 in 2023)', 'old_value': '12 (14 in 2022)'}}}
+423: {'values_changed': {"root['sports']": {'new_value': '17', 'old_value': '17 (18 in 2022)'}, "root['mens']": {'new_value': '8', 'old_value': '8 9 in 2022'}}}
+502: {'values_changed': {"root['map_size']": {'new_value': '275 ', 'old_value': '280 '}}}
+509: {'values_changed': {"root['members']": {'new_value': '12 (14 in 2022)', 'old_value': '14'}, "root['sports']": {'new_value': '17 (18 in 2022)', 'old_value': '18'}, "root['mens']": {'new_value': '8 9 in 2022', 'old_value': '9'}}}
+555: {'dictionary_item_added': {"root['established']": '1976', "root['association']": 'National Collegiate Athletic Association', "root['members']": '14', "root['hq_city']": 'New Orleans', "root['hq_state']": 'Louisiana'}, 'dictionary_item_removed': {"root['conference']": 'National Collegiate Athletic Association', "root['teams']": '14', "root['headquarters']": 'New Orleans, Louisiana'}, 'values_changed': {"root['map']": {'new_value': 'Sun Belt states', 'old_value': 'Sun Belt states map updated 2022.png'}}}
+558: {'dictionary_item_added': {"root['conference']": 'National Collegiate Athletic Association'}, 'dictionary_item_removed': {"root['association']": 'National Collegiate Athletic Association'}}
+559: {'values_changed': {"root['color']": {'new_value': '#0C2340', 'old_value': '#0A2240'}}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'American Lacrosse Conference', "root['established']": '2002', "root['logo_size']": '150', "root['association']": 'NCAA', "root['division']": 'Division I (NCAA)', "root['members']": '7 (3 in 2014)', "root['sports']": '1', "root['mens']": '0', "root['womens']": '1', "root['region']": 'Eastern United States', "root['hq_city']": 'Erie', "root['hq_stateabb']": 'PA', "root['hq_state']": 'Pennsylvania', "root['commissioner']": 'Peggy Pruitt', "root['color']": '3366CC', "root['font_color']": 'FFFFFF', "root['date']": '2007-09-06', "root['publisher']": 'url'}}
+1: {'dictionary_item_added': {"root['date']": '2007-09-06', "root['publisher']": 'url'}, 'dictionary_item_removed': {"root['short_name']": 'ALC'}}
+2: {'values_changed': {"root['logo_size']": {'new_value': '150', 'old_value': '200'}}}
+6: {'values_changed': {"root['members']": {'new_value': '7 (3 in 2014)', 'old_value': '7 (2 in 2015)'}}}
+9: {'dictionary_item_removed': {"root['dissolved']": '2014'}}
+10: {'values_changed': {"root['members']": {'new_value': '7 (2 in 2015)', 'old_value': '7 (final), 9(total)'}}}
+12: {'values_changed': {"root['established']": {'new_value': '2002', 'old_value': '2001'}}}
+13: {'values_changed': {"root['members']": {'new_value': '7 (final), 9(total)', 'old_value': '7 (final), 9 (total)'}}}
+17: {'values_changed': {"root['commissioner']": {'new_value': 'Peggy Pruitt', 'old_value': 'Craig Barnett'}}}

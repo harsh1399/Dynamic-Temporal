@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['formerly']": 'League of Legends Master Series', "root['game']": "''League of Legends''", "root['countries']": 'Collapsible list'}}
+3: {'dictionary_item_removed': {"root['teams']": '10'}}
+4: {'values_changed': {"root['formerly']": {'new_value': 'League of Legends Master Series', 'old_value': 'nowrap'}}}
+5: {'values_changed': {"root['formerly']": {'new_value': 'nowrap', 'old_value': 'League of Legends Master Series'}}}
+13: {'dictionary_item_removed': {"root['inaugural']": '2020 Spring', "root['qualification']": 'Under partnership'}}
+16: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': 'Collapsible list'}, "root['countries']": {'new_value': 'Collapsible list', 'old_value': 'flag'}}}
+17: {'dictionary_item_added': {"root['countries']": 'flag', "root['qualification']": 'Under partnership'}, 'values_changed': {"root['inaugural']": {'new_value': '2020 Spring', 'old_value': 'Spring 2020'}}}
+18: {'dictionary_item_removed': {"root['owner']": 'Garena', "root['levels']": 'Tier 1', "root['confed_cup']": 'Mid Season Invitational, League of Legends World Championship', "root['related_comps']": 'Garena Premier League'}}
+20: {'dictionary_item_added': {"root['levels']": 'Tier 1', "root['confed_cup']": 'Mid Season Invitational, League of Legends World Championship'}, 'values_changed': {"root['formerly']": {'new_value': 'League of Legends Master Series', 'old_value': 'nowrap'}, "root['owner']": {'new_value': 'Garena', 'old_value': 'Riot Games FunPlus Esports Garena'}, "root['related_comps']": {'new_value': 'Garena Premier League', 'old_value': 'League of Legends Pro League'}}}
+21: {'values_changed': {"root['teams']": {'new_value': 'Collapsible list', 'old_value': '10<ref name'}}}
+22: {'dictionary_item_removed': {"root['qualification']": 'Sports franchise'}}
+23: {'values_changed': {"root['teams']": {'new_value': '10<ref name', 'old_value': '10'}}}
+34: {'values_changed': {"root['formerly']": {'new_value': 'nowrap', 'old_value': 'League of Legends Master Series'}}}
+39: {'values_changed': {"root['formerly']": {'new_value': 'League of Legends Master Series', 'old_value': 'nowrap'}}}
+61: {'dictionary_item_added': {"root['related_comps']": 'League of Legends Pro League'}, 'dictionary_item_removed': {"root['current_season']": '2020 PCS season'}}
+66: {'dictionary_item_removed': {"root['continents']": 'Taiwan, Hong Kong, Macau, Southeast Asia'}}
+67: {'dictionary_item_removed': {"root['champion']": 'flagdeco'}}
+89: {'dictionary_item_added': {"root['continents']": 'Taiwan, Hong Kong, Macau, Southeast Asia'}, 'values_changed': {"root['qualification']": {'new_value': 'Sports franchise', 'old_value': 'Promotion tournament<ref name'}}}
+90: {'values_changed': {"root['qualification']": {'new_value': 'Promotion tournament<ref name', 'old_value': 'Promotion and relegation'}}}
+91: {'values_changed': {"root['formerly']": {'new_value': 'nowrap', 'old_value': 'League of Legends Master Series'}, "root['inaugural']": {'new_value': 'Spring 2020', 'old_value': '2020 PCS season#Spring'}}}
+95: {'dictionary_item_removed': {"root['most_champs']": 'flagdeco', "root['confed_cup']": 'Mid-Season Invitational League of Legends World Championship'}}
+103: {'dictionary_item_removed': {"root['sport']": 'esports'}}
+110: {'dictionary_item_added': {"root['current_season']": '2020 PCS season'}, 'dictionary_item_removed': {"root['last_season']": '2020 PCS season'}}
+111: {'dictionary_item_removed': {"root['sponsor']": 'CTBC Bank<ref name'}}
+113: {'values_changed': {"root['last_season']": {'new_value': '2020 PCS season', 'old_value': '2022 PCS season'}, "root['owner']": {'new_value': 'Riot Games FunPlus Esports Garena', 'old_value': 'ubl'}, "root['sponsor']": {'new_value': 'CTBC Bank<ref name', 'old_value': 'CTBC Bank'}}}
+136: {'dictionary_item_added': {"root['owner']": 'ubl', "root['qualification']": 'Promotion and relegation'}, 'dictionary_item_removed': {"root['organiser']": 'Riot Games'}}
+141: {'dictionary_item_added': {"root['last_season']": '2022 PCS season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2023 PCS season'}}
+143: {'dictionary_item_added': {"root['upcoming_season']": '2023 PCS season'}, 'dictionary_item_removed': {"root['current_season']": '2023 PCS season'}}
+147: {'values_changed': {"root['sponsor']": {'new_value': 'CTBC Bank', 'old_value': 'CTBC Bank :wikidata:Q110998380'}, "root['confed_cup']": {'new_value': 'Mid-Season Invitational League of Legends World Championship', 'old_value': 'League of Legends World Championship'}}}
+158: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '10 (regular season) 8 (playoffs)'}}}

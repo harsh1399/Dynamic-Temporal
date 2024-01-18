@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['current_season']": 'SGB Premiership 2017', "root['sport']": 'Motorcycle speedway'}}
+6: {'dictionary_item_removed': {"root['champion']": 'Poole Pirates'}, 'values_changed': {"root['current_season']": {'new_value': 'SGB Premiership 2017', 'old_value': 'SGB Premiership 2018'}}}
+7: {'values_changed': {"root['current_season']": {'new_value': 'SGB Premiership 2018', 'old_value': 'SGB Premiership 2019'}}}
+11: {'values_changed': {"root['champion']": {'new_value': 'Poole Pirates', 'old_value': 'Swindon Robins'}}}
+12: {'dictionary_item_removed': {"root['tv']": 'BT Sport', "root['domestic_cup']": 'Swindon Robins'}}
+13: {'dictionary_item_removed': {"root['most_champs']": 'Swindon Robins 2'}}
+21: {'values_changed': {"root['most_champs']": {'new_value': 'Swindon Robins 2', 'old_value': 'Swindon Robins, 2'}}}
+22: {'values_changed': {"root['tv']": {'new_value': 'BT Sport', 'old_value': 'Eurosport'}}}
+30: {'dictionary_item_removed': {"root['footnotes']": "'''Leagues Below''', SGB Championship , SGB National Development League ,  "}, 'values_changed': {"root['current_season']": {'new_value': 'SGB Premiership 2019', 'old_value': 'SGB Premiership 2022'}, "root['champion']": {'new_value': 'Swindon Robins', 'old_value': 'Peterborough Panthers'}, "root['most_champs']": {'new_value': 'Swindon Robins, 2', 'old_value': 'Swindon Robins (2 Titles)'}, "root['domestic_cup']": {'new_value': 'Swindon Robins', 'old_value': 'SGB Premiership Knockout Cup'}}}
+31: {'values_changed': {"root['domestic_cup']": {'new_value': 'SGB Premiership Knockout Cup', 'old_value': 'SGB Premiership League Cup'}}}
+33: {'dictionary_item_added': {"root['most_champs']": 'Swindon Robins (2 Titles)'}, 'dictionary_item_removed': {"root['last_season']": 'SGB Premiership 2021', "root['inaugural']": '2017', "root['teams']": '6 (2022)', "root['champ_season']": '2021', "root['qualification']": 'Open'}}
+34: {'values_changed': {"root['teams']": {'new_value': '6 (2022)', 'old_value': '7 (2023)'}, "root['champion']": {'new_value': 'Peterborough Panthers', 'old_value': 'Belle Vue Aces'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}, "root['domestic_cup']": {'new_value': 'SGB Premiership League Cup', 'old_value': 'Knockout Cup (speedway)'}}}
+35: {'values_changed': {"root['current_season']": {'new_value': 'SGB Premiership 2022', 'old_value': 'SGB Premiership 2023'}, "root['last_season']": {'new_value': 'SGB Premiership 2021', 'old_value': 'SGB Premiership 2022'}}}
+41: {'dictionary_item_removed': {"root['sponsor']": 'Sports Insure'}}

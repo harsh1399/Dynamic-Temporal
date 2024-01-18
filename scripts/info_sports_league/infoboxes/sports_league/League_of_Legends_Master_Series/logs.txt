@@ -1,0 +1,9 @@
+4: {'dictionary_item_removed': {"root['replaced']": 'Garena Premier League', "root['inaugural']": '2015 Spring', "root['teams']": 'eight', "root['countries']": 'Taiwan, Macau, Hong Kong', "root['sponsor']": 'Garena, Riot Games', "root['related_comps']": 'Garena Premier League'}}
+15: {'dictionary_item_removed': {"root['sport']": "''League of Legends''", "root['owner']": 'Garena'}}
+16: {'values_changed': {"root['replaced']": {'new_value': 'Garena Premier League', 'old_value': 'Garena Premier League ,  Nova League'}}}
+24: {'dictionary_item_removed': {"root['venue']": 'Garena e-Sports Stadium', "root['location']": 'Neihu, Taipei, Taiwan'}, 'values_changed': {"root['teams']": {'new_value': 'eight', 'old_value': '8'}, "root['countries']": {'new_value': 'Taiwan, Macau, Hong Kong', 'old_value': 'Taiwan/Hong Kong/Macau'}}}
+26: {'dictionary_item_added': {"root['replaced']": 'Garena Premier League ,  Nova League', "root['location']": 'Neihu, Taipei, Taiwan'}, 'dictionary_item_removed': {"root['headquarters']": 'Neihu, Taipei, Taiwan'}}
+39: {'dictionary_item_removed': {"root['formerly']": 'League of Legends Nova League (LNL)', "root['champion']": 'J Team (1st titles)', "root['most_champs']": 'Flash Wolves (7 titles)', "root['tv']": 'Garena Live, Twitch, YouTube'}}
+42: {'dictionary_item_removed': {"root['replaced']": 'Pacific Championship Series (PCS)'}}
+45: {'dictionary_item_removed': {"root['dissolved']": 'end date'}, 'values_changed': {"root['formerly']": {'new_value': 'League of Legends Nova League (LNL)', 'old_value': "''League of Legends Nova'' League (LNL)"}, "root['headquarters']": {'new_value': 'Neihu, Taipei, Taiwan', 'old_value': 'Neihu, Taipei'}}}
+47: {'dictionary_item_added': {"root['dissolved']": 'end date'}, 'dictionary_item_removed': {"root['folded']": 'end date'}, 'values_changed': {"root['champion']": {'new_value': 'J Team (1st titles)', 'old_value': 'J Team (1st title)'}}}

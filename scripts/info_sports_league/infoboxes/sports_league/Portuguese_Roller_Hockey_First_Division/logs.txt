@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Portuguese Roller Hockey First Division', "root['confed']": 'World Skate Europe - Rink Hockey', "root['sport']": 'Roller Hockey', "root['first']": '1939', "root['teams']": '14', "root['levels']": '1', "root['domest_cup']": 'Portuguese Roller Hockey Cup', "root['confed_cup']": 'Rink Hockey Euroleague World Skate Europe Cup', "root['champions']": 'Sporting CP (roller hockey)', "root['tv']": 'A Bola TV', "root['current_season']": '2021-22 Portuguese Roller Hockey First Division '}}
+4: {'dictionary_item_added': {"root['first']": '1939'}, 'dictionary_item_removed': {"root['administrator']": 'FPP'}}
+5: {'values_changed': {"root['confed']": {'new_value': 'World Skate Europe - Rink Hockey', 'old_value': 'European Confederation of Roller Skating'}}}
+6: {'dictionary_item_removed': {"root['champ_season']": '2021'}}
+7: {'values_changed': {"root['champ_season']": {'new_value': '2021', 'old_value': '2020-21'}}}
+11: {'values_changed': {"root['confed_cup']": {'new_value': 'Rink Hockey Euroleague World Skate Europe Cup', 'old_value': 'Rink Hockey Euroleague'}}}
+12: {'dictionary_item_added': {"root['domest_cup']": 'Portuguese Roller Hockey Cup'}, 'dictionary_item_removed': {"root['domestic_cup']": 'Portuguese Roller Hockey Cup'}}
+14: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Portuguese Roller Hockey First Division ', 'old_value': '2021–22 Portuguese Roller Hockey First Division '}}}
+18: {'values_changed': {"root['champions']": {'new_value': 'Sporting CP (roller hockey)', 'old_value': 'FC Porto (roller hockey)'}, "root['champ_season']": {'new_value': '2020-21', 'old_value': '2021-22'}}}
+22: {'values_changed': {"root['administrator']": {'new_value': 'FPP', 'old_value': 'Portuguese Roller Sports Federation'}}}
+25: {'values_changed': {"root['current_season']": {'new_value': '2021–22 Portuguese Roller Hockey First Division ', 'old_value': '2022–23 Portuguese Roller Hockey First Division '}}}
+27: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}

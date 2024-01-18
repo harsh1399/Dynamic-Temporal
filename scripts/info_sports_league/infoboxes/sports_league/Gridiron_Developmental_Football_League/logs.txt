@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2021 GDFL season', "root['sport']": 'American football', "root['teams']": '63', "root['countries']": 'United States', "root['classification']": 'Low-level minor league', "root['president']": 'Charles Thompson', "root['Commissioner']": 'Anthony Rodrigues'}}
+1: {'values_changed': {"root['classification']": {'new_value': 'Low-level minor league', 'old_value': 'High-level minor league'}}}
+2: {'values_changed': {"root['classification']": {'new_value': 'High-level minor league', 'old_value': 'Low-level minor league'}}}
+4: {'values_changed': {"root['teams']": {'new_value': '63', 'old_value': '64'}}}
+9: {'values_changed': {"root['current_season']": {'new_value': '2021 GDFL season', 'old_value': '2023 GDFL season'}}}
+11: {'values_changed': {"root['teams']": {'new_value': '64', 'old_value': '36'}}}
+16: {'values_changed': {"root['teams']": {'new_value': '36', 'old_value': '34'}}}

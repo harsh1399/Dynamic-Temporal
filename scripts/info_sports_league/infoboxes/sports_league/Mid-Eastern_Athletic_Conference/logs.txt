@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mid-Eastern Athletic Conference', "root['short_name']": 'MEAC', "root['established']": '1970', "root['logo_size']": '200', "root['association']": 'NCAA', "root['division']": 'NCAA Division I', "root['subdivision']": 'Football Championship Subdivision', "root['members']": '11 (8 in 2021)', "root['sports']": '16', "root['mens']": '8', "root['womens']": '8', "root['region']": 'South Atlantic States', "root['hq_city']": 'Norfolk', "root['hq_state']": 'Virginia', "root['commissioner']": 'Dennis E. Thomas', "root['since']": '2002', "root['color']": '69005C', "root['font_color']": 'FFFFFF', "root['map']": 'Mid-Eastern Athletic Conference map.svg', "root['map_size']": '250 '}}
+40: {'values_changed': {"root['members']": {'new_value': '11 (8 in 2021)', 'old_value': '8'}}}
+44: {'values_changed': {"root['map']": {'new_value': 'Mid-Eastern Athletic Conference map.svg', 'old_value': 'File:Meac2021.png'}}}
+45: {'values_changed': {"root['map']": {'new_value': 'File:Meac2021.png', 'old_value': 'Meac2021.png'}}}
+47: {'values_changed': {"root['map_size']": {'new_value': '250 ', 'old_value': '350 '}}}
+48: {'values_changed': {"root['map_size']": {'new_value': '350 ', 'old_value': '300 '}}}
+49: {'values_changed': {"root['map_size']": {'new_value': '300 ', 'old_value': '250 '}}}
+126: {'values_changed': {"root['commissioner']": {'new_value': 'Dennis E. Thomas', 'old_value': 'Sonja O. Stills'}, "root['since']": {'new_value': '2002', 'old_value': '2022'}}}
+156: {'values_changed': {"root['sports']": {'new_value': '16', 'old_value': '14'}, "root['mens']": {'new_value': '8', 'old_value': '6'}}}
+159: {'dictionary_item_added': {"root['short_name']": 'MEAC', "root['established']": '1970', "root['association']": 'NCAA', "root['members']": '8', "root['hq_city']": 'Norfolk', "root['hq_state']": 'Virginia'}, 'dictionary_item_removed': {"root['conference']": 'NCAA', "root['teams']": '8', "root['headquarters']": 'Norfolk, Virginia'}}
+160: {'dictionary_item_added': {"root['conference']": 'NCAA'}, 'dictionary_item_removed': {"root['association']": 'NCAA'}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '18', "root['champion']": 'Gulf Coast League Tigers', "root['most_champs']": 'Gulf Coast League Yankees'}}
+20: {'dictionary_item_removed': {"root['formerly']": 'ubl'}, 'values_changed': {"root['champion']": {'new_value': 'Gulf Coast League Tigers', 'old_value': 'Florida Complex League Rays'}, "root['most_champs']": {'new_value': 'Gulf Coast League Yankees', 'old_value': 'Florida Complex League Yankees'}}}
+32: {'values_changed': {"root['teams']": {'new_value': '18', 'old_value': '16'}}}
+37: {'values_changed': {"root['champion']": {'new_value': 'Florida Complex League Rays', 'old_value': 'Florida Complex League Yankees'}}}
+41: {'type_changes': {"root['formerly']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Gulf Coast League (1966–2020)', 'Florida Rookie League (1965)', 'Sarasota Rookie League (1964)'], 'new_value': 'ubl'}}}
+43: {'type_changes': {"root['formerly']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': ['Gulf Coast League (1966–2020)', 'Florida Rookie League (1965)', 'Sarasota Rookie League (1964)']}}}

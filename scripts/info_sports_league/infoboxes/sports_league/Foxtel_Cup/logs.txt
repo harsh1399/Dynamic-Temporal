@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Australian rules football', "root['inaugural']": '2011', "root['teams']": '16', "root['qualification']": 'Invitation', "root['TV']": 'Fox Sports (Australia)'}}
+124: {'dictionary_item_removed': {"root['champion']": 'Williamstown Football Club', "root['most_champs']": 'Williamstown Football Club'}}
+136: {'values_changed': {"root['inaugural']": {'new_value': '2011', 'old_value': '2011 Foxtel Cup'}}}
+140: {'dictionary_item_removed': {"root['upcoming_season']": '2012 Foxtel Cup'}}
+141: {'values_changed': {"root['upcoming_season']": {'new_value': '2012 Foxtel Cup', 'old_value': '2013 Foxtel Cup'}, "root['teams']": {'new_value': '16', 'old_value': '16 (2011-12), 10 (2013)'}, "root['champion']": {'new_value': 'Williamstown Football Club', 'old_value': 'Claremont Football Club'}, "root['TV']": {'new_value': 'Fox Sports (Australia)', 'old_value': 'Fox Footy'}}}
+146: {'values_changed': {"root['teams']": {'new_value': '16 (2011-12), 10 (2013)', 'old_value': '16 (2011-12),, 10 (2013)'}}}
+148: {'values_changed': {"root['champion']": {'new_value': 'Claremont Football Club', 'old_value': 'West Adelaide Football Club'}}}
+154: {'values_changed': {"root['upcoming_season']": {'new_value': '2013 Foxtel Cup', 'old_value': '2014 Foxtel Cup'}}}
+161: {'values_changed': {"root['teams']": {'new_value': '16 (2011-12),, 10 (2013)', 'old_value': '16 (2011-12),, 10 (2013),, 9 (2014)'}}}
+173: {'values_changed': {"root['champion']": {'new_value': 'West Adelaide Football Club', 'old_value': 'Williamstown Football Club'}}}
+178: {'values_changed': {"root['upcoming_season']": {'new_value': '2014 Foxtel Cup', 'old_value': '2015 Foxtel Cup'}}}
+182: {'dictionary_item_added': {"root['upcoming_season']": '2015 Foxtel Cup', "root['TV']": 'Fox Footy'}, 'dictionary_item_removed': {"root['folded']": '2014'}}

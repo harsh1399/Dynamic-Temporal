@@ -1,0 +1,21 @@
+6: {'dictionary_item_removed': {"root['sport']": "''Call of Duty''", "root['folded']": '2016', "root['owner']": 'Activision Blizzard', "root['teams']": '16', "root['continents']": 'North America, Europe, New Zealand/Australia'}}
+10: {'dictionary_item_added': {"root['folded']": '2016'}, 'values_changed': {"root['sport']": {'new_value': "''Call of Duty''", 'old_value': "''Call of Duty'' (''Call of Duty: Black Ops III'')"}}}
+11: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '28 teams (10 in North America, 10 in Europe, 8 in Australia/New Zealand)'}}}
+12: {'dictionary_item_removed': {"root['director']": 'Steve Bornstein'}, 'values_changed': {"root['owner']": {'new_value': 'Activision Blizzard', 'old_value': 'Activision'}}}
+17: {'values_changed': {"root['teams']": {'new_value': '28 teams (10 in North America, 10 in Europe, 8 in Australia/New Zealand)', 'old_value': '30 teams (12 in North America, 10 in Europe, 8 in Australia/New Zealand)'}}}
+40: {'dictionary_item_added': {"root['director']": 'Steve Bornstein'}, 'dictionary_item_removed': {"root['champion']": 'Rise'}}
+41: {'dictionary_item_removed': {"root['commissioner']": 'Everett Coleman', "root['sponsor']": 'Playstation 4'}, 'values_changed': {"root['champion']": {'new_value': 'Rise', 'old_value': 'OpTic Gaming'}}}
+60: {'values_changed': {"root['champion']": {'new_value': 'OpTic Gaming', 'old_value': 'OpTic Gaming (NA), Millenium (EU), Plantronics Mindfreak (ANZ)'}}}
+87: {'values_changed': {"root['sponsor']": {'new_value': 'Playstation 4', 'old_value': 'PlayStation 4'}}}
+106: {'values_changed': {"root['champion']": {'new_value': 'OpTic Gaming (NA), Millenium (EU), Plantronics Mindfreak (ANZ)', 'old_value': 'Team EnVyUs (NA), Millenium (EU), Plantronics Mindfreak (ANZ)'}}}
+123: {'values_changed': {"root['owner']": {'new_value': 'Activision', 'old_value': 'Shaun Philipson'}, "root['champion']": {'new_value': 'Team EnVyUs (NA), Millenium (EU), Plantronics Mindfreak (ANZ)', 'old_value': 'Spark CWL (EU), Millenium (EU), Plantronics Mindfreak (ANZ)'}}}
+124: {'values_changed': {"root['owner']": {'new_value': 'Shaun Philipson', 'old_value': 'Luca Bread'}}}
+125: {'values_changed': {"root['sponsor']": {'new_value': 'PlayStation 4', 'old_value': 'Luca Bread'}}}
+126: {'values_changed': {"root['owner']": {'new_value': 'Luca Bread', 'old_value': 'Shaun Philipson'}, "root['sponsor']": {'new_value': 'Luca Bread', 'old_value': 'Xbox One'}}}
+130: {'dictionary_item_added': {"root['owner']": 'Shaun Philipson', "root['commissioner']": 'Everett Coleman', "root['teams']": '30 teams (12 in North America, 10 in Europe, 8 in Australia/New Zealand)', "root['champion']": 'Spark CWL (EU), Millenium (EU), Plantronics Mindfreak (ANZ)'}, 'values_changed': {"root['sport']": {'new_value': "''Call of Duty'' (''Call of Duty: Black Ops III'')", 'old_value': "''Call of Duty'' (''Call of Duty: Black Ops III, Call of Duty: Infinite Warfare, Call of Duty: WWII, Call of Duty: Black Ops 4'')"}, "root['continents']": {'new_value': 'North America, Europe, New Zealand/Australia', 'old_value': 'North America, Europe, Asia-Pacific, Brazil'}, "root['sponsor']": {'new_value': 'Xbox One', 'old_value': 'Playstation 4 Scuf Gaming'}}}
+137: {'values_changed': {"root['sponsor']": {'new_value': 'Playstation 4 Scuf Gaming', 'old_value': 'Playstation 4 Scuf Gaming Mountain Dew'}}}
+143: {'dictionary_item_added': {"root['sport']": "''Call of Duty'' (''Call of Duty: Black Ops III, Call of Duty: Infinite Warfare, Call of Duty: WWII, Call of Duty: Black Ops 4'')"}, 'dictionary_item_removed': {"root['game']": "''Call of Duty'' (''Call of Duty: Black Ops III, Call of Duty: Infinite Warfare, Call of Duty: WWII, Call of Duty: Black Ops 4'')"}}
+152: {'values_changed': {"root['sponsor']": {'new_value': 'Playstation 4 Scuf Gaming Mountain Dew', 'old_value': 'PlayStation 4 Scuf Gaming Mountain Dew'}}}
+158: {'values_changed': {"root['sponsor']": {'new_value': 'PlayStation 4 Scuf Gaming Mountain Dew', 'old_value': 'PlayStation 4, Scuf Gaming, Mountain Dew'}}}
+160: {'dictionary_item_removed': {"root['folded']": '2019'}}
+164: {'dictionary_item_removed': {"root['replaced']": 'Call of Duty League'}}

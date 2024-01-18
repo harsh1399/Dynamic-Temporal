@@ -1,0 +1,47 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Indoor football', "root['Owner']": 'Michael Taylor & Andrew Haines', "root['teams']": '2'}}
+12: {'values_changed': {"root['teams']": {'new_value': '2', 'old_value': '3'}}}
+17: {'values_changed': {"root['teams']": {'new_value': '3', 'old_value': '4'}}}
+23: {'dictionary_item_added': {"root['Owner']": 'Michael Taylor & Andrew Haines'}, 'dictionary_item_removed': {"root['Founders']": 'Michael Taylor & Andrew Haines'}, 'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+34: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '6'}}}
+61: {'dictionary_item_added': {"root['Founders']": 'Michael Taylor & Andrew Haines'}, 'dictionary_item_removed': {"root['current_season']": '2011 UIFL season', "root['ceo']": 'Michael Taylor & Andrew Haines'}, 'values_changed': {"root['sport']": {'new_value': 'Indoor football', 'old_value': 'American football'}}}
+92: {'dictionary_item_removed': {"root['champion']": 'Saginaw Sting'}}
+106: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '9'}}}
+109: {'dictionary_item_removed': {"root['inaugural']": '2011 UIFL season'}, 'values_changed': {"root['ceo']": {'new_value': 'Michael Taylor & Andrew Haines', 'old_value': 'Assured Equities IV'}}}
+112: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+113: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '9'}}}
+115: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+121: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}}}
+132: {'dictionary_item_added': {"root['ceo']": 'Assured Equities IV'}, 'values_changed': {"root['inaugural']": {'new_value': '2011 UIFL season', 'old_value': '2011'}, "root['teams']": {'new_value': '11', 'old_value': '12'}}}
+134: {'dictionary_item_removed': {"root['ceo']": 'Jared Lorenzen'}, 'values_changed': {"root['sport']": {'new_value': 'American football', 'old_value': 'Indoor football'}}}
+142: {'dictionary_item_added': {"root['ceo']": 'Jared Lorenzen'}, 'dictionary_item_removed': {"root['Commissioner']": 'Jared Lorenzen'}}
+143: {'dictionary_item_added': {"root['Commissioner']": 'Jared Lorenzen'}, 'dictionary_item_removed': {"root['ceo']": 'Jared Lorenzen'}}
+152: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '13'}}}
+155: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+159: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '15'}}}
+162: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '16'}}}
+184: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '15'}}}
+185: {'values_changed': {"root['sport']": {'new_value': 'Indoor football', 'old_value': 'Indoor American football'}}}
+186: {'values_changed': {"root['teams']": {'new_value': '15', 'old_value': '16'}}}
+192: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '11'}}}
+198: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '10'}}}
+205: {'values_changed': {"root['current_season']": {'new_value': '2011 UIFL season', 'old_value': '2012 UIFL season'}}}
+217: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '11'}, "root['champion']": {'new_value': 'Saginaw Sting', 'old_value': 'Cincinnati Commandos'}}}
+218: {'dictionary_item_removed': {"root['last_season']": '2011 UIFL season', "root['upcoming_season']": '2013 UIFL season', "root['Formerly']": "'''Ultimate Indoor Football League'''", "root['most_champs']": 'Cincinnati Commandos & Saginaw Sting (1)', "root['owner']": 'Jim Krause, Andrew Hines', "root['President']": 'Jim Krause', "root['related_comps']": 'Continental Indoor Football League, Indoor Football League', "root['Founder']": 'Michael Taylor, Andrew Hines'}, 'values_changed': {"root['sport']": {'new_value': 'Indoor American football', 'old_value': 'indoor American football'}, "root['inaugural']": {'new_value': '2011', 'old_value': '2011 UIFL season'}}}
+219: {'dictionary_item_removed': {"root['sponsor']": 'Rawlings, Conquest Sports Fundation, Conqest Club Card, ProSportsRecruit.com, Trophy Awards, La Quinta Inns & Suites'}}
+221: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '9'}}}
+222: {'values_changed': {"root['sponsor']": {'new_value': 'Rawlings, Conquest Sports Fundation, Conqest Club Card, ProSportsRecruit.com, Trophy Awards, La Quinta Inns & Suites', 'old_value': 'Rawlings (company)'}}}
+224: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '8'}}}
+227: {'values_changed': {"root['related_comps']": {'new_value': 'Continental Indoor Football League, Indoor Football League', 'old_value': 'Continental Indoor Football League, Professional Indoor Football League (2012)'}}}
+228: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '9'}}}
+233: {'values_changed': {"root['Formerly']": {'new_value': "'''Ultimate Indoor Football League'''", 'old_value': "'''United Indoor Football League'''"}}}
+235: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '10'}}}
+238: {'values_changed': {"root['teams']": {'new_value': '10', 'old_value': '7'}}}
+244: {'values_changed': {"root['related_comps']": {'new_value': 'Continental Indoor Football League, Professional Indoor Football League (2012)', 'old_value': 'Champions Professional Indoor Football League, Continental Indoor Football League, Professional Indoor Football League (2012)'}}}
+246: {'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '6'}}}
+249: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '7'}}}
+258: {'values_changed': {"root['owner']": {'new_value': 'Jim Krause, Andrew Hines', 'old_value': 'Jim Krause, Andrew Haines'}, "root['Founder']": {'new_value': 'Michael Taylor, Andrew Hines', 'old_value': 'Michael Taylor, Andrew Haines'}}}
+261: {'dictionary_item_added': {"root['owner']": 'Jim Krause, Andrew Haines'}, 'values_changed': {"root['teams']": {'new_value': '7', 'old_value': '8'}}}
+262: {'values_changed': {"root['teams']": {'new_value': '8', 'old_value': '7'}}}
+263: {'dictionary_item_added': {"root['upcoming_season']": '2013 UIFL season', "root['ceo']": 'Jared Lorenzen'}, 'values_changed': {"root['current_season']": {'new_value': '2012 UIFL season', 'old_value': '2014 UIFL season'}, "root['teams']": {'new_value': '7', 'old_value': '4'}, "root['champion']": {'new_value': 'Cincinnati Commandos', 'old_value': 'Florida Tarpons'}, "root['most_champs']": {'new_value': 'Cincinnati Commandos & Saginaw Sting (1)', 'old_value': 'Cincinnati Commandos, Florida Tarpons,  & Saginaw Sting (1)'}}}
+265: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '5'}}}
+275: {'dictionary_item_added': {"root['current_season']": '2014 UIFL season', "root['teams']": '5'}, 'dictionary_item_removed': {"root['folded']": '2014'}, 'values_changed': {"root['last_season']": {'new_value': '2011 UIFL season', 'old_value': '2014 UIFL season'}, "root['champion']": {'new_value': 'Florida Tarpons', 'old_value': 'Corpus Christi Fury'}, "root['most_champs']": {'new_value': 'Cincinnati Commandos, Florida Tarpons,  & Saginaw Sting (1)', 'old_value': 'Cincinnati Commandos, Corpus Christi Fury, Florida Tarpons,  & Saginaw Sting (1)'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['ceo']": 'Attorney Donahue', "root['inaugural']": '1926', "root['teams']": '5,000 +', "root['champion']": 'Brooklawn, NJ', "root['most_champs']": 'Cincinnati, OH Post 50 (7)'}}
+2: {'dictionary_item_added': {"root['ceo']": 'Attorney Donahue'}, 'values_changed': {"root['champion']": {'new_value': 'Brooklawn, NJ', 'old_value': 'Chapin-Newberry, SC'}}}
+7: {'values_changed': {"root['teams']": {'new_value': '5,000 +', 'old_value': '3,786 (2016)'}}}
+9: {'dictionary_item_removed': {"root['tv']": 'ESPN3, ESPNU', "root['footnotes']": '|Championship Site'}}
+24: {'values_changed': {"root['champion']": {'new_value': 'Chapin-Newberry, SC', 'old_value': 'Texarkana, AR'}}}

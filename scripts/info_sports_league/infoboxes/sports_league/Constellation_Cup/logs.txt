@@ -1,0 +1,8 @@
+17: {'dictionary_item_removed': {"root['last_season']": '2021 Constellation Cup', "root['sport']": 'Netball', "root['inaugural']": '2010', "root['teams']": '2', "root['champion']": 'Nb', "root['most_champs']": 'Nb', "root['TV']": 'Nine Network (Australia) Sky Sport (New Zealand)'}}
+21: {'values_changed': {"root['inaugural']": {'new_value': '2010', 'old_value': '2010 Constellation Cup'}, "root['TV']": {'new_value': 'Nine Network (Australia) Sky Sport (New Zealand)', 'old_value': 'Nine Network, Sky Sport (New Zealand)  '}}}
+24: {'values_changed': {"root['TV']": {'new_value': 'Nine Network, Sky Sport (New Zealand)  ', 'old_value': 'Nine Network Sky Sport (New Zealand)  '}}}
+25: {'dictionary_item_added': {"root['last_season']": '2021 Constellation Cup'}, 'dictionary_item_removed': {"root['current_season']": '2021 Constellation Cup'}}
+27: {'dictionary_item_added': {"root['current_season']": '2021 Constellation Cup'}, 'dictionary_item_removed': {"root['upcoming_season']": '2022 Constellation Cup'}}
+28: {'values_changed': {"root['TV']": {'new_value': 'Nine Network Sky Sport (New Zealand)  ', 'old_value': 'Foxtel (Aus) Sky Sport (NZ)  '}}}
+30: {'dictionary_item_added': {"root['upcoming_season']": '2022 Constellation Cup'}, 'dictionary_item_removed': {"root['current_season']": '2022 Constellation Cup'}}
+31: {'dictionary_item_added': {"root['current_season']": '2022 Constellation Cup'}, 'dictionary_item_removed': {"root['last_season']": '2022 Constellation Cup'}}

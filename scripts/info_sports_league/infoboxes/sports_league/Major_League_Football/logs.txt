@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['sport']": 'American football', "root['inaugural']": '2022 (planned)', "root['teams']": '6 (planned)'}}
+4: {'dictionary_item_added': {"root['inaugural']": '2022 (planned)', "root['teams']": '6 (planned)'}, 'dictionary_item_removed': {"root['Commissioner']": 'stock going to a dollar'}}
+6: {'dictionary_item_added': {"root['Commissioner']": 'stock going to a dollar'}, 'dictionary_item_removed': {"root['inaugural']": '2022 (planed)', "root['teams']": '4 (planed)'}}
+8: {'values_changed': {"root['inaugural']": {'new_value': '2022 (planed)', 'old_value': '2022 (planned)'}, "root['teams']": {'new_value': '4 (planed)', 'old_value': '4 (planned)'}}}
+39: {'values_changed': {"root['inaugural']": {'new_value': '2022 (planned)', 'old_value': '2022'}, "root['teams']": {'new_value': '4 (planned)', 'old_value': '4'}}}
+43: {'dictionary_item_removed': {"root['owner']": 'Major League Football, Inc.,  (publicly traded company)', "root['ceo']": 'Frank Murtha', "root['headquarters']": 'Lakewood Ranch, Florida'}, 'values_changed': {"root['inaugural']": {'new_value': '2022', 'old_value': '2022 (planned)'}, "root['teams']": {'new_value': '4', 'old_value': '4 (planned)'}}}
+47: {'values_changed': {"root['inaugural']": {'new_value': '2022 (planned)', 'old_value': '2022'}, "root['teams']": {'new_value': '4 (planned)', 'old_value': '4'}}}
+51: {'dictionary_item_removed': {"root['current_season']": '2022 MLFB season'}, 'values_changed': {"root['inaugural']": {'new_value': '2022', 'old_value': '2022 MLFB season'}}}
+64: {'values_changed': {"root['inaugural']": {'new_value': '2022 MLFB season', 'old_value': '2022 Major League Football season'}}}
+65: {'values_changed': {"root['inaugural']": {'new_value': '2022 Major League Football season', 'old_value': '2022 MLFB season'}}}
+69: {'values_changed': {"root['owner']": {'new_value': 'Major League Football, Inc.,  (publicly traded company)', 'old_value': 'Major League Football, Inc.,  (publicly traded failure)'}}}
+81: {'values_changed': {"root['ceo']": {'new_value': 'Frank Murtha', 'old_value': 'Mickel'}}}
+83: {'values_changed': {"root['ceo']": {'new_value': 'Mickel', 'old_value': 'Frank Murtha'}}}
+84: {'values_changed': {"root['ceo']": {'new_value': 'Frank Murtha', 'old_value': 'Captain Hindsight'}}}
+85: {'values_changed': {"root['ceo']": {'new_value': 'Captain Hindsight', 'old_value': 'Frank Murtha'}}}
+91: {'values_changed': {"root['ceo']": {'new_value': 'Frank Murtha', 'old_value': 'My mom'}}}
+92: {'values_changed': {"root['ceo']": {'new_value': 'My mom', 'old_value': 'Frank Murtha'}}}
+93: {'values_changed': {"root['ceo']": {'new_value': 'Frank Murtha', 'old_value': 'My MOM'}}}
+94: {'values_changed': {"root['ceo']": {'new_value': 'My MOM', 'old_value': 'Frank Murtha'}}}
+95: {'values_changed': {"root['ceo']": {'new_value': 'Frank Murtha', 'old_value': '@RonaldHunk'}}}
+97: {'values_changed': {"root['ceo']": {'new_value': '@RonaldHunk', 'old_value': 'Jello Remer'}}}
+100: {'values_changed': {"root['ceo']": {'new_value': 'Jello Remer', 'old_value': 'Frank Murtha'}}}
+104: {'values_changed': {"root['owner']": {'new_value': 'Major League Football, Inc.,  (publicly traded failure)', 'old_value': 'Major League Football, Inc.,  (publicly traded company)'}}}
+113: {'values_changed': {"root['current_season']": {'new_value': '2022 MLFB season', 'old_value': '2022 Major League Football season'}}}

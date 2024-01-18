@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Water polo', "root['confed']": 'LEN (Europe)', "root['teams']": '13', "root['levels']": '1', "root['domest_cup']": "Coppa Italia (men's water polo)", "root['confed_cup']": 'LEN Champions League, LEN Trophy', "root['champions']": 'nowrap', "root['season']": '2020–21', "root['most_champs']": 'nowrap', "root['tv']": 'Rai Sport', "root['current']": '2021–22 Serie A1 '}}
+1: {'dictionary_item_added': {"root['current']": '2021–22 Serie A1 '}, 'dictionary_item_removed': {"root['current_season']": '2021–22 Serie A1 '}}
+10: {'values_changed': {"root['season']": {'new_value': '2020–21', 'old_value': '2021–22'}}}
+14: {'dictionary_item_added': {"root['current_season']": '2021–22 Serie A1 '}, 'dictionary_item_removed': {"root['current']": '2021–22 Serie A1 '}, 'values_changed': {"root['season']": {'new_value': '2021–22', 'old_value': '2020–21'}}}
+15: {'dictionary_item_removed': {"root['administrator']": 'Italian Swimming Federation'}}
+17: {'dictionary_item_added': {"root['season']": '2020–21'}, 'dictionary_item_removed': {"root['champ_season']": '2021–22'}}
+18: {'dictionary_item_removed': {"root['domestic_cup']": 'Greek Water Polo Cup'}}
+19: {'dictionary_item_added': {"root['domest_cup']": "Coppa Italia (men's water polo)"}, 'values_changed': {"root['domestic_cup']": {'new_value': 'Greek Water Polo Cup', 'old_value': "Coppa Italia (men's water polo)"}}}
+20: {'values_changed': {"root['champ_season']": {'new_value': '2021–22', 'old_value': '(2021–22)'}}}
+21: {'values_changed': {"root['champ_season']": {'new_value': '(2021–22)', 'old_value': '2021–22'}}}
+22: {'dictionary_item_added': {"root['tv']": 'Rai Sport'}, 'dictionary_item_removed': {"root['TV']": 'Rai Sport'}}
+23: {'values_changed': {"root['administrator']": {'new_value': 'Italian Swimming Federation', 'old_value': 'Italian Swimming Federation (FIN)'}}}
+25: {'dictionary_item_added': {"root['current']": '2021–22 Serie A1 '}, 'dictionary_item_removed': {"root['current_season']": '2021–22 Serie A1 '}}
+27: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+33: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+39: {'values_changed': {"root['teams']": {'new_value': '14', 'old_value': '13'}, "root['current_season']": {'new_value': '2021–22 Serie A1 ', 'old_value': '2022–23 Serie A1 '}}}
+40: {'values_changed': {"root['teams']": {'new_value': '13', 'old_value': '14'}}}
+56: {'values_changed': {"root['champions']": {'new_value': 'nowrap', 'old_value': 'Pro Recco (34th title)'}, "root['most_champs']": {'new_value': 'nowrap', 'old_value': 'Pro Recco (34 titles)'}}}

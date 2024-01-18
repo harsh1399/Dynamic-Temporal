@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['classification']": 'ubl', "root['champion']": 'Amarillo Sod Poodles (2019)', "root['most_champs']": 'Houston Buffaloes (16)', "root['folded']": '2020', "root['replaced']": 'Double-A Central'}}
+1: {'dictionary_item_added': {"root['folded']": '2020', "root['replaced']": 'Double-A Central'}, 'dictionary_item_removed': {"root['teams']": '10'}, 'values_changed': {"root['champion']": {'new_value': 'Amarillo Sod Poodles (2019)', 'old_value': 'Northwest Arkansas Naturals (2021)'}}}
+15: {'values_changed': {"root['champion']": {'new_value': 'Northwest Arkansas Naturals (2021)', 'old_value': 'Frisco RoughRiders (2022)'}}}

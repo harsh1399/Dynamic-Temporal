@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['confed']": 'European Handball Federation', "root['teams']": '12', "root['levels']": '1', "root['confed_cup']": "Women's EHF Champions League", "root['champions']": 'Borussia Dortmund Handball', "root['season']": '2020-21', "root['current']": '2021–22 season '}}
+3: {'values_changed': {"root['champions']": {'new_value': 'Borussia Dortmund Handball', 'old_value': 'SG BBM Bietigheim'}, "root['season']": {'new_value': '2020-21', 'old_value': '2021-22'}}}
+4: {'values_changed': {"root['current']": {'new_value': '2021–22 season ', 'old_value': '2023–23 season '}}}
+7: {'dictionary_item_added': {"root['season']": '2021-22'}, 'dictionary_item_removed': {"root['champ_season']": '2021-22', "root['most_champs']": 'Bayer 04 Leverkusen (handball)', "root['prem_season']": '2021-22'}}
+9: {'dictionary_item_added': {"root['current']": '2023–23 season '}, 'dictionary_item_removed': {"root['current_season']": '2023–23 season '}}
+10: {'dictionary_item_added': {"root['current_season']": '2023–23 season '}, 'dictionary_item_removed': {"root['current']": '2023–23 season '}}
+17: {'dictionary_item_added': {"root['current']": '2023–23 season '}, 'dictionary_item_removed': {"root['sport']": 'Handball', "root['current_season']": '2022–23 Handball-Bundesliga (women) '}}
+18: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '14'}}}
+19: {'dictionary_item_added': {"root['levels']": '1'}, 'dictionary_item_removed': {"root['level']": 'League system'}}
+21: {'dictionary_item_removed': {"root['administrator']": 'German Handball Association'}}
+37: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['prem_season']": {'new_value': '2021-22', 'old_value': '2021–22'}}}
+38: {'values_changed': {"root['champ_season']": {'new_value': '2021-22', 'old_value': '2021–22'}}}
+39: {'values_changed': {"root['prem_season']": {'new_value': '2021–22', 'old_value': '2021-22'}}}
+41: {'dictionary_item_removed': {"root['level']": 'League system'}, 'values_changed': {"root['champ_season']": {'new_value': '2021–22', 'old_value': '2021-22'}}}
+42: {'values_changed': {"root['champ_season']": {'new_value': '2021-22', 'old_value': '2021–22'}, "root['prem_season']": {'new_value': '2021-22', 'old_value': '2021–22'}}}
+53: {'dictionary_item_added': {"root['level']": 'League system'}, 'values_changed': {"root['champ_season']": {'new_value': '2021–22', 'old_value': '2022–23'}, "root['prem_season']": {'new_value': '2021–22', 'old_value': '2022–23'}}}
+54: {'dictionary_item_removed': {"root['level']": 'League system'}}
+57: {'dictionary_item_removed': {"root['domestic_cup']": 'DHB-Pokal'}}
+62: {'values_changed': {"root['current_season']": {'new_value': '2022–23 Handball-Bundesliga (women) ', 'old_value': '2023–24 Handball-Bundesliga (women) '}}}

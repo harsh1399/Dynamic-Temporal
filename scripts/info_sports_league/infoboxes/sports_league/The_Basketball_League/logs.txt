@@ -1,0 +1,21 @@
+5: {'dictionary_item_removed': {"root['countries']": 'United States ,  Canada', "root['continent']": 'FIBA Americas (Americas)'}}
+8: {'dictionary_item_removed': {"root['current_season']": '2017–18 NAPB season', "root['sport']": 'Basketball', "root['inaugural']": '2017 NAPB season', "root['teams']": '#Teams'}}
+12: {'dictionary_item_removed': {"root['ceo']": 'Dave Magley'}}
+13: {'dictionary_item_removed': {"root['coo']": 'Dave Magley'}, 'values_changed': {"root['ceo']": {'new_value': 'Dave Magley', 'old_value': 'Sev Hrywnak'}}}
+153: {'dictionary_item_added': {"root['inaugural']": '2017 NAPB season'}, 'values_changed': {"root['current_season']": {'new_value': '2017–18 NAPB season', 'old_value': '2018-19 NAPB season'}}}
+154: {'values_changed': {"root['current_season']": {'new_value': '2018-19 NAPB season', 'old_value': '2018–19 NAPB season'}}}
+159: {'values_changed': {"root['current_season']": {'new_value': '2018–19 NAPB season', 'old_value': '2018 NAPB season'}}}
+193: {'dictionary_item_removed': {"root['pixels']": '100'}}
+291: {'dictionary_item_added': {"root['pixels']": '100'}, 'dictionary_item_removed': {"root['champion']": 'Yakima SunKings'}}
+292: {'values_changed': {"root['champion']": {'new_value': 'Yakima SunKings', 'old_value': 'Yakima SunKings (2018)'}}}
+305: {'values_changed': {"root['ceo']": {'new_value': 'Sev Hrywnak', 'old_value': 'Evelyn Magley MAGLEY'}}}
+306: {'values_changed': {"root['ceo']": {'new_value': 'Evelyn Magley MAGLEY', 'old_value': 'Evelyn Magley'}}}
+311: {'dictionary_item_added': {"root['current_season']": '2018 NAPB season'}, 'dictionary_item_removed': {"root['upcoming_season']": '2019 TBL season', "root['inaugural']": '2018 NAPB season'}}
+312: {'values_changed': {"root['inaugural']": {'new_value': '2018 NAPB season', 'old_value': '2008 NAPB season'}}}
+313: {'values_changed': {"root['inaugural']": {'new_value': '2008 NAPB season', 'old_value': '2018 NAPB season'}}}
+315: {'dictionary_item_added': {"root['coo']": 'Dave Magley'}, 'dictionary_item_removed': {"root['president']": 'Dave Magley'}}
+330: {'dictionary_item_removed': {"root['commissioner']": 'Paul Mokeski'}}
+389: {'values_changed': {"root['upcoming_season']": {'new_value': '2019 TBL season', 'old_value': '2022 TBL season'}, "root['commissioner']": {'new_value': 'Paul Mokeski', 'old_value': 'Carlnel Wiley'}, "root['teams']": {'new_value': '#Teams', 'old_value': '44'}, "root['countries']": {'new_value': 'United States ,  Canada', 'old_value': 'United States'}, "root['champion']": {'new_value': 'Yakima SunKings (2018)', 'old_value': 'Shreveport Mavericks (2022)'}}}
+400: {'values_changed': {"root['upcoming_season']": {'new_value': '2022 TBL season', 'old_value': '2023 TBL season'}}}
+444: {'values_changed': {"root['teams']": {'new_value': '44', 'old_value': '49'}}}
+470: {'values_changed': {"root['champion']": {'new_value': 'Shreveport Mavericks (2022)', 'old_value': 'Potawatomi Fire (2023)'}}}

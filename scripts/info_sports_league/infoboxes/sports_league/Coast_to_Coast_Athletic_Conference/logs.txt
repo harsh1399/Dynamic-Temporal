@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Capital Athletic Conference', "root['short_name']": 'CAC', "root['established']": '1989', "root['association']": 'National Collegiate Athletic Association', "root['division']": 'NCAA Division III', "root['members']": '6 (5 in 2020, 3 in 2021)', "root['sports']": '22', "root['mens']": '10', "root['womens']": '12', "root['region']": 'Mid-Atlantic states', "root['hq_city']": 'Fredericksburg', "root['hq_state']": 'Virginia', "root['commissioner']": 'Jeff Ligney', "root['since']": '2017', "root['color']": '#233180', "root['font_color']": 'white', "root['map']": 'Capital-USA-states.png', "root['map_size']": '250 '}}
+7: {'values_changed': {"root['members']": {'new_value': '6 (5 in 2020, 3 in 2021)', 'old_value': '5 (3 in 2021)'}}}
+11: {'values_changed': {"root['members']": {'new_value': '5 (3 in 2021)', 'old_value': '5 (11 in 2020)'}}}
+18: {'values_changed': {"root['members']": {'new_value': '5 (11 in 2020)', 'old_value': '11 (8 in 2021)'}}}
+26: {'values_changed': {"root['sports']": {'new_value': '22', 'old_value': '20'}, "root['mens']": {'new_value': '10', 'old_value': '9'}, "root['womens']": {'new_value': '12', 'old_value': '11'}}}
+32: {'values_changed': {"root['commissioner']": {'new_value': 'Jeff Ligney', 'old_value': 'Chris Roekle'}, "root['since']": {'new_value': '2017', 'old_value': '2020'}}}
+34: {'values_changed': {"root['region']": {'new_value': 'Mid-Atlantic states', 'old_value': 'United States'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Capital Athletic Conference', 'old_value': 'Coast to Coast Athletic Conference'}, "root['short_name']": {'new_value': 'CAC', 'old_value': 'C2C'}}}
+37: {'dictionary_item_removed': {"root['former_names']": 'Capital Athletic Conference (CAC)'}}
+43: {'values_changed': {"root['map']": {'new_value': 'Capital-USA-states.png', 'old_value': 'Coast_to_Coast_Member_Map.png'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Coast to Coast Athletic Conference', 'old_value': 'Coast-to-Coast Athletic Conference'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Coast-to-Coast Athletic Conference', 'old_value': 'Coast to Coast Athletic Conference'}}}

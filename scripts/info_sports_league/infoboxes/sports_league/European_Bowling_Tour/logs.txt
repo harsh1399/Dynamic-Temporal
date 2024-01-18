@@ -1,0 +1,4 @@
+2: {'dictionary_item_removed': {"root['name']": 'European Bowling Tour', "root['sport']": 'Bowling', "root['location']": 'Europe', "root['established']": 'Year 2000', "root['number']": '11 (2017)', "root['current_champion']": 'Paul Moor and Joline Persson-Planefors (2016)'}}
+5: {'values_changed': {"root['current_champion']": {'new_value': 'Paul Moor and Joline Persson-Planefors (2016)', 'old_value': 'Paul Moor and Joline Persson-Planefors (2017) Masters'}}}
+20: {'values_changed': {"root['number']": {'new_value': '11 (2017)', 'old_value': '13 (2019)'}, "root['current_champion']": {'new_value': 'Paul Moor and Joline Persson-Planefors (2017) Masters', 'old_value': "'''2019 EBT Ranking Winners''': Arnar Davið Jónsson and Anna Andersson, '''2019 EBT Masters''': Rafiq Ismail and Li Sin Jane"}}}
+26: {'values_changed': {"root['established']": {'new_value': 'Year 2000', 'old_value': '2000'}}}

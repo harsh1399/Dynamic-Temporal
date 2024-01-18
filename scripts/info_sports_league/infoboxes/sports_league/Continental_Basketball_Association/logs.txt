@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Basketball', "root['fame']": '\'\'"Oldest professional basketball league in the world"\'\'', "root['teams']": '5', "root['champion']": 'Lawton-Fort Sill Cavalry'}}
+7: {'values_changed': {"root['teams']": {'new_value': '5', 'old_value': '4'}}}
+17: {'dictionary_item_removed': {"root['most_champs']": 'Wilkes-Barre Barons (8)'}}
+27: {'values_changed': {"root['most_champs']": {'new_value': 'Wilkes-Barre Barons (8)', 'old_value': 'Allentown Jets and Wilkes-Barre Barons (8)'}}}
+28: {'values_changed': {"root['most_champs']": {'new_value': 'Allentown Jets and Wilkes-Barre Barons (8)', 'old_value': "Allentown Jets (8) '''Wilkes-Barre Barons (8)'''"}}}
+57: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '2'}}}
+66: {'values_changed': {"root['teams']": {'new_value': '2', 'old_value': '1'}}}

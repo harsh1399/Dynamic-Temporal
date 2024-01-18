@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['pixels']": '180', "root['sport']": 'Volleyball', "root['teams']": '12', "root['champion']": 'Berlin Recycling Volleys (men),  Schweriner SC (women)', "root['TV']": 'Sport1 (Germany)'}}
+5: {'dictionary_item_removed': {"root['continent']": 'Europe', "root['confed']": 'European Volleyball Confederation'}}
+7: {'values_changed': {"root['pixels']": {'new_value': '180', 'old_value': '190'}}}
+21: {'dictionary_item_added': {"root['pixels']": '190'}, 'dictionary_item_removed': {"root['domestic_cup']": 'Germany Cup ,  Germany Super Cup', "root['confed_cup']": 'CEV Champions League,  CEV Cup'}}
+22: {'values_changed': {"root['domestic_cup']": {'new_value': 'Germany Cup ,  Germany Super Cup', 'old_value': 'German Cup ,  German Super Cup'}}}
+23: {'dictionary_item_removed': {"root['current_season']": '2021-22 Volleyball-Bundesliga season'}, 'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League,  CEV Cup', 'old_value': 'CEV Champions League ,  CEV Cup ,  CEV Challenge Cup'}, "root['champion']": {'new_value': 'Berlin Recycling Volleys (men),  Schweriner SC (women)', 'old_value': 'Berlin Recycling Volleys (men), Schweriner SC, (women)'}}}
+26: {'values_changed': {"root['champion']": {'new_value': 'Berlin Recycling Volleys (men), Schweriner SC, (women)', 'old_value': 'Berlin Recycling Volleys ,  (2021)'}}}
+35: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Volleyball-Bundesliga season', 'old_value': '2021-22 Volleyball-Bundesliga'}}}
+41: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Volleyball-Bundesliga', 'old_value': '2021-22 Volleyball-Bundesliga season'}}}
+51: {'dictionary_item_removed': {"root['administrator']": 'German Volleyball Association'}}
+77: {'dictionary_item_added': {"root['administrator']": 'German Volleyball Association', "root['domestic_cup']": 'German Cup ,  German Super Cup'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '9'}}}
+78: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Volleyball-Bundesliga season', 'old_value': '2021-22 Volleyball-Bundesliga'}}}
+79: {'values_changed': {"root['current_season']": {'new_value': '2021-22 Volleyball-Bundesliga', 'old_value': '2021-22 Volleyball-Bundesliga season'}}}
+80: {'dictionary_item_removed': {"root['administrator']": 'German Volleyball Association', "root['domestic_cup']": 'German Cup ,  German Super Cup'}, 'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '12'}}}
+81: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '9'}}}
+86: {'dictionary_item_added': {"root['administrator']": 'German Volleyball Association'}, 'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League ,  CEV Cup ,  CEV Challenge Cup', 'old_value': 'CEV Champions League ,  CEV Cup'}}}
+88: {'dictionary_item_removed': {"root['administrator']": 'German Volleyball Association'}, 'values_changed': {"root['confed_cup']": {'new_value': 'CEV Champions League ,  CEV Cup', 'old_value': 'CEV Champions League ,  CEV Cup ,  CEV Challenge Cup'}}}
+89: {'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '12'}}}
+100: {'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '9'}}}
+102: {'values_changed': {"root['domestic_cup']": {'new_value': 'German Cup ,  German Super Cup', 'old_value': 'German Volleyball Cup'}}}
+103: {'dictionary_item_removed': {"root['level']": '1'}}
+104: {'values_changed': {"root['level']": {'new_value': '1', 'old_value': 'League system'}}}
+108: {'dictionary_item_added': {"root['level']": 'League system', "root['domestic_cup']": 'German Volleyball Cup', "root['confed_cup']": 'CEV Champions League ,  CEV Cup ,  CEV Challenge Cup'}, 'values_changed': {"root['teams']": {'new_value': '9', 'old_value': '12'}}}
+110: {'dictionary_item_added': {"root['administrator']": 'German Volleyball Association'}, 'dictionary_item_removed': {"root['domestic_cup']": 'German Volleyball Cup', "root['confed_cup']": 'CEV Champions League ,  CEV Cup ,  CEV Challenge Cup'}, 'values_changed': {"root['teams']": {'new_value': '12', 'old_value': '9'}}}
+112: {'dictionary_item_removed': {"root['level']": 'League system', "root['administrator']": 'German Volleyball Association'}}
+113: {'values_changed': {"root['champion']": {'new_value': 'Berlin Recycling Volleys ,  (2021)', 'old_value': 'Berlin Recycling Volleys ,  (2022)'}}}
+116: {'dictionary_item_added': {"root['level']": 'League system', "root['administrator']": 'German Volleyball Association'}, 'values_changed': {"root['champion']": {'new_value': 'Berlin Recycling Volleys ,  (2022)', 'old_value': 'Berlin Recycling Volleys ,  (2021)'}}}
+118: {'dictionary_item_added': {"root['domestic_cup']": 'German Volleyball Cup'}, 'values_changed': {"root['champion']": {'new_value': 'Berlin Recycling Volleys ,  (2021)', 'old_value': 'Berlin Recycling Volleys ,  (2022)'}}}
+119: {'dictionary_item_removed': {"root['level']": 'League system', "root['administrator']": 'German Volleyball Association', "root['domestic_cup']": 'German Volleyball Cup'}}
+120: {'dictionary_item_removed': {"root['champ_season']": '2021-22'}, 'values_changed': {"root['current_season']": {'new_value': '2021-22 Volleyball-Bundesliga season', 'old_value': '2022-23 Volleyball-Bundesliga season'}, "root['champion']": {'new_value': 'Berlin Recycling Volleys ,  (2022)', 'old_value': 'Berlin Recycling Volleys'}}}

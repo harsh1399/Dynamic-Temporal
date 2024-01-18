@@ -1,0 +1,45 @@
+106: {'dictionary_item_removed': {"root['current_season']": '2008 College Basketball Invitational', "root['sport']": 'Basketball', "root['inaugural']": '2008', "root['teams']": '16', "root['champion']": "''Inaugural tournament''", "root['TV']": 'ESPN', "root['related_comps']": "NCAA Men's Division I Basketball Championship", "root['Founder']": 'The Gazelle Group '}}
+109: {'values_changed': {"root['TV']": {'new_value': 'ESPN', 'old_value': 'Fox College Sports'}}}
+122: {'values_changed': {"root['champion']": {'new_value': "''Inaugural tournament''", 'old_value': "''University of Tulsa''"}}}
+123: {'values_changed': {"root['champion']": {'new_value': "''University of Tulsa''", 'old_value': "''The University of Tulsa''"}}}
+125: {'values_changed': {"root['champion']": {'new_value': "''The University of Tulsa''", 'old_value': "''Inaugural tournament''"}}}
+126: {'values_changed': {"root['champion']": {'new_value': "''Inaugural tournament''", 'old_value': "Tulsa Golden Hurricane men's basketball"}}}
+142: {'dictionary_item_added': {"root['current_season']": '2008 College Basketball Invitational'}, 'values_changed': {"root['TV']": {'new_value': 'Fox College Sports', 'old_value': 'HD Net'}}}
+144: {'values_changed': {"root['TV']": {'new_value': 'HD Net', 'old_value': 'HDNet, Former TV Partner was Fox College Sports'}}}
+153: {'values_changed': {"root['related_comps']": {'new_value': "NCAA Men's Division I Basketball Championship", 'old_value': 'National Invitation Tournament, CollegeInsider.com Tournament'}}}
+154: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament, CollegeInsider.com Tournament', 'old_value': 'National Invitation Tournament, CollegeInsider.com Postseason Tournament'}}}
+155: {'values_changed': {"root['TV']": {'new_value': 'HDNet, Former TV Partner was Fox College Sports', 'old_value': 'HDNet, Fox College Sports (2008)'}}}
+158: {'values_changed': {"root['champion']": {'new_value': "Tulsa Golden Hurricane men's basketball", 'old_value': 'Oregon State'}}}
+163: {'dictionary_item_removed': {"root['most_champs']": 'University of Tulsa'}}
+165: {'values_changed': {"root['TV']": {'new_value': 'HDNet, Fox College Sports (2008)', 'old_value': 'HDNet Fox College Sports (2008)'}, "root['related_comps']": {'new_value': 'National Invitation Tournament, CollegeInsider.com Postseason Tournament', 'old_value': 'National Invitation Tournament CollegeInsider.com Postseason Tournament'}}}
+169: {'values_changed': {"root['champion']": {'new_value': 'Oregon State', 'old_value': "Pittsburgh Panthers men's basketball"}, "root['most_champs']": {'new_value': 'University of Tulsa', 'old_value': 'No team has more than 1'}}}
+170: {'values_changed': {"root['TV']": {'new_value': 'HDNet Fox College Sports (2008)', 'old_value': 'AXS TV Fox College Sports (2008)'}}}
+173: {'values_changed': {"root['champion']": {'new_value': "Pittsburgh Panthers men's basketball", 'old_value': "Santa Clara Broncos men's basketball"}}}
+182: {'values_changed': {"root['champion']": {'new_value': "Santa Clara Broncos men's basketball", 'old_value': "Siena Saints men's basketball"}}}
+192: {'values_changed': {"root['TV']": {'new_value': 'AXS TV Fox College Sports (2008)', 'old_value': 'CBS Sports Network'}}}
+193: {'dictionary_item_removed': {"root['current_season']": '2015'}}
+194: {'values_changed': {"root['current_season']": {'new_value': '2015', 'old_value': '2013 College Basketball Invitational'}}}
+195: {'values_changed': {"root['current_season']": {'new_value': '2013 College Basketball Invitational', 'old_value': '2015 College Basketball Invitational'}}}
+196: {'dictionary_item_added': {"root['TV']": 'CBS Sports Network'}, 'dictionary_item_removed': {"root['singles']": 'dabomb dot com'}, 'values_changed': {"root['current_season']": {'new_value': '2015 College Basketball Invitational', 'old_value': '2011 Basketball Invitational'}, "root['most_champs']": {'new_value': 'No team has more than 1', 'old_value': 'No than 1'}}}
+197: {'dictionary_item_added': {"root['singles']": 'dabomb dot com'}, 'dictionary_item_removed': {"root['TV']": 'CBS Sports Network'}, 'values_changed': {"root['current_season']": {'new_value': '2011 Basketball Invitational', 'old_value': '2015 College Basketball Invitational'}, "root['most_champs']": {'new_value': 'No than 1', 'old_value': 'No team has more than 1'}}}
+206: {'values_changed': {"root['champion']": {'new_value': "Siena Saints men's basketball", 'old_value': "Loyola Ramblers men's basketball"}}}
+216: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament CollegeInsider.com Postseason Tournament', 'old_value': 'National Invitation Tournament CollegeInsider.com Postseason Tournament, Vegas 16'}}}
+218: {'values_changed': {"root['TV']": {'new_value': 'CBS Sports Network', 'old_value': 'ESPNU College Basketball'}}}
+233: {'values_changed': {"root['current_season']": {'new_value': '2015 College Basketball Invitational', 'old_value': '2016 College Basketball Invitational'}}}
+235: {'values_changed': {"root['most_champs']": {'new_value': 'No team has more than 1', 'old_value': 'No team has more than one'}}}
+245: {'values_changed': {"root['most_champs']": {'new_value': 'No team has more than one', 'old_value': 'No team has more than one title.'}}}
+248: {'values_changed': {"root['champion']": {'new_value': "Loyola Ramblers men's basketball", 'old_value': "2015–16 Nevada Wolf Pack men's basketball team"}}}
+254: {'values_changed': {"root['current_season']": {'new_value': '2016 College Basketball Invitational', 'old_value': '2018 College Basketball Invitational'}, "root['champion']": {'new_value': "2015–16 Nevada Wolf Pack men's basketball team", 'old_value': "2017-18 North Texas Mean Green men's basketball team"}}}
+258: {'values_changed': {"root['current_season']": {'new_value': '2018 College Basketball Invitational', 'old_value': '2019 College Basketball Invitational'}}}
+264: {'values_changed': {"root['champion']": {'new_value': "2017-18 North Texas Mean Green men's basketball team", 'old_value': "2018–19 South Florida Bulls men's basketball team"}}}
+279: {'values_changed': {"root['current_season']": {'new_value': '2019 College Basketball Invitational', 'old_value': '2021 College Basketball Invitational'}}}
+290: {'values_changed': {"root['champion']": {'new_value': "2018–19 South Florida Bulls men's basketball team", 'old_value': "2020–21 Pepperdine Waves men's basketball team"}}}
+296: {'values_changed': {"root['current_season']": {'new_value': '2021 College Basketball Invitational', 'old_value': '2022 College Basketball Invitational'}}}
+297: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament CollegeInsider.com Postseason Tournament, Vegas 16', 'old_value': 'National Invitation Tournament The Basketball Classic, Vegas 16'}}}
+298: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament The Basketball Classic, Vegas 16', 'old_value': 'National Invitation Tournament The Basketball Classic, CollegeInsider.com Postseason Tournament, Vegas 16'}}}
+299: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament The Basketball Classic, CollegeInsider.com Postseason Tournament, Vegas 16', 'old_value': 'National Invitation Tournament The Basketball Classic'}}}
+300: {'values_changed': {"root['most_champs']": {'new_value': 'No team has more than one title.', 'old_value': 'No team has won more than one title'}}}
+309: {'values_changed': {"root['champion']": {'new_value': "2020–21 Pepperdine Waves men's basketball team", 'old_value': "2021–22 UNC Wilmington Seahawks men's basketball team"}}}
+320: {'values_changed': {"root['current_season']": {'new_value': '2022 College Basketball Invitational', 'old_value': '2023 College Basketball Invitational'}}}
+336: {'values_changed': {"root['related_comps']": {'new_value': 'National Invitation Tournament The Basketball Classic', 'old_value': "NCAA Division I men's basketball tournament National Invitation Tournament The Basketball Classic"}}}
+338: {'values_changed': {"root['champion']": {'new_value': "2021–22 UNC Wilmington Seahawks men's basketball team", 'old_value': "2022–23 Charlotte 49ers men's basketball team"}}}

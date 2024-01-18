@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['current_season']": '2012–13 Inter-National League season', "root['sport']": 'Ice hockey', "root['teams']": '7', "root['champion']": 'inaugural season', "root['most_champs']": 'inaugural season', "root['ceo']": 'Dr. Dieter Kalt'}}
+14: {'values_changed': {"root['current_season']": {'new_value': '2012–13 Inter-National League season', 'old_value': '2014-2015'}, "root['teams']": {'new_value': '7', 'old_value': '11'}, "root['champion']": {'new_value': 'inaugural season', 'old_value': 'HC Neumarkt-Egna'}, "root['most_champs']": {'new_value': 'inaugural season', 'old_value': 'EHC Bregenzerwald'}}}
+15: {'dictionary_item_added': {"root['current_season']": '2014-2015'}, 'values_changed': {"root['champion']": {'new_value': 'HC Neumarkt-Egna', 'old_value': 'EHC Lustenau'}}}
+22: {'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '9'}, "root['champion']": {'new_value': 'EHC Lustenau', 'old_value': 'EHC Bregenzerwald'}, "root['most_champs']": {'new_value': 'EHC Bregenzerwald', 'old_value': 'Bregenzerwald (2 titles)'}}}
+28: {'values_changed': {"root['ceo']": {'new_value': 'Dr. Dieter Kalt', 'old_value': 'Dieter Kalt'}}}
+35: {'dictionary_item_added': {"root['teams']": '9'}, 'dictionary_item_removed': {"root['last_season']": '2015–16 Inter-National League season', "root['folded']": 'Start date and age'}}
+37: {'dictionary_item_added': {"root['last_season']": '2015–16 Inter-National League season'}, 'values_changed': {"root['folded']": {'new_value': 'Start date and age', 'old_value': '2016'}}}

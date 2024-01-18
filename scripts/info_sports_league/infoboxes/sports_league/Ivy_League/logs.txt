@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ivy League', "root['short_name']": 'Ivies, Ancient Eight', "root['established']": '1954', "root['logo_size']": '100', "root['association']": 'NCAA', "root['division']": 'Division I', "root['subdivision']": 'Division I#Football Championship Subdivision', "root['members']": '8', "root['sports']": '33', "root['mens']": '17', "root['womens']": '16', "root['region']": 'Northeastern United States', "root['hq_city']": 'Princeton', "root['hq_stateabb']": 'NJ', "root['hq_state']": 'New Jersey', "root['commissioner']": 'Jeffrey H. Orleans', "root['since']": '1984', "root['color']": '006600', "root['font_color']": 'FFFFFF', "root['map']": 'Ivy League map.png', "root['map_size']": '250 '}}
+19: {'values_changed': {"root['established']": {'new_value': '1954', 'old_value': '1974'}}}
+20: {'values_changed': {"root['established']": {'new_value': '1974', 'old_value': '1954'}}}
+69: {'values_changed': {"root['map_size']": {'new_value': '250 ', 'old_value': '250rana thinks the map sucks '}}}
+70: {'values_changed': {"root['map_size']": {'new_value': '250rana thinks the map sucks ', 'old_value': '250 '}}}
+210: {'values_changed': {"root['map']": {'new_value': 'Ivy League map.png', 'old_value': 'Ivy League map.png P.S some are yale, Harvard,and pinceton...'}}}
+211: {'values_changed': {"root['map']": {'new_value': 'Ivy League map.png P.S some are yale, Harvard,and pinceton...', 'old_value': 'Ivy League map.png'}}}
+334: {'values_changed': {"root['commissioner']": {'new_value': 'Jeffrey H. Orleans', 'old_value': 'Robin Harris'}, "root['since']": {'new_value': '1984', 'old_value': 'July 1, 2009'}}}
+335: {'values_changed': {"root['since']": {'new_value': 'July 1, 2009', 'old_value': '2009'}}}
+404: {'values_changed': {"root['hq_city']": {'new_value': 'Princeton', 'old_value': 'Kansas'}}}
+405: {'values_changed': {"root['hq_stateabb']": {'new_value': 'NJ', 'old_value': 'Kansas City'}}}
+406: {'values_changed': {"root['hq_city']": {'new_value': 'Kansas', 'old_value': 'Princeton'}, "root['hq_stateabb']": {'new_value': 'Kansas City', 'old_value': 'NJ'}}}
+414: {'values_changed': {"root['hq_city']": {'new_value': 'Princeton', 'old_value': 'Kansas'}, "root['hq_stateabb']": {'new_value': 'NJ', 'old_value': 'kansas'}, "root['hq_state']": {'new_value': 'New Jersey', 'old_value': 'Jeanne'}}}
+415: {'values_changed': {"root['hq_state']": {'new_value': 'Jeanne', 'old_value': 'Joey'}}}
+416: {'values_changed': {"root['hq_city']": {'new_value': 'Kansas', 'old_value': 'Princeton'}, "root['hq_stateabb']": {'new_value': 'kansas', 'old_value': 'NJ'}, "root['hq_state']": {'new_value': 'Joey', 'old_value': 'New Jersey'}}}
+472: {'values_changed': {"root['members']": {'new_value': '8', 'old_value': '9'}}}
+473: {'values_changed': {"root['members']": {'new_value': '9', 'old_value': '8'}}}
+513: {'values_changed': {"root['map']": {'new_value': 'Ivy League map.png', 'old_value': 'Ivy League Map.svg'}}}
+615: {'dictionary_item_added': {"root['hq_stateabb']": 'NJ'}, 'values_changed': {"root['association']": {'new_value': 'NCAA', 'old_value': 'National Collegiate Athletic Association'}, "root['division']": {'new_value': 'Division I', 'old_value': 'Division I (NCAA)'}, "root['subdivision']": {'new_value': 'Division I#Football Championship Subdivision', 'old_value': 'NCAA Division I Football Championship'}, "root['map_size']": {'new_value': '250 ', 'old_value': '225 '}}}
+650: {'values_changed': {"root['logo_size']": {'new_value': '100', 'old_value': '200'}, "root['color']": {'new_value': '006600', 'old_value': '#115740'}, "root['font_color']": {'new_value': 'FFFFFF', 'old_value': '#FFFFFF'}}}

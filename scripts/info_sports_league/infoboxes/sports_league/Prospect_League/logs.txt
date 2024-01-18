@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['sport']": 'Baseball', "root['teams']": '11', "root['champion']": 'To be determined'}}
+35: {'values_changed': {"root['champion']": {'new_value': 'To be determined', 'old_value': 'Quincy Gems'}}}
+51: {'dictionary_item_removed': {"root['current_season']": '2021 Prospect League season', "root['formerly']": 'Central Illinois Collegiate League', "root['commissioner']": 'Dennis Bastien', "root['inaugural']": '2009', "root['headquarters']": 'Elkville, Illinois', "root['most_champs']": '3 Quincy Gems, West Virginia Miners', "root['tv']": 'Prospect League TV'}, 'values_changed': {"root['teams']": {'new_value': '11', 'old_value': '16'}, "root['champion']": {'new_value': 'Quincy Gems', 'old_value': 'Cape Catfish'}}}
+54: {'values_changed': {"root['current_season']": {'new_value': '2021 Prospect League season', 'old_value': '2022 Prospect League season'}}}
+57: {'values_changed': {"root['teams']": {'new_value': '16', 'old_value': '16 (17 in 2023)'}}}
+59: {'dictionary_item_added': {"root['most_champs']": '3 Quincy Gems, West Virginia Miners'}, 'dictionary_item_removed': {"root['champ_season']": '2021'}}
+72: {'values_changed': {"root['champion']": {'new_value': 'Cape Catfish', 'old_value': 'Chillicothe Paints'}, "root['champ_season']": {'new_value': '2021', 'old_value': '2022'}}}
+75: {'values_changed': {"root['teams']": {'new_value': '16 (17 in 2023)', 'old_value': '16 (18 in 2023)'}}}
+79: {'values_changed': {"root['teams']": {'new_value': '16 (18 in 2023)', 'old_value': '16 (17 in 2023)'}}}

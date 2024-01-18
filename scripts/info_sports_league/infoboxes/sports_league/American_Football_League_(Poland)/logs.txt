@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['sport']": 'American football', "root['ceo']": 'Marcin Wyszkowski', "root['inaugural']": '2018', "root['teams']": '19'}}
+4: {'dictionary_item_removed': {"root['champion']": 'Lowlanders Białystok', "root['most_champs']": 'Lowlanders Białystok (1)'}}
+10: {'values_changed': {"root['teams']": {'new_value': '19', 'old_value': '20'}}}
+11: {'values_changed': {"root['teams']": {'new_value': '20', 'old_value': '22'}, "root['champion']": {'new_value': 'Lowlanders Białystok', 'old_value': 'Panthers Wrocław'}, "root['most_champs']": {'new_value': 'Lowlanders Białystok (1)', 'old_value': 'Lowlanders Białystok, Panthers Wrocław (1)'}}}
+13: {'values_changed': {"root['teams']": {'new_value': '22', 'old_value': '6 (LFA 1)'}}}
+16: {'values_changed': {"root['most_champs']": {'new_value': 'Lowlanders Białystok, Panthers Wrocław (1)', 'old_value': 'Panthers Wrocław (2)'}}}

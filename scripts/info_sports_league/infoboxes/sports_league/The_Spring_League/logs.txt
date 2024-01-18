@@ -1,0 +1,30 @@
+2: {'dictionary_item_removed': {"root['sport']": 'American football', "root['inaugural']": 'dts', "root['ceo']": 'Brian Woods'}}
+17: {'dictionary_item_removed': {"root['TV']": 'Regional channels'}}
+31: {'dictionary_item_removed': {"root['teams']": '4'}, 'values_changed': {"root['TV']": {'new_value': 'Regional channels', 'old_value': 'Facebook'}}}
+59: {'values_changed': {"root['TV']": {'new_value': 'Facebook', 'old_value': 'Facebook, FLoFootball.com'}}}
+72: {'values_changed': {"root['TV']": {'new_value': 'Facebook, FLoFootball.com', 'old_value': 'Facebook, FLoFootball.com, Local TV stations'}}}
+80: {'dictionary_item_added': {"root['TV']": 'Facebook, FLoFootball.com, Local TV stations'}, 'dictionary_item_removed': {"root['cfo']": 'Ezra Levine   TV'}}
+83: {'dictionary_item_added': {"root['cfo']": 'Ezra Levine   TV'}, 'values_changed': {"root['ceo']": {'new_value': 'Brian Woods', 'old_value': 'Brian Woods, CFO Ezra Levine  TV'}}}
+84: {'values_changed': {"root['ceo']": {'new_value': 'Brian Woods, CFO Ezra Levine  TV', 'old_value': 'Brian Woods  TV'}}}
+85: {'dictionary_item_removed': {"root['TV']": 'Facebook, FLoFootball.com, Local TV stations'}, 'values_changed': {"root['ceo']": {'new_value': 'Brian Woods  TV', 'old_value': 'Brian Woods'}}}
+91: {'dictionary_item_removed': {"root['champion']": 'West', "root['related_comps']": 'Fall Experimental Football League'}, 'values_changed': {"root['TV']": {'new_value': 'Facebook, FLoFootball.com, Local TV stations', 'old_value': 'ubl'}}}
+102: {'values_changed': {"root['TV']": {'new_value': 'ubl', 'old_value': 'For the Fans (TV network)'}}}
+116: {'values_changed': {"root['teams']": {'new_value': '4', 'old_value': '4 (6 in 2020 fall-season)'}, "root['TV']": {'new_value': 'For the Fans (TV network)', 'old_value': 'Fox Sports 1, For the Fans (TV network)'}}}
+117: {'values_changed': {"root['TV']": {'new_value': 'Fox Sports 1, For the Fans (TV network)', 'old_value': 'Fox Sports 1, Eleven Sports (American TV network)'}}}
+132: {'dictionary_item_removed': {"root['classification']": 'Developmental league'}, 'values_changed': {"root['champion']": {'new_value': 'West', 'old_value': 'Las Vegas Hughes'}}}
+133: {'values_changed': {"root['classification']": {'new_value': 'Developmental league', 'old_value': 'Developmental (Pro showcase)'}}}
+162: {'values_changed': {"root['teams']": {'new_value': '4 (6 in 2020 fall-season)', 'old_value': '6'}}}
+164: {'values_changed': {"root['classification']": {'new_value': 'Developmental (Pro showcase)', 'old_value': 'Professional Football Development League'}, "root['TV']": {'new_value': 'Fox Sports 1, Eleven Sports (American TV network)', 'old_value': 'Fox Sports 1,'}}}
+166: {'values_changed': {"root['classification']": {'new_value': 'Professional Football Development League', 'old_value': 'Developmental (Pro showcase)'}, "root['TV']": {'new_value': 'Fox Sports 1,', 'old_value': 'Fox Sports 1, Eleven Sports (American TV network)'}}}
+194: {'values_changed': {"root['TV']": {'new_value': 'Fox Sports 1, Eleven Sports (American TV network)', 'old_value': 'Fox Sports 1'}}}
+232: {'dictionary_item_removed': {"root['current_season']": '2020 The Spring League Fall season '}}
+247: {'values_changed': {"root['teams']": {'new_value': '6', 'old_value': '8'}}}
+248: {'values_changed': {"root['champion']": {'new_value': 'Las Vegas Hughes', 'old_value': 'Generals'}, "root['current_season']": {'new_value': '2020 The Spring League Fall season ', 'old_value': '2021 The Spring League season '}}}
+253: {'values_changed': {"root['TV']": {'new_value': 'Fox Sports 1', 'old_value': 'Fox Broadcasting Company'}}}
+254: {'values_changed': {"root['TV']": {'new_value': 'Fox Broadcasting Company', 'old_value': 'Fox Sports (United States)'}}}
+308: {'values_changed': {"root['champion']": {'new_value': 'Generals', 'old_value': 'Linemen'}}}
+310: {'type_changes': {"root['TV']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fox Sports (United States)'}}}
+314: {'values_changed': {"root['related_comps']": {'new_value': 'Fall Experimental Football League', 'old_value': 'United States Football League (2022)'}}}
+321: {'dictionary_item_removed': {"root['folded']": 'dts'}}
+324: {'dictionary_item_added': {"root['current_season']": '2021 The Spring League season '}, 'dictionary_item_removed': {"root['last_season']": '| sport'}, 'values_changed': {"root['related_comps']": {'new_value': 'United States Football League (2022)', 'old_value': 'Fall Experimental Football League'}}}
+326: {'values_changed': {"root['last_season']": {'new_value': '| sport', 'old_value': '2021 The Spring League season '}}}
