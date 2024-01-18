@@ -1,0 +1,10 @@
+183: {'dictionary_item_removed': {"root['order']": '44th Premier of Victoria', "root['term_start']": '1999', "root['deputy']": 'John Thwaites', "root['constituency']": 'Williamstown', "root['party']": 'Australian Labor Party', "root['spouse']": 'Terry', "root['profession']": 'School commerce teacher', "root['religion']": 'Roman Catholic'}}
+321: {'dictionary_item_removed': {"root['favourite_beer']": 'Carlton Draught'}}
+350: {'dictionary_item_added': {"root['favourite_beer']": 'Carlton Draught'}, 'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Maronite Catholic'}}}
+358: {'dictionary_item_added': {"root['religion']": 'Maronite Catholic'}, 'dictionary_item_removed': {"root['term_end']": '2007'}}
+411: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': '30 July, 2007'}}}
+434: {'values_changed': {"root['spouse']": {'new_value': 'Terry', 'old_value': 'Terry Horsfall'}}}
+452: {'values_changed': {"root['term_end']": {'new_value': '30 July, 2007', 'old_value': '30 July 2007'}}}
+479: {'values_changed': {"root['term_start']": {'new_value': '1999', 'old_value': 'March, 1999'}}}
+480: {'values_changed': {"root['term_start']": {'new_value': 'March, 1999', 'old_value': 'October 19, 1999'}, "root['term_end']": {'new_value': '30 July 2007', 'old_value': 'July 30, 2007'}}}
+481: {'values_changed': {"root['term_start']": {'new_value': 'October 19, 1999', 'old_value': '19 October, 1999'}, "root['term_end']": {'new_value': 'July 30, 2007', 'old_value': '30 July, 2007'}}}

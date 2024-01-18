@@ -1,0 +1,16 @@
+77: {'dictionary_item_removed': {"root['name']": 'Sir Roger Bannister', "root['sport']": 'Track', "root['event']": '800m, 1500m, Mile', "root['pb']": "'''800 metres''': 1:50.7 ", "root['weight']": '11 st 0 lbs'}}
+108: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Bannister', 'old_value': 'Sir , Roger Bannister  '}}}
+145: {'values_changed': {"root['name']": {'new_value': 'Sir , Roger Bannister  ', 'old_value': ', Roger Bannister  '}}}
+147: {'values_changed': {"root['name']": {'new_value': ', Roger Bannister  ', 'old_value': 'Sir , Roger Bannister  '}}}
+180: {'dictionary_item_removed': {"root['residence']": 'dead'}}
+199: {'dictionary_item_added': {"root['residence']": 'dead'}, 'values_changed': {"root['name']": {'new_value': 'Sir , Roger Bannister  ', 'old_value': 'Roger Bannister'}}}
+205: {'values_changed': {"root['name']": {'new_value': 'Roger Bannister', 'old_value': 'Sir Roger Bannister'}}}
+206: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Bannister', 'old_value': 'Roger Bannister'}}}
+225: {'values_changed': {"root['weight']": {'new_value': '11 st 0 lbs', 'old_value': '70 kg'}}}
+231: {'values_changed': {"root['weight']": {'new_value': '70 kg', 'old_value': '11 st 0 lbs'}}}
+284: {'values_changed': {"root['name']": {'new_value': 'Roger Bannister', 'old_value': 'Sir Roger Bannister'}}}
+286: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Bannister', 'old_value': 'Sir Roger Poopfac'}}}
+287: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Poopfac', 'old_value': 'Sir Roger Bannister'}}}
+290: {'values_changed': {"root['weight']": {'new_value': '11 st 0 lbs', 'old_value': '70 kg'}}}
+315: {'values_changed': {"root['sport']": {'new_value': 'Track', 'old_value': 'Athletics/Track, Mid-distance running'}, "root['pb']": {'new_value': "'''800 metres''': 1:50.7 ", 'old_value': "'''1500 m:''' 3:43.8  |'''Mile:''' 3:58.8"}}}
+316: {'values_changed': {"root['sport']": {'new_value': 'Athletics/Track, Mid-distance running', 'old_value': 'Athletics/Track, Middle-distance running'}, "root['event']": {'new_value': '800m, 1500m, Mile', 'old_value': 'Mile, 800 metres, 1500 metres'}, "root['pb']": {'new_value': "'''1500 m:''' 3:43.8  |'''Mile:''' 3:58.8", 'old_value': "'''800 m:''' 1:50.7 (Brussels 1950) |'''1500 m:''' 3:43.8 (Bern 1954) |'''Mile:''' 3:58.8 (Vancouver 1954)"}}}

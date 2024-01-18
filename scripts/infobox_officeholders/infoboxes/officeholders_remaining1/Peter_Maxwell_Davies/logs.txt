@@ -1,0 +1,10 @@
+103: {'dictionary_item_removed': {"root['name']": 'Sir Peter Maxwell Davies'}}
+104: {'values_changed': {"root['name']": {'new_value': 'Sir Peter Maxwell Davies', 'old_value': 'Sir Peter Maxwell Davies '}}}
+150: {'dictionary_item_removed': {"root['occupations']": 'Composer, conductor'}}
+153: {'type_changes': {"root['occupations']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Composer', 'Conductor'], 'new_value': 'Composer, conductor'}}}
+158: {'dictionary_item_removed': {"root['list_of_works']": 'List of compositions '}}
+160: {'dictionary_item_added': {"root['occupations']": ['Composer', 'Conductor'], "root['list_of_works']": 'List of compositions '}, 'dictionary_item_removed': {"root['occupation']": ['Composer', 'Conductor'], "root['works']": 'List of compositions'}}
+161: {'iterable_item_removed': {"root['occupation'][2]": "Master of the Queen's Music"}}
+162: {'iterable_item_added': {"root['occupation'][2]": "Master of the Queen's Music"}}
+175: {'values_changed': {"root['name']": {'new_value': 'Sir Peter Maxwell Davies ', 'old_value': 'Peter Maxwell Davies'}}}
+192: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Composer, conductor', 'new_value': ['Composer', 'Conductor']}}, 'values_changed': {"root['name']": {'new_value': 'Peter Maxwell Davies', 'old_value': 'Sir Peter Maxwell Davies'}}}

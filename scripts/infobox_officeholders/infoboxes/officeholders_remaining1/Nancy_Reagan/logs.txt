@@ -1,0 +1,67 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Anne Frances Robbins', "root['order']": 'First Lady of the United States', "root['term_label']": 'In role', "root['term_start']": 'January 20, 1981', "root['term_end']": 'January 20, 1989', "root['order2']": 'First Lady of California', "root['term_label2']": 'In role', "root['term_start2']": 'January 3, 1967', "root['term_end2']": 'January 6, 1975', "root['predecessor2']": 'Bernice Layne Brown', "root['successor2']": 'Gloria Saatjian', "root['religion']": 'Presbyterian', "root['party']": 'Republican', "root['children']": 'Patti Davis, Ron Reagan Jr.', "root['relations']": 'Parents: Kenneth Seymour Robbins, Edith Luckett Davis   adopted by stepfather Loyal Davis', "root['alma_mater']": 'Smith College   (B.A.)'}}
+31: {'dictionary_item_added': {"root['birthname']": 'Anne Frances Robbins', "root['order']": 'First Lady of the United States', "root['term_label']": 'In role', "root['order2']": 'First Lady of California', "root['term_label2']": 'In role', "root['term_start2']": 'January 3, 1967', "root['term_end2']": 'January 6, 1975', "root['predecessor2']": 'Bernice Layne Brown', "root['successor2']": 'Gloria Saatjian', "root['relations']": 'Parents: Kenneth Seymour Robbins, Edith Luckett Davis   adopted by stepfather Loyal Davis'}, 'dictionary_item_removed': {"root['name']": 'Nancy Reagan', "root['office']": 'First Lady of the United States', "root['president']": 'Ronald Reagan', "root['office1']": 'First Lady of California', "root['governor1']": 'Ronald Reagan', "root['term_start1']": 'January 3, 1967', "root['term_end1']": 'January 6, 1975', "root['predecessor1']": 'Bernice Brown', "root['successor1']": 'Gloria Deukmejian', "root['spouse']": 'Ronald Reagan '}, 'values_changed': {"root['religion']": {'new_value': 'Presbyterian', 'old_value': 'Presbyterianism'}, "root['children']": {'new_value': 'Patti Davis, Ron Reagan Jr.', 'old_value': 'Patti, Ron'}, "root['alma_mater']": {'new_value': 'Smith College   (B.A.)', 'old_value': 'Smith College'}}}
+100: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan ', 'old_value': 'Ronald Reagan , (1952–2004; his death)'}}}
+142: {'values_changed': {"root['governor1']": {'new_value': 'Ronald Reagan', 'old_value': 'Barack Obama'}}}
+145: {'values_changed': {"root['governor1']": {'new_value': 'Barack Obama', 'old_value': 'Ronald Reagan'}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Donald Trump'}}}
+173: {'values_changed': {"root['name']": {'new_value': 'Donald Trump', 'old_value': 'Nancy Reagan'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Sex Ed Teacher #1'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'Sex Ed Teacher #1', 'old_value': 'Nancy Reagan'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Weird Hair Lady'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'Weird Hair Lady', 'old_value': 'Nancy Reagan'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': "Donald Trump's Mama"}}}
+191: {'values_changed': {"root['office']": {'new_value': 'First Lady of the United States', 'old_value': 'President of the United States'}, "root['term_end']": {'new_value': 'January 20, 1989', 'old_value': 'January 20, 2020'}}}
+192: {'values_changed': {"root['name']": {'new_value': "Donald Trump's Mama", 'old_value': 'Nancy Reagan'}}}
+193: {'values_changed': {"root['office']": {'new_value': 'President of the United States', 'old_value': 'First Lady of the United States'}, "root['term_end']": {'new_value': 'January 20, 2020', 'old_value': 'January 20, 1989'}}}
+194: {'values_changed': {"root['children']": {'new_value': 'Patti, Ron', 'old_value': 'Patti Davis, Ron Reagan'}}}
+195: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan , (1952–2004; his death)', 'old_value': 'Ronald Reagan, (1952–2004; his death)'}}}
+205: {'values_changed': {"root['office']": {'new_value': 'First Lady of the United States', 'old_value': 'Presidentof the United States'}}}
+206: {'values_changed': {"root['office']": {'new_value': 'Presidentof the United States', 'old_value': 'First Lady of the United States'}}}
+210: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan, (1952–2004; his death)', 'old_value': 'Ronald Reagan (1952–2004; his death)'}, "root['children']": {'new_value': 'Patti Davis, Ron Reagan', 'old_value': 'Patti Davis Ron Reagan'}}}
+212: {'values_changed': {"root['president']": {'new_value': 'Ronald Reagan', 'old_value': 'Ronald Reagan The President'}}}
+213: {'values_changed': {"root['president']": {'new_value': 'Ronald Reagan The President', 'old_value': 'Ronald Reagan'}}}
+254: {'dictionary_item_added': {"root['name']": 'Nancy Reagan', "root['term_end1']": 'January 6, 1975'}, 'dictionary_item_removed': {"root['death']": 'March 6, 2016 (aged 94)  Los Angeles, California, U.S | cause of'}}
+255: {'values_changed': {"root['death']": {'new_value': 'March 6, 2016 (aged 94)  Los Angeles, California, U.S | cause of', 'old_value': 'March 6, 2016 (aged 94)  Bel-Air, Los Angeles, California, U.S '}}}
+262: {'dictionary_item_added': {"root['death']": 'March 6, 2016 (aged 94)  Bel-Air, Los Angeles, California, U.S '}, 'dictionary_item_removed': {"root['name']": 'Nancy Reagan', "root['term_end1']": 'January 6, 1975'}, 'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan (1952–2004; his death)', 'old_value': 'Ronald Reagan , (1952–2004; his death)'}, "root['children']": {'new_value': 'Patti Davis Ron Reagan', 'old_value': 'Patti, Ron'}}}
+277: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan , (1952–2004; his death)', 'old_value': 'Ronald Reagan '}}}
+281: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan ', 'old_value': 'Ronald Reagan , (1952–2004; his death)'}}}
+357: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan , (1952–2004; his death)', 'old_value': 'Ronald Reagan '}}}
+363: {'values_changed': {"root['office1']": {'new_value': 'First Lady of California', 'old_value': 'First Lady of Californi'}}}
+364: {'values_changed': {"root['office1']": {'new_value': 'First Lady of Californi', 'old_value': 'First Lady of California'}}}
+367: {'dictionary_item_removed': {"root['burial']": 'March 19,2016'}}
+415: {'dictionary_item_added': {"root['burial']": 'March 19,2016'}, 'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Jeff'}}}
+416: {'values_changed': {"root['name']": {'new_value': 'Jeff', 'old_value': 'Nancy Reagan'}}}
+446: {'dictionary_item_removed': {"root['occupation']": 'Actress, Politician'}}
+447: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Patti', 'Ron'], 'new_value': 'Patti, Ron'}}, 'dictionary_item_added': {"root['occupation']": 'Actress, Politician'}}
+450: {'values_changed': {"root['term_end']": {'new_value': 'January 20, 1989', 'old_value': 'January 20, 1985'}, "root['term_end1']": {'new_value': 'January 6, 1975', 'old_value': 'January 6, 1972'}}}
+451: {'values_changed': {"root['term_end']": {'new_value': 'January 20, 1985', 'old_value': 'January 20, 1989'}}}
+452: {'values_changed': {"root['term_end1']": {'new_value': 'January 6, 1972', 'old_value': 'January 6, 1975'}}}
+461: {'dictionary_item_removed': {"root['occupation']": 'Actress'}}
+480: {'dictionary_item_added': {"root['occupation']": 'Actress'}, 'dictionary_item_removed': {"root['profession']": ['Stateswoman', 'actress']}, 'iterable_item_removed': {"root['children'][2]": 'Maureen (stepdaughter)', "root['children'][3]": 'Michael (stepson)'}}
+481: {'values_changed': {"root['children'][2]": {'new_value': 'Maureen (stepdaughter)', 'old_value': 'Maureen'}, "root['children'][3]": {'new_value': 'Michael (stepson)', 'old_value': 'Michael'}}}
+492: {'values_changed': {"root['children'][2]": {'new_value': 'Maureen', 'old_value': 'Maureen (stepdaughter)'}, "root['children'][3]": {'new_value': 'Michael', 'old_value': 'Michael (stepson)'}}}
+493: {'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan ', 'old_value': 'Ronald Reagan (m. 1952'}}}
+514: {'values_changed': {"root['term_start']": {'new_value': 'January 20, 1981', 'old_value': '20 January 1981'}, "root['term_end']": {'new_value': 'January 20, 1989', 'old_value': '20 January 1989'}, "root['term_start1']": {'new_value': 'January 3, 1967', 'old_value': '3 January 1967'}, "root['term_end1']": {'new_value': 'January 6, 1975', 'old_value': '6 January 1975'}}}
+517: {'values_changed': {"root['term_start']": {'new_value': '20 January 1981', 'old_value': 'January 20, 1981'}, "root['term_end']": {'new_value': '20 January 1989', 'old_value': 'January 20, 1989'}, "root['term_start1']": {'new_value': '3 January 1967', 'old_value': 'January 3, 1967'}, "root['term_end1']": {'new_value': '6 January 1975', 'old_value': 'January 6, 1975'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Nancy Breakfast'}}}
+521: {'values_changed': {"root['name']": {'new_value': 'Nancy Breakfast', 'old_value': 'Nancy Reagan'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Nancy Reagan Hi'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan Hi', 'old_value': 'Nancy Reagan'}}}
+534: {'values_changed': {"root['successor1']": {'new_value': 'Gloria Deukmejian', 'old_value': 'Gloria Deukmejian  '}}}
+536: {'dictionary_item_added': {"root['religion']": 'Presbyterianism', "root['profession']": ['Stateswoman', 'actress']}, 'dictionary_item_removed': {"root['occupation']": ['Patti', 'Ron', 'Maureen (stepdaughter)', 'Michael (stepson)  |parents   = Kenneth Seymour Robbins Edith Luckett Davis | alma_mater   = Smith College | religion     = Presbyterianism']}}
+538: {'dictionary_item_added': {"root['occupation']": ['Patti', 'Ron', 'Maureen (stepdaughter)', 'Michael (stepson)  |parents   = Kenneth Seymour Robbins Edith Luckett Davis | alma_mater   = Smith College | religion     = Presbyterianism']}, 'dictionary_item_removed': {"root['religion']": 'Presbyterianism', "root['profession']": ['Stateswoman', 'actress']}, 'values_changed': {"root['successor1']": {'new_value': 'Gloria Deukmejian  ', 'old_value': 'Gloria Deukmejian'}}}
+541: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Patti, Ron, Maureen ', 'new_value': ['Patti', 'Ron', 'Maureen (stepdaughter)', 'Michael (stepson)']}}, 'dictionary_item_added': {"root['profession']": ['Stateswoman', 'actress']}, 'values_changed': {"root['spouse']": {'new_value': 'Ronald Reagan (m. 1952', 'old_value': 'Ronald Reagan '}}}
+564: {'dictionary_item_removed': {"root['occupation']": 'Actress'}}
+634: {'dictionary_item_removed': {"root['term_label']": 'In role', "root['term_label1']": 'In role'}}
+635: {'values_changed': {"root['office']": {'new_value': 'First Lady of the United States', 'old_value': 'worst Lady of the United States'}}}
+636: {'values_changed': {"root['office']": {'new_value': 'worst Lady of the United States', 'old_value': 'First Lady of the United States'}}}
+637: {'values_changed': {"root['office']": {'new_value': 'First Lady of the United States', 'old_value': 'second Lady of the United States'}}}
+638: {'values_changed': {"root['office']": {'new_value': 'second Lady of the United States', 'old_value': 'First Lady of the United States'}}}
+684: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Margaret Jorgensen'}}}
+685: {'values_changed': {"root['name']": {'new_value': 'Margaret Jorgensen', 'old_value': 'Nancy Reagan'}}}
+692: {'dictionary_item_added': {"root['spouse']": 'Ronald Reagan '}, 'values_changed': {"root['children']": {'new_value': 'Patti, Ron, Maureen ', 'old_value': 'Michael '}}}
+706: {'values_changed': {"root['children']": {'new_value': 'Michael ', 'old_value': 'Michael Reagan '}}}
+708: {'values_changed': {"root['name']": {'new_value': 'Nancy Reagan', 'old_value': 'Nancy Reeagan'}}}
+709: {'values_changed': {"root['name']": {'new_value': 'Nancy Reeagan', 'old_value': 'Nancy Reagan'}}}
+731: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Patti Davis', 'Ron Reagan', 'Maureen Reagan', 'Michael Reagan'], 'new_value': 'Michael Reagan '}}}
+732: {'iterable_item_added': {"root['children'][2]": 'Maureen Reagan', "root['children'][3]": 'Michael Reagan'}}

@@ -1,0 +1,84 @@
+155: {'dictionary_item_removed': {"root['name']": 'Dilip Kumar', "root['occupation']": 'Actor, Producer, Director, Politician', "root['spouse']": 'Asmaa (1982 - ?) (divorced),,  Saira Banu (1966 - present)'}}
+166: {'dictionary_item_removed': {"root['residence']": 'Mumbai, Maharashtra, India', "root['religion']": 'Islam (Muslim) '}, 'values_changed': {"root['spouse']": {'new_value': 'Asmaa (1982 - ?) (divorced),,  Saira Banu (1966 - present)', 'old_value': 'Saira Banu (1966 - present)'}}}
+168: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dilip Kumarدلیپ کمار'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumarدلیپ کمار', 'old_value': 'Dilip Kumar'}}}
+240: {'values_changed': {"root['spouse']": {'new_value': 'Saira Banu (1966 - present)', 'old_value': 'Saira Banu (1966&ndash;present)'}}}
+254: {'values_changed': {"root['spouse']": {'new_value': 'Saira Banu (1966&ndash;present)', 'old_value': 'Saira Banu (1966–present)'}}}
+297: {'values_changed': {"root['religion']": {'new_value': 'Islam (Muslim) ', 'old_value': 'Islam '}}}
+305: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'bhkb k, b'}}}
+306: {'values_changed': {"root['name']": {'new_value': 'bhkb k, b', 'old_value': 'Dilip Kumar'}}}
+342: {'values_changed': {"root['religion']": {'new_value': 'Islam ', 'old_value': 'Hindu '}}}
+344: {'values_changed': {"root['religion']": {'new_value': 'Hindu ', 'old_value': "'''Hindu''' "}}}
+345: {'values_changed': {"root['religion']": {'new_value': "'''Hindu''' ", 'old_value': 'Islam '}}}
+351: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dilip Kapoor'}}}
+352: {'values_changed': {"root['name']": {'new_value': 'Dilip Kapoor', 'old_value': 'Dilip Kumar'}}}
+360: {'values_changed': {"root['religion']": {'new_value': 'Islam ', 'old_value': 'Hindu '}}}
+361: {'values_changed': {"root['religion']": {'new_value': 'Hindu ', 'old_value': 'Islam '}}}
+362: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dilip Kumar {Yusuf Khan}'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar {Yusuf Khan}', 'old_value': 'Dilip Kumar'}}}
+393: {'dictionary_item_added': {"root['religion']": 'Islam '}, 'dictionary_item_removed': {"root['ethnicity']": 'Hindko-speaking Awan'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Producer, Director, Politician', 'old_value': 'Film actor ,  Producer ,  Politician'}, "root['spouse']": {'new_value': 'Saira Banu (1966–present)', 'old_value': 'Saira Banu (1966–present) ,  Asma (1979–1982)'}}}
+394: {'dictionary_item_removed': {"root['religion']": 'Islam'}}
+398: {'values_changed': {"root['occupation']": {'new_value': 'Film actor ,  Producer ,  Politician', 'old_value': 'Film actor ,  Producer'}}}
+408: {'dictionary_item_removed': {"root['awards']": 'Padma Vibhushan 2015'}}
+438: {'values_changed': {"root['ethnicity']": {'new_value': 'Hindko-speaking Awan', 'old_value': 'pashto-speaking Yousafzai'}}}
+439: {'values_changed': {"root['ethnicity']": {'new_value': 'pashto-speaking Yousafzai', 'old_value': 'Hindko-speaking Awan'}}}
+448: {'values_changed': {"root['awards']": {'new_value': 'Padma Vibhushan 2015', 'old_value': 'Padma Vibhushan 2015  , Padma Bhushan 1991'}}}
+469: {'dictionary_item_added': {"root['religion']": 'Islam', "root['awards']": 'Padma Vibhushan 2015  , Padma Bhushan 1991'}, 'values_changed': {"root['ethnicity']": {'new_value': 'Hindko-speaking Awan', 'old_value': 'Hindko-speaking Awan<ref name'}}}
+470: {'dictionary_item_removed': {"root['religion']": 'Islam', "root['awards']": 'Padma Vibhushan 2015  , Padma Bhushan 1991'}, 'values_changed': {"root['ethnicity']": {'new_value': 'Hindko-speaking Awan<ref name', 'old_value': 'Hindko-speaking Awan'}}}
+518: {'values_changed': {"root['spouse']": {'new_value': 'Saira Banu (1966–present) ,  Asma (1979–1982)', 'old_value': 'Madhubala (1966–present) ,  Asma (1979–1982)'}}}
+519: {'values_changed': {"root['spouse']": {'new_value': 'Madhubala (1966–present) ,  Asma (1979–1982)', 'old_value': 'Saira Banu (1966–present) ,  Asma (1979–1982)'}}}
+522: {'values_changed': {"root['ethnicity']": {'new_value': 'Hindko-speaking Awan', 'old_value': 'Pashtun'}}}
+523: {'values_changed': {"root['ethnicity']": {'new_value': 'Pashtun', 'old_value': 'Hindko-speaking Awan'}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Muhammad Yusuf khan'}}}
+526: {'values_changed': {"root['name']": {'new_value': 'Muhammad Yusuf khan', 'old_value': 'Dilip Kumar'}}}
+529: {'values_changed': {"root['spouse']": {'new_value': 'Saira Banu (1966–present) ,  Asma (1979–1982)', 'old_value': 'Depika Chtirvedi (1966–present) ,  Asma (1979–1982)'}, "root['religion']": {'new_value': 'Islam', 'old_value': 'Hindu'}}}
+530: {'values_changed': {"root['spouse']": {'new_value': 'Depika Chtirvedi (1966–present) ,  Asma (1979–1982)', 'old_value': 'Saira Banu (1966–present) ,  Asma (1979–1982)'}, "root['religion']": {'new_value': 'Hindu', 'old_value': 'Islamp'}}}
+531: {'values_changed': {"root['religion']": {'new_value': 'Islamp', 'old_value': 'Islam'}}}
+542: {'values_changed': {"root['awards']": {'new_value': 'Padma Vibhushan 2015  , Padma Bhushan 1991', 'old_value': 'Pama Vibhushan 2015  , Padma Bhushan 1991'}}}
+543: {'values_changed': {"root['awards']": {'new_value': 'Pama Vibhushan 2015  , Padma Bhushan 1991', 'old_value': 'Padma Vibhushan 2015  , Padma Bhushan 1991'}}}
+553: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dilip sir'}}}
+554: {'values_changed': {"root['name']": {'new_value': 'Dilip sir', 'old_value': 'Dilip Kumar'}}}
+585: {'dictionary_item_added': {"root['religion']": 'Islam'}, 'values_changed': {"root['awards']": {'new_value': 'Padma Vibhushan 2015  , Padma Bhushan 1991', 'old_value': 'Dadasaheb Phalke Award in 1994, he was awarded the Nishan-e-Pakistan in 1998,Padma Vibhushan 2015  , Padma Bhushan 1991'}}}
+586: {'values_changed': {"root['awards']": {'new_value': 'Dadasaheb Phalke Award in 1994, he was awarded the Nishan-e-Pakistan in 1998,Padma Vibhushan 2015  , Padma Bhushan 1991', 'old_value': 'Dadasaheb Phalke Award in 1994, the Nishan-e-Pakistan award in 1998,Padma Vibhushan 2015   , Padma Bhushan 1991'}}}
+588: {'values_changed': {"root['awards']": {'new_value': 'Dadasaheb Phalke Award in 1994, the Nishan-e-Pakistan award in 1998,Padma Vibhushan 2015   , Padma Bhushan 1991', 'old_value': 'Dadasaheb Phalke Award in 1994, the Nishan-e-Pakistan award in 1998,Padma Vibhushan 2015   , Padma Bhushan 1991, Padma Vibhushan 13 January 2015'}}}
+589: {'values_changed': {"root['awards']": {'new_value': 'Dadasaheb Phalke Award in 1994, the Nishan-e-Pakistan award in 1998,Padma Vibhushan 2015   , Padma Bhushan 1991, Padma Vibhushan 13 January 2015', 'old_value': 'Padma Vibhushan (2015)    ,  Padma Bhushan (1991) ,  Dadasaheb Phalke Award (1994)'}}}
+590: {'values_changed': {"root['awards']": {'new_value': 'Padma Vibhushan (2015)    ,  Padma Bhushan (1991) ,  Dadasaheb Phalke Award (1994)', 'old_value': 'Padma Vibhushan (2015)    ,  Nishan-e-Imtiaz (1997) ,  Dadasaheb Phalke Award (1994) ,  Padma Bhushan (1991)'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Muddasser Najar Shaikh'}, "root['occupation']": {'new_value': 'Film actor ,  Producer', 'old_value': 'Teacher ,  Producer'}}}
+595: {'values_changed': {"root['name']": {'new_value': 'Muddasser Najar Shaikh', 'old_value': 'Dilip Kumar'}}}
+596: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Muddasser Najar Shaikh'}}}
+597: {'values_changed': {"root['name']": {'new_value': 'Muddasser Najar Shaikh', 'old_value': 'Dilip Kumar'}}}
+601: {'dictionary_item_added': {"root['awards']": 'Padma Vibhushan (2015)    ,  Nishan-e-Imtiaz (1997) ,  Dadasaheb Phalke Award (1994) ,  Padma Bhushan (1991)'}, 'values_changed': {"root['ethnicity']": {'new_value': 'Hindko-speaking Awan', 'old_value': 'Pashtun'}}}
+603: {'values_changed': {"root['ethnicity']": {'new_value': 'Pashtun', 'old_value': 'Hindko-speaking Awan'}}}
+605: {'dictionary_item_removed': {"root['awards']": 'Padma Bhushan (1991), Dadasaheb Phalke Award (1994), Nishan-e-Pakistan (1997),  , Padma Vibhushan'}}
+609: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan (1991), Dadasaheb Phalke Award (1994), Nishan-e-Pakistan (1997),  , Padma Vibhushan', 'old_value': 'Padma Bhushan (1991), Dadasaheb Phalke Award (1994), Nishan-e-Pakistan (1997),   Padma Vibhushan'}}}
+611: {'dictionary_item_added': {"root['spouse']": 'Saira Banu (1966–present) ,  Asma (1979–1982)', "root['residence']": 'Mumbai, Maharashtra, India', "root['ethnicity']": 'Hindko-speaking Awan'}, 'dictionary_item_removed': {"root['honours']": 'Padma Bhushan (1991), Nishan-e-Imtiaz (1998), Padma Vibhushan (2015)', "root['office']": 'Member of Parliament, Rajya Sabha', "root['constituency']": 'Maharashtra', "root['termstart']": '3 April 2000', "root['termend']": '2 April 2006  '}, 'values_changed': {"root['occupation']": {'new_value': 'Teacher ,  Producer', 'old_value': 'Actor, philanthropist'}, "root['awards']": {'new_value': 'Padma Bhushan (1991), Dadasaheb Phalke Award (1994), Nishan-e-Pakistan (1997),   Padma Vibhushan', 'old_value': 'Eight Filmfare Awards for Best Actor and, Dadasaheb Phalke Award (1994)'}}}
+646: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Mohammed Yusuf Khan "Dilip Kumar"'}}}
+648: {'values_changed': {"root['name']": {'new_value': 'Mohammed Yusuf Khan "Dilip Kumar"', 'old_value': 'Dilip Kumar'}, "root['occupation']": {'new_value': 'Actor, philanthropist', 'old_value': 'Film actor, philanthropist'}, "root['termstart']": {'new_value': '3 April 2000', 'old_value': '03 April 2000'}, "root['termend']": {'new_value': '2 April 2006  ', 'old_value': '02 April 2006  '}}}
+712: {'dictionary_item_removed': {"root['Died']": '6 JUNE 2021 '}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006  ', 'old_value': '02 April 2006 '}}}
+713: {'dictionary_item_added': {"root['Died']": '6 JUNE 2021 '}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006 ', 'old_value': '02 April 2006  '}}}
+714: {'dictionary_item_removed': {"root['Died']": 'Died:06 June 2021 '}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006  ', 'old_value': '02 April 2006 '}}}
+715: {'dictionary_item_added': {"root['Died']": 'Died:06 June 2021 '}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006 ', 'old_value': '02 April 2006  '}}}
+716: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Sir  Dilip Kumar'}}}
+717: {'values_changed': {"root['name']": {'new_value': 'Sir  Dilip Kumar', 'old_value': 'Dilip Kumar'}}}
+728: {'dictionary_item_added': {"root['occupation']": 'Film actor, philanthropist', "root['awards']": 'Eight Filmfare Awards for Best Actor and, Dadasaheb Phalke Award (1994)', "root['honours']": 'Padma Bhushan (1991), Nishan-e-Imtiaz (1998), Padma Vibhushan (2015)'}, 'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dili  Kumar'}}}
+729: {'values_changed': {"root['name']": {'new_value': 'Dili  Kumar', 'old_value': 'Dilip Kumar'}}}
+751: {'dictionary_item_removed': {"root['occupation']": ['Film actor', 'Philanthropist']}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006  ', 'old_value': '02 April 2006 '}}}
+756: {'values_changed': {"root['occupation'][0]": {'new_value': 'Film actor', 'old_value': 'Actor'}}, 'iterable_item_removed': {"root['occupation'][2]": 'Film producer'}}
+777: {'values_changed': {"root['termend']": {'new_value': '02 April 2006 ', 'old_value': "02 April 2006   '''Mohammed Yusuf Khan''', |"}}}
+786: {'values_changed': {"root['termend']": {'new_value': "02 April 2006   '''Mohammed Yusuf Khan''', |", 'old_value': '02 April 2006 '}}}
+790: {'values_changed': {"root['termend']": {'new_value': '02 April 2006 ', 'old_value': '02 April 2006  }'}}}
+809: {'values_changed': {"root['termend']": {'new_value': '02 April 2006  }', 'old_value': '02 April 2006  '}}}
+811: {'dictionary_item_removed': {"root['df']": 'y    Death- 7 July 2021,Mumbai'}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006  ', 'old_value': '02 April 2006  }'}}}
+814: {'dictionary_item_added': {"root['df']": 'y    Death- 7 July 2021,Mumbai'}, 'values_changed': {"root['termend']": {'new_value': '02 April 2006  }', 'old_value': '02 April 2006  '}}}
+879: {'dictionary_item_added': {"root['occupation']": ['Actor', 'Philanthropist', 'Film producer'], "root['office']": 'Member of Parliament, Rajya Sabha', "root['constituency']": 'Maharashtra', "root['termstart']": '03 April 2000', "root['termend']": '02 April 2006  '}, 'dictionary_item_removed': {"root['df']": 'yes '}}
+880: {'dictionary_item_added': {"root['df']": 'yes '}, 'dictionary_item_removed': {"root['occupation']": ['Actor', 'Philanthropist', 'Film producer'], "root['office']": 'Member of Parliament, Rajya Sabha', "root['constituency']": 'Maharashtra', "root['termstart']": '03 April 2000', "root['termend']": '02 April 2006  '}}
+910: {'values_changed': {"root['name']": {'new_value': 'Dilip Kumar', 'old_value': 'Dilllip Kumar'}}}
+913: {'values_changed': {"root['name']": {'new_value': 'Dilllip Kumar', 'old_value': 'Dilip Kumar'}}}
+937: {'values_changed': {"root['occupation'][1]": {'new_value': 'Philanthropist', 'old_value': 'film producer'}, "root['occupation'][2]": {'new_value': 'Film producer', 'old_value': 'philanthropist'}}}
+942: {'values_changed': {"root['occupation'][1]": {'new_value': 'film producer', 'old_value': 'Philanthropist'}, "root['occupation'][2]": {'new_value': 'philanthropist', 'old_value': 'Film producer'}}}
+944: {'values_changed': {"root['occupation'][1]": {'new_value': 'Philanthropist', 'old_value': 'film producer'}, "root['occupation'][2]": {'new_value': 'Film producer', 'old_value': 'philanthropist'}}}
+953: {'values_changed': {"root['termstart']": {'new_value': '03 April 2000', 'old_value': '3 April 2000'}, "root['termend']": {'new_value': '02 April 2006  ', 'old_value': '2 April 2006  '}}}
+957: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor Film producer Philanthropist', 'new_value': ['Actor', 'film producer', 'philanthropist']}}, 'dictionary_item_added': {"root['office']": 'Member of Parliament, Rajya Sabha', "root['constituency']": 'Maharashtra', "root['termstart']": '3 April 2000', "root['termend']": '2 April 2006  '}}
+958: {'dictionary_item_removed': {"root['office']": 'Member of Parliament, Rajya Sabha', "root['constituency']": 'Maharashtra', "root['termstart']": '3 April 2000', "root['termend']": '2 April 2006  '}}
+961: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Actor', 'film producer', 'philanthropist'], 'new_value': 'Actor Film producer Philanthropist'}}}
+965: {'iterable_item_added': {"root['occupation'][2]": 'philanthropist'}}

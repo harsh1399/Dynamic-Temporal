@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Elijah Muhammad', "root['order']": 'Leader of the Nation of Islam', "root['term_start']": '1934', "root['term_end']": '1975', "root['occupation']": 'Leader of the Nation of Islam', "root['children']": 'at least 22, (15 illegitimate, 7 legitimate) including Jabir, Warith, and Akbar', "root['religion']": 'Nation of Islam '}}
+3: {'values_changed': {"root['children']": {'new_value': 'at least 22, (15 illegitimate, 7 legitimate) including Jabir, Warith, and Akbar', 'old_value': 'at least 23, (15 illegitimate, 8 legitimate) including Jabir, Warith, and Akbar'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Elijah Muhammad', 'old_value': 'Elijah Mohamed'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Elijah Mohamed', 'old_value': 'Elijah Muhammad'}}}
+37: {'dictionary_item_removed': {"root['imagesize']": '2000'}}
+38: {'values_changed': {"root['imagesize']": {'new_value': '2000', 'old_value': '20000'}}}
+71: {'dictionary_item_added': {"root['imagesize']": '20000'}, 'values_changed': {"root['name']": {'new_value': 'Elijah Muhammad', 'old_value': 'Elijah Muhammad (false prophet )'}}}
+72: {'values_changed': {"root['name']": {'new_value': 'Elijah Muhammad (false prophet )', 'old_value': 'Elijah Muhammad'}}}
+78: {'values_changed': {"root['children']": {'new_value': 'at least 23, (15 illegitimate, 8 legitimate) including Jabir, Warith, and Akbar', 'old_value': '{8}'}}}
+80: {'values_changed': {"root['children']": {'new_value': '{8}', 'old_value': 'at least 23, (15 illegitimate, 8 legitimate) including Jabir, Warith, and Akbar'}}}
+93: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam ', 'old_value': 'Nation of Islam'}}}
+119: {'dictionary_item_added': {"root['religion']": 'Nation of Islam'}, 'values_changed': {"root['name']": {'new_value': 'Elijah Muhammad', 'old_value': 'Elijah Mohamad'}}}
+120: {'values_changed': {"root['name']": {'new_value': 'Elijah Mohamad', 'old_value': 'Elijah Muhammad'}}}

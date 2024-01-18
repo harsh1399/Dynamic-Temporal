@@ -1,0 +1,7 @@
+9: {'dictionary_item_removed': {"root['order']": '1st President of Abkhazia', "root['term_start']": '1994', "root['term_end']": 'February 12, 2005', "root['dead']": 'alive', "root['spouse']": 'Svetlana Djergenia'}}
+37: {'dictionary_item_removed': {"root['order2']": 'Member of the Soviet Parliament', "root['term_start2']": '1989', "root['term_end2']": '1991'}}
+41: {'values_changed': {"root['order2']": {'new_value': 'Member of the Soviet Parliament', 'old_value': 'Chairman of the Supreme Soviet in Abkhazia'}}}
+42: {'values_changed': {"root['order2']": {'new_value': 'Chairman of the Supreme Soviet in Abkhazia', 'old_value': 'Chairman of the Supreme Soviet of Abkhazia'}}}
+56: {'values_changed': {"root['term_start']": {'new_value': '1994', 'old_value': 'November 26, 1994'}}}
+57: {'dictionary_item_removed': {"root['order3']": 'Deputy of the Supreme Soviet', "root['term_start3']": '1987', "root['term_end3']": '1989'}}
+61: {'dictionary_item_removed': {"root['office']": 'President of Abkhazia'}, 'values_changed': {"root['order']": {'new_value': '1st President of Abkhazia', 'old_value': '1st'}, "root['term_start']": {'new_value': 'November 26, 1994', 'old_value': '26 November 1994'}, "root['term_end']": {'new_value': 'February 12, 2005', 'old_value': '12 February 2005'}, "root['spouse']": {'new_value': 'Svetlana Djergenia', 'old_value': 'Svetlana Jergenia'}}}

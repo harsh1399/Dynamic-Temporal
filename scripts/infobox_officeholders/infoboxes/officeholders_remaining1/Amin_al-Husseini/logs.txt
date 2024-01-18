@@ -1,0 +1,8 @@
+369: {'dictionary_item_removed': {"root['name']": 'Mohammad Amin al-Husayni', "root['term_start']": '1921', "root['term_end']": '1948', "root['title2']": 'President of Supreme Muslim Council', "root['term_start2']": '1922', "root['term_end2']": '1937', "root['party']": 'Arab Higher Committee', "root['religion']": 'Sunni Islam'}}
+672: {'dictionary_item_removed': {"root['profession']": 'Mufti '}, 'values_changed': {"root['name']": {'new_value': 'Mohammad Amin al-Husayni', 'old_value': 'Haj Amin al-Husseini'}, "root['term_end']": {'new_value': '1948', 'old_value': '1937'}, "root['title2']": {'new_value': 'President of Supreme Muslim Council', 'old_value': 'President of the Supreme Muslim Council'}, "root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Islam'}}}
+680: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Sunni Islam'}}}
+797: {'dictionary_item_removed': {"root['allegiance']": ['', '', '']}}
+798: {'iterable_item_removed': {"root['allegiance'][3]": ''}}
+799: {'iterable_item_added': {"root['allegiance'][1]": '', "root['allegiance'][2]": '', "root['allegiance'][3]": ''}}
+801: {'iterable_item_removed': {"root['allegiance'][1]": '', "root['allegiance'][2]": '', "root['allegiance'][3]": ''}}
+802: {'iterable_item_added': {"root['allegiance'][1]": '', "root['allegiance'][2]": '', "root['allegiance'][3]": ''}}

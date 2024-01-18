@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Claudia "Lady Bird" Johnson', "root['occupation']": 'First Lady of the United States', "root['spouse']": 'Lyndon B. Johnson', "root['children']": 'Lynda, Luci', "root['relations']": 'Thomas Jefferson Taylor and Minnie Pattillo '}}
+9: {'values_changed': {"root['children']": {'new_value': 'Lynda, Luci', 'old_value': 'Lynda and Luci'}}}
+565: {'dictionary_item_added': {"root['relations']": 'Thomas Jefferson Taylor and Minnie Pattillo '}, 'values_changed': {"root['name']": {'new_value': 'Claudia "Lady Bird" Johnson', 'old_value': 'Claudia "Man Whore" Johnson'}}}
+566: {'values_changed': {"root['name']": {'new_value': 'Claudia "Man Whore" Johnson', 'old_value': 'Claudia "Lady Bird" Johnson'}}}
+567: {'dictionary_item_removed': {"root['order']": 'First Lady of the United States', "root['term_start']": 'January 20, 1969', "root['term_end']": 'August 9, 1974'}}
+568: {'values_changed': {"root['occupation']": {'new_value': 'First Lady of the United States', 'old_value': 'First Lady of the United States, entrepreneur'}}}
+573: {'values_changed': {"root['term_start']": {'new_value': 'January 20, 1969', 'old_value': 'November 22, 1963'}, "root['term_end']": {'new_value': 'August 9, 1974', 'old_value': 'January 20, 1969'}}}
+585: {'dictionary_item_added': {"root['order']": 'First Lady of the United States', "root['term_start']": 'November 22, 1963', "root['term_end']": 'January 20, 1969'}, 'values_changed': {"root['occupation']": {'new_value': 'First Lady of the United States, entrepreneur', 'old_value': 'First Lady of the United States'}}}
+586: {'dictionary_item_removed': {"root['order']": 'First Lady of the United States', "root['term_start']": 'November 22, 1963', "root['term_end']": 'January 20, 1969'}, 'values_changed': {"root['occupation']": {'new_value': 'First Lady of the United States', 'old_value': 'First Lady of the United States, entrepreneur'}}}
+589: {'values_changed': {"root['name']": {'new_value': 'Claudia "Lady Bird" Johnson', 'old_value': 'poop'}}}
+590: {'values_changed': {"root['name']": {'new_value': 'poop', 'old_value': 'Claudia "Lady Bird" Johnson'}}}

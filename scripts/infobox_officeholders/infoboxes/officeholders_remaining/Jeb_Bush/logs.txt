@@ -1,0 +1,193 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jeb Bush', "root['order']": '43 rd', "root['office']": 'Governor of Florida', "root['term_start']": 'January 5, 1999', "root['term_end']": 'January 2, 2007', "root['lieutenant']": 'Frank Brogan (1999-2003)   Toni Jennings (2003&ndash;2007)', "root['spouse']": 'Columba Bush', "root['religion']": 'Roman Catholic', "root['profession']": 'Banking, Real estate', "root['party']": 'Republican'}}
+62: {'values_changed': {"root['profession']": {'new_value': 'Banking, Real estate', 'old_value': 'banking, real estate'}}}
+155: {'dictionary_item_added': {"root['office']": 'Governor of Florida', "root['profession']": 'banking, real estate'}, 'dictionary_item_removed': {"root['children']": 'George, Noelle, John Ellis', "root['alma_mater']": 'University of Texas at Austin'}, 'values_changed': {"root['order']": {'new_value': '43 rd', 'old_value': '43rd Governor of Florida'}, "root['lieutenant']": {'new_value': 'Frank Brogan (1999-2003)   Toni Jennings (2003&ndash;2007)', 'old_value': 'Frank Brogan, Toni Jennings'}, "root['spouse']": {'new_value': 'Columba Bush', 'old_value': 'Columba Garnica'}, "root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Episcopal '}}}
+171: {'values_changed': {"root['religion']": {'new_value': 'Episcopal ', 'old_value': 'Episcopalian '}}}
+172: {'dictionary_item_removed': {"root['order2']": 'Florida Secretary of Commerce', "root['term_start2']": '1987', "root['term_end2']": '1988'}}
+207: {'values_changed': {"root['term_start2']": {'new_value': '1987', 'old_value': '1986'}}}
+217: {'values_changed': {"root['lieutenant']": {'new_value': 'Frank Brogan, Toni Jennings', 'old_value': 'Frank Brogan  (1999&ndash;2003)  , Toni Jennings  (2003&ndash;2007)'}}}
+218: {'dictionary_item_removed': {"root['relations']": "''See Bush family''", "root['profession']": 'Banker, Consultant'}}
+308: {'dictionary_item_removed': {"root['governor2']": 'Bob Martinez'}}
+309: {'values_changed': {"root['term_start2']": {'new_value': '1986', 'old_value': 'January 6, 1987'}}}
+326: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Water Monopoly Bush'}}}
+327: {'values_changed': {"root['name']": {'new_value': 'Jeb Water Monopoly Bush', 'old_value': 'Jeb Bush'}}}
+328: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Water Monopoly Bush'}}}
+329: {'values_changed': {"root['name']": {'new_value': 'Jeb Water Monopoly Bush', 'old_value': 'Jeb Bush'}}}
+346: {'values_changed': {"root['lieutenant']": {'new_value': 'Frank Brogan  (1999&ndash;2003)  , Toni Jennings  (2003&ndash;2007)', 'old_value': 'Frank Brogan  (1999–2003)  , Toni Jennings  (2003–2007)'}}}
+348: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': "George Bush's evil brother"}}}
+349: {'values_changed': {"root['name']": {'new_value': "George Bush's evil brother", 'old_value': 'Jeb Bush'}}}
+352: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bin Laden'}}}
+353: {'values_changed': {"root['name']": {'new_value': 'Jeb Bin Laden', 'old_value': 'Jeb Bush'}}}
+355: {'values_changed': {"root['term_end2']": {'new_value': '1988', 'old_value': 'September 9, 1988'}}}
+360: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica', 'old_value': 'Columba Garnica Bush'}}}
+371: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica Bush', 'old_value': 'Columba Garnica Bush '}}}
+372: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica Bush ', 'old_value': 'Columba Garnica Bush ,  '}}}
+404: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb P Bush'}}}
+405: {'values_changed': {"root['name']": {'new_value': 'Jeb P Bush', 'old_value': 'Jeb Bush'}}}
+407: {'dictionary_item_added': {"root['order2']": 'Florida Secretary of Commerce', "root['term_start2']": 'January 6, 1987', "root['term_end2']": 'September 9, 1988', "root['governor2']": 'Bob Martinez', "root['profession']": 'Banker, Consultant'}, 'values_changed': {"root['lieutenant']": {'new_value': 'Frank Brogan  (1999–2003)  , Toni Jennings  (2003–2007)', 'old_value': 'Frank Brogan, Toni Jennings'}, "root['spouse']": {'new_value': 'Columba Garnica Bush ,  ', 'old_value': 'Columba Garnica'}, "root['alma_mater']": {'new_value': 'University of Texas at Austin', 'old_value': 'University of Texas, Austin'}, "root['religion']": {'new_value': 'Episcopalian ', 'old_value': 'Episcopalianism '}}}
+408: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica', 'old_value': 'Columba Garnica '}}}
+409: {'type_changes': {"root['party']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', "Bolick, Clint, Bush, Jeb. ''Immigration Wars: Forging an American Solution''. New York: Simon & Schuster. 2013.  ==References==", 'Barnes, Fred. http://www.weeklystandard.com/Content/Public/Articles/000/000/012/293ppytu.asp "Governor in Chief: Jeb Bush\'s remarkable eight years of achievement in Florida." \'\'The Weekly Standard\'\', June 12, 2006.', 'Freedberg, Sydney P. "Jeb Bush: The Son Rises Away from Dad\'s Shadow." \'\'The Miami Herald\'\', August 15, 1994.', 'Huffington, Arianna. http://www.salon.com/news/col/huff/2002/09/16/war_on_drugs/ "The latest Bush hypocrisy". Salon.com, September 16, 2002.', 'Viglucci, Andres and Alfonso Chardy. http://www.miami.com/mld/miami/4221945.htm "Bush and business: Fast success, brushes with mystery". \'\'The Miami Herald\'\', October 5, 2002.', 'Yardley, William. http://www.miami.com/mld/miamiherald/news/state/4124298.htm "Jeb Bush: His early values shape his politics." \'\'The Miami Herald\'\', September 22, 2002.  ==External links==', "http://www.museumoffloridahistory.com/resources/collections/governors/about.cfm?id=50 Official Governor's portrait and biography at the Museum of Florida History", '', 'http://www.biography.com/people/jeb-bush-201294 Jeb Bush at Biography.com', '', '', 'http://www.ontheissues.org/Jeb_Bush.htm Jeb Bush, On the Issues', "http://www.politifact.com/personalities/jeb-bush/ Jeb Bush's file at PolitiFact.com", "http://www.tampabay.com/topics/people/jeb-bush.page Jeb Bush collected news and commentary at the ''Tampa Bay Times''", ''], 'new_value': 'Republican'}}, 'dictionary_item_removed': {"root['NAME']": 'Bush, Jeb |ALTERNATIVE'}, 'values_changed': {"root['religion']": {'new_value': 'Episcopalianism ', 'old_value': 'Roman Catholicism'}}}
+410: {'type_changes': {"root['party']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Republican', 'new_value': ['', "Bolick, Clint, Bush, Jeb. ''Immigration Wars: Forging an American Solution''. New York: Simon & Schuster. 2013.  ==References==", 'Barnes, Fred. http://www.weeklystandard.com/Content/Public/Articles/000/000/012/293ppytu.asp "Governor in Chief: Jeb Bush\'s remarkable eight years of achievement in Florida." \'\'The Weekly Standard\'\', June 12, 2006.', 'Freedberg, Sydney P. "Jeb Bush: The Son Rises Away from Dad\'s Shadow." \'\'The Miami Herald\'\', August 15, 1994.', 'Huffington, Arianna. http://www.salon.com/news/col/huff/2002/09/16/war_on_drugs/ "The latest Bush hypocrisy". Salon.com, September 16, 2002.', 'Viglucci, Andres and Alfonso Chardy. http://www.miami.com/mld/miami/4221945.htm "Bush and business: Fast success, brushes with mystery". \'\'The Miami Herald\'\', October 5, 2002.', 'Yardley, William. http://www.miami.com/mld/miamiherald/news/state/4124298.htm "Jeb Bush: His early values shape his politics." \'\'The Miami Herald\'\', September 22, 2002.  ==External links==', "http://www.museumoffloridahistory.com/resources/collections/governors/about.cfm?id=50 Official Governor's portrait and biography at the Museum of Florida History", '', 'http://www.biography.com/people/jeb-bush-201294 Jeb Bush at Biography.com', '', '', 'http://www.ontheissues.org/Jeb_Bush.htm Jeb Bush, On the Issues', "http://www.politifact.com/personalities/jeb-bush/ Jeb Bush's file at PolitiFact.com", "http://www.tampabay.com/topics/people/jeb-bush.page Jeb Bush collected news and commentary at the ''Tampa Bay Times''", '']}}, 'dictionary_item_added': {"root['NAME']": 'Bush, Jeb |ALTERNATIVE'}, 'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism', 'old_value': 'Episcopalianism '}}}
+411: {'values_changed': {"root['religion']": {'new_value': 'Episcopalianism ', 'old_value': 'Roman Catholicism '}}}
+413: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism ', 'old_value': 'Episcopalianism '}}}
+414: {'dictionary_item_removed': {"root['order2']": 'Florida Secretary of Commerce', "root['term_start2']": 'January 6, 1987', "root['term_end2']": 'September 9, 1988', "root['governor2']": 'Bob Martinez', "root['profession']": 'Banker, Consultant'}, 'values_changed': {"root['lieutenant']": {'new_value': 'Frank Brogan, Toni Jennings', 'old_value': 'Frank Brogan  (1999–2003)  , Toni Jennings  (2003–2007)'}, "root['spouse']": {'new_value': 'Columba Garnica ', 'old_value': 'Columba Garnica Bush ,  '}, "root['alma_mater']": {'new_value': 'University of Texas, Austin', 'old_value': 'University of Texas at Austin'}, "root['religion']": {'new_value': 'Episcopalianism ', 'old_value': 'Episcopalian '}}}
+442: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica Bush ,  ', 'old_value': 'Columba Garnica de Bush ,  '}}}
+443: {'values_changed': {"root['spouse']": {'new_value': 'Columba Garnica de Bush ,  ', 'old_value': 'Columba Bush ,  '}}}
+446: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Evil brother'}}}
+450: {'values_changed': {"root['name']": {'new_value': 'Evil brother', 'old_value': 'Jeb Bush'}}}
+469: {'values_changed': {"root['religion']": {'new_value': 'Episcopalian ', 'old_value': 'Episcopal '}}}
+471: {'values_changed': {"root['religion']": {'new_value': 'Episcopal ', 'old_value': 'Episcopalian '}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush sucks rand paul is awsome save America and get rid of hilary clinton'}}}
+526: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush sucks rand paul is awsome save America and get rid of hilary clinton', 'old_value': 'Jeb Bush'}}}
+578: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}}}
+579: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}}}
+580: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}}}
+581: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}}}
+582: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}}}
+583: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}}}
+586: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+587: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}}}
+588: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+589: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+590: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+591: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+593: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+594: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+595: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+596: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+597: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+598: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+599: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+600: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+601: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+602: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+603: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+604: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+605: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Loser'}}}
+606: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Loser', 'old_value': 'Republican'}}}
+607: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Never invited to any'}}}
+608: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Never invited to any', 'old_value': 'Republican'}}}
+609: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Never invited to any'}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Never invited to any', 'old_value': 'Republican'}}}
+611: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Never invited to any'}}}
+612: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Never invited to any', 'old_value': 'Republican'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Never invited to any'}}}
+614: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Never invited to any', 'old_value': 'Republican'}}}
+615: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Another effing bush could be president? (all of america commits suicide)'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Never invited to any'}}}
+616: {'values_changed': {"root['name']": {'new_value': 'Another effing bush could be president? (all of america commits suicide)', 'old_value': 'Jeb Bush'}, "root['party']": {'new_value': 'Never invited to any', 'old_value': 'Republican'}}}
+617: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'John Ellis Bush'}}}
+618: {'values_changed': {"root['name']": {'new_value': 'John Ellis Bush', 'old_value': 'Jeb Bush'}}}
+717: {'values_changed': {"root['spouse']": {'new_value': 'Columba Bush ,  ', 'old_value': 'Charles Koch ,  '}}}
+718: {'values_changed': {"root['spouse']": {'new_value': 'Charles Koch ,  ', 'old_value': 'Columba Bush ,  '}}}
+746: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'John Bush'}}}
+747: {'values_changed': {"root['name']": {'new_value': 'John Bush', 'old_value': 'Jeb Bush'}}}
+767: {'values_changed': {"root['children']": {'new_value': 'George, Noelle, John Ellis', 'old_value': 'George Prescott, Noelle, John Ellis'}}}
+768: {'values_changed': {"root['children']": {'new_value': 'George Prescott, Noelle, John Ellis', 'old_value': 'George, Noelle, John Ellis'}}}
+783: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jev Bush'}}}
+785: {'values_changed': {"root['name']": {'new_value': 'Jev Bush', 'old_value': 'Jeb Bush'}}}
+813: {'dictionary_item_added': {"root['order']": '43rd Governor of Florida'}, 'dictionary_item_removed': {"root['office']": 'Governor of Florida'}}
+814: {'dictionary_item_added': {"root['office']": 'Governor of Florida'}, 'dictionary_item_removed': {"root['order']": '43rd Governor of Florida'}}
+817: {'dictionary_item_added': {"root['order']": '43rd Governor of Florida'}, 'dictionary_item_removed': {"root['office']": 'Governor of Florida'}}
+819: {'dictionary_item_added': {"root['order2']": 'Florida Secretary of Commerce'}, 'dictionary_item_removed': {"root['office2']": 'Florida Secretary of Commerce'}}
+825: {'dictionary_item_added': {"root['spouse']": 'Columba Bush ,  '}, 'dictionary_item_removed': {"root['residence']": 'Coral Gables, Florida'}}
+826: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Texas at Austin', 'old_value': 'University of Texas at Austin  (B.A.)'}}}
+828: {'values_changed': {"root['children']": {'new_value': 'George, Noelle, John Ellis', 'old_value': 'George Noelle John Ellis'}}}
+1009: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush GAYTONWOODS'}}}
+1010: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush GAYTONWOODS', 'old_value': 'Jeb Bush'}}}
+1023: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush-The Greatest Man Ever'}}}
+1024: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush-The Greatest Man Ever', 'old_value': 'Jeb Bush'}}}
+1034: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+1035: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}
+1037: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush (asshole)'}}}
+1038: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush (asshole)', 'old_value': 'Jeb Bush'}}}
+1049: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush BRUH'}}}
+1050: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush BRUH', 'old_value': 'Jeb Bush'}}}
+1126: {'values_changed': {"root['children']": {'new_value': 'George Noelle John Ellis', 'old_value': 'Alex Strand Noelle John Ellis'}}}
+1128: {'values_changed': {"root['children']": {'new_value': 'Alex Strand Noelle John Ellis', 'old_value': 'George Noelle John Ellis'}}}
+1139: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'RINO Randy'}}}
+1140: {'values_changed': {"root['name']": {'new_value': 'RINO Randy', 'old_value': 'Jeb Bush'}}}
+1152: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bushy'}}}
+1154: {'values_changed': {"root['name']": {'new_value': 'Jeb Bushy', 'old_value': 'Jeb Bush'}}}
+1160: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+1161: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Republican'}}}
+1168: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Socialist'}}}
+1169: {'values_changed': {"root['party']": {'new_value': 'Socialist', 'old_value': 'Republican'}}}
+1212: {'values_changed': {"root['children']": {'new_value': 'George Noelle John Ellis', 'old_value': 'George, Noelle, and John Jr.'}}}
+1214: {'values_changed': {"root['office']": {'new_value': 'Governor of Florida', 'old_value': 'President of Florida'}}}
+1215: {'values_changed': {"root['office']": {'new_value': 'President of Florida', 'old_value': 'Governor of Florida'}}}
+1221: {'values_changed': {"root['term_start']": {'new_value': 'January 5, 1999', 'old_value': 'January 5, 1977'}, "root['term_end']": {'new_value': 'January 2, 2007', 'old_value': 'January 2, 2300'}, "root['lieutenant']": {'new_value': 'Frank Brogan  (1999–2003)  , Toni Jennings  (2003–2007)', 'old_value': 'Frank Brogan  (1889–2020)  , Toni Jennings  (2003–2007)'}, "root['term_start2']": {'new_value': 'January 6, 1987', 'old_value': 'January 6, 1890'}}}
+1222: {'values_changed': {"root['term_start']": {'new_value': 'January 5, 1977', 'old_value': 'January 5, 1999'}, "root['term_end']": {'new_value': 'January 2, 2300', 'old_value': 'January 2, 2007'}, "root['lieutenant']": {'new_value': 'Frank Brogan  (1889–2020)  , Toni Jennings  (2003–2007)', 'old_value': 'Frank Brogan  (1999–2003)  , Toni Jennings  (2003–2007)'}, "root['term_start2']": {'new_value': 'January 6, 1890', 'old_value': 'January 6, 1987'}}}
+1233: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Hairy-Bush'}}}
+1235: {'values_changed': {"root['name']": {'new_value': 'Jeb Hairy-Bush', 'old_value': 'Jeb Bush'}}}
+1236: {'values_changed': {"root['office']": {'new_value': 'Governor of Florida', 'old_value': 'Governor of Floridick'}}}
+1237: {'values_changed': {"root['office']": {'new_value': 'Governor of Floridick', 'old_value': 'Governor of Florida'}}}
+1250: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Emmanuel ndebele'}}}
+1253: {'values_changed': {"root['name']": {'new_value': 'Emmanuel ndebele', 'old_value': 'Jeb Bush'}}}
+1254: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Emmanuel ndebele'}, "root['office']": {'new_value': 'Governor of Florida', 'old_value': 'Governor of Islamic State'}}}
+1255: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican |spouse'}}}
+1256: {'values_changed': {"root['name']": {'new_value': 'Emmanuel ndebele', 'old_value': 'Jeb Bush'}, "root['office']": {'new_value': 'Governor of Islamic State', 'old_value': 'Governor of Florida'}, "root['party']": {'new_value': 'Republican |spouse', 'old_value': 'Republican'}}}
+1259: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush |image  ISIS       ='}}}
+1260: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush |image  ISIS       =', 'old_value': 'Jeb Bush'}}}
+1302: {'values_changed': {"root['term_start']": {'new_value': 'January 5, 1999', 'old_value': 'January 9, 2002'}}}
+1303: {'values_changed': {"root['term_start']": {'new_value': 'January 9, 2002', 'old_value': 'January 5, 1999'}}}
+1323: {'values_changed': {"root['profession']": {'new_value': 'Banker, Consultant', 'old_value': 'Liengerie model, Hooters Waitress'}}}
+1324: {'values_changed': {"root['profession']": {'new_value': 'Liengerie model, Hooters Waitress', 'old_value': 'Banker, Consultant'}}}
+1325: {'values_changed': {"root['profession']": {'new_value': 'Banker, Consultant', 'old_value': 'lingerie model, Hooters Waitress'}}}
+1326: {'values_changed': {"root['profession']": {'new_value': 'lingerie model, Hooters Waitress', 'old_value': 'Banker, Consultant'}}}
+1329: {'values_changed': {"root['term_start']": {'new_value': 'January 5, 1999', 'old_value': 'January 5, 6669'}}}
+1330: {'values_changed': {"root['term_start']": {'new_value': 'January 5, 6669', 'old_value': 'January 5, 1999'}}}
+1335: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush is a communist'}}}
+1336: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush is a communist', 'old_value': 'Jeb Bush'}}}
+1338: {'values_changed': {"root['office']": {'new_value': 'Governor of Florida', 'old_value': 'President of the United States'}, "root['term_start']": {'new_value': 'January 5, 1999', 'old_value': 'January 20, 2017'}, "root['term_end']": {'new_value': 'January 2, 2007', 'old_value': 'January 20, 2025'}}}
+1339: {'values_changed': {"root['office']": {'new_value': 'President of the United States', 'old_value': 'Governor of Florida'}, "root['term_start']": {'new_value': 'January 20, 2017', 'old_value': 'January 5, 1999'}, "root['term_end']": {'new_value': 'January 20, 2025', 'old_value': 'January 2, 2007'}}}
+1352: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'John Bush'}}}
+1353: {'values_changed': {"root['office']": {'new_value': 'Governor of Florida', 'old_value': 'Loser of Florida'}}}
+1354: {'values_changed': {"root['name']": {'new_value': 'John Bush', 'old_value': 'Jeb Bush'}, "root['office']": {'new_value': 'Loser of Florida', 'old_value': 'Governor of Florida'}}}
+1355: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb'}}}
+1357: {'values_changed': {"root['name']": {'new_value': 'Jeb', 'old_value': 'Jeb Bush'}}}
+1359: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb! Bush'}}}
+1360: {'values_changed': {"root['name']": {'new_value': 'Jeb! Bush', 'old_value': 'Jeb Bush'}}}
+1373: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Locklear Bush'}, "root['relations']": {'new_value': "''See Bush family''", 'old_value': "''See Bush-Locklear family''"}}}
+1374: {'values_changed': {"root['name']": {'new_value': 'Jeb Locklear Bush', 'old_value': 'Jeb Bush'}, "root['relations']": {'new_value': "''See Bush-Locklear family''", 'old_value': "''See Bush family''"}}}
+1378: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Taco Salad'}}}
+1379: {'values_changed': {"root['name']": {'new_value': 'Taco Salad', 'old_value': 'Jeb Bush'}}}
+1380: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Taco Salad'}}}
+1381: {'values_changed': {"root['name']": {'new_value': 'Taco Salad', 'old_value': 'Jeb Bush'}}}
+1382: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'pimp master 24 7'}}}
+1383: {'values_changed': {"root['name']": {'new_value': 'pimp master 24 7', 'old_value': 'Jeb Bush'}}}
+1390: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'im the real bush'}}}
+1391: {'values_changed': {"root['name']": {'new_value': 'im the real bush', 'old_value': 'Jeb Bush'}}}
+1392: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Feel The Bern'}, "root['office']": {'new_value': 'Governor of Florida', 'old_value': 'Governor of Le Bern'}}}
+1393: {'values_changed': {"root['name']": {'new_value': 'Feel The Bern', 'old_value': 'jeb bush'}}}
+1394: {'values_changed': {"root['name']": {'new_value': 'jeb bush', 'old_value': 'Bernie Bi0tch'}}}
+1395: {'values_changed': {"root['name']": {'new_value': 'Bernie Bi0tch', 'old_value': 'Jeb Bush'}}}
+1396: {'values_changed': {"root['office']": {'new_value': 'Governor of Le Bern', 'old_value': 'Governor of Florida'}}}
+1397: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Bob Kitchener'}, "root['office']": {'new_value': 'Governor of Florida', 'old_value': 'Booty hole'}}}
+1398: {'values_changed': {"root['name']": {'new_value': 'Bob Kitchener', 'old_value': 'Jeb Bush'}, "root['office']": {'new_value': 'Booty hole', 'old_value': 'Governor of Florida'}}}
+1402: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'John Ellis Bush  (Jeb Bush)'}}}
+1404: {'values_changed': {"root['name']": {'new_value': 'John Ellis Bush  (Jeb Bush)', 'old_value': 'Jeb Bush'}}}
+1405: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': "George's Bush's brother"}}}
+1406: {'values_changed': {"root['name']": {'new_value': "George's Bush's brother", 'old_value': "George's Bush's Brother"}}}
+1407: {'values_changed': {"root['name']": {'new_value': "George's Bush's Brother", 'old_value': 'Jeb Bush'}}}
+1424: {'dictionary_item_removed': {"root['siblings']": 'Two younger brothers Neil,Marvin, and a younger sister Dorothy and one older brother George.'}}
+1431: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb the much smarter Bush'}}}
+1433: {'values_changed': {"root['name']": {'new_value': 'Jeb the much smarter Bush', 'old_value': 'Jeb Bush'}}}
+1446: {'values_changed': {"root['term_end']": {'new_value': 'January 2, 2007', 'old_value': 'January 5, 2007'}}}
+1447: {'values_changed': {"root['term_end']": {'new_value': 'January 5, 2007', 'old_value': 'January 2, 2007'}}}
+1457: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb Bush brother did 9/11'}}}
+1458: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush brother did 9/11', 'old_value': 'Jeb Bush'}}}
+1459: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Dana meridith'}}}
+1460: {'values_changed': {"root['name']": {'new_value': 'Dana meridith', 'old_value': 'Jeb Bush'}}}
+1470: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb "Warm Kiss" Bush'}}}
+1471: {'values_changed': {"root['name']": {'new_value': 'Jeb "Warm Kiss" Bush', 'old_value': 'Jeb Bush'}}}
+1482: {'values_changed': {"root['term_end']": {'new_value': 'January 2, 2007', 'old_value': 'January 5, 2007'}}}
+1495: {'values_changed': {"root['siblings']": {'new_value': 'Two younger brothers Neil,Marvin, and a younger sister Dorothy and one older brother George.', 'old_value': 'Three younger brothers Neil, Marvin, Yasser and a younger sister Dorothy and one older brother George.'}}}
+1496: {'values_changed': {"root['siblings']": {'new_value': 'Three younger brothers Neil, Marvin, Yasser and a younger sister Dorothy and one older brother George.', 'old_value': 'Two younger brothers Neil,Marvin, and a younger sister Dorothy and one older brother George.'}}}
+1497: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Jeb! Bush'}}}
+1501: {'values_changed': {"root['name']": {'new_value': 'Jeb! Bush', 'old_value': 'Jeb Bush'}}}
+1511: {'values_changed': {"root['name']": {'new_value': 'Jeb Bush', 'old_value': 'Oh ohhhhhhhhh'}}}
+1512: {'values_changed': {"root['name']": {'new_value': 'Oh ohhhhhhhhh', 'old_value': 'Jeb Bush'}}}
+1517: {'values_changed': {"root['children']": {'new_value': 'George, Noelle, and John Jr.', 'old_value': 'George, Noelle, and John Jr. |uncle, aunt       = George H. W. Bush, Barbara Pierce Bush'}}}
+1518: {'values_changed': {"root['children']": {'new_value': 'George, Noelle, and John Jr. |uncle, aunt       = George H. W. Bush, Barbara Pierce Bush', 'old_value': 'George, Noelle, and John Jr.'}}}

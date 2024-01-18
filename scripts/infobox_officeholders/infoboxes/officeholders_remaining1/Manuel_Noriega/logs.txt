@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Manuel Noriega', "root['order']": 'Maximum Leader of National Liberation', "root['order2']": 'Military Leader of Panama', "root['term2']": 'August 12, 1983 – December 20, 1989', "root['president2']": 'Ricardo de la Espriella Jorge Illueca Nicolás Ardito Barletta Vallarino Eric Arturo Delvalle Manuel Solís Francisco Rodríguez', "root['predecessor2']": 'Rubén Darío Paredes', "root['successor2']": 'Office abolished', "root['spouse']": 'Felicidad Sieiro de Noriega', "root['children']": '3', "root['alma_mater']": 'Chorrillos Military School School of the Americas', "root['branch']": 'Panamanian Defense Forces', "root['serviceyears']": '1967–1990', "root['rank']": 'General', "root['commands']": 'Panamanian Defense Forces', "root['battles']": ['Operation Acid Gambit']}}
+4: {'dictionary_item_removed': {"root['religion']": 'Roman Catholicism'}}
+19: {'values_changed': {"root['name']": {'new_value': 'Manuel Noriega', 'old_value': 'Manuel Noriega   | thumb'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Manuel Noriega   | thumb', 'old_value': 'Manuel Noriega   thumb'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Manuel Noriega   thumb', 'old_value': 'Manuel Noriega'}}}
+44: {'dictionary_item_removed': {"root['awards']": " '''Manuel Antonio Noriega Moreno''' |"}}
+46: {'values_changed': {"root['awards']": {'new_value': " '''Manuel Antonio Noriega Moreno''' |", 'old_value': '}'}}}
+100: {'dictionary_item_added': {"root['awards']": '}'}, 'values_changed': {"root['order']": {'new_value': 'Maximum Leader of National Liberation', 'old_value': 'Maximum Leader of National Liberation '}}}
+114: {'values_changed': {"root['successor2']": {'new_value': 'Office abolished', 'old_value': "''Office abolished''"}}}
+177: {'dictionary_item_added': {"root['religion']": 'Roman Catholicism'}, 'values_changed': {"root['president2']": {'new_value': 'Ricardo de la Espriella Jorge Illueca Nicolás Ardito Barletta Vallarino Eric Arturo Delvalle Manuel Solís Francisco Rodríguez', 'old_value': 'Ricardo de la Espriella, Jorge Illueca, Nicolás Ardito Barletta Vallarino, Eric Arturo Delvalle, Manuel Solís, Francisco Rodríguez'}}}
+186: {'values_changed': {"root['serviceyears']": {'new_value': '1967–1990', 'old_value': '1956–1990'}}}
+187: {'values_changed': {"root['serviceyears']": {'new_value': '1956–1990', 'old_value': '1967–1990'}}}
+213: {'dictionary_item_removed': {"root['allegiance']": 'Panama'}}
+216: {'values_changed': {"root['successor2']": {'new_value': "''Office abolished''", 'old_value': 'Guillermo Endara (as President of Panama)'}}}
+218: {'values_changed': {"root['order']": {'new_value': 'Maximum Leader of National Liberation ', 'old_value': 'Maximum Leader of the National Liberation '}}}
+241: {'type_changes': {"root['battles']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Invasion of Panama', 'new_value': ['Operation Acid Gambit']}}, 'dictionary_item_added': {"root['successor2']": 'Guillermo Endara (as President of Panama)'}}
+286: {'values_changed': {"root['president2']": {'new_value': 'Ricardo de la Espriella, Jorge Illueca, Nicolás Ardito Barletta Vallarino, Eric Arturo Delvalle, Manuel Solís, Francisco Rodríguez', 'old_value': 'Ricardo de la Espriella, Jorge Illueca, Nicolás Ardito Barletta Vallarino, Eric Arturo Delvalle, Manuel Solís Palma, Francisco Rodríguez'}}}

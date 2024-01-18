@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'William Kristol', "root['religion']": 'Jewish', "root['occupation']": 'Publisher, Author, Columnist, Analyst, Political commentator', "root['alma_mater']": 'Harvard College', "root['spouse']": 'Susan Scheinberg', "root['children']": '3 '}}
+25: {'dictionary_item_removed': {"root['office']": 'Chief of Staff to the Vice President of the United States', "root['term_start']": '1989', "root['term_end']": '1993', "root['vicepresident']": 'Dan Quayle'}, 'values_changed': {"root['occupation']": {'new_value': 'Publisher, Author, Columnist, Analyst, Political commentator', 'old_value': 'Publisher ,  Professor ,  Pundit'}, "root['alma_mater']": {'new_value': 'Harvard College', 'old_value': 'Harvard University'}}}
+26: {'values_changed': {"root['term_start']": {'new_value': '1989', 'old_value': 'January 20, 1989'}, "root['term_end']": {'new_value': '1993', 'old_value': 'January 20, 1993'}}}
+49: {'dictionary_item_added': {"root['religion']": 'Jewish', "root['occupation']": 'Publisher ,  Professor ,  Pundit', "root['alma_mater']": 'Harvard University', "root['spouse']": 'Susan Scheinberg'}, 'dictionary_item_removed': {"root['party']": 'Republican', "root['education']": 'Harvard University (BA, MA, PhD) '}, 'values_changed': {"root['name']": {'new_value': 'William Kristol', 'old_value': 'Bill Kristol'}, "root['office']": {'new_value': 'Chief of Staff to the Vice President of the United States', 'old_value': 'Chief of Staff to the Vice President'}, "root['children']": {'new_value': '3 ', 'old_value': '3'}}}
+54: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+55: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Republican'}}}
+56: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+60: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Democrat (since 2020), Republican (before 2020)'}}}
+61: {'dictionary_item_removed': {"root['otherparty']": 'Republican (before 2020)'}, 'values_changed': {"root['party']": {'new_value': 'Democrat (since 2020), Republican (before 2020)', 'old_value': 'Democratic (since 2020)'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'Bill Kristol', 'old_value': 'William Kristol'}}}
+69: {'dictionary_item_added': {"root['otherparty']": 'Republican (before 2020)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (since 2020)', 'old_value': 'Republican'}}}
+71: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+73: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democratic Party'}}}
+74: {'values_changed': {"root['party']": {'new_value': 'Democratic Party', 'old_value': 'Republican'}}}
+75: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+76: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}
+83: {'dictionary_item_removed': {"root['otherparty']": 'Republican (until 2020)'}, 'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic (2020–)'}}}
+84: {'dictionary_item_added': {"root['otherparty']": 'Republican (until 2020)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (2020–)', 'old_value': 'Republican (Before 2020), Democratic (2020–present)'}}}
+89: {'values_changed': {"root['party']": {'new_value': 'Republican (Before 2020), Democratic (2020–present)', 'old_value': 'Republican'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'William Kristol', 'old_value': 'Bill Kristol'}}}
+97: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Liberal'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Bill Kristol', 'old_value': 'Bill Kristol Liberal/Antifa Leader'}}}
+99: {'values_changed': {"root['party']": {'new_value': 'Liberal', 'old_value': 'Democratic'}}}
+100: {'values_changed': {"root['office']": {'new_value': 'Chief of Staff to the Vice President', 'old_value': 'Chief Anti-American'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Bill Kristol Liberal/Antifa Leader', 'old_value': 'Bill Kristol'}, "root['office']": {'new_value': 'Chief Anti-American', 'old_value': 'Chief of Staff to the Vice President'}, "root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}

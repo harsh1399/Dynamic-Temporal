@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Marc Ravalomanana', "root['order']": 'President of Madagascar', "root['primeminister']": 'Tantely Andrianarivo, Jacques Sylla, Jean-Jacques Rasolondraibe, Jacques Sylla, Charles Rabemananjara', "root['term_start']": '06 May 2002', "root['spouse']": 'Lalao Ravalomanana', "root['religion']": 'Church of Jesus Christ in Madagascar '}}
+30: {'values_changed': {"root['name']": {'new_value': 'Marc Ravalomanana', 'old_value': 'Marc Ravalomanana |honorific-suffix = ,  GCSK  ,'}}}
+32: {'values_changed': {"root['name']": {'new_value': 'Marc Ravalomanana |honorific-suffix = ,  GCSK  ,', 'old_value': 'Marc Ravalomanana'}}}
+50: {'dictionary_item_removed': {"root['term_end']": '16 March 2009'}}
+57: {'dictionary_item_added': {"root['term_end']": '16 March 2009'}, 'values_changed': {"root['spouse']": {'new_value': 'Lalao Ravalomanana', 'old_value': 'Lalao Ravalogaymanana'}}}
+58: {'values_changed': {"root['spouse']": {'new_value': 'Lalao Ravalogaymanana', 'old_value': 'Lalao Ravalomanana'}}}
+60: {'dictionary_item_removed': {"root['term_end']": '17 march, 2009'}}
+61: {'values_changed': {"root['term_end']": {'new_value': '17 march, 2009', 'old_value': '17 March 2009'}}}
+62: {'values_changed': {"root['term_start']": {'new_value': '06 May 2002', 'old_value': '22 February 2002'}}}
+69: {'values_changed': {"root['term_start']": {'new_value': '22 February 2002', 'old_value': '6 May 2002'}}}
+78: {'values_changed': {"root['primeminister']": {'new_value': 'Tantely Andrianarivo, Jacques Sylla, Jean-Jacques Rasolondraibe, Jacques Sylla, Charles Rabemananjara', 'old_value': 'Tantely Andrianarivo Jacques Sylla Jean-Jacques Rasolondraibe Jacques Sylla Charles Rabemananjara'}}}
+140: {'dictionary_item_added': {"root['order']": 'President of Madagascar'}, 'values_changed': {"root['name']": {'new_value': 'Marc Ravalomanana', 'old_value': 'Marc Ravalomanascar'}}}
+141: {'dictionary_item_removed': {"root['order']": 'President of Madagascar'}, 'values_changed': {"root['name']": {'new_value': 'Marc Ravalomanascar', 'old_value': 'Marc Ravalomanana'}}}
+162: {'values_changed': {"root['religion']": {'new_value': 'Church of Jesus Christ in Madagascar ', 'old_value': 'Church of Jesus Christ in Mada paige knollman gascar '}}}
+163: {'values_changed': {"root['religion']": {'new_value': 'Church of Jesus Christ in Mada paige knollman gascar ', 'old_value': 'Church of Jesus Christ in Madagascar '}}}
+178: {'dictionary_item_added': {"root['order']": 'President of Madagascar'}, 'dictionary_item_removed': {"root['office']": 'President of Madagascar', "root['party']": 'I Love Madagascar'}, 'values_changed': {"root['primeminister']": {'new_value': 'Tantely Andrianarivo Jacques Sylla Jean-Jacques Rasolondraibe Jacques Sylla Charles Rabemananjara', 'old_value': 'Tantely Andrianarivo, Jacques Sylla, Jean-Jacques Rasolondraibe, Jacques Sylla, Charles Rabemananjara'}}}
+179: {'type_changes': {"root['primeminister']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Tantely Andrianarivo', 'Jacques Sylla', 'Jean-Jacques Rasolondraibe', 'Jacques Sylla', 'Charles Rabemananjara'], 'new_value': 'Tantely Andrianarivo, Jacques Sylla, Jean-Jacques Rasolondraibe, Jacques Sylla, Charles Rabemananjara'}}, 'values_changed': {"root['name']": {'new_value': 'Marc Ravalomanana', 'old_value': 'The Honourable , Marc Ravalomanana'}}}
+190: {'values_changed': {"root['spouse']": {'new_value': 'Lalao Ravalomanana', 'old_value': 'Lalao Ravalomanana (1974-Present)'}}}
+191: {'values_changed': {"root['office']": {'new_value': 'President of Madagascar', 'old_value': '4th President of Madagascar'}}}

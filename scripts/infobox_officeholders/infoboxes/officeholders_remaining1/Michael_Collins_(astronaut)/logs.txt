@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael Collins', "root['type']": 'NASA Astronaut', "root['status']": 'Retired', "root['occupation']": 'Test Pilot', "root['rank']": 'Brigadier General, USAF', "root['selection']": '1963 NASA Group', "root['eva1']": '2', "root['eva2']": '63 minutes', "root['time']": '11 days, 2 hours, 04 minutes, 43 seconds', "root['mission']": 'Gemini 10, Apollo 11', "root['insignia']": '|Date of ret     = January 1970'}}
+2: {'values_changed': {"root['insignia']": {'new_value': '|Date of ret     = January 1970', 'old_value': '|Date of ret     = January 1974464'}}}
+5: {'values_changed': {"root['insignia']": {'new_value': '|Date of ret     = January 1974464', 'old_value': '|Date of ret     = January 1970'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Michael Collins', 'old_value': 'Michael "No body remembers me" Collins'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'Michael "No body remembers me" Collins', 'old_value': 'Michael Collins'}}}
+31: {'values_changed': {"root['occupation']": {'new_value': 'Test Pilot', 'old_value': 'Test pilot'}}}
+47: {'dictionary_item_removed': {"root['awards']": 'Not Edited '}}
+50: {'dictionary_item_added': {"root['awards']": 'Not Edited '}, 'dictionary_item_removed': {"root['alma_mater']": 'USMA, B.S. 1952'}, 'values_changed': {"root['insignia']": {'new_value': '|Date of ret     = January 1970', 'old_value': '|Date of ret   =January 1970'}}}
+51: {'values_changed': {"root['selection']": {'new_value': '1963 NASA Group', 'old_value': '1963 NASA Group 3'}}}
+54: {'dictionary_item_removed': {"root['awards']": '|li'}}
+57: {'values_changed': {"root['awards']": {'new_value': '|li', 'old_value': '|link'}}}
+63: {'values_changed': {"root['eva2']": {'new_value': '63 minutes', 'old_value': '1 hour 28 minutes'}}}
+87: {'dictionary_item_added': {"root['alma_mater']": 'USMA, B.S. 1952', "root['mission']": 'Gemini 10, Apollo 11', "root['awards']": '|link'}, 'dictionary_item_removed': {"root['office']": 'Assistant Secretary of State for Public Affairs', "root['president']": 'Richard Nixon', "root['term_start']": 'January 6, 1970', "root['term_end']": 'April 11, 1971', "root['children']": '3, including Kate'}, 'values_changed': {"root['status']": {'new_value': 'Retired', 'old_value': 'Retired (1982)'}, "root['occupation']": {'new_value': 'Test pilot', 'old_value': 'Fighter pilot, test pilot'}, "root['rank']": {'new_value': 'Brigadier General, USAF', 'old_value': 'Major General'}}}
+98: {'values_changed': {"root['term_start']": {'new_value': 'January 6, 1970', 'old_value': 'January 6, 1870'}}}
+99: {'values_changed': {"root['term_start']": {'new_value': 'January 6, 1870', 'old_value': 'January 6, 1970'}}}
+119: {'dictionary_item_removed': {"root['child']": 'yes'}, 'values_changed': {"root['insignia']": {'new_value': '|Date of ret   =January 1970', 'old_value': '|Date of ret = January 1970'}}}
+190: {'dictionary_item_added': {"root['occupation']": 'Fighter pilot, test pilot'}, 'dictionary_item_removed': {"root['education']": 'United States Military Academy (BS)', "root['serviceyears']": '1952–1970 (active duty), 1970–1982 (reserve)'}, 'values_changed': {"root['office']": {'new_value': 'Assistant Secretary of State for Public Affairs', 'old_value': '12th Assistant Secretary of State for Public Affairs'}, "root['insignia']": {'new_value': '|Date of ret = January 1970', 'old_value': '|Date of ret  = January 1970'}}}
+191: {'dictionary_item_added': {"root['status']": 'Retired (1982)'}, 'values_changed': {"root['insignia']": {'new_value': '|Date of ret  = January 1970', 'old_value': '|alt'}}}
+192: {'values_changed': {"root['time']": {'new_value': '11 days, 2 hours, 04 minutes, 43 seconds', 'old_value': '11 days, 2 hours, 4 minutes, 43 seconds'}}}
+198: {'dictionary_item_removed': {"root['branch']": 'United States Air Force'}}
+222: {'dictionary_item_added': {"root['branch']": 'United States Air Force'}, 'values_changed': {"root['serviceyears']": {'new_value': '1952–1970 (active duty), 1970–1982 (reserve)', 'old_value': '1952–1970 (active duty) 1970–1982 (reserve)'}}}
+254: {'values_changed': {"root['name']": {'new_value': 'Michael Collins', 'old_value': 'Michael ColIins'}}}
+255: {'values_changed': {"root['name']": {'new_value': 'Michael ColIins', 'old_value': 'Michael Collins'}}}
+263: {'values_changed': {"root['name']": {'new_value': 'Michael Collins', 'old_value': 'Michael Collins is dead'}}}
+264: {'values_changed': {"root['name']": {'new_value': 'Michael Collins is dead', 'old_value': 'Michael Collins'}}}
+269: {'dictionary_item_removed': {"root['branch']": 'United States Air Force'}}
+276: {'values_changed': {"root['name']": {'new_value': 'Michael Collins', 'old_value': 'Michael Collins | image         Collins (S69-31742, restoration).jpg'}}}
+277: {'values_changed': {"root['name']": {'new_value': 'Michael Collins | image         Collins (S69-31742, restoration).jpg', 'old_value': 'Michael Collins'}}}
+282: {'values_changed': {"root['rank']": {'new_value': 'Major General', 'old_value': 'Major general'}}}
+287: {'values_changed': {"root['children']": {'new_value': '3, including Kate', 'old_value': '3; including Kate'}}}
+292: {'values_changed': {"root['children']": {'new_value': '3; including Kate', 'old_value': '3, including Kate'}}}
+294: {'values_changed': {"root['serviceyears']": {'new_value': '1952–1970 (active duty) 1970–1982 (reserve)', 'old_value': '1952–1970 (active) 1970–1982 (reserve)'}}}

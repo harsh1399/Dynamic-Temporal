@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Reinhard Heydrich', "root['party']": 'National Socialist German Workers Party (NSDAP)', "root['spouse']": 'Lina von Osten (married December 26, 1931)', "root['order']": 'Protector of Bohemia and Moravia, (acting)', "root['term_start']": 'September 29, 1941', "root['term_end']": 'June 4, 1942'}}
+26: {'dictionary_item_removed': {"root['religion']": 'Roman Catholic', "root['appointed']": 'Adolf Hitler', "root['order2']": 'Director of the Reich Security Head Office', "root['term_start2']": 'September 22, 1939', "root['term_end2']": 'June 4, 1942', "root['appointed2']": 'Heinrich Himmler', "root['predecessor2']": "''Post Created''", "root['successor2']": 'Ernst Kaltenbrunner', "root['order3']": 'President of Interpol', "root['term_start3']": '1940', "root['term_end3']": 'June 4, 1942', "root['predecessor3']": 'Otto Steinhäusl', "root['successor3']": 'Arthur Nebe '}}
+92: {'values_changed': {"root['order']": {'new_value': 'Protector of Bohemia and Moravia, (acting)', 'old_value': 'Deputy Protector of Bohemia and Moravia, (acting Protector)'}}}
+96: {'values_changed': {"root['spouse']": {'new_value': 'Lina von Osten (married December 26, 1931)', 'old_value': 'Lina von Osten (married 26 December 1931)'}, "root['term_start']": {'new_value': 'September 29, 1941', 'old_value': '29 September 1941'}, "root['term_end']": {'new_value': 'June 4, 1942', 'old_value': '4 June 1942'}, "root['term_start2']": {'new_value': 'September 22, 1939', 'old_value': '22 September 1939'}, "root['term_end2']": {'new_value': 'June 4, 1942', 'old_value': '4 June 1942'}, "root['term_end3']": {'new_value': 'June 4, 1942', 'old_value': '4 June 1942'}}}
+110: {'values_changed': {"root['term_start3']": {'new_value': '1940', 'old_value': '24 August 1940'}}}
+139: {'values_changed': {"root['order2']": {'new_value': 'Director of the Reich Security Head Office', 'old_value': 'Director of the Reich Security Main Office'}}}
+143: {'values_changed': {"root['name']": {'new_value': 'Reinhard Heydrich', 'old_value': 'Reinhard jew'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'Reinhard jew', 'old_value': 'Reinhard Heydrich'}}}
+149: {'values_changed': {"root['order2']": {'new_value': 'Director of the Reich Security Main Office', 'old_value': 'Director of the Reich Main Security Office'}}}
+150: {'dictionary_item_added': {"root['order3']": 'President of Interpol'}, 'values_changed': {"root['appointed']": {'new_value': 'Adolf Hitler', 'old_value': 'Adolph Hitler'}}}
+152: {'dictionary_item_removed': {"root['order3']": 'President of Interpol'}, 'values_changed': {"root['appointed']": {'new_value': 'Adolph Hitler', 'old_value': 'Adolf Hitler'}}}
+162: {'values_changed': {"root['name']": {'new_value': 'Reinhard Heydrich', 'old_value': 'Reinhardt Heydrich'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'Reinhardt Heydrich', 'old_value': 'Reinhard Heydrich'}}}
+180: {'dictionary_item_added': {"root['order3']": 'President of Interpol'}, 'values_changed': {"root['name']": {'new_value': 'Reinhard Heydrich', 'old_value': 'Huw Baearman'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'Huw Baearman', 'old_value': 'Reinhard Heydrich'}}}
+199: {'dictionary_item_removed': {"root['order3']": 'President of Interpol'}}
+313: {'values_changed': {"root['successor3']": {'new_value': 'Arthur Nebe ', 'old_value': 'Arthur Nebe'}}}
+317: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Roman Catholic (until 1936).'}}}
+319: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic (until 1936).', 'old_value': 'Roman Catholic'}}}

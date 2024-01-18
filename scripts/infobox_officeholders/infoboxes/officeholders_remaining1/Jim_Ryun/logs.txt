@@ -1,0 +1,10 @@
+3: {'dictionary_item_removed': {"root['name']": 'Jim Ryun | ima', "root['state']": 'Kansas', "root['district']": '2nd', "root['preceded']": 'Sam Brownback', "root['succeeded']": 'Incumbent', "root['party']": 'Republican', "root['religion']": 'Evangelical Presbyterian', "root['spouse']": 'Anne Ryun '}}
+4: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent', 'old_value': 'Nancy Boyda'}}}
+131: {'dictionary_item_removed': {"root['term_start']": 'January 7, 1997', "root['term_end']": 'January 3, 2007'}}
+136: {'values_changed': {"root['term_start']": {'new_value': 'January 7, 1997', 'old_value': 'November 27, 1996'}}}
+138: {'dictionary_item_added': {"root['religion']": 'Evangelical Presbyterian'}, 'dictionary_item_removed': {"root['occupation']": 'Athlete, sports management executive', "root['alma_mater']": 'University of Kansas', "root['residence']": 'Jefferson County, Kansas', "root['sport']": 'Athletics/Track, Mid-distance running', "root['event']": 'Mile, 1500 meters, 800 meters', "root['collegeteam']": 'University of Kansas', "root['weight']": '76 kg', "root['olympics']": "'''1968 Mexico City'''", "root['headercolor']": 'lightsteelblue'}, 'values_changed': {"root['name']": {'new_value': 'Jim Ryun | ima', 'old_value': 'Jim Ryun'}, "root['spouse']": {'new_value': 'Anne Ryun ', 'old_value': 'Anne Ryun'}}}
+139: {'values_changed': {"root['olympics']": {'new_value': "'''1968 Mexico City'''", 'old_value': "'''1968 Mexico City''' ,  1500 m, "}}}
+140: {'dictionary_item_added': {"root['headercolor']": 'lightsteelblue'}, 'dictionary_item_removed': {"root['club']": 'Club West'}, 'values_changed': {"root['olympics']": {'new_value': "'''1968 Mexico City''' ,  1500 m, ", 'old_value': "'''1964 Tokyo''' ,  1500 m, 18th (sf) ,  '''1968 Mexico City''' ,  1500 m, "}}}
+141: {'values_changed': {"root['collegeteam']": {'new_value': 'University of Kansas', 'old_value': 'Kansas Jayhawks'}}}
+151: {'values_changed': {"root['residence']": {'new_value': 'Jefferson County, Kansas', 'old_value': 'Washington,D.C.'}}}
+154: {'values_changed': {"root['residence']": {'new_value': 'Washington,D.C.', 'old_value': 'Washington, D.C.'}}}

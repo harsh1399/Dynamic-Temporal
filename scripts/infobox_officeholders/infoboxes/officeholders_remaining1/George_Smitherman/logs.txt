@@ -1,0 +1,28 @@
+74: {'dictionary_item_removed': {"root['name']": 'George Smitherman', "root['office']": 'Member of Provincial Parliament for Toronto Centre', "root['term_start']": '1999 provincial election', "root['party']": 'Liberal', "root['residence']": 'Toronto', "root['partner']": 'Christopher Peloso '}}
+79: {'dictionary_item_added': {"root['partner']": 'Christopher Peloso '}, 'dictionary_item_removed': {"root['spouse']": 'Christopher Peloso '}}
+85: {'dictionary_item_removed': {"root['office2']": 'Minister of Energy and Infrastructure', "root['term_start2']": 'June 20, 2008', "root['predecessor2']": 'David Caplan & Gerry Phillips'}}
+120: {'values_changed': {"root['name']": {'new_value': 'George Smitherman', 'old_value': 'Hon. George Smitherman'}}}
+124: {'dictionary_item_removed': {"root['office3']": 'Deputy Premier of Ontario', "root['term_start3']": 'September 21, 2006', "root['predecessor3']": 'Elizabeth Witmer'}}
+136: {'dictionary_item_added': {"root['office2']": 'Minister of Energy and Infrastructure'}, 'dictionary_item_removed': {"root['term_end2']": 'November 8 2009', "root['successor2']": 'Gerry Phillips', "root['term_end3']": 'November 8 2009'}}
+138: {'dictionary_item_removed': {"root['office2']": 'Minister of Energy and Infrastructure'}, 'values_changed': {"root['name']": {'new_value': 'Hon. George Smitherman', 'old_value': 'George Smitherman'}}}
+149: {'values_changed': {"root['term_start']": {'new_value': '1999 provincial election', 'old_value': '1999'}, "root['term_end2']": {'new_value': 'November 8 2009', 'old_value': 'November 8, 2009'}, "root['term_end3']": {'new_value': 'November 8 2009', 'old_value': 'November 8, 2009'}}}
+151: {'dictionary_item_removed': {"root['term_end']": 'January 4, 2010'}}
+195: {'dictionary_item_removed': {"root['occupation']": 'politican'}}
+226: {'values_changed': {"root['occupation']": {'new_value': 'politican', 'old_value': 'Politican'}}}
+227: {'values_changed': {"root['occupation']": {'new_value': 'Politican', 'old_value': 'Politician'}}}
+243: {'dictionary_item_removed': {"root['alma_mater']": 'Burnhamthorpe High School (drop out)'}}
+254: {'values_changed': {"root['occupation']": {'new_value': 'Politician', 'old_value': 'Prostitute (rent boy)'}}}
+255: {'values_changed': {"root['occupation']": {'new_value': 'Prostitute (rent boy)', 'old_value': 'Politician'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'George Smitherman', 'old_value': 'George Smitherman(complete idiot will ruin toronto if elected)'}}}
+293: {'values_changed': {"root['name']": {'new_value': 'George Smitherman(complete idiot will ruin toronto if elected)', 'old_value': 'George Smitherman'}}}
+320: {'values_changed': {"root['alma_mater']": {'new_value': 'Burnhamthorpe High School (drop out)', 'old_value': 'Burnhamthorpe High School (did not complete)'}}}
+327: {'values_changed': {"root['occupation']": {'new_value': 'Politician', 'old_value': 'Politician with a small peepee'}}}
+328: {'values_changed': {"root['occupation']": {'new_value': 'Politician with a small peepee', 'old_value': 'Politician'}}}
+331: {'dictionary_item_removed': {"root['successor3']": 'Dwight Duncan'}}
+366: {'values_changed': {"root['occupation']": {'new_value': 'Politician', 'old_value': 'parasite'}}}
+367: {'values_changed': {"root['occupation']": {'new_value': 'parasite', 'old_value': 'Politician'}}}
+368: {'values_changed': {"root['term_start']": {'new_value': '1999', 'old_value': '19992525'}, "root['occupation']": {'new_value': 'Politician', 'old_value': 'parasite'}}}
+369: {'values_changed': {"root['term_start']": {'new_value': '19992525', 'old_value': '1999'}, "root['occupation']": {'new_value': 'parasite', 'old_value': 'Politician'}}}
+376: {'values_changed': {"root['alma_mater']": {'new_value': 'Burnhamthorpe High School (did not complete)', 'old_value': 'Burnhamthorpe Collegiate Institute (did not complete)'}}}
+380: {'dictionary_item_added': {"root['office2']": 'Minister of Energy and Infrastructure', "root['term_start2']": 'June 20, 2008', "root['term_end2']": 'November 8, 2009', "root['predecessor2']": 'David Caplan & Gerry Phillips', "root['successor2']": 'Gerry Phillips', "root['office3']": 'Deputy Premier of Ontario', "root['term_start3']": 'September 21, 2006', "root['term_end3']": 'November 8, 2009', "root['predecessor3']": 'Elizabeth Witmer', "root['successor3']": 'Dwight Duncan'}, 'dictionary_item_removed': {"root['constituency']": 'Toronto Centre'}, 'values_changed': {"root['office']": {'new_value': 'Member of Provincial Parliament for Toronto Centre', 'old_value': 'Member of Provincial Parliament'}}}
+392: {'values_changed': {"root['spouse']": {'new_value': 'Christopher Peloso ', 'old_value': 'Christopher Peloso (2007-2013) '}}}

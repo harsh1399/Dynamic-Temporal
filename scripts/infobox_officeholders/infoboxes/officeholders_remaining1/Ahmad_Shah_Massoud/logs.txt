@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ahmad Shah Massoud', "root['Nationality']": 'Afghan', "root['Religion']": 'Islam (Sunni)', "root['Alma_mater']": 'University of Kabul', "root['serviceyears']": '1978–2001', "root['rank']": 'Commander Minister of Defense Vice President of Afghanistan', "root['commands']": 'Prominent Mujahideen commander during the Soviet war in Afghanistan Defense Minister of Afghanistan and commander of the anti-Taliban United Islamic Front', "root['battles']": 'Soviet war in Afghanistan Afghan Civil War', "root['awards']": 'National Hero of Afghanistan'}}
+31: {'dictionary_item_added': {"root['rank']": 'Commander Minister of Defense Vice President of Afghanistan', "root['battles']": 'Soviet war in Afghanistan Afghan Civil War'}, 'values_changed': {"root['commands']": {'new_value': 'Prominent Mujahideen commander during the Soviet war in Afghanistan Defense Minister of Afghanistan and commander of the anti-Taliban United Islamic Front', 'old_value': 'Prominent Mujahideen commander during the Soviet–Afghan War Defense Minister of Afghanistan and commander of the anti-Taliban United Islamic Front'}}}
+42: {'dictionary_item_added': {"root['Nationality']": 'Afghan', "root['Religion']": 'Islam (Sunni)', "root['Alma_mater']": 'University of Kabul'}, 'values_changed': {"root['serviceyears']": {'new_value': '1978–2001', 'old_value': '1975–2001'}}}
+50: {'dictionary_item_added': {"root['awards']": 'National Hero of Afghanistan'}, 'dictionary_item_removed': {"root['battles']": ['1975 Panjshir Valley Uprising<ref name']}}
+52: {'dictionary_item_added': {"root['battles']": ['1975 Panjshir Valley Uprising<ref name']}, 'dictionary_item_removed': {"root['awards']": 'National Hero of Afghanistan'}}
+100: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud', 'old_value': 'Ahmad Shah Massoud, '}}}
+106: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud, ', 'old_value': 'Ahmad Shah Massoud'}}}
+107: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud', 'old_value': 'Ahmad Shah Massoud, '}}}
+119: {'values_changed': {"root['commands']": {'new_value': 'Prominent Mujahideen commander during the Soviet–Afghan War Defense Minister of Afghanistan and commander of the anti-Taliban United Islamic Front', 'old_value': 'Mujahideen commander during the Soviet–Afghan War Commander of the United Islamic Front'}}}
+121: {'dictionary_item_removed': {"root['party']": 'Jamiat-e Islami'}}
+126: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud, ', 'old_value': 'Ahmad Shah Massoud '}}}
+127: {'dictionary_item_removed': {"root['children']": '6, including Ahmad', "root['rank']": 'General'}}
+153: {'dictionary_item_removed': {"root['spouse']": 'Sediqa Massoud'}}
+183: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud ', 'old_value': 'Ahmad Shah Massoud احمد شاه مسعود'}}}
+197: {'values_changed': {"root['awards']": {'new_value': 'National Hero of Afghanistan', 'old_value': 'National Hero of Afghanistan,  Order of Ismoili Somoni'}}}
+207: {'values_changed': {"root['awards']": {'new_value': 'National Hero of Afghanistan,  Order of Ismoili Somoni', 'old_value': 'National Hero of Afghanistan border Order of Ismoili Somoni'}}}
+221: {'values_changed': {"root['name']": {'new_value': 'Ahmad Shah Massoud احمد شاه مسعود', 'old_value': 'Ahmad Shah Massoud '}}}

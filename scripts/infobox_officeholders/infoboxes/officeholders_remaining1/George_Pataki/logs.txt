@@ -1,0 +1,49 @@
+5: {'dictionary_item_removed': {"root['name']": 'George Pataki', "root['order']": '57 th', "root['office']": 'Governor of New York', "root['term_start']": '1995', "root['term_end']": "''present''", "root['lieutenant']": 'Mary Donahue', "root['spouse']": 'Libby Pataki', "root['profession']": 'Politician', "root['party']": 'Republican'}}
+15: {'values_changed': {"root['lieutenant']": {'new_value': 'Mary Donahue', 'old_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- present'}}}
+69: {'values_changed': {"root['name']": {'new_value': 'George Pataki', 'old_value': 'George Pataki333'}}}
+70: {'values_changed': {"root['name']": {'new_value': 'George Pataki333', 'old_value': 'George Pataki'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'George Pataki', 'old_value': 'Mr. Ed'}, "root['office']": {'new_value': 'Governor of New York', 'old_value': 'Mr. Ed'}, "root['term_start']": {'new_value': '1995', 'old_value': 'Mr. Ed'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'Mr. Ed', 'old_value': 'George Pataki'}, "root['office']": {'new_value': 'Mr. Ed', 'old_value': 'Governor of New York'}, "root['term_start']": {'new_value': 'Mr. Ed', 'old_value': '1995'}}}
+180: {'values_changed': {"root['profession']": {'new_value': 'Politician', 'old_value': 'Public Servant'}}}
+266: {'dictionary_item_removed': {"root['religion']": 'Catholic '}}
+273: {'values_changed': {"root['profession']": {'new_value': 'Public Servant', 'old_value': 'Attorney'}}}
+278: {'values_changed': {"root['term_end']": {'new_value': "''present''", 'old_value': 'present (retiring 2007)'}}}
+279: {'values_changed': {"root['term_start']": {'new_value': '1995', 'old_value': 'January 1995'}}}
+300: {'values_changed': {"root['term_start']": {'new_value': 'January 1995', 'old_value': 'January 1,1995'}, "root['term_end']": {'new_value': 'present (retiring 2007)', 'old_value': 'December 31, 2006'}, "root['lieutenant']": {'new_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- present', 'old_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- 2006'}}}
+305: {'values_changed': {"root['term_end']": {'new_value': 'December 31, 2006', 'old_value': 'Januar 2007'}}}
+306: {'values_changed': {"root['term_end']": {'new_value': 'Januar 2007', 'old_value': 'January 2007'}}}
+310: {'values_changed': {"root['term_end']": {'new_value': 'January 2007', 'old_value': 'incumbent'}, "root['lieutenant']": {'new_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- 2006', 'old_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- present'}}}
+318: {'values_changed': {"root['term_start']": {'new_value': 'January 1,1995', 'old_value': '1995'}, "root['term_end']": {'new_value': 'incumbent', 'old_value': '2007'}}}
+322: {'values_changed': {"root['religion']": {'new_value': 'Catholic ', 'old_value': 'Roman Catholic '}}}
+325: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+326: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2007'}}}
+327: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+328: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2006'}}}
+329: {'values_changed': {"root['term_end']": {'new_value': '2006', 'old_value': 'present'}}}
+331: {'values_changed': {"root['lieutenant']": {'new_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999- present', 'old_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999 - present'}}}
+333: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'present (term limited, 2007)'}}}
+341: {'dictionary_item_added': {"root['term_start']": '1995', "root['term_end']": 'present (term limited, 2007)'}, 'values_changed': {"root['lieutenant']": {'new_value': 'Betsy McCaughey Ross, 1995-99   Mary Donohue, 1999 - present', 'old_value': 'Betsy McCaughey Ross   Mary Donohue'}}}
+342: {'dictionary_item_removed': {"root['term_start']": '1995', "root['term_end']": '2007'}}
+349: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+355: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic ', 'old_value': 'Greek Orthodox '}}}
+357: {'values_changed': {"root['religion']": {'new_value': 'Greek Orthodox ', 'old_value': 'Roman Catholic '}}}
+360: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2007'}}}
+363: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+366: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2007'}}}
+368: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+369: {'dictionary_item_added': {"root['office']": 'Governor of New York', "root['profession']": 'Attorney'}, 'dictionary_item_removed': {"root['state_senate1']": 'New York', "root['district1']": '37th', "root['term_start1']": 'January 1, 1993', "root['term_end1']": 'December 31, 1994', "root['predecessor1']": 'Mary Goodhue', "root['successor1']": 'Vincent Leibell', "root['state_assembly2']": 'New York', "root['district2']": '91st', "root['term_start2']": 'January 1, 1985', "root['term_end2']": 'December 31, 1992', "root['predecessor2']": 'Bill Ryan', "root['successor2']": 'Vincent Leibell', "root['office3']": 'Mayor of Peekskill', "root['term_start3']": '1981', "root['term_end3']": '1984', "root['predecessor3']": 'Fred Bianco', "root['successor3']": 'Richard Jackson', "root['children']": 'Emily, Teddy, Allison, Owen', "root['alma_mater']": 'Yale University, Columbia University'}, 'values_changed': {"root['order']": {'new_value': '57 th', 'old_value': '53rd Governor of New York'}, "root['term_start']": {'new_value': '1995', 'old_value': 'January 1, 1995'}, "root['term_end']": {'new_value': 'present', 'old_value': 'December 31, 2006'}, "root['lieutenant']": {'new_value': 'Betsy McCaughey Ross   Mary Donohue', 'old_value': 'Betsy McCaughey  (1995&ndash;98)  , Mary Donohue  (1999&ndash;2006)'}, "root['spouse']": {'new_value': 'Libby Pataki', 'old_value': 'Libby Rowland'}, "root['religion']": {'new_value': 'Roman Catholic ', 'old_value': 'Roman Catholicism, '}}}
+372: {'values_changed': {"root['alma_mater']": {'new_value': 'Yale University, Columbia University', 'old_value': 'Yale University  (B.A.) , Columbia Law School  (J.D.)'}}}
+394: {'values_changed': {"root['lieutenant']": {'new_value': 'Betsy McCaughey  (1995&ndash;98)  , Mary Donohue  (1999&ndash;2006)', 'old_value': 'Betsy McCaughey  (1995&ndash;1998)  , Mary Donohue  (1999&ndash;2006)'}}}
+398: {'values_changed': {"root['lieutenant']": {'new_value': 'Betsy McCaughey  (1995&ndash;1998)  , Mary Donohue  (1999&ndash;2006)', 'old_value': 'Betsy McCaughey  (1995–1998)  , Mary Donohue  (1999–2006)'}, "root['alma_mater']": {'new_value': 'Yale University  (B.A.) , Columbia Law School  (J.D.)', 'old_value': 'Yale University  (B.A.)  Columbia Law School  (J.D.)'}}}
+399: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism, ', 'old_value': 'Roman Catholicism,'}}}
+400: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism,', 'old_value': 'Roman Catholicism  ,'}}}
+402: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism  ,', 'old_value': 'Roman Catholicism'}}}
+473: {'values_changed': {"root['term_start3']": {'new_value': '1981', 'old_value': 'Januaru 1, 1981'}, "root['term_end3']": {'new_value': '1984', 'old_value': 'December 31, 1984'}}}
+474: {'values_changed': {"root['term_start3']": {'new_value': 'Januaru 1, 1981', 'old_value': 'January 1, 1981'}}}
+476: {'values_changed': {"root['children']": {'new_value': 'Emily, Teddy, Allison, Owen', 'old_value': '4'}}}
+494: {'dictionary_item_added': {"root['lieutenant']": 'Betsy McCaughey  (1995–1998)  , Mary Donohue  (1999–2006)', "root['term_end']": 'December 31, 2006'}, 'dictionary_item_removed': {"root['vice_president']": 'Scott Walker'}, 'values_changed': {"root['order']": {'new_value': '53rd Governor of New York', 'old_value': '45th President of the United States'}, "root['term_start']": {'new_value': 'January 1, 1995', 'old_value': 'January 20, 2017'}}}
+495: {'dictionary_item_added': {"root['vice_president']": 'Scott Walker'}, 'dictionary_item_removed': {"root['Vice_President']": 'Scott Walker'}}
+496: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+498: {'values_changed': {"root['term_end1']": {'new_value': 'December 31, 1994', 'old_value': 'January 20, 2017'}}}
+501: {'dictionary_item_added': {"root['Vice_President']": 'Scott Walker'}, 'dictionary_item_removed': {"root['lieutenant']": 'Betsy McCaughey  (1995–1998)  , Mary Donohue  (1999–2006)', "root['term_end']": 'December 31, 2006'}, 'values_changed': {"root['order']": {'new_value': '45th President of the United States', 'old_value': '53rd Governor of New York'}, "root['term_start']": {'new_value': 'January 20, 2017', 'old_value': 'January 1, 1995'}, "root['term_end1']": {'new_value': 'January 20, 2017', 'old_value': 'December 31, 1994'}, "root['party']": {'new_value': 'Democrat', 'old_value': 'Republican'}}}
+518: {'values_changed': {"root['predecessor1']": {'new_value': 'Mary Goodhue', 'old_value': 'Mary B. Goodhue'}, "root['predecessor2']": {'new_value': 'Bill Ryan', 'old_value': 'William J. Ryan'}, "root['successor3']": {'new_value': 'Richard Jackson', 'old_value': 'Richard E. Jackson'}}}

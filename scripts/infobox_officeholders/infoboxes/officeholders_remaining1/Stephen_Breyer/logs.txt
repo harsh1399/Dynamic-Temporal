@@ -1,0 +1,24 @@
+94: {'dictionary_item_removed': {"root['name']": 'Stephen Breyer.gif|'}}
+103: {'values_changed': {"root['name']": {'new_value': 'Stephen Breyer.gif|', 'old_value': 'Image:Stephen Breyer.jpeg|'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'Image:Stephen Breyer.jpeg|', 'old_value': 'Stephen Breyer.jpeg|'}}}
+136: {'dictionary_item_removed': {"root['order']": '108th | term start=August 3, 1994 | term end=present', "root['nominator']": 'Bill Clinton | date of birth'}, 'values_changed': {"root['name']": {'new_value': 'Stephen Breyer.jpeg|', 'old_value': 'Stephen Breyer.jpeg'}}}
+145: {'values_changed': {"root['order']": {'new_value': '108th | term start=August 3, 1994 | term end=present', 'old_value': '| term start=August 3, 1994 | term end=present'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Stephen Breyer.jpeg', 'old_value': 'Stephen Breyer, SCOTUS photo portrait.jpg'}}}
+227: {'dictionary_item_added': {"root['order']": '| term start=August 3, 1994 | term end=present'}, 'dictionary_item_removed': {"root['office']": 'Associate Justice of the Supreme Court of the United States', "root['term_start']": 'August 3, 1994', "root['office1']": 'Chief Judge of the United States Court of Appeals for the First Circuit', "root['term_start1']": 'March 1990', "root['term_end1']": 'August 3, 1994', "root['predecessor1']": 'Levin H. Campbell', "root['successor1']": 'Juan R. Torruella', "root['office2']": 'Judge of the United States Court of Appeals for the First Circuit', "root['nominator2']": 'Jimmy Carter', "root['term_start2']": 'December 10, 1980', "root['term_end2']": 'August 3, 1994', "root['predecessor2']": "''Seat established''", "root['successor2']": 'Sandra Lynch', "root['children']": '3', "root['education']": 'Stanford University (BA) ', "root['serviceyears']": '1957–1965', "root['rank']": 'Corporal', "root['unit']": 'Army Strategic Intelligence, Army Reserve '}, 'values_changed': {"root['name']": {'new_value': 'Stephen Breyer, SCOTUS photo portrait.jpg', 'old_value': 'Stephen Breyer'}, "root['nominator']": {'new_value': 'Bill Clinton | date of birth', 'old_value': 'Bill Clinton'}}}
+269: {'dictionary_item_removed': {"root['allegiance']": 'United States', "root['branch']": 'United States Army'}}
+270: {'values_changed': {"root['education']": {'new_value': 'Stanford University (BA) ', 'old_value': 'Stanford University (BA) Magdalen College, Oxford (BA) Harvard University (LLB)'}}}
+348: {'dictionary_item_removed': {"root['term_end']": 'October 3, 2022'}}
+362: {'dictionary_item_added': {"root['term_end']": 'October 3, 2022'}, 'dictionary_item_removed': {"root['relations']": 'Charles Breyer (brother)'}}
+363: {'type_changes': {"root['unit']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Army Reserve'], 'new_value': 'Army Strategic Intelligence, Army Reserve '}}}
+364: {'values_changed': {"root['unit'][0]": {'new_value': 'Army Reserve', 'old_value': 'Reserve'}}}
+365: {'values_changed': {"root['education']": {'new_value': 'Stanford University (BA) Magdalen College, Oxford (BA) Harvard University (LLB)', 'old_value': 'Stanford University (BA) '}}}
+366: {'type_changes': {"root['unit']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Strategic Intelligence (Reserve) ', 'new_value': ['Reserve']}}}
+386: {'dictionary_item_added': {"root['allegiance']": 'United States', "root['branch']": 'United States Army'}, 'dictionary_item_removed': {"root['term_end']": 'Summer 2022'}}
+401: {'values_changed': {"root['term_end']": {'new_value': 'Summer 2022', 'old_value': 'June 30, 2022'}}}
+415: {'dictionary_item_added': {"root['term_end']": 'June 30, 2022', "root['education']": 'Stanford University (BA) '}, 'dictionary_item_removed': {"root['allegiance']": 'United States', "root['branch']": 'United States Army'}}
+421: {'dictionary_item_removed': {"root['term_end']": 'June 30, 2022'}}
+434: {'dictionary_item_added': {"root['relations']": 'Charles Breyer (brother)', "root['allegiance']": 'United States'}, 'values_changed': {"root['predecessor2']": {'new_value': "''Seat established''", 'old_value': 'Seat established'}}}
+439: {'values_changed': {"root['predecessor2']": {'new_value': 'Seat established', 'old_value': "''Seat established''"}}}
+440: {'dictionary_item_removed': {"root['allegiance']": 'United States'}}
+447: {'dictionary_item_removed': {"root['party']": 'Democratic'}}
+488: {'dictionary_item_added': {"root['party']": 'Democratic', "root['allegiance']": 'United States', "root['branch']": 'United States Army'}, 'dictionary_item_removed': {"root['education']": 'Harvard University (LLB)'}}

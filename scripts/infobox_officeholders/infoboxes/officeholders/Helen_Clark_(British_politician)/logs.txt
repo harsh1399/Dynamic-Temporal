@@ -1,0 +1,5 @@
+31: {'dictionary_item_removed': {"root['name']": 'Helen Clark', "root['constituency_MP']": 'Peterborough', "root['term_start']": '2 May 1997', "root['term_end']": '5 May 2005', "root['party']": 'Labour', "root['alma_mater']": 'University of Bristol '}}
+68: {'values_changed': {"root['party']": {'new_value': 'Labour', 'old_value': 'Labour | spouce(s) = Alan Clark'}}}
+69: {'values_changed': {"root['party']": {'new_value': 'Labour | spouce(s) = Alan Clark', 'old_value': 'Labour'}}}
+119: {'values_changed': {"root['party']": {'new_value': 'Labour', 'old_value': 'Conservative'}}}
+120: {'values_changed': {"root['party']": {'new_value': 'Conservative', 'old_value': 'Labour'}}}

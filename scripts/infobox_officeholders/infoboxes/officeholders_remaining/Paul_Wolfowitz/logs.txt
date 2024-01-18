@@ -1,0 +1,46 @@
+541: {'dictionary_item_removed': {"root['order']": 'President of the World Bank', "root['term_start']": '1 June, 2005', "root['spouse']": 'Clare Selgin Wolfowitz'}}
+654: {'values_changed': {"root['spouse']": {'new_value': 'Clare Selgin Wolfowitz', 'old_value': 'Clare Selgin Wolfowitz (1968-2002)'}}}
+663: {'dictionary_item_added': {"root['order']": 'President of the World Bank'}, 'dictionary_item_removed': {"root['name']": 'Paul Wolfowitz', "root['residence']": 'Chevy Chase, Maryland', "root['office']": '10th President of the World Bank', "root['salary']": '$302,470 USD', "root['religion']": 'Judaism', "root['children']": 'Sara, David, Rachel'}}
+776: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Jew'}}}
+784: {'values_changed': {"root['religion']": {'new_value': 'Jew', 'old_value': 'Judaism'}}}
+887: {'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland', 'old_value': 'Chevy Case, Maryland'}}}
+897: {'dictionary_item_added': {"root['religion']": 'Judaism'}, 'values_changed': {"root['residence']": {'new_value': 'Chevy Case, Maryland', 'old_value': 'Chevy Chase, Maryland'}}}
+898: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+1068: {'dictionary_item_added': {"root['religion']": 'Judaism'}, 'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland', 'old_value': 'Washington, D.C.'}}}
+1249: {'values_changed': {"root['residence']": {'new_value': 'Washington, D.C.', 'old_value': '7104 Pinehurst Pkwy, Chevy Chase, MD'}}}
+1250: {'values_changed': {"root['residence']": {'new_value': '7104 Pinehurst Pkwy, Chevy Chase, MD', 'old_value': 'Chevy Chase, MD'}}}
+1254: {'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, MD', 'old_value': 'Chevy Chase, Maryland, near Washington, D.C.'}}}
+1276: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Bin Wolfowitz'}}}
+1277: {'values_changed': {"root['name']": {'new_value': 'Paul Bin Wolfowitz', 'old_value': 'Paul Wolfowitz'}}}
+1298: {'dictionary_item_removed': {"root['term_end']": '30 June, 2007'}}
+1302: {'values_changed': {"root['term_start']": {'new_value': '1 June, 2005', 'old_value': 'June 1, 2005'}, "root['term_end']": {'new_value': '30 June, 2007', 'old_value': 'June 30, 2007'}}}
+1331: {'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland, near Washington, D.C.', 'old_value': 'Chevy Chase, Maryland,   near Washington, D.C.'}}}
+1361: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Wolfowitz edgar is a gay faget and sucks on balls'}}}
+1362: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz edgar is a gay faget and sucks on balls', 'old_value': 'Paul Wolfowitz'}}}
+1365: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Wolfowitz enrique is gay'}}}
+1366: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz enrique is gay', 'old_value': 'Paul Wolfowitz'}}}
+1368: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Wolfowitz "george bush brother"'}}}
+1369: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz "george bush brother"', 'old_value': 'Paul Wolfowitz'}}}
+1378: {'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland,   near Washington, D.C.', 'old_value': 'Chevy Chase, Maryland'}}}
+1385: {'values_changed': {"root['office']": {'new_value': '10th President of the World Bank', 'old_value': '10th President of the World Bank Group'}}}
+1386: {'values_changed': {"root['office']": {'new_value': '10th President of the World Bank Group', 'old_value': '10th President of the World Bank'}}}
+1390: {'values_changed': {"root['office']": {'new_value': '10th President of the World Bank', 'old_value': '10th President of the World Bank Group'}}}
+1413: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Wolfotitz'}}}
+1414: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfotitz', 'old_value': 'Paul Wolfowitz'}}}
+1416: {'values_changed': {"root['spouse']": {'new_value': 'Clare Selgin Wolfowitz (1968-2002)', 'old_value': 'Clare Selgin Wolfowitz (1968–2002)'}}}
+1539: {'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': 'Paul Dumbguy'}}}
+1540: {'values_changed': {"root['name']": {'new_value': 'Paul Dumbguy', 'old_value': 'Paul Wolfowitz'}}}
+1545: {'dictionary_item_removed': {"root['_place']": 'Brooklyn, New York, United States | residence = Chevy Chase, Maryland | nationality = American | death_date ='}}
+1633: {'dictionary_item_added': {"root['_place']": 'Brooklyn, New York, United States | residence = Chevy Chase, Maryland | nationality = American | death_date ='}, 'values_changed': {"root['spouse']": {'new_value': 'Clare Selgin Wolfowitz (1968–2002)', 'old_value': 'Clare Selgin Wolfowitz (1968–2002 uncertain status)'}}}
+1708: {'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland', 'old_value': 'Chevy Chase, Maryland, USA'}}}
+1729: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+1781: {'dictionary_item_added': {"root['religion']": 'Judaism'}, 'values_changed': {"root['name']": {'new_value': 'Paul Wolfowitz', 'old_value': "Paul -I'm friends with the devil- Wolfowitz"}}}
+1782: {'values_changed': {"root['name']": {'new_value': "Paul -I'm friends with the devil- Wolfowitz", 'old_value': 'Paul Wolfowitz'}}}
+1787: {'dictionary_item_removed': {"root['office2']": 'United States Deputy Secretary of Defense', "root['term_start2']": '2001', "root['term_end2']": '2005', "root['predecessor2']": 'Rudy deLeon', "root['successor2']": 'Gordon R. England'}}
+1793: {'dictionary_item_removed': {"root['party']": 'Democratic'}}
+1798: {'dictionary_item_added': {"root['party']": 'Democratic'}, 'values_changed': {"root['residence']": {'new_value': 'Chevy Chase, Maryland, USA', 'old_value': 'Chevy Chase, Maryland, U.S.'}}}
+1808: {'dictionary_item_removed': {"root['party']": 'Democratic'}}
+1837: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}
+1838: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+1849: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+1854: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}

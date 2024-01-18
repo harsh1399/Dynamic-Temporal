@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['spouse']": 'Betsy North (married 1967); 4 children', "root['serviceyears']": '1968–1990', "root['rank']": 'Lieutenant Colonel', "root['commands']": 'Marine Corps Northern Training Area, Okinawa', "root['battles']": 'Vietnam War'}}
+49: {'values_changed': {"root['rank']": {'new_value': 'Lieutenant Colonel', 'old_value': 'Lieutenant colonel'}}}
+60: {'values_changed': {"root['rank']": {'new_value': 'Lieutenant colonel', 'old_value': 'Lieutenant Colonel'}}}
+168: {'values_changed': {"root['spouse']": {'new_value': 'Betsy North (married 1967); 4 children', 'old_value': 'Betsy North (m. 1967); 4 children'}}}
+249: {'values_changed': {"root['rank']": {'new_value': 'Lieutenant Colonel', 'old_value': 'Lieutenant colonel'}}}
+305: {'dictionary_item_removed': {"root['allegiance']": 'United States of America'}}
+314: {'dictionary_item_added': {"root['allegiance']": 'United States of America', "root['spouse']": 'Betsy North (m. 1967); 4 children'}, 'dictionary_item_removed': {"root['name']": 'Oliver North', "root['party']": 'Republican', "root['children']": '4', "root['education']": 'State University of New York, Brockport, United States Naval Academy (BS)', "root['unit']": '1st Battalion, 3rd Marines (Vietnam), 3rd Battalion, 8th Marines, 2nd Marine Division', "root['mawards']": 'Silver Star, Bronze Star with valor, Purple Heart (2), Combat Action Ribbon, Presidential Service Badge '}, 'values_changed': {"root['rank']": {'new_value': 'Lieutenant colonel', 'old_value': 'Lieutenant Colonel'}}}
+316: {'values_changed': {"root['commands']": {'new_value': 'Marine Corps Northern Training Area, Okinawa', 'old_value': 'Northern Training Area'}}}
+322: {'dictionary_item_removed': {"root['term_start']": 'May 2018'}}
+327: {'type_changes': {"root['mawards']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Silver Star', 'Bronze Star with valor', 'Purple Heart (2)', 'Combat Action Ribbon', 'Presidential Service Badge'], 'new_value': 'Silver Star, Bronze Star with valor, Purple Heart (2), Combat Action Ribbon, Presidential Service Badge '}}, 'values_changed': {"root['term_start']": {'new_value': 'May 2018', 'old_value': 'September 2018'}}}
+331: {'dictionary_item_removed': {"root['office']": 'President of the National Rifle Association'}}
+335: {'dictionary_item_removed': {"root['term_end']": 'April 29, 2019'}}
+383: {'values_changed': {"root['rank']": {'new_value': 'Lieutenant Colonel', 'old_value': 'Lieutenant colonel'}}}

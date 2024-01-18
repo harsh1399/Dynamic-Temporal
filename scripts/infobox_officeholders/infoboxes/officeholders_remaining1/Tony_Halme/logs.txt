@@ -1,0 +1,10 @@
+76: {'dictionary_item_removed': {"root['names']": "The Viking, Tony Halme, '''Ludvig Borga'''", "root['resides']": 'Helsinki, Finland', "root['billed']": 'Helsinki, Finland', "root['trainer']": 'Verne Gagne', "root['debut']": 'October 29, 1990', "root['retired']": 'March 2003 |'}}
+78: {'values_changed': {"root['billed']": {'new_value': 'Helsinki, Finland', 'old_value': 'Helsinki, Finland The Environment'}}}
+101: {'values_changed': {"root['billed']": {'new_value': 'Helsinki, Finland The Environment', 'old_value': 'Helsinki, Finland'}}}
+102: {'dictionary_item_removed': {"root['name']": 'Tony Halme'}}
+160: {'values_changed': {"root['names']": {'new_value': "The Viking, Tony Halme, '''Ludvig Borga'''", 'old_value': 'The Viking, Finland Thor, Tony Halme, Ludvig Borga'}}}
+163: {'values_changed': {"root['retired']": {'new_value': 'March 2003 |', 'old_value': 'March 2003 HE DIED D: |'}}}
+164: {'values_changed': {"root['retired']": {'new_value': 'March 2003 HE DIED D: |', 'old_value': 'March 2003 |'}}}
+208: {'dictionary_item_added': {"root['resides']": 'Helsinki, Finland'}, 'values_changed': {"root['names']": {'new_value': 'The Viking, Finland Thor, Tony Halme, Ludvig Borga', 'old_value': 'The Viking  , Finland Thor , Finnish Hellraiser Thor , Tony Halme  , Ludvig Borga'}, "root['debut']": {'new_value': 'October 29, 1990', 'old_value': '1989'}, "root['retired']": {'new_value': 'March 2003 |', 'old_value': '1997<ref name'}}}
+222: {'dictionary_item_added': {"root['billed']": 'Helsinki, Finland'}, 'dictionary_item_removed': {"root['resides']": 'billed=Helsinki, Finland'}}
+223: {'dictionary_item_added': {"root['resides']": 'billed=Helsinki, Finland'}, 'dictionary_item_removed': {"root['billed']": 'Helsinki, Finland'}}

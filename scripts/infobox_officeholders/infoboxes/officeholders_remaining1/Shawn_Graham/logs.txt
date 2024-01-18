@@ -1,0 +1,40 @@
+21: {'dictionary_item_removed': {"root['name']": 'Shawn Graham', "root['order']": '31st Premier of New Brunswick', "root['term_start']": '2006', "root['party']": 'Liberal', "root['religion']": '|'}}
+23: {'values_changed': {"root['term_start']": {'new_value': '2006', 'old_value': 'September, 2006'}}}
+24: {'dictionary_item_removed': {"root['spouse']": 'Roxane Reeves'}}
+25: {'dictionary_item_added': {"root['term_start']": 'September, 2006'}, 'values_changed': {"root['order']": {'new_value': '31st Premier of New Brunswick', 'old_value': 'Premier-Designate of New Brunswick'}}}
+28: {'dictionary_item_removed': {"root['term_start']": "''October 3 2006''"}}
+29: {'values_changed': {"root['term_start']": {'new_value': "''October 3 2006''", 'old_value': "''October 3 2006'', ''(date scheduled for swearing-in)''"}}}
+34: {'values_changed': {"root['term_start']": {'new_value': "''October 3 2006'', ''(date scheduled for swearing-in)''", 'old_value': 'October 3 2006'}}}
+35: {'values_changed': {"root['order']": {'new_value': 'Premier-Designate of New Brunswick', 'old_value': 'Premier of New Brunswick'}}}
+60: {'values_changed': {"root['order']": {'new_value': 'Premier of New Brunswick', 'old_value': '31st Premier of New Brunswick'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'Shawn Graham', 'old_value': 'The Honourable Shawn Graham, M.L.A.'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'The Honourable Shawn Graham, M.L.A.', 'old_value': 'The Honourable dillon patterson, M.L.A.'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'The Honourable dillon patterson, M.L.A.', 'old_value': 'The Honourable Shawn Graham, M.L.A.'}}}
+102: {'dictionary_item_removed': {"root['office']": 'Premier of New Brunswick', "root['lieutenant_governor']": 'Herménégilde Chiasson'}, 'values_changed': {"root['name']": {'new_value': 'The Honourable Shawn Graham, M.L.A.', 'old_value': 'Shawn Graham,  | honorific-suffix    =  MLA'}, "root['order']": {'new_value': '31st Premier of New Brunswick', 'old_value': '31st'}, "root['term_start']": {'new_value': 'October 3 2006', 'old_value': 'October 3, 2006'}}}
+106: {'dictionary_item_added': {"root['religion']": '|'}, 'values_changed': {"root['name']": {'new_value': 'Shawn Graham,  | honorific-suffix    =  MLA', 'old_value': 'Shawn Michael Graham,  | honorific-suffix  :)  =  MLA'}}}
+108: {'values_changed': {"root['lieutenant_governor']": {'new_value': 'Herménégilde Chiasson', 'old_value': 'Herménégilde Chiasson Graydon Nicholas'}}}
+109: {'values_changed': {"root['lieutenant_governor']": {'new_value': 'Herménégilde Chiasson Graydon Nicholas', 'old_value': 'Graydon Nicholas'}}}
+116: {'dictionary_item_removed': {"root['office1']": 'MLA for Kent', "root['term_start1']": '1998'}}
+148: {'dictionary_item_removed': {"root['term_end']": 'September 27, 2010'}}
+150: {'values_changed': {"root['term_end']": {'new_value': 'September 27, 2010', 'old_value': 'present'}}}
+153: {'dictionary_item_removed': {"root['constituency']": 'Kent'}, 'values_changed': {"root['name']": {'new_value': 'Shawn Michael Graham,  | honorific-suffix  :)  =  MLA', 'old_value': 'Shawn Michael Graham,  | honorific-suffix  =  MLA'}, "root['office1']": {'new_value': 'MLA for Kent', 'old_value': 'Member of the Legislative Assembly of New Brunswick'}}}
+154: {'dictionary_item_removed': {"root['predecessor1']": 'Alan Graham', "root['successor1']": 'incumbent'}}
+157: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'october 2010'}}}
+158: {'values_changed': {"root['term_end']": {'new_value': 'october 2010', 'old_value': 'October 2010'}}}
+159: {'dictionary_item_added': {"root['constituency']": 'Kent'}, 'dictionary_item_removed': {"root['constituency1']": 'Kent'}}
+164: {'values_changed': {"root['term_end']": {'new_value': 'October 2010', 'old_value': 'October 10 2010'}}}
+165: {'values_changed': {"root['term_end']": {'new_value': 'October 10 2010', 'old_value': 'October 12 2010'}}}
+166: {'values_changed': {"root['term_end']": {'new_value': 'October 12 2010', 'old_value': 'present'}}}
+169: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'October 12, 2010'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Shawn Michael Graham,  | honorific-suffix  =  MLA', 'old_value': 'Shawn Michael Graham,  | honorific-suffix    =  MLA'}}}
+185: {'dictionary_item_removed': {"root['term_end1']": '2010', "root['religion']": '| signature'}}
+186: {'values_changed': {"root['religion']": {'new_value': '| signature', 'old_value': 'Jewish| signature'}}}
+187: {'values_changed': {"root['religion']": {'new_value': 'Jewish| signature', 'old_value': 'Catholicism| signature'}}}
+188: {'values_changed': {"root['religion']": {'new_value': 'Catholicism| signature', 'old_value': 'Christianity| signature'}}}
+189: {'values_changed': {"root['religion']": {'new_value': 'Christianity| signature', 'old_value': 'Jewish| signature'}}}
+191: {'values_changed': {"root['religion']": {'new_value': 'Jewish| signature', 'old_value': 'Anglican| signature'}}}
+197: {'dictionary_item_added': {"root['lieutenant_governor']": 'Graydon Nicholas', "root['term_end1']": '2010'}, 'values_changed': {"root['name']": {'new_value': 'Shawn Michael Graham,  | honorific-suffix    =  MLA', 'old_value': 'Shawn Michael Graham | honorific-suffix    = MLA'}, "root['religion']": {'new_value': 'Anglican| signature', 'old_value': 'Anglican'}}}
+208: {'values_changed': {"root['term_start1']": {'new_value': '1998', 'old_value': 'October 19, 1998'}}}
+213: {'dictionary_item_removed': {"root['term_end1']": 'March 11, 2013'}}
+215: {'values_changed': {"root['successor1']": {'new_value': 'incumbent', 'old_value': 'Brian Gallant'}}}
+219: {'dictionary_item_removed': {"root['monarch']": 'Elizabeth II', "root['lieutenant_governor']": 'Herménégilde Chiasson, Graydon Nicholas'}}

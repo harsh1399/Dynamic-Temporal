@@ -1,0 +1,279 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kane', "root['birthname']": 'Glenn Thomas Jacobs', "root['names']": "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", "root['resides']": 'Knoxville, Tennessee, United States ', "root['billed']": 'Decatur, Illinois, (as Isaac Yankem, DDS) ', "root['trainer']": 'Dean Malenko', "root['debut']": '1992', "root['children']": '2 '}}
+2: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)  Hell or Parts Unknown (as Kane)'}}}
+4: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)  Hell or Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+23: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+27: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Hell or Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+28: {'values_changed': {"root['billed']": {'new_value': 'Hell or Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+46: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Jafus Turner'}}}
+49: {'values_changed': {"root['birthname']": {'new_value': 'Jafus Turner', 'old_value': 'Glenn Thomas Jacobs'}}}
+51: {'dictionary_item_added': {"root['children']": '2 '}, 'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1992 '}}}
+53: {'values_changed': {"root['debut']": {'new_value': '1992 ', 'old_value': '1992 |Spouse(s):Crystal Maurisa Goins (m. 1995.)'}}}
+55: {'dictionary_item_removed': {"root['children']": '2 '}, 'values_changed': {"root['debut']": {'new_value': '1992 |Spouse(s):Crystal Maurisa Goins (m. 1995.)', 'old_value': '1992'}}}
+59: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Glen Thoma Jacob name=OWOW />'}}}
+60: {'values_changed': {"root['birthname']": {'new_value': 'Glen Thoma Jacob name=OWOW />', 'old_value': 'Glenn Thomas Jacobs'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Kane, brother of undertaker'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Kane, brother of undertaker', 'old_value': 'Kane'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Kane the big red ugly thing'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'Kane the big red ugly thing', 'old_value': 'Kane'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Kane AF'}}}
+84: {'values_changed': {"root['name']": {'new_value': 'Kane AF', 'old_value': 'Kane Undertaker Bro'}}}
+85: {'values_changed': {"root['name']": {'new_value': 'Kane Undertaker Bro', 'old_value': 'Kane AF'}}}
+86: {'values_changed': {"root['name']": {'new_value': 'Kane AF', 'old_value': 'Kane'}}}
+103: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Glenn gayboy Jacobs'}}}
+104: {'values_changed': {"root['birthname']": {'new_value': 'Glenn gayboy Jacobs', 'old_value': 'Glenn Thomas Jacobs'}}}
+107: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Glenn Thomas Jacobs Jr'}}}
+108: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs Jr', 'old_value': 'Glenn Thomas Jacobs'}}}
+110: {'values_changed': {"root['names']": {'new_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", 'old_value': "Angus King  Bruiser Mastino  Christmas Creature  Fake Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb"}}}
+116: {'values_changed': {"root['names']": {'new_value': "Angus King  Bruiser Mastino  Christmas Creature  Fake Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", 'old_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb"}}}
+117: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Isaac Yankem DDS'}}}
+118: {'values_changed': {"root['name']": {'new_value': 'Isaac Yankem DDS', 'old_value': 'Kane'}}}
+122: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Jeff'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Jeff', 'old_value': 'Kane'}}}
+130: {'values_changed': {"root['trainer']": {'new_value': 'Dean Malenko', 'old_value': 'Dean Malenko, Boris Malenko'}}}
+131: {'values_changed': {"root['trainer']": {'new_value': 'Dean Malenko, Boris Malenko', 'old_value': 'Dean Malenko'}}}
+134: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Hell or Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+141: {'values_changed': {"root['billed']": {'new_value': 'Hell or Parts Unknown, (as Kane) Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+156: {'values_changed': {"root['names']": {'new_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", 'old_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  the ped kane  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb"}}}
+157: {'values_changed': {"root['names']": {'new_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  the ped kane  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", 'old_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb"}}}
+173: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Alex'}}}
+174: {'values_changed': {"root['name']": {'new_value': 'Alex', 'old_value': 'Kane'}}}
+177: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Kanehihbv'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'Kanehihbv', 'old_value': 'Kane'}}}
+182: {'dictionary_item_removed': {"root['spouse']": 'Political Affiliation = Republican Par'}, 'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Jacobs'}}}
+183: {'dictionary_item_added': {"root['spouse']": 'Political Affiliation = Republican Par'}, 'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Kane'}}}
+187: {'dictionary_item_removed': {"root['retired']": 'April 5,2017'}}
+189: {'values_changed': {"root['retired']": {'new_value': 'April 5,2017', 'old_value': 'April 3,2017'}}}
+196: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1979'}}}
+198: {'dictionary_item_added': {"root['retired']": 'April 3,2017'}, 'values_changed': {"root['debut']": {'new_value': '1979', 'old_value': '1992'}}}
+204: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Glenn Thomas Jacob'}}}
+205: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacob', 'old_value': 'Glenn Thomas Jacobs'}}}
+207: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Hell or Parts Unknown (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+209: {'values_changed': {"root['billed']": {'new_value': 'Hell or Parts Unknown (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+214: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Jscobs'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'Glenn Jscobs', 'old_value': 'Kane'}}}
+222: {'dictionary_item_removed': {"root['retired']": '2017 STOP CHANGING IT'}}
+230: {'dictionary_item_added': {"root['retired']": '2017 STOP CHANGING IT'}, 'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Glenn Thomas Jacobs '}}}
+233: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': "Kurtis's favourite wrestler"}}}
+234: {'dictionary_item_removed': {"root['retired']": '2017'}}
+236: {'dictionary_item_added': {"root['retired']": '2017'}, 'values_changed': {"root['name']": {'new_value': "Kurtis's favourite wrestler", 'old_value': 'Kane'}}}
+320: {'dictionary_item_removed': {"root['Height']": 'Billed height'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+335: {'dictionary_item_removed': {"root['retired']": '2017'}}
+341: {'dictionary_item_added': {"root['retired']": '2017'}, 'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'ADickSucker'}}}
+342: {'values_changed': {"root['birthname']": {'new_value': 'Glenn Thomas Jacobs ', 'old_value': 'Piemel.    Jacobs '}}}
+344: {'values_changed': {"root['name']": {'new_value': 'ADickSucker', 'old_value': 'Kane'}, "root['birthname']": {'new_value': 'Piemel.    Jacobs ', 'old_value': 'Glenn Thomas Jacobs '}}}
+348: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+355: {'dictionary_item_removed': {"root['retired']": '2017'}}
+378: {'dictionary_item_added': {"root['retired']": '2017'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+383: {'dictionary_item_added': {"root['birthname']": 'Glenn Thomas Jacobs ', "root['Height']": 'Billed height'}, 'dictionary_item_removed': {"root['weight']": '323 lb'}}
+392: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': "Undertaker's Brother"}}}
+393: {'values_changed': {"root['name']": {'new_value': "Undertaker's Brother", 'old_value': 'Kane'}}}
+398: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)  Parts Unknown , (Demon Kane) '}}}
+401: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 (Step-daughters)'}}}
+402: {'values_changed': {"root['children']": {'new_value': '2 (Step-daughters)', 'old_value': '2'}}}
+416: {'dictionary_item_removed': {"root['party']": 'Republican'}}
+421: {'dictionary_item_added': {"root['party']": 'Republican'}, 'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)  Parts Unknown , (Demon Kane) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+440: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': 'October 5, 1997'}}}
+441: {'values_changed': {"root['debut']": {'new_value': 'October 5, 1997', 'old_value': '1992'}}}
+449: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'omar'}}}
+450: {'values_changed': {"root['name']": {'new_value': 'omar', 'old_value': 'Kane'}}}
+457: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '999999999'}}}
+458: {'values_changed': {"root['children']": {'new_value': '999999999', 'old_value': '2'}}}
+464: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Wayne Rooney'}}}
+465: {'values_changed': {"root['name']": {'new_value': 'Wayne Rooney', 'old_value': 'Kane'}}}
+469: {'values_changed': {"root['names']": {'new_value': "Angus King  Bruiser Mastino  Christmas Creature  Diesel  Doomsday  Isaac Yankem, DDS  '''Kane'''  Mike Unabomb  Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+478: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '330 lb'}}}
+480: {'values_changed': {"root['weight']": {'new_value': '330 lb', 'old_value': '323 lb'}}}
+488: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Undetaker'}}}
+490: {'values_changed': {"root['name']": {'new_value': 'Undetaker', 'old_value': 'Undertaker'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'Undertaker', 'old_value': 'Kane'}}}
+523: {'dictionary_item_removed': {"root['retired']": '2017 '}}
+554: {'dictionary_item_added': {"root['retired']": '2017 '}, 'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+590: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': 'Angus King , Bruiser Mastino , Christmas Creature , Diesel, Unabomb'}}}
+591: {'values_changed': {"root['names']": {'new_value': 'Angus King , Bruiser Mastino , Christmas Creature , Diesel, Unabomb', 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+592: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+593: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '326 lb'}}}
+594: {'values_changed': {"root['weight']": {'new_value': '326 lb', 'old_value': '323 lb'}}}
+595: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Parts Unknown, Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+600: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 step daughters'}}}
+601: {'values_changed': {"root['children']": {'new_value': '2 step daughters', 'old_value': '2'}}}
+628: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown, Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Parts Unknown or Hell (as Kane), Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+629: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown or Hell (as Kane), Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Parts Unknown, Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+665: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+666: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+740: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown, Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Parts Unknown (or Hell), (as Kane), Decatur, Illinois, (as Isaac Yankem, DDS) '}}}
+752: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+753: {'values_changed': {"root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+765: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1992 |semi-retired'}}}
+766: {'values_changed': {"root['debut']": {'new_value': '1992 |semi-retired', 'old_value': '1992'}}}
+847: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States ', 'old_value': 'Knoxville, Tennessee, United States'}, "root['billed']": {'new_value': 'Parts Unknown (or Hell), (as Kane), Decatur, Illinois, (as Isaac Yankem, DDS) ', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+855: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown (or Hell), (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+860: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown (or Hell), (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+864: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Corporate Kane"}}}
+865: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Corporate Kane", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+871: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown (or Hell), (as Kane)   Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+873: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown (or Hell), (as Kane)   Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+883: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States', 'old_value': 'Knoxville, Tennessee, United States  | Political Party   =Republican'}}}
+885: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States  | Political Party   =Republican', 'old_value': 'Knoxville, Tennessee, United States  | Political Party   = Republican'}}}
+886: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States  | Political Party   = Republican', 'old_value': 'Knoxville, Tennessee, United States  | Political Party      = Republican'}}}
+887: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States  | Political Party      = Republican', 'old_value': 'Knoxville, Tennessee, United States  | political party      = Republican'}}}
+888: {'dictionary_item_removed': {"root['political_party']": 'Republican'}, 'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States  | political party      = Republican', 'old_value': 'Knoxville, Tennessee, United States'}}}
+933: {'dictionary_item_added': {"root['political_party']": 'Republican'}, 'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Hell or Parts Unknown, (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS)'}}}
+937: {'values_changed': {"root['billed']": {'new_value': 'Hell or Parts Unknown, (as Kane)  Decatur, Illinois, (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+976: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown or Hell (as Kane)  Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+981: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown or Hell (as Kane)  Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+991: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)  | Originally from=Knoxville,Tennessee'}}}
+992: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)  | Originally from=Knoxville,Tennessee', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1025: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': 'October 5th 1997 (Kane)'}}}
+1026: {'values_changed': {"root['debut']": {'new_value': 'October 5th 1997 (Kane)', 'old_value': '1992'}}}
+1075: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Shahed'}, "root['children']": {'new_value': '2', 'old_value': '3 Daughter'}, "root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Shahed , The Black Monster , Masked Monster , Titan , Doomsday , Villain, DDS , '''Shahed''' , Mike Unabomb , Unabomb"}, "root['weight']": {'new_value': '323 lb', 'old_value': '265 lb'}}}
+1076: {'values_changed': {"root['name']": {'new_value': 'Shahed', 'old_value': 'Kane'}, "root['children']": {'new_value': '3 Daughter', 'old_value': '2'}, "root['names']": {'new_value': "Shahed , The Black Monster , Masked Monster , Titan , Doomsday , Villain, DDS , '''Shahed''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}, "root['weight']": {'new_value': '265 lb', 'old_value': '323 lb'}}}
+1094: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '95'}}}
+1095: {'values_changed': {"root['children']": {'new_value': '95', 'old_value': '2'}}}
+1097: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Quadir Woolfolk'}}}
+1098: {'values_changed': {"root['name']": {'new_value': 'Quadir Woolfolk', 'old_value': 'Kane'}}}
+1103: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '326 lb'}}}
+1112: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1113: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1122: {'dictionary_item_added': {"root['billed']": 'Decatur, Illinois (as Isaac Yankem, DDS)'}, 'dictionary_item_removed': {"root['actual']": 'Decatur, Illinois (as Isaac Yankem, DDS)'}}
+1123: {'dictionary_item_added': {"root['actual']": 'Decatur, Illinois (as Isaac Yankem, DDS)'}, 'dictionary_item_removed': {"root['billed']": 'Decatur, Illinois (as Isaac Yankem, DDS)'}}
+1128: {'values_changed': {"root['weight']": {'new_value': '326 lb', 'old_value': '323 lbs'}}}
+1129: {'values_changed': {"root['weight']": {'new_value': '323 lbs', 'old_value': '326 lb'}}}
+1130: {'values_changed': {"root['weight']": {'new_value': '326 lb', 'old_value': '323 lb'}}}
+1131: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '326 lb'}}}
+1132: {'values_changed': {"root['weight']": {'new_value': '326 lb', 'old_value': '323 lb'}}}
+1133: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Deamon Jones'}}}
+1134: {'values_changed': {"root['name']": {'new_value': 'Deamon Jones', 'old_value': 'Kane'}}}
+1140: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'DJ'}}}
+1141: {'values_changed': {"root['name']": {'new_value': 'DJ', 'old_value': 'Kane'}}}
+1142: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Glenn Jacobs>ref name=OWOW/ >, Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1143: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Glenn Jacobs>ref name=OWOW/ >, Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1148: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb  name= big red machine"}}}
+1149: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb  name= big red machine", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1157: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': "'''Kane''''''Bold text'''"}}}
+1158: {'values_changed': {"root['name']": {'new_value': "'''Kane''''''Bold text'''", 'old_value': 'Kane'}}}
+1177: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1178: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Hell'}}}
+1179: {'values_changed': {"root['billed']": {'new_value': 'Hell', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}, "root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+1180: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '330 lb'}, "root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1181: {'values_changed': {"root['debut']": {'new_value': '1997', 'old_value': 'October 7, 1997'}}}
+1182: {'values_changed': {"root['weight']": {'new_value': '330 lb', 'old_value': '323 lb'}, "root['debut']": {'new_value': 'October 7, 1997', 'old_value': '1992'}}}
+1207: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown'}}}
+1210: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}}}
+1211: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown', 'old_value': 'Parts Unnone'}, "root['trainer']": {'new_value': 'Dean Malenko', 'old_value': 'Dean Melencoe'}}}
+1212: {'values_changed': {"root['billed']": {'new_value': 'Parts Unnone', 'old_value': 'Parts Unknown'}, "root['trainer']": {'new_value': 'Dean Melencoe', 'old_value': 'Dean Malenko'}}}
+1214: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1215: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown', 'old_value': "Part's Unknown"}}}
+1217: {'values_changed': {"root['billed']": {'new_value': "Part's Unknown", 'old_value': 'Parts Unknown'}, "root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+1218: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown', 'old_value': "Part's Unknown"}, "root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1219: {'values_changed': {"root['billed']": {'new_value': "Part's Unknown", 'old_value': 'Parts Unknown'}, "root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+1220: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Kurly Kane<ref"}}}
+1221: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Kurly Kane<ref", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Kurly Kane"}}}
+1222: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1223: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb , Kurly Kane", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}, "root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+1236: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Fake Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb"}, "root['billed']": {'new_value': 'Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1266: {'values_changed': {"root['resides']": {'new_value': 'Knoxville, Tennessee, United States', 'old_value': 'Knoxville, Tennessee, United States '}}}
+1271: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '328 lb'}}}
+1274: {'values_changed': {"root['weight']": {'new_value': '328 lb', 'old_value': '323 lb'}}}
+1282: {'dictionary_item_added': {"root['resides']": 'Knoxville, Tennessee, United States '}, 'dictionary_item_removed': {"root['party']": 'Republican', "root['alma_mater']": 'Northeast Missouri State University'}}
+1283: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Kaen and atul'}}}
+1285: {'values_changed': {"root['name']": {'new_value': 'Kaen and atul', 'old_value': 'Kane'}}}
+1293: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown'}}}
+1294: {'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1997'}}}
+1295: {'values_changed': {"root['billed']": {'new_value': 'Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}, "root['debut']": {'new_value': '1997', 'old_value': '1992'}}}
+1298: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Demon Kane'}}}
+1299: {'values_changed': {"root['name']": {'new_value': 'Demon Kane', 'old_value': 'Kane'}}}
+1304: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Parts Unknown'}}}
+1317: {'dictionary_item_added': {"root['weight']": '323 lb'}, 'values_changed': {"root['billed']": {'new_value': 'Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)'}}}
+1319: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Hell or Parts Unknown (as Kane)'}}}
+1332: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Thomas Jacobs<r'}}}
+1333: {'values_changed': {"root['name']": {'new_value': 'Glenn Thomas Jacobs<r', 'old_value': 'Glenn Thomas Jacobs'}}}
+1336: {'values_changed': {"root['name']": {'new_value': 'Glenn Thomas Jacobs', 'old_value': 'Kane'}}}
+1337: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Thomas Jacobs<r'}}}
+1338: {'values_changed': {"root['name']": {'new_value': 'Glenn Thomas Jacobs<r', 'old_value': 'Kane'}}}
+1340: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Thomas Jacobs<r'}}}
+1341: {'values_changed': {"root['name']": {'new_value': 'Glenn Thomas Jacobs<r', 'old_value': 'Kane'}}}
+1342: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Glenn Jacobs'}}}
+1343: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Kane'}}}
+1367: {'values_changed': {"root['name']": {'new_value': 'Kane', 'old_value': 'Dounit'}}}
+1368: {'values_changed': {"root['name']": {'new_value': 'Dounit', 'old_value': 'Kane'}}}
+1436: {'values_changed': {"root['names']": {'new_value': "Angus King , Bruiser Mastino , Christmas Creature , Diesel , Doomsday , Isaac Yankem, DDS , '''Kane''' , Mike Unabomb , Unabomb", 'old_value': 'Angus King '}}}
+1471: {'dictionary_item_removed': {"root['retired']": 'July 25 , 2018  '}}
+1472: {'dictionary_item_added': {"root['retired']": 'July 25 , 2018  '}, 'values_changed': {"root['debut']": {'new_value': '1992', 'old_value': '1992  '}}}
+1514: {'dictionary_item_added': {"root['name']": 'Kane'}, 'dictionary_item_removed': {"root['office']": 'older |image=Kane WrestleMania 32 Axxess.jpg |caption = Kane sporting his signature red mask at WrestleMania 32 Axxess in 2016 |name=Kane', "root['term_start']": [''], "root['succeeding']": 'Tim Burchett'}}
+1518: {'type_changes': {"root['term_start']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'August 2, 2018', 'new_value': ['']}}, 'dictionary_item_added': {"root['succeeding']": 'Tim Burchett'}, 'dictionary_item_removed': {"root['term_end']": '|preceeded by= Tim Burchett'}}
+1520: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican , Libertarian'}}}
+1523: {'values_changed': {"root['term_start']": {'new_value': 'August 2, 2018', 'old_value': 'September 1,2018'}}}
+1525: {'dictionary_item_added': {"root['office']": 'older |image=Kane WrestleMania 32 Axxess.jpg |caption = Kane sporting his signature red mask at WrestleMania 32 Axxess in 2016 |name=Kane', "root['term_start']": 'September 1,2018', "root['term_end']": '|preceeded by= Tim Burchett'}, 'dictionary_item_removed': {"root['name']": 'Glenn Jacobs (Kane)'}}
+1527: {'dictionary_item_added': {"root['name']": 'Glenn Jacobs (Kane)'}, 'dictionary_item_removed': {"root['office']": 'Mayor of Knox County, Elect', "root['term_start']": 'August 2018', "root['succeeding']": 'Tim Burchett'}}
+1528: {'values_changed': {"root['term_start']": {'new_value': 'August 2018', 'old_value': 'September 1, 2018'}}}
+1530: {'values_changed': {"root['debut']": {'new_value': '1992  ', 'old_value': '1992'}}}
+1531: {'values_changed': {"root['party']": {'new_value': 'Republican , Libertarian', 'old_value': 'Libertarian'}}}
+1532: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County, Elect', 'old_value': 'Mayor-elect of Knox County, Elect'}}}
+1538: {'values_changed': {"root['party']": {'new_value': 'Libertarian', 'old_value': 'Republican'}}}
+1543: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County, Elect', 'old_value': 'Mayor-elect of Knox County'}}}
+1544: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor-elect of Knox County, TN'}}}
+1553: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County, TN', 'old_value': 'Mayor-elect of Knox County'}}}
+1554: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor-elect of Knox County, TN'}}}
+1556: {'dictionary_item_removed': {"root['name']": 'Glenn Jacobs', "root['child']": 'yes'}, 'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County, TN', 'old_value': 'Mayor of Knox County, '}, "root['alma_mater']": {'new_value': 'Northeast Missouri State University', 'old_value': 'Northeast Missouri State University (BA)'}, "root['debut']": {'new_value': '1992', 'old_value': '1992 '}}}
+1558: {'values_changed': {"root['term_start']": {'new_value': 'September 1, 2018', 'old_value': 'August 1, 2018'}}}
+1559: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County, ', 'old_value': 'Mayor-Elect of Knox County'}}}
+1560: {'values_changed': {"root['office']": {'new_value': 'Mayor-Elect of Knox County', 'old_value': 'Mayor-elect of Knox County'}}}
+1561: {'values_changed': {"root['term_start']": {'new_value': 'August 1, 2018', 'old_value': 'September 1, 2018'}}}
+1562: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor  of Knox County'}}}
+1565: {'dictionary_item_added': {"root['name']": 'Glenn Jacobs', "root['child']": 'yes'}, 'values_changed': {"root['office']": {'new_value': 'Mayor  of Knox County', 'old_value': 'Mayor-elect of Knox County, TN'}, "root['alma_mater']": {'new_value': 'Northeast Missouri State University (BA)', 'old_value': 'Northeast Missouri State University'}, "root['debut']": {'new_value': '1992 ', 'old_value': '1992'}}}
+1566: {'dictionary_item_removed': {"root['name']": 'Glenn Jacobs', "root['child']": 'yes'}, 'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County, TN', 'old_value': 'Mayor-elect of Knox County'}, "root['alma_mater']": {'new_value': 'Northeast Missouri State University', 'old_value': 'Northeast Missouri State University (BA)'}, "root['debut']": {'new_value': '1992', 'old_value': '1992 '}}}
+1567: {'dictionary_item_added': {"root['alma_mater']": 'Northeast Missouri State University (BA)'}, 'dictionary_item_removed': {"root['education']": 'Northeast Missouri State University (BA)'}}
+1568: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County'}}}
+1570: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor-elect of Knox County'}}}
+1584: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County'}}}
+1585: {'dictionary_item_added': {"root['name']": 'Glenn Jacobs', "root['education']": 'Northeast Missouri State University (BA)', "root['child']": 'yes'}, 'dictionary_item_removed': {"root['alma_mater']": 'Northeast Missouri State University'}, 'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor-elect of Knox County, TN'}, "root['debut']": {'new_value': '1992 ', 'old_value': '1992'}}}
+1589: {'dictionary_item_added': {"root['alma_mater']": 'Northeast Missouri State University'}, 'dictionary_item_removed': {"root['name']": 'Glenn Jacobs', "root['education']": 'Northeast Missouri State University (BA)', "root['child']": 'yes'}, 'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County, TN', 'old_value': 'Mayor-elect of Knox County'}, "root['debut']": {'new_value': '1992', 'old_value': '1992 '}}}
+1591: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County'}}}
+1592: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor-elect of Knox County'}}}
+1598: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County'}}}
+1599: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor-elect of Knox County'}}}
+1600: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County'}}}
+1601: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor-elect of Knox County'}}}
+1627: {'values_changed': {"root['office']": {'new_value': 'Mayor-elect of Knox County', 'old_value': 'Mayor of Knox County, Elect'}}}
+1629: {'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County, Elect', 'old_value': 'Mayor of Knox County'}}}
+1706: {'dictionary_item_added': {"root['succeeding']": 'Tim Burchett'}, 'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Hell or Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1707: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)  Parts Unknown'}}}
+1714: {'dictionary_item_removed': {"root['weight']": '323 lb'}}
+1721: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)  Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) Parts Unknown'}}}
+1727: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown'}, "root['trainer']": {'new_value': 'Dean Malenko', 'old_value': 'Dean Malenko '}, "root['debut']": {'new_value': '1992 ', 'old_value': '1992<ref name'}}}
+1761: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Kane the mane'}}}
+1762: {'values_changed': {"root['name']": {'new_value': 'Kane the mane', 'old_value': 'Glenn Jacobs'}}}
+1763: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Kane the Dang Mane'}}}
+1764: {'values_changed': {"root['name']": {'new_value': 'Kane the Dang Mane', 'old_value': 'Glenn Jacobs'}}}
+1774: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Glenn Jacobs (Kane)'}}}
+1776: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs (Kane)', 'old_value': 'Glenn Jacobs'}}}
+1793: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '303 lb'}}}
+1794: {'values_changed': {"root['weight']": {'new_value': '303 lb', 'old_value': '323 lb'}}}
+1796: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '310 lb'}}}
+1797: {'values_changed': {"root['weight']": {'new_value': '310 lb', 'old_value': '323 lb'}}}
+1804: {'values_changed': {"root['names']": {'new_value': 'Angus King ', 'old_value': 'Big Red Fire Man /r/squaredcircle '}}}
+1805: {'values_changed': {"root['names']": {'new_value': 'Big Red Fire Man /r/squaredcircle ', 'old_value': 'Angus King '}}}
+1809: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1000'}}}
+1811: {'values_changed': {"root['children']": {'new_value': '1000', 'old_value': '1'}}}
+1812: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+1813: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1820: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '326 lb'}}}
+1821: {'values_changed': {"root['weight']": {'new_value': '326 lb', 'old_value': '323 lb'}}}
+1832: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)'}}}
+1835: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1836: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)'}}}
+1837: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1838: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)'}}}
+1839: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1840: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)'}}}
+1842: {'values_changed': {"root['billed']": {'new_value': 'Decatur, Illinois (as Isaac Yankem, DDS) , Parts Unknown (as Kane)', 'old_value': 'Decatur, Illinois (as Isaac Yankem, DDS)'}}}
+1845: {'values_changed': {"root['weight']": {'new_value': '323 lb', 'old_value': '320-328 lb'}}}
+1846: {'values_changed': {"root['weight']": {'new_value': '320-328 lb', 'old_value': '323 lb'}}}
+1853: {'type_changes': {"root['names']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Angus King', 'Bruiser Mastino', 'Christmas Creature', 'Diesel', 'Doomsday', 'Isaac Yankem, DDS', "'''Kane'''", 'Mike Unabomb', 'Unabomb'], 'new_value': 'Angus King '}, "root['trainer']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Dean Malenko', 'Ray Candy'], 'new_value': 'Dean Malenko '}}}
+1908: {'iterable_item_removed': {"root['names'][7]": 'Mayor Glenn Jacobs'}}
+1909: {'iterable_item_added': {"root['names'][7]": 'Mayor Glenn Jacobs'}}
+1921: {'iterable_item_removed': {"root['names'][5]": 'Mayor Glenn Jacobs'}}
+1944: {'values_changed': {"root['name']": {'new_value': 'Glenn Jacobs', 'old_value': 'Kane'}, "root['office']": {'new_value': 'Mayor of Knox County', 'old_value': 'Mayor of Knox County, Tennessee'}, "root['names'][2]": {'new_value': 'Christmas Creature', 'old_value': 'The Christmas Creature'}, "root['debut']": {'new_value': '1992<ref name', 'old_value': '1992'}}, 'iterable_item_added': {"root['names'][5]": 'Mayor Glenn Jacobs'}, 'iterable_item_removed': {"root['names'][8]": 'Sid Powers', "root['names'][9]": 'Spartacus', "root['trainer'][1]": 'Jeff Bradley'}}
+1956: {'dictionary_item_removed': {"root['retired']": '2018   '}}
+1966: {'values_changed': {"root['retired']": {'new_value': '2018   ', 'old_value': '2018  '}}}
+1981: {'dictionary_item_added': {"root['retired']": '2018  '}, 'values_changed': {"root['office']": {'new_value': 'Mayor of Knox County, Tennessee', 'old_value': 'Mayor of Knox County'}}}

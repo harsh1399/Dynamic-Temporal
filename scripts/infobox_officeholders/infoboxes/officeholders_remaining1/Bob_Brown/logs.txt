@@ -1,0 +1,36 @@
+48: {'dictionary_item_removed': {"root['name']": 'Dr. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   MB BS', "root['office']": 'Senator for Tasmania', "root['term_start']": '1 July 1996', "root['constituency']": 'Tasmania', "root['party']": 'Australian Greens', "root['partner']": 'Paul Thomas', "root['occupation']": 'Politician'}}
+52: {'values_changed': {"root['name']": {'new_value': 'Dr. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   MB BS', 'old_value': 'Prof. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   BM BS'}}}
+53: {'values_changed': {"root['name']": {'new_value': 'Prof. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   BM BS', 'old_value': 'Dr. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   MB BS'}}}
+54: {'dictionary_item_added': {"root['constituency']": 'Tasmania'}, 'dictionary_item_removed': {"root['constituency_MP2']": 'Denison', "root['parliament2']": 'Tasmanian', "root['term_start2']": '4 January 1983', "root['term_end2']": '12 February 1993', "root['predecessor2']": 'Norm Sanders', "root['successor2']": 'Peg Putt'}}
+66: {'dictionary_item_removed': {"root['residence']": 'Hobart'}}
+69: {'dictionary_item_removed': {"root['profession']": 'Medical doctor'}}
+89: {'dictionary_item_added': {"root['profession']": 'Medical doctor'}, 'dictionary_item_removed': {"root['term_end']": '13 April 2012'}}
+113: {'dictionary_item_added': {"root['term_end']": '13 April 2012'}, 'dictionary_item_removed': {"root['profession']": 'Doctor'}}
+115: {'dictionary_item_removed': {"root['constituency']": 'Tasmania', "root['otherparty']": 'Tasmanian Greens (1983-1993)'}, 'values_changed': {"root['party']": {'new_value': 'Australian Greens', 'old_value': 'Australian Greens (1996-present)'}}}
+121: {'dictionary_item_removed': {"root['religion']": 'lapsed Presbyterian'}}
+124: {'dictionary_item_removed': {"root['office1']": 'Leader of the Australian Greens', "root['term_start1']": '1 July 1996', "root['term_end1']": '13 April 2012', "root['successor1']": 'Christine Milne'}}
+125: {'dictionary_item_removed': {"root['deputy1']": 'Christine Milne'}}
+126: {'values_changed': {"root['term_start1']": {'new_value': '1 July 1996', 'old_value': '28 November 2005'}}}
+128: {'dictionary_item_removed': {"root['alma_mater']": 'University of Sydney'}}
+131: {'dictionary_item_removed': {"root['predecessor1']": "''new position''"}}
+142: {'values_changed': {"root['otherparty']": {'new_value': 'Tasmanian Greens (1983-1993)', 'old_value': 'Tasmanian Greens (1989-1993)'}}}
+144: {'values_changed': {"root['otherparty']": {'new_value': 'Tasmanian Greens (1989-1993)', 'old_value': 'Tasmanian Greens (1983-1993)'}}}
+148: {'values_changed': {"root['religion']": {'new_value': 'lapsed Presbyterian', 'old_value': 'Atheist'}}}
+149: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'lapsed Presbyterian'}}}
+150: {'dictionary_item_removed': {"root['term_end']": '-->June 2012<--'}}
+176: {'dictionary_item_added': {"root['term_end']": '-->June 2012<--', "root['religion']": 'lapsed Presbyterian'}, 'values_changed': {"root['deputy1']": {'new_value': 'Christine Milne', 'old_value': 'Christine Milne "(10 November 2008-13 April 2012)"'}}}
+177: {'dictionary_item_removed': {"root['religion']": 'lapsed Presbyterian'}, 'values_changed': {"root['deputy1']": {'new_value': 'Christine Milne "(10 November 2008-13 April 2012)"', 'old_value': 'Christine Milne'}}}
+190: {'dictionary_item_added': {"root['constituency']": 'Tasmania'}, 'values_changed': {"root['deputy1']": {'new_value': 'Christine Milne', 'old_value': "Christine Milne ''(from 2008)''"}}}
+200: {'dictionary_item_removed': {"root['term_end']": '15 June 2012'}}
+207: {'dictionary_item_added': {"root['term_end']": '15 June 2012'}, 'values_changed': {"root['name']": {'new_value': 'Dr. Bob Brown | honorific-prefix    =  Senator   | honorific-suffix    =   MB BS', 'old_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS'}}}
+208: {'dictionary_item_removed': {"root['term_end']": '15 June 2012'}}
+215: {'dictionary_item_removed': {"root['office3']": 'Leader of the Australian Greens'}}
+216: {'dictionary_item_removed': {"root['term_start3']": '1989 ("de facto")'}, 'values_changed': {"root['office3']": {'new_value': 'Leader of the Australian Greens', 'old_value': 'Leader of the Tasmanian Greens'}}}
+217: {'dictionary_item_removed': {"root['term_end3']": '1993', "root['predecessor3']": 'none', "root['successor3']": 'Christine Milne'}}
+224: {'values_changed': {"root['party']": {'new_value': 'Australian Greens (1996-present)', 'old_value': 'Australian Greens (1996-2012)'}, "root['otherparty']": {'new_value': 'Tasmanian Greens (1983-1993)', 'old_value': 'Tasmanian Greens (1989 (de facto)-1993)'}}}
+225: {'values_changed': {"root['name']": {'new_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS', 'old_value': 'Dr. Robert Brown | honorific-prefix    = | honorific-suffix    =   MB BS'}}}
+226: {'values_changed': {"root['name']": {'new_value': 'Dr. Robert Brown | honorific-prefix    = | honorific-suffix    =   MB BS', 'old_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS'}, "root['party']": {'new_value': 'Australian Greens (1996-2012)', 'old_value': 'Australian Greens (1996-present)'}, "root['otherparty']": {'new_value': 'Tasmanian Greens (1989 (de facto)-1993)', 'old_value': 'Tasmanian Greens (1983-1993)'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS', 'old_value': 'Dr. Caterpie | honorific-prefix    = | honorific-suffix    =   MB BS'}}}
+247: {'values_changed': {"root['name']": {'new_value': 'Dr. Caterpie | honorific-prefix    = | honorific-suffix    =   MB BS', 'old_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS'}}}
+273: {'values_changed': {"root['name']": {'new_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    =   MB BS', 'old_value': 'Dr. Bob Brown | honorific-prefix    = | honorific-suffix    = MB BS'}}}
+277: {'values_changed': {"root['occupation']": {'new_value': 'Politician', 'old_value': 'Politician, Environmentalist'}}}

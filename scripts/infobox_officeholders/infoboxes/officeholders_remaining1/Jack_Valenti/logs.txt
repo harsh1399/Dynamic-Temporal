@@ -1,0 +1,11 @@
+55: {'dictionary_item_removed': {"root['subject_name']": 'Jack Valenti', "root['image_name']": 'Jack-valenti-164x299.jpg', "root['image_caption']": 'Jack Valenti', "root['date_of_birth']": 'September 5, 1921', "root['date_of_death']": 'April 26, 2007 (age 85)', "root['occupation']": 'President of the MPAA '}}
+95: {'values_changed': {"root['occupation']": {'new_value': 'President of the MPAA ', 'old_value': 'Dead '}}}
+97: {'values_changed': {"root['occupation']": {'new_value': 'Dead ', 'old_value': 'President of the MPAA '}}}
+98: {'values_changed': {"root['date_of_birth']": {'new_value': 'September 5, 1921', 'old_value': 'September 5 1921'}, "root['date_of_death']": {'new_value': 'April 26, 2007 (age 85)', 'old_value': 'April 26 2007 (age 85)'}}}
+141: {'values_changed': {"root['occupation']": {'new_value': 'President of the MPAA ', 'old_value': 'Coffin Stuffer '}}}
+144: {'values_changed': {"root['occupation']": {'new_value': 'Coffin Stuffer ', 'old_value': 'President of the MPAA '}}}
+146: {'values_changed': {"root['occupation']": {'new_value': 'President of the MPAA ', 'old_value': 'Deceased '}}}
+147: {'values_changed': {"root['occupation']": {'new_value': 'Deceased ', 'old_value': 'President of the MPAA '}}}
+175: {'dictionary_item_added': {"root['subject_name']": 'Jack Valenti', "root['image_name']": 'Jack-valenti-164x299.jpg', "root['image_caption']": 'Jack Valenti', "root['date_of_birth']": 'September 5 1921', "root['date_of_death']": 'April 26 2007 (age 85)'}, 'dictionary_item_removed': {"root['name']": 'Jack Valenti'}}
+184: {'values_changed': {"root['occupation']": {'new_value': 'President of the MPAA ', 'old_value': 'President of the MPAA, Special Assistant to the President of the United States '}}}
+185: {'values_changed': {"root['occupation']": {'new_value': 'President of the MPAA, Special Assistant to the President of the United States ', 'old_value': 'President of the MPAA '}}}

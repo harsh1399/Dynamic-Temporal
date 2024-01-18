@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Georgi Sedefchov Parvanov, Георги Седефчов Първанов', "root['order']": 'President of Bulgaria', "root['primeminister']": 'Simeon Sakskoburggotski, Sergey Stanishev', "root['vicepresident']": 'Angel Marin', "root['term_start']": '22 January 2002', "root['spouse']": 'Zorka Parvanova', "root['party']": 'BSP '}}
+80: {'dictionary_item_added': {"root['primeminister']": 'Simeon Sakskoburggotski, Sergey Stanishev'}, 'values_changed': {"root['order']": {'new_value': 'President of Bulgaria', 'old_value': 'President of Bulgaria | Prime Minister = Simeon Saxe-Coburg Gotha, Sergey Stanishev'}}}
+81: {'dictionary_item_removed': {"root['primeminister']": 'Simeon Sakskoburggotski, Sergey Stanishev'}, 'values_changed': {"root['order']": {'new_value': 'President of Bulgaria | Prime Minister = Simeon Saxe-Coburg Gotha, Sergey Stanishev', 'old_value': 'President of Bulgaria'}}}
+164: {'values_changed': {"root['primeminister']": {'new_value': 'Simeon Sakskoburggotski, Sergey Stanishev', 'old_value': 'Simeon Saxe-Coburg Gothski, Sergey Stanishev'}}}
+165: {'values_changed': {"root['primeminister']": {'new_value': 'Simeon Saxe-Coburg Gothski, Sergey Stanishev', 'old_value': 'Simeon Saxe-Coburg Gotha, Sergey Stanishev'}}}
+239: {'dictionary_item_added': {"root['order']": 'President of Bulgaria'}, 'dictionary_item_removed': {"root['office']": 'President of Bulgaria', "root['term_end']": '22 January 2012', "root['otherparty']": 'Communist Party  (1981–1990) , Socialist Party  (1990–2002)', "root['alma_mater']": 'Sofia University', "root['religion']": 'Bulgarian Orthodoxy '}, 'values_changed': {"root['name']": {'new_value': 'Georgi Sedefchov Parvanov, Георги Седефчов Първанов', 'old_value': 'Georgi Parvanov,  Георги Първанов'}, "root['primeminister']": {'new_value': 'Simeon Saxe-Coburg Gotha, Sergey Stanishev', 'old_value': 'Simeon Sakskoburggotski, Sergei Stanishev, Boyko Borisov'}, "root['spouse']": {'new_value': 'Zorka Parvanova', 'old_value': 'Zorka Petrova'}, "root['party']": {'new_value': 'BSP ', 'old_value': 'Independent  (2002–present)'}}}
+241: {'dictionary_item_added': {"root['religion']": 'Bulgarian Orthodoxy '}, 'values_changed': {"root['alma_mater']": {'new_value': 'Sofia University', 'old_value': 'Sofia University '}}}
+251: {'values_changed': {"root['office']": {'new_value': 'President of Bulgaria', 'old_value': '4th President of the Republic of Bulgaria'}}}
+252: {'values_changed': {"root['alma_mater']": {'new_value': 'Sofia University ', 'old_value': 'Sofia University'}}}
+254: {'dictionary_item_removed': {"root['children']": '2'}}
+257: {'dictionary_item_removed': {"root['profession']": 'Historian'}}
+258: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Vladimir   Ivailo'}}}
+259: {'values_changed': {"root['children']": {'new_value': 'Vladimir   Ivailo', 'old_value': 'Vladimir   Ivaylo'}}}
+263: {'dictionary_item_removed': {"root['religion']": 'Bulgarian Orthodox'}}
+266: {'dictionary_item_added': {"root['religion']": 'Bulgarian Orthodox'}, 'values_changed': {"root['office']": {'new_value': '4th President of the Republic of Bulgaria', 'old_value': '3rd President of the Republic of Bulgaria'}}}
+267: {'values_changed': {"root['office']": {'new_value': '3rd President of the Republic of Bulgaria', 'old_value': 'President of Bulgaria'}}}
+270: {'dictionary_item_removed': {"root['blank1']": 'Ethnicity', "root['data1']": 'Bulgarian '}}
+271: {'values_changed': {"root['office']": {'new_value': 'President of Bulgaria', 'old_value': '3rd President of Bulgaria'}}}
+275: {'dictionary_item_added': {"root['data1']": 'Bulgarian '}, 'values_changed': {"root['office']": {'new_value': '3rd President of Bulgaria', 'old_value': '4th President of Bulgaria'}}}
+277: {'values_changed': {"root['blank1']": {'new_value': 'Ethnicity', 'old_value': 'Ethnicity '}}}
+295: {'dictionary_item_added': {"root['otherparty']": 'Communist Party  (1981–1990) , Socialist Party  (1990–2002)', "root['profession']": 'Historian', "root['blank1']": 'Ethnicity '}, 'values_changed': {"root['name']": {'new_value': 'Georgi Parvanov,  Георги Първанов', 'old_value': 'Georgi Parvanov, '}, "root['party']": {'new_value': 'Independent  (2002–present)', 'old_value': 'Communist Party '}, "root['children']": {'new_value': 'Vladimir   Ivaylo', 'old_value': 'Vladimir, Ivaylo'}}}

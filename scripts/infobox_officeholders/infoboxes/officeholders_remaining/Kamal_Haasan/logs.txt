@@ -1,0 +1,317 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kamal Haasan', "root['residence']": 'Chennai, Tamil Nadu, India', "root['occupation']": 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer', "root['awards']": 'Padmashri, Kalaimamani', "root['yearsactive']": '1959–present', "root['partner']": 'Gouthami', "root['children']": 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}
+9: {'values_changed': {"root['awards']": {'new_value': 'Padmashri, Kalaimamani', 'old_value': 'Padmashri, Kalaimamani,padmabhushan'}}}
+10: {'values_changed': {"root['awards']": {'new_value': 'Padmashri, Kalaimamani,padmabhushan', 'old_value': 'Padmashri, Kalaimamani'}}}
+13: {'values_changed': {"root['awards']": {'new_value': 'Padmashri, Kalaimamani', 'old_value': 'Padmashri, Kalaimamani,Padmabhusan'}}}
+14: {'values_changed': {"root['awards']": {'new_value': 'Padmashri, Kalaimamani,Padmabhusan', 'old_value': 'Padmashri, Kalaimamani'}}}
+15: {'values_changed': {"root['awards']": {'new_value': 'Padmashri, Kalaimamani', 'old_value': 'Padma Bhushan, Padmashri, Kalaimamani'}}}
+17: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan, Padmashri, Kalaimamani', 'old_value': 'Padma Bhushan,   Padmashri, Kalaimamani'}}}
+19: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan,   Padmashri, Kalaimamani', 'old_value': 'Padma Bhushan, '}}}
+22: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan, ', 'old_value': 'Padma Bhushan,   Padmashri, Kalaimamani'}}}
+23: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan,   Padmashri, Kalaimamani', 'old_value': 'Kalaimamani (1979), '}}}
+36: {'values_changed': {"root['awards']": {'new_value': 'Kalaimamani (1979), ', 'old_value': 'Kalaimamani (1979) '}}}
+43: {'dictionary_item_removed': {"root['TitleNames']": 'Ulaganayagan, SakalakalaVallavan, kalaignani'}}
+44: {'values_changed': {"root['TitleNames']": {'new_value': 'Ulaganayagan, SakalakalaVallavan, kalaignani', 'old_value': 'Ulaganayagan, Sakalakala Vallavan, kalaignani'}}}
+46: {'values_changed': {"root['TitleNames']": {'new_value': 'Ulaganayagan, Sakalakala Vallavan, kalaignani', 'old_value': 'Universal Hero, Ulaga Nayagan ,Sakalakala Vallavan, Kalaignani'}}}
+50: {'dictionary_item_added': {"root['TitleNames']": 'Universal Hero, Ulaga Nayagan ,Sakalakala Vallavan, Kalaignani'}, 'dictionary_item_removed': {"root['spouse']": '1988|2004}//}'}}
+51: {'dictionary_item_added': {"root['spouse']": '1988|2004}//}'}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) }'}}}
+52: {'dictionary_item_removed': {"root['spouse']": '1988|2004}//}'}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) }', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+57: {'dictionary_item_added': {"root['spouse']": '1988|2004}//}'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'hindu Haasan'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'hindu Haasan', 'old_value': 'Kamal Haasan'}}}
+60: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Mukesh Saini'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Mukesh Saini', 'old_value': 'Kamal Hasan'}}}
+62: {'values_changed': {"root['name']": {'new_value': 'Kamal Hasan', 'old_value': 'Kamal Haasan'}}}
+84: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+85: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+92: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Vamala Haasan'}}}
+93: {'values_changed': {"root['name']": {'new_value': 'Vamala Haasan', 'old_value': 'Kamal Haasan'}}}
+113: {'values_changed': {"root['awards']": {'new_value': 'Kalaimamani (1979) ', 'old_value': 'Padma Bhushan (2014) '}}}
+114: {'values_changed': {"root['partner']": {'new_value': 'Gouthami', 'old_value': 'Gouthami(2005-present)'}}}
+115: {'values_changed': {"root['partner']": {'new_value': 'Gouthami(2005-present)', 'old_value': 'Gouthami (2005-present)'}}}
+164: {'dictionary_item_added': {"root['partner']": 'Gouthami (2005-present)'}, 'dictionary_item_removed': {"root['keep']": 'Gouthami (2005-present)'}}
+165: {'dictionary_item_added': {"root['keep']": 'Gouthami (2005-present)'}, 'dictionary_item_removed': {"root['Parner']": 'Gouthami (2005-present)'}}
+166: {'dictionary_item_added': {"root['Parner']": 'Gouthami (2005-present)'}, 'dictionary_item_removed': {"root['partner']": 'Gouthami (2005-present)'}}
+167: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, Philanthropist'}}}
+168: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, Philanthropist', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer'}}}
+211: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+212: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan chettan'}}}
+224: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan chettan', 'old_value': 'Kamal Haasan'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Thiruma\\ l'}}}
+229: {'values_changed': {"root['name']": {'new_value': 'Thiruma\\ l', 'old_value': 'Kamal Haasan'}}}
+230: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Masar'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Masar', 'old_value': 'Kamal Haasan'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Munish'}}}
+234: {'values_changed': {"root['name']": {'new_value': 'Munish', 'old_value': 'Kamal Haasan'}}}
+264: {'dictionary_item_removed': {"root['Religion']": 'Hindu'}, 'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu, India', 'old_value': 'Neelankarai,Chennai, Tamil Nadu, India'}, "root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer,song writer'}}}
+277: {'values_changed': {"root['Religion']": {'new_value': 'Hindu', 'old_value': 'Atheism'}}}
+299: {'values_changed': {"root['residence']": {'new_value': 'Neelankarai,Chennai, Tamil Nadu, India', 'old_value': 'Alwarpet , Chennai, Tamil Nadu, India'}}}
+307: {'values_changed': {"root['partner']": {'new_value': 'Gouthami (2005-present)', 'old_value': 'Gouthami (2005–present)'}}}
+312: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan loves Christmas'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan loves Christmas', 'old_value': 'Kamal Haasan'}}}
+343: {'dictionary_item_removed': {"root['Ethnicity']": 'Tamilian'}}
+345: {'dictionary_item_added': {"root['Ethnicity']": 'Tamilian', "root['Religion']": 'Atheism'}, 'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer,song writer', 'old_value': 'Film Actor, Producer, Director, Screenwriter, Playback Singer, Lyricist, Choreographer, Song writer, Dancer, Philanthropist.'}}}
+367: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan (2014) ', 'old_value': 'Padma Shri (1990)  Padma Bhushan (2014)'}}}
+373: {'dictionary_item_removed': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+374: {'dictionary_item_added': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+380: {'dictionary_item_removed': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+381: {'dictionary_item_added': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+382: {'dictionary_item_removed': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+384: {'dictionary_item_added': {"root['ethnicity']": 'Tamil '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+385: {'values_changed': {"root['residence']": {'new_value': 'Alwarpet , Chennai, Tamil Nadu, India', 'old_value': 'Alwarpet , Chennai, Tamil Nadu, India '}, "root['yearsactive']": {'new_value': '1959–present', 'old_value': '1959'}, "root['partner']": {'new_value': 'Gouthami (2005–present)', 'old_value': 'Gouthami (2005'}}}
+463: {'values_changed': {"root['occupation']": {'new_value': 'Film Actor, Producer, Director, Screenwriter, Playback Singer, Lyricist, Choreographer, Song writer, Dancer, Philanthropist.', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+472: {'dictionary_item_removed': {"root['Height']": '175 cm '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+473: {'dictionary_item_added': {"root['Height']": '175 cm '}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) '}}}
+486: {'values_changed': {"root['partner']": {'new_value': 'Gouthami (2005', 'old_value': 'Gautami Tadimalla (2005'}}}
+487: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasinu'}}}
+488: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasinu', 'old_value': 'Kamal Haasan'}}}
+493: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991) ', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+511: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Hasaaaaan'}}}
+512: {'values_changed': {"root['name']": {'new_value': 'Kamal Hasaaaaan', 'old_value': 'Kamal Haasan'}}}
+519: {'dictionary_item_removed': {"root['ethnicity']": 'Tamil'}}
+521: {'dictionary_item_added': {"root['ethnicity']": 'Tamil'}, 'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991),  Subbharajyalakshmi Haasan (b. 1999)'}}}
+522: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991),  Subbharajyalakshmi Haasan (b. 1999)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+533: {'dictionary_item_removed': {"root['ethnicity']": 'Tamil'}}
+534: {'dictionary_item_removed': {"root['religion']": 'Atheism'}}
+558: {'dictionary_item_added': {"root['residence']": 'Alwarpet , Chennai, Tamil Nadu, India ', "root['ethnicity']": 'Tamil', "root['religion']": 'Atheism', "root['awards']": 'Padma Shri (1990)  Padma Bhushan (2014)'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal hosan'}}}
+559: {'values_changed': {"root['name']": {'new_value': 'Kamal hosan', 'old_value': 'Kamal Haasan'}}}
+560: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Hosan'}}}
+561: {'values_changed': {"root['name']": {'new_value': 'Kamal Hosan', 'old_value': 'Kamal Haasan'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasanகமல்ஹாசன்'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasanகமல்ஹாசன்', 'old_value': 'Kamal Haasan கமல்ஹாசன்'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan கமல்ஹாசன்', 'old_value': 'Kamal Haasan'}}}
+603: {'dictionary_item_removed': {"root['Religion']": 'Atheism'}}
+607: {'dictionary_item_added': {"root['Religion']": 'Atheism'}, 'dictionary_item_removed': {"root['awards']": 'Chevalier French Award (201'}}
+613: {'dictionary_item_added': {"root['awards']": 'Chevalier French Award (201'}, 'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Film actor'}}}
+615: {'values_changed': {"root['occupation']": {'new_value': 'Film actor', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+616: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Film actor'}}}
+617: {'values_changed': {"root['occupation']": {'new_value': 'Film actor', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+637: {'dictionary_item_removed': {"root['residence']": 'Chennai, Tamil Nadu, India.', "root['ethnicity']": 'Tamil'}}
+676: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan (legend of acting -OBAMA President)'}}}
+677: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan (legend of acting -OBAMA President)', 'old_value': 'Kamal Haasan'}}}
+737: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'sai prasanth'}}}
+738: {'values_changed': {"root['name']": {'new_value': 'sai prasanth', 'old_value': 'Kamal Haasan'}}}
+739: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'guru'}}}
+740: {'values_changed': {"root['name']": {'new_value': 'guru', 'old_value': 'Kamal Haasan'}}}
+748: {'dictionary_item_removed': {"root['religion']": 'Hinduism'}}
+755: {'dictionary_item_added': {"root['name']": 'Kamal Haasan', "root['religion']": 'Hinduism', "root['ethnicity']": 'Tamil'}, 'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2005', 'old_value': 'Gautami Tadimalla (2004 - 2016)'}}}
+774: {'dictionary_item_added': {"root['partner']": 'Gautami Tadimalla (2004 - 2016)'}, 'dictionary_item_removed': {"root['name']": 'Ulaganayagan Kamal Haasan'}}
+783: {'dictionary_item_added': {"root['name']": 'Ulaganayagan Kamal Haasan'}, 'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu, India.', 'old_value': 'Chennai, Tamil Nadu'}}}
+784: {'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu', 'old_value': 'Chennai, Tamil Nadu, India.'}}}
+785: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer,Politician, dancer, philanthropist'}}}
+786: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer,Politician, dancer, philanthropist', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+790: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+791: {'values_changed': {"root['occupation']": {'new_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+794: {'values_changed': {"root['occupation']": {'new_value': 'Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+795: {'dictionary_item_removed': {"root['partner']": '2004|reason=divorced|2016'}}
+798: {'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu, India.', 'old_value': 'Chennai, Tamil Nadu'}}}
+802: {'values_changed': {"root['occupation']": {'new_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Dubagar Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+803: {'values_changed': {"root['occupation']": {'new_value': 'Dubagar Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+809: {'dictionary_item_added': {"root['partner']": '2004|reason=divorced|2016'}, 'values_changed': {"root['occupation']": {'new_value': 'Politician, Film actor, producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist', 'old_value': 'Film actor, Politician, Producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+812: {'dictionary_item_removed': {"root['spouse']": 'living partner'}}
+815: {'dictionary_item_added': {"root['spouse']": 'living partner'}, 'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu', 'old_value': 'Chennai, Tamil Nadu, India.'}}}
+817: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Film actor', 'politician', 'producer', 'director', 'screenwriter', 'playback singer', 'lyricist', 'choreographer', 'song writer', 'dancer', 'philanthropist'], 'new_value': 'Film actor, Politician, Producer, director, screenwriter, playback singer, lyricist, choreographer, song writer, dancer, philanthropist'}}}
+818: {'dictionary_item_removed': {"root['partner']": '2004|reason=divorced|2016'}}
+819: {'values_changed': {"root['partner']": {'new_value': '2004|reason=divorced|2016', 'old_value': 'Gautami Tadimalla (2004–2016)'}}}
+820: {'dictionary_item_removed': {"root['awards']": 'Political Par'}}
+821: {'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2004–2016)', 'old_value': 'Gautami Tadimalla (2005–2017)'}}}
+823: {'dictionary_item_added': {"root['awards']": 'Political Par'}, 'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2005–2017)', 'old_value': 'Gautami Tadimalla (2004–2016)'}}}
+825: {'dictionary_item_removed': {"root['party']": 'Makkal Neethi Maryam'}}
+826: {'values_changed': {"root['party']": {'new_value': 'Makkal Neethi Maryam', 'old_value': 'Makkal Needhi Maiam'}}}
+829: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam', 'old_value': 'Makkal Neethi Maryam'}}}
+830: {'values_changed': {"root['party']": {'new_value': 'Makkal Neethi Maryam', 'old_value': 'Makkal Needhi Maiam'}}}
+831: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam', 'old_value': 'Makkal Neethi Maryam'}}}
+832: {'values_changed': {"root['party']": {'new_value': 'Makkal Neethi Maryam', 'old_value': "Makkal Neethi Maiam (People's Justice Centre)"}}}
+833: {'values_changed': {"root['party']": {'new_value': "Makkal Neethi Maiam (People's Justice Centre)", 'old_value': "Makkal Needhi Maiam (People's Justice Centre)"}}}
+840: {'iterable_item_removed': {"root['occupation'][10]": 'political leader'}}
+841: {'iterable_item_added': {"root['occupation'][10]": 'political leader'}}
+842: {'values_changed': {"root['occupation'][1]": {'new_value': 'politician', 'old_value': 'political leader'}}}
+848: {'values_changed': {"root['party']": {'new_value': "Makkal Needhi Maiam (People's Justice Centre)", 'old_value': "Makkal Needhi Maiam (People's Justice Centre)  | yearsactive"}}}
+852: {'values_changed': {"root['party']": {'new_value': "Makkal Needhi Maiam (People's Justice Centre)  | yearsactive", 'old_value': "Makkal Needhi Maiam (People's Justice Centre)"}}}
+858: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan , (b.1986), Akshara Haasan (b.1991)'}}}
+860: {'dictionary_item_removed': {"root['name']": 'Kamal Hassan(an Illuminati)'}}
+862: {'dictionary_item_added': {"root['name']": 'Kamal Hassan(an Illuminati)'}, 'iterable_item_removed': {"root['occupation'][4]": 'member of Illuminati'}}
+863: {'iterable_item_added': {"root['occupation'][4]": 'member of Illuminati'}}
+866: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan , (b.1986), Akshara Haasan (b.1991)', 'old_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)'}}}
+869: {'dictionary_item_removed': {"root['name']": 'Kamal Haasan'}, 'values_changed': {"root['occupation'][0]": {'new_value': 'Film actor', 'old_value': 'Film Actor'}, "root['occupation'][1]": {'new_value': 'political leader', 'old_value': 'Political Leader'}, "root['occupation'][2]": {'new_value': 'producer', 'old_value': 'Producer'}, "root['occupation'][3]": {'new_value': 'director', 'old_value': 'Director'}, "root['occupation'][4]": {'new_value': 'screenwriter', 'old_value': 'Screen-Writer'}, "root['occupation'][5]": {'new_value': 'playback singer', 'old_value': 'Playback Singer'}, "root['occupation'][6]": {'new_value': 'lyricist', 'old_value': 'Lyricist'}, "root['occupation'][7]": {'new_value': 'choreographer', 'old_value': 'Choreographer'}, "root['occupation'][8]": {'new_value': 'song writer', 'old_value': 'Dancer'}, "root['occupation'][9]": {'new_value': 'dancer', 'old_value': 'Philanthropist'}}, 'iterable_item_added': {"root['occupation'][10]": 'philanthropist'}}
+871: {'iterable_item_removed': {"root['occupation'][10]": 'Giving divorces to womens'}}
+872: {'iterable_item_added': {"root['occupation'][10]": 'Giving divorces to womens'}}
+874: {'iterable_item_removed': {"root['occupation'][2]": 'Upcoming Chief Minister of Tamil Nadu'}}
+875: {'iterable_item_added': {"root['occupation'][2]": 'Upcoming Chief Minister of Tamil Nadu'}}
+881: {'values_changed': {"root['residence']": {'new_value': 'Chennai, Tamil Nadu, India.', 'old_value': 'Chennai, Tamil Nadu, India'}}}
+887: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan | honorific-suffix = PS, PB'}, "root['party']": {'new_value': "Makkal Needhi Maiam (People's Justice Centre)", 'old_value': 'Makkal Needhi Maiam'}, "root['children']": {'new_value': 'Shruti Haasan (b. 1986), Akshara Haasan (b. 1991)', 'old_value': 'Shruti Haasan , Akshara Haasan'}}}
+888: {'iterable_item_removed': {"root['occupation'][7]": 'Television Presenter'}}
+889: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix = PS, PB', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+896: {'dictionary_item_removed': {"root['death']": '04|13|due to unavailability of cauvery water drink|'}}
+899: {'dictionary_item_added': {"root['death']": '04|13|due to unavailability of cauvery water drink|'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix   ='}}}
+900: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix   =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+902: {'values_changed': {"root['children']": {'new_value': 'Shruti Haasan , Akshara Haasan', 'old_value': 'Vijay Krishna , Jenny lora'}}}
+904: {'values_changed': {"root['children']": {'new_value': 'Vijay Krishna , Jenny lora', 'old_value': 'Shruti Haasan , Akshara Haasan'}}}
+918: {'dictionary_item_removed': {"root['religion']": 'Atheist'}}
+925: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam', 'old_value': 'BJP'}}}
+926: {'values_changed': {"root['party']": {'new_value': 'BJP', 'old_value': 'Makkal Needhi Maiam'}}}
+947: {'dictionary_item_removed': {"root['office']": 'Founder and President of the Makkal Needhi Maiam', "root['term_start']": '2017'}, 'values_changed': {"root['occupation'][1]": {'new_value': 'Political Leader', 'old_value': 'Politican'}, "root['occupation'][2]": {'new_value': 'Producer', 'old_value': 'film Producer'}, "root['occupation'][3]": {'new_value': 'Director', 'old_value': 'flim Director'}}}
+948: {'values_changed': {"root['term_start']": {'new_value': '2017', 'old_value': '21 Feburary 2018'}}}
+949: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan'}}}
+950: {'values_changed': {"root['term_start']": {'new_value': '21 Feburary 2018', 'old_value': '21 February 2018'}}}
+953: {'values_changed': {"root['occupation'][1]": {'new_value': 'Politican', 'old_value': 'Politician'}}}
+954: {'values_changed': {"root['occupation'][0]": {'new_value': 'Film Actor', 'old_value': 'Actor'}, "root['occupation'][2]": {'new_value': 'film Producer', 'old_value': 'Film Producer'}, "root['occupation'][3]": {'new_value': 'flim Director', 'old_value': 'Film Director'}, "root['occupation'][4]": {'new_value': 'Screen-Writer', 'old_value': 'ScreenWriter'}}}
+955: {'values_changed': {"root['occupation'][4]": {'new_value': 'ScreenWriter', 'old_value': 'Screenwriter'}}}
+956: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam', 'old_value': 'Makkal Needhi Maiam (2018-present)'}}}
+958: {'dictionary_item_added': {"root['residence']": 'Chennai, Tamil Nadu, India', "root['yearsactive']": '1959', "root['religion']": 'Atheist'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan | honorific-suffix   ='}, "root['occupation'][1]": {'new_value': 'Politician', 'old_value': 'politician'}, "root['occupation'][2]": {'new_value': 'Film Producer', 'old_value': 'film producer'}, "root['occupation'][3]": {'new_value': 'Film Director', 'old_value': 'film director'}, "root['occupation'][4]": {'new_value': 'Screenwriter', 'old_value': 'screenwriter'}, "root['occupation'][5]": {'new_value': 'Playback Singer', 'old_value': 'playback singer'}, "root['occupation'][6]": {'new_value': 'Lyricist', 'old_value': 'lyricist'}, "root['occupation'][7]": {'new_value': 'Television Presenter', 'old_value': 'television presenter'}, "root['occupation'][8]": {'new_value': 'Choreographer', 'old_value': 'choreographer'}, "root['occupation'][9]": {'new_value': 'Dancer', 'old_value': 'dancer'}, "root['occupation'][10]": {'new_value': 'Philanthropist', 'old_value': 'philanthropist'}}}
+963: {'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2004–2016)', 'old_value': 'Gautami (2004–2016)'}}}
+966: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami Tadimalla (2004–2016)'}}}
+967: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam (2018-present)', 'old_value': 'Dravida Munnetra Kazhagam (2018-present)'}}}
+968: {'values_changed': {"root['party']": {'new_value': 'Dravida Munnetra Kazhagam (2018-present)', 'old_value': 'makkal needhi maiam (2018-present)'}}}
+972: {'values_changed': {"root['office']": {'new_value': 'Founder and President of the Makkal Needhi Maiam', 'old_value': 'President of the Makkal Needhi Maiam'}, "root['party']": {'new_value': 'makkal needhi maiam (2018-present)', 'old_value': 'Makkal Needhi Maiam (2018-present)'}}}
+979: {'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2004–2016)', 'old_value': 'Gautami (2004–2016)'}}}
+987: {'values_changed': {"root['occupation'][7]": {'new_value': 'television presenter', 'old_value': 'television hoster'}}}
+988: {'values_changed': {"root['occupation'][7]": {'new_value': 'television hoster', 'old_value': 'television presenter'}}}
+997: {'dictionary_item_removed': {"root['residence']": 'Chennai, Tamil Nadu, India'}, 'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi Maiam', 'old_value': 'Founder and President of the Makkal Needhi Maiam'}, "root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami Tadimalla (2004–2016)'}}}
+1008: {'dictionary_item_added': {"root['residence']": 'Chennai, Tamil Nadu, India'}, 'values_changed': {"root['office']": {'new_value': 'Founder and President of the Makkal Needhi Maiam', 'old_value': 'President of the Makkal Needhi Maiam'}, "root['partner']": {'new_value': 'Gautami Tadimalla (2004–2016)', 'old_value': 'Gautami (2004–2016)'}}}
+1010: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix   =', 'old_value': 'Parthasarathi Srinivasan | honorific-suffix   ='}}}
+1016: {'values_changed': {"root['name']": {'new_value': 'Parthasarathi Srinivasan | honorific-suffix   =', 'old_value': 'Kamal Haasan | honorific-suffix   ='}}}
+1031: {'iterable_item_removed': {"root['occupation'][10]": 'Bigg Boss Anchor 1&2'}}
+1032: {'iterable_item_added': {"root['occupation'][10]": 'Bigg Boss Anchor 1&2'}}
+1034: {'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi Maiam', 'old_value': 'Makkal Needhi Maiyam'}}}
+1035: {'values_changed': {"root['office']": {'new_value': 'Makkal Needhi Maiyam', 'old_value': '1st Secretary-General of Makkal Needhi Maiyam'}}}
+1058: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix   =', 'old_value': 'Kamal Hasan | honorific-suffix   ='}}}
+1059: {'values_changed': {"root['name']": {'new_value': 'Kamal Hasan | honorific-suffix   =', 'old_value': 'Kamal Hassan | honorific-suffix ='}}}
+1061: {'values_changed': {"root['name']": {'new_value': 'Kamal Hassan | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix   ='}}}
+1062: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix   =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1078: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiyam', 'old_value': '1st Secretary-General of Makkal Needhi Maiam'}}}
+1079: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiam', 'old_value': '1st Secretary-General of Makkal Needhi Maiyam'}}}
+1080: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiyam', 'old_value': '1st Secretary-General of Makkal Needhi Maiam'}}}
+1083: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiam', 'old_value': '1st Secretary-General of Makkal Needhi Maiyam'}}}
+1092: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan re'}}}
+1093: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan re', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1103: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiyam', 'old_value': '1st Secretary-General of Makkal Needhi Maiam'}}}
+1112: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiam', 'old_value': '1st Secretary-General of Makkal Needhi Maiyam'}}}
+1115: {'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiyam', 'old_value': '1st Secretary-General of Makkal Needhi Maiam'}}}
+1125: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan (காமல ஹஸந) | honorific-suffix ='}}}
+1126: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan (காமல ஹஸந) | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1158: {'iterable_item_added': {"root['occupation'][1]": 'politician'}, 'iterable_item_removed': {"root['occupation'][10]": 'politician'}}
+1166: {'values_changed': {"root['occupation'][1]": {'new_value': 'film producer', 'old_value': 'Film Producer'}, "root['occupation'][2]": {'new_value': 'film director', 'old_value': 'Film Director'}, "root['occupation'][3]": {'new_value': 'screenwriter', 'old_value': 'Screenwriter'}, "root['occupation'][4]": {'new_value': 'playback singer', 'old_value': 'Playback Singer'}, "root['occupation'][5]": {'new_value': 'lyricist', 'old_value': 'Lyricist'}, "root['occupation'][6]": {'new_value': 'television presenter', 'old_value': 'Television Presenter'}, "root['occupation'][7]": {'new_value': 'choreographer', 'old_value': 'Choreographer'}, "root['occupation'][8]": {'new_value': 'dancer', 'old_value': 'Dancer'}, "root['occupation'][9]": {'new_value': 'philanthropist', 'old_value': 'Philanthropist'}, "root['occupation'][10]": {'new_value': 'politician', 'old_value': 'Politician'}}}
+1167: {'values_changed': {"root['occupation'][1]": {'new_value': 'Film Producer', 'old_value': 'film producer'}, "root['occupation'][2]": {'new_value': 'Film Director', 'old_value': 'film director'}, "root['occupation'][3]": {'new_value': 'Screenwriter', 'old_value': 'screenwriter'}, "root['occupation'][4]": {'new_value': 'Playback Singer', 'old_value': 'playback singer'}, "root['occupation'][5]": {'new_value': 'Lyricist', 'old_value': 'lyricist'}, "root['occupation'][6]": {'new_value': 'Television Presenter', 'old_value': 'television presenter'}, "root['occupation'][7]": {'new_value': 'Choreographer', 'old_value': 'choreographer'}, "root['occupation'][8]": {'new_value': 'Dancer', 'old_value': 'dancer'}, "root['occupation'][9]": {'new_value': 'Philanthropist', 'old_value': 'philanthropist'}, "root['occupation'][10]": {'new_value': 'Politician', 'old_value': 'politician'}}}
+1175: {'dictionary_item_added': {"root['children']": 'Shruti Haasan , Akshara Haasan'}, 'values_changed': {"root['office']": {'new_value': '1st Secretary-General of Makkal Needhi Maiam', 'old_value': 'President of Makkal Needhi Maiam'}, "root['occupation'][0]": {'new_value': 'Actor', 'old_value': 'actor'}, "root['party']": {'new_value': 'Makkal Needhi Maiam (2018-present)', 'old_value': 'Makkal Needhi Maiam (2018–present)'}}}
+1176: {'values_changed': {"root['occupation'][0]": {'new_value': 'actor', 'old_value': 'Actor'}}}
+1187: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan sir | honorific-suffix ='}}}
+1188: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan sir | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}, "root['office']": {'new_value': 'President of Makkal Needhi Maiam', 'old_value': 'President of Makkal Needhi Maiam(MNM)'}}}
+1189: {'values_changed': {"root['office']": {'new_value': 'President of Makkal Needhi Maiam(MNM)', 'old_value': 'President of Makkal Needhi Maiam'}}}
+1211: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Padmashri Ulaga Nayagan Kamal Haasan | honorific-suffix ='}}}
+1212: {'values_changed': {"root['name']": {'new_value': 'Padmashri Ulaga Nayagan Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1213: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Padmashri Kamal Haasan | honorific-suffix ='}}}
+1214: {'values_changed': {"root['name']": {'new_value': 'Padmashri Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1216: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami (2004–2016) '}}}
+1222: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016) ', 'old_value': 'Gautami (2004–2016)'}}}
+1224: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan The God of Indian Cinema | honorific-suffix ='}}}
+1225: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan The God of Indian Cinema | honorific-suffix =', 'old_value': 'Kamal Haasan  | honorific-suffix ='}}}
+1226: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan  | honorific-suffix =', 'old_value': 'Preetham Solomon | honorific-suffix ='}}}
+1227: {'values_changed': {"root['name']": {'new_value': 'Preetham Solomon | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1228: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan Preetham Solomon | honorific-suffix ='}}}
+1229: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan Preetham Solomon | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1230: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan preetham Solomon | honorific-suffix ='}}}
+1231: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan preetham Solomon | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1234: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan God of Cinema AANDAVAR | honorific-suffix ='}}}
+1235: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan God of Cinema AANDAVAR | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1236: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan God of Cinema AANDAVAR | honorific-suffix ='}}}
+1237: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan God of Cinema AANDAVAR | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix ='}}}
+1238: {'dictionary_item_removed': {"root['net_worth']": '$ 100 million (2020)'}}
+1242: {'dictionary_item_removed': {"root['Religion']": 'Brahmin'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix =', 'old_value': 'Kamal Haasan | honorific-suffix = Haasan'}}}
+1243: {'values_changed': {"root['Religion']": {'new_value': 'Brahmin', 'old_value': 'Brahmin.'}}}
+1244: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan | honorific-suffix = Haasan', 'old_value': 'Kamal Haasan'}}}
+1251: {'dictionary_item_added': {"root['Religion']": 'Brahmin.'}, 'dictionary_item_removed': {"root['education']": 'Prince dr k Vasudevan college of engineering and technology'}}
+1268: {'dictionary_item_added': {"root['education']": 'Prince dr k Vasudevan college of engineering and technology'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamalaasan'}}}
+1269: {'values_changed': {"root['name']": {'new_value': 'Kamalaasan', 'old_value': 'Kamal Haasan'}}}
+1296: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami (2004–2016) Poojakumar  (2016- Present )'}}}
+1299: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016) Poojakumar  (2016- Present )', 'old_value': 'Gautami (2004–2016)'}}}
+1300: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamel Haasan'}, "root['term_start']": {'new_value': '21 February 2018', 'old_value': '21 February 2011'}}}
+1301: {'values_changed': {"root['name']": {'new_value': 'Kamel Haasan', 'old_value': 'Kamal Haasan'}, "root['term_start']": {'new_value': '21 February 2011', 'old_value': '21 February 2018'}}}
+1309: {'values_changed': {"root['net_worth']": {'new_value': '$ 100 million (2020)', 'old_value': '0 million (2020)'}}}
+1310: {'values_changed': {"root['net_worth']": {'new_value': '0 million (2020)', 'old_value': '$ 100 million (2020)'}}}
+1330: {'values_changed': {"root['office']": {'new_value': 'President of Makkal Needhi Maiam', 'old_value': 'President of kunjithabadham paal pandi'}}}
+1331: {'values_changed': {"root['office']": {'new_value': 'President of kunjithabadham paal pandi', 'old_value': 'President of Makkal Needhi Maiam'}}}
+1334: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami and Pooja Kumar(2004–2016 to Present)'}}}
+1335: {'values_changed': {"root['partner']": {'new_value': 'Gautami and Pooja Kumar(2004–2016 to Present)', 'old_value': 'Gautami and Pooja Kumar  (2004–2016 to Present)'}}}
+1338: {'values_changed': {"root['partner']": {'new_value': 'Gautami and Pooja Kumar  (2004–2016 to Present)', 'old_value': 'Gautami (2004–2016)'}}}
+1360: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami (2004–2018)'}}}
+1361: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2018)', 'old_value': 'Gautami (2004–2016)'}}}
+1391: {'values_changed': {"root['office']": {'new_value': 'President of Makkal Needhi Maiam', 'old_value': 'President of the Makkal Needhi Maiam'}}}
+1406: {'dictionary_item_added': {"root['net_worth']": '$ 100 million (2020)', "root['partner']": 'Gautami (2004–2016)'}, 'dictionary_item_removed': {"root['spouse']": 'former partner             = Gautami (2004–2016'}}
+1407: {'dictionary_item_added': {"root['spouse']": 'former partner             = Gautami (2004–2016'}, 'dictionary_item_removed': {"root['partner']": 'Gautami (2004–2016)'}}
+1420: {'iterable_item_removed': {"root['occupation'][10]": 'entrepreneur'}}
+1458: {'values_changed': {"root['partner']": {'new_value': 'Gautami (2004–2016)', 'old_value': 'Gautami Tadimalla (2004–2016)'}}}
+1466: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasain'}}}
+1467: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasain', 'old_value': 'Kamal Haasan'}}}
+1502: {'values_changed': {"root['occupation'][1]": {'new_value': 'film producer', 'old_value': 'filmmaker'}}, 'iterable_item_added': {"root['occupation'][2]": 'film director', "root['occupation'][3]": 'screenwriter', "root['occupation'][5]": 'lyricist', "root['occupation'][7]": 'choreographer', "root['occupation'][9]": 'philanthropist'}}
+1527: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Anuyan Haasan'}}}
+1528: {'values_changed': {"root['name']": {'new_value': 'Anuyan Haasan', 'old_value': 'Kamal Haasan'}}}
+1535: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Anuyan’s Dad'}}, 'iterable_item_removed': {"root['occupation'][7]": 'Valorant Jesus', "root['occupation'][8]": 'Replit Master'}}
+1536: {'values_changed': {"root['name']": {'new_value': 'Anuyan’s Dad', 'old_value': 'Kamal Haasan'}}, 'iterable_item_added': {"root['occupation'][7]": 'Valorant Jesus', "root['occupation'][8]": 'Replit Master'}}
+1538: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Anuyan Haasan'}}}
+1539: {'values_changed': {"root['name']": {'new_value': 'Anuyan Haasan', 'old_value': 'Kamal Haasan'}}}
+1568: {'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi Maiam', 'old_value': 'President of the Makkal Needhi MaiaM'}}}
+1569: {'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi MaiaM', 'old_value': 'President of the Makkal Needhi Maiam'}}}
+1588: {'dictionary_item_removed': {"root['awards']": 'Also Known'}}
+1591: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Doctor Kamal Haasan'}}}
+1592: {'values_changed': {"root['name']": {'new_value': 'Doctor Kamal Haasan', 'old_value': 'Kamal Haasan'}}}
+1606: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal damal Haasan'}}}
+1607: {'values_changed': {"root['name']": {'new_value': 'Kamal damal Haasan', 'old_value': 'Kamal Haasan'}}}
+1622: {'dictionary_item_removed': {"root['residence']": '| other names         = '}}
+1646: {'dictionary_item_added': {"root['residence']": '| other names         = '}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan Bandi'}}}
+1647: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan Bandi', 'old_value': 'Rinki Friend Bandi'}}}
+1648: {'values_changed': {"root['name']": {'new_value': 'Rinki Friend Bandi', 'old_value': 'Kamal Haasan'}}}
+1651: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan (Andavar)'}}}
+1652: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan (Andavar)', 'old_value': 'Kamal Haasan'}}}
+1670: {'dictionary_item_removed': {"root['residence']": 'Alwarpet'}}
+1679: {'dictionary_item_added': {"root['residence']": 'Alwarpet'}, 'iterable_item_removed': {"root['occupation'][2]": 'Director'}}
+1691: {'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi Maiam', 'old_value': 'President o the Makkal Needhi Maiam'}}}
+1692: {'values_changed': {"root['office']": {'new_value': 'President o the Makkal Needhi Maiam', 'old_value': 'President of the Makkal Needhi Maiam'}}}
+1693: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal bHaasan'}}}
+1694: {'values_changed': {"root['name']": {'new_value': 'Kamal bHaasan', 'old_value': 'Kamal Haasan'}}}
+1727: {'dictionary_item_added': {"root['awards']": 'Also Known'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasannnnnn'}}}
+1728: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasannnnnn', 'old_value': 'Kamal Haasan'}}}
+1776: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam (2018–present)', 'old_value': 'Makkal Needhi Maiam (2018–2021)'}}}
+1777: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam (2018–2021)', 'old_value': 'Makkal Needhi Maiam (2018–present)'}}}
+1781: {'values_changed': {"root['term_start']": {'new_value': '21 February 2018', 'old_value': '05 February 2018'}}}
+1782: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal kunna'}}}
+1783: {'values_changed': {"root['name']": {'new_value': 'Kamal kunna', 'old_value': 'Kamal Haasan'}, "root['term_start']": {'new_value': '05 February 2018', 'old_value': '21 February 2018'}}}
+1786: {'dictionary_item_removed': {"root['children']": ['Shruti', 'Akshara', 'both daughters with Sarika']}}
+1787: {'iterable_item_added': {"root['occupation'][2]": 'Director', "root['occupation'][5]": 'dancer', "root['occupation'][6]": 'entrepreneur'}}
+1789: {'values_changed': {"root['children'][0]": {'new_value': 'Shruti', 'old_value': 'kangana ranaut Haasan'}}}
+1790: {'values_changed': {"root['children'][0]": {'new_value': 'kangana ranaut Haasan', 'old_value': 'Shruti'}}}
+1799: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamala Haasan'}}}
+1802: {'values_changed': {"root['name']": {'new_value': 'Kamala Haasan', 'old_value': 'Kamal Haasan'}}}
+1830: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'SIVA KARTHIKEYAN'}}}
+1831: {'values_changed': {"root['name']": {'new_value': 'SIVA KARTHIKEYAN', 'old_value': 'Kamal Haasan'}}}
+1834: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan cheating in big boss show take money from azzem family support azzem change vote make him win wow I never expect Kamal will do like this no more respect for u kamal'}}}
+1835: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan cheating in big boss show take money from azzem family support azzem change vote make him win wow I never expect Kamal will do like this no more respect for u kamal', 'old_value': 'Kamal Haasan'}}}
+1850: {'dictionary_item_added': {"root['office']": 'President of the Makkal Needhi Maiam', "root['term_start']": '21 February 2018', "root['occupation']": ['Actor', 'filmmaker', 'playback singer', 'television presenter', 'politician'], "root['party']": 'Makkal Needhi Maiam (2018–present)', "root['partner']": 'Gautami Tadimalla (2004–2016)'}, 'dictionary_item_removed': {"root['awards']": 'Dadasaheb Phalke Award (2021) <ref name'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Rajinikanth'}, "root['children'][0]": {'new_value': 'Shruti', 'old_value': 'Aishwarya'}, "root['children'][1]": {'new_value': 'Akshara', 'old_value': 'Soundarya'}}, 'iterable_item_added': {"root['children'][2]": 'both daughters with Sarika'}}
+1851: {'dictionary_item_added': {"root['awards']": 'Dadasaheb Phalke Award (2021) <ref name'}, 'dictionary_item_removed': {"root['office']": 'President of the Makkal Needhi Maiam', "root['term_start']": '21 February 2018', "root['occupation']": ['Actor', 'filmmaker', 'playback singer', 'television presenter', 'politician'], "root['party']": 'Makkal Needhi Maiam (2018–present)', "root['partner']": 'Gautami Tadimalla (2004–2016)'}, 'values_changed': {"root['name']": {'new_value': 'Rajinikanth', 'old_value': 'Kamal Haasan'}, "root['children'][0]": {'new_value': 'Aishwarya', 'old_value': 'Shruti'}, "root['children'][1]": {'new_value': 'Soundarya', 'old_value': 'Akshara'}}, 'iterable_item_removed': {"root['children'][2]": 'both daughters with Sarika'}}
+1853: {'values_changed': {"root['party']": {'new_value': 'Makkal Needhi Maiam (2018–present)', 'old_value': 'BJP (2018–present)'}}}
+1854: {'values_changed': {"root['party']": {'new_value': 'BJP (2018–present)', 'old_value': '(2018–present)'}}}
+1855: {'values_changed': {"root['party']": {'new_value': '(2018–present)', 'old_value': 'Makkal Needhi Maiam (2018–present)'}}}
+1872: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Subradeepak'}}}
+1873: {'values_changed': {"root['name']": {'new_value': 'Subradeepak', 'old_value': 'Kamal Haasan'}}}
+1875: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Padma Shri Kamal Haasan'}}}
+1876: {'values_changed': {"root['name']": {'new_value': 'Padma Shri Kamal Haasan', 'old_value': 'Kamal Haasan'}}}
+1890: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'MG.RAMACHANDRAN DA!'}}}
+1891: {'values_changed': {"root['name']": {'new_value': 'MG.RAMACHANDRAN DA!', 'old_value': 'Kamal Haasan'}}}
+1896: {'dictionary_item_removed': {"root['office2']": 'General Secretary of Makkal Needhi Maiam | term2 = 25 December 2020 - 26 February 2023 | predecessor2 = Arunchalam | successor2 = Arunchalam | birth_date          = '}}
+1901: {'values_changed': {"root['partner']": {'new_value': 'Gautami Tadimalla (2004–2016)', 'old_value': 'Gautami Tadimalla (2004-2016)'}}}
+1909: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haasan(Andavar)'}}}
+1910: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan(Andavar)', 'old_value': 'Kamal Haasan(arun bharathi)'}}}
+1911: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan(arun bharathi)', 'old_value': 'Kamal Haasan(Andavar)'}}}
+1912: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan(Andavar)', 'old_value': 'Kamal Haasan'}}}
+1923: {'dictionary_item_added': {"root['office']": 'President of the Makkal Needhi Maiam', "root['term_start']": '21 February 2018', "root['office2']": 'General Secretary of Makkal Needhi Maiam | term2 = 25 December 2020 - 26 February 2023 | predecessor2 = Arunchalam | successor2 = Arunchalam | birth_date          = ', "root['party']": 'Makkal Needhi Maiam (2018–present)', "root['partner']": 'Gautami Tadimalla (2004-2016)'}, 'dictionary_item_removed': {"root['alma_mater']": 'Adyar Film Institute', "root['awards']": 'Dadasaheb Phalke Award (2019)<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Rajinikanth'}, "root['occupation'][1]": {'new_value': 'filmmaker', 'old_value': 'Producer'}, "root['occupation'][2]": {'new_value': 'playback singer', 'old_value': 'Screenwriter'}, "root['occupation'][3]": {'new_value': 'television presenter', 'old_value': ''}, "root['children'][0]": {'new_value': 'Shruti', 'old_value': 'Aishwarya'}, "root['children'][1]": {'new_value': 'Akshara', 'old_value': 'Soundarya'}}, 'iterable_item_added': {"root['occupation'][4]": 'politician', "root['children'][2]": 'both daughters with Sarika'}}
+1924: {'dictionary_item_added': {"root['alma_mater']": 'Adyar Film Institute', "root['awards']": 'Dadasaheb Phalke Award (2019)<ref name'}, 'dictionary_item_removed': {"root['office']": 'President of the Makkal Needhi Maiam', "root['term_start']": '21 February 2018', "root['office2']": 'General Secretary of Makkal Needhi Maiam | term2 = 25 December 2020 - 26 February 2023 | predecessor2 = Arunchalam | successor2 = Arunchalam | birth_date          = ', "root['party']": 'Makkal Needhi Maiam (2018–present)', "root['partner']": 'Gautami Tadimalla (2004-2016)'}, 'values_changed': {"root['name']": {'new_value': 'Rajinikanth', 'old_value': 'Kamal Haasan'}, "root['occupation'][1]": {'new_value': 'Producer', 'old_value': 'filmmaker'}, "root['occupation'][2]": {'new_value': 'Screenwriter', 'old_value': 'playback singer'}, "root['occupation'][3]": {'new_value': '', 'old_value': 'television presenter'}, "root['children'][0]": {'new_value': 'Aishwarya', 'old_value': 'Shruti'}, "root['children'][1]": {'new_value': 'Soundarya', 'old_value': 'Akshara'}}, 'iterable_item_removed': {"root['occupation'][4]": 'politician', "root['children'][2]": 'both daughters with Sarika'}}
+1930: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Hassan'}}}
+1938: {'values_changed': {"root['name']": {'new_value': 'Kamal Hassan', 'old_value': 'Vikram sir'}}}
+1939: {'values_changed': {"root['name']": {'new_value': 'Vikram sir', 'old_value': 'Kamal Haasan'}}}
+1940: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Haassan'}}}
+1941: {'values_changed': {"root['name']": {'new_value': 'Kamal Haassan', 'old_value': 'Kamal Haasan'}}}
+1951: {'values_changed': {"root['office']": {'new_value': 'President of the Makkal Needhi Maiam', 'old_value': 'President of the Silk Road'}, "root['term_start']": {'new_value': '21 February 2018', 'old_value': '21 February 1969'}}}
+1952: {'values_changed': {"root['office']": {'new_value': 'President of the Silk Road', 'old_value': 'President of the Makkal Needhi Maiam'}, "root['term_start']": {'new_value': '21 February 1969', 'old_value': '21 February 2018'}}}
+1961: {'values_changed': {"root['children'][0]": {'new_value': 'Shruti', 'old_value': 'Rolex'}}}
+1962: {'values_changed': {"root['children'][0]": {'new_value': 'Rolex', 'old_value': 'Shruti'}}}
+1978: {'values_changed': {"root['name']": {'new_value': 'Kamal Haasan', 'old_value': 'Kamal Sundar Rajan Haasan'}}}
+1979: {'values_changed': {"root['name']": {'new_value': 'Kamal Sundar Rajan Haasan', 'old_value': 'Kamal Haasan'}}}

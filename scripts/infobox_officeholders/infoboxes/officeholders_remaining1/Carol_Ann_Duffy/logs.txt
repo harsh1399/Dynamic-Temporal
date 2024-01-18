@@ -1,0 +1,92 @@
+0: {'dictionary_item_removed': {"root['name']": 'Carol Ann Duffy', "root['birthplace']": 'Glasgow, Scotland', "root['occupation']": 'Poet', "root['subject']": 'Literature', "root['children']": 'Ella (1995)', "root['awards']": 'OBE 1995   CBE 2002'}}
+10: {'dictionary_item_removed': {"root['influences']": 'Rick Astley, MC Hammer'}}
+11: {'values_changed': {"root['influences']": {'new_value': 'Rick Astley, MC Hammer', 'old_value': 'Rick Astley, MC Hammer, Dan Townley'}}}
+12: {'dictionary_item_removed': {"root['spouse']": 'Ishteyak Hannon'}, 'values_changed': {"root['subject']": {'new_value': 'Literature', 'old_value': 'Literature and Poetry'}, "root['influences']": {'new_value': 'Rick Astley, MC Hammer, Dan Townley', 'old_value': 'Rick Astley, MC Hammer, Steven Baines'}}}
+13: {'dictionary_item_added': {"root['spouse']": 'Ishteyak Hannon'}, 'dictionary_item_removed': {"root['religion']": 'Roman Catholic'}, 'values_changed': {"root['subject']": {'new_value': 'Literature and Poetry', 'old_value': 'Literature'}, "root['influences']": {'new_value': 'Rick Astley, MC Hammer, Steven Baines', 'old_value': 'Rick Astley, MC Hammer, Dan Townley'}}}
+14: {'dictionary_item_removed': {"root['spouse']": 'Ishteyak Hannon (2004)'}, 'values_changed': {"root['influences']": {'new_value': 'Rick Astley, MC Hammer, Dan Townley', 'old_value': 'Rick Astley, MC Hammer, Steven Baines'}}}
+15: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Muslim'}}}
+17: {'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet and part-time pornstar'}}}
+19: {'dictionary_item_removed': {"root['partner']": "she's a lesbian"}}
+21: {'dictionary_item_added': {"root['partner']": "she's a lesbian", "root['religion']": 'Muslim', "root['influences']": 'Rick Astley, MC Hammer, Steven Baines'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar', 'old_value': 'Poet'}}}
+22: {'dictionary_item_removed': {"root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama, Osama Bin Laden'}}
+23: {'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet and part-time pornstar'}}}
+24: {'dictionary_item_removed': {"root['birthname']": 'Brandon Millard'}}
+25: {'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar', 'old_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel)'}}}
+27: {'dictionary_item_added': {"root['spouse']": 'Ishteyak Hannon (2004)'}, 'dictionary_item_removed': {"root['movement']": 'Likes to move around inside Ishteyaks ass', "root['partner']": 'Ishteyak Hannon (2004)'}}
+28: {'dictionary_item_added': {"root['birthname']": 'Brandon Millard', "root['movement']": 'Likes to move around inside Ishteyaks ass', "root['partner']": 'Ishteyak Hannon (2004)', "root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama, Osama Bin Laden'}, 'dictionary_item_removed': {"root['spouse']": 'Ishteyak Hannon (2004)'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel)', 'old_value': 'Poet'}}}
+29: {'dictionary_item_removed': {"root['partner']": 'Iya!', "root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama'}}
+30: {'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel and Lewis Shaw, getting sandwhiched)'}}}
+31: {'values_changed': {"root['spouse']": {'new_value': 'Ishteyak Hannon (2004)', 'old_value': 'Letitia Oglesby (2004)'}, "root['influenced']": {'new_value': 'Barack Obama', 'old_value': 'Barack Obama, Osama Bin Laden'}}}
+32: {'dictionary_item_removed': {"root['period']": 'once a month'}}
+36: {'dictionary_item_added': {"root['period']": 'once a month', "root['spouse']": 'Letitia Oglesby (2004)'}, 'dictionary_item_removed': {"root['religion']": 'Hindu'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel and Lewis Shaw, getting sandwhiched)', 'old_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel and Lewis Shaw, getting spit-roasted)'}, "root['partner']": {'new_value': 'Iya!', 'old_value': 'Ishteyak Hannon (2004)'}, "root['children']": {'new_value': 'Ella (1995)', 'old_value': 'Ella (1995) Laurie (1992)'}}}
+37: {'dictionary_item_removed': {"root['birthname']": 'Chloe Morgan', "root['spouse']": 'Adam Brookes'}}
+38: {'dictionary_item_added': {"root['birthname']": 'Chloe Morgan', "root['partner']": 'Ishteyak Hannon (2004)', "root['religion']": 'Hindu', "root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama, Osama Bin Laden'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgel and Lewis Shaw, getting spit-roasted)', 'old_value': 'Poet'}, "root['spouse']": {'new_value': 'Adam Brookes', 'old_value': 'Ishteyak Hannon (2004)'}, "root['children']": {'new_value': 'Ella (1995) Laurie (1992)', 'old_value': 'Ella (1995)'}}}
+39: {'dictionary_item_removed': {"root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgal and Lewis Shaw getting spit-roasted)'}}}
+40: {'dictionary_item_added': {"root['influences']": 'Rick Astley, MC Hammer, Steven Baines', "root['influenced']": 'Barack Obama'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar (most recently filmed with Oruc Tezgal and Lewis Shaw getting spit-roasted)', 'old_value': 'Poet'}}}
+43: {'dictionary_item_removed': {"root['partner']": 'IYA!', "root['influences']": 'MC Hammer, Rick Astley, Steven Baines'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet and part-time pornstar'}}}
+44: {'dictionary_item_removed': {"root['influenced']": 'Barack Obama'}}
+45: {'dictionary_item_added': {"root['partner']": 'IYA!', "root['influences']": 'MC Hammer, Rick Astley, Steven Baines', "root['influenced']": 'Barack Obama'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet and part-time pornstar', 'old_value': 'Poet'}}}
+52: {'values_changed': {"root['spouse']": {'new_value': 'Ishteyak Hannon (2004)', 'old_value': 'Ishteyak Hannon and Dan Townley (2004)'}}}
+53: {'dictionary_item_removed': {"root['birthname']": 'Saggy Tits', "root['genre']": 'Les'}, 'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Porn Star/Proffesional Thumb war wrestler'}}}
+54: {'dictionary_item_added': {"root['birthname']": 'Saggy Tits', "root['genre']": 'Les'}, 'values_changed': {"root['occupation']": {'new_value': 'Porn Star/Proffesional Thumb war wrestler', 'old_value': 'Poet,Playwright ad Freelance Writer'}}}
+55: {'values_changed': {"root['occupation']": {'new_value': 'Poet,Playwright ad Freelance Writer', 'old_value': 'Poet, Playwright and Freelance Writer'}}}
+56: {'values_changed': {"root['occupation']": {'new_value': 'Poet, Playwright and Freelance Writer', 'old_value': 'Poet'}}}
+57: {'dictionary_item_removed': {"root['birthname']": 'Spotty Fanny', "root['period']": 'blood everywhere'}}
+59: {'dictionary_item_added': {"root['birthname']": 'Spotty Fanny', "root['period']": 'blood everywhere'}, 'dictionary_item_removed': {"root['partner']": 'lesbian'}}
+64: {'dictionary_item_added': {"root['partner']": 'lesbian'}, 'values_changed': {"root['birthplace']": {'new_value': 'Glasgow, Scotland', 'old_value': 'CHRISTMAS, Scotland'}}}
+65: {'values_changed': {"root['birthplace']": {'new_value': 'CHRISTMAS, Scotland', 'old_value': 'Glasgow, Scotland'}}}
+85: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy', 'old_value': 'Carol Woods'}, "root['subject']": {'new_value': 'Literature', 'old_value': 'Illiteracy'}}}
+86: {'values_changed': {"root['name']": {'new_value': 'Carol Woods', 'old_value': 'Carol Ann Duffy'}, "root['subject']": {'new_value': 'Illiteracy', 'old_value': 'Literature'}}}
+96: {'values_changed': {"root['awards']": {'new_value': 'OBE 1995   CBE 2002', 'old_value': 'OBE 1995   CBE 2002 Poet Laureate 2009'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy', 'old_value': 'Carol Mann Duffy'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'Carol Mann Duffy', 'old_value': 'Carol Ann Duffy'}}}
+136: {'values_changed': {"root['awards']": {'new_value': 'OBE 1995   CBE 2002 Poet Laureate 2009', 'old_value': 'OBE 1995   CBE 2002 poet laureate 2009'}}}
+137: {'values_changed': {"root['awards']": {'new_value': 'OBE 1995   CBE 2002 poet laureate 2009', 'old_value': 'OBE 1995; CBE 2002; poet laureate 2009'}}}
+165: {'dictionary_item_added': {"root['spouse']": 'Ishteyak Hannon and Dan Townley (2004)'}, 'dictionary_item_removed': {"root['partner']": 'Until 2004, Jackie Kay'}, 'values_changed': {"root['children']": {'new_value': 'Ella (1995)', 'old_value': 'Ella (1995) with Peter Benson'}}}
+178: {'values_changed': {"root['awards']": {'new_value': 'OBE 1995; CBE 2002; poet laureate 2009', 'old_value': 'OBE 1995; CBE 2002; poet laureate 2009 | '}}}
+184: {'values_changed': {"root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet, Finger sex'}}}
+185: {'values_changed': {"root['occupation']": {'new_value': 'Poet, Finger sex', 'old_value': 'Poet'}}}
+197: {'values_changed': {"root['birthplace']": {'new_value': 'Glasgow, Scotland', 'old_value': 'Glasgow, Scotland, UK'}}}
+258: {'values_changed': {"root['birthplace']": {'new_value': 'Glasgow, Scotland, UK', 'old_value': 'fucked up land, Scotland, UK'}}}
+259: {'values_changed': {"root['birthplace']": {'new_value': 'fucked up land, Scotland, UK', 'old_value': 'Glasgow, Scotland, UK'}}}
+265: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy', 'old_value': 'Carol Muff Duffy'}}}
+266: {'values_changed': {"root['name']": {'new_value': 'Carol Muff Duffy', 'old_value': 'Carol Ann Duffy'}}}
+291: {'values_changed': {"root['children']": {'new_value': 'Ella (1995) with Peter Benson', 'old_value': 'Ella (born 1995) with Peter Benson'}}}
+431: {'dictionary_item_added': {"root['birthplace']": 'Glasgow, Scotland, UK', "root['subject']": 'Literature', "root['partner']": 'Until 2004, Jackie Kay'}, 'dictionary_item_removed': {"root['office']": 'Poet Laureate of the United Kingdom', "root['monarch']": 'Elizabeth II', "root['term_start']": '1 May 2009', "root['language']": 'English', "root['education']": 'B.A. (Hons) Philosophy', "root['alma_mater']": 'University of Liverpool'}, 'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}, "root['occupation']": {'new_value': 'Poet', 'old_value': 'Poet, playwright'}, "root['children']": {'new_value': 'Ella (born 1995) with Peter Benson', 'old_value': 'Ella (born 1995)'}, "root['awards']": {'new_value': 'OBE 1995; CBE 2002; poet laureate 2009 | ', 'old_value': 'OBE 1995,  CBE 2002 DBE 2015'}}}
+435: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Duff man from spring field  | honorific-suffix = DBE FRSL'}, "root['office']": {'new_value': 'Poet Laureate of the United Kingdom', 'old_value': 'Duff man of the United Kingdom'}}}
+436: {'values_changed': {"root['name']": {'new_value': 'Duff man from spring field  | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}, "root['office']": {'new_value': 'Duff man of the United Kingdom', 'old_value': 'Poet Laureate of the United Kingdom'}}}
+468: {'values_changed': {"root['office']": {'new_value': 'Poet Laureate of the United Kingdom', 'old_value': 'Poet Laureate of the anus Kingdom'}}}
+469: {'values_changed': {"root['office']": {'new_value': 'Poet Laureate of the anus Kingdom', 'old_value': 'Poet Laureate of the British  Kingdom'}}}
+470: {'values_changed': {"root['office']": {'new_value': 'Poet Laureate of the British  Kingdom', 'old_value': 'Poet Laureate of the United Kingdom'}}}
+507: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy (Rosie Odonnell) | honorific-suffix = DBE FRSL'}}}
+508: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy (Rosie Odonnell) | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+509: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy Rosie Fat Odonnel | honorific-suffix = DBE FRSL'}}}
+510: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy Rosie Fat Odonnel | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+519: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann My nan | honorific-suffix = DBE FRSL'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'Carol Ann My nan | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+533: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy 3 | honorific-suffix = DBE FRSL'}}}
+534: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy 3 | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+539: {'dictionary_item_removed': {"root['period']": 'she is pregnant', "root['spouse']": 'Me'}}
+543: {'dictionary_item_added': {"root['period']": 'she is pregnant', "root['spouse']": 'Me'}, 'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Lesbian | honorific-suffix = DBE FRSL'}}}
+544: {'values_changed': {"root['name']": {'new_value': 'Lesbian | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+558: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy bob th | honorific-suffix = DBE FRSL'}}}
+559: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy bob th | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+560: {'values_changed': {"root['term_start']": {'new_value': '1 May 2009', 'old_value': '1 May 1923'}}}
+561: {'values_changed': {"root['term_start']": {'new_value': '1 May 1923', 'old_value': '1 May 2009'}}}
+571: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Dame Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+572: {'values_changed': {"root['name']": {'new_value': 'Dame Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+609: {'dictionary_item_added': {"root['occupation']": 'Poet, playwright'}, 'dictionary_item_removed': {"root['term_end']": '10 May 2019'}}
+610: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Dame Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+611: {'values_changed': {"root['name']": {'new_value': 'Dame Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+612: {'dictionary_item_removed': {"root['influences']": 'Liz Graham, with whom Duffy had a decade-long relationship, and who championed her; bringing her to live with her in London in 1982 and tirelessly promoting and supporting her through her early years of being published.'}}
+615: {'dictionary_item_added': {"root['influences']": 'Liz Graham, with whom Duffy had a decade-long relationship, and who championed her; bringing her to live with her in London in 1982 and tirelessly promoting and supporting her through her early years of being published.'}, 'values_changed': {"root['children']": {'new_value': 'Ella (born 1995)', 'old_value': '1'}}}
+636: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Dusty | honorific-suffix = DBE FRSL'}}}
+637: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Dusty | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+642: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Dusty | honorific-suffix = DBE FRSL'}}}
+644: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Dusty | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+645: {'dictionary_item_added': {"root['education']": 'B.A. (Hons) Philosophy', "root['awards']": 'OBE 1995,  CBE 2002 DBE 2015'}, 'dictionary_item_removed': {"root['period']": '1974-present', "root['hometown']": 'Stafford, England'}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Liverpool', 'old_value': 'University of Liverpool  (B.A. Hons, Philosophy)'}}}
+651: {'dictionary_item_added': {"root['period']": '1974-present', "root['hometown']": 'Stafford, England'}, 'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy  | honorific-suffix = DBE FRSL'}}}
+652: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy  | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+653: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy  | honorific-suffix = DBE FRSL'}}}
+654: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy  | honorific-suffix = DBE FRSL', 'old_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}
+656: {'values_changed': {"root['name']": {'new_value': 'Carol Ann Duffy | honorific-suffix = DBE FRSL', 'old_value': 'Dame Carol Ann Duffy | honorific-suffix = DBE FRSL'}}}

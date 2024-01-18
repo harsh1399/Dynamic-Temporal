@@ -1,0 +1,154 @@
+0: {'dictionary_item_removed': {"root['order']": 'President of the Republic of China', "root['term_start']": '20 May, 2000', "root['spouse']": 'Wu Shu-chen', "root['party']": 'Democratic Progressive Party', "root['vice_president']": 'Annette Lu |'}}
+14: {'dictionary_item_added': {"root['vice_president']": 'Annette Lu |'}, 'dictionary_item_removed': {"root['name']": 'Chen Shui-bian', "root['vicepresident']": 'Annette Lu', "root['order2']": 'Mayor of Taipei', "root['term_start2']": '25 December, 1994', "root['term_end2']": '25 December, 1998', "root['predecessor2']": 'Huang Ta-chou', "root['successor2']": 'Ma Ying-jeou'}}
+19: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'Governor of the Taiwan Province of China'}}}
+20: {'dictionary_item_added': {"root['vicepresident']": 'Annette Lu'}, 'dictionary_item_removed': {"root['vicegovernor']": 'Annette Lu'}}
+25: {'dictionary_item_added': {"root['vicegovernor']": 'Annette Lu'}, 'dictionary_item_removed': {"root['vicepresident']": 'Annette Lu'}, 'values_changed': {"root['order']": {'new_value': 'Governor of the Taiwan Province of China', 'old_value': 'President of the Republic of China'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian', 'old_value': '陳水扁'}}}
+28: {'values_changed': {"root['name']": {'new_value': '陳水扁', 'old_value': '陈水扁'}}}
+29: {'values_changed': {"root['name']": {'new_value': '陈水扁', 'old_value': 'Chen Shui-bian'}}}
+49: {'dictionary_item_added': {"root['predecessor2']": 'Huang Ta-chou'}, 'values_changed': {"root['term_end2']": {'new_value': '25 December, 1998', 'old_value': '25 December, 1998 rt3ebhfttevf3   t eyguerfguir ejgfiwefgc rfhgwiej\\ wbefdhgiwofdwe             = Huang Ta-chou'}}}
+50: {'dictionary_item_removed': {"root['predecessor2']": 'Huang Ta-chou'}, 'values_changed': {"root['term_end2']": {'new_value': '25 December, 1998 rt3ebhfttevf3   t eyguerfguir ejgfiwefgc rfhgwiej\\ wbefdhgiwofdwe             = Huang Ta-chou', 'old_value': '25 December, 1998'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian', 'old_value': 'Chen Shui-bian ,  陳水扁'}}}
+74: {'values_changed': {"root['spouse']": {'new_value': 'Wu Shu-chen', 'old_value': 'Lee Teng-hui'}}}
+75: {'values_changed': {"root['spouse']": {'new_value': 'Lee Teng-hui', 'old_value': 'Wu Shu-chen'}}}
+76: {'values_changed': {"root['party']": {'new_value': 'Democratic Progressive Party', 'old_value': 'Japanese Nerd Party'}}}
+77: {'values_changed': {"root['party']": {'new_value': 'Japanese Nerd Party', 'old_value': 'Democratic Progressive Party'}}}
+79: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+81: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+83: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+84: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+85: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+89: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen Da-bian ,  陳大便'}}}
+96: {'values_changed': {"root['name']": {'new_value': 'Chen Da-bian ,  陳大便', 'old_value': 'Chen Shui-bian ,  陳水扁'}}}
+123: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the '}}}
+124: {'values_changed': {"root['order']": {'new_value': 'President of the ', 'old_value': 'President of the Republic of China'}}}
+128: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President, '}}}
+129: {'values_changed': {"root['order']": {'new_value': 'President, ', 'old_value': "President of the Republic of China (Taiwan)'''"}}}
+130: {'values_changed': {"root['order']": {'new_value': "President of the Republic of China (Taiwan)'''", 'old_value': 'President of the Republic of China (Taiwan)'}}}
+131: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of the Republic of China'}}}
+133: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+134: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of the Republic of China'}}}
+136: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+137: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of Taiwan'}}}
+143: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of Republic of China'}}}
+146: {'values_changed': {"root['order']": {'new_value': 'President of Republic of China', 'old_value': 'President of Taiwan'}}}
+147: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+149: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of Republic of China'}}}
+150: {'dictionary_item_added': {"root['party']": 'Democratic Progressive Party'}, 'values_changed': {"root['order']": {'new_value': 'President of Republic of China', 'old_value': 'President of the Republic of China'}}}
+151: {'dictionary_item_removed': {"root['party']": 'Democratic Progressive Party'}, 'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Republic of China'}}}
+152: {'values_changed': {"root['order']": {'new_value': 'President of Republic of China', 'old_value': 'President of the Republic of China'}}}
+170: {'dictionary_item_added': {"root['party']": 'Democratic Progressive Party'}, 'dictionary_item_removed': {"root['profession']": 'Striper (knows Jolin)'}, 'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁 (King OF SB)'}, "root['term_start']": {'new_value': '20 May, 2000', 'old_value': '0 0, 0'}, "root['term_start2']": {'new_value': '25 December, 1994', 'old_value': '0 0, 0'}, "root['term_end2']": {'new_value': '25 December, 1998', 'old_value': '-25 -4, -3'}, "root['spouse']": {'new_value': 'Wu Shu-chen', 'old_value': "Pig's ass"}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 (King OF SB)', 'old_value': 'Chen da-bian ,  陳大便(King OF SB)'}, "root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Shit'}, "root['order2']": {'new_value': 'Mayor of Taipei', 'old_value': 'Mayor of Shit'}}}
+173: {'dictionary_item_added': {"root['profession']": 'Striper (knows Jolin)'}, 'values_changed': {"root['name']": {'new_value': 'Chen da-bian ,  陳大便(King OF SB)', 'old_value': 'Chen Shui-bian ,  陳水扁'}, "root['order']": {'new_value': 'President of the Republic of Shit', 'old_value': 'President of the Republic of China'}, "root['term_start']": {'new_value': '0 0, 0', 'old_value': '20 May, 2000'}, "root['order2']": {'new_value': 'Mayor of Shit', 'old_value': 'Mayor of Taipei'}, "root['term_start2']": {'new_value': '0 0, 0', 'old_value': '25 December, 1994'}, "root['term_end2']": {'new_value': '-25 -4, -3', 'old_value': '25 December, 1998'}, "root['spouse']": {'new_value': "Pig's ass", 'old_value': 'Wu Shu-chen'}}}
+174: {'dictionary_item_added': {"root['vicepresident']": 'Annette Lu', "root['order2']": 'Mayor of Taipei', "root['term_start2']": '25 December, 1994', "root['term_end2']": '25 December, 1998', "root['predecessor2']": 'Huang Ta-chou', "root['successor2']": 'Ma Ying-jeou', "root['spouse']": 'Wu Shu-chen'}, 'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'fuckkkkkkkkkkkkkkkkkChen Shui-bian ,  陳水扁'}, "root['term_start']": {'new_value': '20 May, 2000', 'old_value': 'TaiwanOn November 3, 2006, his wife and three other high-ranking officials under the Presidential Office were officially charged with corruption for embezzling NTD14.8 million (~USD $460,000) of government funds using forged documents. http://www.tpc.moj.gov.tw/ct.asp?xItem'}}}
+175: {'dictionary_item_removed': {"root['vicepresident']": 'Annette Lu', "root['order2']": 'Mayor of Taipei', "root['term_start2']": '25 December, 1994', "root['term_end2']": '25 December, 1998', "root['predecessor2']": 'Huang Ta-chou', "root['successor2']": 'Ma Ying-jeou', "root['spouse']": 'Wu Shu-chen'}, 'values_changed': {"root['name']": {'new_value': 'fuckkkkkkkkkkkkkkkkkChen Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁'}, "root['term_start']": {'new_value': 'TaiwanOn November 3, 2006, his wife and three other high-ranking officials under the Presidential Office were officially charged with corruption for embezzling NTD14.8 million (~USD $460,000) of government funds using forged documents. http://www.tpc.moj.gov.tw/ct.asp?xItem', 'old_value': '20 May, 2000'}}}
+188: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+192: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of the Republic of China'}}}
+194: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+197: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of the Republic of China'}}}
+203: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}, "root['order2']": {'new_value': 'Mayor of Taipei', 'old_value': 'Republic of Taiwan of Taipei'}}}
+204: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}, "root['order2']": {'new_value': 'Republic of Taiwan of Taipei', 'old_value': 'Mayor of Taipei'}}}
+205: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}, "root['order2']": {'new_value': 'Mayor of Taipei', 'old_value': 'Republic of Taiwan of Taipei'}}}
+206: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}, "root['order2']": {'new_value': 'Republic of Taiwan of Taipei', 'old_value': 'Mayor of Taipei'}}}
+215: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}}}
+216: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}}}
+217: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}}}
+218: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}}}
+219: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}}}
+220: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}}}
+226: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}}}
+227: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}}}
+230: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of Taiwan'}}}
+231: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of Taiwan', 'old_value': 'President of the Republic of China'}}}
+251: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China  Taiwan'}}}
+253: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China  Taiwan', 'old_value': 'President of the Republic of China'}}}
+262: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Taiwan'}}}
+263: {'values_changed': {"root['order']": {'new_value': 'President of the Taiwan', 'old_value': 'President of Taiwan'}}}
+268: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+274: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+275: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+278: {'dictionary_item_removed': {"root['religion']": 'Buddhism and Taoism'}}
+281: {'dictionary_item_added': {"root['religion']": 'Buddhism and Taoism'}, 'dictionary_item_removed': {"root['premier']": 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang'}}
+287: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen "the Eunuch" Shui-bian ,  陳水扁'}}}
+288: {'values_changed': {"root['name']": {'new_value': 'Chen "the Eunuch" Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳台独'}}}
+289: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳台独', 'old_value': 'Chen Shui-bian ,  陳水扁'}}}
+301: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}, "root['term_start']": {'new_value': '20 May, 2000', 'old_value': '20 May 2000'}, "root['premier']": {'new_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang', 'old_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung'}, "root['term_start2']": {'new_value': '25 December, 1994', 'old_value': '25 December 1994'}, "root['term_end2']": {'new_value': '25 December, 1998', 'old_value': '25 December 1998'}}}
+308: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+309: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+310: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+311: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': '7th President of the Republic of China'}}}
+312: {'values_changed': {"root['order']": {'new_value': '7th President of the Republic of China', 'old_value': '9th President of the Republic of China'}}}
+313: {'values_changed': {"root['order']": {'new_value': '9th President of the Republic of China', 'old_value': '10th President of the Republic of China'}}}
+314: {'values_changed': {"root['order']": {'new_value': '10th President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+318: {'dictionary_item_removed': {"root['party']": 'DPP'}}
+323: {'values_changed': {"root['order2']": {'new_value': 'Mayor of Taipei', 'old_value': '17th Mayor of Taipei'}}}
+327: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': '5 th  President of Taiwan'}, "root['order2']": {'new_value': '17th Mayor of Taipei', 'old_value': '17 th  Mayor of Taipei'}}}
+330: {'values_changed': {"root['order']": {'new_value': '5 th  President of Taiwan', 'old_value': '10-11 th -term President of the ROC'}}}
+337: {'values_changed': {"root['order']": {'new_value': '10-11 th -term President of the ROC', 'old_value': '10-11 th , President of the Republic of China'}}}
+338: {'values_changed': {"root['order']": {'new_value': '10-11 th , President of the Republic of China', 'old_value': '10-11 th -term President of the ROC'}}}
+339: {'values_changed': {"root['order']": {'new_value': '10-11 th -term President of the ROC', 'old_value': '10th, 11th President of the ROC'}}}
+340: {'values_changed': {"root['order']": {'new_value': '10th, 11th President of the ROC', 'old_value': '10-11 th -term President of the ROC'}}}
+343: {'values_changed': {"root['order']": {'new_value': '10-11 th -term President of the ROC', 'old_value': 'President of the Republic of China'}, "root['order2']": {'new_value': '17 th  Mayor of Taipei', 'old_value': 'Mayor of Taipei'}}}
+345: {'dictionary_item_added': {"root['term_start']": '20 May 2000'}, 'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': '10-11 th -term President of the ROC | term_start    = 20 May 2000'}}}
+352: {'values_changed': {"root['order']": {'new_value': '10-11 th -term President of the ROC | term_start    = 20 May 2000', 'old_value': '10th and 11th President of the ROC | term_start    = 20 May 2000'}}}
+353: {'values_changed': {"root['order']": {'new_value': '10th and 11th President of the ROC | term_start    = 20 May 2000', 'old_value': '10-11 th -term President of the ROC | term_start    = 20 May 2000'}}}
+354: {'dictionary_item_removed': {"root['term_start']": '20 May 2000'}, 'values_changed': {"root['order']": {'new_value': '10-11 th -term President of the ROC | term_start    = 20 May 2000', 'old_value': '10th and 11th term, President of the Republic of China'}}}
+359: {'values_changed': {"root['order']": {'new_value': '10th and 11th term, President of the Republic of China', 'old_value': 'President of the Republic of China'}}}
+360: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': '10th and 11th term, President of the Republic of China'}}}
+363: {'values_changed': {"root['order']": {'new_value': '10th and 11th term, President of the Republic of China', 'old_value': 'President of the Republic of China'}}}
+371: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁 (我A了很多錢)'}}}
+372: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 (我A了很多錢)', 'old_value': 'Chen Shui-bian ,  陳水扁 (俗稱: A錢扁、犯賤扁、欠扁、沒老二扁，兩顆子彈扁)'}}}
+373: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 (俗稱: A錢扁、犯賤扁、欠扁、沒老二扁，兩顆子彈扁)', 'old_value': 'Chen Shui-bian ,  陳水扁 (我A了很多錢)'}}}
+374: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 (我A了很多錢)', 'old_value': 'Chen Shui-bian ,  陳水扁'}}}
+392: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian   陳水扁'}, "root['premier']": {'new_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung', 'old_value': 'Tang Fei Chang Chun-hsiung Yu Shyi-kun Frank Hsieh Su Tseng-chang Chang Chun-hsiung'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian   陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁'}, "root['premier']": {'new_value': 'Tang Fei Chang Chun-hsiung Yu Shyi-kun Frank Hsieh Su Tseng-chang Chang Chun-hsiung', 'old_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung'}}}
+410: {'dictionary_item_removed': {"root['religion']": 'Taiwanese folk religion'}}
+415: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Ma Ying-yeou,  陳水扁'}}}
+416: {'values_changed': {"root['name']": {'new_value': 'Ma Ying-yeou,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁'}}}
+423: {'values_changed': {"root['religion']": {'new_value': 'Taiwanese folk religion', 'old_value': 'Taiwanese folk religion '}}}
+426: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China             (1947 Constitution)'}}}
+427: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China             (1947 Constitution)', 'old_value': 'President of the Republic of China'}}}
+446: {'values_changed': {"root['religion']": {'new_value': 'Taiwanese folk religion ', 'old_value': 'Chinese folk religion '}}}
+450: {'dictionary_item_removed': {"root['term_end']": '20 May 2008'}}
+459: {'dictionary_item_added': {"root['premier']": 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung'}, 'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': '5th term President of the Republic of China'}}}
+460: {'values_changed': {"root['order']": {'new_value': '5th term President of the Republic of China', 'old_value': '10th and 11th term, President of the Republic of China'}}}
+475: {'values_changed': {"root['order']": {'new_value': '10th and 11th term, President of the Republic of China', 'old_value': "10th and 11th term, President of the Republic of China''',  (1947 Constitution) '''"}}}
+476: {'values_changed': {"root['order']": {'new_value': "10th and 11th term, President of the Republic of China''',  (1947 Constitution) '''", 'old_value': 'President of the Republic of China'}}}
+508: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁', 'old_value': 'Chen Shui-bian ,  陳水扁 ,  Tân Chúi-píⁿ'}}}
+517: {'values_changed': {"root['party']": {'new_value': 'DPP', 'old_value': '－'}}}
+527: {'values_changed': {"root['party']": {'new_value': '－', 'old_value': 'None (Formerly Democratic Progressive Party)'}}}
+582: {'values_changed': {"root['party']": {'new_value': 'None (Formerly Democratic Progressive Party)', 'old_value': 'None, DPP (1989-2008)'}}}
+585: {'values_changed': {"root['religion']": {'new_value': 'Chinese folk religion ', 'old_value': 'Taiwanese folk religion '}}}
+593: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+595: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+597: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of the Republic of China (Taiwan)'}}}
+602: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China (Taiwan)', 'old_value': 'President of the Republic of China'}}}
+669: {'dictionary_item_added': {"root['party']": 'None, DPP (1989-2008)'}, 'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 ,  Tân Chúi-píⁿ', 'old_value': 'Chen Sui-bian ,  陳水扁 ,  Tân Chúi-píⁿ'}}}
+670: {'values_changed': {"root['name']": {'new_value': 'Chen Sui-bian ,  陳水扁 ,  Tân Chúi-píⁿ', 'old_value': 'Chen Shui-bian ,  陳水扁 ,  Tân Chúi-píⁿ'}}}
+701: {'values_changed': {"root['religion']": {'new_value': 'Taiwanese folk religion ', 'old_value': 'Taiwanese folk religion, Presbyterianism '}}}
+702: {'values_changed': {"root['religion']": {'new_value': 'Taiwanese folk religion, Presbyterianism ', 'old_value': 'Christianity '}}}
+703: {'values_changed': {"root['religion']": {'new_value': 'Christianity ', 'old_value': 'Taiwanese folk religion '}}}
+774: {'dictionary_item_added': {"root['order2']": 'Mayor of Taipei', "root['spouse']": 'Wu Shu-chen'}, 'dictionary_item_removed': {"root['office2']": 'Chairman of the Democratic Progressive Party', "root['term_start3']": 'July 21, 2002', "root['term_end3']": 'December 11, 2004', "root['predecessor3']": 'Frank Hsieh', "root['successor3']": 'Su Tseng-chang', "root['order4']": 'Mayor of Taipei', "root['term_start4']": 'December 25, 1994', "root['term_end4']": 'December 25, 1998', "root['predecessor4']": 'Huang Ta-chou', "root['successor4']": 'Ma Ying-jeou', "root['order5']": 'Member of the Legislative Yuan', "root['term_start5']": 'February 1, 1990', "root['term_end5']": 'December 25, 1994', "root['constituency5']": 'DPP at-Taipei City', "root['residence']": 'Taipei Prison', "root['party']": "''independent''", "root['otherparty']": 'Democratic Progressive (1989–2008)', "root['occupation']": 'Lawyer, Politician', "root['alma_mater']": 'National Taiwan University '}, 'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian ,  陳水扁 ,  Tân Chúi-píⁿ', 'old_value': 'Chen Shui-bian'}, "root['term_start']": {'new_value': '20 May 2000', 'old_value': 'May 20, 2000'}, "root['term_end']": {'new_value': '20 May 2008', 'old_value': 'May 20, 2008'}, "root['term_start2']": {'new_value': '25 December 1994', 'old_value': 'October 15, 2007'}, "root['term_end2']": {'new_value': '25 December 1998', 'old_value': 'January 12, 2008'}, "root['predecessor2']": {'new_value': 'Huang Ta-chou', 'old_value': 'Yu Shyi-kun'}, "root['successor2']": {'new_value': 'Ma Ying-jeou', 'old_value': 'Tsai Ing-wen'}, "root['religion']": {'new_value': 'Taiwanese folk religion ', 'old_value': 'I-Kuan Tao'}}}
+787: {'dictionary_item_removed': {"root['premier']": 'Tang Fei Chang Chun-hsiung Yu Shyi-kun Frank Hsieh Su Tseng-chang Chang Chun-hsiung (2nd)'}}
+788: {'values_changed': {"root['alma_mater']": {'new_value': 'National Taiwan University ', 'old_value': 'Dartmouth College National Taiwan University '}}}
+789: {'values_changed': {"root['alma_mater']": {'new_value': 'Dartmouth College National Taiwan University ', 'old_value': 'Dartmouth College and National Taiwan University '}}}
+790: {'values_changed': {"root['religion']": {'new_value': 'I-Kuan Tao', 'old_value': 'I-Kuan Tao (lapsed)'}}}
+791: {'values_changed': {"root['party']": {'new_value': "''independent''", 'old_value': 'Independent (2008–present)'}, "root['religion']": {'new_value': 'I-Kuan Tao (lapsed)', 'old_value': 'Agnostic/I-Kuan Tao(lapsed)'}}}
+803: {'values_changed': {"root['premier']": {'new_value': 'Tang Fei Chang Chun-hsiung Yu Shyi-kun Frank Hsieh Su Tseng-chang Chang Chun-hsiung (2nd)', 'old_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung (2nd)'}}}
+812: {'values_changed': {"root['party']": {'new_value': 'Independent (2008–present)', 'old_value': 'Democratic Progressive (2013–present)'}, "root['otherparty']": {'new_value': 'Democratic Progressive (1989–2008)', 'old_value': 'Democratic Progressive (1989–2008) , Independent (2008–2013)'}}}
+813: {'values_changed': {"root['alma_mater']": {'new_value': 'Dartmouth College and National Taiwan University ', 'old_value': 'Dartmouth College and National Taiwan University (LLB) '}}}
+814: {'values_changed': {"root['alma_mater']": {'new_value': 'Dartmouth College and National Taiwan University (LLB) ', 'old_value': 'Dartmouth College and National Taiwan University (LL.B.) '}}}
+819: {'values_changed': {"root['party']": {'new_value': 'Democratic Progressive (2013–present)', 'old_value': 'Democratic Progressive  (2013–present)'}, "root['otherparty']": {'new_value': 'Democratic Progressive (1989–2008) , Independent (2008–2013)', 'old_value': 'Democratic Progressive  (1989–2008) , Independent  (2008–2013)'}}}
+820: {'values_changed': {"root['religion']": {'new_value': 'Agnostic/I-Kuan Tao(lapsed)', 'old_value': 'Agnostic/I-Kuan Tao (lapsed)'}}}
+824: {'dictionary_item_added': {"root['religion']": 'Agnostic/I-Kuan Tao (lapsed)'}, 'values_changed': {"root['premier']": {'new_value': 'Tang Fei, Chang Chun-hsiung, Yu Shyi-kun, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung (2nd)', 'old_value': 'Tang Fei Chang Chun-hsiung (1st) Yu Shyi-kun Frank Hsieh Su Tseng-chang Chang Chun-hsiung (2nd)'}, "root['predecessor2']": {'new_value': 'Yu Shyi-kun', 'old_value': 'Chai Trong-rong (acting)'}, "root['successor2']": {'new_value': 'Tsai Ing-wen', 'old_value': 'Frank Hsieh (acting)'}, "root['successor3']": {'new_value': 'Su Tseng-chang', 'old_value': 'Ker Chien-ming (acting)'}, "root['constituency5']": {'new_value': 'DPP at-Taipei City', 'old_value': 'Taipei'}, "root['residence']": {'new_value': 'Taipei Prison', 'old_value': 'Gushan District, Kaohsiung'}, "root['otherparty']": {'new_value': 'Democratic Progressive  (1989–2008) , Independent  (2008–2013)', 'old_value': 'Democratic Progressive  (1987–2008) , Independent  (2008–2013)'}, "root['occupation']": {'new_value': 'Lawyer, Politician', 'old_value': 'Lawyer, politician writer'}, "root['alma_mater']": {'new_value': 'Dartmouth College and National Taiwan University (LL.B.) ', 'old_value': 'National Taiwan University (LL.B.)'}}}
+826: {'values_changed': {"root['party']": {'new_value': 'Democratic Progressive  (2013–present)', 'old_value': 'Democratic Progressive  (1987–2008, 2013–present)'}, "root['otherparty']": {'new_value': 'Democratic Progressive  (1987–2008) , Independent  (2008–2013)', 'old_value': 'Independent  (1979-1987, 2008–2013) , Kuomintang  (1970s)'}}}
+841: {'values_changed': {"root['otherparty']": {'new_value': 'Independent  (1979-1987, 2008–2013) , Kuomintang  (1970s)', 'old_value': 'Independent  (1979-1987, 2008–2013)  Kuomintang  (1970s)'}}}
+847: {'values_changed': {"root['party']": {'new_value': 'Democratic Progressive  (1987–2008, 2013–present)', 'old_value': 'Taiwan Action Party Alliance '}, "root['otherparty']": {'new_value': 'Independent  (1979-1987, 2008–2013)  Kuomintang  (1970s)', 'old_value': 'Democratic Progressive '}}}
+873: {'values_changed': {"root['party']": {'new_value': 'Taiwan Action Party Alliance ', 'old_value': 'Democratic Progressive '}, "root['otherparty']": {'new_value': 'Democratic Progressive ', 'old_value': 'Independent  (1979–1987, 2008–2013)  Taiwan Action Party Alliance '}}}
+882: {'values_changed': {"root['order']": {'new_value': 'President of the Republic of China', 'old_value': 'President of Taiwan'}}}
+883: {'values_changed': {"root['order']": {'new_value': 'President of Taiwan', 'old_value': 'President of the Republic of China'}}}
+898: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian', 'old_value': 'Chen Shui-bian (Morris)'}}}
+899: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian (Morris)', 'old_value': 'Chen Shui-bian'}}}
+900: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian', 'old_value': 'Chen Shui-bian (Hi Sam and Kevin and maybe Nilabh)'}}}
+901: {'values_changed': {"root['name']": {'new_value': 'Chen Shui-bian (Hi Sam and Kevin and maybe Nilabh)', 'old_value': 'Chen Shui-bian'}}}

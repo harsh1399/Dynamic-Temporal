@@ -1,0 +1,168 @@
+0: {'dictionary_item_removed': {"root['order']": '21st', "root['term_start']": 'December 12, 2003', "root['term_end']": 'present', "root['dead']": 'alive', "root['spouse']": 'Sheila Ann Cowan', "root['party']": 'Liberal', "root['religion']": 'Roman Catholic'}}
+113: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'defeat expected in January 23, 2006 election'}}}
+114: {'values_changed': {"root['term_end']": {'new_value': 'defeat expected in January 23, 2006 election', 'old_value': 'present'}}}
+115: {'dictionary_item_added': {"root['order']": '21st', "root['term_start']": 'December 12, 2003', "root['term_end']": 'present', "root['dead']": 'alive', "root['spouse']": 'Sheila Ann Cowan', "root['religion']": 'Roman Catholic'}, 'dictionary_item_removed': {"root['name']": 'Paul Edgar Philippe Martin', "root['country']": 'Canada', "root['before']": 'Jean Chrétien', "root['after']": 'Incumbent', "root['date_birth']": 'August 28, 1938', "root['place_birth']": 'Windsor, Ontario'}, 'values_changed': {"root['party']": {'new_value': 'Liberal', 'old_value': 'Liberal '}}}
+137: {'values_changed': {"root['date_birth']": {'new_value': 'August 28, 1938', 'old_value': 'August 28, 1765'}}}
+138: {'values_changed': {"root['date_birth']": {'new_value': 'August 28, 1765', 'old_value': 'August 28, 1938'}}}
+142: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul "South Beach Diet" Martin'}}}
+145: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul "South Beach Diet" Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+168: {'dictionary_item_removed': {"root['Religion']": 'Roman Catholic'}}
+214: {'values_changed': {"root['after']": {'new_value': 'Incumbent', 'old_value': 'Stephen Harper'}}}
+215: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper', 'old_value': 'Incumbent'}}}
+218: {'dictionary_item_removed': {"root['sexual_orientation']": 'Heterosexual'}}
+224: {'dictionary_item_added': {"root['sexual_orientation']": 'Heterosexual'}, 'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Saul Edgar Philippe Martin'}}}
+229: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Saul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+231: {'values_changed': {"root['after']": {'new_value': 'Incumbent', 'old_value': 'Stephen Harper'}}}
+242: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper', 'old_value': 'Incumbent'}}}
+250: {'values_changed': {"root['after']": {'new_value': 'Incumbent', 'old_value': 'Stephen Harper'}}}
+254: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper', 'old_value': 'Incumbent'}}}
+260: {'values_changed': {"root['after']": {'new_value': 'Incumbent', 'old_value': 'Stephen Harper'}}}
+261: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper', 'old_value': 'Incumbent'}}}
+262: {'values_changed': {"root['after']": {'new_value': 'Incumbent', 'old_value': 'Stephen Harper Prime Minister Elect'}}}
+276: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper Prime Minister Elect', 'old_value': 'Stephen Harper Prime Minister Designate'}}}
+288: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper Prime Minister Designate', 'old_value': 'Stephen Harper Prime Minister Elect'}}}
+297: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper Prime Minister Elect', 'old_value': 'Stephen Harper Prime Minister Designate'}}}
+298: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper Prime Minister Designate', 'old_value': 'Stephen Harper Prime Minister-designate'}}}
+299: {'values_changed': {"root['after']": {'new_value': 'Stephen Harper Prime Minister-designate', 'old_value': "Stephen Harper  ''Prime Minister-designate''"}}}
+344: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Paul Edgar Philippe Martin'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+359: {'dictionary_item_removed': {"root['Profession']": 'Lawyer , Businessman '}, 'values_changed': {"root['party']": {'new_value': 'Liberal ', 'old_value': 'Liberal'}}}
+360: {'dictionary_item_added': {"root['Profession']": 'Lawyer , Businessman '}, 'dictionary_item_removed': {"root['profession']": 'Lawyer , Businessman '}}
+361: {'values_changed': {"root['profession']": {'new_value': 'Lawyer , Businessman ', 'old_value': 'Lawyer, Businessman '}}}
+369: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'KING MARTIN'}}}
+370: {'values_changed': {"root['name']": {'new_value': 'KING MARTIN', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+375: {'dictionary_item_removed': {"root['date_death']": 'January, 25, 2006', "root['place_death']": 'Isreal'}, 'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'The unhonorable Paul Edgar Poe Martin'}, "root['Religion']": {'new_value': 'Roman Catholic', 'old_value': 'Buddhist'}, "root['profession']": {'new_value': 'Lawyer, Businessman ', 'old_value': 'Scandalizer, Businessman '}}}
+376: {'dictionary_item_added': {"root['date_death']": 'January, 25, 2006', "root['place_death']": 'Isreal'}, 'values_changed': {"root['name']": {'new_value': 'The unhonorable Paul Edgar Poe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}, "root['Religion']": {'new_value': 'Buddhist', 'old_value': 'Roman Catholic'}, "root['profession']": {'new_value': 'Scandalizer, Businessman ', 'old_value': 'Lawyer, Businessman '}}}
+385: {'values_changed': {"root['profession']": {'new_value': 'Lawyer, Businessman ', 'old_value': 'Lawyer, Businessman, Moron '}}}
+386: {'values_changed': {"root['profession']": {'new_value': 'Lawyer, Businessman, Moron ', 'old_value': 'Lawyer, Businessman '}}}
+400: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Jackass Martin'}}}
+401: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Jackass Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+406: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Jackass Martin'}}}
+407: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Jackass Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+444: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Phillipo Martin'}}}
+446: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Phillipo Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+447: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar jack ass Martin'}}}
+448: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar jack ass Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+466: {'values_changed': {"root['after']": {'new_value': "Stephen Harper  ''Prime Minister-designate''", 'old_value': "Stephen Harper  ''designate''"}}}
+488: {'dictionary_item_removed': {"root['date_death']": 'soon', "root['place_death']": "don't know and don't want to know"}, 'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. not Hon. Paul Edgar Philippe Martin el stupido'}, "root['after']": {'new_value': "Stephen Harper  ''designate''", 'old_value': "Stephen Harper alelullia!  ''designate''"}, "root['profession']": {'new_value': 'Lawyer, Businessman ', 'old_value': 'Lawyer, Businessman, Idiot, Liar '}}}
+489: {'dictionary_item_added': {"root['date_death']": 'soon', "root['place_death']": "don't know and don't want to know"}, 'values_changed': {"root['name']": {'new_value': 'Rt. not Hon. Paul Edgar Philippe Martin el stupido', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}, "root['after']": {'new_value': "Stephen Harper alelullia!  ''designate''", 'old_value': "Stephen Harper  ''designate''"}, "root['profession']": {'new_value': 'Lawyer, Businessman, Idiot, Liar ', 'old_value': 'Lawyer, Businessman '}}}
+500: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. DisHon. Paul Edgar Cuntface Philippe Martin'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Rt. DisHon. Paul Edgar Cuntface Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+504: {'values_changed': {"root['place_birth']": {'new_value': 'Windsor, Ontario', 'old_value': 'Buttfuck,Nowhere Windsor, Ontario'}}}
+505: {'values_changed': {"root['place_birth']": {'new_value': 'Buttfuck,Nowhere Windsor, Ontario', 'old_value': 'Windsor, Ontario'}}}
+530: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Hon. Paul Edgar Philippe Martin'}}}
+531: {'values_changed': {"root['name']": {'new_value': 'Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Edgar Philippe Martin'}}}
+542: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Edgar Philippe Martin', 'old_value': 'Rt. Hon. Paul Martin'}}}
+587: {'values_changed': {"root['after']": {'new_value': "Stephen Harper  ''designate''", 'old_value': 'Stephen Harper'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'Rt. Hon. Paul Martin', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB'}}}
+633: {'dictionary_item_removed': {"root['deputy_prime_minister']": 'anne Mclennan'}}
+644: {'dictionary_item_added': {"root['deputy_prime_minister']": 'anne Mclennan'}, 'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+647: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon. Paul Edgar Philippe Martin |pr'}}}
+648: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon. Paul Edgar Philippe Martin |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+670: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+671: {'values_changed': {"root['name']": {'new_value': 'The Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+699: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar smith Johhn egor hitler wayne sauce snizzle doner smith dole bush Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+700: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar smith Johhn egor hitler wayne sauce snizzle doner smith dole bush Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar smith Johhn egor hitler wayne sauce snizzle doner smith dole smith paul smith horvath albert smith jaspen gorden paul smith mike hunt smith bush Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+701: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar smith Johhn egor hitler wayne sauce snizzle doner smith dole smith paul smith horvath albert smith jaspen gorden paul smith mike hunt smith bush Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+728: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, LLB   |pr'}}}
+729: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+793: {'dictionary_item_added': {"root['Religion']": 'Roman Catholic'}, 'values_changed': {"root['country']": {'new_value': 'Canada', 'old_value': 'Canada thumb  | term=December 12, 2003 &ndash;, February 6, 2006'}}}
+794: {'values_changed': {"root['country']": {'new_value': 'Canada thumb  | term=December 12, 2003 &ndash;, February 6, 2006', 'old_value': 'Canada'}}}
+796: {'values_changed': {"root['country']": {'new_value': 'Canada', 'old_value': 'Canada thumb  | term=December 12, 2003 &ndash;, February 6, 2006'}}}
+797: {'values_changed': {"root['country']": {'new_value': 'Canada thumb  | term=December 12, 2003 &ndash;, February 6, 2006', 'old_value': 'Canada'}}}
+851: {'dictionary_item_removed': {"root['Religion']": 'Roman Catholic'}}
+864: {'dictionary_item_removed': {"root['spouse']": 'Shelia Martin '}, 'values_changed': {"root['profession']": {'new_value': 'Lawyer, Businessman ', 'old_value': 'Lawyer, Businessman'}}}
+865: {'values_changed': {"root['spouse']": {'new_value': 'Shelia Martin ', 'old_value': 'Sheila Martin '}}}
+886: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Martin ', 'old_value': 'Sheila Copps '}}}
+887: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Copps ', 'old_value': 'Sheila Martin '}}}
+928: {'dictionary_item_added': {"root['country']": 'Canada', "root['before']": 'Jean Chrétien', "root['after']": 'Stephen Harper', "root['date_birth']": 'August 28, 1938', "root['place_birth']": 'Windsor, Ontario'}, 'dictionary_item_removed': {"root['order']": 'Prime Minister  of Canada', "root['term_start']": 'December 12, 2003', "root['term_end']": 'February 6, 2006'}}
+965: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Martin ', 'old_value': 'Sheila Copps '}}}
+966: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Copps ', 'old_value': 'Sheila Martin    '}}}
+1031: {'values_changed': {"root['order']": {'new_value': 'Prime Minister  of Canada', 'old_value': '21st Prime Minister  of Canada'}}}
+1035: {'values_changed': {"root['Religion']": {'new_value': 'Roman Catholic', 'old_value': 'Roman Catholic '}, "root['spouse']": {'new_value': 'Sheila Martin    ', 'old_value': 'Sheila Martin'}}}
+1037: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Martin', 'old_value': 'Sheila Martin    '}, "root['Religion']": {'new_value': 'Roman Catholic ', 'old_value': 'Roman Catholic'}}}
+1043: {'dictionary_item_added': {"root['Religion']": 'Roman Catholic'}, 'dictionary_item_removed': {"root['religion']": 'Roman Catholic'}}
+1045: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'None'}}}
+1046: {'values_changed': {"root['religion']": {'new_value': 'None', 'old_value': 'Roman Catholic'}}}
+1047: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'None'}}}
+1050: {'values_changed': {"root['religion']": {'new_value': 'None', 'old_value': 'Roman Catholic'}}}
+1120: {'values_changed': {"root['order']": {'new_value': '21st Prime Minister  of Canada', 'old_value': '21st Prime Minister  of Canada '}}}
+1122: {'values_changed': {"root['order']": {'new_value': '21st Prime Minister  of Canada ', 'old_value': '21st Prime Minister  of Canada'}}}
+1125: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Grin Wizzlenuggets Vahn Wimbleton Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1126: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Grin Wizzlenuggets Vahn Wimbleton Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Grin Wizzlenuggets Vahn Wimbleton Yuhm Ick Pubeston Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1127: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Grin Wizzlenuggets Vahn Wimbleton Yuhm Ick Pubeston Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe  Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1128: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe  Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1133: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB, VIP, MVP, HIV, LOL    |pr'}}}
+1134: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB, VIP, MVP, HIV, LOL    |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1181: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Satanism'}}}
+1182: {'values_changed': {"root['religion']": {'new_value': 'Satanism', 'old_value': 'Roman Catholic'}}}
+1189: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.  Brittany Spears  ,, PC, MP, BA, LLB   |pr'}}}
+1190: {'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.  Brittany Spears  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1253: {'values_changed': {"root['party']": {'new_value': 'Liberal', 'old_value': 'g'}}}
+1254: {'values_changed': {"root['party']": {'new_value': 'g', 'old_value': 'Liberal'}}}
+1259: {'dictionary_item_removed': {"root['deputy_prime_minister']": 'N/A'}}
+1288: {'dictionary_item_added': {"root['deputy_prime_minister']": 'N/A'}, 'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Left. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1289: {'values_changed': {"root['name']": {'new_value': 'The Left. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr'}}}
+1298: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'atheist'}}}
+1299: {'values_changed': {"root['religion']": {'new_value': 'atheist', 'old_value': 'Atheist'}}}
+1300: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'Roman Catholic'}}}
+1322: {'dictionary_item_removed': {"root['office']": 'Prime Minister  of Canada', "root['monarch']": 'Elizabeth II', "root['constituency_MP2']": 'LaSalle—Émard', "root['term_start2']": 'November 21 1988', "root['predecessor2']": 'Claude Lanthier', "root['residence']": 'Montreal, Quebec'}, 'values_changed': {"root['name']": {'new_value': 'The Rt. Hon.   Paul Edgar Philippe Martin  ,, PC, MP, BA, LLB   |pr', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP'}, "root['order']": {'new_value': '21st Prime Minister  of Canada', 'old_value': '21st'}, "root['spouse']": {'new_value': 'Sheila Martin    ', 'old_value': 'Sheila Martin'}}}
+1341: {'dictionary_item_removed': {"root['alma_mater']": 'University of Ottawa, University of Toronto'}, 'values_changed': {"root['residence']": {'new_value': 'Montreal, Quebec', 'old_value': 'Montreal, Quebec | relations        =  | children         ='}}}
+1343: {'values_changed': {"root['residence']": {'new_value': 'Montreal, Quebec | relations        =  | children         =', 'old_value': 'Montreal, Quebec | relations        =  | children         = Paul, Jamie and David'}}}
+1362: {'dictionary_item_removed': {"root['children']": '3 sons (Paul, Jamie and David)'}, 'values_changed': {"root['residence']": {'new_value': 'Montreal, Quebec | relations        =  | children         = Paul, Jamie and David', 'old_value': 'Montreal, Quebec'}}}
+1367: {'values_changed': {"root['monarch']": {'new_value': 'Elizabeth II', 'old_value': 'God'}}}
+1368: {'values_changed': {"root['monarch']": {'new_value': 'God', 'old_value': 'Elizabeth II'}}}
+1387: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'athiest'}, "root['children']": {'new_value': '3 sons (Paul, Jamie and David)', 'old_value': '3 farts (Paul, Jamie and David)'}}}
+1388: {'values_changed': {"root['religion']": {'new_value': 'athiest', 'old_value': 'Roman Catholic'}, "root['children']": {'new_value': '3 farts (Paul, Jamie and David)', 'old_value': '3 sons (Paul, Jamie and David)'}}}
+1410: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul "The Dog" Martin,  | honorific-suffix    =  PC MP'}}}
+1411: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Muslim'}}}
+1412: {'values_changed': {"root['name']": {'new_value': 'Paul "The Dog" Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP'}, "root['religion']": {'new_value': 'Muslim', 'old_value': 'Roman Catholic'}}}
+1416: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Martin', 'old_value': "Stephen Harper's Dick"}}}
+1417: {'values_changed': {"root['spouse']": {'new_value': "Stephen Harper's Dick", 'old_value': 'Sheila Martin'}}}
+1420: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe,  | honorific-suffix    =  PC MP'}, "root['office']": {'new_value': 'Prime Minister  of Canada', 'old_value': 'Janitor  of Canada'}}}
+1421: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP'}, "root['office']": {'new_value': 'Janitor  of Canada', 'old_value': 'Prime Minister  of Canada'}}}
+1446: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Douche Bag Martin,  | honorific-suffix    =  PC MP'}}}
+1447: {'values_changed': {"root['name']": {'new_value': 'Paul Douche Bag Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Douche Bag Martin ,  | honorific-suffix    =  PC MP'}}}
+1448: {'values_changed': {"root['predecessor2']": {'new_value': 'Claude Lanthier', 'old_value': 'Claude anthier'}}}
+1449: {'values_changed': {"root['name']": {'new_value': 'Paul Douche Bag Martin ,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP'}, "root['predecessor2']": {'new_value': 'Claude anthier', 'old_value': 'Claude Lanthier'}}}
+1466: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Douchebag Martin,  | honorific-suffix    =  PC MP'}}}
+1467: {'values_changed': {"root['name']": {'new_value': 'Paul Douchebag Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul  Martin,  | honorific-suffix    =  PC MP'}}}
+1468: {'values_changed': {"root['name']": {'new_value': 'Paul  Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP'}}}
+1495: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Martin', 'old_value': 'Tim Horton'}}}
+1497: {'values_changed': {"root['spouse']": {'new_value': 'Tim Horton', 'old_value': 'Sheila Martin'}}}
+1509: {'dictionary_item_added': {"root['constituency_MP2']": 'LaSalle—Émard'}, 'dictionary_item_removed': {"root['riding2']": 'LaSalle—Émard', "root['parliament2']": 'Canadian'}, 'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC MP', 'old_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC, MP'}}}
+1538: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  | honorific-suffix    =  PC, MP', 'old_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC, MP'}}}
+1539: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC, MP', 'old_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC, MP LL.B BA'}}}
+1552: {'dictionary_item_removed': {"root['term_end2']": '2008', "root['successor2']": 'Lise Zarac'}}
+1556: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC, MP LL.B BA', 'old_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC LL.B BA'}, "root['term_end2']": {'new_value': '2008', 'old_value': 'October 14 2008'}}}
+1558: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC LL.B BA', 'old_value': 'Paul Edgar (lol) Philippe (haha) Martin Smells,  |honorific-suffix    =  PC LL.B BA'}}}
+1561: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar (lol) Philippe (haha) Martin Smells,  |honorific-suffix    =  PC LL.B BA', 'old_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC LL.B BA'}}}
+1570: {'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin,  |honorific-suffix    =  PC LL.B BA', 'old_value': 'Paul Edgar Philippe Martin  |honorific-suffix    =  PC LL.B BA'}}}
+1572: {'values_changed': {"root['party']": {'new_value': 'Liberal', 'old_value': 'Conservative'}}}
+1574: {'values_changed': {"root['party']": {'new_value': 'Conservative', 'old_value': 'Liberal'}}}
+1575: {'values_changed': {"root['party']": {'new_value': 'Liberal', 'old_value': 'Conservative'}}}
+1576: {'values_changed': {"root['party']": {'new_value': 'Conservative', 'old_value': 'Liberal'}}}
+1577: {'values_changed': {"root['office']": {'new_value': 'Prime Minister  of Canada', 'old_value': 'Prime Minister  of Zimbabwe'}, "root['profession']": {'new_value': 'Lawyer, Businessman', 'old_value': 'Lawyer, Elk Hunter'}, "root['spouse']": {'new_value': 'Sheila Martin', 'old_value': 'Monique'}, "root['children']": {'new_value': '3 sons (Paul, Jamie and David)', 'old_value': '3 sons (Paul, James and Stephanie)'}}}
+1578: {'values_changed': {"root['office']": {'new_value': 'Prime Minister  of Zimbabwe', 'old_value': 'Prime Minister  of Canada'}, "root['profession']": {'new_value': 'Lawyer, Elk Hunter', 'old_value': 'Lawyer, Businessman'}, "root['spouse']": {'new_value': 'Monique', 'old_value': 'Sheila Martin'}, "root['children']": {'new_value': '3 sons (Paul, James and Stephanie)', 'old_value': '3 sons (Paul, Jamie and David)'}}}
+1600: {'dictionary_item_removed': {"root['order3']": 'Canadian Minister of Finance', "root['term_start3']": '1994', "root['term_end3']": '2002', "root['predecessor3']": 'Gilles Loiselle', "root['successor3']": 'John Manley'}}
+1601: {'dictionary_item_removed': {"root['office3']": 'Minister of Finance'}, 'values_changed': {"root['order3']": {'new_value': 'Canadian Minister of Finance', 'old_value': '34th Canadian'}}}
+1627: {'dictionary_item_added': {"root['riding2']": 'LaSalle—Émard', "root['parliament2']": 'Canadian', "root['order3']": '34th Canadian'}, 'dictionary_item_removed': {"root['office2']": '34th Canadian Minister of Finance', "root['primeminister2']": 'Jean Chrétien', "root['primeminister3']": 'Jean Chrétien', "root['riding4']": 'LaSalle—Émard', "root['parliament4']": 'Canadian', "root['term_start4']": 'November 21, 1988', "root['term_end4']": 'October 14, 2008', "root['predecessor4']": 'Claude Lanthier', "root['successor4']": 'Lise Zarac'}, 'values_changed': {"root['name']": {'new_value': 'Paul Edgar Philippe Martin  |honorific-suffix    =  PC LL.B BA', 'old_value': 'Paul Martin  |honorific-suffix    =  PC'}, "root['term_start2']": {'new_value': 'November 21 1988', 'old_value': '1993'}, "root['term_end2']": {'new_value': 'October 14 2008', 'old_value': '2002'}, "root['predecessor2']": {'new_value': 'Claude Lanthier', 'old_value': 'Gilles Loiselle'}, "root['successor2']": {'new_value': 'Lise Zarac', 'old_value': 'John Manley'}, "root['office3']": {'new_value': 'Minister of Finance', 'old_value': 'Minister responsible for the Economic Development Agency of Canada for the Regions of Quebec'}, "root['term_start3']": {'new_value': '1994', 'old_value': '1993'}, "root['term_end3']": {'new_value': '2002', 'old_value': '1996'}, "root['predecessor3']": {'new_value': 'Gilles Loiselle', 'old_value': 'Jean Charest'}, "root['alma_mater']": {'new_value': 'University of Ottawa, University of Toronto', 'old_value': 'University of Toronto, University of Toronto Faculty of Law'}}}
+1644: {'values_changed': {"root['term_start']": {'new_value': 'December 12, 2003', 'old_value': 'December 20, 2012'}, "root['term_end']": {'new_value': 'February 6, 2006', 'old_value': 'december 21, 2012'}}}
+1646: {'dictionary_item_added': {"root['office']": 'Prime Minister  of Canada'}, 'dictionary_item_removed': {"root['died']": 'yesterday by ied and suicide bomber who likes big cock in ass'}}
+1647: {'dictionary_item_added': {"root['died']": 'yesterday by ied and suicide bomber who likes big cock in ass'}, 'dictionary_item_removed': {"root['office']": 'Prime Minister  of Canada'}, 'values_changed': {"root['term_start']": {'new_value': 'December 20, 2012', 'old_value': 'December 12, 2003'}, "root['term_end']": {'new_value': 'december 21, 2012', 'old_value': 'February 6, 2006'}}}
+1650: {'dictionary_item_removed': {"root['deputy']": 'Anne McLellan'}}
+1653: {'values_changed': {"root['term_end']": {'new_value': 'February 6, 2006', 'old_value': 'February 5, 2006'}}}
+1654: {'values_changed': {"root['term_end']": {'new_value': 'February 5, 2006', 'old_value': 'February 6, 2006'}}}
+1655: {'values_changed': {"root['term_end']": {'new_value': 'February 6, 2006', 'old_value': 'February 5, 2006'}}}
+1656: {'values_changed': {"root['term_end']": {'new_value': 'February 5, 2006', 'old_value': 'February 6, 2006'}}}
+1676: {'values_changed': {"root['name']": {'new_value': 'Paul Martin  |honorific-suffix    =  PC', 'old_value': 'Sir Paul Martin  |honorific-suffix    =  PC'}}}
+1678: {'values_changed': {"root['name']": {'new_value': 'Sir Paul Martin  |honorific-suffix    =  PC', 'old_value': 'Paul Martin  |honorific-suffix    =  PC'}}}
+1680: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Toronto, University of Toronto Faculty of Law', 'old_value': "St. Michael's College, Toronto, University of Toronto Faculty of Law"}}}
+1689: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Judaism'}}}
+1690: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Roman Catholic'}}}
+1727: {'dictionary_item_added': {"root['order']": '21st'}, 'values_changed': {"root['office2']": {'new_value': '34th Canadian Minister of Finance', 'old_value': 'Minister of Finance'}}}
+1728: {'dictionary_item_removed': {"root['order']": '21st'}, 'values_changed': {"root['office2']": {'new_value': 'Minister of Finance', 'old_value': '34th Canadian Minister of Finance'}}}
+1731: {'values_changed': {"root['name']": {'new_value': 'Paul Martin  |honorific-suffix    =  PC', 'old_value': 'Paul Martinxc  |honorific-suffix    =  PC'}, "root['term_start']": {'new_value': 'December 12, 2003', 'old_value': 'December 35, 2003'}}}
+1732: {'values_changed': {"root['name']": {'new_value': 'Paul Martinxc  |honorific-suffix    =  PC', 'old_value': 'Paul Martin  |honorific-suffix    =  PC'}, "root['term_start']": {'new_value': 'December 35, 2003', 'old_value': 'December 12, 2003'}}}
+1737: {'values_changed': {"root['name']": {'new_value': 'Paul Martin  |honorific-suffix    =  PC', 'old_value': 'Paul Martin  |honorific-suffix    =  PC, CC'}}}

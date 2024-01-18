@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mohamed Ghannouchi, محمد الغنوشي', "root['office']": '32nd Prime Minister of Tunisia', "root['president']": 'Zine El Abidine Ben Ali', "root['term_start']": '17 November 1999', "root['party']": 'RCD '}}
+9: {'dictionary_item_added': {"root['president']": 'Zine El Abidine Ben Ali'}, 'dictionary_item_removed': {"root['office2']": '32nd Prime Minister of Tunisia', "root['president2']": 'Zine El Abidine Ben Ali', "root['term_start2']": '17 November 1999', "root['term_end2']": '14 January 2011', "root['predecessor2']": 'Rachid Sfar'}, 'values_changed': {"root['office']": {'new_value': '32nd Prime Minister of Tunisia', 'old_value': 'President of Tunisia'}, "root['term_start']": {'new_value': '17 November 1999', 'old_value': '14 January 2011'}}}
+10: {'dictionary_item_removed': {"root['successor2']": 'TBD'}}
+13: {'dictionary_item_removed': {"root['alma_mater']": 'Tunis University'}}
+15: {'values_changed': {"root['office']": {'new_value': 'President of Tunisia', 'old_value': '3 rd  President of Tunisia'}}}
+16: {'values_changed': {"root['office']": {'new_value': '3 rd  President of Tunisia', 'old_value': '3 rd  President of Tunisia (acting)'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Mohamed Ghannouchi, محمد الغنوشي', 'old_value': 'Mohamed Ghannouchi,  محمد الغنوشي'}, "root['office']": {'new_value': '3 rd  President of Tunisia (acting)', 'old_value': 'President of Tunisia,  Acting'}, "root['office2']": {'new_value': '32nd Prime Minister of Tunisia', 'old_value': 'Prime Minister of Tunisia'}, "root['party']": {'new_value': 'RCD ', 'old_value': 'Constitutional Democratic Rally '}}}
+35: {'values_changed': {"root['predecessor2']": {'new_value': 'Rachid Sfar', 'old_value': 'Hamed Karoui'}}}
+37: {'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': '3rd President of Tunisia,  Acting'}}}
+38: {'values_changed': {"root['office']": {'new_value': '3rd President of Tunisia,  Acting', 'old_value': 'President of Tunisia,  Acting'}}}
+42: {'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'President of Tunisia,  claims to be Acting President'}}}
+43: {'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  claims to be Acting President', 'old_value': 'President of Tunisia,  Acting'}}}
+56: {'dictionary_item_removed': {"root['term_end']": '15 January 2011'}, 'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': '3rd President of Tunisia,  Acting'}}}
+58: {'values_changed': {"root['office']": {'new_value': '3rd President of Tunisia,  Acting', 'old_value': 'President of Tunisia,  Acting'}}}
+59: {'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'Prime Minister of Tunisia'}}}
+60: {'values_changed': {"root['office']": {'new_value': 'Prime Minister of Tunisia', 'old_value': 'President of Tunisia,  Acting'}}}
+77: {'dictionary_item_added': {"root['successor2']": 'TBD'}, 'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'President of Tunisia'}}}
+79: {'dictionary_item_added': {"root['term_end2']": '14 January 2011'}, 'values_changed': {"root['office']": {'new_value': 'President of Tunisia', 'old_value': 'President of Tunisia,  Acting'}}}
+84: {'values_changed': {"root['president2']": {'new_value': 'Zine El Abidine Ben Ali', 'old_value': 'Zine El Abidine Ben Ali, Mohamed Ghannouchi, Fouad Mebazaa'}}}
+86: {'dictionary_item_added': {"root['term_end']": '15 January 2011', "root['president2']": 'Zine El Abidine Ben Ali, Mohamed Ghannouchi, Fouad Mebazaa'}, 'dictionary_item_removed': {"root['president']": 'Zine El Abidine Ben Ali, Fouad Mebazaa  (Acting)', "root['term_end2']": '15 January 2011', "root['successor2']": 'Fouad Mebazaa  (Acting)'}, 'values_changed': {"root['office']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'Prime Minister of Tunisia'}, "root['term_start']": {'new_value': '14 January 2011', 'old_value': '17 November 1999'}, "root['office2']": {'new_value': 'Prime Minister of Tunisia', 'old_value': 'President of Tunisia,  Acting'}, "root['term_start2']": {'new_value': '17 November 1999', 'old_value': '14 January 2011'}, "root['predecessor2']": {'new_value': 'Hamed Karoui', 'old_value': 'Zine El Abidine Ben Ali'}}}
+89: {'values_changed': {"root['office2']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'Acting President of Tunisia'}}}
+90: {'values_changed': {"root['office2']": {'new_value': 'Acting President of Tunisia', 'old_value': 'President of Tunisia,  Acting'}}}
+100: {'dictionary_item_removed': {"root['otherparty']": 'Constitutional Democratic Rally '}, 'values_changed': {"root['party']": {'new_value': 'Constitutional Democratic Rally ', 'old_value': 'Independent'}}}
+101: {'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally ', 'old_value': 'Constitutional Democratic Rally (to 18 January 2011) '}}}
+104: {'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally (to 18 January 2011) ', 'old_value': 'Constitutional Democratic Rally (up until 18 January 2011) '}}}
+105: {'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally (up until 18 January 2011) ', 'old_value': 'Constitutional Democratic Rally (up until 18 January, 2011) '}}}
+106: {'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally (up until 18 January, 2011) ', 'old_value': 'Constitutional Democratic Rally (up until 18 January 2011) '}}}
+109: {'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally (up until 18 January 2011) ', 'old_value': 'Constitutional Democratic Rally  (prior to 18 January 2011)  '}}}
+125: {'values_changed': {"root['party']": {'new_value': 'Independent', 'old_value': 'Independent  (2011–present)  '}, "root['otherparty']": {'new_value': 'Constitutional Democratic Rally  (prior to 18 January 2011)  ', 'old_value': 'Constitutional Democratic Rally  (Before 2011)  '}}}
+139: {'dictionary_item_removed': {"root['term_end']": '27 February 2011'}}
+160: {'values_changed': {"root['term_end']": {'new_value': '27 February 2011', 'old_value': '27th February 2011'}}}
+164: {'dictionary_item_added': {"root['term_end']": '27th February 2011'}, 'values_changed': {"root['term_start']": {'new_value': '17 November 1999', 'old_value': '17 November 1999- 27 February 2011'}}}
+165: {'values_changed': {"root['term_start']": {'new_value': '17 November 1999- 27 February 2011', 'old_value': '17 November 1999 - 27 February 2011'}}}
+166: {'dictionary_item_removed': {"root['term_end']": '27 February 2011'}, 'values_changed': {"root['term_start']": {'new_value': '17 November 1999 - 27 February 2011', 'old_value': '17 November 1999'}}}
+175: {'values_changed': {"root['office2']": {'new_value': 'President of Tunisia,  Acting', 'old_value': 'Acting President of Tunisia'}}}
+177: {'values_changed': {"root['office2']": {'new_value': 'Acting President of Tunisia', 'old_value': 'President of Tunisia,  Acting'}}}
+187: {'dictionary_item_removed': {"root['religion']": 'Sunni Islam '}, 'values_changed': {"root['otherparty']": {'new_value': 'Constitutional Democratic Rally  (Before 2011)  ', 'old_value': 'Constitutional Democratic Rally  (Before 2011)'}}}
+194: {'dictionary_item_removed': {"root['spouse']": "''Name Privte''", "root['children']": '2'}}

@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael Dukakis', "root['order']": '65th and 67th Governor of Massachusetts', "root['lieutenant']": 'John Kerry, Evelyn Murphy', "root['term_start']": 'January 6, 1983', "root['term_end']": 'January 3, 1991', "root['lieutenant1']": "Thomas P. O'Neill III", "root['term_start1']": 'January 2, 1975', "root['term_end1']": 'January 4, 1979', "root['predecessor1']": 'Francis W. Sargent', "root['successor1']": 'Edward King', "root['office2']": 'Member of the, Massachusetts House of Representatives', "root['constituency2']": '10th Norfolk (1963–65), 13th Norfolk (1965–71)', "root['term_start2']": 'January 3, 1963', "root['term_end2']": 'January 3, 1971', "root['predecessor2']": 'Sumner Z. Kaplan', "root['successor2']": 'Jon Rotenberg', "root['party']": 'Democratic', "root['children']": '4, including John', "root['education']": 'Swarthmore College ', "root['rank']": 'Specialist', "root['unit']": '8020th Administrative Unit ', "root['serviceyears']": '1955–1957 '}}
+6: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'F. U. C. K  Mike Bloomberg'}}}
+8: {'values_changed': {"root['name']": {'new_value': 'F. U. C. K  Mike Bloomberg', 'old_value': 'Michael Dukakis'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+12: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+13: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+15: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+38: {'values_changed': {"root['education']": {'new_value': 'Swarthmore College ', 'old_value': 'Swarthmore College (BA), Harvard Law School (JD)'}}}
+41: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+42: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Michael Dukakis', 'old_value': 'Soft on Crime'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Soft on Crime', 'old_value': 'Michael Dukakis'}}}
+62: {'values_changed': {"root['successor1']": {'new_value': 'Edward King', 'old_value': 'Edward J. King'}}}
+102: {'type_changes': {"root['lieutenant']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['John Kerry', 'Evelyn Murphy'], 'new_value': 'John Kerry, Evelyn Murphy'}}, 'dictionary_item_added': {"root['order']": '65th and 67th Governor of Massachusetts', "root['lieutenant1']": "Thomas P. O'Neill III"}, 'dictionary_item_removed': {"root['office']": 'Governor of Massachusetts', "root['1blankname1']": 'Lieutenant', "root['1namedata1']": "Thomas P. O'Neill III"}}
+120: {'values_changed': {"root['office2']": {'new_value': 'Member of the, Massachusetts House of Representatives', 'old_value': 'Member of the Massachusetts House of Representatives'}, "root['constituency2']": {'new_value': '10th Norfolk (1963–65), 13th Norfolk (1965–71)', 'old_value': '10th Norfolk (1963–65) 13th Norfolk (1965–71)'}, "root['education']": {'new_value': 'Swarthmore College (BA), Harvard Law School (JD)', 'old_value': 'Swarthmore College (BA) Harvard Law School (JD)'}}}
+125: {'values_changed': {"root['constituency2']": {'new_value': '10th Norfolk (1963–65) 13th Norfolk (1965–71)', 'old_value': '10th Norfolk (1963–1965) 13th Norfolk (1965–1971)'}}}
+128: {'dictionary_item_removed': {"root['awards']": 'Grand Commander of the Order of Honour   '}, 'values_changed': {"root['serviceyears']": {'new_value': '1955–1957 ', 'old_value': '1955–1957'}}}
+129: {'values_changed': {"root['awards']": {'new_value': 'Grand Commander of the Order of Honour   ', 'old_value': 'Grand Commander of the Order of Honour |'}}}
+168: {'values_changed': {"root['education']": {'new_value': 'Swarthmore College (BA) Harvard Law School (JD)', 'old_value': 'Swarthmore College (BA) Harvard University (JD)'}}}
+176: {'values_changed': {"root['unit']": {'new_value': '8020th Administrative Unit ', 'old_value': '8020th Administrative Unit date=October 9, 1988 |title=While Seeking Higher Rank, Dukakis Keeps Military Brass at Parade Rest |url=https://www.chicagotribune.com/news/ct-xpm-1988-10-09-8802060222-story.html |work=Chicago Tribune |access-date=20 June 2022}'}, "root['awards']": {'new_value': 'Grand Commander of the Order of Honour |', 'old_value': 'Grand Commander of the Order of Honor |'}}}
+189: {'dictionary_item_removed': {"root['branch']": 'United States Army'}}

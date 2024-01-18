@@ -1,0 +1,53 @@
+0: {'dictionary_item_removed': {"root['name']": 'Peter Costello', "root['order']": 'Treasurer of Australia', "root['term_start']": 'March 1996', "root['spouse']": 'Tanya Costello (Coleman)', "root['religion']": 'Baptist (Christian)', "root['constituency']": 'Higgins', "root['party']": 'Liberal Party of Australia', "root['languagesspoken']": 'English '}}
+4: {'values_changed': {"root['spouse']": {'new_value': 'Tanya Costello (Coleman)', 'old_value': 'Tanya Costello (neé Coleman)'}}}
+14: {'values_changed': {"root['spouse']": {'new_value': 'Tanya Costello (neé Coleman)', 'old_value': 'Tanya Costello (née Coleman)'}}}
+34: {'values_changed': {"root['religion']": {'new_value': 'Baptist (Christian)', 'old_value': 'Jewish'}}}
+35: {'values_changed': {"root['religion']": {'new_value': 'Jewish', 'old_value': 'Baptist (Christian)'}}}
+55: {'values_changed': {"root['name']": {'new_value': 'Peter Costello', 'old_value': 'Tim Costello'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'Tim Costello', 'old_value': 'Peter Costello'}}}
+69: {'dictionary_item_removed': {"root['term_end']": 'as soon as possible, please'}}
+96: {'dictionary_item_added': {"root['term_end']": 'as soon as possible, please'}, 'values_changed': {"root['spouse']": {'new_value': 'Tanya Costello (née Coleman)', 'old_value': 'Tanya Costello (n�e Coleman)'}}}
+97: {'values_changed': {"root['spouse']": {'new_value': 'Tanya Costello (n�e Coleman)', 'old_value': 'Tanya Costello (ne` Coleman)'}}}
+98: {'values_changed': {"root['spouse']": {'new_value': 'Tanya Costello (ne` Coleman)', 'old_value': 'Tanya Costello (née Coleman)'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Peter Costello', 'old_value': 'The Hon. Peter Costello'}}}
+138: {'dictionary_item_added': {"root['religion']": 'Baptist (Christian)'}, 'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello', 'old_value': 'The Hon. Peter Costello aka Captain Smirk'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello aka Captain Smirk', 'old_value': 'The Hon. Peter Costello'}}}
+145: {'dictionary_item_removed': {"root['religion']": 'Baptist (Christian)'}, 'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello', 'old_value': 'Peter Costello'}}}
+148: {'dictionary_item_added': {"root['religion']": 'Baptist (Christian)'}, 'values_changed': {"root['name']": {'new_value': 'Peter Costello', 'old_value': 'The Hon. Peter Costello'}}}
+242: {'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello', 'old_value': 'Tim Wilms is GAY'}}}
+244: {'values_changed': {"root['name']": {'new_value': 'Tim Wilms is GAY', 'old_value': 'The Hon. Peter Costello'}}}
+261: {'values_changed': {"root['languagesspoken']": {'new_value': 'English ', 'old_value': 'English'}}}
+262: {'values_changed': {"root['languagesspoken']": {'new_value': 'English', 'old_value': 'English  '}}}
+270: {'values_changed': {"root['party']": {'new_value': 'Liberal Party of Australia', 'old_value': 'Marijuana Party of Australia'}}}
+271: {'values_changed': {"root['party']": {'new_value': 'Marijuana Party of Australia', 'old_value': 'Liberal Party of Australia'}}}
+290: {'values_changed': {"root['order']": {'new_value': 'Treasurer of Australia', 'old_value': 'Treasurer of Treasure Island'}, "root['term_start']": {'new_value': 'March 1996', 'old_value': 'March 900000BC'}, "root['spouse']": {'new_value': 'Tanya Costello (née Coleman)', 'old_value': 'Willy Costello (née Coleman)'}}}
+292: {'values_changed': {"root['order']": {'new_value': 'Treasurer of Treasure Island', 'old_value': 'Treasurer of Australia'}, "root['term_start']": {'new_value': 'March 900000BC', 'old_value': 'March 1996'}, "root['spouse']": {'new_value': 'Willy Costello (née Coleman)', 'old_value': 'Tanya Costello (née Coleman)'}}}
+293: {'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello', 'old_value': 'Willy Wonka'}}}
+294: {'values_changed': {"root['name']": {'new_value': 'Willy Wonka', 'old_value': 'The Hon. Peter Costello'}}}
+305: {'values_changed': {"root['term_start']": {'new_value': 'March 1996', 'old_value': "March 1800's"}, "root['spouse']": {'new_value': 'Tanya Costello (née Coleman)', 'old_value': 'WILLY Costello (née Coleman)'}}}
+306: {'values_changed': {"root['term_start']": {'new_value': "March 1800's", 'old_value': 'March 1996'}, "root['spouse']": {'new_value': 'WILLY Costello (née Coleman)', 'old_value': 'Tanya Costello (née Coleman)'}}}
+472: {'values_changed': {"root['term_start']": {'new_value': 'March 1996', 'old_value': 'March 1996-24 November 2007'}}}
+473: {'dictionary_item_removed': {"root['term_end']": '24 November 2007'}, 'values_changed': {"root['term_start']": {'new_value': 'March 1996-24 November 2007', 'old_value': 'March 1996'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello', 'old_value': 'The Hon. Peter Costello MP'}}}
+477: {'values_changed': {"root['name']": {'new_value': 'The Hon. Peter Costello MP', 'old_value': 'The Hon Peter Costello MP'}}}
+486: {'dictionary_item_added': {"root['constituency']": 'Higgins', "root['languagesspoken']": 'English  '}, 'dictionary_item_removed': {"root['order2']": 'Deputy Leader of Liberal Party of Australia', "root['term_start2']": 'May 1994', "root['term_end2']": 'present', "root['predecessor2']": 'Peter Reith', "root['successor2']": 'Incumbent', "root['constituency_MP3']": 'Higgins', "root['parliament3']": 'Australian', "root['majority3']": '46,561 (58.76%)', "root['term_start3']": '24 March 1990', "root['term_end3']": 'present', "root['predecessor3']": 'Roger Shipton', "root['successor3']": 'Incumbent', "root['alma_mater']": 'Monash University'}, 'values_changed': {"root['order']": {'new_value': 'Treasurer of Australia', 'old_value': '35th Treasurer of Australia'}}}
+488: {'values_changed': {"root['term_end2']": {'new_value': 'present', 'old_value': '29 November 2007'}, "root['successor2']": {'new_value': 'Incumbent', 'old_value': 'Julie Bishop'}}}
+489: {'dictionary_item_added': {"root['term_end']": '24 November 2007', "root['term_end3']": 'present', "root['successor3']": 'Incumbent'}, 'values_changed': {"root['term_start']": {'new_value': 'March 1996', 'old_value': 'March 8, 1996'}, "root['term_start2']": {'new_value': 'May 1994', 'old_value': 'May 1, 1994'}}}
+495: {'dictionary_item_removed': {"root['term_end']": 'December 3, 2007'}}
+496: {'values_changed': {"root['name']": {'new_value': 'The Hon Peter Costello MP', 'old_value': 'Peter Costello MP'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'Peter Costello MP', 'old_value': 'The Hon Peter Costello MP'}}}
+502: {'values_changed': {"root['term_start']": {'new_value': 'March 8, 1996', 'old_value': '11 March 1996'}, "root['term_end']": {'new_value': 'December 3, 2007', 'old_value': '3 December 2007'}, "root['term_start2']": {'new_value': 'May 1, 1994', 'old_value': '1 May 1994'}}}
+513: {'dictionary_item_removed': {"root['religion']": 'Anglican'}, 'values_changed': {"root['name']": {'new_value': 'The Hon Peter Costello MP', 'old_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP'}}}
+517: {'dictionary_item_added': {"root['religion']": 'Anglican'}, 'values_changed': {"root['name']": {'new_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP', 'old_value': 'Peter Costello |honorific-suffix = Below: A VERY BUSY COSTELLO!'}}}
+518: {'values_changed': {"root['name']": {'new_value': 'Peter Costello |honorific-suffix = Below: A VERY BUSY COSTELLO!', 'old_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP', 'old_value': 'Peter Costello (AKA Captain Smirk) |honorific-suffix = ,  BA LLB MP'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Peter Costello (AKA Captain Smirk) |honorific-suffix = ,  BA LLB MP', 'old_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP'}}}
+585: {'dictionary_item_removed': {"root['religion']": 'Baptist'}}
+606: {'values_changed': {"root['order']": {'new_value': '35th Treasurer of Australia', 'old_value': '44th Treasurer of Australia'}}}
+607: {'values_changed': {"root['order']": {'new_value': '44th Treasurer of Australia', 'old_value': '35th Treasurer of Australia'}}}
+609: {'values_changed': {"root['name']": {'new_value': 'Peter Costello |honorific-suffix = ,  BA LLB MP', 'old_value': 'Peter Costello |honorific-suffix = ,  MP'}}}
+610: {'dictionary_item_removed': {"root['term_end3']": '19 October 2009', "root['successor3']": 'TBD'}}
+614: {'dictionary_item_added': {"root['majority3']": '46,561 (58.76%)'}, 'values_changed': {"root['name']": {'new_value': 'Peter Costello |honorific-suffix = ,  MP', 'old_value': 'Peter Costello'}}}
+622: {'values_changed': {"root['religion']": {'new_value': 'Baptist', 'old_value': 'Anglican'}}}
+623: {'values_changed': {"root['religion']": {'new_value': 'Anglican', 'old_value': 'Baptist'}}}
+625: {'values_changed': {"root['successor3']": {'new_value': 'TBD', 'old_value': "Kelly O'Dwyer"}}}

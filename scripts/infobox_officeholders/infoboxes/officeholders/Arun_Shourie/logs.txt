@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Arun Shourie', "root['occupation']": 'Columnist, Journalist', "root['spouse']": 'Anita'}}
+16: {'dictionary_item_removed': {"root['party']": 'Bharatiya Janata Party'}, 'values_changed': {"root['occupation']": {'new_value': 'Columnist, Journalist', 'old_value': 'Politician, Columnist, Journalist'}}}
+21: {'dictionary_item_removed': {"root['children']": 'Website: www.arunshourie.in '}}
+43: {'dictionary_item_added': {"root['children']": 'Website: www.arunshourie.in '}, 'dictionary_item_removed': {"root['profession']": 'Journalist'}, 'values_changed': {"root['occupation']": {'new_value': 'Politician, Columnist, Journalist', 'old_value': 'Politician, Columnist'}}}
+44: {'values_changed': {"root['occupation']": {'new_value': 'Politician, Columnist', 'old_value': 'Politician'}}}
+45: {'values_changed': {"root['profession']": {'new_value': 'Journalist', 'old_value': 'Journalist & World Bank Economist'}}}
+81: {'values_changed': {"root['name']": {'new_value': 'Arun Shourie', 'old_value': 'Arun S'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Arun S', 'old_value': 'Arun Shourie'}}}

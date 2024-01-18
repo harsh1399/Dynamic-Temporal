@@ -1,0 +1,40 @@
+0: {'dictionary_item_removed': {"root['party']": 'Republican', "root['preceded']": 'Richard H. Bryan', "root['succeeded']": 'Incumbent (2013) | date of birth=March 25, 1958 | place of birth=Roseville, California', "root['dead']": 'alive | date of death= | place of death=', "root['spouse']": 'Darlene Ensign', "root['religion']": 'International Church of the Foursquare Gospel '}}
+1: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth=March 25, 1958 | place of birth=Roseville, California', 'old_value': 'Incumbent (2013) | date of birth=1958-03-25 | place of birth=Roseville, California'}}}
+3: {'dictionary_item_removed': {"root['term_start']": 'January 3, 2001&ndash;', "root['alongside']": 'Harry Reid'}}
+4: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth=1958-03-25 | place of birth=Roseville, California', 'old_value': 'Incumbent (2013) | date of birth=March 25, 1958 | place of birth=Roseville, California'}}}
+15: {'dictionary_item_removed': {"root['state']": 'Nevada'}}
+28: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth=March 25, 1958 | place of birth=Roseville, California', 'old_value': 'Incumbent (2013) | date of birth= place of birth=Roseville, Californ'}}}
+38: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2001&ndash;', 'old_value': 'January 3, 2001'}}}
+40: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth= place of birth=Roseville, Californ', 'old_value': 'Incumbent (2013) | date of birth= place of birth='}}}
+43: {'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth= place of birth=', 'old_value': 'Incumbent (2013) | date of birth= place of birth=Roseville, Californ'}}}
+76: {'dictionary_item_removed': {"root['state2']": 'Nevada', "root['district2']": '1st', "root['term_start2']": 'January 4, 1995', "root['term_end2']": 'January 3, 1999', "root['preceded2']": 'James Bilbray', "root['succeeded2']": 'Shelley Berkley | date of birth= place of birth=Roseville, Californ'}, 'values_changed': {"root['succeeded']": {'new_value': 'Incumbent (2013) | date of birth= place of birth=Roseville, Californ', 'old_value': 'Incumbent (2013)'}}}
+126: {'dictionary_item_added': {"root['succeeded']": 'Incumbent (2013)', "root['dead']": 'alive | date of death= | place of death='}, 'dictionary_item_removed': {"root['occupation']": 'veterinarian', "root['residence']": 'Las Vegas, Nevada', "root['alma_mater']": 'University of Nevada, Las Vegas,Oregon State University, Colorado State University', "root['children']": 'Trevor Ensign, Siena Ensign, Michael Ensign'}}
+136: {'dictionary_item_removed': {"root['imagesize']": '| jr/sr=Junior Senator'}}
+140: {'values_changed': {"root['children']": {'new_value': 'Trevor Ensign, Siena Ensign, Michael Ensign', 'old_value': 'Trevor Ensign Siena Ensign Michael Ensign'}}}
+361: {'values_changed': {"root['term_start2']": {'new_value': 'January 4, 1995', 'old_value': 'January 3, 1995'}}}
+389: {'values_changed': {"root['occupation']": {'new_value': 'veterinarian', 'old_value': 'Veterinarian'}, "root['alma_mater']": {'new_value': 'University of Nevada, Las Vegas,Oregon State University, Colorado State University', 'old_value': 'Oregon State University  (B.S.) , Colorado State University  (D.V.M.)'}}}
+433: {'dictionary_item_removed': {"root['name']": 'John Ensign'}}
+453: {'dictionary_item_added': {"root['name']": 'John Ensign'}, 'values_changed': {"root['religion']": {'new_value': 'International Church of the Foursquare Gospel ', 'old_value': 'International Church of the Foursquare Gospel'}}}
+486: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2001', 'old_value': 'January 3, 2001, ('}}}
+487: {'values_changed': {"root['term_start']": {'new_value': 'January 3, 2001, (', 'old_value': 'January 3, 2001'}}}
+523: {'dictionary_item_removed': {"root['term_end']": 'April 22,2011'}}
+524: {'dictionary_item_removed': {"root['succeeded']": 'TBD'}}
+537: {'values_changed': {"root['succeeded']": {'new_value': 'TBD', 'old_value': 'Dean Heller'}}}
+538: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller', 'old_value': 'TBD'}}}
+539: {'values_changed': {"root['term_end']": {'new_value': 'April 22,2011', 'old_value': 'May 3,2011'}, "root['succeeded']": {'new_value': 'TBD', 'old_value': 'Dean Heller'}}}
+541: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller', 'old_value': 'TBD'}}}
+544: {'values_changed': {"root['term_end']": {'new_value': 'May 3,2011', 'old_value': 'May 3, 2011'}}}
+563: {'dictionary_item_added': {"root['term_end']": 'May 3, 2011', "root['succeeded']": 'TBD'}, 'values_changed': {"root['preceded']": {'new_value': 'Richard H. Bryan', 'old_value': 'Richard Bryan'}}}
+571: {'dictionary_item_removed': {"root['succeeded']": 'Dean Heller (designate)'}}
+576: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller (designate)', 'old_value': 'Dean Heller'}}}
+577: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller', 'old_value': 'Dean Heller (Designate)'}}}
+579: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller (Designate)', 'old_value': 'TBD'}}}
+580: {'values_changed': {"root['succeeded']": {'new_value': 'TBD', 'old_value': 'Dean Heller'}}}
+584: {'dictionary_item_added': {"root['succeeded']": 'Dean Heller'}, 'dictionary_item_removed': {"root['term_end']": 'May 3, 2011'}}
+585: {'dictionary_item_added': {"root['alongside']": 'Harry Reid'}, 'dictionary_item_removed': {"root['succeeded']": 'Dean Heller'}}
+595: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller', 'old_value': 'Dean Heller (designate)'}}}
+596: {'values_changed': {"root['succeeded']": {'new_value': 'Dean Heller (designate)', 'old_value': 'Dean Heller'}}}
+608: {'values_changed': {"root['succeeded2']": {'new_value': 'Shelley Berkley | date of birth= place of birth=Roseville, Californ', 'old_value': 'Shelley Berkley'}}}
+629: {'dictionary_item_added': {"root['imagesize']": '| jr/sr=Junior Senator', "root['preceded']": 'Richard Bryan', "root['succeeded']": 'Dean Heller', "root['district2']": '1st', "root['preceded2']": 'James Bilbray', "root['succeeded2']": 'Shelley Berkley', "root['occupation']": 'Veterinarian', "root['residence']": 'Las Vegas, Nevada', "root['alma_mater']": 'Oregon State University  (B.S.) , Colorado State University  (D.V.M.)', "root['religion']": 'International Church of the Foursquare Gospel'}, 'dictionary_item_removed': {"root['name']": 'John Ensign', "root['predecessor2']": 'James Bilbray', "root['successor2']": 'Shelley Berkley', "root['education']": 'University of Nevada, Las Vegas, Oregon State University (BS), Colorado State University, Fort Collins (DVM)'}, 'values_changed': {"root['spouse']": {'new_value': 'Darlene Ensign', 'old_value': 'Darlene Sciaretta'}, "root['children']": {'new_value': 'Trevor Ensign Siena Ensign Michael Ensign', 'old_value': '3'}}}
+631: {'values_changed': {"root['education']": {'new_value': 'University of Nevada, Las Vegas, Oregon State University (BS), Colorado State University, Fort Collins (DVM)', 'old_value': 'University of Nevada, Las Vegas, Oregon State University (BS), Colorado State University (DVM)'}}}
+634: {'values_changed': {"root['spouse']": {'new_value': 'Darlene Sciaretta', 'old_value': 'Darlene Sciaretta (div. 2019)'}}}

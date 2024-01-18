@@ -1,0 +1,133 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael R. Bloomberg', "root['residence']": 'New York City', "root['office']": 'Mayor of New York City', "root['term_start']": '2002', "root['party']": 'Republican', "root['religion']": 'Judaism', "root['spouse']": 'Susan Brown (divorced)', "root['children']": 'Georgina, Emma'}}
+1: {'dictionary_item_added': {"root['name']": 'Michael R. Bloomberg', "root['residence']": 'New York City', "root['office']": 'Mayor of New York City', "root['children']": 'Georgina, Emma'}, 'dictionary_item_removed': {"root['order']": 'Mayor of New York City', "root['term_end']": "''present''"}, 'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican '}}}
+29: {'dictionary_item_added': {"root['term_end']": "''present''"}, 'values_changed': {"root['order']": {'new_value': 'Mayor of New York City', 'old_value': '108 th  Mayor of New York City'}, "root['term_start']": {'new_value': '2002', 'old_value': 'January 1, 2002'}}}
+65: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'black'}}}
+66: {'values_changed': {"root['religion']": {'new_value': 'black', 'old_value': 'Judaism'}}}
+82: {'values_changed': {"root['term_start']": {'new_value': 'January 1, 2002', 'old_value': '2002-01-01'}}}
+118: {'values_changed': {"root['term_start']": {'new_value': '2002-01-01', 'old_value': 'January 1, 2002'}}}
+257: {'values_changed': {"root['party']": {'new_value': 'Republican ', 'old_value': 'Democrat '}}}
+258: {'values_changed': {"root['party']": {'new_value': 'Democrat ', 'old_value': 'Republican '}}}
+306: {'dictionary_item_removed': {"root['alma_mater']": 'Johns Hopkins University'}}
+331: {'values_changed': {"root['party']": {'new_value': 'Republican ', 'old_value': 'Independent '}}}
+333: {'values_changed': {"root['party']": {'new_value': 'Independent ', 'old_value': 'Independent   '}}}
+337: {'values_changed': {"root['party']": {'new_value': 'Independent   ', 'old_value': 'Independent (politician)   '}}}
+338: {'values_changed': {"root['party']": {'new_value': 'Independent (politician)   ', 'old_value': 'Independent   '}}}
+346: {'values_changed': {"root['party']": {'new_value': 'Independent   ', 'old_value': 'Republican(2002-June 19, 2007)Independent   (June 19, 2007-Present) '}}}
+347: {'values_changed': {"root['party']": {'new_value': 'Republican(2002-June 19, 2007)Independent   (June 19, 2007-Present) ', 'old_value': 'Republican(2002-2007)Independent   (2007-Present) '}}}
+348: {'values_changed': {"root['party']": {'new_value': 'Republican(2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat(?-2002)Republican(2002-2007)Independent   (2007-Present) '}}}
+349: {'values_changed': {"root['party']": {'new_value': 'Democrat(?-2002)Republican(2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat(?-2002)    Republican(2002-2007)Independent   (2007-Present) '}}}
+350: {'values_changed': {"root['party']": {'new_value': 'Democrat(?-2002)    Republican(2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat(?-2002)         Republican(2002-2007)Independent   (2007-Present) '}}}
+351: {'values_changed': {"root['party']": {'new_value': 'Democrat(?-2002)         Republican(2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat(?-2002) Republican(2002-2007)Independent   (2007-Present) '}}}
+352: {'values_changed': {"root['party']": {'new_value': 'Democrat(?-2002) Republican(2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat (?-2002) Republican (2002-2007)Independent   (2007-Present) '}}}
+355: {'values_changed': {"root['party']": {'new_value': 'Democrat (?-2002) Republican (2002-2007)Independent   (2007-Present) ', 'old_value': 'Democrat (?-2001) Republican (2001-2007)Independent   (2007-Present) '}}}
+356: {'values_changed': {"root['party']": {'new_value': 'Democrat (?-2001) Republican (2001-2007)Independent   (2007-Present) ', 'old_value': 'Democratic (?-2001) Republican (2001-2007)Independent   (2007-Present) '}}}
+360: {'values_changed': {"root['party']": {'new_value': 'Democratic (?-2001) Republican (2001-2007)Independent   (2007-Present) ', 'old_value': 'Democratic (?-2001) ,  Republican (2001-2007) ,  Independent   (2007-Present) '}}}
+374: {'values_changed': {"root['party']": {'new_value': 'Democratic (?-2001) ,  Republican (2001-2007) ,  Independent   (2007-Present) ', 'old_value': 'Democratic (?-2001) ,  Republican (2001-2007) ,  Independent<ref name'}}}
+384: {'values_changed': {"root['party']": {'new_value': 'Democratic (?-2001) ,  Republican (2001-2007) ,  Independent<ref name', 'old_value': 'Democratic (?-2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+432: {'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York City', 'old_value': '44 th  President of the United States'}, "root['party']": {'new_value': 'Democratic (?-2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic (1942-2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+433: {'values_changed': {"root['order']": {'new_value': '44 th  President of the United States', 'old_value': '108 th  Mayor of New York City'}, "root['party']": {'new_value': 'Democratic (1942-2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic (?-2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+457: {'values_changed': {"root['party']": {'new_value': 'Democratic (?-2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic (1960-2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+467: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Reform Judaism'}}}
+695: {'values_changed': {"root['religion']": {'new_value': 'Reform Judaism', 'old_value': 'Judaism'}}}
+726: {'values_changed': {"root['party']": {'new_value': 'Democratic (1960-2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic (1960–2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+728: {'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York City', 'old_value': '108 th  Mayor of New York City he is a american person'}}}
+729: {'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York City he is a american person', 'old_value': '108 th  Mayor of New York City'}}}
+730: {'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York City', 'old_value': '108 th  Mayor of New York Citd'}}}
+731: {'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York Citd', 'old_value': '108 th  Mayor of New York City'}}}
+739: {'values_changed': {"root['party']": {'new_value': 'Democratic (1960–2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic (1963–2001) ,  Republican (2001–2007) ,  Independent<ref name'}}}
+792: {'dictionary_item_added': {"root['spouse']": 'Susan Brown (divorced)', "root['alma_mater']": 'Johns Hopkins University'}, 'dictionary_item_removed': {"root['occupation']": 'Businessman, politician, philanthropist', "root['partner']": 'Diana Taylor', "root['children']": 'Georgina Bloomberg, Emma Bloomberg', "root['residence']": 'Upper East Side, Manhattan, New York City, New York, U.S.', "root['blank1']": 'Net worth'}, 'values_changed': {"root['order']": {'new_value': '108 th  Mayor of New York City', 'old_value': '108th Head Jew of Jew York City'}, "root['religion']": {'new_value': 'Judaism', 'old_value': 'Greedy Jew'}, "root['party']": {'new_value': 'Democratic (1963–2001) ,  Republican (2001–2007) ,  Independent<ref name', 'old_value': 'Democratic Party  (until 2001)  Republican Party  (2001–2007)  Independent  (2007&ndash;present)'}}}
+793: {'values_changed': {"root['order']": {'new_value': '108th Head Jew of Jew York City', 'old_value': '108th Mayor of New York City'}, "root['religion']": {'new_value': 'Greedy Jew', 'old_value': 'Reform Judaism'}}}
+807: {'dictionary_item_removed': {"root['spouse']": 'Susan Brown (1975-1993)'}}
+811: {'values_changed': {"root['religion']": {'new_value': 'Reform Judaism', 'old_value': 'Atheist'}}}
+815: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'unknown'}}}
+820: {'values_changed': {"root['party']": {'new_value': 'Democratic Party  (until 2001)  Republican Party  (2001–2007)  Independent  (2007&ndash;present)', 'old_value': 'Democratic Party  (until 2001)  Republican Party  (2001–2007)  Independent  (2007–present)'}, "root['spouse']": {'new_value': 'Susan Brown (1975-1993)', 'old_value': 'Susan Brown (1975–1993)'}}}
+822: {'values_changed': {"root['religion']": {'new_value': 'unknown', 'old_value': 'Judaism'}}}
+824: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Atheism'}}}
+832: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': 'Judaism'}}}
+833: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Reform Judaism'}}}
+838: {'dictionary_item_added': {"root['order']": '108th Mayor of New York City', "root['occupation']": 'Businessman, politician, philanthropist', "root['residence']": 'Upper East Side, Manhattan, New York City, New York, U.S.'}, 'dictionary_item_removed': {"root['name']": 'Michael Bloomberg', "root['office']": '108th Mayor of New York City', "root['birthname']": 'Michael Rubens Bloomberg', "root['alma_mater']": 'Johns Hopkins University, Harvard University'}, 'values_changed': {"root['party']": {'new_value': 'Democratic Party  (until 2001)  Republican Party  (2001–2007)  Independent  (2007–present)', 'old_value': 'Democratic '}, "root['spouse']": {'new_value': 'Susan Brown (1975–1993)', 'old_value': 'Susan Brown '}, "root['partner']": {'new_value': 'Diana Taylor', 'old_value': 'Diana Taylor '}, "root['children']": {'new_value': 'Georgina Bloomberg, Emma Bloomberg', 'old_value': 'Georgina, Emma'}}}
+842: {'values_changed': {"root['religion']": {'new_value': 'Reform Judaism', 'old_value': 'Atheist'}}}
+845: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Imperialist Bloomberg'}}}
+846: {'values_changed': {"root['name']": {'new_value': 'Michael Imperialist Bloomberg', 'old_value': 'Michael Bloomberg'}}}
+853: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'Reform Judaism'}}}
+872: {'dictionary_item_added': {"root['partner']": 'Diana Taylor '}, 'dictionary_item_removed': {"root['Girlfriend']": 'Diana Taylor '}}
+873: {'dictionary_item_added': {"root['Girlfriend']": 'Diana Taylor '}, 'dictionary_item_removed': {"root['partner']": 'Diana Taylor '}}
+894: {'values_changed': {"root['religion']": {'new_value': 'Reform Judaism', 'old_value': 'Atheist'}}}
+902: {'dictionary_item_added': {"root['religion']": 'Atheist'}, 'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Iceberg'}, "root['office']": {'new_value': '108th Mayor of New York City', 'old_value': '1st Mayor of New York City'}, "root['birthname']": {'new_value': 'Michael Rubens Bloomberg', 'old_value': 'Justin Bieber'}, "root['children']": {'new_value': 'Georgina, Emma', 'old_value': 'your mom'}}}
+906: {'values_changed': {"root['name']": {'new_value': 'Michael Iceberg', 'old_value': 'Michael Bloomberg'}, "root['birthname']": {'new_value': 'Justin Bieber', 'old_value': 'Michael Rubens Bloomberg'}, "root['children']": {'new_value': 'your mom', 'old_value': 'Georgina and Emma'}}}
+908: {'values_changed': {"root['office']": {'new_value': '1st Mayor of New York City', 'old_value': '108th Mayor of New York City'}, "root['children']": {'new_value': 'Georgina and Emma', 'old_value': 'Georgina, Emma'}}}
+938: {'values_changed': {"root['term_start']": {'new_value': 'January 1, 2002', 'old_value': 'January 1, 2002 he is very gay'}}}
+939: {'values_changed': {"root['term_start']": {'new_value': 'January 1, 2002 he is very gay', 'old_value': 'January 1, 2002'}}}
+944: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+981: {'values_changed': {"root['alma_mater']": {'new_value': 'Johns Hopkins University, Harvard University', 'old_value': 'Johns Hopkins University, Harvard Business School'}}}
+1004: {'dictionary_item_removed': {"root['term_end']": 'January 1, 2014'}}
+1041: {'dictionary_item_added': {"root['term_end']": 'January 1, 2014'}, 'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Micheal No'}}}
+1042: {'values_changed': {"root['name']": {'new_value': 'Micheal No', 'old_value': 'Michael Bloomberg'}}}
+1045: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael BlueCookie'}}}
+1046: {'values_changed': {"root['name']": {'new_value': 'Michael BlueCookie', 'old_value': 'Michael Bloomberg'}}}
+1047: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Boobmerg'}}}
+1048: {'values_changed': {"root['name']": {'new_value': 'Michael Boobmerg', 'old_value': 'Michael Bloomberg'}}}
+1049: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael booberg'}, "root['birthname']": {'new_value': 'Michael Rubens Bloomberg', 'old_value': 'Michael Rubens booberg'}}}
+1050: {'values_changed': {"root['name']": {'new_value': 'Michael booberg', 'old_value': 'Michael Bloomberg'}, "root['birthname']": {'new_value': 'Michael Rubens booberg', 'old_value': 'Michael Rubens Bloomberg'}}}
+1053: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Non-Religious'}}}
+1054: {'values_changed': {"root['religion']": {'new_value': 'Non-Religious', 'old_value': 'Judaism'}}}
+1063: {'values_changed': {"root['children']": {'new_value': 'Georgina, Emma', 'old_value': 'Georgina, Emma, Klara'}}}
+1064: {'values_changed': {"root['children']": {'new_value': 'Georgina, Emma, Klara', 'old_value': 'Georgina, Emma'}}}
+1142: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Booberg'}}}
+1143: {'values_changed': {"root['name']": {'new_value': 'Michael Booberg', 'old_value': 'Michael Bloomberg'}}}
+1154: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Reform Judaism'}}}
+1162: {'dictionary_item_removed': {"root['term_end']": 'December 31, 2013'}}
+1167: {'values_changed': {"root['children']": {'new_value': 'Georgina, Emma', 'old_value': 'Emma, Georgina'}}}
+1198: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Sir Michael Bloomberg'}}}
+1199: {'values_changed': {"root['birthname']": {'new_value': 'Michael Rubens Bloomberg', 'old_value': 'Sir Michael Rubens Bloomberg'}}}
+1200: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Bloomberg', 'old_value': 'Michael Bloomberg'}, "root['birthname']": {'new_value': 'Sir Michael Rubens Bloomberg', 'old_value': 'Michael Rubens Bloomberg'}}}
+1201: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Bloomberg KBE'}}}
+1202: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg KBE', 'old_value': 'Michael Bloomberg'}}}
+1230: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'KBE'}}}
+1231: {'values_changed': {"root['name']": {'new_value': 'KBE', 'old_value': 'Michael Bloomberg'}}}
+1232: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michael Bloomberg KBE'}}}
+1233: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg KBE', 'old_value': 'Michael Bloomberg'}}}
+1248: {'dictionary_item_removed': {"root['ethnicity']": 'Jewish'}}
+1251: {'dictionary_item_removed': {"root['data1']": 'US$37 billion (June 2015) '}}
+1287: {'values_changed': {"root['data1']": {'new_value': 'US$37 billion (June 2015) ', 'old_value': 'US$46 billion (June 2015) '}}}
+1288: {'values_changed': {"root['data1']": {'new_value': 'US$46 billion (June 2015) ', 'old_value': 'US$37 billion (June 2015) '}}}
+1313: {'dictionary_item_added': {"root['data1']": 'US$37 billion (June 2015) '}, 'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Michaael Bloomberg'}}}
+1314: {'values_changed': {"root['name']": {'new_value': 'Michaael Bloomberg', 'old_value': 'Michael Bloomberg'}}}
+1341: {'values_changed': {"root['alma_mater']": {'new_value': 'Johns Hopkins University, Harvard Business School', 'old_value': 'Johns Hopkins University, Harvard Business School (HBS)'}}}
+1342: {'values_changed': {"root['alma_mater']": {'new_value': 'Johns Hopkins University, Harvard Business School (HBS)', 'old_value': 'Johns Hopkins University, Harvard Business School'}}}
+1344: {'dictionary_item_added': {"root['spouse']": 'Susan Brown ', "root['religion']": 'Reform Judaism', "root['ethnicity']": 'Jewish'}, 'dictionary_item_removed': {"root['otherparty']": 'Republican '}, 'values_changed': {"root['party']": {'new_value': 'Democratic ', 'old_value': 'Independent '}, "root['children']": {'new_value': 'Emma, Georgina', 'old_value': 'Emma Frissora, Georgina Bloomberg'}, "root['alma_mater']": {'new_value': 'Johns Hopkins University, Harvard Business School', 'old_value': 'Johns Hopkins University '}}}
+1356: {'values_changed': {"root['alma_mater']": {'new_value': 'Johns Hopkins University ', 'old_value': 'Harvard University '}}}
+1371: {'values_changed': {"root['office']": {'new_value': '108th Mayor of New York City', 'old_value': '108th Mayor of New York City |honorific-suffix = '}}}
+1379: {'values_changed': {"root['office']": {'new_value': '108th Mayor of New York City |honorific-suffix = ', 'old_value': '108th Mayor of New York City'}}}
+1397: {'values_changed': {"root['party']": {'new_value': 'Independent ', 'old_value': 'Independent (2007–present)'}, "root['otherparty']": {'new_value': 'Republican ', 'old_value': 'Republican (2001–2007), Democratic (Before 2001)'}, "root['partner']": {'new_value': 'Diana Taylor ', 'old_value': 'Diana Taylor (2000–present)'}, "root['alma_mater']": {'new_value': 'Harvard University ', 'old_value': 'Harvard University (MBA), Johns Hopkins University (BS)'}}}
+1398: {'values_changed': {"root['office']": {'new_value': '108th Mayor of New York City', 'old_value': '108th Head Jew of Jew York City'}}}
+1399: {'values_changed': {"root['office']": {'new_value': '108th Head Jew of Jew York City', 'old_value': '108th Mayor of New York City'}}}
+1417: {'values_changed': {"root['term_start']": {'new_value': 'January 1, 2002', 'old_value': 'January 1, 2009'}}}
+1418: {'values_changed': {"root['term_start']": {'new_value': 'January 1, 2009', 'old_value': 'January 1, 2002'}}}
+1420: {'values_changed': {"root['term_end']": {'new_value': 'December 31, 2013', 'old_value': 'December 31, 2017'}}}
+1421: {'values_changed': {"root['children']": {'new_value': 'Emma Frissora, Georgina Bloomberg', 'old_value': 'Emma Bloomberg , Georgina Bloomberg'}}}
+1422: {'values_changed': {"root['term_end']": {'new_value': 'December 31, 2017', 'old_value': 'December 31, 2013'}, "root['children']": {'new_value': 'Emma Bloomberg , Georgina Bloomberg', 'old_value': 'Emma Frissora, Georgina Bloomberg'}}}
+1426: {'values_changed': {"root['office']": {'new_value': '108th Mayor of New York City', 'old_value': '108th Mayor of Chandigarh'}}}
+1427: {'values_changed': {"root['office']": {'new_value': '108th Mayor of Chandigarh', 'old_value': '108th Mayor of New York'}}}
+1439: {'values_changed': {"root['office']": {'new_value': '108th Mayor of New York', 'old_value': '108th Mayor of New York City'}}}
+1449: {'dictionary_item_added': {"root['otherparty']": 'Republican (2001–2007), Democratic (Before 2001)', "root['alma_mater']": 'Harvard University (MBA), Johns Hopkins University (BS)'}, 'dictionary_item_removed': {"root['education']": 'Johns Hopkins University (BS), Harvard University (MBA)'}, 'values_changed': {"root['party']": {'new_value': 'Independent (2007–present)', 'old_value': 'Democratic (Before 2001), Republican (2001–2007), Independent (2007–present)'}, "root['children']": {'new_value': 'Emma Frissora, Georgina Bloomberg', 'old_value': '2, includong Georgina'}}}
+1450: {'values_changed': {"root['children']": {'new_value': '2, includong Georgina', 'old_value': '2, including Georgina'}}}
+1455: {'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001), Republican (2001–2007), Independent (2007–present)', 'old_value': 'Democratic (Before 2001; 2018-present), Independent (2007–2018), Republican (2001–2007)'}}}
+1456: {'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001; 2018-present), Independent (2007–2018), Republican (2001–2007)', 'old_value': 'Democratic (Before 2001; 2018–present), Independent (2007–2018), Republican (2001–2007)'}}}
+1461: {'dictionary_item_added': {"root['birthname']": 'Michael Rubens Bloomberg'}, 'dictionary_item_removed': {"root['otherparty']": 'Independent (2007–2018), Republican (2001–2007)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001; 2018–present), Independent (2007–2018), Republican (2001–2007)', 'old_value': 'Democratic (before 2001; 2018–present)'}}}
+1462: {'dictionary_item_added': {"root['otherparty']": 'Independent (2007–2018), Republican (2001–2007)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (before 2001; 2018–present)', 'old_value': 'Democratic (Before 2001; 2018–present), Independent (2007–2018), Republican (2001–2007)'}}}
+1463: {'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001; 2018–present), Independent (2007–2018), Republican (2001–2007)', 'old_value': 'Democratic (Before 2001; 2018–present), Republican (2001–2007), Independent (2007–2018)'}}}
+1465: {'dictionary_item_removed': {"root['otherparty']": 'Republican (2001–2007), Independent (2007–2018)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001; 2018–present), Republican (2001–2007), Independent (2007–2018)', 'old_value': 'Democratic (before 2001, 2018–present)'}}}
+1468: {'dictionary_item_added': {"root['otherparty']": 'Republican (2001–2007), Independent (2007–2018)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (before 2001, 2018–present)', 'old_value': 'Democratic (Before 2001, 2018–present), Republican (2001–2007), Independent (2007–2018)'}}}
+1469: {'dictionary_item_removed': {"root['otherparty']": 'Republican (2001–2007), Independent (2007–2018)'}, 'values_changed': {"root['party']": {'new_value': 'Democratic (Before 2001, 2018–present), Republican (2001–2007), Independent (2007–2018)', 'old_value': 'Democratic (before 2001, 2018–present)'}}}
+1474: {'values_changed': {"root['party']": {'new_value': 'Democratic (before 2001, 2018–present)', 'old_value': 'Democratic (before 2001) National Socialist Workers Party (current) Only Nazi’s want to disarm the populace.'}}}
+1475: {'values_changed': {"root['party']": {'new_value': 'Democratic (before 2001) National Socialist Workers Party (current) Only Nazi’s want to disarm the populace.', 'old_value': 'Democratic (before 2001, 2018–present)'}}}
+1485: {'dictionary_item_removed': {"root['data1']": 'US$51.8 billion (2018)'}}
+1487: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Mo Diame'}}}
+1488: {'values_changed': {"root['name']": {'new_value': 'Mo Diame', 'old_value': 'Michael Bloomberg'}}}
+1506: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Daddy Bloomberg'}}}
+1507: {'values_changed': {"root['name']": {'new_value': 'Daddy Bloomberg', 'old_value': 'Michael Bloomberg'}}}
+1538: {'dictionary_item_added': {"root['blank1']": 'Net worth', "root['data1']": 'US$51.8 billion (2018)'}, 'dictionary_item_removed': {"root['deputy']": 'Patricia Harris', "root['occupation']": ['Politician', 'philanthropist', 'author', 'businessman', 'stock trader']}, 'values_changed': {"root['otherparty']": {'new_value': 'Republican (2001–2007), Independent (2007–2018)', 'old_value': 'Republican (2001–2007) Independent (2007–2018)'}, "root['education']": {'new_value': 'Johns Hopkins University (BS), Harvard University (MBA)', 'old_value': 'Johns Hopkins University (BS) Harvard University (MBA)'}}}
+1546: {'values_changed': {"root['name']": {'new_value': 'Michael Bloomberg', 'old_value': 'Sexual Predator'}}}
+1547: {'values_changed': {"root['name']": {'new_value': 'Sexual Predator', 'old_value': 'Michael Bloomberg'}}}
+1578: {'dictionary_item_added': {"root['deputy']": 'Patricia Harris', "root['term_end']": 'December 31, 2013'}, 'dictionary_item_removed': {"root['office1']": '108th Mayor of New York City', "root['deputy1']": 'Patricia Harris', "root['term_start1']": 'January 1, 2002', "root['term_end1']": 'December 31, 2013', "root['predecessor1']": 'Rudy Giuliani', "root['successor1']": 'Bill de Blasio'}, 'values_changed': {"root['office']": {'new_value': '108th Mayor of New York City', 'old_value': 'Chair of the Defense Innovation Board'}, "root['term_start']": {'new_value': 'January 1, 2002', 'old_value': 'June 22, 2022'}}}

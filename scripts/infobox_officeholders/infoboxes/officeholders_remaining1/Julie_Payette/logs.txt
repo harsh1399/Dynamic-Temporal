@@ -1,0 +1,80 @@
+0: {'dictionary_item_removed': {"root['name']": 'Julie Payette', "root['type']": 'CSA Astronaut', "root['selection']": '1992 CSA Group', "root['time']": '25d 11h 57m', "root['mission']": 'STS-96, STS-127', "root['insignia']": '|'}}
+3: {'values_changed': {"root['name']": {'new_value': 'Julie Payette', 'old_value': 'Julie caca'}}}
+4: {'values_changed': {"root['name']": {'new_value': 'Julie caca', 'old_value': 'Julie Payette'}}}
+14: {'dictionary_item_added': {"root['insignia']": '|'}, 'dictionary_item_removed': {"root['alma_mater']": 'McGill University University of Toronto |'}}
+43: {'dictionary_item_added': {"root['type']": 'CSA Astronaut', "root['selection']": '1992 CSA Group', "root['time']": '25d 11h 57m', "root['mission']": 'STS-96, STS-127'}, 'dictionary_item_removed': {"root['office']": '29th Governor General of Canada', "root['monarch']": 'Elizabeth II', "root['primeminister']": 'Justin Trudeau', "root['term_start']": 'TBD', "root['succeeding']": 'David Johnston', "root['profession']": 'Astronaut, Engineer'}, 'values_changed': {"root['name']": {'new_value': 'Julie Payette', 'old_value': 'Julie Payette |honorific-suffix ='}, "root['alma_mater']": {'new_value': 'McGill University University of Toronto |', 'old_value': 'McGill University, University of Toronto'}}}
+52: {'values_changed': {"root['office']": {'new_value': '29th Governor General of Canada', 'old_value': '29th Governor General of Canada,  Designate'}}}
+57: {'values_changed': {"root['office']": {'new_value': '29th Governor General of Canada,  Designate', 'old_value': 'Governor General of Canada,  Designate'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix =', 'old_value': 'Julie Payette |honorific-suffix = '}}}
+60: {'dictionary_item_removed': {"root['selection']": '1992 CSA Group', "root['time']": '25d 11h 57m', "root['mission']": 'STS-96, STS-127'}}
+62: {'dictionary_item_removed': {"root['type']": 'CSA Astronaut'}}
+64: {'dictionary_item_removed': {"root['spouse']": 'Billie Flynn', "root['children']": '2'}}
+67: {'dictionary_item_added': {"root['alma_mater']": 'McGill University, University of Toronto', "root['profession']": 'Astronaut, Engineer'}, 'dictionary_item_removed': {"root['occupation']": 'Astronaut, engineer'}}
+71: {'dictionary_item_added': {"root['spouse']": 'Billie Flynn'}, 'values_changed': {"root['type']": {'new_value': 'CSA Astronaut', 'old_value': 'CSA astronaut'}, "root['time']": {'new_value': '25d 11h 57m', 'old_value': '25 days 11 h 57 min'}, "root['mission']": {'new_value': 'STS-96, STS-127', 'old_value': 'STS-96, STS-127  '}}}
+117: {'values_changed': {"root['office']": {'new_value': 'Governor General of Canada,  Designate', 'old_value': 'Governor General–designate of Canada'}, "root['term_start']": {'new_value': 'TBD', 'old_value': 'TBA'}}}
+141: {'values_changed': {"root['office']": {'new_value': 'Governor General–designate of Canada', 'old_value': 'Governor General of Canada, '}}}
+146: {'dictionary_item_removed': {"root['spouse']": 'François Brissette (div.)   | partner         = Billie Flynn'}}
+156: {'values_changed': {"root['spouse']": {'new_value': 'François Brissette (div.)   | partner         = Billie Flynn', 'old_value': 'Billie Flynn ('}}}
+164: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+250: {'dictionary_item_added': {"root['spouse']": 'Billie Flynn ('}, 'values_changed': {"root['term_start']": {'new_value': 'TBA', 'old_value': 'October 2017'}}}
+277: {'values_changed': {"root['mission']": {'new_value': 'STS-96, STS-127  ', 'old_value': 'STS-96, STS-127'}}}
+280: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+296: {'dictionary_item_added': {"root['children']": '2'}, 'values_changed': {"root['term_start']": {'new_value': 'October 2017', 'old_value': 'October 2, 2017'}}}
+298: {'values_changed': {"root['term_start']": {'new_value': 'October 2, 2017', 'old_value': 'October 2017'}}}
+301: {'values_changed': {"root['term_start']": {'new_value': 'October 2017', 'old_value': '2 October 2017'}}}
+302: {'dictionary_item_added': {"root['occupation']": 'Astronaut, engineer'}, 'dictionary_item_removed': {"root['education']": 'McGill University ', "root['child']": 'yes'}}
+306: {'dictionary_item_added': {"root['education']": 'McGill University '}, 'values_changed': {"root['office']": {'new_value': 'Governor General of Canada, ', 'old_value': '29th Governor General of Canada, '}}}
+307: {'values_changed': {"root['office']": {'new_value': '29th Governor General of Canada, ', 'old_value': 'Governor General of Canada, '}}}
+309: {'values_changed': {"root['term_start']": {'new_value': '2 October 2017', 'old_value': 'October 2, 2017'}}}
+320: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix = ', 'old_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ'}}}
+335: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ', 'old_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ CD'}}}
+344: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ CD', 'old_value': 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}}}
+357: {'values_changed': {"root['term_start']": {'new_value': 'October 2, 2017', 'old_value': 'October 1, 2017'}}}
+358: {'values_changed': {"root['office']": {'new_value': 'Governor General of Canada, ', 'old_value': 'Governor General of Canada'}}}
+360: {'values_changed': {"root['term_start']": {'new_value': 'October 1, 2017', 'old_value': 'October 2, 2017'}}}
+361: {'values_changed': {"root['term_start']": {'new_value': 'October 2, 2017', 'old_value': 'October 1, 2017'}}}
+363: {'values_changed': {"root['term_start']": {'new_value': 'October 1, 2017', 'old_value': 'October 2, 2017'}}}
+364: {'values_changed': {"root['office']": {'new_value': 'Governor General of Canada', 'old_value': 'Governor General of Canada, '}}}
+376: {'values_changed': {"root['name']": {'new_value': 'Julie Payette | honorific-suffix = CC CMM COM CQ CD', 'old_value': 'David Johnston'}}}
+378: {'values_changed': {"root['office']": {'new_value': 'Governor General of Canada, ', 'old_value': 'Governor General of Canada'}}}
+381: {'dictionary_item_added': {"root['succeeding']": 'David Johnston'}, 'dictionary_item_removed': {"root['succeeded']": 'David Johnston'}}
+382: {'dictionary_item_added': {"root['succeeded']": 'David Johnston'}, 'dictionary_item_removed': {"root['succeeding']": 'David Johnston'}}
+383: {'values_changed': {"root['office']": {'new_value': 'Governor General of Canada', 'old_value': '29th Governor General of Canada'}}}
+402: {'dictionary_item_added': {"root['name']": 'David Johnston', "root['succeeding']": 'David Johnston'}, 'dictionary_item_removed': {"root['Badge']": 'Crest of the Governor-General of Canada.svg '}}
+404: {'dictionary_item_added': {"root['Badge']": 'Crest of the Governor-General of Canada.svg '}, 'dictionary_item_removed': {"root['flag']": 'Flag_of_the_Governor-General_of_Canada.svg '}}
+441: {'dictionary_item_added': {"root['flag']": 'Flag_of_the_Governor-General_of_Canada.svg '}, 'dictionary_item_removed': {"root['name']": 'Julie Payette |honorific-suffix = CC CMM COM CQ CD', "root['education']": 'McGill University '}}
+445: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ CD', 'old_value': "Julie Payette |honorific-suffix = CC CMM COM CQ CD FRSC(''hon'') FRCPSC(''hon'')"}}}
+452: {'dictionary_item_removed': {"root['residence']": 'Rideau Hall, Ottawa, Ontario'}}
+458: {'values_changed': {"root['name']": {'new_value': "Julie Payette |honorific-suffix = CC CMM COM CQ CD FRSC(''hon'') FRCPSC(''hon'')", 'old_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ CD'}}}
+464: {'values_changed': {"root['name']": {'new_value': 'Julie Payette |honorific-suffix = CC CMM COM CQ CD', 'old_value': 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}}}
+476: {'dictionary_item_added': {"root['name']": 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}, 'values_changed': {"root['residence']": {'new_value': 'Rideau Hall, Ottawa, Ontario', 'old_value': 'Rideau Hall, Ottawa, Ontario | honorific-prefix = Her Excellency the Right Honourable | honorific-suffix = CC CMM COM CQ CD'}}}
+477: {'dictionary_item_removed': {"root['name']": 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}, 'values_changed': {"root['residence']": {'new_value': 'Rideau Hall, Ottawa, Ontario | honorific-prefix = Her Excellency the Right Honourable | honorific-suffix = CC CMM COM CQ CD', 'old_value': 'Rideau Hall, Ottawa, Ontario'}}}
+500: {'dictionary_item_added': {"root['education']": 'McGill University '}, 'dictionary_item_removed': {"root['spouse']": 'François Brissette , (until 1999), William Flynn , (until 2015)', "root['children']": '1'}, 'values_changed': {"root['residence']": {'new_value': 'Rideau Hall, Ottawa, Ontario', 'old_value': 'Rideau Hall'}}}
+565: {'dictionary_item_added': {"root['name']": 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}, 'values_changed': {"root['residence']": {'new_value': 'Rideau Hall', 'old_value': 'Rideau Hall | honorific-prefix = Her Excellency the Right Honourable | honorific-suffix = CC CMM COM CQ CD'}}}
+568: {'dictionary_item_removed': {"root['name']": 'Julie Payette | honorific-suffix = CC CMM COM CQ CD'}, 'values_changed': {"root['residence']": {'new_value': 'Rideau Hall | honorific-prefix = Her Excellency the Right Honourable | honorific-suffix = CC CMM COM CQ CD', 'old_value': 'Rideau Hall'}}}
+573: {'dictionary_item_removed': {"root['alma_mater']": 'McGill University, University of Toronto', "root['education']": 'Electrical engineering (B.Eng., 1986), Computer engineering (M.A.Sc., 1990)'}}
+583: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Laurier Payette-Flynn (age '}}}
+585: {'dictionary_item_added': {"root['spouse']": 'François Brissette , (until 1999), William Flynn , (until 2015)', "root['education']": 'Electrical engineering (B.Eng., 1986), Computer engineering (M.A.Sc., 1990)'}, 'values_changed': {"root['name']": {'new_value': 'Julie Payette | honorific-suffix = CC CMM COM CQ CD', 'old_value': 'Julie Payette | honorific-suffix    = '}, "root['children']": {'new_value': 'Laurier Payette-Flynn (age ', 'old_value': 'Laurier Flynn-Payette'}, "root['alma_mater']": {'new_value': 'McGill University, University of Toronto', 'old_value': 'McGill University (BEng) University of Toronto (MASc)'}}}
+589: {'dictionary_item_removed': {"root['term_end']": 'January 21, 2021'}}
+695: {'dictionary_item_added': {"root['residence']": 'Rideau Hall', "root['alma_mater']": 'McGill University (BEng) University of Toronto (MASc)'}, 'values_changed': {"root['term_end']": {'new_value': 'January 21, 2021', 'old_value': 'January 23, 2021'}}}
+699: {'values_changed': {"root['term_start']": {'new_value': 'October 2, 2017', 'old_value': 'October 2faggggggggg, 2017'}}}
+700: {'values_changed': {"root['term_start']": {'new_value': 'October 2faggggggggg, 2017', 'old_value': 'October 2, 2017'}}}
+710: {'values_changed': {"root['term_end']": {'new_value': 'January 23, 2021', 'old_value': 'January 21, 2021'}}}
+715: {'values_changed': {"root['term_end']": {'new_value': 'January 21, 2021', 'old_value': 'January 23, 2021'}}}
+716: {'values_changed': {"root['term_end']": {'new_value': 'January 23, 2021', 'old_value': 'January 21, 2021'}}}
+717: {'values_changed': {"root['term_end']": {'new_value': 'January 21, 2021', 'old_value': 'January 23, 2021'}}}
+718: {'values_changed': {"root['term_end']": {'new_value': 'January 23, 2021', 'old_value': 'January 21, 2021'}}}
+765: {'values_changed': {"root['term_end']": {'new_value': 'January 21, 2021', 'old_value': 'January 22, 2021'}}}
+772: {'values_changed': {"root['office']": {'new_value': '29th Governor General of Canada', 'old_value': '28th Governor General of Canada'}}}
+773: {'values_changed': {"root['office']": {'new_value': '28th Governor General of Canada', 'old_value': '29th Governor General of Canada'}}}
+778: {'dictionary_item_removed': {"root['residence']": '(I hate her)', "root['insignia']": '(I hate her)', "root['commands']": '(I hate her) '}, 'values_changed': {"root['name']": {'new_value': 'Julie Payette | honorific-suffix    = ', 'old_value': 'Julie Payette(I hate her) | honorific-suffix    = '}, "root['office']": {'new_value': '29th Governor General of Canada', 'old_value': '29th Governor General of Canada(I hate her)'}, "root['monarch']": {'new_value': 'Elizabeth II', 'old_value': 'Elizabeth II(I hate her)'}, "root['primeminister']": {'new_value': 'Justin Trudeau', 'old_value': 'Justin Trudeau(I hate her)'}, "root['term_start']": {'new_value': 'October 2, 2017', 'old_value': 'October 2, 2017(I hate her)'}, "root['term_end']": {'new_value': 'January 22, 2021', 'old_value': 'January 22, 2021(I hate her)'}, "root['children']": {'new_value': 'Laurier Flynn-Payette', 'old_value': 'Laurier Flynn-Payette(I hate her)'}, "root['child']": {'new_value': 'yes', 'old_value': 'yes(I hate her)'}, "root['type']": {'new_value': 'CSA astronaut', 'old_value': 'CSA astronaut(I hate her)'}, "root['selection']": {'new_value': '1992 CSA Group', 'old_value': '1992 CSA Group(I hate her)'}, "root['time']": {'new_value': '25 days 11 h 57 min', 'old_value': '25 days 11 h 57 min(I hate her)'}, "root['mission']": {'new_value': 'STS-96, STS-127', 'old_value': 'STS-96, STS-127(I hate her)'}}}
+779: {'dictionary_item_added': {"root['residence']": '(I hate her)', "root['insignia']": '(I hate her)', "root['commands']": '(I hate her) '}, 'values_changed': {"root['name']": {'new_value': 'Julie Payette(I hate her) | honorific-suffix    = ', 'old_value': 'Julie Payette | honorific-suffix    = '}, "root['office']": {'new_value': '29th Governor General of Canada(I hate her)', 'old_value': '29th Governor General of Canada'}, "root['monarch']": {'new_value': 'Elizabeth II(I hate her)', 'old_value': 'Elizabeth II'}, "root['primeminister']": {'new_value': 'Justin Trudeau(I hate her)', 'old_value': 'Justin Trudeau'}, "root['term_start']": {'new_value': 'October 2, 2017(I hate her)', 'old_value': 'October 2, 2017'}, "root['term_end']": {'new_value': 'January 22, 2021(I hate her)', 'old_value': 'January 22, 2021'}, "root['children']": {'new_value': 'Laurier Flynn-Payette(I hate her)', 'old_value': 'Laurier Flynn-Payette'}, "root['child']": {'new_value': 'yes(I hate her)', 'old_value': 'yes'}, "root['type']": {'new_value': 'CSA astronaut(I hate her)', 'old_value': 'CSA astronaut'}, "root['selection']": {'new_value': '1992 CSA Group(I hate her)', 'old_value': '1992 CSA Group'}, "root['time']": {'new_value': '25 days 11 h 57 min(I hate her)', 'old_value': '25 days 11 h 57 min'}, "root['mission']": {'new_value': 'STS-96, STS-127(I hate her)', 'old_value': 'STS-96, STS-127'}}}
+797: {'values_changed': {"root['term_end']": {'new_value': 'January 22, 2021', 'old_value': 'December 22, 2020'}}}
+800: {'values_changed': {"root['term_end']": {'new_value': 'December 22, 2020', 'old_value': 'January 22, 2021'}}}
+843: {'values_changed': {"root['office']": {'new_value': '29th Governor General of Canada', 'old_value': 'Governor General of Canada'}}}
+845: {'values_changed': {"root['primeminister']": {'new_value': 'Justin Trudeau', 'old_value': 'Justin Trudeau0'}}}
+846: {'values_changed': {"root['primeminister']": {'new_value': 'Justin Trudeau0', 'old_value': 'Justin Trudeau'}}}
+851: {'dictionary_item_removed': {"root['succeeded']": 'Mary Simon '}}
+866: {'dictionary_item_added': {"root['succeeded']": 'Mary Simon '}, 'values_changed': {"root['primeminister']": {'new_value': 'Justin Trudeau', 'old_value': 'Peoerre Trudeau'}}}
+867: {'values_changed': {"root['primeminister']": {'new_value': 'Peoerre Trudeau', 'old_value': 'Justin Trudeau'}}}
+884: {'dictionary_item_removed': {"root['party']": 'Syncretic Independent'}}

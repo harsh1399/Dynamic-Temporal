@@ -1,0 +1,16 @@
+55: {'dictionary_item_removed': {"root['bgcolour']": 'silver', "root['name']": 'Shekhar Kapur', "root['location']": 'India'}}
+57: {'values_changed': {"root['location']": {'new_value': 'India', 'old_value': 'Lahore,Pakistan'}}}
+62: {'values_changed': {"root['location']": {'new_value': 'Lahore,Pakistan', 'old_value': 'Lahore,British India'}}}
+66: {'dictionary_item_removed': {"root['awards']": 'Best Director - 1998 National Board of Review Best Director Runner-up - 1998 Toronto Film Critics Association '}}
+67: {'values_changed': {"root['location']": {'new_value': 'Lahore,British India', 'old_value': 'Lahore, British India'}}}
+79: {'dictionary_item_removed': {"root['occupation']": 'filmmaker', "root['spouse']": 'Suchitra Krishnamoorthi'}}
+80: {'dictionary_item_added': {"root['bgcolour']": 'silver', "root['occupation']": 'filmmaker'}, 'values_changed': {"root['awards']": {'new_value': 'Best Director - 1998 National Board of Review Best Director Runner-up - 1998 Toronto Film Critics Association ', 'old_value': "'''Best Movie - Critics''', 1983 ''Masoom'', 1995 ''Bandit Queen'' ,  '''Best Director''', 1997 ''Bandit Queen'' |"}}}
+103: {'values_changed': {"root['location']": {'new_value': 'Lahore, British India', 'old_value': 'Lahore, India'}}}
+104: {'values_changed': {"root['location']": {'new_value': 'Lahore, India', 'old_value': 'LahoreNow in Pakistan, India'}}}
+105: {'values_changed': {"root['location']": {'new_value': 'LahoreNow in Pakistan, India', 'old_value': 'Lahore, India'}}}
+139: {'values_changed': {"root['location']": {'new_value': 'Lahore, India', 'old_value': 'Lahore, Punjab, British India'}}}
+151: {'dictionary_item_removed': {"root['children']": 'Kaveri'}}
+164: {'values_changed': {"root['spouse']": {'new_value': 'Suchitra Krishnamoorthi', 'old_value': 'Suchitra Krishnamoorthi 1999-2007'}}}
+170: {'dictionary_item_added': {"root['location']": 'Lahore, Punjab, British India', "root['spouse']": 'Suchitra Krishnamoorthi 1999-2007', "root['awards']": "'''Best Movie - Critics''', 1983 ''Masoom'', 1995 ''Bandit Queen'' ,  '''Best Director''', 1997 ''Bandit Queen'' |"}, 'dictionary_item_removed': {"root['residence']": 'New York City, New York, U.S', "root['occupation']": 'Film director, actor, film producer'}, 'values_changed': {"root['children']": {'new_value': 'Kaveri', 'old_value': '1'}}}
+221: {'dictionary_item_added': {"root['residence']": 'New York City, New York, U.S'}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Kaveri Kapur'}}}
+223: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Film director', 'actor', 'film producer'], 'new_value': 'Film director, actor, film producer'}}, 'values_changed': {"root['children']": {'new_value': 'Kaveri Kapur', 'old_value': '1'}}}

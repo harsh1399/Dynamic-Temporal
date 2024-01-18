@@ -1,0 +1,5 @@
+113: {'dictionary_item_removed': {"root['term_start']": '1993 election', "root['term_end']": '2006 election', "root['profession']": 'Businessman, consultant, politician', "root['party']": 'Liberal', "root['residence']": 'Winnipeg', "root['riding']": 'Winnipeg South', "root['successor2']": '|'}}
+114: {'dictionary_item_added': {"root['successor2']": '|'}, 'dictionary_item_removed': {"root['spouse']": 'Karen Arras |'}}
+144: {'dictionary_item_removed': {"root['name']": 'Reginald B. Alcock'}, 'values_changed': {"root['spouse']": {'new_value': 'Karen Arras |', 'old_value': 'Karen Taraska-Alcock Children: Sarah, Matthew, Christina '}}}
+168: {'values_changed': {"root['term_start']": {'new_value': '1993 election', 'old_value': '1993'}, "root['term_end']": {'new_value': '2006 election', 'old_value': '2006'}}}
+182: {'dictionary_item_removed': {"root['children']": 'Sarah, Matthew, Christina '}, 'values_changed': {"root['spouse']": {'new_value': 'Karen Taraska-Alcock Children: Sarah, Matthew, Christina ', 'old_value': 'Karen Taraska-Alcock'}}}

@@ -1,0 +1,8 @@
+48: {'dictionary_item_removed': {"root['name']": 'Ann Richards', "root['order']": '45 th', "root['office']": 'Governor of Texas', "root['term_start']": 'January 15, 1991', "root['term_end']": 'January 17, 1995', "root['lieutenant']": 'Bob Bullock', "root['spouse']": 'David Richards', "root['profession']": 'Teacher', "root['party']": 'Democrat'}}
+57: {'values_changed': {"root['spouse']": {'new_value': 'David Richards', 'old_value': 'David Richards (div.)'}}}
+95: {'values_changed': {"root['profession']": {'new_value': 'Teacher', 'old_value': 'Politician'}}}
+126: {'values_changed': {"root['order']": {'new_value': '45 th', 'old_value': "'''45th"}, "root['office']": {'new_value': 'Governor of Texas', 'old_value': "Governor of Texas'''"}, "root['party']": {'new_value': 'Democrat', 'old_value': 'Democratic'}}}
+127: {'values_changed': {"root['order']": {'new_value': "'''45th", 'old_value': '45th'}, "root['office']": {'new_value': "Governor of Texas'''", 'old_value': 'Governor of Texas'}}}
+157: {'values_changed': {"root['term_start']": {'new_value': 'January 15, 1991', 'old_value': 'January 15 1991'}, "root['term_end']": {'new_value': 'January 17, 1995', 'old_value': 'January 17 1995'}}}
+264: {'values_changed': {"root['profession']": {'new_value': 'Politician', 'old_value': 'Teacher'}}}
+312: {'values_changed': {"root['order']": {'new_value': '45th', 'old_value': '46th'}}}

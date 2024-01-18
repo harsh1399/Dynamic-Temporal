@@ -1,0 +1,160 @@
+0: {'dictionary_item_removed': {"root['subject_name']": 'Roman Abramovich', "root['image_name']": 'RomanAbramovic.jpg', "root['place_of_birth']": 'Saratov, Russia', "root['occupation']": 'Entrepreneur, investor'}}
+2: {'dictionary_item_removed': {"root['date_of_birth']": '24 October 1966'}}
+23: {'dictionary_item_added': {"root['date_of_birth']": '24 October 1966'}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman(The Football Wrecker)Abramovich'}, "root['occupation']": {'new_value': 'Entrepreneur, investor', 'old_value': 'Bin Man'}}}
+30: {'values_changed': {"root['subject_name']": {'new_value': 'Roman(The Football Wrecker)Abramovich', 'old_value': 'Roman Abramovich'}}}
+32: {'values_changed': {"root['occupation']": {'new_value': 'Bin Man', 'old_value': 'Oil Billionaire'}}}
+33: {'dictionary_item_removed': {"root['spouse']": 'Irina Abramovich'}}
+34: {'values_changed': {"root['spouse']": {'new_value': 'Irina Abramovich', 'old_value': 'Janet Jackson'}}}
+35: {'values_changed': {"root['spouse']": {'new_value': 'Janet Jackson', 'old_value': 'Irina Abramovich'}}}
+39: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire', 'old_value': 'Muppet'}}}
+40: {'values_changed': {"root['occupation']": {'new_value': 'Muppet', 'old_value': 'Oil Billionaire'}}}
+45: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Chelsea scum'}}}
+46: {'values_changed': {"root['subject_name']": {'new_value': 'Chelsea scum', 'old_value': 'Roman Abramovich'}}}
+47: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire', 'old_value': 'Official prat'}, "root['spouse']": {'new_value': 'Irina Abramovich', 'old_value': 'Munter Abramovich'}}}
+48: {'values_changed': {"root['occupation']": {'new_value': 'Official prat', 'old_value': 'Oil Billionaire'}, "root['spouse']": {'new_value': 'Munter Abramovich', 'old_value': 'Irina Abramovich'}}}
+49: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Chelsea scum'}}}
+50: {'values_changed': {"root['subject_name']": {'new_value': 'Chelsea scum', 'old_value': 'Roman Abramovich'}}}
+53: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire', 'old_value': 'Bin Man'}}}
+54: {'values_changed': {"root['occupation']": {'new_value': 'Bin Man', 'old_value': 'Oil Billionaire'}}}
+64: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire', 'old_value': 'Oil Billionaire, Owner Chelsea Football Club'}}}
+65: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire, Owner Chelsea Football Club', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}}}
+79: {'dictionary_item_removed': {"root['religion']": 'Most Likely a Tim '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Abramobitch'}, "root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Child Porn Guru,                     Owner Chelsea Football Club'}}}
+80: {'dictionary_item_added': {"root['religion']": 'Most Likely a Tim '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramobitch', 'old_value': 'Roman Abramovich'}, "root['occupation']": {'new_value': 'Child Porn Guru,                     Owner Chelsea Football Club', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}}}
+84: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman (I hate Mourinho) Abramovich'}, "root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Soviet Spy'}, "root['spouse']": {'new_value': 'Irina Abramovich', 'old_value': 'Andriy Shevchenko'}}}
+85: {'values_changed': {"root['subject_name']": {'new_value': 'Roman (I hate Mourinho) Abramovich', 'old_value': 'Roman Abramovich'}, "root['occupation']": {'new_value': 'Soviet Spy', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}, "root['spouse']": {'new_value': 'Andriy Shevchenko', 'old_value': 'Irina Abramovich'}}}
+86: {'dictionary_item_removed': {"root['religion']": 'Buddishm '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Sergyi Abramovich'}, "root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward'}}}
+91: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}}}
+93: {'dictionary_item_added': {"root['religion']": 'Buddishm '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Sergyi Abramovich', 'old_value': 'Roman Arkadievich Abramovich'}}}
+94: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward'}}}
+95: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}}}
+99: {'dictionary_item_removed': {"root['religion']": 'Buddishm '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Arkadievich Abramovich', 'old_value': 'Roman Sergyi Abramovich'}, "root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward'}}}
+100: {'dictionary_item_added': {"root['religion']": 'Buddishm '}, 'values_changed': {"root['subject_name']": {'new_value': 'Roman Sergyi Abramovich', 'old_value': 'Roman Arkadievich Abramovich'}, "root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club Former CSKA Moscow Center Foward', 'old_value': 'Oil Billionaire,                     Owner Chelsea Football Club'}}}
+131: {'values_changed': {"root['occupation']": {'new_value': 'Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Governor, Oil Billionaire,                     Owner Chelsea Football Club'}}}
+162: {'values_changed': {"root['spouse']": {'new_value': 'Irina Abramovich', 'old_value': 'Irina Abramovich (divorced)'}}}
+200: {'dictionary_item_removed': {"root['ethnicity']": 'Russian Jewish '}}
+268: {'values_changed': {"root['ethnicity']": {'new_value': 'Russian Jewish ', 'old_value': 'Jewish '}}}
+341: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Arkadievich Abramovich', 'old_value': 'Russian Warren Buffet'}}}
+342: {'values_changed': {"root['subject_name']": {'new_value': 'Russian Warren Buffet', 'old_value': 'Roman Arkadievich Abramovich'}}}
+348: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Arkadievich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+377: {'values_changed': {"root['place_of_birth']": {'new_value': 'Saratov, Russia', 'old_value': 'Inverness, Scotland'}}}
+378: {'values_changed': {"root['place_of_birth']": {'new_value': 'Inverness, Scotland', 'old_value': 'Saratov, Russia'}}}
+402: {'values_changed': {"root['image_name']": {'new_value': 'RomanAbramovic.jpg', 'old_value': 'Roman Abramovich 2.jpg'}}}
+405: {'values_changed': {"root['subject_name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Ronan Arkadyevich Abramovich'}, "root['image_name']": {'new_value': 'Roman Abramovich 2.jpg', 'old_value': 'Ronan Abramovich 2.jpg'}}}
+406: {'values_changed': {"root['subject_name']": {'new_value': 'Ronan Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}, "root['image_name']": {'new_value': 'Ronan Abramovich 2.jpg', 'old_value': 'Roman Abramovich 2.jpg'}}}
+409: {'dictionary_item_added': {"root['place_of_birth']": 'Saratov, Russia'}, 'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire,                     Owner Chelsea Football Club', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club'}}}
+410: {'dictionary_item_removed': {"root['children']": '5'}}
+425: {'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club end matera fc -italia'}, "root['ethnicity']": {'new_value': 'Jewish ', 'old_value': "Jewish HELP DOCTOR ABRAMOVIC ??? CAN YOU HELP THE TEAM MATERA FC IN ITALY ??IN DIVISIO D -WE ARE MORE THANKING. '''Roman Arkadyevich Abramovich''' ("}}}
+426: {'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club end matera fc -italia', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club end matera fc -italia???'}, "root['ethnicity']": {'new_value': "Jewish HELP DOCTOR ABRAMOVIC ??? CAN YOU HELP THE TEAM MATERA FC IN ITALY ??IN DIVISIO D -WE ARE MORE THANKING. '''Roman Arkadyevich Abramovich''' (", 'old_value': "Jewish '''Roman Arkadyevich Abramovich''' ("}}}
+428: {'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club end matera fc -italia???', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club'}, "root['ethnicity']": {'new_value': "Jewish '''Roman Arkadyevich Abramovich''' (", 'old_value': 'Jewish '}}}
+436: {'dictionary_item_added': {"root['subject_name']": 'Roman Arkadyevich Abramovich', "root['image_name']": 'Roman Abramovich 2.jpg'}, 'dictionary_item_removed': {"root['name']": 'Roman Arkadyevich Abramovich'}}
+446: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman  smith'}}}
+447: {'values_changed': {"root['name']": {'new_value': 'Roman  smith', 'old_value': 'Roman Arkadvevich Abramovich'}}}
+448: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadvevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+477: {'dictionary_item_added': {"root['ethnicity']": 'Jewish '}, 'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'GAY BOY'}}}
+478: {'values_changed': {"root['name']": {'new_value': 'GAY BOY', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+532: {'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Game'}}}
+533: {'values_changed': {"root['occupation']": {'new_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Game', 'old_value': 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club'}}}
+566: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman "The rare Pokemon" Abramovich'}}}
+567: {'values_changed': {"root['name']": {'new_value': 'Roman "The rare Pokemon" Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+580: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich TWAT'}}}
+581: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich TWAT', 'old_value': 'Roman Arkadyevich Abramovich; I like you. Do you like me back?'}}}
+582: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich; I like you. Do you like me back?', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+583: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich; I like you . do you like me back?'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich; I like you . do you like me back?', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Scrotum Abramovich'}}}
+611: {'values_changed': {"root['name']": {'new_value': 'Roman Scrotum Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+651: {'dictionary_item_added': {"root['occupation']": 'Governor, Oil Billionaire, ,  Owner Chelsea Football Club'}, 'dictionary_item_removed': {"root['office']": 'Governor of Chukotka Autonomous Okrug', "root['profession']": 'Businessman (Oil industryand Owner of Chelsea Football Club), Politician'}}
+652: {'dictionary_item_added': {"root['profession']": 'Businessman (Oil industryand Owner of Chelsea Football Club), Politician'}, 'dictionary_item_removed': {"root['term_start']": '2000', "root['term_end']": 'present', "root['occupation']": 'Businessman (Oil industryand Owner of Chelsea Football Club), Politician'}, 'values_changed': {"root['office']": {'new_value': 'Governor of Chukotka Autonomous Okrug', 'old_value': 'Governor of Chukotka'}}}
+653: {'dictionary_item_removed': {"root['religion']": 'Jewish'}}
+660: {'values_changed': {"root['occupation']": {'new_value': 'Businessman (Oil industryand Owner of Chelsea Football Club), Politician', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician'}}}
+668: {'values_changed': {"root['term_start']": {'new_value': '2000', 'old_value': '2000 wanker'}}}
+669: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich wanker'}, "root['term_start']": {'new_value': '2000 wanker', 'old_value': '2000'}}}
+670: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich wanker', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+715: {'dictionary_item_added': {"root['religion']": 'Jewish'}, 'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman "Russian Gibberish" Abramovich'}}}
+717: {'values_changed': {"root['name']": {'new_value': 'Roman "Russian Gibberish" Abramovich', 'old_value': 'Roman "Cheesy Face - according to Darryl anyway" Abramovich'}}}
+718: {'values_changed': {"root['name']": {'new_value': 'Roman "Cheesy Face - according to Darryl anyway" Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+742: {'values_changed': {"root['office']": {'new_value': 'Governor of Chukotka', 'old_value': 'Chukotka'}}}
+743: {'values_changed': {"root['office']": {'new_value': 'Chukotka', 'old_value': 'Governor of Chukotka'}}}
+756: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich(rich guy with no clue about soccer and sacked jose mourinho)'}}}
+757: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich(rich guy with no clue about soccer and sacked jose mourinho)', 'old_value': "Roman Arkadyevich Abramovich(rich gay fag with enormous dick sucking skills with no clue about soccer and sacked jose mourinho's ball)"}}}
+758: {'values_changed': {"root['name']": {'new_value': "Roman Arkadyevich Abramovich(rich gay fag with enormous dick sucking skills with no clue about soccer and sacked jose mourinho's ball)", 'old_value': 'Roman Arkadyevich Abramovich(rich guy with no clue about soccer and sacked jose mourinho)'}}}
+759: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich(rich guy with no clue about soccer and sacked jose mourinho)', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+781: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Sir Kyle Anthony Ralph III'}}}
+786: {'values_changed': {"root['name']": {'new_value': 'Sir Kyle Anthony Ralph III', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+882: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '501'}}}
+883: {'values_changed': {"root['children']": {'new_value': '501', 'old_value': '5'}}}
+896: {'dictionary_item_added': {"root['spouse']": 'Irina Abramovich (divorced)'}, 'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2008'}}}
+906: {'values_changed': {"root['term_end']": {'new_value': '2008', 'old_value': 'July 3 2008'}}}
+907: {'values_changed': {"root['term_end']": {'new_value': 'July 3 2008', 'old_value': 'July 3, 2008'}}}
+932: {'values_changed': {"root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician,megalomaniac'}}}
+933: {'values_changed': {"root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician,megalomaniac', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician'}}}
+946: {'values_changed': {"root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = '}}}
+1055: {'dictionary_item_added': {"root['children']": '5'}, 'dictionary_item_removed': {"root['party']": "n his yacht. This will commence on the 20th of August, quotes the Daily Telegraph.''' | name = Roman Arkadyevich Abramovich | image = Roman Abramovich 2.jpg | imagesize =  | caption = | order =  | office = Governor of Chukotka | term_start = 2000 | term_end = July 3, 2008 | lieutenant =  | predecessor = Alexander Nazarov | successor = Roman Kopin   | birth_date =  birth_place = Saratov, Russian SFSR, USSR | death_date = | death_place = | nationality = Russi"}}
+1056: {'dictionary_item_added': {"root['party']": "n his yacht. This will commence on the 20th of August, quotes the Daily Telegraph.''' | name = Roman Arkadyevich Abramovich | image = Roman Abramovich 2.jpg | imagesize =  | caption = | order =  | office = Governor of Chukotka | term_start = 2000 | term_end = July 3, 2008 | lieutenant =  | predecessor = Alexander Nazarov | successor = Roman Kopin   | birth_date =  birth_place = Saratov, Russian SFSR, USSR | death_date = | death_place = | nationality = Russi"}, 'dictionary_item_removed': {"root['children']": '5'}}
+1112: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+1124: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich Big Smackhead'}, "root['religion']": {'new_value': 'Judaism', 'old_value': 'smackhead 4 life'}, "root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = ', 'old_value': 'wanker | net worth = '}}}
+1125: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich Big Smackhead', 'old_value': 'Roman Arkadyevich Abramovich'}, "root['religion']": {'new_value': 'smackhead 4 life', 'old_value': 'Judaism'}, "root['occupation']": {'new_value': 'wanker | net worth = ', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = '}}}
+1126: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich Big Smackhead'}, "root['religion']": {'new_value': 'Judaism', 'old_value': 'smackhead 4 life'}, "root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = ', 'old_value': 'dealing drugs | net worth = £1'}}}
+1127: {'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich Big Smackhead', 'old_value': 'Roman Arkadyevich Abramovich'}, "root['religion']": {'new_value': 'smackhead 4 life', 'old_value': 'Judaism'}, "root['occupation']": {'new_value': 'dealing drugs | net worth = £1', 'old_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = '}}}
+1261: {'values_changed': {"root['term_end']": {'new_value': 'July 3, 2008', 'old_value': '3 July 2008'}}}
+1268: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Russian Orthodox'}}}
+1269: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox', 'old_value': "Russian Orthodox. http://www.telegraph.co.uk/news/uknews/1545422/Why-the-former-Mrs-Abramovich-may-have-had-to-accept-'just-andpound1bn'.html http://www.interfax-religion.com/print.php?act=news&id=2347"}}}
+1270: {'values_changed': {"root['religion']": {'new_value': "Russian Orthodox. http://www.telegraph.co.uk/news/uknews/1545422/Why-the-former-Mrs-Abramovich-may-have-had-to-accept-'just-andpound1bn'.html http://www.interfax-religion.com/print.php?act=news&id=2347", 'old_value': 'Russian Orthodox.'}}}
+1272: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.', 'old_value': 'Russian Orthodox.    >'}}}
+1273: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.    >', 'old_value': 'Russian Orthodox.'}}}
+1278: {'values_changed': {"root['office']": {'new_value': 'Governor of Chukotka', 'old_value': 'Former Governor of Chukotka'}}}
+1289: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.', 'old_value': 'Jewish.'}}}
+1290: {'values_changed': {"root['religion']": {'new_value': 'Jewish.', 'old_value': 'Russian Orthodox.'}}}
+1293: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.', 'old_value': 'Russian Orthodox.   '}}}
+1294: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.   ', 'old_value': 'Jewish.   '}}}
+1295: {'values_changed': {"root['religion']": {'new_value': 'Jewish.   ', 'old_value': 'Jewish.'}}}
+1296: {'values_changed': {"root['religion']": {'new_value': 'Jewish.', 'old_value': 'Russian Orthodox.   '}}}
+1303: {'values_changed': {"root['office']": {'new_value': 'Former Governor of Chukotka', 'old_value': 'Governor of Chukotka'}}}
+1322: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox.   ', 'old_value': 'Jewish'}}}
+1335: {'values_changed': {"root['religion']": {'new_value': 'Jewish', 'old_value': 'Atheist'}}}
+1341: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'Jewish'}}}
+1356: {'dictionary_item_added': {"root['religion']": 'Jewish'}, 'dictionary_item_removed': {"root['residence']": 'Chelsea, London, England, United Kingdom', "root['embed']": 'yes'}, 'values_changed': {"root['name']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': "I'm too lazy to spend"}, "root['term_start']": {'new_value': '2000', 'old_value': '17 December 2000'}, "root['children']": {'new_value': '5', 'old_value': '7 children, '}, "root['occupation']": {'new_value': 'Businessman (Oil industry and Owner of Chelsea Football Club), Politician | net worth = ', 'old_value': 'Businessman, entrepreneur, politician'}}}
+1357: {'values_changed': {"root['name']": {'new_value': "I'm too lazy to spend", 'old_value': 'Roman Abramovich'}}}
+1371: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Bati Abramovich'}}}
+1372: {'values_changed': {"root['name']": {'new_value': 'Roman Bati Abramovich', 'old_value': 'Roman Abramovich'}}}
+1373: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Bati Abramovich'}}}
+1374: {'values_changed': {"root['name']": {'new_value': 'Roman Bati Abramovich', 'old_value': 'Roman Abramovich'}}}
+1375: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Bati Abramovich'}}}
+1376: {'values_changed': {"root['name']": {'new_value': 'Roman Bati Abramovich', 'old_value': 'Roman Abramovich'}}}
+1380: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Abramo'}}}
+1381: {'values_changed': {"root['name']": {'new_value': 'Roman Abramo', 'old_value': 'Roman Abramovich'}}}
+1382: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'sarvagya mehrotra'}}}
+1383: {'values_changed': {"root['name']": {'new_value': 'sarvagya mehrotra', 'old_value': 'roman abramovich'}}}
+1384: {'values_changed': {"root['name']": {'new_value': 'roman abramovich', 'old_value': 'Roman Abramovich'}}}
+1444: {'dictionary_item_added': {"root['residence']": 'Chelsea, London, England, United Kingdom'}, 'values_changed': {"root['children']": {'new_value': '7 children, ', 'old_value': '7 children '}}}
+1484: {'values_changed': {"root['children']": {'new_value': '7 children ', 'old_value': '7'}}}
+1493: {'dictionary_item_removed': {"root['net_worth']": 'US$11.5 billion '}}
+1521: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.5 billion ', 'old_value': 'US$11.5 billion (2018) '}}}
+1538: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.5 billion (2018) ', 'old_value': 'US$11.8 billion (October 2018) '}}}
+1544: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.8 billion (October 2018) ', 'old_value': 'US$11.7 billion (October 2018) '}}}
+1593: {'values_changed': {"root['children']": {'new_value': '7', 'old_value': "Arkadiy, Sof'ya, Anna, Aaron, Li lu, Arina, Il'ya"}}}
+1594: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.7 billion (October 2018) ', 'old_value': 'US$11.3 billion (December 2018) '}}}
+1596: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.3 billion (December 2018) ', 'old_value': 'US$11.7 billion (October 2018) '}}}
+1598: {'values_changed': {"root['children']": {'new_value': "Arkadiy, Sof'ya, Anna, Aaron, Li lu, Arina, Il'ya", 'old_value': '7, including Arkadiy Abramovich'}}}
+1599: {'values_changed': {"root['net_worth']": {'new_value': 'US$11.7 billion (October 2018) ', 'old_value': 'US$10 billions  '}}}
+1600: {'values_changed': {"root['net_worth']": {'new_value': 'US$10 billions  ', 'old_value': 'US$11.7 billion (October 2018) '}}}
+1601: {'dictionary_item_added': {"root['embed']": 'yes'}, 'values_changed': {"root['occupation']": {'new_value': 'Businessman, entrepreneur, politician', 'old_value': 'Businessman, Politician'}, "root['net_worth']": {'new_value': 'US$11.7 billion (October 2018) ', 'old_value': 'US$13.6 billion (December 2020) '}}}
+1649: {'dictionary_item_added': {"root['net_worth']": 'US$13.6 billion (December 2020) '}, 'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'the man who ruined chelsea football club'}}}
+1650: {'values_changed': {"root['name']": {'new_value': 'the man who ruined chelsea football club', 'old_value': 'Roman Abramovich'}}}
+1664: {'values_changed': {"root['children']": {'new_value': '7, including Arkadiy Abramovich', 'old_value': '7, including Michael Hawk'}}}
+1668: {'values_changed': {"root['children']": {'new_value': '7, including Michael Hawk', 'old_value': '7'}}}
+1700: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman kundan Abramovich'}}}
+1701: {'values_changed': {"root['name']": {'new_value': 'Roman kundan Abramovich', 'old_value': 'Roman  kundan Abramovich'}}}
+1702: {'values_changed': {"root['name']": {'new_value': 'Roman  kundan Abramovich', 'old_value': 'Roman Abramovich'}}}
+1718: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Businessman', 'politician'], 'new_value': 'Businessman, Politician'}}, 'dictionary_item_removed': {"root['birthname']": 'Roman Arkadyevich Abramovich'}}
+1733: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman (the gay man) Abramovich'}}}
+1734: {'values_changed': {"root['name']": {'new_value': 'Roman (the gay man) Abramovich', 'old_value': 'Roman Abramovich'}}}
+1760: {'values_changed': {"root['birthname']": {'new_value': 'Roman Arkadyevich Abramovich', 'old_value': 'Romani  Arkadyevich Abramovich'}}}
+1761: {'values_changed': {"root['birthname']": {'new_value': 'Romani  Arkadyevich Abramovich', 'old_value': 'Roman Arkadyevich Abramovich'}}}
+1762: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Romani Abramovich'}}}
+1763: {'values_changed': {"root['name']": {'new_value': 'Romani Abramovich', 'old_value': 'Roman Abramovich'}}}
+1778: {'dictionary_item_added': {"root['office']": 'Governor of Chukotka', "root['term_start']": '17 December 2000', "root['term_end']": '3 July 2008'}, 'dictionary_item_removed': {"root['embed']": 'yes', "root['office1']": 'Governor of Chukotka AO', "root['term_start1']": '17 December 2000', "root['term_end1']": '3 July 2008', "root['predecessor1']": 'Aleksandr Nazarov', "root['successor1']": 'Roman Kopin', "root['office2']": "Member of the State Duma from Chukotka AO's Chukotka constituency", "root['term_start2']": '10 January 2000', "root['term_end2']": '17 December 2000', "root['predecessor2']": 'Vladimir Babichev', "root['successor2']": 'Vladimir Yetylin  '}}
+1807: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich', 'old_value': 'Roman Abramovich хуесос путинский'}}}
+1808: {'values_changed': {"root['name']": {'new_value': 'Roman Abramovich хуесос путинский', 'old_value': 'Roman Abramovich'}}}
+1810: {'dictionary_item_removed': {"root['constituency2']": 'Chukotka'}, 'values_changed': {"root['office2']": {'new_value': "Member of the State Duma from Chukotka AO's Chukotka constituency", 'old_value': 'Member of the State Duma'}}}
+1859: {'values_changed': {"root['children']": {'new_value': '7', 'old_value': '7, including Arkadiy'}}}

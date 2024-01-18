@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Zbigniew Brzezinski', "root['office']": '10th National Security Advisor', "root['president']": 'Jimmy Carter', "root['deputy']": 'David Aaron', "root['term_start']": 'January 20, 1977', "root['term_end']": 'January 20, 1981', "root['party']": 'Democratic', "root['children']": 'Ian Brzezinski (', "root['alma_mater']": 'McGill University, Harvard University '}}
+6: {'values_changed': {"root['children']": {'new_value': 'Ian Brzezinski (', 'old_value': 'Ian, Mark, Mika'}, "root['alma_mater']": {'new_value': 'McGill University, Harvard University ', 'old_value': 'McGill University '}}}
+7: {'dictionary_item_added': {"root['alma_mater']": 'McGill University '}, 'dictionary_item_removed': {"root['education']": 'McGill University '}}
+89: {'values_changed': {"root['name']": {'new_value': 'Zbigniew Brzezinski', 'old_value': 'Zbigniew "Judenkobold" Brzezinski'}}}
+90: {'values_changed': {"root['name']": {'new_value': 'Zbigniew "Judenkobold" Brzezinski', 'old_value': 'Zbigniew Brzezinski'}}}
+99: {'values_changed': {"root['children']": {'new_value': 'Ian, Mark, Mika', 'old_value': 'Ian Mark Mika'}}}
+135: {'values_changed': {"root['children']": {'new_value': 'Ian Mark Mika', 'old_value': 'Ian, Mark, Mika'}}}
+267: {'dictionary_item_removed': {"root['relations']": 'Tadeusz Brzeziński '}}
+296: {'dictionary_item_added': {"root['relations']": 'Tadeusz Brzeziński '}, 'values_changed': {"root['children']": {'new_value': 'Ian, Mark, Mika', 'old_value': 'Ian Brzezinski, Mark Brzezinski, Mika Brzezinski'}}}
+303: {'values_changed': {"root['term_start']": {'new_value': 'January 20, 1977', 'old_value': '20 January 1977'}, "root['term_end']": {'new_value': 'January 20, 1981', 'old_value': '20 January 1981'}}}

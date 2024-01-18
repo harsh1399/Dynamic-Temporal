@@ -1,0 +1,118 @@
+38: {'dictionary_item_removed': {"root['term_start']": 'January 22, 2005', "root['term_end']": "''present''", "root['dead']": 'alive', "root['spouse']": "''none''", "root['party']": "''Movimiento al Socialismo (MAS)''", "root['vicepresident']": 'Alvaro Garcia Linera '}}
+39: {'values_changed': {"root['vicepresident']": {'new_value': 'Alvaro Garcia Linera ', 'old_value': 'Álvaro García Linera '}}}
+40: {'values_changed': {"root['term_start']": {'new_value': 'January 22, 2005', 'old_value': 'January 22, 2006'}}}
+43: {'values_changed': {"root['spouse']": {'new_value': "''none''", 'old_value': "''Homosexual''"}}}
+44: {'values_changed': {"root['spouse']": {'new_value': "''Homosexual''", 'old_value': "''none''"}}}
+411: {'values_changed': {"root['dead']": {'new_value': 'alive', 'old_value': 'alive (but whish he would'}, "root['vicepresident']": {'new_value': 'Álvaro García Linera ', 'old_value': 'Álvaro García Linera (Member of the "Gay Party" '}}}
+412: {'values_changed': {"root['vicepresident']": {'new_value': 'Álvaro García Linera (Member of the "Gay Party" ', 'old_value': 'Álvaro García Linera (Member of the "Gay Party") '}}}
+414: {'dictionary_item_removed': {"root['education']": '3rd Grade', "root['ideology']": 'socialist but recently know as to be member of the comunist party from Asian Lands '}, 'values_changed': {"root['dead']": {'new_value': 'alive (but whish he would', 'old_value': 'alive'}, "root['spouse']": {'new_value': "''none''", 'old_value': "''none'' ''although has 3 children from a free relationship in which he does not recognize''"}, "root['vicepresident']": {'new_value': 'Álvaro García Linera (Member of the "Gay Party") ', 'old_value': 'Álvaro García Linera (Member of the "Gay Party")'}}}
+415: {'dictionary_item_added': {"root['education']": '3rd Grade', "root['ideology']": 'socialist but recently know as to be member of the comunist party from Asian Lands '}, 'values_changed': {"root['vicepresident']": {'new_value': 'Álvaro García Linera (Member of the "Gay Party")', 'old_value': 'Álvaro García Linera (Member of the "Gay Party") '}}}
+418: {'values_changed': {"root['spouse']": {'new_value': "''none'' ''although has 3 children from a free relationship in which he does not recognize''", 'old_value': "''none''"}, "root['vicepresident']": {'new_value': 'Álvaro García Linera (Member of the "Gay Party") ', 'old_value': 'Álvaro García Linera '}}}
+451: {'values_changed': {"root['spouse']": {'new_value': "''none''", 'old_value': "''various''"}}}
+455: {'dictionary_item_added': {"root['term_end']": "''present''"}, 'dictionary_item_removed': {"root['order']": 'President of Bolivia'}}
+458: {'values_changed': {"root['spouse']": {'new_value': "''various''", 'old_value': 'single'}}}
+459: {'values_changed': {"root['order']": {'new_value': 'President of Bolivia', 'old_value': '65th President of Bolivia'}}}
+460: {'values_changed': {"root['order']": {'new_value': '65th President of Bolivia', 'old_value': '80th President of Bolivia'}}}
+464: {'values_changed': {"root['spouse']": {'new_value': 'single', 'old_value': 'Alvaro'}}}
+465: {'values_changed': {"root['spouse']": {'new_value': 'Alvaro', 'old_value': 'single'}}}
+540: {'dictionary_item_added': {"root['dead']": 'alive', "root['spouse']": 'single', "root['order']": '80th President of Bolivia'}, 'dictionary_item_removed': {"root['name']": 'Evo Morales', "root['office']": '80th President of Bolivia', "root['office1']": 'Leader of the Movement for Socialism', "root['term_start1']": 'January 1, 1998', "root['predecessor1']": 'Position established', "root['children']": 'Eva Liz Álvaro Ernesto Fidel', "root['residence']": 'Palacio Quemado', "root['religion']": 'Indigenous Andean religion, Roman Catholicism'}, 'values_changed': {"root['party']": {'new_value': "''Movimiento al Socialismo (MAS)''", 'old_value': 'Movement for Socialism'}, "root['vicepresident']": {'new_value': 'Álvaro García Linera ', 'old_value': 'Álvaro García Linera'}}}
+561: {'dictionary_item_removed': {"root['Height']": ['He is 2” taller than Vladimir Putin, 1” Hugo Chavez and considerably Fidel Castro.']}}
+565: {'values_changed': {"root['Height'][0]": {'new_value': 'He is 2” taller than Vladimir Putin, 1” Hugo Chavez and considerably Fidel Castro.', 'old_value': 'He is 2” taller than Vladimir Putin, 1” Hugo Chavez and considerably Fidel Castro.|'}}}
+590: {'dictionary_item_added': {"root['Height']": ['He is 2” taller than Vladimir Putin, 1” Hugo Chavez and considerably Fidel Castro.|']}, 'values_changed': {"root['children']": {'new_value': 'Eva Liz Álvaro Ernesto Fidel', 'old_value': '3'}}}
+626: {'dictionary_item_removed': {"root['office2']": 'Leader of the Movement for Socialism', "root['term_start2']": 'January 1, 1998', "root['predecessor2']": 'Position established'}, 'values_changed': {"root['office1']": {'new_value': 'Leader of the Movement for Socialism', 'old_value': 'President pro tempore of the Union of South American Nations'}, "root['term_start1']": {'new_value': 'January 1, 1998', 'old_value': 'April 17, 2018'}, "root['predecessor1']": {'new_value': 'Position established', 'old_value': 'Mauricio Macri'}}}
+634: {'values_changed': {"root['party']": {'new_value': 'Movement for Socialism', 'old_value': 'Movement for Socialism (1984-Present)'}}}
+635: {'values_changed': {"root['party']": {'new_value': 'Movement for Socialism (1984-Present)', 'old_value': 'Movement for Socialism'}}}
+651: {'dictionary_item_removed': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}}
+654: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'el indio y la ctm'}, "root['office']": {'new_value': '80th President of Bolivia', 'old_value': '80th President of sorullo'}}}
+655: {'dictionary_item_added': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}, 'values_changed': {"root['name']": {'new_value': 'el indio y la ctm', 'old_value': 'Evo Morales'}, "root['office']": {'new_value': '80th President of sorullo', 'old_value': '80th President of Bolivia'}}}
+656: {'dictionary_item_removed': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}, 'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'el pou sin mar'}, "root['office']": {'new_value': '80th President of Bolivia', 'old_value': '80th President of pais sorullo'}, "root['residence']": {'new_value': 'Palacio Quemado', 'old_value': 'Palacio sin mar'}}}
+657: {'dictionary_item_added': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}, 'values_changed': {"root['name']": {'new_value': 'el pou sin mar', 'old_value': 'Evo Morales'}, "root['office']": {'new_value': '80th President of pais sorullo', 'old_value': '80th President of Bolivia'}, "root['residence']": {'new_value': 'Palacio sin mar', 'old_value': 'Palacio Quemado'}}}
+658: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'ovo morales'}, "root['office1']": {'new_value': 'President pro tempore of the Union of South American Nations', 'old_value': 'Presidente perkin sin mar'}}}
+659: {'values_changed': {"root['name']": {'new_value': 'ovo morales', 'old_value': 'Evo Morales'}, "root['office1']": {'new_value': 'Presidente perkin sin mar', 'old_value': 'President pro tempore of the Union of South American Nations'}}}
+664: {'values_changed': {"root['predecessor1']": {'new_value': 'Mauricio Macri', 'old_value': 'Eduardo Rodríguez'}}}
+665: {'values_changed': {"root['predecessor1']": {'new_value': 'Eduardo Rodríguez', 'old_value': 'Mauricio Macri'}}}
+678: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'PUTO'}}}
+679: {'values_changed': {"root['name']": {'new_value': 'PUTO', 'old_value': 'Evo Morales'}}}
+692: {'values_changed': {"root['office2']": {'new_value': 'Leader of the Movement for Socialism', 'old_value': 'Leader of the Movement for justice'}}}
+693: {'values_changed': {"root['office2']": {'new_value': 'Leader of the Movement for justice', 'old_value': 'Leader of the Movement for Socialism'}}}
+698: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'Domingo Anrique'}}}
+699: {'values_changed': {"root['name']": {'new_value': 'Domingo Anrique', 'old_value': 'Evo Morales'}}}
+704: {'dictionary_item_removed': {"root['term_end']": 'April 12, 2019', "root['term_end1']": 'April 12, 2019', "root['succesor1']": 'TBD', "root['term_end2']": 'April 12, 2019', "root['succesor2']": 'TBD'}}
+709: {'dictionary_item_added': {"root['term_end']": 'April 12, 2019', "root['succesor1']": 'TBD', "root['term_end2']": 'April 12, 2019', "root['succesor2']": 'TBD', "root['religion']": 'Indigenous Andean religion, Roman Catholicism'}, 'values_changed': {"root['term_end1']": {'new_value': 'April 12, 2019', 'old_value': 'April 16, 2019'}}}
+720: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': 'Profesional Surfer'}, "root['office2']": {'new_value': 'Leader of the Movement for Socialism', 'old_value': 'Leader of the floter (Bolivia)'}}}
+721: {'values_changed': {"root['office']": {'new_value': 'Profesional Surfer', 'old_value': '80th President of Bolivia'}, "root['office2']": {'new_value': 'Leader of the floter (Bolivia)', 'old_value': 'Leader of the Movement for Socialism'}}}
+732: {'dictionary_item_removed': {"root['office3']": 'President pro tempore of the Community of Latin American and Caribbean States', "root['term_start3']": 'January 14, 2019', "root['predecessor3']": 'Salvador Sánchez Cerén'}}
+737: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'Evo mierda Morales'}}}
+738: {'values_changed': {"root['name']": {'new_value': 'Evo mierda Morales', 'old_value': 'Evo Morales'}}}
+740: {'values_changed': {"root['predecessor1']": {'new_value': 'Mauricio Macri', 'old_value': 'Carlos Mesa'}}}
+741: {'values_changed': {"root['predecessor1']": {'new_value': 'Carlos Mesa', 'old_value': 'Eduardo Rodríguez Veltzé'}}}
+742: {'values_changed': {"root['predecessor1']": {'new_value': 'Eduardo Rodríguez Veltzé', 'old_value': 'Mauricio Marci'}}}
+743: {'values_changed': {"root['predecessor1']": {'new_value': 'Mauricio Marci', 'old_value': 'Mauricio Marcri'}}}
+744: {'values_changed': {"root['predecessor1']": {'new_value': 'Mauricio Marcri', 'old_value': 'Mauricio Macri'}}}
+761: {'dictionary_item_added': {"root['vicepresident']": 'Álvaro García Linera'}, 'dictionary_item_removed': {"root['vicesictator']": 'Álvaro García Linera'}, 'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'Dictador Evo Morales'}, "root['office']": {'new_value': '80th President of Bolivia', 'old_value': 'Dictator of Bolivia'}}}
+762: {'dictionary_item_added': {"root['vicesictator']": 'Álvaro García Linera'}, 'dictionary_item_removed': {"root['vicepresident']": 'Álvaro García Linera'}, 'values_changed': {"root['name']": {'new_value': 'Dictador Evo Morales', 'old_value': 'Evo Morales'}, "root['office']": {'new_value': 'Dictator of Bolivia', 'old_value': '80th President of Bolivia'}}}
+764: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'HIJO DE PUTA'}}}
+765: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': 'BOLIVIA DIJO NO!!!'}, "root['term_end1']": {'new_value': 'April 16, 2019', 'old_value': 'AHORA!!!'}}}
+766: {'values_changed': {"root['vicepresident']": {'new_value': 'Álvaro García Linera', 'old_value': 'DICTADOR'}, "root['office1']": {'new_value': 'President pro tempore of the Union of South American Nations', 'old_value': 'FRAUDE'}}}
+767: {'values_changed': {"root['name']": {'new_value': 'HIJO DE PUTA', 'old_value': 'Evo Morales'}, "root['office']": {'new_value': 'BOLIVIA DIJO NO!!!', 'old_value': '80th President of Bolivia'}, "root['vicepresident']": {'new_value': 'DICTADOR', 'old_value': 'Álvaro García Linera'}, "root['office1']": {'new_value': 'FRAUDE', 'old_value': 'President pro tempore of the Union of South American Nations'}, "root['term_end1']": {'new_value': 'AHORA!!!', 'old_value': 'April 16, 2019'}}}
+774: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+783: {'dictionary_item_added': {"root['term_end1']": 'April 16, 2019'}, 'dictionary_item_removed': {"root['term_label1']": 'In role', "root['term_label2']": 'In role', "root['term_end2']": 'April 16, 2019', "root['successor2']": 'Position vacant'}, 'values_changed': {"root['office1']": {'new_value': 'President pro tempore of the Union of South American Nations', 'old_value': 'President pro tempore of CELAC'}, "root['term_start1']": {'new_value': 'April 17, 2018', 'old_value': 'January 14, 2019'}, "root['predecessor1']": {'new_value': 'Mauricio Macri', 'old_value': 'Salvador Sánchez Cerén'}, "root['office2']": {'new_value': 'Leader of the Movement for Socialism', 'old_value': 'President pro tempore of UNASUR'}, "root['term_start2']": {'new_value': 'January 1, 1998', 'old_value': 'April 17, 2018'}, "root['predecessor2']": {'new_value': 'Position established', 'old_value': 'Mauricio Macri'}, "root['office3']": {'new_value': 'President pro tempore of the Community of Latin American and Caribbean States', 'old_value': 'Leader of the Movement for Socialism'}, "root['term_start3']": {'new_value': 'January 14, 2019', 'old_value': 'January 1, 1998'}, "root['predecessor3']": {'new_value': 'Salvador Sánchez Cerén', 'old_value': 'Position established'}}}
+784: {'dictionary_item_removed': {"root['office4']": 'Deputy for Cochabamba', "root['term_start4']": 'August 6, 1997', "root['term_end4']": 'January 24, 2002'}}
+791: {'values_changed': {"root['office4']": {'new_value': 'Deputy for Cochabamba', 'old_value': 'Member of the Chamber of Deputies for Cochabamba'}}}
+794: {'values_changed': {"root['predecessor1']": {'new_value': 'Salvador Sánchez Cerén', 'old_value': 'Eduardo Rodríguez'}}}
+799: {'values_changed': {"root['office1']": {'new_value': 'President pro tempore of CELAC', 'old_value': 'Dictator pro tempore of CELAC'}}}
+800: {'values_changed': {"root['office1']": {'new_value': 'Dictator pro tempore of CELAC', 'old_value': 'President pro tempore of CELAC'}}}
+801: {'values_changed': {"root['predecessor1']": {'new_value': 'Eduardo Rodríguez', 'old_value': 'Salvador Sánchez Cerén'}}}
+808: {'dictionary_item_removed': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}}
+814: {'dictionary_item_added': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}, 'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': '80th Dictator of Bolivia'}}}
+815: {'values_changed': {"root['office']": {'new_value': '80th Dictator of Bolivia', 'old_value': '80th President of Bolivia'}}}
+824: {'dictionary_item_removed': {"root['term_end']": 'October 20, 2019'}, 'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': '3rd Dictator of Bolivia'}}}
+826: {'dictionary_item_added': {"root['term_end']": 'October 20, 2019'}, 'values_changed': {"root['office']": {'new_value': '3rd Dictator of Bolivia', 'old_value': '80th President of Bolivia'}}}
+827: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': '80th Dictator of Bolivia'}}}
+828: {'values_changed': {"root['office']": {'new_value': '80th Dictator of Bolivia', 'old_value': '80th President of Bolivia'}}}
+829: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': 'Dictator of Bolivia'}}}
+830: {'values_changed': {"root['office']": {'new_value': 'Dictator of Bolivia', 'old_value': '80th President of Bolivia'}}}
+835: {'dictionary_item_removed': {"root['term_end']": 'November 11, 2019', "root['term_end1']": 'November 11, 2019', "root['successor1']": 'Álvaro García Linera'}}
+838: {'values_changed': {"root['term_end']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+842: {'values_changed': {"root['term_end1']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+843: {'values_changed': {"root['successor1']": {'new_value': 'Álvaro García Linera', 'old_value': 'Position vacant'}}}
+845: {'values_changed': {"root['successor1']": {'new_value': 'Position vacant', 'old_value': 'TBD'}}}
+863: {'dictionary_item_removed': {"root['succeeding']": 'Jeanine Áñez'}}
+866: {'dictionary_item_added': {"root['succeeding']": 'Jeanine Áñez'}, 'values_changed': {"root['successor1']": {'new_value': 'TBD', 'old_value': 'Vacant'}}}
+867: {'values_changed': {"root['successor1']": {'new_value': 'Vacant', 'old_value': 'Position vacant'}}}
+889: {'values_changed': {"root['term_end1']": {'new_value': 'November 10, 2019', 'old_value': 'November 11, 2019'}}}
+890: {'values_changed': {"root['term_end']": {'new_value': 'November 10, 2019', 'old_value': 'November 11, 2019'}, "root['term_end1']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+898: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': '67th President of Bolivia'}}}
+899: {'values_changed': {"root['office']": {'new_value': '67th President of Bolivia', 'old_value': '80th President of Bolivia'}}}
+902: {'values_changed': {"root['term_end']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+911: {'dictionary_item_added': {"root['residence']": 'Palacio Quemado'}, 'values_changed': {"root['term_end']": {'new_value': 'November 10, 2019', 'old_value': 'November 11, 2019'}}}
+922: {'dictionary_item_removed': {"root['align']": 'right', "root['image1']": 'Aymara ceremony copacabana 4.jpg', "root['width1']": '200', "root['image2']": 'Fishing boat Lake Poopo.jpg', "root['width2']": '198', "root['footer']": '2011'}}
+929: {'dictionary_item_added': {"root['align']": 'right', "root['image1']": 'Aymara ceremony copacabana 4.jpg', "root['width1']": '200', "root['image2']": 'Fishing boat Lake Poopo.jpg', "root['width2']": '198', "root['footer']": '2011'}, 'values_changed': {"root['term_end']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+930: {'values_changed': {"root['term_end']": {'new_value': 'November 10, 2019', 'old_value': 'November 11, 2019'}}}
+932: {'values_changed': {"root['term_end']": {'new_value': 'November 11, 2019', 'old_value': 'November 10, 2019'}}}
+943: {'values_changed': {"root['office']": {'new_value': '80th President of Bolivia', 'old_value': 'President of Bolivia'}}}
+957: {'dictionary_item_removed': {"root['branch']": 'Bolivian Army', "root['serviceyears']": '1977–1978', "root['unit']": 'Fourth Ingavi Cavalry Regiment'}}
+963: {'dictionary_item_removed': {"root['residence']": 'Mexico City'}}
+1009: {'values_changed': {"root['predecessor3']": {'new_value': 'Position established', 'old_value': "''Party established''"}}}
+1016: {'values_changed': {"root['office']": {'new_value': 'President of Bolivia', 'old_value': 'Ex president of Bolivia'}}}
+1017: {'values_changed': {"root['office']": {'new_value': 'Ex president of Bolivia', 'old_value': 'President of Bolivia'}}}
+1020: {'values_changed': {"root['successor1']": {'new_value': 'Position vacant', 'old_value': "''Vacant''"}, "root['successor2']": {'new_value': 'Position vacant', 'old_value': "''Vacant''"}, "root['predecessor3']": {'new_value': "''Party established''", 'old_value': "''party established''"}, "root['party']": {'new_value': 'Movement for Socialism', 'old_value': "stablished'' | successor3 =  | office4 = Member of the Chamber of Deputies for Cochabamba | term_start4 = August 6, 1997 | term_end4 = January 24, 2002 | birth_name = Juan Evo Morales Ayma | birth_date =  birth_place = Isallavi, Bolivia | death_date =  | death_place"}}}
+1029: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'Evo Morales (was born Juan Evaristo Mamani  Ayma)'}}}
+1030: {'values_changed': {"root['name']": {'new_value': 'Evo Morales (was born Juan Evaristo Mamani  Ayma)', 'old_value': 'Evo Morales'}}}
+1040: {'values_changed': {"root['office']": {'new_value': 'President of Bolivia', 'old_value': 'Dictator of Bolivia'}}}
+1041: {'values_changed': {"root['office']": {'new_value': 'Dictator of Bolivia', 'old_value': 'President of Bolivia'}}}
+1050: {'dictionary_item_added': {"root['vicepresident']": 'Álvaro García Linera'}, 'values_changed': {"root['office']": {'new_value': 'President of Bolivia', 'old_value': 'Dictator of Bolivia'}}}
+1051: {'dictionary_item_removed': {"root['vicepresident']": 'Álvaro García Linera'}, 'values_changed': {"root['office']": {'new_value': 'Dictator of Bolivia', 'old_value': 'President of Bolivia'}}}
+1111: {'values_changed': {"root['office']": {'new_value': 'President of Bolivia', 'old_value': 'Dictator of Bolivia'}}}
+1112: {'values_changed': {"root['office']": {'new_value': 'Dictator of Bolivia', 'old_value': 'EX-Dictator of Bolivia'}}}
+1113: {'values_changed': {"root['office']": {'new_value': 'EX-Dictator of Bolivia', 'old_value': 'President of Bolivia'}}}
+1131: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'dictador Evo Morales'}}}
+1132: {'values_changed': {"root['name']": {'new_value': 'dictador Evo Morales', 'old_value': 'Evo Morales'}}}
+1138: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'MAN ASS IS A GAY CRINGE LORD'}}}
+1139: {'values_changed': {"root['name']": {'new_value': 'MAN ASS IS A GAY CRINGE LORD', 'old_value': 'Evo Morales'}}}
+1140: {'values_changed': {"root['term_start']": {'new_value': 'January 22, 2006', 'old_value': '420, 69 69, 2006'}}}
+1141: {'values_changed': {"root['name']": {'new_value': 'Evo Morales', 'old_value': 'MANAS is omaega gay cringelord image = File:Presidentes del Perú y Bolivia inauguran Encuentro Presidencial y III Gabinete Binacional Perú-Bolivia (36962597345) (cropped).jpg'}}}
+1142: {'values_changed': {"root['name']": {'new_value': 'MANAS is omaega gay cringelord image = File:Presidentes del Perú y Bolivia inauguran Encuentro Presidencial y III Gabinete Binacional Perú-Bolivia (36962597345) (cropped).jpg', 'old_value': 'Evo Morales'}, "root['term_start']": {'new_value': '420, 69 69, 2006', 'old_value': 'January 22, 2006'}}}
+1148: {'values_changed': {"root['residence']": {'new_value': 'Mexico City', 'old_value': 'Argentina'}}}
+1156: {'values_changed': {"root['term_end']": {'new_value': 'November 10, 2019', 'old_value': 'November 10, 2019  ref>'}}}
+1157: {'values_changed': {"root['term_end']": {'new_value': 'November 10, 2019  ref>', 'old_value': 'November 10, 2019'}}}

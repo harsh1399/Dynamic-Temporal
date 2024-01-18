@@ -1,0 +1,91 @@
+14: {'dictionary_item_removed': {"root['name']": 'Gary Earl Johnson', "root['order']": '29th', "root['office']": 'Governor of New Mexico', "root['term_start']": 'January 1, 1995', "root['term_end']": 'January 1, 2003', "root['lieutenant']": 'Walter Bradley', "root['party']": 'Republican', "root['spouse']": 'Dee Johnson (1977-2005) (divorced)', "root['profession']": 'Businessman', "root['religion']": 'Lutheran '}}
+32: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Self-Described Libertarian-Republican'}}}
+33: {'values_changed': {"root['party']": {'new_value': 'Self-Described Libertarian-Republican', 'old_value': 'Republican'}}}
+81: {'dictionary_item_removed': {"root['alma_mater']": 'University of New Mexico (B.A.) '}, 'values_changed': {"root['religion']": {'new_value': 'Lutheran ', 'old_value': 'Lutheran'}}}
+97: {'values_changed': {"root['religion']": {'new_value': 'Lutheran', 'old_value': 'Lutheranism'}}}
+128: {'values_changed': {"root['spouse']": {'new_value': 'Dee Johnson (1977-2005) (divorced)', 'old_value': 'Dee Simms (1977-2005) (divorced)'}, "root['alma_mater']": {'new_value': 'University of New Mexico (B.A.) ', 'old_value': 'University of New Mexico'}}}
+231: {'dictionary_item_removed': {"root['residence']": 'Taos, New Mexico'}}
+287: {'dictionary_item_added': {"root['religion']": 'Lutheranism'}, 'values_changed': {"root['spouse']": {'new_value': 'Dee Simms (1977-2005) (divorced)', 'old_value': 'Dee Simms (1977-2005; divorced)'}}}
+311: {'dictionary_item_added': {"root['spouse']": 'Dee Simms (1977-2005; divorced)'}, 'values_changed': {"root['name']": {'new_value': 'Gary Earl Johnson', 'old_value': 'Gary Johnson'}}}
+341: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gary "what about me" Johnson'}}}
+342: {'values_changed': {"root['name']": {'new_value': 'Gary "what about me" Johnson', 'old_value': 'Gary Johnson'}}}
+433: {'dictionary_item_removed': {"root['religion']": 'Lutheran'}}
+434: {'dictionary_item_removed': {"root['birthname']": 'Gary Earl Johnson'}}
+435: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gary E. Johnson'}}}
+444: {'values_changed': {"root['religion']": {'new_value': 'Lutheran', 'old_value': 'Christian (Lutheranism)'}}}
+445: {'values_changed': {"root['religion']": {'new_value': 'Christian (Lutheranism)', 'old_value': 'Christian'}}}
+446: {'values_changed': {"root['religion']": {'new_value': 'Christian', 'old_value': 'Lutheran'}}}
+447: {'values_changed': {"root['religion']": {'new_value': 'Lutheran', 'old_value': 'Christian'}}}
+449: {'values_changed': {"root['religion']": {'new_value': 'Christian', 'old_value': 'Lutheran'}}}
+455: {'dictionary_item_removed': {"root['blank1']": 'Fiancée', "root['data1']": 'Kate Prusack'}}
+462: {'values_changed': {"root['name']": {'new_value': 'Gary E. Johnson', 'old_value': 'Gary Earl Johnson'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Gary Earl Johnson', 'old_value': 'Gary Johnson'}}}
+506: {'dictionary_item_added': {"root['blank1']": 'Fiancée', "root['data1']": 'Kate Prusack'}, 'dictionary_item_removed': {"root['partner']": 'Kate Prusack (fiancée, 2009&ndash;present)'}}
+563: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican Party  (until 2011)  Libertarian Party  (2011&ndash;present)'}}}
+564: {'values_changed': {"root['party']": {'new_value': 'Republican Party  (until 2011)  Libertarian Party  (2011&ndash;present)', 'old_value': 'Republican'}}}
+565: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican (1994-2011), Libertarian 2012 Presidential Election (2011-2012)'}}}
+566: {'values_changed': {"root['party']": {'new_value': 'Republican (1994-2011), Libertarian 2012 Presidential Election (2011-2012)', 'old_value': 'Republican'}}}
+574: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican Party  (until 2011)  Libertarian Party  (2011&ndash; )'}}}
+588: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico', 'old_value': 'University of New Mexico (BsC)'}}}
+589: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico (BsC)', 'old_value': 'University of New Mexico (BSc)'}}}
+590: {'dictionary_item_added': {"root['office']": 'Governor of New Mexico', "root['birthname']": 'Gary Earl Johnson', "root['residence']": 'Taos, New Mexico', "root['profession']": 'Businessman'}, 'dictionary_item_removed': {"root['otherparty']": 'Republican  (before 2011)', "root['spouse']": 'Dee Simms '}, 'values_changed': {"root['order']": {'new_value': '29th', 'old_value': '29th Governor of New Mexico'}, "root['party']": {'new_value': 'Republican Party  (until 2011)  Libertarian Party  (2011&ndash; )', 'old_value': 'Libertarian '}, "root['partner']": {'new_value': 'Kate Prusack (fiancée, 2009&ndash;present)', 'old_value': 'Kate Prusack '}, "root['religion']": {'new_value': 'Lutheran', 'old_value': 'Lutheranism'}, "root['alma_mater']": {'new_value': 'University of New Mexico (BSc)', 'old_value': 'University of New Mexico, Albuquerque'}}}
+615: {'values_changed': {"root['religion']": {'new_value': 'Lutheranism', 'old_value': 'Protestant (Lutheranism)'}}}
+624: {'dictionary_item_added': {"root['otherparty']": 'Republican  (before 2011)'}, 'values_changed': {"root['party']": {'new_value': 'Libertarian ', 'old_value': 'Republican '}, "root['religion']": {'new_value': 'Protestant (Lutheranism)', 'old_value': 'Lutheranism'}}}
+666: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gary Jesus Johnson'}}}
+667: {'values_changed': {"root['name']": {'new_value': 'Gary Jesus Johnson', 'old_value': 'Gary Johnson'}}}
+668: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Ron Swanson'}}}
+669: {'values_changed': {"root['name']": {'new_value': 'Ron Swanson', 'old_value': 'Gary Johnson'}}}
+676: {'dictionary_item_added': {"root['religion']": 'Lutheranism'}, 'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gary Johnson (The Anti-Trump/Clinton Vote)'}}}
+677: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson (The Anti-Trump/Clinton Vote)', 'old_value': 'Gary Johnson'}}}
+682: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque', 'old_value': 'University of New Mexico, Albuquerque '}}}
+697: {'dictionary_item_removed': {"root['residence']": 'Taos, New Mexico, U.S. '}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico, Albuquerque'}}}
+706: {'dictionary_item_removed': {"root['religion']": 'Lutheranism '}, 'values_changed': {"root['residence']": {'new_value': 'Taos, New Mexico, U.S. ', 'old_value': 'Taos, New Mexico, U.S.'}}}
+707: {'dictionary_item_added': {"root['religion']": 'Lutheranism '}, 'values_changed': {"root['residence']": {'new_value': 'Taos, New Mexico, U.S.', 'old_value': 'Taos, New Mexico, U.S. '}}}
+713: {'dictionary_item_added': {"root['residence']": 'Taos, New Mexico, U.S. '}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque', 'old_value': 'University of New Mexico, Albuquerque '}}}
+737: {'dictionary_item_removed': {"root['children']": '2', "root['religion']": 'Lutheran'}}
+746: {'dictionary_item_added': {"root['children']": '2', "root['religion']": 'Lutheran'}, 'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Hairy Johnson'}}}
+747: {'values_changed': {"root['name']": {'new_value': 'Hairy Johnson', 'old_value': 'Gary Johnson'}}}
+748: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Hairy Johnson'}}}
+749: {'values_changed': {"root['name']": {'new_value': 'Hairy Johnson', 'old_value': 'Gary Johnson'}}}
+753: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico '}}}
+754: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico ', 'old_value': 'University of New Mexico, Albuquerque '}}}
+764: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico '}}}
+766: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': "Gary who looks like he's stoned all the time Johnson"}}}
+767: {'values_changed': {"root['name']": {'new_value': "Gary who looks like he's stoned all the time Johnson", 'old_value': 'Gary Johnson'}}}
+777: {'values_changed': {"root['term_end']": {'new_value': 'January 1, 2003', 'old_value': 'January 1, 2003 '}, "root['alma_mater']": {'new_value': 'University of New Mexico ', 'old_value': 'University of New Mexico'}}}
+778: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico', 'old_value': 'University of New Mexico '}, "root['term_end']": {'new_value': 'January 1, 2003 ', 'old_value': 'January 1, 2003'}}}
+789: {'dictionary_item_removed': {"root['religion']": 'Lutheranism'}}
+794: {'dictionary_item_added': {"root['religion']": 'Lutheranism'}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico ', 'old_value': 'University of New Mexico'}}}
+807: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gay Johnson'}}}
+808: {'values_changed': {"root['name']": {'new_value': 'Gay Johnson', 'old_value': 'Gary Johnson'}}}
+823: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Crooked Hillary Clinton'}, "root['term_end']": {'new_value': 'January 1, 2003', 'old_value': 'January 1, 2003 '}}}
+824: {'values_changed': {"root['name']": {'new_value': 'Crooked Hillary Clinton', 'old_value': 'Gary Johnson'}, "root['term_end']": {'new_value': 'January 1, 2003 ', 'old_value': 'January 1, 2003'}}}
+826: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico', 'old_value': 'University of New Mexico, Albuquerque '}}}
+836: {'dictionary_item_added': {"root['name']": 'Gary Johnson', "root['order']": '29th Governor of New Mexico', "root['lieutenant']": 'Walter Bradley', "root['term_end']": 'January 1, 2003'}, 'dictionary_item_removed': {"root['office']": '45th President of the United States', "root['vicepresident']": 'William Weld'}, 'values_changed': {"root['term_start']": {'new_value': 'January 1, 1995', 'old_value': 'January 20, 2016'}}}
+837: {'dictionary_item_added': {"root['office']": '45th President of the United States', "root['vicepresident']": 'William Weld'}, 'dictionary_item_removed': {"root['name']": 'Gary Johnson', "root['order']": '29th Governor of New Mexico', "root['lieutenant']": 'Walter Bradley', "root['term_end']": 'January 1, 2003'}, 'values_changed': {"root['term_start']": {'new_value': 'January 20, 2016', 'old_value': 'January 1, 1995'}}}
+854: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico, Albuquerque, B.S. 1975 '}}}
+855: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque, B.S. 1975 ', 'old_value': 'University of New Mexico, Albuquerque '}}}
+901: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico '}}}
+942: {'dictionary_item_removed': {"root['occupation']": 'Businessman'}}
+954: {'dictionary_item_removed': {"root['religion']": 'Lutheran'}}
+973: {'dictionary_item_added': {"root['spouse']": 'Dee Simms ', "root['religion']": 'Lutheran'}, 'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Conservative Through and Through'}}}
+974: {'values_changed': {"root['name']": {'new_value': 'Conservative Through and Through', 'old_value': 'Gary Johnson'}}}
+977: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'What Is Aleppo?'}}}
+978: {'values_changed': {"root['name']": {'new_value': 'What Is Aleppo?', 'old_value': 'Gary Johnson'}}}
+992: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': "What's Aleppo"}}}
+993: {'values_changed': {"root['name']": {'new_value': "What's Aleppo", 'old_value': 'Gary Johnson'}}}
+994: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Manny is autistic'}}}
+995: {'values_changed': {"root['name']": {'new_value': 'Manny is autistic', 'old_value': 'Gary Johnson'}}}
+996: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'B Emoji'}}}
+997: {'values_changed': {"root['name']": {'new_value': 'B Emoji', 'old_value': 'Gary Johnson'}}}
+1120: {'dictionary_item_added': {"root['occupation']": 'Businessman'}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico ', 'old_value': 'University of New Mexico, Albuquerque '}}}
+1122: {'dictionary_item_added': {"root['alma_mater']": 'University of New Mexico, Albuquerque '}, 'dictionary_item_removed': {"root['children']": [], "root['votes']": '0.99%): more than all other minor candidates combined and the mo', "root['change']": 'his tactics and began advocating school vouchers—a key issue in budget battles of his second term as governor.   ===Second term=== |', "root['winner']": "2011/ |title = Ron Paul Wins 2011 CPAC Straw Poll, Sarah Palin Finishes a Distant 9th Place |publisher = ABC News   David Weigel of ''Slate'' called Johnson the second-bigge", "root['loser']": 'Democratic Party (United States)', "root['swing']": ' tit'}, 'values_changed': {"root['party']": {'new_value': 'Republican ', 'old_value': 'Republican spouse      = '}}}
+1123: {'dictionary_item_added': {"root['children']": [], "root['votes']": '0.99%): more than all other minor candidates combined and the mo', "root['change']": 'his tactics and began advocating school vouchers—a key issue in budget battles of his second term as governor.   ===Second term=== |', "root['winner']": "2011/ |title = Ron Paul Wins 2011 CPAC Straw Poll, Sarah Palin Finishes a Distant 9th Place |publisher = ABC News   David Weigel of ''Slate'' called Johnson the second-bigge", "root['loser']": 'Democratic Party (United States)', "root['swing']": ' tit'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of New Mexico, Albuquerque '}, 'values_changed': {"root['party']": {'new_value': 'Republican spouse      = ', 'old_value': 'Republican '}}}
+1179: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Feel the Johnson'}}}
+1180: {'values_changed': {"root['name']": {'new_value': 'Feel the Johnson', 'old_value': 'Gary Johnson'}}}
+1186: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'Gary Johnson ("Man who got Trump elected")'}}}
+1187: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson ("Man who got Trump elected")', 'old_value': 'Gary Johnson'}}}
+1190: {'dictionary_item_removed': {"root['otherparty']": 'Republican '}, 'values_changed': {"root['party']": {'new_value': 'Republican ', 'old_value': 'Libertarian '}}}
+1194: {'values_changed': {"root['name']": {'new_value': 'Gary Johnson', 'old_value': 'John Cena'}}}
+1195: {'values_changed': {"root['name']": {'new_value': 'John Cena', 'old_value': 'Gary Johnson'}}}
+1218: {'values_changed': {"root['alma_mater']": {'new_value': 'University of New Mexico, Albuquerque ', 'old_value': 'University of New Mexico, Albuquerque'}}}

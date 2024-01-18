@@ -1,0 +1,83 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pancho Villa', "root['allegiance']": "Mexico (''antireeleccionista'' revolutionary forces)", "root['rank']": 'General', "root['commands']": 'División del Norte', "root['battles']": ['Mexican Revolution', ':First Battle of Ciudad Juárez', ':First Battle of Agua Prieta', ':First Battle of Nogales', ':Battle of Columbus', ':Battle of Guerrero', ':Third Battle of Ciudad Juárez']}}
+1: {'dictionary_item_added': {"root['allegiance']": "Mexico (''antireeleccionista'' revolutionary forces)", "root['rank']": 'General', "root['commands']": 'División del Norte', "root['battles']": ['Mexican Revolution', ':First Battle of Ciudad Juárez', ':First Battle of Agua Prieta', ':First Battle of Nogales', ':Battle of Columbus', ':Battle of Guerrero', ':Third Battle of Ciudad Juárez']}, 'dictionary_item_removed': {"root['office']": 'Governor of Chihuahua', "root['term_start']": '1913', "root['term_end']": '1914'}, 'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'José Doroteo Arango Arámbula'}}}
+2: {'dictionary_item_added': {"root['office']": 'Governor of Chihuahua', "root['term_start']": '1913', "root['term_end']": '1914'}, 'dictionary_item_removed': {"root['allegiance']": "Mexico (''antireeleccionista'' revolutionary forces)", "root['rank']": 'General', "root['commands']": 'División del Norte', "root['battles']": ['Mexican Revolution', ':First Battle of Ciudad Juárez', ':First Battle of Agua Prieta', ':First Battle of Nogales', ':Battle of Columbus', ':Battle of Guerrero', ':Third Battle of Ciudad Juárez']}, 'values_changed': {"root['name']": {'new_value': 'José Doroteo Arango Arámbula', 'old_value': 'Pancho Villa'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'Pancho Villa Hello'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa Hello', 'old_value': 'Pancho Villa'}}}
+22: {'dictionary_item_removed': {"root['relations']": 'he was known to have affairs with men after battles'}}
+30: {'values_changed': {"root['relations']": {'new_value': 'he was known to have affairs with men after battles', 'old_value': 'Pancho villa fought virgously in 8 different nuclear wars'}}}
+48: {'dictionary_item_added': {"root['relations']": 'Pancho villa fought virgously in 8 different nuclear wars'}, 'dictionary_item_removed': {"root['serviceyears']": '?'}}
+74: {'dictionary_item_added': {"root['serviceyears']": '?'}, 'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'Pancho Villo'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Pancho Villo', 'old_value': 'Pancho Villa'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'coc sucker'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'coc sucker', 'old_value': 'Pancho Villa'}}}
+107: {'values_changed': {"root['battles'][5]": {'new_value': ':Battle of Guerrero', 'old_value': ':Battle of Guerrero luwing is gay'}}}
+108: {'values_changed': {"root['battles'][5]": {'new_value': ':Battle of Guerrero luwing is gay', 'old_value': ':Battle of Guerrero'}}}
+126: {'dictionary_item_removed': {"root['placeofburial']": 'Monument to the Revolution, Mexico City'}}
+133: {'iterable_item_removed': {"root['battles'][7]": 'Agreement with Mexican government to cease hostilities 1920'}}
+138: {'iterable_item_added': {"root['battles'][4]": ':Battle of Columbus'}, 'iterable_item_removed': {"root['battles'][5]": ':Battle of Celaya', "root['battles'][6]": ':Battle of Columbus New Mexico'}}
+203: {'dictionary_item_removed': {"root['spouse']": 'Luz Corral, church marriage 1911.'}, 'values_changed': {"root['placeofburial']": {'new_value': 'Monument to the Revolution, Mexico City', 'old_value': 'Parral, Chihuahua,1923; reburied 1976 Monument to the Revolution, Mexico City'}}}
+220: {'values_changed': {"root['allegiance']": {'new_value': "Mexico (''antireeleccionista'' revolutionary forces)", 'old_value': "Montana (''antireeleccionista'' revolutionary forces)"}}}
+221: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'Punch Villa'}}}
+222: {'values_changed': {"root['name']": {'new_value': 'Punch Villa', 'old_value': 'Pancho Villa'}, "root['allegiance']": {'new_value': "Montana (''antireeleccionista'' revolutionary forces)", 'old_value': "Mexico (''antireeleccionista'' revolutionary forces)"}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'Pancho Villa cheese'}}}
+224: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa cheese', 'old_value': 'Pancho Villa'}}}
+268: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'cheesy man'}}}
+269: {'values_changed': {"root['name']": {'new_value': 'cheesy man', 'old_value': 'Pancho Villa'}}}
+270: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'some guy'}}}
+271: {'values_changed': {"root['name']": {'new_value': 'some guy', 'old_value': 'Pancho Villa'}}}
+285: {'values_changed': {"root['name']": {'new_value': 'Pancho Villa', 'old_value': 'Francisco "Pancho" Villa'}}}
+289: {'values_changed': {"root['allegiance']": {'new_value': "Mexico (''antireeleccionista'' revolutionary forces)", 'old_value': "Mars (''antireeleccionista'' revolutionary forces)"}, "root['rank']": {'new_value': 'General', 'old_value': 'King'}}}
+290: {'values_changed': {"root['allegiance']": {'new_value': "Mars (''antireeleccionista'' revolutionary forces)", 'old_value': "Mexico (''antireeleccionista'' revolutionary forces)"}, "root['rank']": {'new_value': 'King', 'old_value': 'General'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Mexican batman with a fat mustache'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Mexican batman with a fat mustache', 'old_value': 'Francisco "Pancho" Villa'}}}
+302: {'values_changed': {"root['placeofburial']": {'new_value': 'Parral, Chihuahua,1923; reburied 1976 Monument to the Revolution, Mexico City', 'old_value': 'Parral, Chihuahua, 1923; reburied 1976 Monument to the Revolution, Mexico City'}, "root['spouse']": {'new_value': 'Luz Corral, church marriage 1911.', 'old_value': 'María Luz Corral, church marriage 1911.'}}, 'iterable_item_removed': {"root['battles'][2]": ':Battle of Zacatecas'}}
+307: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco ("Pancho" Villa)'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'Francisco ("Pancho" Villa)', 'old_value': 'Francisco "Pancho" Villa'}}}
+367: {'values_changed': {"root['spouse']": {'new_value': 'María Luz Corral, church marriage 1911.', 'old_value': 'María Luz Corral , (b. July 2, 1892; , m. May 29, 1911; , d. July 6, 1981) ,  (aged 89). https://truewestmagazine.com/senora-dona-maria-luz-corral-de-villa/'}}}
+381: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Enrique "Pancho"Gutierrez'}}}
+382: {'values_changed': {"root['name']": {'new_value': 'Enrique "Pancho"Gutierrez', 'old_value': 'Francisco "Pancho" Villa'}}}
+383: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco Uzumaki'}}}
+384: {'values_changed': {"root['name']": {'new_value': 'Francisco Uzumaki', 'old_value': 'Francisco "Pancho" Villa'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco "Pancho” Uchiha'}}}
+386: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho” Uchiha', 'old_value': 'Francisco "Pancho" Villa'}}}
+387: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco "Pancho" Uchiha'}, "root['rank']": {'new_value': 'General', 'old_value': 'ANBU'}}, 'iterable_item_removed': {"root['battles'][0]": ': Ninja'}}
+388: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Uchiha', 'old_value': 'Francisco "Pancho" Villa'}, "root['rank']": {'new_value': 'ANBU', 'old_value': 'General'}}, 'iterable_item_added': {"root['battles'][0]": ': Ninja'}}
+392: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco Galvan olea el oyó   "Pancho" Villa'}}}
+393: {'values_changed': {"root['name']": {'new_value': 'Francisco Galvan olea el oyó   "Pancho" Villa', 'old_value': 'Francisco "Pancho" Villa'}}}
+394: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Panchito "Pancho" Uchiha'}}}
+395: {'values_changed': {"root['name']": {'new_value': 'Panchito "Pancho" Uchiha', 'old_value': 'Francisco "Pancho" Villa'}}}
+396: {'values_changed': {"root['rank']": {'new_value': 'General', 'old_value': 'Hokage el mas chingón'}}}
+397: {'values_changed': {"root['rank']": {'new_value': 'Hokage el mas chingón', 'old_value': 'General'}}}
+402: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Jorge Francisco "Pancho" Villa Sandoval'}}}
+403: {'dictionary_item_removed': {"root['branch']": 'ANBU'}}
+405: {'dictionary_item_added': {"root['branch']": 'ANBU'}, 'values_changed': {"root['name']": {'new_value': 'Jorge Francisco "Pancho" Villa Sandoval', 'old_value': 'Francisco "Pancho" Villa'}}}
+406: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco "uchiha" Villa'}, "root['rank']": {'new_value': 'General', 'old_value': 'ambu'}, "root['battles'][0]": {'new_value': 'Mexican Revolution', 'old_value': ''}}}
+407: {'values_changed': {"root['name']": {'new_value': 'Francisco "uchiha" Villa', 'old_value': 'Francisco "Pancho" Villa'}, "root['rank']": {'new_value': 'ambu', 'old_value': 'General'}, "root['battles'][0]": {'new_value': '', 'old_value': 'Mexican Revolution'}}}
+423: {'values_changed': {"root['allegiance']": {'new_value': "Mexico (''antireeleccionista'' revolutionary forces)", 'old_value': 'Nazi German branch        ='}, "root['rank']": {'new_value': 'General', 'old_value': 'Private'}}}
+424: {'values_changed': {"root['allegiance']": {'new_value': 'Nazi German branch        =', 'old_value': "Mexico (''antireeleccionista'' revolutionary forces)"}, "root['rank']": {'new_value': 'Private', 'old_value': 'General'}}}
+442: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': '70s porn star'}}}
+443: {'values_changed': {"root['name']": {'new_value': '70s porn star', 'old_value': 'Francisco "Pancho" Villa'}}}
+448: {'dictionary_item_added': {"root['placeofburial']": 'Parral, Chihuahua, 1923; reburied 1976 Monument to the Revolution, Mexico City', "root['spouse']": 'María Luz Corral , (b. July 2, 1892; , m. May 29, 1911; , d. July 6, 1981) ,  (aged 89). https://truewestmagazine.com/senora-dona-maria-luz-corral-de-villa/'}, 'dictionary_item_removed': {"root['office']": 'Governor of Chihuahua', "root['term_start']": '1913', "root['term_end']": '1914'}, 'values_changed': {"root['battles'][7]": {'new_value': ':Battle of Columbus New Mexico', 'old_value': ':Battle of Columbus'}}, 'iterable_item_added': {"root['battles'][9]": 'Agreement with Mexican government to cease hostilities 1920'}}
+470: {'values_changed': {"root['office']": {'new_value': 'Governor of Chihuahua', 'old_value': 'Governor of chocolate cake'}}}
+472: {'values_changed': {"root['office']": {'new_value': 'Governor of chocolate cake', 'old_value': 'Governor of Chihuahua'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco "Champo" Pilla'}}}
+478: {'values_changed': {"root['name']": {'new_value': 'Francisco "Champo" Pilla', 'old_value': 'Francisco "Champo" Villa'}}}
+479: {'values_changed': {"root['name']": {'new_value': 'Francisco "Champo" Villa', 'old_value': 'Francisco "Pancho" Villa'}}}
+504: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco pancho villa or José Doroteo Arango Arámbula'}}}
+505: {'values_changed': {"root['name']": {'new_value': 'Francisco pancho villa or José Doroteo Arango Arámbula', 'old_value': 'Francisco "Pancho" Villa'}}}
+507: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho" Villa', 'old_value': 'Francisco "Pancho"joto villa gay'}}}
+508: {'values_changed': {"root['name']": {'new_value': 'Francisco "Pancho"joto villa gay', 'old_value': 'Francisco "Pancho" Villa'}}}
+528: {'values_changed': {"root['battles'][6]": {'new_value': ':Battle of Celaya', 'old_value': ':Battle of Celaya (1915)'}}, 'iterable_item_removed': {"root['battles'][7]": ':Second Battle of Agua Prieta (1915)'}}
+529: {'values_changed': {"root['battles'][1]": {'new_value': ':First Battle of Ciudad Juárez', 'old_value': ':First Battle of Ciudad Juárez (1911), with Pascual Orozco'}}}
+530: {'values_changed': {"root['battles'][2]": {'new_value': ':Battle of Zacatecas', 'old_value': ':Battle of Zacatecas (1914)'}, "root['battles'][8]": {'new_value': ':Battle of Columbus', 'old_value': ':Battle of Columbus (1916)'}}, 'iterable_item_added': {"root['battles'][0]": 'Mexican Revolution'}}
+531: {'values_changed': {"root['battles'][2]": {'new_value': ':First Battle of Agua Prieta', 'old_value': ':First Battle of Agua Prieta (1911)'}}}
+532: {'values_changed': {"root['battles'][0]": {'new_value': ':First Battle of Ciudad Juárez (1911), with Pascual Orozco', 'old_value': ":First Battle of Ciudad Juárez with Pascual Orozco (1911)'"}}, 'iterable_item_removed': {"root['battles'][4]": ':Battle of Ojinaga (1915)'}}
+533: {'values_changed': {"root['battles'][4]": {'new_value': ':Battle of Ojinaga (1915)', 'old_value': ':Battle of Ojinaga (1914)'}}}
+534: {'values_changed': {"root['battles'][5]": {'new_value': ':Battle of Guerrero', 'old_value': ':Battle of Guerrero (1916)'}, "root['battles'][9]": {'new_value': ':Third Battle of Ciudad Juárez', 'old_value': ':Third Battle of Ciudad Juárez (1919)'}}}
+535: {'values_changed': {"root['battles'][1]": {'new_value': ':Battle of Zacatecas (1914)', 'old_value': ':First Battle of Ciudad Juárez with Pascual Orozco (1911)'}}, 'iterable_item_added': {"root['battles'][0]": ":First Battle of Ciudad Juárez with Pascual Orozco (1911)'"}, 'iterable_item_removed': {"root['battles'][2]": ':Battle of Zacatecas (1914)', "root['battles'][4]": ':First Battle of Torreón (1913)'}}
+536: {'values_changed': {"root['battles'][6]": {'new_value': ':Battle of Guerrero (1916)', 'old_value': ':Battle of Zacatecas (1914)'}}, 'iterable_item_removed': {"root['battles'][9]": ':Battle of Guerrero (1916)'}}
+537: {'values_changed': {"root['battles'][9]": {'new_value': ':Battle of Guerrero (1916)', 'old_value': ':Battle of Columbus (1916)'}, "root['battles'][10]": {'new_value': ':Battle of Columbus (1916)', 'old_value': ':Battle of Guerrero (1916)'}}}
+587: {'values_changed': {"root['office']": {'new_value': 'Governor of Chihuahua', 'old_value': 'prostituta'}}}
+588: {'values_changed': {"root['office']": {'new_value': 'prostituta', 'old_value': 'Governor of Chihuahua'}}}
+589: {'values_changed': {"root['office']": {'new_value': 'Governor of Chihuahua', 'old_value': 'Governor of Cmy mom:troll face:'}}}
+590: {'values_changed': {"root['office']": {'new_value': 'Governor of Cmy mom:troll face:', 'old_value': 'Governor of Chihuahua'}}}

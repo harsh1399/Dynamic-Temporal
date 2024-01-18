@@ -1,0 +1,6 @@
+903: {'dictionary_item_removed': {"root['name']": 'Mark Foley | ima', "root['state']": 'Florida', "root['district']": '16th', "root['preceded']": 'Tom Lewis', "root['succeeded']": 'Tim Mahoney', "root['party']": 'Republican'}}
+945: {'dictionary_item_removed': {"root['spouse']": 'haha '}}
+1008: {'dictionary_item_added': {"root['spouse']": 'haha '}, 'dictionary_item_removed': {"root['occupation']": 'Retired Politician', "root['residence']": 'West Palm Beach, Florida', "root['term_start']": 'January 4, 1995', "root['term_end']": 'September 29, 2006', "root['alma_mater']": 'Palm Beach State College', "root['religion']": 'Roman Catholic'}, 'values_changed': {"root['name']": {'new_value': 'Mark Foley | ima', 'old_value': 'Mark Foley'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Republican '}}}
+1017: {'dictionary_item_added': {"root['name']": 'Mark Foley'}, 'dictionary_item_removed': {"root['birthname']": 'Mark Adam Foley'}}
+1034: {'values_changed': {"root['occupation']": {'new_value': 'Retired Politician', 'old_value': 'Retired politician'}}}
+1035: {'values_changed': {"root['occupation']": {'new_value': 'Retired politician', 'old_value': 'Politician'}}}

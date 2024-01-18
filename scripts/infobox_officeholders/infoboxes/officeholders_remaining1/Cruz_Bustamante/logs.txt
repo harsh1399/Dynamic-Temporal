@@ -1,0 +1,17 @@
+78: {'dictionary_item_removed': {"root['name']": 'Cruz Bustamante', "root['order']": '45th', "root['office']": 'Governor of California', "root['term_start']": '1999', "root['term_end']": 'present', "root['governor']": 'Gray Davis ,  Arnold Schwarzenegger', "root['party']": 'Democrat'}}
+81: {'dictionary_item_removed': {"root['spouse']": 'Arcelia'}}
+94: {'values_changed': {"root['name']": {'new_value': 'Cruz Bustamante', 'old_value': 'Cruz Bustanut'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Cruz Bustanut', 'old_value': 'Cruz Bustamante'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Cruz Bustamante', 'old_value': 'Cruz Bustanut'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Cruz Bustanut', 'old_value': 'Cruz Bustamante'}}}
+125: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2007'}}}
+127: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Democratic'}}}
+130: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'present'}}}
+149: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2007'}}}
+150: {'values_changed': {"root['term_end']": {'new_value': '2007', 'old_value': 'January 5, 2007'}}}
+151: {'values_changed': {"root['term_start']": {'new_value': '1999', 'old_value': 'January 4, 1999'}}}
+154: {'values_changed': {"root['term_end']": {'new_value': 'January 5, 2007', 'old_value': 'January 8, 2007'}}}
+155: {'values_changed': {"root['term_end']": {'new_value': 'January 8, 2007', 'old_value': 'January 7, 2007'}}}
+159: {'values_changed': {"root['term_end']": {'new_value': 'January 7, 2007', 'old_value': 'January 8, 2007'}}}
+161: {'dictionary_item_added': {"root['office']": 'Governor of California'}, 'dictionary_item_removed': {"root['state']": 'California'}, 'values_changed': {"root['order']": {'new_value': '45th', 'old_value': '45 th'}}}
+181: {'dictionary_item_added': {"root['state']": 'California'}, 'values_changed': {"root['order']": {'new_value': '45 th', 'old_value': '45th Lieutenant Governor of California'}}}

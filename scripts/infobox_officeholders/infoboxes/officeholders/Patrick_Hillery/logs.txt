@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Patrick Hillery', "root['office']": '6th President of Ireland', "root['term_start']": '3 December, 1976', "root['term_end']": '2 December, 1990', "root['office2']": 'European Commissioner for Social Affairs', "root['predecessor2']": 'Albert Coppé', "root['successor2']": 'Henk Vredeling', "root['term_start2']": 'January 6, 1973', "root['term_end2']": 'December 2, 1976', "root['office3']": 'Minister for External Affairs', "root['predecessor3']": 'Frank Aiken', "root['successor3']": 'Brian Lenihan', "root['term_start3']": 'July 2, 1969', "root['term_end3']": 'January 3, 1973', "root['party']": 'Fianna Fáil', "root['spouse']": 'Mary Beatrice Finnegan', "root['religion']": 'Roman Catholic'}}
+8: {'dictionary_item_added': {"root['office']": '6th President of Ireland'}, 'values_changed': {"root['name']": {'new_value': 'Patrick Hillery', 'old_value': 'Patrick Hillery | small| office       = 6th President of Ireland'}}}
+10: {'dictionary_item_removed': {"root['office']": '6th President of Ireland'}, 'values_changed': {"root['name']": {'new_value': 'Patrick Hillery | small| office       = 6th President of Ireland', 'old_value': 'Patrick Hillery'}}}
+42: {'values_changed': {"root['term_start']": {'new_value': '3 December, 1976', 'old_value': '3 December 1976'}, "root['term_end']": {'new_value': '2 December, 1990', 'old_value': '2 December 1990'}, "root['term_start2']": {'new_value': 'January 6, 1973', 'old_value': '6 January 1973'}, "root['term_end2']": {'new_value': 'December 2, 1976', 'old_value': '2 December 1976'}, "root['term_start3']": {'new_value': 'July 2, 1969', 'old_value': '2 July 1969'}, "root['term_end3']": {'new_value': 'January 3, 1973', 'old_value': '3 January 1973'}}}
+70: {'values_changed': {"root['office']": {'new_value': '6th President of Ireland', 'old_value': 'worst President of Ireland'}}}
+71: {'values_changed': {"root['name']": {'new_value': 'Patrick Hillery', 'old_value': 'Howya Boss!'}}}
+72: {'values_changed': {"root['name']": {'new_value': 'Howya Boss!', 'old_value': 'Patrick Hillery'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Patrick Hillery', 'old_value': 'Paddy'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Paddy', 'old_value': 'cheese it!'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'cheese it!', 'old_value': 'story bud!!!'}}}
+78: {'values_changed': {"root['name']": {'new_value': 'story bud!!!', 'old_value': 'Patrick Hillery'}, "root['office']": {'new_value': 'worst President of Ireland', 'old_value': '6th President of Ireland'}}}
+88: {'values_changed': {"root['name']": {'new_value': 'Patrick Hillery', 'old_value': 'Dr Patrick Hillery'}}}
+89: {'values_changed': {"root['name']": {'new_value': 'Dr Patrick Hillery', 'old_value': 'Patrick Hillery'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Patrick Hillery', 'old_value': 'Dr Patrick Hillery'}}}
+96: {'values_changed': {"root['name']": {'new_value': 'Dr Patrick Hillery', 'old_value': 'Patrick Hillery'}}}
+97: {'values_changed': {"root['successor3']": {'new_value': 'Brian Lenihan', 'old_value': 'Brian Lenihan, Snr'}}}

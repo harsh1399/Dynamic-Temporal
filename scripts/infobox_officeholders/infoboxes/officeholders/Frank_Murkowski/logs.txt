@@ -1,0 +1,15 @@
+2: {'dictionary_item_removed': {"root['name']": 'Frank Murkowski', "root['order']": '10 th', "root['office']": 'Governor of Alaska', "root['term_start']": 'December 2, 2002', "root['term_end']": "''present''", "root['lieutenant']": 'Loren D. Leman', "root['spouse']": 'Nancy Murkowski', "root['profession']": 'Banker', "root['party']": 'Republican'}}
+44: {'values_changed': {"root['term_start']": {'new_value': 'December 2, 2002', 'old_value': 'December 2002'}}}
+75: {'dictionary_item_removed': {"root['religion']": 'Catholic'}}
+80: {'values_changed': {"root['term_end']": {'new_value': "''present''", 'old_value': 'present (retiring 2007 due to losing Democratic primary)'}}}
+81: {'values_changed': {"root['term_end']": {'new_value': 'present (retiring 2007 due to losing Democratic primary)', 'old_value': 'present (retiring 2007 due to losing Republican primary)'}}}
+82: {'values_changed': {"root['term_end']": {'new_value': 'present (retiring 2007 due to losing Republican primary)', 'old_value': '2007 (retiring due to losing Republican primary)'}}}
+88: {'values_changed': {"root['term_end']": {'new_value': '2007 (retiring due to losing Republican primary)', 'old_value': 'December 2006'}}}
+90: {'values_changed': {"root['term_end']": {'new_value': 'December 2006', 'old_value': 'incumbent'}}}
+91: {'values_changed': {"root['term_end']": {'new_value': 'incumbent', 'old_value': 'present'}}}
+92: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'December 2006'}}}
+94: {'values_changed': {"root['term_end']": {'new_value': 'December 2006', 'old_value': 'present'}}}
+98: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'January 2007'}}}
+99: {'values_changed': {"root['term_end']": {'new_value': 'January 2007', 'old_value': 'present'}}}
+104: {'values_changed': {"root['religion']": {'new_value': 'Catholic', 'old_value': 'Roman Catholic'}}}
+111: {'values_changed': {"root['term_start']": {'new_value': 'December 2002', 'old_value': 'December 2, 2002'}, "root['term_end']": {'new_value': 'present', 'old_value': 'December 4, 2006'}}}

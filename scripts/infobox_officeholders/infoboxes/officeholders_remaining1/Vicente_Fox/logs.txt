@@ -1,0 +1,81 @@
+0: {'dictionary_item_removed': {"root['order']": '63rd President', "root['date1']": 'December 1, 2000', "root['date2']": "''present''", "root['preceded']": 'Ernesto Zedillo Ponce de León', "root['succeeded']": "''incumbent'' | date of birth=July 2, 1942 | place of birth=Mexico City", "root['profession']": 'Industrialist', "root['wife']": 'Marta Sahagún', "root['party']": 'National Action Party '}}
+106: {'values_changed': {"root['wife']": {'new_value': 'Marta Sahagún', 'old_value': 'martha stewart'}}}
+107: {'values_changed': {"root['wife']": {'new_value': 'martha stewart', 'old_value': 'Marta Sahagún'}}}
+221: {'dictionary_item_added': {"root['date1']": 'December 1, 2000', "root['date2']": "''present''", "root['preceded']": 'Ernesto Zedillo Ponce de León', "root['succeeded']": "''incumbent'' | date of birth=July 2, 1942 | place of birth=Mexico City", "root['profession']": 'Industrialist', "root['wife']": 'Marta Sahagún'}, 'dictionary_item_removed': {"root['term_start']": 'December 1, 2000', "root['dead']": 'alive', "root['spouse']": 'Marta Sahagún'}, 'values_changed': {"root['order']": {'new_value': '63rd President', 'old_value': '63rd President of the United Mexican States'}, "root['party']": {'new_value': 'National Action Party ', 'old_value': 'National Action Party'}}}
+222: {'values_changed': {"root['order']": {'new_value': '63rd President of the United Mexican States', 'old_value': '63rd President of Mexico'}}}
+261: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún', 'old_value': 'Marta Sahagún de Fox'}}}
+270: {'dictionary_item_removed': {"root['term_end']": 'December 1, 2006'}}
+281: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'still in office'}}}
+283: {'dictionary_item_added': {"root['term_end']": 'still in office'}, 'values_changed': {"root['term_start']": {'new_value': 'December 1, 2000', 'old_value': 'December 1, 2000-'}}}
+284: {'dictionary_item_removed': {"root['term_end']": 'December 1, 2006'}, 'values_changed': {"root['term_start']": {'new_value': 'December 1, 2000-', 'old_value': 'December 1, 2000'}}}
+287: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'present'}}}
+289: {'dictionary_item_added': {"root['spouse']": 'Marta Sahagún de Fox'}, 'dictionary_item_removed': {"root['first_lady']": 'Marta Sahagún de Fox'}}
+290: {'dictionary_item_added': {"root['first_lady']": 'Marta Sahagún de Fox'}, 'dictionary_item_removed': {"root['Spouse']": 'Marta Sahagún de Fox'}}
+291: {'dictionary_item_added': {"root['Spouse']": 'Marta Sahagún de Fox'}, 'dictionary_item_removed': {"root['spouse']": 'Marta Sahagún de Fox'}}
+293: {'dictionary_item_removed': {"root['languagesspoken']": 'Spanish, English '}}
+296: {'dictionary_item_added': {"root['languagesspoken']": 'Spanish, English '}, 'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún de Fox', 'old_value': 'Marta Sahagún Jiménez'}}}
+297: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún Jiménez', 'old_value': 'Martha Sahagún Jiménez'}}}
+304: {'values_changed': {"root['spouse']": {'new_value': 'Martha Sahagún Jiménez', 'old_value': 'Marta Sahagún Jiménez'}}}
+305: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún Jiménez', 'old_value': 'Marta Sahagún'}}}
+306: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún', 'old_value': 'Marta Sahagun'}}}
+324: {'values_changed': {"root['party']": {'new_value': 'National Action Party', 'old_value': 'Partido Accion Nacional'}}}
+325: {'values_changed': {"root['party']": {'new_value': 'Partido Accion Nacional', 'old_value': 'National Action Party'}}}
+331: {'values_changed': {"root['order']": {'new_value': '63rd President of Mexico', 'old_value': '73rd President of Mexico'}}}
+332: {'values_changed': {"root['order']": {'new_value': '73rd President of Mexico', 'old_value': '63rd President of Mexico'}}}
+333: {'values_changed': {"root['order']": {'new_value': '63rd President of Mexico', 'old_value': '73rd President of Mexico'}}}
+334: {'values_changed': {"root['order']": {'new_value': '73rd President of Mexico', 'old_value': '63rd President of Mexico'}}}
+337: {'values_changed': {"root['order']": {'new_value': '63rd President of Mexico', 'old_value': '73rd President of Mexico'}}}
+338: {'values_changed': {"root['order']": {'new_value': '73rd President of Mexico', 'old_value': '63rd President of Mexico'}}}
+363: {'values_changed': {"root['order']": {'new_value': '63rd President of Mexico', 'old_value': '73rd President of Mexico'}}}
+364: {'values_changed': {"root['order']": {'new_value': '73rd President of Mexico', 'old_value': '63rd President of Mexico'}}}
+366: {'values_changed': {"root['order']": {'new_value': '63rd President of Mexico', 'old_value': '73rd President of Mexico'}}}
+368: {'values_changed': {"root['order']": {'new_value': '73rd President of Mexico', 'old_value': '72nd President of Mexico'}}}
+369: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': '2006'}}}
+371: {'values_changed': {"root['term_end']": {'new_value': '2006', 'old_value': 'present'}}}
+372: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'December 1, 2006'}}}
+402: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'present'}}}
+403: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'December 1, 2006'}}}
+404: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'present'}}}
+405: {'values_changed': {"root['term_end']": {'new_value': 'present', 'old_value': 'December 1, 2006'}}}
+449: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'present |'}}}
+464: {'values_changed': {"root['term_end']": {'new_value': 'present |', 'old_value': '|'}}}
+466: {'values_changed': {"root['term_end']": {'new_value': '|', 'old_value': 'present |'}}}
+467: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagun', 'old_value': 'Marta Sahagún'}}}
+468: {'values_changed': {"root['term_end']": {'new_value': 'present |', 'old_value': '|'}}}
+478: {'dictionary_item_removed': {"root['vicepresident']": ['List of national leaders', '', '', ''], "root['NAME']": 'Fox Quesada, Vicente    |ALTERNATIVE'}}
+517: {'dictionary_item_added': {"root['vicepresident']": ['List of national leaders', '', '', ''], "root['NAME']": 'Fox Quesada, Vicente    |ALTERNATIVE'}, 'values_changed': {"root['term_end']": {'new_value': '|', 'old_value': 'December 1, 2006'}, "root['spouse']": {'new_value': 'Marta Sahagún', 'old_value': 'Marta Sahagun'}}}
+532: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': '|'}, "root['spouse']": {'new_value': 'Marta Sahagun', 'old_value': 'Marta Sahagún'}}}
+541: {'values_changed': {"root['term_end']": {'new_value': '|', 'old_value': 'December 1, 2006'}, "root['spouse']": {'new_value': 'Marta Sahagún', 'old_value': 'Marta Sahagun'}}}
+543: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': '|'}, "root['spouse']": {'new_value': 'Marta Sahagun', 'old_value': 'Marta Sahagún'}}}
+660: {'values_changed': {"root['term_end']": {'new_value': '|', 'old_value': '|  by the way'}}}
+661: {'values_changed': {"root['spouse']": {'new_value': 'Marta Sahagún', 'old_value': 'Marta Sahagún de Fox'}}}
+696: {'values_changed': {"root['term_end']": {'new_value': '|  by the way', 'old_value': 'December 1, 2006'}}}
+698: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'incumbent'}}}
+699: {'values_changed': {"root['term_end']": {'new_value': 'incumbent', 'old_value': 'Incumbent'}}}
+700: {'values_changed': {"root['term_end']": {'new_value': 'Incumbent', 'old_value': '|  by the way'}}}
+703: {'values_changed': {"root['term_end']": {'new_value': '|  by the way', 'old_value': 'December 1, 2006'}}}
+708: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'November 30, 2006'}}}
+709: {'values_changed': {"root['order']": {'new_value': '72nd President of Mexico', 'old_value': 'President of Mexico'}}}
+710: {'values_changed': {"root['order']": {'new_value': 'President of Mexico', 'old_value': '72nd President of Mexico'}}}
+712: {'values_changed': {"root['order']": {'new_value': '72nd President of Mexico', 'old_value': 'President of Mexico'}}}
+715: {'values_changed': {"root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'December 1, 2006'}}}
+716: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'November 30, 2006'}}}
+719: {'values_changed': {"root['order']": {'new_value': 'President of Mexico', 'old_value': '72nd President of Mexico'}, "root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'December 1, 2006'}}}
+723: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'November 30, 2006'}}}
+737: {'values_changed': {"root['order']": {'new_value': '72nd President of Mexico', 'old_value': 'President of Mexico'}}}
+741: {'dictionary_item_added': {"root['dead']": 'alive'}, 'values_changed': {"root['party']": {'new_value': 'National Action Party', 'old_value': 'National Action Party '}}}
+742: {'values_changed': {"root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'December 1, 2006'}}}
+745: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'November 30, 2006'}}}
+748: {'values_changed': {"root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'December 1, 2006'}}}
+749: {'values_changed': {"root['term_end']": {'new_value': 'December 1, 2006', 'old_value': 'November 30, 2006'}}}
+784: {'dictionary_item_removed': {"root['birthname']": 'Vicente Fox Quesada', "root['office']": 'President of Mexico', "root['office2']": 'Governor of Guanajuato', "root['term_start2']": 'September 25, 1995', "root['term_end2']": 'September 25, 1999', "root['predecessor2']": 'Carlos Medina Plascencia', "root['successor2']": 'Ramón Martín Huerta', "root['office3']": 'Co-President of Centrist Democrat International ,  along side Pier Ferdinando Casini', "root['term_start3']": '2006', "root['alma_mater']": 'Universidad Iberoamericana, Harvard University', "root['occupation']": 'Businessman; Politician', "root['religion']": 'Roman Catholicism '}, 'values_changed': {"root['order']": {'new_value': 'President of Mexico', 'old_value': '55th'}, "root['spouse']": {'new_value': 'Marta Sahagún de Fox', 'old_value': 'Lilian de la Concha (divorced), Marta Sahagún'}, "root['party']": {'new_value': 'National Action Party ', 'old_value': 'National Action Party (PAN)'}}}
+805: {'dictionary_item_added': {"root['office3']": 'Co-President of Centrist Democrat International ,  along side Pier Ferdinando Casini', "root['term_start3']": '2006'}, 'dictionary_item_removed': {"root['order2']": '20th'}, 'values_changed': {"root['term_start']": {'new_value': 'December 1, 2000', 'old_value': '1 December 2000'}, "root['term_end']": {'new_value': 'November 30, 2006', 'old_value': '30 November 2006'}, "root['term_start2']": {'new_value': 'September 25, 1995', 'old_value': '25 September 1995'}, "root['term_end2']": {'new_value': 'September 25, 1999', 'old_value': '25 September 1999'}}}
+808: {'dictionary_item_added': {"root['order2']": '20th'}, 'dictionary_item_removed': {"root['office3']": 'Co-President of Centrist Democrat International ,  along side Pier Ferdinando Casini', "root['term_start3']": '2006'}, 'values_changed': {"root['term_start']": {'new_value': '1 December 2000', 'old_value': 'December 1, 2000'}, "root['term_end']": {'new_value': '30 November 2006', 'old_value': 'November 30, 2006'}, "root['term_start2']": {'new_value': '25 September 1995', 'old_value': 'September 25, 1995'}, "root['term_end2']": {'new_value': '25 September 1999', 'old_value': 'September 25, 1999'}}}
+820: {'values_changed': {"root['spouse']": {'new_value': 'Lilian de la Concha (divorced), Marta Sahagún', 'old_value': 'Lilian de la Concha (divorced), Marta Sahagún (m. 1993)'}}}
+821: {'values_changed': {"root['spouse']": {'new_value': 'Lilian de la Concha (divorced), Marta Sahagún (m. 1993)', 'old_value': 'Lilian de la Concha (divorced), Marta Sahagún'}}}
+824: {'values_changed': {"root['order']": {'new_value': '55th', 'old_value': ',  55th'}}}
+831: {'values_changed': {"root['term_start']": {'new_value': 'December 1, 2000', 'old_value': 'December 125, 2000'}, "root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'November 130, 2006'}}}
+832: {'values_changed': {"root['birthname']": {'new_value': 'Vicente Fox Quesada', 'old_value': 'Vicente Fox Quesadilla'}}}
+833: {'values_changed': {"root['birthname']": {'new_value': 'Vicente Fox Quesadilla', 'old_value': 'Vicente Fox Quesada'}, "root['term_start']": {'new_value': 'December 125, 2000', 'old_value': 'December 1, 2000'}, "root['term_end']": {'new_value': 'November 130, 2006', 'old_value': 'November 30, 2006'}}}
+853: {'values_changed': {"root['term_end']": {'new_value': 'November 30, 2006', 'old_value': 'November 29, 2006'}}}
+854: {'values_changed': {"root['term_end']": {'new_value': 'November 29, 2006', 'old_value': 'November 30, 2006'}}}

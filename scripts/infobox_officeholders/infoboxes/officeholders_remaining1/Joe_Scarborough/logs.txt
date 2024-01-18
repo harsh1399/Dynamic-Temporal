@@ -1,0 +1,72 @@
+74: {'dictionary_item_removed': {"root['name']": 'Charles Joseph Scarborough | ima', "root['state']": 'Florida', "root['district']": "Florida's 1st congression", "root['preceded']": 'Earl Hutto', "root['succeeded']": 'Jeff Miller | date of birth=April 9, 1963 | place of birth=Atlanta, GA | date of death= | place of death=', "root['spouse']": 'Melanie Hinton (divorced), Susan', "root['profession']": 'attorney, currently television host', "root['religion']": 'Baptist', "root['party']": 'Republican |'}}
+110: {'values_changed': {"root['spouse']": {'new_value': 'Melanie Hinton (divorced), Susan', 'old_value': 'Susan'}}}
+111: {'values_changed': {"root['spouse']": {'new_value': 'Susan', 'old_value': 'Melanie Hinton (divorced), Susan'}}}
+136: {'values_changed': {"root['succeeded']": {'new_value': 'Jeff Miller | date of birth=April 9, 1963 | place of birth=Atlanta, GA | date of death= | place of death=', 'old_value': 'Jeff Miller | date of birth=April 9, 1953 | place of birth=Atlanta, GA | date of death= | place of death='}}}
+137: {'values_changed': {"root['succeeded']": {'new_value': 'Jeff Miller | date of birth=April 9, 1953 | place of birth=Atlanta, GA | date of death= | place of death=', 'old_value': 'Jeff Miller | date of birth=April 9, 1963 | place of birth=Atlanta, GA | date of death= | place of death='}}}
+161: {'values_changed': {"root['succeeded']": {'new_value': 'Jeff Miller | date of birth=April 9, 1963 | place of birth=Atlanta, GA | date of death= | place of death=', 'old_value': 'Jeff Miller | date of birth= place of birth=Atlanta, GA | date of death= | place of deat'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Charles Joseph Scarborough | ima', 'old_value': 'Charles "Douchebag" Scarborough | ima'}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Charles "Douchebag" Scarborough | ima', 'old_value': 'Charles Joseph Scarborough | ima'}}}
+243: {'values_changed': {"root['spouse']": {'new_value': 'Melanie Hinton (divorced), Susan', 'old_value': 'Melanie Hinton (divorced), Susan Waren'}}}
+244: {'values_changed': {"root['spouse']": {'new_value': 'Melanie Hinton (divorced), Susan Waren', 'old_value': 'Melanie Hinton (divorced),, Susan Waren'}}}
+260: {'dictionary_item_added': {"root['name']": 'Charles Joseph Scarborough | ima'}, 'dictionary_item_removed': {"root['birthname']": 'Charles Joseph Scarborough', "root['term_start']": 'January 3, 1995', "root['term_end']": 'September 5, 2001', "root['alma_mater']": 'University of Alabama,, University of Florida Levin College of Law'}, 'values_changed': {"root['district']": {'new_value': "Florida's 1st congression", 'old_value': '1st'}, "root['succeeded']": {'new_value': 'Jeff Miller | date of birth= place of birth=Atlanta, GA | date of death= | place of deat', 'old_value': 'Jeff Miller'}, "root['spouse']": {'new_value': 'Melanie Hinton (divorced),, Susan Waren', 'old_value': 'Melanie Hinton (div.), Susan Waren'}, "root['profession']": {'new_value': 'attorney, currently television host', 'old_value': 'Attorney, currently television host'}, "root['religion']": {'new_value': 'Baptist', 'old_value': 'Baptist '}, "root['party']": {'new_value': 'Republican |', 'old_value': 'Republican'}}}
+263: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Republican (former)'}}}
+265: {'values_changed': {"root['party']": {'new_value': 'Republican (former)', 'old_value': 'Republican'}}}
+272: {'values_changed': {"root['spouse']": {'new_value': 'Melanie Hinton (div.), Susan Waren', 'old_value': 'unknown'}}}
+273: {'values_changed': {"root['spouse']": {'new_value': 'unknown', 'old_value': 'Melanie Hinton (div.), Susan Waren'}}}
+301: {'values_changed': {"root['profession']": {'new_value': 'Attorney, currently television host', 'old_value': 'Attorney, television host, Current Fascist TV Host'}, "root['spouse']": {'new_value': 'Melanie Hinton (div.), Susan Waren', 'old_value': 'Melanie Hinton (div.), Susan Warren'}, "root['religion']": {'new_value': 'Baptist ', 'old_value': 'None '}}}
+302: {'values_changed': {"root['profession']": {'new_value': 'Attorney, television host, Current Fascist TV Host', 'old_value': 'Attorney, currently television host'}, "root['spouse']": {'new_value': 'Melanie Hinton (div.), Susan Warren', 'old_value': 'Melanie Hinton (div.), Susan Waren'}, "root['religion']": {'new_value': 'None ', 'old_value': 'Baptist '}}}
+334: {'values_changed': {"root['spouse']": {'new_value': 'Melanie Hinton (div.), Susan Waren', 'old_value': 'Melanie Hinton (div.), Susan Waren(div.)'}}}
+348: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Alabama,, University of Florida Levin College of Law', 'old_value': 'University of Alabama, , University of Florida Levin College of Law'}, "root['spouse']": {'new_value': 'Melanie Hinton (div.), Susan Waren(div.)', 'old_value': 'Melanie Hinton (div.) , Susan Waren (div.)'}}}
+359: {'dictionary_item_added': {"root['birthname']": 'Charles Joseph Scarborough', "root['district']": '1st', "root['preceded']": 'Earl Hutto', "root['succeeded']": 'Jeff Miller', "root['profession']": 'Attorney, currently television host', "root['religion']": 'Baptist '}, 'dictionary_item_removed': {"root['name']": 'Joe Scarborough', "root['children']": '4'}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Alabama, , University of Florida Levin College of Law', 'old_value': 'University of Alabama, Tuscaloosa '}, "root['spouse']": {'new_value': 'Melanie Hinton (div.) , Susan Waren (div.)', 'old_value': 'Melanie Hinton '}}}
+392: {'dictionary_item_removed': {"root['partner']": 'Mika Brzezinski (fiancee)'}, 'values_changed': {"root['term_end']": {'new_value': 'September 5, 2001', 'old_value': 'September 5, 2001 '}}}
+394: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+395: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Republican'}}}
+404: {'dictionary_item_added': {"root['spouse']": 'Melanie Hinton '}, 'values_changed': {"root['partner']": {'new_value': 'Mika Brzezinski (fiancee)', 'old_value': 'Mika Brzezinski (engaged 2017)'}}}
+412: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Joe "Murderin\' Joe" Scarborough'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Democrat (de-facto), Republican (allegedly)'}}}
+415: {'values_changed': {"root['party']": {'new_value': 'Democrat (de-facto), Republican (allegedly)', 'old_value': 'Democrat (de-facto), Party of Lincoln (allegedly)'}}}
+417: {'values_changed': {"root['party']": {'new_value': 'Democrat (de-facto), Party of Lincoln (allegedly)', 'old_value': 'Democrat (de-facto), Republican (allegedly)'}}}
+419: {'values_changed': {"root['name']": {'new_value': 'Joe "Murderin\' Joe" Scarborough', 'old_value': 'Joe Scarborough'}}}
+426: {'values_changed': {"root['party']": {'new_value': 'Democrat (de-facto), Republican (allegedly)', 'old_value': 'Republican'}}}
+462: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Joe "The Intern-minator" Scarborough'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Joe "The Intern-minator" Scarborough', 'old_value': 'Joe Scarborough'}}}
+487: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democrat'}}}
+488: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Republican'}}}
+495: {'dictionary_item_added': {"root['alma_mater']": 'University of Alabama, Tuscaloosa '}, 'dictionary_item_removed': {"root['education']": 'University of Alabama, Tuscaloosa '}, 'values_changed': {"root['partner']": {'new_value': 'Mika Brzezinski (engaged 2017)', 'old_value': 'Mika Brzezinski '}, "root['term_end']": {'new_value': 'September 5, 2001 ', 'old_value': 'September 5, 2001'}}}
+498: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Joe "is Joe" Scarborough'}}}
+499: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+500: {'values_changed': {"root['name']": {'new_value': 'Joe "is Joe" Scarborough', 'old_value': 'Joe Scarborough'}, "root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}
+501: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Joe "is Joe" Scarborough'}, "root['party']": {'new_value': 'Republican', 'old_value': 'Democratic'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Joe "is Joe" Scarborough', 'old_value': 'Joe Scarborough'}, "root['party']": {'new_value': 'Democratic', 'old_value': 'Republican'}}}
+512: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Independent (since 2017), Republican (until 2017)'}}}
+517: {'values_changed': {"root['party']": {'new_value': 'Independent (since 2017), Republican (until 2017)', 'old_value': 'Green Party (far left) (since he was born),'}}}
+518: {'values_changed': {"root['party']": {'new_value': 'Green Party (far left) (since he was born),', 'old_value': 'Independent (since 2017), Republican (until 2017)'}}}
+520: {'dictionary_item_removed': {"root['otherparty']": 'Republican '}, 'values_changed': {"root['party']": {'new_value': 'Independent (since 2017), Republican (until 2017)', 'old_value': 'Independent '}}}
+552: {'values_changed': {"root['party']": {'new_value': 'Independent ', 'old_value': 'Democratic  '}}}
+553: {'values_changed': {"root['party']": {'new_value': 'Democratic  ', 'old_value': 'Independent  '}}}
+560: {'values_changed': {"root['party']": {'new_value': 'Independent  ', 'old_value': 'Independent  (since 2017)'}, "root['otherparty']": {'new_value': 'Republican ', 'old_value': 'Republican (until 2017)'}, "root['partner']": {'new_value': 'Mika Brzezinski ', 'old_value': 'Mika Brzezinski (engaged 2017)'}, "root['education']": {'new_value': 'University of Alabama, Tuscaloosa ', 'old_value': 'University of Alabama, Tuscaloosa (BA) University of Florida (JD) '}}}
+567: {'values_changed': {"root['party']": {'new_value': 'Independent  (since 2017)', 'old_value': 'Independent   (since 2017)'}}}
+573: {'values_changed': {"root['party']": {'new_value': 'Independent   (since 2017)', 'old_value': 'Independent '}, "root['otherparty']": {'new_value': 'Republican (until 2017)', 'old_value': 'Republican '}}}
+574: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Joe fake news Scarborough'}}}
+575: {'values_changed': {"root['name']": {'new_value': 'Joe fake news Scarborough', 'old_value': 'Joe Scarborough'}}}
+618: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Pyscho Joe Scarborough'}}}
+619: {'values_changed': {"root['name']": {'new_value': 'Pyscho Joe Scarborough', 'old_value': 'Joe Scarborough'}}}
+628: {'values_changed': {"root['partner']": {'new_value': 'Mika Brzezinski (engaged 2017)', 'old_value': 'Mika Brzezinski (engaged in 2017)'}}}
+681: {'values_changed': {"root['party']": {'new_value': 'Independent ', 'old_value': 'Was member of communist party, Republican Party and now an independent '}}}
+682: {'values_changed': {"root['party']": {'new_value': 'Was member of communist party, Republican Party and now an independent ', 'old_value': 'Independent '}}}
+683: {'values_changed': {"root['party']": {'new_value': 'Independent ', 'old_value': 'Independent (2017–present)'}, "root['otherparty']": {'new_value': 'Republican ', 'old_value': 'Republican (before 2017)'}}}
+684: {'values_changed': {"root['education']": {'new_value': 'University of Alabama, Tuscaloosa (BA) University of Florida (JD) ', 'old_value': 'University of Alabama (BA) University of Florida (JD) '}}}
+686: {'dictionary_item_added': {"root['children']": '4', "root['education']": 'University of Alabama (BA) University of Florida (JD) '}, 'values_changed': {"root['party']": {'new_value': 'Independent (2017–present)', 'old_value': 'Independent (since 2017)'}, "root['partner']": {'new_value': 'Mika Brzezinski (engaged in 2017)', 'old_value': 'Mika Brzezinski (engaged 2017)'}}}
+688: {'values_changed': {"root['party']": {'new_value': 'Independent (since 2017)', 'old_value': 'independent (since 2017)'}}}
+689: {'values_changed': {"root['party']": {'new_value': 'independent (since 2017)', 'old_value': 'Independent (since 2017)'}}}
+695: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'Psycho fake news Scarborough'}}}
+696: {'values_changed': {"root['name']": {'new_value': 'Psycho fake news Scarborough', 'old_value': 'Joe Scarborough'}}}
+704: {'dictionary_item_removed': {"root['victim']": 'Lori Klausutis'}}
+718: {'dictionary_item_added': {"root['victim']": 'Lori Klausutis'}, 'values_changed': {"root['otherparty']": {'new_value': 'Republican (before 2017)', 'old_value': 'Liberal'}}}
+719: {'values_changed': {"root['otherparty']": {'new_value': 'Liberal', 'old_value': 'Republican (before 2017)'}}}
+752: {'dictionary_item_added': {"root['partner']": 'Mika Brzezinski (engaged 2017)'}, 'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'MURDERING JOE'}}}
+754: {'values_changed': {"root['name']": {'new_value': 'MURDERING JOE', 'old_value': 'I MURDERES MY EX WIFE'}}}
+755: {'values_changed': {"root['name']": {'new_value': 'I MURDERES MY EX WIFE', 'old_value': 'I MURDERED MY EX WIFE'}}}
+757: {'values_changed': {"root['name']": {'new_value': 'I MURDERED MY EX WIFE', 'old_value': 'I MURDERED MY INTERN'}}}
+760: {'values_changed': {"root['name']": {'new_value': 'I MURDERED MY INTERN', 'old_value': 'Joe Scarborough'}}}
+761: {'values_changed': {"root['name']": {'new_value': 'Joe Scarborough', 'old_value': 'I MURDERED INTERN'}}}
+762: {'values_changed': {"root['name']": {'new_value': 'I MURDERED INTERN', 'old_value': 'Joe Scarborough'}}}

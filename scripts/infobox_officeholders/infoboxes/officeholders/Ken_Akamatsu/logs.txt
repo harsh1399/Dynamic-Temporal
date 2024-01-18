@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ken Akamatsu 赤松 健', "root['residence']": 'Tokyo', "root['known_for']": "''Magical Teacher Negima!'', ''Love Hina'', ''A.I. Love You''", "root['education']": 'Department of Literature country literature course graduate of Chuo University', "root['occupation']": 'Manga artist', "root['spouse']": 'Kanon Akamatsu'}}
+2: {'values_changed': {"root['education']": {'new_value': 'Department of Literature country literature course graduate of Chuo University', 'old_value': 'Department of Literature graduate of Chuo University'}}}
+8: {'dictionary_item_added': {"root['residence']": 'Tokyo'}, 'values_changed': {"root['name']": {'new_value': 'Ken Akamatsu 赤松 健', 'old_value': 'Ken Akamatsu'}, "root['known_for']": {'new_value': "''Magical Teacher Negima!'', ''Love Hina'', ''A.I. Love You''", 'old_value': "''A.I. Love You'', ''Love Hina'', ''Negima! Magister Negi Magi'', ''UQ Holder!''"}}}
+37: {'values_changed': {"root['occupation']": {'new_value': 'Manga artist', 'old_value': 'Manga artist, politician'}}}
+38: {'dictionary_item_removed': {"root['blank1']": 'Other names', "root['blank2']": 'Years active', "root['data2']": '1993–present', "root['office']": 'Member of the House of Councillors', "root['termstart']": '10 July 2022', "root['constituency']": 'Proportional '}}
+39: {'values_changed': {"root['termstart']": {'new_value': '10 July 2022', 'old_value': 'July 10, 2022'}}}
+72: {'dictionary_item_removed': {"root['children']": '2'}, 'values_changed': {"root['education']": {'new_value': 'Department of Literature graduate of Chuo University', 'old_value': 'Chuo University'}}}
+89: {'values_changed': {"root['known_for']": {'new_value': "''A.I. Love You'', ''Love Hina'', ''Negima! Magister Negi Magi'', ''UQ Holder!''", 'old_value': "''Love Hina'', ''Negima! Magister Negi Magi''"}}}
+93: {'values_changed': {"root['termstart']": {'new_value': 'July 10, 2022', 'old_value': 'July 26, 2022'}}}
+100: {'values_changed': {"root['known_for']": {'new_value': "''Love Hina'', ''Negima! Magister Negi Magi''", 'old_value': "''Love Hina'', ''Negima! Magister Negi Magi'', ''UQ Holder!''"}}}

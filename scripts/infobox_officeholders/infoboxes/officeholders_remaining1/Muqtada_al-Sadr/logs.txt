@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": "Muqtada al-Sadr,  '''مقتدى الصدر'''", "root['residence']": 'Najaf, Iraq', "root['movement']": 'Sadrist Movement', "root['religion']": 'Shia Islam '}}
+38: {'values_changed': {"root['movement']": {'new_value': 'Sadrist Movement', 'old_value': 'Sadrist Movement, Al-Ahrar Bloc'}}}
+47: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam ', 'old_value': 'Shia Islam'}}}
+52: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Shia non-Muslim'}}}
+53: {'values_changed': {"root['religion']": {'new_value': 'Shia non-Muslim', 'old_value': 'Shia Islam'}}}
+65: {'dictionary_item_removed': {"root['ethnicity']": 'Arab'}, 'values_changed': {"root['name']": {'new_value': "Muqtada al-Sadr,  '''مقتدى الصدر'''", 'old_value': "Muqtada al-Sadr,  '''سيد مقتدى الصدر'''"}, "root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Twelver Shia Islam '}}}
+71: {'values_changed': {"root['name']": {'new_value': "Muqtada al-Sadr,  '''سيد مقتدى الصدر'''", 'old_value': "Muqtada al-Sadr,  '''مقتدى الصدر'''"}}}
+111: {'values_changed': {"root['name']": {'new_value': "Muqtada al-Sadr,  '''مقتدى الصدر'''", 'old_value': 'Muqtada al-Sadr '}, "root['movement']": {'new_value': 'Sadrist Movement, Al-Ahrar Bloc', 'old_value': 'Sadrist Movement Al-Ahrar Bloc'}}}
+152: {'values_changed': {"root['movement']": {'new_value': 'Sadrist Movement Al-Ahrar Bloc', 'old_value': 'Alliance of Revolutionaries for Reform'}}}
+154: {'values_changed': {"root['movement']": {'new_value': 'Alliance of Revolutionaries for Reform', 'old_value': 'Alliance of Revolutionaries for Reform (Saairun)'}}}
+157: {'values_changed': {"root['movement']": {'new_value': 'Alliance of Revolutionaries for Reform (Saairun)', 'old_value': 'Alliance towards Reforms (Saairun)'}}}
+159: {'dictionary_item_added': {"root['movement']": 'Alliance towards Reforms (Saairun)'}, 'dictionary_item_removed': {"root['office2']": 'Leader of Sadrist Movement', "root['term_start2']": '5 December 2003', "root['predecessor2']": "''N", "root['party']": 'Sadrist Movement', "root['otherparty']": 'Saairun'}}
+160: {'values_changed': {"root['predecessor2']": {'new_value': "''N", 'old_value': 'Mohammad Sadeq al-Sadr'}}}
+161: {'values_changed': {"root['residence']": {'new_value': 'Najaf, Iraq', 'old_value': 'Sadr City, Najaf, Iraq'}}}
+172: {'values_changed': {"root['residence']": {'new_value': 'Sadr City, Najaf, Iraq', 'old_value': 'Sadr City, Najaf - Iraq'}}}
+176: {'values_changed': {"root['office2']": {'new_value': 'Leader of Sadrist Movement', 'old_value': 'Leader of the Sadrist Movement'}}}
+200: {'dictionary_item_added': {"root['ethnicity']": 'Arab', "root['religion']": 'Twelver Shia Islam '}, 'dictionary_item_removed': {"root['blank2']": 'Religion', "root['data2']": 'Twelver Shia Islam '}, 'values_changed': {"root['residence']": {'new_value': 'Sadr City, Najaf - Iraq', 'old_value': 'Sadr City, Najaf, Iraq'}}}
+237: {'values_changed': {"root['name']": {'new_value': 'Muqtada al-Sadr ', 'old_value': 'Mullah Atari '}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Mullah Atari ', 'old_value': 'Muqtada al-Sadr '}}}

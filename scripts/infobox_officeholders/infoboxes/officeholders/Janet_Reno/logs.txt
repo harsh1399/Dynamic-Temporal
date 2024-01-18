@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Janet Reno', "root['office']": '78th United States Attorney General', "root['president']": 'Bill Clinton', "root['term_start']": 'March 11, 1993', "root['term_end']": 'January 20, 2001', "root['party']": 'Democratic', "root['alma_mater']": 'Cornell University, Harvard University '}}
+9: {'values_changed': {"root['alma_mater']": {'new_value': 'Cornell University, Harvard University ', 'old_value': 'Cornell University  (A.B.)  Harvard Law School  (J.D.)  '}}}
+10: {'values_changed': {"root['alma_mater']": {'new_value': 'Cornell University  (A.B.)  Harvard Law School  (J.D.)  ', 'old_value': 'Cornell University, Harvard University '}}}
+14: {'dictionary_item_removed': {"root['office1']": "State's Attorney for Miami-Dade County", "root['term_start1']": '1978', "root['term_end1']": '1993', "root['predecessor1']": 'Richard E. Gerstein', "root['successor1']": 'Katherine Fernandez Rundle'}}
+21: {'values_changed': {"root['alma_mater']": {'new_value': 'Cornell University, Harvard University ', 'old_value': 'Cornell University Harvard University '}}}
+58: {'values_changed': {"root['predecessor1']": {'new_value': 'Richard E. Gerstein', 'old_value': 'Richard Gerstein'}, "root['alma_mater']": {'new_value': 'Cornell University Harvard University ', 'old_value': 'Cornell University '}}}
+89: {'values_changed': {"root['office1']": {'new_value': "State's Attorney for Miami-Dade County", 'old_value': "State's Attorney for Miami-Dade County, Florida"}}}

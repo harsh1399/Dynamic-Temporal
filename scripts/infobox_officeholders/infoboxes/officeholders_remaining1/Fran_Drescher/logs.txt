@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Fran Drescher', "root['occupation']": 'Actress, comedian, producer, author'}}
+9: {'dictionary_item_removed': {"root['partner']": 'Shiva Ayyadurai (2013–Present)'}}
+73: {'dictionary_item_added': {"root['partner']": 'Shiva Ayyadurai (2013–Present)'}, 'dictionary_item_removed': {"root['residencse']": 'Malibu, California, Brooklyn, New York'}}
+87: {'dictionary_item_added': {"root['residencse']": 'Malibu, California, Brooklyn, New York'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, comedian, producer, author', 'old_value': 'Actress, comedian, model,  producer, author'}}}
+88: {'values_changed': {"root['occupation']": {'new_value': 'Actress, comedian, model,  producer, author', 'old_value': 'comedian, model, Actress,  producer, author'}}}
+89: {'values_changed': {"root['occupation']": {'new_value': 'comedian, model, Actress,  producer, author', 'old_value': 'comedian, model, actress,  producer, author'}}}
+95: {'values_changed': {"root['occupation']": {'new_value': 'comedian, model, actress,  producer, author', 'old_value': 'Comedian, model, actress, producer, author'}}}
+114: {'values_changed': {"root['occupation']": {'new_value': 'Comedian, model, actress, producer, author', 'old_value': 'Comedian, model, actress, television producer, author'}}}
+121: {'values_changed': {"root['occupation']": {'new_value': 'Comedian, model, actress, television producer, author', 'old_value': 'Might be a Comedian, model, actress, television producer, author'}}}
+122: {'values_changed': {"root['occupation']": {'new_value': 'Might be a Comedian, model, actress, television producer, author', 'old_value': 'Comedian, model, actress, television producer, author'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Fran Drescher', 'old_value': 'donald trump'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'donald trump', 'old_value': 'Fran Drescher'}}}
+143: {'values_changed': {"root['name']": {'new_value': 'Fran Drescher', 'old_value': 'F.J. Drescher'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'F.J. Drescher', 'old_value': 'Fran Drescher'}}}
+158: {'dictionary_item_removed': {"root['party']": 'Democratic'}, 'values_changed': {"root['occupation']": {'new_value': 'Comedian, model, actress, television producer, author', 'old_value': 'Actress, Comedian'}}}
+193: {'values_changed': {"root['occupation']": {'new_value': 'Actress, Comedian', 'old_value': 'Actress, activist'}}}
+197: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist', 'old_value': 'Actress, activist, writer'}}}
+204: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist, writer', 'old_value': 'Actress, activist, writer, comedian'}}}
+208: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist, writer, comedian', 'old_value': 'Actress, activist, writer, comedian, director'}}}
+209: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist, writer, comedian, director', 'old_value': 'Actress, activist, writer, comedian'}}}
+215: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Actress', 'activist', 'writer', 'comedian'], 'new_value': 'Actress, activist, writer, comedian'}}, 'dictionary_item_added': {"root['party']": 'Democratic'}, 'dictionary_item_removed': {"root['education']": 'Hillcrest High School', "root['spouse']": 'Peter Marc Jacobson|1978|1999|reas'}}
+217: {'dictionary_item_added': {"root['spouse']": 'Peter Marc Jacobson|1978|1999|reas'}, 'dictionary_item_removed': {"root['residence']": 'Malibu, California '}}
+225: {'dictionary_item_added': {"root['education']": 'Hillcrest High School', "root['residence']": 'Malibu, California '}, 'dictionary_item_removed': {"root['partner']": 'Shiva Ayyadurai (2014–2016) '}}
+247: {'values_changed': {"root['occupation'][1]": {'new_value': 'activist', 'old_value': 'comedienne'}, "root['occupation'][3]": {'new_value': 'comedian', 'old_value': 'activist'}}}
+262: {'dictionary_item_removed': {"root['office']": '3rd National President of the SAG-AFTRA elect', "root['term_start']": 'TBA'}, 'values_changed': {"root['partner']": {'new_value': 'Shiva Ayyadurai (2014–2016) ', 'old_value': 'Shiva Ayyadurai (2014–2016)'}}}
+263: {'dictionary_item_removed': {"root['succeeding']": 'Gabrielle Carteris  '}, 'values_changed': {"root['office']": {'new_value': '3rd National President of the SAG-AFTRA elect', 'old_value': 'National President-elect of the SAG-AFTRA'}}}
+267: {'values_changed': {"root['occupation'][1]": {'new_value': 'comedienne', 'old_value': 'comedian'}}}
+276: {'dictionary_item_added': {"root['succeeding']": 'Gabrielle Carteris  '}, 'dictionary_item_removed': {"root['term_end']": '| preceded by'}, 'values_changed': {"root['office']": {'new_value': 'National President-elect of the SAG-AFTRA', 'old_value': '3rd National President of the SAG-AFTRA'}, "root['term_start']": {'new_value': 'TBA', 'old_value': 'October 15, 2021'}}}
+279: {'dictionary_item_added': {"root['term_end']": '| preceded by'}, 'values_changed': {"root['name']": {'new_value': 'Fran Drescher', 'old_value': 'Fran Drescher  VAL ALLY ROBINSON'}}}
+280: {'values_changed': {"root['name']": {'new_value': 'Fran Drescher  VAL ALLY ROBINSON', 'old_value': 'Fran Drescher'}}}

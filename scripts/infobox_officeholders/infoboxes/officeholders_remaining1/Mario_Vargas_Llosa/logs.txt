@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mario Vargas Llosa', "root['birthname']": 'Jorge Mario Pedro Vargas Llosa', "root['birthplace']": 'Arequipa, Arequipa, Peru', "root['alma_mater']": 'National University of San Marcos, , Complutense University of Madrid', "root['spouse']": 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', "root['children']": 'Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llosa'}}
+34: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1910), Patricia Llosa (1965–present)'}}}
+35: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1910), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)'}}}
+51: {'dictionary_item_removed': {"root['repec_prefix']": 'e | repec_id = pso18'}}
+69: {'dictionary_item_removed': {"root['awards']": 'spouse       = Julia Urquidi (1955–1964), Patricia Llosa (1965–present) | children     = Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llo'}}
+99: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+164: {'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos, , Complutense University of Madrid', 'old_value': 'National University of San Marcos , , Complutense University of Madrid'}}}
+166: {'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos , , Complutense University of Madrid', 'old_value': 'National University of San Marcos , Complutense University of Madrid'}}}
+212: {'values_changed': {"root['birthplace']": {'new_value': 'Arequipa, Arequipa, Peru', 'old_value': 'Arequipa, Arequipa, '}}}
+233: {'values_changed': {"root['birthplace']": {'new_value': 'Arequipa, Arequipa, ', 'old_value': 'Arequipa, Arequipa, Peru'}}}
+234: {'values_changed': {"root['birthplace']": {'new_value': 'Arequipa, Arequipa, Peru', 'old_value': 'Arequipa, Arequipa, '}}}
+277: {'dictionary_item_added': {"root['birthname']": 'Jorge Mario Pedro Vargas Llosa', "root['birthplace']": 'Arequipa, Arequipa, ', "root['awards']": 'spouse       = Julia Urquidi (1955–1964), Patricia Llosa (1965–present) | children     = Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llo'}, 'dictionary_item_removed': {"root['movement']": 'Latin American boom'}, 'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos , Complutense University of Madrid', 'old_value': 'National University of San Marcos Complutense University of Madrid'}, "root['spouse']": {'new_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)'}, "root['children']": {'new_value': 'Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llosa', 'old_value': 'Álvaro Vargas Llosa Gonzalo Vargas Llosa Morgana Vargas Llosa'}}}
+297: {'dictionary_item_removed': {"root['institutions']": "King's College London"}}
+314: {'dictionary_item_added': {"root['institutions']": "King's College London"}, 'dictionary_item_removed': {"root['partner']": 'Isabel Preysler (2015–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–2015)'}}}
+315: {'dictionary_item_added': {"root['spouse']": 'Julia Urquidi (1955–1964) Patricia Llosa (1965–2015)', "root['partner']": 'Isabel Preysler (2015–present)'}, 'dictionary_item_removed': {"root['awards']": 'spouse(s)       = Julia Urquidi (1955–1964) Patricia Llosa (1965–2015) |partner(s)       = Isabel Preysler (2015–present)'}}
+320: {'dictionary_item_added': {"root['awards']": 'spouse(s)       = Julia Urquidi (1955–1964) Patricia Llosa (1965–2015) |partner(s)       = Isabel Preysler (2015–present)'}, 'dictionary_item_removed': {"root['spouse']": 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)', "root['partner']": 'Isabel Preysler (2015–present)'}}
+323: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) '}}}
+406: {'dictionary_item_added': {"root['alma_mater']": 'National University of San Marcos Complutense University of Madrid', "root['spouse']": 'Julia Urquidi (1955–1964) ', "root['repec_prefix']": 'e | repec_id = pso18'}, 'values_changed': {"root['partner']": {'new_value': 'Isabel Preysler (2015–present)', 'old_value': 'Isabel Preysler  (2015–present)'}, "root['children']": {'new_value': 'Álvaro Vargas Llosa Gonzalo Vargas Llosa Morgana Vargas Llosa', 'old_value': '3, including Álvaro Vargas Llosa'}}}
+418: {'dictionary_item_removed': {"root['genre']": 'nique ta mère'}}
+421: {'dictionary_item_added': {"root['genre']": 'nique ta mère'}, 'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'Mario Vargas Llosa, The Marquis of Vargas Llosa'}}}
+433: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa, The Marquis of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}}}
+442: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquis of Vargas Llosa'}}}
+466: {'dictionary_item_added': {"root['movement']": 'Latin American boom'}, 'dictionary_item_removed': {"root['party']": 'Movimiento Libertad '}, 'values_changed': {"root['name']": {'new_value': 'The Marquis of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}, "root['partner']": {'new_value': 'Isabel Preysler  (2015–present)', 'old_value': 'Isabel Preysler (2015–present)'}}}
+474: {'values_changed': {"root['party']": {'new_value': 'Movimiento Libertad ', 'old_value': 'Liberty Movement '}}}
+475: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The of Vargas Llosa'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'The of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}}}
+574: {'values_changed': {"root['party']": {'new_value': 'Liberty Movement ', 'old_value': 'Liberty Movement (1990–1993), Democratic Front (1988–1990)'}, "root['partner']": {'new_value': 'Isabel Preysler (2015–present)', 'old_value': 'Isabel Preysler (since 2015)'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquess of baddies'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'The Marquess of baddies', 'old_value': 'The Marquess of Vargas Llosa'}}}
+589: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'Gangy Gang'}}}
+590: {'values_changed': {"root['name']": {'new_value': 'Gangy Gang', 'old_value': 'The Marquess of Vargas Llosa'}}}
+591: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquess of Mario Period ahh period uhh'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Mario Period ahh period uhh', 'old_value': 'The Marquess of Vargas Llosa'}}}
+624: {'values_changed': {"root['partner']": {'new_value': 'Isabel Preysler (since 2015)', 'old_value': 'Isabel Preysler (2015-2022)'}}}
+656: {'dictionary_item_removed': {"root['office']": "Seat ''L'' of the Real Academia Española", "root['term_start']": '15 January 1996'}}
+666: {'dictionary_item_removed': {"root['otherparty']": 'Liberty Movement (1987–1993), Democratic Front (1988–1990)'}, 'values_changed': {"root['party']": {'new_value': 'Liberty Movement (1990–1993), Democratic Front (1988–1990)', 'old_value': "People's Liberty (2023–present)"}}}

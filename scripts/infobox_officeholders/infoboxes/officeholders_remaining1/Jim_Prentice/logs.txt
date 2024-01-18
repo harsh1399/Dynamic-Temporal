@@ -1,0 +1,97 @@
+49: {'dictionary_item_removed': {"root['cabinet']": 'Minister of Indian Affairs and Northern Development', "root['term_start']": '2006', "root['profession']": 'lawyer', "root['party']": 'CPC', "root['riding']": 'Calgary Centre-North', "root['successor2']": '|'}}
+51: {'values_changed': {"root['cabinet']": {'new_value': 'Minister of Indian Affairs and Northern Development', 'old_value': 'Minister of Indian Affairs and Northern Development,  Federal Interlocutor for Métis and Non-Status Indians'}}}
+61: {'dictionary_item_removed': {"root['religion']": 'Presbyterian'}}
+73: {'dictionary_item_added': {"root['riding']": 'Calgary Centre-North', "root['successor2']": '|'}, 'dictionary_item_removed': {"root['residence']": 'Calgary |'}}
+74: {'values_changed': {"root['cabinet']": {'new_value': 'Minister of Indian Affairs and Northern Development,  Federal Interlocutor for Métis and Non-Status Indians', 'old_value': 'Minister of Industry'}}}
+97: {'values_changed': {"root['term_start']": {'new_value': '2006', 'old_value': '2004'}}}
+150: {'dictionary_item_added': {"root['cabinet']": 'Minister of Industry'}, 'values_changed': {"root['profession']": {'new_value': 'lawyer', 'old_value': 'Lawyer'}}}
+204: {'values_changed': {"root['religion']": {'new_value': 'Presbyterian', 'old_value': 'Dick'}}}
+205: {'values_changed': {"root['religion']": {'new_value': 'Dick', 'old_value': 'Presbyterian'}}}
+210: {'values_changed': {"root['profession']": {'new_value': 'Lawyer', 'old_value': 'BDIU'}}}
+211: {'values_changed': {"root['profession']": {'new_value': 'BDIU', 'old_value': 'Lawyer'}}}
+402: {'dictionary_item_removed': {"root['spouse']": 'Karen Prentice'}}
+406: {'dictionary_item_removed': {"root['name']": 'P. E. James "Jim" Prentice | honorific-suffix =  PC, MP'}}
+414: {'values_changed': {"root['name']": {'new_value': 'P. E. James "Jim" Prentice | honorific-suffix =  PC, MP', 'old_value': 'P. E. James "Jim" Prentice | honorific-suffix = ,  PC, MP'}}}
+420: {'values_changed': {"root['name']": {'new_value': 'P. E. James "Jim" Prentice | honorific-suffix = ,  PC, MP', 'old_value': 'Jim Prentice | honorific-suffix = ,  PC, MP'}}}
+422: {'dictionary_item_removed': {"root['cabinet']": 'Minister of Industry', "root['riding']": 'Calgary Centre-North'}, 'values_changed': {"root['name']": {'new_value': 'Jim Prentice | honorific-suffix = ,  PC, MP', 'old_value': 'P. E. James Prentice | honorific-suffix = PC, MP'}, "root['party']": {'new_value': 'CPC', 'old_value': 'Conservative'}}}
+423: {'values_changed': {"root['name']": {'new_value': 'P. E. James Prentice | honorific-suffix = PC, MP', 'old_value': 'P. E. James Prentice | honorific-suffix =  PC, MP'}, "root['residence']": {'new_value': 'Calgary |', 'old_value': 'Calgary, Alberta'}}}
+424: {'dictionary_item_removed': {"root['parliament']": 'Canadian'}, 'values_changed': {"root['name']": {'new_value': 'P. E. James Prentice | honorific-suffix =  PC, MP', 'old_value': 'P. E. James Prentice | honorific-suffix = ,  PC, MP'}}}
+425: {'dictionary_item_added': {"root['cabinet']": 'Minister of Industry'}, 'dictionary_item_removed': {"root['portfolio']": 'Minister of Industry'}}
+431: {'values_changed': {"root['name']": {'new_value': 'P. E. James Prentice | honorific-suffix = ,  PC, MP', 'old_value': 'Pierre Elliot James Prentice | honorific-suffix = ,  PC, MP'}}}
+432: {'values_changed': {"root['name']": {'new_value': 'Pierre Elliot James Prentice | honorific-suffix = ,  PC, MP', 'old_value': 'James Prentice | honorific-suffix = ,  PC, MP'}}}
+458: {'values_changed': {"root['portfolio']": {'new_value': 'Minister of Industry', 'old_value': 'Minister of Environment'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'James Prentice | honorific-suffix = ,  PC, MP', 'old_value': 'James Prentice | honorific-suffix = ,  PC, QC, MP'}, "root['portfolio']": {'new_value': 'Minister of Environment', 'old_value': 'Minister of the Environment'}}}
+523: {'dictionary_item_added': {"root['portfolio']": 'Minister of the Environment'}, 'dictionary_item_removed': {"root['term_end']": 'November 14, 2010'}}
+535: {'values_changed': {"root['name']": {'new_value': 'James Prentice | honorific-suffix = ,  PC, QC, MP', 'old_value': 'James Prentice | honorific-suffix = ,  PC, QC'}}}
+541: {'values_changed': {"root['name']": {'new_value': 'James Prentice | honorific-suffix = ,  PC, QC', 'old_value': 'Jim Prentice | honorific-suffix = PC, QC'}}}
+562: {'dictionary_item_added': {"root['riding']": 'Calgary Centre-North', "root['parliament']": 'Canadian', "root['term_end']": 'November 14, 2010'}, 'dictionary_item_removed': {"root['office']": 'Premier of Alberta-designate', "root['monarch']": 'Elizabeth II', "root['lieutenant_governor']": 'Donald Ethell', "root['succeeding1']": 'Dave Hancock', "root['riding2']": 'Calgary Centre-North', "root['parliament2']": 'Canadian', "root['term_start2']": '2004', "root['term_end2']": 'November 14, 2010', "root['predecessor2']": "''new riding''", "root['successor2']": 'Michelle Rempel'}, 'values_changed': {"root['term_start']": {'new_value': '2004', 'old_value': '2014'}}}
+569: {'values_changed': {"root['office']": {'new_value': 'Premier of Alberta-designate', 'old_value': 'Premier of Alberta (designate)'}}}
+573: {'dictionary_item_added': {"root['office']": 'Premier of Alberta (designate)', "root['monarch']": 'Elizabeth II', "root['lieutenant_governor']": 'Donald Ethell', "root['term_start']": '2014'}, 'dictionary_item_removed': {"root['office1']": 'Premier of Alberta (designate)', "root['monarch1']": 'Elizabeth II', "root['lieutenant_governor1']": 'Donald Ethell'}}
+574: {'dictionary_item_added': {"root['riding2']": 'Calgary Centre-North', "root['parliament2']": 'Canadian', "root['term_end2']": 'November 14, 2010', "root['successor2']": 'Michelle Rempel'}, 'dictionary_item_removed': {"root['office2']": 'Leader of the Progressive Conservative Association of Alberta', "root['riding3']": 'Calgary Centre-North', "root['parliament3']": 'Canadian', "root['term_start3']": '2004', "root['term_end3']": 'November 14, 2010', "root['predecessor3']": "''new riding''", "root['successor3']": 'Michelle Rempel'}, 'values_changed': {"root['term_start2']": {'new_value': '2004', 'old_value': 'September 6, 2014'}, "root['predecessor2']": {'new_value': "''new riding''", 'old_value': 'Dave Hancock'}}}
+575: {'values_changed': {"root['party']": {'new_value': 'Conservative', 'old_value': 'Progressive Conservative,, Conservative'}}}
+576: {'values_changed': {"root['office1']": {'new_value': 'Premier of Alberta (designate)', 'old_value': 'Premier of Alberta (elect)'}}}
+577: {'values_changed': {"root['office1']": {'new_value': 'Premier of Alberta (elect)', 'old_value': 'Premier of Alberta (designate)'}}}
+578: {'values_changed': {"root['office1']": {'new_value': 'Premier of Alberta (designate)', 'old_value': 'Premier of Alberta ,  Designate'}}}
+579: {'dictionary_item_removed': {"root['term_start1']": 'TBD'}}
+581: {'values_changed': {"root['office1']": {'new_value': 'Premier of Alberta ,  Designate', 'old_value': 'Premier of Alberta'}, "root['term_start1']": {'new_value': 'TBD', 'old_value': 'September 15, 2014'}}}
+583: {'dictionary_item_added': {"root['succeeding1']": 'Dave Hancock'}, 'dictionary_item_removed': {"root['predecessor1']": 'Dave Hancock'}}
+584: {'values_changed': {"root['office1']": {'new_value': 'Premier of Alberta', 'old_value': '12th Premier of Alberta'}}}
+585: {'values_changed': {"root['office1']": {'new_value': '12th Premier of Alberta', 'old_value': '16th Premier of Alberta'}}}
+588: {'values_changed': {"root['predecessor2']": {'new_value': 'Dave Hancock', 'old_value': 'Dave Hancock  (interim)'}}}
+596: {'dictionary_item_removed': {"root['alma_mater']": 'University of Alberta'}}
+602: {'dictionary_item_added': {"root['parliament3']": 'Canadian'}, 'dictionary_item_removed': {"root['Legislature3']": 'Alberta Legistlature', "root['riding4']": 'Calgary Centre-North', "root['parliament4']": 'Canadian', "root['term_start4']": '2004', "root['term_end4']": 'November 14, 2010', "root['predecessor4']": "''new riding''", "root['successor4']": 'Michelle Rempel'}, 'values_changed': {"root['riding3']": {'new_value': 'Calgary Centre-North', 'old_value': 'Calgary Foothills'}, "root['term_start3']": {'new_value': '2004', 'old_value': '2014'}, "root['term_end3']": {'new_value': 'November 14, 2010', 'old_value': 'Incumbent(elect)'}, "root['predecessor3']": {'new_value': "''new riding''", 'old_value': 'Vacant'}, "root['successor3']": {'new_value': 'Michelle Rempel', 'old_value': 'Incumbent (elect)'}}}
+605: {'dictionary_item_added': {"root['riding3']": 'Calgary Foothills', "root['Legislature3']": 'Alberta Legistlature'}, 'dictionary_item_removed': {"root['office3']": 'Member of the Legislative Assembly of Alberta', "root['constituency3']": 'Calgary Foothills'}, 'values_changed': {"root['predecessor3']": {'new_value': 'Vacant', 'old_value': 'Len Webber'}}}
+606: {'dictionary_item_added': {"root['constituency3']": 'Calgary Foothills', "root['term_end3']": 'Incumbent(elect)', "root['successor3']": 'Incumbent (elect)'}, 'values_changed': {"root['office3']": {'new_value': 'Member of the Legislative Assembly of Alberta', 'old_value': 'Member of the Legislative Assembly of Alberta for Calgary-Foothills'}}}
+607: {'values_changed': {"root['office3']": {'new_value': 'Member of the Legislative Assembly of Alberta for Calgary-Foothills', 'old_value': 'Member of the Legislative Assembly for Calgary-Foothills'}}}
+610: {'values_changed': {"root['office3']": {'new_value': 'Member of the Legislative Assembly for Calgary-Foothills', 'old_value': 'Member of the Legislative Assembly of Alberta for Calgary-Foothills'}}}
+612: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Alberta', 'old_value': 'University of Alberta,, Dalhousie University'}}}
+614: {'values_changed': {"root['party']": {'new_value': 'Progressive Conservative,, Conservative', 'old_value': "'''Provincial''':Alberta PC, '''Federal''':Progressive Conservative (1976-2003), Conservative (2003-present)"}}}
+615: {'values_changed': {"root['party']": {'new_value': "'''Provincial''':Alberta PC, '''Federal''':Progressive Conservative (1976-2003), Conservative (2003-present)", 'old_value': "'''Provincial''':, Progressive Conservative, '''Federal''':, Progressive Conservative (1976-2003), Conservative (2003-present)"}}}
+618: {'values_changed': {"root['term_start3']": {'new_value': '2014', 'old_value': 'October 27, 2014'}}}
+623: {'values_changed': {"root['name']": {'new_value': 'Jim Prentice | honorific-suffix = PC, QC', 'old_value': 'john Prentice  | honorific-suffix = PC, QC'}}}
+624: {'values_changed': {"root['name']": {'new_value': 'john Prentice  | honorific-suffix = PC, QC', 'old_value': 'Jim Prentice | honorific-suffix = PC, QC'}}}
+627: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Alberta,, Dalhousie University', 'old_value': 'University of Alberta,, Dalhousie Law School'}}}
+628: {'values_changed': {"root['name']": {'new_value': 'Jim Prentice | honorific-suffix = PC, QC', 'old_value': 'Jim Prentice | honorific-suffix = '}}}
+631: {'values_changed': {"root['party']": {'new_value': "'''Provincial''':, Progressive Conservative, '''Federal''':, Progressive Conservative (1976-2003), Conservative (2003-present)", 'old_value': "'''Provincial''':, Progressive Conservative, '''Federal''':, Progressive Conservative (1976–2003), Conservative (2003–present)"}}}
+649: {'dictionary_item_removed': {"root['term_end1']": 'May 5, 2015', "root['successor1']": 'Rachel Notley'}}
+652: {'dictionary_item_added': {"root['term_end1']": 'May 5, 2015'}, 'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley', 'old_value': 'Rachel Notley  (Designate)'}}}
+658: {'dictionary_item_removed': {"root['term_end2']": 'May 5,2015'}, 'values_changed': {"root['office2']": {'new_value': 'Leader of the Progressive Conservative Association of Alberta', 'old_value': 'Former  Leader of the Progressive Conservative Association of Alberta'}}}
+659: {'values_changed': {"root['office2']": {'new_value': 'Former  Leader of the Progressive Conservative Association of Alberta', 'old_value': 'Leader of the Progressive Conservative Association of Alberta'}}}
+660: {'dictionary_item_removed': {"root['successor2']": 'TBD'}}
+661: {'dictionary_item_removed': {"root['term_end3']": 'May 5, 2015'}}
+663: {'dictionary_item_removed': {"root['successor3']": 'TBD'}}
+664: {'dictionary_item_removed': {"root['term_end1']": 'May 5, 2015'}, 'values_changed': {"root['term_end2']": {'new_value': 'May 5,2015', 'old_value': 'May 5, 2015'}}}
+688: {'dictionary_item_added': {"root['term_end1']": 'May 5, 2015'}, 'values_changed': {"root['term_start4']": {'new_value': '2004', 'old_value': 'June 28, 2004'}}}
+702: {'values_changed': {"root['profession']": {'new_value': 'Lawyer', 'old_value': 'Lawyer, quitter, cry baby, loser, unprofessional, whiner'}}}
+703: {'values_changed': {"root['profession']": {'new_value': 'Lawyer, quitter, cry baby, loser, unprofessional, whiner', 'old_value': 'Lawyer'}}}
+711: {'values_changed': {"root['successor2']": {'new_value': 'TBD', 'old_value': 'Rachel Notley'}}}
+712: {'values_changed': {"root['successor2']": {'new_value': 'Rachel Notley', 'old_value': 'TBD'}}}
+713: {'values_changed': {"root['successor2']": {'new_value': 'TBD', 'old_value': 'Ric McIver  (interim)'}}}
+714: {'dictionary_item_added': {"root['term_end3']": 'May 5, 2015'}, 'values_changed': {"root['term_end2']": {'new_value': 'May 5, 2015', 'old_value': 'May 11, 2015'}}}
+715: {'values_changed': {"root['term_end2']": {'new_value': 'May 11, 2015', 'old_value': 'May 5, 2015'}}}
+716: {'values_changed': {"root['term_end2']": {'new_value': 'May 5, 2015', 'old_value': 'May 11, 2015'}}}
+717: {'values_changed': {"root['term_end2']": {'new_value': 'May 11, 2015', 'old_value': 'May 5, 2015'}}}
+724: {'dictionary_item_removed': {"root['term_end1']": 'May 14, 2015'}, 'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley  (Designate)', 'old_value': 'Rachel Notley'}}}
+726: {'dictionary_item_added': {"root['term_end1']": 'May 14, 2015'}, 'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley', 'old_value': 'Rachel Notley  (Designate)'}}}
+742: {'dictionary_item_removed': {"root['term_end3']": 'May 5, 2015'}}
+746: {'values_changed': {"root['name']": {'new_value': 'Jim Prentice | honorific-suffix = ', 'old_value': 'James prentice  | honorific-suffix = '}}}
+747: {'values_changed': {"root['name']": {'new_value': 'James prentice  | honorific-suffix = ', 'old_value': 'Jim Prentice | honorific-suffix = '}}}
+748: {'dictionary_item_removed': {"root['term_end1']": 'May 24, 2015'}, 'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley  (Designate)', 'old_value': 'Rachel Notley'}}}
+749: {'dictionary_item_added': {"root['term_end1']": 'May 24, 2015'}, 'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley', 'old_value': 'Rachel Notley  (Designate)'}}}
+751: {'dictionary_item_removed': {"root['term_end1']": 'May 24, 2015'}}
+752: {'values_changed': {"root['successor1']": {'new_value': 'Rachel Notley  (Designate)', 'old_value': 'Rachel Notley'}}}
+766: {'values_changed': {"root['successor3']": {'new_value': 'TBD', 'old_value': 'Prasad Panda'}}}
+786: {'values_changed': {"root['name']": {'new_value': 'Jim Prentice | honorific-suffix = ', 'old_value': 'Prim Jentice | honorific-suffix = '}}}
+789: {'values_changed': {"root['name']": {'new_value': 'Prim Jentice | honorific-suffix = ', 'old_value': 'Jim Prentice | honorific-suffix = '}}}
+806: {'values_changed': {"root['residence']": {'new_value': 'Calgary, Alberta', 'old_value': 'Calgary, Alberta, Canada'}}}
+870: {'dictionary_item_removed': {"root['children']": 'three'}, 'values_changed': {"root['party']": {'new_value': "'''Provincial''':, Progressive Conservative, '''Federal''':, Progressive Conservative (1976–2003), Conservative (2003–present)", 'old_value': "'''Provincial''':, Progressive Conservative, '''Federal''':, Progressive Conservative (1976–2003), Conservative (2003–his death)"}}}
+910: {'values_changed': {"root['religion']": {'new_value': 'Presbyterian', 'old_value': 'Presbyterian Church in Canada'}}}
+925: {'values_changed': {"root['children']": {'new_value': 'three', 'old_value': 'two daughters and one step daughter'}}}
+926: {'values_changed': {"root['children']": {'new_value': 'two daughters and one step daughter', 'old_value': 'three'}}}
+927: {'values_changed': {"root['children']": {'new_value': 'three', 'old_value': 'two daughters and one step daughter'}}}
+928: {'values_changed': {"root['children']": {'new_value': 'two daughters and one step daughter', 'old_value': 'three'}}}
+929: {'dictionary_item_added': {"root['alma_mater']": 'University of Alberta,, Dalhousie Law School'}, 'values_changed': {"root['religion']": {'new_value': 'Presbyterian Church in Canada', 'old_value': 'Christianity (Presbyterian)'}}}
+931: {'values_changed': {"root['children']": {'new_value': 'three', 'old_value': 'two'}}}
+936: {'values_changed': {"root['children']": {'new_value': 'two', 'old_value': 'two daughters, one stepdaughter'}}}
+941: {'values_changed': {"root['children']": {'new_value': 'two daughters, one stepdaughter', 'old_value': 'three daughters'}}}
+942: {'values_changed': {"root['children']": {'new_value': 'three daughters', 'old_value': 'two daughters, one step'}}}
