@@ -1,0 +1,71 @@
+0: {'dictionary_item_removed': {"root['county']": 'Hyderabad', "root['captain']": 'VVS Laxman', "root['founded']": '2008'}}
+2: {'dictionary_item_removed': {"root['coach']": 'Greg Shipperd', "root['ground']": 'Feroz Shah Kotla'}, 'values_changed': {"root['county']": {'new_value': 'Hyderabad', 'old_value': 'Delhi Daredevils'}, "root['captain']": {'new_value': 'VVS Laxman', 'old_value': 'Virender Sehwag'}}}
+3: {'dictionary_item_added': {"root['coach']": 'Greg Shipperd', "root['ground']": 'Feroz Shah Kotla'}, 'values_changed': {"root['county']": {'new_value': 'Delhi Daredevils', 'old_value': 'IPL Hyderabad'}, "root['captain']": {'new_value': 'Virender Sehwag', 'old_value': 'VVS Laxman'}}}
+20: {'dictionary_item_removed': {"root['coach']": 'Robin Singh'}}
+31: {'dictionary_item_removed': {"root['ground']": 'Rajiv Gandhi International Cricket Stadium'}}
+104: {'values_changed': {"root['county']": {'new_value': 'IPL Hyderabad', 'old_value': 'Deccan Chargers'}}}
+161: {'dictionary_item_removed': {"root['capacity']": '55,000'}}
+198: {'dictionary_item_added': {"root['capacity']": '55,000'}, 'dictionary_item_removed': {"root['colors']": 'Beige and Black color box'}}
+210: {'dictionary_item_removed': {"root['capacity']": '55,000', "root['Official']": 'http://www.deccanchargers.com '}}
+212: {'values_changed': {"root['Official']": {'new_value': 'http://www.deccanchargers.com ', 'old_value': 'http://www.deccanchargers.com Deccan Chargers '}}}
+215: {'dictionary_item_added': {"root['Official']": 'http://www.deccanchargers.com Deccan Chargers '}, 'dictionary_item_removed': {"root['ceo']": 'J Krishnan'}}
+217: {'dictionary_item_removed': {"root['owner']": 'Deccan Chronicle'}}
+294: {'values_changed': {"root['colors']": {'new_value': 'Beige and Black color box', 'old_value': 'Beige and Black   Cr-IPL/Flags'}}}
+338: {'values_changed': {"root['coach']": {'new_value': 'Robin Singh', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'VVS Laxman', 'old_value': 'flagicon'}}}
+347: {'values_changed': {"root['colors']": {'new_value': 'Beige and Black   Cr-IPL/Flags', 'old_value': 'Beige and Black http://www.deccanchargers.com/node/928 Beige and black for Chargers'}}}
+358: {'values_changed': {"root['ceo']": {'new_value': 'J Krishnan', 'old_value': 'Tim Wright'}}}
+359: {'values_changed': {"root['ceo']": {'new_value': 'Tim Wright', 'old_value': 'J Krishnan'}}}
+364: {'values_changed': {"root['colors']": {'new_value': 'Beige and Black http://www.deccanchargers.com/node/928 Beige and black for Chargers', 'old_value': 'Obsidian and Silver http://www.deccanchargers.com/node/928 Beige and black for Chargers'}, "root['ceo']": {'new_value': 'J Krishnan', 'old_value': 'Tim Wright'}}}
+365: {'values_changed': {"root['colors']": {'new_value': 'Obsidian and Silver http://www.deccanchargers.com/node/928 Beige and black for Chargers', 'old_value': 'Midnight Blue and Silver http://www.deccanchargers.com/node/928 Beige and black for Chargers'}}}
+380: {'values_changed': {"root['colors']": {'new_value': 'Midnight Blue and Silver http://www.deccanchargers.com/node/928 Beige and black for Chargers', 'old_value': 'Midnight Blue and Silver http://www.deccanchargers.com/node/928 Midnight Blue and Silver for Chargers'}}}
+387: {'values_changed': {"root['colors']": {'new_value': 'Midnight Blue and Silver http://www.deccanchargers.com/node/928 Midnight Blue and Silver for Chargers', 'old_value': 'Midnight blue'}}}
+459: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium', 'old_value': 'Rajiv Gandhi International Cricket Stadium-Hyderabad, India'}, "root['capacity']": {'new_value': '55,000', 'old_value': '55,000(Rajiv Gandhi International Cricket Stadium), 35,000(VDCA Stadium)'}}}
+460: {'values_changed': {"root['capacity']": {'new_value': '55,000(Rajiv Gandhi International Cricket Stadium), 35,000(VDCA Stadium)', 'old_value': '55,000(Rajiv Gandhi International Cricket Stadium), 47,000(VDCA Stadium)'}}}
+490: {'dictionary_item_added': {"root['capacity']": '55,000(Rajiv Gandhi International Cricket Stadium), 47,000(VDCA Stadium)', "root['ceo']": 'Tim Wright'}, 'dictionary_item_removed': {"root['CEO']": 'No'}, 'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium-Hyderabad, India', 'old_value': 'To Be Named'}}}
+499: {'values_changed': {"root['ground']": {'new_value': 'To Be Named', 'old_value': 'Rajiv Gandhi International Cricket Stadium'}}}
+559: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium', 'old_value': 'Rajiv Gandhi International Cricket Stadium- Capacity 40,000'}}}
+560: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium- Capacity 40,000', 'old_value': 'Rajiv Gandhi International Cricket Stadium'}}}
+562: {'dictionary_item_removed': {"root['seating']": '40,000'}}
+563: {'dictionary_item_added': {"root['seating']": '40,000'}, 'dictionary_item_removed': {"root['capacity']": '40,000'}}
+738: {'dictionary_item_added': {"root['CEO']": 'No'}, 'dictionary_item_removed': {"root['ceo']": 'No CEO For 2009 Season'}}
+739: {'values_changed': {"root['owner']": {'new_value': 'Deccan Chronicle', 'old_value': 'Deccan Chronicle, Group M India'}}}
+741: {'dictionary_item_added': {"root['ceo']": 'No CEO For 2009 Season'}, 'dictionary_item_removed': {"root['CEO']": 'No'}, 'values_changed': {"root['owner']": {'new_value': 'Deccan Chronicle, Group M India', 'old_value': 'Deccan Chronicle'}}}
+785: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers', 'old_value': 'Deccan Fuckers'}}}
+786: {'values_changed': {"root['county']": {'new_value': 'Deccan Fuckers', 'old_value': 'Deccan Chargers'}}}
+841: {'dictionary_item_added': {"root['CEO']": 'No'}, 'dictionary_item_removed': {"root['current']": '2011 Indian Premier League', "root['title1']": 'Indian Premier League', "root['title1wins']": "'''1''' '''('''2009 IPL", "root['city']": '50,000'}, 'values_changed': {"root['county']": {'new_value': 'Deccan Chargers', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  حیدرآباد ڈککن چرگرس'}, "root['colors']": {'new_value': 'Midnight blue', 'old_value': 'File:Deccan Chargers colours.svg'}, "root['capacity']": {'new_value': '40,000', 'old_value': '50,000'}}}
+848: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Rajiv Gandhi International Cricket Stadium'], 'new_value': 'Rajiv Gandhi International Cricket Stadium'}}, 'dictionary_item_added': {"root['capacity']": '50,000', "root['city']": '50,000'}}
+852: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  حیدرآباد ڈککن چرگرس', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز'}}}
+854: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  حیدرآباد ڈککن چرگرس'}}}
+855: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  حیدرآباد ڈککن چرگرس', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్'}}}
+856: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز'}}}
+857: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్'}}}
+859: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز'}}}
+860: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ , حيدرآباد دكن چارجرز', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్'}}}
+890: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్', 'old_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  دكن چارجرز'}}}
+958: {'dictionary_item_removed': {"root['title2']": 'CLT20', "root['title2wins']": "'''0''',qualified in 2009"}}
+985: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers ,  హైదరాబాద్ డెక్కన్ చార్జర్స్ ,  دكن چارجرز', 'old_value': 'Deccan Chargers'}}}
+1022: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers', 'old_value': 'HYDERABAD Deccan Chargers'}}}
+1023: {'values_changed': {"root['county']": {'new_value': 'HYDERABAD Deccan Chargers', 'old_value': 'HYDERABADDeccan Chargers'}}}
+1037: {'values_changed': {"root['county']": {'new_value': 'HYDERABADDeccan Chargers', 'old_value': 'HYDERABAD Deccan Chargers'}}}
+1055: {'values_changed': {"root['county']": {'new_value': 'HYDERABAD Deccan Chargers', 'old_value': 'Hyderabad Deccan Chargers'}}}
+1064: {'values_changed': {"root['title2wins']": {'new_value': "'''0''',qualified in 2009", 'old_value': "'''0'''"}}}
+1070: {'values_changed': {"root['owner']": {'new_value': 'Deccan Chronicle', 'old_value': 'ubl'}}}
+1071: {'values_changed': {"root['owner']": {'new_value': 'ubl', 'old_value': 'Deccan Chronicle'}}}
+1084: {'values_changed': {"root['title2wins']": {'new_value': "'''0'''", 'old_value': "'''0 (Qualified 2009)'''"}}}
+1090: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Deccan Chargers', 'old_value': 'Deccan Chargers'}, "root['title2wins']": {'new_value': "'''0 (Qualified 2009)'''", 'old_value': "'''0 (Qualified 2009 Champions League Twenty20"}}}
+1091: {'values_changed': {"root['title1wins']": {'new_value': "'''1''' '''('''2009 IPL", 'old_value': "'''1''' '''(2009 IPL"}}}
+1107: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Darren Lehmann'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Kumar Sangakkara'}}}
+1127: {'values_changed': {"root['coach']": {'new_value': 'Darren Lehmann', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Kumar Sangakkara', 'old_value': 'flagicon'}}}
+1141: {'values_changed': {"root['owner']": {'new_value': 'Deccan Chronicle', 'old_value': 'YET TO BE ANNOUNCED'}}}
+1146: {'dictionary_item_removed': {"root['dissolved']": '14 September 2012'}}
+1153: {'values_changed': {"root['owner']": {'new_value': 'YET TO BE ANNOUNCED', 'old_value': 'TBA'}}}
+1158: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Darren Lehmann'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Kumar Sangakkara'}}}
+1160: {'values_changed': {"root['owner']": {'new_value': 'TBA', 'old_value': 'Deccan Chronicle'}}}
+1181: {'values_changed': {"root['owner']": {'new_value': 'Deccan Chronicle', 'old_value': 'Sun Network'}}}
+1192: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers', 'old_value': 'Deccan Chargers (Hyderabad)'}}}
+1193: {'values_changed': {"root['owner']": {'new_value': 'Sun Network', 'old_value': 'Sony'}}}
+1195: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers (Hyderabad)', 'old_value': 'Deccan Chargers (visakhapatam)'}, "root['owner']": {'new_value': 'Sony', 'old_value': 'NIKE'}, "root['captain']": {'new_value': 'Kumar Sangakkara', 'old_value': 'Dale steyn'}}}
+1196: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers (visakhapatam)', 'old_value': 'Deccan Chargers (visakhapatnam)'}, "root['captain']": {'new_value': 'Dale steyn', 'old_value': 'Dale Steyn'}}}
+1197: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers (visakhapatnam)', 'old_value': 'Deccan Chargers (Hyderabad)'}, "root['owner']": {'new_value': 'NIKE', 'old_value': 'Sun Network'}}}
+1202: {'dictionary_item_added': {"root['current']": '2011 Indian Premier League'}, 'values_changed': {"root['dissolved']": {'new_value': '14 September 2012', 'old_value': '2012'}, "root['owner']": {'new_value': 'Sun Network', 'old_value': 'Deccan Chronicle'}, "root['captain']": {'new_value': 'Dale Steyn', 'old_value': 'flagicon'}}}
+1205: {'values_changed': {"root['county']": {'new_value': 'Deccan Chargers (Hyderabad)', 'old_value': 'Deccan Chargers (Hyderabad) డెక్కన్ ఛార్జర్స్'}}}

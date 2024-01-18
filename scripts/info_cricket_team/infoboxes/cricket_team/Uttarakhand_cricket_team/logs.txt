@@ -1,0 +1,10 @@
+1: {'dictionary_item_removed': {"root['name']": 'Uttarakhand cricket team', "root['owner']": 'Uttarakhand Cricket Association '}}
+6: {'dictionary_item_removed': {"root['coach']": 'Bhaskar Pillai'}}
+10: {'dictionary_item_removed': {"root['trainer']": 'Prashant Pujara'}}
+11: {'dictionary_item_added': {"root['trainer']": 'Prashant Pujara'}, 'dictionary_item_removed': {"root['captain']": 'Mohammad Kaif', "root['founded']": '2018', "root['ground']": 'Rajiv Gandhi International Cricket Stadium, Dehradun', "root['capacity']": '65,000', "root['title1']": 'Ranji Trophy', "root['title1wins']": 'NA', "root['title2']": 'Irani Trophy', "root['title2wins']": 'NA', "root['title3']": 'Vijay Hazare Trophy', "root['title3wins']": 'NA'}, 'values_changed': {"root['owner']": {'new_value': 'Uttarakhand Cricket Association ', 'old_value': 'Uttarakhand Cricket Association'}}}
+12: {'dictionary_item_added': {"root['captain']": 'Mohammad Kaif'}, 'values_changed': {"root['capacity']": {'new_value': '65,000', 'old_value': '25,000'}}}
+58: {'dictionary_item_added': {"root['title1wins']": 'NA', "root['title2wins']": 'NA', "root['title3wins']": 'NA'}, 'dictionary_item_removed': {"root['captain']": 'Rajat Bhatia'}}
+75: {'values_changed': {"root['owner']": {'new_value': 'Uttarakhand Cricket Association', 'old_value': 'Cricket Association of Uttarakhand'}}}
+84: {'values_changed': {"root['captain']": {'new_value': 'Rajat Bhatia', 'old_value': 'Unmukt Chand'}}}
+85: {'values_changed': {"root['captain']": {'new_value': 'Unmukt Chand', 'old_value': 'Rajat Bhatia'}}}
+91: {'values_changed': {"root['captain']": {'new_value': 'Rajat Bhatia', 'old_value': 'Unmukt Chand'}}}

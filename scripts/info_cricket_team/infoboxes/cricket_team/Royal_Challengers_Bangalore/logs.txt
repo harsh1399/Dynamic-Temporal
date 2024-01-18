@@ -1,0 +1,104 @@
+7: {'dictionary_item_removed': {"root['county']": 'Bangalore Royal Challengers', "root['captain']": 'Rahul Dravid', "root['founded']": '2008'}}
+13: {'dictionary_item_removed': {"root['ground']": 'M. Chinnaswamy Stadium'}}
+43: {'dictionary_item_removed': {"root['coach']": 'Venkatesh Prasad'}}
+76: {'dictionary_item_added': {"root['ground']": 'M. Chinnaswamy Stadium'}, 'dictionary_item_removed': {"root['home']": 'M. Chinnaswamy Stadium', "root['capacity']": '55,000 '}}
+77: {'dictionary_item_added': {"root['home']": 'M. Chinnaswamy Stadium'}, 'dictionary_item_removed': {"root['homeground']": 'M. Chinnaswamy Stadium'}}
+78: {'dictionary_item_added': {"root['homeground']": 'M. Chinnaswamy Stadium'}, 'dictionary_item_removed': {"root['ground']": 'M. Chinnaswamy Stadium'}}
+79: {'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers', 'old_value': 'Bangalore Royal Challengers Image:Chinnaswamy1.jpg'}}}
+82: {'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers Image:Chinnaswamy1.jpg', 'old_value': 'Bangalore Royal Challengers'}}}
+85: {'dictionary_item_removed': {"root['Image']": 'Chinnaswamy1.jpg'}}
+86: {'dictionary_item_added': {"root['Image']": 'Chinnaswamy1.jpg'}, 'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers', 'old_value': 'Bangalore Royal Challengers Image:Chinnaswamy1.jpg'}}}
+89: {'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers Image:Chinnaswamy1.jpg', 'old_value': 'Bangalore Royal Challengers'}}}
+94: {'dictionary_item_removed': {"root['CEO']": 'Charu Sharma', "root['Adviser']": 'Martin Crowe'}, 'values_changed': {"root['capacity']": {'new_value': '55,000 ', 'old_value': '55,000  '}}}
+99: {'dictionary_item_added': {"root['CEO']": 'Charu Sharma', "root['Adviser']": 'Martin Crowe'}, 'dictionary_item_removed': {"root['owner']": 'Vijay Mallya', "root['ceo']": 'Charu Sharma', "root['adviser']": 'Martin Crowe   '}, 'values_changed': {"root['capacity']": {'new_value': '55,000  ', 'old_value': '55,000'}}}
+101: {'values_changed': {"root['adviser']": {'new_value': 'Martin Crowe   ', 'old_value': 'Martin Crowe  '}}}
+120: {'values_changed': {"root['coach']": {'new_value': 'Venkatesh Prasad', 'old_value': 'Martin Crowe'}}}
+126: {'values_changed': {"root['coach']": {'new_value': 'Martin Crowe', 'old_value': 'Venkatesh Prasad'}}}
+144: {'dictionary_item_removed': {"root['Official']": 'http://www.royalchallengers.com/ '}, 'values_changed': {"root['adviser']": {'new_value': 'Martin Crowe  ', 'old_value': 'Martin Crowe'}}}
+145: {'dictionary_item_added': {"root['Official']": 'http://www.royalchallengers.com/ '}, 'dictionary_item_removed': {"root['Website']": 'http://www.royalchallengers.com/ '}}
+148: {'dictionary_item_added': {"root['adviser']": 'Martin Crowe', "root['Website']": 'http://www.royalchallengers.com/ '}, 'dictionary_item_removed': {"root['colors']": 'Red and Yellow'}}
+153: {'dictionary_item_removed': {"root['motto']": 'Game for Life!'}}
+213: {'dictionary_item_added': {"root['motto']": 'Game for Life!', "root['colors']": 'Red and Yellow'}, 'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers', 'old_value': 'Royal Challengers Bangalore'}}}
+215: {'values_changed': {"root['county']": {'new_value': 'Royal Challengers Bangalore', 'old_value': 'Bangalore Royal Challengers'}}}
+311: {'dictionary_item_added': {"root['owner']": 'Vijay Mallya', "root['ceo']": 'Charu Sharma'}, 'dictionary_item_removed': {"root['Owner']": 'Vijay Mallya', "root['CEO']": 'Charu Sharma'}}
+312: {'dictionary_item_added': {"root['Owner']": 'Vijay Mallya', "root['CEO']": 'Charu Sharma'}, 'dictionary_item_removed': {"root['owner']": 'Vijay Mallya', "root['ceo']": 'Charu Sharma'}}
+325: {'values_changed': {"root['ceo']": {'new_value': 'Charu Sharma', 'old_value': 'brijesh patel'}}}
+326: {'values_changed': {"root['ceo']": {'new_value': 'brijesh patel', 'old_value': 'Brijesh Patel'}}}
+342: {'values_changed': {"root['county']": {'new_value': 'Bangalore Royal Challengers', 'old_value': 'Royal Challengers Bangalore'}}}
+431: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya', 'old_value': 'UB Group'}}}
+465: {'values_changed': {"root['coach']": {'new_value': 'Venkatesh Prasad', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Rahul Dravid', 'old_value': 'flagicon'}}}
+466: {'values_changed': {"root['ceo']": {'new_value': 'Brijesh Patel', 'old_value': 'flagicon'}}}
+484: {'dictionary_item_added': {"root['county']": 'Royal Challengers Bangalore', "root['capacity']": '55,000', "root['ceo']": 'flagicon'}, 'dictionary_item_removed': {"root['name']": 'Royal Challengers Bangalore', "root['league']": 'Indian Premier League', "root['city']": 'Bangalore, Karnataka, India', "root['colors']": 'File:Royal Challengers Bangalore colours.svg', "root['ipl_wins']": 'None', "root['clt20_wins']": '0', "root['current']": 'Royal Challengers Bangalore in 2019 '}, 'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Gary Kirsten'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Virat Kohli'}, "root['ground']": {'new_value': 'M. Chinnaswamy Stadium', 'old_value': 'M. Chinnaswamy Stadium, (Capacity: 40,000)'}, "root['owner']": {'new_value': 'UB Group', 'old_value': 'United Spirits'}}}
+532: {'values_changed': {"root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'AB De Villiers'}}}
+533: {'values_changed': {"root['captain']": {'new_value': 'AB De Villiers', 'old_value': 'Virat Kohli'}}}
+543: {'dictionary_item_removed': {"root['pattern_la']": '_yellowborder', "root['pattern_b']": '_black_chest', "root['pattern_ra']": '_yellowborder', "root['leftarm']": '000000', "root['body']": 'FF0000', "root['rightarm']": '000000'}, 'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2019 ', 'old_value': 'Royal Challengers Bangalore in 2019 Cricket uniform'}}}
+545: {'dictionary_item_added': {"root['pattern_la']": '_yellowborder', "root['pattern_b']": '_black_chest', "root['pattern_ra']": '_yellowborder', "root['leftarm']": '000000', "root['body']": 'FF0000', "root['rightarm']": '000000'}, 'dictionary_item_removed': {"root['h_pattern_la']": '_yellowborder', "root['h_pattern_b']": '_black_chest', "root['h_pattern_ra']": '_blackcuffpiping', "root['h_leftarm']": '000000', "root['h_body']": 'FF0000', "root['h_rightarm']": '000000', "root['h_pants']": 'FF0000 '}, 'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2019 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2019'}}}
+546: {'dictionary_item_added': {"root['h_pattern_la']": '_yellowborder', "root['h_pattern_b']": '_black_chest', "root['h_pattern_ra']": '_blackcuffpiping', "root['h_leftarm']": '000000', "root['h_body']": 'FF0000', "root['h_rightarm']": '000000', "root['h_pants']": 'FF0000 '}, 'dictionary_item_removed': {"root['pattern_la1']": '_yellowborder', "root['pattern_b1']": '_black_chest', "root['pattern_ra1']": '_blackcuffpiping', "root['leftarm1']": '000000', "root['body1']": 'FF0000', "root['rightarm1']": '000000', "root['pants1']": '| leftarm1'}}
+547: {'dictionary_item_added': {"root['pattern_la1']": '_yellowborder', "root['pattern_b1']": '_black_chest', "root['pattern_ra1']": '_blackcuffpiping', "root['leftarm1']": '000000', "root['body1']": 'FF0000', "root['rightarm1']": '000000', "root['pants1']": '| leftarm1'}, 'dictionary_item_removed': {"root['pattern_la']": '_yellowborder', "root['pattern_b']": '_black_chest', "root['pattern_ra']": '_blackcuffpiping', "root['leftarm']": '000000', "root['body']": 'FF0000', "root['rightarm']": '000000'}}
+549: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2019', 'old_value': 'Royal Challengers Bangalore in 2019 Cricket uniform'}, "root['pattern_ra']": {'new_value': '_blackcuffpiping', 'old_value': '_yellowborder'}}}
+559: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+563: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+564: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+565: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+567: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+568: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+571: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+572: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+573: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+578: {'values_changed': {"root['owner']": {'new_value': 'United Spirits', 'old_value': 'Vijay Mallya'}}}
+579: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya', 'old_value': 'United Spirits'}}}
+583: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Bangalore', 'old_value': 'Royal Challengers Bangalore also knon as HARCB'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Bangalore also knon as HARCB', 'old_value': 'Royal Challengers Bangalore'}}}
+587: {'values_changed': {"root['owner']": {'new_value': 'United Spirits', 'old_value': 'Russell Adams'}}}
+588: {'values_changed': {"root['owner']": {'new_value': 'Russell Adams', 'old_value': 'United Spirits'}}}
+597: {'values_changed': {"root['owner']": {'new_value': 'United Spirits', 'old_value': 'Vijay Mallya'}}}
+601: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya', 'old_value': 'flagicon'}}}
+603: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['flagicon'], 'new_value': 'flagicon'}}}
+604: {'values_changed': {"root['coach']": {'new_value': 'Gary Kirsten', 'old_value': 'Kiran Das'}}}
+605: {'values_changed': {"root['coach']": {'new_value': 'Kiran Das', 'old_value': 'Gary Kirsten'}}}
+606: {'values_changed': {"root['ipl_wins']": {'new_value': 'None', 'old_value': 'None ( Aukaad )'}}}
+607: {'values_changed': {"root['ipl_wins']": {'new_value': 'None ( Aukaad )', 'old_value': 'None'}}}
+610: {'values_changed': {"root['ipl_wins']": {'new_value': 'None', 'old_value': '1'}}}
+611: {'values_changed': {"root['ipl_wins']": {'new_value': '1', 'old_value': '0'}}}
+612: {'values_changed': {"root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'Noman Ahmed'}}}
+613: {'values_changed': {"root['captain']": {'new_value': 'Noman Ahmed', 'old_value': 'Virat Kohli'}}}
+614: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bangalore'}}}
+615: {'values_changed': {"root['city']": {'new_value': 'Bangalore', 'old_value': 'Bangalore, Karnataka, India'}}}
+620: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Bangalore', 'old_value': 'Royal Challengers Banura sikar rajasthan'}}}
+621: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Banura sikar rajasthan', 'old_value': 'Royal Challengers Bangalore'}}}
+624: {'values_changed': {"root['coach']": {'new_value': 'Gary Kirsten', 'old_value': 'Simon Katich'}}}
+639: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'United Spirits Limited', 'new_value': ['flagicon']}}}
+645: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2019 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 Cricket uniform'}}}
+650: {'dictionary_item_added': {"root['league']": 'Indian Premier League'}, 'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform'}}}
+671: {'values_changed': {"root['colors']": {'new_value': 'File:Royal Challengers Bangalore colours.svg', 'old_value': 'File:Royal_Challengers_Bangalore_Logo.jpg'}}}
+678: {'values_changed': {"root['colors']": {'new_value': 'File:Royal_Challengers_Bangalore_Logo.jpg', 'old_value': 'File:Royal Challengers Bangalore colours.svg'}}}
+724: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 Cricket uniform'}}}
+730: {'values_changed': {"root['owner']": {'new_value': 'United Spirits Limited', 'old_value': 'Vijay Mallya (United Spirits Limited)'}}}
+731: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya (United Spirits Limited)', 'old_value': 'United Spirits Limited'}, "root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform'}}}
+750: {'values_changed': {"root['ipl_wins']": {'new_value': '0', 'old_value': '1'}}}
+751: {'values_changed': {"root['ipl_wins']": {'new_value': '1', 'old_value': '0'}}}
+752: {'values_changed': {"root['ground']": {'new_value': 'M. Chinnaswamy Stadium, (Capacity: 40,000)', 'old_value': 'M. Chinnaswamy Stadium, (Capacity: 35,000)'}}}
+767: {'values_changed': {"root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'Chirag gokani'}}}
+768: {'values_changed': {"root['captain']": {'new_value': 'Chirag gokani', 'old_value': 'Virat Kohli'}}}
+769: {'values_changed': {"root['ipl_wins']": {'new_value': '0', 'old_value': '1'}}}
+770: {'values_changed': {"root['ipl_wins']": {'new_value': '1', 'old_value': '0'}}}
+771: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+772: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+775: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Bangalore', 'old_value': 'Jhapa 11'}, "root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'Paras Khadka'}, "root['coach']": {'new_value': 'Simon Katich', 'old_value': 'Pubudu Dasanayake'}, "root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Jhapa'}, "root['owner']": {'new_value': 'United Spirits Limited', 'old_value': 'Rajesh Hamal'}, "root['ground']": {'new_value': 'M. Chinnaswamy Stadium, (Capacity: 35,000)', 'old_value': 'Tudikhel'}}}
+776: {'values_changed': {"root['name']": {'new_value': 'Jhapa 11', 'old_value': 'Royal Challengers Bangalore'}, "root['captain']": {'new_value': 'Paras Khadka', 'old_value': 'Virat Kohli'}, "root['coach']": {'new_value': 'Pubudu Dasanayake', 'old_value': 'Simon Katich'}, "root['city']": {'new_value': 'Jhapa', 'old_value': 'Bangalore, Karnataka, India'}, "root['owner']": {'new_value': 'Rajesh Hamal', 'old_value': 'United Spirits Limited'}, "root['ground']": {'new_value': 'Tudikhel', 'old_value': 'M. Chinnaswamy Stadium, (Capacity: 35,000)'}}}
+808: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 Cricket uniform'}}}
+809: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform'}}}
+815: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}
+816: {'values_changed': {"root['city']": {'new_value': 'Bengaluru, Karnataka, India', 'old_value': 'Bangalore, Karnataka, India'}}}
+820: {'dictionary_item_removed': {"root['league']": 'Indian Premier League'}}
+833: {'values_changed': {"root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 <!--Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2020 Cricket uniform'}}}
+850: {'dictionary_item_added': {"root['colors']": 'File:Royal Challengers Bangalore colours.svg', "root['ipl_wins']": '0', "root['clt20_wins']": '0', "root['pattern_la']": '_yellowborder', "root['pattern_b']": '_black_chest', "root['pattern_ra']": '_yellowborder', "root['leftarm']": '000000', "root['body']": 'FF0000', "root['rightarm']": '000000'}, 'dictionary_item_removed': {"root['title1']": 'Indian Premier League', "root['title2']": 'Champions League Twenty20', "root['title2wins']": '0', "root['t_pattern_la']": '_blackborder', "root['t_pattern_b']": '_rcb22', "root['t_pattern_ra']": '_blackborder', "root['t_leftarm']": '000000', "root['t_body']": 'FF0000', "root['t_rightarm']": '000000', "root['t_pants']": 'FF0000', "root['t_title']": 'T20 kit '}, 'values_changed': {"root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'Faf du Plessis'}, "root['coach']": {'new_value': 'Simon Katich', 'old_value': 'Sanjay Bangar'}, "root['owner']": {'new_value': 'United Spirits Limited', 'old_value': 'United Spirits'}, "root['founded']": {'new_value': '2008', 'old_value': 'Start date and age'}, "root['current']": {'new_value': 'Royal Challengers Bangalore in 2020 Cricket uniform', 'old_value': 'Royal Challengers Bangalore in 2023'}}}
+854: {'values_changed': {"root['ground']": {'new_value': 'M. Chinnaswamy Stadium, (Capacity: 35,000)', 'old_value': 'M. Chinnaswamy Stadium, (Capacity: 40,000)'}}}
+870: {'values_changed': {"root['title2wins']": {'new_value': '0', 'old_value': 'File:Simple silver cup.svg'}}}
+871: {'values_changed': {"root['title2wins']": {'new_value': 'File:Simple silver cup.svg', 'old_value': '0'}}}
+877: {'dictionary_item_added': {"root['title1']": 'Indian Premier League', "root['title2']": 'Champions League Twenty20', "root['title2wins']": '0'}, 'values_changed': {"root['ground']": {'new_value': 'M. Chinnaswamy Stadium, (Capacity: 40,000)', 'old_value': 'M. Chinnaswamy Stadium'}}}
+950: {'dictionary_item_removed': {"root['h_pattern_la']": '_blackborder', "root['h_pattern_b']": '_rcb22', "root['h_pattern_ra']": '_blackborder', "root['h_leftarm']": '000000', "root['h_body']": 'FF0000', "root['h_rightarm']": '000000', "root['h_pants']": 'FF0000', "root['h_title']": 'Regular Cricket clothing and equipment'}}
+951: {'values_changed': {"root['t_body']": {'new_value': 'FF0000', 'old_value': '00ff00'}, "root['t_pants']": {'new_value': 'FF0000', 'old_value': '00ff00'}, "root['t_title']": {'new_value': 'T20 kit ', 'old_value': 'Go Green Initiative kit '}}}
+959: {'values_changed': {"root['t_body']": {'new_value': '00ff00', 'old_value': '00FF00'}, "root['t_pants']": {'new_value': '00ff00', 'old_value': '00FF00'}}}
+989: {'values_changed': {"root['city']": {'new_value': 'Bangalore, Karnataka, India', 'old_value': 'Bengaluru, Karnataka, India'}}}

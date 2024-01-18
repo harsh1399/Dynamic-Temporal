@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['county']": 'Barbados', "root['colors']": 'color box', "root['ground']": 'Kensington Oval', "root['capacity']": '28,000'}}
+1: {'dictionary_item_removed': {"root['coach']": 'Desmond Haynes', "root['founded']": '2013'}}
+6: {'values_changed': {"root['county']": {'new_value': 'Barbados', 'old_value': 'Barbados Tridents'}}}
+7: {'values_changed': {"root['county']": {'new_value': 'Barbados Tridents', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Desmond Haynes', 'old_value': 'flagicon'}}}
+9: {'dictionary_item_removed': {"root['title1']": 'Caribbean Premier League', "root['title1wins']": '0'}}
+19: {'dictionary_item_removed': {"root['captain']": 'flagicon'}}
+61: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '1'}}}
+68: {'dictionary_item_added': {"root['county']": 'flagicon', "root['colors']": 'color box', "root['founded']": '2013'}, 'dictionary_item_removed': {"root['name']": 'Barbados Tridents', "root['colours']": 'color box', "root['owner']": 'Vijay Mallya', "root['t_pattern_la']": '_blueborder', "root['t_pattern_b']": '_yellowcollar', "root['t_pattern_ra']": '_blueborder', "root['t_leftarm']": '00D2FF', "root['t_body']": '0000FF', "root['t_rightarm']": '00D2FF', "root['t_pants']": '0000FF'}, 'values_changed': {"root['capacity']": {'new_value': '28,000', 'old_value': '11,000'}, "root['title1wins']": {'new_value': '1', 'old_value': '1 (2014 Caribbean Premier League'}}}
+99: {'dictionary_item_added': {"root['t_leftarm']": '00D2FF', "root['t_body']": '0000FF', "root['t_rightarm']": '00D2FF', "root['t_pants']": '0000FF'}, 'dictionary_item_removed': {"root['c_pule']": '00D2FF', "root['t_punk']": '0000FF', "root['F_yff']": '00D2FF', "root['t_green']": '0000FF'}}
+100: {'dictionary_item_added': {"root['c_pule']": '00D2FF', "root['t_punk']": '0000FF', "root['F_yff']": '00D2FF', "root['t_green']": '0000FF'}, 'dictionary_item_removed': {"root['t_leftarm']": '00D2FF', "root['t_body']": '0000FF', "root['t_rightarm']": '00D2FF', "root['t_pants']": '0000FF'}}
+105: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya', 'old_value': 'CMG (company)'}}}
+108: {'values_changed': {"root['owner']": {'new_value': 'CMG (company)', 'old_value': 'Vijay Mallya'}}}
+109: {'dictionary_item_removed': {"root['founded']": '2013'}, 'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'TBA'}}}
+110: {'dictionary_item_added': {"root['founded']": '2013'}, 'values_changed': {"root['coach']": {'new_value': 'TBA', 'old_value': 'flagicon'}}}
+111: {'dictionary_item_removed': {"root['founded']": '2013'}}
+113: {'values_changed': {"root['owner']": {'new_value': 'Vijay Mallya', 'old_value': 'Manish Patel(CMG Companies'}}}
+114: {'values_changed': {"root['owner']": {'new_value': 'Manish Patel(CMG Companies', 'old_value': 'Manish Patel(CMG Companies)'}}}
+116: {'values_changed': {"root['owner']": {'new_value': 'Manish Patel(CMG Companies)', 'old_value': 'Manish Patel (CMG Companies)'}}}
+122: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'TBD'}}}
+123: {'values_changed': {"root['coach']": {'new_value': 'TBD', 'old_value': 'Donovan Miller'}}}
+124: {'values_changed': {"root['coach']": {'new_value': 'Donovan Miller', 'old_value': 'TBD'}}}
+125: {'values_changed': {"root['coach']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+133: {'values_changed': {"root['title1wins']": {'new_value': '1 (2014 Caribbean Premier League', 'old_value': '2 (2014 Caribbean Premier League'}}}
+139: {'values_changed': {"root['t_pattern_la']": {'new_value': '_blueborder', 'old_value': '_yellowborder'}, "root['t_pattern_b']": {'new_value': '_yellowcollar', 'old_value': '_upper_blue'}, "root['t_pattern_ra']": {'new_value': '_blueborder', 'old_value': '_yellowborder'}, "root['t_leftarm']": {'new_value': '00D2FF', 'old_value': '00008B'}, "root['t_body']": {'new_value': '0000FF', 'old_value': '0093D0'}, "root['t_rightarm']": {'new_value': '00D2FF', 'old_value': '00008B'}, "root['t_pants']": {'new_value': '0000FF', 'old_value': '00008B'}}}
+140: {'values_changed': {"root['colours']": {'new_value': 'color box', 'old_value': 'File:ঢাকা ডায়নামাইটসের রঙ.svg'}}}
+141: {'values_changed': {"root['colours']": {'new_value': 'File:ঢাকা ডায়নামাইটসের রঙ.svg', 'old_value': 'color box'}}}
+142: {'values_changed': {"root['t_pattern_b']": {'new_value': '_upper_blue', 'old_value': '_upper_darkviolet'}}}
+143: {'values_changed': {"root['t_pattern_b']": {'new_value': '_upper_darkviolet', 'old_value': '_upper_blue'}}}
+144: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'TBD'}}}
+145: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+161: {'dictionary_item_removed': {"root['motto']": "''Let's go Tridents''"}}

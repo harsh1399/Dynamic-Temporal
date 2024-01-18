@@ -1,0 +1,21 @@
+2: {'dictionary_item_removed': {"root['name']": 'Mumbai Indians', "root['logo_image']": 'Mumbai Indians Logo.svg', "root['league']": "Women's Premier League", "root['coach']": 'Charlotte Edwards', "root['city']": 'Mumbai, Maharashtra, India', "root['owner']": 'Indiawin Sports', "root['founded']": 'Start date and age'}}
+3: {'dictionary_item_removed': {"root['captain']": 'To be announced'}}
+10: {'dictionary_item_added': {"root['logo_image']": 'Mumbai Indians Logo.svg'}, 'dictionary_item_removed': {"root['ground']": 'Wankhede stadium Mumbai (Capacity: 33,108)'}}
+11: {'dictionary_item_removed': {"root['logo_image']": 'Mumbai Indians Logo.svg'}}
+26: {'dictionary_item_added': {"root['logo_image']": 'Mumbai Indians Logo.svg'}, 'values_changed': {"root['captain']": {'new_value': 'To be announced', 'old_value': 'TBA'}}}
+32: {'dictionary_item_added': {"root['captain']": 'TBA', "root['ground']": 'Wankhede stadium Mumbai (Capacity: 33,108)'}, 'values_changed': {"root['league']": {'new_value': "Women's Premier League", 'old_value': "Women's Premier League (cricket)"}}}
+38: {'dictionary_item_removed': {"root['logo_image']": 'Mumbai Indians Logo.svg'}}
+42: {'dictionary_item_added': {"root['logo_image']": 'Mumbai Indians Logo.svg'}, 'values_changed': {"root['city']": {'new_value': 'Mumbai, Maharashtra, India', 'old_value': 'Mumbai'}}}
+45: {'dictionary_item_added': {"root['league']": "Women's Premier League (cricket)", "root['city']": 'Mumbai', "root['founded']": 'Start date and age'}, 'dictionary_item_removed': {"root['colours']": 'color box', "root['established']": '2023', "root['title1']": "Women's Premier League (cricket)", "root['title1wins']": '0'}}
+61: {'dictionary_item_removed': {"root['captain']": 'Harmanpreet Kaur'}}
+64: {'dictionary_item_added': {"root['captain']": 'Harmanpreet Kaur'}, 'dictionary_item_removed': {"root['t_pattern_la']": '_bluecuffpiping', "root['t_pattern_b']": '_mi22', "root['t_pattern_ra']": '_bluecuffpiping', "root['t_body']": '0044AA', "root['t_pants']": '0044AA', "root['t_rightarm']": '0044AA', "root['t_leftarm']": '0044AA'}}
+66: {'dictionary_item_removed': {"root['league']": "Women's Premier League"}}
+67: {'values_changed': {"root['league']": {'new_value': "Women's Premier League", 'old_value': "Women's Premier League (cricket)"}}}
+70: {'dictionary_item_removed': {"root['captain']": 'Harmanpreet Kaur'}}
+80: {'dictionary_item_added': {"root['colours']": 'color box'}, 'dictionary_item_removed': {"root['city']": 'Mumbai, Maharashtra', "root['founded']": '2023'}}
+81: {'dictionary_item_added': {"root['founded']": '2023'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+84: {'dictionary_item_removed': {"root['t_pattern_pants']": '_redsides'}, 'values_changed': {"root['t_pattern_b']": {'new_value': '_mi22', 'old_value': '_thinpinksides'}}}
+85: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '1'}}}
+91: {'values_changed': {"root['owner']": {'new_value': 'Indiawin Sports', 'old_value': 'Indiawin Sports Sahil Pandey'}}}
+92: {'values_changed': {"root['owner']": {'new_value': 'Indiawin Sports Sahil Pandey', 'old_value': 'Indiawin Sports'}}}
+94: {'dictionary_item_removed': {"root['Arenas']": 'Brabourne Stadium'}}

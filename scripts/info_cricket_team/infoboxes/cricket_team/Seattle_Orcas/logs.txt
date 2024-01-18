@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Seattle Orcas', "root['league']": 'Major League Cricket', "root['city']": 'Seattle', "root['owner']": 'GMR Group and Satya Nadella', "root['founded']": 'Start date and age', "root['ground']": 'Marymoor Park', "root['capacity']": '6,000 (planned)'}}
+2: {'values_changed': {"root['founded']": {'new_value': 'Start date and age', 'old_value': 'Start date'}}}
+8: {'values_changed': {"root['city']": {'new_value': 'Seattle', 'old_value': 'Seattle, Washington, U.S.'}}}
+21: {'dictionary_item_removed': {"root['colours']": 'color box', "root['notable_players']": ['AUS Mitchell Marsh', 'SA Quinton de Kock', 'IND Harmeet Singh', 'SL Angelo Perera']}, 'values_changed': {"root['owner']": {'new_value': 'GMR Group and Satya Nadella', 'old_value': 'GMR Group<ref name'}}}
+23: {'values_changed': {"root['owner']": {'new_value': 'GMR Group<ref name', 'old_value': 'GMR Group'}}}
+24: {'values_changed': {"root['city']": {'new_value': 'Seattle, Washington, U.S.', 'old_value': 'Seattle, Washington (state)'}}}
+56: {'values_changed': {"root['colours']": {'new_value': 'color box', 'old_value': 'Black, White, and Light Green'}}}
+81: {'values_changed': {"root['owner']": {'new_value': 'GMR Group', 'old_value': 'Samir Bodas, Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group'}}}
+83: {'values_changed': {"root['owner']": {'new_value': 'Samir Bodas, Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group', 'old_value': 'Samir Bodas   Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group'}}}
+84: {'values_changed': {"root['owner']": {'new_value': 'Samir Bodas   Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group', 'old_value': 'Samir Bodas    Ashok Krishnamurthi,  Satya Nadella,  Sanjay Parthasarathy,  S. Somasegar,  GMR Group'}}}
+85: {'values_changed': {"root['owner']": {'new_value': 'Samir Bodas    Ashok Krishnamurthi,  Satya Nadella,  Sanjay Parthasarathy,  S. Somasegar,  GMR Group', 'old_value': 'Samir Bodas  Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group'}}}
+87: {'values_changed': {"root['owner']": {'new_value': 'Samir Bodas  Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group', 'old_value': 'GMR Group'}}}
+88: {'values_changed': {"root['owner']": {'new_value': 'GMR Group', 'old_value': 'Samir Bodas, Ashok Krishnamurthi, Satya Nadella, Sanjay Parthasarathy, S. Somasegar, GMR Group'}}}
+107: {'dictionary_item_removed': {"root['coach']": 'Pravin Amre'}}

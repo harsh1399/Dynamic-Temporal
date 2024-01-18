@@ -1,0 +1,395 @@
+0: {'dictionary_item_removed': {"root['county']": 'Hyderabad Sun Risers', "root['founded']": '2012', "root['current']": '2013 Indian Premier League', "root['ground']": ['Rajiv Gandhi International Cricket Stadium'], "root['title1']": 'Indian Premier League', "root['title1wins']": '0', "root['coach']": 'Darren Lehmann', "root['owner']": 'Sun Network', "root['captain']": 'Dale Steyn'}}
+2: {'values_changed': {"root['county']": {'new_value': 'Hyderabad Sun Risers', 'old_value': 'Sun Risers'}}}
+6: {'values_changed': {"root['captain']": {'new_value': 'Dale Steyn', 'old_value': 'Kumar Sangakkara'}}}
+10: {'dictionary_item_removed': {"root['Previous']": 'Deccan Chargers'}, 'values_changed': {"root['coach']": {'new_value': 'Darren Lehmann', 'old_value': 'Tom Moody'}}}
+14: {'dictionary_item_removed': {"root['title2']": 'Champions League Twenty20', "root['title2wins']": '0'}}
+18: {'values_changed': {"root['county']": {'new_value': 'Sun Risers', 'old_value': 'Sunrisers Hyderabad'}}}
+22: {'dictionary_item_added': {"root['current']": '2013 Indian Premier League'}, 'dictionary_item_removed': {"root['city']": 'Indian Premier League'}}
+23: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Rajiv Gandhi International Cricket Stadium', 'new_value': ['Rajiv Gandhi International Cricket Stadium']}}}
+29: {'values_changed': {"root['owner']": {'new_value': 'Sun Network', 'old_value': 'Kalanidhi Maran, (Chairman & MD - Sun Network)'}, "root['captain']": {'new_value': 'Kumar Sangakkara', 'old_value': 'Yet to be announced'}}}
+39: {'values_changed': {"root['county']": {'new_value': 'Sunrisers Hyderabad', 'old_value': "Sunrisers Hyderabad '''సంరైసెర్స్ హైదరాబాద్ ''"}}}
+42: {'values_changed': {"root['captain']": {'new_value': 'Yet to be announced', 'old_value': 'Kumar Sangakkara'}}}
+55: {'dictionary_item_added': {"root['county']": "Sunrisers Hyderabad '''సంరైసెర్స్ హైదరాబాద్ ''", "root['Previous']": 'Deccan Chargers', "root['title1']": 'Indian Premier League', "root['title1wins']": '0', "root['title2']": 'Champions League Twenty20', "root['title2wins']": '0', "root['coach']": 'Tom Moody'}, 'dictionary_item_removed': {"root['team_name']": 'Sunrisers Hyderabad', "root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్', "root['bg_color']": '#a52e37', "root['text_color']": 'red', "root['colors']": 'File:Sunrisers Hyderabad colours.jpg', "root['capacity']": '55,000', "root['head_coach']": 'Tom Moody', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''", "root['current']": 'Sunrisers Hyderabad in 2014 '}, 'values_changed': {"root['founded']": {'new_value': '2012', 'old_value': '2013'}, "root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium', 'old_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)'}, "root['city']": {'new_value': 'Indian Premier League', 'old_value': 'Hyderabad, Telangana'}, "root['owner']": {'new_value': 'Kalanidhi Maran, (Chairman & MD - Sun Network)', 'old_value': 'Kalanidhi Maran (Sun Network)'}, "root['captain']": {'new_value': 'Kumar Sangakkara', 'old_value': 'Shikhar Dhawan'}}}
+67: {'values_changed': {"root['bg_color']": {'new_value': '#a52e37', 'old_value': 'darkorange'}, "root['text_color']": {'new_value': 'red', 'old_value': 'black'}}}
+81: {'dictionary_item_removed': {"root['logo_image']": 'SunRisers_Hyderabad_Logo.png'}}
+86: {'values_changed': {"root['team_name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+90: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000) Dr. YSR ACA-VDCA Cricket Stadium'}}}
+92: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000) Dr. YSR ACA-VDCA Cricket Stadium', 'old_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000) Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)'}}}
+93: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)', 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)'], 'new_value': 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000) Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)'}}}
+106: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'TBA'}}}
+108: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2014 ', 'old_value': 'Sunrisers Hyderabad in 2015 '}}}
+118: {'dictionary_item_added': {"root['capacity']": '55,000'}, 'iterable_item_added': {"root['ground'][0]": 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)', "root['ground'][1]": 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)'}}
+122: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Eion Morgan'}}}
+123: {'values_changed': {"root['captain']": {'new_value': 'Eion Morgan', 'old_value': 'Eoin Morgan'}}}
+124: {'values_changed': {"root['captain']": {'new_value': 'Eoin Morgan', 'old_value': 'TBC'}}}
+125: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana', 'old_value': 'Hyderabad, Telangana, India'}}}
+132: {'dictionary_item_added': {"root['team_name']": 'SunRisers Hyderabad', "root['logo_image']": 'SunRisers_Hyderabad_Logo.png', "root['bg_color']": 'darkorange', "root['text_color']": 'black', "root['head_coach']": 'Tom Moody', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''"}, 'dictionary_item_removed': {"root['name']": 'SunRisers Hyderabad', "root['coach']": 'Tom Moody', "root['IPLwins']": "'''0'''", "root['clt20wins']": "'''0'''"}, 'values_changed': {"root['founded']": {'new_value': '2013', 'old_value': 'Start date'}}}
+133: {'dictionary_item_added': {"root['name']": 'SunRisers Hyderabad', "root['coach']": 'Tom Moody', "root['IPLwins']": "'''0'''", "root['clt20wins']": "'''0'''"}, 'dictionary_item_removed': {"root['team_name']": 'SunRisers Hyderabad', "root['logo_image']": 'SunRisers_Hyderabad_Logo.png', "root['bg_color']": 'darkorange', "root['text_color']": 'black', "root['head_coach']": 'Tom Moody', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''"}, 'values_changed': {"root['founded']": {'new_value': 'Start date', 'old_value': '2013'}}}
+134: {'dictionary_item_added': {"root['team_name']": 'SunRisers Hyderabad', "root['logo_image']": 'SunRisers_Hyderabad_Logo.png', "root['bg_color']": 'darkorange', "root['text_color']": 'black', "root['head_coach']": 'Tom Moody', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''"}, 'dictionary_item_removed': {"root['name']": 'SunRisers Hyderabad', "root['coach']": 'Tom Moody', "root['IPLwins']": "'''0'''", "root['clt20wins']": "'''0'''"}, 'values_changed': {"root['founded']": {'new_value': '2013', 'old_value': 'Start date'}}}
+135: {'dictionary_item_added': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}, 'dictionary_item_removed': {"root['native_name']": 'సన్ రైజర్స్ హైదరాబాద్', "root['native_name_lang']": 'te'}}
+138: {'dictionary_item_added': {"root['native_name']": 'సన్ రైజర్స్ హైదరాబాద్', "root['native_name_lang']": 'te'}, 'dictionary_item_removed': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}}
+139: {'dictionary_item_added': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}, 'dictionary_item_removed': {"root['native_name']": 'సన్ రైజర్స్ హైదరాబాద్', "root['native_name_lang']": 'te'}}
+160: {'values_changed': {"root['captain']": {'new_value': 'TBC', 'old_value': 'David Warner'}}}
+166: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'David Warner (cricketer)'}}}
+168: {'values_changed': {"root['IPLwins']": {'new_value': "'''0'''", 'old_value': "'''0"}, "root['clt20wins']": {'new_value': "'''0'''", 'old_value': "'''0"}}, 'iterable_item_removed': {"root['ground'][0]": 'Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)', "root['ground'][1]": 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)'}}
+175: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Rajiv Gandhi International Cricket Stadium, (Capacity: 55,000)', 'new_value': ['Rajiv Gandhi International Cricket Stadium (Capacity: 55,000)', 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium (Capacity: 30,000)']}}, 'dictionary_item_removed': {"root['ground2']": 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 30,000)'}}
+279: {'values_changed': {"root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 30,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 38,000)'}}}
+282: {'values_changed': {"root['IPLwins']": {'new_value': "'''0", 'old_value': "'''16"}, "root['clt20wins']": {'new_value': "'''0", 'old_value': "'''3"}}}
+283: {'values_changed': {"root['IPLwins']": {'new_value': "'''16", 'old_value': "'''0"}, "root['clt20wins']": {'new_value': "'''3", 'old_value': "'''0"}}}
+298: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Tom Moody', 'old_value': 'flagicon'}}}
+321: {'values_changed': {"root['owner']": {'new_value': 'Kalanidhi Maran (Sun Network)', 'old_value': 'Sathya Balaju & Seetharam Reddy A (Sun Network)'}, "root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium, (Capacity: 55,000)', 'old_value': 'NES Sports city, (Capacity: 55,000)'}, "root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 38,000)', 'old_value': 'Dr. Fedric D&#252;rr Cricket Stadium, (Capacity: 38,000)'}}}
+323: {'values_changed': {"root['owner']": {'new_value': 'Sathya Balaju & Seetharam Reddy A (Sun Network)', 'old_value': 'Kalanidhi Maran (Sun Network)'}, "root['ground']": {'new_value': 'NES Sports city, (Capacity: 55,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, (Capacity: 55,000)'}, "root['ground2']": {'new_value': 'Dr. Fedric D&#252;rr Cricket Stadium, (Capacity: 38,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 38,000)'}}}
+332: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Shikhar Dhawan'}}}
+333: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'flagicon'}}}
+356: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana, India', 'old_value': 'Hyderabad, Telangana, India                     Visakhapatnam, Andhra Pradesh, India.'}}}
+357: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana, India                     Visakhapatnam, Andhra Pradesh, India.', 'old_value': 'Hyderabad, Telangana, India'}}}
+498: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium, (Capacity: 55,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad., (Capacity: 55,000)'}, "root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, (Capacity: 38,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam., (Capacity: 38,000)'}}}
+499: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad., (Capacity: 55,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}, "root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam., (Capacity: 38,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam, (Capacity: 38,000)'}}}
+513: {'values_changed': {"root['IPLwins']": {'new_value': "'''0", 'old_value': "'''3"}, "root['clt20wins']": {'new_value': "'''0", 'old_value': "'''3"}}}
+514: {'values_changed': {"root['IPLwins']": {'new_value': "'''3", 'old_value': "'''1(2013"}, "root['clt20wins']": {'new_value': "'''3", 'old_value': "'''0"}}}
+515: {'values_changed': {"root['IPLwins']": {'new_value': "'''1(2013", 'old_value': "'''1(2013)"}}}
+516: {'values_changed': {"root['IPLwins']": {'new_value': "'''1(2013)", 'old_value': "'''0"}}}
+579: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 33,000)'}}}
+586: {'values_changed': {"root['ground']": {'new_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 33,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}}}
+587: {'values_changed': {"root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam, (Capacity: 38,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam, (Capacity: 30,000)'}}}
+593: {'dictionary_item_removed': {"root['alt_name']": 'سن رائزرز حیدرآباد'}}
+594: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'David Warner (cricketer)'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Tom Moody'}}}
+597: {'dictionary_item_added': {"root['alt_name']": 'سن رائزرز حیدرآباد', "root['native_name']": 'సన్ రైజర్స్ హైదరాబాద్', "root['native_name_lang']": 'te'}, 'values_changed': {"root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Vishakapatnam, (Capacity: 30,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, (Capacity: 30,000)'}}}
+598: {'dictionary_item_removed': {"root['alt_name']": 'సన్రైజర్స్ హైదరాబాద్, سن رائزرز حیدرآباد'}}
+600: {'dictionary_item_added': {"root['alt_name']": 'సన్రైజర్స్ హైదరాబాద్, سن رائزرز حیدرآباد'}, 'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'SunRisers Secunderabad'}}}
+601: {'values_changed': {"root['name']": {'new_value': 'SunRisers Secunderabad', 'old_value': 'SunRisers Hyderabad the best team ever in cricket'}}}
+602: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad the best team ever in cricket', 'old_value': 'SunRisers Secunderabad'}}}
+603: {'values_changed': {"root['name']": {'new_value': 'SunRisers Secunderabad', 'old_value': 'SunRisers Hyderabad'}}}
+614: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2015 ', 'old_value': 'Sunrisers Hyderabad in 2016 '}}}
+642: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2016 ', 'old_value': 'hyde_2016 '}}}
+643: {'values_changed': {"root['current']": {'new_value': 'hyde_2016 ', 'old_value': 'Sunrisers Hyderabad in 2016 '}}}
+644: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2016 ', 'old_value': 'hyde_2016 '}}}
+645: {'values_changed': {"root['current']": {'new_value': 'hyde_2016 ', 'old_value': 'Sunrisers Hyderabad in 2016 '}}}
+646: {'dictionary_item_removed': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}}
+664: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Tom Moody (Head Coach) ,  V. V. S. Laxman (Mentor) Muttiah Muralitharan (Bowling'}}}
+665: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody (Head Coach) ,  V. V. S. Laxman (Mentor) Muttiah Muralitharan (Bowling', 'old_value': 'Tom Moody (Head Coach) ,  V. V. S. Laxman (Mentor) Muttiah Muralitharan (Bowling & Mentor)'}}}
+674: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Tom Moody (Head Coach) ,  V. V. S. Laxman (Mentor) Muttiah Muralitharan (Bowling & Mentor)', 'old_value': 'Tom Moody (small'}}}
+675: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody (small', 'old_value': 'flagicon'}}}
+700: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'David Warner (cricketer)'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Tom Moody'}}}
+711: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Sunrisers Hyderabad'}}}
+717: {'values_changed': {"root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, (Capacity: 30,000)', 'old_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, (Capacity: 38,000)'}}}
+749: {'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'Sunrisers Vizag'}, "root['alt_name']": {'new_value': 'సన్ రైజర్స్ హైదరాబాద్', 'old_value': 'సన్ రైజర్స్ Vizag'}, "root['city']": {'new_value': 'Hyderabad, Telangana, India', 'old_value': 'Vizag, Andhra Pradesh, India'}, "root['ground2']": {'new_value': 'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam, (Capacity: 38,000)', 'old_value': 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}}}
+752: {'dictionary_item_added': {"root['ground2']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)', "root['ground']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}, 'dictionary_item_removed': {"root['dissolved']": 'ground'}, 'values_changed': {"root['name']": {'new_value': 'Sunrisers Vizag', 'old_value': 'Sunrisers Hyderabad'}, "root['alt_name']": {'new_value': 'సన్ రైజర్స్ Vizag', 'old_value': 'సన్ రైజర్స్ Hyderabad'}, "root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Tom Moody   Mentor'}, "root['city']": {'new_value': 'Vizag, Andhra Pradesh, India', 'old_value': 'Hyderabad, Telangana State, India'}}}
+753: {'dictionary_item_added': {"root['dissolved']": 'ground'}, 'dictionary_item_removed': {"root['Ground']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}}
+754: {'dictionary_item_removed': {"root['Home']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)'}}
+758: {'dictionary_item_added': {"root['alt_name']": 'సన్ రైజర్స్ Hyderabad', "root['Home']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)', "root['Ground']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad, (Capacity: 55,000)', "root['clt20wins']": "'''0"}, 'dictionary_item_removed': {"root['ground']": 'Rajiv Gandhi International Cricket Stadium, Hyderabad', "root['capacity']": '55,000'}, 'values_changed': {"root['coach']": {'new_value': 'Tom Moody   Mentor', 'old_value': 'Tom Moody'}, "root['founded']": {'new_value': 'Start date', 'old_value': '2012'}}}
+772: {'dictionary_item_removed': {"root['alt_name']": 'సున్రిసేర్స్ హైదరాబాద్'}}
+773: {'values_changed': {"root['alt_name']": {'new_value': 'సున్రిసేర్స్ హైదరాబాద్', 'old_value': 'సన్రైజర్స్ హైదరాబాద్'}}}
+774: {'values_changed': {"root['alt_name']": {'new_value': 'సన్రైజర్స్ హైదరాబాద్', 'old_value': 'సన్ రైజర్స్ హైదరాబాద్'}}}
+787: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana State, India', 'old_value': 'Hyderabad, Telangana, India'}}}
+791: {'values_changed': {"root['alt_name']": {'new_value': 'సన్ రైజర్స్ హైదరాబాద్', 'old_value': 'سن رائزرز حیدرآباد సన్ రైజర్స్ హైదరాబాద్'}}}
+798: {'values_changed': {"root['alt_name']": {'new_value': 'سن رائزرز حیدرآباد సన్ రైజర్స్ హైదరాబాద్', 'old_value': 'SunRisers Hyderabad.png'}}}
+800: {'dictionary_item_added': {"root['alt_name']": 'SunRisers Hyderabad.png'}, 'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '65,000'}}}
+803: {'dictionary_item_added': {"root['colors']": 'File:Sunrisers Hyderabad colours.jpg'}, 'dictionary_item_removed': {"root['colours']": 'File:Sunrisers Hyderabad'}}
+814: {'dictionary_item_removed': {"root['alt_name']": 'SunRisers_Hyderabad_Logo.png'}}
+817: {'values_changed': {"root['alt_name']": {'new_value': 'SunRisers_Hyderabad_Logo.png', 'old_value': 'సన్ రైజర్స్ హైదరాబాద్'}}}
+853: {'values_changed': {"root['capacity']": {'new_value': '65,000', 'old_value': '55,00'}}}
+854: {'values_changed': {"root['capacity']": {'new_value': '55,00', 'old_value': '55,000'}}}
+879: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana, India', 'old_value': 'Hyderabad, Telangana/Andhra PradeshIndia'}}}
+880: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana/Andhra PradeshIndia', 'old_value': 'Hyderabad, Telangana, India'}}}
+936: {'values_changed': {"root['IPLwins']": {'new_value': "'''0", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+968: {'dictionary_item_added': {"root['IPLwins']": "'''1''' (2016 Indian Premier League"}, 'dictionary_item_removed': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium, Vizag', "root['ipl_wins']": "'''1'''  (2016 Indian Premier League"}, 'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}, "root['owner']": {'new_value': 'Kalanidhi Maran (Sun Network)', 'old_value': 'Kalanithi Maran, (Sun Group)'}, "root['current']": {'new_value': 'Sunrisers Hyderabad in 2016 ', 'old_value': 'Sunrisers Hyderabad in 2018 '}}}
+976: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'TBA'}}}
+986: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody', 'old_value': 'flagicon'}}}
+987: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'flagicon'}}}
+988: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'TBA'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Tom Moody'}}}
+989: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'David Warner (cricketer)'}}}
+996: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'Virat Kohli'}}}
+997: {'values_changed': {"root['captain']": {'new_value': 'Virat Kohli', 'old_value': 'David Warner (cricketer)'}}}
+1022: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1'''  (2016 Indian Premier League", 'old_value': "'''2''' (1 as Deccan Chargers)  (2009 Indian Premier League"}}}
+1023: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (1 as Deccan Chargers)  (2009 Indian Premier League", 'old_value': "'''1'''  (2016 Indian Premier League"}}}
+1028: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'Manish Pandey (cricketer)'}}}
+1032: {'values_changed': {"root['captain']": {'new_value': 'Manish Pandey (cricketer)', 'old_value': 'David Andrew Warner'}}}
+1034: {'dictionary_item_removed': {"root['Vice']": 'Manish Panday'}}
+1035: {'values_changed': {"root['captain']": {'new_value': 'David Andrew Warner', 'old_value': 'David Warner'}}}
+1036: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Great adarsh teddy'}, "root['Vice']": {'new_value': 'Manish Panday', 'old_value': 'manish Panday'}, "root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Syed'}}}
+1037: {'values_changed': {"root['captain']": {'new_value': 'Great adarsh teddy', 'old_value': 'David Warner'}, "root['Vice']": {'new_value': 'manish Panday', 'old_value': 'Manish Panday'}, "root['coach']": {'new_value': 'Syed', 'old_value': 'Tom Moody'}}}
+1038: {'dictionary_item_added': {"root['Vice']": 'Manish Panday'}, 'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'David Warner (cricketer)'}}}
+1039: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Venkat ravi Chrompet'}}}
+1047: {'values_changed': {"root['coach']": {'new_value': 'Venkat ravi Chrompet', 'old_value': 'Tom Moody'}}}
+1059: {'dictionary_item_added': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium, Vizag'}, 'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'Shikhar Dhawan (cricketer)'}}}
+1060: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan (cricketer)', 'old_value': 'David Warner(cricketer)'}}}
+1061: {'values_changed': {"root['captain']": {'new_value': 'David Warner(cricketer)', 'old_value': 'David Warner (cricketer)'}}}
+1072: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Sunrisers Hyderabad'}, "root['alt_name']": {'new_value': 'సన్ రైజర్స్ హైదరాబాద్', 'old_value': 'సన్ రైజర్స్ హైదరాబాద్                     Nastaliq'}}}
+1073: {'dictionary_item_added': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్                     Nastaliq'}, 'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+1077: {'dictionary_item_removed': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}}
+1084: {'dictionary_item_added': {"root['alt_name']": 'సన్ రైజర్స్ హైదరాబాద్'}, 'dictionary_item_removed': {"root['t_pattern_b']": '_collarblack', "root['t_leftarm']": '000000', "root['t_body']": 'ff6f00', "root['t_rightarm']": '000000', "root['t_pants']": '000000 '}, 'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2018 ', 'old_value': 'Sunrisers Hyderabad in 2018'}}}
+1090: {'dictionary_item_removed': {"root['alt_name']": 'SRH', "root['Vice']": 'Shikhar Dhawan'}, 'values_changed': {"root['t_pants']": {'new_value': '000000 ', 'old_value': '000000'}}}
+1091: {'dictionary_item_added': {"root['alt_name']": 'SRH', "root['Vice']": 'Shikhar Dhawan'}, 'values_changed': {"root['t_pants']": {'new_value': '000000', 'old_value': '000000 '}}}
+1098: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'Manish Pandey(cricketer)'}}}
+1100: {'values_changed': {"root['captain']": {'new_value': 'Manish Pandey(cricketer)', 'old_value': 'Shikhar Dhawan(cricketer)'}}}
+1101: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan(cricketer)', 'old_value': 'Yusuf Pathan'}}}
+1102: {'values_changed': {"root['captain']": {'new_value': 'Yusuf Pathan', 'old_value': 'David Warner (cricketer)'}}}
+1107: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran, (Sun Group)', 'old_value': 'Sun Group'}}}
+1112: {'values_changed': {"root['captain']": {'new_value': 'David Warner (cricketer)', 'old_value': 'Shikhar Dhawan'}}}
+1114: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'Kane Williamson'}}}
+1117: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner  (not for sure after the ball tampering case,will be decided after the Cricket Australia report)'}}}
+1119: {'values_changed': {"root['captain']": {'new_value': 'David Warner  (not for sure after the ball tampering case,will be decided after the Cricket Australia report)', 'old_value': 'David Warner'}}}
+1121: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Kane Williamson'}}}
+1122: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner'}}}
+1127: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'TBA'}}}
+1128: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Not David Warner'}}}
+1130: {'values_changed': {"root['captain']": {'new_value': 'Not David Warner', 'old_value': 'No Captain'}}}
+1131: {'values_changed': {"root['captain']": {'new_value': 'No Captain', 'old_value': 'Vacant'}}}
+1133: {'values_changed': {"root['captain']": {'new_value': 'Vacant', 'old_value': 'Jadeja'}}}
+1134: {'values_changed': {"root['captain']": {'new_value': 'Jadeja', 'old_value': 'TBA'}}}
+1135: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Ravindra Jadeja'}}}
+1136: {'values_changed': {"root['captain']": {'new_value': 'Ravindra Jadeja', 'old_value': 'Williams'}}}
+1137: {'values_changed': {"root['captain']": {'new_value': 'Williams', 'old_value': 'Kane Williamson'}}}
+1139: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'TBA'}}}
+1149: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Kane Williamson'}}}
+1150: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'TBA'}}}
+1151: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Shikhar Dhawan'}}}
+1152: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'TBA'}}}
+1153: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Kane Williamson'}}}
+1154: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'TBA'}}}
+1155: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Mahendra Singh Dhoni'}}}
+1156: {'values_changed': {"root['captain']": {'new_value': 'Mahendra Singh Dhoni', 'old_value': 'Kane Williamson'}}}
+1157: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'TBA'}}}
+1159: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Kane Williamson'}}}
+1161: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Shikhar Dhawan'}}}
+1162: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'Mohammed Nabi'}}}
+1164: {'values_changed': {"root['captain']": {'new_value': 'Mohammed Nabi', 'old_value': 'Shikhar Dhawan'}}}
+1165: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'Kane Williamson'}}}
+1166: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'TBD'}}}
+1169: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Manish Pandey'}}}
+1170: {'values_changed': {"root['captain']": {'new_value': 'Manish Pandey', 'old_value': 'TBD'}}}
+1174: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Kane Williamson'}}}
+1176: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Shikar Dhawan'}}}
+1177: {'values_changed': {"root['captain']": {'new_value': 'Shikar Dhawan', 'old_value': 'Shikhar Dhawan'}}}
+1180: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'Kane Willamson'}}}
+1183: {'values_changed': {"root['captain']": {'new_value': 'Kane Willamson', 'old_value': 'Kane Williamson'}}}
+1191: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Shikhar Dhawan'}}}
+1192: {'values_changed': {"root['captain']": {'new_value': 'Shikhar Dhawan', 'old_value': 'Kane Williamson'}}}
+1198: {'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '60,000'}}}
+1199: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Alex Hales'}}}
+1200: {'values_changed': {"root['captain']": {'new_value': 'Alex Hales', 'old_value': 'kane williamson'}}}
+1201: {'values_changed': {"root['captain']": {'new_value': 'kane williamson', 'old_value': 'Kane Williamson'}}}
+1204: {'dictionary_item_removed': {"root['vice']": 'Bhuvneshwar Kumar'}}
+1209: {'dictionary_item_added': {"root['vice']": 'Bhuvneshwar Kumar'}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner, Kane Williamson (IPL 2018)'}}}
+1211: {'dictionary_item_removed': {"root['vice']": 'Bhuvneshwar Kumar'}, 'values_changed': {"root['captain']": {'new_value': 'David Warner, Kane Williamson (IPL 2018)', 'old_value': 'Kane Williamson'}}}
+1214: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Nicolas Bendtner'}}}
+1215: {'values_changed': {"root['captain']": {'new_value': 'Nicolas Bendtner', 'old_value': 'Kane Williamson'}}}
+1216: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Nicklas Bendtner'}}}
+1217: {'values_changed': {"root['captain']": {'new_value': 'Nicklas Bendtner', 'old_value': 'Kane Williamson'}}}
+1222: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Alex Hales<ref name'}}}
+1232: {'dictionary_item_added': {"root['ipl_wins']": "'''1'''  (2016 Indian Premier League"}, 'values_changed': {"root['captain']": {'new_value': 'Alex Hales<ref name', 'old_value': 'Kane Williamson<ref name'}}}
+1233: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson<ref name', 'old_value': 'Alex Hales<ref name'}}}
+1235: {'values_changed': {"root['captain']": {'new_value': 'Alex Hales<ref name', 'old_value': 'Kane Williamson<ref name'}}}
+1236: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson<ref name', 'old_value': 'Alex Hales<ref name'}}}
+1237: {'values_changed': {"root['captain']": {'new_value': 'Alex Hales<ref name', 'old_value': 'Kane Williamson<ref name'}}}
+1261: {'dictionary_item_added': {"root['vice']": 'Bhuvneshwar Kumar'}, 'values_changed': {"root['colours']": {'new_value': 'File:Sunrisers Hyderabad', 'old_value': 'File:Sunrisers Hyderabad Colours.jpg'}}}
+1286: {'values_changed': {"root['founded']": {'new_value': '2012', 'old_value': '2018'}}}
+1287: {'values_changed': {"root['founded']": {'new_value': '2018', 'old_value': '2012'}}}
+1321: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'The Great SunRisers Hyderabad'}}}
+1322: {'values_changed': {"root['name']": {'new_value': 'The Great SunRisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+1450: {'values_changed': {"root['t_pattern_b']": {'new_value': '_collarblack', 'old_value': '_yellowshoulders'}}}
+1451: {'dictionary_item_removed': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium, Visakhapatnam', "root['capacity2']": '50,000', "root['ipl_wins']": "'''1'''  (2016 Indian Premier League"}, 'values_changed': {"root['founded']": {'new_value': '2012', 'old_value': 'Start date and age'}}}
+1456: {'dictionary_item_removed': {"root['clt20_wins']": "'''0'''"}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson<ref name', 'old_value': 'Kane Williamson'}}}
+1570: {'dictionary_item_added': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium, Visakhapatnam', "root['capacity2']": '50,000'}, 'values_changed': {"root['ipl_wins']": {'new_value': "'''1'''  (2016 Indian Premier League", 'old_value': "'''2'''  (2009 Indian Premier League"}}}
+1571: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2'''  (2009 Indian Premier League", 'old_value': "'''1'''  (2016 Indian Premier League"}}}
+1585: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1'''  (2016 Indian Premier League", 'old_value': "'''2''' as deccann chargers  (2016 Indian Premier League"}}}
+1586: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' as deccann chargers  (2016 Indian Premier League", 'old_value': "'''2''' one as deccan chargers  (2016 Indian Premier League"}}}
+1587: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' one as deccan chargers  (2016 Indian Premier League", 'old_value': "'''2''' (one as deccan chargers)  (2016 Indian Premier League"}}}
+1588: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (one as deccan chargers)  (2016 Indian Premier League", 'old_value': "'''2''' (for Hyderbad's franchise as a whole )  (2016 Indian Premier League"}}}
+1590: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (for Hyderbad's franchise as a whole )  (2016 Indian Premier League", 'old_value': "'''2''' (for Hyderabad's franchise as a whole )  (2016 Indian Premier League"}}}
+1591: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (for Hyderabad's franchise as a whole )  (2016 Indian Premier League", 'old_value': "''1''  (2016 Indian Premier League"}}}
+1593: {'values_changed': {"root['ipl_wins']": {'new_value': "''1''  (2016 Indian Premier League", 'old_value': "'''1'''  (2016 Indian Premier League"}}}
+1614: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1'''  (2016 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1618: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''2''' (2009 Indian Premier League"}}}
+1619: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2009 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1632: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'SunRisers Hyderabad (సన్ రైజర్స్ హైదరాబాద్)'}}}
+1633: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad (సన్ రైజర్స్ హైదరాబాద్)', 'old_value': 'SunRisers Hyderabad'}}}
+1640: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Rashid Khan'}, "root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''1''' (2018 Indian Premier League"}}}
+1641: {'values_changed': {"root['captain']": {'new_value': 'Rashid Khan', 'old_value': 'Kane Williamson'}, "root['ipl_wins']": {'new_value': "'''1''' (2018 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1643: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Ommi Gangawane'}}}
+1644: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Ommi Gangawane'}}}
+1645: {'values_changed': {"root['name']": {'new_value': 'Ommi Gangawane', 'old_value': 'Sunrisers Hyderabad'}, "root['captain']": {'new_value': 'Ommi Gangawane', 'old_value': 'Kane Williamson'}}}
+1653: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2018', 'old_value': 'Sunrisers Hyderabad in 2018 '}, "root['t_pants']": {'new_value': '000000 ', 'old_value': '000000'}}}
+1667: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'New Captain yet to be announced'}}}
+1668: {'values_changed': {"root['captain']": {'new_value': 'New Captain yet to be announced', 'old_value': 'Kane Williamson'}}}
+1669: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2018 ', 'old_value': 'Sunrisers Hyderabad in 2019 '}}}
+1672: {'values_changed': {"root['owner']": {'new_value': 'Sun Group', 'old_value': 'Kalanithi Maran'}}}
+1673: {'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'Juventus'}}}
+1674: {'values_changed': {"root['name']": {'new_value': 'Juventus', 'old_value': 'Sunrisers Hyderabad'}}}
+1809: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''2''' (2016 Indian Premier League"}}}
+1810: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2016 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1831: {'dictionary_item_added': {"root['clt20_wins']": "'''0'''"}, 'values_changed': {"root['t_body']": {'new_value': 'ff6f00', 'old_value': 'FF6F00'}}}
+1832: {'values_changed': {"root['t_body']": {'new_value': 'FF6F00', 'old_value': 'FF6600'}}}
+1833: {'values_changed': {"root['t_body']": {'new_value': 'FF6600', 'old_value': 'FF4F00'}}}
+1834: {'values_changed': {"root['t_body']": {'new_value': 'FF4F00', 'old_value': 'FF6600'}}}
+1836: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran', 'old_value': 'Kalanithi Maran,Keshav Bansal'}}}
+1839: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran,Keshav Bansal', 'old_value': 'Kalanithi Maran'}}}
+1840: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran', 'old_value': 'Kalanithi Maran (SUN Group)'}}}
+1854: {'values_changed': {"root['capacity']": {'new_value': '60,000', 'old_value': '45,000'}}}
+1856: {'values_changed': {"root['capacity']": {'new_value': '45,000', 'old_value': '55,000'}}}
+1870: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'DAVID WARNER'}}}
+1873: {'values_changed': {"root['captain']": {'new_value': 'DAVID WARNER', 'old_value': 'Kane Williamson'}}}
+1875: {'dictionary_item_removed': {"root['Merchandise']": 'URL'}}
+1878: {'dictionary_item_added': {"root['Merchandise']": 'URL'}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner'}}}
+1885: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Kane Williamson'}}}
+1891: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner'}}}
+1892: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Kane Williamson'}}}
+1895: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Shakib Al Hasan'}}}
+1896: {'values_changed': {"root['t_leftarm']": {'new_value': '000000', 'old_value': '000007'}, "root['t_body']": {'new_value': 'FF6600', 'old_value': '000003'}, "root['t_rightarm']": {'new_value': '000000', 'old_value': '000894'}, "root['t_pants']": {'new_value': '000000', 'old_value': '000079'}}}
+1897: {'values_changed': {"root['captain']": {'new_value': 'Shakib Al Hasan', 'old_value': 'Kane Williamson'}}}
+1898: {'values_changed': {"root['t_leftarm']": {'new_value': '000007', 'old_value': '000000'}, "root['t_body']": {'new_value': '000003', 'old_value': 'ff6600'}, "root['t_rightarm']": {'new_value': '000894', 'old_value': '000000'}, "root['t_pants']": {'new_value': '000079', 'old_value': '000000'}}}
+1915: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Kane'}, "root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Paul Bearer'}}}
+1916: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''2''' (2016 Indian Premier League"}}}
+1918: {'values_changed': {"root['captain']": {'new_value': 'Kane', 'old_value': 'Kane (wrestler)'}}}
+1920: {'values_changed': {"root['captain']": {'new_value': 'Kane (wrestler)', 'old_value': 'Kane Williamson'}, "root['coach']": {'new_value': 'Paul Bearer', 'old_value': 'Tom Moody'}}}
+1925: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Cristiano Ronaldo'}}}
+1926: {'values_changed': {"root['captain']": {'new_value': 'Cristiano Ronaldo', 'old_value': 'Kane Williamson'}}}
+1927: {'values_changed': {"root['t_body']": {'new_value': 'ff6600', 'old_value': 'gg6700'}, "root['t_rightarm']": {'new_value': '000000', 'old_value': 'ff0000'}}}
+1928: {'values_changed': {"root['t_body']": {'new_value': 'gg6700', 'old_value': 'ff6600'}, "root['t_rightarm']": {'new_value': 'ff0000', 'old_value': '000000'}}}
+1929: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Sripad Dyavarshetty'}}}
+1930: {'values_changed': {"root['captain']": {'new_value': 'Sripad Dyavarshetty', 'old_value': 'Kane Williamson'}}}
+1932: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2016 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1949: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'bhuvneshwar kumar'}}}
+1950: {'values_changed': {"root['captain']": {'new_value': 'bhuvneshwar kumar', 'old_value': 'Kane Williamson'}}}
+1953: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''2''' (2009 Indian Premier League"}}}
+1954: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2009 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1955: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''2''' (2009 2016Indian Premier League"}}}
+1956: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2009 2016Indian Premier League", 'old_value': "'''2''' (2009&2016Indian Premier League"}}}
+1959: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2''' (2009&2016Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+1961: {'dictionary_item_removed': {"root['alt_name']": 'SRH'}, 'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+1970: {'dictionary_item_added': {"root['alt_name']": 'SRH'}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Bhuvneshwar Kumar'}}}
+1971: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'Kane Williamson'}}}
+1986: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Bhuneshwar Kumar'}}}
+1987: {'values_changed': {"root['captain']": {'new_value': 'Bhuneshwar Kumar', 'old_value': 'Bhuvneshwar Kumar'}}}
+1988: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'Kane Williamson'}}}
+2025: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Bhuvaneshwar Kumar'}}}
+2026: {'dictionary_item_added': {"root['coach']": 'Tom Moody'}, 'values_changed': {"root['captain']": {'new_value': 'Bhuvaneshwar Kumar', 'old_value': 'Bhuvneshwar Kumar'}}}
+2027: {'dictionary_item_removed': {"root['Formed']": 'Deccan Chargers'}}
+2028: {'dictionary_item_added': {"root['Formed']": 'Deccan Chargers'}, 'dictionary_item_removed': {"root['coach']": 'Tom Moody'}, 'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'Kane Williamson'}}}
+2044: {'dictionary_item_added': {"root['captain']": 'Kane Williamson'}, 'dictionary_item_removed': {"root['captains']": 'Kane Williamson, David Warner, Bhuvneshwar Kumar'}}
+2045: {'dictionary_item_added': {"root['captains']": 'Kane Williamson, David Warner, Bhuvneshwar Kumar'}, 'dictionary_item_removed': {"root['captain']": 'Kane Williamson'}}
+2046: {'dictionary_item_removed': {"root['alt_name']": 'SRH'}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner'}}}
+2047: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Kane Williamson'}}}
+2050: {'dictionary_item_added': {"root['alt_name']": 'SRH'}, 'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran (SUN Group)', 'old_value': 'ledu shukla (SUN Group)'}}}
+2051: {'values_changed': {"root['owner']": {'new_value': 'ledu shukla (SUN Group)', 'old_value': 'Kalanithi Maran (SUN Group)'}}}
+2060: {'dictionary_item_removed': {"root['Vice']": 'Bhuvneshwar Kumar'}, 'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2019 ', 'old_value': 'Sunrisers Hyderabad in 2019'}}}
+2061: {'dictionary_item_added': {"root['ipl_wins']": "'''1''' (2016 Indian Premier League"}, 'dictionary_item_removed': {"root['adviser']": 'VVS Laxman'}}
+2062: {'values_changed': {"root['adviser']": {'new_value': 'VVS Laxman', 'old_value': 'V._V._S._Laxman'}}}
+2063: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Kane Williamson Bhuvneshwar Kumar (Stand by)'}}}
+2064: {'values_changed': {"root['adviser']": {'new_value': 'V._V._S._Laxman', 'old_value': 'V.V.S.Laxman'}}}
+2067: {'dictionary_item_added': {"root['adviser']": 'V.V.S.Laxman', "root['Vice']": 'Bhuvneshwar Kumar'}, 'dictionary_item_removed': {"root['ipl_wins']": "'''1''' (2016 Indian Premier League"}, 'values_changed': {"root['captain']": {'new_value': 'Kane Williamson Bhuvneshwar Kumar (Stand by)', 'old_value': 'Kane Williamson'}, "root['current']": {'new_value': 'Sunrisers Hyderabad in 2019', 'old_value': 'Sunrisers Hyderabad in 2019 '}}}
+2068: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Prapul Kumar DVS'}, "root['coach']": {'new_value': 'Tom Moody', 'old_value': 'A Chandra Mohan'}, "root['owner']": {'new_value': 'Kalanithi Maran (SUN Group)', 'old_value': 'Sai Krishna Jakileti (SUN Group)'}}}
+2070: {'values_changed': {"root['captain']": {'new_value': 'Prapul Kumar DVS', 'old_value': 'Sowmya Dosapati'}}}
+2071: {'values_changed': {"root['captain']": {'new_value': 'Sowmya Dosapati', 'old_value': 'Power Star Pawan Kalyan'}, "root['coach']": {'new_value': 'A Chandra Mohan', 'old_value': 'Tom Moody'}, "root['owner']": {'new_value': 'Sai Krishna Jakileti (SUN Group)', 'old_value': '(SUN Group)'}}}
+2072: {'values_changed': {"root['captain']": {'new_value': 'Power Star Pawan Kalyan', 'old_value': 'Pawan Kalyan'}}}
+2073: {'values_changed': {"root['captain']": {'new_value': 'Pawan Kalyan', 'old_value': 'Kane Williamson'}}}
+2080: {'dictionary_item_removed': {"root['alt_name']": 'సుంరిసెర్స్ హైదరాబాద్'}}
+2084: {'values_changed': {"root['alt_name']": {'new_value': 'సుంరిసెర్స్ హైదరాబాద్', 'old_value': 'సన్ ర్ఐజర్స  హైదరాబాద్'}}}
+2092: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'David Warner'}}}
+2095: {'values_changed': {"root['captain']": {'new_value': 'David Warner', 'old_value': 'Kane Williamson'}}}
+2096: {'values_changed': {"root['alt_name']": {'new_value': 'సన్ ర్ఐజర్స  హైదరాబాద్', 'old_value': 'సన్\u200cరైజర్స్ హైదరాబాద్'}}}
+2099: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Sunrisers Hyderabad'}}}
+2102: {'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+2104: {'values_changed': {"root['owner']": {'new_value': '(SUN Group)', 'old_value': 'Kalanithi Maran (SUN Group)'}}}
+2128: {'dictionary_item_added': {"root['alt_name']": 'సన్\u200cరైజర్స్ హైదరాబాద్'}, 'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "''2'' (2016 Indian Premier League"}}}
+2130: {'dictionary_item_removed': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium', "root['capacity2']": '27,500'}, 'values_changed': {"root['ipl_wins']": {'new_value': "''2'' (2016 Indian Premier League", 'old_value': "''1'' (2016 Indian Premier League"}}}
+2134: {'values_changed': {"root['ipl_wins']": {'new_value': "''1'' (2016 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+2157: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana, India', 'old_value': 'Hyderabad, Telanganastate, India'}}}
+2161: {'dictionary_item_added': {"root['ground2']": 'Dr. Y. S. Rajasekhara Reddy ACA–VDCA Cricket Stadium', "root['capacity2']": '27,500'}, 'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telanganastate, India', 'old_value': 'Hyderabad, Telangana, India'}}}
+2162: {'values_changed': {"root['city']": {'new_value': 'Hyderabad, Telangana, India', 'old_value': 'Hyderabad, Telanganastate, India'}}}
+2164: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Trevor Bayliss'}, "root['city']": {'new_value': 'Hyderabad, Telanganastate, India', 'old_value': 'Hyderabad, Telangana, India'}}}
+2176: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran (SUN Group)', 'old_value': 'Kalanithi Maran'}}}
+2200: {'values_changed': {"root['owner']": {'new_value': 'Kalanithi Maran', 'old_value': 'Sun TV Network'}}}
+2219: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Vijay Shankar'}}}
+2220: {'values_changed': {"root['captain']": {'new_value': 'Vijay Shankar', 'old_value': 'David Miller'}}}
+2221: {'values_changed': {"root['captain']": {'new_value': 'David Miller', 'old_value': 'Kane Williamson'}}}
+2229: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2019 ', 'old_value': 'Sunrisers Hyderabad in 2020 '}}}
+2235: {'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Sunrisers Hyderabad'}}}
+2236: {'values_changed': {"root['name']": {'new_value': 'Sunrisers Hyderabad', 'old_value': 'SunRisers Hyderabad'}}}
+2238: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Muhammad Ali'}}}
+2240: {'values_changed': {"root['captain']": {'new_value': 'Muhammad Ali', 'old_value': 'Kane Williamson'}}}
+2263: {'dictionary_item_removed': {"root['league']": 'Indian Premier League'}, 'values_changed': {"root['name']": {'new_value': 'SunRisers Hyderabad', 'old_value': 'Sunrisers Hyderabad'}, "root['owner']": {'new_value': 'Sun TV Network', 'old_value': 'SUN Group'}, "root['current']": {'new_value': 'Sunrisers Hyderabad in 2020 ', 'old_value': 'Sunrisers Hyderabad in 2022 '}}}
+2358: {'dictionary_item_added': {"root['colours']": 'File:Sunrisers Hyderabad Colours.jpg'}, 'values_changed': {"root['t_pattern_b']": {'new_value': '_yellowshoulders', 'old_value': '_blackshoulders'}, "root['t_body']": {'new_value': 'ff6600', 'old_value': 'FF6600'}, "root['t_pants']": {'new_value': '000000', 'old_value': 'FF6600'}}}
+2359: {'dictionary_item_removed': {"root['t_pattern_la']": '_srh22', "root['t_pattern_ra']": '_srh22'}, 'values_changed': {"root['t_pattern_b']": {'new_value': '_blackshoulders', 'old_value': '_srh22'}}}
+2369: {'values_changed': {"root['coach']": {'new_value': 'Trevor Bayliss', 'old_value': 'Tom Moody'}}}
+2403: {'values_changed': {"root['coach']": {'new_value': 'Tom Moody', 'old_value': 'Brian Lara'}}}
+2409: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': "'''40''' (2016 Indian Premier League"}}}
+2417: {'values_changed': {"root['ipl_wins']": {'new_value': "'''40''' (2016 Indian Premier League", 'old_value': "'''1''' (2016 Indian Premier League"}}}
+2426: {'values_changed': {"root['captain']": {'new_value': 'Kane Williamson', 'old_value': 'Bhuvaneshwar Kumar'}}}
+2427: {'dictionary_item_added': {"root['captain']": 'Bhuvaneshwar Kumar'}, 'dictionary_item_removed': {"root['Captain']": 'Bhuvneshwar Kumar'}}
+2428: {'dictionary_item_added': {"root['Captain']": 'Bhuvneshwar Kumar'}, 'dictionary_item_removed': {"root['captain']": 'Bhuvneshwar Kumar'}}
+2429: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'Sanketh Doddapaneni'}}}
+2430: {'values_changed': {"root['captain']": {'new_value': 'Sanketh Doddapaneni', 'old_value': 'Bhuvneshwar Kumar'}}}
+2437: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'TBD'}}}
+2438: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'To be determined'}}}
+2439: {'values_changed': {"root['captain']": {'new_value': 'To be determined', 'old_value': 'TBD'}}}
+2444: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Bhuvneshwar Kumar'}}}
+2466: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'TBD'}}}
+2467: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Aiden Markram'}}}
+2468: {'values_changed': {"root['captain']": {'new_value': 'Aiden Markram', 'old_value': 'TBD'}}}
+2482: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Rahul Tripathi'}}}
+2487: {'values_changed': {"root['captain']": {'new_value': 'Rahul Tripathi', 'old_value': 'Aiden Markram'}}}
+2488: {'values_changed': {"root['captain']": {'new_value': 'Aiden Markram', 'old_value': 'TBD'}}}
+2489: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'TBA'}}}
+2490: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'TBD'}}}
+2494: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'To be determined'}}}
+2506: {'values_changed': {"root['captain']": {'new_value': 'To be determined', 'old_value': 'Aiden Markram'}}}
+2507: {'values_changed': {"root['captain']": {'new_value': 'Aiden Markram', 'old_value': 'Washington Sundar'}}}
+2508: {'values_changed': {"root['captain']": {'new_value': 'Washington Sundar', 'old_value': 'Bhuvneshwar Kumar'}}}
+2509: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'Aiden markram'}}}
+2510: {'values_changed': {"root['captain']": {'new_value': 'Aiden markram', 'old_value': 'Bhuvneshwar Kumar'}}}
+2511: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'To be announced'}}}
+2515: {'values_changed': {"root['captain']": {'new_value': 'To be announced', 'old_value': 'Bhuvneshwar Kumar'}}}
+2519: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'TBD'}}}
+2520: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Bhuvneshwar Kumar'}}}
+2521: {'values_changed': {"root['captain']": {'new_value': 'Bhuvneshwar Kumar', 'old_value': 'To be announced'}}}
+2522: {'values_changed': {"root['captain']": {'new_value': 'To be announced', 'old_value': 'Glenn Phillips'}}}
+2523: {'values_changed': {"root['captain']": {'new_value': 'Glenn Phillips', 'old_value': 'TBD'}}}
+2524: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2016 Indian Premier League", 'old_value': 'File:Simple gold cup.svg'}}}
+2530: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Aiden Markram'}}}
+2540: {'values_changed': {"root['captain']": {'new_value': 'Aiden Markram', 'old_value': 'Vacant'}}}
+2541: {'values_changed': {"root['captain']": {'new_value': 'Vacant', 'old_value': 'Washington Sundar'}}}
+2542: {'values_changed': {"root['captain']": {'new_value': 'Washington Sundar', 'old_value': 'To be announced'}}}
+2545: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2022 ', 'old_value': 'Sunrisers Hyderabad in 2023 '}}}
+2546: {'values_changed': {"root['current']": {'new_value': 'Sunrisers Hyderabad in 2023 ', 'old_value': 'Sunrisers Hyderabad in 2022 '}}}
+2547: {'values_changed': {"root['captain']": {'new_value': 'To be announced', 'old_value': 'Aiden Markram'}}}
+2552: {'dictionary_item_added': {"root['captain']": 'Aiden Markram', "root['current']": 'Sunrisers Hyderabad in 2022 '}, 'values_changed': {"root['ipl_wins']": {'new_value': 'File:Simple gold cup.svg', 'old_value': '2016 Indian Premier League'}}}
+2564: {'dictionary_item_removed': {"root['captain']": 'Aiden Markram'}}
+2594: {'values_changed': {"root['t_leftarm']": {'new_value': '000000', 'old_value': '000003'}, "root['t_body']": {'new_value': 'FF6600', 'old_value': 'FF6602'}, "root['t_pants']": {'new_value': 'FF6600', 'old_value': 'FF5600'}}}
+2595: {'values_changed': {"root['t_leftarm']": {'new_value': '000003', 'old_value': '257890'}, "root['t_body']": {'new_value': 'FF6602', 'old_value': 'FF9000'}}}
+2596: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh22', 'old_value': '_srh18'}, "root['t_pattern_b']": {'new_value': '_srh22', 'old_value': '_srh18'}, "root['t_pattern_ra']": {'new_value': '_srh22', 'old_value': '_srh18'}, "root['t_leftarm']": {'new_value': '257890', 'old_value': '0A1C34'}, "root['t_body']": {'new_value': 'FF9000', 'old_value': '0A1C34'}, "root['t_rightarm']": {'new_value': '000000', 'old_value': '0A1C34'}, "root['t_pants']": {'new_value': 'FF5600', 'old_value': '0A1C34'}}}
+2597: {'values_changed': {"root['t_leftarm']": {'new_value': '0A1C34', 'old_value': '0A2C32'}, "root['t_body']": {'new_value': '0A1C34', 'old_value': '0A2C32'}, "root['t_rightarm']": {'new_value': '0A1C34', 'old_value': '0A2C32'}, "root['t_pants']": {'new_value': '0A1C34', 'old_value': '0A2C32'}}}
+2599: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_pattern_b']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_pattern_ra']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_leftarm']": {'new_value': '0A2C32', 'old_value': '000000'}, "root['t_body']": {'new_value': '0A2C32', 'old_value': 'FF6600'}, "root['t_rightarm']": {'new_value': '0A2C32', 'old_value': '000000'}, "root['t_pants']": {'new_value': '0A2C32', 'old_value': 'FF6600'}}}
+2600: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh22', 'old_value': '_srh18'}, "root['t_pattern_b']": {'new_value': '_srh22', 'old_value': '_srh18'}, "root['t_pattern_ra']": {'new_value': '_srh22', 'old_value': '_srh18'}}}
+2601: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_pattern_b']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_pattern_ra']": {'new_value': '_srh18', 'old_value': '_srh22'}, "root['t_leftarm']": {'new_value': '000000', 'old_value': '1E2952'}, "root['t_body']": {'new_value': 'FF6600', 'old_value': '1E2952'}}}
+2602: {'values_changed': {"root['t_rightarm']": {'new_value': '000000', 'old_value': '1E2952'}, "root['t_pants']": {'new_value': 'FF6600', 'old_value': '1E2952'}}}
+2603: {'values_changed': {"root['t_leftarm']": {'new_value': '1E2952', 'old_value': '0A1C34'}, "root['t_body']": {'new_value': '1E2952', 'old_value': '0A1C34'}}}
+2604: {'dictionary_item_added': {"root['t_pants']": '1E2952'}, 'dictionary_item_removed': {"root['current']": '0A1C34 '}, 'values_changed': {"root['t_rightarm']": {'new_value': '1E2952', 'old_value': '0A1C34'}}}
+2605: {'dictionary_item_removed': {"root['t_pants']": '9EE620'}, 'values_changed': {"root['t_leftarm']": {'new_value': '0A1C34', 'old_value': '9EE620'}, "root['t_body']": {'new_value': '0A1C34', 'old_value': '9EE620'}, "root['t_rightarm']": {'new_value': '0A1C34', 'old_value': '9EE620'}, "root['current']": {'new_value': '0A1C34 ', 'old_value': '9EE620 '}}}
+2606: {'values_changed': {"root['t_pants']": {'new_value': '9EE620', 'old_value': '000000'}}}
+2608: {'dictionary_item_added': {"root['current']": '9EE620 '}, 'values_changed': {"root['t_body']": {'new_value': '9EE620', 'old_value': 'FFCC00'}}}
+2609: {'values_changed': {"root['t_leftarm']": {'new_value': '9EE620', 'old_value': 'FFCC00'}, "root['t_rightarm']": {'new_value': '9EE620', 'old_value': 'FFCC00'}}}
+2610: {'dictionary_item_added': {"root['t_pattern_la']": '_srh22', "root['t_pattern_b']": '_srh22', "root['t_pattern_ra']": '_srh22', "root['t_leftarm']": 'FFCC00', "root['t_body']": 'FFCC00', "root['t_rightarm']": 'FFCC00', "root['t_pants']": '000000'}, 'dictionary_item_removed': {"root['a_pattern_la']": '_orangeborder', "root['a_pattern_b']": '_orangecollarandshoulders', "root['a_pattern_ra']": '_orangeborder', "root['a_leftarm']": '000000', "root['a_body']": '000000', "root['a_rightarm']": '000000', "root['a_pants']": ' Season sidebar', "root['6th']": '"espncricinfo.com" />  For the 2015 Indian Premier League', "root['3rd']": 'https://www.india.com/sports/ipl-2017/purple-cap-in-ipl-2017-list-of-leading-wicket-takers-of-indian-premier-league-10-2043689/', "root['1st']": '"background: silver;"', "root['CEO']": 'Acharya', "root['Physio']": '"2" style', "root['Performance']": '"2" style', "root['rowspan']": '2', "root['2019']": 'https://www.moneycontrol.com/news/trends/sports-trends/ipl-', "root['League']": 'Aiden Markram', "root['6']": 'Kevin Nash to join Sunrisers Hyderabad on Friday', "root['0']": 'Kevin Nash to join Sunrisers Hyderabad on Friday'}}
+2612: {'dictionary_item_added': {"root['a_pattern_la']": '_orangeborder', "root['a_pattern_b']": '_orangecollarandshoulders', "root['a_pattern_ra']": '_orangeborder', "root['6th']": '"espncricinfo.com" />  For the 2015 Indian Premier League', "root['3rd']": 'https://www.india.com/sports/ipl-2017/purple-cap-in-ipl-2017-list-of-leading-wicket-takers-of-indian-premier-league-10-2043689/', "root['1st']": '"background: silver;"', "root['CEO']": 'Acharya', "root['Physio']": '"2" style', "root['Performance']": '"2" style', "root['rowspan']": '2', "root['2019']": 'https://www.moneycontrol.com/news/trends/sports-trends/ipl-', "root['League']": 'Aiden Markram', "root['6']": 'Kevin Nash to join Sunrisers Hyderabad on Friday', "root['0']": 'Kevin Nash to join Sunrisers Hyderabad on Friday'}, 'dictionary_item_removed': {"root['a_pattern_pants']": 'FFCC00'}, 'values_changed': {"root['a_leftarm']": {'new_value': '000000', 'old_value': 'FFCC00'}, "root['a_body']": {'new_value': '000000', 'old_value': 'FFCC00'}, "root['a_rightarm']": {'new_value': '000000', 'old_value': 'FFCC00'}, "root['a_pants']": {'new_value': ' Season sidebar', 'old_value': '000000'}}}
+2613: {'values_changed': {"root['a_pattern_pants']": {'new_value': 'FFCC00', 'old_value': '_srh22'}}}
+2614: {'dictionary_item_added': {"root['a_pattern_pants']": '_srh22', "root['a_leftarm']": 'FFCC00', "root['a_body']": 'FFCC00', "root['a_rightarm']": 'FFCC00', "root['a_pants']": '000000'}, 'dictionary_item_removed': {"root['t_leftarm']": '0A1C34', "root['t_pattern_la']": '_gt22', "root['t_body']": '0A1C34', "root['t_pattern_b']": '_gt22', "root['t_rightarm']": '0A1C34', "root['t_pattern_ra']": '_gt22', "root['t_pants']": '000000', "root['6th']": '"espncricinfo.com" />  For the 2015 Indian Premier League', "root['3rd']": 'https://www.india.com/sports/ipl-2017/purple-cap-in-ipl-2017-list-of-leading-wicket-takers-of-indian-premier-league-10-2043689/', "root['1st']": '"background: silver;"', "root['CEO']": 'Acharya', "root['Physio']": '"2" style', "root['Performance']": '"2" style', "root['rowspan']": '2', "root['2019']": 'https://www.moneycontrol.com/news/trends/sports-trends/ipl-', "root['League']": 'Aiden Markram', "root['6']": 'Kevin Nash to join Sunrisers Hyderabad on Friday', "root['0']": 'Kevin Nash to join Sunrisers Hyderabad on Friday'}}
+2615: {'values_changed': {"root['t_pattern_la']": {'new_value': '_gt22', 'old_value': '_srh22'}, "root['t_pattern_b']": {'new_value': '_gt22', 'old_value': '_srh22'}, "root['t_pattern_ra']": {'new_value': '_gt22', 'old_value': '_srh22'}}}
+2619: {'dictionary_item_added': {"root['t_leftarm']": '0A1C34', "root['t_pattern_la']": '_srh22', "root['t_body']": '0A1C34', "root['t_pattern_b']": '_srh22', "root['t_rightarm']": '0A1C34', "root['t_pattern_ra']": '_srh22', "root['t_pants']": '000000'}, 'dictionary_item_removed': {"root['a_pattern_la']": '_goldborder', "root['a_pattern_b']": '_goldcollarandshoulders', "root['a_pattern_ra']": '_goldborder', "root['a_leftarm']": '000000', "root['a_body']": '000000', "root['a_rightarm']": '000000', "root['a_pants']": '000000'}}
+2620: {'dictionary_item_added': {"root['a_pattern_la']": '_goldborder', "root['a_pattern_b']": '_goldcollarandshoulders', "root['a_pattern_ra']": '_goldborder', "root['a_leftarm']": '000000', "root['a_body']": '000000', "root['a_rightarm']": '000000', "root['a_pants']": '000000', "root['6th']": '"espncricinfo.com" />  For the 2015 Indian Premier League', "root['3rd']": 'https://www.india.com/sports/ipl-2017/purple-cap-in-ipl-2017-list-of-leading-wicket-takers-of-indian-premier-league-10-2043689/', "root['1st']": '"background: silver;"', "root['CEO']": 'Acharya', "root['Physio']": '"2" style', "root['Performance']": '"2" style', "root['rowspan']": '2', "root['2019']": 'https://www.moneycontrol.com/news/trends/sports-trends/ipl-', "root['League']": 'Aiden Markram', "root['6']": 'Kevin Nash to join Sunrisers Hyderabad on Friday', "root['0']": 'Kevin Nash to join Sunrisers Hyderabad on Friday'}, 'dictionary_item_removed': {"root['t_pattern_la']": '_srh18_srh22', "root['t_pattern_b']": '_srh18_srh22', "root['t_pattern_ra']": '_srh18_srh22', "root['t_pants']": 'FF6600', "root['t_pan']": 'FF6600'}}
+2621: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh18_srh22', 'old_value': '_srh22'}, "root['t_pattern_b']": {'new_value': '_srh18_srh22', 'old_value': '_srh22'}, "root['t_pattern_ra']": {'new_value': '_srh18_srh22', 'old_value': '_srh22'}}}
+2622: {'values_changed': {"root['t_pants']": {'new_value': 'FF6600', 'old_value': '000000'}, "root['t_pan']": {'new_value': 'FF6600', 'old_value': '000000'}}}
+2624: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh22', 'old_value': '_gt22'}, "root['t_pattern_b']": {'new_value': '_srh22', 'old_value': '_gt22'}, "root['t_pattern_ra']": {'new_value': '_srh22', 'old_value': '_gt22'}}}
+2625: {'values_changed': {"root['t_pattern_la']": {'new_value': '_gt22', 'old_value': '_pes22'}, "root['t_pattern_b']": {'new_value': '_gt22', 'old_value': '_pes22'}, "root['t_pattern_ra']": {'new_value': '_gt22', 'old_value': '_pes22'}}}
+2626: {'values_changed': {"root['t_pattern_la']": {'new_value': '_pes22', 'old_value': '_sec22'}, "root['t_pattern_b']": {'new_value': '_pes22', 'old_value': '_sec22'}, "root['t_pattern_ra']": {'new_value': '_pes22', 'old_value': '_sec22'}}}
+2627: {'values_changed': {"root['t_pattern_la']": {'new_value': '_sec22', 'old_value': '_pbks22'}, "root['t_pattern_b']": {'new_value': '_sec22', 'old_value': '_'}, "root['t_pattern_ra']": {'new_value': '_sec22', 'old_value': '_pbks22'}}}
+2628: {'values_changed': {"root['t_pattern_b']": {'new_value': '_', 'old_value': '_srh22'}}}
+2629: {'values_changed': {"root['t_pattern_la']": {'new_value': '_pbks22', 'old_value': '_sco22'}, "root['t_pattern_ra']": {'new_value': '_pbks22', 'old_value': '_sco22'}}}
+2630: {'values_changed': {"root['t_pattern_la']": {'new_value': '_sco22', 'old_value': '_srh22'}, "root['t_pattern_ra']": {'new_value': '_sco22', 'old_value': '_srh22'}}}
+2631: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh22', 'old_value': '_gg22'}, "root['t_pattern_b']": {'new_value': '_srh22', 'old_value': '_gg22'}, "root['t_pattern_ra']": {'new_value': '_srh22', 'old_value': '_gg22'}}}
+2632: {'values_changed': {"root['t_pattern_la']": {'new_value': '_gg22', 'old_value': '_srh22'}, "root['t_pattern_b']": {'new_value': '_gg22', 'old_value': '_srh18'}, "root['t_pattern_ra']": {'new_value': '_gg22', 'old_value': '_srh22'}}}
+2633: {'values_changed': {"root['t_pattern_b']": {'new_value': '_srh18', 'old_value': '_srh20'}}}
+2634: {'values_changed': {"root['t_pattern_b']": {'new_value': '_srh20', 'old_value': '_srh22'}}}
+2647: {'dictionary_item_added': {"root['t_pan']": '000000'}, 'dictionary_item_removed': {"root['t_leftarm']": '000000', "root['t_body']": 'FF6600', "root['t_rightarm']": '000000'}}
+2698: {'values_changed': {"root['t_pattern_la']": {'new_value': '_srh22', 'old_value': '_srh23'}, "root['t_pattern_b']": {'new_value': '_srh22', 'old_value': '_srh23'}, "root['t_pattern_ra']": {'new_value': '_srh22', 'old_value': '_srh23'}}}
+2720: {'dictionary_item_removed': {"root['current']": 'Sunrisers Hyderabad in 2023 '}}

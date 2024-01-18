@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['county']": 'Jamaica', "root['colors']": 'color box', "root['founded']": '2013', "root['ground']": 'Sabina Park', "root['capacity']": '20,000'}}
+1: {'dictionary_item_removed': {"root['coach']": 'Paul Nixon'}}
+7: {'values_changed': {"root['county']": {'new_value': 'Jamaica', 'old_value': 'Jamaica Tallawahs'}}}
+8: {'values_changed': {"root['county']": {'new_value': 'Jamaica Tallawahs', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Paul Nixon', 'old_value': 'flagicon'}}}
+9: {'dictionary_item_removed': {"root['title1']": 'Caribbean Premier League', "root['title1wins']": '0'}}
+18: {'dictionary_item_removed': {"root['captain']": 'flagicon'}}
+32: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '1'}}}
+36: {'values_changed': {"root['title1wins']": {'new_value': '1', 'old_value': '1 (2013)'}}}
+37: {'dictionary_item_added': {"root['colors']": 'color box'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+40: {'values_changed': {"root['county']": {'new_value': 'flagicon', 'old_value': 'Jamaica Tallawahs'}}}
+70: {'values_changed': {"root['capacity']": {'new_value': '20,000', 'old_value': '15,600'}}}
+72: {'values_changed': {"root['title1wins']": {'new_value': '1 (2013)', 'old_value': '2 (2013 and 2016)'}}}
+80: {'dictionary_item_added': {"root['county']": 'Jamaica Tallawahs'}, 'dictionary_item_removed': {"root['name']": 'Jamaica Tallawahs', "root['t_title']": 'T20 kit', "root['t_pattern_la']": '_yellowborder', "root['t_pattern_b']": '_upper_gold', "root['t_pattern_ra']": '_yellowborder', "root['t_leftarm']": '000000', "root['t_body']": '000000', "root['t_rightarm']": '000000', "root['t_pants']": '000000'}, 'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Floyd Reifer'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Rovman Powell'}, "root['founded']": {'new_value': '2013', 'old_value': 'Start date and years ago'}, "root['ground']": {'new_value': 'Sabina Park', 'old_value': 'Sabina Park and Central Broward Regional Park'}, "root['title1wins']": {'new_value': '2 (2013 and 2016)', 'old_value': '2 (2013 Caribbean Premier League'}}}
+81: {'dictionary_item_added': {"root['t_title']": 'T20 kit'}, 'values_changed': {"root['t_pattern_la']": {'new_value': '_yellowborder', 'old_value': '_blackborder'}, "root['t_pattern_b']": {'new_value': '_upper_gold', 'old_value': '_greenshoulders'}, "root['t_pattern_ra']": {'new_value': '_yellowborder', 'old_value': '_blackborder'}, "root['t_leftarm']": {'new_value': '000000', 'old_value': '009936'}, "root['t_body']": {'new_value': '000000', 'old_value': 'FDDC04'}, "root['t_rightarm']": {'new_value': '000000', 'old_value': '009936'}}}
+87: {'values_changed': {"root['coach']": {'new_value': 'Floyd Reifer', 'old_value': 'Shivnarine Chanderpaul'}}}
+97: {'values_changed': {"root['coach']": {'new_value': 'Shivnarine Chanderpaul', 'old_value': 'Shivnarine Ravi Chanderpaul'}}}
+98: {'values_changed': {"root['coach']": {'new_value': 'Shivnarine Ravi Chanderpaul', 'old_value': 'Shivnarine Chanderpaul'}}}
+133: {'dictionary_item_removed': {"root['title2']": 'The 6ixty', "root['title2wins']": '0'}}
+139: {'values_changed': {"root['title1wins']": {'new_value': '2 (2013 Caribbean Premier League', 'old_value': '3 (2013 Caribbean Premier League'}}}

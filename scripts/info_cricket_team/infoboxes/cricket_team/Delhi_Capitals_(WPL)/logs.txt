@@ -1,0 +1,11 @@
+1: {'dictionary_item_removed': {"root['name']": 'Delhi Capitals', "root['colours']": 'color box', "root['coach']": 'Jonathan Batty', "root['owner']": 'GMR Group ,  JSW Group', "root['established']": '2023', "root['title1']": "Women's Premier League (cricket)", "root['title1wins']": '0  '}}
+20: {'values_changed': {"root['owner']": {'new_value': 'GMR Group ,  JSW Group', 'old_value': 'ubl'}, "root['title1wins']": {'new_value': '0  ', 'old_value': '0 '}}}
+26: {'dictionary_item_removed': {"root['league']": "Women's Premier League (cricket)"}}
+28: {'dictionary_item_removed': {"root['captain']": 'Meg Lanning'}}
+29: {'values_changed': {"root['captain']": {'new_value': 'Meg Lanning', 'old_value': 'Arundhati Reddy'}}}
+30: {'values_changed': {"root['captain']": {'new_value': 'Arundhati Reddy', 'old_value': 'Jasia Akhter'}}}
+31: {'values_changed': {"root['captain']": {'new_value': 'Jasia Akhter', 'old_value': 'Kiara Advani'}}}
+33: {'values_changed': {"root['captain']": {'new_value': 'Kiara Advani', 'old_value': 'Meg Lanning'}}}
+40: {'dictionary_item_removed': {"root['t_title']": 'T20 kit', "root['t_pattern_la']": '_redborder', "root['t_pattern_b']": '_dc22', "root['t_pattern_ra']": '_blueborder', "root['t_leftarm']": '0000B8', "root['t_body']": '0000B8', "root['t_rightarm']": 'FF0000', "root['t_pants']": '0000B8', "root['current']": 'Delhi Capitals in 2023 '}, 'values_changed': {"root['title1wins']": {'new_value': '0 ', 'old_value': '0'}}}
+44: {'dictionary_item_added': {"root['current']": 'Delhi Capitals in 2023 '}, 'values_changed': {"root['t_pants']": {'new_value': '0000B8', 'old_value': '0000B8 '}}}
+46: {'values_changed': {"root['t_pants']": {'new_value': '0000B8 ', 'old_value': '0000B8'}}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['county']": 'Rawalpindi Rams', "root['colors']": 'Blue and Dark Blue', "root['coach']": 'flagicon', "root['captain']": 'flagicon', "root['founded']": '2004', "root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '15,000'}}
+4: {'values_changed': {"root['colors']": {'new_value': 'Blue and Dark Blue', 'old_value': 'Blue color box'}}}
+16: {'dictionary_item_removed': {"root['title1']": 'Twenty-20 Cup', "root['title1wins']": "'''1''' '''('''Faysal Bank Super 8 T20 Cup 2011"}}
+17: {'values_changed': {"root['colors']": {'new_value': 'Blue color box', 'old_value': 'color box'}}}
+28: {'values_changed': {"root['capacity']": {'new_value': '15,000', 'old_value': '25,000'}}}
+33: {'dictionary_item_removed': {"root['owner']": 'Aftab Qarshi'}, 'values_changed': {"root['county']": {'new_value': 'Rawalpindi Rams', 'old_value': 'Aftab Qarshi Rawalpindi Rams'}, "root['capacity']": {'new_value': '25,000', 'old_value': '15,000'}}}
+37: {'values_changed': {"root['owner']": {'new_value': 'Aftab Qarshi', 'old_value': 'Aftab-Qarshi'}}}
+54: {'dictionary_item_added': {"root['owner']": 'Aftab-Qarshi'}, 'values_changed': {"root['county']": {'new_value': 'Aftab Qarshi Rawalpindi Rams', 'old_value': "Rawalpindi Rams '''راولپنڈی رامس''"}}}
+59: {'dictionary_item_removed': {"root['owner']": 'Aftab Qarshi Medical Products'}, 'values_changed': {"root['county']": {'new_value': "Rawalpindi Rams '''راولپنڈی رامس''", 'old_value': "Aftab Qashi Rawalpindi Rams ''''راولپنڈی ریمز'''"}}}
+60: {'values_changed': {"root['county']": {'new_value': "Aftab Qashi Rawalpindi Rams ''''راولپنڈی ریمز'''", 'old_value': "Aftab Qashi Rawalpindi Rams '''راولپنڈی ریمز'''"}}}
+61: {'values_changed': {"root['county']": {'new_value': "Aftab Qashi Rawalpindi Rams '''راولپنڈی ریمز'''", 'old_value': "Aftab Qashi Rawalpindi Rams '''آفتاب قرشی راولپنڈی ریمز'''"}}}
+64: {'dictionary_item_removed': {"root['news']": 'http://www.espncricinfo.com/ci/content/team/3054.html Rawalpindi Rams '}, 'values_changed': {"root['county']": {'new_value': "Aftab Qashi Rawalpindi Rams '''آفتاب قرشی راولپنڈی ریمز'''", 'old_value': "Rawalpindi Rams '''راولپنڈی ریمز ''"}, "root['owner']": {'new_value': 'Aftab Qarshi Medical Products', 'old_value': 'Rawalpindi Cricket Club Association (RCCA)'}}}
+65: {'values_changed': {"root['owner']": {'new_value': 'Rawalpindi Cricket Club Association (RCCA)', 'old_value': 'RRCA'}}}
+78: {'dictionary_item_removed': {"root['title2']": 'Faysal Bank Super Eight T20 Cup', "root['title2wins']": "'''1''' '''('''Faysal Bank Super 8 T20 Cup 2011"}, 'values_changed': {"root['title1']": {'new_value': 'Twenty-20 Cup', 'old_value': 'Faysal Bank T20 Cup'}, "root['title1wins']": {'new_value': "'''1''' '''('''Faysal Bank Super 8 T20 Cup 2011", 'old_value': "'''0'''"}, "root['capacity']": {'new_value': '15,000', 'old_value': '25,000'}, "root['owner']": {'new_value': 'RRCA', 'old_value': 'Rawalpindi Regional Cricket Association'}}}

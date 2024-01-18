@@ -1,0 +1,93 @@
+0: {'dictionary_item_removed': {"root['county']": 'Kolkata', "root['coach']": 'John Buchanan', "root['captain']": 'Sourav Ganguly', "root['founded']": '2008', "root['ground']": 'Eden Gardens'}}
+106: {'dictionary_item_removed': {"root['owner']": 'Shah Rukh Khan, Juhi Chawla, Jai Mehta'}, 'values_changed': {"root['county']": {'new_value': 'Kolkata', 'old_value': 'Kolkata Knight Riders'}}}
+133: {'dictionary_item_removed': {"root['capacity']": '88000'}}
+134: {'values_changed': {"root['capacity']": {'new_value': '88000', 'old_value': '88,000'}}}
+145: {'values_changed': {"root['coach']": {'new_value': 'John Buchanan', 'old_value': 'John Buchanan (cricketer)'}}}
+159: {'values_changed': {"root['owner']": {'new_value': 'Shah Rukh Khan, Juhi Chawla, Jai Mehta', 'old_value': 'Shahrukh Khan, Juhi Chawla, Jai Mehta'}}}
+160: {'values_changed': {"root['capacity']": {'new_value': '88,000', 'old_value': '100,000'}}}
+163: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan, Juhi Chawla, Jai Mehta', 'old_value': 'Shah Rukh Khan, Juhi Chawla, Jai Mehta'}}}
+187: {'values_changed': {"root['owner']": {'new_value': 'Shah Rukh Khan, Juhi Chawla, Jai Mehta', 'old_value': 'Shah Rukh Khan, Juhi Chawla & Jai Mehta'}}}
+242: {'dictionary_item_removed': {"root['assistant']": 'Mathew Mott'}}
+243: {'values_changed': {"root['assistant']": {'new_value': 'Mathew Mott', 'old_value': 'Mathew Mott(cricketer)'}}}
+247: {'dictionary_item_removed': {"root['colour']": 'Black and Golden'}}
+248: {'dictionary_item_removed': {"root['colors']": 'Black and Gold'}}
+256: {'dictionary_item_added': {"root['colors']": 'Black and Gold', "root['colour']": 'Black and Golden'}, 'values_changed': {"root['capacity']": {'new_value': '100,000', 'old_value': '89,500'}}}
+262: {'values_changed': {"root['capacity']": {'new_value': '89,500', 'old_value': '120,000'}}}
+263: {'dictionary_item_removed': {"root['ceo']": 'Joy Bhattacharjee'}}
+264: {'values_changed': {"root['capacity']": {'new_value': '120,000', 'old_value': '90,000'}}}
+304: {'values_changed': {"root['owner']": {'new_value': 'Shah Rukh Khan, Juhi Chawla & Jai Mehta', 'old_value': 'Shahrukh Khan, Juhi Chawla & Jai Mehta'}}}
+363: {'values_changed': {"root['ceo']": {'new_value': 'Joy Bhattacharjee', 'old_value': 'Joy Bhattacharya'}}}
+434: {'values_changed': {"root['coach']": {'new_value': 'John Buchanan (cricketer)', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Sourav Ganguly', 'old_value': 'flagicon'}}}
+473: {'dictionary_item_added': {"root['assistant']": 'Mathew Mott(cricketer)', "root['ceo']": 'Joy Bhattacharya'}, 'dictionary_item_removed': {"root['slogan']": 'Korbo Lorbo Jeetbo', "root['colors']": 'File:Kolkata Knight Riders colours.svg'}, 'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders', 'old_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Trevor Bayliss'}, "root['owner']": {'new_value': 'Shahrukh Khan, Juhi Chawla & Jai Mehta', 'old_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Red Chillies Entertainment'}}}
+482: {'dictionary_item_added': {"root['capacity']": '90,000'}, 'values_changed': {"root['ground']": {'new_value': 'Eden Gardens', 'old_value': 'Eden Gardens (Capacity: 90,000)'}}}
+483: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens (Capacity: 90,000)', 'old_value': 'Eden Gardens    (Capacity: 90,000)'}}}
+484: {'values_changed': {"root['coach']": {'new_value': 'Trevor Bayliss', 'old_value': 'Trevor Bayliss citation'}}}
+486: {'values_changed': {"root['coach']": {'new_value': 'Trevor Bayliss citation', 'old_value': 'flagicon'}}}
+515: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স (We will do it, Fight for it, Win it)'}}}
+516: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স (We will do it, Fight for it, Win it)', 'old_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স'}}}
+535: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens    (Capacity: 90,000)', 'old_value': 'Eden Gardens    Capacity: 90,000 (Original) Reduced to: 63,000 after extensive renovations'}}}
+536: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens    Capacity: 90,000 (Original) Reduced to: 63,000 after extensive renovations', 'old_value': 'Eden Gardens    Capacity: 90,000 (Original) New:63,000'}}}
+581: {'dictionary_item_removed': {"root['Bowling']": 'flagicon'}}
+582: {'dictionary_item_added': {"root['Bowling']": 'flagicon'}, 'dictionary_item_removed': {"root['bowling']": 'flagicon'}}
+584: {'dictionary_item_added': {"root['bowling']": 'flagicon', "root['slogan']": 'Korbo Lorbo Jeetbo'}, 'dictionary_item_removed': {"root['bowlingcoach']": 'flagicon', "root['capacity']": '90,000'}, 'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders ,  কলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders   কলকাতা নাইট রাইডার্স'}, "root['ground']": {'new_value': 'Eden Gardens    Capacity: 90,000 (Original) New:63,000', 'old_value': 'Eden Gardens'}}}
+597: {'dictionary_item_removed': {"root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''"}}
+598: {'dictionary_item_removed': {"root['title2']": 'Champions League T20', "root['title2wins']": "'''0''',qualified in 2011"}}
+672: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders   কলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders'}}}
+689: {'values_changed': {"root['capacity']": {'new_value': '90,000', 'old_value': '63,000'}}}
+772: {'dictionary_item_added': {"root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''", "root['title2']": 'Champions League T20', "root['title2wins']": "'''0''',qualified in 2011"}, 'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Red Chillies Entertainment', 'old_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Kalim Sayyad  Red Chillies Entertainment'}}}
+778: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Kalim Sayyad  Red Chillies Entertainment', 'old_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Red Chillies Entertainment'}}}
+785: {'values_changed': {"root['capacity']": {'new_value': '63,000', 'old_value': '70,000'}}}
+798: {'values_changed': {"root['capacity']": {'new_value': '70,000', 'old_value': '90,000 http://content-ind.cricinfo.com/india/content/ground/57980.html Eden Gardens'}}}
+856: {'dictionary_item_removed': {"root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''", "root['title2']": 'Champions League Twenty20', "root['title2wins']": "'''0''' '''(Qualified 2011)'''"}}
+858: {'dictionary_item_added': {"root['capacity']": '90,000 http://content-ind.cricinfo.com/india/content/ground/57980.html Eden Gardens'}, 'values_changed': {"root['ground']": {'new_value': 'Eden Gardens', 'old_value': 'Eden Gardens    (Capacity: 90,000) http://content-ind.cricinfo.com/india/content/'}}}
+864: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders', 'old_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স'}}}
+865: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স', 'old_value': 'কোলকাতা নাইট রাইডার্স कोलकाता नाइट राइडार्स Kolkata Knight Riders'}}}
+866: {'values_changed': {"root['title2wins']": {'new_value': "'''0''' '''(Qualified 2011)'''", 'old_value': "'''0''' '''(Qualified 2011 Champions League Twenty20"}}}
+868: {'dictionary_item_removed': {"root['city']": 'Kolkata, West Bengal'}, 'values_changed': {"root['county']": {'new_value': 'কোলকাতা নাইট রাইডার্স कोलकाता नाइट राइडार्स Kolkata Knight Riders', 'old_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স'}}}
+879: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens    (Capacity: 90,000) http://content-ind.cricinfo.com/india/content/', 'old_value': 'Eden Gardens    (Capacity: 90,000)<ref name'}}}
+884: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan   Juhi Chawla   Jai Mehta   Red Chillies Entertainment', 'old_value': 'Shahrukh Khan'}}}
+885: {'values_changed': {"root['title1wins']": {'new_value': "'''0'''", 'old_value': "'''0''' '''(2012 IPL"}}}
+886: {'values_changed': {"root['title1wins']": {'new_value': "'''0''' '''(2012 IPL", 'old_value': "'''1''' '''(2012 IPL"}}}
+916: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens    (Capacity: 90,000)<ref name', 'old_value': 'Eden Gardens    (Capacity: 70,000)<ref name'}, "root['owner']": {'new_value': 'Shahrukh Khan', 'old_value': 'Shahrukh Khan ,Juhi Chawla,Jai Mehta'}}}
+919: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens    (Capacity: 70,000)<ref name', 'old_value': 'Eden Gardens    (Capacity: 90,000)<ref name'}, "root['owner']": {'new_value': 'Shahrukh Khan ,Juhi Chawla,Jai Mehta', 'old_value': 'Shahrukh Khan'}}}
+959: {'dictionary_item_removed': {"root['Assistant']": 'flagicon'}}
+976: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders'}, "root['ground']": {'new_value': 'Eden Gardens    (Capacity: 90,000)<ref name', 'old_value': 'Eden Gardens   (Capacity: 90,000)<ref name'}, "root['owner']": {'new_value': 'Shahrukh Khan', 'old_value': 'Shahrukh Khan   (Red Chillies Entertainment)   Juhi Chawla  Jai Mehta  (Mehta Group) .'}}}
+1018: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders', 'old_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স'}}}
+1019: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders কোলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders'}}}
+1025: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders', 'old_value': 'Kolkata Knight Riders  কোলকাতা নাইট রাইডার্স'}}}
+1043: {'values_changed': {"root['county']": {'new_value': 'Kolkata Knight Riders  কোলকাতা নাইট রাইডার্স', 'old_value': 'Kolkata Knight Riders'}}}
+1053: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan   (Red Chillies Entertainment)   Juhi Chawla  Jai Mehta  (Mehta Group) .', 'old_value': 'Shahrukh Khan   (Red Chillies Entertainment)   Juhi Chawla  Jay Mehta'}, "root['title1wins']": {'new_value': "'''1''' '''(2012 IPL", 'old_value': "'''1''' '''(2012 Indian Premier League"}}}
+1092: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Trevor Bayliss'}, "root['Assistant']": {'new_value': 'flagicon', 'old_value': 'Vijay Dahiya'}, "root['bowlingcoach']": {'new_value': 'flagicon', 'old_value': 'Wasim Akram'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Gautam Gambhir'}}}
+1166: {'values_changed': {"root['captain']": {'new_value': 'Gautam Gambhir', 'old_value': 'Mahendra Singh Dhoni'}}}
+1167: {'values_changed': {"root['captain']": {'new_value': 'Mahendra Singh Dhoni', 'old_value': 'gautam gambhir'}}}
+1171: {'values_changed': {"root['captain']": {'new_value': 'gautam gambhir', 'old_value': 'Gautam Gambhir'}}}
+1189: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Eden Gardens   (Capacity: 90,000)', 'JSCA International Cricket Stadium, Ranchi   (Capacity: 40,000)'], 'new_value': 'Eden Gardens   (Capacity: 90,000)<ref name'}}, 'dictionary_item_added': {"root['county']": 'Kolkata Knight Riders', "root['coach']": 'Trevor Bayliss', "root['Assistant']": 'Vijay Dahiya', "root['bowlingcoach']": 'Wasim Akram', "root['title1']": 'Indian Premier League', "root['title1wins']": "'''1''' '''(2012 Indian Premier League", "root['title2']": 'Champions League Twenty20', "root['title2wins']": "'''0''' '''(Qualified 2011 Champions League Twenty20"}, 'dictionary_item_removed': {"root['team_name']": 'Kolkata Knight Riders', "root['alt_name']": 'कोलकाता नाइट रायडसॅ', "root['logo_image']": 'Kolkata Knight Riders Logo.svg', "root['bg_color']": '#6600CC', "root['text_color']": 'gold', "root['head_coach']": 'Trevor Bayliss', "root['ipl_wins']": "'''1''' (2012 Indian Premier League", "root['clt20_wins']": "'''0'''"}, 'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan   (Red Chillies Entertainment)   Juhi Chawla  Jay Mehta', 'old_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta'}}}
+1190: {'values_changed': {"root['alt_name']": {'new_value': 'कोलकाता नाइट रायडसॅ', 'old_value': 'কলকাতা নাইট রাইডার্স'}}}
+1212: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta', 'old_value': 'Shahrukh Khan (Dev Gupta)   Juhi Chawla, Jay Mehta'}}}
+1225: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan (Dev Gupta)   Juhi Chawla, Jay Mehta', 'old_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta'}}}
+1277: {'values_changed': {"root['city']": {'new_value': 'Kolkata, West Bengal', 'old_value': 'Kolkata, West Bengal, India'}}}
+1330: {'values_changed': {"root['owner']": {'new_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta', 'old_value': 'Mohammed Furniturewala (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta'}}}
+1335: {'values_changed': {"root['owner']": {'new_value': 'Mohammed Furniturewala (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta', 'old_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta'}}}
+1336: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Eden Gardens   (Capacity: 90,000)', 'new_value': ['Eden Gardens   (Capacity: 90,000)', 'JSCA International Cricket Stadium, Ranchi   (Capacity: 40,000)']}}}
+1360: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens   (Capacity: 90,000)', 'old_value': 'Eden Gardens   (Capacity: 80,000)'}}}
+1449: {'values_changed': {"root['ipl_wins']": {'new_value': "'''1''' (2012 Indian Premier League", 'old_value': "'''2''' (2012 Indian Premier League"}}}
+1482: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens   (Capacity: 80,000)', 'old_value': 'Eden Gardens   (Capacity: 67,000)'}}}
+1524: {'values_changed': {"root['ground']": {'new_value': 'Eden Gardens   (Capacity: 67,000)', 'old_value': 'Eden Gardens   (Capacity: 80,000)'}}}
+1530: {'values_changed': {"root['alt_name']": {'new_value': 'কলকাতা নাইট রাইডার্স', 'old_value': 'কলকাতা নাইট রাইডার্স ,  कोलकाता नाइट राइडर्स'}}}
+1531: {'dictionary_item_removed': {"root['capacity']": '80,000'}, 'values_changed': {"root['ground']": {'new_value': 'Eden Gardens   (Capacity: 80,000)', 'old_value': 'Eden Gardens'}}}
+1532: {'values_changed': {"root['alt_name']": {'new_value': 'কলকাতা নাইট রাইডার্স ,  कोलकाता नाइट राइडर्स', 'old_value': 'কলকাতা নাইট রাইডার্স ,'}}}
+1534: {'values_changed': {"root['alt_name']": {'new_value': 'কলকাতা নাইট রাইডার্স ,', 'old_value': 'কলকাতা নাইট রাইডার্স'}}}
+1540: {'values_changed': {"root['logo_image']": {'new_value': 'Kolkata Knight Riders Logo.svg', 'old_value': 'KKR-Logo-in-IPL'}}}
+1541: {'values_changed': {"root['logo_image']": {'new_value': 'KKR-Logo-in-IPL', 'old_value': 'Kolkata Knight Riders Logo.svg'}}}
+1546: {'values_changed': {"root['city']": {'new_value': 'Kolkata, West Bengal, India', 'old_value': 'Kolkata, West Bengal, India flagicon'}}}
+1547: {'values_changed': {"root['city']": {'new_value': 'Kolkata, West Bengal, India flagicon', 'old_value': 'Kolkata, West Bengal, India'}}}
+1549: {'values_changed': {"root['capacity']": {'new_value': '80,000', 'old_value': '67,549'}}}
+1566: {'dictionary_item_removed': {"root['ground2']": 'Barabati Stadium, Cuttack, (Capacity: 45,000)'}, 'values_changed': {"root['ground']": {'new_value': 'Eden Gardens', 'old_value': 'Eden Gardens, Kolkata, (Capacity: 67,000)'}}}
+1571: {'values_changed': {"root['alt_name']": {'new_value': 'কলকাতা নাইট রাইডার্স', 'old_value': 'কলকাতা নাইট রাইডার্স कोलकाता नाइट राइडर्स'}}}
+1573: {'values_changed': {"root['alt_name']": {'new_value': 'কলকাতা নাইট রাইডার্স कोलकाता नाइट राइडर्स', 'old_value': 'কলকাতা নাইট রাইডার্স, कोलकाता नाइट राइडर्स'}}}
+1576: {'dictionary_item_added': {"root['team_name']": 'Kolkata Knight Riders', "root['alt_name']": 'কলকাতা নাইট রাইডার্স, कोलकाता नाइट राइडर्स', "root['logo_image']": 'Kolkata Knight Riders Logo.svg', "root['bg_color']": '#6600CC', "root['text_color']": 'gold', "root['colors']": 'File:Kolkata Knight Riders colours.svg', "root['ground2']": 'Barabati Stadium, Cuttack, (Capacity: 45,000)', "root['head_coach']": 'Trevor Bayliss', "root['clt20_wins']": "'''0'''"}, 'dictionary_item_removed': {"root['name']": 'Kolkata Knight Riders', "root['league']": 'Indian Premier League', "root['coach']": 'Chandrakant Pandit', "root['t_title']": 'T20 kit', "root['t_pattern_la']": '_goldborder', "root['t_pattern_b']": '_kkr22', "root['t_pattern_ra']": '_goldborder', "root['t_leftarm']": '46155B', "root['t_body']": '46155B', "root['t_rightarm']": '46155B', "root['t_pants']": '46155B', "root['current']": 'Kolkata Knight Riders in 2022 '}, 'values_changed': {"root['founded']": {'new_value': '2008', 'old_value': 'Start date and age'}, "root['ground']": {'new_value': 'Eden Gardens, Kolkata, (Capacity: 67,000)', 'old_value': 'Eden Gardens, Kolkata'}, "root['capacity']": {'new_value': '67,549', 'old_value': '68,000'}, "root['captain']": {'new_value': 'Gautam Gambhir', 'old_value': 'Shreyas Iyer'}, "root['owner']": {'new_value': 'Shahrukh Khan (Red Chillies Entertainment)   Juhi Chawla, Jay Mehta', 'old_value': 'Red Chillies Entertainment'}, "root['ipl_wins']": {'new_value': "'''2''' (2012 Indian Premier League", 'old_value': 'File:Simple gold cup.svg'}}}
+1584: {'values_changed': {"root['current']": {'new_value': 'Kolkata Knight Riders in 2022 ', 'old_value': 'Kolkata Knight Riders in 2023 '}}}
+1589: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Red Chillies Entertainment'}}}
+1590: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Red Chillies Entertainment', 'new_value': []}}, 'values_changed': {"root['current']": {'new_value': 'Kolkata Knight Riders in 2023 ', 'old_value': 'Kolkata Knight Riders in 2022 '}}}
+1614: {'values_changed': {"root['captain']": {'new_value': 'Shreyas Iyer', 'old_value': 'Nitish Rana'}}}
+1639: {'values_changed': {"root['current']": {'new_value': 'Kolkata Knight Riders in 2022 ', 'old_value': 'Kolkata Knight Riders in 2023 '}}}

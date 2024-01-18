@@ -1,0 +1,26 @@
+8: {'dictionary_item_removed': {"root['name']": 'Central Punjab cricket team', "root['captain']": 'flagicon', "root['founded']": '2019'}}
+10: {'dictionary_item_removed': {"root['ground']": 'Gaddafi Stadium, Lahore', "root['capacity']": '27,000', "root['owner']": 'Central Punjab Cricket Association'}, 'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Babar Azam'}}}
+11: {'values_changed': {"root['captain']": {'new_value': 'Babar Azam', 'old_value': 'flagicon'}}}
+12: {'dictionary_item_removed': {"root['coach']": 'Ijaz Ahmed (cricketer, born 1968)'}}
+16: {'dictionary_item_removed': {"root['manager']": 'Khalid Niazi'}}
+18: {'values_changed': {"root['coach']": {'new_value': 'Ijaz Ahmed (cricketer, born 1968)', 'old_value': 'flagicon'}, "root['ground']": {'new_value': 'Gaddafi Stadium, Lahore', 'old_value': 'Iqbal Stadium, Faisalabad'}, "root['capacity']": {'new_value': '27,000', 'old_value': '18,000'}}}
+22: {'values_changed': {"root['ground']": {'new_value': 'Iqbal Stadium, Faisalabad', 'old_value': 'Gaddafi Stadium, Lahore Iqbal Stadium , Faisalabad'}}}
+23: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium, Lahore Iqbal Stadium , Faisalabad', 'old_value': 'Gaddafi Stadium, Iqbal Stadium'}}}
+24: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium, Iqbal Stadium', 'old_value': 'Gaddafi Stadium,     Iqbal Stadium'}}}
+25: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium,     Iqbal Stadium', 'old_value': 'Gaddafi Stadium,  Iqbal Stadium'}}}
+26: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium,  Iqbal Stadium', 'old_value': 'Gaddafi Stadium,   Iqbal Stadium'}}}
+27: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium,   Iqbal Stadium', 'old_value': 'Gaddafi Stadium Iqbal Stadium'}}}
+28: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium Iqbal Stadium', 'old_value': 'Iqbal Stadium'}}}
+29: {'dictionary_item_added': {"root['owner']": 'Central Punjab Cricket Association'}, 'dictionary_item_removed': {"root['ground2']": 'Iqbal Stadium, Faisalabad'}, 'values_changed': {"root['ground']": {'new_value': 'Iqbal Stadium', 'old_value': 'Gaddafi Stadium, Lahore'}, "root['capacity']": {'new_value': '18,000', 'old_value': '27,000 18,000'}}}
+32: {'dictionary_item_added': {"root['capacity']": '27,000 18,000'}, 'dictionary_item_removed': {"root['colors']": 'color box', "root['owner']": 'Central Punjab Cricket Association'}}
+34: {'values_changed': {"root['ground']": {'new_value': 'Gaddafi Stadium, Lahore', 'old_value': 'Gaddafi Stadium, Lahore, Punjab, Pakistan'}, "root['ground2']": {'new_value': 'Iqbal Stadium, Faisalabad', 'old_value': 'Iqbal Stadium, Faisalabad, Punjab, Pakistan'}}}
+35: {'dictionary_item_removed': {"root['title1']": 'Quaid-e-Azam Trophy', "root['title1wins']": "'''1''' (2019–20 Quaid-e-Azam Trophy"}}
+38: {'values_changed': {"root['name']": {'new_value': 'Central Punjab cricket team', 'old_value': 'Central Punjab Team'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'Central Punjab Team', 'old_value': 'Central Punjab cricket team'}}}
+56: {'dictionary_item_removed': {"root['title2']": 'National T20 Cup', "root['title2wins']": '0', "root['title3']": 'Pakistan Cup', "root['title3wins']": '0'}}
+175: {'values_changed': {"root['manager']": {'new_value': 'Khalid Niazi', 'old_value': 'Ashraf Ali(Test Cricketer)'}, "root['founded']": {'new_value': '2019', 'old_value': 'Start date and age'}, "root['ground']": {'new_value': 'Gaddafi Stadium, Lahore, Punjab, Pakistan', 'old_value': 'Gaddafi Stadium, Lahore'}, "root['ground2']": {'new_value': 'Iqbal Stadium, Faisalabad, Punjab, Pakistan', 'old_value': 'Iqbal Stadium, Faisalabad'}, "root['title1wins']": {'new_value': "'''1''' (2019–20 Quaid-e-Azam Trophy", 'old_value': '2 (2019–20 Quaid-e-Azam Trophy'}, "root['title2']": {'new_value': 'National T20 Cup', 'old_value': 'Pakistan Cup'}, "root['title3']": {'new_value': 'Pakistan Cup', 'old_value': 'National T20 Cup'}}}
+176: {'values_changed': {"root['manager']": {'new_value': 'Ashraf Ali(Test Cricketer)', 'old_value': 'Ashraf Ali (cricketer, born 1958)'}}}
+181: {'dictionary_item_removed': {"root['h_pattern_b']": '_old_laced', "root['h_pattern_ra']": '_shouldersonwhite', "root['h_leftarm']": 'FFFFF6', "root['h_body']": 'FFFFF6', "root['h_rightarm']": 'FFFFF6', "root['h_pants']": 'FFFFF6', "root['h_title']": 'First-class', "root['a_title']": 'One-day / T20', "root['t_title']": 'T20', "root['a_pattern_b']": '_cp_white_ball', "root['a_leftarm']": 'F6B374', "root['a_rightarm']": 'F6B374', "root['a_pants']": '41387A', "root['t_pants']": '|'}}
+183: {'dictionary_item_added': {"root['t_pants']": '|'}, 'values_changed': {"root['a_title']": {'new_value': 'One-day / T20', 'old_value': 'List A / T20'}}}
+191: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Paul Franks (FC/LA), Abdul Razzaq (cricketer)'}}}
+192: {'values_changed': {"root['coach']": {'new_value': 'Paul Franks (FC/LA), Abdul Razzaq (cricketer)', 'old_value': 'Paul Franks'}}}

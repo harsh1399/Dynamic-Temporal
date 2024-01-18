@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'UP Warriorz', "root['colours']": 'color box', "root['coach']": 'Jon Lewis (cricketer, born 1975)', "root['owner']": 'Capri Global', "root['established']": '2023', "root['title1']": "Women's Premier League (cricket)", "root['title1wins']": '0  '}}
+3: {'dictionary_item_removed': {"root['ground']": 'BRSABV Ekana Cricket Stadium, Lucknow'}}
+4: {'dictionary_item_removed': {"root['city']": 'Lucknow, Uttar Pradesh, India'}}
+5: {'dictionary_item_removed': {"root['capacity']": '50,000'}}
+6: {'dictionary_item_removed': {"root['league']": "Women's Premier League (cricket)"}}
+10: {'dictionary_item_added': {"root['league']": "Women's Premier League (cricket)", "root['city']": 'Lucknow, Uttar Pradesh, India', "root['ground']": 'BRSABV Ekana Cricket Stadium, Lucknow', "root['capacity']": '50,000'}, 'dictionary_item_removed': {"root['captain']": 'Alyssa Healy'}}
+16: {'dictionary_item_added': {"root['colours']": 'color box'}, 'values_changed': {"root['title1wins']": {'new_value': '0  ', 'old_value': '0 '}}}
+17: {'dictionary_item_removed': {"root['colours']": 'color box'}}
+23: {'dictionary_item_removed': {"root['league']": "Women's Premier League (cricket)"}}
+25: {'dictionary_item_added': {"root['colours']": 'color box'}, 'dictionary_item_removed': {"root['city']": 'Lucknow'}}
+30: {'dictionary_item_added': {"root['city']": 'Lucknow'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+45: {'values_changed': {"root['name']": {'new_value': 'UP Warriorz', 'old_value': 'Lucknow SuperGiants'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Lucknow SuperGiants', 'old_value': 'UP Warriorz'}}}
+49: {'values_changed': {"root['name']": {'new_value': 'UP Warriorz', 'old_value': 'LUCKNOW SUPERGIANTS'}}}
+50: {'values_changed': {"root['name']": {'new_value': 'LUCKNOW SUPERGIANTS', 'old_value': 'UP Warriorz'}}}
+56: {'dictionary_item_removed': {"root['t_pattern_la']": '_goldborder', "root['t_pattern_b']": '_goldcollar', "root['t_pattern_ra']": '_goldborder', "root['t_leftarm']": '800080', "root['t_body']": 'FAD02C', "root['t_rightarm']": '800080', "root['t_pants']": 'FAD02C', "root['t_title']": 'T20  '}, 'values_changed': {"root['title1wins']": {'new_value': '0 ', 'old_value': '0'}}}

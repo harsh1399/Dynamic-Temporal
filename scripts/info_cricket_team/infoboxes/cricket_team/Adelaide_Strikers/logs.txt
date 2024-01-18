@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['county']": 'Adelaide Strikers', "root['colors']": 'color box', "root['coach']": 'Darren Berry', "root['ground']": 'Adelaide Oval', "root['T20debutvs']": 'TBA', "root['T20debutyr']": '2010/11', "root['T20debutvenue']": 'TBA', "root['title1']": 'Big Bash League', "root['title1wins']": '0'}}
+5: {'dictionary_item_removed': {"root['founded']": '2011'}}
+7: {'dictionary_item_removed': {"root['capacity']": '36,000'}}
+18: {'values_changed': {"root['coach']": {'new_value': 'Darren Berry', 'old_value': 'Flagicon'}}}
+34: {'dictionary_item_removed': {"root['captain']": 'Flagicon'}}
+64: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': 'yet to debut'}}}
+65: {'values_changed': {"root['title1wins']": {'new_value': 'yet to debut', 'old_value': '1'}}}
+75: {'values_changed': {"root['capacity']": {'new_value': '36,000', 'old_value': '40,000'}, "root['title1wins']": {'new_value': '1', 'old_value': '0'}}}
+123: {'values_changed': {"root['county']": {'new_value': 'Adelaide Strikers', 'old_value': 'Australia'}}}
+133: {'values_changed': {"root['capacity']": {'new_value': '40,000', 'old_value': '53,583 (3,500 standing on hill) Voss, Cameron (29 March 2014). "http://www.austadiums.com/news/news.php?id'}}}
+152: {'dictionary_item_added': {"root['colors']": 'color box'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+162: {'dictionary_item_added': {"root['county']": 'Australia'}, 'dictionary_item_removed': {"root['name']": 'Adelaide Strikers', "root['current']": '2015–16 Adelaide Strikers season'}, 'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': 'Nil'}}}
+169: {'values_changed': {"root['current']": {'new_value': '2015–16 Adelaide Strikers season', 'old_value': '2016–17 Adelaide Strikers season'}}}
+170: {'values_changed': {"root['captain']": {'new_value': 'Flagicon', 'old_value': 'TBD'}}}
+180: {'dictionary_item_removed': {"root['h_pattern_b']": '_thinsides', "root['h_leftarm']": '009FDF', "root['h_body']": '009FDF', "root['h_rightarm']": '009FDF', "root['h_pants']": '009FDF '}}
+181: {'values_changed': {"root['h_pattern_b']": {'new_value': '_thinsides', 'old_value': '_thinsidesonblue'}, "root['h_body']": {'new_value': '009FDF', 'old_value': '000000'}}}
+182: {'values_changed': {"root['h_pattern_b']": {'new_value': '_thinsidesonblue', 'old_value': '_thin_sides_on_b7c6cc'}, "root['h_body']": {'new_value': '000000', 'old_value': 'b7c6cc'}}}
+183: {'values_changed': {"root['h_pattern_b']": {'new_value': '_thin_sides_on_b7c6cc', 'old_value': '_thinsidesonb7c6cc'}}}
+185: {'values_changed': {"root['h_pattern_b']": {'new_value': '_thinsidesonb7c6cc', 'old_value': '_thinblacksides'}, "root['h_body']": {'new_value': 'b7c6cc', 'old_value': '009FDF'}}}
+187: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Travis Head (possibly)'}}}
+212: {'values_changed': {"root['captain']": {'new_value': 'Travis Head (possibly)', 'old_value': 'Travis Head'}}}
+222: {'values_changed': {"root['captain']": {'new_value': 'Travis Head', 'old_value': 'Flagicon'}}}
+228: {'dictionary_item_added': {"root['T20debutvs']": 'TBA', "root['T20debutyr']": '2010/11', "root['T20debutvenue']": 'TBA'}, 'values_changed': {"root['current']": {'new_value': '2016–17 Adelaide Strikers season', 'old_value': '2017-18 Adelaide Strikers season'}}}
+234: {'dictionary_item_added': {"root['h_pattern_b']": '_thinblacksides', "root['h_leftarm']": '009FDF', "root['h_body']": '009FDF', "root['h_rightarm']": '009FDF', "root['h_pants']": '009FDF '}, 'dictionary_item_removed': {"root['city']": 'Adelaide', "root['overseas']": 'Flagicon', "root['t_title']": 'T20 kit', "root['t_pattern_b']": '_transparent vneck', "root['t_leftarm']": '009FDF', "root['t_body']": '009FDF', "root['t_rightarm']": '009FDF', "root['t_pants']": '009FDF', "root['asofdate']": '8 February 2018 '}, 'values_changed': {"root['title1wins']": {'new_value': 'Nil', 'old_value': "'''1''' (2017–18 Big Bash League season"}, "root['current']": {'new_value': '2017-18 Adelaide Strikers season', 'old_value': '2021–22 Adelaide Strikers season'}}}

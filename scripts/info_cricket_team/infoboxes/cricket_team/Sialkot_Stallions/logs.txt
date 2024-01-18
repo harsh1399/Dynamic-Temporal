@@ -1,0 +1,15 @@
+3: {'dictionary_item_removed': {"root['county']": 'Sialkot Stallions', "root['colors']": 'Orange and Green', "root['coach']": 'flagicon', "root['captain']": 'flagicon', "root['founded']": '2006', "root['ground']": 'Jinnah Stadium (Sialkot)', "root['capacity']": '50,000'}}
+4: {'values_changed': {"root['capacity']": {'new_value': '50,000', 'old_value': '14,000'}}}
+22: {'values_changed': {"root['founded']": {'new_value': '2006', 'old_value': '2004'}}}
+41: {'dictionary_item_removed': {"root['owner']": 'Ufone'}, 'values_changed': {"root['colors']": {'new_value': 'Orange and Green', 'old_value': 'Orange color box'}, "root['capacity']": {'new_value': '14,000', 'old_value': '14 000'}}}
+47: {'dictionary_item_removed': {"root['title1']": 'Twenty-20 Cup', "root['title1wins']": "'''5''' '''('''ABN-AMRO Twenty-20 Cup 2005-06"}, 'values_changed': {"root['county']": {'new_value': 'Sialkot Stallions', 'old_value': 'Five Star Foam Sialkot Stallions'}, "root['owner']": {'new_value': 'Ufone', 'old_value': 'Al Khair Group'}}}
+55: {'values_changed': {"root['colors']": {'new_value': 'Orange color box', 'old_value': 'Grey  color box'}}}
+56: {'values_changed': {"root['colors']": {'new_value': 'Grey  color box', 'old_value': 'color box'}}}
+61: {'values_changed': {"root['county']": {'new_value': 'Five Star Foam Sialkot Stallions', 'old_value': 'Cannon Foam Sialkot Stallions'}}}
+65: {'dictionary_item_added': {"root['owner']": 'Al Khair Group'}, 'values_changed': {"root['capacity']": {'new_value': '14 000', 'old_value': '14,000'}}}
+71: {'values_changed': {"root['county']": {'new_value': 'Cannon Foam Sialkot Stallions', 'old_value': 'Audionic Sialkot Stallions'}, "root['title1wins']": {'new_value': "'''5''' '''('''ABN-AMRO Twenty-20 Cup 2005-06", 'old_value': "'''6''' '''('''ABN-AMRO Twenty-20 Cup 2005-06"}}}
+74: {'dictionary_item_removed': {"root['owner']": 'Audionic'}}
+80: {'values_changed': {"root['county']": {'new_value': 'Audionic Sialkot Stallions', 'old_value': 'Sialkot Stallions'}}}
+98: {'values_changed': {"root['title1']": {'new_value': 'Twenty-20 Cup', 'old_value': 'Faysal Bank T20 Cup'}}}
+114: {'values_changed': {"root['capacity']": {'new_value': '14,000', 'old_value': '30,000'}}}
+123: {'values_changed': {"root['county']": {'new_value': 'Sialkot Stallions', 'old_value': 'Sialkot Stallions ,  Nastaliq'}}}

@@ -1,0 +1,106 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jaffna Stallions', "root['league']": 'Lanka Premier League', "root['city']": 'Jaffna, Sri Lanka', "root['founded']": '2020'}}
+8: {'values_changed': {"root['city']": {'new_value': 'Jaffna, Sri Lanka', 'old_value': 'Jaffna, Northern Province, Sri Lanka'}}}
+9: {'dictionary_item_removed': {"root['title1']": 'Lanka Premier League', "root['title1wins']": '0'}}
+10: {'dictionary_item_removed': {"root['coach']": 'flagicon'}}
+11: {'dictionary_item_removed': {"root['colours']": 'colorbox'}}
+36: {'dictionary_item_removed': {"root['captain']": 'Thisara Perera'}}
+37: {'values_changed': {"root['captain']": {'new_value': 'Thisara Perera', 'old_value': 'flagicon'}}}
+39: {'dictionary_item_added': {"root['city']": 'Jaffna, Northern Province, Sri Lanka'}, 'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Thisara Perera'}}}
+41: {'dictionary_item_added': {"root['captain']": 'Thisara Perera'}, 'dictionary_item_removed': {"root['city']": 'Jaffna, Northern Province, Sri Lanka'}}
+46: {'dictionary_item_added': {"root['city']": 'Jaffna, Northern Province, Sri Lanka'}, 'dictionary_item_removed': {"root['captain']": 'flagicon'}}
+47: {'dictionary_item_removed': {"root['city']": 'Jafna ,Northern Province ,SriLanka'}}
+49: {'dictionary_item_removed': {"root['Owner']": 'Brindon Bagirathan'}}
+50: {'values_changed': {"root['city']": {'new_value': 'Jafna ,Northern Province ,SriLanka', 'old_value': 'Jafna, Northern Province ,SriLanka'}}}
+51: {'dictionary_item_added': {"root['Owner']": 'Brindon Bagirathan'}, 'values_changed': {"root['city']": {'new_value': 'Jafna, Northern Province ,SriLanka', 'old_value': 'Jafna, Northern Province, SriLanka'}}}
+52: {'values_changed': {"root['city']": {'new_value': 'Jafna, Northern Province, SriLanka', 'old_value': 'Jaffna, Northern Province, Sri Lanka'}}}
+58: {'dictionary_item_removed': {"root['owner']": 'Brindon Bagirathan'}}
+74: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Thisara Perera'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Thilina Kandamby'}}}
+99: {'values_changed': {"root['captain']": {'new_value': 'Thisara Perera', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Thilina Kandamby', 'old_value': 'flagicon'}}}
+104: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Thisara Perera'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Thilina Kandamby'}}}
+106: {'values_changed': {"root['captain']": {'new_value': 'Thisara Perera', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Thilina Kandamby', 'old_value': 'flagicon'}}}
+110: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+124: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Thisara Perera'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Thilina Kandamby'}}}
+133: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood, Brindon Bagiratan + London Consorteum'}}}
+135: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, Brindon Bagiratan + London Consorteum', 'old_value': 'Anandan Arnold, Rahul Sood, Brindon Bagiratan + International Consortium'}}}
+138: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, Brindon Bagiratan + International Consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+152: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '2'}}}
+153: {'values_changed': {"root['title1wins']": {'new_value': '2', 'old_value': '0'}}}
+164: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+166: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+169: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+170: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+174: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+176: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan'}}}
+179: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+182: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan'}}}
+186: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+190: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan'}}}
+191: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+192: {'dictionary_item_added': {"root['owner']": 'Anandan Arnold, Rahul Sood, + international consortium'}, 'dictionary_item_removed': {"root['owners']": 'Anandan Arnold, Rahul Sood, + international consortium'}}
+193: {'dictionary_item_added': {"root['owners']": 'Anandan Arnold, Rahul Sood, + international consortium'}, 'dictionary_item_removed': {"root['owner']": 'Anandan Arnold, Rahul Sood, + international consortium'}}
+196: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+198: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+199: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+200: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+201: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+202: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+203: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+204: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+205: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+206: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+207: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+209: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+213: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+215: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+216: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+217: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+220: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+221: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+225: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+228: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+235: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+237: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+242: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+244: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+245: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+246: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+247: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+256: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+259: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood, + international consortium'}}}
+263: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood, + international consortium', 'old_value': 'Brindon Bagirathan, Rahul Sood, + international consortium'}}}
+264: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood, + international consortium', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+271: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+273: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+274: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+275: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+276: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+277: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+282: {'values_changed': {"root['owner']": {'new_value': 'Anandan Arnold, Rahul Sood', 'old_value': 'Brindon Bagirathan, Rahul Sood'}}}
+283: {'values_changed': {"root['owner']": {'new_value': 'Brindon Bagirathan, Rahul Sood', 'old_value': 'Anandan Arnold, Rahul Sood'}}}
+289: {'dictionary_item_removed': {"root['current']": 'Jaffna Stallions in 2020 '}}
+294: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '1 (2020 Lanka Premier League'}}}
+299: {'values_changed': {"root['founded']": {'new_value': '2020', 'old_value': 'Start date and age'}}}
+301: {'dictionary_item_removed': {"root['t_pattern_b']": '_collar', "root['t_leftarm']": '0c1378', "root['t_body']": '0c1378', "root['t_rightarm']": '0c1378', "root['t_pants']": '0c1378'}}
+315: {'values_changed': {"root['t_body']": {'new_value': '0c1378', 'old_value': '87ceeb'}}}
+341: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Anandan Arnold, Rahul Sood'}}}
+353: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Subaskaran Allirajah (Lycamobile', 'new_value': []}}, 'dictionary_item_added': {"root['colours']": 'colorbox', "root['current']": 'Jaffna Stallions in 2020 '}, 'dictionary_item_removed': {"root['t_title']": 'T20 kit'}, 'values_changed': {"root['name']": {'new_value': 'Jaffna Stallions', 'old_value': 'Jaffna Kings'}, "root['captain']": {'new_value': 'Thisara Perera', 'old_value': 'TBD'}, "root['coach']": {'new_value': 'Thilina Kandamby', 'old_value': 'TBD'}}}
+362: {'dictionary_item_added': {"root['t_pattern_b']": '_collar', "root['t_leftarm']": '0c1378', "root['t_body']": '87ceeb', "root['t_rightarm']": '0c1378', "root['t_pants']": '0c1378', "root['t_title']": 'T20 kit'}, 'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'Thisara Perera'}, "root['coach']": {'new_value': 'TBD', 'old_value': 'Thilina Kandamby'}}}
+364: {'dictionary_item_removed': {"root['ground']": 'R.Premadasa Stadium,Colomo'}}
+369: {'dictionary_item_added': {"root['ground']": 'R.Premadasa Stadium,Colomo'}, 'values_changed': {"root['owner']": {'new_value': 'Subaskaran Allirajah (Lycamobile', 'old_value': 'Lycamobile'}}}
+370: {'dictionary_item_removed': {"root['current']": 'Jaffna Kings in 2021 '}}
+390: {'values_changed': {"root['owner']": {'new_value': 'Lycamobile', 'old_value': 'Subaskaran Allirajah (Lycamobile'}}}
+392: {'values_changed': {"root['name']": {'new_value': 'Jaffna Kings', 'old_value': 'Jaffna South'}}}
+393: {'values_changed': {"root['name']": {'new_value': 'Jaffna South', 'old_value': 'Jaffna Kings'}}}
+407: {'dictionary_item_removed': {"root['colours']": 'colorbox'}}
+415: {'dictionary_item_removed': {"root['ground']": 'Jaffna International Cricket Stadium'}}
+421: {'dictionary_item_added': {"root['ground']": 'Jaffna International Cricket Stadium'}, 'dictionary_item_removed': {"root['t_pattern_b']": '_collarblue', "root['t_leftarm']": '282596', "root['t_body']": '282596', "root['t_rightarm']": '282596', "root['t_pants']": '282596'}}
+422: {'values_changed': {"root['t_pattern_b']": {'new_value': '_collarblue', 'old_value': '_collar'}}}
+425: {'values_changed': {"root['title1wins']": {'new_value': '1 (2020 Lanka Premier League', 'old_value': '2 (2020 Lanka Premier League'}}}
+431: {'dictionary_item_removed': {"root['alt_name']": 'K.THEWSHAN'}}
+450: {'dictionary_item_added': {"root['alt_name']": 'K.THEWSHAN', "root['current']": 'Jaffna Kings in 2021 '}, 'values_changed': {"root['name']": {'new_value': 'Jaffna Kings', 'old_value': 'Jaffna bro'}}}
+451: {'values_changed': {"root['name']": {'new_value': 'Jaffna bro', 'old_value': 'Jaffna Kings'}}}
+452: {'values_changed': {"root['name']": {'new_value': 'Jaffna Kings', 'old_value': 'Ks Prabhu'}}}
+453: {'values_changed': {"root['name']": {'new_value': 'Ks Prabhu', 'old_value': 'Jaffna Kings'}, "root['owner']": {'new_value': 'Subaskaran Allirajah (Lycamobile', 'old_value': 'Pirapakaran Allirajah (Lycamobile'}}}
+454: {'values_changed': {"root['owner']": {'new_value': 'Pirapakaran Allirajah (Lycamobile', 'old_value': 'Subaskaran Allirajah (Lycamobile'}}}
+465: {'values_changed': {"root['t_leftarm']": {'new_value': '282596', 'old_value': '0011A6'}, "root['t_body']": {'new_value': '282596', 'old_value': '0011A6'}, "root['t_rightarm']": {'new_value': '282596', 'old_value': '0011A6'}, "root['t_pants']": {'new_value': '282596', 'old_value': '0011A6'}}}
+496: {'values_changed': {"root['title1wins']": {'new_value': '2 (2020 Lanka Premier League', 'old_value': '3 (2020 Lanka Premier League'}}}

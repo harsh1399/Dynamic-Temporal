@@ -1,0 +1,12 @@
+1: {'dictionary_item_removed': {"root['county']": 'Wayamba Wolves', "root['colours']": 'color box', "root['coach']": 'flagicon', "root['captain']": 'flagicon', "root['founded']": '1990', "root['ground']": 'Welagedara Stadium', "root['capacity']": '10,000', "root['title1']": 'Sri Lanka Premier League', "root['title1wins']": 'none'}}
+2: {'values_changed': {"root['founded']": {'new_value': '1990', 'old_value': '2011'}}}
+3: {'dictionary_item_added': {"root['coach']": 'flagicon', "root['captain']": 'flagicon', "root['ground']": 'Welagedara Stadium', "root['capacity']": '10,000'}, 'dictionary_item_removed': {"root['owner']": 'Wadhawan Holdings Private Limited', "root['city']": 'North Western Province, Sri Lanka'}}
+4: {'dictionary_item_added': {"root['colours']": 'color box'}, 'dictionary_item_removed': {"root['colors']": 'color box'}}
+5: {'values_changed': {"root['county']": {'new_value': 'Wayamba Wolves', 'old_value': 'Wayamba'}}}
+9: {'values_changed': {"root['county']": {'new_value': 'Wayamba', 'old_value': 'Naseem'}}}
+10: {'values_changed': {"root['county']": {'new_value': 'Naseem', 'old_value': 'Wayamba'}}}
+13: {'values_changed': {"root['city']": {'new_value': 'North Western Province, Sri Lanka', 'old_value': 'Kurunegala'}}}
+14: {'dictionary_item_removed': {"root['coach']": 'Trevor Bayliss', "root['captain']": 'Mahela Jayawardene', "root['ground']": 'Welagedara Stadium', "root['capacity']": '10000'}}
+15: {'values_changed': {"root['coach']": {'new_value': 'Trevor Bayliss', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Mahela Jayawardene', 'old_value': 'flagicon'}, "root['capacity']": {'new_value': '10000', 'old_value': '10,000'}}}
+34: {'values_changed': {"root['county']": {'new_value': 'Wayamba', 'old_value': 'Wayamba United'}, "root['owner']": {'new_value': 'Wadhawan Holdings Private Limited', 'old_value': 'Wadhawan Holdings, Private Limited'}, "root['founded']": {'new_value': '2011', 'old_value': '2012'}}}
+38: {'values_changed': {"root['owner']": {'new_value': 'Wadhawan Holdings, Private Limited', 'old_value': 'Wadhawan Holdings Private Limited'}}}

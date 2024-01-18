@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Texas Super Kings', "root['league']": 'Major League Cricket', "root['coach']": 'Stephen Fleming', "root['city']": 'Grand Prairie, Texas, USA', "root['owner']": 'Chennai Super Kings, Anurag Jain, Ross Perot Jr.', "root['founded']": 'Start date and age', "root['ground']": 'Grand Prairie Stadium', "root['capacity']": '7,000'}}
+4: {'values_changed': {"root['founded']": {'new_value': 'Start date and age', 'old_value': 'Start date'}}}
+17: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Chennai Super Kings'], 'new_value': 'Chennai Super Kings, Anurag Jain, Ross Perot Jr.'}}, 'dictionary_item_removed': {"root['colours']": 'color box'}, 'values_changed': {"root['capacity']": {'new_value': '7,000', 'old_value': '7,200 (expandable to 15,000)'}}}
+32: {'values_changed': {"root['city']": {'new_value': 'Grand Prairie, Texas, USA', 'old_value': 'Grand Prairie, Texas, U.S.'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Texas Super Kings', 'old_value': 'Taxes Super Kings'}}}
+48: {'values_changed': {"root['name']": {'new_value': 'Taxes Super Kings', 'old_value': 'Texas Super Kings'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'Texas Super Kings', 'old_value': 'Taxes Super Kings'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'Taxes Super Kings', 'old_value': 'Texas Super Kings'}}}
+57: {'values_changed': {"root['coach']": {'new_value': 'Stephen Fleming', 'old_value': 'Stephen Fleming,MS Dhoni'}}}
+59: {'values_changed': {"root['coach']": {'new_value': 'Stephen Fleming,MS Dhoni', 'old_value': 'Stephen Fleming'}}}
+90: {'dictionary_item_removed': {"root['notable_players']": ['NZL Devon Conway', 'NZL Mitchell Santner', 'RSA David Miller', 'IND Ambati Rayudu', 'TRI Dwayne Bravo']}}
+97: {'dictionary_item_removed': {"root['captain']": 'Faf du Plessis', "root['manager']": 'Russell Radhakrishnan'}, 'values_changed': {"root['notable_players'][1]": {'new_value': 'NZL Mitchell Santner', 'old_value': 'RSA Faf du Plessis'}}, 'iterable_item_added': {"root['notable_players'][2]": 'RSA David Miller'}}
+107: {'values_changed': {"root['city']": {'new_value': 'Grand Prairie, Texas, U.S.', 'old_value': 'Dallas, Texas, United States'}}}
+108: {'values_changed': {"root['colours']": {'new_value': 'color box', 'old_value': 'Yellow'}}}

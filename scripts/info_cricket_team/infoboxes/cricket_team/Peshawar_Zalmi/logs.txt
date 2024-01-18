@@ -1,0 +1,137 @@
+0: {'dictionary_item_removed': {"root['name']": 'PESHAWER STARS XI', "root['league']": 'Pakistan Super League', "root['captain']": 'TBA', "root['coach']": 'TBA', "root['bowlingcoach']": 'TBA', "root['city']": 'Peshawer, K.P.K, Pakistan', "root['owner']": 'Haier', "root['founded']": '2015'}}
+1: {'values_changed': {"root['city']": {'new_value': 'Peshawer, K.P.K, Pakistan', 'old_value': 'Peshawer, Khyber Pakhtun Khwa, Pakistan'}, "root['owner']": {'new_value': 'Haier', 'old_value': 'Haier   ( Javed Afridi )'}}}
+2: {'dictionary_item_removed': {"root['ground']": 'Arbab Niaz Stadium', "root['capacity']": '20,000'}, 'values_changed': {"root['name']": {'new_value': 'PESHAWER STARS XI', 'old_value': 'Peshawer stars XI'}}}
+3: {'values_changed': {"root['coach']": {'new_value': 'TBA', 'old_value': 'Muhammed Akram'}}}
+4: {'values_changed': {"root['coach']": {'new_value': 'Muhammed Akram', 'old_value': 'Muhammad Akram'}}}
+5: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Shahid Afridi'}}}
+8: {'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium', 'old_value': 'Arbab Niaz Stadium,Peshawer'}}}
+9: {'dictionary_item_added': {"root['captain']": 'Shahid Afridi', "root['bowlingcoach']": 'TBA', "root['ground']": 'Arbab Niaz Stadium,Peshawer', "root['capacity']": '20,000'}, 'values_changed': {"root['name']": {'new_value': 'Peshawer stars XI', 'old_value': 'Peshawar Zalmi'}, "root['city']": {'new_value': 'Peshawer, Khyber Pakhtun Khwa, Pakistan', 'old_value': 'Peshawar, Khyber Pakhtun Khwa, Pakistan'}}}
+11: {'dictionary_item_removed': {"root['fieldingcoach']": 'Grant Luden'}}
+13: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi', 'old_value': 'Peshawar Stars XI'}}}
+15: {'dictionary_item_added': {"root['fieldingcoach']": 'Grant Luden'}, 'values_changed': {"root['name']": {'new_value': 'Peshawar Stars XI', 'old_value': 'Peshawar Zalmi'}}}
+21: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtun Khwa, Pakistan', 'old_value': 'Peshawar'}}}
+24: {'dictionary_item_removed': {"root['Manager']": 'Abdul Rehman', "root['battingcoach']": 'Andy Flower', "root['fieldingcoach']": 'Grant Luden'}}
+29: {'dictionary_item_added': {"root['Manager']": 'Abdul Rehman', "root['battingcoach']": 'Andy Flower'}, 'dictionary_item_removed': {"root['captain']": 'TBD', "root['bowlingcoach']": 'TBD', "root['ground']": 'Arbab Niaz Stadium, Peshawar', "root['capacity']": '20,000'}}
+36: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}}}
+37: {'dictionary_item_added': {"root['bowlingcoach']": 'TBD'}, 'dictionary_item_removed': {"root['battingcoach']": 'Andy Flower'}}
+41: {'dictionary_item_added': {"root['battingcoach']": 'Andy Flower'}, 'dictionary_item_removed': {"root['bowlingcoach']": 'TBD'}, 'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar'}}}
+46: {'dictionary_item_added': {"root['captain']": 'TBD', "root['bowlingcoach']": 'TBD'}, 'dictionary_item_removed': {"root['battingcoach']": 'Andy Flower'}}
+50: {'dictionary_item_added': {"root['battingcoach']": 'Andy Flower', "root['fieldingcoach']": 'Grant Luden', "root['ground']": 'Arbab Niaz Stadium, Peshawar', "root['capacity']": '20,000'}, 'dictionary_item_removed': {"root['alt_name']": 'پشاور زلمی'}}
+53: {'dictionary_item_added': {"root['alt_name']": 'پشاور زلمی'}, 'values_changed': {"root['owner']": {'new_value': 'Haier   ( Javed Afridi )', 'old_value': 'Haier'}}}
+54: {'values_changed': {"root['owner']": {'new_value': 'Haier', 'old_value': 'Haier   ( Javed Afridi )'}}}
+60: {'dictionary_item_removed': {"root['alt_name']": 'پشاور زلمی'}}
+66: {'dictionary_item_added': {"root['alt_name']": 'پشاور زلمی'}, 'values_changed': {"root['owner']": {'new_value': 'Haier   ( Javed Afridi )', 'old_value': 'Haier Pakistan'}}}
+67: {'dictionary_item_removed': {"root['slogan']": 'Khpal Team'}}
+68: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakhtunkhwan, Pakistan'}}}
+69: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwan, Pakistan', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}}}
+70: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar'}}}
+76: {'dictionary_item_removed': {"root['ground']": 'Arbab Naiz Stadium'}}
+77: {'values_changed': {"root['ground']": {'new_value': 'Arbab Naiz Stadium', 'old_value': 'Arbab Niaz Stadium'}}}
+79: {'dictionary_item_added': {"root['ground']": 'Arbab Niaz Stadium'}, 'dictionary_item_removed': {"root['Batting']": 'Andy Flower'}}
+92: {'values_changed': {"root['coach']": {'new_value': 'Muhammad Akram', 'old_value': 'Mohammad Akram'}}}
+94: {'dictionary_item_removed': {"root['captain']": 'Shahid Afridi'}}
+151: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakhtumnkhwa, Pakistan'}}}
+152: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtumnkhwa, Pakistan', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}}}
+156: {'values_changed': {"root['owner']": {'new_value': 'Haier Pakistan', 'old_value': 'Javed Afridi'}}}
+161: {'dictionary_item_removed': {"root['colors']": 'Yellow, Black, Blue', "root['ground']": 'Arbab Niaz Stadium, Peshawar', "root['capacity']": '25,000', "root['no']": '0'}}
+163: {'dictionary_item_added': {"root['Batting']": 'Andy Flower', "root['ground']": 'Arbab Niaz Stadium, Peshawar', "root['capacity']": '25,000', "root['no']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar'}, "root['colors']": {'new_value': 'Yellow, Black, Blue', 'old_value': 'Yellow, Blue'}, "root['owner']": {'new_value': 'Javed Afridi', 'old_value': 'Haier'}}}
+167: {'values_changed': {"root['captain']": {'new_value': 'Shahid Afridi', 'old_value': 'Muhammad Ali Raja'}}}
+168: {'values_changed': {"root['captain']": {'new_value': 'Muhammad Ali Raja', 'old_value': 'Shahid Afridi'}}}
+176: {'dictionary_item_removed': {"root['PSLwins']": '0'}}
+186: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi', 'old_value': 'Peshawar Zalmi, Nastaliq'}}}
+189: {'dictionary_item_removed': {"root['batting']": 'Andy Flower'}}
+198: {'values_changed': {"root['colors']": {'new_value': 'Yellow, Blue', 'old_value': 'Yellow, Blue color box'}}}
+200: {'dictionary_item_added': {"root['PSLwins']": '0'}, 'values_changed': {"root['colors']": {'new_value': 'Yellow, Blue color box', 'old_value': 'color box'}}}
+204: {'dictionary_item_removed': {"root['ground']": 'Arbab Niaz Stadium, Peshawar, Khyber Pakhtunkhwa Capacity', "root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}, "root['owner']": {'new_value': 'Haier', 'old_value': 'Javed Afridi, Haier'}}}
+205: {'dictionary_item_added': {"root['ground']": 'Arbab Niaz Stadium, Peshawar, Khyber Pakhtunkhwa Capacity', "root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar'}, "root['owner']": {'new_value': 'Javed Afridi, Haier', 'old_value': 'Haier'}}}
+217: {'dictionary_item_added': {"root['coach']": 'Mohammad Akram'}, 'dictionary_item_removed': {"root['mentor']": 'Imran Khan', "root['head']": 'Mohammad Akram'}}
+220: {'dictionary_item_added': {"root['mentor']": 'Imran Khan', "root['head']": 'Mohammad Akram', "root['batting']": 'Andy Flower'}, 'dictionary_item_removed': {"root['coach']": 'Mohammad Akram'}}
+222: {'dictionary_item_removed': {"root['ground']": 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar', "root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}, "root['owner']": {'new_value': 'Haier', 'old_value': 'Javed Afridi, Haier'}}}
+224: {'dictionary_item_removed': {"root['Talent']": 'Army Public School, Peshawar, Khyber Pakhtunkhwa', "root['foundation']": 'PZ Foundation'}, 'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar', 'old_value': 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar Capacity'}}}
+228: {'values_changed': {"root['PSLwins']": {'new_value': '0', 'old_value': '0 (number)'}}}
+231: {'dictionary_item_removed': {"root['Capacity']": '20,000'}, 'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar Capacity', 'old_value': 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar'}}}
+241: {'dictionary_item_added': {"root['Talent']": 'Army Public School, Peshawar, Khyber Pakhtunkhwa', "root['foundation']": 'PZ Foundation'}, 'values_changed': {"root['owner']": {'new_value': 'Javed Afridi, Haier', 'old_value': 'Jahanzaib Khan, Jahangir Khan'}}}
+242: {'values_changed': {"root['owner']": {'new_value': 'Jahanzaib Khan, Jahangir Khan', 'old_value': 'Javed Afridi, Haier'}}}
+252: {'values_changed': {"root['colors']": {'new_value': 'color box', 'old_value': 'File:Peshawar Zalmi.jpg'}}}
+253: {'values_changed': {"root['colors']": {'new_value': 'File:Peshawar Zalmi.jpg', 'old_value': 'File:Peshawar_Zalmi.jpg'}}}
+289: {'dictionary_item_added': {"root['ground']": 'Arbab Niaz Stadium, Khyber pakhtunkhwa, Peshawar', "root['Capacity']": '20,000', "root['PSLwins']": '0 (number)'}, 'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi, Nastaliq', 'old_value': 'Peshawar Zalmi Nastaliq'}, "root['colors']": {'new_value': 'File:Peshawar_Zalmi.jpg', 'old_value': 'File:Peshawar Zalmi.jpg'}, "root['owner']": {'new_value': 'Javed Afridi, Haier', 'old_value': 'Haier'}}}
+290: {'values_changed': {"root['owner']": {'new_value': 'Haier', 'old_value': 'Eatisam Group of Companies'}}}
+291: {'values_changed': {"root['owner']": {'new_value': 'Eatisam Group of Companies', 'old_value': 'Haier'}}}
+292: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar'}, "root['colors']": {'new_value': 'File:Peshawar Zalmi.jpg', 'old_value': 'File:Peshawar_Zalmi_'}}}
+293: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar, Khyber Pakthunkhwa, Pakistan'}}}
+294: {'values_changed': {"root['city']": {'new_value': 'Peshawar, Khyber Pakthunkhwa, Pakistan', 'old_value': 'Peshawar'}}}
+316: {'values_changed': {"root['colors']": {'new_value': 'File:Peshawar_Zalmi_', 'old_value': 'File:Peshawar Zalmi'}}}
+417: {'values_changed': {"root['colors']": {'new_value': 'File:Peshawar Zalmi', 'old_value': 'Blue and Yellow'}}}
+419: {'values_changed': {"root['colors']": {'new_value': 'Blue and Yellow', 'old_value': 'File:Peshawar Zalmi'}}}
+482: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'flagicon'}}}
+483: {'values_changed': {"root['city']": {'new_value': 'flagicon', 'old_value': 'Peshawar'}}}
+494: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi Nastaliq', 'old_value': 'Peshawar Zalmi lang'}}}
+539: {'values_changed': {"root['owner']": {'new_value': 'Haier', 'old_value': 'Javed Afridi<ref name'}}}
+590: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Pakhawar Zalmay lang'}, "root['captain']": {'new_value': 'Shahid Afridi', 'old_value': 'Muhammad Ali Raja'}}}
+591: {'values_changed': {"root['name']": {'new_value': 'Pakhawar Zalmay lang', 'old_value': 'Peshawar Zalmi lang'}, "root['captain']": {'new_value': 'Muhammad Ali Raja', 'old_value': 'Shahid Afridi'}}}
+614: {'values_changed': {"root['city']": {'new_value': 'Peshawar', 'old_value': 'Peshawar,Khyber Pakhtunkhwa,Pakistan'}}}
+641: {'values_changed': {"root['coach']": {'new_value': 'Mohammad Akram', 'old_value': 'Mohammad Akram (cricketer, born 1974)'}}}
+644: {'dictionary_item_removed': {"root['Home']": 'Arbab Niaz Stadium'}}
+645: {'dictionary_item_added': {"root['Home']": 'Arbab Niaz Stadium'}, 'dictionary_item_removed': {"root['Homeground']": 'Arbab Niaz Stadium'}}
+660: {'dictionary_item_added': {"root['colors']": 'File:Peshawar Zalmi'}, 'dictionary_item_removed': {"root['colours']": 'File:Peshawar Zalmi colors.png'}}
+665: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi<ref name', 'old_value': 'Javed Afridi'}}}
+667: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi', 'old_value': 'Javed Afridi<ref name'}}}
+697: {'values_changed': {"root['city']": {'new_value': 'Peshawar,Khyber Pakhtunkhwa,Pakistan', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}}}
+713: {'dictionary_item_removed': {"root['President']": 'Shahid Afridi'}}
+761: {'dictionary_item_added': {"root['President']": 'Shahid Afridi'}, 'values_changed': {"root['captain']": {'new_value': 'Shahid Afridi', 'old_value': 'Darren Sammy'}}}
+832: {'dictionary_item_added': {"root['slogan']": 'Khpal Team'}, 'values_changed': {"root['captain']": {'new_value': 'Darren Sammy', 'old_value': 'Shahid Afridi'}}}
+837: {'values_changed': {"root['captain']": {'new_value': 'Shahid Afridi', 'old_value': 'Darren Sammy'}}}
+910: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi<ref name', 'old_value': 'qqJaved Afridi<ref name'}}}
+911: {'values_changed': {"root['owner']": {'new_value': 'qqJaved Afridi<ref name', 'old_value': 'Javed Afridi<ref name'}}}
+997: {'values_changed': {"root['captain']": {'new_value': 'Darren Sammy', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Mohammad Akram (cricketer, born 1974)', 'old_value': 'flagicon'}}}
+1002: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Peshawar Balmi lang'}, "root['colours']": {'new_value': 'File:Peshawar Zalmi colors.png', 'old_value': 'File:Peshawar Balmi colors.png'}}}
+1003: {'values_changed': {"root['name']": {'new_value': 'Peshawar Balmi lang', 'old_value': 'Peshawar Zalmi lang'}, "root['colours']": {'new_value': 'File:Peshawar Balmi colors.png', 'old_value': 'File:Peshawar Zalmi colors.png'}}}
+1032: {'dictionary_item_added': {"root['Homeground']": 'Arbab Niaz Stadium'}, 'dictionary_item_removed': {"root['ground']": 'Arbab Niaz Stadium'}}
+1084: {'dictionary_item_removed': {"root['seating_capacity']": '20,000'}}
+1115: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi<ref name', 'old_value': 'Javed Afridi (Haier Group)<ref name'}}}
+1118: {'dictionary_item_added': {"root['seating_capacity']": '20,000'}, 'dictionary_item_removed': {"root['capacity']": '20,000'}}
+1120: {'dictionary_item_removed': {"root['alt_name']": '#ZAF'}, 'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Zober ali fayaz Peshawar Zalmi lang'}, "root['league']": {'new_value': 'Pakistan Super League', 'old_value': 'Afghanistan Super League'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Asghar/Afghanistan Asgher stanikzai'}}}
+1121: {'dictionary_item_added': {"root['alt_name']": '#ZAF'}, 'values_changed': {"root['name']": {'new_value': 'Zober ali fayaz Peshawar Zalmi lang', 'old_value': 'Peshawar Zalmi lang'}, "root['league']": {'new_value': 'Afghanistan Super League', 'old_value': 'Pakistan Super League'}, "root['captain']": {'new_value': 'Asghar/Afghanistan Asgher stanikzai', 'old_value': 'flagicon'}}}
+1122: {'dictionary_item_removed': {"root['alt_name']": 'Zober Ali fayaz', "root['slogan']": 'Zober ali fayaz'}, 'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Zober ali fayaz Peshawar Zalmi lang'}, "root['league']": {'new_value': 'Pakistan Super League', 'old_value': 'Afghanistan Super League'}, "root['city']": {'new_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan', 'old_value': 'Peshawar, kabul, Afghanistan'}, "root['owner']": {'new_value': 'Javed Afridi (Haier Group)<ref name', 'old_value': 'JZober ali fayaz (Haier Group)<ref name'}, "root['ground']": {'new_value': 'Arbab Niaz Stadium', 'old_value': 'jihad sangin  Stadium'}, "root['capacity']": {'new_value': '20,000', 'old_value': '50,000'}}}
+1123: {'dictionary_item_added': {"root['alt_name']": 'Zober Ali fayaz', "root['slogan']": 'Zober ali fayaz'}, 'values_changed': {"root['name']": {'new_value': 'Zober ali fayaz Peshawar Zalmi lang', 'old_value': 'Peshawar Zalmi lang'}, "root['league']": {'new_value': 'Afghanistan Super League', 'old_value': 'Pakistan Super League'}, "root['city']": {'new_value': 'Peshawar, kabul, Afghanistan', 'old_value': 'Peshawar, Khyber Pakhtunkhwa, Pakistan'}, "root['owner']": {'new_value': 'JZober ali fayaz (Haier Group)<ref name', 'old_value': 'Javed Afridi (Haier Group)<ref name'}, "root['ground']": {'new_value': 'jihad sangin  Stadium', 'old_value': 'Arbab Niaz Stadium'}, "root['capacity']": {'new_value': '50,000', 'old_value': '20,000'}}}
+1135: {'dictionary_item_added': {"root['league']": 'Pakistan Super League', "root['colours']": 'File:Peshawar Zalmi colors.png'}, 'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium', 'old_value': 'Arbab Niaz Stadium, Peshawar'}}}
+1162: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi (Haier Group)<ref name', 'old_value': 'Javed Afridi (Haier Pakistan)<ref name'}}}
+1167: {'dictionary_item_removed': {"root['h_pattern_la']": '_navyborder', "root['h_pattern_b']": '_navycollar', "root['h_pattern_ra']": '_navyborder', "root['h_leftarm']": 'FFFF00', "root['h_body']": 'FFFF00', "root['h_rightarm']": 'FFFF00', "root['h_pants']": '000080 '}}
+1168: {'dictionary_item_added': {"root['h_pattern_la']": '_navyborder', "root['h_pattern_b']": '_navycollar', "root['h_pattern_ra']": '_navyborder', "root['h_leftarm']": 'FFFF00', "root['h_body']": 'FFFF00', "root['h_rightarm']": 'FFFF00', "root['h_pants']": '000080 '}, 'dictionary_item_removed': {"root['t_pattern_la']": '_navyborder', "root['t_pattern_b']": '_navycollar', "root['t_pattern_ra']": '_navyborder', "root['t_leftarm']": 'FFFF00', "root['t_body']": 'FFFF00', "root['t_rightarm']": 'FFFF00', "root['t_pants']": '000080 '}}
+1177: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi (Haier Pakistan)<ref name', 'old_value': 'Javed Afridi<ref name'}}}
+1178: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi<ref name', 'old_value': 'Javed Afridi (Haier Pakistan)<ref name'}}}
+1183: {'dictionary_item_removed': {"root['colors']": 'File:Peshawar zalmi colours.png'}}
+1185: {'values_changed': {"root['colors']": {'new_value': 'File:Peshawar zalmi colours.png', 'old_value': 'File:Peshawar Zalmi team'}}}
+1249: {'values_changed': {"root['founded']": {'new_value': '2015', 'old_value': 'Start date and age'}, "root['t_pattern_la']": {'new_value': '_navyborder', 'old_value': '_blackshoulders'}, "root['t_pattern_b']": {'new_value': '_navycollar', 'old_value': '_blackadidasplate'}, "root['t_pattern_ra']": {'new_value': '_navyborder', 'old_value': '_blackshoulders'}, "root['t_pants']": {'new_value': '000080 ', 'old_value': '000000'}}}
+1264: {'values_changed': {"root['owner']": {'new_value': 'Javed Afridi (Haier Pakistan)<ref name', 'old_value': 'flagicon'}}}
+1265: {'values_changed': {"root['t_pattern_la']": {'new_value': '_blackshoulders', 'old_value': '_yellowshoulders'}, "root['t_pattern_ra']": {'new_value': '_blackshoulders', 'old_value': '_yellowshoulders'}, "root['t_body']": {'new_value': 'FFFF00', 'old_value': '000000'}, "root['t_pants']": {'new_value': '000000', 'old_value': 'FFFF00'}}}
+1278: {'dictionary_item_added': {"root['t_pattern_la']": '_yellowshoulders', "root['t_pattern_b']": '_blackadidasplate', "root['t_pattern_ra']": '_yellowshoulders', "root['t_leftarm']": 'FFFF00', "root['t_body']": '000000', "root['t_rightarm']": 'FFFF00', "root['t_pants']": 'FFFF00'}, 'dictionary_item_removed': {"root['h_pattern_la']": '_blackborder', "root['h_pattern_b']": '_black_chest', "root['h_pattern_ra']": '_blackborder', "root['h_leftarm']": 'FFFF00', "root['h_body']": 'FFFF00', "root['h_rightarm']": 'FFFF00', "root['h_pants']": 'FFFF00', "root['h_title']": 'Home kit', "root['a_pattern_la']": '_borderonblack', "root['a_pattern_b']": '_thinsidesonblack', "root['a_pattern_ra']": '_borderonblack', "root['a_leftarm']": 'C5B358', "root['a_body']": 'C5B358', "root['a_rightarm']": 'C5B358', "root['a_pants']": '000000', "root['a_title']": 'Away kit'}}
+1295: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'TBA'}}}
+1298: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Darren Sammy'}}}
+1299: {'values_changed': {"root['captain']": {'new_value': 'Darren Sammy', 'old_value': 'Daren Sammy'}}}
+1319: {'values_changed': {"root['captain']": {'new_value': 'Daren Sammy', 'old_value': 'Darren Sammy'}}}
+1320: {'values_changed': {"root['captain']": {'new_value': 'Darren Sammy', 'old_value': 'flagicon'}}}
+1350: {'values_changed': {"root['capacity']": {'new_value': '20,000', 'old_value': '29,1754'}}}
+1351: {'values_changed': {"root['capacity']": {'new_value': '29,1754', 'old_value': '20,000'}}}
+1401: {'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium, Peshawar', 'old_value': 'Rawalpindi Cricket Stadium, Rawalpindi'}, "root['capacity']": {'new_value': '20,000', 'old_value': '17,000'}}}
+1416: {'dictionary_item_removed': {"root['a_pattern_pants']": '. 2245CBD'}}
+1439: {'dictionary_item_added': {"root['a_pattern_pants']": '. 2245CBD'}, 'values_changed': {"root['ground']": {'new_value': 'Rawalpindi Cricket Stadium, Rawalpindi', 'old_value': 'Arbab Niaz Stadium, Peshawar'}, "root['capacity']": {'new_value': '17,000', 'old_value': '35,000'}}}
+1451: {'values_changed': {"root['capacity']": {'new_value': '35,000', 'old_value': '35,000 (before reconstruction)'}}}
+1452: {'values_changed': {"root['a_title']": {'new_value': 'Away kit', 'old_value': 'Alternate kit'}}}
+1453: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'TBD'}}}
+1454: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+1462: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'TBD'}}}
+1463: {'values_changed': {"root['coach']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+1469: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'TBD'}}}
+1474: {'values_changed': {"root['coach']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+1475: {'values_changed': {"root['ground']": {'new_value': 'Arbab Niaz Stadium, Peshawar', 'old_value': 'Arbab Niaz Stadium'}}}
+1486: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Peshawar Zalmi( Ali Haider Khan Bangash  lang'}}}
+1491: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi( Ali Haider Khan Bangash  lang', 'old_value': 'Peshawar Zalmi lang'}}}
+1515: {'values_changed': {"root['capacity']": {'new_value': '35,000 (before reconstruction)', 'old_value': '35,000 (after reconstruction)'}}}
+1542: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Wahab Riaz'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Daren Sammy'}, "root['owner']": {'new_value': 'flagicon', 'old_value': 'Javed Afridi (Haier Pakistan)<ref name'}}}
+1558: {'values_changed': {"root['captain']": {'new_value': 'Wahab Riaz', 'old_value': 'TBA'}}}
+1559: {'values_changed': {"root['captain']": {'new_value': 'TBA', 'old_value': 'Wahab Riaz'}}}
+1574: {'values_changed': {"root['name']": {'new_value': 'Peshawar Zalmi lang', 'old_value': 'Peshawar Zalmi'}}}
+1602: {'values_changed': {"root['h_pattern_b']": {'new_value': '_black_chest', 'old_value': '_blue_chest'}, "root['h_pattern_ra']": {'new_value': '_blackborder', 'old_value': '_darkyellowborder'}}}
+1603: {'values_changed': {"root['h_pattern_b']": {'new_value': '_blue_chest', 'old_value': '_black_chest'}, "root['h_pattern_ra']": {'new_value': '_darkyellowborder', 'old_value': '_blackborder'}}}
+1605: {'dictionary_item_added': {"root['h_pattern_la']": '_blackborder', "root['h_pattern_b']": '_black_chest', "root['h_pattern_ra']": '_blackborder', "root['h_leftarm']": 'FFFF00', "root['h_body']": 'FFFF00', "root['h_rightarm']": 'FFFF00', "root['h_pants']": 'FFFF00', "root['h_title']": 'Home kit', "root['a_pattern_la']": '_borderonblack', "root['a_pattern_b']": '_thinsidesonblack', "root['a_pattern_ra']": '_borderonblack', "root['a_leftarm']": 'C5B358', "root['a_body']": 'C5B358', "root['a_rightarm']": 'C5B358', "root['a_pants']": '000000', "root['a_title']": 'Alternate kit'}, 'dictionary_item_removed': {"root['t_pattern_la']": '_blackborder', "root['t_pattern_b']": '_upper_gold', "root['t_pattern_ra']": '_blackborder', "root['t_leftarm']": 'FFDD00', "root['t_body']": '000000', "root['t_rightarm']": 'FFDD00', "root['t_pants']": '000000'}}

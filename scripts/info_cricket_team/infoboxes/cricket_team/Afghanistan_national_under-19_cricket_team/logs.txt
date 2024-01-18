@@ -1,0 +1,5 @@
+3: {'dictionary_item_removed': {"root['county']": 'Afghanistan', "root['captain']": 'Shir Mohammad Shirzai'}}
+7: {'dictionary_item_added': {"root['county']": 'Afghanistan'}, 'dictionary_item_removed': {"root['name']": 'Afghanistan', "root['coach']": 'Dawlat Ahmadzai', "root['founded']": '2009'}, 'values_changed': {"root['captain']": {'new_value': 'Shir Mohammad Shirzai', 'old_value': 'Farhan_Zakhil'}}}
+8: {'values_changed': {"root['coach']": {'new_value': 'Dawlat Ahmadzai', 'old_value': 'Dawlat Khan Zazai'}}}
+11: {'values_changed': {"root['captain']": {'new_value': 'Farhan_Zakhil', 'old_value': 'Farhan Zakhil'}}}
+15: {'values_changed': {"root['captain']": {'new_value': 'Farhan Zakhil', 'old_value': 'Suliman Safi'}}}

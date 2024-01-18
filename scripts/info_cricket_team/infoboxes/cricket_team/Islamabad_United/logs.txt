@@ -1,0 +1,74 @@
+1: {'dictionary_item_removed': {"root['name']": 'Islamabad United', "root['alt_name']": 'ISU', "root['league']": 'Pakistan Super League', "root['city']": 'Islamabad', "root['owner']": 'Venture Capital Leonine Global Sports', "root['founded']": '2015', "root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '25,000'}}
+8: {'dictionary_item_added': {"root['alt_name']": 'ISU'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United', 'old_value': 'Federal Vipers Islamabad'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Federal Vipers Islamabad', 'old_value': 'Islamabad United'}}}
+10: {'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Pakistan'}}}
+11: {'values_changed': {"root['city']": {'new_value': 'Islamabad, Pakistan', 'old_value': 'Islamabad'}}}
+12: {'dictionary_item_removed': {"root['coach']": 'Dean Jones'}}
+13: {'values_changed': {"root['coach']": {'new_value': 'Dean Jones', 'old_value': 'Dean Jones (cricketer)'}}}
+18: {'values_changed': {"root['ground']": {'new_value': 'Rawalpindi Cricket Stadium', 'old_value': 'Diamon Club Ground'}}}
+19: {'values_changed': {"root['ground']": {'new_value': 'Diamon Club Ground', 'old_value': 'Rawalpind Cricket Ground'}}}
+20: {'values_changed': {"root['ground']": {'new_value': 'Rawalpind Cricket Ground', 'old_value': 'Rawalpindi Cricket Ground'}}}
+21: {'values_changed': {"root['ground']": {'new_value': 'Rawalpindi Cricket Ground', 'old_value': 'Rawalpindi Cricket Stadium'}}}
+25: {'dictionary_item_added': {"root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '25,000'}, 'dictionary_item_removed': {"root['alt_name']": 'Nastaliq'}}
+31: {'dictionary_item_removed': {"root['bowlingcoach']": 'Shoaib Akhtar'}}
+32: {'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Pakistan'}}}
+40: {'dictionary_item_added': {"root['alt_name']": 'Nastaliq'}, 'dictionary_item_removed': {"root['venue']": 'Dubai International Cricket Stadium', "root['result']": '"', "root['rain']": ' ----  da'}, 'values_changed': {"root['coach']": {'new_value': 'Dean Jones (cricketer)', 'old_value': 'Dean Jones'}, "root['city']": {'new_value': 'Islamabad, Pakistan', 'old_value': 'Islamabad, Punjab, Pakistan'}}}
+62: {'dictionary_item_added': {"root['venue']": 'Dubai International Cricket Stadium', "root['result']": '"', "root['rain']": ' ----  da'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad, Punjab, Pakistan', 'old_value': 'Islamabad'}}}
+85: {'values_changed': {"root['coach']": {'new_value': 'Dean Jones', 'old_value': 'Dean Jones (cricketer)'}}}
+102: {'dictionary_item_removed': {"root['slogan']": 'United we win'}}
+109: {'dictionary_item_removed': {"root['captain']": 'Misbah-ul-Haq'}}
+171: {'values_changed': {"root['name']": {'new_value': 'Islamabad United', 'old_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ'}}}
+213: {'dictionary_item_removed': {"root['colors']": 'Color sample', "root['ground']": 'Rawalpindi Cricket Stadium, Rawalpindi Capacity', "root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Federal Capital, Pakistan'}, "root['owner']": {'new_value': 'Venture Capital Leonine Global Sports', 'old_value': 'Ali Naqvi, Venture Capital Leonine Global Sports'}}}
+214: {'dictionary_item_added': {"root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad, Federal Capital, Pakistan', 'old_value': 'Islamabad'}, "root['owner']": {'new_value': 'Ali Naqvi, Venture Capital Leonine Global Sports', 'old_value': 'Venture Capital Leonine Global Sports'}, "root['ground']": {'new_value': 'Rawalpindi Cricket Stadium, Rawalpindi Capacity', 'old_value': 'Rawalpindi Cricket Stadium'}}}
+219: {'dictionary_item_removed': {"root['alt_name']": 'اسلام\u200cآباد یونئٹڈ'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ', 'old_value': 'Islamabad United'}, "root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Islamabad Capital Territory'}, "root['slogan']": {'new_value': 'United we win', 'old_value': "'''United We Win'''"}}}
+220: {'values_changed': {"root['alt_name']": {'new_value': 'اسلام\u200cآباد یونئٹڈ', 'old_value': 'Nastaliq'}, "root['slogan']": {'new_value': "'''United We Win'''", 'old_value': "''United We Win''"}}}
+224: {'dictionary_item_added': {"root['alt_name']": 'Nastaliq'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United', 'old_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ'}, "root['city']": {'new_value': 'Islamabad, Islamabad Capital Territory', 'old_value': 'Islamabad'}, "root['slogan']": {'new_value': "''United We Win''", 'old_value': 'United we win'}}}
+227: {'dictionary_item_removed': {"root['alt_name']": 'Nastaliq'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ', 'old_value': 'Islamabad United'}, "root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Islamabad Capital Territory'}, "root['slogan']": {'new_value': 'United we win', 'old_value': "''United We Win''"}}}
+230: {'dictionary_item_added': {"root['alt_name']": 'Nastaliq'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United', 'old_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ'}, "root['city']": {'new_value': 'Islamabad, Islamabad Capital Territory', 'old_value': 'Islamabad'}, "root['slogan']": {'new_value': "''United We Win''", 'old_value': 'United we win'}}}
+237: {'dictionary_item_added': {"root['bowlingcoach']": 'Shoaib Akhtar'}, 'dictionary_item_removed': {"root['PSLwins']": '0'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Federal, Pakistan'}, "root['ground']": {'new_value': 'Rawalpindi Cricket Stadium', 'old_value': 'Rawalpindi Cricket Stadium, Rawalpindi, Pakistan'}}}
+238: {'dictionary_item_added': {"root['ground']": 'Rawalpindi Cricket Stadium, Rawalpindi, Pakistan'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad, Federal, Pakistan', 'old_value': 'Islamabad'}}}
+239: {'dictionary_item_removed': {"root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '25,000'}, 'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'Islamabad, Federal, Pakistan'}, "root['owner']": {'new_value': 'Venture Capital Leonine Global Sports', 'old_value': 'Ali Naqvi, Venture Capital Leonine Global Sports'}, "root['founded']": {'new_value': '2015', 'old_value': '3 December, 2015'}}}
+240: {'values_changed': {"root['city']": {'new_value': 'Islamabad, Federal, Pakistan', 'old_value': 'Islamabad, Islamabad Capital Territory'}}}
+243: {'dictionary_item_added': {"root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '25,000', "root['PSLwins']": '0'}, 'values_changed': {"root['name']": {'new_value': 'Islamabad United ,  اسلام\u200cآباد یونئٹڈ', 'old_value': 'Islamabad United   اسلام\u200cآباد یونئٹڈ'}, "root['city']": {'new_value': 'Islamabad, Islamabad Capital Territory', 'old_value': 'Islamabad'}, "root['owner']": {'new_value': 'Ali Naqvi, Venture Capital Leonine Global Sports', 'old_value': 'Venture Capital Leonine Global Sports'}, "root['founded']": {'new_value': '3 December, 2015', 'old_value': '2015'}}}
+286: {'values_changed': {"root['colors']": {'new_value': 'Color sample', 'old_value': 'File:Islamabad United Kit.jpg'}}}
+287: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United Kit.jpg', 'old_value': 'File:Islamabad_United_Kit.jpg'}}}
+292: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad_United_Kit.jpg', 'old_value': 'File:Islamabad United Kit.jpg'}}}
+293: {'values_changed': {"root['owner']": {'new_value': 'Venture Capital Leonine Global Sports', 'old_value': 'Eatisam Group of Companies'}}}
+294: {'values_changed': {"root['owner']": {'new_value': 'Eatisam Group of Companies', 'old_value': 'Venture Capital Leonine Global Sports'}}}
+326: {'values_changed': {"root['owner']": {'new_value': 'Venture Capital Leonine Global Sports', 'old_value': 'Baber Hameed'}}}
+329: {'values_changed': {"root['owner']": {'new_value': 'Baber Hameed', 'old_value': 'Baber Hameed (Venture Capital Leonine Global Sports)'}}}
+331: {'values_changed': {"root['owner']": {'new_value': 'Baber Hameed (Venture Capital Leonine Global Sports)', 'old_value': '(Venture Capital Leonine Global Sports)'}}}
+347: {'dictionary_item_added': {"root['colors']": 'File:Islamabad United Kit.jpg'}, 'values_changed': {"root['owner']": {'new_value': '(Venture Capital Leonine Global Sports)', 'old_value': '(Leonine Global Sports Ltd)'}}}
+369: {'values_changed': {"root['owner']": {'new_value': '(Leonine Global Sports Ltd)', 'old_value': 'Leonine Global Sports Ltd'}}}
+371: {'dictionary_item_removed': {"root['colors']": 'File:Islamabad United'}}
+381: {'dictionary_item_removed': {"root['PSLwins']": '0'}}
+476: {'dictionary_item_added': {"root['PSLwins']": '0'}, 'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United', 'old_value': 'File:Islamabad United (cricket) Kit.jpg'}}}
+485: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United (cricket) Kit.jpg', 'old_value': 'File:Islamabad United Kit'}}}
+494: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United Kit', 'old_value': 'File:Islamabad United Kit Colors.jpg'}}}
+499: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United Kit Colors.jpg', 'old_value': 'File:Islamabad United Kit'}}}
+502: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United Kit', 'old_value': 'File:Islamabad United'}}}
+516: {'values_changed': {"root['city']": {'new_value': 'Islamabad', 'old_value': 'flagicon'}}}
+517: {'values_changed': {"root['city']": {'new_value': 'flagicon', 'old_value': 'Islamabad'}}}
+622: {'dictionary_item_removed': {"root['PSLwins']": '1'}}
+638: {'values_changed': {"root['owner']": {'new_value': 'Leonine Global Sports Ltd', 'old_value': 'Leonine Global Sports Ltd (Ali Naqvi & Amna Naqvi)'}}}
+670: {'dictionary_item_added': {"root['colors']": 'File:Islamabad United'}, 'dictionary_item_removed': {"root['colours']": 'File:Islamabad United colors.png'}}
+718: {'values_changed': {"root['name']": {'new_value': 'Islamabad United   اسلام\u200cآباد یونئٹڈ', 'old_value': 'Islamabad United   Nastaliq'}}}
+806: {'values_changed': {"root['name']": {'new_value': 'Islamabad United   Nastaliq', 'old_value': 'Islamabad United ,  Nastaliq'}}}
+807: {'values_changed': {"root['name']": {'new_value': 'Islamabad United ,  Nastaliq', 'old_value': 'Islamabad United   Nastaliq'}}}
+821: {'dictionary_item_added': {"root['league']": 'Pakistan Super League', "root['colours']": 'File:Islamabad United colors.png', "root['slogan']": 'United we win', "root['PSLwins']": '1'}, 'dictionary_item_removed': {"root['colors']": 'File:Islamabad United colours.png', "root['ground']": 'Rawalpindi Cricket Stadium', "root['capacity']": '25,000', "root['psl_wins']": '1 (2016 Pakistan Super League', "root['t_pattern_la']": '_redborder', "root['t_pattern_b']": '_yellowangleshoulder', "root['t_pattern_ra']": '_redborder', "root['t_leftarm']": 'FFFF00', "root['t_body']": 'FF0000', "root['t_rightarm']": 'FFFF00', "root['t_pants']": 'FF0000 '}, 'values_changed': {"root['captain']": {'new_value': 'Misbah-ul-Haq', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Dean Jones (cricketer)', 'old_value': 'flagicon'}, "root['owner']": {'new_value': 'Leonine Global Sports Ltd (Ali Naqvi & Amna Naqvi)', 'old_value': 'Leonine Global Sports (Ali Naqvi & Amna Naqvi)'}}}
+825: {'dictionary_item_removed': {"root['second_team']": 'Hong Kong Island United', "root['ceo']": 'Shoaib Naveed', "root['manager']": 'Rehan Ul Haq'}}
+828: {'values_changed': {"root['ceo']": {'new_value': 'Shoaib Naveed', 'old_value': 'Abdul Qatir'}}}
+829: {'values_changed': {"root['manager']": {'new_value': 'Rehan Ul Haq', 'old_value': 'flagicon'}}}
+922: {'dictionary_item_added': {"root['manager']": 'flagicon'}, 'values_changed': {"root['t_pattern_la']": {'new_value': '_redborder', 'old_value': '_maroonhorizontal'}, "root['t_pattern_ra']": {'new_value': '_redborder', 'old_value': '_maroonhorizontal'}}}
+930: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabad United colours.png', 'old_value': 'File:Islamabadcolours.png'}}}
+931: {'values_changed': {"root['colors']": {'new_value': 'File:Islamabadcolours.png', 'old_value': 'File:IUPSL'}}}
+980: {'values_changed': {"root['owner']": {'new_value': 'Leonine Global Sports (Ali Naqvi & Amna Naqvi)', 'old_value': 'Leonine Global Sports'}}}
+989: {'values_changed': {"root['psl_wins']": {'new_value': '1 (2016 Pakistan Super League', 'old_value': '2 (2016 Pakistan Super League'}}}
+1003: {'values_changed': {"root['psl_wins']": {'new_value': '2 (2016 Pakistan Super League', 'old_value': "'''2''' (2016 Pakistan Super League"}}}
+1055: {'values_changed': {"root['founded']": {'new_value': '2015', 'old_value': '2018'}}}
+1056: {'values_changed': {"root['founded']": {'new_value': '2018', 'old_value': '2016'}}}
+1057: {'values_changed': {"root['founded']": {'new_value': '2016', 'old_value': 'Start date and age'}}}
+1078: {'values_changed': {"root['t_pants']": {'new_value': 'FF0000 ', 'old_value': 'FF0000'}}}
+1092: {'dictionary_item_added': {"root['ceo']": 'Abdul Qatir'}, 'dictionary_item_removed': {"root['Coach']": 'Dean Jones', "root['Managers']": 'Hassan Cheema, Rehan-ul-Haq'}}
+1093: {'values_changed': {"root['Managers']": {'new_value': 'Hassan Cheema, Rehan-ul-Haq', 'old_value': 'flagicon'}}}
+1094: {'dictionary_item_added': {"root['Managers']": 'flagicon', "root['Coach']": 'Dean Jones'}, 'dictionary_item_removed': {"root['manager']": 'flagicon'}}

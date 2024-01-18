@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Los Angeles Knight Riders', "root['league']": 'Major League Cricket', "root['city']": 'Orange County, California, USA', "root['owner']": 'Knight Riders Group', "root['founded']": 'Start date and age', "root['ground']": 'Orange County Great Park', "root['capacity']": '10,000 (planned)'}}
+1: {'values_changed': {"root['founded']": {'new_value': 'Start date and age', 'old_value': 'Start date'}}}
+21: {'values_changed': {"root['city']": {'new_value': 'Orange County, California, USA', 'old_value': 'Orange County, California, U.S.'}}}
+26: {'dictionary_item_removed': {"root['colours']": 'Purple and Gold', "root['notable_players']": ['IND Unmukt Chand', 'USA Ali Khan', 'RSA Corné Dry', 'PAK Saif Badar']}}
+28: {'values_changed': {"root['city']": {'new_value': 'Orange County, California, U.S.', 'old_value': 'Los Angeles, California, United States'}}}
+37: {'dictionary_item_removed': {"root['logo']": 'File:Los_Angeles_Knight_Riders_'}}
+62: {'dictionary_item_added': {"root['logo']": 'File:Los_Angeles_Knight_Riders_'}, 'values_changed': {"root['notable_players'][1]": {'new_value': 'USA Ali Khan', 'old_value': 'ENG Jason Roy'}, "root['notable_players'][2]": {'new_value': 'RSA Corné Dry', 'old_value': 'NZL Martin Guptill'}, "root['notable_players'][3]": {'new_value': 'PAK Saif Badar', 'old_value': 'JAM Andre Russell'}}, 'iterable_item_removed': {"root['notable_players'][4]": 'TRI Sunil Narine'}}
+66: {'iterable_item_removed': {"root['notable_players'][5]": 'AUS Adam Zampa'}}
+67: {'iterable_item_removed': {"root['notable_players'][6]": 'NZ Lockie Ferguson'}}
+70: {'iterable_item_added': {"root['notable_players'][2]": 'NZL Martin Guptill', "root['notable_players'][5]": 'AUS Adam Zampa', "root['notable_players'][6]": 'NZ Lockie Ferguson'}}
+75: {'iterable_item_removed': {"root['notable_players'][4]": 'NZ Lockie Ferguson', "root['notable_players'][5]": 'NZ Martin Guptil'}}
+76: {'iterable_item_removed': {"root['notable_players'][6]": 'AUS Adam Zampa'}}

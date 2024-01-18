@@ -1,0 +1,48 @@
+0: {'dictionary_item_removed': {"root['county']": 'IPL Mumbai', "root['founded']": '2008'}}
+25: {'dictionary_item_removed': {"root['captain']": [''], "root['ground']": 'Wankhade Stadium'}}
+26: {'iterable_item_removed': {"root['captain'][1]": 'Captain not yet announced. Guess based on international'}}
+29: {'values_changed': {"root['ground']": {'new_value': 'Wankhade Stadium', 'old_value': 'Brabourne Stadium'}}}
+43: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', 'Home'], 'new_value': 'Brabourne Stadium'}}}
+46: {'type_changes': {"root['captain']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Not yet announced.', 'new_value': ['', 'Captain not yet announced. Guess based on international']}, "root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Undecided.', 'new_value': ['', 'Home']}}}
+60: {'dictionary_item_removed': {"root['owner']": 'Reliance Industries Limited'}}
+65: {'values_changed': {"root['county']": {'new_value': 'IPL Mumbai', 'old_value': 'Mumbai Indians'}, "root['captain']": {'new_value': 'Not yet announced.', 'old_value': 'Sachin Tendulkar.'}}}
+66: {'values_changed': {"root['captain']": {'new_value': 'Sachin Tendulkar.', 'old_value': 'Sachin Tendulkar'}}}
+84: {'dictionary_item_removed': {"root['coach']": 'Lalchand Rajput'}}
+115: {'values_changed': {"root['ground']": {'new_value': 'Undecided.', 'old_value': 'Wankhede Stadium.'}}}
+116: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium.', 'old_value': 'Wankhede Stadium'}}}
+121: {'values_changed': {"root['county']": {'new_value': 'Mumbai Indians', 'old_value': 'Mumbai bangla'}}}
+122: {'values_changed': {"root['county']": {'new_value': 'Mumbai bangla', 'old_value': 'Mumbai INDIANS'}}}
+123: {'values_changed': {"root['county']": {'new_value': 'Mumbai INDIANS', 'old_value': 'Mumbai Indians'}}}
+129: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium', 'old_value': 'Wankhede Stadium/DY PATIL INTERTNATIONAL STADIUM'}}}
+130: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium/DY PATIL INTERTNATIONAL STADIUM', 'old_value': 'Wankhede Stadium / DY PATIL STADIUM,Nerul'}}}
+131: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium / DY PATIL STADIUM,Nerul', 'old_value': 'Wankhede Stadium / Dy Patil Stadium,Nerul'}}}
+132: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium / Dy Patil Stadium,Nerul', 'old_value': 'Wankhede Stadium / DY Patil Stadium,Nerul'}}}
+133: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Wankhede Stadium', 'DY Patil Stadium,Nerul'], 'new_value': 'Wankhede Stadium / DY Patil Stadium,Nerul'}}}
+135: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Wankhede Stadium & DY Patil Stadium,Nerul', 'new_value': ['Wankhede Stadium', 'DY Patil Stadium,Nerul']}}}
+156: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium & DY Patil Stadium,Nerul', 'old_value': 'Wankhede Stadium & DY Patil Stadium, Nerul'}}}
+181: {'dictionary_item_removed': {"root['capacity']": '45,000, 60,000'}}
+182: {'values_changed': {"root['capacity']": {'new_value': '45,000, 60,000', 'old_value': '45,000 & 60,000'}}}
+222: {'dictionary_item_removed': {"root['ceo']": 'R Balachandran', "root['adviser']": 'Harsha Bhogle'}}
+239: {'dictionary_item_removed': {"root['colors']": 'Blue'}}
+242: {'dictionary_item_removed': {"root['bowlingcoach']": 'Subroto Banerjee', "root['fieldingcoach']": 'Sameer Dighe'}}
+245: {'dictionary_item_added': {"root['bowlingcoach']": 'Subroto Banerjee', "root['fieldingcoach']": 'Sameer Dighe', "root['colors']": 'Blue'}, 'values_changed': {"root['adviser']": {'new_value': 'Harsha Bhogle', 'old_value': 'Harsha Bhogle '}}}
+246: {'values_changed': {"root['adviser']": {'new_value': 'Harsha Bhogle ', 'old_value': 'Harsha Bhogle'}}}
+264: {'values_changed': {"root['owner']": {'new_value': 'Reliance Industries Limited', 'old_value': 'Indiawin Sports Pvt. Ltd.'}}}
+265: {'dictionary_item_added': {"root['ceo']": 'R Balachandran', "root['adviser']": 'Harsha Bhogle'}, 'dictionary_item_removed': {"root['Director']": 'R Balachandran', "root['Media']": 'Harsha Bhogle'}}
+268: {'values_changed': {"root['owner']": {'new_value': 'Indiawin Sports Pvt. Ltd.', 'old_value': 'Reliance Industries Limited'}}}
+270: {'dictionary_item_added': {"root['Media']": 'Harsha Bhogle'}, 'dictionary_item_removed': {"root['adviser']": 'Harsha Bhogle'}}
+425: {'values_changed': {"root['owner']": {'new_value': 'Reliance Industries Limited', 'old_value': 'Mukesh Ambani & Reliance Industries Limited'}}}
+440: {'values_changed': {"root['owner']": {'new_value': 'Mukesh Ambani & Reliance Industries Limited', 'old_value': 'Reliance Industries Limited'}}}
+491: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium & DY Patil Stadium, Nerul', 'old_value': 'Wankhede Stadium, Mumbai & DY Patil Stadium'}}}
+500: {'values_changed': {"root['coach']": {'new_value': 'Lalchand Rajput', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Sachin Tendulkar', 'old_value': 'flagicon'}, "root['adviser']": {'new_value': 'Harsha Bhogle', 'old_value': 'flagicon'}}}
+534: {'dictionary_item_added': {"root['county']": 'Mumbai Indians', "root['capacity']": '45,000 & 60,000', "root['Director']": 'R Balachandran', "root['adviser']": 'flagicon'}, 'dictionary_item_removed': {"root['name']": 'Mumbai Indians', "root['league']": 'Indian Premier League', "root['city']": 'Mumbai, Maharashtra, India', "root['ground2']": 'Brabourne Stadium, Mumbai, (Capacity: 25,000)', "root['ipl_wins']": 'File:Simple gold cup.svg', "root['clt20_wins']": 'File:Simple gold cup.svg', "root['t_title']": 'T20 kit', "root['t_pattern_la']": '_bluecuffpiping', "root['t_pattern_b']": '_mi22', "root['t_pattern_ra']": '_bluecuffpiping', "root['t_body']": '0044AA', "root['t_pants']": '0044AA', "root['t_rightarm']": '0044AA', "root['t_leftarm']": '0044AA', "root['current']": 'Mumbai Indians in 2022 '}, 'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Mark Boucher'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Rohit Sharma'}, "root['founded']": {'new_value': '2008', 'old_value': 'Start date and age'}, "root['ground']": {'new_value': 'Wankhede Stadium, Mumbai & DY Patil Stadium', 'old_value': 'Wankhede Stadium, Mumbai (Capacity: 33,108)'}, "root['owner']": {'new_value': 'Reliance Industries Limited', 'old_value': 'Reliance Industries'}}}
+540: {'values_changed': {"root['current']": {'new_value': 'Mumbai Indians in 2022 ', 'old_value': 'Mumbai Indians in 2023 '}}}
+541: {'values_changed': {"root['owner']": {'new_value': 'Reliance Industries', 'old_value': 'Mukesh Ambani'}}}
+551: {'values_changed': {"root['owner']": {'new_value': 'Mukesh Ambani', 'old_value': 'Reliance Industries'}, "root['current']": {'new_value': 'Mumbai Indians in 2023 ', 'old_value': 'Mumbai Indians in 2022 '}}}
+555: {'dictionary_item_removed': {"root['logo_image']": 'Mumbai Indians Logo.svg'}}
+556: {'values_changed': {"root['owner']": {'new_value': 'Reliance Industries', 'old_value': 'Indiawin Sports'}}}
+565: {'values_changed': {"root['ground']": {'new_value': 'Wankhede Stadium, Mumbai (Capacity: 33,108)', 'old_value': 'Wankhede Stadium, Mumbai'}, "root['ground2']": {'new_value': 'Brabourne Stadium, Mumbai, (Capacity: 25,000)', 'old_value': 'Brabourne Stadium, Mumbai'}, "root['ipl_wins']": {'new_value': 'File:Simple gold cup.svg', 'old_value': '2013 Indian Premier League'}, "root['clt20_wins']": {'new_value': 'File:Simple gold cup.svg', 'old_value': '2011 Champions League Twenty20'}}}
+575: {'values_changed': {"root['ipl_wins']": {'new_value': '2013 Indian Premier League', 'old_value': '5'}, "root['clt20_wins']": {'new_value': '2011 Champions League Twenty20', 'old_value': '2'}}}
+633: {'dictionary_item_added': {"root['current']": 'Mumbai Indians in 2022 '}, 'values_changed': {"root['owner']": {'new_value': 'Indiawin Sports', 'old_value': 'Indiawin SportsSahil Pandey'}}}
+634: {'values_changed': {"root['owner']": {'new_value': 'Indiawin SportsSahil Pandey', 'old_value': 'Indiawin Sports Sahil Pandey'}}}
+635: {'values_changed': {"root['owner']": {'new_value': 'Indiawin Sports Sahil Pandey', 'old_value': 'Indiawin Sports'}}}

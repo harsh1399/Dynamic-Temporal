@@ -1,0 +1,63 @@
+8: {'dictionary_item_removed': {"root['name']": 'Dambulla Viiking', "root['league']": 'Lanka Premier League', "root['captain']": 'flagicon', "root['coach']": 'flagicon', "root['city']": 'Dambulla, Central Province, Sri Lanka', "root['colours']": 'colorbox', "root['owner']": 'Sachiin J. Joshi (Viiking Ventures)', "root['founded']": '2020', "root['title1']": 'Lanka Premier League', "root['title1wins']": '0'}}
+10: {'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Stadium'}}
+11: {'dictionary_item_removed': {"root['capacity']": '16,800'}}
+44: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium', "root['capacity']": '16,800'}, 'values_changed': {"root['name']": {'new_value': 'Dambulla Viiking', 'old_value': 'Dambulla Viking'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'Dambulla Viking', 'old_value': 'Dambulla Viiking'}}}
+62: {'values_changed': {"root['colours']": {'new_value': 'colorbox', 'old_value': 'Sachiin J. Joshi (Viiking Ventures)'}}}
+63: {'values_changed': {"root['colours']": {'new_value': 'Sachiin J. Joshi (Viiking Ventures)', 'old_value': 'Black and Gold'}}}
+64: {'values_changed': {"root['colours']": {'new_value': 'Black and Gold', 'old_value': 'Sachiin J. Joshi (Viiking Ventures)'}}}
+65: {'values_changed': {"root['colours']": {'new_value': 'Sachiin J. Joshi (Viiking Ventures)', 'old_value': 'colorbox'}}}
+104: {'values_changed': {"root['city']": {'new_value': 'Dambulla, Central Province, Sri Lanka', 'old_value': 'Dambulla, Matale District, Central Province, Sri Lanka'}}}
+106: {'values_changed': {"root['city']": {'new_value': 'Dambulla, Matale District, Central Province, Sri Lanka', 'old_value': 'Dambulla, Central Province, Sri Lanka'}}}
+107: {'values_changed': {"root['owner']": {'new_value': 'Sachiin J. Joshi (Viiking Ventures)', 'old_value': 'Janaka Thennakoon (Viiking Ventures)'}}}
+108: {'values_changed': {"root['owner']": {'new_value': 'Janaka Thennakoon (Viiking Ventures)', 'old_value': 'Janaka Bandara Thennakoon (Viiking Ventures)'}}}
+109: {'values_changed': {"root['owner']": {'new_value': 'Janaka Bandara Thennakoon (Viiking Ventures)', 'old_value': 'Sachiin J. Joshi (Viiking Ventures)'}}}
+110: {'dictionary_item_removed': {"root['current']": 'Dambulla Viiking in 2020 '}}
+119: {'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Dasun Shanaka'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Owais Shah'}}}
+120: {'values_changed': {"root['founded']": {'new_value': '2020', 'old_value': 'Start date and age'}}}
+122: {'dictionary_item_removed': {"root['t_pattern_b']": '_icehockey_white_yellow_white', "root['t_body']": '800000', "root['t_pants']": '292828', "root['t_rightarm']": '800000', "root['t_leftarm']": '800000'}}
+129: {'values_changed': {"root['t_body']": {'new_value': '800000', 'old_value': '800010'}, "root['t_rightarm']": {'new_value': '800000', 'old_value': '800010'}, "root['t_leftarm']": {'new_value': '800000', 'old_value': '800010'}}}
+140: {'dictionary_item_added': {"root['colours']": 'colorbox', "root['t_pattern_b']": '_icehockey_white_yellow_white', "root['t_body']": '800010', "root['t_pants']": '292828', "root['t_rightarm']": '800010', "root['t_leftarm']": '800010', "root['current']": 'Dambulla Viiking in 2020 '}, 'values_changed': {"root['name']": {'new_value': 'Dambulla Viiking', 'old_value': 'Dambulla Giants'}, "root['captain']": {'new_value': 'Dasun Shanaka', 'old_value': 'TBD'}, "root['coach']": {'new_value': 'Owais Shah', 'old_value': 'TBD'}, "root['owner']": {'new_value': 'Sachiin J. Joshi (Viiking Ventures)', 'old_value': 'Qamar Khan (HAMRO)'}}}
+147: {'values_changed': {"root['captain']": {'new_value': 'TBD', 'old_value': 'flagicon'}}}
+148: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (HAMRO)', 'old_value': 'Qamar Khan (HAMRO Foundation)'}}}
+152: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (HAMRO Foundation)', 'old_value': 'Qamar Khan (Hamro Plc)'}}}
+153: {'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Cricket Stadium'}}
+154: {'values_changed': {"root['ground']": {'new_value': 'Rangiri Dambulla International Cricket Stadium', 'old_value': 'Rangiri Dambulla International Stadium'}}}
+155: {'values_changed': {"root['ground']": {'new_value': 'Rangiri Dambulla International Stadium', 'old_value': 'Rangiri Dambulla International Cricket Stadium'}}}
+157: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Cricket Stadium'}, 'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (Hamro Plc)', 'old_value': 'Qamar Khan (HAMRO Foundation)'}}}
+159: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (HAMRO Foundation)', 'old_value': 'Qamar Khan ( Hamro Plc)'}}}
+160: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan ( Hamro Plc)', 'old_value': 'Qamar Khan (HAMRO Foundation)'}}}
+170: {'dictionary_item_removed': {"root['current']": 'Dambulla Giants in 2021 '}}
+171: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (HAMRO Foundation)', 'old_value': 'HAMRO Foundation'}}}
+183: {'dictionary_item_removed': {"root['t_pattern_b']": '_ahly1011', "root['t_leftarm']": 'B50000', "root['t_body']": 'B50000', "root['t_rightarm']": 'B50000', "root['t_pants']": '000000'}}
+185: {'values_changed': {"root['owner']": {'new_value': 'HAMRO Foundation', 'old_value': 'Qamar Khan (HAMRO Foundation)'}}}
+198: {'dictionary_item_added': {"root['t_pattern_b']": '_ahly1011', "root['t_leftarm']": 'B50000', "root['t_body']": 'B50000', "root['t_rightarm']": 'B50000', "root['t_pants']": '000000'}, 'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Stadium'}}
+201: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium'}, 'values_changed': {"root['captain']": {'new_value': 'flagicon', 'old_value': 'Dasun Shanaka'}, "root['coach']": {'new_value': 'TBD', 'old_value': 'Stuart Law'}}}
+207: {'dictionary_item_removed': {"root['alt_name']": 'Chi chi Team'}}
+213: {'dictionary_item_added': {"root['alt_name']": 'Chi chi Team'}, 'dictionary_item_removed': {"root['colours']": 'colorbox'}}
+218: {'dictionary_item_removed': {"root['ground']": 'Dambulla'}}
+219: {'values_changed': {"root['ground']": {'new_value': 'Dambulla', 'old_value': 'Rangiri Dambulla International Stadium'}}}
+220: {'dictionary_item_removed': {"root['capacity']": '16,800'}, 'values_changed': {"root['ground']": {'new_value': 'Rangiri Dambulla International Stadium', 'old_value': 'Rangiri Dambulla International Stadium, Dambulla'}}}
+224: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium, Dambulla'}, 'dictionary_item_removed': {"root['t_pattern_la']": '_maroonhorizontal', "root['t_pattern_b']": '_manutd30001', "root['t_body']": 'B50000'}}
+232: {'dictionary_item_added': {"root['t_pattern_la']": '_maroonhorizontal', "root['t_pattern_b']": '_manutd30001', "root['t_body']": 'B50000'}, 'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Stadium'}}
+236: {'values_changed': {"root['ground']": {'new_value': 'Rangiri Dambulla International Stadium', 'old_value': 'Rangiri Dabulla International Stadium'}}}
+237: {'values_changed': {"root['ground']": {'new_value': 'Rangiri Dabulla International Stadium', 'old_value': 'Rangiri Dambulla International Stadium'}}}
+240: {'values_changed': {"root['captain']": {'new_value': 'Dasun Shanaka', 'old_value': 'Niroshan Dickwella'}}}
+245: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium', "root['capacity']": '16,800'}, 'dictionary_item_removed': {"root['t_pattern_la']": '_black_hoop', "root['t_pattern_b']": '_black chest', "root['t_pattern_ra']": '_black_hoop', "root['t_leftarm']": 'FF0000', "root['t_body']": 'FF0000', "root['t_rightarm']": 'FF0000', "root['t_pants']": '000000'}}
+248: {'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Stadium'}}
+252: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium'}, 'values_changed': {"root['captain']": {'new_value': 'Niroshan Dickwella', 'old_value': 'Dasun Shanaka'}}}
+256: {'dictionary_item_added': {"root['colours']": 'colorbox'}, 'values_changed': {"root['owner']": {'new_value': 'Qamar Khan (HAMRO Foundation)', 'old_value': 'HAMRO Foundation'}, "root['title1wins']": {'new_value': '0', 'old_value': "'''0'''"}}}
+272: {'values_changed': {"root['owner']": {'new_value': 'HAMRO Foundation', 'old_value': 'Mr. Qamar Kahn MBE'}}}
+273: {'values_changed': {"root['owner']": {'new_value': 'Mr. Qamar Kahn MBE', 'old_value': 'Qamar Khan MBE'}}}
+293: {'dictionary_item_added': {"root['current']": 'Dambulla Giants in 2021 '}, 'values_changed': {"root['coach']": {'new_value': 'Stuart Law', 'old_value': 'TBD'}}}
+294: {'values_changed': {"root['name']": {'new_value': 'Dambulla Giants', 'old_value': 'Dambulla aura'}, "root['owner']": {'new_value': 'Qamar Khan MBE', 'old_value': 'aura group'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Dambulla aura', 'old_value': 'Dambulla Giants'}, "root['owner']": {'new_value': 'aura group', 'old_value': 'Qamar Khan MBE'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Dambulla Giants', 'old_value': 'Dambulla aura'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'Dambulla aura', 'old_value': 'Dambulla Giants'}}}
+298: {'values_changed': {"root['owner']": {'new_value': 'Qamar Khan MBE', 'old_value': 'aura group'}}}
+299: {'values_changed': {"root['owner']": {'new_value': 'aura group', 'old_value': 'Qamar Khan MBE'}}}
+301: {'dictionary_item_removed': {"root['ground']": 'Rangiri Dambulla International Stadium', "root['capacity']": '25000'}, 'values_changed': {"root['name']": {'new_value': 'Dambulla Giants', 'old_value': 'Dambulla Aura'}, "root['owner']": {'new_value': 'Qamar Khan MBE', 'old_value': 'Viranjith Thabugala'}}}
+303: {'dictionary_item_added': {"root['ground']": 'Rangiri Dambulla International Stadium', "root['capacity']": '25000'}, 'values_changed': {"root['name']": {'new_value': 'Dambulla Aura', 'old_value': 'Dambulla Giants'}, "root['owner']": {'new_value': 'Viranjith Thabugala', 'old_value': 'Qamar Khan MBE'}}}
+304: {'dictionary_item_added': {"root['owner']": 'Qamar Khan MBE'}, 'values_changed': {"root['name']": {'new_value': 'Dambulla Giants', 'old_value': 'Dambulla Aura'}}}
+331: {'dictionary_item_removed': {"root['owner']": 'Viranjith Thambugala'}}
+333: {'values_changed': {"root['coach']": {'new_value': 'TBD', 'old_value': 'Mickey Arthur'}, "root['owner']": {'new_value': 'Viranjith Thambugala', 'old_value': 'Viranjith Thambugala ! AURA LANKA SPORTS'}}}

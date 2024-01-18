@@ -1,0 +1,132 @@
+7: {'dictionary_item_removed': {"root['county']": 'Sahara Pune Warriors', "root['founded']": 'April, 2010', "root['ground']": 'Pune International Cricket Centre', "root['owner']": 'Sahara Group'}}
+18: {'values_changed': {"root['owner']": {'new_value': 'Sahara Group', 'old_value': 'Sahara Group '}}}
+25: {'dictionary_item_removed': {"root['Twitter']": 'http://www.twitter.com/saharawarriors http://www.twitter.com/saharawarriors '}, 'values_changed': {"root['owner']": {'new_value': 'Sahara Group ', 'old_value': 'Sahara Group'}}}
+27: {'dictionary_item_added': {"root['Twitter']": 'http://www.twitter.com/saharawarriors http://www.twitter.com/saharawarriors '}, 'values_changed': {"root['owner']": {'new_value': 'Sahara Group', 'old_value': 'Sahara Group '}}}
+32: {'values_changed': {"root['founded']": {'new_value': 'April, 2010', 'old_value': 'March 21, 2010'}}}
+51: {'values_changed': {"root['owner']": {'new_value': 'Sahara Group ', 'old_value': 'Sahara Group'}}}
+52: {'dictionary_item_removed': {"root['Coach']": 'Geoff Marsh'}}
+53: {'values_changed': {"root['Coach']": {'new_value': 'Geoff Marsh', 'old_value': 'Geoff_Marsh'}}}
+64: {'dictionary_item_removed': {"root['Facebook']": 'http://www.facebook.com/#!/group.php?gid'}}
+75: {'values_changed': {"root['Coach']": {'new_value': 'Geoff_Marsh', 'old_value': 'Geoff Marsh'}}}
+81: {'dictionary_item_removed': {"root['colors']": 'Orange, White and Green  color box'}}
+120: {'dictionary_item_added': {"root['Facebook']": 'http://www.facebook.com/#!/group.php?gid'}, 'values_changed': {"root['colors']": {'new_value': 'Orange, White and Green  color box', 'old_value': 'Orange, White and Green  #F26427 white #428C3A ##website'}}}
+140: {'dictionary_item_added': {"root['Coach']": 'Geoff Marsh'}, 'dictionary_item_removed': {"root['coach']": 'Geoff Marsh'}, 'values_changed': {"root['colors']": {'new_value': 'Orange, White and Green  #F26427 white #428C3A ##website', 'old_value': 'Orange, White and Green  color box'}}}
+147: {'values_changed': {"root['colors']": {'new_value': 'Orange, White and Green  color box', 'old_value': 'Cr-IPL/Flags'}}}
+157: {'dictionary_item_removed': {"root['captain']": 'Yuvraj Singh'}}
+187: {'values_changed': {"root['captain']": {'new_value': 'Yuvraj Singh', 'old_value': 'Graeme Smith'}}}
+208: {'dictionary_item_added': {"root['captain']": 'Graeme Smith', "root['colors']": 'Cr-IPL/Flags'}, 'dictionary_item_removed': {"root['Captain']": 'Yuvraj Singh'}}
+229: {'dictionary_item_added': {"root['coach']": 'Geoff Marsh'}, 'dictionary_item_removed': {"root['Capacity']": '55,000'}}
+285: {'dictionary_item_added': {"root['Capacity']": '55,000'}, 'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors', 'old_value': 'Pune Warriors India'}}}
+289: {'values_changed': {"root['ground']": {'new_value': 'Pune International Cricket Centre', 'old_value': 'DY Patil Stadium,Vidyanagar campus, Nerul, Navi Mumbai, India (Capacity :  60,000)'}}}
+293: {'values_changed': {"root['ground']": {'new_value': 'DY Patil Stadium,Vidyanagar campus, Nerul, Navi Mumbai, India (Capacity :  60,000)', 'old_value': 'DY Patil Stadium ,Vidyanagar campus, Nerul, Navi Mumbai, India (Capacity :  60,000)'}}}
+295: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['DY Patil Stadium (Capacity: 60000)'], 'new_value': 'DY Patil Stadium ,Vidyanagar campus, Nerul, Navi Mumbai, India (Capacity :  60,000)'}}}
+297: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'DY Patil Stadium (Capacity: 60000)', 'new_value': ['DY Patil Stadium (Capacity: 60000)']}}}
+298: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['DY Patil Stadium (Capacity: 60000)'], 'new_value': 'DY Patil Stadium (Capacity: 60000)'}}}
+300: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'DY Patil Stadium (Capacity: 60000)', 'new_value': ['DY Patil Stadium (Capacity: 60000)']}}}
+313: {'values_changed': {"root['ground']": {'new_value': 'DY Patil Stadium (Capacity: 60000)', 'old_value': 'Pune International Cricket Centre (Capacity: 55000)'}}}
+327: {'dictionary_item_removed': {"root['coach']": 'Geoff Marsh'}}
+331: {'dictionary_item_added': {"root['Captain']": 'Yuvraj Singh'}, 'dictionary_item_removed': {"root['captain']": 'flagicon'}, 'values_changed': {"root['founded']": {'new_value': 'March 21, 2010', 'old_value': '2010'}, "root['coach']": {'new_value': 'Geoff Marsh', 'old_value': 'flagicon'}}}
+332: {'dictionary_item_removed': {"root['colors']": 'Cr-IPL/Flags'}}
+340: {'values_changed': {"root['ground']": {'new_value': 'Pune International Cricket Centre (Capacity: 55000)', 'old_value': 'flagicon'}, "root['owner']": {'new_value': 'Sahara Group', 'old_value': 'flagicon'}}}
+352: {'values_changed': {"root['ground']": {'new_value': 'flagicon', 'old_value': 'Pune International Cricket Centre (Capacity: 55000)  DY Patil Stadium (Capacity: 55000)'}}}
+353: {'values_changed': {"root['ground']": {'new_value': 'Pune International Cricket Centre (Capacity: 55000)  DY Patil Stadium (Capacity: 55000)', 'old_value': 'Pune International Cricket Centre (Capacity: 55000) DY Patil Stadium (Capacity: 55000)'}}}
+354: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Pune International Cricket Centre (Capacity: 55000)', 'DY Patil Stadium (Capacity: 55000)'], 'new_value': 'Pune International Cricket Centre (Capacity: 55000) DY Patil Stadium (Capacity: 55000)'}}}
+409: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'flagicon', 'new_value': ['Pune International Cricket Centre (Capacity: 55000)', 'DY Patil Stadium (Capacity: 55000)']}}}
+418: {'dictionary_item_removed': {"root['vice']": 'Robin Uthappa'}}
+419: {'values_changed': {"root['vice']": {'new_value': 'Robin Uthappa', 'old_value': 'flagicon'}}}
+452: {'dictionary_item_removed': {"root['name']": 'Pune Warriors India', "root['color1']": 'grey', "root['color2']": 'black', "root['logo']": 'Pune_Warriors_India.png'}}
+551: {'dictionary_item_added': {"root['name']": 'Pune Warriors India', "root['color1']": 'grey', "root['color2']": 'black', "root['logo']": 'Pune_Warriors_India.png'}, 'values_changed': {"root['county']": {'new_value': 'Pune Warriors India', 'old_value': 'Pune Warriors India owned by kshitiz srivastava'}}}
+552: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India owned by kshitiz srivastava', 'old_value': 'Pune Warriors India'}}}
+558: {'values_changed': {"root['colors']": {'new_value': 'Cr-IPL/Flags', 'old_value': 'File:Pune warriors colours.svg'}}}
+562: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India', 'old_value': 'Pune Warriors India ,  पुणे वर्रीओर्स इंडिया'}}}
+564: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': '-'}, "root['captain']": {'new_value': 'flagicon', 'old_value': '-'}}}
+565: {'values_changed': {"root['coach']": {'new_value': '-', 'old_value': 'Sourav Ganguly'}, "root['captain']": {'new_value': '-', 'old_value': 'Sourav Ganguly'}}}
+566: {'values_changed': {"root['coach']": {'new_value': 'Sourav Ganguly', 'old_value': '-'}, "root['captain']": {'new_value': 'Sourav Ganguly', 'old_value': '-'}}}
+575: {'values_changed': {"root['captain']": {'new_value': '-', 'old_value': 'Sourav Ganguly'}}}
+584: {'values_changed': {"root['captain']": {'new_value': 'Sourav Ganguly', 'old_value': 'Yuvraj Singh'}, "root['ground']": {'new_value': 'flagicon', 'old_value': 'Subatroy Sahara Stadium flagicon'}}}
+585: {'values_changed': {"root['captain']": {'new_value': 'Yuvraj Singh', 'old_value': 'Sourav Ganguly'}}}
+589: {'dictionary_item_added': {"root['vice']": 'flagicon'}, 'values_changed': {"root['coach']": {'new_value': '-', 'old_value': 'flagicon'}, "root['captain']": {'new_value': 'Sourav Ganguly', 'old_value': 'flagicon'}}}
+602: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Pune International Cricket Centre'], 'new_value': 'Subatroy Sahara Stadium flagicon'}}}
+628: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'flagicon', 'new_value': ['Pune International Cricket Centre']}}}
+629: {'type_changes': {"root['ground']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Pune International Cricket Centre'], 'new_value': 'flagicon'}}, 'values_changed': {"root['owner']": {'new_value': 'flagicon', 'old_value': 'Sahara Group'}}}
+633: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India ,  पुणे वर्रीओर्स इंडिया', 'old_value': 'Pune Warriors India ,  पुणे वॉरियर्स इंडिया'}, "root['owner']": {'new_value': 'Sahara Group', 'old_value': 'flagicon'}}}
+635: {'type_changes': {"root['ground']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'flagicon', 'new_value': ['Pune International Cricket Centre']}}}
+650: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India ,  पुणे वॉरियर्स इंडिया', 'old_value': 'Pune Warriors  ,  पुणे वॉरियर्स इंडिया'}}}
+678: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors  ,  पुणे वॉरियर्स इंडिया', 'old_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया'}}}
+680: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया', 'old_value': 'Sahara Pune Warriors India   पुणे वॉरियर्स इंडिया   সাহারা পুনে বার্রীয়র্স ইন্ডিয়া'}}}
+682: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India   पुणे वॉरियर्स इंडिया   সাহারা পুনে বার্রীয়র্স ইন্ডিয়া', 'old_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया'}}}
+683: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया', 'old_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया  পুনে বার্রীয়র্স ইন্ডিয়া'}}}
+684: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया  পুনে বার্রীয়র্স ইন্ডিয়া', 'old_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया'}}}
+685: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India  ,  पुणे वॉरियर्स इंडिया', 'old_value': 'Sahara Pune Warriors India'}}}
+686: {'dictionary_item_added': {"root['coach']": 'flagicon'}, 'dictionary_item_removed': {"root['mentor']": 'flagicon'}}
+687: {'dictionary_item_added': {"root['mentor']": 'flagicon'}, 'dictionary_item_removed': {"root['coach']": 'flagicon'}}
+688: {'values_changed': {"root['county']": {'new_value': 'Sahara Pune Warriors India', 'old_value': 'Pune Warriors India'}}}
+696: {'dictionary_item_added': {"root['coach']": 'flagicon'}, 'dictionary_item_removed': {"root['Batting']": 'flagicon', "root['Bowling']": 'flagicon'}}
+790: {'dictionary_item_added': {"root['owner']": 'flagicon'}, 'dictionary_item_removed': {"root['Facebook']": 'http://www.facebook.com/punewarriorsindia.ipl/ punewarriorsindia.ipl', "root['Twitter']": 'http://twitter.com/#!/punewarriorsipl/ punewarriorsipl |'}}
+791: {'dictionary_item_removed': {"root['owner']": 'flagicon'}}
+804: {'dictionary_item_added': {"root['county']": 'Pune Warriors India'}, 'values_changed': {"root['Facebook']": {'new_value': 'http://www.facebook.com/punewarriorsindia.ipl/ punewarriorsindia.ipl', 'old_value': 'http://www.facebook.com/punewarriorsipl/ punewarriorsipl'}}}
+823: {'values_changed': {"root['colors']": {'new_value': 'File:Pune warriors colours.svg', 'old_value': 'flagicon'}}}
+866: {'dictionary_item_removed': {"root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''"}, 'values_changed': {"root['founded']": {'new_value': '2010', 'old_value': '2011'}}}
+867: {'dictionary_item_added': {"root['Batting']": 'flagicon', "root['Bowling']": 'flagicon'}, 'dictionary_item_removed': {"root['county']": 'Pune Warriors India', "root['coach']": 'flagicon', "root['batting']": 'flagicon', "root['bowling']": 'flagicon'}, 'values_changed': {"root['colors']": {'new_value': 'flagicon', 'old_value': 'Turquoise blue and Silver'}}}
+868: {'dictionary_item_removed': {"root['title2']": 'Champions League T20', "root['title2wins']": "'''0'''"}}
+871: {'values_changed': {"root['Facebook']": {'new_value': 'http://www.facebook.com/punewarriorsipl/ punewarriorsipl', 'old_value': 'https://www.facebook.com/punewarriorsindia.ipl / punewarriorsipl'}}}
+885: {'values_changed': {"root['Facebook']": {'new_value': 'https://www.facebook.com/punewarriorsindia.ipl / punewarriorsipl', 'old_value': 'https://www.facebook.com/punewarriorsipl / punewarriorsipl'}}}
+890: {'values_changed': {"root['Facebook']": {'new_value': 'https://www.facebook.com/punewarriorsipl / punewarriorsipl', 'old_value': 'https://http://www.facebook.com/punewarriorsindia.ipl'}, "root['Twitter']": {'new_value': 'http://twitter.com/#!/punewarriorsipl/ punewarriorsipl |', 'old_value': 'http://http://twitter.com/#!/punewarriorsipl '}}}
+906: {'values_changed': {"root['Facebook']": {'new_value': 'https://http://www.facebook.com/punewarriorsindia.ipl', 'old_value': 'https://http://www.facebook.com/punewarriorsipl'}}}
+907: {'values_changed': {"root['Twitter']": {'new_value': 'http://http://twitter.com/#!/punewarriorsipl ', 'old_value': 'http://twitter.com/#!/punewarriorsipl '}}}
+934: {'dictionary_item_added': {"root['batting']": 'flagicon', "root['bowling']": 'flagicon'}, 'dictionary_item_removed': {"root['bowlingcoach']": 'flagicon'}}
+977: {'values_changed': {"root['colors']": {'new_value': 'Turquoise blue and Silver', 'old_value': 'File:Pune Warriors India colours.svg'}}}
+979: {'values_changed': {"root['colors']": {'new_value': 'File:Pune Warriors India colours.svg', 'old_value': 'Turquoise blue and Silver'}}}
+1021: {'dictionary_item_added': {"root['county']": 'Pune Warriors India', "root['captain']": 'flagicon', "root['coach']": 'flagicon', "root['bowlingcoach']": 'flagicon', "root['Facebook']": 'https://http://www.facebook.com/punewarriorsipl', "root['Twitter']": 'http://twitter.com/#!/punewarriorsipl '}, 'dictionary_item_removed': {"root['County']": 'Pune Warriors India', "root['Mentor']": 'flagicon', "root['Coach']": 'flagicon', "root['Bowling']": 'flagicon', "root['Captain']": 'flagicon'}}
+1022: {'dictionary_item_added': {"root['County']": 'Pune Warriors India'}, 'dictionary_item_removed': {"root['county']": 'Pune Warriors India'}}
+1048: {'dictionary_item_added': {"root['Captain']": 'flagicon'}, 'dictionary_item_removed': {"root['captain']": 'flagicon', "root['city']": 'Pune, Maharashtra'}, 'values_changed': {"root['colors']": {'new_value': 'Turquoise blue and Silver', 'old_value': 'Turquoise blue, Silver'}, "root['owner']": {'new_value': 'flagicon', 'old_value': 'Sahara India Pariwar'}}}
+1071: {'dictionary_item_added': {"root['Mentor']": 'flagicon'}, 'values_changed': {"root['Coach']": {'new_value': 'flagicon', 'old_value': 'Praveen Amre'}, "root['Bowling']": {'new_value': 'flagicon', 'old_value': 'Allan Donald'}, "root['captain']": {'new_value': 'flagicon', 'old_value': 'Sourav Ganguly'}}}
+1090: {'dictionary_item_added': {"root['Coach']": 'Praveen Amre', "root['Bowling']": 'Allan Donald'}, 'dictionary_item_removed': {"root['coach']": 'Praveen Amre', "root['bowlingcoach']": 'Allan Donald'}, 'values_changed': {"root['captain']": {'new_value': 'Sourav Ganguly', 'old_value': 'Yuvraj Singh'}}}
+1105: {'values_changed': {"root['founded']": {'new_value': '2011', 'old_value': '2010'}}}
+1112: {'values_changed': {"root['captain']": {'new_value': 'Yuvraj Singh', 'old_value': 'Angelo Mathews'}}}
+1115: {'values_changed': {"root['captain']": {'new_value': 'Angelo Mathews', 'old_value': 'Yuvraj Singh'}}}
+1116: {'values_changed': {"root['ground']": {'new_value': 'flagicon', 'old_value': 'Pune International Cricket Centre'}}}
+1117: {'values_changed': {"root['colors']": {'new_value': 'Turquoise blue, Silver', 'old_value': 'Turquoise blue, silver'}}}
+1122: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India', 'old_value': 'Pune Warrior India'}}}
+1123: {'values_changed': {"root['title1wins']": {'new_value': "'''0'''", 'old_value': "'''4'''"}}}
+1124: {'values_changed': {"root['coach']": {'new_value': 'Praveen Amre', 'old_value': 'Mayuresh Bhattu'}}}
+1125: {'values_changed': {"root['coach']": {'new_value': 'Mayuresh Bhattu', 'old_value': 'Praveen Amre'}}}
+1126: {'values_changed': {"root['title1wins']": {'new_value': "'''4'''", 'old_value': "'''0'''"}}}
+1127: {'values_changed': {"root['county']": {'new_value': 'Pune Warrior India', 'old_value': 'Pune Warriors India'}}}
+1218: {'values_changed': {"root['coach']": {'new_value': 'Praveen Amre', 'old_value': 'Dermot Reeve'}}}
+1219: {'values_changed': {"root['captain']": {'new_value': 'Yuvraj Singh', 'old_value': 'Angelo Mathews'}}}
+1220: {'values_changed': {"root['coach']": {'new_value': 'Dermot Reeve', 'old_value': 'Sourav Ganguly'}}}
+1221: {'values_changed': {"root['bowlingcoach']": {'new_value': 'Allan Donald', 'old_value': 'Wasim Akram'}, "root['title1wins']": {'new_value': "'''0'''", 'old_value': "'''6'''"}, "root['title2wins']": {'new_value': "'''0'''", 'old_value': "'''3'''"}}}
+1222: {'values_changed': {"root['bowlingcoach']": {'new_value': 'Wasim Akram', 'old_value': 'Allan Donald'}, "root['captain']": {'new_value': 'Angelo Mathews', 'old_value': 'Micheal Clarke/Yuvraj Singh'}, "root['title1wins']": {'new_value': "'''6'''", 'old_value': "'''0'''"}, "root['title2wins']": {'new_value': "'''3'''", 'old_value': "'''0'''"}}}
+1223: {'values_changed': {"root['captain']": {'new_value': 'Micheal Clarke/Yuvraj Singh', 'old_value': 'Micheal Clarke'}}}
+1225: {'values_changed': {"root['captain']": {'new_value': 'Micheal Clarke', 'old_value': 'Michael Clarke'}}}
+1226: {'values_changed': {"root['captain']": {'new_value': 'Michael Clarke', 'old_value': 'Yuvraj Singh'}}}
+1227: {'values_changed': {"root['coach']": {'new_value': 'Sourav Ganguly', 'old_value': 'Praveen Amre'}}}
+1229: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India', 'old_value': 'Pune Warriors India (The Champions)'}}}
+1242: {'dictionary_item_added': {"root['bowlingcoach']": 'Allan Donald'}, 'values_changed': {"root['coach']": {'new_value': 'Praveen Amre', 'old_value': 'Allan Donald'}, "root['captain']": {'new_value': 'Yuvraj Singh', 'old_value': 'Angelo Mathews'}}}
+1243: {'dictionary_item_added': {"root['coach']": 'Allan Donald'}, 'dictionary_item_removed': {"root['Head']": 'Allan Donald', "root['Assistant']": 'Praveen Amre', "root['Fitness']": 'Rob Walters'}}
+1244: {'dictionary_item_added': {"root['Head']": 'Allan Donald', "root['Assistant']": 'Praveen Amre', "root['Fitness']": 'Rob Walters'}, 'dictionary_item_removed': {"root['head']": 'Allan Donald', "root['assistant']": 'Praveen Amre', "root['fitness']": 'Rob Walters'}}
+1245: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India (The Champions)', 'old_value': 'Pune Warriors India'}}}
+1284: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India', 'old_value': 'Pune Warriors India  पुणे वारियर्स इंडिया'}}}
+1291: {'values_changed': {"root['county']": {'new_value': 'Pune Warriors India  पुणे वारियर्स इंडिया', 'old_value': 'पुणे वारियर्स इंडिया Pune Warriors India'}}}
+1292: {'values_changed': {"root['county']": {'new_value': 'पुणे वारियर्स इंडिया Pune Warriors India', 'old_value': 'पुणे व्हारीयार्स इंडिया Pune Warriors India'}}}
+1293: {'values_changed': {"root['ground']": {'new_value': 'Pune International Cricket Centre', 'old_value': 'Pune International Cricket Centre, (Capacity: 55,000)'}}}
+1299: {'values_changed': {"root['county']": {'new_value': 'पुणे व्हारीयार्स इंडिया Pune Warriors India', 'old_value': 'Pune Warriors India ,  पुणे व्हारीयार्स इंडिया'}}}
+1302: {'values_changed': {"root['captain']": {'new_value': 'Angelo Mathews', 'old_value': 'Rahul Dravid'}}}
+1303: {'values_changed': {"root['captain']": {'new_value': 'Rahul Dravid', 'old_value': 'Angelo Mathews'}}}
+1375: {'dictionary_item_added': {"root['county']": 'Pune Warriors India ,  पुणे व्हारीयार्स इंडिया', "root['head']": 'Allan Donald', "root['assistant']": 'Praveen Amre', "root['fitness']": 'Rob Walters', "root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''", "root['title2']": 'Champions League T20', "root['title2wins']": "'''0'''"}, 'dictionary_item_removed': {"root['team_name']": 'Pune Warriors India', "root['alt_name']": 'पुणे वारीयर्स इंडिया', "root['logo_image']": 'Pune Warriors logo.jpg', "root['bg_color']": '#33CCCC', "root['text_color']": 'white', "root['head_coach']": 'Allan Donald', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''"}, 'values_changed': {"root['ground']": {'new_value': 'Pune International Cricket Centre, (Capacity: 55,000)', 'old_value': 'Subrata Roy Sahara Stadium,  (Capacity: 55,500)'}, "root['owner']": {'new_value': 'Sahara India Pariwar', 'old_value': 'Sahara Adventure Sports India (Sahara India Pariwar)'}}}
+1377: {'values_changed': {"root['captain']": {'new_value': 'Angelo Mathews', 'old_value': 'Aaron Finch'}}}
+1378: {'values_changed': {"root['captain']": {'new_value': 'Aaron Finch', 'old_value': 'Abhinav Deb'}}}
+1379: {'values_changed': {"root['captain']": {'new_value': 'Abhinav Deb', 'old_value': 'Aaron Finch'}}}
+1382: {'values_changed': {"root['alt_name']": {'new_value': 'पुणे वारीयर्स इंडिया', 'old_value': 'पुणे वॉरीयर्स इंडिया'}}}
+1393: {'values_changed': {"root['logo_image']": {'new_value': 'Pune Warriors logo.jpg', 'old_value': 'Pune Warriors India IPL Logo.png'}}}
+1413: {'values_changed': {"root['ipl_wins']": {'new_value': "'''0'''", 'old_value': "'''2'''"}}}
+1414: {'values_changed': {"root['ipl_wins']": {'new_value': "'''2'''", 'old_value': "'''0'''"}}}
+1438: {'values_changed': {"root['captain']": {'new_value': 'Aaron Finch', 'old_value': 'flagicon'}, "root['head_coach']": {'new_value': 'Allan Donald', 'old_value': 'flagicon'}}}
+1443: {'values_changed': {"root['ground']": {'new_value': 'Subrata Roy Sahara Stadium,  (Capacity: 55,500)', 'old_value': 'Subrata Roy Sahara Stadium,  (Capacity: 55,500)<ref name'}}}
+1476: {'values_changed': {"root['owner']": {'new_value': 'Sahara Adventure Sports India (Sahara India Pariwar)', 'old_value': 'Sahara Adventure Sports India (a group company of Sahara India Pariwar)'}}}
+1493: {'dictionary_item_removed': {"root['ceased']": '2013'}}
+1551: {'values_changed': {"root['ground']": {'new_value': 'Subrata Roy Sahara Stadium,  (Capacity: 55,500)<ref name', 'old_value': 'DY Patil Stadium  (2011 Indian Premier League'}}}
+1556: {'dictionary_item_added': {"root['team_name']": 'Pune Warriors India', "root['alt_name']": 'पुणे वॉरीयर्स इंडिया', "root['logo_image']": 'Pune Warriors India IPL Logo.png', "root['ceased']": '2013', "root['bg_color']": '#33CCCC', "root['text_color']": 'white', "root['colors']": 'Turquoise blue, silver', "root['captain']": 'flagicon', "root['head_coach']": 'flagicon', "root['ipl_wins']": "'''0'''", "root['clt20_wins']": "'''0'''"}, 'dictionary_item_removed': {"root['county']": 'Pune Warriors India, पुणे वॉरीयर्स इंडिया', "root['dissolved']": '2013', "root['title1']": 'Indian Premier League', "root['title1wins']": "'''0'''", "root['title2']": 'CLT20', "root['title2wins']": "'''0'''"}, 'values_changed': {"root['city']": {'new_value': 'Pune, Maharashtra', 'old_value': 'http://www.espncricinfo.com/india/content/ground/343050.html'}}}
+1617: {'values_changed': {"root['ground']": {'new_value': 'DY Patil Stadium  (2011 Indian Premier League', 'old_value': '(2011 Indian Premier League'}}}
+1618: {'values_changed': {"root['ground']": {'new_value': '(2011 Indian Premier League', 'old_value': 'DY Patil Stadium  (2011 Indian Premier League'}}}

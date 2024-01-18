@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['county']": 'Sydney Sixers', "root['colors']": 'color box', "root['coach']": 'flagicon', "root['captain']": 'flagicon', "root['founded']": '2011/12', "root['ground']": 'Sydney Cricket Ground', "root['capacity']": '46,000', "root['T20debutvs']": 'TBA', "root['T20debutyr']": '2010/11', "root['T20debutvenue']": 'TBA', "root['title1']": 'Big Bash League', "root['title1wins']": '0'}}
+16: {'dictionary_item_removed': {"root['General']": 'flagicon'}}
+41: {'dictionary_item_added': {"root['captain']": 'flagicon'}, 'dictionary_item_removed': {"root['inaugral']": '2011/12'}, 'values_changed': {"root['founded']": {'new_value': '2011/12', 'old_value': '2011'}}}
+42: {'dictionary_item_removed': {"root['captain']": 'flagicon'}}
+50: {'dictionary_item_added': {"root['inaugral']": '2011/12', "root['T20debutvs']": 'TBA'}, 'values_changed': {"root['capacity']": {'new_value': '46,000', 'old_value': '46,000 <!-- parameters not supported by template'}, "root['T20debutvenue']": {'new_value': 'TBA', 'old_value': 'TBA -->'}}}
+79: {'values_changed': {"root['title1wins']": {'new_value': '0', 'old_value': '1'}}}
+81: {'values_changed': {"root['title1wins']": {'new_value': '1', 'old_value': '2'}}}
+88: {'values_changed': {"root['title1wins']": {'new_value': '2', 'old_value': '1'}}}
+89: {'dictionary_item_removed': {"root['title2']": 'Champions League Twenty20', "root['title2wins']": '0'}}
+124: {'values_changed': {"root['title2wins']": {'new_value': '0', 'old_value': '1'}}}
+128: {'values_changed': {"root['title1wins']": {'new_value': '1', 'old_value': "'''1''' '''(2012 Big Bash League"}, "root['title2wins']": {'new_value': '1', 'old_value': "'''1''' '''(2012 Champions League Twenty20"}}}
+129: {'values_changed': {"root['title1wins']": {'new_value': "'''1''' '''(2012 Big Bash League", 'old_value': "'''1''' '''(2011-12 Big Bash League"}}}
+130: {'values_changed': {"root['title1wins']": {'new_value': "'''1''' '''(2011-12 Big Bash League", 'old_value': "'''1''' '''(2011-12 Big Bash League season"}}}

@@ -1,0 +1,12 @@
+1: {'dictionary_item_removed': {"root['county']": 'Kandurata Kites', "root['captain']": 'Chamara Kapugedera', "root['founded']": '2011', "root['ground']": 'Pallekele International Cricket Stadium', "root['capacity']": '35,000', "root['fcdebutvs']": 'Western Province cricket team (Sri Lanka)', "root['fcdebutyr']": '1990', "root['fcdebutvenue']": 'Sinhalese Sports Club Ground', "root['title1']": 'Sri Lanka Premier League', "root['title1wins']": '0 '}}
+3: {'dictionary_item_added': {"root['ground']": 'Pallekele International Cricket Stadium', "root['capacity']": '35,000', "root['fcdebutvs']": 'Western Province cricket team (Sri Lanka)', "root['fcdebutyr']": '1990'}, 'values_changed': {"root['fcdebutvenue']": {'new_value': 'Sinhalese Sports Club Ground', 'old_value': 'Pallekele International Cricket Stadium'}}}
+4: {'values_changed': {"root['title1wins']": {'new_value': '0 ', 'old_value': '0'}}}
+5: {'dictionary_item_added': {"root['captain']": 'Chamara Kapugedera', "root['fcdebutvenue']": 'Pallekele International Cricket Stadium'}, 'dictionary_item_removed': {"root['owner']": 'Number One Sports Consulting Private Limited', "root['city']": 'Central Province, Sri Lanka'}}
+12: {'dictionary_item_removed': {"root['captain']": 'kumara sangakkara', "root['ground']": 'asgiriya'}}
+13: {'values_changed': {"root['captain']": {'new_value': 'kumara sangakkara', 'old_value': 'Kumar Sangakkara'}, "root['ground']": {'new_value': 'asgiriya', 'old_value': 'Pallekele International Cricket Stadium'}}}
+14: {'dictionary_item_removed': {"root['capacity']": '35, 000'}, 'values_changed': {"root['captain']": {'new_value': 'Kumar Sangakkara', 'old_value': 'flagicon'}}}
+15: {'values_changed': {"root['city']": {'new_value': 'Central Province, Sri Lanka', 'old_value': 'Kandy'}, "root['capacity']": {'new_value': '35, 000', 'old_value': '35,000'}}}
+22: {'values_changed': {"root['county']": {'new_value': 'Kandurata Kites', 'old_value': 'Kandurata Warriors'}}}
+25: {'values_changed': {"root['owner']": {'new_value': 'Number One Sports Consulting Private Limited', 'old_value': 'Number One Sports Consulting, Private Limited'}}}
+28: {'dictionary_item_removed': {"root['icon']": '2011 |ground'}}
+39: {'values_changed': {"root['founded']": {'new_value': '2011', 'old_value': '2012'}, "root['icon']": {'new_value': '2011 |ground', 'old_value': '2012 |ground'}}}

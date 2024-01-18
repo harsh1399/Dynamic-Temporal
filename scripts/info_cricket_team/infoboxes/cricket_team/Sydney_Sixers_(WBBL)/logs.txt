@@ -1,0 +1,14 @@
+3: {'dictionary_item_removed': {"root['name']": "Sydney Sixers Women's Team", "root['colours']": 'color box', "root['founded']": '2015', "root['ground']": 'Sydney Cricket Ground', "root['capacity']": '48,000 '}}
+4: {'values_changed': {"root['ground']": {'new_value': 'Sydney Cricket Ground', 'old_value': 'Sydney Cricket Ground, Drummoyne Oval'}}}
+7: {'dictionary_item_removed': {"root['coach']": 'Ben Sawyer    '}, 'values_changed': {"root['capacity']": {'new_value': '48,000 ', 'old_value': '48,000'}}}
+23: {'values_changed': {"root['name']": {'new_value': "Sydney Sixers Women's Team", 'old_value': 'Sydney Sixers'}}}
+25: {'dictionary_item_added': {"root['coach']": 'Ben Sawyer    '}, 'dictionary_item_removed': {"root['captain']": 'Ellyse Perry'}}
+26: {'dictionary_item_removed': {"root['title1']": 'Big Bash League', "root['title1wins']": "'''0'''"}}
+28: {'values_changed': {"root['name']": {'new_value': 'Sydney Sixers', 'old_value': 'Sydney Sixers WBBL'}, "root['title1']": {'new_value': 'Big Bash League', 'old_value': "Women's Big Bash League"}}}
+30: {'dictionary_item_removed': {"root['ground2']": 'Drummoyne Oval', "root['current']": 'WBBL 02 (2016–17) '}, 'values_changed': {"root['ground']": {'new_value': 'Sydney Cricket Ground, Drummoyne Oval', 'old_value': 'Sydney Cricket Ground'}}}
+36: {'values_changed': {"root['title1wins']": {'new_value': "'''0'''", 'old_value': "'''1''' (2016–17 Women's Big Bash League season"}}}
+39: {'dictionary_item_removed': {"root['coach']": 'flagicon'}, 'values_changed': {"root['captain']": {'new_value': 'Ellyse Perry', 'old_value': 'criconw'}, "root['current']": {'new_value': 'WBBL 02 (2016–17) ', 'old_value': 'WBBL02 (2016–17) '}}}
+61: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': 'Ben Sawyer'}, "root['colours']": {'new_value': 'color box', 'old_value': 'colour box'}}}
+64: {'values_changed': {"root['current']": {'new_value': 'WBBL02 (2016–17) ', 'old_value': 'WBBL!03 (2017–18) '}}}
+65: {'dictionary_item_added': {"root['founded']": '2015', "root['capacity']": '48,000'}, 'dictionary_item_removed': {"root['league']": "Women's Big Bash League", "root['city']": 'Sydney', "root['first_t20']": 'Start date'}, 'values_changed': {"root['name']": {'new_value': 'Sydney Sixers WBBL', 'old_value': 'Sydney Sixers (WBBL)'}, "root['captain']": {'new_value': 'criconw', 'old_value': 'Ellyse Perry'}, "root['ground']": {'new_value': 'Sydney Cricket Ground', 'old_value': 'North Sydney Oval'}, "root['ground2']": {'new_value': 'Drummoyne Oval', 'old_value': 'Hurstville Oval, Drummoyne Oval'}, "root['title1wins']": {'new_value': "'''1''' (2016–17 Women's Big Bash League season", 'old_value': "'''2''' (2016–17 Women's Big Bash League season"}, "root['current']": {'new_value': 'WBBL!03 (2017–18) ', 'old_value': 'Current season '}}}
+68: {'values_changed': {"root['coach']": {'new_value': 'Ben Sawyer', 'old_value': 'Charlotte Edwards'}}}

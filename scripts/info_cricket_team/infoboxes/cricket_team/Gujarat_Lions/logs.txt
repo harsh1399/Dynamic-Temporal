@@ -1,0 +1,66 @@
+5: {'dictionary_item_removed': {"root['name']": 'Team Rajkot', "root['Captain']": 'Suresh Raina', "root['city']": 'Rajkot, Gujarat, India', "root['owner']": 'Intex Technologies', "root['founded']": '2015', "root['IPLwins']": '0'}}
+7: {'values_changed': {"root['name']": {'new_value': 'Team Rajkot', 'old_value': 'Rajkot IPL team'}, "root['Captain']": {'new_value': 'Suresh Raina', 'old_value': 'Ravindra Jadeja'}}}
+8: {'values_changed': {"root['name']": {'new_value': 'Rajkot IPL team', 'old_value': 'Team Rajkot'}, "root['Captain']": {'new_value': 'Ravindra Jadeja', 'old_value': 'Suresh Raina'}}}
+10: {'dictionary_item_added': {"root['Captain']": 'Suresh Raina'}, 'dictionary_item_removed': {"root['captain']": 'Suresh Raina'}}
+11: {'values_changed': {"root['owner']": {'new_value': 'Intex Technologies', 'old_value': 'Mr. Keshav Bansal'}}}
+12: {'values_changed': {"root['owner']": {'new_value': 'Mr. Keshav Bansal', 'old_value': 'Intex Technologies'}}}
+14: {'dictionary_item_added': {"root['IPLwins']": '0'}, 'dictionary_item_removed': {"root['coach']": 'TBA', "root['ground']": 'Saurashtra Cricket Association Stadium, Rajkot'}, 'values_changed': {"root['name']": {'new_value': 'Team Rajkot', 'old_value': 'Rajkot IPL team'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Rajkot IPL team', 'old_value': 'Rajkot Devils'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Rajkot Devils', 'old_value': 'Rajkot'}}}
+22: {'values_changed': {"root['name']": {'new_value': 'Rajkot', 'old_value': 'Rajkot Roars'}}}
+24: {'values_changed': {"root['name']": {'new_value': 'Rajkot Roars', 'old_value': 'Gujarat Gladiators'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'Gujarat Gladiators', 'old_value': 'Rajkot Roars'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'Rajkot Roars', 'old_value': 'Rajkot'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Rajkot', 'old_value': 'Rajkot Roars'}}}
+31: {'values_changed': {"root['name']": {'new_value': 'Rajkot Roars', 'old_value': 'Rajkot'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Rajkot', 'old_value': 'Team Rajkot'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Team Rajkot', 'old_value': 'Gujarat Lions'}}}
+38: {'values_changed': {"root['coach']": {'new_value': 'TBA', 'old_value': 'brad hodge'}}}
+44: {'dictionary_item_removed': {"root['alt_name']": 'Team Rajkot', "root['IPLwins']": "'''0"}, 'values_changed': {"root['coach']": {'new_value': 'brad hodge', 'old_value': 'Brad Hodge'}, "root['owner']": {'new_value': 'Intex Technologies', 'old_value': 'Keshav Bansal (Intex Technologies)'}, "root['founded']": {'new_value': '2015', 'old_value': 'Start date'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkot', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)'}}}
+47: {'values_changed': {"root['alt_name']": {'new_value': 'Team Rajkot', 'old_value': 'ગુજરાત લૈઓન્સ'}}}
+48: {'values_changed': {"root['alt_name']": {'new_value': 'ગુજરાત લૈઓન્સ', 'old_value': 'ગુજરાત લાયન્સ'}}}
+66: {'dictionary_item_removed': {"root['twitter']": "@GujratLions  The '''Gujarat Lions''' is a cricket franchise based in the city of Rajkot, Gujarat that will play in the Indian Premier League from 2016 for only two seasons. The team will serve as one of the replacements for Chennai Super Kings and Rajasthan Royals, who were both suspended for two seasons due to alleged illegal betting by their respective owners.<ref name"}}
+67: {'values_changed': {"root['twitter']": {'new_value': "@GujratLions  The '''Gujarat Lions''' is a cricket franchise based in the city of Rajkot, Gujarat that will play in the Indian Premier League from 2016 for only two seasons. The team will serve as one of the replacements for Chennai Super Kings and Rajasthan Royals, who were both suspended for two seasons due to alleged illegal betting by their respective owners.<ref name", 'old_value': '@GujratLions '}}}
+95: {'values_changed': {"root['twitter']": {'new_value': '@GujratLions ', 'old_value': "@GujratLions '''Gujarat Lions''' is a cricket franchise based in the city of Rajkot, Gujarat that will play in the Indian Premier League from 2016 for only two seasons. The team will serve as one of the replacements for Chennai Super Kings and Rajasthan Royals, who were both suspended for two seasons due to alleged illegal betting by their respective owners.<ref name"}}}
+101: {'dictionary_item_added': {"root['twitter']": "@GujratLions '''Gujarat Lions''' is a cricket franchise based in the city of Rajkot, Gujarat that will play in the Indian Premier League from 2016 for only two seasons. The team will serve as one of the replacements for Chennai Super Kings and Rajasthan Royals, who were both suspended for two seasons due to alleged illegal betting by their respective owners.<ref name"}, 'values_changed': {"root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkotcn, (Capacity: 28,000)'}}}
+107: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)', 'old_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel (iCIMS)'}}}
+108: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel (iCIMS)', 'old_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel'}}}
+109: {'values_changed': {"root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkotcn, (Capacity: 28,000)', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkotcn'}}}
+118: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel', 'old_value': 'Keshav Bansal (Intex Technologies)'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkotcn', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)'}}}
+119: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)', 'old_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkotcn'}}}
+120: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel', 'old_value': 'Keshav Bansal (Intex Technologies)'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkotcn', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)'}}}
+125: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)', 'old_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkot, (Capacity: 28,000)', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkotcn'}}}
+130: {'values_changed': {"root['owner']": {'new_value': 'Keshav Bansal (Intex Technologies)Vaibhav Patel', 'old_value': 'Keshav Bansal (Intex Technologies)'}}}
+141: {'dictionary_item_removed': {"root['current']": 'Gujarat Lions in 2016 '}}
+143: {'values_changed': {"root['captain']": {'new_value': 'Suresh Raina', 'old_value': 'Suresh Raina<ref name'}, "root['ground']": {'new_value': 'Saurashtra Cricket Association Stadium, Rajkotcn', 'old_value': 'Saurashtra Cricket Association Stadium, Rajkot<ref name'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'Gujarat Lions', 'old_value': 'Gujarat \\'}}}
+156: {'dictionary_item_added': {"root['IPLwins']": "'''0"}, 'values_changed': {"root['name']": {'new_value': 'Gujarat \\', 'old_value': 'Gujarat Lions'}}}
+157: {'dictionary_item_removed': {"root['colors']": 'color box'}}
+167: {'type_changes': {"root['name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', '', '', '', ''], 'new_value': 'Gujarat Lions'}}}
+168: {'type_changes': {"root['name']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Gujarat Lions', 'new_value': ['', '', '', '', '']}}}
+176: {'dictionary_item_removed': {"root['ground2']": 'Green Park Stadium, Kanpur'}}
+188: {'dictionary_item_added': {"root['ground2']": 'Green Park Stadium, Kanpur'}, 'values_changed': {"root['name']": {'new_value': 'Gujarat Lions', 'old_value': 'Gujarat Lionis'}}}
+189: {'values_changed': {"root['name']": {'new_value': 'Gujarat Lionis', 'old_value': 'Gujarat Lions'}}}
+193: {'values_changed': {"root['alt_name']": {'new_value': 'ગુજરાત લાયન્સ', 'old_value': 'गुजरात लॉयन्स, ગુજરાત લાયન્સ'}}}
+195: {'values_changed': {"root['alt_name']": {'new_value': 'गुजरात लॉयन्स, ગુજરાત લાયન્સ', 'old_value': 'ગુજરાત લાયન્સ'}}}
+203: {'dictionary_item_added': {"root['colors']": 'color box'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+233: {'values_changed': {"root['name']": {'new_value': 'Gujarat Lions', 'old_value': 'Gujarat Nayan'}, "root['alt_name']": {'new_value': 'ગુજરાત લાયન્સ', 'old_value': 'ગુજરાत Nayan'}}}
+234: {'values_changed': {"root['name']": {'new_value': 'Gujarat Nayan', 'old_value': 'Gujarat Lions'}, "root['alt_name']": {'new_value': 'ગુજરાत Nayan', 'old_value': 'ગુજરાત લાયન્સ'}}}
+252: {'dictionary_item_removed': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina<ref name', 'old_value': 'Suresh Raina'}}}
+253: {'dictionary_item_added': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina', 'old_value': 'Suresh Raina<ref name'}}}
+261: {'dictionary_item_removed': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina<ref name', 'old_value': 'Suresh Raina'}}}
+262: {'dictionary_item_added': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina', 'old_value': 'Suresh Raina<ref name'}}}
+263: {'dictionary_item_removed': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina<ref name', 'old_value': 'Suresh Raina'}}}
+264: {'dictionary_item_added': {"root['ground2']": 'Sardar Patel Stadium, Ahmedabad'}, 'values_changed': {"root['captain']": {'new_value': 'Suresh Raina', 'old_value': 'Suresh Raina<ref name'}}}
+270: {'values_changed': {"root['captain']": {'new_value': 'Suresh Raina<ref name', 'old_value': 'Raina<ref name'}}}
+272: {'values_changed': {"root['captain']": {'new_value': 'Raina<ref name', 'old_value': 'Suresh Raina<ref name'}}}
+302: {'values_changed': {"root['colours']": {'new_value': 'color box', 'old_value': 'File:Gujarat Lions Colours.jpg'}}}
+308: {'values_changed': {"root['alt_name']": {'new_value': 'ગુજરાત લાયન્સ', 'old_value': 'Babaji ka thullu'}}}
+309: {'values_changed': {"root['alt_name']": {'new_value': 'Babaji ka thullu', 'old_value': 'ગુજરાત લાયન્સ'}}}
+357: {'dictionary_item_added': {"root['name']": 'Gujarat Lions'}, 'values_changed': {"root['current']": {'new_value': 'Gujarat Lions in 2016 ', 'old_value': 'Gujarat Lions in 2017 '}}}
+391: {'dictionary_item_removed': {"root['dissolved']": '2018'}}
+408: {'dictionary_item_added': {"root['dissolved']": '2018'}, 'dictionary_item_removed': {"root['name']": 'Goojrat Lions'}}
+410: {'values_changed': {"root['coach']": {'new_value': 'Brad Hodge', 'old_value': 'Brad Hodge<ref name'}}}
+413: {'dictionary_item_removed': {"root['dissolved']": 'Start date'}}
+416: {'dictionary_item_added': {"root['alt_name']": 'ગુજરાત લાયન્સ'}, 'values_changed': {"root['dissolved']": {'new_value': 'Start date', 'old_value': 'May 2017'}}}
+418: {'dictionary_item_removed': {"root['alt_name']": 'Gujju Lions'}, 'values_changed': {"root['name']": {'new_value': 'Goojrat Lions', 'old_value': 'Gujarat Lions'}}}

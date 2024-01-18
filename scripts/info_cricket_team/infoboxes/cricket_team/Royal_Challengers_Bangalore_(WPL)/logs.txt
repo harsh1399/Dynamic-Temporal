@@ -1,0 +1,17 @@
+1: {'dictionary_item_removed': {"root['name']": 'Royal Challengers Bangalore', "root['colours']": 'color box', "root['coach']": 'Ben Sawyer', "root['owner']": 'Diageo', "root['established']": '2023', "root['title1']": "Women's Premier League (cricket)", "root['title1wins']": '0  '}}
+12: {'dictionary_item_removed': {"root['captain']": 'Smriti Mandhana'}}
+23: {'dictionary_item_added': {"root['colours']": 'color box', "root['captain']": 'Smriti Mandhana'}, 'dictionary_item_removed': {"root['city']": 'Bangalore, Karnataka', "root['ground']": 'M. Chinnaswamy Stadium'}, 'values_changed': {"root['owner']": {'new_value': 'Diageo', 'old_value': 'United Spirits'}, "root['title1wins']": {'new_value': '0  ', 'old_value': '0'}}}
+26: {'dictionary_item_added': {"root['city']": 'Bangalore, Karnataka', "root['ground']": 'M. Chinnaswamy Stadium'}, 'dictionary_item_removed': {"root['colours']": 'color box', "root['captain']": 'Smriti Mandhana'}}
+40: {'values_changed': {"root['name']": {'new_value': 'Royal Challengers Bangalore', 'old_value': 'Mumbai Indians'}}}
+41: {'values_changed': {"root['name']": {'new_value': 'Mumbai Indians', 'old_value': 'Royal Challengers Bangalore'}}}
+44: {'dictionary_item_removed': {"root['league']": "Women's Premier League (cricket)"}}
+51: {'dictionary_item_removed': {"root['current']": 'Royal Challengers Bangalore in 2023', "root['t_pattern_la']": '_blackborder', "root['t_pattern_b']": '_rcb22', "root['t_pattern_ra']": '_blackborder', "root['t_leftarm']": '000000', "root['t_body']": 'FF0000', "root['t_rightarm']": '000000', "root['t_pants']": 'FF0000', "root['t_title']": 'T20 kit '}}
+52: {'values_changed': {"root['t_title']": {'new_value': 'T20 kit ', 'old_value': 'T20 kit https://royalchallengers.com/ '}}}
+53: {'values_changed': {"root['t_title']": {'new_value': 'T20 kit https://royalchallengers.com/ ', 'old_value': 'T20 kit  https://royalchallengers.com/ '}}}
+55: {'values_changed': {"root['t_title']": {'new_value': 'T20 kit  https://royalchallengers.com/ ', 'old_value': 'T20 kit '}}}
+60: {'dictionary_item_added': {"root['colours']": 'color box', "root['current']": 'Royal Challengers Bangalore in 2023'}, 'dictionary_item_removed': {"root['city']": 'Bengaluru, Karnataka'}}
+65: {'dictionary_item_removed': {"root['ground']": 'kk'}}
+66: {'values_changed': {"root['ground']": {'new_value': 'kk', 'old_value': 'M. Chinnaswamy Stadium'}}}
+81: {'dictionary_item_added': {"root['ground']": 'M. Chinnaswamy Stadium'}, 'dictionary_item_removed': {"root['colours']": 'color box'}}
+90: {'dictionary_item_removed': {"root['first_t20']": 'b '}, 'values_changed': {"root['t_title']": {'new_value': 'T20 kit ', 'old_value': 'T20 Cricket clothing and equipment'}}}
+91: {'values_changed': {"root['first_t20']": {'new_value': 'b ', 'old_value': '03|05|'}}}
