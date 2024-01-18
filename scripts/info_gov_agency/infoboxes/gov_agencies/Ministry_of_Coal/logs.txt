@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Republic of India ,  Ministry of Coal', "root['minister1_name']": 'Piyush Goyal<ref name', "root['minister1_pfo']": 'Coal Minister of India', "root['child3_agency']": 'Neyveli Lignite Corporation', "root['child4_agency']": 'Singareni Collieries Company'}}
+4: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Coal Minister of India', 'old_value': 'Coal Minister'}}}
+11: {'dictionary_item_added': {"root['minister1_name']": 'Piyush Goyal<ref name'}, 'dictionary_item_removed': {"root['region_code']": 'IN', "root['employees']": 'Piyush Goyal<ref name'}, 'values_changed': {"root['agency_name']": {'new_value': 'Republic of India ,  Ministry of Coal', 'old_value': 'Ministry of Coal'}}}
+12: {'dictionary_item_added': {"root['employees']": 'Piyush Goyal<ref name'}, 'dictionary_item_removed': {"root['minister1_name']": 'Piyush Goyal<ref name'}}
+13: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Coal Minister', 'old_value': 'Minister of State (Independent Charge)'}}}
+27: {'values_changed': {"root['minister1_name']": {'new_value': 'Piyush Goyal<ref name', 'old_value': 'pralhad joshi<ref name'}}}
+30: {'values_changed': {"root['minister1_name']": {'new_value': 'pralhad joshi<ref name', 'old_value': 'Pralhad Joshi<ref name'}}}
+41: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Minister of State (Independent Charge)', 'old_value': 'Minister'}}}
+42: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Minister', 'old_value': 'Minister (government)'}}}
+45: {'dictionary_item_removed': {"root['budget']": 'INRConvert', "root['chief1_name']": 'Anil Kumar Jain IAS', "root['chief1_position']": 'COAL SECRETARY', "root['chief2_name']": 'Vinod Kumar Tiwari IAS', "root['chief2_position']": 'Additional COAL Secretary'}}
+54: {'dictionary_item_added': {"root['child3_agency']": 'Neyveli Lignite Corporation', "root['child4_agency']": 'Singareni Collieries Company'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Anil Kumar Jain IAS', 'old_value': 'Anil Kumar Jain, Indian Administrative Service'}, "root['chief1_position']": {'new_value': 'COAL SECRETARY', 'old_value': 'Coal Secratary'}, "root['chief2_name']": {'new_value': 'Vinod Kumar Tiwari IAS', 'old_value': 'Vinod Kumar Tiwari, Indian Administrative Service'}, "root['chief2_position']": {'new_value': 'Additional COAL Secretary', 'old_value': 'Additional Coal Secretary'}}}
+55: {'values_changed': {"root['chief1_position']": {'new_value': 'Coal Secratary', 'old_value': 'Secratary'}, "root['chief2_position']": {'new_value': 'Additional Coal Secretary', 'old_value': 'Additional Secretary'}}}
+59: {'values_changed': {"root['chief1_position']": {'new_value': 'Secratary', 'old_value': 'Secretary'}}}
+61: {'values_changed': {"root['chief1_name']": {'new_value': 'Anil Kumar Jain, Indian Administrative Service', 'old_value': 'Amrit Lal Meena, Indian Administrative Service'}}}
+62: {'values_changed': {"root['chief1_name']": {'new_value': 'Amrit Lal Meena, Indian Administrative Service', 'old_value': 'Anil Kumar Jain, Indian Administrative Service'}}}
+63: {'values_changed': {"root['chief1_name']": {'new_value': 'Anil Kumar Jain, Indian Administrative Service', 'old_value': 'Amrit Lal Meena, Indian Administrative Service'}}}
+64: {'dictionary_item_removed': {"root['rowspan']": '"1" |Charan Singh |', "root['bgcolor']": '"party color'}}

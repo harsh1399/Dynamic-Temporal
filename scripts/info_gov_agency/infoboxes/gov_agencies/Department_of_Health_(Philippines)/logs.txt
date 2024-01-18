@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Health', "root['nativename']": "''Kagawaran ng Kalusugan''", "root['budget']": 'Philippine peso', "root['chief1_name']": 'Francisco Duque', "root['chief1_position']": 'Secretary'}}
+7: {'values_changed': {"root['chief1_position']": {'new_value': 'Secretary', 'old_value': 'Secretary of Health (Philippines)'}}}
+9: {'values_changed': {"root['nativename']": {'new_value': "''Kagawaran ng Kalusugan''", 'old_value': "''MINISTRY OF MAGIC''"}}}
+10: {'values_changed': {"root['nativename']": {'new_value': "''MINISTRY OF MAGIC''", 'old_value': "''Kagawaran ng Kalusugan''"}}}
+22: {'dictionary_item_removed': {"root['chief2_name']": 'Usec. Maria Rosario S. Vergeire', "root['chief2_position']": 'Spokesperson'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Francisco Duque', 'old_value': 'Francisco Duque III'}}}
+36: {'dictionary_item_added': {"root['chief2_name']": 'Usec. Maria Rosario S. Vergeire', "root['chief2_position']": 'Spokesperson'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Francisco Duque III', 'old_value': 'Vacant'}}}
+39: {'values_changed': {"root['chief1_name']": {'new_value': 'Vacant', 'old_value': 'Maria Rosario Vergeire, MD'}}}
+40: {'values_changed': {"root['chief1_name']": {'new_value': 'Maria Rosario Vergeire, MD', 'old_value': 'Usec. Maria Rosario S. Vergeire'}, "root['chief1_position']": {'new_value': 'Secretary of Health (Philippines)', 'old_value': 'Officer-in-Charge'}}}
+43: {'values_changed': {"root['chief1_name']": {'new_value': 'Usec. Maria Rosario S. Vergeire', 'old_value': 'Usec. Maria Rosario Vergeire'}}}
+44: {'values_changed': {"root['chief1_position']": {'new_value': 'Officer-in-Charge', 'old_value': 'Officer in Charge (Philippines)Officer-in-Charge'}}}
+45: {'values_changed': {"root['chief1_position']": {'new_value': 'Officer in Charge (Philippines)Officer-in-Charge', 'old_value': 'Officer in Charge (Philippines)'}}}
+63: {'dictionary_item_removed': {"root['picture']": 'Department of Health (Rizal Avenue Manila; 12-07-2020).jpg', "root['picture_caption']": 'Department of Health headquarters'}}
+72: {'values_changed': {"root['chief1_name']": {'new_value': 'Usec. Maria Rosario Vergeire', 'old_value': 'Ted Herbosa'}, "root['chief1_position']": {'new_value': 'Officer in Charge (Philippines)', 'old_value': 'Secretary of Health (Philippines)'}}}
+74: {'values_changed': {"root['chief1_name']": {'new_value': 'Ted Herbosa', 'old_value': 'Hon. Teodoro “Ted” Herbosa'}}}
+76: {'values_changed': {"root['chief1_name']": {'new_value': 'Hon. Teodoro “Ted” Herbosa', 'old_value': 'Ted Herbosa'}}}

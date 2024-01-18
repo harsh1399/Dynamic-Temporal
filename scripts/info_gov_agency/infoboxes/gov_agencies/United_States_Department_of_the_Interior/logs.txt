@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Department of the Interior', "root['picture']": 'Department of the Interior by Matthew Bisanz.JPG', "root['picture_caption']": 'Main Interior Building', "root['employees']": '61,800 (2020)', "root['budget']": '$12.6 Billion (2020)', "root['chief1_name']": 'Deb Haaland', "root['chief1_position']": 'United States Secretary of the Interior', "root['chief2_name']": 'Tommy Beaudreau', "root['chief2_position']": 'United States Deputy Secretary of the Interior'}}
+4: {'values_changed': {"root['chief1_name']": {'new_value': 'Deb Haaland', 'old_value': 'JoAnne L. Baker'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'JoAnne L. Baker', 'old_value': 'Deb Haaland'}}}
+11: {'values_changed': {"root['employees']": {'new_value': '61,800 (2020)', 'old_value': '67,026 (2022)'}, "root['budget']": {'new_value': '$12.6 Billion (2020)', 'old_value': '$17.6 Billion (2022)'}}}

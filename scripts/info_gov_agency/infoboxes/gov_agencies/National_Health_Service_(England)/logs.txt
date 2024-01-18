@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'National Health Service', "root['employees']": '1.4 million', "root['budget']": '£134 billion (2019)', "root['minister1_name']": 'Matt Hancock', "root['minister1_pfo']": 'Secretary of State for Health and Social Care', "root['chief1_name']": 'Simon Stevens', "root['chief1_position']": 'Chief Executive of the National Health Service'}}
+11: {'values_changed': {"root['chief1_position']": {'new_value': 'Chief Executive of the National Health Service', 'old_value': 'Chief Executive'}}}
+22: {'values_changed': {"root['employees']": {'new_value': '1.4 million', 'old_value': '1.4 million (estimate) 1,319,932'}}}
+23: {'values_changed': {"root['employees']": {'new_value': '1.4 million (estimate) 1,319,932', 'old_value': '1,319,932 (July 2020)'}}}
+24: {'values_changed': {"root['employees']": {'new_value': '1,319,932 (July 2020)', 'old_value': '1,171,335 (November 2020)'}}}
+30: {'values_changed': {"root['employees']": {'new_value': '1,171,335 (November 2020)', 'old_value': '1,171,335 full-time equivalent'}}}
+40: {'values_changed': {"root['minister1_name']": {'new_value': 'Matt Hancock', 'old_value': 'Vacant'}}}
+41: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': 'Sajid Javid'}}}
+42: {'values_changed': {"root['agency_name']": {'new_value': 'National Health Service', 'old_value': 'National Health Service, George Cross'}}}
+48: {'values_changed': {"root['agency_name']": {'new_value': 'National Health Service, George Cross', 'old_value': 'National Health Service'}}}
+49: {'values_changed': {"root['chief1_name']": {'new_value': 'Simon Stevens', 'old_value': 'Amanda Pritchard'}}}
+72: {'values_changed': {"root['budget']": {'new_value': '£134 billion (2019)', 'old_value': '£2 (2019)'}}}
+73: {'values_changed': {"root['budget']": {'new_value': '£2 (2019)', 'old_value': '£134 billion (2019)'}}}
+93: {'values_changed': {"root['minister1_name']": {'new_value': 'Sajid Javid', 'old_value': 'Steve Barclay'}}}
+94: {'values_changed': {"root['budget']": {'new_value': '£134 billion (2019)', 'old_value': '£190.3 billion (2022)'}}}
+95: {'values_changed': {"root['minister1_name']": {'new_value': 'Steve Barclay', 'old_value': 'Steve Barclay (politician)'}}}
+96: {'values_changed': {"root['employees']": {'new_value': '1,171,335 full-time equivalent', 'old_value': '1,226,677 full-time equivalent'}}}
+104: {'values_changed': {"root['minister1_name']": {'new_value': 'Steve Barclay (politician)', 'old_value': 'Thérèse Coffey (politician)'}}}
+105: {'values_changed': {"root['minister1_name']": {'new_value': 'Thérèse Coffey (politician)', 'old_value': 'Thérèse Coffey'}}}
+108: {'values_changed': {"root['minister1_name']": {'new_value': 'Thérèse Coffey', 'old_value': 'Steve Barclay (politician)'}}}
+109: {'values_changed': {"root['minister1_name']": {'new_value': 'Steve Barclay (politician)', 'old_value': 'Thérèse Coffey'}}}
+110: {'values_changed': {"root['minister1_name']": {'new_value': 'Thérèse Coffey', 'old_value': 'Steve Barclay'}}}
+163: {'values_changed': {"root['employees']": {'new_value': '1,226,677 full-time equivalent', 'old_value': '1,275,354 full-time equivalent'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Scottish Court Service,  lang-gd', "root['employees']": '1,374', "root['budget']": '£108 million (2013-2014) citation', "root['minister1_name']": 'Michael Matheson (politician)', "root['minister1_pfo']": 'Cabinet Secretary for Justice', "root['chief1_name']": 'Brian Gill, Lord Gill', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Eric McQueen', "root['chief2_position']": 'Chief Executive'}}
+2: {'values_changed': {"root['agency_name']": {'new_value': 'Scottish Court Service,  lang-gd', 'old_value': 'Scottish Courts and Tribunals Service,  lang-gd'}}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'Brian Gill, Lord Gill', 'old_value': 'Colin Sutherland, Lord Carloway'}}}
+8: {'dictionary_item_added': {"root['minister1_name']": 'Michael Matheson (politician)', "root['minister1_pfo']": 'Cabinet Secretary for Justice'}, 'values_changed': {"root['agency_name']": {'new_value': 'Scottish Courts and Tribunals Service,  lang-gd', 'old_value': 'Scottish Courts and Tribunals Service'}}}
+11: {'dictionary_item_removed': {"root['child3_agency']": 'Office of the Accountant of Court'}}
+23: {'values_changed': {"root['budget']": {'new_value': '£108 million (2013-2014) citation', 'old_value': '£129.3 million (2025-2016)'}}}

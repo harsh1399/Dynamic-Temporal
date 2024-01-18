@@ -1,0 +1,11 @@
+20: {'dictionary_item_removed': {"root['agency_name']": 'Department of Atomic Energy', "root['abbreviation']": 'DAE', "root['employees']": 'Classified', "root['chief1_name']": 'Dr Sreekumar Banerjee', "root['chief1_position']": 'Secretary to Government of India'}}
+34: {'values_changed': {"root['chief1_position']": {'new_value': 'Secretary to Government of India', 'old_value': 'Chairman, DAE'}}}
+35: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman, DAE', 'old_value': 'Secretary to Govt. of India, DAE'}}}
+36: {'dictionary_item_added': {"root['abbreviation']": 'DAE'}, 'dictionary_item_removed': {"root['budget']": 'INRConvert', "root['minister1_name']": 'Narendra Modi', "root['minister1_pfo']": 'Prime Minister of India', "root['deputyminister1_name']": 'Dr. Jitendra Singh (BJP politician)', "root['deputyminister1_pfo']": "Minister of State for Prime Minister's Office (India)"}, 'values_changed': {"root['chief1_name']": {'new_value': 'Dr Sreekumar Banerjee', 'old_value': 'Dr. Sekhar Basu'}, "root['chief1_position']": {'new_value': 'Secretary to Govt. of India, DAE', 'old_value': 'Secretary to Government of India'}}}
+39: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr. Sekhar Basu', 'old_value': 'Dr. K.N.Vyas'}}}
+43: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Dr. Jitendra Singh (BJP politician)', 'old_value': 'Jitendra Singh (BJP politician)'}, "root['deputyminister1_pfo']": {'new_value': "Minister of State for Prime Minister's Office (India)", 'old_value': 'Minister of State'}}}
+45: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Atomic Energy', 'old_value': 'Department of Atomic Energy ,  परमाणु ऊर्जा विभाग'}}}
+48: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Atomic Energy ,  परमाणु ऊर्जा विभाग', 'old_value': 'Department of Atomic Energy'}}}
+49: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Prime Minister of India', 'old_value': 'Prime Minister of India and Minister of Atomic Energy'}}}
+59: {'dictionary_item_added': {"root['employees']": 'Classified', "root['agency_name']": 'Department of Atomic Energy'}, 'dictionary_item_removed': {"root['name']": 'Department of Atomic Energy'}}
+71: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr. K.N.Vyas', 'old_value': 'Dr. Ajit Kumar Mohanty'}}}

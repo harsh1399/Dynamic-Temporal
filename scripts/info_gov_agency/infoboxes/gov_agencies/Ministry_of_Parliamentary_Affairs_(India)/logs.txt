@@ -1,0 +1,15 @@
+1: {'dictionary_item_removed': {"root['agency_name']": 'Republic of India ,  Ministry of Parliamentary Affairs', "root['chief1_name']": 'Pawan Kumar Bansal', "root['chief1_position']": 'Minister of Parliamentary Affairs'}}
+3: {'values_changed': {"root['chief1_position']": {'new_value': 'Minister of Parliamentary Affairs', 'old_value': 'Ministry of Parliamentary Affairs (India)'}}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'Pawan Kumar Bansal', 'old_value': 'Kamal Nath'}}}
+6: {'values_changed': {"root['chief1_position']": {'new_value': 'Ministry of Parliamentary Affairs (India)', 'old_value': 'Ministry of Parliamentary Affairs'}}}
+7: {'dictionary_item_added': {"root['agency_name']": 'Republic of India ,  Ministry of Parliamentary Affairs'}, 'dictionary_item_removed': {"root['name']": 'Ministry Of Parliamentary Affairs', "root['chief2_name']": 'Mukhtar Abbas Naqvi', "root['chief2_position']": 'Minister of State'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Kamal Nath', 'old_value': 'Ananth Kumar'}, "root['chief1_position']": {'new_value': 'Ministry of Parliamentary Affairs', 'old_value': 'Minister of Parliamentary Affairs (India)'}}}
+9: {'values_changed': {"root['chief2_name']": {'new_value': 'Mukhtar Abbas Naqvi', 'old_value': 'Viajy Goyal & Arjun Ram Meghwal'}}}
+10: {'values_changed': {"root['chief2_name']": {'new_value': 'Viajy Goyal & Arjun Ram Meghwal', 'old_value': 'Viajy Goyal'}, "root['chief2_position']": {'new_value': 'Minister of State', 'old_value': 'Ministers of State'}}}
+11: {'dictionary_item_removed': {"root['chief3_name']": 'Arjun Ram Meghwal'}}
+12: {'dictionary_item_added': {"root['chief3_name']": 'Arjun Ram Meghwal'}, 'values_changed': {"root['chief2_position']": {'new_value': 'Ministers of State', 'old_value': 'Minister of State'}}}
+14: {'values_changed': {"root['chief2_name']": {'new_value': 'Viajy Goyal', 'old_value': 'Vijay Goyal'}}}
+19: {'dictionary_item_added': {"root['chief1_position']": 'Minister of Parliamentary Affairs (India)'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Ananth Kumar', 'old_value': 'vacant'}}}
+23: {'dictionary_item_removed': {"root['chief1_position']": 'Minister', "root['chief3_name']": 'Arjun Ram Meghwal', "root['chief3_position']": 'Minister of State'}, 'values_changed': {"root['chief1_name']": {'new_value': 'vacant', 'old_value': 'Narendra Singh Tomar'}}}
+25: {'values_changed': {"root['chief1_position']": {'new_value': 'Minister', 'old_value': 'Minister (government)'}}}
+27: {'dictionary_item_added': {"root['chief2_name']": 'Vijay Goyal', "root['chief2_position']": 'Minister of State', "root['chief3_name']": 'Arjun Ram Meghwal', "root['chief3_position']": 'Minister of State'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Narendra Singh Tomar', 'old_value': 'Pralhad Joshi'}}}
+46: {'dictionary_item_removed': {"root['chief2_name']": 'Arjun Ram Meghwal', "root['chief2_position']": 'Minister of State', "root['chief3_name']": 'V. Muraleedharan', "root['chief3_position']": 'Minister of State'}}

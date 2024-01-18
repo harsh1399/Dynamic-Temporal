@@ -1,0 +1,5 @@
+8: {'dictionary_item_removed': {"root['agency_name']": 'South African National Space Agency (SANSA)', "root['region_code']": 'ZA', "root['chief1_name']": "Dr Valanathan Munsami, '''CEO'''"}}
+9: {'dictionary_item_removed': {"root['owner']": 'flag'}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': "Dr Valanathan Munsami, '''CEO'''", 'old_value': "Ms Andiswa Mlisa, '''Interim CEO'''"}}}
+15: {'dictionary_item_added': {"root['owner']": 'flag'}, 'dictionary_item_removed': {"root['chief1_position']": 'CEO', "root['chief2_name']": 'Ms Xoliswa Kakana', "root['chief2_position']": 'Chairperson of the Board'}, 'values_changed': {"root['chief1_name']": {'new_value': "Ms Andiswa Mlisa, '''Interim CEO'''", 'old_value': 'Dr Valanathan Munsami'}}}
+16: {'dictionary_item_removed': {"root['employees']": ['193 permanent employees', '36 non-permanent employees']}}

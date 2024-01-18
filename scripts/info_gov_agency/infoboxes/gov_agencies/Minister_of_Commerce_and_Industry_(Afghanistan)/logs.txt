@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Minister of Commerce and Industries', "root['minister1_name']": 'Minister Ajmal Ahmady'}}
+3: {'values_changed': {"root['minister1_name']": {'new_value': 'Minister Ajmal Ahmady', 'old_value': 'Nooruddin Azizi'}}}
+6: {'values_changed': {"root['minister1_name']": {'new_value': 'Nooruddin Azizi', 'old_value': 'Nooruddin Azizi (acting)<ref name'}}}
+7: {'dictionary_item_removed': {"root['minister1_pfo']": 'Deputy Minister', "root['minister2_name']": 'Haji Muhammad Basheer'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Nooruddin Azizi (acting)<ref name', 'old_value': 'Haji Nooruddin Azizi (acting)<ref name'}}}
+8: {'dictionary_item_added': {"root['minister1_pfo']": 'Deputy Minister', "root['minister2_name']": 'Haji Muhammad Basheer'}, 'dictionary_item_removed': {"root['deputyminister1_name']": 'Haji Muhammad Basheer'}}
+9: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Haji Muhammad Basheer', 'old_value': 'Haji Muhammad Basheer, Haji Mohammad Azim'}}}
+10: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Haji Muhammad Basheer, Haji Mohammad Azim', 'old_value': 'Haji Muhammad Basheer, Haji Mohammad Azim Sultan Zada'}}}
+11: {'values_changed': {"root['minister1_name']": {'new_value': 'Haji Nooruddin Azizi (acting)<ref name', 'old_value': 'Nooruddin Azizi (acting)<ref name'}, "root['deputyminister1_name']": {'new_value': 'Haji Muhammad Basheer, Haji Mohammad Azim Sultan Zada', 'old_value': 'Muhammad Basheer, Mohammad Azim Sultan Zada'}}}
+12: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Muhammad Basheer, Mohammad Azim Sultan Zada', 'old_value': 'Muhammad Basheer (acting), Mohammad Azim Sultanzada (acting)'}}}
+13: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Muhammad Basheer (acting), Mohammad Azim Sultanzada (acting)', 'old_value': 'Mohammad Basheer (acting), Mohammad Azim Sultanzada (acting)'}}}
+14: {'dictionary_item_removed': {"root['nativename']": 'lang-prs'}}
+15: {'values_changed': {"root['agency_name']": {'new_value': 'Minister of Commerce and Industries', 'old_value': 'Ministry of Commerce and Industries'}}}

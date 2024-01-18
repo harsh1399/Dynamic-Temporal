@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Utah Department of Transportation (UDOT)', "root['chief1_name']": 'John Njord', "root['chief1_position']": 'Executive Director', "root['chief2_name']": 'Carlos Braceras', "root['chief2_position']": 'Deputy Director'}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'John Njord', 'old_value': '(Vacant)'}}}
+6: {'dictionary_item_added': {"root['chief2_name']": 'Carlos Braceras'}, 'dictionary_item_removed': {"root['employees']": '1,800<ref name'}, 'values_changed': {"root['chief1_name']": {'new_value': '(Vacant)', 'old_value': 'Carlos Braceras<ref name'}}}
+9: {'dictionary_item_removed': {"root['chief2_name']": 'Shane Marshall <ref name'}}

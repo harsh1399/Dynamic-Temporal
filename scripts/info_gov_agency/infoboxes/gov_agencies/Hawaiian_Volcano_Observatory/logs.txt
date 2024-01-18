@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['locmapin']": 'Hawaii   | area'}}
+7: {'dictionary_item_added': {"root['locmapin']": 'Hawaii   | area'}, 'dictionary_item_removed': {"root['agency_name']": 'United States Geological Survey, Hawaiian Volcano Observatory'}}
+37: {'values_changed': {"root['agency_name']": {'new_value': 'United States Geological Survey, Hawaiian Volcano Observatory', 'old_value': 'United States Geological Survey Hawaiian Volcano Observatory'}}}
+39: {'dictionary_item_removed': {"root['chief1_name']": 'Dr. Ken Hon<ref name', "root['chief1_position']": 'Scientist-in-Charge (USGS)'}}
+41: {'values_changed': {"root['chief1_position']": {'new_value': 'Scientist-in-Charge (USGS)', 'old_value': 'Scientist-in-Charge (SIC)'}}}
+45: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr. Ken Hon<ref name', 'old_value': 'Ken Hon'}, "root['chief1_position']": {'new_value': 'Scientist-in-Charge (SIC)', 'old_value': 'Scientist-in-Charge'}}}

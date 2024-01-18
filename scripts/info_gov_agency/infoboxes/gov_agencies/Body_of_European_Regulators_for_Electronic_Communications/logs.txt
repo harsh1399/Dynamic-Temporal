@@ -1,0 +1,10 @@
+4: {'dictionary_item_removed': {"root['chief1_name']": 'Sébastien Soriano', "root['chief1_position']": 'Chair of the Board of Regulators', "root['agency_name']": 'Body of European Regulators for Electronic Communications (BEREC)'}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Sébastien Soriano', 'old_value': 'Jeremy Godfrey'}}}
+9: {'values_changed': {"root['chief1_name']": {'new_value': 'Jeremy Godfrey', 'old_value': 'Professor Konstantinos Masselos'}, "root['chief1_position']": {'new_value': 'Chair of the Board of Regulators', 'old_value': 'BEREC Chair 2023'}}}
+20: {'dictionary_item_removed': {"root['picture']": 'BEREC Office Headquarters in Riga.jpg'}}
+21: {'values_changed': {"root['picture']": {'new_value': 'BEREC Office Headquarters in Riga.jpg', 'old_value': 'File:BEREC Chair 2023 Prof. Konstantinos Masselos.jpg'}}}
+22: {'values_changed': {"root['chief1_name']": {'new_value': 'Professor Konstantinos Masselos', 'old_value': 'Professor Kostas Masselos'}}}
+23: {'dictionary_item_removed': {"root['picture_caption']": 'BEREC Office Headquarters in Riga'}, 'values_changed': {"root['picture']": {'new_value': 'File:BEREC Chair 2023 Prof. Konstantinos Masselos.jpg', 'old_value': 'BEREC Office Headquarters in Riga.jpg'}}}
+29: {'dictionary_item_removed': {"root['chief2_name']": 'László Ignéczi', "root['chief2_position']": 'Director of the BEREC Office'}}
+31: {'dictionary_item_removed': {"root['width']": '200', "root['float']": 'right', "root['label']": 'Riga', "root['position']": 'BEREC Chair 2023', "root['mark']": 'Green pog.svg', "root['lat_deg']": '56.946285', "root['lon_deg']": '24.105078'}}
+37: {'values_changed': {"root['chief1_name']": {'new_value': 'Professor Kostas Masselos', 'old_value': 'Prof. Konstantinos Masselos'}}}

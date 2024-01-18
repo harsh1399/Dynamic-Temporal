@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of National Defense', "root['nativename']": 'Ministerstwo Obrony Narodowej', "root['chief1_name']": 'Antoni Macierewicz', "root['chief1_position']": 'Minister of National Defense', "root['chief2_position']": 'First Deputy Minister'}}
+2: {'dictionary_item_added': {"root['agency_name']": 'Ministry of National Defense', "root['nativename']": 'Ministerstwo Obrony Narodowej', "root['chief2_position']": 'First Deputy Minister'}, 'dictionary_item_removed': {"root['name']": 'Ministry of National Defense', "root['seal_width']": '150 px', "root['budget']": '35.9 billion Polish złoty'}}
+6: {'values_changed': {"root['budget']": {'new_value': '35.9 billion Polish złoty', 'old_value': 'PLN'}, "root['chief1_name']": {'new_value': 'Antoni Macierewicz', 'old_value': 'Mariusz Błaszczak'}}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': 'Mariusz Błaszczak', 'old_value': 'Wojciech Szczesny'}}}
+15: {'values_changed': {"root['chief1_name']": {'new_value': 'Wojciech Szczesny', 'old_value': 'Mariusz Błaszczak'}}}

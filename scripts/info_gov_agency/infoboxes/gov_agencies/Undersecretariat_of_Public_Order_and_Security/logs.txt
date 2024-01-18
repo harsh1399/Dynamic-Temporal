@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Public Safety Agency', "root['nativename']": 'Kamu Güvenliği Teşkilatı', "root['chief1_name']": 'Muammer Güler', "root['chief1_position']": 'Undersecretary'}}
+4: {'values_changed': {"root['nativename']": {'new_value': 'Kamu Güvenliği Teşkilatı', 'old_value': 'Kamu Güvenliği Teşkilâtı'}}}
+5: {'values_changed': {"root['agency_name']": {'new_value': 'Public Safety Agency', 'old_value': 'Public Safety Agency (Turkey)'}}}
+8: {'values_changed': {"root['agency_name']": {'new_value': 'Public Safety Agency (Turkey)', 'old_value': 'Undersecretariat of Public Order and Security'}, "root['nativename']": {'new_value': 'Kamu Güvenliği Teşkilâtı', 'old_value': 'Kamu Düzeni ve Güvenliği Müsteşarlığı'}}}
+10: {'dictionary_item_added': {"root['chief1_name']": 'Muammer Güler', "root['chief1_position']": 'Undersecretary'}, 'dictionary_item_removed': {"root['picture']": 'Kamu Düzeni ve Güvenliği Müsteşarlığı.jpg', "root['picture_caption']": 'Entrance of Undersecretariat of Public Order and Security in Ankara, Turkey.'}}

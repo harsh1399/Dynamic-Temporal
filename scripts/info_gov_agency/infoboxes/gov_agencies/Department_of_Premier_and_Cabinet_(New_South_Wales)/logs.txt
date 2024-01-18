@@ -1,0 +1,6 @@
+2: {'dictionary_item_removed': {"root['agency_name']": 'New South Wales Department of Premier and Cabinet', "root['minister1_name']": 'Kristina Keneally', "root['minister1_pfo']": 'Premier of New South Wales', "root['chief1_name']": "Brendan O'Reilly", "root['chief1_position']": 'Director General'}}
+9: {'values_changed': {"root['minister1_name']": {'new_value': 'Kristina Keneally', 'old_value': "Barry O'Farrell"}}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': "Brendan O'Reilly", 'old_value': 'Chris Eccles'}}}
+18: {'dictionary_item_removed': {"root['employees']": '687  (2010)'}, 'values_changed': {"root['minister1_pfo']": {'new_value': 'Premier of New South Wales', 'old_value': ', Premier of New South Wales'}, "root['chief1_position']": {'new_value': 'Director General', 'old_value': ', Director General'}}}
+22: {'values_changed': {"root['chief1_name']": {'new_value': 'Chris Eccles', 'old_value': 'Blair Comley'}}}
+25: {'values_changed': {"root['chief1_position']": {'new_value': ', Director General', 'old_value': ', Secretary'}}}

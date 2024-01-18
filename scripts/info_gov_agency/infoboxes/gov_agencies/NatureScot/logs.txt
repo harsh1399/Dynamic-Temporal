@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Scottish Natural Heritage', "root['formation']": '1992', "root['location']": 'Scotland', "root['leader_title']": 'Chief Executive', "root['leader_name']": 'Francesca Osowska', "root['staff']": '752', "root['staff_year']": '2015', "root['budget']": '£53 million', "root['budget_year']": '2015 '}}
+1: {'values_changed': {"root['name']": {'new_value': 'Scottish Natural Heritage', 'old_value': 'NatureScot'}}}
+3: {'values_changed': {"root['name']": {'new_value': 'NatureScot', 'old_value': 'Scottish Natural Heritage'}}}
+4: {'values_changed': {"root['name']": {'new_value': 'Scottish Natural Heritage', 'old_value': 'NatureScot'}}}
+5: {'values_changed': {"root['name']": {'new_value': 'NatureScot', 'old_value': 'Scottish Natural Heritage'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'Scottish Natural Heritage', 'old_value': 'NatureScot'}}}
+13: {'values_changed': {"root['staff']": {'new_value': '752', 'old_value': '621<ref name'}, "root['staff_year']": {'new_value': '2015', 'old_value': '20118-19'}, "root['budget']": {'new_value': '£53 million', 'old_value': '£54.5 million<ref name'}, "root['budget_year']": {'new_value': '2015 ', 'old_value': '2018-19 '}}}
+14: {'values_changed': {"root['staff']": {'new_value': '621<ref name', 'old_value': '736<ref name'}}}
+19: {'values_changed': {"root['staff_year']": {'new_value': '20118-19', 'old_value': '2018-19'}}}
+24: {'dictionary_item_added': {"root['formation']": '1992', "root['location']": 'Scotland', "root['leader_title']": 'Chief Executive', "root['leader_name']": 'Francesca Osowska', "root['staff']": '736<ref name', "root['staff_year']": '2018-19', "root['budget_year']": '2018-19 '}, 'dictionary_item_removed': {"root['employees']": '736 (2018-19)<ref name', "root['chief1_name']": 'Francesca Osowska', "root['chief1_position']": 'Chief executive officer', "root['chief2_name']": 'Dr Mike Cantlay', "root['chief2_position']": 'Chairperson'}, 'values_changed': {"root['budget']": {'new_value': '£54.5 million<ref name', 'old_value': '£54.5m (2018-19)<ref name'}}}
+32: {'values_changed': {"root['employees']": {'new_value': '736 (2018-19)<ref name', 'old_value': '736 (Q1 2022)<ref name'}, "root['budget']": {'new_value': '£54.5m (2018-19)<ref name', 'old_value': '£56.3m (2020-21)<ref name'}}}

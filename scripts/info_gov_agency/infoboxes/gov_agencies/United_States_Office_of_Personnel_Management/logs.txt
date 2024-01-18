@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Office of Personnel Management', "root['seal_width']": '160 px', "root['employees']": '5,539 small', "root['chief1_name']": 'Michael Rigas', "root['chief1_position']": 'Acting Director', "root['chief3_name']": '|chief3_position'}}
+2: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Michael Rigas', 'old_value': 'Kathleen McGettigan'}}}
+9: {'values_changed': {"root['chief1_name']": {'new_value': 'Kathleen McGettigan', 'old_value': 'Kiran Ahuja'}, "root['chief1_position']": {'new_value': 'Acting Director', 'old_value': 'Director'}}}
+17: {'dictionary_item_removed': {"root['budget']": '$329,755,000 small'}, 'values_changed': {"root['employees']": {'new_value': '5,539 small', 'old_value': '2,448 small'}}}

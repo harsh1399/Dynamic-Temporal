@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Commonwealth Scientific and Industrial Research Organisation (CSIRO)', "root['preceding']": 'Advisory Council of Science and Industry (1916-1920), Institute of Science and Industry (1920', "root['employees']": '5,000+', "root['minister1_name']": 'Greg Hunt', "root['minister1_pfo']": 'Minister for Industry, Innovation and Science (Australia)', "root['chief1_name']": 'David Thodey', "root['chief1_position']": 'Chair', "root['chief2_name']": 'Larry R. Marshall', "root['chief2_position']": 'CEO'}}
+17: {'values_changed': {"root['minister1_name']": {'new_value': 'Greg Hunt', 'old_value': 'Arthur Sinodinos'}}}
+38: {'values_changed': {"root['chief1_position']": {'new_value': 'Chair', 'old_value': 'Chairman'}, "root['chief2_position']": {'new_value': 'CEO', 'old_value': 'Chief executive officer'}}}
+39: {'values_changed': {"root['preceding']": {'new_value': 'Advisory Council of Science and Industry (1916-1920), Institute of Science and Industry (1920', 'old_value': 'Advisory Council of Science and Industry (1916-1920), Institute of Science and Industry (1920-1926), CSIR (1926-1949)'}}}
+40: {'dictionary_item_added': {"root['preceding']": 'Advisory Council of Science and Industry (1916-1920), Institute of Science and Industry (1920-1926), CSIR (1926-1949)'}, 'dictionary_item_removed': {"root['preceding3']": 'CSIR (1926-1949)'}}
+45: {'values_changed': {"root['preceding3']": {'new_value': 'CSIR (1926-1949)', 'old_value': 'CSIR (1926–1949)'}}}
+48: {'values_changed': {"root['minister1_name']": {'new_value': 'Arthur Sinodinos', 'old_value': 'Senator the Hon Michaelia Cash'}, "root['minister1_pfo']": {'new_value': 'Minister for Industry, Innovation and Science (Australia)', 'old_value': 'Minister for Jobs and Innovation (Australia)'}, "root['chief2_position']": {'new_value': 'Chief executive officer', 'old_value': 'Chief executive'}}}
+56: {'values_changed': {"root['minister1_name']": {'new_value': 'Senator the Hon Michaelia Cash', 'old_value': 'Michaelia Cash'}}}
+57: {'values_changed': {"root['employees']": {'new_value': '5,000+', 'old_value': '5,500'}}}
+72: {'values_changed': {"root['employees']": {'new_value': '5,500', 'old_value': '5,565 (2017)'}}}
+106: {'dictionary_item_added': {"root['minister1_name']": 'Michaelia Cash'}, 'values_changed': {"root['minister1_pfo']": {'new_value': 'Minister for Jobs and Innovation (Australia)', 'old_value': 'Minister for Industry, Science and Technology'}}}
+112: {'dictionary_item_removed': {"root['minister1_name']": 'Christian Porter'}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'U.S. Consumer Financial Protection Bureau'}}
+4: {'dictionary_item_removed': {"root['nativename']": 'CFPB'}}
+21: {'dictionary_item_removed': {"root['chief1_name']": 'Richard Cordray'}}
+23: {'values_changed': {"root['chief1_name']": {'new_value': 'Richard Cordray', 'old_value': 'Richard Cordray (if confirmed by the U.S. Senate)'}}}
+32: {'values_changed': {"root['chief1_name']": {'new_value': 'Richard Cordray (if confirmed by the U.S. Senate)', 'old_value': 'Richard Cordray (if confirmed by the U.S. Senate), Raj Date (acting director)'}}}
+40: {'values_changed': {"root['chief1_name']": {'new_value': 'Richard Cordray (if confirmed by the U.S. Senate), Raj Date (acting director)', 'old_value': 'Richard Cordray (if confirmed by the U.S. Senate), Raj Date (special advisor)'}}}
+57: {'dictionary_item_added': {"root['nativename']": 'CFPB'}, 'dictionary_item_removed': {"root['employees']": '1,540 (2019)', "root['budget']": 'United States dollar', "root['chief1_position']": 'Director', "root['chief2_name']": 'Thomas Pahl', "root['chief2_position']": 'Deputy Director', "root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Consumer Financial Protection Bureau', 'old_value': 'Consumer Financial Protection Bureau'}, "root['chief1_name']": {'new_value': 'Richard Cordray (if confirmed by the U.S. Senate), Raj Date (special advisor)', 'old_value': 'Kathleen Kraninger'}}}
+61: {'dictionary_item_added': {"root['chief2_name']": 'Thomas Pahl', "root['chief2_position']": 'Deputy Director'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Kathleen Kraninger', 'old_value': 'Dave Uejio'}, "root['chief1_position']": {'new_value': 'Director', 'old_value': 'Acting Director'}}}
+82: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Dave Uejio', 'old_value': 'Rohit Chopra'}, "root['chief1_position']": {'new_value': 'Acting Director', 'old_value': 'Director'}}}
+92: {'values_changed': {"root['employees']": {'new_value': '1,540 (2019)', 'old_value': '1,591 (2021)'}}}

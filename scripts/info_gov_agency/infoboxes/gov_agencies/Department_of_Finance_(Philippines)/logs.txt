@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Finance', "root['nativename']": "''Kagawaran ng Pananalapi''", "root['picture']": 'DOF-banner3.png', "root['picture_caption']": 'Department of Finance building', "root['budget']": 'Philippine peso', "root['chief1_name']": 'Carlos Dominguez III', "root['chief1_position']": 'Secretary of Finance (Philippines)', "root['chief2_name']": 'Paola Sherina Alvarezg'}}
+1: {'values_changed': {"root['chief2_name']": {'new_value': 'Paola Sherina Alvarezg', 'old_value': 'Paola Sherina Alvarez'}}}
+5: {'dictionary_item_removed': {"root['chief2_position']": 'Spokesperson'}}
+7: {'values_changed': {"root['chief1_name']": {'new_value': 'Carlos Dominguez III', 'old_value': 'Luisitro Castro'}}}
+10: {'dictionary_item_removed': {"root['employees']": '3000'}}
+11: {'values_changed': {"root['chief1_name']": {'new_value': 'Luisitro Castro', 'old_value': 'Carlos Dominguez III'}}}
+17: {'dictionary_item_added': {"root['chief2_name']": 'Paola Sherina Alvarez', "root['chief2_position']": 'Spokesperson'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Carlos Dominguez III', 'old_value': 'Benjamin Diokno'}}}

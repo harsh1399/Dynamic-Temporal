@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Social Security Organization'}}
+7: {'dictionary_item_removed': {"root['nativename']": 'سازمان تامین اجتماعی', "root['chief1_name']": 'Ahmad Fayyaz Bakhsh', "root['chief1_position']": 'Tehran'}}
+11: {'values_changed': {"root['chief1_name']": {'new_value': 'Ahmad Fayyaz Bakhsh', 'old_value': 'Seyed Naghi Nourbakhsh'}}}
+12: {'values_changed': {"root['chief1_position']": {'new_value': 'Tehran', 'old_value': 'Tehran, Iran'}}}
+14: {'dictionary_item_added': {"root['chief1_position']": 'Tehran, Iran'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Seyed Naghi Nourbakhsh', 'old_value': 'Mostafa Salari'}}}
+25: {'values_changed': {"root['agency_name']": {'new_value': 'Social Security Organization', 'old_value': 'Social Security Organisation'}}}

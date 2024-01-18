@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Directorate General of Forces Intelligence', "root['employees']": '12,000 (est.)', "root['budget']": 'Classified', "root['chief1_name']": 'Maj. Gen. Md Saiful Abedin', "root['chief1_position']": 'Director General of the Directorate General of Forces Intelligence', "root['chief2_name']": '|chief2_position'}}
+17: {'values_changed': {"root['chief1_name']": {'new_value': 'Maj. Gen. Md Saiful Abedin', 'old_value': 'Maj. Gen. Md Saiful Alam'}}}
+95: {'values_changed': {"root['agency_name']": {'new_value': 'Directorate General of Forces Intelligence', 'old_value': 'DGFI'}}}
+98: {'values_changed': {"root['agency_name']": {'new_value': 'DGFI', 'old_value': 'Directorate General of Forces Intelligence'}}}
+128: {'values_changed': {"root['employees']": {'new_value': '12,000 (est.)', 'old_value': 'Classified'}}}
+165: {'dictionary_item_added': {"root['employees']": 'Classified', "root['budget']": 'Classified'}, 'dictionary_item_removed': {"root['headerstyle']": 'background:#b0c4de', "root['style']": 'background:#b0c4de'}}
+169: {'dictionary_item_removed': {"root['garrison']": 'Dhaka Cantonment, Dhaka , Bangladesh'}}
+194: {'dictionary_item_added': {"root['garrison']": 'Dhaka Cantonment, Dhaka , Bangladesh'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Maj. Gen. Md Saiful Alam', 'old_value': 'Maj. Gen. Ahmed Tabrez Shams Chowdhury'}}}
+201: {'values_changed': {"root['chief1_name']": {'new_value': 'Maj. Gen. Ahmed Tabrez Shams Chowdhury', 'old_value': 'Major general'}}}
+223: {'dictionary_item_added': {"root['chief2_name']": '|chief2_position'}, 'dictionary_item_removed': {"root['nativename_a']": 'nq'}}

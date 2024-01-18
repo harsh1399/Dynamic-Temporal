@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Department of Veterans Affairs', "root['picture']": 'File:Department of Veteran Affairs DCJPG.jpg', "root['picture_caption']": 'Washington, D.C. Headquarters', "root['employees']": '987 (2016)', "root['budget']": '$200 billion (FY2019)', "root['chief1_name']": 'Robert Wilkie', "root['chief1_position']": 'United States Secretary of Veterans Affairs', "root['chief2_name']": 'James Byrne (lawyer)', "root['chief2_position']": 'United States Deputy Secretary of Veterans Affairs'}}
+4: {'values_changed': {"root['chief2_name']": {'new_value': 'James Byrne (lawyer)', 'old_value': "''Vacant''"}}}
+28: {'values_changed': {"root['employees']": {'new_value': '987 (2016)', 'old_value': '377,805 (2020)'}}}
+29: {'values_changed': {"root['chief2_name']": {'new_value': "''Vacant''", 'old_value': 'Pamela J. Powers'}}}
+75: {'values_changed': {"root['chief1_name']": {'new_value': 'Robert Wilkie', 'old_value': 'Denis McDonough'}, "root['chief2_name']": {'new_value': 'Pamela J. Powers', 'old_value': 'Donald Remy'}}}
+85: {'values_changed': {"root['picture']": {'new_value': 'File:Department of Veteran Affairs DCJPG.jpg', 'old_value': 'Veterans Administration Building.jpg'}}}
+86: {'dictionary_item_removed': {"root['child3_agency']": 'National Cemetery Administration', "root['child4_agency']": "Board of Veterans' Appeals"}, 'values_changed': {"root['budget']": {'new_value': '$200 billion (FY2019)', 'old_value': 'FY2022: $112.2 billion (appropriated), FY2023: $301.4 billion (requested)'}}}
+108: {'values_changed': {"root['employees']": {'new_value': '377,805 (2020)', 'old_value': '412,892  (June-2020)'}}}
+121: {'values_changed': {"root['chief2_name']": {'new_value': 'Donald Remy', 'old_value': 'Guy Kiyokawa'}, "root['chief2_position']": {'new_value': 'United States Deputy Secretary of Veterans Affairs', 'old_value': 'Acting United States Deputy Secretary of Veterans Affairs'}}}
+127: {'values_changed': {"root['employees']": {'new_value': '412,892  (June-2020)', 'old_value': '412,892  (June 2020)'}}}
+128: {'dictionary_item_removed': {"root['chief3_name']": 'Michael J. Missal', "root['chief3_position']": 'U.S. Department of Veterans Affairs, Office of Inspector General'}}

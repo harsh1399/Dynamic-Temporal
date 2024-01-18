@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Central Election Commission (Republic of China)', "root['nativename_a']": '中央選舉委員會', "root['chief1_position']": 'Chairman of Commissioners (NCC)'}}
+1: {'values_changed': {"root['agency_name']": {'new_value': 'Central Election Commission (Republic of China)', 'old_value': 'Central Election Commission'}}}
+2: {'dictionary_item_added': {"root['chief1_position']": 'Chairman of Commissioners (NCC)'}, 'dictionary_item_removed': {"root['chief_name']": 'Chang Po-ya', "root['chief_position']": 'Chairperson'}}
+3: {'dictionary_item_removed': {"root['nativename_r']": 'Zhōngyāng Xuǎnjǔ Wěiyuánhuì'}}
+4: {'dictionary_item_added': {"root['chief_name']": 'Chang Po-ya', "root['chief_position']": 'Chairperson'}, 'dictionary_item_removed': {"root['chief1_name']": 'Chang Po-ya', "root['chief1_position']": 'Chairperson'}}
+8: {'dictionary_item_removed': {"root['chief2_name']": 'Liu I-chou', "root['chief2_position']": 'Deputy Chairperson'}}
+9: {'values_changed': {"root['chief2_position']": {'new_value': 'Deputy Chairperson', 'old_value': 'Vice Chairperson'}}}
+15: {'dictionary_item_added': {"root['chief2_name']": 'Liu I-chou', "root['chief2_position']": 'Vice Chairperson'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Chang Po-ya', 'old_value': 'Liu I-chou'}}}
+41: {'values_changed': {"root['chief1_name']": {'new_value': 'Liu I-chou', 'old_value': 'Chen In-chin'}}}
+44: {'dictionary_item_removed': {"root['chief2_name']": 'Chen Chao-chien (陳朝建)', "root['chief2_position']": 'Vice Chairperson'}}

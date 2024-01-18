@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'California Coastal Commission', "root['employees']": '151<ref name', "root['budget']": '$32,086,000 (FY2019-20)<ref name', "root['chief1_name']": 'Jack Ainsworth', "root['chief1_position']": 'Executive Director', "root['chief2_name']": 'Susan Hansch', "root['chief2_position']": 'Chief Deputy Director'}}
+28: {'values_changed': {"root['budget']": {'new_value': '$32,086,000 (FY2019-20)<ref name', 'old_value': '$32 million (FY2019-20)<ref name'}}}
+99: {'dictionary_item_added': {"root['chief2_name']": 'Susan Hansch', "root['chief2_position']": 'Chief Deputy Director'}, 'values_changed': {"root['employees']": {'new_value': '151<ref name', 'old_value': '164<ref name'}, "root['budget']": {'new_value': '$32 million (FY2019-20)<ref name', 'old_value': '$33 million (FY2021-22)<ref name'}}}
+229: {'values_changed': {"root['employees']": {'new_value': '164<ref name', 'old_value': '164 (2021)'}, "root['budget']": {'new_value': '$33 million (FY2021-22)<ref name', 'old_value': '$33 million (2021)'}}}
+302: {'values_changed': {"root['chief1_name']": {'new_value': 'Jack Ainsworth', 'old_value': 'Kate Huckelbridge'}}}

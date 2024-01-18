@@ -1,0 +1,25 @@
+12: {'dictionary_item_removed': {"root['agency_name']": 'Department of Education', "root['minister1_name']": 'Michael Gove', "root['minister1_pfo']": 'Secretary of State for Education'}}
+19: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Education', 'old_value': 'Department for Education'}}}
+25: {'dictionary_item_removed': {"root['budget']": '£57.6 billion (current)', "root['chief1_name']": 'Chris Wormald', "root['chief1_position']": 'Permanent Secretary', "root['child3_agency']": 'Standards and Testing Agency'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Michael Gove', 'old_value': 'Nicky Morgan (politician)'}}}
+26: {'values_changed': {"root['minister1_name']": {'new_value': 'Nicky Morgan (politician)', 'old_value': 'Michael Gove'}}}
+27: {'values_changed': {"root['minister1_name']": {'new_value': 'Michael Gove', 'old_value': 'Nicky Morgan (politician)'}}}
+36: {'dictionary_item_removed': {"root['picture']": 'File:Departmentforeducationandskills.jpg'}}
+46: {'values_changed': {"root['minister1_name']": {'new_value': 'Nicky Morgan (politician)', 'old_value': 'Nicky Morgan'}}}
+47: {'values_changed': {"root['chief1_name']": {'new_value': 'Chris Wormald', 'old_value': 'Jonathan Slater'}}}
+50: {'values_changed': {"root['minister1_name']": {'new_value': 'Nicky Morgan', 'old_value': 'TBA'}}}
+52: {'values_changed': {"root['minister1_name']": {'new_value': 'TBA', 'old_value': 'Justine Greening'}}}
+71: {'dictionary_item_removed': {"root['child4_agency']": 'Standards and Testing Agency'}, 'values_changed': {"root['child3_agency']": {'new_value': 'Standards and Testing Agency', 'old_value': 'Skills Funding Agency'}}}
+74: {'values_changed': {"root['budget']": {'new_value': '£57.6 billion (current)', 'old_value': '£58.2 billion (2015-16)'}}}
+75: {'values_changed': {"root['budget']": {'new_value': '£58.2 billion (2015-16)', 'old_value': '£58.2 billion (2015-16)citation needed'}}}
+81: {'dictionary_item_added': {"root['child4_agency']": 'Standards and Testing Agency'}, 'values_changed': {"root['child3_agency']": {'new_value': 'Skills Funding Agency', 'old_value': 'Standards and Testing Agency'}}}
+84: {'values_changed': {"root['minister1_name']": {'new_value': 'Justine Greening', 'old_value': 'Vacant'}}}
+87: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': 'Damien Hinds'}}}
+88: {'values_changed': {"root['minister1_name']": {'new_value': 'Damien Hinds', 'old_value': 'Damian Hinds'}}}
+102: {'values_changed': {"root['budget']": {'new_value': '£58.2 billion (2015-16)citation needed', 'old_value': '£65.2 billion (2015-16)citation needed'}}}
+103: {'values_changed': {"root['budget']": {'new_value': '£65.2 billion (2015-16)citation needed', 'old_value': '£58.2 billion (2015-16)citation needed'}}}
+106: {'dictionary_item_removed': {"root['minister2_name']": 'Rt Hon. Nick Gibb MP', "root['minister2_pfo']": 'Minister of State for School Standards', "root['minister3_name']": 'Rt Hon. Anne Milton MP', "root['minister3_pfo']": 'Minister of State for Apprenticeships and Skills', "root['minister4_name']": 'Sam Gyimah MP', "root['minister4_pfo']": 'Minister of State for Higher Education', "root['minister5_name']": 'Nadhim Zahawi MP', "root['minister5_pfo']": 'Parliamentary Under-Secretary of State for Education', "root['minister6_name']": 'Theodore Agnew, Baron Agnew of Oulton', "root['minister6_pfo']": 'Parliamentary Under-Secretary of State for the School System'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Damian Hinds', 'old_value': 'Rt Hon. Damian Hinds MP'}}}
+107: {'values_changed': {"root['minister4_pfo']": {'new_value': 'Minister of State for Higher Education', 'old_value': 'Minister of State for Universities, Science, Research and Innovation (joint post with BEIS)'}}}
+108: {'values_changed': {"root['minister4_pfo']": {'new_value': 'Minister of State for Universities, Science, Research and Innovation (joint post with BEIS)', 'old_value': 'Minister of State for Higher Education (joint minister with Department for Business, Energy and Industrial Strategy)'}}}
+111: {'values_changed': {"root['minister1_name']": {'new_value': 'Rt Hon. Damian Hinds MP', 'old_value': 'Rt Hon. Terry Eagleton MP'}}}
+112: {'values_changed': {"root['minister1_name']": {'new_value': 'Rt Hon. Terry Eagleton MP', 'old_value': 'Rt Hon. Damian Hinds MP'}}}
+118: {'values_changed': {"root['minister4_name']": {'new_value': 'Sam Gyimah MP', 'old_value': 'Chris Skidmore MP'}, "root['minister4_pfo']": {'new_value': 'Minister of State for Higher Education (joint minister with Department for Business, Energy and Industrial Strategy)', 'old_value': 'Minister of State for Universities, Research, Science & Innovation (joint minister with Department for Business, Energy and Industrial Strategy'}}}

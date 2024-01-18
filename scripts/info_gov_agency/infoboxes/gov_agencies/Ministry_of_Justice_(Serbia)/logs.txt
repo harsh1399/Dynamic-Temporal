@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['post']": 'Minister of Justice', "root['incumbent']": 'Nela Kuburović', "root['incumbentsince']": '11 August 2016', "root['appointer']": 'Aleksandar Vučić', "root['appointerpost']": 'Prime Minister of Serbia'}}
+5: {'dictionary_item_added': {"root['appointerpost']": 'Prime Minister of Serbia'}, 'dictionary_item_removed': {"root['appointer_qualified']": 'Prime Minister of Serbia', "root['inaugural']": 'Predrag Todorović', "root['formation']": '11 February 1991'}, 'values_changed': {"root['appointer']": {'new_value': 'Aleksandar Vučić', 'old_value': 'Ivica Dačić'}}}
+9: {'values_changed': {"root['appointer']": {'new_value': 'Ivica Dačić', 'old_value': 'Ana Brnabić'}}}
+11: {'dictionary_item_added': {"root['post']": 'Minister of Justice', "root['incumbent']": 'Nela Kuburović', "root['incumbentsince']": '11 August 2016', "root['appointer']": 'Ana Brnabić', "root['appointer_qualified']": 'Prime Minister of Serbia', "root['inaugural']": 'Predrag Todorović', "root['formation']": '11 February 1991'}, 'dictionary_item_removed': {"root['name']": 'Ministry of Justice', "root['minister1_name']": 'Nela Kuburović', "root['deputyminister1_name']": 'Radomir Ilić'}}
+15: {'dictionary_item_removed': {"root['budget']": 'USD'}}
+20: {'dictionary_item_removed': {"root['employees']": '145 small'}}
+25: {'values_changed': {"root['budget']": {'new_value': 'USD', 'old_value': 'EUR'}}}
+39: {'values_changed': {"root['minister1_name']": {'new_value': 'Nela Kuburović', 'old_value': 'Maja Popović'}}}

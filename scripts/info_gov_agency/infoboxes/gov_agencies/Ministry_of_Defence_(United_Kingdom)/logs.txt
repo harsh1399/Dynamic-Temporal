@@ -1,0 +1,17 @@
+24: {'dictionary_item_removed': {"root['name']": 'Ministry of Defence', "root['employees']": '57,140 civilian staff (May 2018)   192,160 Military Personnel', "root['budget']": '£52 billion; Fiscal year', "root['minister1_name']": 'Ben Wallace (politician)', "root['minister1_pfo']": 'Secretary of State for Defence', "root['chief1_name']": 'Nick Carter (British Army officer)', "root['chief1_position']": 'Chief of the Defence Staff (United Kingdom)', "root['chief2_name']": 'Stephen Lovegrove', "root['chief2_position']": 'Permanent Under Secretary', "root['child3_agency']": 'United Kingdom Hydrographic Office'}}
+34: {'values_changed': {"root['budget']": {'new_value': '£52 billion; Fiscal year', 'old_value': '£55 billion; Fiscal year'}}}
+39: {'values_changed': {"root['employees']": {'new_value': '57,140 civilian staff (May 2018)   192,160 Military Personnel', 'old_value': '57,140 civilian staff (May 2018)   192,160 military personnel'}, "root['budget']": {'new_value': '£55 billion; Fiscal year', 'old_value': '£55 billion; fiscal year'}}}
+40: {'values_changed': {"root['employees']": {'new_value': '57,140 civilian staff (May 2018)   192,160 military personnel', 'old_value': 'ubl'}}}
+56: {'values_changed': {"root['budget']": {'new_value': '£55 billion; fiscal year', 'old_value': '£41.4 billion; fiscal year'}}}
+61: {'values_changed': {"root['budget']": {'new_value': '£41.4 billion; fiscal year', 'old_value': '£55 billion; fiscal year'}}}
+85: {'values_changed': {"root['chief2_name']": {'new_value': 'Stephen Lovegrove', 'old_value': 'David Williams'}}}
+101: {'values_changed': {"root['chief2_name']": {'new_value': 'David Williams', 'old_value': 'David Williams (British civil servant)'}}}
+103: {'values_changed': {"root['chief1_name']": {'new_value': 'Nick Carter (British Army officer)', 'old_value': 'Tony Radakin'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Ministry of Defence', 'old_value': 'Ministry Of Defence'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'Ministry Of Defence', 'old_value': 'Ministry of Defence'}}}
+123: {'values_changed': {"root['chief2_position']": {'new_value': 'Permanent Under Secretary', 'old_value': 'Permanent Under-Secretary of State for Defence'}}}
+124: {'values_changed': {"root['minister1_name']": {'new_value': 'Ben Wallace (politician)', 'old_value': 'Ben Wall(politician)'}}}
+126: {'values_changed': {"root['minister1_name']": {'new_value': 'Ben Wall(politician)', 'old_value': 'Ben Wallace (politician)'}}}
+148: {'values_changed': {"root['budget']": {'new_value': '£55 billion; fiscal year', 'old_value': '£65 billion; fiscal year'}}}
+149: {'values_changed': {"root['budget']": {'new_value': '£65 billion; fiscal year', 'old_value': '£55 billion; fiscal year'}}}
+150: {'values_changed': {"root['budget']": {'new_value': '£55 billion; fiscal year', 'old_value': '£41.4 billion; fiscal year'}}}

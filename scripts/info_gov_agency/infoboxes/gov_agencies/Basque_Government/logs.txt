@@ -1,0 +1,4 @@
+11: {'dictionary_item_removed': {"root['agency_name']": 'Basque Government', "root['employees']": '200,000', "root['budget']": '€10.4 billion (2012)', "root['minister1_name']": 'Iñigo Urkullu', "root['minister1_pfo']": 'Lendakari'}}
+13: {'values_changed': {"root['employees']": {'new_value': '200,000', 'old_value': '116,000'}}}
+14: {'values_changed': {"root['employees']": {'new_value': '116,000', 'old_value': '78,000'}}}
+27: {'values_changed': {"root['budget']": {'new_value': '€10.4 billion (2012)', 'old_value': '€11.75 billion (2020)'}}}

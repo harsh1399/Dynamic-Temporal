@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ministry of Internal Affairs', "root['budget']": 'USD', "root['minister1_name']": 'Nebojša Stefanović', "root['deputyminister1_name']": 'Milosav Miličković', "root['deputyminister2_name']": 'Biljana Popović Ivković', "root['deputyminister3_name']": 'Dijana Hrkalović'}}
+5: {'dictionary_item_added': {"root['deputyminister3_name']": 'Dijana Hrkalović'}, 'values_changed': {"root['budget']": {'new_value': 'USD', 'old_value': 'EUR'}}}
+18: {'values_changed': {"root['minister1_name']": {'new_value': 'Nebojša Stefanović', 'old_value': 'Aleksandar Vulin'}}}

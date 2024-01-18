@@ -1,0 +1,6 @@
+6: {'dictionary_item_removed': {"root['agency_name']": 'Department of Alcoholic Beverage Control', "root['chief1_name']": 'Jacob Appelsmith', "root['chief1_position']": 'Director'}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': 'Jacob Appelsmith', 'old_value': 'Timothy Gorsuch'}}}
+13: {'dictionary_item_removed': {"root['employees']": '126 Sworn'}}
+15: {'dictionary_item_removed': {"root['budget']": '$56.2 Million'}}
+18: {'values_changed': {"root['budget']": {'new_value': '$56.2 Million', 'old_value': '$84.6 Million'}, "root['chief1_name']": {'new_value': 'Timothy Gorsuch', 'old_value': 'Jacob Appelsmith'}}}
+21: {'values_changed': {"root['employees']": {'new_value': '126 Sworn', 'old_value': '210 Sworn'}}}

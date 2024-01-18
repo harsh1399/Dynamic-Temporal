@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'National Weather Service', "root['nativename']": 'NWS', "root['chief1_name']": 'Louis Uccellini', "root['chief1_position']": 'Director', "root['slogan']": "''America's National Weather Service: Protecting Lives, Livelihoods, and Your Way of Life''"}}
+94: {'dictionary_item_added': {"root['nativename']": 'NWS'}, 'dictionary_item_removed': {"root['employees']": '5,000', "root['budget']": '$1,124,149,000'}}
+102: {'dictionary_item_added': {"root['employees']": '5,000', "root['slogan']": "''America's National Weather Service: Protecting Lives, Livelihoods, and Your Way of Life''"}, 'values_changed': {"root['budget']": {'new_value': '$1,124,149,000', 'old_value': 'US$1,124,149,000 (Fiscal year#Federal government'}}}
+103: {'values_changed': {"root['budget']": {'new_value': 'US$1,124,149,000 (Fiscal year#Federal government', 'old_value': 'US$1.204 billion (Fiscal year#Federal government'}}}

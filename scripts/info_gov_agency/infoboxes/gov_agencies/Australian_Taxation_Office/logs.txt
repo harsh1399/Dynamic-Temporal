@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Australian Taxation Office', "root['employees']": '23,259 (at June 2014) citation', "root['budget']": 'A$3.598 billion<ref name', "root['minister1_name']": 'Joe Hockey', "root['minister1_pfo']": 'Treasurer', "root['minister2_name']": 'Mathias Cormann', "root['minister2_pfo']": 'Acting Assistant Treasurer', "root['chief1_name']": 'Chris Jordan, Officer of the Order of Australia', "root['chief1_position']": 'Commissioner of Taxation'}}
+1: {'values_changed': {"root['minister1_name']": {'new_value': 'Joe Hockey', 'old_value': 'Scott Morrison'}}}
+3: {'values_changed': {"root['minister1_name']": {'new_value': 'Scott Morrison', 'old_value': 'Scott Morrison (politician)'}}}
+6: {'values_changed': {"root['minister2_name']": {'new_value': 'Mathias Cormann', 'old_value': "Kelly O'Dwyer"}, "root['minister2_pfo']": {'new_value': 'Acting Assistant Treasurer', 'old_value': 'Assistant Treasurer'}}}
+21: {'values_changed': {"root['employees']": {'new_value': '23,259 (at June 2014) citation', 'old_value': '20,384 (at June 2016)'}, "root['minister1_name']": {'new_value': 'Scott Morrison (politician)', 'old_value': 'Scott Morrison'}}}
+25: {'values_changed': {"root['agency_name']": {'new_value': 'Australian Taxation Office', 'old_value': 'Australian Taxation Orifice'}}}
+28: {'values_changed': {"root['agency_name']": {'new_value': 'Australian Taxation Orifice', 'old_value': 'Australian Taxation Office'}}}
+32: {'values_changed': {"root['minister1_name']": {'new_value': 'Scott Morrison', 'old_value': 'Josh Frydenberg'}}}
+33: {'values_changed': {"root['minister2_name']": {'new_value': "Kelly O'Dwyer", 'old_value': 'Stuart Robert'}}}
+42: {'values_changed': {"root['agency_name']": {'new_value': 'Australian Taxation Office', 'old_value': 'Australian Taxation Office scumbags'}}}
+46: {'values_changed': {"root['agency_name']": {'new_value': 'Australian Taxation Office scumbags', 'old_value': 'Australian Taxation Office'}}}
+51: {'values_changed': {"root['budget']": {'new_value': 'A$3.598 billion<ref name', 'old_value': 'A$3.571 billion<ref name'}}}
+54: {'dictionary_item_added': {"root['minister2_name']": 'Stuart Robert', "root['minister2_pfo']": 'Assistant Treasurer'}, 'dictionary_item_removed': {"root['deputyminister1_name']": 'Stuart Robert', "root['deputyminister1_pfo']": 'Assistant Treasurer'}, 'values_changed': {"root['employees']": {'new_value': '20,384 (at June 2016)', 'old_value': '20,384 (June 2016)'}, "root['budget']": {'new_value': 'A$3.571 billion<ref name', 'old_value': 'Increase A$3.57 billion<ref name'}, "root['chief1_name']": {'new_value': 'Chris Jordan, Officer of the Order of Australia', 'old_value': 'Chris Jordan'}}}
+57: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Stuart Robert', 'old_value': 'Michael Sukkar'}}}

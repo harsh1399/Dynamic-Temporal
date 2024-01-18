@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of Defense', "root['nativename']": 'lang-prs', "root['minister1_name']": 'Asadullah Khalid'}}
+10: {'values_changed': {"root['minister1_name']": {'new_value': 'Asadullah Khalid', 'old_value': 'Bismillah Khan Mohammadi (acting)'}}}
+25: {'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi (acting)', 'old_value': 'Bismillah Khan Mohammadi'}}}
+37: {'dictionary_item_removed': {"root['minister2_name']": 'Abdul Qayyum Zakir, (Acting (law)'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi', 'old_value': 'Bismillah Khan Mohammadi, (Islamic Republic of Afghanistan)'}}}
+38: {'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi, (Islamic Republic of Afghanistan)', 'old_value': 'Bismillah Khan Mohammadi, (Acting (law)'}}}
+40: {'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi, (Acting (law)', 'old_value': 'Eric Odbaatar, (Acting (law)'}}}
+41: {'values_changed': {"root['minister1_name']": {'new_value': 'Eric Odbaatar, (Acting (law)', 'old_value': 'Eric Odbaatar , (Acting (law)'}}}
+42: {'values_changed': {"root['minister1_name']": {'new_value': 'Eric Odbaatar , (Acting (law)', 'old_value': 'Bismillah Khan Mohammadi, (Acting (law)'}}}
+43: {'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi, (Acting (law)', 'old_value': 'Eric Odbaatar Mohammadi, (Acting (law)'}}}
+44: {'values_changed': {"root['minister1_name']": {'new_value': 'Eric Odbaatar Mohammadi, (Acting (law)', 'old_value': 'Eric Odbaatar , (Acting (law)'}}}
+45: {'values_changed': {"root['minister1_name']": {'new_value': 'Eric Odbaatar , (Acting (law)', 'old_value': 'Bismillah Khan Mohammadi, (Acting (law)'}}}
+46: {'values_changed': {"root['minister1_name']": {'new_value': 'Bismillah Khan Mohammadi, (Acting (law)', 'old_value': 'Mullah Mohammad Yaqoob, (Acting (law)'}, "root['minister2_name']": {'new_value': 'Abdul Qayyum Zakir, (Acting (law)', 'old_value': 'Bismillah Khan Mohammadi, (Acting (law)'}}}
+50: {'values_changed': {"root['minister1_name']": {'new_value': 'Mullah Mohammad Yaqoob, (Acting (law)', 'old_value': 'Mohammad Yaqoob, (Acting (law)'}}}
+61: {'dictionary_item_removed': {"root['deputyminister1_name']": 'Mohammad Fazl'}}
+66: {'dictionary_item_added': {"root['minister1_name']": 'Mohammad Yaqoob, (Acting (law)', "root['minister2_name']": 'Bismillah Khan Mohammadi, (Acting (law)', "root['deputyminister1_name']": 'Mohammad Fazl'}, 'values_changed': {"root['nativename']": {'new_value': 'lang-prs', 'old_value': 'افغانستان'}}}
+67: {'dictionary_item_removed': {"root['minister1_name']": 'Mohammad Yaqoob, (Acting (law)', "root['minister2_name']": 'Bismillah Khan Mohammadi, (Acting (law)', "root['deputyminister1_name']": 'Mohammad Fazl'}, 'values_changed': {"root['nativename']": {'new_value': 'افغانستان', 'old_value': 'lang-prs'}}}
+79: {'values_changed': {"root['deputyminister1_name']": {'new_value': 'Mohammad Fazl', 'old_value': 'Abdul Qayyum Zakir, (Acting (law)'}}}
+96: {'dictionary_item_added': {"root['minister2_name']": 'Bismillah Khan Mohammadi, (Acting (law)'}, 'dictionary_item_removed': {"root['chief1_name']": 'Muhammad Ali Akhund', "root['chief1_position']": '(Director of Intelligence)'}}
+97: {'values_changed': {"root['chief1_position']": {'new_value': '(Director of Intelligence)', 'old_value': 'Director of Intelligence'}}}
+104: {'dictionary_item_removed': {"root['chief2_name']": 'Qari Lutfullah "Habibi"', "root['chief2_position']": 'Spokeperson'}}

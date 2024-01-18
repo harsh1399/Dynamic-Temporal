@@ -1,0 +1,12 @@
+15: {'dictionary_item_removed': {"root['name']": 'Ministry of Defense', "root['preceding']": 'Minister of War (Austria-Hungary)', "root['budget']": '€2,26 billion small', "root['leader_title']": 'Minister of Defense (Austria)', "root['leader']": 'Mario Kunasek (Independent politician', "root['leader1_title']": 'Chief of the General Staff (Bundesheer)', "root['leader1']": 'Johannes Peterlik'}}
+16: {'values_changed': {"root['leader1']": {'new_value': 'Johannes Peterlik', 'old_value': 'Robert Brieger'}}}
+18: {'dictionary_item_added': {"root['preceding']": 'Minister of War (Austria-Hungary)', "root['leader_title']": 'Minister of Defense (Austria)', "root['leader']": 'Mario Kunasek (Independent politician', "root['leader1_title']": 'Chief of the General Staff (Bundesheer)', "root['leader1']": 'Robert Brieger'}, 'dictionary_item_removed': {"root['minister_type']": 'Minister of Defense (Austria)', "root['minister1_name']": 'Mario Kunasek (Independent politician', "root['chief1_position']": 'Chief of the General Staff (Bundesheer)', "root['chief1_name']": 'Robert Brieger'}}
+20: {'values_changed': {"root['budget']": {'new_value': '€2,26 billion small', 'old_value': '€2.288 billion small'}}}
+22: {'values_changed': {"root['minister1_name']": {'new_value': 'Mario Kunasek (Independent politician', 'old_value': 'Mario Kunasek (Freedom Party of Austria'}}}
+23: {'values_changed': {"root['minister1_name']": {'new_value': 'Mario Kunasek (Freedom Party of Austria', 'old_value': 'Vacant'}}}
+26: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+27: {'values_changed': {"root['minister1_name']": {'new_value': "''Vacant''", 'old_value': 'Vacant'}}}
+28: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+29: {'values_changed': {"root['minister1_name']": {'new_value': "''Vacant''", 'old_value': 'Vacant'}}}
+30: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+31: {'values_changed': {"root['minister1_name']": {'new_value': "''Vacant''", 'old_value': 'Johann Luif'}}}

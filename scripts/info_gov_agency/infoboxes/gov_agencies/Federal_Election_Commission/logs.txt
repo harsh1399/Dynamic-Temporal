@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Federal Election Commission', "root['nativename']": 'FEC', "root['abbreviation']": 'FEC', "root['employees']": '339 (2006)', "root['chief1_name']": 'Steven T. Walther', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Caroline C. Hunter', "root['chief2_position']": 'Vice Chairman'}}
+4: {'values_changed': {"root['chief2_position']": {'new_value': 'Vice Chairman', 'old_value': 'Vice Chairwoman'}}}
+10: {'values_changed': {"root['chief1_name']": {'new_value': 'Steven T. Walther', 'old_value': 'Caroline C. Hunter'}, "root['chief2_name']": {'new_value': 'Caroline C. Hunter', 'old_value': 'Ellen L. Weintraub'}}}
+13: {'dictionary_item_added': {"root['nativename']": 'FEC'}, 'values_changed': {"root['employees']": {'new_value': '339 (2006)', 'old_value': '339 (2006)update-inline'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Chairwoman'}}}
+18: {'dictionary_item_removed': {"root['budget']": '$79,100,000 United States dollar'}}
+21: {'dictionary_item_added': {"root['abbreviation']": 'FEC'}, 'dictionary_item_removed': {"root['seal_width']": '140'}}
+22: {'values_changed': {"root['chief1_name']": {'new_value': 'Caroline C. Hunter', 'old_value': 'James E. Trainor III'}, "root['chief1_position']": {'new_value': 'Chairwoman', 'old_value': 'Chairman'}, "root['chief2_name']": {'new_value': 'Ellen L. Weintraub', 'old_value': 'Steven T. Walther'}, "root['chief2_position']": {'new_value': 'Vice Chairwoman', 'old_value': 'Vice Chairman'}}}
+24: {'values_changed': {"root['chief1_name']": {'new_value': 'James E. Trainor III', 'old_value': 'Shana M. Broussard'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Chair'}, "root['chief2_name']": {'new_value': 'Steven T. Walther', 'old_value': 'Allen Dickerson'}, "root['chief2_position']": {'new_value': 'Vice Chairman', 'old_value': 'Vice Chair'}}}
+52: {'values_changed': {"root['chief1_position']": {'new_value': 'Chair', 'old_value': 'Chair<ref name'}, "root['chief2_position']": {'new_value': 'Vice Chair', 'old_value': 'Vice Chair<ref name'}}}
+55: {'values_changed': {"root['budget']": {'new_value': '$79,100,000 United States dollar', 'old_value': 'Pasit Pintabut $79,100,000 United States dollar'}}}
+59: {'values_changed': {"root['budget']": {'new_value': 'Pasit Pintabut $79,100,000 United States dollar', 'old_value': '$79,100,000 United States dollar'}}}
+73: {'values_changed': {"root['employees']": {'new_value': '339 (2006)update-inline', 'old_value': '509(2018)update-inline'}}}
+82: {'values_changed': {"root['chief1_name']": {'new_value': 'Shana M. Broussard', 'old_value': 'Allen Dickerson'}, "root['chief2_name']": {'new_value': 'Allen Dickerson', 'old_value': 'Dara Lindenbaum'}}}
+87: {'values_changed': {"root['budget']": {'new_value': '$79,100,000 United States dollar', 'old_value': '$71.4 million United States dollar'}}}
+88: {'values_changed': {"root['employees']": {'new_value': '509(2018)update-inline', 'old_value': '509(2018)update inline'}}}
+92: {'values_changed': {"root['chief1_name']": {'new_value': 'Allen Dickerson', 'old_value': 'Dara Lindenbaum'}, "root['chief2_name']": {'new_value': 'Dara Lindenbaum', 'old_value': 'Sean J. Cooksey'}, "root['chief2_position']": {'new_value': 'Vice Chair<ref name', 'old_value': 'Vice Chairman<ref name'}}}
+96: {'values_changed': {"root['chief1_position']": {'new_value': 'Chair<ref name', 'old_value': 'Chairwoman<ref name'}}}

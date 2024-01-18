@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Taxi and Limousine Commission', "root['picture']": 'File:NYC TLC Police Patch.jpg', "root['picture_caption']": 'Law enforcement patch', "root['chief1_name']": 'Meera Joshi', "root['chief1_position']": 'chairman and chief executive officer'}}
+5: {'values_changed': {"root['chief1_position']": {'new_value': 'chairman and chief executive officer', 'old_value': 'chair and commissioner'}}}
+10: {'values_changed': {"root['chief1_position']": {'new_value': 'chair and commissioner', 'old_value': 'chairman and chief executive officer'}}}
+11: {'values_changed': {"root['chief1_position']": {'new_value': 'chairman and chief executive officer', 'old_value': 'chairwoman and chief executive officer    http://www.nyc.gov/html/tlc/html/about/commissioners.shtml'}}}
+12: {'values_changed': {"root['chief1_position']": {'new_value': 'chairwoman and chief executive officer    http://www.nyc.gov/html/tlc/html/about/commissioners.shtml', 'old_value': 'chairwoman and chief executive officer'}}}
+51: {'dictionary_item_removed': {"root['keydocument2']": 'Local Law 12 of 1971'}}
+57: {'dictionary_item_removed': {"root['budget']": '$68.8 million (2016)'}}
+58: {'values_changed': {"root['picture']": {'new_value': 'File:NYC TLC Police Patch.jpg', 'old_value': 'File:NYC_TLC_Police_Patch.png'}}}
+60: {'dictionary_item_added': {"root['picture']": 'File:NYC_TLC_Police_Patch.png', "root['picture_caption']": 'Law enforcement patch'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Meera Joshi', 'old_value': 'Bill Heinzen'}, "root['chief1_position']": {'new_value': 'chairwoman and chief executive officer', 'old_value': 'Chair and Acting Commissioner'}}}
+61: {'values_changed': {"root['chief1_name']": {'new_value': 'Bill Heinzen', 'old_value': 'Aloysee Heredia Jarmoszuk<ref name'}, "root['chief1_position']": {'new_value': 'Chair and Acting Commissioner', 'old_value': 'Commissioner and Chair'}}}
+72: {'values_changed': {"root['chief1_name']": {'new_value': 'Aloysee Heredia Jarmoszuk<ref name', 'old_value': 'David Do'}}}
+74: {'dictionary_item_removed': {"root['employees']": '666 (As of'}}

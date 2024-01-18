@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Commodity Futures Trading Commission', "root['employees']": '435 (2006)', "root['chief1_name']": 'Walter Lukken', "root['chief1_position']": 'Acting Chairman'}}
+1: {'dictionary_item_removed': {"root['chief2_name']": 'Gary Gensler', "root['chief2_position']": 'Chair-designate'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Acting Chair'}}}
+2: {'values_changed': {"root['chief1_name']": {'new_value': 'Walter Lukken', 'old_value': 'Michael Dunn'}, "root['chief1_position']": {'new_value': 'Acting Chair', 'old_value': 'Acting Chairman'}}}
+6: {'dictionary_item_added': {"root['chief2_name']": 'Gary Gensler', "root['chief2_position']": 'Chair-designate'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Michael Dunn', 'old_value': 'Gary Gensler'}}}
+14: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Chairman'}}}
+48: {'values_changed': {"root['agency_name']": {'new_value': 'Commodity Futures Trading Commission', 'old_value': 'U.S. Commodity Futures Trading Commission'}}}
+59: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Commodity Futures Trading Commission', 'old_value': 'U.S. Commodity Futures Trading C'}}}
+60: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Commodity Futures Trading C', 'old_value': 'U.S. Commodity Futures Trading Commission'}}}
+62: {'values_changed': {"root['chief1_name']": {'new_value': 'Gary Gensler', 'old_value': 'Mark P. Wetjen'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Acting Chairman'}}}
+120: {'values_changed': {"root['chief1_name']": {'new_value': 'Mark P. Wetjen', 'old_value': 'Timothy Massad'}, "root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Chairman'}}}
+141: {'dictionary_item_removed': {"root['seal_width']": '160'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Commodity Futures Trading Commission', 'old_value': 'Commodity Futures Trading Commission'}, "root['employees']": {'new_value': '435 (2006)', 'old_value': '668(2018)<ref name'}, "root['chief1_name']": {'new_value': 'Timothy Massad', 'old_value': 'Heath Tarbert'}}}
+146: {'values_changed': {"root['chief1_name']": {'new_value': 'Heath Tarbert', 'old_value': 'Rostin Behnam'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Acting Chairman'}}}
+153: {'values_changed': {"root['employees']": {'new_value': '668(2018)<ref name', 'old_value': '668 (2018)<ref name'}}}
+156: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Acting Obfuscator'}}}
+157: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Obfuscator', 'old_value': 'Acting Chairman'}}}
+159: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Acting Obfuscator'}}}
+160: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Obfuscator', 'old_value': 'Acting Chairman'}}}
+161: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Acting Obfuscator'}}}
+162: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Obfuscator', 'old_value': 'Acting Chairman'}}}
+175: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Chairman'}}}

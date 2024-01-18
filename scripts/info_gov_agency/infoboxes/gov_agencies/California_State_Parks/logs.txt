@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'California State Parks', "root['employees']": '2,500 permanent staff, 2,700 seasonal, 13,000 volunteers', "root['budget']": '$344 million (2005)'}}
+4: {'values_changed': {"root['budget']": {'new_value': '$344 million (2005)', 'old_value': '$589 million ($117.5 million General Fund)'}}}
+5: {'dictionary_item_removed': {"root['child3_agency']": 'Boating and waterways'}, 'values_changed': {"root['budget']": {'new_value': '$589 million ($117.5 million General Fund)', 'old_value': '$589 million ($117.5 million General Fund) 2016'}}}
+22: {'values_changed': {"root['employees']": {'new_value': '2,500 permanent staff, 2,700 seasonal, 13,000 volunteers', 'old_value': '1,451 permanent staff, 1,416 seasonal (2016-17)'}}}

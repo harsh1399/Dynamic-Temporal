@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Wisconsin Department of Natural Resources', "root['nativename']": 'DNR', "root['chief1_name']": 'Dan Meyer (Wisconsin politician)', "root['chief1_position']": 'Secretary', "root['chief2_name']": '|chief2_position'}}
+1: {'values_changed': {"root['nativename']": {'new_value': 'DNR', 'old_value': 'WI DNR'}}}
+41: {'dictionary_item_removed': {"root['chief2_position']": 'chief3_name'}, 'values_changed': {"root['chief2_name']": {'new_value': '|chief2_position', 'old_value': 'Kurt Thiede'}}}
+44: {'dictionary_item_removed': {"root['budget']": '$550.3 million for 2018-2019'}}
+56: {'dictionary_item_added': {"root['chief2_name']": 'Kurt Thiede', "root['chief2_position']": 'chief3_name'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Dan Meyer (Wisconsin politician)', 'old_value': 'Preston Cole'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Transportation', "root['employees']": '5,060', "root['budget']": '$943.3 million', "root['chief1_name']": 'Polly Trottenberg', "root['chief1_position']": 'Commissioner of Transportation'}}
+8: {'values_changed': {"root['chief1_name']": {'new_value': 'Polly Trottenberg', 'old_value': 'Margaret Forgione'}}}
+9: {'values_changed': {"root['chief1_name']": {'new_value': 'Margaret Forgione', 'old_value': 'Margaret Forgione (acting)'}}}
+12: {'dictionary_item_removed': {"root['chief2_name']": 'Margaret Forgione', "root['chief2_position']": 'First Deputy Commissioner of Transportation'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Margaret Forgione (acting)', 'old_value': 'Ydanis Rodriguez'}}}
+14: {'values_changed': {"root['employees']": {'new_value': '5,060', 'old_value': '5,852 (As of'}}}

@@ -1,0 +1,20 @@
+4: {'dictionary_item_removed': {"root['agency_name']": 'National Anti-Corruption Committee', "root['chief1_name']": 'Tetiana Chornovol<ref name', "root['chief1_position']": 'Chairman'}}
+13: {'values_changed': {"root['agency_name']": {'new_value': 'National Anti-Corruption Committee', 'old_value': 'Anti-Corruption Bureau'}}}
+30: {'values_changed': {"root['chief1_name']": {'new_value': 'Tetiana Chornovol<ref name', 'old_value': 'Artem Sytnyk'}}}
+31: {'dictionary_item_removed': {"root['employees']": '700'}}
+32: {'values_changed': {"root['chief1_name']": {'new_value': 'Artem Sytnyk', 'old_value': 'Artem Sytnyk<ref name'}}}
+33: {'values_changed': {"root['employees']": {'new_value': '700', 'old_value': '700<ref name'}, "root['chief1_name']": {'new_value': 'Artem Sytnyk<ref name', 'old_value': 'Artem Sytnyk  <ref name'}}}
+39: {'values_changed': {"root['chief1_name']": {'new_value': 'Artem Sytnyk  <ref name', 'old_value': 'Artem Sytnyk<ref name'}}}
+77: {'dictionary_item_removed': {"root['date']": '2017 '}, 'values_changed': {"root['employees']": {'new_value': '700<ref name', 'old_value': 'Approximately 700 <ref name'}}}
+78: {'values_changed': {"root['agency_name']": {'new_value': 'Anti-Corruption Bureau', 'old_value': 'National Anti-Corruption Bureau (Національне Антикорупційне Бюрo)'}}}
+80: {'values_changed': {"root['agency_name']": {'new_value': 'National Anti-Corruption Bureau (Національне Антикорупційне Бюрo)', 'old_value': 'National Anti-Corruption Bureau  (Національне Антикорупційне Бюрo )'}}}
+83: {'values_changed': {"root['agency_name']": {'new_value': 'National Anti-Corruption Bureau  (Національне Антикорупційне Бюрo )', 'old_value': 'National Anti-Corruption Bureau  (Національне Антикорупційне Бюрo)'}}}
+89: {'dictionary_item_removed': {"root['superseding']": 'National Anti-Corruption Committee'}, 'values_changed': {"root['employees']": {'new_value': 'Approximately 700 <ref name', 'old_value': 'Approximately 700<ref name'}, "root['chief1_name']": {'new_value': 'Artem Sytnyk<ref name', 'old_value': 'Artem Sytnyk'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Chairman<ref name'}}}
+214: {'values_changed': {"root['date']": {'new_value': '2017 ', 'old_value': '2017'}}}
+216: {'dictionary_item_added': {"root['chief1_position']": 'Chairman<ref name'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Artem Sytnyk', 'old_value': 'Semen Krynovos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date'}}}
+217: {'values_changed': {"root['chief1_name']": {'new_value': 'Semen Krynovos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date', 'old_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date'}}}
+219: {'dictionary_item_removed': {"root['chief1_position']": 'Chairman'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date', 'old_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV '}}}
+220: {'values_changed': {"root['chief1_name']": {'new_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV ', 'old_value': 'Semen Kryvonos Reuters'}}}
+222: {'dictionary_item_added': {"root['chief1_position']": 'Chairman'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Semen Kryvonos Reuters', 'old_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date'}}}
+229: {'values_changed': {"root['chief1_name']": {'new_value': 'Semen Kryvonos https://www.reuters.com/article/ukraine-crise-corruption-nomination-idFRKBN2V80UV |date', 'old_value': 'Semen Kryvonos<ref name'}}}
+230: {'dictionary_item_removed': {"root['chief1_position']": 'Chairman'}}

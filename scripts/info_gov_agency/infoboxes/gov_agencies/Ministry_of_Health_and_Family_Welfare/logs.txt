@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of Health and Family Welfare', "root['budget']": 'INRConvert', "root['minister1_name']": 'Harsh Vardhan (Delhi politician)', "root['minister1_pfo']": 'Health minister', "root['minister2_name']": 'Ashwini Kumar Choubey', "root['minister2_pfo']": 'Minister of State for Health', "root['chief1_name']": 'Rajesh Bhushan, Indian Administrative Service', "root['chief1_position']": 'Health Secretary'}}
+2: {'values_changed': {"root['budget']": {'new_value': 'INRConvert', 'old_value': 'INR'}}}
+3: {'values_changed': {"root['budget']": {'new_value': 'INR', 'old_value': 'INRConvert'}}}
+11: {'values_changed': {"root['agency_name']": {'new_value': 'Ministry of Health and Family Welfare', 'old_value': 'large'}}}
+12: {'values_changed': {"root['agency_name']": {'new_value': 'large', 'old_value': 'Ministry of Health and Family Welfare'}}}
+26: {'values_changed': {"root['minister1_name']": {'new_value': 'Harsh Vardhan (Delhi politician)', 'old_value': 'vecant (Delhi politician)'}, "root['minister2_name']": {'new_value': 'Ashwini Kumar Choubey', 'old_value': 'vecant'}}}
+29: {'values_changed': {"root['minister1_name']": {'new_value': 'vecant (Delhi politician)', 'old_value': 'Harsh Vardhan (Delhi politician)'}, "root['minister2_name']": {'new_value': 'vecant', 'old_value': 'Ashwini Kumar Choubey'}}}
+31: {'dictionary_item_added': {"root['minister1_name']": 'Harsh Vardhan (Delhi politician)'}, 'values_changed': {"root['minister1_pfo']": {'new_value': 'Health minister', 'old_value': 'Mansukh L. Mandaviya'}}}
+38: {'values_changed': {"root['minister2_name']": {'new_value': 'Ashwini Kumar Choubey', 'old_value': 'Bharati Pawar'}}}
+39: {'values_changed': {"root['minister2_name']": {'new_value': 'Bharati Pawar', 'old_value': 'Dr.Bharati Pawar'}}}
+40: {'values_changed': {"root['minister2_name']": {'new_value': 'Dr.Bharati Pawar', 'old_value': 'Dr.Bharati Pravin Pawar'}}}
+41: {'values_changed': {"root['minister2_name']": {'new_value': 'Dr.Bharati Pravin Pawar', 'old_value': 'Bharati Pawar'}}}
+52: {'dictionary_item_removed': {"root['nativename_a']": 'स्वास्थ्य और परिवार कल्याण मंत्रालय'}, 'values_changed': {"root['minister1_pfo']": {'new_value': 'Mansukh L. Mandaviya', 'old_value': 'Mansukh L. Mandaviya (Union Council Minister)'}, "root['minister2_pfo']": {'new_value': 'Minister of State for Health', 'old_value': 'Minister of State'}}}
+53: {'dictionary_item_added': {"root['nativename_a']": 'स्वास्थ्य और परिवार कल्याण मंत्रालय'}, 'values_changed': {"root['minister1_pfo']": {'new_value': 'Mansukh L. Mandaviya (Union Council Minister)', 'old_value': 'Mansukh L. Mandaviya'}, "root['minister2_pfo']": {'new_value': 'Minister of State', 'old_value': 'Minister of State for Health'}}}
+67: {'dictionary_item_removed': {"root['chief3_name']": 'Lav Agarwal', "root['chief3_position']": 'Joint Secretary'}}
+76: {'dictionary_item_removed': {"root['minister3_name']": 'S. P. Singh Baghel', "root['minister3_pfo']": 'Minister of State for Health'}}

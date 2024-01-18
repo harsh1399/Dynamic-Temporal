@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Taiwan Provincial Government', "root['nativename']": '台湾省政府', "root['nativename_a']": 'Táiwān Shěng Zhèngfǔ', "root['minister1_name']": 'Lin Junq-tzer', "root['minister1_pfo']": 'Governor'}}
+15: {'values_changed': {"root['nativename']": {'new_value': '台湾省政府', 'old_value': '臺灣省政府'}, "root['minister1_name']": {'new_value': 'Lin Junq-tzer', 'old_value': 'Wu Tze-cheng'}, "root['minister1_pfo']": {'new_value': 'Governor', 'old_value': 'Chairperson'}}}
+21: {'dictionary_item_added': {"root['nativename']": '臺灣省政府'}, 'dictionary_item_removed': {"root['nativename_r']": 'Táiwān Shěng Zhèngfǔ (Taiwanese Mandarin'}, 'values_changed': {"root['nativename_a']": {'new_value': 'Táiwān Shěng Zhèngfǔ', 'old_value': 'lang'}, "root['minister1_name']": {'new_value': 'Wu Tze-cheng', 'old_value': "''(vacant)''"}}}
+24: {'dictionary_item_removed': {"root['employees']": '0', "root['budget']": '0'}}
+26: {'dictionary_item_removed': {"root['superseding']": 'National Development Council (Taiwan)'}}

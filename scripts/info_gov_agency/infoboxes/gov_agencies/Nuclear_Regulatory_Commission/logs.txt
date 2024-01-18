@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Nuclear Regulatory Commission', "root['employees']": '3,186 (2018)<ref name', "root['budget']": '$937 million (2018) <ref name', "root['chief1_name']": 'Kristine Svinicki', "root['chief1_position']": 'Chairman'}}
+1: {'values_changed': {"root['chief1_name']": {'new_value': 'Kristine Svinicki', 'old_value': 'Christopher Hanson'}}}
+3: {'values_changed': {"root['chief1_name']": {'new_value': 'Christopher Hanson', 'old_value': 'Christopher T. Hanson'}}}
+39: {'values_changed': {"root['employees']": {'new_value': '3,186 (2018)<ref name', 'old_value': '2,868 (2021)<ref name'}, "root['budget']": {'new_value': '$937 million (2018) <ref name', 'old_value': '$879 million (2021) <ref name'}}}

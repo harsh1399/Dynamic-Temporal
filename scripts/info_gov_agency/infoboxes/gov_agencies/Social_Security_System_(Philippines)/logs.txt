@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Social Security System', "root['nativename']": "''Paseguruhan ng Kapanatagang Panlipunan''", "root['picture']": 'SSS Building.JPG', "root['picture_caption']": 'Main office of the SSS along East Avenue in Quezon City.', "root['chief1_name']": 'Emilio S. de Quiros, Jr.', "root['chief1_position']": 'President and CEO'}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': 'Emilio S. de Quiros, Jr.', 'old_value': 'Amado Valdez'}}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': 'Amado Valdez', 'old_value': 'Atty. Emmanuel F. Dooc'}}}
+22: {'values_changed': {"root['agency_name']": {'new_value': 'Social Security System', 'old_value': 'Scratchy Scrotum Syndrome'}, "root['nativename']": {'new_value': "''Paseguruhan ng Kapanatagang Panlipunan''", 'old_value': 'Nangangating Scrotum'}}}
+23: {'values_changed': {"root['nativename']": {'new_value': 'Nangangating Scrotum', 'old_value': '\\\\'}}}
+24: {'values_changed': {"root['nativename']": {'new_value': '\\\\', 'old_value': 'Panlipunan ng Pilipinas'}}}
+25: {'values_changed': {"root['agency_name']": {'new_value': 'Scratchy Scrotum Syndrome', 'old_value': 'Social Security System'}, "root['nativename']": {'new_value': 'Panlipunan ng Pilipinas', 'old_value': "''Paseguruhan ng Kapanatagang Panlipunan''"}}}
+27: {'dictionary_item_removed': {"root['chief2_name']": 'Emmanuel F. Dooc', "root['chief2_position']": 'President (corporate title)'}, 'values_changed': {"root['nativename']": {'new_value': "''Paseguruhan ng Kapanatagang Panlipunan''", 'old_value': 'Paseguruhan ng Kapanatagang Panlipunan'}, "root['chief1_name']": {'new_value': 'Atty. Emmanuel F. Dooc', 'old_value': 'Aurora Cruz-Ignacio'}, "root['chief1_position']": {'new_value': 'President and CEO', 'old_value': 'Chairwoman'}}}
+30: {'values_changed': {"root['chief1_name']": {'new_value': 'Aurora Cruz-Ignacio', 'old_value': "''Vacant''"}, "root['chief1_position']": {'new_value': 'Chairwoman', 'old_value': 'Chairperson'}, "root['chief2_name']": {'new_value': 'Emmanuel F. Dooc', 'old_value': 'Aurora Cruz-Ignacio'}}}
+74: {'dictionary_item_removed': {"root['superseding']": '788888', "root['chief5_name']": '09'}}
+75: {'dictionary_item_added': {"root['superseding']": '788888'}, 'values_changed': {"root['chief1_name']": {'new_value': "''Vacant''", 'old_value': 'Carlos Dominguez III'}, "root['chief1_position']": {'new_value': 'Chairperson', 'old_value': 'De-facto Chairperson'}}}
+76: {'values_changed': {"root['chief1_name']": {'new_value': 'Carlos Dominguez III', 'old_value': 'Manola Ayala'}}}
+77: {'values_changed': {"root['chief1_name']": {'new_value': 'Manola Ayala', 'old_value': 'Carlos Dominguez III'}}}
+78: {'values_changed': {"root['chief1_position']": {'new_value': 'De-facto Chairperson', 'old_value': 'De facto Chairperson'}}}
+79: {'values_changed': {"root['picture']": {'new_value': 'SSS Building.JPG', 'old_value': 'Social Security System (East Avenue, Quezon City; 03-13-2021).jpg'}}}
+95: {'dictionary_item_added': {"root['chief2_name']": 'Aurora Cruz-Ignacio', "root['chief2_position']": 'President (corporate title)', "root['chief5_name']": '09'}, 'values_changed': {"root['chief1_position']": {'new_value': 'De facto Chairperson', 'old_value': 'President (corporate title)'}}}

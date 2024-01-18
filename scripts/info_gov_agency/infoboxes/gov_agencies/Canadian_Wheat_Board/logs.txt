@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Canadian Wheat Board', "root['nativename']": 'Commission canadienne du blé', "root['picture']": '433 Main Street and Canadian Wheat Board Building, Winnipeg.jpg', "root['picture_caption']": 'Canadian Wheat Board Building (on right)', "root['minister1_name']": 'Gerry Ritz', "root['minister1_pfo']": 'Minister of Agriculture (Canada)'}}
+4: {'dictionary_item_added': {"root['minister1_name']": 'Gerry Ritz'}, 'dictionary_item_removed': {"root['budget']": 'Minister Irresponsible'}}
+5: {'dictionary_item_added': {"root['budget']": 'Minister Irresponsible'}, 'dictionary_item_removed': {"root['minister1_name']": 'Gerry Ritz'}}
+72: {'values_changed': {"root['agency_name']": {'new_value': 'Canadian Wheat Board', 'old_value': 'Canadian Meat Board'}}}
+73: {'values_changed': {"root['minister1_name']": {'new_value': 'Gerry Ritz', 'old_value': 'Ralph Goodale'}}}
+74: {'values_changed': {"root['agency_name']": {'new_value': 'Canadian Meat Board', 'old_value': 'Canadian Wheat Board'}}}

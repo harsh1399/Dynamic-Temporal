@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Pennsylvania Department of Public Welfare'}}
+4: {'dictionary_item_removed': {"root['budget']": '$20,020,564 (Fiscal year', "root['chief1_name']": 'Estelle B. Richman', "root['chief1_position']": 'Secretary'}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'Estelle B. Richman', 'old_value': 'Harriet Dichter'}, "root['chief1_position']": {'new_value': 'Secretary', 'old_value': 'Acting Secretary'}}}
+14: {'values_changed': {"root['agency_name']": {'new_value': 'Pennsylvania Department of Public Welfare', 'old_value': 'Pennsylvania Department of Human Services (formerly Pennsylvania Department of Public Welfare)'}, "root['chief1_name']": {'new_value': 'Harriet Dichter', 'old_value': 'Ted Dallas'}, "root['chief1_position']": {'new_value': 'Acting Secretary', 'old_value': 'Secretary of Human Services'}}}
+16: {'values_changed': {"root['chief1_name']": {'new_value': 'Ted Dallas', 'old_value': 'F. Marvin Rewind'}}}
+17: {'values_changed': {"root['chief1_name']": {'new_value': 'F. Marvin Rewind', 'old_value': 'Ted Dallas'}}}

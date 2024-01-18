@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Federal Highway Administration', "root['budget']": 'Data missing', "root['chief1_name']": 'Brandye Hendrickson', "root['chief1_position']": 'Administrator (Acting)', "root['chief2_name']": '(Vacant)', "root['chief2_position']": 'Deputy Administrator', "root['chief3_name']": 'Walter C. Waidelich, Jr.', "root['chief3_position']": 'Executive Director'}}
+4: {'values_changed': {"root['chief1_name']": {'new_value': 'Brandye Hendrickson', 'old_value': 'Nicole Nason'}, "root['chief1_position']": {'new_value': 'Administrator (Acting)', 'old_value': 'Administrator'}}}
+6: {'values_changed': {"root['chief2_name']": {'new_value': '(Vacant)', 'old_value': 'Brandye Hendrickson'}}}
+7: {'values_changed': {"root['chief3_name']": {'new_value': 'Walter C. Waidelich, Jr.', 'old_value': 'Thomas Everett'}}}
+8: {'values_changed': {"root['chief1_name']": {'new_value': 'Nicole Nason', 'old_value': 'Brandye Hendrickson, (acting)'}}}
+11: {'values_changed': {"root['budget']": {'new_value': 'Data missing', 'old_value': '$46.0 billion (FY2019)'}, "root['chief1_name']": {'new_value': 'Brandye Hendrickson, (acting)', 'old_value': 'Nicole Nason'}}}
+14: {'values_changed': {"root['chief3_name']": {'new_value': 'Thomas Everett', 'old_value': 'Thomas D. Everett'}}}
+24: {'values_changed': {"root['chief1_name']": {'new_value': 'Nicole Nason', 'old_value': 'Vacant'}, "root['chief2_name']": {'new_value': 'Brandye Hendrickson', 'old_value': 'Stephanie Pollack'}}}
+28: {'values_changed': {"root['budget']": {'new_value': '$46.0 billion (FY2019)', 'old_value': '$46.0 billion (FY2019) https://www.congress.gov/116/bills/hjres31/BILLS-116hjres31enr.pdf Bare URL inline'}}}
+29: {'values_changed': {"root['budget']": {'new_value': '$46.0 billion (FY2019) https://www.congress.gov/116/bills/hjres31/BILLS-116hjres31enr.pdf Bare URL inline', 'old_value': '$46.0 billion (FY2019)'}}}
+30: {'values_changed': {"root['budget']": {'new_value': '$46.0 billion (FY2019)', 'old_value': '$46.0 billion (FY2019) https://www.congress.gov/116/bills/hjres31/BILLS-116hjres31enr.pdf Bare URL PDF'}}}
+39: {'values_changed': {"root['chief3_name']": {'new_value': 'Thomas D. Everett', 'old_value': 'Mayela Sosa (Acting)'}}}
+49: {'values_changed': {"root['chief3_name']": {'new_value': 'Mayela Sosa (Acting)', 'old_value': 'Gloria Shepherd'}}}
+51: {'values_changed': {"root['chief1_name']": {'new_value': 'Vacant', 'old_value': 'Shailen Bhatt'}}}
+52: {'values_changed': {"root['budget']": {'new_value': '$46.0 billion (FY2019) https://www.congress.gov/116/bills/hjres31/BILLS-116hjres31enr.pdf Bare URL PDF', 'old_value': '$46 billion (FY2019) https://www.congress.gov/116/bills/hjres31/BILLS-116hjres31enr.pdf Bare URL PDF'}}}

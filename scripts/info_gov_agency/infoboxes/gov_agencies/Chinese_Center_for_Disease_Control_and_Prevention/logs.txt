@@ -1,0 +1,4 @@
+6: {'dictionary_item_removed': {"root['agency_name']": 'Chinese Center for Disease Control and Prevention', "root['chief1_name']": 'George F. Gao', "root['chief1_position']": 'Director', "root['chief3_name']": '|chief3_position'}}
+9: {'dictionary_item_removed': {"root['employees']": '2120  (2016)'}}
+11: {'values_changed': {"root['agency_name']": {'new_value': 'Chinese Center for Disease Control and Prevention', 'old_value': 'Chinese Center for Disease Control and Prevention (CCDC)'}}}
+33: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['chief1_name']": {'new_value': 'George F. Gao', 'old_value': 'Shen Hongbing<ref name'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Bureau of Meteorology', "root['employees']": '1,663 (at 31 May 2015)', "root['budget']": 'Australian dollar', "root['minister1_name']": 'The Hon Sussan Ley MP', "root['minister1_pfo']": 'Minister for the Environment', "root['chief1_name']": 'Dr Andrew Johnson', "root['chief1_position']": 'Director of Meteorology'}}
+15: {'values_changed': {"root['employees']": {'new_value': '1,663 (at 31 May 2015)', 'old_value': '1,500'}}}
+26: {'values_changed': {"root['minister1_name']": {'new_value': 'The Hon Sussan Ley MP', 'old_value': 'The Hon Tanya Plibersek MP'}, "root['minister1_pfo']": {'new_value': 'Minister for the Environment', 'old_value': 'Minister for the Environment and Water (Australia)'}}}
+37: {'values_changed': {"root['agency_name']": {'new_value': 'Bureau of Meteorology', 'old_value': 'Bureau of Meteorology’s'}}}
+38: {'values_changed': {"root['agency_name']": {'new_value': 'Bureau of Meteorology’s', 'old_value': 'Bureau of Meteorology'}}}
+39: {'values_changed': {"root['agency_name']": {'new_value': 'Bureau of Meteorology', 'old_value': 'BAST'}}}
+40: {'values_changed': {"root['agency_name']": {'new_value': 'BAST', 'old_value': 'Bureau of Meteorology'}}}
+54: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr Andrew Johnson', 'old_value': 'Andrew Johnson'}}}

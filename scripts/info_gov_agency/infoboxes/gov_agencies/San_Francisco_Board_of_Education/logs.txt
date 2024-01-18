@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'San Francisco Board of Education', "root['region_code']": 'US-CA', "root['chief1_name']": 'Gabriela López', "root['chief1_position']": 'President', "root['chief2_name']": 'Faauuga Moliga', "root['chief2_position']": 'Vice President<ref name'}}
+1: {'values_changed': {"root['chief2_position']": {'new_value': 'Vice President<ref name', 'old_value': 'Vice President'}}}
+82: {'dictionary_item_added': {"root['chief2_name']": 'Faauuga Moliga', "root['chief2_position']": 'Vice President'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Gabriela López', 'old_value': 'Jennie Lam'}}}
+86: {'values_changed': {"root['chief1_name']": {'new_value': 'Jennie Lam', 'old_value': 'Jenny Lam'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Agriculture', "root['nativename']": "''Kagawaran ng Pagsasaka''", "root['latd']": '14', "root['longd']": '121', "root['budget']": 'Philippine peso', "root['chief1_name']": 'Proceso Alcala', "root['chief1_position']": 'Secretary'}}
+2: {'dictionary_item_added': {"root['latd']": '14', "root['longd']": '121'}, 'values_changed': {"root['nativename']": {'new_value': "''Kagawaran ng Pagsasaka''", 'old_value': "''Kagawaran ng Agrikultura''"}, "root['chief1_name']": {'new_value': 'Proceso Alcala', 'old_value': 'William Dar'}, "root['chief1_position']": {'new_value': 'Secretary', 'old_value': 'Secretary of Agriculture (Philippines)'}}}
+10: {'values_changed': {"root['chief1_name']": {'new_value': 'William Dar', 'old_value': 'Ferdinand Marcos Jr.'}}}
+11: {'values_changed': {"root['chief1_name']": {'new_value': 'Ferdinand Marcos Jr.', 'old_value': 'Bongbong Marcos'}}}
+17: {'values_changed': {"root['chief1_position']": {'new_value': 'Secretary of Agriculture (Philippines)', 'old_value': 'President of the Philippines & Secretary of Agriculture (Philippines)'}}}
+25: {'values_changed': {"root['nativename']": {'new_value': "''Kagawaran ng Agrikultura''", 'old_value': "''Kagawaran ng Pagsasaka''"}}}

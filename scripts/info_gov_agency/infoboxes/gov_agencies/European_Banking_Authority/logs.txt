@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'European Banking Authority logo', "root['region_code']": 'EU', "root['chief1_name']": 'Arnoud Vossen', "root['chief1_position']": 'Secretary General'}}
+1: {'values_changed': {"root['agency_name']": {'new_value': 'European Banking Authority logo', 'old_value': 'European Banking Authority'}}}
+18: {'dictionary_item_removed': {"root['chief2_name']": 'Adam Farkas', "root['chief2_position']": 'Executive Director'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Arnoud Vossen', 'old_value': 'Andrea Enria'}, "root['chief1_position']": {'new_value': 'Secretary General', 'old_value': 'Chairperson'}}}
+31: {'dictionary_item_removed': {"root['employees']": '159'}}
+33: {'values_changed': {"root['employees']": {'new_value': '159', 'old_value': '159  (2014)'}}}

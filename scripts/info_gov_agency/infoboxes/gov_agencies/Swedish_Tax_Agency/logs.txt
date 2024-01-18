@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Swedish Tax Agency', "root['nativename']": 'Skatteverket', "root['latd']": '59', "root['longd']": '17', "root['region_code']": 'SE', "root['employees']": 'Circa 11,500 (2008)', "root['budget']": 'Swedish krona', "root['chief1_name']": 'Mats Sjöstrand', "root['chief1_position']": 'Director-general'}}
+1: {'dictionary_item_removed': {"root['minister1_name']": 'Anders Borg', "root['minister1_pfo']": 'Minister for Finance (Sweden)'}}
+2: {'values_changed': {"root['chief1_name']": {'new_value': 'Mats Sjöstrand', 'old_value': 'Ingemar Hansson'}}}
+4: {'values_changed': {"root['agency_name']": {'new_value': 'Swedish Tax Agency', 'old_value': 'Swedish Tax Agency, Stockholm'}}}
+6: {'values_changed': {"root['agency_name']": {'new_value': 'Swedish Tax Agency, Stockholm', 'old_value': 'Swedish Tax Agency'}}}
+10: {'values_changed': {"root['employees']": {'new_value': 'Circa 11,500 (2008)', 'old_value': 'Circa 10,800 (2011)<ref name'}, "root['chief1_position']": {'new_value': 'Director-general', 'old_value': 'Director-general<ref name'}}}

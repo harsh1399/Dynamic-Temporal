@@ -1,0 +1,7 @@
+72: {'dictionary_item_removed': {"root['name']": 'Office of the Prime Minister', "root['chief1_name']": 'Katie Telford', "root['chief1_position']": 'Chief of Staff'}}
+81: {'dictionary_item_removed': {"root['minister1_name']": 'Rt. Hon. Justin Trudeau', "root['minister1_pfo']": 'Prime Minister of Canada'}}
+82: {'values_changed': {"root['minister1_name']": {'new_value': 'Rt. Hon. Justin Trudeau', 'old_value': 'Justin Trudeau'}}}
+83: {'values_changed': {"root['chief1_position']": {'new_value': 'Chief of Staff', 'old_value': 'Chief of Staff to the Prime Minister of Canada'}}}
+84: {'values_changed': {"root['chief1_position']": {'new_value': 'Chief of Staff to the Prime Minister of Canada', 'old_value': 'Chief of Staff to the Prime Minister (Canada)'}}}
+91: {'dictionary_item_removed': {"root['chief2_name']": 'Greg Fergus', "root['chief2_position']": 'Parliamentary Secretary to the Prime Minister'}}
+94: {'dictionary_item_removed': {"root['budget']": '$10,050,503 (2020–2021)'}, 'values_changed': {"root['chief2_name']": {'new_value': 'Greg Fergus', 'old_value': "''vacant''"}, "root['chief2_position']": {'new_value': 'Parliamentary Secretary to the Prime Minister', 'old_value': 'Principal Secretary (Canada)'}}}

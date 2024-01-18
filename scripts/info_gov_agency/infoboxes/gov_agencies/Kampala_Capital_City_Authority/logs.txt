@@ -1,0 +1,6 @@
+55: {'dictionary_item_removed': {"root['agency_name']": 'Kampala Capital City Authority', "root['nativename']": 'KCCA', "root['abbreviation']": 'KCCA', "root['employees']": '1,333 (2016)', "root['chief1_name']": 'Lord Mayor', "root['chief1_position']": ', Erias Lukwago', "root['chief2_name']": 'Executive Director', "root['chief2_position']": ', Jennifer Musisi'}}
+59: {'values_changed': {"root['chief2_position']": {'new_value': ', Jennifer Musisi', 'old_value': ', Andrew Kitaka'}}}
+63: {'dictionary_item_added': {"root['chief2_position']": ', Andrew Kitaka'}, 'values_changed': {"root['employees']": {'new_value': '1,333 (2016)', 'old_value': '1,133 (2018)'}}}
+76: {'dictionary_item_removed': {"root['chief2_position']": ', Dorothy Kisaka'}}
+83: {'values_changed': {"root['chief2_position']": {'new_value': ', Dorothy Kisaka', 'old_value': ', Dorothy Kisaka<ref name'}}}
+90: {'values_changed': {"root['chief1_position']": {'new_value': ', Erias Lukwago', 'old_value': 'Erias Lukwago'}, "root['chief2_position']": {'new_value': ', Dorothy Kisaka<ref name', 'old_value': 'Dorothy Kisaka<ref name'}}}

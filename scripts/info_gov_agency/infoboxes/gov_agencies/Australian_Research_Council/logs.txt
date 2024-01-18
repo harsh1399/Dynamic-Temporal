@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Australian Research Council', "root['nativename']": 'ARC', "root['employees']": '124'}}
+15: {'values_changed': {"root['employees']": {'new_value': '124', 'old_value': '135'}}}
+47: {'dictionary_item_added': {"root['nativename']": 'ARC'}, 'dictionary_item_removed': {"root['budget']": 'Increase AUD', "root['minister1_name']": 'Alan Tudge', "root['minister1_pfo']": 'Minister for Education', "root['chief1_name']": 'Sue Thomas', "root['chief1_position']": 'CEO'}}
+60: {'values_changed': {"root['chief1_name']": {'new_value': 'Sue Thomas', 'old_value': 'Judith Zielke'}}}
+61: {'values_changed': {"root['minister1_name']": {'new_value': 'Alan Tudge', 'old_value': 'Jason Clare'}}}

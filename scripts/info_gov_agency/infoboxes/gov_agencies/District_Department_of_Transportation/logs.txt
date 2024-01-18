@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'District of Columbia Department of Transportation', "root['abbreviation']": 'DDOT', "root['employees']": '366 (fiscal 2009)<ref name', "root['budget']": '$127,838,000 (fiscal 2009)<ref name', "root['chief1_name']": 'Terry Bellamy', "root['chief1_position']": 'Director'}}
+1: {'values_changed': {"root['chief1_name']": {'new_value': 'Terry Bellamy', 'old_value': 'Matthew Brown'}}}
+2: {'values_changed': {"root['employees']": {'new_value': '366 (fiscal 2009)<ref name', 'old_value': '540 (fiscal 2014)<ref name'}}}
+3: {'values_changed': {"root['chief1_name']": {'new_value': 'Matthew Brown', 'old_value': 'Leif A. Dormsjo'}}}
+5: {'values_changed': {"root['agency_name']": {'new_value': 'District of Columbia Department of Transportation', 'old_value': 'District'}}}
+6: {'values_changed': {"root['agency_name']": {'new_value': 'District', 'old_value': 'District of Columbia Department of Transportation'}}}
+10: {'values_changed': {"root['agency_name']": {'new_value': 'District of Columbia Department of Transportation', 'old_value': 'District Department of Transportation'}}}
+18: {'dictionary_item_added': {"root['abbreviation']": 'DDOT'}, 'dictionary_item_removed': {"root['chief2_name']": '|chief2_position'}, 'values_changed': {"root['employees']": {'new_value': '540 (fiscal 2014)<ref name', 'old_value': '1246 (fiscal 2023)'}, "root['budget']": {'new_value': '$127,838,000 (fiscal 2009)<ref name', 'old_value': '$127.838 million (fiscal 2009)<ref name'}, "root['chief1_name']": {'new_value': 'Leif A. Dormsjo', 'old_value': 'Everett Lott'}}}

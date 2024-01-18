@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of Health', "root['nativename']": "''Sağlık Bakanlığı''", "root['picture']": 'Sağlık Bakanlığı.JPG', "root['picture_caption']": 'Headquarters of Ministry of Health in Ankara, Turkey.', "root['minister1_name']": 'Ahmet Demircan', "root['minister1_pfo']": 'Minister of Health', "root['chief3_name']": '|chief3_position'}}
+1: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Ahmet Demircan', 'old_value': 'Fahrettin Koca'}}}
+2: {'values_changed': {"root['minister1_name']": {'new_value': 'Fahrettin Koca', 'old_value': 'Fakhreddin Koca'}}}
+3: {'values_changed': {"root['minister1_name']": {'new_value': 'Fakhreddin Koca', 'old_value': 'Fahrettin Koca'}}}
+9: {'values_changed': {"root['picture_caption']": {'new_value': 'Headquarters of Ministry of Health in Ankara, Turkey.', 'old_value': 'Headquarters of the Ministry of Health in Ankara, Turkey.'}}}
+25: {'dictionary_item_added': {"root['picture']": 'Sağlık Bakanlığı.JPG'}, 'dictionary_item_removed': {"root['employees']": '1.142.469'}}
+27: {'values_changed': {"root['employees']": {'new_value': '1.142.469', 'old_value': '1.142.469 https://sbsgm.saglik.gov.tr/Eklenti/41611/0/haber-bulteni-2020pdf.pdf Bare URL PDF'}}}

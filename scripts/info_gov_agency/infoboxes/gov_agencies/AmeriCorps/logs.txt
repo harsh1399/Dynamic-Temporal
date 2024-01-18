@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Corporation for National and Community Service', "root['logo_width']": '175 px', "root['seal_width']": '140 px', "root['region_code']": 'US', "root['employees']": '485 (2006)', "root['budget']": '$1.1 billion USD (2010 requested)', "root['chief1_name']": 'Wendy Spencer'}}
+4: {'values_changed': {"root['budget']": {'new_value': '$1.1 billion USD (2010 requested)', 'old_value': '$1.055 billion USD (2013 Annualized CR level)'}}}
+19: {'dictionary_item_removed': {"root['chief1_position']": 'Chief Executive Officer'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Wendy Spencer', 'old_value': 'Barbara Stewart'}}}
+25: {'values_changed': {"root['employees']": {'new_value': '485 (2006)', 'old_value': '586 (2020)'}}}

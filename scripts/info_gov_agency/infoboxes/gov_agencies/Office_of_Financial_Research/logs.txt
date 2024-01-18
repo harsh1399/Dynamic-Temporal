@@ -1,0 +1,3 @@
+6: {'dictionary_item_removed': {"root['agency_name']": 'Office of Financial Research', "root['nativename']": 'OFR', "root['employees']": '275 small', "root['budget']": 'United States dollar', "root['chief1_name']": 'Richard Berner', "root['chief1_position']": 'Director'}}
+8: {'values_changed': {"root['chief1_name']": {'new_value': 'Richard Berner', 'old_value': 'Dino Falaschetti'}}}
+10: {'values_changed': {"root['chief1_name']": {'new_value': 'Dino Falaschetti', 'old_value': 'James Martin'}, "root['chief1_position']": {'new_value': 'Director', 'old_value': 'Acting Director'}}}

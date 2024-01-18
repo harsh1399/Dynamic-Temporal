@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Centers for Disease Control and Prevention', "root['logo_width']": '140 px', "root['preceding3']": 'Communicable Disease Center (1946–1967)', "root['preceding4']": 'National Communicable Disease Center (1967–1970)', "root['preceding5']": 'Center for Disease Control (1970–1980)', "root['preceding6']": 'Centers for Disease Control (1980–1992)', "root['employees']": '15,000', "root['budget']": 'US$6.9 billion (2014 FY)', "root['chief1_name']": 'Thomas R. Frieden', "root['chief1_position']": 'Director, Centers for Disease Control and Prevention'}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Thomas R. Frieden', 'old_value': 'Christopher Poole'}}}
+7: {'values_changed': {"root['chief1_name']": {'new_value': 'Christopher Poole', 'old_value': 'Thomas R. Frieden'}}}
+64: {'values_changed': {"root['chief1_name']": {'new_value': 'Thomas R. Frieden', 'old_value': 'Austin Warren'}}}
+65: {'values_changed': {"root['chief1_name']": {'new_value': 'Austin Warren', 'old_value': 'Thomas R. Frieden'}}}
+71: {'values_changed': {"root['budget']": {'new_value': 'US$6.9 billion (2014 FY)', 'old_value': 'US $7,010 billion (2016 FY)'}}}
+75: {'values_changed': {"root['budget']": {'new_value': 'US $7,010 billion (2016 FY)', 'old_value': 'US $7.010 billion (2016 FY)'}}}
+90: {'dictionary_item_removed': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['budget']": {'new_value': 'US $7.010 billion (2016 FY)', 'old_value': 'US$11.1 billion (FY18)'}, "root['chief1_name']": {'new_value': 'Thomas R. Frieden', 'old_value': 'Robert R. Redfield'}, "root['chief1_position']": {'new_value': 'Director, Centers for Disease Control and Prevention', 'old_value': 'Director'}}}
+107: {'values_changed': {"root['employees']": {'new_value': '15,000', 'old_value': '10,899  (2015)'}}}
+111: {'dictionary_item_added': {"root['logo_width']": '140 px'}, 'dictionary_item_removed': {"root['chief2_name']": 'Anne Schuchat', "root['chief2_position']": 'Principal Deputy Director'}}
+114: {'values_changed': {"root['budget']": {'new_value': 'US$11.1 billion (FY18)', 'old_value': 'US$11.1nbspbillion (FY18)'}}}
+117: {'values_changed': {"root['preceding5']": {'new_value': 'Center for Disease Control (1970–1980)', 'old_value': 'Center for Disease Control (1970–1981)'}, "root['preceding6']": {'new_value': 'Centers for Disease Control (1980–1992)', 'old_value': 'Centers for Disease Control (1980–1993)'}}}

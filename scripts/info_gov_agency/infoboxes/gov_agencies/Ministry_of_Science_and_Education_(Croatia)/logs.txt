@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of Science,  Education and Sports', "root['nativename']": "''Ministarstvo obrazovanja, znanosti i sporta''", "root['budget']": '12.026 billion Croatian kuna', "root['minister1_name']": 'Vedran Mornar'}}
+3: {'values_changed': {"root['budget']": {'new_value': '12.026 billion Croatian kuna', 'old_value': 'Croatian kuna'}}}
+5: {'dictionary_item_removed': {"root['employees']": '425'}, 'values_changed': {"root['budget']": {'new_value': 'Croatian kuna', 'old_value': 'increase13.091 billion Croatian kuna'}}}
+6: {'dictionary_item_added': {"root['employees']": '425'}, 'values_changed': {"root['budget']": {'new_value': 'increase13.091 billion Croatian kuna', 'old_value': 'Croatian kuna'}}}
+7: {'dictionary_item_removed': {"root['employees']": '425'}, 'values_changed': {"root['budget']": {'new_value': 'Croatian kuna', 'old_value': 'increaseCroatian kuna'}}}
+8: {'values_changed': {"root['employees']": {'new_value': '425', 'old_value': '425<ref name'}, "root['budget']": {'new_value': 'increaseCroatian kuna', 'old_value': 'increase Croatian kuna'}}}
+9: {'values_changed': {"root['employees']": {'new_value': '425<ref name', 'old_value': '425 (2015)<ref name'}, "root['budget']": {'new_value': 'increase Croatian kuna', 'old_value': 'Croatian kuna'}}}
+10: {'values_changed': {"root['budget']": {'new_value': 'Croatian kuna', 'old_value': 'increase   Croatian kuna'}}}
+11: {'values_changed': {"root['agency_name']": {'new_value': 'Ministry of Science,  Education and Sports', 'old_value': 'Ministry of Science and Education'}, "root['nativename']": {'new_value': "''Ministarstvo obrazovanja, znanosti i sporta''", 'old_value': 'Ministarstvo znanosti i obrazovanja'}, "root['budget']": {'new_value': 'increase   Croatian kuna', 'old_value': 'increase Croatian kuna'}, "root['minister1_name']": {'new_value': 'Vedran Mornar', 'old_value': 'Blaženka Divjak'}}}
+16: {'values_changed': {"root['nativename']": {'new_value': 'Ministarstvo znanosti i obrazovanja', 'old_value': "''Ministarstvo znanosti i obrazovanja''"}}}

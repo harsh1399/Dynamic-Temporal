@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of the Interior', "root['nativename']": 'Ministarstvo unutarnjih poslova', "root['employees']": '25 641', "root['budget']": 'increase4.818 billion Croatian kuna', "root['minister1_name']": 'Ranko Ostojić'}}
+1: {'dictionary_item_added': {"root['employees']": '25 641'}, 'values_changed': {"root['budget']": {'new_value': 'increase4.818 billion Croatian kuna', 'old_value': 'Croatian kuna'}}}
+2: {'dictionary_item_removed': {"root['employees']": '25 641'}, 'values_changed': {"root['budget']": {'new_value': 'Croatian kuna', 'old_value': 'increaseCroatian kuna'}}}
+3: {'values_changed': {"root['employees']": {'new_value': '25 641', 'old_value': '25 641<ref name'}, "root['budget']": {'new_value': 'increaseCroatian kuna', 'old_value': 'increase Croatian kuna'}}}
+4: {'values_changed': {"root['employees']": {'new_value': '25 641<ref name', 'old_value': '25,641 (2015)<ref name'}, "root['budget']": {'new_value': 'increase Croatian kuna', 'old_value': 'Croatian kuna'}}}
+6: {'values_changed': {"root['budget']": {'new_value': 'Croatian kuna', 'old_value': 'increase   Croatian kuna'}}}
+15: {'values_changed': {"root['minister1_name']": {'new_value': 'Ranko Ostojić', 'old_value': 'Vlaho Orepić'}}}
+19: {'values_changed': {"root['budget']": {'new_value': 'increase   Croatian kuna', 'old_value': 'increase'}}}
+20: {'values_changed': {"root['agency_name']": {'new_value': 'Ministry of the Interior', 'old_value': 'Ministry of the Interior of the, Republic of Croatia'}, "root['nativename']": {'new_value': 'Ministarstvo unutarnjih poslova', 'old_value': 'Ministarstvo unutarnjih poslova, Republike Hrvatske'}}}

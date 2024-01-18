@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Chief Directorate: Surveys and Mapping', "root['latd']": '33', "root['longd']": '18', "root['region_code']": 'ZA', "root['minister1_name']": 'Gugile Nkwinti', "root['minister1_pfo']": 'Minister of Rural Development and Land Reform (South Africa)', "root['chief1_name']": 'Dr. Derek Clarke', "root['chief1_position']": 'Chief Director'}}
+2: {'dictionary_item_removed': {"root['budget']": 'South African rand'}}
+7: {'values_changed': {"root['agency_name']": {'new_value': 'Chief Directorate: Surveys and Mapping', 'old_value': 'Chief Directorate: National Geo-spatial Information (previously Surveys and Mapping)'}}}
+8: {'values_changed': {"root['agency_name']": {'new_value': 'Chief Directorate: National Geo-spatial Information (previously Surveys and Mapping)', 'old_value': 'Chief Directorate: National Geo-spatial Information'}}}
+13: {'dictionary_item_added': {"root['latd']": '33', "root['longd']": '18', "root['region_code']": 'ZA'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Gugile Nkwinti', 'old_value': 'Maite Nkoana-Mashabane'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": "Ministry of Railways, of the People's Republic of China", "root['nativename_a']": '中华人民共和国铁道部', "root['nativename_r']": 'small', "root['chief1_name']": 'Sheng Guangzu', "root['chief1_position']": 'Minister of Railways'}}
+6: {'values_changed': {"root['nativename_a']": {'new_value': '中华人民共和国铁道部', 'old_value': 'nobold'}}}
+16: {'values_changed': {"root['agency_name']": {'new_value': "Ministry of Railways, of the People's Republic of China", 'old_value': 'Ministry of Railways'}}}
+19: {'dictionary_item_added': {"root['chief1_name']": 'Sheng Guangzu', "root['chief1_position']": 'Minister of Railways'}, 'dictionary_item_removed': {"root['minister1_name']": 'Sheng Guangzu'}}
+22: {'values_changed': {"root['agency_name']": {'new_value': 'Ministry of Railways', 'old_value': "Ministry of Railways of the People's Republic of China"}}}

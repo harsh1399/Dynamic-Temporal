@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Spanish National Research Council', "root['region_code']": 'ES', "root['employees']": '11,112 (2017)', "root['chief1_name']": 'Rosa María Menéndez López', "root['chief1_position']": 'President', "root['chief3_name']": '|chief3_position'}}
+14: {'dictionary_item_removed': {"root['budget']": 'Euro'}}
+35: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['employees']": {'new_value': '11,112 (2017)', 'old_value': '13,338 (2021)'}}}
+36: {'values_changed': {"root['chief1_name']": {'new_value': 'Rosa María Menéndez López', 'old_value': 'María Eloísa del Pino Matute'}}}

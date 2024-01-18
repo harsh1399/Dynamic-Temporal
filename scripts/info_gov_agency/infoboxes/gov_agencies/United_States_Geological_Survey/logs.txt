@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Geological Survey', "root['employees']": '10,000 (2004)', "root['budget']": '$971 million (FY2006)', "root['chief1_name']": 'Mark Myers', "root['chief1_position']": 'Director'}}
+15: {'values_changed': {"root['chief1_name']": {'new_value': 'Mark Myers', 'old_value': 'Marcia McNutt'}}}
+19: {'values_changed': {"root['chief1_name']": {'new_value': 'Marcia McNutt', 'old_value': 'Marcia McNutt (designate)'}}}
+30: {'values_changed': {"root['chief1_name']": {'new_value': 'Marcia McNutt (designate)', 'old_value': 'Marcia McNutt'}}}
+32: {'dictionary_item_added': {"root['chief1_position']": 'Director'}, 'values_changed': {"root['budget']": {'new_value': '$971 million (FY2006)', 'old_value': '$1.1 billion (FY2008?)<ref name'}}}
+33: {'values_changed': {"root['employees']": {'new_value': '10,000 (2004)', 'old_value': '8,670 (2009)'}}}
+34: {'values_changed': {"root['budget']": {'new_value': '$1.1 billion (FY2008?)<ref name', 'old_value': '$1.1 billion (FY2010)'}}}
+35: {'values_changed': {"root['chief1_name']": {'new_value': 'Marcia McNutt', 'old_value': 'Dr. Marcia K. McNutt'}}}
+37: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr. Marcia K. McNutt', 'old_value': 'Marcia McNutt'}}}
+45: {'dictionary_item_removed': {"root['picture']": 'Flag of the United States Geological Survey.png', "root['picture_caption']": 'Flag of the United States Geological Survey', "root['chief1_position']": 'Director', "root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['agency_name']": {'new_value': 'United States Geological Survey', 'old_value': 'United States Geological Survey (USGS)'}, "root['budget']": {'new_value': '$1.1 billion (FY2010)', 'old_value': 'United States dollar'}, "root['chief1_name']": {'new_value': 'Marcia McNutt', 'old_value': 'David Applegate (geologist)'}}}

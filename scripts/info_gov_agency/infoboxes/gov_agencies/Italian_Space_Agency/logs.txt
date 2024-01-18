@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Italian Space Agency', "root['acronym']": 'ASI', "root['owner']": 'flag', "root['established']": '1988', "root['administrator']": 'Ing. Enrico Saggese', "root['budget']": 'Euro', "root['URL']": 'http://www.asi.it www.asi.it '}}
+12: {'values_changed': {"root['budget']": {'new_value': 'Euro', 'old_value': '~ Euro'}}}
+16: {'dictionary_item_removed': {"root['spaceport']": 'Malindi, Kenya'}, 'values_changed': {"root['established']": {'new_value': '1988', 'old_value': '1988<ref name'}}}
+17: {'values_changed': {"root['administrator']": {'new_value': 'Ing. Enrico Saggese', 'old_value': 'Ing. Enrico Saggese<ref name'}}}
+19: {'values_changed': {"root['owner']": {'new_value': 'flag', 'old_value': 'Italy flagicon'}}}
+24: {'dictionary_item_added': {"root['name']": 'Italian Space Agency', "root['acronym']": 'ASI', "root['owner']": 'Italy flagicon', "root['spaceport']": 'Malindi, Kenya', "root['established']": '1988<ref name', "root['administrator']": 'Ing. Enrico Saggese<ref name', "root['URL']": 'http://www.asi.it www.asi.it '}, 'dictionary_item_removed': {"root['agency_name']": 'Italian Space Agency', "root['nativename']": 'Agenzia Spaziale Italiana', "root['abbreviation']": 'ASI', "root['employees']": '200', "root['chief1_name']": 'Enrico Saggese', "root['chief1_position']": 'President', "root['chief2_name']": 'Luciano Criscuoli', "root['chief2_position']": 'Director General'}, 'values_changed': {"root['budget']": {'new_value': '~ Euro', 'old_value': 'Euro'}}}
+31: {'dictionary_item_removed': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Enrico Saggese', 'old_value': 'Giorgio Saccoccia'}, "root['chief2_name']": {'new_value': 'Luciano Criscuoli', 'old_value': 'Anna Sirica'}, "root['chief2_position']": {'new_value': 'Director General', 'old_value': 'General Manager'}}}
+45: {'values_changed': {"root['chief2_name']": {'new_value': 'Anna Sirica', 'old_value': 'Fabrizio Tosone'}}}
+46: {'values_changed': {"root['chief2_name']": {'new_value': 'Fabrizio Tosone', 'old_value': 'Anna Sirica'}}}
+49: {'values_changed': {"root['chief2_name']": {'new_value': 'Anna Sirica', 'old_value': 'Fabrizio Tosone'}}}
+54: {'dictionary_item_removed': {"root['logo_width']": '160'}, 'values_changed': {"root['abbreviation']": {'new_value': 'ASI', 'old_value': 'ASI62.232.192.158'}}}
+61: {'values_changed': {"root['nativename']": {'new_value': 'Agenzia Spaziale Italiana', 'old_value': 'lang'}}}

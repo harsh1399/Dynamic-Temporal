@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'California Air Resources Board', "root['employees']": '1,225<ref name', "root['budget']": '$651.9 million<ref name', "root['chief1_name']": 'Mary D. Nichols', "root['chief1_position']": 'Chairman'}}
+6: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Chair'}}}
+13: {'values_changed': {"root['agency_name']": {'new_value': 'California Air Resources Board', 'old_value': 'California Air Resources Board of coolness'}}}
+14: {'values_changed': {"root['agency_name']": {'new_value': 'California Air Resources Board of coolness', 'old_value': 'California Air Resources Board'}}}
+15: {'values_changed': {"root['employees']": {'new_value': '1,225<ref name', 'old_value': '1,365<ref name'}, "root['budget']": {'new_value': '$651.9 million<ref name', 'old_value': '$581.1 million<ref name'}}}

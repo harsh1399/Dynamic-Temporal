@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['established']": 'Start date and age', "root['president']": 'Jerome Powell', "root['leader_title']": 'Chair of the Federal Reserve', "root['bank_of']": 'United States', "root['currency']": 'United States dollar', "root['currency_iso']": 'USD', "root['borrowing_rate']": '3.00%<ref name', "root['reserve_requirements']": 'Reserve requirement#United States', "root['interest_rate_target']": '1.75% to 2.00%<ref name', "root['deposit_rate']": '1.80%<ref name', "root['IOER']": 'Yes'}}
+2: {'dictionary_item_removed': {"root['rowspan']": '"2" style', "root['colspan']": '"2" style', "root['style']": '"text-align:center;" | rowspan'}}
+7: {'dictionary_item_added': {"root['rowspan']": '"2" style', "root['colspan']": '"2" style', "root['style']": '"text-align:center;" | rowspan'}, 'values_changed': {"root['interest_rate_target']": {'new_value': '1.75% to 2.00%<ref name', 'old_value': '1.50% to 1.75%<ref name'}}}
+11: {'values_changed': {"root['interest_rate_target']": {'new_value': '1.50% to 1.75%<ref name', 'old_value': '1.00% to 1.25%<ref name'}}}
+13: {'dictionary_item_removed': {"root['president2']": 'Jerome Powell', "root['leader2_title']": 'Chair of the Federal Reserve'}, 'values_changed': {"root['president']": {'new_value': 'Jerome Powell', 'old_value': 'Federal Reserve Board of Governors'}, "root['leader_title']": {'new_value': 'Chair of the Federal Reserve', 'old_value': 'Governing body'}}}
+14: {'dictionary_item_added': {"root['president2']": 'Jerome Powell', "root['leader2_title']": 'Chair of the Federal Reserve'}, 'dictionary_item_removed': {"root['governance']": 'Federal Reserve Board of Governors'}, 'values_changed': {"root['president']": {'new_value': 'Federal Reserve Board of Governors', 'old_value': 'Jerome Powell'}, "root['leader_title']": {'new_value': 'Governing body', 'old_value': 'Chair of the Federal Reserve'}}}
+15: {'dictionary_item_removed': {"root['president2']": 'Richard Clarida', "root['leader2_title']": 'Vice Chair'}}
+21: {'values_changed': {"root['deposit_rate']": {'new_value': '1.80%<ref name', 'old_value': '1.10%<ref name'}}}
+22: {'values_changed': {"root['borrowing_rate']": {'new_value': '3.00%<ref name', 'old_value': '1.75%<ref name'}}}
+23: {'values_changed': {"root['interest_rate_target']": {'new_value': '1.00% to 1.25%<ref name', 'old_value': '0.00% to 0.25%<ref name'}}}
+24: {'values_changed': {"root['interest_rate_target']": {'new_value': '0.00% to 0.25%<ref name', 'old_value': '1.00% to 1.25%<ref name'}}}
+25: {'values_changed': {"root['borrowing_rate']": {'new_value': '1.75%<ref name', 'old_value': '0.25%<ref name'}, "root['interest_rate_target']": {'new_value': '1.00% to 1.25%<ref name', 'old_value': '0% to 0.25%<ref name'}, "root['deposit_rate']": {'new_value': '1.10%<ref name', 'old_value': '0.10%<ref name'}}}
+36: {'values_changed': {"root['president']": {'new_value': 'Jerome Powell', 'old_value': 'Donald J Trump Q'}}}
+37: {'values_changed': {"root['president']": {'new_value': 'Donald J Trump Q', 'old_value': 'Jerome Powell'}}}
+38: {'values_changed': {"root['president']": {'new_value': 'Jerome Powell', 'old_value': 'Jerome Powell - WWG1WGA!'}}}
+39: {'values_changed': {"root['president']": {'new_value': 'Jerome Powell - WWG1WGA!', 'old_value': 'Jerome Powell'}}}
+41: {'values_changed': {"root['bank_of']": {'new_value': 'United States', 'old_value': 'Flag'}}}
+42: {'values_changed': {"root['bank_of']": {'new_value': 'Flag', 'old_value': 'United States'}}}
+53: {'dictionary_item_removed': {"root['ownership']": 'Private'}}
+115: {'values_changed': {"root['ownership']": {'new_value': 'Private', 'old_value': 'The US government'}}}
+119: {'values_changed': {"root['ownership']": {'new_value': 'The US government', 'old_value': 'Privately'}}}
+120: {'values_changed': {"root['ownership']": {'new_value': 'Privately', 'old_value': 'The US government'}}}
+127: {'values_changed': {"root['ownership']": {'new_value': 'The US government', 'old_value': 'Controlled by member private banks but not "owned by anyone".    reflist'}}}
+138: {'dictionary_item_added': {"root['president']": 'Jerome Powell', "root['leader_title']": 'Chair of the Federal Reserve', "root['president2']": 'Richard Clarida', "root['leader2_title']": 'Vice Chair', "root['ownership']": 'Controlled by member private banks but not "owned by anyone".    reflist'}, 'dictionary_item_removed': {"root['key_people']": 'Plainlist'}, 'values_changed': {"root['borrowing_rate']": {'new_value': '0.25%<ref name', 'old_value': '4.50%<ref name'}, "root['interest_rate_target']": {'new_value': '0% to 0.25%<ref name', 'old_value': '4.25–4.50%<ref name'}, "root['deposit_rate']": {'new_value': '0.10%<ref name', 'old_value': '4.40%<ref name'}}}
+149: {'values_changed': {"root['borrowing_rate']": {'new_value': '4.50%<ref name', 'old_value': '4.75%<ref name'}, "root['interest_rate_target']": {'new_value': '4.25–4.50%<ref name', 'old_value': '4.50–4.75%<ref name'}, "root['deposit_rate']": {'new_value': '4.40%<ref name', 'old_value': '4.65%<ref name'}}}
+168: {'values_changed': {"root['interest_rate_target']": {'new_value': '4.50–4.75%<ref name', 'old_value': '5.00%<ref name'}}}
+169: {'values_changed': {"root['interest_rate_target']": {'new_value': '5.00%<ref name', 'old_value': '4.50–4.75%<ref name'}}}
+170: {'values_changed': {"root['borrowing_rate']": {'new_value': '4.75%<ref name', 'old_value': '5.00%<ref name'}, "root['interest_rate_target']": {'new_value': '4.50–4.75%<ref name', 'old_value': '4.75–5.00%<ref name'}, "root['deposit_rate']": {'new_value': '4.65%<ref name', 'old_value': '4.90%<ref name'}}}
+179: {'values_changed': {"root['borrowing_rate']": {'new_value': '5.00%<ref name', 'old_value': '5.25%<ref name'}, "root['interest_rate_target']": {'new_value': '4.75–5.00%<ref name', 'old_value': '5.00–5.25%<ref name'}, "root['deposit_rate']": {'new_value': '4.90%<ref name', 'old_value': '5.15%<ref name'}}}
+186: {'dictionary_item_removed': {"root['bank_name']": 'Federal Reserve System'}}

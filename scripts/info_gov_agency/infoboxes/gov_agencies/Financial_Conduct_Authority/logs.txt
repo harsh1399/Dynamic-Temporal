@@ -1,0 +1,11 @@
+8: {'dictionary_item_removed': {"root['agency_name']": 'Financial Conduct Authority', "root['chief1_name']": 'John Griffith-Jones', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Martin Wheatley', "root['chief2_position']": 'Chief Executive'}}
+18: {'values_changed': {"root['agency_name']": {'new_value': 'Financial Conduct Authority', 'old_value': 'Financial NAM Authority'}}}
+19: {'values_changed': {"root['agency_name']": {'new_value': 'Financial NAM Authority', 'old_value': 'Financial Conduct Authority'}}}
+43: {'dictionary_item_added': {"root['chief1_name']": 'John Griffith-Jones', "root['chief1_position']": 'Chairman'}, 'dictionary_item_removed': {"root['budget']": '£600.3m (2017/2018)'}, 'values_changed': {"root['chief2_name']": {'new_value': 'Martin Wheatley', 'old_value': 'Andrew Bailey (banker)'}}}
+87: {'values_changed': {"root['chief2_position']": {'new_value': 'Chief Executive', 'old_value': 'Chief Executive<ref name'}}}
+112: {'dictionary_item_added': {"root['chief2_position']": 'Chief Executive<ref name'}, 'values_changed': {"root['chief2_name']": {'new_value': 'Andrew Bailey (banker)', 'old_value': 'Christopher Woolard (banker)'}}}
+114: {'values_changed': {"root['chief2_name']": {'new_value': 'Christopher Woolard (banker)', 'old_value': 'Christopher Woolard, Chief Executive<ref name'}}}
+116: {'values_changed': {"root['chief2_name']": {'new_value': 'Christopher Woolard, Chief Executive<ref name', 'old_value': 'Nikhil Rathi, Chief Executive'}}}
+118: {'values_changed': {"root['chief2_name']": {'new_value': 'Nikhil Rathi, Chief Executive', 'old_value': 'Christopher Woolard, Chief Executive'}}}
+121: {'values_changed': {"root['chief2_name']": {'new_value': 'Christopher Woolard, Chief Executive', 'old_value': 'Nikhil Rathi, (Chief Executive)'}}}
+140: {'values_changed': {"root['budget']": {'new_value': '£600.3m (2017/2018)', 'old_value': '£632.6m (2019/2020)'}}}

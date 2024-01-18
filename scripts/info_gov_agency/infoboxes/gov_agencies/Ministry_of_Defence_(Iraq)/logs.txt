@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Republic of Iraq, Ministry of Defence', "root['minister1_name']": 'Adil Abdul-Mahdi', "root['minister1_pfo']": 'Minister of Defence'}}
+4: {'values_changed': {"root['agency_name']": {'new_value': 'Republic of Iraq, Ministry of Defence', 'old_value': 'Republic of Iraq Ministry of Defence'}}}
+14: {'dictionary_item_added': {"root['agency_name']": 'Republic of Iraq Ministry of Defence'}, 'dictionary_item_removed': {"root['name']": 'Republic of Iraq Ministry of Defence'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Adil Abdul-Mahdi', 'old_value': 'Najah al-Shammari'}}}
+21: {'values_changed': {"root['minister1_name']": {'new_value': 'Najah al-Shammari', 'old_value': 'Juma Inad'}}}

@@ -1,0 +1,56 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Federal Communications Commission', "root['nativename']": 'FCC', "root['budget']": 'United States dollar', "root['chief1_name']": 'Julius Genachowski', "root['chief1_position']": 'Chairman'}}
+13: {'values_changed': {"root['chief1_name']": {'new_value': 'Julius Genachowski', 'old_value': 'Ben Dover'}}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': 'Ben Dover', 'old_value': 'Phillip McCrevice'}}}
+16: {'values_changed': {"root['chief1_name']": {'new_value': 'Phillip McCrevice', 'old_value': 'Julius Genachowski'}}}
+54: {'values_changed': {"root['chief1_name']": {'new_value': 'Julius Genachowski', 'old_value': 'Asshole'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Shithead'}}}
+55: {'values_changed': {"root['chief1_name']": {'new_value': 'Asshole', 'old_value': 'Julius Genachowski'}, "root['chief1_position']": {'new_value': 'Shithead', 'old_value': 'Chairman'}}}
+150: {'dictionary_item_removed': {"root['employees']": '1,720'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Julius Genachowski', 'old_value': 'Tom Wheeler (FCC)'}}}
+199: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'Federal Communications Cavs'}}}
+200: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Cavs', 'old_value': 'Federal Communications comission'}}}
+201: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications comission', 'old_value': 'Federal Communications Commission'}}}
+220: {'values_changed': {"root['chief1_name']": {'new_value': 'Tom Wheeler (FCC)', 'old_value': 'Ajit Pai (FCC)'}}}
+227: {'dictionary_item_removed': {"root['chief2_name']": '|chief2_position'}}
+229: {'dictionary_item_added': {"root['chief2_name']": '|chief2_position'}, 'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'First Copy Company'}}}
+230: {'values_changed': {"root['agency_name']": {'new_value': 'First Copy Company', 'old_value': 'Federal Communications Commission'}}}
+232: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'First Copy Company'}}}
+233: {'values_changed': {"root['agency_name']": {'new_value': 'First Copy Company', 'old_value': 'Federal Communications Commission'}}}
+234: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'First Copy Company'}}}
+235: {'values_changed': {"root['agency_name']": {'new_value': 'First Copy Company', 'old_value': 'Federal Communications Commission'}}}
+257: {'dictionary_item_removed': {"root['chief2_name']": '|chief2_position'}, 'values_changed': {"root['employees']": {'new_value': '1,720', 'old_value': '1,688'}}}
+303: {'dictionary_item_removed': {"root['nativename_a']": 'g'}}
+323: {'dictionary_item_added': {"root['nativename_a']": 'g'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai (FCC)', 'old_value': 'Ajit V. Pai'}}}
+324: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit V. Pai', 'old_value': 'Chinless Money Monger'}}}
+325: {'values_changed': {"root['chief1_name']": {'new_value': 'Chinless Money Monger', 'old_value': 'Ajit V. Pai'}}}
+334: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit V. Pai', 'old_value': 'Ajit Pai'}}}
+336: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Ajit Pie'}}}
+337: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pie', 'old_value': 'Ajit Pai'}}}
+338: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'some greedy boi'}}}
+341: {'values_changed': {"root['chief1_name']": {'new_value': 'some greedy boi', 'old_value': 'Ajit Pai'}}}
+347: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'Federal Communist Complex'}}}
+348: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communist Complex', 'old_value': 'Federal Communications Commission'}}}
+349: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Some gay boi'}}}
+350: {'values_changed': {"root['chief1_position']": {'new_value': 'Some gay boi', 'old_value': 'Chairman'}}}
+354: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Greedy Boi'}}}
+355: {'values_changed': {"root['chief1_name']": {'new_value': 'Greedy Boi', 'old_value': 'Ajit Pai'}}}
+363: {'values_changed': {"root['agency_name']": {'new_value': 'Federal Communications Commission', 'old_value': 'I HATE YOU!'}}}
+364: {'values_changed': {"root['agency_name']": {'new_value': 'I HATE YOU!', 'old_value': 'Federal Communications Commission'}}}
+367: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Big Nosed Loser'}}}
+368: {'values_changed': {"root['chief1_name']": {'new_value': 'Big Nosed Loser', 'old_value': 'Ajit Pai'}}}
+375: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'assh0le'}}}
+376: {'values_changed': {"root['chief1_name']": {'new_value': 'assh0le', 'old_value': 'Ajit Pai'}}}
+385: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman', 'old_value': "Verizon's Bitch"}}}
+386: {'values_changed': {"root['chief1_position']": {'new_value': "Verizon's Bitch", 'old_value': 'Chairman'}}}
+391: {'dictionary_item_added': {"root['chief1_name']": 'Ajit Pai', "root['chief1_position']": 'Chairman'}, 'dictionary_item_removed': {"root['leader_title']": 'Chairman', "root['leader_name']": 'Ajit Pai'}}
+392: {'dictionary_item_added': {"root['leader_title']": 'Chairman', "root['leader_name']": 'Ajit Pai'}, 'dictionary_item_removed': {"root['chief1_name']": 'Ajit Pai', "root['chief1_position']": 'Chairman'}}
+398: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Twat-in-chief'}}}
+399: {'values_changed': {"root['chief1_position']": {'new_value': 'Twat-in-chief', 'old_value': 'Chairman'}}}
+411: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'The Official Freedom Hater'}}}
+412: {'values_changed': {"root['chief1_name']": {'new_value': 'The Official Freedom Hater', 'old_value': 'Ajit Pai'}}}
+449: {'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Brendan Carr'}}}
+450: {'values_changed': {"root['chief1_name']": {'new_value': 'Brendan Carr', 'old_value': 'Ajit Pai'}}}
+457: {'dictionary_item_added': {"root['chief2_name']": '|chief2_position'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Aarjun Teja'}}}
+458: {'values_changed': {"root['chief1_name']": {'new_value': 'Aarjun Teja', 'old_value': 'Ajit Pai'}}}
+469: {'values_changed': {"root['employees']": {'new_value': '1,688', 'old_value': '1,482 (2020)'}, "root['chief1_name']": {'new_value': 'Ajit Pai', 'old_value': 'Jessica Rosenworcel (as of 2021)'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'List of chairmen of the Federal Communications Commission'}}}
+505: {'values_changed': {"root['chief1_name']": {'new_value': 'Jessica Rosenworcel (as of 2021)', 'old_value': 'Jessica Rosenworcel'}}}
+507: {'values_changed': {"root['nativename']": {'new_value': 'FCC', 'old_value': 'NFG'}}}
+508: {'values_changed': {"root['nativename']": {'new_value': 'NFG', 'old_value': 'FCC'}}}

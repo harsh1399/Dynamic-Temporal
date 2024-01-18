@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of Defence, of the Republic of Serbia', "root['nativename']": "''Ministarstvo odbrane Republike Srbije''", "root['chief1_name']": 'Zoran Đorđević (politician)', "root['chief1_position']": 'Minister of Defence', "root['budget']": 'dollar'}}
+1: {'dictionary_item_added': {"root['agency_name']": 'Ministry of Defence, of the Republic of Serbia', "root['nativename']": "''Ministarstvo odbrane Republike Srbije''", "root['chief1_name']": 'Zoran Đorđević (politician)', "root['chief1_position']": 'Minister of Defence'}, 'dictionary_item_removed': {"root['name']": 'Ministry of Defence', "root['minister1_name']": 'Aleksandar Vulin', "root['deputyminister1_name']": 'Nenad Nerić'}, 'values_changed': {"root['budget']": {'new_value': 'dollar', 'old_value': 'USD'}}}
+18: {'dictionary_item_removed': {"root['deputyminister2_name']": 'Bojan Jocić'}, 'values_changed': {"root['deputyminister1_name']": {'new_value': 'Nenad Nerić', 'old_value': 'Aleksandar Živković'}}}
+25: {'dictionary_item_removed': {"root['employees']": '112 small'}}
+32: {'values_changed': {"root['budget']": {'new_value': 'USD', 'old_value': '51 billion RSD (approx. 510 million USD, Ministry only) 998 million USD (2019, Armed forces)'}}}
+33: {'values_changed': {"root['budget']": {'new_value': '51 billion RSD (approx. 510 million USD, Ministry only) 998 million USD (2019, Armed forces)', 'old_value': '65 billion RSD (approx. 650 million USD, Ministry only) 1,05 billion USD (2020, Armed forces)'}}}
+34: {'values_changed': {"root['budget']": {'new_value': '65 billion RSD (approx. 650 million USD, Ministry only) 1,05 billion USD (2020, Armed forces)', 'old_value': 'USD'}}}
+35: {'values_changed': {"root['budget']": {'new_value': 'USD', 'old_value': 'EUR'}}}
+53: {'values_changed': {"root['minister1_name']": {'new_value': 'Aleksandar Vulin', 'old_value': 'Nebojša Stefanović'}}}

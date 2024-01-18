@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Agency for International Development', "root['employees']": '1,759 (2006)', "root['chief1_name']": 'Rajiv Shah', "root['chief1_position']": 'Administrator', "root['chief2_name']": 'Donald Steinberg', "root['chief2_position']": 'Deputy Administrator', "root['chief3_name']": 'Sean Carroll', "root['chief3_position']": 'Chief Operating Officer'}}
+4: {'values_changed': {"root['employees']": {'new_value': '1,759 (2006)', 'old_value': '3,909 (2012)'}}}
+71: {'values_changed': {"root['chief3_name']": {'new_value': 'Sean Carroll', 'old_value': 'Ezra'}}}
+72: {'values_changed': {"root['chief3_name']": {'new_value': 'Ezra', 'old_value': 'Sean Carrot'}}}
+73: {'values_changed': {"root['chief3_name']": {'new_value': 'Sean Carrot', 'old_value': 'Sean Carroll'}}}
+145: {'dictionary_item_added': {"root['chief2_name']": 'Donald Steinberg'}, 'values_changed': {"root['chief2_position']": {'new_value': 'Deputy Administrator', 'old_value': 'Associate Administrator'}, "root['chief3_name']": {'new_value': 'Sean Carroll', 'old_value': 'Mark Feierstein'}}}
+146: {'dictionary_item_added': {"root['chief3_name']": 'Mark Feierstein', "root['chief3_position']": 'Chief Operating Officer'}, 'dictionary_item_removed': {"root['chief2_name']": 'Mark Feierstein'}}
+162: {'values_changed': {"root['employees']": {'new_value': '3,909 (2012)', 'old_value': '3,909 (2012)Nenad Inchevski was one of them'}}}
+163: {'values_changed': {"root['employees']": {'new_value': '3,909 (2012)Nenad Inchevski was one of them', 'old_value': '3,909 (2012)'}}}
+191: {'values_changed': {"root['employees']": {'new_value': '3,909 (2012)', 'old_value': '3,909 career U.S. employees (2012)'}}}
+237: {'dictionary_item_added': {"root['chief2_name']": 'Mark Feierstein', "root['chief2_position']": 'Associate Administrator'}, 'dictionary_item_removed': {"root['budget']": '$35.6 billion (FY 2015)<ref name'}, 'values_changed': {"root['employees']": {'new_value': '3,909 career U.S. employees (2012)', 'old_value': '3,797 career U.S. employees (FY 2015)<ref name'}, "root['chief1_name']": {'new_value': 'Rajiv Shah', 'old_value': 'Gayle E. Smith'}, "root['chief1_position']": {'new_value': 'Administrator', 'old_value': 'USAID Administrator'}}}
+328: {'values_changed': {"root['employees']": {'new_value': '3,797 career U.S. employees (FY 2015)<ref name', 'old_value': '3,893 career U.S. employees (FY 2016)'}, "root['budget']": {'new_value': '$35.6 billion (FY 2015)<ref name', 'old_value': '$27.2 billion (FY 2016 Budgetary Resources)'}}}
+332: {'values_changed': {"root['chief1_name']": {'new_value': 'Gayle E. Smith', 'old_value': 'Mark Andrew Green'}}}

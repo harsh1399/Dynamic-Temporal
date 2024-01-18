@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Trade and Industry', "root['nativename']": "''Kagawaran ng Kalakalan at Industriya''", "root['nativename_a']": 'MUNDA', "root['budget']": 'Philippine peso', "root['chief1_name']": 'Ramon M. Lopez (businessman)', "root['chief1_position']": 'Secretary'}}
+9: {'dictionary_item_added': {"root['nativename_a']": 'MUNDA'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Ramon M. Lopez (businessman)', 'old_value': 'Ramon Lopez'}}}
+10: {'values_changed': {"root['chief1_name']": {'new_value': 'Ramon Lopez', 'old_value': 'Ramon Lopez (businessman)'}}}
+11: {'values_changed': {"root['chief1_name']": {'new_value': 'Ramon Lopez (businessman)', 'old_value': 'Ramon M. Lopez (businessman)'}}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': 'Ramon M. Lopez (businessman)', 'old_value': 'Ramon Lopez (businessman)'}}}
+19: {'values_changed': {"root['chief1_position']": {'new_value': 'Secretary', 'old_value': 'Secretary of Trade and Industry (Philippines)'}}}
+26: {'dictionary_item_removed': {"root['chief2_name']": 'Usec. Ruth B. Castelo', "root['chief2_position']": 'Spokesperson'}}
+37: {'dictionary_item_added': {"root['chief2_name']": 'Usec. Ruth B. Castelo', "root['chief2_position']": 'Spokesperson'}, 'dictionary_item_removed': {"root['preceding3']": 'Department of Industry', "root['preceding4']": 'Department of Trade', "root['preceding5']": 'Ministry of Trade and Industry', "root['employees']": '2,210 (2020)<ref name', "root['child3_agency']": 'Design Center of the Philippines', "root['child4_agency']": 'Construction Industry Authority of the Philippines', "root['child5_agency']": 'Cooperative Development Authority', "root['child6_agency']": 'Technical Education and Skills Development Authority'}}
+39: {'values_changed': {"root['chief1_name']": {'new_value': 'Ramon Lopez (businessman)', 'old_value': 'Alfredo E. Pascual'}}}

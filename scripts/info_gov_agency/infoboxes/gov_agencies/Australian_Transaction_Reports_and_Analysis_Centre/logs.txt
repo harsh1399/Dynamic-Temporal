@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Australian Transaction Reports and Analysis Centre', "root['employees']": '278 (2015)', "root['minister1_name']": 'George Brandis', "root['minister1_pfo']": 'Attorney-General for Australia', "root['minister2_name']": 'Michael Keenan', "root['minister2_pfo']": 'Minister for Justice (Australia)', "root['chief1_name']": 'Paul Jevtovic', "root['chief1_position']": 'Chief Executive Officer'}}
+19: {'values_changed': {"root['minister1_name']": {'new_value': 'George Brandis', 'old_value': 'Christian Porter'}}}
+22: {'values_changed': {"root['chief1_position']": {'new_value': 'Chief Executive Officer', 'old_value': 'chief executive officer'}}}
+24: {'values_changed': {"root['chief1_name']": {'new_value': 'Paul Jevtovic', 'old_value': 'Ms Nicole Rose PSM'}}}
+25: {'values_changed': {"root['chief1_name']": {'new_value': 'Ms Nicole Rose PSM', 'old_value': 'Paul Jevtovic'}}}
+28: {'values_changed': {"root['chief1_name']": {'new_value': 'Paul Jevtovic', 'old_value': 'Nicole Rose'}}}
+29: {'dictionary_item_added': {"root['minister2_name']": 'Michael Keenan', "root['minister2_pfo']": 'Minister for Justice (Australia)'}, 'values_changed': {"root['minister1_name']": {'new_value': 'Christian Porter', 'old_value': 'Peter Dutton'}, "root['minister1_pfo']": {'new_value': 'Attorney-General for Australia', 'old_value': 'Australian Minister for Home Affairs'}, "root['chief1_name']": {'new_value': 'Nicole Rose', 'old_value': 'Nicole Rose PSM'}}}
+30: {'values_changed': {"root['minister1_pfo']": {'new_value': 'Australian Minister for Home Affairs', 'old_value': 'Minister for Home Affairs'}}}
+31: {'values_changed': {"root['chief1_position']": {'new_value': 'chief executive officer', 'old_value': 'Chief Executive Officer'}}}
+33: {'values_changed': {"root['employees']": {'new_value': '278 (2015)', 'old_value': 'formatnum:312 small'}}}

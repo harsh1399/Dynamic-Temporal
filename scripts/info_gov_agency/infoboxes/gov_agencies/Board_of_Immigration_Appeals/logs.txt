@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Board of Immigration Appeals', "root['chief1_name']": 'David L. Neal', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Charles Adkins-Blanch', "root['chief2_position']": 'Vice-Chairman'}}
+4: {'values_changed': {"root['chief1_name']": {'new_value': 'David L. Neal', 'old_value': 'Jean King'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Acting Director'}, "root['chief2_name']": {'new_value': 'Charles Adkins-Blanch', 'old_value': 'David H. Wetmore'}, "root['chief2_position']": {'new_value': 'Vice-Chairman', 'old_value': 'Chief Appellate Immigration Judge'}}}
+6: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Director', 'old_value': 'Acting Executive Office for Immigration Review'}}}
+26: {'values_changed': {"root['chief1_name']": {'new_value': 'Jean King', 'old_value': 'David Neal'}}}

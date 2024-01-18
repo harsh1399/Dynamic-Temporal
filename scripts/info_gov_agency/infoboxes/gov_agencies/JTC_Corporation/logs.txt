@@ -1,0 +1,7 @@
+4: {'dictionary_item_removed': {"root['agency_name']": 'JTC Corporation', "root['abbreviation']": 'JTC', "root['chief1_name']": 'Dr Loo Choon Yong', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Png Cheong Boon', "root['chief2_position']": 'Chief Executive Officer'}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr Loo Choon Yong', 'old_value': 'Mr Tan Chong Meng'}, "root['chief2_name']": {'new_value': 'Png Cheong Boon', 'old_value': 'Mr Ng Lang'}}}
+13: {'values_changed': {"root['chief1_name']": {'new_value': 'Mr Tan Chong Meng', 'old_value': 'Dr Loo Choon Yong'}, "root['chief2_name']": {'new_value': 'Mr Ng Lang', 'old_value': 'Png Cheong Boon'}}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr Loo Choon Yong', 'old_value': 'Mr Tan Chong Meng'}, "root['chief2_name']": {'new_value': 'Png Cheong Boon', 'old_value': 'Mr Ng Lang'}}}
+24: {'dictionary_item_added': {"root['abbreviation']": 'JTC'}, 'dictionary_item_removed': {"root['logo_width']": 'Logo size'}}
+40: {'values_changed': {"root['chief1_name']": {'new_value': 'Mr Tan Chong Meng', 'old_value': 'Tan Chong Meng'}, "root['chief2_name']": {'new_value': 'Mr Ng Lang', 'old_value': 'Ngien Hoon Ping'}}}
+41: {'values_changed': {"root['chief2_name']": {'new_value': 'Ngien Hoon Ping', 'old_value': 'Tan Boon Khai'}}}

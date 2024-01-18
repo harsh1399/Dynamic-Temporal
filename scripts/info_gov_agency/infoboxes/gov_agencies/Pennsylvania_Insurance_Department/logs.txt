@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Pennsylvania Department of Insurance', "root['chief1_position']": 'Insurance Commissioner'}}
+1: {'dictionary_item_removed': {"root['chief1_name']": 'Teresa D. Miller'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Insurance Commissioner', 'old_value': 'Acting Commissioner'}}}
+9: {'values_changed': {"root['chief1_position']": {'new_value': 'Acting Commissioner', 'old_value': 'Commissioner'}}}
+10: {'values_changed': {"root['chief1_name']": {'new_value': 'Teresa D. Miller', 'old_value': 'Teresa Miller'}}}
+14: {'dictionary_item_removed': {"root['employees']": '200'}, 'values_changed': {"root['agency_name']": {'new_value': 'Pennsylvania Department of Insurance', 'old_value': 'Pennsylvania Insurance Department'}, "root['chief1_name']": {'new_value': 'Teresa Miller', 'old_value': 'Michael Humphreys'}, "root['chief1_position']": {'new_value': 'Commissioner', 'old_value': 'Acting Commissioner'}}}

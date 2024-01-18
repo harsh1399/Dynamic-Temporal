@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['agency_name']": "''Ministerium für Staatssicherheit''", "root['abbreviation']": "''STASI''", "root['seal_width']": '125 px', "root['employees']": '68,000', "root['chief1_name']": 'Wilhelm Zaisser (1950–1953)', "root['chief2_name']": 'Ernst Wollweber  (1953–1957)', "root['chief3_name']": 'Erich Mielke (1957–1989)', "root['chief4_name']": 'Wolfgang Schwanitz (1989-1991)'}}
+59: {'dictionary_item_removed': {"root['minister1_name']": '%25257Cminister1_pfo', "root['minister2_name']": '%25257Cminister2_pfo', "root['minister3_name']": '%25257Cminister3_pfo'}}
+155: {'dictionary_item_added': {"root['minister1_name']": '%25257Cminister1_pfo', "root['minister2_name']": '%25257Cminister2_pfo', "root['minister3_name']": '%25257Cminister3_pfo'}, 'values_changed': {"root['abbreviation']": {'new_value': "''STASI''", 'old_value': "''MfS''"}}}
+163: {'dictionary_item_removed': {"root['nativename_a']": 'christof'}}
+188: {'dictionary_item_added': {"root['nativename_a']": 'christof'}, 'values_changed': {"root['chief4_name']": {'new_value': 'Wolfgang Schwanitz (1989-1991)', 'old_value': 'Wolfgang Schwanitz (1989-1990)'}}}
+192: {'values_changed': {"root['chief4_name']": {'new_value': 'Wolfgang Schwanitz (1989-1990)', 'old_value': 'Wolfgang Schwanitz (1989–1990)'}}}
+201: {'values_changed': {"root['employees']": {'new_value': '68,000', 'old_value': '91,015 (1989)<ref name'}}}
+212: {'dictionary_item_added': {"root['abbreviation']": "''MfS''"}, 'dictionary_item_removed': {"root['nativename']": "''Ministerium für Staatssicherheit (MfS)''"}, 'values_changed': {"root['agency_name']": {'new_value': "''Ministerium für Staatssicherheit''", 'old_value': 'Ministry for State Security'}}}
+221: {'values_changed': {"root['chief2_name']": {'new_value': 'Ernst Wollweber  (1953–1957)', 'old_value': 'Ernst Wollweber (1953–1957)'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'National Endowment for the Arts', "root['budget']": '$146,200,000 USD (2015)', "root['chief1_name']": 'R. Jane Chu', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Mary Anne Carter', "root['chief2_position']": 'Senior Deputy Chairman'}}
+6: {'values_changed': {"root['budget']": {'new_value': '$146,200,000 USD (2015)', 'old_value': '$152,800,000 USD (2018)'}}}
+14: {'values_changed': {"root['chief1_name']": {'new_value': 'R. Jane Chu', 'old_value': 'Mary Anne Carter'}, "root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Acting Chairman'}, "root['chief2_name']": {'new_value': 'Mary Anne Carter', 'old_value': 'Carlos Díaz-Rosillo'}}}
+22: {'dictionary_item_added': {"root['chief2_name']": 'Carlos Díaz-Rosillo', "root['chief2_position']": 'Senior Deputy Chairman'}, 'dictionary_item_removed': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Acting Chairman', 'old_value': 'Chairman'}}}
+48: {'values_changed': {"root['budget']": {'new_value': '$152,800,000 USD (2018)', 'old_value': '$162,250,000 USD (2020)'}}}
+75: {'values_changed': {"root['chief1_name']": {'new_value': 'Mary Anne Carter', 'old_value': 'Ann Eilers (acting)'}}}

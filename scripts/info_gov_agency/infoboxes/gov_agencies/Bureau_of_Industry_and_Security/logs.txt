@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Bureau of Industry and Security', "root['region_code']": 'US', "root['budget']": 'US$84 million (2009), US$100 million (est. 2010), US$113 million (est. 2011)', "root['chief1_name']": 'Eric L. Hirschhorn', "root['chief1_position']": 'Under Secretary of Commerce for Industry and Security'}}
+6: {'values_changed': {"root['budget']": {'new_value': 'US$84 million (2009), US$100 million (est. 2010), US$113 million (est. 2011)', 'old_value': 'US$84 million (2009) US$100 million (est. 2010) US$113 million (est. 2011)'}}}
+7: {'values_changed': {"root['chief1_name']": {'new_value': 'Eric L. Hirschhorn', 'old_value': 'Cordell Hull'}, "root['chief1_position']": {'new_value': 'Under Secretary of Commerce for Industry and Security', 'old_value': 'Acting Under Secretary of Commerce for Industry and Security'}}}
+8: {'values_changed': {"root['budget']": {'new_value': 'US$84 million (2009) US$100 million (est. 2010) US$113 million (est. 2011)', 'old_value': 'US$118 million (2019) US$127 million (est. 2020)'}}}
+11: {'values_changed': {"root['chief1_name']": {'new_value': 'Cordell Hull', 'old_value': 'Cordell A. Hull'}}}
+18: {'dictionary_item_added': {"root['chief1_name']": 'Cordell A. Hull'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Acting Under Secretary of Commerce for Industry and Security', 'old_value': 'Under Secretary of Commerce for Industry and Security'}}}
+22: {'dictionary_item_removed': {"root['employees']": '554 (2023)'}}

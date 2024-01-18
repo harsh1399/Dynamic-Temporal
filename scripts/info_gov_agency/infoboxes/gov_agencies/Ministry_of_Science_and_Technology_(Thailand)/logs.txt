@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Kingdom of Thailand, Ministry of Science and Technology', "root['nativename']": 'กระทรวงวิทยาศาสตร์และเทคโนโลยี', "root['superseding']": 'Ministry of Higher Education and Research and Development', "root['budget']": '14,885.4 million baht (FY2019)', "root['minister1_name']": 'Suvit Maesincee', "root['minister1_pfo']": 'Minister'}}
+5: {'values_changed': {"root['superseding']": {'new_value': 'Ministry of Higher Education and Research and Development', 'old_value': 'Ministry of Higher Education Science Research and Innovation'}}}
+18: {'dictionary_item_added': {"root['minister1_name']": 'Suvit Maesincee', "root['minister1_pfo']": 'Minister'}, 'values_changed': {"root['superseding']": {'new_value': 'Ministry of Higher Education Science Research and Innovation', 'old_value': 'Ministry of Higher Education, Science, Research and Innovation'}}}
+25: {'dictionary_item_removed': {"root['logo_width']": '100'}}
+26: {'values_changed': {"root['logo_width']": {'new_value': '100', 'old_value': '250'}}}
+27: {'values_changed': {"root['logo_width']": {'new_value': '250', 'old_value': '200'}}}

@@ -1,0 +1,12 @@
+29: {'dictionary_item_removed': {"root['name']": 'Sydney', "root['country']": 'Australia', "root['province']": 'Province of New South Wales', "root['denomination']": 'Anglican Church of Australia', "root['cathedral']": "St. Andrew's Cathedral, Sydney", "root['parent_church']": 'Anglican Church of Australia', "root['bishop']": 'Glenn Davies, small', "root['bishop_title']": 'Archbishop', "root['emeritus_bishops']": []}}
+40: {'values_changed': {"root['bishop']": {'new_value': 'Glenn Davies, small', 'old_value': 'Glenn Davies small'}}}
+41: {'dictionary_item_removed': {"root['suffragans']": 'Assistant bishops in the Diocese of Sydney'}}
+42: {'dictionary_item_removed': {"root['rite']": 'Low church Evangelical Anglicanism'}}
+43: {'dictionary_item_removed': {"root['churches']": '400+https://sydneyanglicans.net/about'}}
+44: {'dictionary_item_removed': {"root['territory']": 'Unbulleted list', "root['metropolitan']": 'Anglican Archbishop of Sydney', "root['sui_iuris_church']": '<!--'}, 'values_changed': {"root['denomination']": {'new_value': 'Anglican Church of Australia', 'old_value': 'Anglicanism'}}}
+48: {'dictionary_item_removed': {"root['coat']": 'Anglican_Diocese_of_Sydney_logo.png', "root['coat_alt']": 'Coat of arms of the Diocese', "root['dean']": 'Kanishka Raffel'}}
+49: {'dictionary_item_added': {"root['suffragans']": 'Assistant bishops in the Diocese of Sydney'}, 'dictionary_item_removed': {"root['assistant_bishops']": 'Assistant bishops in the Diocese of Sydney'}}
+52: {'values_changed': {"root['bishop']": {'new_value': 'Glenn Davies small', 'old_value': "''currently vacant'',  (Peter Hayward is bishop administrator)"}}}
+53: {'values_changed': {"root['bishop']": {'new_value': "''currently vacant'',  (Peter Hayward is bishop administrator)", 'old_value': "''currently vacant'',  (Peter Hayward is bishop administrator), Kanishka Raffel is Archbishop-elect"}}}
+60: {'values_changed': {"root['bishop']": {'new_value': "''currently vacant'',  (Peter Hayward is bishop administrator), Kanishka Raffel is Archbishop-elect", 'old_value': 'Kanishka Raffel'}, "root['dean']": {'new_value': 'Kanishka Raffel', 'old_value': "''currently vacant''"}}}
+62: {'values_changed': {"root['denomination']": {'new_value': 'Anglicanism', 'old_value': 'Anglican'}}}

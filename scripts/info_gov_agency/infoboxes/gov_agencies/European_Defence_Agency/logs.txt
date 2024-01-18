@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'European Defence Agency', "root['budget']": '€31 million (2017)', "root['chief1_name']": 'Federica Mogherini', "root['chief1_position']": 'High Representative of the Union for Foreign Affairs and Security Policy', "root['chief2_name']": 'Jorge Domecq', "root['chief2_position']": 'Chief Executive'}}
+30: {'values_changed': {"root['agency_name']": {'new_value': 'European Defence Agency', 'old_value': 'European Defence Agency EDA'}}}
+31: {'values_changed': {"root['chief1_name']": {'new_value': 'Federica Mogherini', 'old_value': 'Josep Borrell'}}}
+33: {'values_changed': {"root['chief1_name']": {'new_value': 'Josep Borrell', 'old_value': 'Federica Mogherini'}}}
+36: {'values_changed': {"root['chief1_name']": {'new_value': 'Federica Mogherini', 'old_value': 'Josep Borrell'}}}
+38: {'values_changed': {"root['agency_name']": {'new_value': 'European Defence Agency EDA', 'old_value': 'European Defence Agency'}}}
+39: {'values_changed': {"root['chief2_name']": {'new_value': 'Jorge Domecq', 'old_value': 'Olli Ruutu'}, "root['chief2_position']": {'new_value': 'Chief Executive', 'old_value': 'Acting Chief Executive'}}}
+40: {'values_changed': {"root['budget']": {'new_value': '€31 million (2017)', 'old_value': '€34,1 million (2020)'}}}
+41: {'values_changed': {"root['chief2_name']": {'new_value': 'Olli Ruutu', 'old_value': 'Jiří Šedivý'}, "root['chief2_position']": {'new_value': 'Acting Chief Executive', 'old_value': 'Chief Executive'}}}

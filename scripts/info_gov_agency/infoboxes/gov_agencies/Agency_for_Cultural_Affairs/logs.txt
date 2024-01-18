@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Agency for Cultural Affairs', "root['budget']": 'yen', "root['minister1_name']": 'Ryohei Miyata', "root['minister1_pfo']": 'Commissioner for Cultural Affairs', "root['deputyminister1_name']": 'Tsukasa Nakaoka', "root['deputyminister1_pfo']": 'Deputy Commissioner for Cultural Affairs'}}
+6: {'dictionary_item_removed': {"root['logo_width']": '100'}}
+10: {'dictionary_item_removed': {"root['employees']": '241', "root['lat_deg']": '35.671389', "root['lon_deg']": '139.749444 '}}
+12: {'dictionary_item_added': {"root['logo_width']": '100'}, 'dictionary_item_removed': {"root['seal_width']": '100'}, 'values_changed': {"root['employees']": {'new_value': '241', 'old_value': '241 (2017)'}}}
+13: {'dictionary_item_added': {"root['seal_width']": '100'}, 'dictionary_item_removed': {"root['logo_width']": '160'}}
+21: {'values_changed': {"root['employees']": {'new_value': '241 (2017)', 'old_value': '254 (2019)'}}}
+25: {'dictionary_item_added': {"root['deputyminister1_name']": 'Tsukasa Nakaoka', "root['deputyminister1_pfo']": 'Deputy Commissioner for Cultural Affairs'}, 'values_changed': {"root['employees']": {'new_value': '254 (2019)', 'old_value': '301 (2020)<ref name'}, "root['minister1_name']": {'new_value': 'Ryohei Miyata', 'old_value': 'Shunichi Tokura'}}}

@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['agency_name']": "'''Uganda Revenue Authority'''", "root['nativename']": 'URA', "root['abbreviation']": 'URA', "root['chief1_name']": 'Chairman,', "root['chief1_position']": "'''Gerald Sendawula'''", "root['chief2_name']": 'Director-general', "root['chief2_position']": "'''Doris Akol'''"}}
+1: {'values_changed': {"root['chief1_position']": {'new_value': "'''Gerald Sendawula'''", 'old_value': "'''Gerald Ssendawula'''"}}}
+2: {'values_changed': {"root['chief1_name']": {'new_value': 'Chairman,', 'old_value': 'Chairman'}}}
+3: {'values_changed': {"root['chief1_name']": {'new_value': 'Chairman', 'old_value': 'Chairman,'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Chairman,', 'old_value': 'Chairman'}}}
+11: {'dictionary_item_removed': {"root['employees']": '2,900+'}}
+12: {'values_changed': {"root['chief1_position']": {'new_value': "'''Gerald Ssendawula'''", 'old_value': ", '''Gerald Ssendawula'''"}}}
+24: {'values_changed': {"root['chief2_position']": {'new_value': "'''Doris Akol'''", 'old_value': ", '''Doris Akol'''"}}}
+29: {'dictionary_item_added': {"root['nativename']": 'URA'}, 'values_changed': {"root['employees']": {'new_value': '2,900+', 'old_value': '2,900+ (2015)'}, "root['chief1_position']": {'new_value': ", '''Gerald Ssendawula'''", 'old_value': ', Dr. Simon Kagugube'}, "root['chief2_position']": {'new_value': ", '''Doris Akol'''", 'old_value': ', Doris Akol'}}}
+34: {'values_changed': {"root['chief1_position']": {'new_value': ', Dr. Simon Kagugube', 'old_value': ', Vacant'}, "root['chief2_position']": {'new_value': ', Doris Akol', 'old_value': ', John Musinguzi Rujoki'}}}
+37: {'values_changed': {"root['chief1_position']": {'new_value': ', Vacant', 'old_value': ', Juma Kisaame<ref name'}}}

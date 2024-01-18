@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": "PUB, Singapore's national water agency", "root['abbreviation']": 'PUB', "root['chief1_name']": 'Tan Gee Paw', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'CP(NS) Ng Joo Hee', "root['chief2_position']": 'Chief Executive Officer'}}
+1: {'values_changed': {"root['chief1_position']": {'new_value': 'Chairman', 'old_value': 'Chair'}, "root['chief2_position']": {'new_value': 'Chief Executive Officer', 'old_value': 'Chief executive officer'}}}
+23: {'values_changed': {"root['chief1_name']": {'new_value': 'Tan Gee Paw', 'old_value': 'Chiang Chie Foo'}}}
+25: {'values_changed': {"root['chief1_position']": {'new_value': 'Chair', 'old_value': 'Chairman'}, "root['chief2_position']": {'new_value': 'Chief executive officer', 'old_value': 'Chief Executive Officer'}}}
+36: {'dictionary_item_removed': {"root['logo_width']": '250'}, 'values_changed': {"root['agency_name']": {'new_value': "PUB, Singapore's national water agency", 'old_value': "PUB, Singapore's National Water Agency"}, "root['chief2_name']": {'new_value': 'CP(NS) Ng Joo Hee', 'old_value': 'Ng Joo Hee'}}}
+41: {'dictionary_item_added': {"root['abbreviation']": 'PUB'}, 'values_changed': {"root['chief2_position']": {'new_value': 'Chief Executive Officer', 'old_value': 'CEO'}}}

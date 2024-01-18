@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Human Services', "root['employees']": '10,000', "root['budget']": '$4 billion', "root['minister2_pfo']": '(etc.)', "root['chief1_name']": 'Maura Corrigan, Director'}}
+4: {'dictionary_item_removed': {"root['chief1_position']": 'Interim director'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Maura Corrigan, Director', 'old_value': 'Nick Lyon'}}}
+11: {'dictionary_item_added': {"root['minister2_pfo']": '(etc.)'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Interim director', 'old_value': 'Director'}}}
+14: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Human Services', 'old_value': 'Michigan Department of Health and Human Services'}}}
+15: {'dictionary_item_added': {"root['budget']": '$4 billion'}, 'values_changed': {"root['employees']": {'new_value': '10,000', 'old_value': '14,000'}}}

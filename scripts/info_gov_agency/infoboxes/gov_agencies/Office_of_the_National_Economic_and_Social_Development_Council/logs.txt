@@ -1,0 +1,10 @@
+4: {'dictionary_item_removed': {"root['name']": 'National Economic and Social Development Board', "root['employees']": '600', "root['minister1_name']": 'Mr Porametee Vimolsiri, Secretary-General'}}
+10: {'values_changed': {"root['name']": {'new_value': 'National Economic and Social Development Board', 'old_value': 'Office of the National Economic and Social Development Board'}, "root['minister1_name']": {'new_value': 'Mr Porametee Vimolsiri, Secretary-General', 'old_value': "Mr Porametee Vimolsiri, ''Secretary-General''"}}}
+13: {'values_changed': {"root['employees']": {'new_value': '600', 'old_value': '600<ref name'}}}
+18: {'values_changed': {"root['minister1_name']": {'new_value': "Mr Porametee Vimolsiri, ''Secretary-General''", 'old_value': 'Thosaporn Sirisamphand Secretary-General'}}}
+20: {'dictionary_item_removed': {"root['budget']": '609.7 million baht (FY2019)'}}
+26: {'dictionary_item_removed': {"root['preceding3']": 'National Economic and Social Development Board (NESDB) (1972)'}}
+33: {'values_changed': {"root['name']": {'new_value': 'Office of the National Economic and Social Development Board', 'old_value': 'Office of the National Economics and Social Development Council'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'Office of the National Economics and Social Development Council', 'old_value': 'Office of the National Economic and Social Development Council'}}}
+44: {'dictionary_item_added': {"root['minister1_name']": 'Thosaporn Sirisamphand Secretary-General'}, 'dictionary_item_removed': {"root['chief1_name']": 'Thosaporn Sirisamphand, Secretary-General'}}
+49: {'dictionary_item_removed': {"root['chief1_position']": 'Chairman', "root['chief2_name']": 'Thosaporn Sirisamphand', "root['chief2_position']": 'Secretary-General'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Thosaporn Sirisamphand, Secretary-General', 'old_value': 'Sanit Aksornkoae'}}}

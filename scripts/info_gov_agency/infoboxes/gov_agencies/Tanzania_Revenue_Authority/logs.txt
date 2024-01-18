@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Tanzania Revenue Authority', "root['nativename']": 'native phrase', "root['region_code']": 'TZ', "root['employees']": '3,600', "root['minister1_name']": 'Dr. Philip Mpango', "root['minister1_pfo']": 'Ministry of Finance(Tanzania)', "root['chief1_name']": 'Edwin P.Mhede', "root['chief1_position']": 'Commissioner General'}}
+2: {'values_changed': {"root['chief1_name']": {'new_value': 'Edwin P.Mhede', 'old_value': 'Joseph kisurura and Sabra Raymond'}}}
+3: {'values_changed': {"root['minister1_name']": {'new_value': 'Dr. Philip Mpango', 'old_value': 'Mwigulu nchemba'}, "root['chief1_position']": {'new_value': 'Commissioner General', 'old_value': 'Commissioner Generals'}}}
+4: {'values_changed': {"root['minister1_name']": {'new_value': 'Mwigulu nchemba', 'old_value': 'Mwigulu Nchemba'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Joseph kisurura and Sabra Raymond', 'old_value': 'Joseph raymond kisurura and Sabra Raymond'}}}
+7: {'values_changed': {"root['chief1_name']": {'new_value': 'Joseph raymond kisurura and Sabra Raymond', 'old_value': 'Joseph raymond kisurura.'}}}
+8: {'values_changed': {"root['chief1_name']": {'new_value': 'Joseph raymond kisurura.', 'old_value': 'Joseph raymond kisurura'}}}
+9: {'values_changed': {"root['minister1_name']": {'new_value': 'Mwigulu Nchemba', 'old_value': 'Samia suluhu hassan'}}}
+10: {'values_changed': {"root['minister1_name']": {'new_value': 'Samia suluhu hassan', 'old_value': 'Mwigulu Nchemba'}}}
+11: {'values_changed': {"root['minister1_name']": {'new_value': 'Mwigulu Nchemba', 'old_value': 'Samia Suluhu Hassan'}}}
+14: {'dictionary_item_added': {"root['employees']": '3,600', "root['minister1_name']": 'Samia Suluhu Hassan'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Joseph raymond kisurura', 'old_value': 'Joseph kisurura'}}}
+16: {'values_changed': {"root['chief1_name']": {'new_value': 'Joseph kisurura', 'old_value': 'Joseph Mariapia'}}}
+17: {'values_changed': {"root['chief1_position']": {'new_value': 'Commissioner Generals', 'old_value': 'Commissioner General'}}}

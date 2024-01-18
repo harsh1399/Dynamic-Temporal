@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department for Regional Development', "root['employees']": '2,406 (September 2011)', "root['budget']": '£508.3 million (current) & £452.8 million (capital) for 2011–12', "root['minister1_name']": 'Vacant'}}
+1: {'values_changed': {"root['minister1_name']": {'new_value': 'Vacant', 'old_value': 'Michelle McIlveen'}}}
+4: {'dictionary_item_added': {"root['minister1_name']": 'Michelle McIlveen'}, 'values_changed': {"root['agency_name']": {'new_value': 'Department for Regional Development', 'old_value': 'Department for Infrastructure'}}}
+8: {'dictionary_item_removed': {"root['minister1_name']": 'Chris Hazzard'}}
+14: {'values_changed': {"root['minister1_name']": {'new_value': 'Chris Hazzard', 'old_value': "''Vacant''"}}}
+20: {'values_changed': {"root['employees']": {'new_value': '2,406 (September 2011)', 'old_value': '2,279 (March 2019)'}, "root['budget']": {'new_value': '£508.3 million (current) & £452.8 million (capital) for 2011–12', 'old_value': '£291.4 million (current) & £268.2 million (capital) for 2018–19)'}}}

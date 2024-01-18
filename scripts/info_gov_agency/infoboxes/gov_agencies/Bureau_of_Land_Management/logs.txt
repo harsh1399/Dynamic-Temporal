@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Bureau of Land Management', "root['date1_name']": 'Sara', "root['date2_name']": 'Tbd', "root['employees']": '11,621 Permanent and 30,860 Volunteer (FY 2012)<ref name', "root['chief1_name']": 'Vacant', "root['chief1_position']": 'Director'}}
+1: {'values_changed': {"root['chief1_name']": {'new_value': 'Vacant', 'old_value': 'Nada Culver'}, "root['chief1_position']": {'new_value': 'Director', 'old_value': 'Performing delegated duties of the BLM director'}}}
+10: {'dictionary_item_added': {"root['date1_name']": 'Sara', "root['date2_name']": 'Tbd'}, 'dictionary_item_removed': {"root['budget']": '$1.31 billion (FY2021)'}, 'values_changed': {"root['employees']": {'new_value': '11,621 Permanent and 30,860 Volunteer (FY 2012)<ref name', 'old_value': 'Over 10,000'}}}
+23: {'values_changed': {"root['chief1_name']": {'new_value': 'Nada Culver', 'old_value': 'Tracy Stone-Manning'}, "root['chief1_position']": {'new_value': 'Performing delegated duties of the BLM director', 'old_value': 'Director'}}}
+24: {'dictionary_item_removed': {"root['nativename_a']": 'Management.svg!border'}}

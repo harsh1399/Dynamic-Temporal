@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Interagency Council on Homelessness', "root['employees']": '20.5 (2016)', "root['budget']": '$3.5 million (2016)', "root['chief1_name']": 'Robert G. Marbut', "root['chief1_position']": 'Executive Director'}}
+1: {'values_changed': {"root['employees']": {'new_value': '20.5 (2016)', 'old_value': '18 (2021)'}, "root['budget']": {'new_value': '$3.5 million (2016)', 'old_value': '$3.8 million (2021)'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Robert G. Marbut', 'old_value': 'Anthony Love'}, "root['chief1_position']": {'new_value': 'Executive Director', 'old_value': 'interim executive director'}}}
+8: {'values_changed': {"root['employees']": {'new_value': '18 (2021)', 'old_value': '18 (2021) <ref name'}, "root['budget']": {'new_value': '$3.8 million (2021)', 'old_value': '$3.8 million (2021) <ref name'}}}

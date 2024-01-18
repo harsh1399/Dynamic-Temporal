@@ -1,0 +1,6 @@
+1: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of National Defence', "root['minister1_name']": 'Tea Banh'}}
+4: {'dictionary_item_removed': {"root['nativename']": "''Ministère de la Défense nationale''", "root['nativename_a']": "''Krasuang Kaophea Cheat''"}}
+6: {'dictionary_item_added': {"root['nativename_a']": "''Krasuang Kaophea Cheat''"}, 'values_changed': {"root['nativename']": {'new_value': "''Ministère de la Défense nationale''", 'old_value': 'ក្រសួងការពារជាតិ'}}}
+10: {'values_changed': {"root['agency_name']": {'new_value': 'Ministry of National Defence', 'old_value': 'Ministry of National Defense'}}}
+12: {'dictionary_item_removed': {"root['minister1_pfo']": ",  '''Minister of National Defense'''"}, 'values_changed': {"root['minister1_name']": {'new_value': 'Tea Banh', 'old_value': "Tea Banh, (Cambodian People's Party"}}}
+14: {'dictionary_item_removed': {"root['budget']": '$245,000,000 (2012)'}}

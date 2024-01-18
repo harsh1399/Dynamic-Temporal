@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Department of Transportation', "root['logo_width']": '175', "root['seal_width']": '175', "root['picture']": 'Usdot headquarters.jpg', "root['picture_caption']": 'Headquarters of the U.S. Department of Transportation', "root['employees']": '58,622', "root['budget']": '$72.4 billion USD (Fiscal year', "root['chief1_name']": "''Vacant''", "root['chief1_position']": 'United States Secretary of Transportation', "root['chief2_position']": 'United States Deputy Secretary of Transportation', "root['child3_agency']": 'Federal Railroad Administration', "root['child4_agency']": 'Federal Transit Administration', "root['child5_agency']": 'Maritime Administration', "root['child6_agency']": 'Template:DOT agencies'}}
+1: {'values_changed': {"root['chief1_position']": {'new_value': 'United States Secretary of Transportation', 'old_value': '<!--'}}}
+4: {'dictionary_item_removed': {"root['chief2_name']": 'Steven G. Bradbury'}, 'values_changed': {"root['chief1_name']": {'new_value': "''Vacant''", 'old_value': 'Elaine Chao'}, "root['chief1_position']": {'new_value': '<!--', 'old_value': 'United States Secretary of Transportation'}}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'Elaine Chao', 'old_value': 'Steven G. Bradbury'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Steven G. Bradbury', 'old_value': 'Lana Hurdle (acting)'}, "root['chief2_name']": {'new_value': 'Steven G. Bradbury', 'old_value': 'vacant'}}}
+8: {'values_changed': {"root['chief1_name']": {'new_value': 'Lana Hurdle (acting)', 'old_value': 'Lana Hurdle'}}}
+12: {'values_changed': {"root['chief1_name']": {'new_value': 'Lana Hurdle', 'old_value': 'Pete Buttigieg'}}}
+14: {'values_changed': {"root['chief2_name']": {'new_value': 'vacant', 'old_value': 'Vacant'}}}
+16: {'values_changed': {"root['chief2_name']": {'new_value': 'Vacant', 'old_value': 'Polly Trottenberg'}}}
+43: {'values_changed': {"root['budget']": {'new_value': '$72.4 billion USD (Fiscal year', 'old_value': 'US$'}}}
+60: {'values_changed': {"root['child5_agency']": {'new_value': 'Maritime Administration', 'old_value': 'United States Maritime Administration'}}}

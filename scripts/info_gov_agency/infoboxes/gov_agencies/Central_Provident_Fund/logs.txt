@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Central Provident Fund Board', "root['abbreviation']": 'CPF Board', "root['logo_width']": '100'}}
+34: {'dictionary_item_added': {"root['abbreviation']": 'CPF Board'}, 'dictionary_item_removed': {"root['chief1_name']": 'Chiang Chie Foo', "root['chief1_position']": 'Chairman', "root['chief2_name']": 'Augustin Lee', "root['chief2_position']": 'Chief Executive Officer'}, 'values_changed': {"root['agency_name']": {'new_value': 'Central Provident Fund Board', 'old_value': 'Central Provident Fund Board (CPFB)'}, "root['logo_width']": {'new_value': '100', 'old_value': '200'}}}
+39: {'values_changed': {"root['chief1_name']": {'new_value': 'Chiang Chie Foo', 'old_value': 'Chiang Chie Foo (until 30 June 2021), Yong Ying-I (from 1 July 2021)'}}}
+46: {'dictionary_item_added': {"root['logo_width']": '200'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Chiang Chie Foo (until 30 June 2021), Yong Ying-I (from 1 July 2021)', 'old_value': 'Yong Ying-I'}}}
+48: {'values_changed': {"root['agency_name']": {'new_value': 'Central Provident Fund Board (CPFB)', 'old_value': 'Central Provident Fund Board'}}}
+49: {'values_changed': {"root['chief2_position']": {'new_value': 'Chief Executive Officer', 'old_value': 'CEO'}}}

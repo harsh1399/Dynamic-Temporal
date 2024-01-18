@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['agency_name']": "Florida Department of Veterans' Affairs", "root['abbreviation']": 'FDVA', "root['logo_width']": '150 px', "root['budget']": '$ $81,373,504 (2010-2011)', "root['chief1_name']": 'Mike Prendergast', "root['chief1_position']": 'Executive Director', "root['chief2_name']": 'Alfred Carter', "root['chief2_position']": 'Chief of Staff'}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Mike Prendergast', 'old_value': 'Mike Prendergast  http://floridavets.org/?page_id'}}}
+10: {'values_changed': {"root['budget']": {'new_value': '$ $81,373,504 (2010-2011)', 'old_value': '$ $81,373,504 (2010-2011) http://floridavets.org/?p'}}}
+19: {'values_changed': {"root['chief2_position']": {'new_value': 'Chief of Staff', 'old_value': 'Dep. Director'}}}
+20: {'values_changed': {"root['budget']": {'new_value': '$ $81,373,504 (2010-2011) http://floridavets.org/?p', 'old_value': '$110.8 million(2013-2014) http://floridavets.org/?p'}}}
+21: {'values_changed': {"root['budget']": {'new_value': '$110.8 million(2013-2014) http://floridavets.org/?p', 'old_value': '$110.8 million (2013-2014) http://floridavets.org/?p'}}}
+72: {'dictionary_item_removed': {"root['seal_width']": '150 px'}}
+74: {'dictionary_item_added': {"root['seal_width']": '150 px'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Mike Prendergast  http://floridavets.org/?page_id', 'old_value': 'Mike Prendergast http://floridavets.org/?page_id'}}}
+75: {'values_changed': {"root['chief1_name']": {'new_value': 'Mike Prendergast http://floridavets.org/?page_id', 'old_value': 'Danny Burgess'}}}
+77: {'dictionary_item_added': {"root['chief1_name']": 'Danny Burgess'}, 'dictionary_item_removed': {"root['minister2_pfo']": '<!--'}, 'values_changed': {"root['chief1_position']": {'new_value': 'Executive Director', 'old_value': 'Executive Director -->'}, "root['chief2_name']": {'new_value': 'Alfred Carter', 'old_value': 'James S. Hartsell'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Department of Space', "root['budget']": 'INRConvert', "root['minister1_pfo']": 'Narendra Modi', "root['minister2_name']": 'Prime Minister of India', "root['chief1_name']": 'S. Somanath', "root['chief1_position']": 'Secretary to the Government of India', "root['child3_agency']": 'Indian National Space Promotion and Authorisation Centre (IN-SPACe) (Planned)'}}
+3: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Space', 'old_value': 'Department of Space, Indian Space Research Organisation'}}}
+8: {'values_changed': {"root['agency_name']": {'new_value': 'Department of Space, Indian Space Research Organisation', 'old_value': 'Department of Space'}}}
+10: {'values_changed': {"root['budget']": {'new_value': 'INRConvert', 'old_value': 'decrease INRConvert'}}}
+23: {'values_changed': {"root['budget']": {'new_value': 'decrease INRConvert', 'old_value': 'INRConvert'}, "root['child3_agency']": {'new_value': 'Indian National Space Promotion and Authorisation Centre (IN-SPACe) (Planned)', 'old_value': 'Indian National Space Promotion and Authorisation Centre (IN-SPACe)'}}}
+25: {'values_changed': {"root['budget']": {'new_value': 'INRConvert', 'old_value': 'decrease INRConvert'}, "root['child3_agency']": {'new_value': 'Indian National Space Promotion and Authorisation Centre (IN-SPACe)', 'old_value': 'Indian National Space Promotion and Authorisation Centre (IN-SPACe) (Planned)'}}}
+26: {'values_changed': {"root['minister2_name']": {'new_value': 'Prime Minister of India', 'old_value': 'Prime Minister of India and Minister of Space'}}}
+27: {'values_changed': {"root['minister2_name']": {'new_value': 'Prime Minister of India and Minister of Space', 'old_value': 'Prime Minister of India'}}}

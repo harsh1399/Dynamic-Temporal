@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'VisitScotland', "root['industry']": 'Tourism', "root['homepage']": 'www.visitscotland.com '}}
+4: {'values_changed': {"root['homepage']": {'new_value': 'www.visitscotland.com ', 'old_value': 'www.visitscotland.org '}}}
+6: {'values_changed': {"root['homepage']": {'new_value': 'www.visitscotland.org ', 'old_value': 'www.visitscotland.com '}}}
+7: {'dictionary_item_removed': {"root['foundation']": '1969 (as the Scottish Tourist Board)', "root['num_employees']": '559 (2018)'}, 'values_changed': {"root['homepage']": {'new_value': 'www.visitscotland.com ', 'old_value': 'www.visitscotland.org '}}}

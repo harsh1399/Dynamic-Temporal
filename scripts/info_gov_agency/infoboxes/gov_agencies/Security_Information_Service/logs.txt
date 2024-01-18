@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Security Information Service', "root['nativename']": 'Bezpečnostní informační služba', "root['nativename_a']": '(BIS)', "root['logo_width']": '150', "root['budget']": '$49,584,953 USD (2005)', "root['chief1_name']": 'Jiří Lang', "root['chief1_position']": 'Director'}}
+5: {'values_changed': {"root['chief1_name']": {'new_value': 'Jiří Lang', 'old_value': 'Michal Koudelka'}}}
+9: {'dictionary_item_added': {"root['logo_width']": '150'}, 'values_changed': {"root['budget']": {'new_value': '$49,584,953 USD (2005)', 'old_value': '$65 million (as of 2017)'}}}
+12: {'dictionary_item_removed': {"root['employees']": 'Classified information'}}
+14: {'values_changed': {"root['employees']": {'new_value': 'Classified information', 'old_value': '800 (estimate)'}}}
+16: {'values_changed': {"root['chief1_name']": {'new_value': 'Michal Koudelka', 'old_value': 'ill'}}}
+20: {'values_changed': {"root['employees']": {'new_value': '800 (estimate)', 'old_value': '1,000 (estimate)'}}}
+26: {'values_changed': {"root['employees']": {'new_value': '1,000 (estimate)', 'old_value': '1,000 (2019 estimate)'}}}

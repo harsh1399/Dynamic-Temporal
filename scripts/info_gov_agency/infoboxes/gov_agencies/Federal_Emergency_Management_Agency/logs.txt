@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Federal Emergency Management Agency', "root['employees']": '7,474 (October 8, 2011)<ref name', "root['budget']": 'United States dollar', "root['chief1_name']": 'Craig Fugate', "root['chief1_position']": 'Administrator', "root['chief2_name']": 'Joseph Nimmich', "root['chief2_position']": 'Deputy Administrator'}}
+11: {'values_changed': {"root['budget']": {'new_value': 'United States dollar', 'old_value': '$10.9 billion (2012)<ref name'}}}
+64: {'values_changed': {"root['employees']": {'new_value': '7,474 (October 8, 2011)<ref name', 'old_value': '18,400 (April 2014)<ref name'}}}
+77: {'dictionary_item_added': {"root['employees']": '18,400 (April 2014)<ref name'}, 'values_changed': {"root['budget']": {'new_value': '$10.9 billion (2012)<ref name', 'old_value': '$13.9 billion (2016)<ref name'}}}
+104: {'dictionary_item_added': {"root['agency_name']": 'Federal Emergency Management Agency'}, 'dictionary_item_removed': {"root['name']": 'Federal Emergency Management Agency'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Craig Fugate', 'old_value': 'Brock Long'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Federal Emergency Management Agency', 'old_value': "Trump's Slaves"}, "root['budget']": {'new_value': '$13.9 billion (2016)<ref name', 'old_value': "all the money's  (2016)<ref name"}}}
+111: {'values_changed': {"root['name']": {'new_value': "Trump's Slaves", 'old_value': 'Federal Emergency Management Agency'}, "root['budget']": {'new_value': "all the money's  (2016)<ref name", 'old_value': '$13.9 billion (2016)<ref name'}}}
+114: {'dictionary_item_removed': {"root['seal_width']": '250'}}
+135: {'values_changed': {"root['chief2_name']": {'new_value': 'Joseph Nimmich', 'old_value': 'Daniel Kaniewski'}}}
+168: {'dictionary_item_added': {"root['chief2_name']": 'Daniel Kaniewski', "root['chief2_position']": 'Deputy Administrator'}, 'dictionary_item_removed': {"root['employees']": '11,300+ (FY 2020)'}, 'values_changed': {"root['name']": {'new_value': 'Federal Emergency Management Agency', 'old_value': 'Federal Emergency Management Agency (FEMA)'}, "root['budget']": {'new_value': '$13.9 billion (2016)<ref name', 'old_value': '$28.7 billion (FY 2020)<ref name'}, "root['chief1_name']": {'new_value': 'Brock Long', 'old_value': 'Pete Gaynor'}}}
+170: {'dictionary_item_removed': {"root['feamed']": 'start date and age'}, 'values_changed': {"root['seal_width']": {'new_value': '250', 'old_value': '25'}}}
+171: {'dictionary_item_added': {"root['feamed']": 'start date and age'}, 'values_changed': {"root['seal_width']": {'new_value': '25', 'old_value': '250'}}}
+212: {'values_changed': {"root['chief1_name']": {'new_value': 'Pete Gaynor', 'old_value': 'Deanne Criswell'}}}

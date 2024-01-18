@@ -1,0 +1,9 @@
+13: {'dictionary_item_removed': {"root['agency_name']": 'Federal Railroad Administration', "root['chief1_name']": 'Joseph C. Szabo', "root['chief1_position']": 'Administrator', "root['chief2_name']": 'Karen Rae', "root['chief2_position']": 'Deputy Administrator'}}
+19: {'dictionary_item_removed': {"root['employees']": '850'}}
+25: {'dictionary_item_removed': {"root['budget']": '$1.561 billion (2008)'}}
+31: {'dictionary_item_removed': {"root['seal_width']": '200 px'}}
+32: {'dictionary_item_removed': {"root['logo_width']": '200 px'}}
+36: {'dictionary_item_added': {"root['seal_width']": '200 px', "root['chief2_name']": 'Karen Rae', "root['chief2_position']": 'Deputy Administrator'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Joseph C. Szabo', 'old_value': 'Ronald Batory'}}}
+53: {'values_changed': {"root['chief1_name']": {'new_value': 'Ronald Batory', 'old_value': 'vacant'}}}
+54: {'values_changed': {"root['chief1_name']": {'new_value': 'vacant', 'old_value': 'Amit Bose (acting)'}}}
+62: {'values_changed': {"root['chief1_name']": {'new_value': 'Amit Bose (acting)', 'old_value': 'Amit Bose (government official)'}}}

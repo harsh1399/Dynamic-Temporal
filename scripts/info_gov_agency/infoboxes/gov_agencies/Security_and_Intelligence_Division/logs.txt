@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Security and Intelligence Division', "root['nativename']": 'Divisyen Keselamatan dan Perisikan', "root['nativename_a']": '保安与情报司', "root['nativename_r']": 'பாதுகாப்பு மற்றும் புலனாய்வு பிரிவு', "root['employees']": '~500'}}
+12: {'dictionary_item_removed': {"root['minister1_name']": 'Ng Eng Hen', "root['minister1_pfo']": 'Ministry of Defence (Singapore)'}, 'values_changed': {"root['agency_name']": {'new_value': 'Security and Intelligence Division', 'old_value': 'Security and Intelligence Division (SID)'}}}
+30: {'dictionary_item_added': {"root['nativename']": 'Divisyen Keselamatan dan Perisikan', "root['nativename_a']": '保安与情报司', "root['nativename_r']": 'பாதுகாப்பு மற்றும் புலனாய்வு பிரிவு'}, 'dictionary_item_removed': {"root['logo_width']": '200', "root['chief1_name']": "''Classified''"}, 'values_changed': {"root['employees']": {'new_value': '~500', 'old_value': "''Classified''"}}}
+31: {'values_changed': {"root['logo_width']": {'new_value': '200', 'old_value': '300'}}}
+42: {'values_changed': {"root['logo_width']": {'new_value': '300', 'old_value': '250'}}}
+43: {'values_changed': {"root['agency_name']": {'new_value': 'Security and Intelligence Division (SID)', 'old_value': 'Security and Intelligence Division'}}}

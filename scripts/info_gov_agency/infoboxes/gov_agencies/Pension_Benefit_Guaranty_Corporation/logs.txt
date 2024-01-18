@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Pension Benefit Guaranty Corporation (United States)', "root['date1_name']": 'Activated', "root['employees']": '800 (2010)', "root['budget']": '$445 million (2009)', "root['chief1_name']": 'Thomas Reeder', "root['chief1_position']": 'Director'}}
+1: {'values_changed': {"root['employees']": {'new_value': '800 (2010)', 'old_value': '953 (2016)'}, "root['budget']": {'new_value': '$445 million (2009)', 'old_value': '$423 million (FY 2016)'}}}
+3: {'values_changed': {"root['agency_name']": {'new_value': 'Pension Benefit Guaranty Corporation (United States)', 'old_value': 'Pension Benefit Guarantee Corporation (United States)'}}}
+4: {'values_changed': {"root['agency_name']": {'new_value': 'Pension Benefit Guarantee Corporation (United States)', 'old_value': 'Pension Benefit Guaranty Corporation (United States)'}}}
+20: {'dictionary_item_added': {"root['date1_name']": 'Activated'}, 'values_changed': {"root['budget']": {'new_value': '$423 million (FY 2016)', 'old_value': '$493.312 million (FY 2023 Budget Justification)'}, "root['chief1_name']": {'new_value': 'Thomas Reeder', 'old_value': 'Gordon Hartogensis'}}}

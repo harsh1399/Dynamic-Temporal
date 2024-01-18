@@ -1,0 +1,9 @@
+44: {'dictionary_item_removed': {"root['agency_name']": 'National Cancer Institute', "root['chief1_name']": 'Harold Varmus', "root['chief1_position']": 'Director'}}
+59: {'dictionary_item_added': {"root['chief1_position']": 'Director'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Harold Varmus', 'old_value': 'Harold Varmus<ref name'}}}
+62: {'values_changed': {"root['chief1_name']": {'new_value': 'Harold Varmus<ref name', 'old_value': 'Douglas Lowy, M.D.<ref name'}}}
+68: {'values_changed': {"root['chief1_name']": {'new_value': 'Douglas Lowy, M.D.<ref name', 'old_value': 'Douglas_R._Lowy'}}}
+70: {'dictionary_item_removed': {"root['logo_width']": '200', "root['chief1_position']": 'Director'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Douglas_R._Lowy', 'old_value': 'Norman Sharpless<ref name'}}}
+85: {'values_changed': {"root['chief1_name']": {'new_value': 'Norman Sharpless<ref name', 'old_value': 'Dr. Norman Sharpless'}}}
+87: {'dictionary_item_removed': {"root['child3_agency']": 'Frederick National Laboratory for Cancer Research'}, 'values_changed': {"root['agency_name']": {'new_value': 'National Cancer Institute', 'old_value': 'National Cancer Institute (NCI)'}}}
+94: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr. Norman Sharpless', 'old_value': 'Douglas R. Lowy'}, "root['chief1_position']": {'new_value': 'Director', 'old_value': 'Acting Director'}}}
+115: {'values_changed': {"root['chief1_name']": {'new_value': 'Douglas R. Lowy', 'old_value': 'Norman Sharpless'}, "root['chief1_position']": {'new_value': 'Acting Director', 'old_value': 'Director'}}}

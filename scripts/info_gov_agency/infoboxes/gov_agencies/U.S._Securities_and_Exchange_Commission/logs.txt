@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'U.S. Securities and Exchange Commission', "root['employees']": '4,301 (2015)', "root['chief1_name']": 'Jay Clayton (attorney)'}}
+19: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Securities and Exchange Commission', 'old_value': 'U.S. Securities and Elon’s Commission'}}}
+20: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Securities and Elon’s Commission', 'old_value': 'U.S. Securities and Exchange Commission'}}}
+57: {'values_changed': {"root['chief1_name']": {'new_value': 'Jay Clayton (attorney)', 'old_value': 'Gary Gensler, Chairman'}}}
+81: {'values_changed': {"root['employees']": {'new_value': '4,301 (2015)', 'old_value': '4,459 (2021)'}}}
+84: {'values_changed': {"root['employees']": {'new_value': '4,459 (2021)', 'old_value': '4,801 (2022)'}}}
+85: {'values_changed': {"root['employees']": {'new_value': '4,801 (2022)', 'old_value': '4,807 (2022)'}}}
+96: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Securities and Exchange Commission', 'old_value': 'U.S. Shortsellers Enrichment Commission'}}}
+97: {'values_changed': {"root['agency_name']": {'new_value': 'U.S. Shortsellers Enrichment Commission', 'old_value': 'U.S. Securities and Exchange Commission'}}}
+117: {'values_changed': {"root['chief1_name']": {'new_value': 'Gary Gensler, Chairman', 'old_value': 'Gary “I Gots To Get Mine” Gensler, Lying Chairman'}}}
+118: {'values_changed': {"root['chief1_name']": {'new_value': 'Gary “I Gots To Get Mine” Gensler, Lying Chairman', 'old_value': 'Gary Gensler, Chairman'}}}
+131: {'dictionary_item_removed': {"root['chief1_position']": 'Ken', "root['chief2_name']": 'Doug'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Securities and Exchange Commission', 'old_value': 'U.S. Short-sellers Enrichment Commission'}}}
+132: {'dictionary_item_added': {"root['chief1_position']": 'Ken', "root['chief2_name']": 'Doug'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Short-sellers Enrichment Commission', 'old_value': 'U.S. Securities and Exchange Commission'}}}
+133: {'dictionary_item_removed': {"root['chief1_position']": 'Ken Griffin', "root['chief2_position']": 'Doug Cifu', "root['chief3_position']": 'Vlad Tenniv'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Securities and Exchange Commission', 'old_value': 'U.S. Short-sellers Enrichment Commission'}}}
+134: {'dictionary_item_added': {"root['chief1_position']": 'Ken Griffin', "root['chief2_position']": 'Doug Cifu', "root['chief3_position']": 'Vlad Tenniv'}, 'values_changed': {"root['agency_name']": {'new_value': 'U.S. Short-sellers Enrichment Commission', 'old_value': 'U.S. Securities and Exchange Commission'}}}

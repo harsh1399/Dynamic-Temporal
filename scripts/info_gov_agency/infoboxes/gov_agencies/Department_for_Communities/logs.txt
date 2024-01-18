@@ -1,0 +1,5 @@
+18: {'dictionary_item_removed': {"root['agency_name']": 'Department for Social Development', "root['employees']": '7,452 (September 2011)', "root['budget']": '£505.4 million (current) & £161.6 million (capital) for 2011-12', "root['minister1_name']": 'Nelson McCausland'}}
+27: {'values_changed': {"root['budget']": {'new_value': '£505.4 million (current) & £161.6 million (capital) for 2011-12', 'old_value': '£505.4 million (current) & £161.6 million (capital) for 2011–12'}, "root['minister1_name']": {'new_value': 'Nelson McCausland', 'old_value': 'Mervyn Storey'}}}
+29: {'values_changed': {"root['minister1_name']": {'new_value': 'Mervyn Storey', 'old_value': 'Maurice Morrow'}}}
+31: {'dictionary_item_added': {"root['minister1_name']": 'Maurice Morrow'}, 'values_changed': {"root['agency_name']": {'new_value': 'Department for Social Development', 'old_value': 'Department for Communities'}}}
+39: {'dictionary_item_removed': {"root['minister1_name']": 'Paul Givan'}}

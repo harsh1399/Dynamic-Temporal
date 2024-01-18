@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'United States Department of Education', "root['picture']": 'Usdepartmentofeducationbuilding.jpg!border', "root['picture_caption']": 'Lyndon Baines Johnson Building, Department Headquarters', "root['date1']": 'May 4, 1980', "root['date1_name']": 'Activated', "root['employees']": '5,000 (2007)', "root['budget']": 'US$32 billion (2009)<ref name', "root['chief1_name']": 'Arne Duncan', "root['chief1_position']": 'United States Secretary of Education', "root['chief2_name']": 'James H. Shelton III', "root['chief2_position']": 'United States Deputy Secretary of Education'}}
+1: {'values_changed': {"root['chief1_name']": {'new_value': 'Arne Duncan', 'old_value': 'John King, Jr.'}}}
+15: {'values_changed': {"root['chief2_name']": {'new_value': 'James H. Shelton III', 'old_value': "''Vacant''"}}}
+24: {'dictionary_item_added': {"root['chief2_name']": "''Vacant''", "root['chief2_position']": 'United States Deputy Secretary of Education'}, 'values_changed': {"root['employees']": {'new_value': '5,000 (2007)', 'old_value': '4,400 (2016)<ref name'}}}
+34: {'dictionary_item_removed': {"root['chief2_name']": 'TBA', "root['chief2_position']": 'United States Deputy Secretary of Education', "root['chief3_name']": 'Ted Mitchell', "root['chief3_position']": 'United States Under Secretary of Education', "root['chief4_name']": 'Jeff Appel', "root['chief4_position']": 'Deputy Under Secretary of Education', "root['chief5_name']": 'Kim Hunter Reed'}}
+35: {'dictionary_item_removed': {"root['chief5_position']": 'Deputy Under Secretary of Education'}}
+36: {'values_changed': {"root['chief3_position']": {'new_value': 'United States Under Secretary of Education', 'old_value': 'Under Secretary of Education'}}}
+40: {'dictionary_item_added': {"root['chief5_name']": 'Kim Hunter Reed', "root['chief5_position']": 'Deputy Under Secretary of Education'}, 'values_changed': {"root['chief1_name']": {'new_value': 'John King, Jr.', 'old_value': 'Vacant'}, "root['chief2_name']": {'new_value': 'TBA', 'old_value': 'Vacant'}, "root['chief3_name']": {'new_value': 'Ted Mitchell', 'old_value': 'Vacant'}, "root['chief4_name']": {'new_value': 'Jeff Appel', 'old_value': 'Phillip H. Rosenfelt , Acting'}, "root['chief4_position']": {'new_value': 'Deputy Under Secretary of Education', 'old_value': 'General Counselrefn'}}}
+41: {'values_changed': {"root['chief1_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}, "root['chief2_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}, "root['chief3_name']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+44: {'values_changed': {"root['chief4_position']": {'new_value': 'General Counselrefn', 'old_value': 'General Counsel'}}}
+49: {'values_changed': {"root['chief1_name']": {'new_value': "''Vacant''", 'old_value': "''Betsy Devos''"}}}
+59: {'values_changed': {"root['chief1_name']": {'new_value': "''Betsy Devos''", 'old_value': 'Betsy Devos'}}}
+68: {'values_changed': {"root['chief4_name']": {'new_value': 'Phillip H. Rosenfelt , Acting', 'old_value': 'Phil Rosenfelt'}}}
+71: {'values_changed': {"root['chief1_name']": {'new_value': 'Betsy Devos', 'old_value': 'Betsy DeVos'}}}
+73: {'values_changed': {"root['budget']": {'new_value': 'US$32 billion (2009)<ref name', 'old_value': '$32 billion (2009)<ref name'}}}
+79: {'values_changed': {"root['budget']": {'new_value': '$32 billion (2009)<ref name', 'old_value': '$68 billion (2016)<ref name'}}}
+113: {'values_changed': {"root['employees']": {'new_value': '4,400 (2016)<ref name', 'old_value': 'Under 3,960 (2016)<ref name'}}}
+114: {'values_changed': {"root['employees']": {'new_value': 'Under 3,960 (2016)<ref name', 'old_value': '4,400 (2016)<ref name'}}}
+130: {'values_changed': {"root['employees']": {'new_value': '4,400 (2016)<ref name', 'old_value': '3912(2018)<ref name'}}}
+131: {'values_changed': {"root['employees']": {'new_value': '3912(2018)<ref name', 'old_value': '3912(2018)'}}}
+135: {'dictionary_item_added': {"root['date1']": 'May 4, 1980', "root['date1_name']": 'Activated'}, 'values_changed': {"root['employees']": {'new_value': '3912(2018)', 'old_value': '3912 (2018)'}}}
+137: {'values_changed': {"root['employees']": {'new_value': '3912 (2018)', 'old_value': '3912 (2018)<ref name'}}}
+149: {'values_changed': {"root['chief2_name']": {'new_value': "''Vacant''", 'old_value': 'Mick Zais'}, "root['chief4_name']": {'new_value': 'Phil Rosenfelt', 'old_value': 'Carlos G. Muñiz'}}}
+161: {'values_changed': {"root['chief4_name']": {'new_value': 'Carlos G. Muñiz', 'old_value': 'hi laura HAHA'}}}
+162: {'values_changed': {"root['chief4_name']": {'new_value': 'hi laura HAHA', 'old_value': 'Carlos G. Muñiz'}}}
+168: {'values_changed': {"root['picture_caption']": {'new_value': 'Lyndon Baines Johnson Building, Department Headquarters', 'old_value': 'Lyndon Baines Johnson Department of Education Building, Department Headquarters'}, "root['chief4_name']": {'new_value': 'Carlos G. Muñiz', 'old_value': "''Vacant''"}}}

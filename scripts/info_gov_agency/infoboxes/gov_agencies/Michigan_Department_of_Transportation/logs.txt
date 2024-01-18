@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Michigan Department of Transportation', "root['abbreviation']": 'MDOT', "root['superseding']": 'Incumbent', "root['budget']": '$3.3 Billion', "root['chief1_name']": 'Kirk T. Steudle', "root['chief1_position']": 'Director', "root['chief2_name']": 'Todd Wyett', "root['chief2_position']": 'Transportation Commission Chair'}}
+1: {'values_changed': {"root['chief1_position']": {'new_value': 'Director', 'old_value': 'Cheif shister'}, "root['chief2_position']": {'new_value': 'Transportation Commission Chair', 'old_value': 'Deputy Dipshit'}}}
+2: {'values_changed': {"root['chief1_position']": {'new_value': 'Cheif shister', 'old_value': 'Director'}, "root['chief2_position']": {'new_value': 'Deputy Dipshit', 'old_value': 'Transportation Commission Chair'}}}
+20: {'dictionary_item_added': {"root['abbreviation']": 'MDOT'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Kirk T. Steudle', 'old_value': 'Mark Van Port Fleet'}}}
+21: {'values_changed': {"root['budget']": {'new_value': '$3.3 Billion', 'old_value': '$4.7 Billion'}}}
+26: {'values_changed': {"root['chief1_name']": {'new_value': 'Mark Van Port Fleet', 'old_value': 'Paul C. Ajeba'}}}
+28: {'values_changed': {"root['chief1_name']": {'new_value': 'Paul C. Ajeba', 'old_value': 'Paul C. Ajegba'}}}
+29: {'values_changed': {"root['chief1_name']": {'new_value': 'Paul C. Ajegba', 'old_value': 'Paul C. Ajeba'}}}

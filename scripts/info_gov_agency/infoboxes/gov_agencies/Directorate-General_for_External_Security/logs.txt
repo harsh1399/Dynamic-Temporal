@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'General Directorate for External Security', "root['nativename']": 'Direction Générale de la Sécurité Extérieure', "root['employees']": '6,102', "root['budget']": 'US$', "root['minister1_name']": 'Florence Parly', "root['minister1_pfo']": 'Minister of the Armed Forces (France)', "root['chief1_name']": 'Bernard Emié', "root['chief1_position']": 'Director', "root['chief3_name']": '|chief3_position'}}
+31: {'values_changed': {"root['employees']": {'new_value': '6,102', 'old_value': '7000   An article on the french newspaper Le Point https://www.lepoint.fr/histoire/de-la-muette-a-vincennes-itineraire-d-un-service-secret-09-05-2021-2425631_1615.php'}}}
+39: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['budget']": {'new_value': 'US$', 'old_value': 'EURO'}}}
+40: {'values_changed': {"root['budget']": {'new_value': 'EURO', 'old_value': 'US$'}}}
+53: {'values_changed': {"root['minister1_name']": {'new_value': 'Florence Parly', 'old_value': 'Sébastien Lecornu'}}}
+59: {'values_changed': {"root['budget']": {'new_value': 'US$', 'old_value': '€880 Million (2021)'}}}
+61: {'values_changed': {"root['nativename']": {'new_value': 'Direction Générale de la Sécurité Extérieure', 'old_value': 'Direction générale de la Sécurité extérieure'}}}

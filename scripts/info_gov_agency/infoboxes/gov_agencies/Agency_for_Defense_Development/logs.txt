@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Agency for Defense Development (ADD)', "root['established']": '1970', "root['city']": 'Daejeon', "root['province']": 'Daejeon', "root['country']": 'South Korea flagicon', "root['address']": '462 Jochiwon-gil Yuseong-gu Daejeon, Korea', "root['telephone']": '(+82)-42-822-4271'}}
+5: {'dictionary_item_added': {"root['province']": 'Daejeon', "root['address']": '462 Jochiwon-gil Yuseong-gu Daejeon, Korea', "root['telephone']": '(+82)-42-822-4271'}, 'values_changed': {"root['name']": {'new_value': 'Agency for Defense Development (ADD)', 'old_value': 'Agency for Defense Development'}, "root['established']": {'new_value': '1970', 'old_value': 'August, 1970'}, "root['city']": {'new_value': 'Daejeon', 'old_value': 'Yuseong District, Daejeon'}, "root['country']": {'new_value': 'South Korea flagicon', 'old_value': 'South Korea'}}}
+11: {'dictionary_item_removed': {"root['image_name']": 'Agency for Defense Development.jpg'}}
+15: {'dictionary_item_added': {"root['name']": 'Agency for Defense Development', "root['image_name']": 'Agency for Defense Development.jpg', "root['established']": 'August, 1970', "root['city']": 'Yuseong District, Daejeon', "root['country']": 'South Korea'}, 'dictionary_item_removed': {"root['agency_name']": 'Agency for Defense Development', "root['employees']": '3,130', "root['chief1_name']": 'Park Jongseung', "root['chief1_position']": 'Director'}}
+43: {'dictionary_item_removed': {"root['budget']": 'South Korean won'}}
+44: {'values_changed': {"root['chief1_name']": {'new_value': 'Park Jongseung', 'old_value': 'Park Jong-seung'}}}
+58: {'dictionary_item_removed': {"root['nativename_a']": '국방과학연구소, 國防科學硏究所', "root['nativename_r']": 'Guk-bang-gwa-hak-yeon-gu-so'}}
+102: {'values_changed': {"root['nativename_r']": {'new_value': 'Guk-bang-gwa-hak-yeon-gu-so', 'old_value': 'Guk-bang Gwa-hak Yeon-gu-so'}}}
+103: {'values_changed': {"root['agency_name']": {'new_value': 'Agency for Defense Development', 'old_value': 'Agency for Defense Development (ADD)'}}}
+105: {'dictionary_item_removed': {"root['chief2_name']": 'Jung Jin-gyeong', "root['chief2_position']": 'Deputy Director'}}

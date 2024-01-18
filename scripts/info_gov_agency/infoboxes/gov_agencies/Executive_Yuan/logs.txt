@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Executive Yuan', "root['nativename']": '行政院', "root['employees']": '407', "root['chief1_name']": 'Jiang Yi-huah', "root['chief1_position']": 'Premier of the Republic of China', "root['chief2_name']": 'Mao Chi-kuo', "root['chief2_position']": 'Vice Premier of the Republic of China', "root['chief3_name']": 'Chen Wei-zen', "root['chief3_position']": 'Secretary-General', "root['chief4_name']": 'Chien Tai-lang, Chen Ching-tsai', "root['chief4_position']": 'Deputy Secretary-General'}}
+12: {'values_changed': {"root['chief4_name']": {'new_value': 'Chien Tai-lang, Chen Ching-tsai', 'old_value': 'Chen Ching-tsai'}}}
+21: {'values_changed': {"root['chief3_name']": {'new_value': 'Chen Wei-zen', 'old_value': 'Lee Shu-chuan'}}}
+30: {'values_changed': {"root['chief3_name']": {'new_value': 'Lee Shu-chuan', 'old_value': 'Lee Shih-chuan'}}}
+31: {'values_changed': {"root['chief4_name']": {'new_value': 'Chen Ching-tsai', 'old_value': 'Hsiao Chia-chi'}}}
+56: {'values_changed': {"root['chief4_name']": {'new_value': 'Hsiao Chia-chi', 'old_value': 'Hsiao Chia-chi, Sung Yu-hsieh'}}}
+61: {'values_changed': {"root['chief1_name']": {'new_value': 'Jiang Yi-huah', 'old_value': "''Vacant''"}}}
+63: {'dictionary_item_added': {"root['chief2_name']": 'Mao Chi-kuo'}, 'values_changed': {"root['chief1_name']": {'new_value': "''Vacant''", 'old_value': 'Mao Chi-kuo'}}}
+66: {'dictionary_item_removed': {"root['chief2_name']": 'Chang San-cheng'}}
+69: {'values_changed': {"root['chief1_name']": {'new_value': 'Mao Chi-kuo', 'old_value': 'Mao Chi-kuo (designated)'}}}
+71: {'values_changed': {"root['chief1_name']": {'new_value': 'Mao Chi-kuo (designated)', 'old_value': 'Mao Chi-kuo'}, "root['chief4_name']": {'new_value': 'Hsiao Chia-chi, Sung Yu-hsieh', 'old_value': 'Hsiao Chia-chi'}}}
+76: {'values_changed': {"root['chief4_name']": {'new_value': 'Hsiao Chia-chi', 'old_value': 'Hsiao Chia-chi, Sung Yu-hsieh'}}}

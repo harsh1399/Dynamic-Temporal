@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Hong Kong Observatory', "root['nativename_a']": '香港天文台', "root['employees']": '287 (March 2008)<ref name', "root['budget']": '203.4m HKD (2008-09)<ref name', "root['chief1_name']": 'Dr LEE Boon Ying', "root['chief1_position']": 'Director of the Hong Kong Observatory'}}
+2: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr LEE Boon Ying', 'old_value': 'Dr SHUN Chi Ming'}}}
+3: {'values_changed': {"root['chief1_name']": {'new_value': 'Dr SHUN Chi Ming', 'old_value': 'Mr SHUN Chi Ming'}}}
+7: {'values_changed': {"root['employees']": {'new_value': '287 (March 2008)<ref name', 'old_value': '290 (March 2010)<ref name'}, "root['budget']": {'new_value': '203.4m HKD (2008-09)<ref name', 'old_value': '220.7m HKD (2011-12)<ref name'}}}
+20: {'dictionary_item_removed': {"root['chief3_name']": '|chief3_position'}}
+25: {'values_changed': {"root['budget']": {'new_value': '220.7m HKD (2011-12)<ref name', 'old_value': '220.7m HKD (2011–12)<ref name'}}}
+32: {'dictionary_item_added': {"root['chief3_name']": '|chief3_position'}, 'values_changed': {"root['employees']": {'new_value': '290 (March 2010)<ref name', 'old_value': '315 (March 2018)<ref name'}, "root['budget']": {'new_value': '220.7m HKD (2011–12)<ref name', 'old_value': '381.4m HKD (2019–20)<ref name'}}}
+34: {'values_changed': {"root['nativename_a']": {'new_value': '香港天文台', 'old_value': 'lang'}}}

@@ -1,0 +1,8 @@
+20: {'dictionary_item_removed': {"root['agency_name']": 'Bureau of Labor Statistics', "root['employees']": '1,000', "root['chief1_name']": 'Keith Hall', "root['chief1_position']": 'Commissioner'}}
+23: {'values_changed': {"root['employees']": {'new_value': '1,000', 'old_value': '2,500'}}}
+34: {'dictionary_item_removed': {"root['budget']": '$618.2 million <ref name', "root['chief2_name']": 'William J. Wiatrowski', "root['chief2_position']": 'Deputy Commissioner <ref name'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Keith Hall', 'old_value': 'Erica Groshen<ref name'}, "root['chief1_position']": {'new_value': 'Commissioner', 'old_value': 'Commissioner <ref name'}}}
+35: {'values_changed': {"root['budget']": {'new_value': '$618.2 million <ref name', 'old_value': '$609 million <ref name'}, "root['chief1_name']": {'new_value': 'Erica Groshen<ref name', 'old_value': 'William J. Wiatrowski (Acting)'}}}
+37: {'values_changed': {"root['chief2_position']": {'new_value': 'Deputy Commissioner <ref name', 'old_value': 'Deputy Commissioner<ref name'}}}
+44: {'dictionary_item_removed': {"root['logo_width']": '200'}}
+46: {'values_changed': {"root['budget']": {'new_value': '$609 million <ref name', 'old_value': '$609 million<ref name'}, "root['chief1_name']": {'new_value': 'William J. Wiatrowski (Acting)', 'old_value': 'William Beach (economist)'}, "root['chief1_position']": {'new_value': 'Commissioner <ref name', 'old_value': 'Commissioner<ref name'}}}
+51: {'values_changed': {"root['budget']": {'new_value': '$609 million<ref name', 'old_value': '$655 million (2021)<ref name'}}}

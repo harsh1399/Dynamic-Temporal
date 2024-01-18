@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Ministry of the Interior (Republic of China)', "root['nativename_a']": '內政部 (中華民國)', "root['chief1_name']": 'Lee Hong-yuan', "root['chief1_position']": 'Minister for Interior'}}
+2: {'dictionary_item_removed': {"root['nativename_r']": 'Nèizhèng Bù'}, 'values_changed': {"root['agency_name']": {'new_value': 'Ministry of the Interior (Republic of China)', 'old_value': 'Ministry of the Interior'}, "root['nativename_a']": {'new_value': '內政部 (中華民國)', 'old_value': '內政部'}}}
+3: {'values_changed': {"root['chief1_position']": {'new_value': 'Minister for Interior', 'old_value': 'Minister'}}}
+5: {'values_changed': {"root['nativename_r']": {'new_value': 'Nèizhèng Bù', 'old_value': 'Nèizhèngbù'}}}
+7: {'dictionary_item_added': {"root['chief1_name']": 'Lee Hong-yuan', "root['chief1_position']": 'Minister'}, 'dictionary_item_removed': {"root['minister1_name']": 'Lee Hong-yuan', "root['minister1_pfo']": 'Minister'}}
+13: {'dictionary_item_removed': {"root['minister2_name']": 'Lin Tzu-ling', "root['minister2_pfo']": 'Deputy Minister'}}
+18: {'values_changed': {"root['minister2_pfo']": {'new_value': 'Deputy Minister', 'old_value': 'Administrative Deputy Minister http://standards.moi.gov.tw/index.php?menu'}}}
+19: {'dictionary_item_removed': {"root['minister3_name']": 'Hsiao Chia-chi', "root['minister3_pfo']": 'Deputy Minister'}}

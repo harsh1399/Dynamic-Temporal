@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Mexico, Office for Domestic Affairs', "root['nativename']": 'Secretaría de Gobernación', "root['chief1_name']": 'Olga Sánchez Cordero', "root['chief1_position']": 'Director', "root['child3_agency']": 'Centro de Investigación y Seguridad Nacional (México)', "root['child4_agency']": 'Instituto Nacional de Migración'}}
+1: {'values_changed': {"root['chief1_position']": {'new_value': 'Director', 'old_value': 'Secretary'}}}
+5: {'dictionary_item_removed': {"root['picture']": 'OFICINAS_CENTRALES_DE_LA_SECRETARIA_DE_GOBERNACION.jpg', "root['picture_caption']": 'Head Office of the Interior'}}
+10: {'values_changed': {"root['agency_name']": {'new_value': 'Mexico, Office for Domestic Affairs', 'old_value': 'Mexico, Secretariat for Home Affairs'}}}

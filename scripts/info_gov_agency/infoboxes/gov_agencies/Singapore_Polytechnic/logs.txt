@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Singapore Polytechnic 新加坡理工学院', "root['established']": '1954', "root['staff']": 'Approx. 1 500', "root['principal']": 'Tan Choon Shian', "root['students']": 'Approx 15 900', "root['city']": 'Dover, Singapore', "root['country']": 'Singapore', "root['campus']": '38 hectares'}}
+61: {'dictionary_item_added': {"root['staff']": 'Approx. 1 500', "root['country']": 'Singapore'}, 'dictionary_item_removed': {"root['chairperson']": 'Mr Voo Zhan Li'}, 'values_changed': {"root['name']": {'new_value': 'Singapore Polytechnic 新加坡理工学院', 'old_value': 'Singapore Polytechnic'}, "root['established']": {'new_value': '1954', 'old_value': 'Start date and age'}, "root['principal']": {'new_value': 'Tan Choon Shian', 'old_value': 'Mr Soh Wai Wah'}, "root['students']": {'new_value': 'Approx 15 900', 'old_value': 'Approx 15,900'}, "root['city']": {'new_value': 'Dover, Singapore', 'old_value': '500 Dover Road, Singapore 139651'}, "root['campus']": {'new_value': '38 hectares', 'old_value': 'cvt'}}}
+66: {'values_changed': {"root['chairperson']": {'new_value': 'Mr Voo Zhan Li', 'old_value': 'Mr teo yixun'}}}
+67: {'values_changed': {"root['chairperson']": {'new_value': 'Mr teo yixun', 'old_value': 'Mr Teo Yixun'}}}
+68: {'values_changed': {"root['chairperson']": {'new_value': 'Mr Teo Yixun', 'old_value': 'Ms Janet Ang'}}}
+69: {'values_changed': {"root['chairperson']": {'new_value': 'Ms Janet Ang', 'old_value': 'Janet Ang'}, "root['principal']": {'new_value': 'Mr Soh Wai Wah', 'old_value': 'Soh Wai Wah'}}}
+73: {'values_changed': {"root['principal']": {'new_value': 'Soh Wai Wah', 'old_value': 'Queenie'}}}
+74: {'values_changed': {"root['principal']": {'new_value': 'Queenie', 'old_value': 'Soh Wai Wah'}}}
+88: {'values_changed': {"root['students']": {'new_value': 'Approx 15,900', 'old_value': '15,900'}}}
+106: {'dictionary_item_removed': {"root['module']": 'Infobox government agency'}}
+108: {'dictionary_item_added': {"root['city']": '500 Dover Road, Singapore 139651'}, 'dictionary_item_removed': {"root['location']": '500 Dover Road, Singapore 139651'}}
+113: {'values_changed': {"root['chairperson']": {'new_value': 'Janet Ang', 'old_value': 'Handojo'}}}
+114: {'values_changed': {"root['chairperson']": {'new_value': 'Handojo', 'old_value': 'Janet Ang'}}}
+125: {'values_changed': {"root['principal']": {'new_value': 'Soh Wai Wah', 'old_value': 'Ching Hao Ran'}}}
+126: {'values_changed': {"root['principal']": {'new_value': 'Ching Hao Ran', 'old_value': 'Soh Wai Wah'}}}
+159: {'dictionary_item_removed': {"root['mottoeng']": 'To serve with skill (1960–2014) To serve with mastery (2014–2022)'}}
+162: {'values_changed': {"root['mottoeng']": {'new_value': 'To serve with skill (1960–2014) To serve with mastery (2014–2022)', 'old_value': 'To serve with skill (1960–2014) , To serve with mastery (2014–2022) , Transformation Made Possible (2022–present)'}}}
+163: {'values_changed': {"root['mottoeng']": {'new_value': 'To serve with skill (1960–2014) , To serve with mastery (2014–2022) , Transformation Made Possible (2022–present)', 'old_value': 'To serve with skill (1960–2014) To serve with mastery (2014–2022)'}}}

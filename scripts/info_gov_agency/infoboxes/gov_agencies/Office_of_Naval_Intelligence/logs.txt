@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Office of Naval Intelligence', "root['abbreviation']": 'ONI', "root['employees']": 'circa 3,000 (civilian and military)', "root['budget']": 'Classified information', "root['chief1_name']": 'Rear Admiral', "root['chief2_name']": 'Michael E. Waschull,,  Deputy Commander'}}
+17: {'dictionary_item_added': {"root['abbreviation']": 'ONI'}, 'values_changed': {"root['agency_name']": {'new_value': 'Office of Naval Intelligence', 'old_value': 'Office of Naval intelligence'}}}
+19: {'dictionary_item_removed': {"root['abbreviation']": 'ONI'}, 'values_changed': {"root['agency_name']": {'new_value': 'Office of Naval intelligence', 'old_value': 'Office of Naval Intelligence'}}}
+20: {'values_changed': {"root['chief2_name']": {'new_value': 'Michael E. Waschull,,  Deputy Commander', 'old_value': 'TBD,,  Deputy Commander'}}}
+21: {'dictionary_item_removed': {"root['chief2_position']": 'Deputy Commander (Acting)', "root['chief1_position']": 'chief3_name'}, 'values_changed': {"root['chief2_name']": {'new_value': 'TBD,,  Deputy Commander', 'old_value': 'Michael R. Borland'}}}
+26: {'values_changed': {"root['chief2_name']": {'new_value': 'Michael R. Borland', 'old_value': 'Mr. Andrew Richardson'}, "root['chief2_position']": {'new_value': 'Deputy Commander (Acting)', 'old_value': 'Deputy Commander'}}}
+27: {'values_changed': {"root['chief1_name']": {'new_value': 'Rear Admiral', 'old_value': 'Rear admiral (United States)'}, "root['chief2_name']": {'new_value': 'Mr. Andrew Richardson', 'old_value': 'Andrew Richardson'}}}
+28: {'dictionary_item_added': {"root['abbreviation']": 'ONI'}, 'values_changed': {"root['agency_name']": {'new_value': 'Office of Naval Intelligence', 'old_value': 'Office of Naval Intelligence (ONI)'}}}

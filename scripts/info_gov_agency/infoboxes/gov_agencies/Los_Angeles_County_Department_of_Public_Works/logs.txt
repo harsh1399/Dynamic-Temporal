@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Los Angeles County Department of Public Works', "root['preceding3']": 'Road Commissioner', "root['employees']": '4,269 (2015)<ref name', "root['budget']": '$1,932,033,000 (2010)<ref name', "root['chief1_name']": 'Gail Farber', "root['chief1_position']": 'Director'}}
+3: {'values_changed': {"root['chief1_name']": {'new_value': 'Gail Farber', 'old_value': 'Pat Proano'}, "root['chief1_position']": {'new_value': 'Director', 'old_value': 'Acting Director'}}}
+4: {'values_changed': {"root['chief1_name']": {'new_value': 'Pat Proano', 'old_value': 'Mark Pastrella'}, "root['chief1_position']": {'new_value': 'Acting Director', 'old_value': 'Acting Director, currently the Chief Deputy Director'}}}
+6: {'values_changed': {"root['chief1_name']": {'new_value': 'Mark Pastrella', 'old_value': 'Gail Farber'}, "root['chief1_position']": {'new_value': 'Acting Director, currently the Chief Deputy Director', 'old_value': 'Director'}}}
+7: {'values_changed': {"root['employees']": {'new_value': '4,269 (2015)<ref name', 'old_value': '4,269 (2016)<ref name'}}}
+8: {'values_changed': {"root['employees']": {'new_value': '4,269 (2016)<ref name', 'old_value': '4,269 (2016)'}, "root['budget']": {'new_value': '$1,932,033,000 (2010)<ref name', 'old_value': '$2,448,066,000 (2016)'}}}
+13: {'values_changed': {"root['preceding3']": {'new_value': 'Road Commissioner', 'old_value': 'Road Department'}}}
+20: {'values_changed': {"root['chief1_name']": {'new_value': 'Gail Farber', 'old_value': 'Mark Pestrella'}}}

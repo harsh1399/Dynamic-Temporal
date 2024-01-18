@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Executive Office of the President', "root['employees']": 'Approx 4000', "root['chief1_name']": 'Denis McDonough', "root['chief1_position']": 'Chief of Staff'}}
+43: {'values_changed': {"root['chief1_position']": {'new_value': 'Chief of Staff', 'old_value': 'White House Chief of Staff'}}}
+45: {'values_changed': {"root['employees']": {'new_value': 'Approx 4000', 'old_value': 'Approximately 4,000'}}}
+61: {'values_changed': {"root['chief1_name']": {'new_value': 'Denis McDonough', 'old_value': 'Reince Priebus'}}}
+93: {'values_changed': {"root['agency_name']": {'new_value': 'Executive Office of the President', 'old_value': 'Executive Office of the President.'}}}
+96: {'values_changed': {"root['agency_name']": {'new_value': 'Executive Office of the President.', 'old_value': 'Executive Office of the President'}}}
+109: {'values_changed': {"root['chief1_name']": {'new_value': 'Reince Priebus', 'old_value': 'Owen Morris'}}}
+111: {'values_changed': {"root['chief1_name']": {'new_value': 'Owen Morris', 'old_value': 'Reince Priebus'}}}
+135: {'values_changed': {"root['employees']": {'new_value': 'Approximately 4,000', 'old_value': 'About 4,000'}}}
+150: {'dictionary_item_added': {"root['agency_name']": 'Executive Office of the President'}, 'values_changed': {"root['employees']": {'new_value': 'About 4,000', 'old_value': 'About WDa 4,000r oho'}}}
+151: {'dictionary_item_removed': {"root['agency_name']": 'Executive Office of the President'}, 'values_changed': {"root['employees']": {'new_value': 'About WDa 4,000r oho', 'old_value': 'About 4,000'}}}
+154: {'values_changed': {"root['chief1_name']": {'new_value': 'Reince Priebus', 'old_value': 'John Kelly'}}}
+155: {'values_changed': {"root['chief1_name']": {'new_value': 'John Kelly', 'old_value': 'John F. Kelly'}}}

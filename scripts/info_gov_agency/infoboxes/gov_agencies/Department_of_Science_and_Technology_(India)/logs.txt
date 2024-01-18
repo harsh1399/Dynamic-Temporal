@@ -1,0 +1,8 @@
+21: {'dictionary_item_removed': {"root['name']": 'Department of Science & Technology', "root['budget']": 'INRConvert', "root['minister1_name']": 'Harsh Vardhan (Delhi politician)', "root['minister1_pfo']": 'Minister of Science and Technology (India)', "root['chief1_name']": 'Ashutosh Sharma (scientist)', "root['chief1_position']": 'Secretary'}}
+49: {'values_changed': {"root['minister1_name']": {'new_value': 'Harsh Vardhan (Delhi politician)', 'old_value': 'Mr. Jitendra Singh'}}}
+50: {'values_changed': {"root['minister1_name']": {'new_value': 'Mr. Jitendra Singh', 'old_value': 'Jitendra Singh'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'Department of Science & Technology', 'old_value': 'Department of Science & Technolog'}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Department of Science & Technolog', 'old_value': 'Department of Science & Technology'}, "root['minister1_name']": {'new_value': 'Jitendra Singh', 'old_value': 'Jitendra Singha'}}}
+58: {'values_changed': {"root['minister1_name']": {'new_value': 'Jitendra Singha', 'old_value': 'Jitendra Singh'}}}
+59: {'values_changed': {"root['chief1_name']": {'new_value': 'Ashutosh Sharma (scientist)', 'old_value': 'M Ravichandran'}}}
+61: {'values_changed': {"root['chief1_name']": {'new_value': 'M Ravichandran', 'old_value': 'Muthalagu Ravichandran'}}}

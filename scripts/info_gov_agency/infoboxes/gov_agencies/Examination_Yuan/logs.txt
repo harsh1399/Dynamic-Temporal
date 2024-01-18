@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'Examination Yuan', "root['nativename_a']": '考試院', "root['nativename_r']": 'Kǎoshì Yuàn', "root['chief1_name']": 'John Kuan', "root['chief1_position']": 'President of the Examination Yuan'}}
+6: {'dictionary_item_removed': {"root['chief2_name']": 'Wu Jin-lin', "root['chief2_position']": 'Vice President', "root['chief3_name']": 'Hwang Yea-baang', "root['chief3_position']": 'Secretary-General', "root['chief4_name']": 'Yuan Tze-yu', "root['chief4_position']": 'Deputy Secretary-General http://www.exam.gov.tw/cp.asp?xItem'}}
+13: {'dictionary_item_added': {"root['nativename_a']": '考試院', "root['nativename_r']": 'Kǎoshì Yuàn'}, 'dictionary_item_removed': {"root['nativename']": '考試院'}}
+18: {'values_changed': {"root['chief1_name']": {'new_value': 'John Kuan', 'old_value': 'Wu Jin-lin'}, "root['chief2_name']": {'new_value': 'Wu Jin-lin', 'old_value': 'Kao Yuang-kuang'}}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['agency_name']": 'The Electoral Commission', "root['employees']": '156 (March 2009)', "root['budget']": '£23.5 million (estimate 2009-10)'}}
+27: {'values_changed': {"root['employees']": {'new_value': '156 (March 2009)', 'old_value': '132 (July 2019)'}}}
+28: {'values_changed': {"root['budget']": {'new_value': '£23.5 million (estimate 2009-10)', 'old_value': '£18.4 million (estimate 2019-20)'}}}
+42: {'values_changed': {"root['employees']": {'new_value': '132 (July 2019)', 'old_value': '132 (July 2019)  Citation'}, "root['budget']": {'new_value': '£18.4 million (estimate 2019-20)', 'old_value': '£18.4 million (estimate 2019-20)  Citation'}}}
+49: {'dictionary_item_removed': {"root['chief1_name']": 'Bob Posner', "root['chief1_position']": 'Chief Executive Officer'}, 'values_changed': {"root['employees']": {'new_value': '132 (July 2019)  Citation', 'old_value': '143 (December 2020)  Citation'}}}
+62: {'values_changed': {"root['employees']": {'new_value': '143 (December 2020)  Citation', 'old_value': '143 (December 2020) Citation'}, "root['budget']": {'new_value': '£18.4 million (estimate 2019-20)  Citation', 'old_value': '£18.4 million (estimate 2019-20) Citation'}}}
+80: {'dictionary_item_added': {"root['chief1_position']": 'Chief Executive Officer'}, 'values_changed': {"root['chief1_name']": {'new_value': 'Bob Posner', 'old_value': 'Shaun McNally CBE Citation'}}}
