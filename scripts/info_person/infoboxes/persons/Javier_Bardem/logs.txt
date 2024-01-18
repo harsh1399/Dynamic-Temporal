@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Javier Ángel Encinas Bardem', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Las Palmas de Gran Canaria, Spain', "root['occupation']": 'Actor', "root['yearsactive']": '1990 &ndash; present | '}}
+4: {'values_changed': {"root['yearsactive']": {'new_value': '1990 &ndash; present | ', 'old_value': '1990&ndash;present | '}}}
+22: {'values_changed': {"root['birthname']": {'new_value': 'Javier Ángel Encinas Bardem', 'old_value': 'Jeffrey Dean Morgan'}}}
+23: {'values_changed': {"root['birthname']": {'new_value': 'Jeffrey Dean Morgan', 'old_value': 'Javier Angel Encinas Bardem'}}}
+53: {'dictionary_item_removed': {"root['spouse']": 'Penelope Cruz (2010-present) | '}, 'values_changed': {"root['yearsactive']": {'new_value': '1990&ndash;present | ', 'old_value': '1990&ndash;present'}}}
+63: {'values_changed': {"root['spouse']": {'new_value': 'Penelope Cruz (2010-present) | ', 'old_value': 'Penélope Cruz (2010-present) | '}}}
+68: {'values_changed': {"root['spouse']": {'new_value': 'Penélope Cruz (2010-present) | ', 'old_value': 'Penélope Cruz (m. 2010-present) | '}}}
+77: {'values_changed': {"root['spouse']": {'new_value': 'Penélope Cruz (m. 2010-present) | ', 'old_value': 'Penélope Cruz (m. 2010–present) | '}}}
+96: {'values_changed': {"root['yearsactive']": {'new_value': '1990&ndash;present', 'old_value': '1990–present'}, "root['spouse']": {'new_value': 'Penélope Cruz (m. 2010–present) | ', 'old_value': 'Penélope Cruz (m. 2010–present) '}}}
+122: {'dictionary_item_added': {"root['birthname']": 'Javier Angel Encinas Bardem', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Las Palmas de Gran Canaria, Spain', "root['yearsactive']": '1990–present'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor and cock sucker PORN STAR'}}}
+123: {'values_changed': {"root['occupation']": {'new_value': 'Actor and cock sucker PORN STAR', 'old_value': 'Actor'}}}
+181: {'dictionary_item_removed': {"root['residence']": 'Madrid, Spain', "root['children']": '2'}, 'values_changed': {"root['spouse']": {'new_value': 'Penélope Cruz (m. 2010–present) ', 'old_value': 'marriage'}}}
+207: {'values_changed': {"root['residence']": {'new_value': 'Madrid, Spain', 'old_value': 'butt, Spain'}}}
+208: {'values_changed': {"root['residence']": {'new_value': 'butt, Spain', 'old_value': 'Madrid, Spain'}}}

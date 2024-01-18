@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kylie Minogue', "root['residence']": 'Chelsea, London, England', "root['occupation']": 'Flatlist', "root['background']": 'solo_singer', "root['genre']": 'Flatlist', "root['instrument']": 'Vocals', "root['label']": 'Flatlist'}}
+132: {'values_changed': {"root['residence']": {'new_value': 'Chelsea, London, England', 'old_value': 'Chelsea, London, England, United Kingdom'}}}
+133: {'values_changed': {"root['residence']": {'new_value': 'Chelsea, London, England, United Kingdom', 'old_value': 'Chelsea, London, United Kingdom'}}}
+137: {'values_changed': {"root['residence']": {'new_value': 'Chelsea, London, United Kingdom', 'old_value': 'Chelsea, London, England'}}}
+174: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}, 'dictionary_item_removed': {"root['awards']": 'List of awards and nominations received by Kylie Minogue', "root['associated_acts']": 'Kylie and Garibay '}}
+227: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer-songwriter, actress', 'new_value': []}}}
+228: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer-songwriter, actress'}}}
+304: {'dictionary_item_added': {"root['residence']": 'Chelsea, London, England'}, 'dictionary_item_removed': {"root['net_worth']": 'AU $109 million<ref name'}}
+305: {'values_changed': {"root['net_worth']": {'new_value': 'AU $109 million<ref name', 'old_value': 'AU $109 million (2020 estimate)<ref name'}}}
+319: {'type_changes': {"root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Steve Anderson (musician)'], 'new_value': 'Kylie and Garibay '}}}
+320: {'iterable_item_added': {"root['associated_acts'][0]": 'Steve Anderson (musician)'}}
+364: {'dictionary_item_removed': {"root['partner']": 'Paul Solomons'}}

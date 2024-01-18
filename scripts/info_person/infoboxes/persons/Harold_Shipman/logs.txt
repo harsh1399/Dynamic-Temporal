@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Harold Shipman', "root['birthname']": 'Harold Fredrick Shipman', "root['alias']": '"Dr. Death"', "root['cause']": 'Suicide by hanging', "root['victims']": '250+', "root['country']": 'England, United Kingdom', "root['beginyear']": '1975', "root['endyear']": '1998', "root['apprehended']": '7 September 1998', "root['penalty']": 'Life imprisonment plus 4 years for forgery '}}
+16: {'values_changed': {"root['alias']": {'new_value': '"Dr. Death"', 'old_value': '"Dr. Death", "The Angel Of Death"'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman YNWA'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman YNWA', 'old_value': 'Harold Shipman'}}}
+39: {'values_changed': {"root['alias']": {'new_value': '"Dr. Death", "The Angel Of Death"', 'old_value': '"Dr. Death", "The Angel Of Death" "Dirty Santa"'}}}
+40: {'values_changed': {"root['alias']": {'new_value': '"Dr. Death", "The Angel Of Death" "Dirty Santa"', 'old_value': '"Dr. Death", "The Angel Of Death"'}}}
+51: {'dictionary_item_added': {"root['birthname']": 'Harold Fredrick Shipman'}, 'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman (Simis Mom)'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman (Simis Mom)', 'old_value': 'Harold Shipman'}}}
+54: {'dictionary_item_added': {"root['cause']": 'Suicide by hanging'}, 'values_changed': {"root['penalty']": {'new_value': 'Life imprisonment plus 4 years for forgery ', 'old_value': 'Life imprisonment (Whole life tarrif) plus 4 years for forgery '}}}
+55: {'values_changed': {"root['penalty']": {'new_value': 'Life imprisonment (Whole life tarrif) plus 4 years for forgery ', 'old_value': 'Life imprisonment (Whole life tariff) plus 4 years for forgery '}}}
+63: {'values_changed': {"root['alias']": {'new_value': '"Dr. Death", "The Angel Of Death"', 'old_value': '"Dr. Death",'}}}
+64: {'values_changed': {"root['alias']": {'new_value': '"Dr. Death",', 'old_value': '"Dr. Death",, "The Angel Of Death"'}}}
+96: {'dictionary_item_removed': {"root['occupation']": 'General practitioner', "root['spouse']": 'marriage', "root['children']": '4'}, 'values_changed': {"root['alias']": {'new_value': '"Dr. Death",, "The Angel Of Death"', 'old_value': '"Dr Death", "The Angel Of Death", "The Good Doctor"'}, "root['country']": {'new_value': 'England, United Kingdom', 'old_value': 'England'}, "root['penalty']": {'new_value': 'Life imprisonment (Whole life tariff) plus 4 years for forgery ', 'old_value': 'Life imprisonment (Whole life order) plus 4 years for forgery '}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman Dave’s dad'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman Dave’s dad', 'old_value': 'Harold Shipman'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman Dave’s dad'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman Dave’s dad', 'old_value': 'Harold Shipman'}}}
+132: {'values_changed': {"root['penalty']": {'new_value': 'Life imprisonment (Whole life order) plus 4 years for forgery ', 'old_value': 'New house in bootle  (Whole life order) plus 4 years for forgery '}}}
+133: {'values_changed': {"root['penalty']": {'new_value': 'New house in bootle  (Whole life order) plus 4 years for forgery ', 'old_value': 'Life imprisonment (Whole life order) plus 4 years for forgery '}}}
+134: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman Dave’s dad'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman Dave’s dad', 'old_value': 'Harold Shipman'}}}
+173: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Fishman'}}}
+174: {'values_changed': {"root['name']": {'new_value': 'Harold Fishman', 'old_value': 'Harold Shipman'}}}
+194: {'values_changed': {"root['alias']": {'new_value': '"Dr Death", "The Angel Of Death", "The Good Doctor"', 'old_value': '"The TeaBagger", "The Good Doctor"'}}}
+196: {'values_changed': {"root['alias']": {'new_value': '"The TeaBagger", "The Good Doctor"', 'old_value': '"Dr Death", "The Angel Of Death", "The Good Doctor"'}}}
+201: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman topping'}, "root['children']": {'new_value': '4', 'old_value': 'David topping'}}}
+202: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman topping', 'old_value': 'Harold Shipman'}, "root['children']": {'new_value': 'David topping', 'old_value': '4'}}}
+203: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman Topping'}}}
+204: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman Topping', 'old_value': 'Harold Shipman'}}}
+205: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold Shipman Topping'}}}
+206: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman Topping', 'old_value': 'Harold Shipman'}}}
+210: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Harold The Machine Shipman'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Harold The Machine Shipman', 'old_value': 'Harold Shipman'}}}
+219: {'values_changed': {"root['alias']": {'new_value': '"Dr Death", "The Angel Of Death", "The Good Doctor"', 'old_value': '"Dr Death", "The Angel of Death"'}}}
+220: {'values_changed': {"root['alias']": {'new_value': '"Dr Death", "The Angel of Death"', 'old_value': '"Dr Death", "The Angel Of Death", "The Good Doctor"'}}}
+226: {'values_changed': {"root['country']": {'new_value': 'England', 'old_value': 'United Kingdom'}}}
+227: {'values_changed': {"root['country']": {'new_value': 'United Kingdom', 'old_value': 'England'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Osama Shipman'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'Osama Shipman', 'old_value': 'Harold Shipman'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Harold Shipman', 'old_value': 'Paul teague'}}}
+247: {'values_changed': {"root['name']": {'new_value': 'Paul teague', 'old_value': 'Harold Shipman'}}}

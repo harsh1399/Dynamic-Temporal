@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Willie Nelson', "root['Img']": 'WillieNelson.jpg', "root['Background']": 'solo_singer', "root['Birth_name']": 'Willie Hugh Nelson', "root['Born']": 'birth date and age', "root['Origin']": 'Abbott, Texas', "root['Instrument']": 'Steel-string guitar', "root['Genre']": 'Country music', "root['Occupation']": 'Singer, Songwriter, Guitarist, Music producer', "root['Years_active']": '1956 &ndash; Present', "root['Label']": 'Liberty Records', "root['Associated_acts']": 'Waylon Jennings, The Highwaymen (country supergroup)', "root['URL']": 'http://www.willienelson.com/ www.willienelson.com', "root['Notable_instruments']": '"Trigger" (Martin N-20) |'}}
+65: {'values_changed': {"root['Name']": {'new_value': 'Willie Nelson', 'old_value': 'Willie "Fuck Hat" Nelson'}}}
+66: {'values_changed': {"root['Name']": {'new_value': 'Willie "Fuck Hat" Nelson', 'old_value': 'Willie Nelson'}}}
+108: {'dictionary_item_added': {"root['Name']": 'Willie Nelson'}, 'dictionary_item_removed': {"root['NAME']": 'ALTERNATIVE NAMES'}, 'values_changed': {"root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20) |', 'old_value': '"Trigger" (Martin N-20)'}}}
+109: {'dictionary_item_added': {"root['NAME']": 'ALTERNATIVE NAMES'}, 'values_changed': {"root['Born']": {'new_value': 'birth date and age', 'old_value': '{birth date and age'}, "root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20)', 'old_value': '"Trigger" (Martin N-20) |'}}}
+117: {'values_changed': {"root['Born']": {'new_value': '{birth date and age', 'old_value': 'April 10, 1933 (Age 76)'}, "root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20) |', 'old_value': '"Trigger" (Martin N-20) |}'}}}
+118: {'values_changed': {"root['Born']": {'new_value': 'April 10, 1933 (Age 76)', 'old_value': 'birth date and age'}, "root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20) |}', 'old_value': '"Trigger" (Martin N-20) |'}}}
+119: {'values_changed': {"root['Birth_name']": {'new_value': 'Willie Hugh Nelson', 'old_value': 'William Hugh Nelson'}}}
+125: {'values_changed': {"root['Birth_name']": {'new_value': 'William Hugh Nelson', 'old_value': 'Willie Hugh Nelson'}}}
+128: {'values_changed': {"root['Birth_name']": {'new_value': 'Willie Hugh Nelson', 'old_value': 'William Hugh Nelson'}}}
+132: {'values_changed': {"root['Birth_name']": {'new_value': 'William Hugh Nelson', 'old_value': 'Willie Hugh Nelson'}}}
+143: {'dictionary_item_added': {"root['Notable_instruments']": '"Trigger" (Martin N-20) |'}, 'dictionary_item_removed': {"root['NAME']": 'ALTERNATIVE NAMES'}}
+144: {'dictionary_item_added': {"root['NAME']": 'ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['Notable_instruments']": '"Trigger" (Martin N-20) |'}}
+145: {'dictionary_item_removed': {"root['NAME']": 'ALTERNATIVE NAMES'}, 'values_changed': {"root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20) |', 'old_value': '"Trigger" (Martin N-20)'}}}
+150: {'dictionary_item_added': {"root['NAME']": 'ALTERNATIVE NAMES'}, 'values_changed': {"root['Notable_instruments']": {'new_value': '"Trigger" (Martin N-20)', 'old_value': '"Trigger" (Martin N-20) '}}}
+180: {'dictionary_item_added': {"root['Origin']": 'Abbott, Texas'}, 'dictionary_item_removed': {"root['Birthplace']": 'Abbott, Texas'}}
+220: {'values_changed': {"root['Img']": {'new_value': 'WillieNelson.jpg', 'old_value': 'Willm,m,m,m,m.jpg'}}}
+221: {'values_changed': {"root['Img']": {'new_value': 'Willm,m,m,m,m.jpg', 'old_value': 'WillieNelson.jpg'}}}
+241: {'values_changed': {"root['Occupation']": {'new_value': 'Singer, Songwriter, Guitarist, Music producer', 'old_value': 'Singer-songwriter, musician, Music producer'}}}
+277: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'gay'}}}
+278: {'values_changed': {"root['Background']": {'new_value': 'gay', 'old_value': 'solo_singer'}}}
+324: {'values_changed': {"root['Birth_name']": {'new_value': 'Willie Hugh Nelson', 'old_value': 'Jimbo Matthews'}}}
+325: {'values_changed': {"root['Birth_name']": {'new_value': 'Jimbo Matthews', 'old_value': 'Willie Hugh Nelson'}}}
+329: {'dictionary_item_added': {"root['Birthplace']": 'Abbott, Texas'}, 'dictionary_item_removed': {"root['Origin']": 'Abbott, Texas'}}
+330: {'values_changed': {"root['Years_active']": {'new_value': '1956 &ndash; Present', 'old_value': '1956&ndash;present'}}}

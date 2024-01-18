@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actress, model'}}
+59: {'dictionary_item_removed': {"root['networth']": 'profit $42 million <ref name'}}
+62: {'dictionary_item_added': {"root['networth']": 'profit $42 million <ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, model', 'old_value': 'Actress, Model (person)'}}}
+104: {'dictionary_item_removed': {"root['alma_mater']": 'Brown University   Worcester College, Oxford University'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, Model (person)', 'old_value': 'Actress   Model (profession)'}}}
+105: {'dictionary_item_added': {"root['alma_mater']": 'Brown University   Worcester College, Oxford University'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress   Model (profession)', 'old_value': 'Actress, Model (person)'}}}
+116: {'dictionary_item_removed': {"root['alma_mater']": 'Stagecoach Theatre Arts ,  Brown University ,  Worcester College, Oxford University'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, Model (person)', 'old_value': 'Actress ,  Model (profession)'}}}
+137: {'values_changed': {"root['alma_mater']": {'new_value': 'Stagecoach Theatre Arts ,  Brown University ,  Worcester College, Oxford University', 'old_value': 'Dragon School'}}}
+144: {'values_changed': {"root['occupation']": {'new_value': 'Actress ,  Model (profession)', 'old_value': 'Flat list'}, "root['alma_mater']": {'new_value': 'Dragon School', 'old_value': 'Flat list'}}}
+146: {'values_changed': {"root['alma_mater']": {'new_value': 'Flat list', 'old_value': 'Oxford University'}}}
+149: {'values_changed': {"root['alma_mater']": {'new_value': 'Oxford University', 'old_value': 'Brown University  Oxford University'}}}
+150: {'values_changed': {"root['alma_mater']": {'new_value': 'Brown University  Oxford University', 'old_value': 'Oxford University'}}}
+154: {'values_changed': {"root['alma_mater']": {'new_value': 'Oxford University', 'old_value': 'University of Oxford'}}}
+178: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Oxford', 'old_value': 'Brown University, Worcester College, Oxford'}}}
+180: {'values_changed': {"root['alma_mater']": {'new_value': 'Brown University, Worcester College, Oxford', 'old_value': 'Worcester College, Oxford '}}}
+181: {'dictionary_item_added': {"root['alma_mater']": 'Worcester College, Oxford '}, 'dictionary_item_removed': {"root['rowspan']": '"3"', "root['NAME']": 'Watson, Emma |ALTERNATIVE NAMES'}}
+182: {'dictionary_item_added': {"root['rowspan']": '"3"', "root['NAME']": 'Watson, Emma |ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['alma_mater']": 'Worcester College, Oxford '}}
+185: {'dictionary_item_added': {"root['alma_mater']": 'Worcester College, Oxford '}, 'dictionary_item_removed': {"root['education']": 'Worcester College, Oxford '}}
+220: {'dictionary_item_added': {"root['education']": 'Worcester College, Oxford '}, 'dictionary_item_removed': {"root['Spouse']": 'Kan Baghban (2013)'}}

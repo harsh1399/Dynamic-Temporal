@@ -1,0 +1,11 @@
+121: {'dictionary_item_removed': {"root['name']": 'Jean Baptiste Point du Sable', "root['known_for']": '"Founder of Chicago"'}}
+242: {'values_changed': {"root['known_for']": {'new_value': '"Founder of Chicago"', 'old_value': 'Founder of Chicago'}}}
+247: {'values_changed': {"root['known_for']": {'new_value': 'Founder of Chicago', 'old_value': '"Founder of Chicago"'}}}
+292: {'values_changed': {"root['known_for']": {'new_value': '"Founder of Chicago"', 'old_value': '"Founder File:\'\'Example.jpg\'\'\'\'\'Bold text\'\'\'of Chicago"'}}}
+293: {'values_changed': {"root['known_for']": {'new_value': '"Founder File:\'\'Example.jpg\'\'\'\'\'Bold text\'\'\'of Chicago"', 'old_value': '"Founder of Chicago"'}}}
+330: {'dictionary_item_removed': {"root['occupation']": 'Explorer, Trader '}}
+334: {'values_changed': {"root['occupation']": {'new_value': 'Explorer, Trader ', 'old_value': 'Trader '}}}
+335: {'values_changed': {"root['name']": {'new_value': 'Jean Baptiste Point du Sable', 'old_value': 'Jean Baptiste Point du Sable(not french but black)'}}}
+336: {'values_changed': {"root['name']": {'new_value': 'Jean Baptiste Point du Sable(not french but black)', 'old_value': 'Jean Baptiste Point du Sable'}}}
+354: {'values_changed': {"root['occupation']": {'new_value': 'Trader ', 'old_value': 'Trader erock '}}}
+355: {'values_changed': {"root['occupation']": {'new_value': 'Trader erock ', 'old_value': 'Trader '}}}

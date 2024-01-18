@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ashley Judd', "root['party']": 'Democratic Party (United States)', "root['occupation']": 'Actress', "root['spouse']": 'Dario Franchitti alma mat'}}
+6: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti alma mat', 'old_value': 'Rick Majerus alma mat'}}}
+7: {'values_changed': {"root['spouse']": {'new_value': 'Rick Majerus alma mat', 'old_value': 'Dario Franchitti alma mat'}}}
+16: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti alma mat', 'old_value': 'alma mat'}}}
+51: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Communist Party'}}}
+52: {'values_changed': {"root['party']": {'new_value': 'Communist Party', 'old_value': 'Democratic Party (United States)'}}}
+140: {'dictionary_item_removed': {"root['NAME']": 'Judd, Ashley |ALTERNATIVE'}, 'values_changed': {"root['spouse']": {'new_value': 'alma mat', 'old_value': 'Dario Franchitti, {2001-present; separated)'}}}
+150: {'dictionary_item_added': {"root['NAME']": 'Judd, Ashley |ALTERNATIVE'}, 'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, {2001-present; separated)', 'old_value': 'Dario Franchitti, (2001–present; separated) |alma mater'}}}
+151: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present; separated) |alma mater', 'old_value': 'Dario Franchitti, (2001– 2013; separated in January) |alma mater'}}}
+163: {'dictionary_item_removed': {"root['Parents']": 'Naomi Judd'}}
+175: {'dictionary_item_added': {"root['Parents']": 'Naomi Judd'}, 'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001– 2013; separated in January) |alma mater', 'old_value': 'Dario Franchitti, (2001 – present; separated) |alma mater'}}}
+188: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001 – present; separated) |alma mater', 'old_value': 'Dario Franchitti, (2001–present) |alma mater'}}}
+204: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present) |alma mater', 'old_value': 'Dario Franchitti, (2001–present:seperated) |alma mater'}}}
+211: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present:seperated) |alma mater', 'old_value': 'Dario Franchitti, (2001–present:separated) |alma mater'}}}
+212: {'dictionary_item_removed': {"root['alma_mater']": 'University of Kentucky, Harvard University '}, 'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present:separated) |alma mater', 'old_value': 'Dario Franchitti, (2001–present:separated)'}}}
+221: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present:separated)', 'old_value': 'Dario Franchitti, (2001–present; Separated)'}}}
+222: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present; Separated)', 'old_value': 'Dario Franchitti, (2001–present; separated)'}}}
+228: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–present; separated)', 'old_value': 'Dario Franchitti, (2001–13; divorced)'}}}
+229: {'dictionary_item_removed': {"root['religion']": 'Christian/Protestant'}}
+230: {'values_changed': {"root['religion']": {'new_value': 'Christian/Protestant', 'old_value': 'Christian'}}}
+234: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)', "root['religion']": 'Christian', "root['alma_mater']": 'University of Kentucky, Harvard University '}, 'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti, (2001–13; divorced)', 'old_value': 'Dario Franchitti (2001–2013; divorced) '}}}
+235: {'values_changed': {"root['spouse']": {'new_value': 'Dario Franchitti (2001–2013; divorced) ', 'old_value': 'Dario Franchitti '}}}
+250: {'values_changed': {"root['name']": {'new_value': 'Ashley Judd', 'old_value': 'Ashley CRUD'}}}
+251: {'values_changed': {"root['name']": {'new_value': 'Ashley CRUD', 'old_value': 'Ashley Judd'}}}

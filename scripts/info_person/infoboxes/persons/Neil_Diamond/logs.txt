@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Neil Diamond', "root['background']": 'solo_singer', "root['origin']": 'New York City, United States', "root['instrument']": 'Vocals, guitar, piano', "root['genre']": 'Rock music', "root['occupation']": 'Singer-songwriter, musician', "root['label']": 'Bang Records'}}
+59: {'dictionary_item_removed': {"root['alias']": 'Lim Eng Wah', "root['notable_instruments']": '| other names'}}
+95: {'dictionary_item_added': {"root['alias']": 'Lim Eng Wah', "root['notable_instruments']": '| other names'}, 'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, musician', 'old_value': 'Singer-songwriter'}}}
+127: {'dictionary_item_removed': {"root['associated_acts']": 'Bob Dylan, Johnny Cash.'}}
+144: {'dictionary_item_added': {"root['associated_acts']": 'Bob Dylan, Johnny Cash.'}, 'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Progressive metal'}}}
+145: {'values_changed': {"root['genre']": {'new_value': 'Progressive metal', 'old_value': 'Rock music'}}}
+163: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Pop music'}}}

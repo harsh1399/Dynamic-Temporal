@@ -1,0 +1,78 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Tina Turner', "root['Img']": 'Tina.Orlando2008.JPG', "root['Img_capt']": 'Tina Turner performing live in 2008', "root['Background']": 'solo_singer', "root['Birth_name']": 'Anna Mae Bullock', "root['Alias']": 'Tina Turner', "root['Born']": 'birth date and age', "root['Occupation']": 'Singer, songwriter, dancer, actor', "root['Genre']": 'rock music', "root['Instrument']": 'Singer', "root['Voice_type']": 'Voice classification in non-classical music', "root['Years_active']": '1958–present', "root['Label']": 'Capitol Records', "root['Associated_acts']": 'Ike & Tina Turner '}}
+22: {'values_changed': {"root['Occupation']": {'new_value': 'Singer, songwriter, dancer, actor', 'old_value': 'Singer, songwriter, dancer, author, actor'}}}
+31: {'values_changed': {"root['Name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner   birth name'}}}
+33: {'values_changed': {"root['Name']": {'new_value': 'Tina Turner   birth name', 'old_value': 'Tina Turner'}}}
+336: {'dictionary_item_removed': {"root['Origin']": 'is one of the original wonder twins, and has the power to become a bucket of north african raccoon dung'}}
+366: {'dictionary_item_added': {"root['Origin']": 'is one of the original wonder twins, and has the power to become a bucket of north african raccoon dung'}, 'values_changed': {"root['Name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner (America Yea)'}}}
+367: {'values_changed': {"root['Name']": {'new_value': 'Tina Turner (America Yea)', 'old_value': 'Tina Turner )'}}}
+369: {'values_changed': {"root['Name']": {'new_value': 'Tina Turner )', 'old_value': 'Tina Turner'}}}
+386: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner ', 'old_value': 'Ike & Tina Turner'}}}
+460: {'values_changed': {"root['Birth_name']": {'new_value': 'Anna Mae Bullock', 'old_value': 'Anna Mae Bullcock'}}}
+461: {'values_changed': {"root['Birth_name']": {'new_value': 'Anna Mae Bullcock', 'old_value': 'Anna Mae Bullock'}}}
+472: {'values_changed': {"root['Birth_name']": {'new_value': 'Anna Mae Bullock', 'old_value': 'Annie Mae Bullock'}}}
+473: {'values_changed': {"root['Birth_name']": {'new_value': 'Annie Mae Bullock', 'old_value': 'Anna Mae Bullock'}}}
+480: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner', 'old_value': 'Ike & Tina Turner '}}}
+481: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner ', 'old_value': 'Ike & Tina Turner'}}}
+486: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner', 'old_value': 'Ike & Tina Turner '}}}
+489: {'values_changed': {"root['Img_capt']": {'new_value': 'Tina Turner performing live in 2008', 'old_value': 'Tina Turner performing live in 2078'}}}
+490: {'values_changed': {"root['Img_capt']": {'new_value': 'Tina Turner performing live in 2078', 'old_value': 'Tina Turner performing live in 2008'}}}
+514: {'values_changed': {"root['Label']": {'new_value': 'Capitol Records', 'old_value': 'United Artists Records'}}}
+528: {'values_changed': {"root['Instrument']": {'new_value': 'Singer', 'old_value': 'Vocals'}}}
+533: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer de manele'}, "root['Birth_name']": {'new_value': 'Anna Mae Bullock', 'old_value': 'Anna Mae Bullock Venera'}, "root['Alias']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner Cacialmaua'}, "root['Years_active']": {'new_value': '1958–present', 'old_value': '1750–present'}}}
+534: {'values_changed': {"root['Years_active']": {'new_value': '1750–present', 'old_value': '1956–present'}}}
+539: {'values_changed': {"root['Background']": {'new_value': 'solo_singer de manele', 'old_value': 'solo_singer'}, "root['Birth_name']": {'new_value': 'Anna Mae Bullock Venera', 'old_value': 'Anna Mae Bullock'}, "root['Alias']": {'new_value': 'Tina Turner Cacialmaua', 'old_value': 'Tina Turner'}, "root['Years_active']": {'new_value': '1956–present', 'old_value': '1958–present'}}}
+545: {'values_changed': {"root['Genre']": {'new_value': 'rock music', 'old_value': 'Rock and roll, Rhythm and blues, pop music'}}}
+569: {'values_changed': {"root['Genre']": {'new_value': 'Rock and roll, Rhythm and blues, pop music', 'old_value': 'Rock and roll, rhythm and blues, pop music'}}}
+585: {'values_changed': {"root['Occupation']": {'new_value': 'Singer, songwriter, dancer, author, actor', 'old_value': 'Singer, songwriter, dancer, author, actress'}}}
+586: {'values_changed': {"root['Occupation']": {'new_value': 'Singer, songwriter, dancer, author, actress', 'old_value': 'Singer, songwriter, dancer, author, actor'}}}
+587: {'dictionary_item_added': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Anna Mae Bullock', "root['Alias']": 'Tina Turner', "root['Born']": 'birth date and age', "root['Occupation']": 'Singer, songwriter, dancer, author, actor', "root['Genre']": 'Rock and roll, rhythm and blues, pop music', "root['Instrument']": 'Vocals', "root['Voice_type']": 'Voice classification in non-classical music', "root['Years_active']": '1958–present', "root['Label']": 'United Artists Records', "root['Associated_acts']": 'Ike & Tina Turner '}, 'dictionary_item_removed': {"root['rowspan']": '2', "root['NAME']": 'Turner, Tina |ALTERNATIVE'}}
+588: {'dictionary_item_added': {"root['rowspan']": '2', "root['NAME']": 'Turner, Tina |ALTERNATIVE'}, 'dictionary_item_removed': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Anna Mae Bullock', "root['Alias']": 'Tina Turner', "root['Born']": 'birth date and age', "root['Occupation']": 'Singer, songwriter, dancer, author, actor', "root['Genre']": 'Rock and roll, rhythm and blues, pop music', "root['Instrument']": 'Vocals', "root['Voice_type']": 'Voice classification in non-classical music', "root['Years_active']": '1958–present', "root['Label']": 'United Artists Records', "root['Associated_acts']": 'Ike & Tina Turner '}}
+597: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner ', 'old_value': 'Ike & Tina Turner, Beyonce '}}}
+599: {'values_changed': {"root['Associated_acts']": {'new_value': 'Ike & Tina Turner, Beyonce ', 'old_value': 'Ike & Tina Turner '}}}
+672: {'values_changed': {"root['Name']": {'new_value': 'Tina Turner', 'old_value': "Tina Turner(Queen Of Rock 'n' Roll)"}}}
+673: {'values_changed': {"root['Name']": {'new_value': "Tina Turner(Queen Of Rock 'n' Roll)", 'old_value': 'Tina Turner'}}}
+699: {'dictionary_item_removed': {"root['Origin']": 'goats'}, 'values_changed': {"root['Name']": {'new_value': 'Tina Turner', 'old_value': 'a purple yack rasied by goats'}}}
+700: {'values_changed': {"root['Img_capt']": {'new_value': 'Tina Turner performing live in 2008', 'old_value': 'yack yack'}, "root['Birth_name']": {'new_value': 'Anna Mae Bullock', 'old_value': 'a purple yack raised by goats'}, "root['Alias']": {'new_value': 'Tina Turner', 'old_value': 'goat gal'}}}
+701: {'dictionary_item_added': {"root['Origin']": 'goats'}, 'values_changed': {"root['Name']": {'new_value': 'a purple yack rasied by goats', 'old_value': 'Tina Turner'}, "root['Img_capt']": {'new_value': 'yack yack', 'old_value': 'Tina Turner performing live in 2008'}, "root['Birth_name']": {'new_value': 'a purple yack raised by goats', 'old_value': 'Anna Mae Bullock'}, "root['Alias']": {'new_value': 'goat gal', 'old_value': 'Tina Turner'}}}
+733: {'dictionary_item_added': {"root['Name']": 'Tina Turner', "root['Img']": 'Tina.Orlando2008.JPG', "root['Img_capt']": 'Tina Turner performing live in 2008', "root['Background']": 'solo_singer', "root['Birth_name']": 'Anna Mae Bullock', "root['Alias']": 'Tina Turner', "root['Born']": 'birth date and age', "root['Occupation']": 'Singer, songwriter, dancer, author, actor', "root['Genre']": 'Rock and roll, rhythm and blues, pop music', "root['Instrument']": 'Vocals', "root['Voice_type']": 'Voice classification in non-classical music', "root['Years_active']": '1958–present', "root['Label']": 'United Artists Records', "root['Associated_acts']": 'Ike & Tina Turner '}, 'dictionary_item_removed': {"root['name']": 'Tina Turner', "root['background']": 'solo_singer', "root['origin']": 'Brownsville, Tennessee', "root['occupation']": 'Singer, dancer, author, actress', "root['genre']": 'Rock music', "root['instrument']": 'Vocals', "root['label']": 'EMI, United Artists Records', "root['associated_acts']": 'The Ike & Tina Turner Revue, Bryan Adams, Mick Jagger, Eric Clapton '}}
+737: {'values_changed': {"root['associated_acts']": {'new_value': 'The Ike & Tina Turner Revue, Bryan Adams, Mick Jagger, Eric Clapton ', 'old_value': 'Ike & Tina Turner'}}}
+792: {'dictionary_item_added': {"root['origin']": 'Brownsville, Tennessee'}, 'dictionary_item_removed': {"root['voicetype']": 'Contralto'}}
+793: {'dictionary_item_added': {"root['voicetype']": 'Contralto'}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals (Contralto)'}}}
+812: {'values_changed': {"root['occupation']": {'new_value': 'Singer, dancer, author, actress', 'old_value': 'Singer, dancer, author, choreographer, and actress'}}}
+845: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina brunner'}}}
+846: {'values_changed': {"root['name']": {'new_value': 'Tina brunner', 'old_value': 'Tina Turner'}}}
+906: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner Crack Head'}}}
+907: {'values_changed': {"root['name']": {'new_value': 'Tina Turner Crack Head', 'old_value': 'Tina Turner'}}}
+958: {'dictionary_item_removed': {"root['Spouse']": 'Ike Turner (1962-1976) '}}
+1019: {'dictionary_item_added': {"root['Spouse']": 'Ike Turner (1962-1976) '}, 'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner color'}}}
+1020: {'values_changed': {"root['name']": {'new_value': 'Tina Turner color', 'old_value': 'Tina Turner'}}}
+1030: {'dictionary_item_removed': {"root['Husband']": 'Ike Turner (1962 - 1978), Erwin Bach (2013– present)', "root['Sons']": 'Ronnie Turner, Raymond Craig Turner'}}
+1032: {'dictionary_item_added': {"root['Husband']": 'Ike Turner (1962 - 1978), Erwin Bach (2013– present)', "root['Sons']": 'Ronnie Turner, Raymond Craig Turner'}, 'dictionary_item_removed': {"root['spouse']": 'Ike Turner (1962-1976), Erwin Bach (2013-present)', "root['sons']": 'Raymond Craig Turner, Ronald Turner'}}
+1034: {'dictionary_item_added': {"root['spouse']": 'Ike Turner (1962-1976), Erwin Bach (2013-present)', "root['sons']": 'Raymond Craig Turner, Ronald Turner'}, 'values_changed': {"root['occupation']": {'new_value': 'Singer, dancer, author, choreographer, and actress', 'old_value': 'Singer, dancer, author, choreographer, actress'}, "root['instrument']": {'new_value': 'Vocals (Contralto)', 'old_value': 'Vocals'}}}
+1041: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Contralto'}}}
+1042: {'values_changed': {"root['instrument']": {'new_value': 'Contralto', 'old_value': 'Vocals'}}}
+1154: {'dictionary_item_added': {"root['label']": 'EMI, United Artists Records'}, 'dictionary_item_removed': {"root['alias']": 'Queen of Rock n Roll', "root['spouse']": 'Ike Turner (1960–1978) Erwin Bach (2013-present)'}}
+1155: {'dictionary_item_added': {"root['alias']": 'Queen of Rock n Roll', "root['spouse']": 'Ike Turner (1960–1978) Erwin Bach (2013-present)'}, 'values_changed': {"root['associated_acts']": {'new_value': 'Ike & Tina Turner', 'old_value': 'Ike & Tina Turner '}}}
+1223: {'values_changed': {"root['occupation']": {'new_value': 'Singer, dancer, author, choreographer, actress', 'old_value': 'Singer-Songwriter, dancer, author, choreographer, actress'}}}
+1224: {'values_changed': {"root['occupation']": {'new_value': 'Singer-Songwriter, dancer, author, choreographer, actress', 'old_value': 'Singer, dancer, author, choreographer, actress'}}}
+1226: {'dictionary_item_removed': {"root['net_worth']": 'increase US$350 million (2013)'}}
+1227: {'values_changed': {"root['net_worth']": {'new_value': 'increase US$350 million (2013)', 'old_value': 'increase US$ 350 million (2013)'}}}
+1241: {'values_changed': {"root['associated_acts']": {'new_value': 'Ike & Tina Turner ', 'old_value': 'Ike & Tina Turner'}}}
+1242: {'values_changed': {"root['associated_acts']": {'new_value': 'Ike & Tina Turner', 'old_value': 'Ike & Tina Turner '}}}
+1288: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer, dancer, author, choreographer, actress'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rock music'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Kings of Rhythm', 'The Ikettes', 'Ike & Tina Turner', 'The Rolling Stones', 'Heaven 17', 'David Bowie', 'Bryan Adams', 'Rod Stewart', 'Jimmy Barnes', 'Eros Ramazzotti', 'Beyond'], 'new_value': 'Ike & Tina Turner '}}, 'dictionary_item_added': {"root['background']": 'solo_singer', "root['net_worth']": 'increase US$ 350 million (2013)'}, 'dictionary_item_removed': {"root['spouse']": 'ubl', "root['awards']": 'List of awards and nominations received by Tina Turner', "root['embed']": 'yes', "root['label']": []}}
+1294: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'foxy brown'}}}
+1295: {'values_changed': {"root['name']": {'new_value': 'foxy brown', 'old_value': 'Tina Turner'}}}
+1316: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'ANdu Turner'}}}
+1317: {'values_changed': {"root['name']": {'new_value': 'ANdu Turner', 'old_value': 'Tina Turner'}}}
+1321: {'dictionary_item_removed': {"root['children']": '4<ref name'}}
+1349: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner loves cocaine'}}}
+1350: {'values_changed': {"root['name']": {'new_value': 'Tina Turner loves cocaine', 'old_value': 'Tina Turner'}}}
+1351: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Turner loves cocaine'}}}
+1352: {'values_changed': {"root['name']": {'new_value': 'Tina Turner loves cocaine', 'old_value': 'Tina Turner'}}}
+1353: {'values_changed': {"root['name']": {'new_value': 'Tina Turner', 'old_value': 'Tina Pavlović'}}}
+1354: {'values_changed': {"root['name']": {'new_value': 'Tina Pavlović', 'old_value': 'Tina Turner'}}}
+1606: {'dictionary_item_added': {"root['associated_acts']": ['Kings of Rhythm', 'The Ikettes', 'Ike & Tina Turner', 'The Rolling Stones', 'Heaven 17', 'David Bowie', 'Bryan Adams', 'Rod Stewart', 'Jimmy Barnes', 'Eros Ramazzotti', 'Beyond']}, 'dictionary_item_removed': {"root['former_member_of']": ['Ike & Tina Turner']}}
+1607: {'dictionary_item_added': {"root['former_member_of']": ['Ike & Tina Turner']}, 'dictionary_item_removed': {"root['past_member_of']": ['Ike & Tina Turner']}}
+1629: {'values_changed': {"root['children']": {'new_value': '4<ref name', 'old_value': '4 (2 natural, 2 adopted)<ref name'}}}
+1641: {'values_changed': {"root['children']": {'new_value': '4 (2 natural, 2 adopted)<ref name', 'old_value': '4<ref name'}}}
+1791: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': []}}, 'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'Unbulleted list'}}}

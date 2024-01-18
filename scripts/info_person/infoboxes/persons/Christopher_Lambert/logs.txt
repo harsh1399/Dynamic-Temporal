@@ -1,0 +1,19 @@
+5: {'dictionary_item_removed': {"root['name']": 'Christopher Lambert', "root['birthname']": 'Christophe Guy Denis Lambert', "root['birthdate']": 'birth date and age', "root['location']": 'Great Neck, New York, USA', "root['spouse']": 'Jaimyse Haft (February 6, 1999 - present), Diane Lane (October 1988 - March 1994) (divorced) 1 daughter'}}
+7: {'dictionary_item_removed': {"root['homepage']": 'http://www.christopherlambert.org/ Christopher Lambert website'}}
+37: {'values_changed': {"root['spouse']": {'new_value': 'Jaimyse Haft (February 6, 1999 - present), Diane Lane (October 1988 - March 1994) (divorced) 1 daughter', 'old_value': 'Diane Lane (1988-1994) ,  Jaimyse Haft (1999-)'}}}
+47: {'dictionary_item_removed': {"root['imagesize']": '150'}}
+56: {'values_changed': {"root['homepage']": {'new_value': 'http://www.christopherlambert.org/ Christopher Lambert website', 'old_value': 'http://www.christopherlambert.net/ Christopher Lambert website'}}}
+61: {'values_changed': {"root['homepage']": {'new_value': 'http://www.christopherlambert.net/ Christopher Lambert website', 'old_value': 'http://www.christopherlambert.org/ Christopher Lambert website'}}}
+63: {'values_changed': {"root['homepage']": {'new_value': 'http://www.christopherlambert.org/ Christopher Lambert website', 'old_value': 'http://www.christopherlambert.net/ Christopher Lambert website'}}}
+65: {'values_changed': {"root['homepage']": {'new_value': 'http://www.christopherlambert.net/ Christopher Lambert website', 'old_value': 'http://www.officialchristopherlambertwebsite.com/ Christopher Lambert website'}}}
+78: {'dictionary_item_added': {"root['imagesize']": '150', "root['homepage']": 'http://www.officialchristopherlambertwebsite.com/ Christopher Lambert website'}, 'values_changed': {"root['location']": {'new_value': 'Great Neck, New York, USA', 'old_value': 'Great Neck, New York ,  United States'}}}
+79: {'dictionary_item_removed': {"root['cesarawards']": "'''César Award"}}
+80: {'values_changed': {"root['birthname']": {'new_value': 'Christophe Guy Denis Lambert', 'old_value': 'nowrap'}}}
+82: {'dictionary_item_removed': {"root['children']": 'Eleonora (b. 1993)'}}
+97: {'dictionary_item_added': {"root['birthname']": 'nowrap', "root['birthdate']": 'birth date and age', "root['location']": 'Great Neck, New York ,  United States', "root['children']": 'Eleonora (b. 1993)', "root['cesarawards']": "'''César Award"}, 'dictionary_item_removed': {"root['occupation']": 'Actor', "root['partner']": 'Sophie Marceau (2007–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Diane Lane (1988-1994) ,  Jaimyse Haft (1999-)', 'old_value': 'Plainlist'}}}
+112: {'dictionary_item_added': {"root['partner']": 'Sophie Marceau (2007–present)'}, 'dictionary_item_removed': {"root['children']": '1'}}
+125: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1 '}}}
+133: {'dictionary_item_removed': {"root['partner']": 'Sophie Marceau '}}
+143: {'dictionary_item_added': {"root['partner']": 'Sophie Marceau '}, 'values_changed': {"root['spouse']": {'new_value': 'Plainlist', 'old_value': 'Diane Lane, (1988-1994), Jaimyse Haft, (1999-2000), Sophie Marceau, (2012-present)'}}}
+166: {'values_changed': {"root['spouse']": {'new_value': 'Diane Lane, (1988-1994), Jaimyse Haft, (1999-2000), Sophie Marceau, (2012-present)', 'old_value': 'Diane Lane, (1988–1994), Jaimyse Haft, (1999–2000), Sophie Marceau, (2012–present)'}}}
+180: {'values_changed': {"root['spouse']": {'new_value': 'Diane Lane, (1988–1994), Jaimyse Haft, (1999–2000), Sophie Marceau, (2012–present)', 'old_value': 'Diane Lane, (1988–1994), Jaimyse Haft, (1999–2000), Sophie Marceau, (2012–2014)'}}}

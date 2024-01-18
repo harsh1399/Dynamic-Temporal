@@ -1,0 +1,35 @@
+0: {'dictionary_item_removed': {"root['name']": 'Goldie Hawn', "root['birthname']": 'Goldie Jean Studlendgehawn', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Washington, D.C., U.S.', "root['yearsactive']": '1967 – present', "root['spouse']": 'Gus Trikonis (1969 – 1976) Bill Hudson (1976 – 1980)', "root['children']": 'Oliver Hudson Kate Hudson Wyatt Russell', "root['domesticpartner']": 'Kurt Russell (1983–present)', "root['academyawards']": "'''Academy Award for Best Supporting Actress", "root['goldenglobeawards']": "'''Best Supporting Actress - Motion Picture'''   1969 ''Cactus Flower'' "}}
+11: {'values_changed': {"root['birthname']": {'new_value': 'Goldie Jean Studlendgehawn', 'old_value': 'Goldie Jean Hawn'}}}
+83: {'dictionary_item_added': {"root['name']": 'Goldie Hawn', "root['children']": 'Oliver Hudson Kate Hudson Wyatt Russell'}, 'values_changed': {"root['yearsactive']": {'new_value': '1967 – present', 'old_value': '1967-present'}, "root['spouse']": {'new_value': 'Gus Trikonis (1969 – 1976) Bill Hudson (1976 – 1980)', 'old_value': 'Gus Trikonis (1969-1976) Bill Hudson (1976-1980)'}}}
+126: {'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Best Supporting Actress - Motion Picture'''   1969 ''Cactus Flower'' ", 'old_value': "'''Best Supporting Actress - Motion Picture'''   1970 ''Cactus Flower'' "}}}
+141: {'values_changed': {"root['domesticpartner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Mr.Kurt Russell (1983–present)'}}}
+142: {'values_changed': {"root['domesticpartner']": {'new_value': 'Mr.Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–present)'}}}
+148: {'values_changed': {"root['birthname']": {'new_value': 'Goldie Jean Hawn', 'old_value': 'Goldie Jean Studlendgehawn'}}}
+149: {'values_changed': {"root['birthname']": {'new_value': 'Goldie Jean Studlendgehawn', 'old_value': 'Goldie Jean Studlendegehawn'}}}
+150: {'values_changed': {"root['birthname']": {'new_value': 'Goldie Jean Studlendegehawn', 'old_value': 'Goldie Jean Hawn'}}}
+185: {'dictionary_item_added': {"root['birthname']": 'Goldie Jean Hawn', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Washington, D.C., U.S.', "root['yearsactive']": '1967-present', "root['domesticpartner']": 'Kurt Russell (1983–present)', "root['academyawards']": "'''Academy Award for Best Supporting Actress", "root['goldenglobeawards']": "'''Best Supporting Actress - Motion Picture'''   1970 ''Cactus Flower'' "}, 'dictionary_item_removed': {"root['name']": 'Goldie Hawn', "root['residence']": [], "root['occupation']": 'Actress, producer, singer', "root['awards']": 'Academy Award for Best Supporting Actress , Golden Globe Award for Best Supporting Actress – Motion Picture', "root['partner']": 'Kurt Russell (1983–present)', "root['children']": 'Oliver Hudson '}, 'values_changed': {"root['spouse']": {'new_value': 'Gus Trikonis (1969-1976) Bill Hudson (1976-1980)', 'old_value': 'marriage'}}}
+188: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (m. 1983)'}}}
+189: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (m. 1983)', 'old_value': 'Kurt Russell (1983-present)'}, "root['children']": {'new_value': 'Oliver Hudson ', 'old_value': 'with Bill:, Oliver Hudson (b. 1976; son),  Kate Hudson (b. 1979; daughter), ,  with Kurt:,  Wyatt Russell (b. 1986; son) '}}}
+190: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983-present)', 'old_value': 'Kurt Russell (m. 1983)'}, "root['children']": {'new_value': 'with Bill:, Oliver Hudson (b. 1976; son),  Kate Hudson (b. 1979; daughter), ,  with Kurt:,  Wyatt Russell (b. 1986; son) ', 'old_value': 'Oliver Hudson '}}}
+191: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (m. 1983)', 'old_value': 'Kurt Russell (1983-present)'}}}
+192: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983-present)', 'old_value': 'Kurt Russell (1983–present)'}}}
+248: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+254: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983)'}}}
+255: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983)', 'old_value': 'Kurt Russell (1983–)'}}}
+256: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983)'}}}
+257: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983)', 'old_value': 'Kurt Russell (1983–)'}}}
+266: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+269: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+271: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+272: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+273: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+275: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+276: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+277: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+278: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+287: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+289: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+292: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+293: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}
+294: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–present)', 'old_value': 'Kurt Russell (1983–)'}}}
+295: {'values_changed': {"root['partner']": {'new_value': 'Kurt Russell (1983–)', 'old_value': 'Kurt Russell (1983–present)'}}}

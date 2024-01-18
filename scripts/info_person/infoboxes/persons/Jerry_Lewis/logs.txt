@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jerry Lewis', "root['medium']": 'Stage, film, television, radio', "root['genre']": 'Character comedy, physical comedy', "root['occupation']": [], "root['alias']": 'Joey Lewis', "root['spouse']": [], "root['children']": '7 (including: Gary Lewis (musician)'}}
+129: {'values_changed': {"root['name']": {'new_value': 'Jerry Lewis', 'old_value': 'Derek Gilliland eats cat feces.'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Derek Gilliland eats cat feces.', 'old_value': 'Jerry Lewis'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Jerry Lewis', 'old_value': 'Jerry "Your Momma\'s Ass" Lewis'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Jerry "Your Momma\'s Ass" Lewis', 'old_value': 'Jerry Lewis'}}}
+202: {'dictionary_item_added': {"root['occupation']": [], "root['alias']": 'Joey Lewis'}, 'values_changed': {"root['children']": {'new_value': '7 (including: Gary Lewis (musician)', 'old_value': '7 including Gary Lewis (musician)'}}}
+331: {'values_changed': {"root['name']": {'new_value': 'Jerry Lewis', 'old_value': 'Jerry Seinfeld'}}}
+332: {'values_changed': {"root['name']": {'new_value': 'Jerry Seinfeld', 'old_value': 'Jerry Lewis'}}}
+385: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_added': {"root['medium']": 'Stage, film, television, radio', "root['genre']": 'Character comedy, physical comedy'}, 'dictionary_item_removed': {"root['occupation']": 'Actor, comedian, singer, producer, director, screenwriter, humanitarian'}, 'values_changed': {"root['children']": {'new_value': '7 including Gary Lewis (musician)', 'old_value': '7, including Gary Lewis (musician)'}}}
+443: {'values_changed': {"root['children']": {'new_value': '7, including Gary Lewis (musician)', 'old_value': '8, including Gary Lewis (musician)'}}}
+445: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, singer, producer, director, screenwriter, humanitarian', 'old_value': 'Comedian, actor, singer, producer, director, screenwriter, humanitarian'}}}
+454: {'values_changed': {"root['children']": {'new_value': '8, including Gary Lewis (musician)', 'old_value': '7, including Gary Lewis (musician)'}}}
+477: {'values_changed': {"root['children']": {'new_value': '7, including Gary Lewis (musician)', 'old_value': '8, including Gary Lewis (musician)'}}}
+479: {'values_changed': {"root['children']": {'new_value': '8, including Gary Lewis (musician)', 'old_value': '7, including Gary Lewis (musician)'}}}
+482: {'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}}

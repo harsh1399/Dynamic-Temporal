@@ -1,0 +1,89 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hayden Christensen', "root['birthdate']": 'birth date and age', "root['location']": 'Vancouver, British Columbia, Canada', "root['occupation']": 'Actor'}}
+11: {'values_changed': {"root['name']": {'new_value': 'Hayden Christensen', 'old_value': 'Gayden Christensen'}}}
+13: {'values_changed': {"root['name']": {'new_value': 'Gayden Christensen', 'old_value': 'Hayden Christensen'}}}
+72: {'values_changed': {"root['location']": {'new_value': 'Vancouver, British Columbia, Canada', 'old_value': 'Vancouver, British Columbia, CAN'}}}
+73: {'values_changed': {"root['location']": {'new_value': 'Vancouver, British Columbia, CAN', 'old_value': 'Vancouver, British Columbia, Canada'}}}
+78: {'dictionary_item_added': {"root['occupation']": 'Actor'}, 'values_changed': {"root['location']": {'new_value': 'Vancouver, British Columbia, Canada', 'old_value': 'flagicon'}}}
+122: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'April 19, 1981 (Age 26)'}}}
+129: {'values_changed': {"root['birthdate']": {'new_value': 'April 19, 1981 (Age 26)', 'old_value': 'April 19, 1981 (Age 25)'}}}
+130: {'values_changed': {"root['birthdate']": {'new_value': 'April 19, 1981 (Age 25)', 'old_value': 'birth date and age'}}}
+153: {'dictionary_item_removed': {"root['homepage']": '| notable role'}}
+374: {'dictionary_item_added': {"root['location']": 'flagicon', "root['homepage']": '| notable role'}, 'dictionary_item_removed': {"root['birthplace']": 'flagicon', "root['goldenglobeawards']": "'''Nominated:''' Golden Globe Award for Best Supporting Actor - Motion Picture", "root['sagawards']": "'''Nominated:''' Screen Actors Guild Award for Best Supporting Actor - Motion Picture"}}
+382: {'dictionary_item_added': {"root['birthplace']": 'flagicon', "root['goldenglobeawards']": "'''Nominated:''' Golden Globe Award for Best Supporting Actor - Motion Picture", "root['sagawards']": "'''Nominated:''' Screen Actors Guild Award for Best Supporting Actor - Motion Picture"}, 'dictionary_item_removed': {"root['location']": 'flagicon', "root['homepage']": '| notable role'}}
+383: {'dictionary_item_added': {"root['location']": 'flagicon', "root['homepage']": '| notable role'}, 'dictionary_item_removed': {"root['birthplace']": 'flagicon', "root['goldenglobeawards']": "'''Nominated:''' Golden Globe Award for Best Supporting Actor - Motion Picture", "root['sagawards']": "'''Nominated:''' Screen Actors Guild Award for Best Supporting Actor - Motion Picture"}}
+412: {'dictionary_item_removed': {"root['awards']": "  '''Hayden Christensen''' (born April 19, 1981) is a Canadian actor. He appeared in Canadian content", "root['rowspan']": "2006||''Awake''||Clay||Post-Production  |- |''Factory Girl''||Billy Quinn|| Released |- |"}}
+426: {'dictionary_item_added': {"root['awards']": "  '''Hayden Christensen''' (born April 19, 1981) is a Canadian actor. He appeared in Canadian content", "root['rowspan']": "2006||''Awake''||Clay||Post-Production  |- |''Factory Girl''||Billy Quinn|| Released |- |"}, 'dictionary_item_removed': {"root['goldenraspberryawards']": "'''2005 Golden Raspberry Awards"}}
+440: {'values_changed': {"root['goldenraspberryawards']": {'new_value': "'''2005 Golden Raspberry Awards", 'old_value': "'''Worst Supporting Actor''', 2005 ''Star Wars Episode III: Revenge of the Sith''  2002 ''Star Wars Episode II: Attack of the Clones''"}}}
+453: {'dictionary_item_added': {"root['goldenraspberryawards']": "'''Worst Supporting Actor''', 2005 ''Star Wars Episode III: Revenge of the Sith''  2002 ''Star Wars Episode II: Attack of the Clones''"}, 'dictionary_item_removed': {"root['spouse']": 'In a committed relationship with Ms. Alanna Bass'}}
+458: {'dictionary_item_added': {"root['spouse']": 'In a committed relationship with Ms. Alanna Bass'}, 'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Nominated:''' Golden Globe Award for Best Supporting Actor - Motion Picture", 'old_value': "'''Nominated: Golden Globe Award for Best Supporting Actor - Motion Picture"}, "root['sagawards']": {'new_value': "'''Nominated:''' Screen Actors Guild Award for Best Supporting Actor - Motion Picture", 'old_value': "'''Nominated: Screen Actors Guild Award for Best Supporting Actor - Motion Picture"}}}
+470: {'values_changed': {"root['name']": {'new_value': 'Hayden Christensen', 'old_value': 'Hayden Christensen/fuck all off you'}}}
+472: {'dictionary_item_removed': {"root['deathdate']": 'when you saw him', "root['deathplace']": 'in your fucking mouth'}}
+473: {'dictionary_item_added': {"root['deathdate']": 'when you saw him', "root['deathplace']": 'in your fucking mouth'}, 'values_changed': {"root['name']": {'new_value': 'Hayden Christensen/fuck all off you', 'old_value': 'Hayden Christensen'}}}
+577: {'dictionary_item_added': {"root['name']": 'Hayden Christensen', "root['goldenglobeawards']": "'''Nominated: Golden Globe Award for Best Supporting Actor - Motion Picture", "root['sagawards']": "'''Nominated: Screen Actors Guild Award for Best Supporting Actor - Motion Picture"}, 'dictionary_item_removed': {"root['birthname']": 'Hooker on the corner', "root['deathdate']": 'TODAY!', "root['deathplace']": 'The corner', "root['occupation']": 'Actor, Prostitute, Gay Film Star', "root['yearsactive']": '1993 – present', "root['spouse']": 'Jenny Degraw'}, 'values_changed': {"root['birthplace']": {'new_value': 'flagicon', 'old_value': 'Vancouver, British Columbia, Canada'}}}
+578: {'dictionary_item_added': {"root['birthname']": 'Hooker on the corner', "root['deathdate']": 'TODAY!', "root['deathplace']": 'The corner', "root['spouse']": 'Jenny Degraw'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Prostitute, Gay Film Star', 'old_value': 'Actor'}}}
+603: {'dictionary_item_removed': {"root['deathdate']": 'June 12, 1997'}}
+630: {'values_changed': {"root['deathdate']": {'new_value': 'June 12, 1997', 'old_value': 'June 12, 2009'}}}
+659: {'dictionary_item_added': {"root['deathdate']": 'June 12, 2009'}, 'dictionary_item_removed': {"root['birthname']": 'Sterling Hayden Christensen'}}
+727: {'dictionary_item_added': {"root['birthname']": 'Sterling Hayden Christensen'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, model'}}}
+733: {'dictionary_item_removed': {"root['domesticpartner']": 'Rachel Bilson (2007-present)'}}
+745: {'dictionary_item_added': {"root['domesticpartner']": 'Rachel Bilson (2007-present)'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, model', 'old_value': 'Actor'}, "root['yearsactive']": {'new_value': '1993 – present', 'old_value': '1993–present'}}}
+746: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, model'}, "root['yearsactive']": {'new_value': '1993–present', 'old_value': '1993 – present'}}}
+747: {'values_changed': {"root['occupation']": {'new_value': 'Actor, model', 'old_value': 'Actor'}, "root['yearsactive']": {'new_value': '1993 – present', 'old_value': '1993–present'}}}
+748: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, model'}, "root['yearsactive']": {'new_value': '1993–present', 'old_value': '1993 – present'}}}
+749: {'values_changed': {"root['occupation']": {'new_value': 'Actor, model', 'old_value': 'Actor'}, "root['yearsactive']": {'new_value': '1993 – present', 'old_value': '1993–present'}}}
+750: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, model'}, "root['yearsactive']": {'new_value': '1993–present', 'old_value': '1993 – present'}}}
+753: {'values_changed': {"root['occupation']": {'new_value': 'Actor, model', 'old_value': 'Actor'}, "root['yearsactive']": {'new_value': '1993 – present', 'old_value': '1993–present'}}}
+875: {'values_changed': {"root['yearsactive']": {'new_value': '1993–present', 'old_value': '1993-present'}}}
+876: {'values_changed': {"root['yearsactive']": {'new_value': '1993-present', 'old_value': '1993–present'}}}
+935: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['birthplace']": 'Vancouver, British Columbia, Canada', "root['yearsactive']": '1993–present'}, 'dictionary_item_removed': {"root['spouse']": 'Jade Yamanaka'}}
+956: {'dictionary_item_added': {"root['spouse']": 'Jade Yamanaka'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Worst Actor'}}}
+957: {'values_changed': {"root['occupation']": {'new_value': 'Worst Actor', 'old_value': 'Actor'}}}
+1009: {'dictionary_item_removed': {"root['partner']": 'Rachel Bilson (2007–present)'}}
+1011: {'dictionary_item_removed': {"root['children']": '1'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, film producer'}}}
+1041: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': "Actor, film producer, Liz's Bestfriend"}}}
+1042: {'values_changed': {"root['occupation']": {'new_value': "Actor, film producer, Liz's Bestfriend", 'old_value': 'Actor, film producer,'}}}
+1043: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer,', 'old_value': 'Actor, film producer'}}}
+1069: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': '"Actor", film producer'}}}
+1070: {'values_changed': {"root['occupation']": {'new_value': '"Actor", film producer', 'old_value': 'Actor, film producer'}}}
+1072: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': '(2007–present)'}}}
+1073: {'values_changed': {"root['partner']": {'new_value': '(2007–present)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1074: {'dictionary_item_removed': {"root['imagesize']": '300x'}}
+1082: {'dictionary_item_added': {"root['imagesize']": '300x'}, 'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Sandy Bilson (2007–present)'}}}
+1084: {'values_changed': {"root['partner']": {'new_value': 'Sandy Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1103: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Ellena yasmin (2007–present)'}}}
+1106: {'values_changed': {"root['partner']": {'new_value': 'Ellena yasmin (2007–present)', 'old_value': 'Ellena Yasmin (2017–present)'}}}
+1109: {'values_changed': {"root['partner']": {'new_value': 'Ellena Yasmin (2017–present)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1123: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Lola sage (2007–present)'}}}
+1124: {'values_changed': {"root['partner']": {'new_value': 'Lola sage (2007–present)', 'old_value': 'Lola sage (2003)'}, "root['children']": {'new_value': '1', 'old_value': '0'}}}
+1125: {'values_changed': {"root['partner']": {'new_value': 'Lola sage (2003)', 'old_value': 'Rachel Bilson (2007–present)'}, "root['children']": {'new_value': '0', 'old_value': '1'}}}
+1149: {'dictionary_item_removed': {"root['residence']": 'Ontario, Canada'}}
+1167: {'dictionary_item_added': {"root['residence']": 'Ontario, Canada'}, 'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1169: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1170: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1171: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1174: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1175: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1176: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1177: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1178: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1195: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1196: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1200: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1201: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1202: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1206: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1207: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1209: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1210: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1211: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–present)'}}}
+1212: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–present)', 'old_value': 'Rachel Bilson (2007– 2017)'}}}
+1213: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007– 2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1214: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1215: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1217: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007- 2017)'}}}
+1218: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007- 2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1219: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1220: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1221: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–2017)'}}}
+1222: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–2017)', 'old_value': 'Rachel Bilson (2007–)'}}}
+1227: {'values_changed': {"root['partner']": {'new_value': 'Rachel Bilson (2007–)', 'old_value': 'Rachel Bilson (2007–17)'}}}

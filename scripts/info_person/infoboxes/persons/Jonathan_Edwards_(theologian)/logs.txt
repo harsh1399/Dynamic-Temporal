@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jonathan Edwards', "root['occupation']": 'Pastor, theologian, and missionary'}}
+43: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, theologian, and missionary', 'old_value': 'Pastor, theologian, and missionary '}}}
+100: {'dictionary_item_removed': {"root['spouse']": 'Sarah Pierrepont<ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Pastor, theologian, and missionary ', 'old_value': 'Pastor, theologian, and missionary'}}}
+113: {'values_changed': {"root['spouse']": {'new_value': 'Sarah Pierrepont<ref name', 'old_value': 'Ryan Klammer<ref name'}}}
+114: {'values_changed': {"root['spouse']": {'new_value': 'Ryan Klammer<ref name', 'old_value': '<ref name'}}}
+118: {'values_changed': {"root['spouse']": {'new_value': '<ref name', 'old_value': 'Sarah Pierrepont<ref name'}}}
+123: {'values_changed': {"root['spouse']": {'new_value': 'Sarah Pierrepont<ref name', 'old_value': 'Ms. pierce<ref name'}}}
+124: {'values_changed': {"root['spouse']": {'new_value': 'Ms. pierce<ref name', 'old_value': 'Sarah Pierrepont<ref name'}}}
+129: {'dictionary_item_removed': {"root['author']": 'Piper, Noel', "root['publisher']": 'Crossway Books', "root['location']": 'Wheaton, Illinois', "root['pages']": '56-57'}}
+135: {'dictionary_item_added': {"root['author']": 'Piper, Noel', "root['publisher']": 'Crossway Books', "root['location']": 'Wheaton, Illinois', "root['pages']": '56-57'}, 'values_changed': {"root['spouse']": {'new_value': 'Sarah Pierrepont<ref name', 'old_value': 'Sarah Pierpont   '}}}

@@ -1,0 +1,18 @@
+73: {'dictionary_item_removed': {"root['subject_name']": 'Evel Knievel', "root['image_name']": 'Evel Knievel - Profile.jpg', "root['date_of_birth']": 'birth date and age', "root['place_of_birth']": 'flagicon', "root['dead']": 'alive'}}
+78: {'dictionary_item_removed': {"root['image_caption']": 'Evel Knievel in the 1970s.', "root['place_of_death']": '| '}}
+240: {'dictionary_item_added': {"root['subject_name']": 'Evel Knievel', "root['image_name']": 'Evel Knievel - Profile.jpg', "root['image_caption']": 'Evel Knievel in the 1970s.', "root['date_of_birth']": 'birth date and age', "root['place_of_birth']": 'flagicon', "root['dead']": 'alive', "root['place_of_death']": '| '}, 'dictionary_item_removed': {"root['name']": 'Evel Knievel', "root['occupation']": 'Motorcycle Daredevil'}}
+243: {'values_changed': {"root['occupation']": {'new_value': 'Motorcycle Daredevil', 'old_value': 'Retired Motorcycle Daredevil'}}}
+328: {'values_changed': {"root['name']": {'new_value': 'Evel Knievel', 'old_value': 'Evel Knievel    im gay'}}}
+330: {'values_changed': {"root['name']": {'new_value': 'Evel Knievel    im gay', 'old_value': 'Evel Knievel'}}}
+370: {'dictionary_item_removed': {"root['NAME']": 'Robert Craig Knievel, Jr. | | ALTERNATIVE NAMES'}}
+456: {'dictionary_item_added': {"root['NAME']": 'Robert Craig Knievel, Jr. | | ALTERNATIVE NAMES'}, 'values_changed': {"root['occupation']": {'new_value': 'Retired Motorcycle Daredevil', 'old_value': 'Motorcycle Daredevil'}}}
+684: {'dictionary_item_removed': {"root['religion']": 'Christianity', "root['spouse']": 'Linda Joan Bork (1959–1986), Krystal Kennedy (1999–2001)', "root['children']": 'Kelly, Tracey, Alicia, Robbie'}, 'values_changed': {"root['occupation']": {'new_value': 'Motorcycle Daredevil', 'old_value': 'Stunt performer'}}}
+693: {'values_changed': {"root['children']": {'new_value': 'Kelly, Tracey, Alicia, Robbie', 'old_value': 'Kelly, Tracey, Alicia, Robbie Knievel'}}}
+726: {'values_changed': {"root['spouse']": {'new_value': 'Linda Joan Bork (1959–1986), Krystal Kennedy (1999–2001)', 'old_value': 'Linda Joan Bork (1959–1986) Krystal Kennedy (1999–2001)'}}}
+731: {'values_changed': {"root['spouse']": {'new_value': 'Linda Joan Bork (1959–1986) Krystal Kennedy (1999–2001)', 'old_value': 'Linda Joan Bork (1959–1986), Krystal Kennedy (1999–2001)'}}}
+738: {'values_changed': {"root['spouse']": {'new_value': 'Linda Joan Bork (1959–1986), Krystal Kennedy (1999–2001)', 'old_value': 'Linda Joan Bork (1959–1997), Krystal Kennedy (1999–2001)'}}}
+739: {'dictionary_item_removed': {"root['known_for']": 'Motorcycle stunt performer'}}
+741: {'dictionary_item_added': {"root['known_for']": 'Motorcycle stunt performer'}, 'values_changed': {"root['spouse']": {'new_value': 'Linda Joan Bork (1959–1997), Krystal Kennedy (1999–2001)', 'old_value': 'Linda Joan Bork (1959–1986), Krystal Kennedy (1999–2001)'}}}
+785: {'dictionary_item_added': {"root['occupation']": 'Stunt performer'}, 'dictionary_item_removed': {"root['salary']": '$1000000000000000'}}
+788: {'dictionary_item_added': {"root['salary']": '$1000000000000000'}, 'dictionary_item_removed': {"root['occupation']": 'Stunt performer'}}
+845: {'dictionary_item_removed': {"root['known_for']": 'Being a Beast'}}

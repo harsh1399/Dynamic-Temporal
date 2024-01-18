@@ -1,0 +1,33 @@
+31: {'dictionary_item_removed': {"root['name']": 'John Hurt', "root['occupation']": 'Actor', "root['spouse']": '1962|1964|reas'}}
+45: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Omar Gharaibeh'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Omar Gharaibeh', 'old_value': 'John Hurt'}}}
+154: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'John bum fluff hurt'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'John bum fluff hurt', 'old_value': 'John Hurt'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Butt Hurt'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Butt Hurt', 'old_value': 'John Hurt'}}}
+173: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Johgn Hury'}}}
+175: {'values_changed': {"root['name']": {'new_value': 'Johgn Hury', 'old_value': 'John Hurt'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'John Hurt small'}}}
+363: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': '1962|1964|reas'}}, 'dictionary_item_removed': {"root['children']": '2'}, 'values_changed': {"root['name']": {'new_value': 'John Hurt small', 'old_value': 'Sir John Hurt  post-nominals'}, "root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}}}
+394: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 '}}}
+445: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Punk Rocker, voice actor'}}}
+446: {'values_changed': {"root['occupation']": {'new_value': 'Punk Rocker, voice actor', 'old_value': 'Actor, voice actor'}}}
+613: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor'}}}
+736: {'dictionary_item_removed': {"root['alma_meter']": 'Royal Academy of Dramatic Art'}}
+755: {'dictionary_item_removed': {"root['education']": "Lincoln Christ's Hospital School"}}
+756: {'dictionary_item_added': {"root['alma_meter']": 'Royal Academy of Dramatic Art'}, 'dictionary_item_removed': {"root['alma_mater']": 'Royal Academy of Dramatic Art'}}
+793: {'values_changed': {"root['name']": {'new_value': 'Sir John Hurt  post-nominals', 'old_value': 'John Hurt'}}}
+804: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Alexander John Vincent (b. 1990), Nicholas (b. 1993) '}}}
+805: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Sir John Hurt'}}}
+813: {'values_changed': {"root['name']": {'new_value': 'Sir John Hurt', 'old_value': 'John Hurt'}}}
+816: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Sir John Hurt'}}}
+817: {'values_changed': {"root['name']": {'new_value': 'Sir John Hurt', 'old_value': 'John Hurt'}}}
+819: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Sir John Hurt'}}}
+821: {'values_changed': {"root['name']": {'new_value': 'Sir John Hurt', 'old_value': 'John Hurt'}}}
+822: {'values_changed': {"root['name']": {'new_value': 'John Hurt', 'old_value': 'Sir John Hurt'}}}
+825: {'values_changed': {"root['name']": {'new_value': 'Sir John Hurt', 'old_value': 'John Hurt'}}}
+828: {'values_changed': {"root['children']": {'new_value': 'Alexander John Vincent (b. 1990), Nicholas (b. 1993) ', 'old_value': '2 '}}}
+829: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Alexander John Vincent (b. 1990), Nicholas (b. 1993) '}}}
+830: {'values_changed': {"root['children']": {'new_value': 'Alexander John Vincent (b. 1990), Nicholas (b. 1993) ', 'old_value': '2 '}}}
+843: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor, screenwriter, stand-up comedian'}}}
+844: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, screenwriter, stand-up comedian', 'old_value': 'Actor'}}}

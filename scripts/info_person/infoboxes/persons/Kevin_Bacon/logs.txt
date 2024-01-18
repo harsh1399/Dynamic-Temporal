@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor, musician', "root['spouse']": 'Kyra Sedgwick (1988–present; 2 children)'}}
+17: {'dictionary_item_removed': {"root['alma_mater']": "Pennsylvania Governor's School for the Arts"}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, musician', 'old_value': 'Actor, voice actor, musician'}}}
+41: {'dictionary_item_removed': {"root['children']": '2'}, 'values_changed': {"root['spouse']": {'new_value': 'Kyra Sedgwick (1988–present; 2 children)', 'old_value': 'marriage'}}}
+67: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Travis Bacon (b. 1989), Sosie Bacon'}}}
+72: {'dictionary_item_added': {"root['alma_mater']": "Pennsylvania Governor's School for the Arts"}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, musician', 'old_value': 'Actor, musician'}, "root['children']": {'new_value': 'Travis Bacon (b. 1989), Sosie Bacon', 'old_value': 'Travis Bacon, Sosie Bacon'}}}
+86: {'dictionary_item_removed': {"root['relations']": 'Michael Bacon (musician)'}}
+93: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician', 'old_value': 'Actor, musician, producer'}}}
+95: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician, producer', 'old_value': 'Actor, musician, producer, politician'}}}
+117: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician, producer, politician', 'old_value': 'Actor, musician'}}}
+127: {'dictionary_item_added': {"root['relations']": 'Michael Bacon (musician)'}, 'dictionary_item_removed': {"root['name']": 'Kevin Bacon'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, musician', 'old_value': 'Actor'}, "root['children']": {'new_value': 'Travis Bacon, Sosie Bacon', 'old_value': '2, including Sosie Bacon'}}}
+155: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, singer & musician'}}}
+156: {'values_changed': {"root['occupation']": {'new_value': 'Actor, singer & musician', 'old_value': 'Actor'}}}

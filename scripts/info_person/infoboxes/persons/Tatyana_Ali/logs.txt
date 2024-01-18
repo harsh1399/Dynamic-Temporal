@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tatyana Ali', "root['background']": 'solo_singer', "root['alias']": 'Ty, Taty', "root['origin']": 'North Bellmore, New York, U.S.', "root['education']": 'Harvard University', "root['genre']": 'Rhythm and blues, Soul music', "root['occupation']": 'Actress Singer Model', "root['label']": 'MJJ Music', "root['associated_acts']": 'Will Smith, Alfonso Ribeiro, Johnny "J"'}}
+1: {'values_changed': {"root['genre']": {'new_value': 'Rhythm and blues, Soul music', 'old_value': 'Contemporary R&B'}}}
+77: {'dictionary_item_added': {"root['education']": 'Harvard University'}, 'values_changed': {"root['associated_acts']": {'new_value': 'Will Smith, Alfonso Ribeiro, Johnny "J"', 'old_value': 'Will Smith, Johnny "J"'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Tatyana Ali', 'old_value': 'Tatyana Ali is hot'}}}
+96: {'values_changed': {"root['name']": {'new_value': 'Tatyana Ali is hot', 'old_value': 'Tatyana Ali'}}}
+107: {'dictionary_item_added': {"root['alias']": 'Ty, Taty'}, 'values_changed': {"root['origin']": {'new_value': 'North Bellmore, New York, U.S.', 'old_value': 'North Bellmore, New York'}, "root['occupation']": {'new_value': 'Actress Singer Model', 'old_value': 'Actress, singer, model'}}}
+127: {'dictionary_item_added': {"root['origin']": 'North Bellmore, New York', "root['associated_acts']": 'Will Smith, Johnny "J"'}, 'dictionary_item_removed': {"root['alias']": 'Tatyana M. Ali', "root['alma_mater']": 'Harvard University'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, model', 'old_value': 'Actress, Fashion Modeling'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Tatyana Ali', 'old_value': 'Tatyana Aliiiiiiiiiii'}}}
+134: {'values_changed': {"root['name']": {'new_value': 'Tatyana Aliiiiiiiiiii', 'old_value': 'Tatyana Ali'}}}
+165: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+169: {'values_changed': {"root['occupation']": {'new_value': 'Actress, Fashion Modeling', 'old_value': 'Actress, Fashion Modeling, singer'}}}
+170: {'values_changed': {"root['occupation']": {'new_value': 'Actress, Fashion Modeling, singer', 'old_value': 'Actress, Fashion Modeling'}}}
+171: {'values_changed': {"root['occupation']": {'new_value': 'Actress, Fashion Modeling', 'old_value': 'Actress, Fashion Modeling, singer'}}}

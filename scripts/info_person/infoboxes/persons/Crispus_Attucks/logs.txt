@@ -1,0 +1,12 @@
+230: {'dictionary_item_removed': {"root['name']": 'Crispus Attucks', "root['birthdate']": '1723', "root['birthplace']": 'United States', "root['deathdate']": 'March 5, 1770', "root['deathplace']": 'Boston, Massachusetts, United States', "root['occupation']": 'Soldier '}}
+231: {'values_changed': {"root['occupation']": {'new_value': 'Soldier ', 'old_value': 'Soldier, Dockworker '}}}
+249: {'dictionary_item_added': {"root['birthdate']": '1723', "root['birthplace']": 'United States', "root['deathdate']": 'March 5, 1770', "root['deathplace']": 'Boston, Massachusetts, United States'}, 'values_changed': {"root['name']": {'new_value': 'Crispus Attucks', 'old_value': 'haha'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'haha', 'old_value': 'Crispus Attucks'}}}
+337: {'values_changed': {"root['name']": {'new_value': 'Crispus Attucks', 'old_value': 'Crispus skypeo'}}}
+339: {'values_changed': {"root['name']": {'new_value': 'Crispus skypeo', 'old_value': 'Crispus Attucks'}}}
+359: {'values_changed': {"root['occupation']": {'new_value': 'Soldier, Dockworker ', 'old_value': 'Soldier, Dockworker,Former slave '}}}
+360: {'values_changed': {"root['occupation']": {'new_value': 'Soldier, Dockworker,Former slave ', 'old_value': 'Soldier, Dockworker,Slave '}}}
+362: {'values_changed': {"root['occupation']": {'new_value': 'Soldier, Dockworker,Slave ', 'old_value': 'Soldier, Dockworker '}}}
+410: {'values_changed': {"root['name']": {'new_value': 'Crispus Attucks', 'old_value': 'Crispus Attucks or John Shaft'}}}
+411: {'values_changed': {"root['name']": {'new_value': 'Crispus Attucks or John Shaft', 'old_value': 'Crispus Attucks'}}}
+431: {'values_changed': {"root['occupation']": {'new_value': 'Soldier, Dockworker ', 'old_value': 'Dockworker  |'}}}

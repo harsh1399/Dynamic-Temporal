@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Esai Morales', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Brooklyn, New York '}}
+1: {'dictionary_item_added': {"root['birthplace']": 'Brooklyn, New York '}, 'dictionary_item_removed': {"root['hometown']": 'Burbank, California '}}
+2: {'dictionary_item_added': {"root['hometown']": 'Burbank, California '}, 'dictionary_item_removed': {"root['birthplace']": 'Brooklyn, New York '}}
+3: {'dictionary_item_added': {"root['birthplace']": 'Brooklyn, New York '}, 'dictionary_item_removed': {"root['hometown']": 'Burbank, California '}}
+4: {'dictionary_item_added': {"root['hometown']": 'Burbank, California '}, 'dictionary_item_removed': {"root['birthplace']": 'Brooklyn, New York '}}
+9: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York ', 'old_value': 'Brooklyn, New York United States '}}}
+10: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York United States ', 'old_value': 'Brookyln, New York, United States '}}}
+11: {'values_changed': {"root['birthplace']": {'new_value': 'Brookyln, New York, United States ', 'old_value': 'Brooklyn, New York, United States '}}}
+16: {'dictionary_item_added': {"root['birthplace']": 'Brooklyn, New York, United States '}, 'dictionary_item_removed': {"root['hometown']": 'Burbank, California '}}
+17: {'dictionary_item_added': {"root['hometown']": 'Burbank, California '}, 'dictionary_item_removed': {"root['birthplace']": 'Brooklyn, New York, United States '}}
+25: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York, United States ', 'old_value': 'Brooklyn, New York '}}}
+28: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York ', 'old_value': 'Brooklyn, New York, United States '}}}
+29: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York, United States ', 'old_value': 'Brooklyn, New York '}}}
+33: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York ', 'old_value': 'Brooklyn, New York, United States '}}}
+44: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York, United States ', 'old_value': 'Brooklyn, New York '}}}
+45: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York ', 'old_value': 'Brooklyn, New York, United States '}}}
+50: {'dictionary_item_added': {"root['birthplace']": 'Brooklyn, New York, United States '}, 'dictionary_item_removed': {"root['hometown']": 'Burbank, California '}}
+66: {'dictionary_item_added': {"root['hometown']": 'Burbank, California '}, 'dictionary_item_removed': {"root['birthplace']": 'Brooklyn, New York, United States '}}
+114: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['birthplace']": 'Brooklyn, New York, United States '}, 'dictionary_item_removed': {"root['partner']": 'Elizabeth Mazzocchi (2006-2007)   Elvimar Silva (present)', "root['children']": 'Mariana Oliveira Morales (born 2010)', "root['occupation']": 'Actor, producer '}}
+116: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer ', 'old_value': 'Actor, producer, director '}}}
+124: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Mazzocchi (2006-2007)   Elvimar Silva (present)', 'old_value': 'Elvimar Silva (present)'}, "root['occupation']": {'new_value': 'Actor, producer, director ', 'old_value': 'Actor, producer, director, musician '}}}
+139: {'values_changed': {"root['partner']": {'new_value': 'Elvimar Silva (present)', 'old_value': 'Elvimar Silva'}, "root['occupation']": {'new_value': 'Actor, producer, director, musician ', 'old_value': 'Actor, producer, director, musician'}}}
+153: {'values_changed': {"root['partner']": {'new_value': 'Elvimar Silva', 'old_value': 'Elvimar Silva (2010-) '}}}
+154: {'values_changed': {"root['partner']": {'new_value': 'Elvimar Silva (2010-) ', 'old_value': 'Elvimar Silva (2010-present) '}}}
+164: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer, director, musician'}}, 'dictionary_item_added': {"root['partner']": 'Elvimar Silva (2010-present) '}, 'dictionary_item_removed': {"root['education']": 'School of Performing Arts', "root['spouse']": 'Elvimar Silva '}, 'values_changed': {"root['children']": {'new_value': 'Mariana Oliveira Morales (born 2010)', 'old_value': '1'}}}

@@ -1,0 +1,10 @@
+23: {'dictionary_item_removed': {"root['Name']": 'Max Roach', "root['Img']": 'max-Roach.jpg', "root['Img_capt']": 'Jazz in 3/4 time" cover released in 1957 on EmArcy Records', "root['Background']": 'non_vocal_instrumentalist', "root['Birth_name']": 'Maxwell Lemuel Roach', "root['Born']": 'January 10, 1924', "root['Origin']": 'Newland, North Carolina', "root['Instrument']": 'drums, percussion', "root['Genre']": 'Jazz', "root['Associated_acts']": 'Dizzy Gillespie, Sonny Rollins'}}
+49: {'values_changed': {"root['Born']": {'new_value': 'January 10, 1924', 'old_value': 'birth date and age'}}}
+54: {'dictionary_item_removed': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Born']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+80: {'dictionary_item_added': {"root['Img']": 'max-Roach.jpg'}, 'values_changed': {"root['Instrument']": {'new_value': 'drums, percussion', 'old_value': 'drums percussion'}}}
+90: {'dictionary_item_removed': {"root['Img']": '16roach.l.jpg'}, 'values_changed': {"root['Img_capt']": {'new_value': 'Jazz in 3/4 time" cover released in 1957 on EmArcy Records', 'old_value': 'Max Roach at the Bell Atlantic Jazz Festival at Columbia University in 2000'}}}
+127: {'values_changed': {"root['Origin']": {'new_value': 'Newland, North Carolina', 'old_value': 'Dismal, North Carolina'}}}
+128: {'values_changed': {"root['Origin']": {'new_value': 'Dismal, North Carolina', 'old_value': 'Newland, North Carolina'}}}
+137: {'values_changed': {"root['Origin']": {'new_value': 'Newland, North Carolina', 'old_value': 'http://www.placenames.com/us/p1027025/ Township of Newland, North Carolina'}}}
+144: {'values_changed': {"root['Origin']": {'new_value': 'http://www.placenames.com/us/p1027025/ Township of Newland, North Carolina', 'old_value': 'Newland, North Carolina'}}}
+190: {'values_changed': {"root['Origin']": {'new_value': 'Newland, North Carolina', 'old_value': 'http://www.placenames.com/us/p1027025/ Township of Newland, North Carolina'}}}

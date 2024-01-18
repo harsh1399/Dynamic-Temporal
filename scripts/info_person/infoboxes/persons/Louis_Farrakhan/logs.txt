@@ -1,0 +1,51 @@
+0: {'dictionary_item_removed': {"root['name']": 'Louis Farrakhan', "root['order']": 'Nation of Islam', "root['term_start']": '1978/1981', "root['alma_mater']": 'English High School of Boston', "root['religion']": 'Nation of Islam', "root['spouse']": 'Khadijah Farrakhan '}}
+14: {'values_changed': {"root['spouse']": {'new_value': 'Khadijah Farrakhan ', 'old_value': 'Khadijah Farrakhan | ...'}}}
+15: {'values_changed': {"root['spouse']": {'new_value': 'Khadijah Farrakhan | ...', 'old_value': 'Khadijah Farrakhan '}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louiis Farrakhan'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'Louiis Farrakhan', 'old_value': 'Louis Farrakhan'}}}
+141: {'dictionary_item_removed': {"root['office']": 'Nation of Islam', "root['occupation']": 'Religious leader'}, 'values_changed': {"root['order']": {'new_value': 'Nation of Islam', 'old_value': '1st'}, "root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam (Nation of Islam)'}}}
+142: {'dictionary_item_added': {"root['order']": '1st'}, 'values_changed': {"root['religion']": {'new_value': 'Islam (Nation of Islam)', 'old_value': 'Nation of Islam'}}}
+182: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+183: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}}}
+188: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+189: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}}}
+230: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louis Thanx Farrakhan'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Louis Thanx Farrakhan', 'old_value': 'Louis Farrakhan'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louis Farrakh an'}}}
+233: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakh an', 'old_value': 'Louis Farrakhan'}}}
+234: {'values_changed': {"root['occupation']": {'new_value': 'Religious leader', 'old_value': 'Racist leader'}}}
+235: {'values_changed': {"root['occupation']": {'new_value': 'Racist leader', 'old_value': 'Religious leader'}}}
+257: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louis Farrak-han'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'Louis Farrak-han', 'old_value': 'Louis Farrakhan'}}}
+283: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+284: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}}}
+285: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+286: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}}}
+287: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+297: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}}}
+299: {'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Islam'}}}
+306: {'dictionary_item_added': {"root['office']": 'Nation of Islam', "root['term_start']": '1978/1981'}, 'dictionary_item_removed': {"root['children']": 'Nine children: four sons (Mustapha, Joshua Nasir, Abnar, and Louis Jr.) and five daughters (Donna, Hanan, Maria, Fatimah, and Khallada).<ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Religious leader', 'old_value': 'Leader of the Nation of Islam'}, "root['religion']": {'new_value': 'Islam', 'old_value': 'Nation of Islam'}, "root['spouse']": {'new_value': 'Khadijah Farrakhan ', 'old_value': 'Khadijah Farrakhan'}}}
+366: {'values_changed': {"root['occupation']": {'new_value': 'Leader of the Nation of Islam', 'old_value': 'Leader and Ministerof the Nation of Islam'}}}
+368: {'dictionary_item_removed': {"root['office']": 'Leader of the Nation of Islam'}, 'values_changed': {"root['occupation']": {'new_value': 'Leader and Ministerof the Nation of Islam', 'old_value': 'Imam, Minister, Cleric, Spiritual Leader'}}}
+369: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louis Farrakhan Sr.'}}}
+372: {'dictionary_item_added': {"root['office']": 'Leader of the Nation of Islam'}, 'values_changed': {"root['religion']": {'new_value': 'Nation of Islam', 'old_value': 'Nation of Islam previously Christianity'}}}
+373: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan Sr.', 'old_value': 'Louis Farrakhan'}, "root['occupation']": {'new_value': 'Imam, Minister, Cleric, Spiritual Leader', 'old_value': 'Leader of the Nation of Islam'}, "root['religion']": {'new_value': 'Nation of Islam previously Christianity', 'old_value': 'Nation of Islam'}}}
+417: {'values_changed': {"root['occupation']": {'new_value': 'Leader of the Nation of Islam', 'old_value': 'Leader of the Nation of Islam, Imam, Cleric, Spiritual Leader'}}}
+418: {'values_changed': {"root['occupation']": {'new_value': 'Leader of the Nation of Islam, Imam, Cleric, Spiritual Leader', 'old_value': 'Leader of the Nation of Islam'}}}
+422: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'Louis Farrakhan Sr.'}}}
+423: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan Sr.', 'old_value': 'Louis Farrakhan'}}}
+424: {'values_changed': {"root['children']": {'new_value': 'Nine children: four sons (Mustapha, Joshua Nasir, Abnar, and Louis Jr.) and five daughters (Donna, Hanan, Maria, Fatimah, and Khallada).<ref name', 'old_value': '9 (including Mustapha and Donna).<ref name'}}}
+425: {'values_changed': {"root['children']": {'new_value': '9 (including Mustapha and Donna).<ref name', 'old_value': '9 (including Mustapha and Donna)<ref name'}}}
+432: {'dictionary_item_removed': {"root['residence']": 'Kenwood, Chicago, Illinois, US'}}
+451: {'values_changed': {"root['occupation']": {'new_value': 'Leader of the Nation of Islam', 'old_value': 'Terrorist'}}}
+452: {'values_changed': {"root['occupation']": {'new_value': 'Terrorist', 'old_value': 'Leader of the Nation of Islam'}}}
+479: {'values_changed': {"root['occupation']": {'new_value': 'Leader of the Nation of Islam', 'old_value': 'Chief Financial Officer of NOI'}}}
+480: {'values_changed': {"root['occupation']": {'new_value': 'Chief Financial Officer of NOI', 'old_value': 'Leader of the Nation of Islam'}}}
+482: {'values_changed': {"root['residence']": {'new_value': 'Kenwood, Chicago, Illinois, US', 'old_value': 'A Mansion in Chicago, IL'}, "root['occupation']": {'new_value': 'Leader of the Nation of Islam', 'old_value': 'Chief Financial Officer of NOI'}}}
+483: {'values_changed': {"root['residence']": {'new_value': 'A Mansion in Chicago, IL', 'old_value': 'Kenwood, Chicago, Illinois, US'}, "root['occupation']": {'new_value': 'Chief Financial Officer of NOI', 'old_value': 'Leader of the Nation of Islam'}}}
+495: {'values_changed': {"root['name']": {'new_value': 'Louis Farrakhan', 'old_value': 'stupid'}}}
+496: {'values_changed': {"root['name']": {'new_value': 'stupid', 'old_value': 'Louis Farrakhan'}}}
+544: {'dictionary_item_added': {"root['religion']": 'Nation of Islam'}, 'values_changed': {"root['children']": {'new_value': '9 (including Mustapha and Donna)<ref name', 'old_value': '23 (including Mustapha and Donna)<ref name'}}}
+545: {'values_changed': {"root['children']": {'new_value': '23 (including Mustapha and Donna)<ref name', 'old_value': '9 (including Mustapha and Donna)<ref name'}}}
+580: {'dictionary_item_added': {"root['alma_mater']": 'English High School of Boston'}, 'dictionary_item_removed': {"root['education']": 'English High School of Boston'}, 'values_changed': {"root['residence']": {'new_value': 'Kenwood, Chicago, Illinois, US', 'old_value': 'Kenwood, Chicago, Illinois'}, "root['children']": {'new_value': '9 (including Mustapha and Donna)<ref name', 'old_value': '9; including Mustapha and Donna<ref name'}}}
+581: {'values_changed': {"root['spouse']": {'new_value': 'Khadijah Farrakhan', 'old_value': 'marriage'}}}

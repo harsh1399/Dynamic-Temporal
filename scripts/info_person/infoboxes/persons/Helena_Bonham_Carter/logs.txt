@@ -1,0 +1,48 @@
+0: {'dictionary_item_removed': {"root['name']": 'Helena Bonham Carter', "root['occupation']": 'Actress', "root['partner']": 'Tim Burton (2001–present) '}}
+2: {'dictionary_item_removed': {"root['children']": 'Billy Ray Burton  (b. 2003)   Nell Burton  (b. 2008)  '}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, voice actress, singer'}, "root['partner']": {'new_value': 'Tim Burton (2001–present) ', 'old_value': 'Tim Burton  (2001&ndash;present)'}}}
+4: {'dictionary_item_added': {"root['children']": 'Billy Ray Burton  (b. 2003)   Nell Burton  (b. 2008)  '}, 'values_changed': {"root['partner']": {'new_value': 'Tim Burton  (2001&ndash;present)', 'old_value': 'Tim Burton  (2001&ndash;present)  '}}}
+35: {'values_changed': {"root['partner']": {'new_value': 'Tim Burton  (2001&ndash;present)  ', 'old_value': 'Tim Burton  (2001–present)  '}}}
+104: {'values_changed': {"root['partner']": {'new_value': 'Tim Burton  (2001–present)  ', 'old_value': 'Kenneth Branagh  (1994–1999)                   Tim Burton  (2001–present)  '}}}
+144: {'values_changed': {"root['partner']": {'new_value': 'Kenneth Branagh  (1994–1999)                   Tim Burton  (2001–present)  ', 'old_value': 'Kenneth Branagh  (1994–1999) , Tim Burton  (2001–present)'}}}
+197: {'dictionary_item_added': {"root['partner']": 'Kenneth Branagh  (1994–1999) , Tim Burton  (2001–present)'}, 'dictionary_item_removed': {"root['boyfriend']": 'Kenneth Branagh  (1994–1999) , Tim Burton  (2001–present)'}}
+251: {'dictionary_item_removed': {"root['partner']": 'Tim Burton (2001—present; 2 children) '}}
+289: {'values_changed': {"root['partner']": {'new_value': 'Tim Burton (2001—present; 2 children) ', 'old_value': 'Tim Burton (2001–present; 2 children) '}}}
+404: {'dictionary_item_removed': {"root['Alma_mater']": 'Westminster School'}}
+406: {'dictionary_item_added': {"root['Alma_mater']": 'Westminster School'}, 'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena bitch carter'}}}
+411: {'values_changed': {"root['name']": {'new_value': 'Helena bitch carter', 'old_value': 'Helena Bonham Carter'}}}
+457: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Yuck City'}}}
+458: {'values_changed': {"root['name']": {'new_value': 'Yuck City', 'old_value': 'Helena Bonham Carter'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena Bonham Carter   File:Example.jpg'}}}
+465: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter   File:Example.jpg', 'old_value': 'Helena Bonham Carter'}}}
+468: {'values_changed': {"root['boyfriend']": {'new_value': 'Kenneth Branagh  (1994–1999) , Tim Burton  (2001–present)', 'old_value': 'Kenneth Branagh  (1994–99) , Tim Burton  (2001–present)'}}}
+471: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'nicole jubon'}}}
+472: {'values_changed': {"root['name']": {'new_value': 'nicole jubon', 'old_value': 'Helena Bonham Carter'}}}
+562: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena Bonham Carter-Burton'}}}
+571: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter-Burton', 'old_value': 'Helena Bonham Carter'}}}
+597: {'dictionary_item_added': {"root['boyfriend']": 'Kenneth Branagh  (1994–99) , Tim Burton  (2001–present)'}, 'dictionary_item_removed': {"root['children']": '2 '}, 'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena Bonham Carter   Commander of the Order of the British Empire'}, "root['occupation']": {'new_value': 'Actress, voice actress, singer', 'old_value': 'Actress'}, "root['partner']": {'new_value': 'Tim Burton (2001–present; 2 children) ', 'old_value': 'Tim Burton (2001–present)'}}}
+775: {'dictionary_item_removed': {"root['education']": 'South Hampstead High School Westminster School', "root['residence']": 'Hampstead, London', "root['awards']": 'Full list '}, 'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter   Commander of the Order of the British Empire', 'old_value': 'Helena Bonham Carter'}, "root['partner']": {'new_value': 'Tim Burton (2001–present)', 'old_value': 'Kenneth Branagh (1994–99), Tim Burton (2001–14)'}, "root['children']": {'new_value': '2 ', 'old_value': '2 small'}}}
+799: {'values_changed': {"root['residence']": {'new_value': 'Hampstead, London', 'old_value': 'Hampstead, London, England, U.K.'}}}
+800: {'values_changed': {"root['residence']": {'new_value': 'Hampstead, London, England, U.K.', 'old_value': 'Hampstead, London, England'}}}
+817: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena la Bonham Carter'}}}
+819: {'values_changed': {"root['name']": {'new_value': 'Helena la Bonham Carter', 'old_value': 'Helena Bonham Carter'}}}
+839: {'values_changed': {"root['residence']": {'new_value': 'Hampstead, London, England', 'old_value': 'Hampstead, London'}}}
+851: {'values_changed': {"root['residence']": {'new_value': 'Hampstead, London', 'old_value': 'Hampstead, London, England'}}}
+920: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, singer'}}}
+921: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress'}}}
+945: {'values_changed': {"root['partner']": {'new_value': 'Kenneth Branagh (1994–99), Tim Burton (2001–14)', 'old_value': 'Kenneth Branagh (m. 1994, d. 1999), Tim Burton (m. 2001, d. 2014)'}}}
+946: {'values_changed': {"root['partner']": {'new_value': 'Kenneth Branagh (m. 1994, d. 1999), Tim Burton (m. 2001, d. 2014)', 'old_value': 'Kenneth Branagh (1994-99), Tim Burton (2001-14)'}}}
+956: {'dictionary_item_added': {"root['residence']": 'Hampstead, London, England'}, 'values_changed': {"root['education']": {'new_value': 'South Hampstead High School Westminster School', 'old_value': 'ubl'}, "root['partner']": {'new_value': 'Kenneth Branagh (1994-99), Tim Burton (2001-14)', 'old_value': 'Tim Burton (2001–2014)'}, "root['children']": {'new_value': '2 small', 'old_value': '2'}}}
+973: {'values_changed': {"root['partner']": {'new_value': 'Tim Burton (2001–2014)', 'old_value': 'Plainlist'}}}
+974: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena Bonham "Boobs" Carter'}}}
+975: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham "Boobs" Carter', 'old_value': 'Helena Bonham Carter'}}}
+977: {'dictionary_item_removed': {"root['works']": 'List of Helena Bonham Carter performances'}}
+979: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helena Bonham Carter <3'}}}
+981: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter <3', 'old_value': 'Helena Bonham Carter'}}}
+999: {'dictionary_item_removed': {"root['list']": 'website'}, 'values_changed': {"root['awards']": {'new_value': 'Full list ', 'old_value': 'List of awards and nominations received by Helena Bonham Carter'}}}
+1000: {'dictionary_item_added': {"root['list']": 'website'}, 'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Helena Bonham Carter', 'old_value': 'Full list '}}}
+1089: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helana Bonham Carter'}}}
+1090: {'values_changed': {"root['name']": {'new_value': 'Helana Bonham Carter', 'old_value': 'Helena Bonham Carter'}}}
+1091: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Helaana Bonham Carter'}}}
+1092: {'values_changed': {"root['name']": {'new_value': 'Helaana Bonham Carter', 'old_value': 'Helena Bonham Carter'}}}
+1112: {'values_changed': {"root['name']": {'new_value': 'Helena Bonham Carter', 'old_value': 'Harriet bons carder'}}}
+1113: {'values_changed': {"root['name']": {'new_value': 'Harriet bons carder', 'old_value': 'Helena Bonham Carter'}}}

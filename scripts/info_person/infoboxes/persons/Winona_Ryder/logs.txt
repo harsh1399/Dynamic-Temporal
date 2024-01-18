@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Winona Laura Horowitz', "root['birthdate']": 'birth date and age', "root['birthplace']": 'city-state', "root['occupation']": 'Actress, producer', "root['yearsactive']": '1986&ndash;present', "root['domesticpartner']": 'Johnny Depp (1989-1993)'}}
+7: {'values_changed': {"root['birthplace']": {'new_value': 'city-state', 'old_value': 'Winona, Minnesota'}}}
+8: {'values_changed': {"root['birthplace']": {'new_value': 'Winona, Minnesota', 'old_value': 'city-state'}}}
+78: {'dictionary_item_added': {"root['domesticpartner']": 'Johnny Depp (1989-1993)'}, 'values_changed': {"root['yearsactive']": {'new_value': '1986&ndash;present', 'old_value': '1986&ndash;present '}}}
+134: {'dictionary_item_removed': {"root['domesticpartner']": 'Johnny Depp (1989–1993)  '}, 'values_changed': {"root['yearsactive']": {'new_value': '1986&ndash;present ', 'old_value': '1986&ndash;present'}}}
+135: {'dictionary_item_added': {"root['domesticpartner']": 'Johnny Depp (1989–1993)  '}, 'values_changed': {"root['yearsactive']": {'new_value': '1986&ndash;present', 'old_value': '1986&ndash;present '}}}
+409: {'dictionary_item_added': {"root['birthname']": 'Winona Laura Horowitz', "root['birthdate']": 'birth date and age', "root['birthplace']": 'city-state', "root['yearsactive']": '1986&ndash;present '}, 'dictionary_item_removed': {"root['partner']": 'Johnny Depp (1998-93) '}}
+410: {'values_changed': {"root['partner']": {'new_value': 'Johnny Depp (1998-93) ', 'old_value': 'Johnny Depp (1989-93) '}}}
+475: {'dictionary_item_added': {"root['partner']": 'Johnny Depp (1989-93) '}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, producer', 'old_value': 'Actress, producer, actora'}}}
+476: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, actora', 'old_value': 'Actress, producer'}}}

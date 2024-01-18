@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Clive Sinclair', "root['ethnicity']": 'White people', "root['occupation']": 'Inventor, Entrepreneur', "root['religion']": 'Atheism', "root['partner']": 'Ann', "root['children']": 'Belinda, Crispin, Bartholomew'}}
+15: {'values_changed': {"root['partner']": {'new_value': 'Ann', 'old_value': 'Angie Bowness'}}}
+52: {'dictionary_item_added': {"root['ethnicity']": 'White people', "root['religion']": 'Atheism', "root['partner']": 'Angie Bowness'}, 'dictionary_item_removed': {"root['employer']": 'Sinclair Research', "root['spouse']": 'Ann Trevor-Briscoe (1962–1985) Angie Bowness (2010–2017)'}, 'values_changed': {"root['name']": {'new_value': 'Sir Clive Sinclair', 'old_value': 'Clive Sinclair'}, "root['occupation']": {'new_value': 'Inventor, Entrepreneur', 'old_value': 'Inventor, entrepreneur'}}}
+70: {'values_changed': {"root['spouse']": {'new_value': 'Ann Trevor-Briscoe (1962–1985) Angie Bowness (2010–2017)', 'old_value': 'Ann Trevor-Briscoe (1962–1985)  Angie Bowness (2010–2017)'}}}
+71: {'values_changed': {"root['children']": {'new_value': 'Belinda, Crispin, Bartholomew', 'old_value': '3'}}}
+72: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '3 '}}}
+73: {'dictionary_item_removed': {"root['known_for']": 'Inventor of the pocket calculator'}, 'values_changed': {"root['occupation']": {'new_value': 'Inventor, entrepreneur', 'old_value': 'Inventor and entrepreneur'}}}
+124: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the pocket calculator', 'old_value': 'Inventor of the pocket calculator, ZX80, ZX81,ZX Spectrum'}}}
+133: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the pocket calculator, ZX80, ZX81,ZX Spectrum', 'old_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Clive Sinclair', 'old_value': 'my donny anti'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'my donny anti', 'old_value': 'Clive Sinclair'}}}
+162: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum', 'old_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum,QL.'}}}
+163: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum,QL.', 'old_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum, QL.'}}}
+198: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the pocket calculator, ZX80, ZX81, ZX Spectrum, QL.', 'old_value': 'Inventor of the slimline pocket calculator, ZX80, ZX81, ZX Spectrum, QL.'}}}
+208: {'dictionary_item_added': {"root['name']": 'Clive Sinclair'}, 'values_changed': {"root['spouse']": {'new_value': 'Ann Trevor-Briscoe (1962–1985)  Angie Bowness (2010–2017)', 'old_value': 'Plainlist'}}}
+224: {'values_changed': {"root['known_for']": {'new_value': 'Inventor of the slimline pocket calculator, ZX80, ZX81, ZX Spectrum, QL.', 'old_value': 'Inventor of the enum'}}}
+232: {'values_changed': {"root['employer']": {'new_value': 'Sinclair Research', 'old_value': 'Sinclair Research Ltd.'}}}
+233: {'type_changes': {"root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Inventor of the enum'}}, 'values_changed': {"root['employer']": {'new_value': 'Sinclair Research Ltd.', 'old_value': 'Founder of Sinclair Radionics'}, "root['occupation']": {'new_value': 'Inventor and entrepreneur', 'old_value': 'Entrepreneur, inventor'}}}
+234: {'dictionary_item_removed': {"root['education']": 'St  Georges College, Weybridge'}}
+244: {'type_changes': {"root['known_for']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}}, 'dictionary_item_added': {"root['education']": 'St  Georges College, Weybridge', "root['employer']": 'Founder of Sinclair Radionics'}}
+245: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Entrepreneur, inventor'}}}
+301: {'values_changed': {"root['known_for']": {'new_value': 'Plainlist', 'old_value': 'Indented plainlist'}}}

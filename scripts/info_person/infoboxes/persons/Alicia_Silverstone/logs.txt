@@ -1,0 +1,6 @@
+111: {'dictionary_item_removed': {"root['occupation']": 'Actress', "root['residence']": 'Los Angeles, California, U.S.', "root['spouse']": 'marriage', "root['children']": '1'}}
+138: {'dictionary_item_removed': {"root['list']": 'https://books.google.com/books?id'}}
+141: {'dictionary_item_added': {"root['list']": 'https://books.google.com/books?id'}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Bear Blu Jarecki'}}}
+142: {'values_changed': {"root['children']": {'new_value': 'Bear Blu Jarecki', 'old_value': '1'}}}
+234: {'dictionary_item_removed': {"root['name']": 'BIITTCGHHES'}}
+286: {'dictionary_item_added': {"root['name']": 'BIITTCGHHES'}, 'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles'}}}

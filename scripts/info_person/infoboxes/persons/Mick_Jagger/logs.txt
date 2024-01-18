@@ -1,0 +1,80 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mick Jagger', "root['background']": 'solo_singer', "root['Born']": 'birth date and age', "root['genre']": 'Rock music', "root['instrument']": 'Vocals, guitar, bass guitar, harmonica, percussion and keyboards', "root['occupation']": 'Singer-songwriter, musician, record and film producer, actor', "root['label']": 'Virgin Records', "root['associated_acts']": 'The Rolling Stones, Super Heavy'}}
+10: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick Jaggerer'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'Mick Jaggerer', 'old_value': 'Mick Jagger'}}}
+32: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick "Matt Bramall\'s Lover" Jagger'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Mick "Matt Bramall\'s Lover" Jagger', 'old_value': 'Mick Jagger'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick (Umick) Jagger'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Mick (Umick) Jagger', 'old_value': 'Mick Jagger'}}}
+64: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, bass guitar, harmonica, percussion and keyboards', 'old_value': 'Vocals, guitar, bass guitar, harmonica, percussion, keyboards'}}}
+88: {'dictionary_item_added': {"root['Born']": 'birth date and age'}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, bass guitar, harmonica, percussion, keyboards', 'old_value': 'Singing'}}}
+154: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Pop, Hip Hop, RnB, Pop Rock.'}}}
+155: {'values_changed': {"root['genre']": {'new_value': 'Pop, Hip Hop, RnB, Pop Rock.', 'old_value': 'Rock music'}}}
+184: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, Super Heavy', 'old_value': 'The Rolling Stones, SuperHeavy'}}}
+187: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Satanic worship music'}}}
+188: {'values_changed': {"root['genre']": {'new_value': 'Satanic worship music', 'old_value': 'Rock music'}}}
+214: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Nima Jaghger'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'Nima Jaghger', 'old_value': 'Mick Jagger'}}}
+246: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy', 'old_value': 'The Rolling Stones, SuperHeavy, Michael Jackson'}}}
+247: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Michael Jackson', 'old_value': 'The Rolling Stones, SuperHeavy'}}}
+275: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick f-er'}}}
+276: {'values_changed': {"root['name']": {'new_value': 'Mick f-er', 'old_value': 'Mick Jagger'}}}
+287: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Sir Mick Jagger'}}}
+288: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'Mick Jagger'}}}
+308: {'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, harmonica, guitar, percussion, Bass guitar'}}}
+335: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Sir Mick Jagger'}}}
+336: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'Mick Jagger'}}}
+356: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'sick Jagger'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'sick Jagger', 'old_value': 'Mick Jagger'}}}
+365: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, percussion, Bass guitar', 'old_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards'}}}
+368: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20'}}}
+375: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards', 'old_value': 'Vocals, harnonica, guitar, percussion, bass, keyboards'}}}
+377: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harnonica, guitar, percussion, bass, keyboards', 'old_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards'}}}
+381: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, jennifer lopez'}}}
+382: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, jennifer lopez', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, Jennifer Lopez'}}}
+394: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, Jennifer Lopez', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20'}}}
+395: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mitt Jagger Romney'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'Mitt Jagger Romney', 'old_value': 'Mick Jagger'}}}
+433: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, Tina Turner'}}}
+434: {'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, Tina Turner', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20'}}}
+443: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick Jager'}}}
+444: {'values_changed': {"root['name']": {'new_value': 'Mick Jager', 'old_value': 'Mick Jagger'}}}
+461: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards', 'old_value': 'Vocals, harmonica, guitar, drums, bass, keyboards'}, "root['occupation']": {'new_value': 'Singer-songwriter, musician, record and film producer, actor', 'old_value': 'Musician, singer-songwriter, record and film producer, actor'}}}
+462: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, drums, bass, keyboards', 'old_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor', 'old_value': 'Singer-songwriter, musician, record and film producer, actor'}}}
+472: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick Titter'}}}
+473: {'values_changed': {"root['name']": {'new_value': 'Mick Titter', 'old_value': 'Mick Jagger'}}}
+481: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Singer-songwriter, musician, record and film producer, actor', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}}}
+492: {'dictionary_item_removed': {"root['spouse']": [], "root['children']": []}, 'values_changed': {"root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter'}}}
+493: {'dictionary_item_added': {"root['spouse']": [], "root['children']": []}, 'values_changed': {"root['occupation']": {'new_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}}}
+496: {'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, harmonica, guitar, keyboards, bass guitar, drums'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter'}}}
+497: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, keyboards, bass guitar, drums', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}}}
+500: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Apperation 11 has a bunch of gay badges'}}}
+501: {'values_changed': {"root['name']": {'new_value': 'Apperation 11 has a bunch of gay badges', 'old_value': 'Mick Jagger'}}}
+514: {'dictionary_item_removed': {"root['spouses']": 'Jerry Hall (1990-1999), Bianca Jagger (1971-1979)'}}
+604: {'dictionary_item_added': {"root['spouses']": 'Jerry Hall (1990-1999), Bianca Jagger (1971-1979)'}, 'values_changed': {"root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Sir Mick Jagger'}}}
+614: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'Mick Jagger'}}}
+615: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Sir Mick Jagger'}}}
+616: {'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'singing'}}}
+617: {'values_changed': {"root['instrument']": {'new_value': 'singing', 'old_value': 'Singing'}}}
+618: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'the  dic Jagger'}}}
+619: {'values_changed': {"root['name']": {'new_value': 'the  dic Jagger', 'old_value': 'Sir Mick Jagger'}}}
+620: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'Sir Michael Jagger'}}}
+624: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Jagger', 'old_value': 'Sir Michael Jagger and Clandia'}}}
+625: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Jagger and Clandia', 'old_value': 'Sir Michael Jagger'}}}
+635: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Jagger', 'old_value': 'Sir chupa pijas Michael Jagger'}, "root['instrument']": {'new_value': 'Singing', 'old_value': 'Singin PIJAS harmonica, guitar, Keyboard instrument'}}}
+636: {'values_changed': {"root['name']": {'new_value': 'Sir chupa pijas Michael Jagger', 'old_value': 'Sir Michael Jagger'}, "root['instrument']": {'new_value': 'Singin PIJAS harmonica, guitar, Keyboard instrument', 'old_value': 'Singing'}}}
+700: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Jagger', 'old_value': 'Mick Jagger'}}}
+708: {'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Musician, singer-songwriter, music and film producer, actor, screenwriter'}}}
+709: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar, percussion, bass, keyboards', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, music and film producer, actor, screenwriter', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}}}
+718: {'dictionary_item_removed': {"root['Born']": 'birth date and age'}, 'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, guitar, bass guitar, harmonica, percussion and keyboards'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Singer-songwriter, musician, record and film producer, actor'}, "root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am', 'old_value': 'The Rolling Stones, Super Heavy'}}}
+719: {'dictionary_item_added': {"root['Born']": 'birth date and age'}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, bass guitar, harmonica, percussion and keyboards', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Singer-songwriter, musician, record and film producer, actor', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}, "root['associated_acts']": {'new_value': 'The Rolling Stones, Super Heavy', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am'}}}
+726: {'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, harmomica, guitar, keyboards'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter'}}}
+728: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmomica, guitar, keyboards', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Musician, singer, songwriter, music and film producer, actor, screenwriter', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}}}
+749: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Sir Mick Jagger'}}}
+750: {'values_changed': {"root['name']": {'new_value': 'Sir Mick Jagger', 'old_value': 'Mick Jagger'}}}
+753: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'Mick Jacker'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter', 'old_value': 'Musician, singer'}, "root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, Dirk'}}}
+754: {'values_changed': {"root['name']": {'new_value': 'Mick Jacker', 'old_value': 'Mick Jagger'}, "root['occupation']": {'new_value': 'Musician, singer', 'old_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}, "root['associated_acts']": {'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am, Dirk', 'old_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am'}}}
+776: {'values_changed': {"root['name']": {'new_value': 'Mick Jagger', 'old_value': 'turtle man'}}}
+777: {'values_changed': {"root['name']": {'new_value': 'turtle man', 'old_value': 'Mick Jagger'}}}
+821: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rock music'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singing'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Musician, singer-songwriter, record and film producer, actor, screenwriter'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Virgin Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'The Rolling Stones, SuperHeavy, Matchbox 20, will.i.am'}}, 'dictionary_item_removed': {"root['education']": 'London School of Economics', "root['spouse']": 'marriage', "root['partner']": 'ubl', "root['children']": '8, including Jade Jagger', "root['embed']": 'yes', "root['type']": 'speech', "root['filename']": 'Mick Jagger BBC Radio4 Front Row 26 Dec 2012 b01pg54v.flac', "root['description']": "from the BBC programme ''Front Row'', 26 December 2012. |"}}
+852: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['current_member_of']": 'The Rolling Stones', "root['past_member_of']": 'SuperHeavy'}}

@@ -1,0 +1,14 @@
+6: {'dictionary_item_removed': {"root['name']": 'Brian Doyle-Murray', "root['birthname']": 'Brian Murray', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon', "root['othername']": 'Brian Doyle Murphy, Brian Doyle Murray', "root['yearsactive']": '1970-2007', "root['spouse']": 'Christina Stauffer, (2000-Present)', "root['homepage']": 'None'}}
+53: {'values_changed': {"root['yearsactive']": {'new_value': '1970-2007', 'old_value': '1970-Present'}}}
+81: {'dictionary_item_added': {"root['name']": 'Brian Doyle-Murray', "root['birthname']": 'Brian Murray', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon', "root['othername']": 'Brian Doyle Murphy, Brian Doyle Murray', "root['yearsactive']": '1970-Present', "root['homepage']": 'None'}, 'dictionary_item_removed': {"root['occupation']": 'Actor, voice actor, comedian, screenwriter'}, 'values_changed': {"root['spouse']": {'new_value': 'Christina Stauffer, (2000-Present)', 'old_value': 'Christina Stauffer, (m. 2000–present)'}}}
+82: {'values_changed': {"root['spouse']": {'new_value': 'Christina Stauffer, (m. 2000–present)', 'old_value': 'marriage'}}}
+146: {'dictionary_item_removed': {"root['name']": 'Brian Doyle-Murray'}}
+153: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, comedian, screenwriter', 'old_value': 'Comedian, screenwriter, actor, voice actor'}}}
+154: {'values_changed': {"root['occupation']": {'new_value': 'Comedian, screenwriter, actor, voice actor', 'old_value': 'Actor, voice actor, comedian, screenwriter'}}}
+163: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, voice actor, comedian, screenwriter'}}}
+164: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hlist', 'new_value': []}}}
+165: {'values_changed': {"root['occupation']": {'new_value': 'Hlist', 'old_value': 'Ator, voice actor, comedian, screenwriter'}}}
+166: {'values_changed': {"root['occupation']": {'new_value': 'Ator, voice actor, comedian, screenwriter', 'old_value': 'Actor, voice actor, comedian, screenwriter'}}}
+245: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, comedian, screenwriter', 'old_value': 'Actor, voice artist, comedian, screenwriter'}}}
+260: {'dictionary_item_removed': {"root['children']": '3'}}
+261: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'James (1980), Frank (1981), Jill (1983)'}}}

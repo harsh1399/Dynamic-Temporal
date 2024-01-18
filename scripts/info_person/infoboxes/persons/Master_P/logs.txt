@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Master P', "root['image_caption']": 'Master P in 2002', "root['alma_mater']": 'Merritt College (Bachelor of Science', "root['occupation']": [], "root['spouse']": 'marriage', "root['children']": '7, including Romeo Miller', "root['awards']": '#Accolades and honors', "root['organization']": 'House of Glory', "root['embed']": 'yes', "root['instruments']": 'Vocals', "root['genre']": 'Hip hop music', "root['label']": [], "root['associated_acts']": ['504 Boyz', 'TRU', 'Beats by the Pound', 'Drumma Boy', 'Fiend', 'KLC', 'Mac', 'Magic', 'Maserati Rome', 'Mia X', 'Mystikal', 'Snoop Dogg', 'Sons of Funk', 'Solange', 'Soulja Slim', 'UGK']}}
+3: {'values_changed': {"root['children']": {'new_value': '7, including Romeo Miller', 'old_value': '9, including Romeo Miller'}}}
+15: {'iterable_item_removed': {"root['associated_acts'][16]": 'Silkk The Shocker'}}
+16: {'iterable_item_added': {"root['associated_acts'][5]": 'KLC', "root['associated_acts'][16]": 'Silkk The Shocker'}}
+17: {'iterable_item_removed': {"root['associated_acts'][15]": 'Silkk the Shocker'}}
+117: {'dictionary_item_added': {"root['associated_acts']": ['504 Boyz', 'TRU', 'Beats by the Pound', 'Drumma Boy', 'Fiend', 'Mac', 'Magic', 'Maserati Rome', 'Mia X', 'Mystikal', 'Snoop Dogg', 'Sons of Funk', 'Solange', 'Soulja Slim', 'UGK', 'Silkk the Shocker']}, 'dictionary_item_removed': {"root['current_member_ormf']": ['504 Boyz', 'TRU', 'Beats by the Pound']}}
+118: {'dictionary_item_added': {"root['current_member_ormf']": ['504 Boyz', 'TRU', 'Beats by the Pound']}, 'dictionary_item_removed': {"root['current_member_of']": ['504 Boyz', 'TRU', 'Beats by the Pound']}}
+119: {'iterable_item_added': {"root['current_member_of'][2]": 'Beats by the Pound'}}

@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Neil Armstrong', "root['type']": 'USAF / NASA Astronaut', "root['status']": 'Retired', "root['previous_occupation']": 'Naval aviator, test pilot', "root['selection']": 'List of astronauts by selection#1958', "root['eva1']": '1', "root['eva2']": '2 hours 31 minutes', "root['time']": '8 days, 14 hours, 12 minutes and 31 seconds', "root['mission']": 'Gemini 8, Apollo 11', "root['insignia']": 'File:Ge08Patch orig.png', "root['awards']": 'Presidential Medal of Freedom CS Medal of Honor '}}
+6: {'dictionary_item_added': {"root['status']": 'Retired', "root['previous_occupation']": 'Naval aviator, test pilot', "root['eva1']": '1', "root['eva2']": '2 hours 31 minutes', "root['mission']": 'Gemini 8, Apollo 11', "root['insignia']": 'File:Ge08Patch orig.png', "root['awards']": 'Presidential Medal of Freedom CS Medal of Honor '}, 'dictionary_item_removed': {"root['at']": 'Photo of Neil Armstrong, posing in a space suit with the helmet off.', "root['aption']": 'File:Neil Armstrong Signature.svg', "root['previous_occpation']": 'Naval aviator, test pilot', "root['misson']": 'Gemini 8, Apollo 11', "root['insgnia']": 'File:Ge08Patch orig.png', "root['awrds']": 'Presidential Medal of Freedom CS Medal of Honor }'}, 'values_changed': {"root['name']": {'new_value': 'Neil Armstrong', 'old_value': 'Billy Chandler'}, "root['type']": {'new_value': 'USAF / NASA Astronaut', 'old_value': 'USAF / NASA Astronaut  status'}}}
+7: {'dictionary_item_added': {"root['at']": 'Photo of Neil Armstrong, posing in a space suit with the helmet off.', "root['aption']": 'File:Neil Armstrong Signature.svg', "root['previous_occpation']": 'Naval aviator, test pilot', "root['misson']": 'Gemini 8, Apollo 11', "root['insgnia']": 'File:Ge08Patch orig.png', "root['awrds']": 'Presidential Medal of Freedom CS Medal of Honor }'}, 'dictionary_item_removed': {"root['status']": 'Retired', "root['previous_occupation']": 'Naval aviator, test pilot', "root['eva1']": '1', "root['eva2']": '2 hours 31 minutes', "root['mission']": 'Gemini 8, Apollo 11', "root['insignia']": 'File:Ge08Patch orig.png', "root['awards']": 'Presidential Medal of Freedom CS Medal of Honor '}, 'values_changed': {"root['name']": {'new_value': 'Billy Chandler', 'old_value': 'Neil Armstrong'}, "root['type']": {'new_value': 'USAF / NASA Astronaut  status', 'old_value': 'USAF / NASA Astronaut'}}}
+74: {'values_changed': {"root['awards']": {'new_value': 'Presidential Medal of Freedom CS Medal of Honor ', 'old_value': 'known f'}}}
+122: {'values_changed': {"root['status']": {'new_value': 'Retired', 'old_value': 'Deceased'}}}
+228: {'dictionary_item_added': {"root['status']": 'Deceased'}, 'values_changed': {"root['type']": {'new_value': 'USAF / NASA Astronaut', 'old_value': 'NASA Astronaut'}}}
+243: {'values_changed': {"root['time']": {'new_value': '8 days, 14 hours, 12 minutes and 31 seconds', 'old_value': '8 days, 14 hours, 12 minutes, and 31 seconds'}}}
+271: {'dictionary_item_removed': {"root['othrename']": 'Neil Alden Armstrong'}}
+272: {'dictionary_item_added': {"root['othrename']": 'Neil Alden Armstrong'}, 'dictionary_item_removed': {"root['othername']": 'Neil Alden Armstrong'}}
+315: {'values_changed': {"root['previous_occupation']": {'new_value': 'Naval aviator, test pilot', 'old_value': 'Naval aviation'}, "root['selection']": {'new_value': 'List of astronauts by selection#1958', 'old_value': 'List of astronauts by year of selection#1958'}}}
+379: {'values_changed': {"root['time']": {'new_value': '8 days, 14 hours, 12 minutes, and 31 seconds', 'old_value': '8 days, 14 hours, 12 minutes, and 30 seconds'}}}
+422: {'dictionary_item_removed': {"root['status']": 'Deceased'}}
+467: {'dictionary_item_added': {"root['status']": 'Deceased'}, 'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'USAF/NASA Astronaut'}}}
+481: {'values_changed': {"root['type']": {'new_value': 'USAF/NASA Astronaut', 'old_value': 'NASA Astronaut'}}}
+524: {'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'United States Air Force'}}}
+525: {'dictionary_item_removed': {"root['status']": 'Deceased'}}
+526: {'values_changed': {"root['type']": {'new_value': 'United States Air Force', 'old_value': 'NASA Astronaut'}}}
+527: {'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'United States Air Force'}}}
+528: {'values_changed': {"root['type']": {'new_value': 'United States Air Force', 'old_value': 'NASA Astronaut'}}}
+532: {'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'United States Air Force'}}}
+533: {'values_changed': {"root['type']": {'new_value': 'United States Air Force', 'old_value': 'NASA Astronaut'}}}
+534: {'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'United States Air Force'}}}
+535: {'values_changed': {"root['type']": {'new_value': 'United States Air Force', 'old_value': 'NASA Astronaut'}}}
+611: {'values_changed': {"root['awards']": {'new_value': 'known f', 'old_value': 'Presidential Medal of Freedom CS Medal of Honor '}}}
+677: {'values_changed': {"root['type']": {'new_value': 'NASA Astronaut', 'old_value': 'NASA Astronaut <ref name'}}}
+696: {'values_changed': {"root['name']": {'new_value': 'Neil Armstrong', 'old_value': 'Neil Legweak'}}}
+697: {'values_changed': {"root['name']": {'new_value': 'Neil Legweak', 'old_value': 'Neil Armstrong'}}}
+725: {'values_changed': {"root['status']": {'new_value': 'Deceased', 'old_value': 'God took him back with him'}}}
+726: {'values_changed': {"root['status']": {'new_value': 'God took him back with him', 'old_value': 'Deceased'}}}

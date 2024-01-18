@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Billy Ray Cyrus', "root['occupation']": [], "root['children']": 'ubl', "root['alma_mater']": 'Georgetown College (Kentucky)', "root['spouse']": 'ubl', "root['instrument']": [], "root['genre']": 'Country music', "root['label']": [], "root['associated_acts']": []}}
+20: {'dictionary_item_removed': {"root['background']": 'solo_singer'}}
+84: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}}}
+129: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '6, including Brandi Cyrus', 'new_value': []}}, 'dictionary_item_added': {"root['alma_mater']": 'Georgetown College (Kentucky)', "root['background']": 'solo_singer'}, 'dictionary_item_removed': {"root['education']": 'Georgetown College (Kentucky)', "root['awards']": 'List of awards and nominations received by Billy Ray Cyrus', "root['embed']": 'yes'}}
+132: {'dictionary_item_removed': {"root['date']": 'birth date and age', "root['publisher']": 'filmreference.com  |archive-url'}}
+137: {'dictionary_item_added': {"root['children']": '6, including Brandi Cyrus', "root['awards']": 'List of awards and nominations received by Billy Ray Cyrus', "root['embed']": 'yes', "root['instrument']": [], "root['genre']": 'Country music', "root['label']": [], "root['associated_acts']": [], "root['date']": 'birth date and age', "root['publisher']": 'filmreference.com  |archive-url'}, 'iterable_item_removed': {"root['spouse'][0]": 'Cindy Smith|1986|1991|reason'}}
+138: {'dictionary_item_removed': {"root['children']": '6, including Brandi Cyrus', "root['awards']": 'List of awards and nominations received by Billy Ray Cyrus', "root['embed']": 'yes', "root['instrument']": [], "root['genre']": 'Country music', "root['label']": [], "root['associated_acts']": []}, 'iterable_item_added': {"root['spouse'][0]": 'Cindy Smith|1986|1991|reason'}}
+145: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Country music'], 'new_value': 'Country music'}}}
+146: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['past_member_of']": 'Brother Clyde', "root['date']": 'birth date and age', "root['publisher']": 'filmreference.com  |archive-url'}}
+149: {'dictionary_item_added': {"root['date']": 'birth date and age', "root['publisher']": 'filmreference.com  |archive-url'}, 'iterable_item_added': {"root['genre'][0]": 'Country music'}}
+150: {'iterable_item_removed': {"root['genre'][0]": 'Country music'}}
+151: {'iterable_item_added': {"root['genre'][0]": 'Country music'}}
+152: {'iterable_item_removed': {"root['genre'][0]": 'Country music'}}
+159: {'iterable_item_added': {"root['genre'][0]": 'Country music'}}

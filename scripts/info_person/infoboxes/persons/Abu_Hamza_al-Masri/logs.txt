@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['name']": 'Abu Hamza al-Masri', "root['residence']": 'Belmarsh (HM Prison)'}}
+6: {'dictionary_item_removed': {"root['religion']": 'Salafi'}}
+93: {'values_changed': {"root['religion']": {'new_value': 'Salafi', 'old_value': 'Islamism/Jihadism'}}}
+124: {'dictionary_item_removed': {"root['instruments']": 'Woodblock/Tambourine/Triangle'}}
+125: {'dictionary_item_removed': {"root['instrument']": 'tambourine, triangle, wood block'}}
+130: {'dictionary_item_added': {"root['instruments']": 'Woodblock/Tambourine/Triangle'}, 'dictionary_item_removed': {"root['Instrument']": 'Woodblock, Triangle, Tambourine'}}
+177: {'dictionary_item_added': {"root['instrument']": 'tambourine, triangle, wood block', "root['Instrument']": 'Woodblock, Triangle, Tambourine'}, 'values_changed': {"root['religion']": {'new_value': 'Islamism/Jihadism', 'old_value': 'Sunni Islam '}}}
+185: {'dictionary_item_removed': {"root['NAME']": 'Almasri, Abu Hamza |ALTERNATIVE'}, 'values_changed': {"root['religion']": {'new_value': 'Sunni Islam ', 'old_value': "Sunni Islam  '''Abu Hamza al-Masri''' (Arabic language"}}}
+186: {'dictionary_item_added': {"root['NAME']": 'Almasri, Abu Hamza |ALTERNATIVE'}, 'values_changed': {"root['religion']": {'new_value': "Sunni Islam  '''Abu Hamza al-Masri''' (Arabic language", 'old_value': 'Sunni Islam '}}}
+239: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Panda al-Masri'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Abu Panda al-Masri', 'old_value': 'Abu Hamza al-Masri'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Shakha al-Masri'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'Abu Shakha al-Masri', 'old_value': 'Abu'}}}
+251: {'values_changed': {"root['name']": {'new_value': 'Abu', 'old_value': 'Abu Shakha al-Masri'}}}
+252: {'values_changed': {"root['name']": {'new_value': 'Abu Shakha al-Masri', 'old_value': 'Abu Shakarai al-Masri'}}}
+253: {'values_changed': {"root['name']": {'new_value': 'Abu Shakarai al-Masri', 'old_value': 'Abu Shakha al-Masri'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'Abu Shakha al-Masri', 'old_value': 'Abu Hamza al-Masri'}}}
+291: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamza al-Masri cu9t'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri cu9t', 'old_value': 'Abu Hamza al-Masri'}}}
+298: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam ', 'old_value': 'Islam '}}}
+304: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamza al-Masry'}}}
+305: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masry', 'old_value': 'Abu Hamza al-Masri'}}}
+322: {'values_changed': {"root['residence']": {'new_value': 'Belmarsh (HM Prison)', 'old_value': 'United States of America'}}}
+330: {'values_changed': {"root['residence']": {'new_value': 'United States of America', 'old_value': "United States of America and is in Federal Marshals' Custody."}}}
+332: {'values_changed': {"root['residence']": {'new_value': "United States of America and is in Federal Marshals' Custody.", 'old_value': 'United States of America'}}}
+339: {'values_changed': {"root['residence']": {'new_value': 'United States of America', 'old_value': 'Being held for trial in the United States of America'}}}
+342: {'values_changed': {"root['residence']": {'new_value': 'Being held for trial in the United States of America', 'old_value': 'Currently imprisoned in the United States of America'}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamza (al-Masri)   (Mustafa Kamel Mustafa)'}}}
+347: {'values_changed': {"root['residence']": {'new_value': 'Currently imprisoned in the United States of America', 'old_value': 'Detained in the United States of America awaiting trial'}, "root['religion']": {'new_value': 'Islam ', 'old_value': 'Islam (Sunni Islam) '}}}
+359: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza (al-Masri)   (Mustafa Kamel Mustafa)', 'old_value': 'Abu Hamza al-Masri'}}}
+416: {'dictionary_item_removed': {"root['children']": '8'}}
+420: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamza al-Masri the poo poo face'}}}
+421: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri the poo poo face', 'old_value': 'Abu Hamza al-Masri'}}}
+435: {'dictionary_item_added': {"root['children']": '8'}, 'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Stinky Bum'}}}
+436: {'values_changed': {"root['name']": {'new_value': 'Stinky Bum', 'old_value': 'Abu Hamza al-Masri'}}}
+455: {'values_changed': {"root['residence']": {'new_value': 'Detained in the United States of America awaiting trial', 'old_value': 'Detained in the US, awaiting sentencing'}, "root['religion']": {'new_value': 'Islam (Sunni Islam) ', 'old_value': 'Wahhabi Islam   '}}}
+462: {'values_changed': {"root['residence']": {'new_value': 'Detained in the US, awaiting sentencing', 'old_value': 'US penal system'}}}
+470: {'values_changed': {"root['residence']": {'new_value': 'US penal system', 'old_value': 'Federal Bureau of Prisons'}}}
+481: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Abubu'}}}
+482: {'values_changed': {"root['name']": {'new_value': 'Abu Abubu', 'old_value': 'Abu Hamza al-Masri'}}}
+485: {'values_changed': {"root['residence']": {'new_value': 'Federal Bureau of Prisons', 'old_value': 'Metropolitan Correctional Center, New York'}}}
+491: {'values_changed': {"root['residence']": {'new_value': 'Metropolitan Correctional Center, New York', 'old_value': 'Medical Center for Federal Prisoners, Springfield'}}}
+513: {'values_changed': {"root['religion']": {'new_value': 'Wahhabi Islam   ', 'old_value': 'Kane Larkin   '}}}
+514: {'values_changed': {"root['religion']": {'new_value': 'Kane Larkin   ', 'old_value': 'Wahhabi Islam   '}}}
+534: {'values_changed': {"root['religion']": {'new_value': 'Wahhabi Islam   ', 'old_value': 'Sunni Islam'}}}
+545: {'values_changed': {"root['residence']": {'new_value': 'Medical Center for Federal Prisoners, Springfield', 'old_value': 'ADX Florence, Floreence, Colorado'}}}
+546: {'values_changed': {"root['residence']": {'new_value': 'ADX Florence, Floreence, Colorado', 'old_value': 'ADX Florence, Florence, Colorado'}}}
+547: {'values_changed': {"root['residence']": {'new_value': 'ADX Florence, Florence, Colorado', 'old_value': 'ADX Florence'}}}
+549: {'dictionary_item_removed': {"root['children']": '55 '}, 'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamza al- Docrat'}}}
+550: {'dictionary_item_added': {"root['children']": '55 '}, 'values_changed': {"root['name']": {'new_value': 'Abu Hamza al- Docrat', 'old_value': 'Abu Hamza al-Masri'}}}
+551: {'values_changed': {"root['name']": {'new_value': 'Abu Hamza al-Masri', 'old_value': 'Abu Hamzah al docrat'}}}
+552: {'values_changed': {"root['name']": {'new_value': 'Abu Hamzah al docrat', 'old_value': 'Abu Hamza al-Masri'}}}

@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mario Vargas Llosa', "root['birthname']": 'Jorge Mario Pedro Vargas Llosa', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Arequipa, Arequipa Region', "root['alma_mater']": 'National University of San Marcos, , Complutense University of Madrid', "root['spouse']": 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', "root['children']": 'Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llosa'}}
+34: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1910), Patricia Llosa (1965–present)'}}}
+35: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1910), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)'}}}
+49: {'dictionary_item_removed': {"root['awards']": 'awd'}}
+51: {'dictionary_item_removed': {"root['repec_prefix']": 'e'}, 'values_changed': {"root['awards']": {'new_value': 'awd', 'old_value': 'Nobel Memorial Prize in Literature (2010)'}}}
+54: {'values_changed': {"root['awards']": {'new_value': 'Nobel Memorial Prize in Literature (2010)', 'old_value': 'Nobel Prize in Literature (2010)'}}}
+69: {'values_changed': {"root['awards']": {'new_value': 'Nobel Prize in Literature (2010)', 'old_value': 'awd'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'The Game (mind game)'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'The Game (mind game)', 'old_value': 'Mario Vargas Llosa'}}}
+164: {'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos, , Complutense University of Madrid', 'old_value': 'National University of San Marcos File:UNMSM coatofarms seal.svg'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'Mario Vargas Llosa File:Nobel prize medal.svg'}}}
+166: {'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos File:UNMSM coatofarms seal.svg', 'old_value': 'National University of San Marcos , Complutense University of Madrid'}}}
+184: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa File:Nobel prize medal.svg', 'old_value': 'Mario Vargas Llosa'}}}
+277: {'dictionary_item_added': {"root['birthname']": 'Jorge Mario Pedro Vargas Llosa', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Arequipa, Arequipa Region'}, 'dictionary_item_removed': {"root['movement']": 'Latin American boom'}, 'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos , Complutense University of Madrid', 'old_value': 'National University of San Marcos Complutense University of Madrid'}, "root['spouse']": {'new_value': 'Julia Urquidi (1955–1964), Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)'}, "root['children']": {'new_value': 'Álvaro Vargas Llosa, Gonzalo Vargas Llosa, Morgana Vargas Llosa', 'old_value': 'Álvaro Vargas Llosa Gonzalo Vargas Llosa Morgana Vargas Llosa'}}}
+297: {'dictionary_item_removed': {"root['institutions']": "King's College London"}}
+314: {'dictionary_item_added': {"root['institutions']": "King's College London"}, 'dictionary_item_removed': {"root['partner']": 'Isabel Preysler (2015–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–2015)'}}}
+320: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–2015)', 'old_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)'}}}
+323: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) Patricia Llosa (1965–present)', 'old_value': 'Julia Urquidi (1955–1964) marriage'}}}
+324: {'values_changed': {"root['spouse']": {'new_value': 'Julia Urquidi (1955–1964) marriage', 'old_value': 'Marriage'}}}
+325: {'values_changed': {"root['alma_mater']": {'new_value': 'National University of San Marcos Complutense University of Madrid', 'old_value': 'ubl'}, "root['spouse']": {'new_value': 'Marriage', 'old_value': 'ubl'}, "root['children']": {'new_value': 'Álvaro Vargas Llosa Gonzalo Vargas Llosa Morgana Vargas Llosa', 'old_value': 'ubl'}}}
+340: {'type_changes': {"root['alma_mater']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}, "root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}}}
+406: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '3, including Álvaro Vargas Llosa', 'new_value': []}}, 'dictionary_item_added': {"root['repec_prefix']": 'e'}, 'dictionary_item_removed': {"root['workplace']": []}, 'values_changed': {"root['partner']": {'new_value': 'Isabel Preysler (2015–present)', 'old_value': 'Isabel Preysler  (2015–present)  http://larepublica.pe/espectaculos/6986-mario-vargas-llosa-confirma-separacion-con-patricia-llosa Mario Vargas Llosa confirma separacion con Patricia Llosa webarchive'}}}
+418: {'dictionary_item_removed': {"root['genre']": 'nique ta mère'}}
+421: {'dictionary_item_added': {"root['genre']": 'nique ta mère'}, 'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa', 'old_value': 'Mario Vargas Llosa, The Marquis of Vargas Llosa'}}}
+433: {'values_changed': {"root['name']": {'new_value': 'Mario Vargas Llosa, The Marquis of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}}}
+442: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquis of Vargas Llosa'}}}
+466: {'dictionary_item_added': {"root['workplace']": [], "root['movement']": 'Latin American boom'}, 'dictionary_item_removed': {"root['party']": 'Movimiento Libertad small'}, 'values_changed': {"root['name']": {'new_value': 'The Marquis of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}, "root['partner']": {'new_value': 'Isabel Preysler  (2015–present)  http://larepublica.pe/espectaculos/6986-mario-vargas-llosa-confirma-separacion-con-patricia-llosa Mario Vargas Llosa confirma separacion con Patricia Llosa webarchive', 'old_value': 'Isabel Preysler (2015–present)'}}}
+474: {'values_changed': {"root['party']": {'new_value': 'Movimiento Libertad small', 'old_value': 'Movimiento Libertad'}}}
+475: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The of Vargas Llosa'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'The of Vargas Llosa', 'old_value': 'The Marquess of Vargas Llosa'}}}
+574: {'values_changed': {"root['partner']": {'new_value': 'Isabel Preysler (2015–present)', 'old_value': 'Isabel Preysler (since 2015)'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquess of baddies'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'The Marquess of baddies', 'old_value': 'The Marquess of Vargas Llosa'}}}
+589: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'Gangy Gang'}}}
+590: {'values_changed': {"root['name']": {'new_value': 'Gangy Gang', 'old_value': 'The Marquess of Vargas Llosa'}}}
+591: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Vargas Llosa', 'old_value': 'The Marquess of Mario Period ahh period uhh'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'The Marquess of Mario Period ahh period uhh', 'old_value': 'The Marquess of Vargas Llosa'}}}
+624: {'values_changed': {"root['partner']": {'new_value': 'Isabel Preysler (since 2015)', 'old_value': 'Isabel Preysler (2015-2022)'}}}
+656: {'dictionary_item_removed': {"root['embed']": 'yes', "root['office']": "Seat ''L'' of the Real Academia Española", "root['term_start']": '15 January 1996efn'}}
+666: {'dictionary_item_removed': {"root['otherparty']": 'Movimiento Libertad'}, 'values_changed': {"root['party']": {'new_value': 'Movimiento Libertad', 'old_value': "People's Liberty (2023–present)"}}}

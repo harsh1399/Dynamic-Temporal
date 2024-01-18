@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Albert Einstein', "root['children']": 'Lieserl Einstein', "root['spouse']": 'marriage', "root['fields']": 'Physics, philosophy', "root['workplaces']": 'Plainlist', "root['education']": 'Plainlist', "root['doctoral_advisor']": 'Alfred Kleiner', "root['thesis_title']": 'lang', "root['thesis_url']": 'http://e-collection.library.ethz.ch/eserv/eth:30378/eth-30378-01.pdf', "root['thesis_year']": '1905', "root['academic_advisors']": 'Heinrich Friedrich Weber', "root['influenced']": 'Plainlist', "root['known_for']": 'Plainlist', "root['awards']": 'Plainlist', "root['influences']": ['Arthur Schopenhauer', 'Baruch Spinoza', 'Bernhard Riemann', 'David Hume', 'Ernst Mach', 'Hendrik Lorentz', 'Hermann Minkowski', 'Isaac Newton', 'James Clerk Maxwell', 'Michele Besso', 'Moritz Schlick', 'Thomas Young']}}
+3: {'dictionary_item_added': {"root['children']": 'Lieserl Einstein'}, 'values_changed': {"root['name']": {'new_value': 'Albert Einstein', 'old_value': 'nirmal solanki'}}}
+4: {'dictionary_item_removed': {"root['children']": 'Lieserl Einstein'}, 'values_changed': {"root['name']": {'new_value': 'nirmal solanki', 'old_value': 'Albert Einstein'}}}
+296: {'type_changes': {"root['workplaces']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}, "root['education']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}, "root['influenced']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}, "root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}, "root['awards']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}}}
+304: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Lieserl Einstein'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}}
+466: {'iterable_item_removed': {"root['influences'][12]": 'Gottfried Wilhelm Leibniz'}}
+478: {'iterable_item_removed': {"root['influences'][6]": 'Michael Faraday'}}
+479: {'iterable_item_added': {"root['influences'][6]": 'Michael Faraday'}}
+480: {'iterable_item_removed': {"root['influences'][6]": 'Michael Faraday'}}
+482: {'iterable_item_added': {"root['influences'][6]": 'Michael Faraday'}}
+531: {'iterable_item_removed': {"root['influences'][13]": 'Emmanuel Kant'}}
+533: {'values_changed': {"root['influences'][13]": {'new_value': 'Emmanuel Kant', 'old_value': 'Immanuel Kant'}}}
+551: {'iterable_item_added': {"root['influences'][13]": 'Immanuel Kant'}}

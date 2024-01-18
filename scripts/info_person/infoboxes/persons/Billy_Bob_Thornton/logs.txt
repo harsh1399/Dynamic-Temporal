@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Billy Bob Thornton', "root['occupation']": 'Actor, screenwriter, director, musician', "root['spouse']": 'marriage', "root['partner']": 'Connie Angland (2003–present)', "root['children']": '4 '}}
+1: {'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '6 '}}}
+3: {'values_changed': {"root['children']": {'new_value': '6 ', 'old_value': '4 '}}}
+22: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}, "root['partner']": {'new_value': 'Connie Angland (2003–present)', 'old_value': 'Connie Angland, (2003–present)'}}}
+35: {'values_changed': {"root['occupation']": {'new_value': 'Actor, screenwriter, director, musician', 'old_value': 'musician with 8 albums'}}}
+39: {'dictionary_item_added': {"root['name']": 'Billy Bob Thornton', "root['occupation']": 'musician with 8 albums', "root['spouse']": 'ubl', "root['partner']": 'Connie Angland, (2003–present)', "root['children']": '4 '}, 'dictionary_item_removed': {"root['background']": 'solo_singer', "root['instrument']": [], "root['Genre']": 'Country rock, blues rock', "root['label']": 'Vanguard Records', "root['associated_acts']": 'The Boxmasters '}}
+94: {'dictionary_item_removed': {"root['partner']": 'Connie Angland (2003–present)', "root['children']": '4'}}
+100: {'values_changed': {"root['associated_acts']": {'new_value': 'The Boxmasters ', 'old_value': 'The Boxmasters  | website '}}}
+113: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals, drums', 'new_value': []}}, 'values_changed': {"root['associated_acts']": {'new_value': 'The Boxmasters  | website ', 'old_value': 'The Boxmasters '}}}
+151: {'values_changed': {"root['partner']": {'new_value': 'Connie Angland (2003–present)', 'old_value': 'Connie Angland, (2003–present)'}}}
+162: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, drums'}, "root['Genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Country rock, blues rock'}}, 'values_changed': {"root['partner']": {'new_value': 'Connie Angland, (2003–present)', 'old_value': 'plain list'}, "root['associated_acts']": {'new_value': 'The Boxmasters ', 'old_value': 'The Boxmasters'}}}
+198: {'values_changed': {"root['label']": {'new_value': 'Vanguard Records', 'old_value': 'billy bob is a dick'}, "root['associated_acts']": {'new_value': 'The Boxmasters', 'old_value': 'billy bob is a dick'}}}
+199: {'values_changed': {"root['label']": {'new_value': 'billy bob is a dick', 'old_value': 'Vanguard Records'}, "root['associated_acts']": {'new_value': 'billy bob is a dick', 'old_value': 'The Boxmasters'}}}
+206: {'values_changed': {"root['partner']": {'new_value': 'plain list', 'old_value': 'Plainlist'}}}
+215: {'dictionary_item_added': {"root['partner']": 'Plainlist'}, 'values_changed': {"root['children']": {'new_value': '4', 'old_value': '5'}}}
+233: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': "5HGBCWVQB ABCQBEAI;FO'jVm aliusbdnz vc' x fbae  bsfgc xnsf n fg nbv  sejmiytfjgdfxjhsxbcgiuyfbxskwgreshbvnid"}}}
+234: {'values_changed': {"root['children']": {'new_value': "5HGBCWVQB ABCQBEAI;FO'jVm aliusbdnz vc' x fbae  bsfgc xnsf n fg nbv  sejmiytfjgdfxjhsxbcgiuyfbxskwgreshbvnid", 'old_value': '5'}}}
+239: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '5 (6 if including Sam Thornton)'}}}
+240: {'values_changed': {"root['children']": {'new_value': '5 (6 if including Sam Thornton)', 'old_value': '5'}}}
+269: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '4'}}}

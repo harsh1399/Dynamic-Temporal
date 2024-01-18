@@ -1,0 +1,12 @@
+35: {'dictionary_item_removed': {"root['name']": 'Lynn Margulis', "root['field']": 'Biology'}}
+95: {'dictionary_item_removed': {"root['known_for']": 'Endosymbiotic theroy', "root['prizes']": 'Proctor '}}
+104: {'values_changed': {"root['name']": {'new_value': 'Lynn Margulis', 'old_value': 'Lynn Macoroni'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Lynn Macoroni', 'old_value': 'Lynn Margulis'}}}
+111: {'values_changed': {"root['known_for']": {'new_value': 'Endosymbiotic theroy', 'old_value': 'Endosymbiotic theory'}}}
+126: {'values_changed': {"root['prizes']": {'new_value': 'Proctor ', 'old_value': 'William Procter Prize for Scientific Achievement '}}}
+199: {'dictionary_item_added': {"root['name']": 'Lynn Margulis', "root['field']": 'Biology', "root['known_for']": 'Endosymbiotic theory', "root['prizes']": 'William Procter Prize for Scientific Achievement '}, 'dictionary_item_removed': {"root['NAME']": 'Margulis, Lynn |ALTERNATIVE'}}
+200: {'dictionary_item_added': {"root['NAME']": 'Margulis, Lynn |ALTERNATIVE'}, 'dictionary_item_removed': {"root['name']": 'Lynn Margulis', "root['field']": 'Biology', "root['known_for']": 'Endosymbiotic theory', "root['prizes']": 'William Procter Prize for Scientific Achievement '}}
+272: {'values_changed': {"root['name']": {'new_value': 'Lynn Margulis', 'old_value': 'Lynn Petra Margulis'}}}
+273: {'values_changed': {"root['name']": {'new_value': 'Lynn Petra Margulis', 'old_value': 'Lynn Margulis'}}}
+327: {'dictionary_item_removed': {"root['work_institutions']": 'Brandeis University, Boston University University of Massachusetts Amherst', "root['alma_mater']": 'University of Chicago University of Wisconsin-Madison UC Berkeley', "root['thesis_title']": "An Unusual Pattern of Thymidine Incorporation in ''Euglena''", "root['thesis_year']": '1965', "root['doctoral_advisor']": 'Max Alfert', "root['spouse']": 'Carl Sagan  (m. 1957–65, divorced)  Thomas Margulis  (m. 1967–80, divorced)', "root['children']": 'Dorion Sagan (1959) Jeremy Sagan'}, 'values_changed': {"root['known_for']": {'new_value': 'Endosymbiotic theory', 'old_value': 'Symbiogenesis, Gaia hypothesis'}, "root['prizes']": {'new_value': 'William Procter Prize for Scientific Achievement ', 'old_value': 'National Medal of Science (1999) William Procter Prize for Scientific Achievement (1999) Darwin-Wallace Medal (2008) '}}}
+359: {'dictionary_item_removed': {"root['influences']": 'Ivan Wallin, Konstantin Mereschkowski<ref name'}}

@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kate Del Castillo', "root['birthdate']": 'birth date and age', "root['location']": 'Mexico City, Mexico', "root['birthname']": 'Kate Del Castillo Trillo', "root['occupation']": 'Actress', "root['spouse']": 'Luis García Postigo'}}
+23: {'values_changed': {"root['birthname']": {'new_value': 'Kate Del Castillo Trillo', 'old_value': 'Kate del Castillo Negrete Trillo'}}}
+28: {'dictionary_item_removed': {"root['yearsactive']": '1980&ndash;present'}}
+39: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Mexico City, Mexico', "root['birthname']": 'Kate del Castillo Negrete Trillo', "root['yearsactive']": '1980&ndash;present'}, 'dictionary_item_removed': {"root['other_name']": 'Kate Del Castillo, Kate del Castilo, Kate Del Castilo'}, 'values_changed': {"root['name']": {'new_value': 'Kate Del Castillo', 'old_value': 'Kate del Castillo'}, "root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, comedienne'}}}
+40: {'values_changed': {"root['occupation']": {'new_value': 'Actress, comedienne', 'old_value': 'Actress'}}}
+73: {'dictionary_item_added': {"root['other_name']": 'Kate Del Castillo, Kate del Castilo, Kate Del Castilo'}, 'dictionary_item_removed': {"root['othername']": 'Kastillo De Crista'}}
+80: {'dictionary_item_added': {"root['othername']": 'Kastillo De Crista'}, 'values_changed': {"root['spouse']": {'new_value': 'Luis García Postigo', 'old_value': 'marriage'}}}
+140: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress and model'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'Kate del Castillo', 'old_value': 'aksjsdjsj Kate del Castillo'}}}
+142: {'values_changed': {"root['name']": {'new_value': 'aksjsdjsj Kate del Castillo', 'old_value': 'Kate del Castillo'}}}
+146: {'values_changed': {"root['occupation']": {'new_value': 'Actress and model', 'old_value': 'Actress and model (person)'}}}

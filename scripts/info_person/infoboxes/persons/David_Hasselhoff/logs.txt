@@ -1,0 +1,15 @@
+1114: {'dictionary_item_removed': {"root['name']": 'David Hasselhoff', "root['occupation']": 'Actor, singer, producer, businessman', "root['spouse']": 'Catherine Hickland (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)', "root['children']": 'Taylor Ann, Hayley Hasselhoff'}}
+1145: {'values_changed': {"root['name']": {'new_value': 'David Hasselhoff', 'old_value': 'David Hasselimurderbabieswithmyeyes'}}}
+1146: {'values_changed': {"root['name']": {'new_value': 'David Hasselimurderbabieswithmyeyes', 'old_value': 'David Hasselhoff'}}}
+1181: {'values_changed': {"root['name']": {'new_value': 'David Hasselhoff', 'old_value': 'David Hasselhoff-Snow'}}}
+1182: {'values_changed': {"root['name']": {'new_value': 'David Hasselhoff-Snow', 'old_value': 'David Hasselhoff'}}}
+1183: {'values_changed': {"root['name']": {'new_value': 'David Hasselhoff', 'old_value': 'i am a rapist'}}}
+1184: {'values_changed': {"root['name']": {'new_value': 'i am a rapist', 'old_value': 'David Hasselhoff'}}}
+1264: {'values_changed': {"root['occupation']": {'new_value': 'Actor, singer, producer, businessman', 'old_value': "Actor, singer, producer, businessman and Kia's best friend."}}}
+1265: {'values_changed': {"root['occupation']": {'new_value': "Actor, singer, producer, businessman and Kia's best friend.", 'old_value': "Actor, singer, producer, businessman and Kia's best friend. ,"}}}
+1266: {'values_changed': {"root['occupation']": {'new_value': "Actor, singer, producer, businessman and Kia's best friend. ,", 'old_value': 'Actor, singer, producer, businessman'}}}
+1277: {'values_changed': {"root['spouse']": {'new_value': 'Catherine Hickland (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)', 'old_value': 'Steven Wade (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)'}}}
+1278: {'values_changed': {"root['spouse']": {'new_value': 'Steven Wade (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)', 'old_value': 'Catherine Hickland (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)'}}}
+1291: {'dictionary_item_removed': {"root['telleisison']": "Britain's Got Talent (2011)"}}
+1324: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, singer, producer, businessman'}}, 'dictionary_item_added': {"root['telleisison']": "Britain's Got Talent (2011)"}, 'dictionary_item_removed': {"root['alma_mater']": 'Oakland University, California Institute of the Arts'}, 'values_changed': {"root['name']": {'new_value': 'David Hasselhoff', 'old_value': 'David Hoff'}, "root['spouse']": {'new_value': 'Catherine Hickland (1984–1989, divorced), Pamela Bach (m. 1989–2006, divorced)', 'old_value': '1989|reas'}, "root['children']": {'new_value': 'Taylor Ann, Hayley Hasselhoff', 'old_value': '2, including Hayley Hasselhoff'}}}
+1447: {'values_changed': {"root['name']": {'new_value': 'David Hoff', 'old_value': 'David Hasselhoff'}, "root['spouse']": {'new_value': '1989|reas', 'old_value': '1984|1989|reas'}}}

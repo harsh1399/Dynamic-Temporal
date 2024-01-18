@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Wallace Shawn', "root['medium']": 'Film, theatre, television', "root['partner']": 'Deborah Eisenberg', "root['notable_works']": "''My Dinner with Andre'', ''The Princess Bride (film)"}}
+8: {'dictionary_item_removed': {"root['occupation']": 'Actor, voice actor'}}
+12: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor, playwright'}}}
+13: {'values_changed': {"root['occupation']": {'new_value': 'Actor, playwright', 'old_value': 'Actor, voice actor'}}}
+14: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor, playwright'}}}
+15: {'values_changed': {"root['occupation']": {'new_value': 'Actor, playwright', 'old_value': 'Actor, voice actor, playwright'}}}
+19: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, playwright', 'old_value': 'Actor, voice actor, playwright, Singer'}}}
+20: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, playwright, Singer', 'old_value': 'Actor, voice actor, playwright'}}}
+66: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, playwright', 'old_value': 'Actor, Voice acting'}}}
+156: {'dictionary_item_added': {"root['partner']": 'Deborah Eisenberg'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Voice acting', 'old_value': 'Actor, playwright, essayist'}}}

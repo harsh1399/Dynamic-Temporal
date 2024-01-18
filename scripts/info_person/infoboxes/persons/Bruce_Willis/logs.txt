@@ -1,0 +1,130 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Walter Bruce  Willis', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Baumholder', "root['yearsactive']": '1980 - present', "root['spouse']": 'Demi Moore (1987-2000)', "root['emmyawards']": "'''Primetime Emmy Award for Outstanding Lead Actor - Drama Series", "root['goldenglobeawards']": "'''List of Golden Globe Awards: Television, Best Actor, Comedy or Musical", "root['goldenraspberryawards']": "'''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' "}}
+114: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce  Willis', 'old_value': 'Walter Bruce  Willison'}}}
+169: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce  Willison', 'old_value': 'Walter Bruce  Willis'}}}
+172: {'dictionary_item_removed': {"root['occupation']": 'Actor/Film producer'}, 'values_changed': {"root['yearsactive']": {'new_value': '1980 - present', 'old_value': '1980 – present'}}}
+175: {'dictionary_item_added': {"root['goldenraspberryawards']": "'''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' "}, 'dictionary_item_removed': {"root['rowspan']": '"3"', "root['years']": '"BOMlist">', "root['before']": '"BOMlist">', "root['after']": '"BOMlist">', "root['NAME']": 'Willis, Bruce |ALTERNATIVE'}}
+177: {'dictionary_item_added': {"root['rowspan']": '"3"', "root['years']": '"BOMlist">', "root['before']": '"BOMlist">', "root['after']": '"BOMlist">', "root['NAME']": 'Willis, Bruce |ALTERNATIVE'}, 'dictionary_item_removed': {"root['goldenraspberryawards']": "'''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' "}}
+190: {'values_changed': {"root['goldenraspberryawards']": {'new_value': "'''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' ", 'old_value': "'''Worst Screenplay''', 1992 ''Hudson Hawk'' (story by Bruce Willis), '''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' "}}}
+201: {'values_changed': {"root['goldenraspberryawards']": {'new_value': "'''Worst Screenplay''', 1992 ''Hudson Hawk'' (story by Bruce Willis), '''Worst Actor''', 1998 ''Armageddon, Mercury Rising, and The Siege'' ", 'old_value': "'''Worst Screenplay''', 1992 ''Hudson Hawk'' (story by Bruce Willis), '''Worst Actor''', 1998 ''Armageddon, Mercury Rising and The Siege'' "}}}
+225: {'dictionary_item_removed': {"root['name']": 'Bruce Willis'}, 'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce  Willis', 'old_value': 'Walter Bruce Willis'}, "root['occupation']": {'new_value': 'Actor/Film producer', 'old_value': 'Actor, Film producer'}, "root['yearsactive']": {'new_value': '1980 – present', 'old_value': '1980–present'}, "root['spouse']": {'new_value': 'Demi Moore (1987-2000)', 'old_value': 'Demi Moore (1987–2000)'}}}
+229: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)', 'old_value': 'Demi Moore (1987–2000)                                      Emma Heming (2009)'}}}
+230: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)                                      Emma Heming (2009)', 'old_value': 'Demi Moore (1987–2000)                                    Emma Heming (2009)'}}}
+231: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)                                    Emma Heming (2009)', 'old_value': 'Demi Moore (1987–2000), Emma Heming (2009)'}}}
+232: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000), Emma Heming (2009)', 'old_value': 'Demi Moore (1987–2000) Emma Heming (2009-present)'}}}
+244: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000) Emma Heming (2009-present)', 'old_value': 'Demi Moore (1987–2000)<brEmma Heming (2009–present)'}}}
+245: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)<brEmma Heming (2009–present)', 'old_value': 'Demi Moore (1987–2000), Emma Heming (2009–present)'}}}
+254: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Fillis Willis'}}}
+255: {'values_changed': {"root['name']": {'new_value': 'Bruce Fillis Willis', 'old_value': 'Bruce Willis'}}}
+261: {'values_changed': {"root['yearsactive']": {'new_value': '1980–present', 'old_value': '1980–2009'}}}
+262: {'values_changed': {"root['yearsactive']": {'new_value': '1980–2009', 'old_value': '1980–present'}}}
+263: {'values_changed': {"root['yearsactive']": {'new_value': '1980–present', 'old_value': '1980–2009'}}}
+264: {'values_changed': {"root['yearsactive']": {'new_value': '1980–2009', 'old_value': '1980–present'}}}
+329: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Walter Willis'}}}
+331: {'values_changed': {"root['name']": {'new_value': 'Walter Willis', 'old_value': 'Bruce Willis'}}}
+340: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce "Boy Toucher" Willis'}}}
+341: {'values_changed': {"root['name']": {'new_value': 'Bruce "Boy Toucher" Willis', 'old_value': 'Bruce Willis'}}}
+344: {'dictionary_item_added': {"root['emmyawards']": "'''Primetime Emmy Award for Outstanding Lead Actor - Drama Series", "root['goldenglobeawards']": "'''List of Golden Globe Awards: Television, Best Actor, Comedy or Musical", "root['goldenraspberryawards']": "'''Worst Screenplay''', 1992 ''Hudson Hawk'' (story by Bruce Willis), '''Worst Actor''', 1998 ''Armageddon, Mercury Rising and The Siege'' "}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Film producer', 'old_value': 'actor, film producer'}, "root['yearsactive']": {'new_value': '1980–present', 'old_value': '1980 &ndash; present'}}}
+345: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce "Boy Toucher" Willis'}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Bruce "Boy Toucher" Willis', 'old_value': 'Bruce Willis'}}}
+351: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Matthew Widnell'}}}
+352: {'values_changed': {"root['name']": {'new_value': 'Matthew Widnell', 'old_value': 'Bruce Willis'}}}
+372: {'dictionary_item_removed': {"root['deathdate']": 'death date'}, 'values_changed': {"root['yearsactive']": {'new_value': '1980 &ndash; present', 'old_value': '1980 &ndash; 2009'}, "root['spouse']": {'new_value': 'Demi Moore (1987–2000), Emma Heming (2009–present)', 'old_value': 'Demi Moore (1987–2000), Tom Hanks (2009–present)'}}}
+374: {'dictionary_item_added': {"root['deathdate']": 'death date'}, 'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000), Tom Hanks (2009–present)', 'old_value': 'Demi Moore (1987–2000)<br| website'}}}
+377: {'values_changed': {"root['yearsactive']": {'new_value': '1980 &ndash; 2009', 'old_value': '1980 &ndash;'}}}
+380: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)<br| website', 'old_value': 'Demi Moore (1987–2000)'}}}
+381: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)', 'old_value': 'Demi Moore (1987–2000)                           Emma Heming (2009-) '}}}
+407: {'dictionary_item_removed': {"root['deathplace']": 'May 28 2009,Los Angeles'}}
+409: {'dictionary_item_added': {"root['deathplace']": 'May 28 2009,Los Angeles'}, 'values_changed': {"root['occupation']": {'new_value': 'actor, film producer', 'old_value': 'actor, film producer, cock sucker'}}}
+410: {'dictionary_item_removed': {"root['deathplace']": 'May 28 2009,Los Angeles'}, 'values_changed': {"root['occupation']": {'new_value': 'actor, film producer, cock sucker', 'old_value': 'actor, film producer'}}}
+415: {'dictionary_item_added': {"root['deathplace']": 'May 28 2009,Los Angeles'}, 'values_changed': {"root['birthplace']": {'new_value': 'Baumholder', 'old_value': 'maidstone hostipal'}}}
+419: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000)                           Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–2000), Emma Heming (2009-) '}}}
+422: {'values_changed': {"root['birthplace']": {'new_value': 'maidstone hostipal', 'old_value': 'Idar-Oberstein, West Germany'}}}
+424: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000), Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–2000) Emma Heming (2009-) '}}}
+425: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000) Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–2000), Emma Heming (2009-) '}}}
+441: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'COCK SUCKING BITCH'}}}
+442: {'values_changed': {"root['name']": {'new_value': 'COCK SUCKING BITCH', 'old_value': 'Bruce Willis'}}}
+461: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–2000), Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–1998), Emma Heming (2009-) '}}}
+463: {'values_changed': {"root['occupation']": {'new_value': 'actor, film producer', 'old_value': 'Actor, film producer'}, "root['yearsactive']": {'new_value': '1980 &ndash;', 'old_value': '1980 &ndash; present'}}}
+464: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987–1998), Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–2000), Emma Heming (2009-) '}}}
+523: {'dictionary_item_removed': {"root['deathdate']": 'death date and age', "root['deathplace']": 'Filming of Live Hard or Die Free'}}
+528: {'dictionary_item_added': {"root['deathdate']": 'death date and age', "root['deathplace']": 'Filming of Live Hard or Die Free'}, 'dictionary_item_removed': {"root['Died']": '06.20.09'}}
+534: {'dictionary_item_added': {"root['Died']": '06.20.09'}, 'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Willis DECEASED'}}}
+535: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis DECEASED', 'old_value': 'Bruce Willis'}}}
+554: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'David Bruce Willis'}}}
+563: {'dictionary_item_removed': {"root['othername']": 'W.B. Willis'}, 'values_changed': {"root['birthname']": {'new_value': 'David Bruce Willis', 'old_value': 'Walter Bruce Willis'}, "root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Film actor'}, "root['yearsactive']": {'new_value': '1980 &ndash; present', 'old_value': '1980–present'}, "root['spouse']": {'new_value': 'Demi Moore (1987–2000), Emma Heming (2009-) ', 'old_value': 'Demi Moore (1987–2000) Emma Heming (2009–) '}}}
+566: {'values_changed': {"root['birthplace']": {'new_value': 'Idar-Oberstein, West Germany', 'old_value': 'East Ham, London, England'}}}
+571: {'values_changed': {"root['birthplace']": {'new_value': 'East Ham, London, England', 'old_value': 'Idar-Oberstein, West Germany'}}}
+576: {'values_changed': {"root['occupation']": {'new_value': 'Film actor', 'old_value': 'Actor, producer'}, "root['yearsactive']": {'new_value': '1980–present', 'old_value': '1980&ndash;present'}, "root['spouse']": {'new_value': 'Demi Moore (1987–2000) Emma Heming (2009–) ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+604: {'dictionary_item_added': {"root['othername']": 'W.B. Willis'}, 'dictionary_item_removed': {"root['ohipporname']": 'W.B. Willis'}}
+605: {'dictionary_item_added': {"root['ohipporname']": 'W.B. Willis'}, 'dictionary_item_removed': {"root['othername']": 'W.B. Willis'}}
+606: {'dictionary_item_added': {"root['othername']": 'W.B. Willis'}, 'dictionary_item_removed': {"root['ohipporname']": 'W.B. Douchebag'}, 'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Douchebag'}, "root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Bruce Douchebag'}}}
+607: {'dictionary_item_added': {"root['ohipporname']": 'W.B. Douchebag'}, 'dictionary_item_removed': {"root['othername']": 'W.B. Willis'}, 'values_changed': {"root['name']": {'new_value': 'Bruce Douchebag', 'old_value': 'Bruce Willis'}, "root['birthname']": {'new_value': 'Walter Bruce Douchebag', 'old_value': 'Walter Bruce Willis'}}}
+628: {'values_changed': {"root['birthplace']": {'new_value': 'Idar-Oberstein, West Germany', 'old_value': 'Idar-Oberstein,,  West Germany'}}}
+629: {'values_changed': {"root['yearsactive']": {'new_value': '1980&ndash;present', 'old_value': '1979-present'}}}
+630: {'values_changed': {"root['birthplace']": {'new_value': 'Idar-Oberstein,,  West Germany', 'old_value': 'Idar-Oberstein,,  West Germany  death: August 5th, 2009 - choked on ham sandwich'}}}
+631: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Wruce Billis'}}}
+632: {'values_changed': {"root['birthplace']": {'new_value': 'Idar-Oberstein,,  West Germany  death: August 5th, 2009 - choked on ham sandwich', 'old_value': 'Idar-Oberstein,,  West Germany'}}}
+633: {'values_changed': {"root['name']": {'new_value': 'Wruce Billis', 'old_value': 'Bruce Willis'}}}
+660: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Willison'}}}
+661: {'values_changed': {"root['name']": {'new_value': 'Bruce Willison', 'old_value': 'Bruce Willis'}}}
+664: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Humphrey Bruce Willis'}, "root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Patsy Kensit (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+665: {'values_changed': {"root['birthname']": {'new_value': 'Walter Humphrey Bruce Willis', 'old_value': 'Walter Bruce Willis'}, "root['spouse']": {'new_value': 'Patsy Kensit (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+675: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Willison'}}}
+676: {'values_changed': {"root['birthname']": {'new_value': 'Walter Willison', 'old_value': 'Walter Bruce Willis'}}}
+688: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Bruce Willison'}, "root['othername']": {'new_value': 'W.B. Willis', 'old_value': 'W.B. Willis, Bruno'}}}
+689: {'values_changed': {"root['othername']": {'new_value': 'W.B. Willis, Bruno', 'old_value': 'BRUCE WILLIS, W.B. Willis, Bruno'}}}
+691: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willison', 'old_value': 'Walter Bruce Willis'}, "root['othername']": {'new_value': 'BRUCE WILLIS, W.B. Willis, Bruno', 'old_value': 'W.B. Willis'}}}
+702: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters  Emma Heming (21 March 2009 &ndash; present) '}}}
+703: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters  Emma Heming (21 March 2009 &ndash; present) ', 'old_value': '>Emma Heming (21 March 2009 &ndash; present)    Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters '}}}
+704: {'values_changed': {"root['spouse']": {'new_value': '>Emma Heming (21 March 2009 &ndash; present)    Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters ', 'old_value': 'Emma Heming (21 March 2009 &ndash; present)    Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters '}}}
+705: {'values_changed': {"root['spouse']": {'new_value': 'Emma Heming (21 March 2009 &ndash; present)    Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters ', 'old_value': 'Emma Heming (21 March 2009 &ndash; present)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters '}}}
+706: {'values_changed': {"root['spouse']": {'new_value': 'Emma Heming (21 March 2009 &ndash; present)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters ', 'old_value': 'Tom Cruise (13 October 2008) (present) Emma Heming (21 March 2009 &ndash; (divorced)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters '}}}
+707: {'values_changed': {"root['spouse']": {'new_value': 'Tom Cruise (13 October 2008) (present) Emma Heming (21 March 2009 &ndash; (divorced)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters ', 'old_value': 'Emma Heming (21 March 2009 &ndash; present)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters '}}}
+708: {'values_changed': {"root['spouse']": {'new_value': 'Emma Heming (21 March 2009 &ndash; present)  Demi Moore (21 November 1987 &ndash; 18 October 2000) (divorced); 3 daughters ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+721: {'values_changed': {"root['othername']": {'new_value': 'W.B. Willis', 'old_value': 'W.B. Willis Bruno'}}}
+722: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (1982&ndash;Present) Emma Heming (2009&ndash;present) '}}}
+723: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1982&ndash;Present) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+757: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Willis Ilove Vikki'}}}
+758: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis Ilove Vikki', 'old_value': 'Bruce Willis'}}}
+759: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Bruce Elmer Fudd Willis'}}}
+760: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Elmer Fudd Willis', 'old_value': 'Walter Bruce Willis'}}}
+783: {'values_changed': {"root['othername']": {'new_value': 'W.B. Willis Bruno', 'old_value': 'W.B. Willis Bruno de macho'}}}
+784: {'values_changed': {"root['othername']": {'new_value': 'W.B. Willis Bruno de macho', 'old_value': 'W.B. Willis Bruno'}}}
+790: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present)  Bruce Willis is a downer  '}}}
+791: {'values_changed': {"root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present)  Bruce Willis is a downer  ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+796: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Willis "knock off a bruce willis"'}}}
+797: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis "knock off a bruce willis"', 'old_value': 'Bruce Willis'}}}
+801: {'values_changed': {"root['yearsactive']": {'new_value': '1979-present', 'old_value': '1979–present'}}}
+802: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Willis WIener'}}}
+804: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis WIener', 'old_value': 'Bruce Willis'}}}
+817: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce "Holy Shitfuck" Willis'}}}
+818: {'values_changed': {"root['name']": {'new_value': 'Bruce "Holy Shitfuck" Willis', 'old_value': 'Bruce Willis'}}}
+819: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce  Willis'}}}
+820: {'values_changed': {"root['name']": {'new_value': 'Bruce  Willis', 'old_value': 'Bruce Willis'}}}
+841: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce Springsteen'}}}
+843: {'values_changed': {"root['name']": {'new_value': 'Bruce Springsteen', 'old_value': 'Bruce Willis'}}}
+861: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Penis Willis'}, "root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Walter Penis Willis'}, "root['birthplace']": {'new_value': 'Idar-Oberstein,,  West Germany', 'old_value': 'Idar-Oberstein,,  East Guam'}}}
+862: {'values_changed': {"root['name']": {'new_value': 'Penis Willis', 'old_value': 'Bruce Willis'}, "root['birthname']": {'new_value': 'Walter Penis Willis', 'old_value': 'Walter Bruce Willis'}, "root['birthplace']": {'new_value': 'Idar-Oberstein,,  East Guam', 'old_value': 'Idar-Oberstein,,  West Germany'}}}
+875: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Jerry Louis'}, "root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'Gary Jerry Louis'}, "root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Mary Tyler Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+876: {'values_changed': {"root['name']": {'new_value': 'Jerry Louis', 'old_value': 'Bruce Willis'}, "root['birthname']": {'new_value': 'Gary Jerry Louis', 'old_value': 'Walter Bruce Willis'}, "root['spouse']": {'new_value': 'Mary Tyler Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) '}}}
+889: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bald Faggot.'}}}
+890: {'values_changed': {"root['name']": {'new_value': 'Bald Faggot.', 'old_value': 'Bruce Willis'}}}
+920: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'John Paul Fredrico Carbone Harrington'}}}
+921: {'values_changed': {"root['birthname']": {'new_value': 'Walter Bruce Willis', 'old_value': 'John Paul Fredrico Carbone Harrington'}}}
+922: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'February 20 1983 Note to editors: Bruce Willis is still alive - any report claiming otherwise is a hoax -->'}, "root['birthplace']": {'new_value': 'Idar-Oberstein,,  West Germany', 'old_value': 'Los Angeles California Usa'}}}
+923: {'values_changed': {"root['name']": {'new_value': 'John Paul Fredrico Carbone Harrington', 'old_value': 'Bruce Willis'}, "root['birthname']": {'new_value': 'John Paul Fredrico Carbone Harrington', 'old_value': 'Walter Bruce Willis'}, "root['birthdate']": {'new_value': 'February 20 1983 Note to editors: Bruce Willis is still alive - any report claiming otherwise is a hoax -->', 'old_value': 'birth date and age'}, "root['birthplace']": {'new_value': 'Los Angeles California Usa', 'old_value': 'Idar-Oberstein,,  West Germany'}}}
+961: {'dictionary_item_added': {"root['birthname']": 'Walter Bruce Willis', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Idar-Oberstein,,  West Germany', "root['yearsactive']": '1979–present', "root['othername']": 'W.B. Willis Bruno'}, 'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.', "root['notable_works']": 'Bruce Willis filmography', "root['home_town']": 'Penns Grove, New Jersey, U.S.', "root['children']": '5, including Rumer Willis| '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Actor, Producer with Cheyenne Enterprises, Singer'}, "root['spouse']": {'new_value': 'Demi Moore (1987&ndash;2000) Emma Heming (2009&ndash;present) ', 'old_value': 'marriage'}}}
+969: {'values_changed': {"root['children']": {'new_value': '5, including Rumer Willis| ', 'old_value': '5| '}}}
+985: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'pepitp grillo'}}}
+986: {'values_changed': {"root['name']": {'new_value': 'pepitp grillo', 'old_value': 'Bruce Willis'}}}
+1012: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Producer with Cheyenne Enterprises, Singer', 'old_value': 'Actor, producer with Cheyenne Enterprises, singer'}, "root['children']": {'new_value': '5| ', 'old_value': '5 '}}}
+1014: {'dictionary_item_added': {"root['notable_works']": 'Bruce Willis filmography'}, 'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, U.S., Malibu, California, U.S., Hailey, Idaho, U.S,'}}}
+1015: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S., Malibu, California, U.S., Hailey, Idaho, U.S,', 'old_value': 'Los Angeles, California, U.S.'}}}
+1016: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, U.S., Malibu, California, U.S., Hailey, Idaho, U.S,'}}}
+1017: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S., Malibu, California, U.S., Hailey, Idaho, U.S,', 'old_value': 'Los Angeles, California, U.S.'}}}
+1054: {'values_changed': {"root['name']": {'new_value': 'Bruce Willis', 'old_value': 'Bruce “Whatchoo Got”  Willis'}}}
+1055: {'values_changed': {"root['name']": {'new_value': 'Bruce “Whatchoo Got”  Willis', 'old_value': 'Bruce Willis'}}}
+1096: {'values_changed': {"root['children']": {'new_value': '5 ', 'old_value': '5, including Rumer Willis '}}}
+1125: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles County, California, U.S.'}}}
+1130: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer with Cheyenne Enterprises, singer'}}, 'dictionary_item_added': {"root['residence']": 'Los Angeles County, California, U.S.', "root['home_town']": 'Penns Grove, New Jersey, U.S.'}, 'dictionary_item_removed': {"root['works']": 'Bruce Willis filmography'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}, "root['children']": {'new_value': '5, including Rumer Willis ', 'old_value': '5, including Rumer '}}}
+1179: {'dictionary_item_removed': {"root['alma_mater']": 'Montclair State University', "root['awards']": 'Full list '}, 'values_changed': {"root['children']": {'new_value': '5, including Rumer ', 'old_value': '5, including Rumer Willis'}}}

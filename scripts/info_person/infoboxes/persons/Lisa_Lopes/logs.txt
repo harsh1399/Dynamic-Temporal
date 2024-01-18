@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lisa Lopes', "root['background']": 'solo_singer', "root['alias']": [], "root['instrument']": 'Vocals, piano', "root['origin']": 'Atlanta, Georgia, U.S.', "root['genre']": [], "root['occupation']": [], "root['label']": [], "root['associated_acts']": []}}
+4: {'dictionary_item_added': {"root['occupation']": [], "root['label']": [], "root['associated_acts']": []}, 'iterable_item_removed': {"root['genre'][0]": 'Hip Hop,  R&B'}}
+7: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, piano', 'old_value': 'Vocals, piano '}}}
+8: {'dictionary_item_removed': {"root['occupation']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, piano ', 'old_value': 'Vocals, piano'}}, 'iterable_item_added': {"root['genre'][0]": 'Hip Hop,  R&B'}}
+55: {'values_changed': {"root['name']": {'new_value': 'Lisa Lopes', 'old_value': 'Lisa Lopess'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'Lisa Lopess', 'old_value': 'Lisa Lopes'}}}
+81: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flat list', 'new_value': []}, "root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flat list', 'new_value': []}}, 'dictionary_item_added': {"root['alias']": []}, 'dictionary_item_removed': {"root['partner']": 'Andre Rison ,  (1993–1999)  https://books.google.com/books?id', "root['education']": 'Philadelphia High School for Girls'}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, piano', 'old_value': 'Vocals'}}}
+84: {'dictionary_item_removed': {"root['alias']": []}}
+85: {'values_changed': {"root['name']": {'new_value': 'Lisa Lopes', 'old_value': 'Left Eye'}}}
+86: {'values_changed': {"root['name']": {'new_value': 'Left Eye', 'old_value': 'Lisa Lopes'}}}
+91: {'values_changed': {"root['occupation']": {'new_value': 'Flat list', 'old_value': 'Flatlist'}}}
+92: {'values_changed': {"root['occupation']": {'new_value': 'Flatlist', 'old_value': 'Flat list'}}}
+94: {'values_changed': {"root['partner']": {'new_value': 'Andre Rison ,  (1993–1999)  https://books.google.com/books?id', 'old_value': 'Andre Rison   (1993–1999)  https://books.google.com/books?id'}}}
+102: {'values_changed': {"root['partner']": {'new_value': 'Andre Rison   (1993–1999)  https://books.google.com/books?id', 'old_value': 'https://books.google.com/books?id'}}}
+104: {'dictionary_item_removed': {"root['children']": '1'}}
+108: {'dictionary_item_added': {"root['children']": '1'}, 'values_changed': {"root['partner']": {'new_value': 'https://books.google.com/books?id', 'old_value': 'Andre Rison   (1993–1999)  https://books.google.com/books?id'}}}
+126: {'values_changed': {"root['partner']": {'new_value': 'Andre Rison   (1993–1999)  https://books.google.com/books?id', 'old_value': 'Andre Rison   (1993–1999)'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Lisa Lopes', 'old_value': 'Lisa KARABO Lopes'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Lisa KARABO Lopes', 'old_value': 'Lisa Lopes'}}}
+139: {'values_changed': {"root['partner']": {'new_value': 'Andre Rison   (1993–1999)', 'old_value': 'Andre Rison   (1993–2001)'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Lisa Lopes', 'old_value': "Lisa Lopes'"}}}
+212: {'values_changed': {"root['name']": {'new_value': "Lisa Lopes'", 'old_value': 'Lisa Lopes'}}}
+232: {'values_changed': {"root['genre']": {'new_value': 'Flat list', 'old_value': 'Hip hop music'}}}
+233: {'values_changed': {"root['genre']": {'new_value': 'Hip hop music', 'old_value': 'Flat list'}}}

@@ -1,0 +1,46 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Julia Elizabeth Wells', "root['birthdate']": 'Birth date and age', "root['location']": 'Walton-on-Thames, Surrey, England', "root['occupation']": 'Actress, singer, author', "root['Voice_type']": 'Soprano', "root['yearsactive']": '1949&ndash;present', "root['spouse']": 'Tony Walton , Blake Edwards  '}}
+31: {'dictionary_item_added': {"root['location']": 'Walton-on-Thames, Surrey, England', "root['Voice_type']": 'Soprano'}, 'dictionary_item_removed': {"root['birthplace']": 'Walton-on-Thames, Surrey, England'}}
+56: {'dictionary_item_removed': {"root['name']": 'Julie Elizabeth Andrews, DBE'}}
+75: {'dictionary_item_added': {"root['name']": 'Julie Elizabeth Andrews, DBE'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, german speaker'}}}
+76: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, german speaker', 'old_value': 'Actress, singer, author'}}}
+116: {'values_changed': {"root['yearsactive']": {'new_value': '1949&ndash;present', 'old_value': '1947&ndash;present'}}}
+162: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, German translator'}}}
+163: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, German translator', 'old_value': 'Actress, singer, author'}}}
+164: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, german translator'}}}
+165: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, german translator', 'old_value': 'Actress, singer, author'}}}
+200: {'values_changed': {"root['birthname']": {'new_value': 'Julia Elizabeth Wells', 'old_value': 'Julia gaoy Wells'}}}
+201: {'values_changed': {"root['birthname']": {'new_value': 'Julia gaoy Wells', 'old_value': 'Julia Elizabeth Wells'}}}
+203: {'values_changed': {"root['yearsactive']": {'new_value': '1947&ndash;present', 'old_value': '1949&ndash;present'}}}
+206: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton , Blake Edwards  ', 'old_value': 'Tony Walton , Martin Josh  '}}}
+207: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton , Martin Josh  ', 'old_value': 'Tony Walton , Blake Edwards  '}}}
+262: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, dancer'}}}
+263: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, dancer', 'old_value': 'Actress, singer, author'}}}
+282: {'values_changed': {"root['yearsactive']": {'new_value': '1949&ndash;present', 'old_value': '1949–present'}}}
+284: {'dictionary_item_removed': {"root['deathdate']": '24 June 2010 (aged 74)', "root['deathplace']": 'New York City, New York, US'}, 'values_changed': {"root['birthdate']": {'new_value': 'Birth date and age', 'old_value': '1 October 1935'}, "root['yearsactive']": {'new_value': '1949–present', 'old_value': '1949–2010'}}}
+286: {'dictionary_item_added': {"root['deathdate']": '24 June 2010 (aged 74)', "root['deathplace']": 'New York City, New York, US'}, 'values_changed': {"root['birthdate']": {'new_value': '1 October 1935', 'old_value': 'Birth date and age'}, "root['yearsactive']": {'new_value': '1949–2010', 'old_value': '1949–present'}}}
+339: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton , Blake Edwards  ', 'old_value': 'Tony Walton , Blake Edwards '}}}
+345: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton , Blake Edwards ', 'old_value': 'Tony Walton Blake Edwards '}}}
+363: {'dictionary_item_removed': {"root['deathdate']": "i don't know"}}
+480: {'dictionary_item_added': {"root['birthname']": 'Julia Elizabeth Wells', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Walton-on-Thames, Surrey, England', "root['deathdate']": "i don't know", "root['yearsactive']": '1949–present'}, 'values_changed': {"root['spouse']": {'new_value': 'Tony Walton Blake Edwards ', 'old_value': 'Tony Walton Blake Edwards, his death '}}}
+489: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton Blake Edwards, his death ', 'old_value': 'Tony Walton Blake Edwards his death '}}}
+490: {'values_changed': {"root['spouse']": {'new_value': 'Tony Walton Blake Edwards his death ', 'old_value': 'Tony Walton Blake Edwards (his death) '}}}
+492: {'dictionary_item_removed': {"root['name']": 'Julie Andrews'}, 'values_changed': {"root['spouse']": {'new_value': 'Tony Walton Blake Edwards (his death) ', 'old_value': 'Tony Walton (divorced) Blake Edwards (his death) '}}}
+531: {'dictionary_item_removed': {"root['children']": 'Jennifer, Geoffrey, Emma, Amelia, Joanna '}, 'values_changed': {"root['name']": {'new_value': 'Julie Andrews', 'old_value': 'Dame Julie Andrews'}, "root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, theatre director, dancer'}, "root['spouse']": {'new_value': 'Tony Walton (divorced) Blake Edwards (his death) ', 'old_value': 'marriage'}}}
+532: {'values_changed': {"root['name']": {'new_value': 'Dame Julie Andrews', 'old_value': 'Shagged Your Nan'}}}
+533: {'values_changed': {"root['name']": {'new_value': 'Shagged Your Nan', 'old_value': 'Dame Julie Andrews'}}}
+537: {'values_changed': {"root['name']": {'new_value': 'Dame Julie Andrews', 'old_value': 'lolo'}}}
+539: {'values_changed': {"root['name']": {'new_value': 'lolo', 'old_value': 'Dame Julie Andrews'}}}
+559: {'values_changed': {"root['children']": {'new_value': 'Jennifer, Geoffrey, Emma, Amelia, Joanna ', 'old_value': 'Jennifer Edwatds, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards '}}}
+560: {'values_changed': {"root['children']": {'new_value': 'Jennifer Edwatds, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards ', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards '}}}
+570: {'values_changed': {"root['name']": {'new_value': 'Dame Julie Andrews', 'old_value': 'Shagged Your Nan'}, "root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards ', 'old_value': 'Jennifer, Geoffrey, Emma, Amelia, Joanna '}}}
+571: {'values_changed': {"root['name']": {'new_value': 'Shagged Your Nan', 'old_value': 'Damn Julie Andrews'}}}
+572: {'values_changed': {"root['name']": {'new_value': 'Damn Julie Andrews', 'old_value': 'Dame Julie Andrews'}, "root['children']": {'new_value': 'Jennifer, Geoffrey, Emma, Amelia, Joanna ', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards '}}}
+583: {'values_changed': {"root['name']": {'new_value': 'Dame Julie Andrews', 'old_value': 'Damn Julie Andrews'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Damn Julie Andrews', 'old_value': 'Dame Julie Andrews'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'Dame Julie Andrews', 'old_value': 'Damn Julie Andrews'}}}
+593: {'values_changed': {"root['name']": {'new_value': 'Damn Julie Andrews', 'old_value': 'Dame Julie Andrews'}}}
+643: {'values_changed': {"root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards ', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards'}}}
+644: {'values_changed': {"root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards '}}}
+682: {'dictionary_item_removed': {"root['awards']": 'Infobox comedian', "root['academyawards']": "'''Academy Award for Best Actress", "root['goldenglobeawards']": "'''Golden Globe Award for Best Actress - Motion Picture Musical or Comedy", "root['grammyawards']": "'''Grammy Award for Best Album for Children", "root['emmyawards']": "'''Outstanding Variety, Music or Comedy Series''', 1973 ''The Julie Andrews Hour''  "}, 'values_changed': {"root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards ', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards'}}}
+685: {'dictionary_item_added': {"root['awards']": 'Infobox comedian', "root['academyawards']": "'''Academy Award for Best Actress", "root['goldenglobeawards']": "'''Golden Globe Award for Best Actress - Motion Picture Musical or Comedy", "root['grammyawards']": "'''Grammy Award for Best Album for Children", "root['emmyawards']": "'''Outstanding Variety, Music or Comedy Series''', 1973 ''The Julie Andrews Hour''  "}, 'values_changed': {"root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards', 'old_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards '}}}
+803: {'values_changed': {"root['children']": {'new_value': 'Jennifer Edwards, Geoffrey Edwards, Emma Walton Hamilton, Amelia Edwards, Joanna Edwards ', 'old_value': 'Emma Walton Hamilton, Jennifer Edwards, Geoffrey Edwards, Amelia Edwards, Joanna Edwards '}}}

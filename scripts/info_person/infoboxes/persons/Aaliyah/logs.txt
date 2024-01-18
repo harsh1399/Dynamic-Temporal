@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Aaliyah', "root['home_town']": 'Detroit, Michigan, U.S.', "root['occupation']": [], "root['awards']": 'List of awards and nominations received by Aaliyah', "root['spouse']": 'marriage', "root['partner']": 'Damon Dash (1999–2001; her death)', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": 'Vocals', "root['label']": [], "root['associated_acts']": []}}
+81: {'dictionary_item_added': {"root['home_town']": 'Detroit, Michigan, U.S.', "root['instrument']": 'Vocals'}, 'dictionary_item_removed': {"root['embed']": 'yes', "root['instruments']": 'Vocals'}, 'values_changed': {"root['partner']": {'new_value': 'Damon Dash (1999–2001; her death)', 'old_value': 'Damon Dash, (2000–2001)'}}}
+108: {'dictionary_item_removed': {"root['education']": 'Detroit School of Arts', "root['origin']": 'Detroit, Michigan, U.S.'}}
+151: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'values_changed': {"root['partner']": {'new_value': 'Damon Dash, (2000–2001)', 'old_value': 'Damon Dash, (2000–2001; her death)'}}}
+224: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'values_changed': {"root['partner']": {'new_value': 'Damon Dash, (2000–2001; her death)', 'old_value': 'Damon Dash (2000–2001; her death)'}}}
+238: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}

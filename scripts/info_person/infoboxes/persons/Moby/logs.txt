@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Moby', "root['background']": 'solo_singer', "root['alias']": [], "root['origin']": 'ubl', "root['occupation']": [], "root['instrument']": [], "root['genre']": [], "root['label']": [], "root['associated_acts']": []}}
+30: {'dictionary_item_added': {"root['label']": [], "root['associated_acts']": []}, 'iterable_item_removed': {"root['genre'][0]": 'Electronica', "root['genre'][1]": 'ambient', "root['genre'][2]": 'dance', "root['genre'][3]": '', "root['genre'][4]": 'punk rock', "root['genre'][5]": '', "root['genre'][6]": 'Electro blues'}}
+32: {'iterable_item_removed': {"root['genre'][1]": 'Elecro blues'}}
+33: {'iterable_item_added': {"root['genre'][1]": 'Elecro blues'}}
+35: {'dictionary_item_removed': {"root['label']": [], "root['associated_acts']": []}, 'iterable_item_added': {"root['genre'][0]": 'Electronica', "root['genre'][1]": 'ambient', "root['genre'][2]": 'dance', "root['genre'][3]": '', "root['genre'][4]": 'punk rock', "root['genre'][5]": '', "root['genre'][6]": 'Electro blues'}}
+80: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'non_vocal_instrumentalist'}}}
+148: {'dictionary_item_added': {"root['alias']": [], "root['instrument']": [], "root['genre']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['name']": {'new_value': 'Moby', 'old_value': 'Moby File:MobyGettyImages-489821946-920x584'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Moby File:MobyGettyImages-489821946-920x584', 'old_value': 'Moby'}}}

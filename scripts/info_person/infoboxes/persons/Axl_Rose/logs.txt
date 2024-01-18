@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Axl Rose', "root['alias']": [], "root['origin']": 'Los Angeles, California, U.S.', "root['genre']": [], "root['instrument']": [], "root['occupation']": [], "root['label']": [], "root['associated_acts']": [], "root['embed']": 'yes'}}
+33: {'values_changed': {"root['name']": {'new_value': 'Axl Rose', 'old_value': 'candice'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'candice', 'old_value': 'Axl Rose'}}}
+51: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['current_member_of']": [], "root['past_member_of']": []}}

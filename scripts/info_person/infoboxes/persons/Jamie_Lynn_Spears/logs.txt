@@ -1,0 +1,114 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jamie-Lynn Spears', "root['birthdate']": 'birth date and age', "root['location']": 'McComb, Mississippi', "root['birthname']": 'Jamie Lynn Marie Spears', "root['othername']": 'Jamie'}}
+6: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marie Spears', 'old_value': 'Jamie Lynn Marie Spears http://www.jamieinsider.com/page.php?id'}}}
+7: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marie Spears http://www.jamieinsider.com/page.php?id', 'old_value': 'Jamie Lynn Marie Spears'}}}
+68: {'dictionary_item_added': {"root['othername']": 'Jamie'}, 'dictionary_item_removed': {"root['academyawards']": 'yeah right '}, 'values_changed': {"root['location']": {'new_value': 'McComb, Mississippi', 'old_value': 'McNoob, Mississippi'}}}
+70: {'dictionary_item_added': {"root['academyawards']": 'yeah right '}, 'dictionary_item_removed': {"root['othername']": '| notable role'}}
+71: {'dictionary_item_added': {"root['othername']": '| notable role'}, 'values_changed': {"root['location']": {'new_value': 'McNoob, Mississippi', 'old_value': 'McComb, Mississippi'}}}
+96: {'values_changed': {"root['location']": {'new_value': 'McComb, Mississippi', 'old_value': 'McComb, Missiple--User:84.66.18.158'}}}
+97: {'values_changed': {"root['location']": {'new_value': 'McComb, Missiple--User:84.66.18.158', 'old_value': 'McComb, Mississippi'}}}
+129: {'dictionary_item_removed': {"root['deathdate']": 'ć'}}
+148: {'dictionary_item_added': {"root['deathdate']": 'ć'}, 'values_changed': {"root['location']": {'new_value': 'McComb, Mississippi', 'old_value': 'Kentwood, Louisiana'}}}
+210: {'dictionary_item_added': {"root['location']": 'Kentwood, Louisiana'}, 'values_changed': {"root['name']": {'new_value': 'Jamie-Lynn Spears', 'old_value': 'Jamie-Lynn Spears(Sister of Britney Spears)'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Jamie-Lynn Spears(Sister of Britney Spears)', 'old_value': 'Jamie-Lynn Spears'}}}
+213: {'dictionary_item_added': {"root['birthname']": 'Jamie Lynn Marie Spears'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': '1991|4|4'}}}
+216: {'dictionary_item_removed': {"root['birthname']": 'Jamie Lynn Marie Spears'}, 'values_changed': {"root['birthdate']": {'new_value': '1991|4|4', 'old_value': 'birth date and age'}}}
+254: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marie Spears', 'old_value': 'Jamie Lynn Mark Spears'}}}
+255: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Mark Spears', 'old_value': 'Jamie Lynn Marie Spears'}}}
+329: {'dictionary_item_removed': {"root['birthplace']": 'Kentwood, Louisiana'}}
+332: {'dictionary_item_removed': {"root['academyawards']": 'She Will Never Win Shit! '}}
+334: {'values_changed': {"root['academyawards']": {'new_value': 'She Will Never Win Shit! ', 'old_value': 'She has won 3 AAs  '}}}
+335: {'dictionary_item_added': {"root['academyawards']": 'She has won 3 AAs  '}, 'dictionary_item_removed': {"root['othername']": '| notable role'}}
+379: {'values_changed': {"root['name']": {'new_value': 'Jamie-Lynn Spears', 'old_value': 'Jamie Lynn Spears'}}}
+404: {'values_changed': {"root['birthplace']": {'new_value': 'Kentwood, Louisiana', 'old_value': 'flagicon'}}}
+405: {'dictionary_item_added': {"root['birthplace']": 'flagicon'}, 'dictionary_item_removed': {"root['location']": 'flagicon'}}
+458: {'dictionary_item_removed': {"root['imagesize']": '15.7 KB'}}
+556: {'values_changed': {"root['imagesize']": {'new_value': '15.7 KB', 'old_value': '50'}}}
+571: {'dictionary_item_added': {"root['imagesize']": '50'}, 'values_changed': {"root['othername']": {'new_value': '| notable role', 'old_value': 'Faiza Yasmin | notable role'}}}
+584: {'values_changed': {"root['othername']": {'new_value': 'Faiza Yasmin | notable role', 'old_value': 'Heena Ahmad | notable role'}}}
+585: {'values_changed': {"root['othername']": {'new_value': 'Heena Ahmad | notable role', 'old_value': '| notable role'}}}
+704: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jam Licker spurts'}}}
+705: {'values_changed': {"root['name']": {'new_value': 'Jam Licker spurts', 'old_value': 'Jamie Lynn Spears'}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Spears gvchgch'}}}
+732: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears gvchgch', 'old_value': 'Jamie Lynn Spears'}}}
+804: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marie Spears', 'old_value': 'Jamie Lynn Marina Spears'}}}
+808: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marina Spears', 'old_value': 'Jamie Lynn Marie Spears'}}}
+843: {'dictionary_item_removed': {"root['imagesize']": '300 x 450 (24 kb)'}}
+913: {'dictionary_item_added': {"root['imagesize']": '300 x 450 (24 kb)'}, 'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Vesti Spears'}}}
+914: {'values_changed': {"root['name']": {'new_value': 'Jamie Vesti Spears', 'old_value': 'Jamie Lynn Spears'}}}
+917: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Vesti Spears'}}}
+927: {'values_changed': {"root['name']": {'new_value': 'Jamie Vesti Spears', 'old_value': 'Jamie Spears'}}}
+937: {'values_changed': {"root['name']": {'new_value': 'Jamie Spears', 'old_value': 'Jamie Lynn Spears'}}}
+953: {'dictionary_item_removed': {"root['imagesize']": '100x300'}}
+961: {'values_changed': {"root['imagesize']": {'new_value': '100x300', 'old_value': '7.14 cm (height) 6.48 cm (width)'}, "root['othername']": {'new_value': '| notable role', 'old_value': 'jLynn | notable role'}}}
+963: {'values_changed': {"root['imagesize']": {'new_value': '7.14 cm (height) 6.48 cm (width)', 'old_value': '6.48'}}}
+967: {'dictionary_item_added': {"root['imagesize']": '6.48'}, 'values_changed': {"root['othername']": {'new_value': 'jLynn | notable role', 'old_value': '| notable role'}}}
+970: {'dictionary_item_removed': {"root['imagesize']": '52KB'}, 'values_changed': {"root['othername']": {'new_value': '| notable role', 'old_value': 'Jlynn Jamie-Spears | notable role'}}}
+973: {'dictionary_item_added': {"root['imagesize']": '52KB'}, 'values_changed': {"root['othername']": {'new_value': 'Jlynn Jamie-Spears | notable role', 'old_value': '| notable role'}}}
+979: {'dictionary_item_removed': {"root['imagesize']": '450 × 301 pixelS'}}
+981: {'values_changed': {"root['imagesize']": {'new_value': '450 × 301 pixelS', 'old_value': '450 pixels'}}}
+985: {'values_changed': {"root['imagesize']": {'new_value': '450 pixels', 'old_value': '250 pixels'}}}
+996: {'dictionary_item_added': {"root['imagesize']": '250 pixels'}, 'values_changed': {"root['othername']": {'new_value': '| notable role', 'old_value': 'Jamie Lynn.Zoey. | notable role'}}}
+998: {'values_changed': {"root['othername']": {'new_value': 'Jamie Lynn.Zoey. | notable role', 'old_value': '| notable role'}}}
+999: {'dictionary_item_added': {"root['location']": 'flagicon', "root['othername']": '| notable role'}, 'dictionary_item_removed': {"root['birthplace']": 'McComb, Mississippi, United States', "root['occupation']": 'actor'}}
+1006: {'dictionary_item_removed': {"root['othername']": 'Jlynn, Jamie, Jamie-Lynn'}, 'values_changed': {"root['birthplace']": {'new_value': 'McComb, Mississippi, United States', 'old_value': 'Kentwood, Louisiana, United States'}}}
+1009: {'dictionary_item_removed': {"root['yearsactive']": '2001-present'}, 'values_changed': {"root['othername']": {'new_value': 'Jlynn, Jamie, Jamie-Lynn', 'old_value': 'J Lynn, Jamie, Jamie-Lynn'}}}
+1014: {'values_changed': {"root['othername']": {'new_value': 'J Lynn, Jamie, Jamie-Lynn', 'old_value': 'JLynn, Jamie, Jamie-Lynn'}}}
+1017: {'values_changed': {"root['othername']": {'new_value': 'JLynn, Jamie, Jamie-Lynn', 'old_value': 'JLynn, Jamie, Jamie-Lynn, JLS,JL'}}}
+1020: {'dictionary_item_removed': {"root['partner']": 'Casey (currently dating)'}}
+1021: {'dictionary_item_removed': {"root['associatedacts']": 'Britney Spears '}}
+1074: {'dictionary_item_added': {"root['partner']": 'Casey (currently dating)'}, 'dictionary_item_removed': {"root['siblings']": 'Britney Spears'}}
+1082: {'values_changed': {"root['birthname']": {'new_value': 'Jamie Lynn Marie Spears', 'old_value': 'Jamie-Lynn Marie Spears'}}}
+1113: {'values_changed': {"root['othername']": {'new_value': 'JLynn, Jamie, Jamie-Lynn, JLS,JL', 'old_value': 'JLynn, Jamie, Jamie-Lynn, JLS, JL'}}}
+1167: {'dictionary_item_removed': {"root['children']": 'non yet. but she is pregnant.'}}
+1169: {'dictionary_item_added': {"root['children']": 'non yet. but she is pregnant.'}, 'dictionary_item_removed': {"root['partner']": 'Casey Aldrige (Boyfriend)'}}
+1172: {'values_changed': {"root['birthname']": {'new_value': 'Jamie-Lynn Marie Spears', 'old_value': 'Jamie Lynn Marie Spears'}}}
+1176: {'values_changed': {"root['othername']": {'new_value': 'JLynn, Jamie, Jamie-Lynn, JLS, JL', 'old_value': 'JLynn, Jamie, Jamie Lynn, JLS, JL'}}}
+1216: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Ichy Bitchy'}}}
+1217: {'values_changed': {"root['name']": {'new_value': 'Ichy Bitchy', 'old_value': 'Jamie Lynn Spears'}}}
+1287: {'values_changed': {"root['occupation']": {'new_value': 'actor', 'old_value': 'Pregnant Teenage Girl'}}}
+1288: {'values_changed': {"root['occupation']": {'new_value': 'Pregnant Teenage Girl', 'old_value': 'Actress'}}}
+1289: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Hoe'}}}
+1290: {'values_changed': {"root['occupation']": {'new_value': 'Hoe', 'old_value': 'Actress'}}}
+1291: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress'}}, 'dictionary_item_added': {"root['birthname']": 'Jamie Lynn Marie Spears', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Kentwood, Louisiana, United States', "root['othername']": 'JLynn, Jamie, Jamie Lynn, JLS, JL', "root['yearsactive']": '2001-present', "root['partner']": 'Casey Aldrige (Boyfriend)', "root['siblings']": 'Britney Spears', "root['associatedacts']": 'Britney Spears '}, 'dictionary_item_removed': {"root['home_town']": 'Kentwood, Louisiana', "root['children']": 'Maddie Briann Aldridge (b. 2008)', "root['embed']": 'yes', "root['genre']": 'Country music', "root['background']": 'solo_singer', "root['instrument']": 'Vocals'}}
+1294: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Skin Flute'}}}
+1295: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Skin Flute', 'old_value': 'Vocals'}}}
+1300: {'dictionary_item_added': {"root['instrument']": 'Vocals'}, 'dictionary_item_removed': {"root['talent']": 'singing (country)/ actress'}}
+1301: {'dictionary_item_added': {"root['talent']": 'singing (country)/ actress'}, 'dictionary_item_removed': {"root['instrument']": 'Vocals'}}
+1302: {'dictionary_item_added': {"root['instrument']": 'Vocals'}, 'dictionary_item_removed': {"root['label']": 'r Talents'}, 'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer<!--Mandatory field; do'}}}
+1303: {'dictionary_item_added': {"root['label']": 'r Talents'}, 'dictionary_item_removed': {"root['instrument']": 'Vocals'}, 'values_changed': {"root['background']": {'new_value': 'solo_singer<!--Mandatory field; do', 'old_value': 'solo_singer'}}}
+1306: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn winner'}}}
+1307: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn winner', 'old_value': 'Jamie Lynn Spears'}}}
+1337: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lays here'}}}
+1338: {'values_changed': {"root['name']": {'new_value': 'Jamie Lays here', 'old_value': 'Jamie Lynn Spears'}}}
+1349: {'dictionary_item_removed': {"root['partner']": 'Casey Aldridge (2005–2010)  ,  Jamie Watson ,  (2012–present; engaged)'}, 'values_changed': {"root['children']": {'new_value': 'Maddie Briann Aldridge (b. 2008)', 'old_value': '1'}}}
+1350: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '5'}}}
+1351: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '1'}}}
+1356: {'dictionary_item_removed': {"root['spouse']": 'Jamie Watson (m. 2014–present)'}, 'values_changed': {"root['partner']": {'new_value': 'Casey Aldridge (2005–2010)  ,  Jamie Watson ,  (2012–present; engaged)', 'old_value': 'Casey Aldridge (2005–2010)'}}}
+1359: {'values_changed': {"root['spouse']": {'new_value': 'Jamie Watson (m. 2014–present)', 'old_value': 'married'}}}
+1365: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Spears Watson'}}}
+1366: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears Watson', 'old_value': 'Jamie Lynn Spears'}}}
+1367: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Spears Watson'}}}
+1368: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears Watson', 'old_value': 'Jamie Lynn Spears'}}}
+1377: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Ashley Lynn Spears'}}}
+1379: {'values_changed': {"root['name']": {'new_value': 'Ashley Lynn Spears', 'old_value': 'Jamie Lynn Spears'}}}
+1381: {'dictionary_item_removed': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': '5'}, "root['genre']": {'new_value': 'Country music', 'old_value': 'the kind she sings'}}}
+1382: {'dictionary_item_added': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}, 'values_changed': {"root['children']": {'new_value': '5', 'old_value': '1'}, "root['genre']": {'new_value': 'the kind she sings', 'old_value': 'Country music'}}}
+1383: {'dictionary_item_removed': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': '5'}, "root['genre']": {'new_value': 'Country music', 'old_value': 'the kind she sings'}}}
+1384: {'dictionary_item_added': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}, 'values_changed': {"root['children']": {'new_value': '5', 'old_value': '1'}, "root['genre']": {'new_value': 'the kind she sings', 'old_value': 'Country music'}}}
+1406: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': '1'}}, 'dictionary_item_removed': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}}
+1433: {'dictionary_item_added': {"root['rowspan']": '"2" style', "root['align']": '"1"', "root['NAME']": 'Spears, Jamie Lynn |ALTERNATIVE NAMES'}, 'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Dis be da Jamie Lynn Spears in all uh her GLORY!!!!!!!!'}}}
+1434: {'values_changed': {"root['name']": {'new_value': 'Dis be da Jamie Lynn Spears in all uh her GLORY!!!!!!!!', 'old_value': 'Jamie Lynn Spears'}}}
+1454: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '18', 'new_value': []}}}
+1455: {'values_changed': {"root['children']": {'new_value': '18', 'old_value': '18 She had babies like no tomorrow!'}}}
+1456: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': '18 She had babies like no tomorrow!'}}}
+1479: {'dictionary_item_added': {"root['home_town']": 'Kentwood, Louisiana'}, 'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Spears'}}}
+1481: {'values_changed': {"root['name']": {'new_value': 'Jamie Spears', 'old_value': 'Jamie Lynn Spears'}}}
+1486: {'values_changed': {"root['spouse']": {'new_value': 'married', 'old_value': 'marriage'}}}
+1487: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Spears-Tilton'}}}
+1488: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears-Tilton', 'old_value': 'Jamie Lynn Spears'}}}
+1492: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Spears, on Tuesdays the rest of the week I dress like a little Mexican and roll around in my backyard pretending im a carrot'}, "root['partner']": {'new_value': 'Casey Aldridge (2005–2010)', 'old_value': 'Jimmy Villegas (2005–2010)'}, "root['genre']": {'new_value': 'Country music', 'old_value': 'Damn Jimmy! You SUS AF!, "I try"'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'Fapping'}, "root['instrument']": {'new_value': 'Vocals', 'old_value': 'Making noises come out of my ass'}}}
+1493: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears, on Tuesdays the rest of the week I dress like a little Mexican and roll around in my backyard pretending im a carrot', 'old_value': 'Jamie Lynn Spears'}, "root['partner']": {'new_value': 'Jimmy Villegas (2005–2010)', 'old_value': 'Casey Aldridge (2005–2010)'}, "root['genre']": {'new_value': 'Damn Jimmy! You SUS AF!, "I try"', 'old_value': 'Country music'}, "root['background']": {'new_value': 'Fapping', 'old_value': 'solo_singer'}, "root['instrument']": {'new_value': 'Making noises come out of my ass', 'old_value': 'Vocals'}}}
+1506: {'values_changed': {"root['partner']": {'new_value': 'Casey Aldridge (2005–2010)', 'old_value': 'Casey Aldridge (2005–2010) baby daddy'}}}
+1507: {'values_changed': {"root['partner']": {'new_value': 'Casey Aldridge (2005–2010) baby daddy', 'old_value': 'Casey Aldridge (2005–2010)'}}}
+1518: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Spears', 'old_value': 'Jamie Lynn Durst'}}}
+1519: {'values_changed': {"root['name']": {'new_value': 'Jamie Lynn Durst', 'old_value': 'Jamie Lynn Spears'}}}

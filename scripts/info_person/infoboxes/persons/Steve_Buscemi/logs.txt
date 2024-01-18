@@ -1,0 +1,83 @@
+0: {'dictionary_item_removed': {"root['name']": 'Steve Buscemi', "root['occupation']": 'Actor, director', "root['spouse']": 'marriage', "root['children']": '1'}}
+21: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Lucian Buscemi'}}}
+22: {'values_changed': {"root['children']": {'new_value': 'Lucian Buscemi', 'old_value': '1'}}}
+24: {'dictionary_item_removed': {"root['known_for']": 'Grown ups'}}
+26: {'values_changed': {"root['known_for']": {'new_value': 'Grown ups', 'old_value': 'Grown Ups, Grown Ups 2'}}}
+28: {'dictionary_item_added': {"root['known_for']": 'Grown Ups, Grown Ups 2'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, director', 'old_value': 'Porn star, director, ticcy mami reee Ramindu sexy'}}}
+29: {'values_changed': {"root['occupation']": {'new_value': 'Porn star, director, ticcy mami reee Ramindu sexy', 'old_value': 'Actor, director'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemi/Peter Stevens'}}}
+31: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi/Peter Stevens', 'old_value': 'Steve Buscemi'}}}
+42: {'dictionary_item_removed': {"root['Alignment']": 'Chaotic Evil '}}
+43: {'dictionary_item_added': {"root['Alignment']": 'Chaotic Evil '}, 'dictionary_item_removed': {"root['alignment']": 'Chaotic Evil'}}
+45: {'dictionary_item_added': {"root['alignment']": 'Chaotic Evil'}, 'dictionary_item_removed': {"root['Alignment']": 'Chaotic Evil '}}
+47: {'dictionary_item_removed': {"root['known_for']": 'bein god'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemi (god)'}, "root['occupation']": {'new_value': 'Actor, director', 'old_value': 'god'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'melinda goose'}}}
+48: {'dictionary_item_added': {"root['known_for']": 'bein god'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi (god)', 'old_value': 'Steve Buscemi'}, "root['occupation']": {'new_value': 'god', 'old_value': 'Actor, director'}, "root['spouse']": {'new_value': 'melinda goose', 'old_value': 'marriage'}}}
+49: {'dictionary_item_removed': {"root['known_for']": 'being god'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': "steve 'big man' buscemi"}, "root['occupation']": {'new_value': 'Actor, director', 'old_value': 'god'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'steve buscemi'}, "root['Alignment']": {'new_value': 'Chaotic Evil ', 'old_value': 'god '}}}
+50: {'dictionary_item_added': {"root['known_for']": 'being god'}, 'values_changed': {"root['name']": {'new_value': "steve 'big man' buscemi", 'old_value': 'Steve Buscemi'}, "root['occupation']": {'new_value': 'god', 'old_value': 'Actor, director'}, "root['spouse']": {'new_value': 'steve buscemi', 'old_value': 'marriage'}, "root['Alignment']": {'new_value': 'god ', 'old_value': 'Chaotic Evil '}}}
+51: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director', 'old_value': 'Actor, director,'}}}
+52: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director,', 'old_value': 'Actor, director'}}}
+59: {'dictionary_item_removed': {"root['known_for']": 'being a daddy'}}
+63: {'dictionary_item_added': {"root['known_for']": 'being a daddy'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Weird Face Guy'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Weird Face Guy', 'old_value': 'Steve Buscemi'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemis'}}}
+69: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemis', 'old_value': 'Steve Buscemi'}}}
+75: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director', 'old_value': 'Actur, directer'}, "root['children']": {'new_value': '1', 'old_value': '193'}}}
+76: {'values_changed': {"root['children']": {'new_value': '193', 'old_value': '3'}, "root['Alignment']": {'new_value': 'Chaotic Evil ', 'old_value': 'Chaotic Evilness '}}}
+77: {'values_changed': {"root['occupation']": {'new_value': 'Actur, directer', 'old_value': 'Actor, director'}}}
+78: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '1'}, "root['Alignment']": {'new_value': 'Chaotic Evilness ', 'old_value': 'Chaotic Evil '}}}
+97: {'dictionary_item_added': {"root['Alignment']": 'Chaotic Evil '}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve "Shelby" Buscemi'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Steve "Shelby" Buscemi', 'old_value': 'Steve Buscemi'}}}
+113: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'God Buscemi'}}}
+114: {'values_changed': {"root['name']": {'new_value': 'God Buscemi', 'old_value': 'Steve Buscemi'}}}
+132: {'dictionary_item_removed': {"root['Sexuality']": 'lesbean'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'A real creep'}}}
+133: {'dictionary_item_added': {"root['Sexuality']": 'lesbean'}, 'values_changed': {"root['name']": {'new_value': 'A real creep', 'old_value': 'Steve Buscemi'}}}
+134: {'dictionary_item_removed': {"root['Sexuality']": 'Homosexual'}}
+135: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'A Real Creep'}}}
+136: {'dictionary_item_added': {"root['Sexuality']": 'Homosexual'}, 'values_changed': {"root['name']": {'new_value': 'A Real Creep', 'old_value': 'Steve Buscemi'}}}
+145: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Nucky Thompson'}}}
+152: {'values_changed': {"root['name']": {'new_value': 'Nucky Thompson', 'old_value': 'Steve Buscemi'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemi aka hugh stuckley'}}}
+156: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi aka hugh stuckley', 'old_value': 'Steve Buscemi'}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemi - aka hugh stuckey'}}}
+159: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi - aka hugh stuckey', 'old_value': 'Steve Buscemi'}}}
+162: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'David Buscemi'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'David Buscemi', 'old_value': 'Steve Buscemi'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'King of my Heart'}}}
+168: {'values_changed': {"root['name']": {'new_value': 'King of my Heart', 'old_value': 'Steve Buscemi'}}}
+192: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, director'}}}
+209: {'dictionary_item_removed': {"root['known_for']": 'his ugly mug'}}
+242: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'male prostitute', 'new_value': []}}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'ShrekLover98'}, "root['children']": {'new_value': '1', 'old_value': '80000000'}, "root['known_for']": {'new_value': 'his ugly mug', 'old_value': 'his amazing role in GANG BANG BROS'}}}
+243: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'male prostitute'}}, 'dictionary_item_added': {"root['known_for']": 'his amazing role in GANG BANG BROS'}, 'values_changed': {"root['name']": {'new_value': 'ShrekLover98', 'old_value': 'Steve Buscemi'}, "root['children']": {'new_value': '80000000', 'old_value': '1'}}}
+246: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Buscemi?'}, "root['children']": {'new_value': '1', 'old_value': '1 1/4?'}}}
+247: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi?', 'old_value': 'Steve Buscemi'}, "root['children']": {'new_value': '1 1/4?', 'old_value': '1'}}}
+248: {'dictionary_item_removed': {"root['known_for']": 'how do you do fellow kids'}}
+253: {'dictionary_item_added': {"root['known_for']": 'how do you do fellow kids'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Josh HALE'}}}
+254: {'values_changed': {"root['name']": {'new_value': 'Josh HALE', 'old_value': 'Steve Buscemi'}}}
+255: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'JOSH HALE'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'JOSH HALE', 'old_value': 'Steve Buscemi'}}}
+259: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'an average chippy', 'new_value': []}}, 'dictionary_item_added': {"root['spouse']": 'marriage', "root['children']": '1'}, 'dictionary_item_removed': {"root['known_for']": 'Eating mdma'}, 'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Josh HALE'}}}
+260: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'an average chippy'}}, 'dictionary_item_added': {"root['known_for']": 'Eating mdma'}, 'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '1'}, 'values_changed': {"root['name']": {'new_value': 'Josh HALE', 'old_value': 'Steve Buscemi'}}}
+261: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Josh Hale'}}}
+262: {'values_changed': {"root['name']": {'new_value': 'Josh Hale', 'old_value': 'Steve Buscemi'}}}
+291: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Lord Steve Buscemi'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Lord Steve Buscemi', 'old_value': 'Steve Buscemi'}}}
+326: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve lidlow Buscemi'}}}
+327: {'values_changed': {"root['name']": {'new_value': 'Steve lidlow Buscemi', 'old_value': 'Steve Buscemi'}}}
+359: {'dictionary_item_removed': {"root['publisher']": 'Dailymotion.com', "root['archiveurl']": 'https://web.archive.org/web/20081011235246/http://www.filmlinc.com/fcm/ja07/extbuscemi.htm', "root['accessdate']": 'December 15, 2012', "root['rowspan']": '"3"', "root['list']": 'GoldenGlobeBestActorTVDrama 2010–2029 Independentspiritbestsupportingmale 1987-1999 National Society of Film Critics Award for Best Supporting Actor New York Film Critics Circle Award for Best Supporting Actor ScreenActorsGuildAward MaleTVDrama 2010–2029 ScreenActorsGuildAwards EnsembleTVDrama 2010–2019 Vancouver Film Critics Circle Award for Best Actor   Authority control  DEFAULTSORT:Buscemi, Steve Category:1957 births Category:Living people Category:20th-century American male actors Category:21st-century American male actors Category:American film directors of Italian descent Category:American male film actors Category:American male stage actors Category:American male television actors Category:American male voice actors Category:American people of Dutch descent Category:American people of English descent Category:American people of Irish descent Category:American people of Italian descent Category:American people of Sicilian descent Category:American television directors Category:Best Drama Actor Golden Globe (television) winners Category:Film directors from New York City Category:Film producers from New York (state) Category:Independent Spirit Award winners Category:Lee Strasberg Theatre and Film Institute alumni Category:Male actors from New Jersey Category:Male actors of Italian descent Category:Nassau Community College alumni Category:New York City firefighters Category:Outstanding Performance by a Male Actor in a Drama Series Screen Actors Guild Award winners Category:People associated with the September 11 attacks Category:People from Brooklyn Category:People from Valley Stream, New York Category:Primetime Emmy Award winners Category:Valley Stream Central High School alumni'}}
+366: {'dictionary_item_added': {"root['spouse']": 'marriage', "root['children']": '1', "root['publisher']": 'Dailymotion.com', "root['archiveurl']": 'https://web.archive.org/web/20081011235246/http://www.filmlinc.com/fcm/ja07/extbuscemi.htm', "root['accessdate']": 'December 15, 2012', "root['rowspan']": '"3"', "root['list']": 'GoldenGlobeBestActorTVDrama 2010–2029 Independentspiritbestsupportingmale 1987-1999 National Society of Film Critics Award for Best Supporting Actor New York Film Critics Circle Award for Best Supporting Actor ScreenActorsGuildAward MaleTVDrama 2010–2029 ScreenActorsGuildAwards EnsembleTVDrama 2010–2019 Vancouver Film Critics Circle Award for Best Actor   Authority control  DEFAULTSORT:Buscemi, Steve Category:1957 births Category:Living people Category:20th-century American male actors Category:21st-century American male actors Category:American film directors of Italian descent Category:American male film actors Category:American male stage actors Category:American male television actors Category:American male voice actors Category:American people of Dutch descent Category:American people of English descent Category:American people of Irish descent Category:American people of Italian descent Category:American people of Sicilian descent Category:American television directors Category:Best Drama Actor Golden Globe (television) winners Category:Film directors from New York City Category:Film producers from New York (state) Category:Independent Spirit Award winners Category:Lee Strasberg Theatre and Film Institute alumni Category:Male actors from New Jersey Category:Male actors of Italian descent Category:Nassau Community College alumni Category:New York City firefighters Category:Outstanding Performance by a Male Actor in a Drama Series Screen Actors Guild Award winners Category:People associated with the September 11 attacks Category:People from Brooklyn Category:People from Valley Stream, New York Category:Primetime Emmy Award winners Category:Valley Stream Central High School alumni'}, 'iterable_item_removed': {"root['occupation'][0]": 'Actor', "root['occupation'][1]": 'director', "root['occupation'][2]": 'firefighter (former)'}}
+367: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '1'}, 'iterable_item_added': {"root['occupation'][0]": 'Actor', "root['occupation'][1]": 'director', "root['occupation'][2]": 'firefighter (former)'}}
+369: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Vignesh'}}}
+370: {'values_changed': {"root['name']": {'new_value': 'Vignesh', 'old_value': 'Steve Buscemi'}}}
+379: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Steve Elizabeth Buscemi'}}}
+380: {'values_changed': {"root['name']": {'new_value': 'Steve Elizabeth Buscemi', 'old_value': 'Steve "Liz" Buscemi'}}}
+381: {'values_changed': {"root['name']": {'new_value': 'Steve "Liz" Buscemi', 'old_value': 'Steve Buscemi'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Donald Trump'}}}
+393: {'values_changed': {"root['name']": {'new_value': 'Donald Trump', 'old_value': 'Steve Buscemi'}}}
+394: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '275'}}}
+395: {'values_changed': {"root['children']": {'new_value': '275', 'old_value': '1'}}}
+401: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Sean Aston'}}}
+403: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'single'}, "root['children']": {'new_value': '1', 'old_value': '0'}}}
+404: {'values_changed': {"root['children']": {'new_value': '0', 'old_value': '9'}}}
+405: {'values_changed': {"root['name']": {'new_value': 'Sean Aston', 'old_value': 'Steve Buscemi'}, "root['spouse']": {'new_value': 'single', 'old_value': 'marriage'}, "root['children']": {'new_value': '9', 'old_value': '1'}}}
+455: {'values_changed': {"root['name']": {'new_value': 'Steve Buscemi', 'old_value': 'Bobby Lebingus Billiams'}}}
+456: {'values_changed': {"root['name']": {'new_value': 'Bobby Lebingus Billiams', 'old_value': 'Steve Buscemi'}}}

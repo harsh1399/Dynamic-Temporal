@@ -1,0 +1,54 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Ian McKellen', "root['occupation']": 'Actor', "root['partner']": 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)', "root['alma_mater']": 'Cambridge University'}}
+49: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, activist'}}}
+50: {'values_changed': {"root['occupation']": {'new_value': 'Actor, activist', 'old_value': 'Actor'}}}
+67: {'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)', 'old_value': 'Brianna Taylor (1964–1972) Suzie Mathias (1978–1988)'}}}
+68: {'values_changed': {"root['partner']": {'new_value': 'Brianna Taylor (1964–1972) Suzie Mathias (1978–1988)', 'old_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)'}}}
+85: {'dictionary_item_removed': {"root['awards']": 'Laurence Olivier Award, Tony Award, Academy Award', "root['notable_works']": 'The Lord of the Rings film trilogy'}}
+86: {'dictionary_item_removed': {"root['education']": "St Catharine's College, Cambridge"}}
+87: {'dictionary_item_removed': {"root['home_town']": 'Wigan, Engalnd (raised)'}}
+90: {'dictionary_item_added': {"root['education']": "St Catharine's College, Cambridge", "root['home_town']": 'Wigan, Engalnd (raised)', "root['awards']": 'Laurence Olivier Award, Tony Award, Academy Award', "root['notable_works']": 'The Lord of the Rings film trilogy'}, 'dictionary_item_removed': {"root['nephew']": 'Andrew "Foets" Blackman'}}
+91: {'dictionary_item_added': {"root['nephew']": 'Andrew "Foets" Blackman'}, 'dictionary_item_removed': {"root['children']": 'Andrew "Foets" Blackman'}}
+138: {'dictionary_item_added': {"root['children']": 'Andrew "Foets" Blackman'}, 'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)', 'old_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988) Daniel Vinson (2012-Present)'}}}
+139: {'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988) Daniel Vinson (2012-Present)', 'old_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)'}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Sir Ian McKellen', 'old_value': 'Sir Ian McKunten'}}}
+173: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Chief fapper'}}}
+174: {'values_changed': {"root['occupation']": {'new_value': 'Chief fapper', 'old_value': 'Actor'}}}
+175: {'values_changed': {"root['name']": {'new_value': 'Sir Ian McKunten', 'old_value': 'Sir Ian McKellen'}}}
+203: {'dictionary_item_removed': {"root['died']": 'September 28, 2012 (aged 73)'}}
+222: {'dictionary_item_added': {"root['died']": 'September 28, 2012 (aged 73)'}, 'values_changed': {"root['name']": {'new_value': 'Sir Ian McKellen', 'old_value': 'Sir Ian McKellenh a good man'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Sir Ian McKellenh a good man', 'old_value': 'Sir Ian McKellen'}}}
+285: {'values_changed': {"root['name']": {'new_value': 'Sir Ian McKellen', 'old_value': 'Ian McKellen'}}}
+327: {'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)', 'old_value': 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)'}, "root['alma_mater']": {'new_value': 'Cambridge University', 'old_value': "St Catharine's College, Cambridge"}}}
+338: {'dictionary_item_removed': {"root['residence']": 'Limehouse, London'}}
+347: {'dictionary_item_added': {"root['residence']": 'Limehouse, London', "root['partner']": 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+348: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['partner']": 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)'}}
+363: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+369: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+374: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+375: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+377: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+378: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+379: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+380: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+381: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+382: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+411: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor,Minister'}}}
+412: {'values_changed': {"root['occupation']": {'new_value': 'Actor,Minister', 'old_value': 'Actor'}}}
+419: {'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)', 'old_value': 'Dwane (the rock) Johnson(1964–1972), Sean Mathias (1978–1988)'}}}
+420: {'values_changed': {"root['partner']": {'new_value': 'Dwane (the rock) Johnson(1964–1972), Sean Mathias (1978–1988)', 'old_value': 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)'}}}
+423: {'values_changed': {"root['partner']": {'new_value': 'Brian Taylor (1964–1972), Sean Mathias (1978–1988)', 'old_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)'}}}
+433: {'dictionary_item_added': {"root['alma_mater']": "St Catharine's College, Cambridge"}, 'dictionary_item_removed': {"root['residence']": 'London, England'}}
+434: {'dictionary_item_added': {"root['residence']": 'London, England'}, 'dictionary_item_removed': {"root['alma_mater']": "St Catharine's College, Cambridge"}}
+447: {'type_changes': {"root['partner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Brian Taylor (1964–1972) Sean Mathias (1978–1988)'}}}
+465: {'values_changed': {"root['name']": {'new_value': 'Ian McKellen', 'old_value': 'Ian McKellen Clark'}}}
+467: {'values_changed': {"root['name']": {'new_value': 'Ian McKellen Clark', 'old_value': 'Ian McKellen'}}}
+471: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor , Professional juggler , Circus and party entertainer'}}}
+472: {'values_changed': {"root['occupation']": {'new_value': 'Actor , Professional juggler , Circus and party entertainer', 'old_value': 'Actor'}}}
+481: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor , Bomb defusal expert,'}}}
+482: {'values_changed': {"root['occupation']": {'new_value': 'Actor , Bomb defusal expert,', 'old_value': 'Actor'}}}
+488: {'dictionary_item_removed': {"root['residence']": 'The farm'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Haggler'}}}
+489: {'dictionary_item_added': {"root['residence']": 'The farm'}, 'values_changed': {"root['occupation']": {'new_value': 'Haggler', 'old_value': 'Actor'}}}
+498: {'values_changed': {"root['name']": {'new_value': 'Ian McKellen', 'old_value': 'Ian Cannpn'}}}
+499: {'values_changed': {"root['name']": {'new_value': 'Ian Cannpn', 'old_value': 'Ian McKellen'}}}
+505: {'values_changed': {"root['name']": {'new_value': 'Ian McKellen', 'old_value': 'Ian McKellen Gandaalf'}}}
+506: {'values_changed': {"root['name']": {'new_value': 'Ian McKellen Gandaalf', 'old_value': 'Ian McKellen'}}}

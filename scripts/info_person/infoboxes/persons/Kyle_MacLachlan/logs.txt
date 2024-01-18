@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kyle MacLachlan', "root['residence']": 'Manhattan, New York, U.S.', "root['alma_mater']": 'University of Washington', "root['occupation']": 'Actor', "root['spouse']": 'Desiree Gruber (m. 2002)', "root['children']": '1'}}
+44: {'values_changed': {"root['residence']": {'new_value': 'Manhattan, New York, U.S.', 'old_value': 'Los Angeles, New York City'}}}
+108: {'type_changes': {"root['residence']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Los Angeles, New York City'}}}
+175: {'values_changed': {"root['name']": {'new_value': 'Kyle MacLachlan', 'old_value': 'Mark Thomas'}}}
+176: {'values_changed': {"root['name']": {'new_value': 'Mark Thomas', 'old_value': 'Kyle MacLachlan'}}}

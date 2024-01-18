@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'John Bird', "root['occupation']": 'Actor, comedian, satirist'}}
+59: {'dictionary_item_removed': {"root['spouse']": '1965|1970|e'}}
+71: {'dictionary_item_removed': {"root['alma_mater']": "King's College, Cambridge "}, 'values_changed': {"root['spouse']": {'new_value': '1965|1970|e', 'old_value': 'marriage'}}}
+72: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, satirist', 'old_value': 'Actor'}}}
+154: {'dictionary_item_removed': {"root['education']": 'New College Nottingham'}}

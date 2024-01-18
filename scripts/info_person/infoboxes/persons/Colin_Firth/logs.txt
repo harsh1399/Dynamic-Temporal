@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Colin Firth', "root['occupation']": 'Actor', "root['awards']": 'See #Awards', "root['spouse']": 'marriage', "root['children']": '3'}}
+5: {'values_changed': {"root['name']": {'new_value': 'Colin Firth', 'old_value': 'Colin "The Bro" Firth'}}}
+7: {'values_changed': {"root['name']": {'new_value': 'Colin "The Bro" Firth', 'old_value': 'Colin Firth'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Colin Firth', 'old_value': 'Collin Firth'}}}
+10: {'values_changed': {"root['name']": {'new_value': 'Collin Firth', 'old_value': 'Colin Firth'}}}
+15: {'dictionary_item_removed': {"root['residence']": 'Chiswick, London, England Umbria, Italy'}}
+185: {'dictionary_item_added': {"root['residence']": 'Chiswick, London, England Umbria, Italy'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}}}
+188: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor, voice actor,comedian'}}}
+189: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor,comedian', 'old_value': 'Actor, voice actor'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Colin Firth', 'old_value': 'Colin Firth Love'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'Colin Firth Love', 'old_value': 'Colin Firth'}}}
+255: {'dictionary_item_removed': {"root['residence']": 'Chiswick, London, England Umbria, Italy'}}
+256: {'values_changed': {"root['name']": {'new_value': 'Colin Firth', 'old_value': 'Colin Firth/big daddy'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'Colin Firth/big daddy', 'old_value': 'Colin Firth'}}}
+269: {'values_changed': {"root['residence']": {'new_value': 'Chiswick, London, England Umbria, Italy', 'old_value': 'Plainlist'}, "root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Flatlist'}}}
+285: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Livia Giuggioli!1997-2019'}}}
+286: {'values_changed': {"root['spouse']": {'new_value': 'Livia Giuggioli!1997-2019', 'old_value': 'Livia 1997-2019'}}}
+290: {'values_changed': {"root['spouse']": {'new_value': 'Livia 1997-2019', 'old_value': 'marriage'}}}
+298: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Livia Giuggioli'}}}
+300: {'values_changed': {"root['spouse']": {'new_value': 'Livia Giuggioli', 'old_value': 'Annamaria Rossi'}}}
+301: {'values_changed': {"root['spouse']": {'new_value': 'Annamaria Rossi', 'old_value': 'Livia Giuggioli'}}}

@@ -1,0 +1,35 @@
+0: {'dictionary_item_removed': {"root['name']": 'Burt Reynolds', "root['occupation']": 'Actor, director, producer, football player', "root['spouse']": 'marriage', "root['children']": '1  '}}
+8: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player', 'old_value': 'Actor, director, producer, football player, actual Godsend and quite possibly God himself (no source required as this is known fact to all of mankind)'}}}
+9: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player, actual Godsend and quite possibly God himself (no source required as this is known fact to all of mankind)', 'old_value': 'Actor, director, producer, football player, actual Godsend and quite possibly God himself (no source required as this is a known fact to all of mankind)'}}}
+10: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player, actual Godsend and quite possibly God himself (no source required as this is a known fact to all of mankind)', 'old_value': 'Actor, director, producer, football player'}}}
+46: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player', 'old_value': 'Actor, director, producer, football player, blobfish'}}}
+47: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player, blobfish', 'old_value': 'Actor, director, producer, football player'}}}
+117: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, football player', 'old_value': 'Actor, director, producer'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'Burt Reynolds', 'old_value': 'Turd Ferguson'}}}
+126: {'values_changed': {"root['name']": {'new_value': 'Turd Ferguson', 'old_value': 'Burt Reynolds'}}}
+133: {'values_changed': {"root['children']": {'new_value': '1  ', 'old_value': '1 '}}}
+155: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer', 'old_value': 'Actor, director, producer,slaveowner'}, "root['children']": {'new_value': '1 ', 'old_value': '1000000000000 '}}}
+156: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer,slaveowner', 'old_value': 'Actor, director, producer'}, "root['children']": {'new_value': '1000000000000 ', 'old_value': '1 '}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Burt Reynolds', 'old_value': 'Burt Stupid Reynolds'}}}
+161: {'values_changed': {"root['name']": {'new_value': 'Burt Stupid Reynolds', 'old_value': 'Burt Leon Reynolds'}}}
+165: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '100000 '}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Burt Leon Reynolds', 'old_value': 'Burt Stupid Reynolds'}}}
+168: {'values_changed': {"root['name']": {'new_value': 'Burt Stupid Reynolds', 'old_value': 'Burt Reynolds'}}}
+171: {'values_changed': {"root['children']": {'new_value': '100000 ', 'old_value': '1 '}}}
+180: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '1.5million '}}}
+183: {'dictionary_item_added': {"root['children']": '1.5million '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1963|1965|reas'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Burt Reynolds', 'old_value': 'Burt “Smokey” Reynolds'}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Burt “Smokey” Reynolds', 'old_value': 'Burt Reynolds'}}}
+187: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer', 'old_value': 'Actor, director, producer, porn'}}}
+188: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, porn', 'old_value': 'Actor, director, producer'}}}
+189: {'dictionary_item_removed': {"root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': '1963|1965|reas', 'old_value': 'marriage'}}}
+300: {'dictionary_item_removed': {"root['partner']": 'Sally Field (1977–1982)'}}
+379: {'dictionary_item_added': {"root['partner']": 'Sally Field (1977–1982)'}, 'dictionary_item_removed': {"root['partners']": 'Sally Field (1977–1982)            Dinah Shore'}}
+381: {'values_changed': {"root['partners']": {'new_value': 'Sally Field (1977–1982)            Dinah Shore', 'old_value': 'Sally Field (1977–1982)'}}}
+423: {'dictionary_item_added': {"root['partners']": 'Sally Field (1977–1982)'}, 'dictionary_item_removed': {"root['partner']": 'Sally Field (1977–1982)'}}
+425: {'values_changed': {"root['partner']": {'new_value': 'Sally Field (1977–1982)', 'old_value': 'Sally Field (1977–1980)'}}}
+442: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer', 'old_value': 'Actor, comedian director, producer'}}}
+445: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian director, producer', 'old_value': 'Actor, director, producer'}}}
+494: {'values_changed': {"root['partner']": {'new_value': 'Sally Field (1977–1980)', 'old_value': 'Sally Field (1977–1982)'}}}
+508: {'values_changed': {"root['partner']": {'new_value': 'Sally Field (1977–1982)', 'old_value': 'Sally Field (1977ndash1982)'}}}
+512: {'values_changed': {"root['partner']": {'new_value': 'Sally Field (1977ndash1982)', 'old_value': 'Sally Field (1977ndash1980)'}}}

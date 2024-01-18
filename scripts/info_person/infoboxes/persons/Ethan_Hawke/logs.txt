@@ -1,0 +1,29 @@
+47: {'dictionary_item_removed': {"root['name']": 'Ethan Hawke', "root['birthname']": 'Ethan Green Hawke', "root['birthdate']": 'birth date and age', "root['location']": 'Austin, Texas, United States', "root['spouse']": 'Uma Thurman (1998-2004) '}}
+55: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998-2004) ', 'old_value': 'Uma Thurman (1998 ─ 2004) '}}}
+64: {'dictionary_item_removed': {"root['yearsactive']": '1983 ─ present'}}
+89: {'dictionary_item_added': {"root['name']": 'Ethan Hawke', "root['location']": 'Austin, Texas, United States', "root['yearsactive']": '1983 ─ present'}, 'dictionary_item_removed': {"root['birthplace']": 'Austin, Texas, United States'}}
+105: {'dictionary_item_removed': {"root['yearsactive']": '1984 — present'}}
+128: {'values_changed': {"root['yearsactive']": {'new_value': '1984 — present', 'old_value': '1984 &ndash; present'}, "root['spouse']": {'new_value': 'Uma Thurman (1998 ─ 2004) ', 'old_value': 'Uma Thurman (1998 &ndash; 2004) '}}}
+133: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998 &ndash; 2004) ', 'old_value': 'Uma Thurman (1998 &ndash; 2004)Ryan Shawhughes (2008 &ndash; ?) '}}}
+136: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998 &ndash; 2004)Ryan Shawhughes (2008 &ndash; ?) ', 'old_value': 'Uma Thurman (1998 &ndash; 2004) Ryan Shawhughes (2008 &ndash; ?) '}}}
+144: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998 &ndash; 2004) Ryan Shawhughes (2008 &ndash; ?) ', 'old_value': 'Uma Thurman (1998 &ndash; 2004) Ryan Shawhughes (2008 &ndash; present) '}}}
+160: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998 &ndash; 2004) Ryan Shawhughes (2008 &ndash; present) ', 'old_value': 'Uma Thurman (1998&ndash;2004) Ryan Shawhughes (2008&ndash;present) '}}}
+165: {'values_changed': {"root['yearsactive']": {'new_value': '1984 &ndash; present', 'old_value': '1984 — present'}, "root['spouse']": {'new_value': 'Uma Thurman (1998&ndash;2004) Ryan Shawhughes (2008&ndash;present) ', 'old_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008&ndash;present) '}}}
+166: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008&ndash;present) ', 'old_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) '}}}
+173: {'values_changed': {"root['birthplace']": {'new_value': 'Austin, Texas, United States', 'old_value': 'Austin, Texas, U.S.A.'}}}
+174: {'values_changed': {"root['birthplace']": {'new_value': 'Austin, Texas, U.S.A.', 'old_value': 'Austin, Texas, United States'}}}
+175: {'values_changed': {"root['birthplace']": {'new_value': 'Austin, Texas, United States', 'old_value': 'Austin, Texas, U.S.A.'}}}
+181: {'dictionary_item_added': {"root['yearsactive']": '1984 — present'}, 'values_changed': {"root['birthplace']": {'new_value': 'Austin, Texas, U.S.A.', 'old_value': 'English Colonies'}, "root['spouse']": {'new_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) ', 'old_value': 'Uma Thurman (1700-1708) Ryan Shawhughes (2008—present) '}}}
+182: {'dictionary_item_removed': {"root['yearsactive']": '1984 — present'}, 'values_changed': {"root['birthplace']": {'new_value': 'English Colonies', 'old_value': 'Austin, Texas, U.S.A.'}, "root['spouse']": {'new_value': 'Uma Thurman (1700-1708) Ryan Shawhughes (2008—present) ', 'old_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) '}}}
+187: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) ', 'old_value': 'Uma Thurman (1998—2004) '}}}
+188: {'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998—2004) ', 'old_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) '}}}
+193: {'dictionary_item_added': {"root['birthname']": 'Ethan Green Hawke', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Austin, Texas, U.S.A.', "root['yearsactive']": '1984 — present'}, 'dictionary_item_removed': {"root['residence']": 'Brooklyn, New York, U.S.', "root['occupation']": 'Actor, director, screenwriter, novelist', "root['children']": '4 '}, 'values_changed': {"root['spouse']": {'new_value': 'Uma Thurman (1998—2004) Ryan Shawhughes (2008—present) ', 'old_value': 'marriage'}}}
+214: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+237: {'dictionary_item_removed': {"root['name']": 'Ethan Hawke'}}
+243: {'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '4 (incl. Maya Hawke) '}}}
+245: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['residence']": {'new_value': 'Brooklyn, New York, U.S.', 'old_value': 'Brooklyn, New York (state)'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}, "root['children']": {'new_value': '4 (incl. Maya Hawke) ', 'old_value': '4, including Maya Hawke '}}}
+266: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, director, screenwriter, novelist'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Ethan Hawke', 'old_value': 'Luke Hawke'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Luke Hawke', 'old_value': 'Ethan Hawke'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'Ethan Hawke', 'old_value': 'Ethan Hawkins'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Ethan Hawkins', 'old_value': 'Ethan Hawke'}}}

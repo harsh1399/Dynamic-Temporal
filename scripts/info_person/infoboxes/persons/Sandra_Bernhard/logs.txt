@@ -1,0 +1,5 @@
+115: {'dictionary_item_removed': {"root['name']": 'Sandra Bernhard', "root['occupation']": [], "root['education']": 'Saguaro High School', "root['known_for']": "Nancy Bartlett Thomas – ''Roseanne''", "root['partner']": 'Sara Switzer', "root['children']": '1'}}
+201: {'dictionary_item_added': {"root['partner']": 'Sara Switzer'}, 'dictionary_item_removed': {"root['spouse']": 'Sara Switzer Bernhard (2019-present)'}}
+210: {'values_changed': {"root['known_for']": {'new_value': "Nancy Bartlett Thomas – ''Roseanne''", 'old_value': "Nancy Bartlett Thomas in ''Roseanne'' and Judy Kubrak in ''Pose''"}, "root['spouse']": {'new_value': 'Sara Switzer Bernhard (2019-present)', 'old_value': 'marriage'}}}
+211: {'values_changed': {"root['known_for']": {'new_value': "Nancy Bartlett Thomas in ''Roseanne'' and Judy Kubrak in ''Pose''", 'old_value': "Nancy Bartlett Thomas in ''Roseanne'' and Judy Kubrak in ''Pose (TV series)"}}}
+214: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['partner']": 'Sara Switzer'}}

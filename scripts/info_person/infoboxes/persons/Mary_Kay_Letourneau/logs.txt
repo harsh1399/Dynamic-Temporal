@@ -1,0 +1,4 @@
+120: {'dictionary_item_removed': {"root['name']": 'Mary Kay Letourneau', "root['spouse']": 'marriage', "root['children']": '6', "root['relations']": 'John P. Schmitz, Joseph E. Schmitz (brothers), 4 other siblings,  2 half-siblings '}}
+239: {'values_changed': {"root['relations']": {'new_value': 'John P. Schmitz, Joseph E. Schmitz (brothers), 4 other siblings,  2 half-siblings ', 'old_value': 'Joseph E. Schmitz (brother), 5 other siblings,  2 half-siblings '}}}
+677: {'dictionary_item_added': {"root['relations']": 'Joseph E. Schmitz (brother), 5 other siblings,  2 half-siblings '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+683: {'dictionary_item_removed': {"root['alias']": 'Mary Kay Fualaau', "root['occupation']": 'Teacher, paralegal'}}

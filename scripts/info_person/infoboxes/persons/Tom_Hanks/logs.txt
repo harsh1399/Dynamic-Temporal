@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tom Hanks', "root['alma_mater']": 'Chabot College California State University, Sacramento (Bachelor of Fine Arts', "root['residence']": 'Los Angeles, California, U.S.', "root['occupation']": 'Actor, filmmaker', "root['net_worth']": '$390 million (May 2014)', "root['party']": 'Democratic Party (United States)', "root['works']": 'List of Tom Hanks performances', "root['awards']": 'List of awards and nominations received by Tom Hanks', "root['spouse']": 'marriage', "root['children']": '4, including Colin Hanks'}}
+50: {'dictionary_item_added': {"root['name']": 'Tom Hanks'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': 'Actor, Film director'}}}
+52: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, U.S. Ketchum, Idaho, U.S.'}}}
+65: {'dictionary_item_added': {"root['alma_mater']": 'Chabot College California State University, Sacramento (Bachelor of Fine Arts'}, 'dictionary_item_removed': {"root['education']": 'Chabot College California State University, Sacramento'}}
+69: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, Film director'}}, 'dictionary_item_added': {"root['residence']": 'Los Angeles, California, U.S. Ketchum, Idaho, U.S.'}}
+70: {'dictionary_item_removed': {"root['alma_mater']": 'Chabot College California State University, Sacramento'}, 'values_changed': {"root['education']": {'new_value': 'Chabot College California State University, Sacramento', 'old_value': 'Skyline High School (Oakland, California)'}}}
+97: {'dictionary_item_added': {"root['education']": 'Skyline High School (Oakland, California)', "root['alma_mater']": 'Chabot College California State University, Sacramento', "root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+118: {'dictionary_item_removed': {"root['Nationality']": 'American/ Greek'}}
+122: {'values_changed': {"root['Nationality']": {'new_value': 'American/ Greek', 'old_value': 'American / Greek'}}}
+127: {'dictionary_item_added': {"root['Nationality']": 'American / Greek'}, 'dictionary_item_removed': {"root['name']": 'Tom Hanks'}}
+158: {'dictionary_item_removed': {"root['Nationality']": 'Americans', "root['religion']": 'Greek Orthodox Church'}}
+283: {'dictionary_item_added': {"root['Nationality']": 'Americans', "root['religion']": 'Greek Orthodox Church'}, 'dictionary_item_removed': {"root['education']": 'California State University, Chabot College'}}
+285: {'values_changed': {"root['net_worth']": {'new_value': '$390 million (May 2014)', 'old_value': '$350 million (Feb 2020)'}}}
+286: {'values_changed': {"root['children']": {'new_value': '4, including Colin Hanks', 'old_value': 'Colin Hanks, Elizabeth Ann Hanks, Chet Hanks, Truman Theodore Hanks'}}}
+287: {'values_changed': {"root['children']": {'new_value': 'Colin Hanks, Elizabeth Ann Hanks, Chet Hanks, Truman Theodore Hanks', 'old_value': '4, including Colin Hanks'}}}
+310: {'values_changed': {"root['net_worth']": {'new_value': '$350 million (Feb 2020)', 'old_value': '$350 million (Feb. 2020)'}}}
+314: {'values_changed': {"root['net_worth']": {'new_value': '$350 million (Feb. 2020)', 'old_value': '$350 million (Feb 2020)'}}}
+385: {'dictionary_item_removed': {"root['political_party']": 'Democratic Party'}}

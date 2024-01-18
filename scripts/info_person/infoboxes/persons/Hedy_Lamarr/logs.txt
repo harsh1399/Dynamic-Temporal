@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hedy Lamarr', "root['occupation']": 'Actress, inventor, film producer', "root['spouse']": [], "root['children']": '3 '}}
+4: {'values_changed': {"root['children']": {'new_value': '3 ', 'old_value': '3'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'Hedy Lamarr 420'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr 420', 'old_value': 'Hedy Lamarr'}}}
+20: {'values_changed': {"root['occupation']": {'new_value': 'Actress, inventor, film producer', 'old_value': 'Actress, inventor, film producer she had a big butt'}}}
+21: {'values_changed': {"root['occupation']": {'new_value': 'Actress, inventor, film producer she had a big butt', 'old_value': 'Actress, inventor, film producer'}}}
+27: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+28: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+44: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, inventor, film producer'}}}
+45: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+46: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'hedy lamarr'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'hedy lamarr', 'old_value': 'hedy lamarr9'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'hedy lamarr9', 'old_value': 'hedy lamarr'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'hedy lamarr', 'old_value': 'Hedy Lamarr'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'yo mama lamarr'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'yo mama lamarr', 'old_value': 'Hedy Lamarr'}}}
+107: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'Hedy Lamarr Lamarr in The Heavenly Body 1944.jpg'}}}
+108: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr Lamarr in The Heavenly Body 1944.jpg', 'old_value': 'Hedy Lamarr'}}}
+154: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'James Loder, Denise Loder, Anthony Loder'}}}
+157: {'values_changed': {"root['children']": {'new_value': 'James Loder, Denise Loder, Anthony Loder', 'old_value': 'James Loder (1938), Denise Loder (1945), Anthony Loder (1947)'}}}
+159: {'values_changed': {"root['children']": {'new_value': 'James Loder (1938), Denise Loder (1945), Anthony Loder (1947)', 'old_value': 'James Loder (1938) Denise Loder (1945) Anthony Loder (1947)'}}}
+162: {'values_changed': {"root['children']": {'new_value': 'James Loder (1938) Denise Loder (1945) Anthony Loder (1947)', 'old_value': 'James Loder (b. 1938) Denise Loder (b. 1945) Anthony Loder (b. 1947)'}}}
+199: {'values_changed': {"root['children']": {'new_value': 'James Loder (b. 1938) Denise Loder (b. 1945) Anthony Loder (b. 1947)', 'old_value': 'ubl'}}}
+204: {'values_changed': {"root['children']": {'new_value': 'ubl', 'old_value': '3'}}}
+210: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'Hedy'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Hedy', 'old_value': 'Hedy Lamarr'}}}
+242: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actress, inventor', 'new_value': []}}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': '3 '}}}
+287: {'values_changed': {"root['occupation']": {'new_value': 'Actress, inventor', 'old_value': 'Actress, inventor, prostitute'}, "root['children']": {'new_value': '3 ', 'old_value': '324 '}}}
+288: {'values_changed': {"root['occupation']": {'new_value': 'Actress, inventor, prostitute', 'old_value': 'Actress, inventor'}, "root['children']": {'new_value': '324 ', 'old_value': '3 '}}}
+289: {'values_changed': {"root['name']": {'new_value': 'Hedy Lamarr', 'old_value': 'Henry Lemur'}}}
+290: {'values_changed': {"root['name']": {'new_value': 'Henry Lemur', 'old_value': 'Hedy Lamarr'}}}
+298: {'dictionary_item_added': {"root['children']": '3 '}, 'iterable_item_removed': {"root['spouse'][0]": 'Fritz Mandl|1933|1937|end'}}
+300: {'dictionary_item_removed': {"root['children']": '3 '}, 'iterable_item_added': {"root['spouse'][0]": 'Fritz Mandl|1933|1937|end'}}

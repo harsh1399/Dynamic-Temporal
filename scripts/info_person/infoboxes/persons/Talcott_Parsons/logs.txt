@@ -1,0 +1,26 @@
+52: {'dictionary_item_removed': {"root['name']": 'Talcott Parsons', "root['residence']": 'United States', "root['fields']": 'Sociology', "root['workplaces']": 'Harvard University', "root['alma_mater']": 'Ruprecht Karl University of Heidelberg, London School of Economics, Amherst College'}}
+67: {'values_changed': {"root['name']": {'new_value': 'Talcott Parsons', 'old_value': 'George Parsons'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'George Parsons', 'old_value': 'Talcott Parsons'}}}
+100: {'values_changed': {"root['alma_mater']": {'new_value': 'Ruprecht Karl University of Heidelberg, London School of Economics, Amherst College', 'old_value': 'Ruprecht Karl University of Heidelberg London School of Economics Amherst College'}}}
+127: {'dictionary_item_removed': {"root['influences']": 'Émile Durkheim'}}
+163: {'values_changed': {"root['influences']": {'new_value': 'Émile Durkheim', 'old_value': 'Émile Durkheim Max Weber'}}}
+171: {'values_changed': {"root['influences']": {'new_value': 'Émile Durkheim Max Weber', 'old_value': 'Émile Durkheim, Max Weber'}}}
+173: {'dictionary_item_removed': {"root['doctoral_advisor']": 'Edgar Salin', "root['notable_students']": 'Robert K. Merton'}}
+174: {'values_changed': {"root['notable_students']": {'new_value': 'Robert K. Merton', 'old_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann'}}}
+258: {'values_changed': {"root['notable_students']": {'new_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann', 'old_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann, Clifford Geertz'}}}
+262: {'dictionary_item_removed': {"root['doctoral_students']": 'Clifford Geertz', "root['influenced']": 'Anthony Giddens, Baron Giddens'}}
+291: {'values_changed': {"root['name']": {'new_value': 'Talcott Parsons', 'old_value': 'Tallcotthy Parthoms'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Tallcotthy Parthoms', 'old_value': 'Talcott Parsons'}}}
+297: {'values_changed': {"root['notable_students']": {'new_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann, Clifford Geertz', 'old_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann, Clifford Geertz, Edward Laumann'}}}
+327: {'values_changed': {"root['name']": {'new_value': 'Talcott Parsons', 'old_value': 'Shrek'}}}
+330: {'values_changed': {"root['name']": {'new_value': 'Shrek', 'old_value': 'Talcott Parsons'}}}
+342: {'values_changed': {"root['name']": {'new_value': 'Talcott Parsons', 'old_value': 'Shyam Mistry'}, "root['workplaces']": {'new_value': 'Harvard University', 'old_value': 'The City of Leicester College'}}}
+343: {'values_changed': {"root['name']": {'new_value': 'Shyam Mistry', 'old_value': 'Talcott Parsons'}}}
+344: {'values_changed': {"root['workplaces']": {'new_value': 'The City of Leicester College', 'old_value': 'Harvard University'}}}
+353: {'dictionary_item_added': {"root['residence']": 'United States', "root['doctoral_advisor']": 'Edgar Salin', "root['doctoral_students']": 'Clifford Geertz', "root['influenced']": 'Anthony Giddens, Baron Giddens'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Ruprecht Karl University of Heidelberg London School of Economics Amherst College', 'old_value': 'Amherst CollegebrLondon School of EconomicsbrUniversity of Heidelberg'}, "root['notable_students']": {'new_value': 'Robert K. Merton, Harold Garfinkel, Niklas Luhmann, Clifford Geertz, Edward Laumann', 'old_value': 'Robert N. Bellah, Joseph Berger (sociologist)'}, "root['influences']": {'new_value': 'Émile Durkheim, Max Weber', 'old_value': 'Émile Durkheim, Max Weber, Vilfredo Pareto'}}}
+356: {'type_changes': {"root['notable_students']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Robert N. Bellah, Joseph Berger (sociologist)'}, "root['influences']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Émile Durkheim, Max Weber, Vilfredo Pareto'}}, 'dictionary_item_added': {"root['fields']": 'Sociology'}, 'dictionary_item_removed': {"root['spouse']": 'marriage', "root['school_tradition']": 'Structural functionalism', "root['discipline']": 'Sociology', "root['doctoral_students']": [], "root['influenced']": []}, 'values_changed': {"root['alma_mater']": {'new_value': 'Amherst CollegebrLondon School of EconomicsbrUniversity of Heidelberg', 'old_value': 'ubl'}}}
+359: {'dictionary_item_removed': {"root['notable_works']": 'ubl'}}
+361: {'dictionary_item_removed': {"root['doctoral_advisor']": 'ill', "root['notable_ideas']": []}}
+417: {'values_changed': {"root['name']": {'new_value': 'Talcott Parsons', 'old_value': 'kyle pino pino'}}}
+418: {'values_changed': {"root['name']": {'new_value': 'kyle pino pino', 'old_value': 'talcott parsons'}}}
+419: {'values_changed': {"root['name']": {'new_value': 'talcott parsons', 'old_value': 'Talcott Parsons'}}}

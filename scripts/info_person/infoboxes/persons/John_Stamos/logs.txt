@@ -1,0 +1,62 @@
+89: {'dictionary_item_removed': {"root['name']": 'John Stamos', "root['occupation']": 'Actor, musician, singer, songwriter', "root['spouse']": 'Rebecca Romijn (1998–2005; divorced) '}}
+109: {'dictionary_item_removed': {"root['background']": 'solo_singer', "root['genre']": 'Rock music', "root['instrument']": 'Vocals, drums, keyboards, guitar, bass', "root['label']": 'Capitol Records', "root['associated_acts']": 'The Beach Boys  '}, 'values_changed': {"root['spouse']": {'new_value': 'Rebecca Romijn (1998–2005; divorced) ', 'old_value': 'Rebecca Romijn (1998–2005; divorced)'}}}
+110: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California (primary) ,  New York City, New York (secondary)', "root['net_worth']": 'gain $40 million'}}
+120: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician, singer, songwriter', 'old_value': 'Actor, musician, singer, songwriter, Avatar'}}}
+121: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician, singer, songwriter, Avatar', 'old_value': 'Actor, musician, singer, songwriter'}}}
+143: {'values_changed': {"root['net_worth']": {'new_value': 'gain $40 million', 'old_value': 'gain $100 Billion'}}}
+144: {'values_changed': {"root['net_worth']": {'new_value': 'gain $100 Billion', 'old_value': 'gain $40 million'}}}
+154: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Sexual Jackhammer'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'Sexual Jackhammer', 'old_value': 'John Stamos'}}}
+156: {'values_changed': {"root['net_worth']": {'new_value': 'gain $40 million', 'old_value': 'gain $4'}}}
+157: {'values_changed': {"root['net_worth']": {'new_value': 'gain $4', 'old_value': 'gain $40 million'}}}
+242: {'dictionary_item_added': {"root['residence']": 'Los Angeles, California (primary) ,  New York City, New York (secondary)', "root['net_worth']": 'gain $40 million'}, 'values_changed': {"root['spouse']": {'new_value': 'Rebecca Romijn (1998–2005; divorced)', 'old_value': 'Rebecca Romijn (1998–2005)'}}}
+260: {'dictionary_item_added': {"root['associated_acts']": 'The Beach Boys  '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, musician, singer, songwriter', 'old_value': 'Actor, singer, songwriter'}, "root['label']": {'new_value': 'Capitol Records', 'old_value': 'Capitol, Brother, Reprise, Caribou, CBS  '}}}
+261: {'dictionary_item_removed': {"root['associated_acts']": 'The Beach Boys  '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, singer, songwriter', 'old_value': 'Actor, musician, singer, songwriter'}, "root['label']": {'new_value': 'Capitol, Brother, Reprise, Caribou, CBS  ', 'old_value': 'Capitol Records'}}}
+279: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Uncle Jesse'}}}
+280: {'values_changed': {"root['name']": {'new_value': 'Uncle Jesse', 'old_value': 'John Stamos'}}}
+281: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Uncle Jesse'}, "root['occupation']": {'new_value': 'Actor, musician, singer, songwriter', 'old_value': 'Musician, singer, songwriter'}}}
+282: {'values_changed': {"root['name']": {'new_value': 'Uncle Jesse', 'old_value': 'John Stamos'}, "root['occupation']": {'new_value': 'Musician, singer, songwriter', 'old_value': 'Actor, musician, singer, songwriter'}}}
+294: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, musician, singer, songwriter'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, drums, keyboards, guitar, bass'}}, 'dictionary_item_added': {"root['label']": 'Capitol Records'}, 'values_changed': {"root['spouse']": {'new_value': 'Rebecca Romijn (1998–2005)', 'old_value': 'divorce'}, "root['genre']": {'new_value': 'Rock music', 'old_value': 'Pop rock'}}}
+296: {'dictionary_item_removed': {"root['partner']": 'Caitlin McHugh (2016–)'}}
+297: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Ronald McDonald'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Ronald McDonald', 'old_value': 'John Stamos'}}}
+299: {'values_changed': {"root['spouse']": {'new_value': 'divorce', 'old_value': 'marriage'}, "root['partner']": {'new_value': 'Caitlin McHugh (2016–)', 'old_value': 'Caitlin McHugh, (2016–)'}}}
+306: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Jameson Stamos'}}}
+307: {'values_changed': {"root['name']": {'new_value': 'John Jameson Stamos', 'old_value': 'John Stamos'}}}
+310: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John JamesonStamos'}}}
+311: {'values_changed': {"root['name']": {'new_value': 'John JamesonStamos', 'old_value': 'John Stamos'}}}
+330: {'dictionary_item_removed': {"root['rowspan']": '"2" |1993 |\'\'The Disappearance of Christina\'\' |Joe Seldon |Movie |- |\'\'Tales from the Crypt\'\' |Johnny Canaparo |Episode: "Till Death Do We Part" |- |1994 |\'\'Fatal Vows: The Alexandra O\'Hara Story\'\' |Nick Pagan |Movie |- |1995/1997 |\'\'Himself |2 episodes |-'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'plain list'}, "root['associated_acts']": {'new_value': 'The Beach Boys  ', 'old_value': "The Beach Boys    '''John Phillip Stamos''' (IPAc-en"}}}
+332: {'dictionary_item_added': {"root['rowspan']": '"2" |1993 |\'\'The Disappearance of Christina\'\' |Joe Seldon |Movie |- |\'\'Tales from the Crypt\'\' |Johnny Canaparo |Episode: "Till Death Do We Part" |- |1994 |\'\'Fatal Vows: The Alexandra O\'Hara Story\'\' |Nick Pagan |Movie |- |1995/1997 |\'\'Himself |2 episodes |-'}, 'values_changed': {"root['spouse']": {'new_value': 'plain list', 'old_value': 'marriage'}, "root['associated_acts']": {'new_value': "The Beach Boys    '''John Phillip Stamos''' (IPAc-en", 'old_value': 'The Beach Boys  '}}}
+367: {'dictionary_item_added': {"root['partner']": 'Caitlin McHugh, (2016–)'}, 'dictionary_item_removed': {"root['Height']": '1.85m'}}
+382: {'dictionary_item_added': {"root['Height']": '1.85m'}, 'dictionary_item_removed': {"root['children']": 'Billy Stamos (b. 2018)'}}
+384: {'values_changed': {"root['children']": {'new_value': 'Billy Stamos (b. 2018)', 'old_value': '1'}}}
+386: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Billy Stamos (born 2018)'}}}
+387: {'values_changed': {"root['children']": {'new_value': 'Billy Stamos (born 2018)', 'old_value': '1'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Stamps'}}}
+397: {'values_changed': {"root['name']": {'new_value': 'John Stamps', 'old_value': 'John Stamos'}}}
+398: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Stamps'}}}
+399: {'values_changed': {"root['name']": {'new_value': 'John Stamps', 'old_value': 'John Stamos'}}}
+417: {'values_changed': {"root['genre']": {'new_value': 'Pop rock', 'old_value': 'Pop rock and Classical'}}}
+418: {'values_changed': {"root['genre']": {'new_value': 'Pop rock and Classical', 'old_value': 'Pop rock'}}}
+420: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Stamas'}}}
+421: {'values_changed': {"root['name']": {'new_value': 'John Stamas', 'old_value': 'John Stamos'}}}
+442: {'dictionary_item_added': {"root['name']": 'John Stamos', "root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['namee']": 'John Stamos', "root['spousee']": 'marriage'}}
+444: {'dictionary_item_added': {"root['namee']": 'John Stamos', "root['spousee']": 'marriage'}, 'dictionary_item_removed': {"root['name']": 'John Stamos', "root['spouse']": 'marriage'}}
+456: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1 1/2'}}}
+457: {'values_changed': {"root['children']": {'new_value': '1 1/2', 'old_value': '1'}}}
+465: {'iterable_item_removed': {"root['occupation'][0]": 'Actor', "root['occupation'][1]": 'producer', "root['occupation'][2]": 'musician'}}
+466: {'iterable_item_added': {"root['occupation'][0]": 'Actor', "root['occupation'][1]": 'producer', "root['occupation'][2]": 'musician'}}
+475: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Oikos Guy'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'Oikos Guy', 'old_value': 'John Stamos'}}}
+490: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Stamos is gay'}}}
+492: {'values_changed': {"root['name']": {'new_value': 'John Stamos is gay', 'old_value': 'John Stamos'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Fortnite Stamos'}}}
+498: {'values_changed': {"root['name']": {'new_value': 'John Fortnite Stamos', 'old_value': 'John Stamos'}}}
+499: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Fortnite Twitch Streamer', 'new_value': []}}}
+500: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fortnite Twitch Streamer'}}}
+512: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Fortnite Stamos'}}}
+513: {'values_changed': {"root['name']": {'new_value': 'John Fortnite Stamos', 'old_value': 'John Stamos'}}}
+514: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Fortnite Streamer', 'new_value': []}}, 'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'John Fortnite Stamos'}}}
+515: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fortnite Streamer'}}, 'values_changed': {"root['name']": {'new_value': 'John Fortnite Stamos', 'old_value': 'John Stamos'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'John Stamos', 'old_value': 'Uncle Jesse'}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Uncle Jesse', 'old_value': 'John Stamos'}}}

@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jeremy Paxman', "root['ethncity']": 'White British', "root['residence']": 'Stonor, Oxfordshire', "root['employer']": 'BBC', "root['occupation']": 'Journalist and news presenter', "root['salary']": 'pound sterling', "root['partner']": 'Elizabeth Ann Clough (?-present)', "root['children']": '2 daughters, 1 son'}}
+1: {'dictionary_item_added': {"root['ethncity']": 'White British'}, 'dictionary_item_removed': {"root['ethnicity']": 'White British'}, 'values_changed': {"root['occupation']": {'new_value': 'Journalist and news presenter', 'old_value': 'Journalist, news presenter'}}}
+2: {'dictionary_item_removed': {"root['education']": 'Master of Arts (Oxford, Cambridge and Dublin)'}}
+3: {'values_changed': {"root['name']": {'new_value': 'Jeremy Paxman', 'old_value': 'Jeremy Paxman moody arsehole'}}}
+4: {'values_changed': {"root['name']": {'new_value': 'Jeremy Paxman moody arsehole', 'old_value': 'Jeremy Paxman'}}}
+70: {'dictionary_item_added': {"root['ethnicity']": 'White British', "root['partner']": 'Elizabeth Ann Clough (?-present)'}, 'dictionary_item_removed': {"root['spouse']": 'Elizabeth Ann Clough (1985–present)'}, 'values_changed': {"root['salary']": {'new_value': 'pound sterling', 'old_value': '£1,040,000 (2006) per annum'}, "root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '3 (two daughters and a son)'}}}
+94: {'values_changed': {"root['occupation']": {'new_value': 'Journalist, news presenter', 'old_value': 'broadcaster, journalist, author'}}}
+109: {'values_changed': {"root['occupation']": {'new_value': 'broadcaster, journalist, author', 'old_value': 'Broadcaster, journalist, author'}}}
+117: {'values_changed': {"root['name']": {'new_value': 'Jeremy Paxman', 'old_value': 'Jeremy Pacman'}}}
+122: {'values_changed': {"root['name']": {'new_value': 'Jeremy Pacman', 'old_value': 'Jeremy Paxman'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'Jeremy Paxman', 'old_value': 'Zac Lee'}}}
+142: {'values_changed': {"root['name']": {'new_value': 'Zac Lee', 'old_value': 'Jeremy Paxman'}}}
+166: {'values_changed': {"root['employer']": {'new_value': 'BBC', 'old_value': 'BBC, Channel 4'}}}
+192: {'values_changed': {"root['residence']": {'new_value': 'Stonor, Oxfordshire', 'old_value': 'Stonor, Oxfordshire, UK'}}}
+193: {'values_changed': {"root['residence']": {'new_value': 'Stonor, Oxfordshire, UK', 'old_value': 'Stonor, Oxfordshire, England'}}}
+214: {'dictionary_item_added': {"root['residence']": 'Stonor, Oxfordshire, England', "root['salary']": '£1,040,000 (2006) per annum', "root['spouse']": 'Elizabeth Ann Clough (1985–present)', "root['children']": '3 (two daughters and a son)'}, 'dictionary_item_removed': {"root['known_for']": "Quizmaster of ''University Challenge'' and former Newsnight Presenter"}, 'values_changed': {"root['education']": {'new_value': 'Master of Arts (Oxford, Cambridge and Dublin)', 'old_value': 'Malvern College'}}}
+217: {'dictionary_item_removed': {"root['partner']": 'Elizabeth Ann Clough (1981–2016)', "root['children']": '3'}}
+294: {'values_changed': {"root['known_for']": {'new_value': "Quizmaster of ''University Challenge'' and former Newsnight Presenter", 'old_value': "Former Newsnight Presenter and former Quizmaster of ''University Challenge''"}}}
+296: {'values_changed': {"root['employer']": {'new_value': 'BBC, Channel 4', 'old_value': 'BBC (former), Channel 4 (former)'}}}

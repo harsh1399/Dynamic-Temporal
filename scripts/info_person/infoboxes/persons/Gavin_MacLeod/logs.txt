@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor, Christian activist', "root['known_for']": "''The Mary Tyler Moore Show'', ''The Love Boat''", "root['religion']": 'Christianity', "root['spouse']": [], "root['children']": '4'}}
+26: {'dictionary_item_removed': {"root['alma_mater']": 'Ithaca College'}}
+31: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_added': {"root['religion']": 'Christianity'}, 'dictionary_item_removed': {"root['embed']": 'yes', "root['embed_title']": 'Military service', "root['allegiance']": 'USA', "root['branch']": 'United States Air Force', "root['branch_label']": 'Branch', "root['battles_label']": 'War', "root['serviceyears']": '1952-1954', "root['rank']": 'Image:E2 USAF AM.svg', "root['serviceyears_label']": 'Years'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Christian activist', 'old_value': 'Actor, Christian activist, author'}, "root['known_for']": {'new_value': "''The Mary Tyler Moore Show'', ''The Love Boat''", 'old_value': "Murray Slaughter on ''The Mary Tyler Moore Show'' Captain Merrill Stubing on ''The Love Boat''"}, "root['alma_mater']": {'new_value': 'Ithaca College', 'old_value': 'Ithaca College (Bachelor of Fine Arts'}}}
+82: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Ubl'}}}
+97: {'dictionary_item_removed': {"root['name']": 'Gavin Macleod'}}
+108: {'values_changed': {"root['serviceyears']": {'new_value': '1952-1954', 'old_value': '1952–1954'}}}
+145: {'values_changed': {"root['spouse']": {'new_value': 'Ubl', 'old_value': 'Unbulleted list'}, "root['rank']": {'new_value': 'Image:E2 USAF AM.svg', 'old_value': 'File:E2 USAF AM.svg'}}}
+153: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Christian activist, author', 'old_value': 'Actor, activist, author'}}}
+173: {'values_changed': {"root['occupation']": {'new_value': 'Actor, activist, author', 'old_value': 'Actor, author'}}}
+174: {'values_changed': {"root['name']": {'new_value': 'Gavin Macleod', 'old_value': 'Gavin MacLeod'}}}

@@ -1,0 +1,49 @@
+0: {'dictionary_item_removed': {"root['name']": 'Andy Griffith', "root['education']": 'Mount Airy High School', "root['alma_mater']": 'University of North Carolina at Chapel Hill', "root['party']": 'Democratic party (United States)', "root['spouse']": 'Barbara Bray Edwards (m. 1949–72) (divorced), Solica Cassuto (m. 1975–81) (divorced), Cindi Knight (1983–present)', "root['occupation']": 'Actor, comedian, director, producer, singer (country, bluegrass & southern gospel), writer '}}
+18: {'dictionary_item_removed': {"root['religion']": 'Christianity'}}
+21: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Andy Samuel Griffith'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Andy Samuel Griffith', 'old_value': 'Andy Griffith'}}}
+58: {'dictionary_item_removed': {"root['death_name']": 'Death date and age'}}
+79: {'dictionary_item_added': {"root['death_name']": 'Death date and age'}, 'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards (m. 1949–72) (divorced), Solica Cassuto (m. 1975–81) (divorced), Cindi Knight (1983–present)', 'old_value': 'Barbara Bray Edwards (m. 1949–72) (divorced), Solica Cassuto (m. 1975–81) (divorced), Cindi Knight (1983–2012)'}}}
+81: {'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards (m. 1949–72) (divorced), Solica Cassuto (m. 1975–81) (divorced), Cindi Knight (1983–2012)', 'old_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death)'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Potato'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'Potato', 'old_value': 'Andy Griffith'}}}
+148: {'values_changed': {"root['party']": {'new_value': 'Democratic party (United States)', 'old_value': 'Democratic party (United Staes)'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Potato Griffith'}}}
+151: {'values_changed': {"root['name']": {'new_value': 'Potato Griffith', 'old_value': 'Andy Griffith'}}}
+152: {'values_changed': {"root['party']": {'new_value': 'Democratic party (United Staes)', 'old_value': 'Democratic party (United States)'}}}
+159: {'dictionary_item_removed': {"root['risen_date']": 'risen date and age'}, 'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death)', 'old_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death rose again an hour later)'}}}
+162: {'dictionary_item_added': {"root['risen_date']": 'risen date and age'}, 'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death rose again an hour later)', 'old_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death)'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Batman'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Batman', 'old_value': 'Andy Griffith'}}}
+189: {'values_changed': {"root['party']": {'new_value': 'Democratic party (United States)', 'old_value': 'Democratic'}}}
+195: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Andy Griffit'}}}
+197: {'values_changed': {"root['name']": {'new_value': 'Andy Griffit', 'old_value': 'Andy Griffith'}}}
+210: {'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards , (m.1949–1972; divorced) , Solica Cassuto , (m.1975–1981; divorced) , Cindi Knight , (m.1983–2012; his death)', 'old_value': 'Barbara Bray Edwards , (m. 1949–1972; divorced) , Solica Cassuto , (m. 1975–1981; divorced) , Cindi Knight , (m. 1983–2012; his death)'}}}
+240: {'dictionary_item_removed': {"root['children']": 'Daughter, Son (deceased)'}}
+294: {'values_changed': {"root['children']": {'new_value': 'Daughter, Son (deceased)', 'old_value': 'Son,  (deceased)'}}}
+308: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, director, producer, singer (country, bluegrass & southern gospel), writer ', 'old_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer '}}}
+314: {'values_changed': {"root['children']": {'new_value': 'Son,  (deceased)', 'old_value': '1.Son Andy Griffith Jr., (deceased)2.Daughter Dixie Griffith'}}}
+318: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democratic party(United States)'}}}
+319: {'values_changed': {"root['party']": {'new_value': 'Democratic party(United States)', 'old_value': 'Democratic'}}}
+344: {'dictionary_item_added': {"root['religion']": 'Christianity'}, 'values_changed': {"root['children']": {'new_value': '1.Son Andy Griffith Jr., (deceased)2.Daughter Dixie Griffith', 'old_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith'}}}
+396: {'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards , (m. 1949–1972; divorced) , Solica Cassuto , (m. 1975–1981; divorced) , Cindi Knight , (m. 1983–2012; his death)', 'old_value': 'Barbara Bray Edwards  (m. 1949–1972; divorced)  Solica Cassuto  (m. 1975–1981; divorced)  Cindi Knight  (m. 1983–2012; his death)'}}}
+444: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democrat / Progressive / Liberal / Socialist / Marxist'}}}
+445: {'values_changed': {"root['party']": {'new_value': 'Democrat / Progressive / Liberal / Socialist / Marxist', 'old_value': 'Democratic'}}}
+446: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democrat'}}}
+447: {'values_changed': {"root['party']": {'new_value': 'Democrat', 'old_value': 'Democratic'}}}
+455: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Andrew "Andy" Griffith'}}}
+456: {'values_changed': {"root['name']": {'new_value': 'Andrew "Andy" Griffith', 'old_value': 'Andy Griffith'}}}
+473: {'values_changed': {"root['children']": {'new_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith', 'old_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Nann Griffith'}}}
+474: {'values_changed': {"root['children']": {'new_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Nann Griffith', 'old_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith'}}}
+476: {'values_changed': {"root['children']": {'new_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith', 'old_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith'}}}
+477: {'values_changed': {"root['children']": {'new_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith', 'old_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith'}}}
+478: {'values_changed': {"root['children']": {'new_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith', 'old_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith'}}}
+479: {'values_changed': {"root['children']": {'new_value': 'Andy "Sam" Griffith Jr.(deceased) Dixie Griffith', 'old_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith'}}}
+482: {'values_changed': {"root['children']": {'new_value': 'Andy Samuel "Sam" Griffith, Jr.(deceased) Dixie Nann Griffith', 'old_value': 'Andy Samuel "Sam" Griffith, Jr.(adopted, deceased) Dixie Nann Griffith (adopted)'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Andy Griffith', 'old_value': 'Andrew Samuel Griffith'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Andrew Samuel Griffith', 'old_value': 'Andy Griffith'}}}
+511: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer ', 'old_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer }'}}}
+512: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer }', 'old_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer '}}}
+533: {'dictionary_item_removed': {"root['notable_works']": "''The Andy Griffith Show'', ''Matlock (TV series)"}, 'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democratic Party (United States)'}, "root['children']": {'new_value': 'Andy Samuel "Sam" Griffith, Jr.(adopted, deceased) Dixie Nann Griffith (adopted)', 'old_value': 'Andy Samuel "Sam" Griffith, Jr. (deceased)  Dixie Nann Griffith'}, "root['occupation']": {'new_value': 'Actor, comedian, television producer, singer (country, bluegrass & southern gospel), writer ', 'old_value': 'Actor, comedian, television producer, singer, writer, teacher, musician '}}}
+571: {'values_changed': {"root['spouse']": {'new_value': 'Barbara Bray Edwards  (m. 1949–1972; divorced)  Solica Cassuto  (m. 1975–1981; divorced)  Cindi Knight  (m. 1983–2012; his death)', 'old_value': 'Marriage'}}}
+596: {'values_changed': {"root['alma_mater']": {'new_value': 'University of North Carolina at Chapel Hill', 'old_value': 'University of North Carolina at Chapel Hill, B.Mus 1949'}}}

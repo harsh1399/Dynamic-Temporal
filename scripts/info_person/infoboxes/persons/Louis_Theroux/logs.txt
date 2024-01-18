@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['name']": 'Louis Theroux', "root['residence']": 'Harlesden, London, United Kingdom', "root['known_for']": 'Documentary film', "root['education']": 'Modern history (Academic degree#United Kingdom', "root['alma_mater']": 'Magdalen College, Oxford', "root['occupation']": 'Presenter', "root['religion']": 'None (Atheism', "root['partner']": 'Nancy Strang<ref name', "root['children']": '2<ref name', "root['relations']": 'Marcel Theroux (brother), Alexander Theroux (uncle), Justin Theroux (cousin)'}}
+15: {'values_changed': {"root['residence']": {'new_value': 'Harlesden, London, United Kingdom', 'old_value': 'Harlesden, London, England'}}}
+16: {'values_changed': {"root['residence']": {'new_value': 'Harlesden, London, England', 'old_value': 'Harlesden, London, United Kingdom'}}}
+25: {'values_changed': {"root['alma_mater']": {'new_value': 'Magdalen College, Oxford', 'old_value': 'Worcester College, Oxford'}}}
+26: {'values_changed': {"root['alma_mater']": {'new_value': 'Worcester College, Oxford', 'old_value': 'Magdalen College, Oxford'}}}
+60: {'values_changed': {"root['partner']": {'new_value': 'Nancy Strang<ref name', 'old_value': 'Jennifer Aniston<ref name'}}}
+61: {'values_changed': {"root['partner']": {'new_value': 'Jennifer Aniston<ref name', 'old_value': 'Nancy Strang<ref name'}}}
+72: {'dictionary_item_added': {"root['partner']": 'Nancy Strang<ref name'}, 'dictionary_item_removed': {"root['spouse']": 'Nancy Strang<ref name'}}
+83: {'values_changed': {"root['residence']": {'new_value': 'Harlesden, London, United Kingdom', 'old_value': 'Harlesden, London, England'}}}
+135: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Strang<ref name', 'old_value': 'Susanna Kleeman (divorced 2002), Nancy Strang<ref name'}}}
+151: {'dictionary_item_added': {"root['known_for']": 'Documentary film', "root['religion']": 'None (Atheism', "root['relations']": 'Marcel Theroux (brother), Alexander Theroux (uncle), Justin Theroux (cousin)'}, 'dictionary_item_removed': {"root['employer']": 'BBC'}, 'values_changed': {"root['residence']": {'new_value': 'Harlesden, London, England', 'old_value': 'Los Angeles, California, U.S., Harlesden, London, UK'}, "root['education']": {'new_value': 'Modern history (Academic degree#United Kingdom', 'old_value': 'Westminster School'}, "root['occupation']": {'new_value': 'Presenter', 'old_value': 'Documentary filmmaker, broadcaster'}, "root['spouse']": {'new_value': 'Susanna Kleeman (divorced 2002), Nancy Strang<ref name', 'old_value': 'marriage'}, "root['children']": {'new_value': '2<ref name', 'old_value': '3'}}}
+157: {'dictionary_item_added': {"root['employer']": 'BBC', "root['education']": 'Westminster School', "root['alma_mater']": 'Magdalen College, Oxford'}, 'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S., Harlesden, London, UK', 'old_value': 'Harlesden'}}}
+159: {'values_changed': {"root['residence']": {'new_value': 'Harlesden', 'old_value': 'Los Angeles, California, U.S.'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'Louis Theroux', 'old_value': 'Lois Theroux'}}}
+161: {'values_changed': {"root['name']": {'new_value': 'Lois Theroux', 'old_value': 'Louis Theroux'}}}
+178: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Documentary filmmaker, broadcaster'}}}
+185: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '19'}}}
+186: {'values_changed': {"root['children']": {'new_value': '19', 'old_value': '3'}}}
+187: {'dictionary_item_removed': {"root['lookalike']": 'Justin Theroux (cousin) |Alexander Theroux (paternal uncle)|Peter Theroux, (paternal uncle) '}}
+188: {'dictionary_item_removed': {"root['rowspan']": "''When Louis Met...''||- |Flaherty Documentary Award (TV) ||''When Louis Met... The Hamiltons''||nom |- |2001||Richard Dimbleby Award for the Best Presenter (Factual, Features and News)||''Louis Theroux's Weird Weekends''||won"}, 'values_changed': {"root['lookalike']": {'new_value': 'Justin Theroux (cousin) |Alexander Theroux (paternal uncle)|Peter Theroux, (paternal uncle) ', 'old_value': 'Cian Linsey'}}}
+204: {'dictionary_item_added': {"root['lookalike']": 'Cian Linsey', "root['rowspan']": "''When Louis Met...''||- |Flaherty Documentary Award (TV) ||''When Louis Met... The Hamiltons''||nom |- |2001||Richard Dimbleby Award for the Best Presenter (Factual, Features and News)||''Louis Theroux's Weird Weekends''||won"}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': '13 who look like nice eggs'}}}
+205: {'values_changed': {"root['children']": {'new_value': '13 who look like nice eggs', 'old_value': '3'}}}
+207: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '14 with shirley phelps'}}}
+208: {'values_changed': {"root['children']": {'new_value': '14 with shirley phelps', 'old_value': '3'}}}
+211: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'London'}}}
+212: {'values_changed': {"root['residence']": {'new_value': 'London', 'old_value': 'Los Angeles, California, U.S.'}}}
+226: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, U.S., Harlesden'}}}
+227: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S., Harlesden', 'old_value': 'Los Angeles, California, U.S.'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'Louis Theroux', 'old_value': 'Louis Boycott'}}}
+229: {'values_changed': {"root['name']": {'new_value': 'Louis Boycott', 'old_value': 'Louis Theroux'}}}
+232: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'London, U.K.'}}}
+233: {'values_changed': {"root['residence']": {'new_value': 'London, U.K.', 'old_value': 'London, U.K. and  Los Angeles, California, U.S.'}}}
+234: {'values_changed': {"root['residence']": {'new_value': 'London, U.K. and  Los Angeles, California, U.S.', 'old_value': 'London, UK and  Los Angeles, California, U.S.'}}}
+235: {'values_changed': {"root['residence']": {'new_value': 'London, UK and  Los Angeles, California, U.S.', 'old_value': 'London, UK and  Los Angeles, California, US'}}}

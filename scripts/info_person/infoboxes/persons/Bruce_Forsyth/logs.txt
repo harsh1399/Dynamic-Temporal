@@ -1,0 +1,54 @@
+154: {'dictionary_item_removed': {"root['name']": 'Bruce Forsyth', "root['occupation']": 'Presenter/showman/entertainer'}}
+171: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Bruce Joseph Forsyth'}}}
+181: {'dictionary_item_removed': {"root['spouse']": 'Wilnelia Merced'}, 'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth', 'old_value': 'Bruce Joseph Forsyth-Johnson'}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson', 'old_value': 'Bruce Joseph Forsyth-Johnson, OBE'}, "root['occupation']": {'new_value': 'Presenter/showman/entertainer', 'old_value': 'Presenter, showman, entertainer'}}}
+201: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, OBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, CBE'}}}
+218: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, CBE', 'old_value': 'Bruce Dihn Joseph Forsyth-Johnson, CBE'}}}
+219: {'values_changed': {"root['name']": {'new_value': 'Bruce Dihn Joseph Forsyth-Johnson, CBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, CBE'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, CBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, OBE'}}}
+224: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, OBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, CBE'}}}
+238: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, CBE', 'old_value': 'Sir Bruce Joseph Forsyth-Johnson.'}}}
+239: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Joseph Forsyth-Johnson.', 'old_value': 'Bruce Joseph Forsyth-Johnson, CBE'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, CBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, OBE'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, OBE', 'old_value': 'Bruce Joseph Forsyth-Johnson, CBE'}}}
+260: {'dictionary_item_removed': {"root['children']": '6', "root['child']": 'yes', "root['baftaawards']": "'''BAFTA Fellowship''',  2008 "}, 'values_changed': {"root['name']": {'new_value': 'Bruce Joseph Forsyth-Johnson, CBE', 'old_value': 'Sir Bruce Forsyth'}, "root['occupation']": {'new_value': 'Presenter, showman, entertainer', 'old_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter'}, "root['spouse']": {'new_value': 'Wilnelia Merced', 'old_value': 'Plain list'}}}
+275: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'Television presenter, actor, comedian (debatable!), singer, dancer,entertainer, screenwriter'}}}
+276: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian (debatable!), singer, dancer,entertainer, screenwriter', 'old_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter'}}}
+277: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'Television presenter, actor, comedian (debatable!), singer, dancer,entertainer, screenwriter'}}}
+278: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian (debatable!), singer, dancer,entertainer, screenwriter', 'old_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter'}}}
+285: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Sir Bruce Forsythe'}}}
+286: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsythe', 'old_value': 'Sir Bruce Forsyth'}}}
+295: {'dictionary_item_removed': {"root['residence']": 'London, United Kingdom'}}
+320: {'dictionary_item_added': {"root['residence']": 'London, United Kingdom'}, 'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Sir Bruce Forsythee'}}}
+321: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsythee', 'old_value': 'Sir Bruce Forsyth'}}}
+342: {'dictionary_item_added': {"root['child']": 'yes', "root['baftaawards']": "'''BAFTA Fellowship''',  2008 "}, 'dictionary_item_removed': {"root['residence']": 'London'}}
+350: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Sir Bruce Forsyth yo'}}}
+351: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth yo', 'old_value': 'Sir Bruce Forsyth'}}}
+352: {'dictionary_item_removed': {"root['accessdate']": "26 August 2014   Forsyth came to national attention from the mid-1950s through the ITV series ''Sunday Night at the London Palladium''. Since then he has hosted series such as ''The Generation Game'', ''Play Your Cards Right'', ''The Price Is Right (UK game show)", "root['years']": '1971–77', "root['after']": 'Larry Grayson  succession box', "root['NAME']": 'Forsyth, Bruce |ALTERNATIVE NAMES'}}
+378: {'dictionary_item_added': {"root['accessdate']": "26 August 2014   Forsyth came to national attention from the mid-1950s through the ITV series ''Sunday Night at the London Palladium''. Since then he has hosted series such as ''The Generation Game'', ''Play Your Cards Right'', ''The Price Is Right (UK game show)", "root['years']": '1971–77', "root['after']": 'Larry Grayson  succession box', "root['NAME']": 'Forsyth, Bruce |ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['died']": '14 January'}}
+380: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Sir Bruce  Boyyyy'}, "root['died']": {'new_value': '14 January', 'old_value': '14 January '}}}
+381: {'dictionary_item_added': {"root['died']": '14 January '}, 'values_changed': {"root['name']": {'new_value': 'Sir Bruce  Boyyyy', 'old_value': 'Sir Bruce Forsyth'}}}
+384: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'As an immortal being, Bruce, or Brucey as some know him, must feast on the souls of dead/dying celebrities. If he fails to consume enough souls he will simply cease to exist.'}}}
+385: {'values_changed': {"root['occupation']": {'new_value': 'As an immortal being, Bruce, or Brucey as some know him, must feast on the souls of dead/dying celebrities. If he fails to consume enough souls he will simply cease to exist.', 'old_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter'}}}
+405: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Sir Steve Bruce'}}}
+406: {'values_changed': {"root['name']": {'new_value': 'Sir Steve Bruce', 'old_value': 'Sir Bruce Forsyth'}}}
+412: {'values_changed': {"root['residence']": {'new_value': 'London', 'old_value': 'graveyard'}}}
+413: {'values_changed': {"root['residence']": {'new_value': 'graveyard', 'old_value': 'London'}}}
+452: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Bruce Forsyth'}}}
+487: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Bruce Forskin'}}}
+488: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'Television presenter, eldest chuckle brother, actor, comedian, singer, dancer, entertainer, screenwriter'}}}
+489: {'values_changed': {"root['name']": {'new_value': 'Bruce Forskin', 'old_value': 'Bruce Forsyth'}}}
+494: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Bruce Forskin'}, "root['occupation']": {'new_value': 'Television presenter, eldest chuckle brother, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter'}}}
+499: {'values_changed': {"root['name']": {'new_value': 'Bruce Forskin', 'old_value': 'Bruce Forsyth'}}}
+519: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Sir Bruce Forsyth'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Bruce Forsyth'}}}
+526: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Sir Bruce Forsyth'}}}
+649: {'dictionary_item_added': {"root['residence']": 'London'}, 'values_changed': {"root['occupation']": {'new_value': 'Television presenter, actor, comedian, singer, dancer, entertainer, screenwriter', 'old_value': 'Presenter, actor, comedian, singer, dancer, screenwriter'}}}
+660: {'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Bruce Forsyth'}}}
+661: {'values_changed': {"root['name']": {'new_value': 'Bruce Forsyth', 'old_value': 'Sir Bruce Forsyth'}}}
+686: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Penny Calvert |1953|1973|end'], 'new_value': 'Plain list'}}, 'dictionary_item_added': {"root['children']": '6'}}
+687: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plain list', 'new_value': ['Penny Calvert |1953|1973|end']}}, 'dictionary_item_removed': {"root['children']": '6', "root['accessdate']": '26 August 2014  Forsyth came to national attention from the mid-1950s through the Associated Television', "root['before']": 'http://www.britishclassiccomedy.co.uk/play-your-cards-right-1980', "root['years']": '1971–77', "root['after']": 'Larry Grayson   befo'}}
+698: {'dictionary_item_added': {"root['accessdate']": '26 August 2014  Forsyth came to national attention from the mid-1950s through the Associated Television', "root['before']": 'http://www.britishclassiccomedy.co.uk/play-your-cards-right-1980', "root['years']": '1971–77', "root['after']": 'Larry Grayson   befo'}, 'values_changed': {"root['name']": {'new_value': 'Sir Bruce Forsyth', 'old_value': 'Bruce Forsyth'}}}
+714: {'dictionary_item_removed': {"root['allegiance']": 'Flag', "root['branch']": 'Royal Air Force', "root['serviceyears']": '1947–1949', "root['unit']": 'Film Unit', "root['rank']": 'Flight Lieutenant', "root['battles']": 'Second World War '}}
+715: {'values_changed': {"root['rank']": {'new_value': 'Flight Lieutenant', 'old_value': 'Pilot'}}}
+717: {'values_changed': {"root['rank']": {'new_value': 'Pilot', 'old_value': 'Aircraft pilot'}}}

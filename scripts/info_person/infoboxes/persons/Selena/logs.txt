@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Selena', "root['alma_mater']": 'California Miramar University', "root['occupation']": [], "root['spouse']": 'marriage', "root['awards']": 'List of awards and nominations received by Selena', "root['embed']": 'yes', "root['genre']": [], "root['label']": [], "root['associated_acts']": [], "root['relations']": 'Suzette Quintanilla (sister) '}}
+67: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer', 'new_value': []}}}
+77: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer'}}}
+105: {'values_changed': {"root['relations']": {'new_value': 'Suzette Quintanilla (sister) ', 'old_value': 'A.B. Quintanilla (brother) '}}}
+157: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['past_member_of']": []}}

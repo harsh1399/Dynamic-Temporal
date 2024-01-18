@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Joaquin Phoenix', "root['residence']": 'Hollywood Hills, Los Angeles, California, United States', "root['occupation']": []}}
+26: {'values_changed': {"root['name']": {'new_value': 'Joaquin Phoenix', 'old_value': 'Joasoeeesssseeseeesssseeeseeseepsesoepoeesesseseoeeeeoessseeseeelseeseesseoseseoespepeeeeseeeeeesseoeseeseeeeeeeepeoeeosoeoeoseselesesssseequin Phoenix'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Joasoeeesssseeseeesssseeeseeseepsesoepoeesesseseoeeeeoessseeseeelseeseesseoseseoespepeeeeseeeeeesseoeseeseeeeeeeepeoeeosoeoeoseselesesssseequin Phoenix', 'old_value': 'Joaquin Phoenix'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Joaquin Phoenix', 'old_value': 'Joaquín Phoenix'}}}
+83: {'values_changed': {"root['residence']": {'new_value': 'Hollywood Hills, Los Angeles, California, United States', 'old_value': 'Hollywood Hills, California, U.S.'}}}
+136: {'dictionary_item_removed': {"root['alias']": 'Leaf Phoenix'}}
+177: {'dictionary_item_removed': {"root['partner']": 'Rooney Mara (2016–present)'}}
+190: {'values_changed': {"root['partner']": {'new_value': 'Rooney Mara (2016–present)', 'old_value': 'Rooney Mara , (2016–present)'}}}
+211: {'values_changed': {"root['partner']": {'new_value': 'Rooney Mara , (2016–present)', 'old_value': 'Rooney Mara (2016–present)'}}}
+216: {'values_changed': {"root['name']": {'new_value': 'Joaquín Phoenix', 'old_value': 'Joaquin Phoenix'}}}
+218: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, producer, musician, Social changes', 'new_value': []}}}
+219: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer, musician, Social changes'}}}
+220: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, producer, musician, activist, writer', 'new_value': []}}}
+221: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer, musician, activist, writer'}}}

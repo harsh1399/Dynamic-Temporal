@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Steve Ballmer', "root['residence']": 'Washington (state)', "root['alma_mater']": 'Harvard College', "root['occupation']": 'CEO of Microsoft', "root['home_town']": 'Farmington Hills, Michigan', "root['salary']": '$1,376,915 (2011)', "root['net_worth']": 'Increase US$ 18 billion (2013)<ref name', "root['awards']": 'Legion of Honour http://www.youtube.com/watch?v', "root['spouse']": 'Connie Snyder (1990–present; 3 children) '}}
+24: {'values_changed': {"root['name']": {'new_value': 'Steve Ballmer', 'old_value': 'Steve Ballmers'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'Steve Ballmers', 'old_value': 'Steve Ballmer'}}}
+29: {'values_changed': {"root['residence']": {'new_value': 'Washington (state)', 'old_value': 'United States'}}}
+30: {'values_changed': {"root['residence']": {'new_value': 'United States', 'old_value': 'Washington (state)'}}}
+36: {'values_changed': {"root['occupation']": {'new_value': 'CEO of Microsoft', 'old_value': 'Ex-CEO of Microsoft'}}}
+48: {'values_changed': {"root['occupation']": {'new_value': 'Ex-CEO of Microsoft', 'old_value': 'Former CEO of Microsoft'}}}
+59: {'dictionary_item_added': {"root['spouse']": 'Connie Snyder (1990–present; 3 children) '}, 'dictionary_item_removed': {"root['NAME']": 'Ballmer, Steve | ALTERNATIVE NAMES'}}
+62: {'dictionary_item_added': {"root['NAME']": 'Ballmer, Steve | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['spouse']": 'Connie Snyder (1990–present; 3 children) '}}
+63: {'dictionary_item_added': {"root['spouse']": 'Connie Snyder (1990–present; 3 children) '}, 'dictionary_item_removed': {"root['NAME']": 'Ballmer, Steve | ALTERNATIVE NAMES'}}
+64: {'dictionary_item_added': {"root['NAME']": 'Ballmer, Steve | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['spouse']": 'Connie Snyder (1990–present; 3 children) '}}
+68: {'values_changed': {"root['name']": {'new_value': 'Steve Ballmer', 'old_value': 'Mr snuffels'}}}
+71: {'values_changed': {"root['name']": {'new_value': 'Mr snuffels', 'old_value': 'Steve Ballmer'}}}
+90: {'values_changed': {"root['occupation']": {'new_value': 'Former CEO of Microsoft', 'old_value': 'Ex - Former CEO of Microsoft'}}}
+91: {'values_changed': {"root['occupation']": {'new_value': 'Ex - Former CEO of Microsoft', 'old_value': 'Former CEO of Microsoft'}}}
+105: {'dictionary_item_added': {"root['occupation']": 'Former CEO of Microsoft'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Harvard College', 'old_value': 'Harvard College (Bachelor of Arts'}}}
+113: {'values_changed': {"root['net_worth']": {'new_value': 'Increase US$ 18 billion (2013)<ref name', 'old_value': 'Increase US$ 20.7 billion (2014)<ref name'}}}
+114: {'values_changed': {"root['spouse']": {'new_value': 'Connie Snyder (1990–present; 3 children) ', 'old_value': 'Connie Snyder (1990–present; 5 children) '}}}
+115: {'values_changed': {"root['spouse']": {'new_value': 'Connie Snyder (1990–present; 5 children) ', 'old_value': 'Connie Snyder (1990–present; 3 children) '}}}

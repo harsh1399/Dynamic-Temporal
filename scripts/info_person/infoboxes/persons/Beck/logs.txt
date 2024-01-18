@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Beck', "root['background']": 'solo_singer', "root['occupation']": [], "root['genre']": [], "root['instrument']": 'Vocals, guitar', "root['label']": [], "root['associated_acts']": [], "root['notable_instruments']": '1448 Silvertone Danelectro', "root['archiveurl']": 'http://web.archive.org/web/20080418034125/http://www.danguitars.com/DanoCelebs.html |archivedate'}}
+8: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer–songwriter, multi-instrumentalist, producer', 'new_value': []}}, 'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer '}}}
+10: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer–songwriter, multi-instrumentalist, producer'}}, 'values_changed': {"root['background']": {'new_value': 'solo_singer ', 'old_value': 'solo_singer'}}}
+18: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'writes his own fucking songs (unlike that bitch Beyonce Knowles)'}}}
+19: {'values_changed': {"root['background']": {'new_value': 'writes his own fucking songs (unlike that bitch Beyonce Knowles)', 'old_value': 'writes his own songs (unlike that Beyonce Knowles)'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Better than Beyonce'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Better than Beyonce', 'old_value': 'Beck'}, "root['background']": {'new_value': 'writes his own songs (unlike that Beyonce Knowles)', 'old_value': 'solo_singer'}}}
+29: {'values_changed': {"root['archiveurl']": {'new_value': 'http://web.archive.org/web/20080418034125/http://www.danguitars.com/DanoCelebs.html |archivedate', 'old_value': 'https://web.archive.org/web/20080418034125/http://www.danguitars.com/DanoCelebs.html |archivedate'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Becky'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Becky', 'old_value': 'Beck'}}}
+42: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Beck also known as young money'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Beck also known as young money', 'old_value': 'Beck'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Dog'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_destroyer'}}}
+62: {'values_changed': {"root['name']": {'new_value': 'Dog', 'old_value': 'Beck'}, "root['background']": {'new_value': 'solo_destroyer', 'old_value': 'solo_singer'}}}
+81: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, guitar'}}}
+111: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Bëck'}}}
+112: {'values_changed': {"root['name']": {'new_value': 'Bëck', 'old_value': 'Beck'}}}
+211: {'dictionary_item_added': {"root['notable_instruments']": '1448 Silvertone Danelectro', "root['archiveurl']": 'https://web.archive.org/web/20080418034125/http://www.danguitars.com/DanoCelebs.html |archivedate'}, 'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Beck is gay'}}}
+212: {'values_changed': {"root['name']": {'new_value': 'Beck is gay', 'old_value': 'Beck'}}}
+243: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'robber of album of the year who took the title from our lord and savior Beyonce'}}}
+244: {'values_changed': {"root['background']": {'new_value': 'robber of album of the year who took the title from our lord and savior Beyonce', 'old_value': 'solo_singer'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'trash'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'irrelevant'}}}
+246: {'values_changed': {"root['name']": {'new_value': 'trash', 'old_value': 'Beck'}, "root['background']": {'new_value': 'irrelevant', 'old_value': 'solo_singer'}}}
+328: {'values_changed': {"root['name']": {'new_value': 'Beck', 'old_value': 'Emily Emanuel'}}}
+329: {'values_changed': {"root['name']": {'new_value': 'Emily Emanuel', 'old_value': 'Beck'}}}
+333: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '2'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Charlotte Gainsbourg', "root['associated_acts'][1]": 'The Flaming Lips', "root['associated_acts'][2]": 'Willie Nelson', "root['associated_acts'][3]": 'Devendra Banhart', "root['associated_acts'][4]": 'Thurston Moore', "root['associated_acts'][5]": 'Jack White', "root['associated_acts'][6]": 'Nate Ruess', "root['associated_acts'][7]": 'Pharrell Williams', "root['associated_acts'][8]": 'Gorillaz', "root['associated_acts'][9]": 'Cage the Elephant', "root['associated_acts'][10]": 'Flume', "root['associated_acts'][11]": 'Lady Gaga', "root['associated_acts'][12]": 'Paul McCartney', "root['associated_acts'][13]": 'Boards of Canada', "root['associated_acts'][14]": 'P!nk', "root['associated_acts'][15]": 'Beastie Boys'}}
+344: {'dictionary_item_removed': {"root['awards']": 'List of awards and nominations received by Beck'}}
+352: {'iterable_item_added': {"root['associated_acts'][8]": 'Gorillaz'}}
+359: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'dictionary_item_removed': {"root['embed']": 'yes'}}
+362: {'iterable_item_removed': {"root['associated_acts'][15]": 'Gorillaz'}}

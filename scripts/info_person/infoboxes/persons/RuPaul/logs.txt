@@ -1,0 +1,39 @@
+0: {'dictionary_item_removed': {"root['name']": 'RuPaul', "root['occupation']": [], "root['notable_works']": '"Supermodel (You Better Work)"', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['origin']": 'Atlanta, Georgia (U.S. state)', "root['genre']": [], "root['label']": ['Funtone', 'Every', 'Tommy Boy', 'Rhino', 'RuCo', 'World of Wonder']}}
+2: {'values_changed': {"root['name']": {'new_value': 'RuPaul', 'old_value': 'Gay'}}}
+13: {'values_changed': {"root['name']": {'new_value': 'Gay', 'old_value': 'RuPaul Andre Charles'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Nasty lookin gay man'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Nasty lookin gay man', 'old_value': 'RuPaul Andre Charles'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Gay man who looks nasty'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Gay man who looks nasty', 'old_value': 'RuPaul Andre Charles'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Haha thought you could block me'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Haha thought you could block me', 'old_value': 'RuPaul Andre Charles'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Fāg'}}}
+32: {'values_changed': {"root['name']": {'new_value': 'Fāg', 'old_value': 'RuPaul Andre Charles'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Block me I dare you'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Block me I dare you', 'old_value': 'RuPaul Andre Charles'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'Fág'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'Fág', 'old_value': 'RuPaul Andre Charles'}}}
+104: {'dictionary_item_added': {"root['name']": 'RuPaul Andre Charles'}, 'dictionary_item_removed': {"root['spouse']": 'Georges (m. January 2017)'}}
+106: {'dictionary_item_removed': {"root['partner']": 'Georges (Since January 1994)'}}
+109: {'dictionary_item_added': {"root['partner']": 'Georges (Since January 1994)'}, 'values_changed': {"root['spouse']": {'new_value': 'Georges (m. January 2017)', 'old_value': 'Georges LeBar (m. January 2017)'}}}
+117: {'values_changed': {"root['spouse']": {'new_value': 'Georges LeBar (m. January 2017)', 'old_value': 'Georges LeBar (m. January 2017)<ref name'}}}
+120: {'values_changed': {"root['spouse']": {'new_value': 'Georges LeBar (m. January 2017)<ref name', 'old_value': 'marriage'}}}
+131: {'type_changes': {"root['label']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': ['Funtone', 'Every', 'Tommy Boy', 'Rhino', 'RuCo', 'World of Wonder']}}, 'dictionary_item_removed': {"root['associated_acts']": ['Lady Bunny']}}
+132: {'iterable_item_removed': {"root['associated_acts'][1]": 'Michelle Visage', "root['associated_acts'][2]": 'Todrick Hall'}}
+133: {'iterable_item_removed': {"root['associated_acts'][3]": 'Bianca Del Rio'}}
+134: {'iterable_item_removed': {"root['associated_acts'][4]": 'Bob the Drag Queen'}}
+172: {'values_changed': {"root['associated_acts'][3]": {'new_value': 'Bianca Del Rio', 'old_value': 'Bianca'}}, 'iterable_item_added': {"root['associated_acts'][4]": 'Bob the Drag Queen'}}
+173: {'values_changed': {"root['associated_acts'][3]": {'new_value': 'Bianca', 'old_value': 'Bianca Del Rio'}}, 'iterable_item_removed': {"root['associated_acts'][4]": 'Bob the Drag Queen'}}
+198: {'dictionary_item_removed': {"root['name']": 'RuPaul Andre Charles'}}
+200: {'values_changed': {"root['name']": {'new_value': 'RuPaul Andre Charles', 'old_value': 'RuPaul'}}}
+201: {'iterable_item_removed': {"root['associated_acts'][5]": 'Santino Rice'}}
+206: {'values_changed': {"root['name']": {'new_value': 'RuPaul', 'old_value': 'RuPaul Savoie'}}}
+209: {'values_changed': {"root['name']": {'new_value': 'RuPaul Savoie', 'old_value': 'RuPaul'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'RuPaul', 'old_value': 'Paul'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Paul', 'old_value': 'RuPaul'}}}
+334: {'values_changed': {"root['name']": {'new_value': 'RuPaul', 'old_value': 'Gandhi'}}}
+335: {'values_changed': {"root['name']": {'new_value': 'Gandhi', 'old_value': 'RuPaul'}}}
+345: {'dictionary_item_added': {"root['occupation']": [], "root['notable_works']": '"Supermodel (You Better Work)"', "root['spouse']": 'marriage', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['origin']": 'Atlanta, Georgia (U.S. state)', "root['genre']": [], "root['label']": 'Flatlist', "root['associated_acts']": ['Lady Bunny', 'Michelle Visage', 'Todrick Hall', 'Bianca Del Rio', 'Bob the Drag Queen', 'Santino Rice']}, 'dictionary_item_removed': {"root['rowspan']": '"2"| 1996–98 || \'\'The RuPaul Show\'\' || Himself (in drag) || presenter, 100 episodes |- | \'\'Nash Bridges\'\' || Simone Dubois || 2 episodes |- |'}}
+346: {'dictionary_item_added': {"root['rowspan']": '"2"| 1996–98 || \'\'The RuPaul Show\'\' || Himself (in drag) || presenter, 100 episodes |- | \'\'Nash Bridges\'\' || Simone Dubois || 2 episodes |- |'}, 'dictionary_item_removed': {"root['occupation']": [], "root['notable_works']": '"Supermodel (You Better Work)"', "root['spouse']": 'marriage', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['origin']": 'Atlanta, Georgia (U.S. state)', "root['genre']": [], "root['label']": 'Flatlist', "root['associated_acts']": ['Lady Bunny', 'Michelle Visage', 'Todrick Hall', 'Bianca Del Rio', 'Bob the Drag Queen', 'Santino Rice']}}
+377: {'type_changes': {"root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}, 'dictionary_item_added': {"root['notable_works']": '"Supermodel (You Better Work)"'}, 'iterable_item_added': {"root['associated_acts'][2]": 'Todrick Hall', "root['associated_acts'][3]": 'Bianca Del Rio', "root['associated_acts'][4]": 'Bob the Drag Queen', "root['associated_acts'][5]": 'Santino Rice'}}
+479: {'values_changed': {"root['origin']": {'new_value': 'Atlanta, Georgia (U.S. state)', 'old_value': 'Atlanta, Georgia, U.S.'}}}

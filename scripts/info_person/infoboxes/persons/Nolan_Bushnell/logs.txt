@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Nolan Bushnell', "root['field']": 'Electrical Engineering, entrepreneur', "root['work_institutions']": "Atari, Chuck E. Cheese's", "root['alma_mater']": 'University of Utah', "root['known_for']": 'Pong', "root['awards']": 'Video Game Hall of Fame ,  Consumer Electronics Association Hall of Fame'}}
+64: {'dictionary_item_removed': {"root['prizes']": 'Back to back orange bowl champion 1960-61'}}
+67: {'dictionary_item_added': {"root['prizes']": 'Back to back orange bowl champion 1960-61'}, 'dictionary_item_removed': {"root['religion']": 'Polytheism'}}
+81: {'dictionary_item_added': {"root['religion']": 'Polytheism'}, 'values_changed': {"root['known_for']": {'new_value': 'Pong', 'old_value': "''Pong''"}}}
+91: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Utah', 'old_value': 'University of Utah, Stanford University'}}}
+92: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Utah, Stanford University', 'old_value': 'University of Utah'}}}
+93: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Utah', 'old_value': 'University of Utah, Stanford University<ref name'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Nolan Bushnell', 'old_value': 'Nolan Bushfeg'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'Nolan Bushfeg', 'old_value': 'Nolan Bushnell'}}}
+107: {'values_changed': {"root['known_for']": {'new_value': "''Pong''", 'old_value': "''Pongg''"}}}
+108: {'values_changed': {"root['known_for']": {'new_value': "''Pongg''", 'old_value': "''Pong''"}}}
+118: {'dictionary_item_removed': {"root['residence']": 'Southern California', "root['children']": '8'}, 'values_changed': {"root['field']": {'new_value': 'Electrical Engineering, entrepreneur', 'old_value': 'Electrical Engineering, Computer software'}, "root['alma_mater']": {'new_value': 'University of Utah, Stanford University<ref name', 'old_value': 'University of Utah, Stanford Business School<ref name'}}}
+175: {'values_changed': {"root['residence']": {'new_value': 'Southern California', 'old_value': 'Southern California, United States'}}}
+176: {'values_changed': {"root['residence']": {'new_value': 'Southern California, United States', 'old_value': 'Southern California'}}}
+221: {'values_changed': {"root['known_for']": {'new_value': "''Pong''", 'old_value': "Co-founding Atari, Inc., ''Pong''"}}}
+223: {'values_changed': {"root['residence']": {'new_value': 'Southern California', 'old_value': 'dc33edrrrddccccCD cccCD ccfccc Southern California'}}}
+224: {'values_changed': {"root['residence']": {'new_value': 'dc33edrrrddccccCD cccCD ccfccc Southern California', 'old_value': 'Southern California'}}}
+237: {'values_changed': {"root['name']": {'new_value': 'Nolan Bushnell', 'old_value': 'President Nolan Bushnell'}}}
+238: {'values_changed': {"root['name']": {'new_value': 'President Nolan Bushnell', 'old_value': 'Nolan Bushnell'}}}
+239: {'values_changed': {"root['name']": {'new_value': 'Nolan Bushnell', 'old_value': 'Buz vador sweet baby'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Buz vador sweet baby', 'old_value': 'Nolan Bushnell'}}}

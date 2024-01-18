@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['spouse']": 'Millie De la Hoya', "root['weight']": 'Light Middleweight', "root['total']": '45', "root['wins']": '39', "root['KO']": '30', "root['losses']": '6', "root['draws']": '0 |no contests'}}
+10: {'values_changed': {"root['weight']": {'new_value': 'Light Middleweight', 'old_value': 'Super Featherweight, Lightweight, Light Welterweight, Welterweight, Light Middleweight, Middleweight'}}}
+57: {'values_changed': {"root['total']": {'new_value': '45', 'old_value': '223'}, "root['wins']": {'new_value': '39', 'old_value': '165'}, "root['KO']": {'new_value': '30', 'old_value': '56'}, "root['losses']": {'new_value': '6', 'old_value': '5'}, "root['draws']": {'new_value': '0 |no contests', 'old_value': '8 |no contests'}}}
+58: {'values_changed': {"root['total']": {'new_value': '223', 'old_value': '45'}, "root['wins']": {'new_value': '165', 'old_value': '39'}, "root['KO']": {'new_value': '56', 'old_value': '30'}, "root['losses']": {'new_value': '5', 'old_value': '6'}, "root['draws']": {'new_value': '8 |no contests', 'old_value': '0 |no contests'}}}
+119: {'dictionary_item_removed': {"root['align']": '"8"', "root['NAME']": 'De La Hoya, Oscar | ALTERNATIVE NAMES'}, 'values_changed': {"root['draws']": {'new_value': '0 |no contests', 'old_value': '0'}}}
+121: {'dictionary_item_added': {"root['align']": '"8"', "root['NAME']": 'De La Hoya, Oscar | ALTERNATIVE NAMES'}, 'values_changed': {"root['draws']": {'new_value': '0', 'old_value': '0 |no contests'}}}
+153: {'dictionary_item_removed': {"root['home']": 'Tiny Tower - Floor 9'}}
+155: {'dictionary_item_added': {"root['home']": 'Tiny Tower - Floor 9'}, 'values_changed': {"root['wins']": {'new_value': '39', 'old_value': '3956252'}}}
+156: {'values_changed': {"root['wins']": {'new_value': '3956252', 'old_value': '39'}}}
+194: {'dictionary_item_removed': {"root['realname']": 'Ballsack'}, 'values_changed': {"root['draws']": {'new_value': '0 |no contests', 'old_value': '176 |no contests'}}}
+195: {'dictionary_item_removed': {"root['home']": 'Your Closet'}}
+196: {'values_changed': {"root['realname']": {'new_value': 'Ballsack', 'old_value': 'Oscar De La Hoya'}}}
+198: {'values_changed': {"root['draws']": {'new_value': '176 |no contests', 'old_value': '0 |no contests'}}}
+223: {'type_changes': {"root['weight']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Super Featherweight, Lightweight, Light Welterweight, Welterweight, Light Middleweight, Middleweight'}}, 'dictionary_item_added': {"root['realname']": 'Oscar De La Hoya', "root['spouse']": 'Millie De la Hoya', "root['home']": 'Your Closet', "root['draws']": '0 |no contests'}, 'dictionary_item_removed': {"root['name']": 'Oscar De La Hoya', "root['reach']": '73 in', "root['medaltemplates']": "Men's amateur boxing USA  MedalOlympics 1992 Barcelona Goodwill Games 1990 Seattle "}}
+373: {'values_changed': {"root['name']": {'new_value': 'Oscar De La Hoya', 'old_value': 'CACA De La Hoya'}}}
+374: {'values_changed': {"root['name']": {'new_value': 'CACA De La Hoya', 'old_value': 'Oscar De La Hoya'}}}
+383: {'dictionary_item_added': {"root['KO']": '30', "root['losses']": '6', "root['medaltemplates']": "Men's amateur boxing USA  MedalOlympics 1992 Barcelona Goodwill Games 1990 Seattle "}, 'values_changed': {"root['wins']": {'new_value': '39', 'old_value': 'title'}}}
+385: {'dictionary_item_removed': {"root['KO']": '30', "root['losses']": '6', "root['medaltemplates']": "Men's amateur boxing USA  MedalOlympics 1992 Barcelona Goodwill Games 1990 Seattle "}, 'values_changed': {"root['wins']": {'new_value': 'title', 'old_value': '39'}}}
+412: {'values_changed': {"root['name']": {'new_value': 'Oscar De La Hoya', 'old_value': 'Oscar De La Hoya (Oscar De La Weirdo)'}}}
+413: {'values_changed': {"root['name']": {'new_value': 'Oscar De La Hoya (Oscar De La Weirdo)', 'old_value': 'Oscar De La Hoya'}}}
+414: {'values_changed': {"root['name']": {'new_value': 'Oscar De La Hoya', 'old_value': 'Oscar De La Hoya (Oscar De La Weirdo)'}}}
+415: {'values_changed': {"root['name']": {'new_value': 'Oscar De La Hoya (Oscar De La Weirdo)', 'old_value': 'Oscar De La Hoya'}}}

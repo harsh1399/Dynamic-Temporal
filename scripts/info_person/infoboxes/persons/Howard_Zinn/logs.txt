@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Howard Zinn', "root['occupation']": 'Professor, Historian, Playwright', "root['spouse']": 'Roslyn Zinn '}}
+56: {'dictionary_item_added': {"root['spouse']": 'Roslyn Zinn '}, 'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Kate Roberts'}, "root['occupation']": {'new_value': 'Professor, Historian, Playwright', 'old_value': 'Exhibits Curator at the Minnesota Historical Society, Author |main interests'}}}
+57: {'dictionary_item_removed': {"root['spouse']": 'Roslyn Zinn '}, 'values_changed': {"root['name']": {'new_value': 'Kate Roberts', 'old_value': 'Howard Zinn'}, "root['occupation']": {'new_value': 'Exhibits Curator at the Minnesota Historical Society, Author |main interests', 'old_value': 'Professor, Historian, Playwright'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Howard Zinn is ugly'}}}
+134: {'values_changed': {"root['name']": {'new_value': 'Howard Zinn is ugly', 'old_value': 'Howard Zinn is ugly but cool'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Howard Zinn is ugly but cool', 'old_value': 'Howard Zinn'}}}
+245: {'values_changed': {"root['occupation']": {'new_value': 'Professor, Historian, Playwright', 'old_value': 'Professor,Playwright'}}}
+251: {'values_changed': {"root['occupation']": {'new_value': 'Professor,Playwright', 'old_value': 'Professor, History'}}}
+256: {'values_changed': {"root['occupation']": {'new_value': 'Professor, History', 'old_value': 'Professor, Playwright'}}}
+257: {'values_changed': {"root['occupation']": {'new_value': 'Professor, Playwright', 'old_value': 'Professor, History'}}}
+504: {'values_changed': {"root['spouse']": {'new_value': 'Roslyn Zinn ', 'old_value': 'Jennifer Lopez '}}}
+509: {'values_changed': {"root['spouse']": {'new_value': 'Jennifer Lopez ', 'old_value': 'Roslyn Zinn '}}}
+517: {'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Howard Zinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn'}}}
+518: {'values_changed': {"root['name']": {'new_value': 'Howard Zinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn', 'old_value': 'Howard Zinn'}}}
+655: {'values_changed': {"root['spouse']": {'new_value': 'Roslyn Zinn ', 'old_value': 'Roslyn Zinn (died 2008)    '}}}
+657: {'values_changed': {"root['spouse']": {'new_value': 'Roslyn Zinn (died 2008)    ', 'old_value': 'Roslyn Zinn (died 2008)<ref name'}}}
+702: {'values_changed': {"root['spouse']": {'new_value': 'Roslyn Zinn (died 2008)<ref name', 'old_value': 'Roslyn Zinn (died 2008).<ref name'}}}
+804: {'dictionary_item_added': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Ibrahim Durakovic'}}}
+805: {'dictionary_item_removed': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Ibrahim Durakovic', 'old_value': 'Howard Zinn'}}}
+806: {'dictionary_item_added': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Ibby'}}}
+807: {'dictionary_item_removed': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Ibby', 'old_value': 'Howard Zinn'}}}
+808: {'dictionary_item_added': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Howard Zinn', 'old_value': 'Ibby'}}}
+809: {'dictionary_item_removed': {"root['occupation']": 'Professor, History', "root['spouse']": 'Roslyn Zinn (died 2008).<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Ibby', 'old_value': 'Howard Zinn'}}}
+831: {'values_changed': {"root['spouse']": {'new_value': 'Roslyn Zinn (died 2008).<ref name', 'old_value': 'Roslyn Zinn (died 2008)<ref name'}}}
+941: {'dictionary_item_removed': {"root['alma_mater']": 'New York University  (B.A.)  Columbia University  (M.A.)   (Ph.D.)  '}}

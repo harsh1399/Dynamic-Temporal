@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Colm Meaney', "root['birthdate']": 'May 30, 1953', "root['location']": 'Dublin, Republic of Ireland', "root['birthname']": 'Colm J. Meaney', "root['othername']": '| notable role'}}
+3: {'values_changed': {"root['location']": {'new_value': 'Dublin, Republic of Ireland', 'old_value': 'Dublin, Republic of Ireland flagicon'}}}
+22: {'values_changed': {"root['birthdate']": {'new_value': 'May 30, 1953', 'old_value': 'birth date and age'}}}
+25: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'May 30, 1953'}}}
+26: {'values_changed': {"root['location']": {'new_value': 'Dublin, Republic of Ireland flagicon', 'old_value': 'flagicon'}}}
+29: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Dublin, Republic of Ireland flagicon'}}}
+32: {'values_changed': {"root['birthdate']": {'new_value': 'May 30, 1953', 'old_value': 'birth date and age'}}}
+33: {'values_changed': {"root['location']": {'new_value': 'Dublin, Republic of Ireland flagicon', 'old_value': 'flagicon'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Colm Meaney', 'old_value': 'Im Very Gay'}}}
+45: {'values_changed': {"root['birthname']": {'new_value': 'Colm J. Meaney', 'old_value': 'Im Very Gay because I suck big dicks and like sperm'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'Im Very Gay', 'old_value': 'Colm Meaney'}, "root['birthname']": {'new_value': 'Im Very Gay because I suck big dicks and like sperm', 'old_value': 'Colm J. Meaney'}}}
+91: {'dictionary_item_added': {"root['location']": 'flagicon', "root['othername']": '| notable role'}, 'dictionary_item_removed': {"root['birthplace']": 'Dublin, Ireland '}}
+98: {'dictionary_item_removed': {"root['spouse']": 'Bairbre Dowling (1977-1994) Ines Glorian (15 March 2007-present)'}, 'values_changed': {"root['birthplace']": {'new_value': 'Dublin, Ireland ', 'old_value': 'Dublin, Republic of Ireland'}}}
+130: {'dictionary_item_added': {"root['birthname']": 'Colm J. Meaney', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Dublin, Republic of Ireland'}, 'dictionary_item_removed': {"root['occupation']": 'Actor', "root['children']": '2'}, 'values_changed': {"root['spouse']": {'new_value': 'Bairbre Dowling (1977-1994) Ines Glorian (15 March 2007-present)', 'old_value': 'Bairbre Dowling (1977–1994) Ines Glorian (2007–present)'}}}
+136: {'values_changed': {"root['spouse']": {'new_value': 'Bairbre Dowling (1977–1994) Ines Glorian (2007–present)', 'old_value': 'marriage'}}}

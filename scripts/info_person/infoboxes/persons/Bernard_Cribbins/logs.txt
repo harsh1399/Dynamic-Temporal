@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Bernard Cribbins', "root['occupation']": 'Actor, comedian, singing', "root['spouse']": 'Marriage'}}
+36: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, singing', 'old_value': 'Actor, comedian, singer'}, "root['spouse']": {'new_value': 'Marriage', 'old_value': 'Gillian Cribbins  '}}}
+43: {'values_changed': {"root['spouse']": {'new_value': 'Gillian Cribbins  ', 'old_value': 'Gillian McBarnet    '}}}
+67: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, singer', 'old_value': 'Soldier, actor, comedian, singer'}}}
+74: {'values_changed': {"root['occupation']": {'new_value': 'Soldier, actor, comedian, singer', 'old_value': 'actor, comedian, singer'}}}
+82: {'values_changed': {"root['occupation']": {'new_value': 'actor, comedian, singer', 'old_value': 'Actor, comedian, singer'}}}
+369: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, singer', 'old_value': 'Flatlist'}, "root['spouse']": {'new_value': 'Gillian McBarnet    ', 'old_value': '1955|2021|e'}}}
+438: {'dictionary_item_removed': {"root['deaht_place']": 'Weybridge, Surrey, England'}}

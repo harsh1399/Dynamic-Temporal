@@ -1,0 +1,90 @@
+0: {'dictionary_item_removed': {"root['background']": 'solo_singer', "root['instrument']": 'singing', "root['genre']": 'Hip hop music', "root['occupation']": 'Rapper, musician, record producer', "root['label']": 'Machine Shop Recordings', "root['associated_acts']": 'Linkin Park, Fort Minor, Styles of Beyond, Ghostface Killah', "root['notable_instruments']": 'PRS CE 22 Fender Stratocaster Ibanez RG Takamine acoustic guitar Korg Triton Roland Keyboard '}}
+49: {'dictionary_item_added': {"root['notable_instruments']": 'PRS CE 22 Fender Stratocaster Ibanez RG Takamine acoustic guitar Korg Triton Roland Keyboard '}, 'values_changed': {"root['associated_acts']": {'new_value': 'Linkin Park, Fort Minor, Styles of Beyond, Ghostface Killah', 'old_value': 'Linkin Park, Fort Minor, Styles of Beyond, Jay-Z, Chester Bennington, Steve Aoki,Ghostface Killah, Chino Moreno, Xero, Busta Rhymes, Brad Delson'}}}
+50: {'values_changed': {"root['associated_acts']": {'new_value': 'Linkin Park, Fort Minor, Styles of Beyond, Jay-Z, Chester Bennington, Steve Aoki,Ghostface Killah, Chino Moreno, Xero, Busta Rhymes, Brad Delson', 'old_value': 'Linkin Park, Fort Minor, Styles of Beyond, Ghostface Killah'}}}
+64: {'values_changed': {"root['genre']": {'new_value': 'Hip hop music', 'old_value': 'rap rock, Hip hop music'}}}
+65: {'values_changed': {"root['genre']": {'new_value': 'rap rock, Hip hop music', 'old_value': 'Rap rock, Hip hop music'}}}
+88: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_swinger'}, "root['occupation']": {'new_value': 'Rapper, musician, record producer', 'old_value': 'Crapper, musician, record producer'}}}
+89: {'values_changed': {"root['background']": {'new_value': 'solo_swinger', 'old_value': 'solo_singer'}, "root['occupation']": {'new_value': 'Crapper, musician, record producer', 'old_value': 'Rapper, musician, record producer'}}}
+92: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_swinger'}, "root['occupation']": {'new_value': 'Rapper, musician, record producer', 'old_value': 'Crapper, musician, record producer'}}}
+93: {'values_changed': {"root['background']": {'new_value': 'solo_swinger', 'old_value': 'solo_singer'}, "root['occupation']": {'new_value': 'Crapper, musician, record producer', 'old_value': 'Rapper, musician, record producer'}}}
+101: {'values_changed': {"root['genre']": {'new_value': 'Rap rock, Hip hop music', 'old_value': 'Rap rock, Rap metal Hip hop music'}}}
+102: {'values_changed': {"root['genre']": {'new_value': 'Rap rock, Rap metal Hip hop music', 'old_value': 'Rap rock, Rap metal, Hip hop music'}}}
+109: {'values_changed': {"root['genre']": {'new_value': 'Rap rock, Rap metal, Hip hop music', 'old_value': 'Rap rock, rap metal, Hip hop music'}}}
+111: {'values_changed': {"root['genre']": {'new_value': 'Rap rock, rap metal, Hip hop music', 'old_value': 'Rap rock, Hip hop music'}}}
+115: {'type_changes': {"root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Linkin Park', 'Fort Minor', 'Styles of Beyond', 'Ghostface Killah'], 'new_value': 'Linkin Park, Fort Minor, Styles of Beyond, Ghostface Killah'}}, 'dictionary_item_removed': {"root['name']": 'Mike Shinoda', "root['residence']": 'Agoura Hills, California, United States', "root['net_worth']": 'US$23 million (2014)', "root['spouse']": 'Marriage', "root['children']": []}}
+125: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Mike Shinoda,  Doctorate of Humane Letters'}}}
+127: {'values_changed': {"root['genre']": {'new_value': 'Rap rock, Hip hop music', 'old_value': 'Rap metal, rap rock, Hip hop music'}}}
+131: {'values_changed': {"root['occupation']": {'new_value': 'Rapper, musician, record producer', 'old_value': 'Rapper, singer-songwriter, musician, record producer'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda,  Doctorate of Humane Letters', 'old_value': 'Mike Shinoda'}}}
+189: {'dictionary_item_added': {"root['net_worth']": 'US$23 million (2014)'}, 'iterable_item_added': {"root['associated_acts'][3]": 'Ghostface Killah'}}
+208: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Otis Shinoda', 'new_value': []}}, 'dictionary_item_added': {"root['residence']": 'Agoura Hills, California, United States'}, 'dictionary_item_removed': {"root['alias']": 'Mikey'}}
+239: {'dictionary_item_added': {"root['alias']": 'Mikey'}, 'values_changed': {"root['children']": {'new_value': 'Otis Shinoda', 'old_value': 'children'}}}
+247: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rapper, singer-songwriter, musician, record producer'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'singing'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rap metal, rap rock, Hip hop music'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Machine Shop Recordings'}}, 'dictionary_item_added': {"root['children']": 'children'}}
+266: {'dictionary_item_removed': {"root['children']": '2'}}
+325: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Mike Shinyoda'}}}
+326: {'values_changed': {"root['name']": {'new_value': 'Mike Shinyoda', 'old_value': 'Mike Shinoda'}}}
+358: {'iterable_item_removed': {"root['associated_acts'][3]": 'Jay-Z'}}
+359: {'iterable_item_added': {"root['associated_acts'][3]": 'Jay-Z'}}
+363: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Dog barks'}}}
+364: {'values_changed': {"root['name']": {'new_value': 'Dog barks', 'old_value': 'Mike Shinoda'}}}
+374: {'iterable_item_removed': {"root['associated_acts'][3]": 'Steve Aoki'}}
+381: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+407: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+412: {'values_changed': {"root['associated_acts'][3]": {'new_value': 'Steve Aoki', 'old_value': 'Steve Aoki     \'\'\'Michael Kenji "Mike" Shinoda\'\'\' (born February 11, 1977) is an American musician, rapper, singer, songwriter, record producer, graphic designer, manager and film composer. He co-founded Linkin Park in 1996 and is the band\'s rhythm guitarist, songwriter, keyboardist, and co-vocalist. Shinoda later created a hip hop-driven side project, Fort Minor, in 2004. He served as a producer for tracks and albums by Lupe Fiasco, Styles of Beyond, and The X-Ecutioners.  Shinoda is also the co-founder of Machine Shop Recordings, a California-based record label. Outside of music, Shinoda is an artist and graphic designer. He has painted several pieces of artwork, some of which have been featured in the Japanese American National Museum.'}}}
+413: {'values_changed': {"root['associated_acts'][3]": {'new_value': 'Steve Aoki     \'\'\'Michael Kenji "Mike" Shinoda\'\'\' (born February 11, 1977) is an American musician, rapper, singer, songwriter, record producer, graphic designer, manager and film composer. He co-founded Linkin Park in 1996 and is the band\'s rhythm guitarist, songwriter, keyboardist, and co-vocalist. Shinoda later created a hip hop-driven side project, Fort Minor, in 2004. He served as a producer for tracks and albums by Lupe Fiasco, Styles of Beyond, and The X-Ecutioners.  Shinoda is also the co-founder of Machine Shop Recordings, a California-based record label. Outside of music, Shinoda is an artist and graphic designer. He has painted several pieces of artwork, some of which have been featured in the Japanese American National Museum.', 'old_value': 'Steve Aoki'}}}
+466: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals', 'new_value': []}}}
+486: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar, keyboards'}}}
+487: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, keyboards', 'old_value': 'Vocals'}}}
+496: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar, keyboard'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Soon to be dead too'}}}
+503: {'values_changed': {"root['name']": {'new_value': 'Soon to be dead too', 'old_value': 'Mike Shinoda'}}}
+512: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, guitar, keyboard'}}}
+519: {'dictionary_item_removed': {"root['education']": 'Agoura High School', "root['alma_mater']": 'Art Center College of Design small'}}
+542: {'values_changed': {"root['associated_acts'][3]": {'new_value': 'Steve Aoki', 'old_value': 'nowrap'}}}
+543: {'values_changed': {"root['associated_acts'][2]": {'new_value': 'Styles of Beyond', 'old_value': "Styles of Beyond    '''Michael Kenji Shinoda''' (ʃ, born February 11, 1977) is an American musician, songwriter, record producer and graphic designer. He co-founded Linkin Park in 1996 and is the band's rhythm guitarist, primary songwriter, keyboardist, producer, and lead vocalist. Shinoda later created a hip-hop-driven side project, Fort Minor, in 2004. He served as a producer for tracks and albums by Lupe Fiasco, Styles of Beyond, and The X-Ecutioners.  Shinoda is also the co-founder of Machine Shop Records, a California-based record label. Outside of music, Shinoda is an artist and graphic designer. He has painted several pieces of artwork, some of which have been featured in the Japanese American National Museum."}}, 'iterable_item_added': {"root['associated_acts'][3]": 'nowrap'}}
+544: {'values_changed': {"root['associated_acts'][2]": {'new_value': "Styles of Beyond    '''Michael Kenji Shinoda''' (ʃ, born February 11, 1977) is an American musician, songwriter, record producer and graphic designer. He co-founded Linkin Park in 1996 and is the band's rhythm guitarist, primary songwriter, keyboardist, producer, and lead vocalist. Shinoda later created a hip-hop-driven side project, Fort Minor, in 2004. He served as a producer for tracks and albums by Lupe Fiasco, Styles of Beyond, and The X-Ecutioners.  Shinoda is also the co-founder of Machine Shop Records, a California-based record label. Outside of music, Shinoda is an artist and graphic designer. He has painted several pieces of artwork, some of which have been featured in the Japanese American National Museum.", 'old_value': 'Styles of Beyond'}}}
+608: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+610: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+616: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+617: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+677: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+687: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Mike Shino'}}}
+688: {'values_changed': {"root['name']": {'new_value': 'Mike Shino', 'old_value': 'Mike Shinoda'}}}
+702: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+714: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+716: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+720: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+722: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+732: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+734: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+780: {'dictionary_item_removed': {"root['origin']": 'Agoura Hills, California, U.S.'}}
+840: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+842: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+857: {'iterable_item_removed': {"root['associated_acts'][3]": 'Martin Garrix', "root['associated_acts'][4]": 'Pierce Fulton'}}
+858: {'iterable_item_added': {"root['associated_acts'][3]": 'Martin Garrix', "root['associated_acts'][4]": 'Pierce Fulton'}}
+865: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Beep Beep Guy'}}}
+866: {'values_changed': {"root['name']": {'new_value': 'Beep Beep Guy', 'old_value': 'Mike Shinoda'}}}
+870: {'iterable_item_removed': {"root['associated_acts'][3]": 'The exicutioners'}}
+874: {'iterable_item_added': {"root['associated_acts'][3]": 'The exicutioners'}}
+888: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+889: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+902: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Otis Shinoda, Otis Akio Shinoda'}}}
+904: {'values_changed': {"root['children']": {'new_value': 'Otis Shinoda, Otis Akio Shinoda', 'old_value': '2'}}}
+917: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+919: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+920: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+922: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+928: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+929: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+932: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+933: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+935: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+937: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2<ref name'}}}
+954: {'values_changed': {"root['children']": {'new_value': '2<ref name', 'old_value': '1<ref name'}}}
+955: {'values_changed': {"root['children']": {'new_value': '1<ref name', 'old_value': '2<ref name'}}}
+959: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Mikey Wikey'}}}
+960: {'values_changed': {"root['name']": {'new_value': 'Mikey Wikey', 'old_value': 'Mike Shinoda'}}}
+961: {'values_changed': {"root['name']": {'new_value': 'Mike Shinoda', 'old_value': 'Mikey Shinoda'}}}
+962: {'values_changed': {"root['name']": {'new_value': 'Mikey Shinoda', 'old_value': 'Mike Shinoda'}}}
+972: {'values_changed': {"root['children']": {'new_value': '2<ref name', 'old_value': '3<ref name'}}}
+973: {'values_changed': {"root['children']": {'new_value': '3<ref name', 'old_value': '2<ref name'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jane Seymour', "root['occupation']": 'Actress', "root['spouse']": 'Michael Attenborough, (1971–73; divorced), Geoffrey Planer, (1977–78; divorced), David Flynn,  (1981–92; divorced; 2 children), James Keach, (1993–2013; divorced; 2 children) '}}
+63: {'values_changed': {"root['spouse']": {'new_value': 'Michael Attenborough, (1971–73; divorced), Geoffrey Planer, (1977–78; divorced), David Flynn,  (1981–92; divorced; 2 children), James Keach, (1993–2013; divorced; 2 children) ', 'old_value': 'Michael Attenborough, (1971–73; divorced), Geoffrey Planer, (1977–78; divorced), David Flynn,  (1981–92; divorced; 2 children), James Keach, (1993–2015; divorced; 2 children) '}}}
+70: {'dictionary_item_removed': {"root['children']": '4'}, 'values_changed': {"root['spouse']": {'new_value': 'Michael Attenborough, (1971–73; divorced), Geoffrey Planer, (1977–78; divorced), David Flynn,  (1981–92; divorced; 2 children), James Keach, (1993–2015; divorced; 2 children) ', 'old_value': 'marriage'}}}
+134: {'dictionary_item_removed': {"root['residence']": 'Malibu, California'}}
+156: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '6'}}}
+158: {'values_changed': {"root['children']": {'new_value': '6', 'old_value': '4'}}}
+159: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '6'}}}
+162: {'values_changed': {"root['name']": {'new_value': 'Jane Seymour', 'old_value': 'paul pierce'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'paul pierce', 'old_value': 'Jane Seymour'}}}
+164: {'values_changed': {"root['children']": {'new_value': '6', 'old_value': '4'}}}

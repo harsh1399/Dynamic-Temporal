@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ian Hislop', "root['residence']": 'Sissinghurst, Kent, United Kingdom', "root['known_for']": 'Work on Private Eye & Have I Got News For You', "root['education']": 'English literature', "root['alma_mater']": 'Magdalen College, Oxford', "root['employer']": 'Pressdram Ltd (Private Eye (magazine)', "root['occupation']": 'Private Eye (magazine)', "root['spouse']": 'Victoria Hislop (1988-present)', "root['children']": 'Emily (b.1990), William (b.1993)'}}
+28: {'values_changed': {"root['known_for']": {'new_value': 'Work on Private Eye & Have I Got News For You', 'old_value': 'Work on Private Eye (magazine)'}}}
+32: {'values_changed': {"root['alma_mater']": {'new_value': 'Magdalen College, Oxford', 'old_value': 'Ardingly College ,  Magdalen College, Oxford'}}}
+37: {'values_changed': {"root['spouse']": {'new_value': 'Victoria Hislop (1988-present)', 'old_value': 'marriage'}}}
+54: {'values_changed': {"root['known_for']": {'new_value': 'Work on Private Eye (magazine)', 'old_value': "Work on ''Private Eye (magazine)"}, "root['employer']": {'new_value': 'Pressdram Ltd (Private Eye (magazine)', 'old_value': "Pressdram Ltd (''Private Eye (magazine)"}}}
+59: {'values_changed': {"root['employer']": {'new_value': "Pressdram Ltd (''Private Eye (magazine)", 'old_value': "Pressdram Ltd ''Private Eye''"}, "root['occupation']": {'new_value': 'Private Eye (magazine)', 'old_value': 'Private Eye'}}}
+115: {'values_changed': {"root['residence']": {'new_value': 'Sissinghurst, Kent, United Kingdom', 'old_value': 'Cranbrook, Kent, United Kingdom'}}}
+117: {'values_changed': {"root['name']": {'new_value': 'Ian Hislop', 'old_value': 'Ian Hislop - Also a Legend'}}}
+118: {'values_changed': {"root['name']": {'new_value': 'Ian Hislop - Also a Legend', 'old_value': 'Ian Hislop'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Ian Hislop', 'old_value': "Ian 'Toff' Hislop"}}}
+137: {'values_changed': {"root['name']": {'new_value': "Ian 'Toff' Hislop", 'old_value': 'Ian Hislop'}}}
+153: {'values_changed': {"root['residence']": {'new_value': 'Cranbrook, Kent, United Kingdom', 'old_value': 'Cranbrook, Kent, UK'}}}
+156: {'values_changed': {"root['residence']": {'new_value': 'Cranbrook, Kent, UK', 'old_value': 'Sissinghurst, Kent, UK'}}}
+161: {'dictionary_item_removed': {"root['networth']": '£76 million'}}

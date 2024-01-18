@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Cuba Gooding Jr.', "root['occupation']": 'Actor', "root['education']": 'North Hollywood High School ,  Tustin High School ,  Apple Valley High School (California)', "root['known_for']": "Rod Tidwell in ''Jerry Maguire'', O.J. Simpson in ''American Crime Story'', Radio in ''Radio (2003 film)", "root['awards']": "Academy Award for Best Supporting Actor, ''Jerry Maguire'' (1996)", "root['spouse']": 'marriage', "root['children']": '3 '}}
+23: {'dictionary_item_added': {"root['known_for']": "Rod Tidwell in ''Jerry Maguire'', O.J. Simpson in ''American Crime Story'', Radio in ''Radio (2003 film)"}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Sara Kapfer (1994–2017)'}}}
+28: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer (1994–2017)', 'old_value': 'Sara Krapper (1994–2017)'}}}
+31: {'values_changed': {"root['spouse']": {'new_value': 'Sara Krapper (1994–2017)', 'old_value': 'Sara Kapfer (1994–2017)'}}}
+36: {'values_changed': {"root['education']": {'new_value': 'North Hollywood High School ,  Tustin High School ,  Apple Valley High School (California)', 'old_value': 'North Hollywood High School, Tustin High School, Apple Valley High School (California)'}}}
+45: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer (1994–2017)', 'old_value': 'Sara Kapfer (1994–)'}}}
+64: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer (1994–)', 'old_value': 'Sara Kapfer (1994–2017)'}}}
+65: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer (1994–2017)', 'old_value': 'Sara Kapfer'}}}
+66: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer', 'old_value': 'Sara Kapfer (1994–) small'}}}
+69: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer (1994–) small', 'old_value': 'Sara Kapfer (1994–present) small'}}}
+73: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.'}}
+74: {'values_changed': {"root['name']": {'new_value': 'Cuba Gooding Jr.', 'old_value': 'Cuba Gooding Jr.gay'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Cuba Gooding Jr.gay', 'old_value': 'Cuba Gooding Jr.'}}}
+95: {'values_changed': {"root['awards']": {'new_value': "Academy Award for Best Supporting Actor, ''Jerry Maguire'' (1996)", 'old_value': "Academy Award for Best Supporting Actor, '''1996''' ''Jerry Maguire''"}, "root['spouse']": {'new_value': 'Sara Kapfer (1994–present) small', 'old_value': 'marriage'}}}
+111: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Singer'}}}
+118: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Actor'}}}
+127: {'dictionary_item_added': {"root['residence']": 'Los Angeles, California, U.S.', "root['spouse']": 'marriage'}, 'values_changed': {"root['education']": {'new_value': 'North Hollywood High School, Tustin High School, Apple Valley High School (California)', 'old_value': 'Apple Valley High School (California)'}, "root['awards']": {'new_value': "Academy Award for Best Supporting Actor, '''1996''' ''Jerry Maguire''", 'old_value': 'Academy Award for Best Supporting Actor '}, "root['children']": {'new_value': '3 ', 'old_value': '3, including Mason Gooding'}}}
+150: {'dictionary_item_removed': {"root['spouse']": 'Sarah Kapfer'}}
+151: {'values_changed': {"root['spouse']": {'new_value': 'Sarah Kapfer', 'old_value': 'Sara Kapfer'}}}
+159: {'values_changed': {"root['spouse']": {'new_value': 'Sara Kapfer', 'old_value': 'marriage'}}}
+183: {'values_changed': {"root['children']": {'new_value': '3, including Mason Gooding', 'old_value': '3, including Mason Gooding Omar Gooding'}}}
+184: {'values_changed': {"root['children']": {'new_value': '3, including Mason Gooding Omar Gooding', 'old_value': '3, including Mason Gooding'}}}

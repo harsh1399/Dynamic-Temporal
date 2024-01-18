@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'John Ratzenberger', "root['occupation']": 'Actor, voice actor, entrepreneur', "root['education']": "St. Ann's School", "root['alma_mater']": 'Sacred Heart University', "root['party']": 'Republican party (United States)', "root['known_for']": 'Pixar', "root['spouse']": 'Georgia Stiny (1985-2004; divorced)', "root['children']": 'James John (b. 1987),, Nina Kathrine (b. 1989)'}}
+1: {'values_changed': {"root['name']": {'new_value': 'John Ratzenberger', 'old_value': 'John Ratzenburger'}}}
+2: {'values_changed': {"root['name']": {'new_value': 'John Ratzenburger', 'old_value': 'John Ratzenberger'}}}
+11: {'values_changed': {"root['spouse']": {'new_value': 'Georgia Stiny (1985-2004; divorced)', 'old_value': 'Georgia Stiny (1985–2004; divorced)'}}}
+112: {'values_changed': {"root['known_for']": {'new_value': 'Pixar', 'old_value': 'Cliff Clavin Various Pixar film roles'}, "root['spouse']": {'new_value': 'Georgia Stiny (1985–2004; divorced)', 'old_value': 'Georgia Stiny (1985–2004; divorced) Julie Blichfeldt (2012-present)'}, "root['children']": {'new_value': 'James John (b. 1987),, Nina Kathrine (b. 1989)', 'old_value': 'James John (b. 1987), Nina Kathrine (b. 1989)'}}}
+148: {'values_changed': {"root['known_for']": {'new_value': 'Cliff Clavin Various Pixar film roles', 'old_value': 'Cliff Clavin Various Pixar character voices'}}}
+149: {'values_changed': {"root['known_for']": {'new_value': 'Cliff Clavin Various Pixar character voices', 'old_value': 'Cliff Clavin Various Pixar film roles'}}}
+158: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, entrepreneur', 'old_value': 'Actor, Voice acting'}}}
+171: {'values_changed': {"root['spouse']": {'new_value': 'Georgia Stiny (1985–2004; divorced) Julie Blichfeldt (2012-present)', 'old_value': 'marriage'}, "root['children']": {'new_value': 'James John (b. 1987), Nina Kathrine (b. 1989)', 'old_value': '2'}}}
+183: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Voice acting', 'old_value': 'Actor, voice actor, entrepreneur'}}}
+184: {'values_changed': {"root['known_for']": {'new_value': 'Cliff Clavin Various Pixar film roles', 'old_value': "Cliff Clavin in ''Cheers'' Various Pixar film roles"}}}
+214: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, entrepreneur', 'old_value': 'Actor, Voice Actor, Entrepreneur and Comedian'}}}
+215: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Voice Actor, Entrepreneur and Comedian', 'old_value': 'Actor, voice actor, entrepreneur'}}}

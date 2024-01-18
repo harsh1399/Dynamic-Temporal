@@ -1,0 +1,46 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Patrick Stewart', "root['occupation']": 'Actor', "root['spouse']": 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)', "root['influences']": 'John Gielgud,<ref name'}}
+3: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}}}
+8: {'values_changed': {"root['name']": {'new_value': 'Sir Patrick Stewart', 'old_value': 'DooDooo'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'DooDooo', 'old_value': 'Sir Patrick Stewart'}}}
+221: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)', 'old_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)<br /Sunny Ozell (2013-present)'}}}
+222: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)<br /Sunny Ozell (2013-present)', 'old_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)Sunny Ozell (2013-present)'}}}
+223: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)Sunny Ozell (2013-present)', 'old_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)'}}}
+226: {'dictionary_item_removed': {"root['children']": '2'}, 'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1966–90) Wendy Neuss (2000–03)', 'old_value': 'Sheila Falconer (1996–1990)  Wendy Neuss (2000–2003)'}}}
+227: {'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1996–1990)  Wendy Neuss (2000–2003)', 'old_value': 'Sheila Falconer (1966–1990)  Wendy Neuss (2000–2003)'}}}
+228: {'dictionary_item_added': {"root['influences']": 'John Gielgud,<ref name'}, 'values_changed': {"root['spouse']": {'new_value': 'Sheila Falconer (1966–1990)  Wendy Neuss (2000–2003)', 'old_value': 'Plainlist'}}}
+240: {'values_changed': {"root['spouse']": {'new_value': 'Plainlist', 'old_value': 'ubl'}}}
+274: {'values_changed': {"root['name']": {'new_value': 'Sir Patrick Stewart', 'old_value': 'Patrick Stewart'}}}
+275: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Sir Patrick Stewart'}}}
+281: {'values_changed': {"root['name']": {'new_value': 'Sir Patrick Stewart', 'old_value': 'Patrick Stewart'}}}
+283: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Sir Patrick Stewart'}}}
+320: {'values_changed': {"root['name']": {'new_value': 'Sir Patrick Stewart', 'old_value': 'Patrick Stewart'}}}
+322: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Sir Patrick Stewart'}}}
+326: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, voice actor'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}}, 'dictionary_item_removed': {"root['party']": 'Labour Party (UK)', "root['alma_mater']": 'Bristol Old Vic Theatre School'}, 'values_changed': {"root['name']": {'new_value': 'Sir Patrick Stewart', 'old_value': 'Patrick Stewart'}}}
+417: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'logan pauls father'}}}
+418: {'values_changed': {"root['name']": {'new_value': 'logan pauls father', 'old_value': 'Patrick Stewart'}}}
+459: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Sheila Falconer Stewart (Wife), Wendy Neuss Stewart (Wife), Sunny Ozell Stewart (Wife)', 'new_value': []}}, 'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Sophie Alexandra Stewart (Daughter), Daniel Stewart (Son)'}}}
+460: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Sheila Falconer Stewart (Wife), Wendy Neuss Stewart (Wife), Sunny Ozell Stewart (Wife)'}}, 'values_changed': {"root['children']": {'new_value': 'Sophie Alexandra Stewart (Daughter), Daniel Stewart (Son)', 'old_value': '2'}}}
+477: {'dictionary_item_added': {"root['party']": 'Labour Party (UK)'}, 'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Patrick Stewart is getting hair implants'}}}
+478: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart is getting hair implants', 'old_value': 'Patrick Stewart'}}}
+479: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': "Patrick Stewart(nick named 'old baldy beef stew')"}}}
+480: {'values_changed': {"root['name']": {'new_value': "Patrick Stewart(nick named 'old baldy beef stew')", 'old_value': 'Patrick Stewart'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Patrick Stewart88'}}}
+498: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart88', 'old_value': 'Patrick Stewart'}}}
+513: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Patrick Stewart aka Luke Skywalker'}}}
+515: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart aka Luke Skywalker', 'old_value': 'Patrick Stewart'}}}
+527: {'dictionary_item_removed': {"root['residence']": 'Park Slope, Brooklyn, New York (state)'}}
+573: {'dictionary_item_added': {"root['residence']": 'Park Slope, Brooklyn, New York (state)'}, 'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'John'}}}
+574: {'values_changed': {"root['name']": {'new_value': 'John', 'old_value': 'Patrick Stewart'}}}
+575: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'John'}}}
+576: {'values_changed': {"root['name']": {'new_value': 'John', 'old_value': 'Patrick Stewart'}}}
+608: {'dictionary_item_removed': {"root['party']": 'Labour Party (UK)'}}
+643: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}}
+644: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}}}
+650: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor'}, "root['children']": {'new_value': '2', 'old_value': '2 '}}}
+651: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}, "root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+653: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor'}, "root['children']": {'new_value': '2', 'old_value': '2 '}}}
+656: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}}}
+657: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor'}}}
+687: {'values_changed': {"root['name']": {'new_value': 'Patrick Stewart', 'old_value': 'Patrick (Jean) Stewart'}}}
+688: {'values_changed': {"root['name']": {'new_value': 'Patrick (Jean) Stewart', 'old_value': 'Patrick Stewart'}}}
+689: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2'}}}

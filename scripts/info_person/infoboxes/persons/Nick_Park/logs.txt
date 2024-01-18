@@ -1,0 +1,24 @@
+39: {'dictionary_item_removed': {"root['name']": 'Nick Park', "root['occupation']": 'film director'}}
+97: {'dictionary_item_removed': {"root['birthname']": 'Nicholas Wulstan Park', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Preston, Lancashire, England', "root['genre']": 'Animation', "root['notableworks']": 'Wallace and Gromit '}}
+126: {'values_changed': {"root['birthplace']": {'new_value': 'Preston, Lancashire, England', 'old_value': 'Walmer Bridge, Lancashire, England'}}}
+148: {'values_changed': {"root['notableworks']": {'new_value': 'Wallace and Gromit ', 'old_value': 'Wallace and Gromit Shaun the Sheep Chicken Run '}}}
+150: {'values_changed': {"root['birthplace']": {'new_value': 'Walmer Bridge, Lancashire, England', 'old_value': 'Preston, Lancashire, England'}}}
+155: {'values_changed': {"root['birthplace']": {'new_value': 'Preston, Lancashire, England', 'old_value': 'Preston, Lancashire'}}}
+169: {'dictionary_item_added': {"root['birthname']": 'Nicholas Wulstan Park', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Preston, Lancashire'}, 'dictionary_item_removed': {"root['Years_active']": '1985-Present'}, 'values_changed': {"root['notableworks']": {'new_value': 'Wallace and Gromit Shaun the Sheep Chicken Run ', 'old_value': 'Wallace and Gromit, Creature Comforts, Shaun the Sheep, Chicken Run  '}}}
+172: {'values_changed': {"root['occupation']": {'new_value': 'film director', 'old_value': 'director, animator, writer'}, "root['Years_active']": {'new_value': '1985-Present', 'old_value': '1985 – present'}}}
+182: {'values_changed': {"root['notableworks']": {'new_value': 'Wallace and Gromit, Creature Comforts, Shaun the Sheep, Chicken Run  ', 'old_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run'' "}}}
+196: {'values_changed': {"root['occupation']": {'new_value': 'director, animator, writer', 'old_value': 'director, animator, writer, Oscar winner'}}}
+197: {'values_changed': {"root['occupation']": {'new_value': 'director, animator, writer, Oscar winner', 'old_value': 'director, animator, writer'}}}
+199: {'values_changed': {"root['name']": {'new_value': 'Nick Park', 'old_value': 'Nick Parck'}}}
+203: {'values_changed': {"root['Years_active']": {'new_value': '1985 – present', 'old_value': '1902 – present'}}}
+206: {'values_changed': {"root['name']": {'new_value': 'Nick Parck', 'old_value': 'Nick Park'}, "root['Years_active']": {'new_value': '1902 – present', 'old_value': '1985 – present'}}}
+208: {'dictionary_item_removed': {"root['influences']": 'Buster Keaton '}, 'values_changed': {"root['notableworks']": {'new_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run'' ", 'old_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run''"}}}
+209: {'dictionary_item_added': {"root['influences']": 'Buster Keaton '}, 'values_changed': {"root['notableworks']": {'new_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run''", 'old_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run'' "}}}
+214: {'values_changed': {"root['Years_active']": {'new_value': '1985 – present', 'old_value': '1100000 bc – present'}}}
+215: {'values_changed': {"root['Years_active']": {'new_value': '1100000 bc – present', 'old_value': '1985 – present'}}}
+225: {'values_changed': {"root['notableworks']": {'new_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run'' ", 'old_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run''"}}}
+234: {'values_changed': {"root['name']": {'new_value': 'Nick Park', 'old_value': 'Nick dark'}}}
+235: {'values_changed': {"root['name']": {'new_value': 'Nick dark', 'old_value': 'Nick Park'}}}
+254: {'dictionary_item_removed': {"root['awards']": 'Plainlist'}, 'values_changed': {"root['occupation']": {'new_value': 'director, animator, writer', 'old_value': 'Director, animator, writer'}, "root['notableworks']": {'new_value': "''Wallace and Gromit'', ''Creature Comforts'', ''Shaun the Sheep'', ''Chicken Run''", 'old_value': 'Plainlist'}}}
+301: {'dictionary_item_added': {"root['Years_active']": '1985 – present'}, 'values_changed': {"root['name']": {'new_value': 'Nick Park', 'old_value': 'Nick Park is a cnut'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'Nick Park is a cnut', 'old_value': 'Nick Park'}}}

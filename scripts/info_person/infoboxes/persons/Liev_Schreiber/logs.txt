@@ -1,0 +1,22 @@
+38: {'dictionary_item_removed': {"root['name']": 'Liev Schreiber', "root['education']": 'Master of Fine Arts', "root['alma_mater']": 'Hampshire College , Yale University,  Royal Academy of Dramatic Art', "root['occupation']": 'Actor, producer, director, screenwriter', "root['partner']": 'Naomi Watts (2005–present)', "root['children']": '2'}}
+40: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director, screenwriter', 'old_value': 'Actor, producer'}}}
+60: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Actor, director, producer'}}}
+61: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer', 'old_value': 'Actor, director, screenwriter producer'}}}
+126: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–present)', 'old_value': 'Naomi Watts (2005––16)'}}}
+127: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005––16)', 'old_value': 'Naomi Watts (2005-'}}}
+128: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005-', 'old_value': 'Naomi Watts (2005–16)'}}}
+129: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–16)', 'old_value': 'Naomi Watts (2005–2016)'}}}
+130: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–2016)', 'old_value': 'Naomi Watts (2005–16)'}}}
+135: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–16)', 'old_value': 'Naomi Watts (2005–2016)'}}}
+136: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–2016)', 'old_value': 'Naomi Watts (2005–16)'}}}
+157: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, screenwriter producer', 'old_value': 'Jewish-American Actor, director, screenwriter producer'}}}
+160: {'values_changed': {"root['occupation']": {'new_value': 'Jewish-American Actor, director, screenwriter producer', 'old_value': 'Actor, director, screenwriter producer'}}}
+161: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, screenwriter producer', 'old_value': 'Jewish-American Actor, director, screenwriter producer'}}}
+162: {'values_changed': {"root['occupation']": {'new_value': 'Jewish-American Actor, director, screenwriter producer', 'old_value': 'Actor, director, screenwriter producer'}}}
+171: {'dictionary_item_added': {"root['education']": 'Master of Fine Arts', "root['alma_mater']": 'Hampshire College , Yale University,  Royal Academy of Dramatic Art', "root['partner']": 'Naomi Watts (2005–16)'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, director, screenwriter producer', 'old_value': 'Actor, director, screenwriter, producer'}}}
+180: {'dictionary_item_removed': {"root['partner']": 'Naomi Watts (2005–16)'}}
+226: {'dictionary_item_removed': {"root['imagesize']": '275'}}
+243: {'dictionary_item_added': {"root['imagesize']": '275'}, 'dictionary_item_removed': {"root['education']": 'Hampshire College (BA), Yale University (MFA) '}}
+244: {'values_changed': {"root['name']": {'new_value': 'Liev Schreiber', 'old_value': 'Liev “Lil Pump” Schreiber'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Liev “Lil Pump” Schreiber', 'old_value': 'Liev Schreiber'}}}
+253: {'values_changed': {"root['partner']": {'new_value': 'Naomi Watts (2005–16)', 'old_value': 'Naomi Watts (2005–2016)'}}}

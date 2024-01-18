@@ -1,0 +1,39 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Roger Moore', "root['occupation']": 'Actor', "root['spouse']": 'marriage', "root['children']": '3'}}
+7: {'dictionary_item_removed': {"root['allegiance']": 'United Kingdom', "root['branch']": 'army', "root['serviceyears']": '1939–1946', "root['unit']": 'Royal Artillery', "root['rank']": 'Lance bombardier', "root['battles']": 'World War II'}}
+8: {'values_changed': {"root['serviceyears']": {'new_value': '1939–1946', 'old_value': '1939–1945'}}}
+27: {'dictionary_item_added': {"root['allegiance']": 'United Kingdom', "root['branch']": 'army', "root['serviceyears']": '1939–1945', "root['unit']": 'Royal Artillery', "root['rank']": 'Lance bombardier', "root['battles']": 'World War II'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'Lydia Grass'}}}
+28: {'values_changed': {"root['children']": {'new_value': 'Lydia Grass', 'old_value': '3'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Sir Roger George Moore'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Sir Roger George Moore', 'old_value': 'Sir Roger Moore'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Sir Jordan Lewis'}}}
+77: {'values_changed': {"root['name']": {'new_value': 'Sir Jordan Lewis', 'old_value': 'Sir Roger Moore'}}}
+90: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Wicked Skeng Moore'}}}
+91: {'values_changed': {"root['name']": {'new_value': 'Wicked Skeng Moore', 'old_value': 'Sir Roger Moore'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Wicked Skeng Moore'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Wicked Skeng Moore', 'old_value': 'Sir Roger Moore'}}}
+282: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Mediocre Actor, Racist'}}}
+283: {'values_changed': {"root['occupation']": {'new_value': 'Mediocre Actor, Racist', 'old_value': 'Actor'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'Roger Moore', 'old_value': 'Sir Roger Moore'}}}
+388: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '3 (2 sons, 1 daughter)'}}}
+409: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Sir Roger George Moore'}}}
+411: {'values_changed': {"root['name']": {'new_value': 'Sir Roger George Moore', 'old_value': 'Sir Roger Moore'}}}
+504: {'dictionary_item_removed': {"root['last']": 'Moore', "root['year']": '2014', "root['publisher']": "Michael O'Mara Books Limited", "root['location']": 'London', "root['isbn']": "978-1-78243-207-4    Other actors in the show included Clive Morton and Betty Ann Davies.  He had a small role in TV in ''A House in the Square'' (1949) then had uncredited parts in films like ''Paper Orchid'' (1949), ''Trottie True'' (1949) and ''The Interrupted Journey'' (1949). He was in ''Drawing-Room Detective'' on TV and appeared the films ''One Wild Oat'' (1951) and ''Honeymoon Deferred'' (1951).", "root['rowspan']": '"2"| 1955 || \'\'Interrupted Melody\'\' || Cyril Lawrence || |- | \'\'The King\'s Thief\'\' <ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Flat list'}}}
+505: {'dictionary_item_added': {"root['last']": 'Moore', "root['year']": '2014', "root['publisher']": "Michael O'Mara Books Limited", "root['location']": 'London', "root['isbn']": "978-1-78243-207-4    Other actors in the show included Clive Morton and Betty Ann Davies.  He had a small role in TV in ''A House in the Square'' (1949) then had uncredited parts in films like ''Paper Orchid'' (1949), ''Trottie True'' (1949) and ''The Interrupted Journey'' (1949). He was in ''Drawing-Room Detective'' on TV and appeared the films ''One Wild Oat'' (1951) and ''Honeymoon Deferred'' (1951).", "root['rowspan']": '"2"| 1955 || \'\'Interrupted Melody\'\' || Cyril Lawrence || |- | \'\'The King\'s Thief\'\' <ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Flat list', 'old_value': 'Actor'}}}
+506: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Flat list'}}}
+507: {'values_changed': {"root['children']": {'new_value': '3 (2 sons, 1 daughter)', 'old_value': 'Deborah Moore'}}}
+508: {'values_changed': {"root['occupation']": {'new_value': 'Flat list', 'old_value': 'Actor'}, "root['children']": {'new_value': 'Deborah Moore', 'old_value': '3 (2 sons, 1 daughter)'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}
+525: {'values_changed': {"root['name']": {'new_value': 'Roger Moore', 'old_value': 'Sir Roger Moore'}}}
+528: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}
+537: {'values_changed': {"root['name']": {'new_value': 'Roger Moore', 'old_value': 'Sir Roger Moore'}}}
+545: {'values_changed': {"root['children']": {'new_value': '3 (2 sons, 1 daughter)', 'old_value': '3'}}}
+549: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}
+557: {'values_changed': {"root['name']": {'new_value': 'Roger Moore', 'old_value': 'Sir Roger Moore'}}}
+564: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Sir Roger Moo'}}}
+565: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moo', 'old_value': 'Sir Roger Moore'}}}
+593: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}
+604: {'dictionary_item_removed': {"root['allegiance']": 'Flag', "root['branch']": 'Royal Air Force', "root['serviceyears']": '1940–1945', "root['unit']": 'Film Unit', "root['rank']": 'Flight Lieutenant', "root['battles']": 'Second World War '}}
+605: {'values_changed': {"root['serviceyears']": {'new_value': '1940–1945', 'old_value': '1940–1946'}, "root['rank']": {'new_value': 'Flight Lieutenant', 'old_value': 'Captain (British Army and Royal Marines)'}}}
+610: {'dictionary_item_added': {"root['serviceyears']": '1940–1946', "root['battles']": 'Second World War '}, 'dictionary_item_removed': {"root['servicenumber']": '372394'}, 'values_changed': {"root['name']": {'new_value': 'Roger Moore', 'old_value': 'Sir Roger Moore'}, "root['allegiance']": {'new_value': 'Flag', 'old_value': 'flag'}, "root['branch']": {'new_value': 'Royal Air Force', 'old_value': 'army'}, "root['unit']": {'new_value': 'Film Unit', 'old_value': 'Royal Army Service Corps   '}}}
+627: {'values_changed': {"root['name']": {'new_value': 'Sir Roger Moore', 'old_value': 'Roger Moore'}}}

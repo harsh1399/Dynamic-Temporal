@@ -1,0 +1,135 @@
+301: {'dictionary_item_removed': {"root['subject_name']": 'Jonathan Ross', "root['image_name']": 'Jonathan ross.jpg', "root['date_of_birth']": 'birth date and age', "root['place_of_birth']": 'flagicon', "root['occupation']": 'Television presenter, radio presenter, film critic', "root['spouse']": 'Jane Goldman (1988 - present)'}}
+339: {'dictionary_item_added': {"root['image_name']": 'Jonathan ross.jpg'}, 'dictionary_item_removed': {"root['date_of_death']": '22nd January 2007', "root['place_of_death']": 'Brazil'}}
+381: {'dictionary_item_added': {"root['date_of_death']": '22nd January 2007', "root['place_of_death']": 'Brazil'}, 'values_changed': {"root['spouse']": {'new_value': 'Jane Goldman (1988 - present)', 'old_value': 'The Ross Wife (1988 - present)'}}}
+382: {'values_changed': {"root['spouse']": {'new_value': 'The Ross Wife (1988 - present)', 'old_value': 'Jane Goldman (1988 - present)'}}}
+416: {'dictionary_item_removed': {"root['date_of_death']": 'death date and age'}}
+417: {'values_changed': {"root['date_of_death']": {'new_value': 'death date and age', 'old_value': 'death date'}}}
+439: {'dictionary_item_added': {"root['date_of_death']": 'death date'}, 'dictionary_item_removed': {"root['Image']": 'http://www.entertainmentwise.com/artists/00009683_jonathan-ross.jpg'}}
+468: {'dictionary_item_added': {"root['Image']": 'http://www.entertainmentwise.com/artists/00009683_jonathan-ross.jpg'}, 'dictionary_item_removed': {"root['children']": 'Franklin Richards, Tony Stark, Thor '}, 'values_changed': {"root['occupation']": {'new_value': 'Television presenter, radio presenter, film critic', 'old_value': 'Geek, Amateur Superhero, film freak, Son of Stan Lee'}, "root['spouse']": {'new_value': 'Jane Goldman (1988 - present)', 'old_value': 'Mary Jane Watson (1988 - present)'}}}
+469: {'dictionary_item_added': {"root['children']": 'Franklin Richards, Tony Stark, Thor '}, 'values_changed': {"root['occupation']": {'new_value': 'Geek, Amateur Superhero, film freak, Son of Stan Lee', 'old_value': 'Television presenter, radio presenter, film critic'}, "root['spouse']": {'new_value': 'Mary Jane Watson (1988 - present)', 'old_value': 'Jane Goldman (1988 - present)'}}}
+492: {'values_changed': {"root['subject_name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+493: {'values_changed': {"root['subject_name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+505: {'dictionary_item_removed': {"root['image_name']": 'Ross dress.JPG', "root['image_caption']": 'Johnathan on Film 2006'}}
+517: {'dictionary_item_added': {"root['subject_name']": 'Jonathan Ross', "root['image_name']": 'Ross dress.JPG', "root['image_caption']": 'Johnathan on Film 2006', "root['date_of_birth']": 'birth date and age', "root['place_of_birth']": 'flagicon'}, 'dictionary_item_removed': {"root['name']": 'Jonathan Ross'}}
+565: {'dictionary_item_removed': {"root['biwth_date']": 'biwth date and age', "root['biwth_place']": 'flagicon'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan woss'}, "root['occupation']": {'new_value': 'Television presenter, radio presenter, film critic', 'old_value': 'Television pwesentew, wadio pwesentew, film cwitic'}, "root['spouse']": {'new_value': 'Jane Goldman (1988 - present)', 'old_value': 'Jane Goldman (1988 - pwesent)'}}}
+566: {'dictionary_item_added': {"root['biwth_date']": 'biwth date and age', "root['biwth_place']": 'flagicon'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan woss', 'old_value': 'Jonathan Ross'}, "root['occupation']": {'new_value': 'Television pwesentew, wadio pwesentew, film cwitic', 'old_value': 'Television presenter, radio presenter, film critic'}, "root['spouse']": {'new_value': 'Jane Goldman (1988 - pwesent)', 'old_value': 'Jane Goldman (1988 - present)'}}}
+581: {'values_changed': {"root['occupation']": {'new_value': 'Television presenter, radio presenter, film critic', 'old_value': 'Presenter'}}}
+582: {'values_changed': {"root['spouse']": {'new_value': 'Jane Goldman (1988 - present)', 'old_value': 'Jane Goldman (1988 - present) '}}}
+643: {'dictionary_item_removed': {"root['birthname']": 'Jonathan Stephen Ross', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Camden Town', "root['yearsactive']": '1980-', "root['baftaawards']": 'awd', "root['award']": 'British Academy Television Awards', "root['year']": '2004', "root['year2']": '2006', "root['title2']": 'Friday Night with Jonathan Ross', "root['year3']": '2007', "root['title3']": 'Friday Night with Jonathan Ross', "root['awards']": 'awd'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Ross  | image'}, "root['spouse']": {'new_value': 'Jane Goldman (1988 - present) ', 'old_value': 'Jane Goldman (1988-present)'}}}
+650: {'values_changed': {"root['yearsactive']": {'new_value': '1980-', 'old_value': '1990-'}, "root['year2']": {'new_value': '2006', 'old_value': '2007'}, "root['year3']": {'new_value': '2007', 'old_value': '2008'}}}
+651: {'values_changed': {"root['yearsactive']": {'new_value': '1990-', 'old_value': '1980-'}, "root['year2']": {'new_value': '2007', 'old_value': '2006'}, "root['year3']": {'new_value': '2008', 'old_value': '2007'}}}
+724: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross  | image', 'old_value': 'Jonathan Woss  | image'}}}
+726: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss  | image', 'old_value': 'Jonathan Ross  | image'}}}
+756: {'values_changed': {"root['yearsactive']": {'new_value': '1980-', 'old_value': '1980-1980'}}}
+757: {'values_changed': {"root['yearsactive']": {'new_value': '1980-1980', 'old_value': '1980-'}}}
+774: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross  | image', 'old_value': "Jonathan 'cuntface' Ross  | image"}}}
+775: {'values_changed': {"root['name']": {'new_value': "Jonathan 'cuntface' Ross  | image", 'old_value': 'Jonathan Ross  | image'}}}
+808: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross  | image', 'old_value': 'Jonathan Woss  | image'}, "root['title2']": {'new_value': 'Friday Night with Jonathan Ross', 'old_value': 'Friday Night with Jonathan Woss'}, "root['title3']": {'new_value': 'Friday Night with Jonathan Ross', 'old_value': 'Friday Night with Jonathan Woss'}}}
+809: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss  | image', 'old_value': 'Jonathan Ross  | image'}, "root['title2']": {'new_value': 'Friday Night with Jonathan Woss', 'old_value': 'Friday Night with Jonathan Ross'}, "root['title3']": {'new_value': 'Friday Night with Jonathan Woss', 'old_value': 'Friday Night with Jonathan Ross'}}}
+815: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross  | image', 'old_value': 'Jonathan Woss  | image'}, "root['birthname']": {'new_value': 'Jonathan Stephen Ross', 'old_value': 'Jonathan Stephen Woss'}}}
+816: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss  | image', 'old_value': 'Jonathan Ross  | image'}, "root['birthname']": {'new_value': 'Jonathan Stephen Woss', 'old_value': 'Jonathan Stephen Ross'}}}
+829: {'values_changed': {"root['yearsactive']": {'new_value': '1980-', 'old_value': '1980–present'}, "root['spouse']": {'new_value': 'Jane Goldman (1988-present)', 'old_value': 'Jane Goldman (1988–present)'}}}
+882: {'dictionary_item_added': {"root['baftaawards']": 'awd', "root['award']": 'British Academy Television Awards', "root['year']": '2004', "root['year2']": '2006', "root['title2']": 'Friday Night with Jonathan Ross', "root['year3']": '2007', "root['title3']": 'Friday Night with Jonathan Ross', "root['awards']": 'awd'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross  | image', 'old_value': 'Jonathan Ross'}, "root['spouse']": {'new_value': 'Jane Goldman (1988–present)', 'old_value': 'Jane Goldman (1988–present) '}}}
+904: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+906: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+951: {'type_changes': {"root['name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', '', '', "d your grand-daughter' Ross"], 'new_value': 'Jonathan Ross'}}}
+952: {'type_changes': {"root['name']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Jonathan Ross', 'new_value': ['', '', '', "d your grand-daughter' Ross"]}}}
+966: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Donavan Ross'}}}
+967: {'values_changed': {"root['name']": {'new_value': 'Donavan Ross', 'old_value': 'Jonathan Ross'}}}
+975: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Floss'}}}
+977: {'values_changed': {"root['name']": {'new_value': 'Jonathan Floss', 'old_value': 'Jonathan Ross'}}}
+980: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+981: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1016: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'Birth date and age'}, "root['spouse']": {'new_value': 'Jane Goldman (1988–present) ', 'old_value': 'Jane Goldman '}}}
+1046: {'dictionary_item_added': {"root['birthname']": 'Jonathan Stephen Ross', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Camden Town', "root['yearsactive']": '1980–present'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1047: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1048: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1049: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1059: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1060: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1077: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1078: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1079: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1080: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1118: {'dictionary_item_removed': {"root['imagesize']": '175000678mpx'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1119: {'dictionary_item_added': {"root['imagesize']": '175000678mpx'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1161: {'values_changed': {"root['spouse']": {'new_value': 'Jane Goldman ', 'old_value': 'marriage'}}}
+1167: {'dictionary_item_removed': {"root['imagesize']": 'louis s-g'}}
+1202: {'dictionary_item_added': {"root['imagesize']": 'louis s-g'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1208: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1212: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1213: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1231: {'dictionary_item_removed': {"root['children']": '2 daughters, 1 son'}}
+1242: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}, "root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '2 daughters, 1 son, Lady Gaga, 3 punnets of strawberrys'}}}
+1243: {'dictionary_item_removed': {"root['Death_date']": '2011/9/20'}}
+1246: {'dictionary_item_added': {"root['Death_date']": '2011/9/20'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}, "root['children']": {'new_value': '2 daughters, 1 son, Lady Gaga, 3 punnets of strawberrys', 'old_value': '2 daughters, 1 son'}}}
+1249: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1250: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1291: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Dean John Horton (1971–82) (divorced)marriage'}}}
+1292: {'values_changed': {"root['spouse']": {'new_value': 'Dean John Horton (1971–82) (divorced)marriage', 'old_value': 'marriage'}}}
+1302: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1303: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1365: {'values_changed': {"root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '2 daughters, 1 son, 5 homophrobytes'}}}
+1366: {'values_changed': {"root['children']": {'new_value': '2 daughters, 1 son, 5 homophrobytes', 'old_value': '2 daughters, 1 son'}}}
+1386: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}}}
+1387: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}}}
+1388: {'values_changed': {"root['occupation']": {'new_value': 'Presenter', 'old_value': 'Broadcaster, film critic, Talk show host, Comedian'}}}
+1405: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Alexia Boss'}, "root['occupation']": {'new_value': 'Broadcaster, film critic, Talk show host, Comedian', 'old_value': 'Broadcaster, film critic, Talk show host, Comedian, Epic Dinosaur Ranger'}, "root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '2 daughters, 3 sons'}}}
+1406: {'values_changed': {"root['name']": {'new_value': 'Jonathan Alexia Boss', 'old_value': 'Jonathan Ross'}, "root['occupation']": {'new_value': 'Broadcaster, film critic, Talk show host, Comedian, Epic Dinosaur Ranger', 'old_value': 'Broadcaster, film critic, Talk show host, Comedian'}, "root['children']": {'new_value': '2 daughters, 3 sons', 'old_value': '2 daughters, 1 son'}}}
+1407: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'bob ross'}}}
+1408: {'values_changed': {"root['name']": {'new_value': 'bob ross', 'old_value': 'Jonathan Ross'}}}
+1409: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'gay bpy emanual'}}}
+1410: {'values_changed': {"root['name']": {'new_value': 'gay bpy emanual', 'old_value': 'Jonathan Ross'}}}
+1411: {'values_changed': {"root['occupation']": {'new_value': 'Broadcaster, film critic, Talk show host, Comedian', 'old_value': 'Wizard'}}}
+1412: {'values_changed': {"root['occupation']": {'new_value': 'Wizard', 'old_value': 'Broadcaster, film critic, Talk show host, Comedian'}}}
+1413: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'josh lewis'}}}
+1414: {'values_changed': {"root['name']": {'new_value': 'josh lewis', 'old_value': 'Jonathan Ross'}}}
+1415: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'hary poter'}}}
+1417: {'values_changed': {"root['name']": {'new_value': 'hary poter', 'old_value': 'Jonathan Ross'}}}
+1421: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'pedo kennedy'}}}
+1422: {'values_changed': {"root['name']": {'new_value': 'pedo kennedy', 'old_value': 'Jonathan Ross'}}}
+1423: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'pedo kenedy'}}}
+1424: {'values_changed': {"root['name']": {'new_value': 'pedo kenedy', 'old_value': 'Jonathan Ross'}}}
+1461: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Ross ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░  ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░  ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░  ░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░  ░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░  █░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█  █░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█  ░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░  ░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░  ░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░  ░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░  ░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░  ░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░  ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░  ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░'}}}
+1462: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross ░░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄░░░░░░░  ░░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄░░░░  ░░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█░░░  ░░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░░█░░  ░▄▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░░█░  █░▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒░█  █░▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█  ░█░▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█░  ░░█░░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█░░  ░░░█░░░░██░░▀█▄▄▄█▄▄█▄████░█░░░  ░░░░█░░░░▀▀▄░█░░░█░█▀██████░█░░  ░░░░░▀▄░░░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█░░  ░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░▒░░░█░  ░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░░░░█░  ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░░░░█░░', 'old_value': 'Jonathan Ross'}}}
+1464: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Ross File:Chav.svg'}}}
+1465: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross File:Chav.svg', 'old_value': 'Jonathan Ross'}}}
+1487: {'values_changed': {"root['occupation']": {'new_value': 'Broadcaster, film critic, Talk show host, Comedian', 'old_value': 'Broadcaster, film critic, Talk show host, Comedian, comic-book writer'}}}
+1488: {'values_changed': {"root['occupation']": {'new_value': 'Broadcaster, film critic, Talk show host, Comedian, comic-book writer', 'old_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer'}}}
+1511: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Ross, Order of the British Empire'}}}
+1531: {'values_changed': {"root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '15 daughters, 72 son'}}}
+1532: {'values_changed': {"root['children']": {'new_value': '15 daughters, 72 son', 'old_value': '2 daughters, 1 son'}}}
+1533: {'values_changed': {"root['occupation']": {'new_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer', 'old_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer, world renowned prank caller'}}}
+1534: {'values_changed': {"root['occupation']": {'new_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer, world renowned prank caller', 'old_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer'}}}
+1539: {'dictionary_item_removed': {"root['alma_mater']": 'School of Slavonic and East European Studies'}}
+1542: {'values_changed': {"root['alma_mater']": {'new_value': 'School of Slavonic and East European Studies', 'old_value': 'Southampton Solent University'}}}
+1546: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross, Order of the British Empire', 'old_value': 'Jonathan Woss, Order of the British Empire'}, "root['occupation']": {'new_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer', 'old_value': 'Bwoadcaster, film cwitic, talk show host, comedian, comic-book whiter'}}}
+1547: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss, Order of the British Empire', 'old_value': 'Jonathan Ross, Order of the British Empire'}, "root['occupation']": {'new_value': 'Bwoadcaster, film cwitic, talk show host, comedian, comic-book whiter', 'old_value': 'Broadcaster, film critic, talk show host, comedian, comic-book writer'}}}
+1552: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['scousers']": 'marriage'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross, Order of the British Empire', 'old_value': 'Jonathan Woss, Order of the British Empire'}}}
+1553: {'dictionary_item_added': {"root['scousers']": 'marriage'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Woss, Order of the British Empire', 'old_value': 'Jonathan Ross, Order of the British Empire'}}}
+1556: {'values_changed': {"root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '32 daughters, -1 son'}}}
+1557: {'values_changed': {"root['children']": {'new_value': '32 daughters, -1 son', 'old_value': '2 daughters, 1 son'}}}
+1559: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross, Order of the British Empire', 'old_value': 'Jonathan Woss, Order of the British Empire'}}}
+1560: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss, Order of the British Empire', 'old_value': 'Jonathan Ross, Order of the British Empire'}}}
+1622: {'dictionary_item_removed': {"root['notable_work']": "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film'', and ''The Jonathan Ross Show'' "}, 'values_changed': {"root['name']": {'new_value': 'Jonathan Ross, Order of the British Empire', 'old_value': 'Jonathan Ross,  Order of the British Empire'}}}
+1653: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross,  Order of the British Empire', 'old_value': 'Jonathan Woss,  Order of the British Empire'}, "root['notable_work']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film'', and ''The Jonathan Ross Show'' ", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film'', and ''The Jonathan Woss Show'' "}}}
+1655: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss,  Order of the British Empire', 'old_value': 'Jonathan Ross,  Order of the British Empire'}, "root['notable_work']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film'', and ''The Jonathan Woss Show'' ", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film'', and ''The Jonathan Ross Show'' "}}}
+1685: {'dictionary_item_removed': {"root['employer']": 'BBC (1999–2010), ITV (TV network)'}}
+1686: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross,  Order of the British Empire', 'old_value': 'Jonathan Woss,  Order of the British Empire'}}}
+1687: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss,  Order of the British Empire', 'old_value': 'Jonathan Ross,  Order of the British Empire'}}}
+1690: {'values_changed': {"root['employer']": {'new_value': 'BBC (1999–2010), ITV (TV network)', 'old_value': 'BBC (1997–2010), ITV (TV network)'}}}
+1692: {'values_changed': {"root['employer']": {'new_value': 'BBC (1997–2010), ITV (TV network)', 'old_value': 'BBC (1999–2010), ITV (TV network)'}}}
+1693: {'values_changed': {"root['employer']": {'new_value': 'BBC (1999–2010), ITV (TV network)', 'old_value': 'BBC (1997–2010), ITV (TV network)'}}}
+1694: {'values_changed': {"root['employer']": {'new_value': 'BBC (1997–2010), ITV (TV network)', 'old_value': 'BBC (1999–2010), ITV (TV network)'}}}
+1695: {'values_changed': {"root['employer']": {'new_value': 'BBC (1999–2010), ITV (TV network)', 'old_value': 'BBC (1997–2010), ITV (TV network)'}}}
+1775: {'dictionary_item_added': {"root['notable_work']": "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film'', and ''The Jonathan Ross Show'' "}, 'dictionary_item_removed': {"root['notable_works']": "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)"}, 'values_changed': {"root['children']": {'new_value': '2 daughters, 1 son', 'old_value': '3'}}}
+1776: {'values_changed': {"root['employer']": {'new_value': 'BBC (1997–2010), ITV (TV network)', 'old_value': 'BBC (1997–2010, 2014-present), ITV (TV network)'}}}
+1836: {'values_changed': {"root['employer']": {'new_value': 'BBC (1997–2010, 2014-present), ITV (TV network)', 'old_value': 'BBC (1997–2010, 2014-2018), ITV (TV network)'}}}
+1837: {'values_changed': {"root['employer']": {'new_value': 'BBC (1997–2010, 2014-2018), ITV (TV network)', 'old_value': 'BBC (1997–2010, 2014-present), ITV (TV network)'}}}
+1851: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross,  Order of the British Empire', 'old_value': 'Jonathan Woss,  Order of the British Empire'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)"}}}
+1852: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss,  Order of the British Empire', 'old_value': 'Jonathan Ross,  Order of the British Empire'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)"}}}
+1855: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross,  Order of the British Empire', 'old_value': 'Jonathan Woss,  Order of the British Empire'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)"}}}
+1856: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss,  Order of the British Empire', 'old_value': 'Jonathan Ross,  Order of the British Empire'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)"}}}
+1858: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross,  Order of the British Empire', 'old_value': 'Jonathan Ross'}}}
+1893: {'values_changed': {"root['name']": {'new_value': 'Jonathan Ross', 'old_value': 'Jonathan Woss'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)"}}}
+1894: {'values_changed': {"root['name']": {'new_value': 'Jonathan Woss', 'old_value': 'Jonathan Ross'}, "root['notable_works']": {'new_value': "''The Last Resort'', ''Friday Night with Jonathan Woss'', ''Film... (TV programme)", 'old_value': "''The Last Resort'', ''Friday Night with Jonathan Ross'', ''Film... (TV programme)"}}}

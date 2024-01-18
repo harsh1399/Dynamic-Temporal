@@ -1,0 +1,26 @@
+303: {'dictionary_item_removed': {"root['school_tradition']": 'Scholasticism| main_interests'}}
+314: {'dictionary_item_removed': {"root['region']": 'Western philosophy', "root['name']": 'William of Ockham', "root['religion']": 'Roman Catholicism', "root['main_interests']": 'Metaphysics, epistemology, theology, logic, ontology, politics', "root['influences']": 'Aristotle, Thomas Aquinas', "root['influenced']": 'Science in the Middle Ages', "root['notable_ideas']": "Occam's razor, nominalism "}, 'values_changed': {"root['school_tradition']": {'new_value': 'Scholasticism| main_interests', 'old_value': 'Scholasticism, Medieval theological voluntarism'}}}
+341: {'dictionary_item_added': {"root['religion']": 'Roman Catholicism'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of Oxford'}}
+347: {'values_changed': {"root['influences']": {'new_value': 'Aristotle, Thomas Aquinas', 'old_value': 'Aristotle, Anselm of Canterbury, citation'}}}
+355: {'dictionary_item_added': {"root['alma_mater']": 'University of Oxford'}, 'dictionary_item_removed': {"root['education']": 'Greyfriars, London  , University of Oxford'}}
+356: {'dictionary_item_removed': {"root['alma_mater']": 'University of Oxford'}, 'values_changed': {"root['education']": {'new_value': 'Greyfriars, London  , University of Oxford', 'old_value': 'Greyfriars, London'}}}
+362: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Oxford', 'old_value': 'University of Oxford<ref name'}}}
+376: {'values_changed': {"root['main_interests']": {'new_value': 'Metaphysics, epistemology, theology, logic, ontology, politics', 'old_value': 'Metaphysics, epistemology, theology, logic, ontology, politics, Eastern Mysticism,'}}}
+378: {'values_changed': {"root['main_interests']": {'new_value': 'Metaphysics, epistemology, theology, logic, ontology, politics, Eastern Mysticism,', 'old_value': 'Metaphysics, epistemology, theology, logic, ontology, politics, Eastern mysticism,'}}}
+388: {'values_changed': {"root['influenced']": {'new_value': 'Science in the Middle Ages', 'old_value': 'Jean Buridan,   Adam de Wodeham, Sum of Logic'}}}
+390: {'values_changed': {"root['influenced']": {'new_value': 'Jean Buridan,   Adam de Wodeham, Sum of Logic', 'old_value': 'Albert of Saxony (philosopher)'}}}
+391: {'values_changed': {"root['main_interests']": {'new_value': 'Metaphysics, epistemology, theology, logic, ontology, politics, Eastern mysticism,', 'old_value': 'Metaphysics, epistemology, theology, logic, ontology, politics.'}}}
+398: {'values_changed': {"root['school_tradition']": {'new_value': 'Scholasticism, Medieval theological voluntarism', 'old_value': 'Scholasticism, Occamism, Medieval theological voluntarism'}}}
+399: {'values_changed': {"root['school_tradition']": {'new_value': 'Scholasticism, Occamism, Medieval theological voluntarism', 'old_value': 'Scholasticism, Medieval theological voluntarism'}}}
+403: {'dictionary_item_removed': {"root['notable_works']": "''Summa Logicae''"}}
+406: {'values_changed': {"root['school_tradition']": {'new_value': 'Scholasticism, Medieval theological voluntarism', 'old_value': 'Occamism, Scholasticism, Medieval theological voluntarism'}}}
+412: {'values_changed': {"root['region']": {'new_value': 'Western philosophy', 'old_value': 'Western philosophy, British philosophy'}}}
+416: {'values_changed': {"root['region']": {'new_value': 'Western philosophy, British philosophy', 'old_value': 'Western philosophy'}}}
+418: {'values_changed': {"root['main_interests']": {'new_value': 'Metaphysics, epistemology, theology, logic, ontology, politics.', 'old_value': 'Natural philosophy, metaphysics, epistemology, theology, logic, ontology, politics.'}}}
+420: {'type_changes': {"root['main_interests']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Natural philosophy, metaphysics, epistemology, theology, logic, ontology, politics.'}}, 'values_changed': {"root['school_tradition']": {'new_value': 'Occamism, Scholasticism, Medieval theological voluntarism', 'old_value': 'Occamism, Scholasticism, Medieval nominalism'}}}
+423: {'values_changed': {"root['school_tradition']": {'new_value': 'Occamism, Scholasticism, Medieval nominalism', 'old_value': 'Scholasticism, Occamism, Medieval nominalism'}}}
+424: {'values_changed': {"root['notable_ideas']": {'new_value': "Occam's razor, nominalism ", 'old_value': "Occam's razor, Nominalism, Empiricism |"}}}
+455: {'values_changed': {"root['school_tradition']": {'new_value': 'Scholasticism, Occamism, Medieval nominalism', 'old_value': 'ubl'}, "root['notable_ideas']": {'new_value': "Occam's razor, Nominalism, Empiricism |", 'old_value': 'Nominalism|Empiricism'}}}
+464: {'values_changed': {"root['notable_ideas']": {'new_value': 'Nominalism|Empiricism', 'old_value': 'ubl'}}}
+466: {'values_changed': {"root['influences']": {'new_value': 'Aristotle, Anselm of Canterbury, citation', 'old_value': 'Aristotle, Boethius, Anselm of Canterbury, citation'}}}
+484: {'values_changed': {"root['notable_ideas']": {'new_value': 'ubl', 'old_value': 'Nominalism|Empiricism'}}}

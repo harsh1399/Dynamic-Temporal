@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['background']": 'solo_singer', "root['origin']": 'Greenville, Florida, United States', "root['instrument']": 'Singing', "root['genre']": 'Rhythm and blues, Soul music', "root['occupation']": 'Composer, musician, arrangement', "root['label']": 'Atlantic Records', "root['associated_acts']": 'Raelettes'}}
+105: {'values_changed': {"root['occupation']": {'new_value': 'Composer, musician, arrangement', 'old_value': 'Bounty Hunter, Shot 8 men and 12 children in the throat, arrangement'}}}
+106: {'values_changed': {"root['occupation']": {'new_value': 'Bounty Hunter, Shot 8 men and 12 children in the throat, arrangement', 'old_value': 'arrangement'}}}
+107: {'values_changed': {"root['occupation']": {'new_value': 'arrangement', 'old_value': 'Composer, musician, arrangement'}}}
+178: {'values_changed': {"root['genre']": {'new_value': 'Rhythm and blues, Soul music', 'old_value': 'Rhythm and blues, piano blues, Soul music'}}}
+226: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, United States', 'old_value': 'Greenville, Florida, U.S.'}}}
+227: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, U.S.', 'old_value': 'Greenville, Florida'}}}
+228: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida', 'old_value': 'Greenville, Florida, U.S.'}}}
+253: {'values_changed': {"root['occupation']": {'new_value': 'Composer, musician, arrangement', 'old_value': 'Musician, singer-songwriter, composer, arranger'}}}
+270: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, U.S.', 'old_value': 'Greenville, Florida, United States'}}}
+277: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, United States', 'old_value': 'Greenville, Florida, US'}, "root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, piano, keyboards, alto saxophone, trombone'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, composer, arranger', 'old_value': 'Musician, singer-songwriter, composer, Arrangement'}}}
+278: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, US', 'old_value': 'Greenville, Florida, United States'}, "root['instrument']": {'new_value': 'Vocals, piano, keyboards, alto saxophone, trombone', 'old_value': 'Singing'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, composer, Arrangement', 'old_value': 'Musician, singer-songwriter, composer, arranger'}}}
+281: {'values_changed': {"root['genre']": {'new_value': 'Rhythm and blues, piano blues, Soul music', 'old_value': 'Blues, piano blues, rhythm and blues, Soul music'}}}
+284: {'values_changed': {"root['genre']": {'new_value': 'Blues, piano blues, rhythm and blues, Soul music', 'old_value': 'Rhythm and blues, piano blues, Soul music'}}}
+344: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, United States', 'old_value': 'Greenville, Florida, United Statesnvvvvvvvvvvvvvvvhn'}}}
+345: {'values_changed': {"root['origin']": {'new_value': 'Greenville, Florida, United Statesnvvvvvvvvvvvvvvvhn', 'old_value': 'Greenville, Florida, United States'}}}
+384: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singing'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rhythm and blues, piano blues, Soul music'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Musician, singer-songwriter, composer, arranger'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Atlantic Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Raelettes'}}, 'dictionary_item_added': {"root['origin']": 'Greenville, Florida, United States'}, 'dictionary_item_removed': {"root['name']": 'Ray Charles'}}
+407: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'dancer'}}}
+409: {'values_changed': {"root['background']": {'new_value': 'dancer', 'old_value': 'solo_singer'}}}
+423: {'values_changed': {"root['name']": {'new_value': 'Ray Charles', 'old_value': 'caner Charles'}}}
+424: {'values_changed': {"root['name']": {'new_value': 'caner Charles', 'old_value': 'Ray Charles'}}}
+425: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer HAS BIG BOOBIES'}}}
+426: {'values_changed': {"root['background']": {'new_value': 'solo_singer HAS BIG BOOBIES', 'old_value': 'solo_singer'}}}
+536: {'dictionary_item_removed': {"root['spouse']": [], "root['children']": '12'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'The Raelettes', "root['associated_acts'][1]": 'USA for Africa', "root['associated_acts'][2]": 'Billy Joel', "root['associated_acts'][3]": 'Gladys Knight', "root['associated_acts'][4]": 'Hank Williams Jr.', "root['associated_acts'][5]": 'Willie Nelson'}}
+579: {'values_changed': {"root['name']": {'new_value': 'Ray Charles', 'old_value': 'Ray LOYYUX'}}}
+580: {'values_changed': {"root['name']": {'new_value': 'Ray LOYYUX', 'old_value': 'Ray Charles'}}}

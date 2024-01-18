@@ -1,0 +1,33 @@
+186: {'dictionary_item_removed': {"root['name']": 'Ben Affleck', "root['birthname']": 'Benjamin Geza Affleck-Boldt', "root['alma_mater']": 'University of Vermont, Occidental College', "root['occupation']": [], "root['spouse']": 'Marriage', "root['children']": '3', "root['relations']": 'Casey Affleck  (brother)', "root['awards']": 'List of awards and nominations received by Ben Affleck', "root['works']": 'Filmography'}}
+196: {'dictionary_item_removed': {"root['party']": 'Democratic'}}
+197: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.'}}
+242: {'values_changed': {"root['relations']": {'new_value': 'Casey Affleck  (brother)', 'old_value': 'Casey Affleck (brother)'}}}
+277: {'values_changed': {"root['party']": {'new_value': 'Democratic', 'old_value': 'Democratic Party (United States)'}}}
+302: {'values_changed': {"root['works']": {'new_value': 'Filmography', 'old_value': 'Filmography '}}}
+814: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Vermont, Occidental College', 'old_value': 'Occidental College'}}}
+846: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)', "root['awards']": 'List of awards and nominations received by Ben Affleck', "root['works']": 'Filmography '}, 'values_changed': {"root['relations']": {'new_value': 'Casey Affleck (brother)', 'old_value': 'Casey Affleck (brother) '}}}
+909: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, filmmaker', 'new_value': []}}}
+913: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, filmmaker'}}}
+916: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, filmmaker', 'new_value': []}}}
+930: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, filmmaker'}}}
+934: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, filmmaker', 'new_value': []}}}
+1042: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, filmmaker'}}}
+1067: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+1160: {'values_changed': {"root['birthname']": {'new_value': 'Benjamin Geza Affleck-Boldt', 'old_value': 'Bruce Thomas Wayne'}, "root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Gotham, U.S.'}, "root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Justice League'}}}
+1161: {'values_changed': {"root['birthname']": {'new_value': 'Bruce Thomas Wayne', 'old_value': 'Benjamin Geza Affleck-Boldt'}, "root['residence']": {'new_value': 'Gotham, U.S.', 'old_value': 'Los Angeles, California, U.S.'}, "root['party']": {'new_value': 'Justice League', 'old_value': 'Democratic Party (United States)'}}}
+1162: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '1'}, "root['relations']": {'new_value': 'Casey Affleck (brother) ', 'old_value': 'Damian Wayne (son) '}}}
+1164: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '3'}, "root['relations']": {'new_value': 'Damian Wayne (son) ', 'old_value': 'Casey Affleck (brother) '}}}
+1181: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': []}}}
+1215: {'values_changed': {"root['name']": {'new_value': 'Ben Affleck', 'old_value': 'Ben Affleckj'}}}
+1216: {'values_changed': {"root['name']": {'new_value': 'Ben Affleckj', 'old_value': 'Ben Affleck'}}}
+1226: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '1'}, "root['relations']": {'new_value': 'Casey Affleck (brother) ', 'old_value': 'Cossy Affleck (brother) '}}}
+1227: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '3'}, "root['relations']": {'new_value': 'Cossy Affleck (brother) ', 'old_value': 'Casey Affleck (brother) '}}}
+1228: {'dictionary_item_removed': {"root['death_datw']": 'death date'}}
+1290: {'dictionary_item_added': {"root['death_datw']": 'death date'}, 'values_changed': {"root['birthname']": {'new_value': 'Benjamin Geza Affleck-Boldt', 'old_value': 'Benjamin Géza Affleck-Boldt'}}}
+1349: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}, 'dictionary_item_added': {"root['residence']": 'Los Angeles, California, U.S.', "root['alma_mater']": 'Occidental College', "root['party']": 'Democratic Party (United States)'}, 'dictionary_item_removed': {"root['works']": 'Ben Affleck filmography', "root['awards']": 'Full list '}, 'values_changed': {"root['spouse']": {'new_value': 'Marriage', 'old_value': 'marriage'}, "root['relations']": {'new_value': 'Casey Affleck (brother) ', 'old_value': 'Casey Affleck (brother)'}}}
+1364: {'dictionary_item_removed': {"root['partner']": 'Jennifer Lopez (2022-Present)'}}
+1454: {'dictionary_item_added': {"root['partner']": 'Jennifer Lopez (2022-Present)'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'plain list'}}}
+1461: {'values_changed': {"root['birthname']": {'new_value': 'Benjamin Géza Affleck-Boldt', 'old_value': 'Benjamin Géza Affleck-Boldtefn'}}}
+1507: {'values_changed': {"root['birthname']": {'new_value': 'Benjamin Géza Affleck-Boldtefn', 'old_value': 'Benjamin Géza Affleck-BoldtEfn'}}}
+1508: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hlist', 'new_value': []}}, 'values_changed': {"root['spouse']": {'new_value': 'plain list', 'old_value': 'Plain list'}}}
+1525: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}

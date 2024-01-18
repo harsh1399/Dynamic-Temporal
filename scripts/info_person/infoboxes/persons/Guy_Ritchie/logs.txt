@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Guy Ritchie', "root['birthdate']": 'birth date and age', "root['location']": 'Hatfield, Hertfordshire', "root['birthname']": 'Guy Stuart Ritchie', "root['spouse']": 'Madonna (entertainer)', "root['goldenraspberryawards']": "'''Worst Director''', 2002 ''Swept Away'' "}}
+270: {'dictionary_item_added': {"root['goldenraspberryawards']": "'''Worst Director''', 2002 ''Swept Away'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Madonna (entertainer)', 'old_value': 'Madonna (2000-2008) <-DO NOT CHANGE THEY ANNOCED THE DIVORCE THIS WEEK!!!!!!!!!! goldenraspberryawards'}}}
+271: {'values_changed': {"root['spouse']": {'new_value': 'Madonna (2000-2008) <-DO NOT CHANGE THEY ANNOCED THE DIVORCE THIS WEEK!!!!!!!!!! goldenraspberryawards', 'old_value': 'Madonna (2000-2008) goldenraspberryawards'}}}
+272: {'dictionary_item_removed': {"root['goldenraspberryawards']": "'''Worst Director''', 2002 ''Swept Away'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Madonna (2000-2008) goldenraspberryawards', 'old_value': 'Madonna (entertainer)'}}}
+281: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Gay Ritchie'}, "root['birthname']": {'new_value': 'Guy Stuart Ritchie', 'old_value': 'Gay Stuart Ritchie'}}}
+282: {'values_changed': {"root['name']": {'new_value': 'Gay Ritchie', 'old_value': 'Guy Ritchie'}, "root['birthname']": {'new_value': 'Gay Stuart Ritchie', 'old_value': 'Guy Stuart Ritchie'}}}
+318: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Gay Ritchie'}}}
+320: {'values_changed': {"root['name']": {'new_value': 'Gay Ritchie', 'old_value': 'Guy Ritchie'}}}
+323: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Gay bits are itchie'}}}
+324: {'values_changed': {"root['name']": {'new_value': 'Gay bits are itchie', 'old_value': 'Guy Ritchie'}}}
+332: {'values_changed': {"root['spouse']": {'new_value': 'Madonna (entertainer)', 'old_value': 'Madonna<<MY SEXY BITCH (entertainer)'}}}
+333: {'values_changed': {"root['spouse']": {'new_value': 'Madonna<<MY SEXY BITCH (entertainer)', 'old_value': 'Madonna (entertainer)'}}}
+339: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Hatfield, Hertfordshire', "root['birthname']": 'Guy Stuart Ritchie', "root['goldenraspberryawards']": "'''Worst Director''', 2002 ''Swept Away'' "}, 'dictionary_item_removed': {"root['occupation']": 'Filmmaker, pub landlord, businessman', "root['partner']": 'Jacqui Ainsley, (2010–present)', "root['children']": '5 '}, 'values_changed': {"root['spouse']": {'new_value': 'Madonna (entertainer)', 'old_value': 'marriage'}}}
+389: {'values_changed': {"root['partner']": {'new_value': 'Jacqui Ainsley, (2010–present)', 'old_value': 'Jacqui Ainsley (2010–present)'}}}
+406: {'dictionary_item_added': {"root['partner']": 'Jacqui Ainsley (2010–present)'}, 'values_changed': {"root['children']": {'new_value': '5 ', 'old_value': '5 Black Belt in Brazilian Jiu-Jitsu '}}}
+407: {'values_changed': {"root['children']": {'new_value': '5 Black Belt in Brazilian Jiu-Jitsu ', 'old_value': '5 '}}}
+424: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Guy Bellend Ritchie'}}}
+425: {'values_changed': {"root['name']": {'new_value': 'Guy Bellend Ritchie', 'old_value': 'Guy Ritchie'}}}
+427: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Guy Ritchie A!'}}}
+428: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie A!', 'old_value': 'Guy Ritchie'}}}
+449: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': 'Guy'}}}
+450: {'values_changed': {"root['name']": {'new_value': 'Guy', 'old_value': 'Guy Ritchie'}}}
+456: {'values_changed': {"root['occupation']": {'new_value': 'Filmmaker, pub landlord, businessman', 'old_value': 'Filmmaker, pub landlord, businessman, martial artist'}}}
+483: {'values_changed': {"root['children']": {'new_value': '5 ', 'old_value': '5 | Black Belt'}}}
+489: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Filmmaker, pub landlord, businessman, martial artist'}}}
+490: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Filmmaker', 'new_value': []}}}
+491: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Filmmaker'}}}
+514: {'values_changed': {"root['children']": {'new_value': '5 | Black Belt', 'old_value': '5 '}}}
+525: {'values_changed': {"root['name']": {'new_value': 'Guy Ritchie', 'old_value': "Guy Ritchie's"}}}
+528: {'values_changed': {"root['name']": {'new_value': "Guy Ritchie's", 'old_value': 'Guy Ritchie'}}}

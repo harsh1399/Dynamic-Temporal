@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['name']": 'Donna Summer', "root['background']": 'solo_singer', "root['alias']": 'Donna Gaines', "root['Born']": 'Birth date and age', "root['origin']": 'Dorchester, Massachusetts, USA', "root['genre']": 'Dance-pop, disco, Pop music', "root['occupation']": 'Singer-songwriter', "root['instrument']": 'Singer', "root['label']": 'Oasis Records, Casablanca Records', "root['associated_acts']": 'Giorgio Moroder, Brooklyn Dreams '}}
+11: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines', 'old_value': 'Donna Gaines, Queen of Disco'}}}
+12: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines, Queen of Disco', 'old_value': 'Donna Gaines'}}}
+17: {'values_changed': {"root['genre']": {'new_value': 'Dance-pop, disco, Pop music', 'old_value': 'Contemporary R&B'}}}
+25: {'values_changed': {"root['genre']": {'new_value': 'Contemporary R&B', 'old_value': 'Dance-pop, disco, Pop music'}}}
+60: {'values_changed': {"root['instrument']": {'new_value': 'Singer', 'old_value': 'Singing'}}}
+96: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines', 'old_value': '"Donna Gaines" "The Queen of Disco"'}, "root['genre']": {'new_value': 'Dance-pop, disco, Pop music', 'old_value': 'Pop music'}}}
+97: {'values_changed': {"root['name']": {'new_value': 'Donna Summer', 'old_value': 'Donna plummer'}, "root['alias']": {'new_value': '"Donna Gaines" "The Queen of Disco"', 'old_value': '"Donna Gaines" "The Queen of pac man'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'Donna plummer', 'old_value': 'Donna summer'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Donna summer', 'old_value': 'Donna Summer'}, "root['alias']": {'new_value': '"Donna Gaines" "The Queen of pac man', 'old_value': '"Donna Gaines" "The Queen of Disco"'}}}
+178: {'dictionary_item_added': {"root['Born']": 'Birth date and age'}, 'values_changed': {"root['alias']": {'new_value': '"Donna Gaines" "The Queen of Disco"', 'old_value': 'Donna Gaines "The Queen of Disco"'}}}
+237: {'values_changed': {"root['origin']": {'new_value': 'Dorchester, Massachusetts, USA', 'old_value': 'Dorchester, Massachusetts'}, "root['label']": {'new_value': 'Oasis Records, Casablanca Records', 'old_value': 'Oasis Records Casablanca Records'}}}
+263: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Pop, Disco music'}, "root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, piano'}}}
+266: {'values_changed': {"root['genre']": {'new_value': 'Pop, Disco music', 'old_value': 'Pop music'}}}
+276: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines "The Queen of Disco"', 'old_value': 'Donna Gaines The Queen of Disco'}}}
+298: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines The Queen of Disco', 'old_value': 'Donna Gaines Honorific nicknames in popular music'}}}
+395: {'values_changed': {"root['origin']": {'new_value': 'Dorchester, Massachusetts', 'old_value': 'Dorchester, Boston, Massachusetts'}}}
+509: {'values_changed': {"root['origin']": {'new_value': 'Dorchester, Boston, Massachusetts', 'old_value': 'Dorchester, Boston, Massachusetts, U.S.'}}}
+584: {'dictionary_item_added': {"root['origin']": 'Dorchester, Boston, Massachusetts, U.S.'}, 'values_changed': {"root['alias']": {'new_value': 'Donna Gaines Honorific nicknames in popular music', 'old_value': 'Donna Gaines'}, "root['occupation']": {'new_value': 'Singer-songwriter', 'old_value': 'Singer, songwriter'}, "root['label']": {'new_value': 'Oasis Records Casablanca Records', 'old_value': 'Oasis Records'}}}
+616: {'type_changes': {"root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Oasis Records'], 'new_value': 'Oasis Records'}}, 'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter', 'old_value': 'Singer-songwriter'}}}
+617: {'type_changes': {"root['label']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Oasis Records', 'new_value': ['Oasis Records']}}, 'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter', 'old_value': 'Singer, songwriter'}}}
+683: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Disco, Dance-pop, Rock'}}}
+684: {'values_changed': {"root['genre']": {'new_value': 'Disco, Dance-pop, Rock', 'old_value': 'Pop music'}}}
+698: {'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter', 'old_value': 'Singer, songwriter, painter, actress'}}}
+699: {'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter, painter, actress', 'old_value': 'Singer, songwriter'}}}
+742: {'values_changed': {"root['associated_acts']": {'new_value': 'Giorgio Moroder, Brooklyn Dreams ', 'old_value': 'Gloria Gaynor| '}}}
+743: {'values_changed': {"root['associated_acts']": {'new_value': 'Gloria Gaynor| ', 'old_value': 'Gloria Gaynor '}}}
+744: {'values_changed': {"root['associated_acts']": {'new_value': 'Gloria Gaynor ', 'old_value': 'Giorgio Moroder, Brooklyn Dreams '}}}
+798: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Disco, R&B, dance music'}}}
+800: {'values_changed': {"root['genre']": {'new_value': 'Disco, R&B, dance music', 'old_value': 'Pop music'}}}
+809: {'values_changed': {"root['alias']": {'new_value': 'Donna Gaines', 'old_value': 'Donna "Big Dick" Gaines'}}}
+810: {'values_changed': {"root['alias']": {'new_value': 'Donna "Big Dick" Gaines', 'old_value': 'Donna Gaines'}}}
+811: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'African American'}}}
+812: {'values_changed': {"root['background']": {'new_value': 'African American', 'old_value': 'solo_singer'}}}
+864: {'type_changes': {"root['alias']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Donna Gaines'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Pop music'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer, songwriter'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Oasis Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Giorgio Moroder', 'Brooklyn Dreams', 'Paul Jabara', 'Bruce Sudano', 'Barbra Streisand', 'Quincy Jones', 'Bruce Springsteen', 'David Foster', 'Michael Omartian', 'Matthew Ward', 'Harold Faltermeyer', 'Mickey Thomas', 'Stock Aitken Waterman', 'Liza Minnelli', 'Bruce Roberts', 'Darwin Hobbs', 'Ziggy Marley'], 'new_value': 'Giorgio Moroder, Brooklyn Dreams '}}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, piano', 'old_value': 'Vocals'}}}
+872: {'iterable_item_removed': {"root['associated_acts'][15]": "O'Mega Red"}}
+873: {'values_changed': {"root['associated_acts'][15]": {'new_value': "O'Mega Red", 'old_value': 'Omega Red (rapper)'}}}
+908: {'values_changed': {"root['associated_acts'][15]": {'new_value': 'Omega Red (rapper)', 'old_value': 'Omega Red'}}}
+961: {'dictionary_item_removed': {"root['spouse']": 'Bruce Sudano'}, 'iterable_item_removed': {"root['associated_acts'][4]": 'John Barry'}}
+965: {'dictionary_item_added': {"root['spouse']": 'Bruce Sudano'}, 'iterable_item_added': {"root['associated_acts'][4]": 'John Barry'}}
+970: {'iterable_item_removed': {"root['associated_acts'][4]": 'John Barry'}}
+971: {'iterable_item_added': {"root['associated_acts'][4]": 'John Barry'}}

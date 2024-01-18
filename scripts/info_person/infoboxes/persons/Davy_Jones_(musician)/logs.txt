@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Davy Jones', "root['known_for']": 'member of The Monkees', "root['occupation']": 'singer, actor', "root['children']": 'Talia Elizabeth (October 2 1968), Sarah Lee (July 3 1971), Jessica Lillian (September 4 1981) and Annabel Charlotte (June 26 1988)'}}
+18: {'values_changed': {"root['children']": {'new_value': 'Talia Elizabeth (October 2 1968), Sarah Lee (July 3 1971), Jessica Lillian (September 4 1981) and Annabel Charlotte (June 26 1988)', 'old_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981) and Annabel Charlotte (26 June 1988)'}}}
+43: {'values_changed': {"root['known_for']": {'new_value': 'member of The Monkees', 'old_value': 'member of The Monkees, his locker'}}}
+44: {'values_changed': {"root['known_for']": {'new_value': 'member of The Monkees, his locker', 'old_value': 'member of The Monkees'}}}
+54: {'values_changed': {"root['children']": {'new_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981) and Annabel Charlotte (26 June 1988)', 'old_value': 'Talia Elizabeth (2 October 1968),  Sarah Lee (3 July 1971),  Jessica Lillian (4 September 1981)  and  Annabel Charlotte (26 June 1988)'}}}
+68: {'dictionary_item_removed': {"root['instruments']": 'vocals, percussion, guitar, drums'}, 'values_changed': {"root['known_for']": {'new_value': 'member of The Monkees', 'old_value': 'member of the Monkees'}, "root['occupation']": {'new_value': 'singer, actor', 'old_value': 'singer, actor, musician'}, "root['children']": {'new_value': 'Talia Elizabeth (2 October 1968),  Sarah Lee (3 July 1971),  Jessica Lillian (4 September 1981)  and  Annabel Charlotte (26 June 1988)', 'old_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981) and Annabel Charlotte (26 June 1988)'}}}
+69: {'values_changed': {"root['known_for']": {'new_value': 'member of the Monkees', 'old_value': 'Former member of The Monkees'}}}
+104: {'values_changed': {"root['children']": {'new_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981) and Annabel Charlotte (26 June 1988)', 'old_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981),  and Annabel Charlotte (26 June 1988)'}}}
+116: {'values_changed': {"root['children']": {'new_value': 'Talia Elizabeth (2 October 1968), Sarah Lee (3 July 1971), Jessica Lillian (4 September 1981),  and Annabel Charlotte (26 June 1988)', 'old_value': 'Talia Elizabeth (2 October 1968),  Sarah Lee (3 July 1971),  Jessica Lillian (4 September 1981),  Annabel Charlotte (26 June 1988)'}}}
+138: {'values_changed': {"root['children']": {'new_value': 'Talia Elizabeth (2 October 1968),  Sarah Lee (3 July 1971),  Jessica Lillian (4 September 1981),  Annabel Charlotte (26 June 1988)', 'old_value': 'Plainlist'}}}
+161: {'values_changed': {"root['occupation']": {'new_value': 'singer, actor, musician', 'old_value': 'Singer, actor, musician'}}}
+167: {'dictionary_item_removed': {"root['Years_active']": '1961 - 2012'}}
+358: {'dictionary_item_added': {"root['known_for']": 'Former member of The Monkees', "root['Years_active']": '1961 - 2012'}, 'values_changed': {"root['name']": {'new_value': 'Davy Jones', 'old_value': 'Davy Joneses'}}}
+359: {'values_changed': {"root['name']": {'new_value': 'Davy Joneses', 'old_value': 'Davy Jones'}}}
+380: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+460: {'values_changed': {"root['name']": {'new_value': 'Davy Jones', 'old_value': 'Biggs, Dalton'}}}
+461: {'values_changed': {"root['name']": {'new_value': 'Biggs, Dalton', 'old_value': 'Davy Jones'}}}
+489: {'dictionary_item_removed': {"root['NAME']": 'Jones, Davy | ALTERNATIVE NAMES'}}
+511: {'dictionary_item_added': {"root['NAME']": 'Jones, Davy | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['employer']": 'The Monkees'}}
+512: {'dictionary_item_added': {"root['employer']": 'The Monkees'}, 'dictionary_item_removed': {"root['known_for']": 'The Monkees'}}
+543: {'values_changed': {"root['name']": {'new_value': 'Davy Jones', 'old_value': 'HUNTER ALLEGRETTO'}}}
+544: {'values_changed': {"root['name']": {'new_value': 'HUNTER ALLEGRETTO', 'old_value': 'Davy Jones'}}}
+589: {'values_changed': {"root['instruments']": {'new_value': 'vocals, percussion, guitar, drums', 'old_value': 'Vocals, percussion, guitar, drums'}}}
+594: {'dictionary_item_added': {"root['known_for']": 'The Monkees', "root['instruments']": 'Vocals, percussion, guitar, drums', "root['spouse']": 'marriage', "root['children']": 'Plainlist'}, 'dictionary_item_removed': {"root['background']": 'solo_singer', "root['genre']": 'Pop rock', "root['Instrument']": 'Vocals, percussion, guitar, drums', "root['Associated_acts']": 'The Monkees', "root['label']": 'Bell Records'}}
+601: {'values_changed': {"root['label']": {'new_value': 'Bell Records', 'old_value': 'Colpix Records, Bell Records'}}}
+618: {'values_changed': {"root['genre']": {'new_value': 'Pop rock', 'old_value': 'Pop rock, psychedelic pop'}}}
+619: {'values_changed': {"root['genre']": {'new_value': 'Pop rock, psychedelic pop', 'old_value': 'Pop rock'}}}
+620: {'values_changed': {"root['genre']": {'new_value': 'Pop rock', 'old_value': 'Pop rock, pop music'}}}
+656: {'values_changed': {"root['occupation']": {'new_value': 'Singer, actor, musician', 'old_value': 'Actor, Musician'}, "root['Instrument']": {'new_value': 'Vocals, percussion, guitar, drums', 'old_value': 'Singer'}}}
+719: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Musician', 'old_value': 'Actor, musician'}}}

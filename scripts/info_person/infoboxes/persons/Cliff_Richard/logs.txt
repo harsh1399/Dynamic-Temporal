@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Cliff Richard', "root['background']": 'solo_singer', "root['origin']": 'London, England', "root['instrument']": 'Vocals, guitar, percussion', "root['genre']": [], "root['occupation']": [], "root['label']": [], "root['associated_acts']": 'The Shadows, Olivia Newton-John'}}
+13: {'values_changed': {"root['origin']": {'new_value': 'London, England', 'old_value': 'Leeds, England'}}}
+14: {'values_changed': {"root['origin']": {'new_value': 'Leeds, England', 'old_value': 'London, England'}}}
+43: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, guitar, percussion'}}}
+44: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals, guitar, percussion', 'new_value': []}}}
+104: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer', 'new_value': []}}, 'dictionary_item_added': {"root['background']": 'solo_singer', "root['instrument']": 'Vocals, guitar, percussion'}}
+107: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer'}}}
+135: {'values_changed': {"root['associated_acts']": {'new_value': 'The Shadows, Olivia Newton-John', 'old_value': 'The Shadows, Olivia Newton-John, Cilla Black'}}}
+136: {'values_changed': {"root['associated_acts']": {'new_value': 'The Shadows, Olivia Newton-John, Cilla Black', 'old_value': 'The Shadows, Olivia Newton-John'}}}
+140: {'values_changed': {"root['name']": {'new_value': 'Cliff Richard', 'old_value': 'Paul Moore'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'Paul Moore', 'old_value': 'Cliff Richard'}}}
+147: {'dictionary_item_removed': {"root['Alias']": 'Sir Cliff Richard'}}
+148: {'values_changed': {"root['Alias']": {'new_value': 'Sir Cliff Richard', 'old_value': 'Cliff Richard'}}}
+172: {'dictionary_item_added': {"root['Alias']": 'Cliff Richard'}, 'values_changed': {"root['name']": {'new_value': 'Cliff Richard', 'old_value': 'Clydd Rhychydd'}}}
+173: {'values_changed': {"root['name']": {'new_value': 'Clydd Rhychydd', 'old_value': 'Cliff Richard'}}}
+252: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Musician, actor', 'new_value': []}}, 'dictionary_item_added': {"root['associated_acts']": 'The Shadows, Olivia Newton-John'}}
+266: {'dictionary_item_removed': {"root['background']": 'solo_singer'}}
+268: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'person'}}}
+282: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Musician, actor'}}}
+284: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Musician, actor', 'new_value': []}}}

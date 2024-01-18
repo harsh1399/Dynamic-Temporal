@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Milica Jovović', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Kiev, Soviet Union (now Ukraine)', "root['occupation']": 'Actress', "root['yearsactive']": '1985 - present', "root['spouse']": 'Shawn Andrews (actor)', "root['domesticpartner']": 'Paul W. S. Anderson'}}
+25: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Soviet Union (now Ukraine)', 'old_value': 'Kiev, Ukraine (former Soviet Union)'}}}
+32: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress Model'}}}
+65: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (former Soviet Union)', 'old_value': 'Kiev, Ukraine'}}}
+68: {'values_changed': {"root['occupation']": {'new_value': 'Actress Model', 'old_value': 'Actress, model'}}}
+88: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth-date and age'}}}
+94: {'values_changed': {"root['birthdate']": {'new_value': 'birth-date and age', 'old_value': 'birth date and age'}}}
+128: {'values_changed': {"root['birthname']": {'new_value': 'Milica Jovović', 'old_value': 'Militza  Natasha Jovović'}}}
+137: {'values_changed': {"root['birthname']": {'new_value': 'Militza  Natasha Jovović', 'old_value': 'Milica  Nataša Jovović'}}}
+138: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine', 'old_value': 'Kyiv, Ukraine'}}}
+143: {'values_changed': {"root['birthname']": {'new_value': 'Milica  Nataša Jovović', 'old_value': 'Milica Jovović'}}}
+146: {'values_changed': {"root['birthplace']": {'new_value': 'Kyiv, Ukraine', 'old_value': 'Kiev, Ukraine'}}}
+172: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine', 'old_value': 'Kiev, Ukraine, USSR'}}}
+173: {'values_changed': {"root['yearsactive']": {'new_value': '1985 - present', 'old_value': '1985&ndash;present'}}}
+175: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine, USSR', 'old_value': 'Kiev, Ukraine (then part of the USSR)'}}}
+211: {'values_changed': {"root['domesticpartner']": {'new_value': 'Paul W. S. Anderson', 'old_value': 'Paul W. S. Anderson 1 child'}}}
+212: {'values_changed': {"root['domesticpartner']": {'new_value': 'Paul W. S. Anderson 1 child', 'old_value': 'Paul W. S. Anderson'}}}
+217: {'dictionary_item_added': {"root['domesticpartner']": 'Paul W. S. Anderson'}, 'dictionary_item_removed': {"root['boyfriend']": 'Paul W. S. Anderson'}}
+218: {'dictionary_item_added': {"root['boyfriend']": 'Paul W. S. Anderson'}, 'dictionary_item_removed': {"root['domesticpartner']": 'Paul W. S. Anderson'}}
+234: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (then part of the USSR)', 'old_value': 'Kiev, Ukraine'}}}
+235: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine', 'old_value': 'Kiev, Ukraine (then part of the USSR)'}}}
+250: {'values_changed': {"root['birthname']": {'new_value': 'Milica Jovović', 'old_value': 'Militza Nataša Jovović'}}}
+251: {'values_changed': {"root['occupation']": {'new_value': 'Actress, model', 'old_value': 'Actress, model, musician'}}}
+293: {'values_changed': {"root['occupation']": {'new_value': 'Actress, model, musician', 'old_value': 'Actress, model, singer-songwriter'}}}
+309: {'dictionary_item_added': {"root['domesticpartner']": 'Paul W. S. Anderson'}, 'values_changed': {"root['yearsactive']": {'new_value': '1985&ndash;present', 'old_value': '1985 onward'}}}
+312: {'dictionary_item_removed': {"root['Inventor']": '"The Mojitovitch"'}}
+449: {'dictionary_item_added': {"root['Inventor']": '"The Mojitovitch"'}, 'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (then part of the USSR)', 'old_value': 'Kiev, Ukraine (then part of the USSR) flagicon'}}}
+450: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (then part of the USSR) flagicon', 'old_value': 'Kiev, Ukraine (then part of the USSR)'}}}
+455: {'values_changed': {"root['birthname']": {'new_value': 'Militza Nataša Jovović', 'old_value': 'Milica Nataša Jovović'}}}
+496: {'values_changed': {"root['yearsactive']": {'new_value': '1985 onward', 'old_value': 'Since 1985'}}}
+501: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (then part of the USSR)', 'old_value': 'Kiev, Ukraine, USSR'}}}
+503: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine, USSR', 'old_value': 'Kiev, Ukraine (then part of the USSR)'}}}
+517: {'values_changed': {"root['birthplace']": {'new_value': 'Kiev, Ukraine (then part of the USSR)', 'old_value': 'Kyiv, Ukraine (then part of the USSR)'}}}
+544: {'values_changed': {"root['birthplace']": {'new_value': 'Kyiv, Ukraine (then part of the USSR)', 'old_value': 'Kiev, Ukrainian Soviet Socialist Republic'}, "root['yearsactive']": {'new_value': 'Since 1985', 'old_value': '1985–present'}}}
+689: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, model, singer-songwriter'}}, 'dictionary_item_added': {"root['birthname']": 'Milica Nataša Jovović', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Kiev, Ukrainian Soviet Socialist Republic', "root['yearsactive']": '1985–present'}, 'dictionary_item_removed': {"root['children']": '2'}, 'values_changed': {"root['spouse']": {'new_value': 'Shawn Andrews (actor)', 'old_value': 'marriage'}}}
+824: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S. New York City, New York (state)'}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Cher', "root['alias']": 'ubl', "root['spouse']": [], "root['children']": [], "root['occupation']": [], "root['awards']": 'List of awards and nominations received by Cher', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": 'Vocals', "root['label']": [], "root['associated_acts']": []}}
+18: {'dictionary_item_added': {"root['occupation']": []}, 'dictionary_item_removed': {"root['occupations']": []}}
+19: {'dictionary_item_added': {"root['occupations']": []}, 'dictionary_item_removed': {"root['occupation']": []}}
+68: {'dictionary_item_added': {"root['occupation']": [], "root['awards']": 'List of awards and nominations received by Cher', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": 'Vocals', "root['label']": [], "root['associated_acts']": []}, 'iterable_item_removed': {"root['children'][0]": 'Chaz Bono', "root['children'][1]": 'Elijah Blue Allman', "root['children'][2]": 'Chantalle'}}
+69: {'dictionary_item_removed': {"root['occupation']": [], "root['awards']": 'List of awards and nominations received by Cher', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": 'Vocals', "root['label']": [], "root['associated_acts']": []}, 'iterable_item_added': {"root['children'][0]": 'Chaz Bono', "root['children'][1]": 'Elijah Blue Allman', "root['children'][2]": 'Chantalle'}}
+84: {'dictionary_item_removed': {"root['net_worth']": '$300 million'}}
+139: {'dictionary_item_added': {"root['net_worth']": '$300 million'}, 'values_changed': {"root['name']": {'new_value': 'Cher', 'old_value': 'Sarah allo'}}}
+140: {'values_changed': {"root['name']": {'new_value': 'Sarah allo', 'old_value': 'Cher'}}}

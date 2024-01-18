@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lucy Liu', "root['birthname']": 'Lucy Alexis Liu', "root['birthdate']": 'birth date and age', "root['location']": 'Queens', "root['sagawards']": "'''Best Ensemble - Comedy Series''' ,  1998 ''Ally McBeal'' ,  '''Best Cast - Motion Picture''' ,  2002 ''Chicago'' "}}
+36: {'values_changed': {"root['birthname']": {'new_value': 'Lucy Alexis Liu', 'old_value': 'Luy Alexis Liu'}}}
+38: {'values_changed': {"root['birthname']": {'new_value': 'Luy Alexis Liu', 'old_value': 'Lucy Alexis Liu'}}}
+97: {'values_changed': {"root['birthname']": {'new_value': 'Lucy Alexis Liu', 'old_value': 'Lucille "Lucy" Alexis Liu'}}}
+98: {'values_changed': {"root['birthname']": {'new_value': 'Lucille "Lucy" Alexis Liu', 'old_value': 'Lucy Alexis Liu'}}}
+127: {'dictionary_item_removed': {"root['spouse']": 'James Thew'}}
+154: {'dictionary_item_added': {"root['spouse']": 'James Thew'}, 'dictionary_item_removed': {"root['deathplace']": 'New York'}}
+166: {'dictionary_item_added': {"root['location']": 'Queens', "root['deathplace']": 'New York'}, 'dictionary_item_removed': {"root['birthplace']": 'Queens'}}
+176: {'dictionary_item_removed': {"root['yearsactive']": '1991 - Present'}}
+189: {'values_changed': {"root['yearsactive']": {'new_value': '1991 - Present', 'old_value': '1991-present'}}}
+225: {'values_changed': {"root['sagawards']": {'new_value': "'''Best Ensemble - Comedy Series''' ,  1998 ''Ally McBeal'' ,  '''Best Cast - Motion Picture''' ,  2002 ''Chicago'' ", 'old_value': "'''Best Ensemble - Comedy Series'''   1998 ''Ally McBeal''   '''Best Cast - Motion Picture'''   2002 ''Chicago'' "}}}
+253: {'values_changed': {"root['name']": {'new_value': 'Lucy Liu', 'old_value': 'Black Man'}, "root['birthname']": {'new_value': 'Lucy Alexis Liu', 'old_value': 'Black Man'}}}
+254: {'values_changed': {"root['name']": {'new_value': 'Black Man', 'old_value': 'Lucy Liu'}, "root['birthname']": {'new_value': 'Black Man', 'old_value': 'Lucy Alexis Liu'}}}
+267: {'dictionary_item_removed': {"root['othername']": 'Chinese Tradition:劉玉玲,  Chinese Simple:刘玉玲, Pinyin: Yu-Lin Liu)'}}
+268: {'values_changed': {"root['othername']": {'new_value': 'Chinese Tradition:劉玉玲,  Chinese Simple:刘玉玲, Pinyin: Yu-Lin Liu)', 'old_value': 'Chinese Tradition:劉玉玲,  Chinese Simple:刘玉玲, Pinyin: Liú Yùlíng'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Lucy Liu', 'old_value': 'Lucia Oro Ballester'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Lucia Oro Ballester', 'old_value': 'Lucy Liu'}}}
+308: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'December 2 1968 (age 40)'}}}
+312: {'dictionary_item_removed': {"root['deathdate']": 'December 21  2008 (age 40)', "root['deathplace']": 'Los Angeles, CA'}, 'values_changed': {"root['birthdate']": {'new_value': 'December 2 1968 (age 40)', 'old_value': 'December 2 1968'}, "root['yearsactive']": {'new_value': '1991-present', 'old_value': '1991-2008'}}}
+320: {'dictionary_item_added': {"root['deathdate']": 'December 21  2008 (age 40)', "root['deathplace']": 'Los Angeles, CA'}, 'values_changed': {"root['birthdate']": {'new_value': 'December 2 1968', 'old_value': 'December 2 1968 (age 40)'}, "root['yearsactive']": {'new_value': '1991-2008', 'old_value': '1991-present'}}}

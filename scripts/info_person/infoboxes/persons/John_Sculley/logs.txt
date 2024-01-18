@@ -1,0 +1,11 @@
+34: {'dictionary_item_removed': {"root['name']": 'John Sculley', "root['occupation']": 'President of PepsiCo (1977-1983) CEO of Apple Computer (1983-1993), Partner at Sculley Brothers, LLC (1995-Present)', "root['salary']": '$2.2 million United States dollar'}}
+35: {'values_changed': {"root['occupation']": {'new_value': 'President of PepsiCo (1977-1983) CEO of Apple Computer (1983-1993), Partner at Sculley Brothers, LLC (1995-Present)', 'old_value': 'President of PepsiCo (1977-1983) CEO of Apple Inc.'}}}
+102: {'dictionary_item_added': {"root['salary']": '$2.2 million United States dollar'}, 'values_changed': {"root['name']": {'new_value': 'John Sculley', 'old_value': 'John Sculley (he is a wonderful guy who created amazing things)'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'John Sculley (he is a wonderful guy who created amazing things)', 'old_value': 'John Sculley'}}}
+119: {'values_changed': {"root['occupation']": {'new_value': 'President of PepsiCo (1977-1983) CEO of Apple Inc.', 'old_value': 'President of PepsiCo (1977–1983) CEO of Apple Inc.'}}}
+144: {'dictionary_item_removed': {"root['residence']": 'Palm Beach, Florida, U.S.'}, 'values_changed': {"root['occupation']": {'new_value': 'President of PepsiCo (1977–1983) CEO of Apple Inc.', 'old_value': 'President of PepsiCo  (1977–1983) , CEO of Apple Inc.'}}}
+174: {'values_changed': {"root['residence']": {'new_value': 'Palm Beach, Florida, U.S.', 'old_value': 'San Juan West, Puerto Rico, U.S.T.'}}}
+175: {'values_changed': {"root['residence']": {'new_value': 'San Juan West, Puerto Rico, U.S.T.', 'old_value': 'San Juan West, Puerto Rico, U.S'}}}
+177: {'values_changed': {"root['residence']": {'new_value': 'San Juan West, Puerto Rico, U.S', 'old_value': 'Palm Beach, Florida, U.S.'}}}
+223: {'values_changed': {"root['occupation']": {'new_value': 'President of PepsiCo  (1977–1983) , CEO of Apple Inc.', 'old_value': 'CEO of Apple Inc.'}}}
+231: {'values_changed': {"root['occupation']": {'new_value': 'CEO of Apple Inc.', 'old_value': 'Plainlist'}}}

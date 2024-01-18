@@ -1,0 +1,48 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Andrew Lloyd Webber', "root['Img']": 'AndrewLloydWebber3.png', "root['Background']": 'non_performing_personnel', "root['Born']": 'Birth date and age', "root['Occupation']": 'Composer', "root['Years_active']": '1965 - present '}}
+10: {'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd Webber', 'old_value': 'Andrew Lloyd Gargoyle'}}}
+11: {'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd Gargoyle', 'old_value': 'Andrew Lloyd Webber'}}}
+46: {'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd Webber', 'old_value': 'Andrew Lloyd-Webber'}}}
+49: {'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd-Webber', 'old_value': 'Andrew Lloyd Webber'}}}
+68: {'values_changed': {"root['Img']": {'new_value': 'AndrewLloydWebber3.png', 'old_value': 'Leprosy.jpg'}}}
+69: {'dictionary_item_removed': {"root['Instrument']": 'Tubaphone'}}
+70: {'dictionary_item_added': {"root['Instrument']": 'Tubaphone'}, 'values_changed': {"root['Img']": {'new_value': 'Leprosy.jpg', 'old_value': 'AndrewLloydWebber3.png'}}}
+149: {'values_changed': {"root['Img']": {'new_value': 'AndrewLloydWebber3.png', 'old_value': 'Joseph_Carey_Merrick.png'}}}
+150: {'values_changed': {"root['Img']": {'new_value': 'Joseph_Carey_Merrick.png', 'old_value': 'AndrewLloydWebber3.png'}}}
+159: {'dictionary_item_removed': {"root['Instrument']": 'hand', "root['Genre']": 'all and anything'}}
+177: {'dictionary_item_added': {"root['Instrument']": 'hand', "root['Genre']": 'all and anything'}, 'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd Webber', 'old_value': "'''Lord''' Andrew Lloyd Webber"}}}
+186: {'values_changed': {"root['Name']": {'new_value': "'''Lord''' Andrew Lloyd Webber", 'old_value': "'''Lord''' (Andrew) Lloyd Webber"}}}
+188: {'values_changed': {"root['Name']": {'new_value': "'''Lord''' (Andrew) Lloyd Webber", 'old_value': 'The Rt Hon. Lord Lloyd-Webber'}}}
+189: {'values_changed': {"root['Name']": {'new_value': 'The Rt Hon. Lord Lloyd-Webber', 'old_value': 'The Nt Hon. Lord Lloyd-Webber'}}}
+190: {'values_changed': {"root['Name']": {'new_value': 'The Nt Hon. Lord Lloyd-Webber', 'old_value': 'The Rt Hon. Lord Lloyd-Webber'}}}
+206: {'dictionary_item_added': {"root['Years_active']": '1965 - present '}, 'values_changed': {"root['Occupation']": {'new_value': 'Composer', 'old_value': "'''''poop masta''''' "}}}
+207: {'dictionary_item_removed': {"root['Years_active']": '1965 - present '}, 'values_changed': {"root['Occupation']": {'new_value': "'''''poop masta''''' ", 'old_value': 'Composer'}}}
+223: {'dictionary_item_removed': {"root['Instrument']": 'no idea', "root['Genre']": 'male'}, 'values_changed': {"root['Years_active']": {'new_value': '1965 - present ', 'old_value': '1965 - 2008 '}}}
+224: {'dictionary_item_added': {"root['Instrument']": 'no idea', "root['Genre']": 'male'}, 'values_changed': {"root['Years_active']": {'new_value': '1965 - 2008 ', 'old_value': '1965 - present '}}}
+273: {'values_changed': {"root['Name']": {'new_value': 'The Rt Hon. Lord Lloyd-Webber', 'old_value': 'I am a pedophile.'}}}
+274: {'values_changed': {"root['Name']": {'new_value': 'I am a pedophile.', 'old_value': 'The Rt Hon. Lord Lloyd-Webber'}}}
+275: {'values_changed': {"root['Occupation']": {'new_value': 'Composer', 'old_value': 'Nazi'}}}
+276: {'values_changed': {"root['Occupation']": {'new_value': 'Nazi', 'old_value': 'Composer'}}}
+307: {'values_changed': {"root['Name']": {'new_value': 'The Rt Hon. Lord Lloyd-Webber', 'old_value': 'Andrew Lloyd-Webber'}}}
+308: {'values_changed': {"root['Name']": {'new_value': 'Andrew Lloyd-Webber', 'old_value': 'The Rt Hon. Lord Lloyd-Webber'}}}
+329: {'values_changed': {"root['Name']": {'new_value': 'The Rt Hon. Lord Lloyd-Webber', 'old_value': 'The Rt Hon. The Lord Lloyd-Webber'}}}
+347: {'values_changed': {"root['Name']": {'new_value': 'The Rt Hon. The Lord Lloyd-Webber', 'old_value': 'Andrew Lloyd-Webber'}}}
+351: {'dictionary_item_added': {"root['Name']": 'Andrew Lloyd-Webber'}, 'dictionary_item_removed': {"root['name']": 'Lord Andrew Lloyd-Webber'}}
+362: {'values_changed': {"root['Years_active']": {'new_value': '1965 - present ', 'old_value': '1965&mdash;present '}}}
+363: {'values_changed': {"root['Years_active']": {'new_value': '1965&mdash;present ', 'old_value': '1965&ndash;present '}}}
+389: {'values_changed': {"root['Years_active']": {'new_value': '1965&ndash;present ', 'old_value': "1965&ndash;so present it's not any where near as funny as the chicken jokes!!! "}}}
+390: {'values_changed': {"root['Years_active']": {'new_value': "1965&ndash;so present it's not any where near as funny as the chicken jokes!!! ", 'old_value': '1965&ndash;present '}}}
+412: {'dictionary_item_removed': {"root['Img_size']": 'he smells bad', "root['Birth_name']": 'baron lloyd webber', "root['Instrument']": 'cello,voilin,guitar,drum,claranet,piano,trumpet,trombone,tuba,keyboard', "root['Genre']": 'female'}}
+419: {'dictionary_item_added': {"root['Img_size']": 'he smells bad', "root['Birth_name']": 'baron lloyd webber', "root['Instrument']": 'cello,voilin,guitar,drum,claranet,piano,trumpet,trombone,tuba,keyboard', "root['Genre']": 'female'}, 'dictionary_item_removed': {"root['academyawards']": "'''Academy Award for Best Original Song", "root['tonyawards']": "'''Tony Award for Best Original Score", "root['goldenglobeawards']": "'''Golden Globe Award for Best Original Song", "root['internationalemmyawards']": "'''Emmy Award for Performing Arts", "root['grammyawards']": "'''Grammy Award for Best Cast Show Album", "root['olivierawards']": "2008 ''Society of London Theatre Special Award''  "}, 'values_changed': {"root['Years_active']": {'new_value': '1965&ndash;present ', 'old_value': '1965&ndash;present'}}}
+435: {'values_changed': {"root['Img']": {'new_value': 'AndrewLloydWebber3.png', 'old_value': 'Lloydwebber.jpg'}}}
+448: {'dictionary_item_removed': {"root['Img_capt']": 'Andrew Lloyd Webber (left) with Cameron Mackintosh'}}
+452: {'dictionary_item_added': {"root['Img_capt']": 'Andrew Lloyd Webber (left) with Cameron Mackintosh'}, 'values_changed': {"root['Img']": {'new_value': 'Lloydwebber.jpg', 'old_value': 'AndrewLloydWebber3.png'}}}
+465: {'dictionary_item_removed': {"root['Birth_name']": 'Andrew Llyod Webber'}}
+472: {'dictionary_item_added': {"root['Birth_name']": 'Andrew Llyod Webber'}, 'values_changed': {"root['Years_active']": {'new_value': '1965&ndash;present', 'old_value': "1965&ndash;Holy crap he's still alive?  Wow"}}}
+473: {'values_changed': {"root['Years_active']": {'new_value': "1965&ndash;Holy crap he's still alive?  Wow", 'old_value': '1965&ndash;present'}}}
+548: {'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Golden Globe Award for Best Original Song", 'old_value': "i am poo '''Golden Globe Award for Best Original Song"}}}
+549: {'values_changed': {"root['goldenglobeawards']": {'new_value': "i am poo '''Golden Globe Award for Best Original Song", 'old_value': "'''Golden Globe Award for Best Original Song"}}}
+745: {'dictionary_item_added': {"root['name']": 'Lord Andrew Lloyd-Webber', "root['Img']": 'AndrewLloydWebber3.png', "root['Background']": 'non_performing_personnel', "root['Born']": 'Birth date and age', "root['Occupation']": 'Composer', "root['Years_active']": '1965&ndash;present', "root['academyawards']": "'''Academy Award for Best Original Song", "root['tonyawards']": "'''Tony Award for Best Original Score", "root['goldenglobeawards']": "'''Golden Globe Award for Best Original Song", "root['internationalemmyawards']": "'''Emmy Award for Performing Arts", "root['grammyawards']": "'''Grammy Award for Best Cast Show Album", "root['olivierawards']": "2008 ''Society of London Theatre Special Award''  "}, 'dictionary_item_removed': {"root['office4']": 'Members of the House of Lords', "root['term_start4']": '25 February 1997', "root['term_end4']": ['Composer', 'panellist', 'television personality', 'songwriter', 'theatre director', 'businessman    | years_active']}}
+746: {'dictionary_item_added': {"root['office4']": 'Members of the House of Lords', "root['term_start4']": '25 February 1997', "root['term_end4']": ['Composer', 'panellist', 'television personality', 'songwriter', 'theatre director', 'businessman    | years_active']}, 'dictionary_item_removed': {"root['office']": 'Members of the House of Lords', "root['term_start']": '25 February 1997', "root['term_end']": ['Composer', 'panellist', 'television personality', 'songwriter', 'theatre director', 'businessman    | years_active']}}
+758: {'dictionary_item_added': {"root['office']": 'Members of the House of Lords', "root['term_start']": '25 February 1997', "root['term_end']": ['Composer', 'panellist', 'television personality', 'songwriter', 'theatre director', 'businessman    | years_active']}, 'dictionary_item_removed': {"root['work']": 'nowrap', "root['list1']": 'befo'}}
+790: {'dictionary_item_added': {"root['work']": 'nowrap', "root['list1']": 'befo'}, 'dictionary_item_removed': {"root['notable_works']": 'nowrap'}}
+834: {'dictionary_item_added': {"root['notable_works']": 'nowrap'}, 'dictionary_item_removed': {"root['list1']": 'befo'}}

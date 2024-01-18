@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": 'Shigeru Miyamoto', "root['occupation']": 'Game designer, Nintendo Entertainment Analysis and Development'}}
+52: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'Shigeru Miyamoto a.k.a. the best videogame deisigner of all time'}}}
+53: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto a.k.a. the best videogame deisigner of all time', 'old_value': 'Shigeru Miyamoto'}}}
+145: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'Shigeru Miyamoto (god)'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto (god)', 'old_value': 'Shigeru Miyamoto'}}}
+329: {'dictionary_item_removed': {"root['spouse']": ' Nihongo', "root['first']": 'Katherine', "root['last']": 'Brice', "root['date']": '24 March 2010', "root['work']": 'GamesIndustry.biz', "root['publisher']": 'Eurogamer Network', "root['accessdate']": '21 June 2010 ', "root['NAME']": 'Miyamoto, Shigeru | ALTERNATIVE NAMES'}}
+342: {'dictionary_item_added': {"root['spouse']": ' Nihongo', "root['first']": 'Katherine', "root['last']": 'Brice', "root['date']": '24 March 2010', "root['work']": 'GamesIndustry.biz', "root['publisher']": 'Eurogamer Network', "root['accessdate']": '21 June 2010 ', "root['NAME']": 'Miyamoto, Shigeru | ALTERNATIVE NAMES'}, 'values_changed': {"root['occupation']": {'new_value': 'Game designer, Nintendo Entertainment Analysis and Development', 'old_value': 'Game designer, Cartoonist, Nintendo Entertainment Analysis and Development'}}}
+375: {'values_changed': {"root['occupation']": {'new_value': 'Game designer, Cartoonist, Nintendo Entertainment Analysis and Development', 'old_value': 'Game Director, Game Producer, Character Artist Game designer, Cartoonist, Nintendo Entertainment Analysis and Development'}}}
+384: {'values_changed': {"root['occupation']": {'new_value': 'Game Director, Game Producer, Character Artist Game designer, Cartoonist, Nintendo Entertainment Analysis and Development', 'old_value': 'Game Director, Game Producer, Character Artist, Game designer, Cartoonist, Nintendo Entertainment Analysis and Development'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'Brian Korng'}}}
+386: {'values_changed': {"root['name']": {'new_value': 'Brian Korng', 'old_value': 'Shigeru Miyamoto'}}}
+390: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'Shiger Butthole'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'Shiger Butthole', 'old_value': 'Shigeru Butthole'}}}
+392: {'values_changed': {"root['name']": {'new_value': 'Shigeru Butthole', 'old_value': 'Shigeru Miyamoto'}}}
+400: {'dictionary_item_removed': {"root['spouse']": 'Yasuko Miyamoto '}}
+413: {'values_changed': {"root['spouse']": {'new_value': 'Yasuko Miyamoto ', 'old_value': 'Reggie Fils Aime '}}}
+415: {'values_changed': {"root['spouse']": {'new_value': 'Reggie Fils Aime ', 'old_value': 'Yasuko Miyamoto '}}}
+418: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'Shigeru Miyamoto aka IAN'}}}
+419: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto aka IAN', 'old_value': 'Shigeru Miyamoto'}}}
+420: {'values_changed': {"root['spouse']": {'new_value': 'Yasuko Miyamoto ', 'old_value': 'Yasiko Miyamotos '}}}
+422: {'values_changed': {"root['spouse']": {'new_value': 'Yasiko Miyamotos ', 'old_value': 'Yasuko Miyamoto '}}}
+427: {'values_changed': {"root['name']": {'new_value': 'Shigeru Miyamoto', 'old_value': 'brandon Miyamoto'}}}
+428: {'values_changed': {"root['name']": {'new_value': 'brandon Miyamoto', 'old_value': 'Shigeru Miyamoto'}}}
+445: {'dictionary_item_removed': {"root['alma_mater']": 'Kanazawa College of Art', "root['children']": '2', "root['Education']": 'Kanazawa College of Art'}, 'values_changed': {"root['occupation']": {'new_value': 'Game Director, Game Producer, Character Artist, Game designer, Cartoonist, Nintendo Entertainment Analysis and Development', 'old_value': 'Video game producer, video game director, video game designer, General Manager of Nintendo Entertainment Analysis and Development'}, "root['spouse']": {'new_value': 'Yasuko Miyamoto ', 'old_value': 'Yasuko Miyamoto'}}}
+465: {'values_changed': {"root['occupation']": {'new_value': 'Video game producer, video game director, video game designer, General Manager of Nintendo Entertainment Analysis and Development', 'old_value': 'Video game producer, video game director, video game designer, General Manager of Nintendo Entertainment Analysis & Development'}}}
+468: {'values_changed': {"root['occupation']": {'new_value': 'Video game producer, video game director, video game designer, General Manager of Nintendo Entertainment Analysis & Development', 'old_value': 'Video game producer, video game director, video game designer, general manager of Nintendo Entertainment Analysis & Development'}}}
+471: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'two'}}}
+482: {'values_changed': {"root['children']": {'new_value': 'two', 'old_value': '2'}}}
+488: {'values_changed': {"root['occupation']": {'new_value': 'Video game producer, video game director, video game designer, general manager of Nintendo Entertainment Analysis & Development', 'old_value': 'At Nintendo'}}}
+514: {'dictionary_item_added': {"root['Education']": 'Kanazawa College of Art'}, 'dictionary_item_removed': {"root['education']": 'Kanazawa College of Art'}}
+550: {'dictionary_item_added': {"root['education']": 'Kanazawa College of Art'}, 'dictionary_item_removed': {"root['employer']": 'Nintendo (1977–present)'}}
+551: {'dictionary_item_added': {"root['employer']": 'Nintendo (1977–present)'}, 'values_changed': {"root['occupation']": {'new_value': 'At Nintendo', 'old_value': 'Game designer, game producer'}}}
+570: {'dictionary_item_removed': {"root['awards']": 'Academy of Interactive Arts & Sciences#Hall of Fame'}}
+644: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Game designer, game producer'}}}
+682: {'dictionary_item_removed': {"root['notable_works']": 'Donkey Kong, Super Mario, The Legend of Zelda, Star Fox, Pikmin, F-Zero, Exitebike, Nintendogs'}}
+689: {'values_changed': {"root['notable_works']": {'new_value': 'Donkey Kong, Super Mario, The Legend of Zelda, Star Fox, Pikmin, F-Zero, Exitebike, Nintendogs', 'old_value': 'ubl'}}}
+702: {'dictionary_item_removed': {"root['employer']": 'Nintendo (1977-present)'}}
+705: {'values_changed': {"root['employer']": {'new_value': 'Nintendo (1977-present)', 'old_value': 'Nintendo (1977–present)'}}}

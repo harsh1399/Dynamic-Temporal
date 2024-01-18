@@ -1,0 +1,49 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Tom Jones', "root['background']": 'solo_singer', "root['genre']": 'Pop rock, country music', "root['occupation']": 'Singer', "root['label']": 'Columbia Graphophone Company'}}
+9: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Sir Tom welsh'}}}
+10: {'values_changed': {"root['name']": {'new_value': 'Sir Tom welsh', 'old_value': 'Sir Tom Jones'}}}
+15: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, actor'}}}
+23: {'values_changed': {"root['occupation']": {'new_value': 'Singer, actor', 'old_value': 'Singer, Composer, Actor'}}}
+25: {'values_changed': {"root['occupation']": {'new_value': 'Singer, Composer, Actor', 'old_value': 'Singer'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Sir Tom King Jones'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'Sir Tom King Jones', 'old_value': 'Sir Tom Jones'}}}
+61: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, songwriter, actor'}}}
+62: {'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter, actor', 'old_value': 'Singer'}}}
+81: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Pop rock, country music'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Columbia Graphophone Company'}}}
+117: {'dictionary_item_removed': {"root['instrument']": 'Vocals'}, 'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Musician'}}}
+118: {'values_changed': {"root['occupation']": {'new_value': 'Musician', 'old_value': 'Singer'}}}
+121: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, actor'}}}
+122: {'values_changed': {"root['occupation']": {'new_value': 'Singer, actor', 'old_value': 'Singer'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Sir Tom Jones valued customer of s.morgans electrics.'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer/electrical emgineering'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones valued customer of s.morgans electrics.', 'old_value': 'Sir Tom Jones'}, "root['background']": {'new_value': 'solo_singer/electrical emgineering', 'old_value': 'solo_singer'}}}
+189: {'dictionary_item_added': {"root['background']": 'solo_singer', "root['genre']": [], "root['occupation']": 'Singer', "root['instrument']": 'Vocals', "root['label']": []}, 'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Ťimka'}}}
+190: {'dictionary_item_removed': {"root['background']": 'solo_singer', "root['genre']": [], "root['occupation']": 'Singer', "root['instrument']": 'Vocals', "root['label']": []}, 'values_changed': {"root['name']": {'new_value': 'Ťimka', 'old_value': 'Sir Tom Jones'}}}
+227: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Tom Jones'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'Tom Jones', 'old_value': 'Sir Tom Jones'}}}
+247: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals'}}}
+248: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals', 'new_value': []}}}
+285: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Tom Jones'}}}
+292: {'values_changed': {"root['name']": {'new_value': 'Tom Jones', 'old_value': 'Sir Tom Jones'}}}
+293: {'values_changed': {"root['name']": {'new_value': 'Sir Tom Jones', 'old_value': 'Tom Jones'}}}
+301: {'values_changed': {"root['name']": {'new_value': 'Tom Jones', 'old_value': 'Glenn Stewart'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'Glenn Stewart', 'old_value': 'Tom Jones'}}}
+303: {'values_changed': {"root['name']": {'new_value': 'Tom Jones', 'old_value': 'Glenn Stewart'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'Glenn Stewart', 'old_value': 'Tom Jones'}}}
+317: {'values_changed': {"root['name']": {'new_value': 'Tom Jones', 'old_value': 'Owain Hale'}}}
+318: {'values_changed': {"root['name']": {'new_value': 'Owain Hale', 'old_value': 'Tom Jones'}}}
+331: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, Actor, Author'}}}
+332: {'values_changed': {"root['occupation']": {'new_value': 'Singer, Actor, Author', 'old_value': 'Singer'}}}
+355: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, actor'}}}
+356: {'values_changed': {"root['occupation']": {'new_value': 'Singer, actor', 'old_value': 'Singer'}}}
+379: {'dictionary_item_removed': {"root['associated_acts']": 'ubl'}}
+381: {'dictionary_item_added': {"root['associated_acts']": 'ubl'}, 'dictionary_item_removed': {"root['spouse']": [], "root['rowspan']": '"3" | Theme Singer |  |- | 1965 | \'\'Promise Her Anything\'\' |  |- | 1965 | \'\'Thunderball\'\' | |- | 1972 | \'\'The Special London Bridge Special\'\' |'}}
+385: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '|Melinda Trenchard<|', 'new_value': []}}, 'dictionary_item_added': {"root['instrument']": 'Vocals', "root['label']": [], "root['rowspan']": '"3" | Theme Singer |  |- | 1965 | \'\'Promise Her Anything\'\' |  |- | 1965 | \'\'Thunderball\'\' | |- | 1972 | \'\'The Special London Bridge Special\'\' |'}}
+386: {'values_changed': {"root['spouse']": {'new_value': '|Melinda Trenchard<|', 'old_value': 'Melinda Trenchard<|'}}}
+387: {'values_changed': {"root['spouse']": {'new_value': 'Melinda Trenchard<|', 'old_value': '2016|reason'}}}
+389: {'dictionary_item_added': {"root['spouse']": '2016|reason'}, 'dictionary_item_removed': {"root['instrument']": 'Vocals', "root['label']": []}}
+390: {'dictionary_item_removed': {"root['associated_acts']": 'ubl'}}
+456: {'dictionary_item_added': {"root['associated_acts']": 'ubl'}, 'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'murderer'}, "root['instrument']": {'new_value': 'Vocals', 'old_value': 'yo momma'}}}
+457: {'values_changed': {"root['occupation']": {'new_value': 'murderer', 'old_value': 'Singer'}, "root['instrument']": {'new_value': 'yo momma', 'old_value': 'Vocals'}}}
+477: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'trapper'}}}
+478: {'values_changed': {"root['occupation']": {'new_value': 'trapper', 'old_value': 'Singer'}}}
+485: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer'}}}
+486: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer', 'new_value': []}}}

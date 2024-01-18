@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lesley Gore', "root['background']": 'solo_singer', "root['instrument']": 'singing', "root['genre']": 'Pop music', "root['occupation']": 'Singer'}}
+15: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer - Rug Muncher'}}}
+16: {'values_changed': {"root['occupation']": {'new_value': 'Singer - Rug Muncher', 'old_value': 'Singer'}}}
+17: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Vocals'}}}
+21: {'dictionary_item_removed': {"root['label']": 'Mercury Records'}}
+75: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Flatlist'}, "root['occupation']": {'new_value': 'Vocals', 'old_value': 'Flatlist'}, "root['label']": {'new_value': 'Mercury Records', 'old_value': 'Flatlist'}}}
+144: {'dictionary_item_removed': {"root['partner']": 'Lois Sasson'}}
+170: {'dictionary_item_removed': {"root['notable_works']": "It's My Party (#number 1 pop and R&B Charts)"}}
+173: {'values_changed': {"root['notable_works']": {'new_value': "It's My Party (#number 1 pop and R&B Charts)", 'old_value': '"It\'s My Party" (No. 1 pop and R&B charts)'}}}
+176: {'values_changed': {"root['notable_works']": {'new_value': '"It\'s My Party" (No. 1 pop and R&B charts)', 'old_value': '"It\'s My Party" , "Judy\'s Turn to Cry" , "You Don\'t Own Me".'}}}
+177: {'dictionary_item_added': {"root['notable_works']": '"It\'s My Party" , "Judy\'s Turn to Cry" , "You Don\'t Own Me".', "root['partner']": 'Lois Sasson', "root['label']": 'Flatlist'}, 'dictionary_item_removed': {"root['background']": 'solo_singer'}, 'values_changed': {"root['occupation']": {'new_value': 'Flatlist', 'old_value': 'Singer'}, "root['genre']": {'new_value': 'Flatlist', 'old_value': 'Pop music'}}}
+179: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'dictionary_item_removed': {"root['notable_works']": '"It\'s My Party" , "Judy\'s Turn to Cry" , "You Don\'t Own Me".', "root['partner']": 'Lois Sasson', "root['label']": 'Flatlist'}, 'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Flatlist'}, "root['occupation']": {'new_value': 'Singer', 'old_value': 'Flatlist'}}}
+216: {'dictionary_item_removed': {"root['background']": 'solo_singer'}}
+244: {'dictionary_item_removed': {"root['known_for']": 'singer-songwriter'}}
+257: {'dictionary_item_added': {"root['known_for']": 'singer-songwriter'}, 'dictionary_item_removed': {"root['net_worth']": 'U.S. $5 million (2015 estimate)<ref name'}, 'values_changed': {"root['partner']": {'new_value': 'Lois Sasson', 'old_value': "Lois Sasson,  (1982–2015; Gore's death)"}}}
+274: {'dictionary_item_removed': {"root['first']": 'Dave', "root['last']": 'Laing', "root['year']": '1963–2014', "root['publisher']": 'Celebrity Net Worth', "root['location']": 'London', "root['page']": '159', "root['isbn']": '0-214-20512-6', "root['NAME']": 'Gore, Lesley | ALTERNATIVE NAMES'}}
+295: {'dictionary_item_added': {"root['first']": 'Dave', "root['last']": 'Laing', "root['year']": '1963–2014', "root['publisher']": 'Celebrity Net Worth', "root['location']": 'London', "root['page']": '159', "root['isbn']": '0-214-20512-6', "root['NAME']": 'Gore, Lesley | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['education']": 'Sarah Lawrence, 1968'}}

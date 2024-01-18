@@ -1,0 +1,22 @@
+15: {'dictionary_item_removed': {"root['name']": 'Tom Ford', "root['education']": 'Parsons The New School for Design', "root['label_name']": 'Cathy Hardwick, Perry Ellis (brand)'}}
+51: {'values_changed': {"root['label_name']": {'new_value': 'Cathy Hardwick, Perry Ellis (brand)', 'old_value': 'Cathy Hard dick, Perry Ellis (brand)'}}}
+52: {'values_changed': {"root['label_name']": {'new_value': 'Cathy Hard dick, Perry Ellis (brand)', 'old_value': 'Cathy Hardwick, Perry Ellis (brand)'}}}
+90: {'values_changed': {"root['education']": {'new_value': 'Parsons The New School for Design', 'old_value': 'The New School (Parsons division)'}}}
+102: {'dictionary_item_removed': {"root['occupation']": 'Fashion designer, film director'}, 'values_changed': {"root['education']": {'new_value': 'The New School (Parsons division)', 'old_value': 'Parsons The New School for Design'}}}
+135: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director', 'old_value': "Fashion designer, film director, loves ho's"}}}
+137: {'values_changed': {"root['occupation']": {'new_value': "Fashion designer, film director, loves ho's", 'old_value': 'Fashion designer, film director'}}}
+141: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director', 'old_value': 'Fashion designer, porn director'}}}
+142: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, porn director', 'old_value': 'Fashion designer, film director'}}}
+144: {'dictionary_item_removed': {"root['spouse']": 'Richard Buckley '}}
+163: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director', 'old_value': 'Fashion designer, film director, Juggalo President'}}}
+164: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director, Juggalo President', 'old_value': 'Fashion designer, film director'}}}
+171: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director', 'old_value': 'Fashion designer, film director, President of American Juggalo Society'}}}
+172: {'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director, President of American Juggalo Society', 'old_value': 'Fashion designer, film director'}}}
+185: {'dictionary_item_added': {"root['label_name']": 'Cathy Hardwick, Perry Ellis (brand)', "root['spouse']": 'Richard Buckley '}, 'dictionary_item_removed': {"root['NAME']": 'Ford, Tom | ALTERNATIVE NAMES'}, 'values_changed': {"root['education']": {'new_value': 'Parsons The New School for Design', 'old_value': 'Parsons The New School for DesHohihihihihihihihihi'}}}
+186: {'dictionary_item_added': {"root['NAME']": 'Ford, Tom | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['label_name']": 'Cathy Hardwick, Perry Ellis (brand)', "root['spouse']": 'Richard Buckley '}, 'values_changed': {"root['education']": {'new_value': 'Parsons The New School for DesHohihihihihihihihihi', 'old_value': 'Parsons The New School for Design'}}}
+197: {'dictionary_item_added': {"root['education']": 'Parsons The New School for Design'}, 'dictionary_item_removed': {"root['alma_mater']": 'Parsons School of Design', "root['children']": '1'}, 'values_changed': {"root['occupation']": {'new_value': 'Fashion designer, film director', 'old_value': 'Fashion designer, filmmaker'}, "root['label_name']": {'new_value': 'Cathy Hardwick, Perry Ellis (brand)', 'old_value': 'Gucci (1990–2004) Yves Saint Laurent (brand)'}, "root['spouse']": {'new_value': 'Richard Buckley ', 'old_value': 'marriage'}}}
+225: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '0'}}}
+236: {'values_changed': {"root['children']": {'new_value': '0', 'old_value': '1'}}}
+294: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Fashion designer, filmmaker'}, "root['label_name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Gucci (1990–2004) Yves Saint Laurent (brand)'}}}
+309: {'values_changed': {"root['name']": {'new_value': 'Tom Ford', 'old_value': 'Harrison Ford'}}}
+310: {'values_changed': {"root['name']": {'new_value': 'Harrison Ford', 'old_value': 'Tom Ford'}}}

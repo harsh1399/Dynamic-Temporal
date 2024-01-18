@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['name']": 'John Hughes', "root['birthdate']": 'birth date and age', "root['location']": 'Lansing, Michigan', "root['yearsactive']": '1982 — present'}}
+18: {'values_changed': {"root['yearsactive']": {'new_value': '1982 — present', 'old_value': '1982–present'}}}
+40: {'values_changed': {"root['yearsactive']": {'new_value': '1982–present', 'old_value': '1982–1994'}}}
+72: {'dictionary_item_removed': {"root['deathdate']": 'August 6, 2009', "root['deathplace']": 'New York City, NY'}}
+76: {'values_changed': {"root['location']": {'new_value': 'Lansing, Michigan', 'old_value': 'Belfast, Northern Ireland, Michigan, United States'}}}
+86: {'values_changed': {"root['location']": {'new_value': 'Belfast, Northern Ireland, Michigan, United States', 'old_value': 'Lansing, Michigan, United States'}}}
+99: {'values_changed': {"root['deathplace']": {'new_value': 'New York City, NY', 'old_value': 'New York City'}}}
+104: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}, "root['deathdate']": {'new_value': 'August 6, 2009', 'old_value': 'death date and age'}}}
+119: {'values_changed': {"root['deathplace']": {'new_value': 'New York City', 'old_value': 'New York City, New York, United States'}}}
+136: {'dictionary_item_added': {"root['location']": 'Lansing, Michigan, United States'}, 'dictionary_item_removed': {"root['birthplace']": 'Lansing, Michigan, United States'}}
+139: {'dictionary_item_removed': {"root['birthname']": 'John Hughes, Jr.', "root['occupation']": 'Director, producer, writer'}, 'values_changed': {"root['birthplace']": {'new_value': 'Lansing, Michigan, United States', 'old_value': 'city-state'}, "root['deathplace']": {'new_value': 'New York City, New York, United States', 'old_value': 'city-state'}}}
+142: {'dictionary_item_removed': {"root['spouse']": 'Nancy Ludwig'}}
+157: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Ludwig', 'old_value': 'Nancy Ludwig (1970-2009)'}}}
+163: {'values_changed': {"root['yearsactive']": {'new_value': '1982–1994', 'old_value': '1979–2001'}}}
+170: {'values_changed': {"root['deathplace']": {'new_value': 'city-state', 'old_value': 'New York City,, United States'}}}
+171: {'values_changed': {"root['deathplace']": {'new_value': 'New York City,, United States', 'old_value': 'New York City, United States'}}}
+195: {'values_changed': {"root['yearsactive']": {'new_value': '1979–2001', 'old_value': '1979–2008'}}}
+222: {'values_changed': {"root['deathplace']": {'new_value': 'New York City, United States', 'old_value': 'city-state'}}}
+253: {'values_changed': {"root['birthname']": {'new_value': 'John Hughes, Jr.', 'old_value': 'John Wilden Hughes, Jr.'}}}
+263: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Ludwig (1970-2009)', 'old_value': 'Nancy Ludwig (1970&ndash;2009) (his death)'}}}
+343: {'values_changed': {"root['yearsactive']": {'new_value': '1979–2008', 'old_value': '1969–2008'}}}
+406: {'values_changed': {"root['birthname']": {'new_value': 'John Wilden Hughes, Jr.', 'old_value': 'John Wilden Hughes, Jr. (wait...Stephen King?)'}}}
+407: {'values_changed': {"root['birthname']": {'new_value': 'John Wilden Hughes, Jr. (wait...Stephen King?)', 'old_value': 'John Wilden Hughes, Jr.'}, "root['spouse']": {'new_value': 'Nancy Ludwig (1970&ndash;2009) (his death)', 'old_value': 'Nancy Ludwig (1970&ndash;2009)'}}}
+411: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Ludwig (1970&ndash;2009)', 'old_value': 'Nancy Ludwig (1970&ndash;)'}}}
+413: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Ludwig (1970&ndash;)', 'old_value': 'Nancy Ludwig (1970&ndash;2009)'}}}
+581: {'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'birth date and age'}}}
+582: {'values_changed': {"root['yearsactive']": {'new_value': '1969–2008', 'old_value': '1969–2009'}}}
+584: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+595: {'dictionary_item_added': {"root['birthname']": 'John Wilden Hughes, Jr.', "root['birthdate']": 'birth date', "root['birthplace']": 'city-state', "root['deathdate']": 'death date and age', "root['deathplace']": 'city-state', "root['yearsactive']": '1969–2009'}, 'values_changed': {"root['name']": {'new_value': 'John Hughes', 'old_value': 'John Houston'}}}
+596: {'values_changed': {"root['name']": {'new_value': 'John Houston', 'old_value': 'John Hughes'}}}
+600: {'values_changed': {"root['spouse']": {'new_value': 'Nancy Ludwig (1970&ndash;2009)', 'old_value': 'Nancy Ludwig (1970–2009)'}}}

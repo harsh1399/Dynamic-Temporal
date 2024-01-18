@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['birthdate']": 'birth date and age', "root['birthname']": 'Liliane Rudabet Gloria Elsveta Sobieski', "root['birthplace']": 'city-state', "root['occupation']": 'Actress', "root['yearsactive']": '1995&ndash;present '}}
+12: {'dictionary_item_removed': {"root['spouse']": 'Adam Kimmel (2009 -present) 1 child '}, 'values_changed': {"root['yearsactive']": {'new_value': '1995&ndash;present ', 'old_value': '1995&ndash;present'}}}
+22: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel (2009 -present) 1 child ', 'old_value': 'Jimmy Kimmel (2009 -present) 1 child '}}}
+24: {'values_changed': {"root['spouse']": {'new_value': 'Jimmy Kimmel (2009 -present) 1 child ', 'old_value': 'Adam Kimmel (2009 -present) 1 child '}}}
+41: {'dictionary_item_added': {"root['spouse']": 'Adam Kimmel (2009 -present) 1 child '}, 'dictionary_item_removed': {"root['fiancee']": 'Adam Kimmel (2009 -present) 1 child '}}
+43: {'dictionary_item_added': {"root['fiancee']": 'Adam Kimmel (2009 -present) 1 child '}, 'dictionary_item_removed': {"root['spouse']": 'Adam Kimmel (2009 -present) 1 child '}}
+130: {'dictionary_item_added': {"root['spouse']": 'Adam Kimmel (2009 -present) 1 child '}, 'dictionary_item_removed': {"root['partner']": 'Adam Kimmel (2009–present) '}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'Birth date and age'}, "root['birthplace']": {'new_value': 'city-state', 'old_value': 'New York City, New York, U.S.'}, "root['yearsactive']": {'new_value': '1995&ndash;present', 'old_value': '1995–present'}}}
+183: {'dictionary_item_added': {"root['birthdate']": 'Birth date and age', "root['birthname']": 'Liliane Rudabet Gloria Elsveta Sobieski', "root['birthplace']": 'New York City, New York, U.S.', "root['yearsactive']": '1995–present'}, 'values_changed': {"root['partner']": {'new_value': 'Adam Kimmel (2009–present) ', 'old_value': 'Paul Rudd (2009–present) '}}}
+184: {'values_changed': {"root['partner']": {'new_value': 'Paul Rudd (2009–present) ', 'old_value': 'Adam Kimmel (2009–present) '}}}
+185: {'dictionary_item_added': {"root['partner']": 'Adam Kimmel (2009–present) '}, 'dictionary_item_removed': {"root['spouse']": 'Adam Kimmel (2010–present) '}}
+210: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel (2010–present) ', 'old_value': 'Matthew Davis (2008-2009) Adam Kimmel (2010–present) '}}}
+211: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis (2008-2009) Adam Kimmel (2010–present) ', 'old_value': 'Adam Kimmel (2010–present) '}}}
+213: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel (2010–present) ', 'old_value': 'Matt Davis (2009-2009) Adam Kimmel (2010–present) '}}}
+216: {'values_changed': {"root['spouse']": {'new_value': 'Matt Davis (2009-2009) Adam Kimmel (2010–present) ', 'old_value': 'Adam Kimmel (2010–present) '}}}
+218: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Matthew Davis (2008–2009)', 'Adam Kimmel (2010–present)'], 'new_value': 'Adam Kimmel (2010–present) '}}}
+219: {'values_changed': {"root['spouse'][0]": {'new_value': 'Matthew Davis (2008–2009)', 'old_value': 'Matt Davis (2008–2009)'}}}
+220: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Adam Kimmel (2010–present) ', 'new_value': ['Matt Davis (2008–2009)', 'Adam Kimmel (2010–present)']}}}
+230: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel (2010–present) ', 'old_value': 'Matthew Davis ,  (m. 2008–2009)  , Adam Kimmel ,  (2010–present)  '}}}
+232: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis ,  (m. 2008–2009)  , Adam Kimmel ,  (2010–present)  ', 'old_value': 'Adam Kimmel (2010–present) '}}}
+236: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel (2010–present) ', 'old_value': 'Matthew_Davis (2008-2009) Adam Kimmel (2010–present) '}}}
+237: {'values_changed': {"root['spouse']": {'new_value': 'Matthew_Davis (2008-2009) Adam Kimmel (2010–present) ', 'old_value': 'Matthew Davis (2008-2009) Adam Kimmel (2010–present) '}}}
+238: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis (2008-2009) Adam Kimmel (2010–present) ', 'old_value': 'Matthew Davis   Adam Kimmel '}}}
+262: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis   Adam Kimmel ', 'old_value': 'Adam Kimmel '}}}
+263: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel ', 'old_value': 'Matthew Davis   Adam Kimmel '}}}
+264: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis   Adam Kimmel ', 'old_value': 'Adam Kimmel '}}}
+265: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel ', 'old_value': 'Matthew Davis   Adam Kimmel '}}}
+266: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis   Adam Kimmel ', 'old_value': 'Adam Kimmel '}}}
+267: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel ', 'old_value': 'Adam Kimmel    '}}}
+268: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel    ', 'old_value': 'Matthew Davis   Adam Kimmel '}}}
+270: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis   Adam Kimmel ', 'old_value': 'Adam Kimmel '}}}
+271: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel ', 'old_value': 'Matthew Davis   Adam Kimmel '}}}
+272: {'values_changed': {"root['spouse']": {'new_value': 'Matthew Davis   Adam Kimmel ', 'old_value': 'Adam Kimmel '}}}
+276: {'values_changed': {"root['spouse']": {'new_value': 'Adam Kimmel ', 'old_value': 'Matt DavisAdam Kimmel '}}}
+277: {'values_changed': {"root['spouse']": {'new_value': 'Matt DavisAdam Kimmel ', 'old_value': 'Adam Kimmel '}}}

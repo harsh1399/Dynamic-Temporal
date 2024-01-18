@@ -1,0 +1,46 @@
+0: {'dictionary_item_removed': {"root['name']": 'Hank Azaria', "root['birthdate']": 'April 25, 1964', "root['location']": 'Queens, New York', "root['birthname']": 'Henry Albert Azaria', "root['homepage']": '| notable role'}}
+47: {'values_changed': {"root['birthdate']": {'new_value': 'April 25, 1964', 'old_value': 'April 25, 1964(Age 43)'}}}
+51: {'values_changed': {"root['birthdate']": {'new_value': 'April 25, 1964(Age 43)', 'old_value': 'April 25, 1964 (Age 42)'}}}
+52: {'values_changed': {"root['birthdate']": {'new_value': 'April 25, 1964 (Age 42)', 'old_value': 'birth date and age'}}}
+58: {'values_changed': {"root['location']": {'new_value': 'Queens, New York', 'old_value': 'flagicon'}}}
+86: {'dictionary_item_removed': {"root['spouse']": 'Helen Hunt (1999-2000)'}}
+93: {'dictionary_item_added': {"root['homepage']": '| notable role'}, 'dictionary_item_removed': {"root['sagawards']": "Best Cast - Motion Picture   1996 ''The Birdcage'' | notable role"}}
+94: {'values_changed': {"root['sagawards']": {'new_value': "Best Cast - Motion Picture   1996 ''The Birdcage'' | notable role", 'old_value': "'''Best Cast in a Motion Picture'''   1996 ''The Birdcage'' | notable role"}}}
+98: {'dictionary_item_removed': {"root['bgcolour']": 'darkblue'}}
+110: {'dictionary_item_added': {"root['bgcolour']": 'darkblue'}, 'dictionary_item_removed': {"root['othername']": 'gay boy,hanky panky'}}
+116: {'dictionary_item_added': {"root['othername']": 'gay boy,hanky panky'}, 'dictionary_item_removed': {"root['emmyawards']": "'''Primetime Emmy Award for Outstanding Voice-Over Performance"}, 'values_changed': {"root['sagawards']": {'new_value': "'''Best Cast in a Motion Picture'''   1996 ''The Birdcage'' | notable role", 'old_value': "'''Best Cast in a Motion Picture''' ,  1996 ''The Birdcage'' | notable role"}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Hank Azaria', 'old_value': 'Karen Smith'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'Karen Smith', 'old_value': 'Hank Azaria'}}}
+126: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Queens, New York flagicon'}}}
+144: {'dictionary_item_removed': {"root['partner']": 'Julie Warner (1990s)'}, 'values_changed': {"root['location']": {'new_value': 'Queens, New York flagicon', 'old_value': 'Queens, New York United States'}, "root['sagawards']": {'new_value': "'''Best Cast in a Motion Picture''' ,  1996 ''The Birdcage'' | notable role", 'old_value': "'''Best Cast in a Motion Picture''' ,  1996 ''The Birdcage'' "}}}
+153: {'dictionary_item_removed': {"root['yearsactive']": '1989 - present'}, 'values_changed': {"root['location']": {'new_value': 'Queens, New York United States', 'old_value': 'Forest Hills, Queens, New York, United States'}}}
+198: {'values_changed': {"root['birthname']": {'new_value': 'Henry Albert Azaria', 'old_value': 'Hank Albert Azaria'}}}
+215: {'dictionary_item_added': {"root['emmyawards']": "'''Primetime Emmy Award for Outstanding Voice-Over Performance"}, 'values_changed': {"root['yearsactive']": {'new_value': '1989 - present', 'old_value': '(1989 - present)'}}}
+216: {'dictionary_item_removed': {"root['emmyawards']": "'''Primetime Emmy Award for Outstanding Voice-Over Performance"}, 'values_changed': {"root['yearsactive']": {'new_value': '(1989 - present)', 'old_value': '1989 - present'}}}
+260: {'values_changed': {"root['yearsactive']": {'new_value': '1989 - present', 'old_value': '1988 - present'}}}
+261: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Forest Hills, Queens, New York, United States', "root['partner']": 'Julie Warner (1990s)', "root['birthname']": 'Hank Albert Azaria', "root['yearsactive']": '1988 - present', "root['emmyawards']": "'''Primetime Emmy Award for Outstanding Voice-Over Performance", "root['sagawards']": "'''Best Cast in a Motion Picture''' ,  1996 ''The Birdcage'' "}, 'dictionary_item_removed': {"root['occupation']": [], "root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999-2000)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)'}}}
+267: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)'}}}
+268: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)'}}}
+269: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)'}}}
+270: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)'}}}
+271: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)'}}}
+272: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)'}}}
+274: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (?–present)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (2007–present)'}}}
+277: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, voice actor, comedian, producer', 'new_value': []}}}
+280: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (2007–present)', 'old_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (2007–present)'}}}
+281: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (2007–present)', 'old_value': 'Helen Hunt (1999–2000), Katie Wright (2007–present)'}}}
+282: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000), Katie Wright (2007–present)', 'old_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (2007–present)'}}}
+287: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (1999–2000; divorced), Katie Wright (2007–present)', 'old_value': 'Helen Hunt (m. 1999–2000; divorced), Katie Wright (m. 2007–present)'}}}
+305: {'dictionary_item_removed': {"root['notable_works']": "''The Simpsons''"}, 'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt (m. 1999–2000; divorced), Katie Wright (m. 2007–present)', 'old_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)'}}}
+306: {'values_changed': {"root['notable_works']": {'new_value': "''The Simpsons''", 'old_value': "''The Swan Princess''"}}}
+307: {'values_changed': {"root['notable_works']": {'new_value': "''The Swan Princess''", 'old_value': "''The Simpsons''"}}}
+311: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)', 'old_value': 'marriage'}}}
+312: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)'}}}
+313: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)', 'old_value': 'marriage'}}}
+316: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)'}}}
+319: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)', 'old_value': 'marriage'}}}
+322: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)'}}}
+325: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)', 'old_value': 'marriage'}}}
+344: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)'}}}
+345: {'values_changed': {"root['spouse']": {'new_value': 'Helen Hunt, (m. 1999–2000; divorced), Katie Wright, (m. 2007–present)', 'old_value': 'marriage'}}}
+385: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.'}}

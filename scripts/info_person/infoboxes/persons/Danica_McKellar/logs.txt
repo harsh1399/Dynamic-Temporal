@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Danica McKellar', "root['birthname']": 'Danica Mae McKellar', "root['birthdate']": 'birth date and age', "root['location']": 'La Jolla, San Diego, California, U.S.A.', "root['occupation']": 'Actress, Writer', "root['yearsactive']": '1985 - present', "root['homepage']": 'http://www.danicamckellar.com/'}}
+42: {'dictionary_item_removed': {"root['spouse']": 'married'}}
+43: {'values_changed': {"root['spouse']": {'new_value': 'married', 'old_value': 'Mike Verta'}}}
+59: {'values_changed': {"root['location']": {'new_value': 'La Jolla, San Diego, California, U.S.A.', 'old_value': 'city-state'}, "root['occupation']": {'new_value': 'Actress, Writer', 'old_value': 'Actress, writer'}, "root['yearsactive']": {'new_value': '1985 - present', 'old_value': '1985 &ndash; present'}, "root['homepage']": {'new_value': 'http://www.danicamckellar.com/', 'old_value': 'http://www.danicamckellar.com/ '}}}
+68: {'values_changed': {"root['yearsactive']": {'new_value': '1985 &ndash; present', 'old_value': '1985&ndash;present'}}}
+88: {'values_changed': {"root['yearsactive']": {'new_value': '1985&ndash;present', 'old_value': '1990&ndash;present'}}}
+129: {'dictionary_item_added': {"root['birthname']": 'Danica Mae McKellar', "root['birthdate']": 'birth date and age', "root['location']": 'city-state', "root['yearsactive']": '1990&ndash;present', "root['homepage']": 'http://www.danicamckellar.com/ '}, 'dictionary_item_removed': {"root['education']": "Bachelor's degree (''Latin honors"}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, writer', 'old_value': 'Actress, author, education advocate and director'}, "root['spouse']": {'new_value': 'Mike Verta', 'old_value': 'Mike Verta (2009&ndash;present)'}}}
+153: {'values_changed': {"root['spouse']": {'new_value': 'Mike Verta (2009&ndash;present)', 'old_value': 'Mike Verta (2009-2012)'}}}
+156: {'values_changed': {"root['spouse']": {'new_value': 'Mike Verta (2009-2012)', 'old_value': 'Mike Verta (2009'}}}
+159: {'values_changed': {"root['spouse']": {'new_value': 'Mike Verta (2009', 'old_value': 'Mike Verta (2009-2012)'}}}
+198: {'values_changed': {"root['spouse']": {'new_value': 'Mike Verta (2009-2012)', 'old_value': 'Mike Verta (2009–2012)'}}}
+223: {'dictionary_item_removed': {"root['children']": '1'}}
+237: {'values_changed': {"root['education']": {'new_value': "Bachelor's degree (''Latin honors", 'old_value': "Bachelor of Science in Mathematics (''Latin honors"}}}
+238: {'values_changed': {"root['education']": {'new_value': "Bachelor of Science in Mathematics (''Latin honors", 'old_value': "Bachelor of Science in Mathematics with honors (''Latin honors"}}}
+239: {'values_changed': {"root['occupation']": {'new_value': 'Actress, author, education advocate and director', 'old_value': 'Actress, author, mathematics education advocate and director'}}}
+268: {'values_changed': {"root['spouse']": {'new_value': 'Mike Verta (2009–2012)', 'old_value': 'Plainlist'}}}
+273: {'dictionary_item_removed': {"root['alma_mater']": 'University of California, Los Angeles'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, author, mathematics education advocate and director', 'old_value': 'Actress, mathematics writer, education advocate'}}}
+293: {'values_changed': {"root['occupation']": {'new_value': 'Actress, mathematics writer, education advocate', 'old_value': 'Actress, voice actress, mathematics writer, education advocate'}}}
+294: {'values_changed': {"root['occupation']": {'new_value': 'Actress, voice actress, mathematics writer, education advocate', 'old_value': 'Actress, mathematics writer, education advocate'}}}

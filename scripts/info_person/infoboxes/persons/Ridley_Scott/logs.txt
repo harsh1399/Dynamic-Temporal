@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Ridley Scott', "root['occupation']": 'Film director and producer', "root['notable_works']": "''Alien (film)", "root['spouse']": 'Felicity Heywood (m. 1964 – div. 1975) Sandy Watson (m. 1979 – div. 1989)', "root['children']": 'Jake Scott (director)'}}
+45: {'dictionary_item_removed': {"root['religion']": 'None(atheist)'}}
+47: {'values_changed': {"root['religion']": {'new_value': 'None(atheist)', 'old_value': 'Atheist'}}}
+73: {'dictionary_item_added': {"root['religion']": 'Atheist'}, 'values_changed': {"root['name']": {'new_value': 'Sir Ridley Scott', 'old_value': 'Sir Ridley Didley Scott'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Sir Ridley Didley Scott', 'old_value': 'Sir Ridley Scott'}}}
+118: {'dictionary_item_added': {"root['notable_works']": "''Alien (film)"}, 'dictionary_item_removed': {"root['notable_worksbbb']": "''Alien (film)"}}
+119: {'dictionary_item_added': {"root['notable_worksbbb']": "''Alien (film)"}, 'dictionary_item_removed': {"root['notable_works']": "''Alien (film)"}}
+125: {'dictionary_item_removed': {"root['alma_mater']": 'Royal College of Art'}}
+189: {'values_changed': {"root['occupation']": {'new_value': 'Film director and producer', 'old_value': 'Film director and Film producer'}}}

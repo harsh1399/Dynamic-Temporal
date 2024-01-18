@@ -1,0 +1,73 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gwyneth Paltrow', "root['occupation']": 'Actress/Singer', "root['spouse']": 'Chris Martin'}}
+1: {'dictionary_item_added': {"root['spouse']": 'Chris Martin'}, 'dictionary_item_removed': {"root['rowspan']": '2', "root['align']": '"center" ! style', "root['colspan']": '"7"', "root['NAME']": 'Paltrow, Gwyneth |ALTERNATIVE'}}
+2: {'dictionary_item_added': {"root['rowspan']": '2', "root['align']": '"center" ! style', "root['colspan']": '"7"', "root['NAME']": 'Paltrow, Gwyneth |ALTERNATIVE'}, 'dictionary_item_removed': {"root['spouse']": 'Chris Martin'}}
+22: {'values_changed': {"root['occupation']": {'new_value': 'Actress/Singer', 'old_value': 'Actress, Singer, Guitarist'}}}
+117: {'values_changed': {"root['occupation']": {'new_value': 'Actress, Singer, Guitarist', 'old_value': 'Actress, singer, guitarist'}, "root['spouse']": {'new_value': 'Chris Martin', 'old_value': 'marriage'}}}
+120: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, guitarist', 'old_value': 'Actress, singer,'}}}
+121: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer,', 'old_value': 'Actress, singer'}}}
+206: {'dictionary_item_removed': {"root['partner']": 'Brad Pitt (1994-1997), Ben Affleck (1997-2000)', "root['Parents']": 'Bruce Paltrow (deceased), Blythe Danner '}}
+215: {'dictionary_item_added': {"root['Parents']": 'Bruce Paltrow (deceased), Blythe Danner '}, 'values_changed': {"root['partner']": {'new_value': 'Brad Pitt (1994-1997), Ben Affleck (1997-2000)', 'old_value': 'Brad Pitt (1994–1997) Ben Affleck (1997–2000)'}}}
+231: {'values_changed': {"root['partner']": {'new_value': 'Brad Pitt (1994–1997) Ben Affleck (1997–2000)', 'old_value': 'Brad Pitt (1994–1997), Ben Affleck (1997–2000)'}}}
+298: {'dictionary_item_added': {"root['partner']": 'Brad Pitt (1994–1997), Ben Affleck (1997–2000)'}, 'dictionary_item_removed': {"root['children']": 'Apple Martin Moses Martin '}}
+299: {'values_changed': {"root['children']": {'new_value': 'Apple Martin Moses Martin ', 'old_value': 'Apple Martin ,  Moses Martin '}}}
+307: {'values_changed': {"root['children']": {'new_value': 'Apple Martin ,  Moses Martin ', 'old_value': 'Apple Martin Moses Martin '}}}
+335: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress, singer, author'}}}
+393: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, chef, pornstar'}}}
+394: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, chef, pornstar', 'old_value': 'Actress, singer, author'}}}
+441: {'values_changed': {"root['children']": {'new_value': 'Apple Martin Moses Martin ', 'old_value': 'Apple Martin, Moses Martin '}}}
+447: {'values_changed': {"root['children']": {'new_value': 'Apple Martin, Moses Martin ', 'old_value': 'Katlin Martin, Moses Martin '}}}
+448: {'values_changed': {"root['children']": {'new_value': 'Katlin Martin, Moses Martin ', 'old_value': 'Apple Martin, Moses Martin '}}}
+456: {'values_changed': {"root['children']": {'new_value': 'Apple Martin, Moses Martin ', 'old_value': 'stalker lewis  '}}}
+457: {'values_changed': {"root['children']": {'new_value': 'stalker lewis  ', 'old_value': 'Apple Martin, Moses Martin '}}}
+473: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, sexy beast'}}}
+474: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, sexy beast', 'old_value': 'Actress, singer, author'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Stanley Paltrow'}, "root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, homemaker'}}}
+478: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Stanley Paltrow', 'old_value': 'Gwyneth Paltrow'}, "root['occupation']": {'new_value': 'Actress, singer, author, homemaker', 'old_value': 'Actress, singer, author'}}}
+479: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, singer, author, sexy beast'}}}
+480: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author, sexy beast', 'old_value': 'Actress, singer, author'}}}
+483: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Chris Martin ,  (m. 2003-present; 2 children)'}, "root['children']": {'new_value': 'Apple Martin, Moses Martin ', 'old_value': 'Apple Blythe Alison  (b. 2004) , Moses Bruce Anthony  (b. 2006)  '}}}
+486: {'values_changed': {"root['spouse']": {'new_value': 'Chris Martin ,  (m. 2003-present; 2 children)', 'old_value': 'marriage'}, "root['children']": {'new_value': 'Apple Blythe Alison  (b. 2004) , Moses Bruce Anthony  (b. 2006)  ', 'old_value': '2 '}}}
+547: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Apple Blythe Alison Martin (born 2004) Moses Bruce Anthony Martin (born 2006) '}}}
+548: {'values_changed': {"root['children']": {'new_value': 'Apple Blythe Alison Martin (born 2004) Moses Bruce Anthony Martin (born 2006) ', 'old_value': '2 '}}}
+582: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'George Michaels'}}}
+583: {'values_changed': {"root['name']": {'new_value': 'George Michaels', 'old_value': 'Gwyneth Paltrow'}}}
+592: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrow marrid to chris martin'}}}
+593: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow marrid to chris martin', 'old_value': 'Gwyneth Paltrow'}}}
+610: {'dictionary_item_removed': {"root['home_town']": 'Santa Monica, California', "root['awards']": '#Awards and nominations'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+627: {'dictionary_item_added': {"root['awards']": '#Awards and nominations'}, 'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 ( Apple Martin and moses martin)'}}}
+628: {'values_changed': {"root['children']": {'new_value': '2 ( Apple Martin and moses martin)', 'old_value': '2'}}}
+629: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 ( Apple Martin and moses martin)'}}}
+630: {'values_changed': {"root['children']": {'new_value': '2 ( Apple Martin and moses martin)', 'old_value': '2'}}}
+712: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, author', 'old_value': 'Actress, businesswoman, author'}, "root['home_town']": {'new_value': 'Santa Monica, California', 'old_value': 'Santa Monica, California & New York, New York'}}}
+723: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, businesswoman, author'}}}
+752: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Fave'}}}
+753: {'values_changed': {"root['name']": {'new_value': 'Fave', 'old_value': 'Gwyneth Paltrow'}}}
+758: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Glenneth Paltrow'}}}
+759: {'values_changed': {"root['name']": {'new_value': 'Glenneth Paltrow', 'old_value': 'Gwyneth Paltrow'}}}
+768: {'dictionary_item_removed': {"root['awards']": 'Academy Award for Best Actress', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": [], "root['label']": [], "root['associated_acts']": 'Huey Lewis, Glee Cast, Tim McGraw, Matthew Morrison', "root['relations']": 'Katherine Moennig (cousin) '}}
+787: {'dictionary_item_added': {"root['awards']": 'Academy Award for Best Actress', "root['background']": 'solo_singer', "root['genre']": [], "root['instrument']": [], "root['label']": [], "root['associated_acts']": 'Huey Lewis, Glee Cast, Tim McGraw, Matthew Morrison', "root['relations']": 'Katherine Moennig (cousin) '}, 'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Two'}}}
+788: {'values_changed': {"root['children']": {'new_value': 'Two', 'old_value': '2'}}}
+829: {'values_changed': {"root['home_town']": {'new_value': 'Santa Monica, California & New York, New York', 'old_value': 'Santa Monica, California & New York City'}}}
+831: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrow smells like fish'}}}
+832: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow smells like fish', 'old_value': 'Gwyneth Paltrow'}}}
+860: {'dictionary_item_added': {"root['home_town']": 'Santa Monica, California & New York City'}, 'dictionary_item_removed': {"root['partner']": 'Brad Falchuck (engaged)'}}
+861: {'values_changed': {"root['partner']": {'new_value': 'Brad Falchuck (engaged)', 'old_value': 'Brad Falchuk (engaged)'}}}
+874: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Chris Martin (2003-2016)'}}}
+875: {'values_changed': {"root['spouse']": {'new_value': 'Chris Martin (2003-2016)', 'old_value': 'marriage'}}}
+885: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_added': {"root['partner']": 'Brad Falchuk (engaged)'}}
+903: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_removed': {"root['partner']": 'Brad Falchuk (2014–present; engaged)'}}
+929: {'values_changed': {"root['partner']": {'new_value': 'Brad Falchuk (2014–present; engaged)', 'old_value': 'Danny Devito (2014–present; engaged)'}, "root['children']": {'new_value': '2', 'old_value': '0'}}}
+930: {'values_changed': {"root['partner']": {'new_value': 'Danny Devito (2014–present; engaged)', 'old_value': 'Brad Falchuk (2014–present; engaged)'}, "root['children']": {'new_value': '0', 'old_value': '2'}}}
+935: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrash'}}}
+936: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrash', 'old_value': 'Gwyneth Paltrow'}}}
+963: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrow aka “Becky with the good hair”'}}}
+964: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow aka “Becky with the good hair”', 'old_value': 'Gwyneth Paltrow'}}}
+966: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrow aka “Becky with the good hair”'}}}
+967: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow aka “Becky with the good hair”', 'old_value': 'Gwyneth Paltrow'}}}
+968: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Paltrow aka “Becky with the good hair”'}}}
+969: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow aka “Becky with the good hair”', 'old_value': 'Gwyneth Paltrow'}}}
+1067: {'dictionary_item_added': {"root['partner']": 'Brad Falchuk (2014–present; engaged)'}, 'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'irrelevant Paltrow'}}}
+1068: {'values_changed': {"root['name']": {'new_value': 'irrelevant Paltrow', 'old_value': 'Gwyneth Paltrow'}}}
+1073: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Paltrow', 'old_value': 'Gwyneth Kale Paltrow'}}}
+1075: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Kale Paltrow', 'old_value': 'Gwyneth Kate Paltrow'}}}
+1083: {'values_changed': {"root['name']": {'new_value': 'Gwyneth Kate Paltrow', 'old_value': 'Gwyneth Paltrow'}}}

@@ -1,0 +1,11 @@
+69: {'dictionary_item_removed': {"root['name']": 'Albert Finney', "root['birthname']": 'Albert Finney', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon'}}
+71: {'dictionary_item_added': {"root['name']": 'Albert Finney', "root['birthname']": 'Albert Finney', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon'}, 'dictionary_item_removed': {"root['occupation']": 'Actor', "root['spouse']": 'Jane Wenham (1957&ndash;61), Anouk Aimée (1970&ndash;78), Pene Delmage (2006&ndash;present) '}}
+91: {'dictionary_item_removed': {"root['alma_mater']": 'Royal Academy of Dramatic Arts'}}
+94: {'dictionary_item_added': {"root['alma_mater']": 'Royal Academy of Dramatic Arts'}, 'dictionary_item_removed': {"root['children']": 'Simon '}, 'values_changed': {"root['spouse']": {'new_value': 'Jane Wenham (1957&ndash;61), Anouk Aimée (1970&ndash;78), Pene Delmage (2006&ndash;present) ', 'old_value': 'Jane Wenham (actress)'}}}
+232: {'values_changed': {"root['spouse']": {'new_value': 'Jane Wenham (actress)', 'old_value': 'marriage'}, "root['children']": {'new_value': 'Simon ', 'old_value': '1 '}}}
+285: {'dictionary_item_removed': {"root['education']": 'Royal Academy of Dramatic Art '}, 'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '1'}}}
+287: {'dictionary_item_added': {"root['education']": 'Royal Academy of Dramatic Art '}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1 '}}}
+290: {'dictionary_item_removed': {"root['education']": 'Royal Academy of Dramatic Art '}, 'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '1'}}}
+344: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1<ref name'}}}
+458: {'values_changed': {"root['children']": {'new_value': '1<ref name', 'old_value': '1'}}}
+555: {'dictionary_item_removed': {"root['name']": 'Albert Finney'}}

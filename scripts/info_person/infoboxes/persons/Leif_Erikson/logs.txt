@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['name']": 'Leif Erikson', "root['occupation']": 'Explorer', "root['known_for']": 'Discovering Vinland (Part of North America; possibly Newfoundland (island)', "root['religion']": 'Norse paganism; converted to Christianity c. 999', "root['partner']": 'Thorgunna (c. 999)', "root['children']": 'Thorgils, Thorkell'}}
+2: {'values_changed': {"root['religion']": {'new_value': 'Norse paganism; converted to Christianity c. 999', 'old_value': 'Norse paganism; converted to the Catholicism'}}}
+3: {'values_changed': {"root['religion']": {'new_value': 'Norse paganism; converted to the Catholicism', 'old_value': 'Norse paganism; converted to Christianity c. 999'}}}
+58: {'values_changed': {"root['known_for']": {'new_value': 'Discovering Vinland (Part of North America; possibly Newfoundland (island)', 'old_value': 'Discovering wukanda fover (Part of North America; possibly Newfoundland (island)'}}}
+61: {'values_changed': {"root['known_for']": {'new_value': 'Discovering wukanda fover (Part of North America; possibly Newfoundland (island)', 'old_value': 'Discovering Vinland (Part of North America; possibly Newfoundland (island)'}}}
+74: {'values_changed': {"root['partner']": {'new_value': 'Thorgunna (c. 999)', 'old_value': 'Þórgunna (c. 999)'}, "root['children']": {'new_value': 'Thorgils, Thorkell', 'old_value': 'Þorgils, Þorkell'}}}
+75: {'values_changed': {"root['partner']": {'new_value': 'Þórgunna (c. 999)', 'old_value': 'Thorgunna (c. 999)'}, "root['children']": {'new_value': 'Þorgils, Þorkell', 'old_value': 'Thorgils, Thorkell'}}}
+87: {'dictionary_item_added': {"root['religion']": 'Norse paganism; converted to Christianity c. 999'}, 'values_changed': {"root['known_for']": {'new_value': 'Discovering Vinland (Part of North America; possibly Newfoundland (island)', 'old_value': 'First European in Vinland (Part of North America; possibly Newfoundland (island)'}}}
+111: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Wow'}}}
+112: {'values_changed': {"root['name']": {'new_value': 'Leif Wow', 'old_value': 'Leif Erikson'}}}
+113: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'You Ultr Gay'}}}
+114: {'values_changed': {"root['name']": {'new_value': 'You Ultr Gay', 'old_value': 'You Ultr Gays'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'You Ultr Gays', 'old_value': 'Leif Erikson'}}}
+116: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leaf Erikson'}}}
+117: {'values_changed': {"root['name']": {'new_value': 'Leaf Erikson', 'old_value': 'Leif Erikson'}}}
+118: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Mr.D'}}}
+119: {'values_changed': {"root['name']": {'new_value': 'Mr.D', 'old_value': 'Leif Erikson'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Erickson'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Leif Erickson', 'old_value': 'Leif Erikson'}}}
+185: {'values_changed': {"root['known_for']": {'new_value': 'First European in Vinland (Part of North America; possibly Newfoundland (island)', 'old_value': 'First European in Vinland (part of North America; possibly Newfoundland (island)'}, "root['partner']": {'new_value': 'Thorgunna (c. 999)', 'old_value': 'Thorgunna (c.'}}}
+207: {'values_changed': {"root['known_for']": {'new_value': 'First European in Vinland (part of North America; possibly Newfoundland (island)', 'old_value': 'First European in Vinland (part of North America; possibly Newfoundland (norway)'}}}
+208: {'values_changed': {"root['known_for']": {'new_value': 'First European in Vinland (part of North America; possibly Newfoundland (norway)', 'old_value': 'First European in Vinland (part of North America; possibly Newfoundland (island)'}}}
+303: {'dictionary_item_removed': {"root['Religion']": 'Roman Catholicism'}}
+315: {'dictionary_item_added': {"root['Religion']": 'Roman Catholicism'}, 'values_changed': {"root['known_for']": {'new_value': 'First European in Vinland (part of North America; possibly Newfoundland (island)', 'old_value': 'First European in Vinland (part of North America; probably Newfoundland (island)'}}}
+403: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Eriksox'}}}
+404: {'values_changed': {"root['name']": {'new_value': 'Leif Eriksox', 'old_value': 'Leif Erikson'}}}
+415: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif kingsten Erikson'}, "root['known_for']": {'new_value': 'First European in Vinland (part of North America; probably Newfoundland (island)', 'old_value': 'First European in Vinland (part of North America; probably Newfoundland (benton)'}}}
+417: {'values_changed': {"root['name']": {'new_value': 'Leif kingsten Erikson', 'old_value': 'Leif Erikson'}, "root['known_for']": {'new_value': 'First European in Vinland (part of North America; probably Newfoundland (benton)', 'old_value': 'First European in Vinland (part of North America; probably Newfoundland (island)'}}}
+482: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Kebabson'}}}
+483: {'values_changed': {"root['name']": {'new_value': 'Leif Kebabson', 'old_value': 'Leif Erikson'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Eriksson'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Leif Eriksson', 'old_value': 'Leif Erikson'}}}
+499: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Eriksson'}}}
+500: {'values_changed': {"root['name']": {'new_value': 'Leif Eriksson', 'old_value': 'Leif Erikson'}}}
+501: {'values_changed': {"root['name']": {'new_value': 'Leif Erikson', 'old_value': 'Leif Eriksson'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Leif Eriksson', 'old_value': 'Leif Erikson'}}}
+508: {'values_changed': {"root['partner']": {'new_value': 'Thorgunna (c.', 'old_value': 'Thorgunna (ce.'}}}
+509: {'values_changed': {"root['partner']": {'new_value': 'Thorgunna (ce.', 'old_value': 'Thorgunna (c.'}}}

@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor', "root['spouse']": 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) '}}
+86: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor/singer'}}}
+113: {'values_changed': {"root['occupation']": {'new_value': 'Actor/singer', 'old_value': 'Dancer/gymnast/author/dictator/rabbi/chef'}, "root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) ', 'old_value': 'Rob Lowe (1989–1993; divorced) Meryl Streep (2002–2009; divorced; 8 children) '}}}
+114: {'values_changed': {"root['occupation']": {'new_value': 'Dancer/gymnast/author/dictator/rabbi/chef', 'old_value': 'Actor/singer'}, "root['spouse']": {'new_value': 'Rob Lowe (1989–1993; divorced) Meryl Streep (2002–2009; divorced; 8 children) ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) '}}}
+123: {'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Became porn star in 2010  '}}}
+124: {'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Became porn star in 2010  ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) '}}}
+137: {'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Andrea Libman (m. 2016) '}}}
+139: {'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Andrea Libman (m. 2016) ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) '}}}
+186: {'values_changed': {"root['occupation']": {'new_value': 'Actor/singer', 'old_value': 'Actor/Actress'}}}
+187: {'values_changed': {"root['occupation']": {'new_value': 'Actor/Actress', 'old_value': 'Actor/singer'}}}
+210: {'dictionary_item_removed': {"root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) ', 'old_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Courtney Anne (2016-present)'}}}
+227: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor/singer'}}, 'dictionary_item_removed': {"root['name']": 'Corey Feldman'}, 'values_changed': {"root['spouse']": {'new_value': 'Vanessa Marcil (1989–1993; divorced) Susie Sprague (2002–2009; divorced; 1 child) Courtney Anne (2016-present)', 'old_value': 'marriage'}}}
+239: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman', 'old_value': 'Craig Childers'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'Craig Childers', 'old_value': 'Craig Childers 8'}}}
+241: {'values_changed': {"root['name']": {'new_value': 'Craig Childers 8', 'old_value': 'Corey "The Felt" Feldman'}}}
+244: {'values_changed': {"root['name']": {'new_value': 'Corey "The Felt" Feldman', 'old_value': 'Craig Childers 8'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Craig Childers 8', 'old_value': 'Craig Childers'}}}
+246: {'values_changed': {"root['name']": {'new_value': 'Craig Childers', 'old_value': 'Corey Feldman'}}}
+251: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman', 'old_value': 'Corey Feldman (G.O.A T)'}}}
+252: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman (G.O.A T)', 'old_value': 'Corey Feldman'}}}
+255: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman', 'old_value': 'Corey #1'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'Corey #1', 'old_value': 'Corey Feldman'}}}
+270: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman', 'old_value': 'Corey Feldman the comeback king'}}}
+271: {'values_changed': {"root['name']": {'new_value': 'Corey Feldman the comeback king', 'old_value': 'Corey Feldman'}}}
+285: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}}

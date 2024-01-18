@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Carole King', "root['background']": 'solo_singer', "root['origin']": 'New York City, United States', "root['instrument']": 'Piano, Vocals, Guitar', "root['genre']": 'Folk rock music', "root['occupation']": 'Singer-songwriter', "root['label']": 'Rockingale, Ode Records', "root['associated_acts']": 'James Taylor, The City, Danny Kortchmar, Neil Sedaka'}}
+39: {'values_changed': {"root['genre']": {'new_value': 'Folk rock music', 'old_value': 'Folk rock, Pop music'}}}
+81: {'values_changed': {"root['label']": {'new_value': 'Rockingale, Ode Records', 'old_value': ', Ode Records'}}}
+82: {'values_changed': {"root['label']": {'new_value': ', Ode Records', 'old_value': 'rockingale, Ode Records'}}}
+83: {'values_changed': {"root['label']": {'new_value': 'rockingale, Ode Records', 'old_value': 'Rockingale, Ode Records'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Carole King', 'old_value': 'BAKEKANG'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'BAKEKANG', 'old_value': 'Carole King'}}}
+113: {'values_changed': {"root['genre']": {'new_value': 'Folk rock, Pop music', 'old_value': 'Adult Contemporary, Acoustic Pop, Pop music'}}}
+114: {'values_changed': {"root['genre']": {'new_value': 'Adult Contemporary, Acoustic Pop, Pop music', 'old_value': 'Adult Contemporary, Easy Listening, Pop music'}}}
+125: {'values_changed': {"root['instrument']": {'new_value': 'Piano, Vocals, Guitar', 'old_value': 'Piano, vocals, guitar'}, "root['genre']": {'new_value': 'Adult Contemporary, Easy Listening, Pop music', 'old_value': 'Adult contemporary music'}}}
+130: {'values_changed': {"root['instrument']": {'new_value': 'Piano, vocals, guitar', 'old_value': 'Piano, vocals'}}}
+171: {'values_changed': {"root['origin']": {'new_value': 'New York City, United States', 'old_value': 'New York City, New York, United States'}}}
+177: {'values_changed': {"root['origin']": {'new_value': 'New York City, New York, United States', 'old_value': 'New York City, United States'}}}
+182: {'values_changed': {"root['associated_acts']": {'new_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka', 'old_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka, Gerry Goffin'}}}
+183: {'values_changed': {"root['associated_acts']": {'new_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka, Gerry Goffin', 'old_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka, Gerry Goffin, Louise Goffin'}}}
+197: {'values_changed': {"root['genre']": {'new_value': 'Adult contemporary music', 'old_value': 'Pop music'}}}
+208: {'dictionary_item_removed': {"root['spouse']": 'Gerry Goffin, Charles Starkey, Rick Evers, Rick Sorenson', "root['children']": 'Louise Goffin, Sherry Goffin, Molly Larkey, Levi Larkey '}}
+244: {'values_changed': {"root['origin']": {'new_value': 'New York City, United States', 'old_value': 'New York City, US'}, "root['instrument']": {'new_value': 'Piano, vocals', 'old_value': 'Vocals, piano'}, "root['associated_acts']": {'new_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka, Gerry Goffin, Louise Goffin', 'old_value': 'James Taylor, the City, Danny Kortchmar, Neil Sedaka, Gerry Goffin, Louise Goffin'}}}
+245: {'values_changed': {"root['origin']": {'new_value': 'New York City, US', 'old_value': 'New York City, United States'}, "root['instrument']": {'new_value': 'Vocals, piano', 'old_value': 'Piano, vocals'}, "root['associated_acts']": {'new_value': 'James Taylor, the City, Danny Kortchmar, Neil Sedaka, Gerry Goffin, Louise Goffin', 'old_value': 'James Taylor, The City, Danny Kortchmar, Neil Sedaka, Gerry Goffin, Louise Goffin'}}}
+247: {'values_changed': {"root['origin']": {'new_value': 'New York City, United States', 'old_value': 'Manhattan, New York City'}}}
+254: {'values_changed': {"root['origin']": {'new_value': 'Manhattan, New York City', 'old_value': 'Manhattan, New York City, U.S.'}}}

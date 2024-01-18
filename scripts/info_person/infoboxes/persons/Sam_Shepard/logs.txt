@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sam Shepard', "root['birthname']": 'Samuel Shepard Rogers III', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Fort Sheridan, Illinois, United States', "root['occupation']": 'Actor, author, playwright', "root['spouse']": 'O-Lan Johnson Jones (1969-1984)', "root['yearsactive']": '1960s-present', "root['awards']": "'''Pulitzer Prize for Drama''', 1979 ''Buried Child''", "root['dramadeskawards']": "'''Outstanding Play''', 1986 ''A Lie of the Mind'' "}}
+41: {'dictionary_item_added': {"root['awards']": "'''Pulitzer Prize for Drama''', 1979 ''Buried Child''", "root['dramadeskawards']": "'''Outstanding Play''', 1986 ''A Lie of the Mind'' "}, 'values_changed': {"root['spouse']": {'new_value': 'O-Lan Johnson Jones (1969-1984)', 'old_value': 'O-Lan Johnson Jones (1969-1984),  Domestic Partnership- Jessica Lange (1983-present)'}}}
+42: {'dictionary_item_removed': {"root['domesticpartner']": 'Jessica Lange (1983-present)'}, 'values_changed': {"root['birthplace']": {'new_value': 'Fort Sheridan, Illinois, United States', 'old_value': 'Fort Sheridan, Illinois'}, "root['occupation']": {'new_value': 'Actor, author, playwright', 'old_value': 'actor, author, playwright'}, "root['spouse']": {'new_value': 'O-Lan Johnson Jones (1969-1984),  Domestic Partnership- Jessica Lange (1983-present)', 'old_value': 'O-Lan Johnson Jones (1969-1984)'}}}
+71: {'dictionary_item_added': {"root['birthname']": 'Samuel Shepard Rogers III', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Fort Sheridan, Illinois', "root['domesticpartner']": 'Jessica Lange (1983-present)', "root['yearsactive']": '1960s-present'}, 'dictionary_item_removed': {"root['partner']": 'Jessica Lange (abbr'}, 'values_changed': {"root['occupation']": {'new_value': 'actor, author, playwright', 'old_value': 'Flat list'}, "root['spouse']": {'new_value': 'O-Lan Johnson Jones (1969-1984)', 'old_value': 'marriage'}}}
+81: {'dictionary_item_removed': {"root['children']": '3'}}
+82: {'values_changed': {"root['partner']": {'new_value': 'Jessica Lange (abbr', 'old_value': 'nowrap'}}}
+84: {'dictionary_item_removed': {"root['deceased']": 'December 31 2017 '}}
+242: {'dictionary_item_added': {"root['deceased']": 'December 31 2017 '}, 'dictionary_item_removed': {"root['criminal_charge']": 'Drunk driving'}}
+248: {'dictionary_item_added': {"root['criminal_charge']": 'Drunk driving'}, 'values_changed': {"root['occupation']": {'new_value': 'Flat list', 'old_value': 'Flatlist'}}}
+303: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+306: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+307: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+311: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+312: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+314: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+316: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+321: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+322: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+324: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+325: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+326: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Theodoros Angelopoulos', "root['birthdate']": '27 April 1935', "root['location']": 'Athens GRE', "root['occupation']": 'Film director and screenwriter', "root['yearsactive']": '1965 in film', "root['spouse']": 'Phobe Economopoulou (1980-present)', "root['imdb_id']": '0000766'}}
+8: {'values_changed': {"root['spouse']": {'new_value': 'Phobe Economopoulou (1980-present)', 'old_value': 'Phoebe Economopoulou (1980-present)'}}}
+11: {'values_changed': {"root['birthdate']": {'new_value': '27 April 1935', 'old_value': 'birth-date'}}}
+20: {'values_changed': {"root['location']": {'new_value': 'Athens GRE', 'old_value': 'Athens, Greece'}}}
+31: {'dictionary_item_added': {"root['birthdate']": 'birth-date', "root['location']": 'Athens, Greece', "root['yearsactive']": '1965 in film', "root['imdb_id']": '0000766'}, 'values_changed': {"root['spouse']": {'new_value': 'Phoebe Economopoulou (1980-present)', 'old_value': 'Phoebe Economopoulou (1980–present)'}}}
+40: {'values_changed': {"root['spouse']": {'new_value': 'Phoebe Economopoulou (1980–present)', 'old_value': 'Phoebe Economopoulou (1980–2012; his death)'}}}
+102: {'dictionary_item_removed': {"root['children']": 'Anna, Katerina and Eleni'}}
+192: {'values_changed': {"root['children']": {'new_value': 'Anna, Katerina and Eleni', 'old_value': 'Anna Angelopoulou, Katerina Angelopoulou and Eleni Angelopoulou'}}}

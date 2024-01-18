@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael Richards', "root['birthdate']": 'birth date and age', "root['location']": 'Culver City, California', "root['spouse']": "'''Cathleen Richards''', (divorced) "}}
+231: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Poophead'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Michael Poophead', 'old_value': 'Michael Richards'}}}
+266: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Nigger Guy'}}}
+267: {'values_changed': {"root['name']": {'new_value': 'Nigger Guy', 'old_value': 'Michael Richards'}}}
+543: {'dictionary_item_removed': {"root['othername']": 'Grand Dragon Richards', "root['homepage']": 'www.whitepowerbitch.com'}}
+567: {'dictionary_item_added': {"root['othername']": 'Grand Dragon Richards', "root['homepage']": 'www.whitepowerbitch.com'}, 'dictionary_item_removed': {"root['emmyawards']": "'''Outstanding Supporting Actor - Comedy Series''' ,  1993, 1994, 1997 ''Seinfeld'' "}, 'values_changed': {"root['spouse']": {'new_value': "'''Cathleen Richards''', (divorced) ", 'old_value': 'Cathleen Richards (1974 - 1992; divorced) 1 child'}}}
+568: {'dictionary_item_removed': {"root['birthname']": 'Michael Anthony Richards'}}
+697: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Richards flagicon'}, "root['location']": {'new_value': 'Culver City, California', 'old_value': 'Culver City, California flagicon'}}}
+754: {'values_changed': {"root['name']": {'new_value': 'Michael Richards flagicon', 'old_value': 'Michael Richards'}}}
+775: {'values_changed': {"root['location']": {'new_value': 'Culver City, California flagicon', 'old_value': 'Culver City, California'}}}
+778: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Anthony Richards'}}}
+779: {'values_changed': {"root['name']": {'new_value': 'Michael Anthony Richards', 'old_value': 'Michael Richards'}}}
+830: {'dictionary_item_added': {"root['location']": 'Culver City, California', "root['emmyawards']": "'''Outstanding Supporting Actor - Comedy Series''' ,  1993, 1994, 1997 ''Seinfeld'' "}, 'dictionary_item_removed': {"root['birthplace']": 'Culver City, California, United States', "root['occupation']": 'Actor/comedian', "root['yearsactive']": '1980-2006; 2009-present'}, 'values_changed': {"root['spouse']": {'new_value': 'Cathleen Richards (1974 - 1992; divorced) 1 child', 'old_value': 'Cathleen Lyons (1974–1992) (1 child)'}}}
+855: {'values_changed': {"root['occupation']": {'new_value': 'Actor/comedian', 'old_value': 'Actor/Comedian'}, "root['yearsactive']": {'new_value': '1980-2006; 2009-present', 'old_value': '1980–2006; 2009–present'}}}
+858: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1974–1992) (1 child)', 'old_value': 'Cathleen Lyons (1974-1992) (1 child)'}}}
+867: {'values_changed': {"root['yearsactive']": {'new_value': '1980–2006; 2009–present', 'old_value': '1980–present'}}}
+876: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Pikachu'}}}
+877: {'values_changed': {"root['name']": {'new_value': 'Pikachu', 'old_value': 'Michael Richards'}}}
+927: {'values_changed': {"root['yearsactive']": {'new_value': '1980–present', 'old_value': '1980–2000, 2009-present'}}}
+928: {'values_changed': {"root['yearsactive']": {'new_value': '1980–2000, 2009-present', 'old_value': '1980–2000,2007, 2009-present'}}}
+935: {'values_changed': {"root['yearsactive']": {'new_value': '1980–2000,2007, 2009-present', 'old_value': '1980-present'}}}
+949: {'dictionary_item_removed': {"root['Death']": '16th May 2010'}, 'values_changed': {"root['yearsactive']": {'new_value': '1980-present', 'old_value': '1980-2010'}}}
+950: {'dictionary_item_added': {"root['Death']": '16th May 2010'}, 'values_changed': {"root['yearsactive']": {'new_value': '1980-2010', 'old_value': '1980-present'}}}
+955: {'values_changed': {"root['birthname']": {'new_value': 'Michael Anthony Richards', 'old_value': 'Michael Anal Richards'}}}
+957: {'values_changed': {"root['birthname']": {'new_value': 'Michael Anal Richards', 'old_value': 'Michael Anthony Richards'}}}
+963: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+968: {'values_changed': {"root['yearsactive']": {'new_value': '1980-present', 'old_value': '1979–present'}}}
+969: {'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'birth date and age'}}}
+986: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael "kill niggas" Richards'}, "root['birthname']": {'new_value': 'Michael Anthony Richards', 'old_value': 'Michael "kill niggas" Richards'}}}
+987: {'values_changed': {"root['name']": {'new_value': 'Michael "kill niggas" Richards', 'old_value': 'Michael Richards'}, "root['birthname']": {'new_value': 'Michael "kill niggas" Richards', 'old_value': 'Michael Anthony Richards'}}}
+992: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Dickhead Richards'}}}
+993: {'values_changed': {"root['birthname']": {'new_value': 'Michael Anthony Richards', 'old_value': 'Michael Fucking dickhead Richards'}}}
+994: {'values_changed': {"root['name']": {'new_value': 'Michael Dickhead Richards', 'old_value': 'Michael Richards'}, "root['birthname']": {'new_value': 'Michael Fucking dickhead Richards', 'old_value': 'Michael Anthony Richards'}}}
+1032: {'dictionary_item_removed': {"root['deathdate']": 'death date and age', "root['deathplace']": 'Los Angeles, California, United States'}}
+1044: {'dictionary_item_added': {"root['birthname']": 'Michael Anthony Richards', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Culver City, California, United States', "root['deathdate']": 'death date and age', "root['deathplace']": 'Los Angeles, California, United States', "root['yearsactive']": '1979–present'}, 'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Player Hater Richards'}}}
+1045: {'values_changed': {"root['name']": {'new_value': 'Michael Player Hater Richards', 'old_value': 'Michael Richards'}}}
+1080: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1974-1992) (1 child)', 'old_value': 'Cathleen Lyons (1974–1992; 1 child)'}}}
+1174: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1974–1992; 1 child)', 'old_value': 'Beth Skip'}}}
+1176: {'values_changed': {"root['spouse']": {'new_value': 'Beth Skip', 'old_value': 'Beth Skip<ref name'}}}
+1177: {'values_changed': {"root['spouse']": {'new_value': 'Beth Skip<ref name', 'old_value': 'Beth Skipp<ref name'}}}
+1182: {'values_changed': {"root['spouse']": {'new_value': 'Beth Skipp<ref name', 'old_value': 'Cathleen Lyons (1974-1992) ,  Beth Skipp<ref name'}}}
+1183: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1974-1992) ,  Beth Skipp<ref name', 'old_value': 'Cathleen Lyons (1974-1992)<ref name'}}}
+1184: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1974-1992)<ref name', 'old_value': 'Cathleen Lyons (1975-1993)<ref name'}}}
+1212: {'values_changed': {"root['spouse']": {'new_value': 'Cathleen Lyons (1975-1993)<ref name', 'old_value': 'Cathleen Lyons (1975–1993)<ref name'}}}
+1231: {'values_changed': {"root['occupation']": {'new_value': 'Actor/Comedian', 'old_value': 'Actor, comedian'}, "root['spouse']": {'new_value': 'Cathleen Lyons (1975–1993)<ref name', 'old_value': 'marriage'}}}
+1237: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Michael Racist Richards'}}}
+1239: {'values_changed': {"root['name']": {'new_value': 'Michael Racist Richards', 'old_value': 'Michael Richards'}}}
+1262: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Jared Allegranza'}}}
+1263: {'values_changed': {"root['name']": {'new_value': 'Jared Allegranza', 'old_value': 'Michael Richards'}}}
+1303: {'values_changed': {"root['name']": {'new_value': 'Michael Richards', 'old_value': 'Nigger Hater'}, "root['occupation']": {'new_value': 'Actor, comedian', 'old_value': 'Nigger Hater'}}}
+1304: {'values_changed': {"root['name']": {'new_value': 'Nigger Hater', 'old_value': 'Michael Richards'}, "root['occupation']": {'new_value': 'Nigger Hater', 'old_value': 'Actor, comedian'}}}

@@ -1,0 +1,62 @@
+0: {'dictionary_item_removed': {"root['name']": 'Fred Phelps Sr.', "root['church']": 'Westboro Baptist Church', "root['education']": 'Unbulleted list', "root['religion']": 'Primitive Baptist', "root['spouse']": 'Margie M. Simms (m. 1952)', "root['children']": 'Unbulleted list'}}
+62: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps Sr.', 'old_value': 'Fred Phelps'}}}
+66: {'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (m. 1952)', 'old_value': 'Margie M. Simms (m. 1952-2014; until his death)'}}}
+70: {'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (m. 1952-2014; until his death)', 'old_value': 'Margie M. Simms (m. 1952–2014; until his death)'}}}
+96: {'dictionary_item_removed': {"root['cause_of_death']": 'Heart Failure'}}
+114: {'values_changed': {"root['church']": {'new_value': 'Westboro Baptist Church', 'old_value': 'Westboro Baptist Church  (excommunicated in August 2013) <ref name'}}}
+123: {'values_changed': {"root['cause_of_death']": {'new_value': 'Heart Failure', 'old_value': 'Natural causes'}}}
+126: {'dictionary_item_added': {"root['cause_of_death']": 'Natural causes', "root['education']": 'Unbulleted list'}, 'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (m. 1952–2014; until his death)', 'old_value': 'Margie M. Simms (1952–2014; his death)'}}}
+127: {'dictionary_item_removed': {"root['education']": 'Unbulleted list'}, 'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (1952–2014; his death)', 'old_value': 'Margie M. Simms (m. 1952–2014; until his death)'}}}
+128: {'dictionary_item_removed': {"root['relations']": 'Unbulleted list'}}
+135: {'dictionary_item_added': {"root['relations']": 'Unbulleted list'}, 'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (m. 1952–2014; until his death)', 'old_value': 'ubl'}, "root['children']": {'new_value': 'Unbulleted list', 'old_value': '13, including ubl'}}}
+136: {'dictionary_item_removed': {"root['relations']": 'Unbulleted list'}, 'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'Margie M. Simms (m. 1952–2014; his death)'}, "root['children']": {'new_value': '13, including ubl', 'old_value': 'Unbulleted list'}}}
+137: {'dictionary_item_added': {"root['relations']": 'Unbulleted list'}, 'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms (m. 1952–2014; his death)', 'old_value': 'Margie M. Simms, (m. 1952–2014; his death)'}, "root['children']": {'new_value': 'Unbulleted list', 'old_value': '13, including, Shirley Phelps-Roper, Nathan Phelps'}}}
+142: {'dictionary_item_removed': {"root['relations']": '54 grandchildren'}}
+157: {'values_changed': {"root['spouse']": {'new_value': 'Margie M. Simms, (m. 1952–2014; his death)', 'old_value': 'Margie Marie Simms (1952–2014)'}}}
+158: {'values_changed': {"root['spouse']": {'new_value': 'Margie Marie Simms (1952–2014)', 'old_value': 'Margie Marie Simms (1952–2014; his death)'}}}
+171: {'values_changed': {"root['church']": {'new_value': 'Westboro Baptist Church  (excommunicated in August 2013) <ref name', 'old_value': 'Westboro Baptist Church'}}}
+191: {'values_changed': {"root['spouse']": {'new_value': 'Margie Marie Simms (1952–2014; his death)', 'old_value': 'Margie Marie Simms (1942–2014; his death)'}}}
+193: {'values_changed': {"root['spouse']": {'new_value': 'Margie Marie Simms (1942–2014; his death)', 'old_value': 'Margie Marie Simms (1952–2014; his death)'}}}
+221: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan Phelps', 'old_value': 'Thirteen, including, Fred Waldron Phelps, Jr., Margie Phelps, Shirley Phelps-Roper, Nathan Phelps, Timothy Phelps'}}}
+222: {'values_changed': {"root['children']": {'new_value': 'Thirteen, including, Fred Waldron Phelps, Jr., Margie Phelps, Shirley Phelps-Roper, Nathan Phelps, Timothy Phelps', 'old_value': '13, including, Shirley Phelps-Roper, Nathan Phelps'}}}
+302: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan Phelps', 'old_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY'}, "root['relations']": {'new_value': '54 grandchildren', 'old_value': '54 grandchildrenNOTABLE RELATIVES ONLY'}}}
+303: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY', 'old_value': '13, including, Shirley Phelps-Roper, Nathan Phelps'}, "root['relations']": {'new_value': '54 grandchildrenNOTABLE RELATIVES ONLY', 'old_value': '54 grandchildren'}}}
+304: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan Phelps', 'old_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY'}, "root['relations']": {'new_value': '54 grandchildren', 'old_value': '54 grandchildrenNOTABLE RELATIVES ONLY'}}}
+305: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY', 'old_value': '13, including, Shirley Phelps-Roper, Nathan Phelps'}, "root['relations']": {'new_value': '54 grandchildrenNOTABLE RELATIVES ONLY', 'old_value': '54 grandchildren'}}}
+306: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan Phelps', 'old_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY'}, "root['relations']": {'new_value': '54 grandchildren', 'old_value': '54 grandchildrenNOTABLE RELATIVES ONLY'}}}
+307: {'values_changed': {"root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan PhelpsNOTABLE CHILDREN ONLY', 'old_value': '13, including, Shirley Phelps-Roper, Nathan Phelps'}, "root['relations']": {'new_value': '54 grandchildrenNOTABLE RELATIVES ONLY', 'old_value': '54 grandchildren'}}}
+315: {'values_changed': {"root['religion']": {'new_value': 'Primitive Baptist', 'old_value': 'Homophobic'}}}
+316: {'values_changed': {"root['religion']": {'new_value': 'Homophobic', 'old_value': 'Primitive Baptist'}}}
+331: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps', 'old_value': 'Fred the biggot Phelps'}}}
+332: {'values_changed': {"root['name']": {'new_value': 'Fred the biggot Phelps', 'old_value': 'Fred Phelps'}}}
+340: {'values_changed': {"root['religion']": {'new_value': 'Primitive Baptist', 'old_value': 'Circlejerkism'}}}
+342: {'values_changed': {"root['religion']": {'new_value': 'Circlejerkism', 'old_value': 'Primitive Baptist'}}}
+362: {'values_changed': {"root['religion']": {'new_value': 'Primitive Baptist', 'old_value': 'Asshole'}}}
+363: {'values_changed': {"root['religion']": {'new_value': 'Asshole', 'old_value': 'Primitive Baptist'}}}
+405: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps', 'old_value': 'Fred Phelps (douchebag)'}}}
+406: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps (douchebag)', 'old_value': 'Fred Phelps'}}}
+427: {'dictionary_item_added': {"root['church']": 'Westboro Baptist Church', "root['religion']": 'Primitive Baptist'}, 'dictionary_item_removed': {"root['organization']": 'Westboro Baptist Church', "root['occupation']": 'Pastor, lawyer', "root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['spouse']": {'new_value': 'Margie Marie Simms (1952–2014; his death)', 'old_value': 'marriage'}, "root['children']": {'new_value': '13, including, Shirley Phelps-Roper, Nathan Phelps', 'old_value': '13, including, Shirley Phelps-Roper and , Nathan Phelps'}, "root['relations']": {'new_value': '54 grandchildren', 'old_value': 'Megan Phelps-Roper (granddaughter) '}}}
+433: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, lawyer Creeper Fan'}}}
+434: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer Creeper Fan', 'old_value': 'Pastor, lawyer'}}}
+448: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, crazy person'}}}
+449: {'values_changed': {"root['organization']": {'new_value': 'Westboro Baptist Church', 'old_value': 'Westboro Baptist Cnuts'}}}
+450: {'values_changed': {"root['organization']": {'new_value': 'Westboro Baptist Cnuts', 'old_value': 'Westboro Baptist Church'}, "root['occupation']": {'new_value': 'Pastor, crazy person', 'old_value': 'Pastor, lawyer'}}}
+458: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps', 'old_value': 'Big Retard'}, "root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Rerard, lawyer'}}}
+459: {'values_changed': {"root['name']": {'new_value': 'Big Retard', 'old_value': 'Fred Phelps'}, "root['occupation']": {'new_value': 'Rerard, lawyer', 'old_value': 'Pastor, lawyer'}}}
+469: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican Party) (United States)'}}}
+470: {'values_changed': {"root['party']": {'new_value': 'Republican Party) (United States)', 'old_value': 'Democratic Party (United States)'}}}
+477: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, lawyer, Raving Lunatic'}}}
+478: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer, Raving Lunatic', 'old_value': 'Pastor, lawyer'}}}
+479: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps', 'old_value': 'Fred Turd Phelps'}, "root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Turd Burglar, lawyer'}}}
+480: {'values_changed': {"root['name']": {'new_value': 'Fred Turd Phelps', 'old_value': 'Fred Phelps'}, "root['occupation']": {'new_value': 'Turd Burglar, lawyer', 'old_value': 'Pastor, lawyer'}}}
+491: {'values_changed': {"root['name']": {'new_value': 'Fred Phelps', 'old_value': 'Fred Nancy Phelps'}, "root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, Male Escort'}}}
+492: {'values_changed': {"root['name']": {'new_value': 'Fred Nancy Phelps', 'old_value': 'Fred Phelps'}, "root['occupation']": {'new_value': 'Pastor, Male Escort', 'old_value': 'Pastor, lawyer'}}}
+525: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, lawyer, neo-Nazi'}}}
+526: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer, neo-Nazi', 'old_value': 'Pastor, lawyer'}}}
+544: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican'}}}
+545: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic Party (United States)'}}}
+546: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican'}}}
+547: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Democratic Party (United States)'}}}
+564: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, lawyer', 'old_value': 'Pastor, lawyer<ref name'}}}
+605: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican Party (United States)'}}}
+606: {'values_changed': {"root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'Democratic Party (United States)'}}}

@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Terry Jones', "root['spouse']": 'Alison Telfer', "root['known_for']": 'Monty Python', "root['occupation']": 'Actor,comedian, film director, presenter, poet, writer, historian'}}
+8: {'values_changed': {"root['occupation']": {'new_value': 'Actor,comedian, film director, presenter, poet, writer, historian', 'old_value': 'Actor, Comedian, Film director'}}}
+9: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Comedian, Film director', 'old_value': 'Actor, comedian, film director, presenter, poet, writer, historian'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Terry Jones', 'old_value': 'Terry Jones (bull dog)'}}}
+31: {'values_changed': {"root['name']": {'new_value': 'Terry Jones (bull dog)', 'old_value': 'Terry Jones'}}}
+42: {'dictionary_item_removed': {"root['birthname']": 'Terence Graham Parry Jones', "root['alma_mater']": 'St Edmund Hall, Oxford'}, 'values_changed': {"root['spouse']": {'new_value': 'Alison Telfer', 'old_value': 'Alison Telfer (divorced), Anna Söderström (2012-present)'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'Terry Jones', 'old_value': 'Te'}, "root['occupation']": {'new_value': 'Actor, comedian, film director, presenter, poet, writer, historian', 'old_value': 'Actor, comedian, licking tom kirkham director, presenter, poet, writer, historian'}}}
+53: {'values_changed': {"root['name']": {'new_value': 'Te', 'old_value': 'Terry jones'}}}
+54: {'values_changed': {"root['name']": {'new_value': 'Terry jones', 'old_value': 'Terry Jones'}, "root['occupation']": {'new_value': 'Actor, comedian, licking tom kirkham director, presenter, poet, writer, historian', 'old_value': 'Actor, comedian, film director, presenter, poet, writer, historian'}}}
+150: {'dictionary_item_removed': {"root['children']": '3'}, 'values_changed': {"root['spouse']": {'new_value': 'Alison Telfer (divorced), Anna Söderström (2012-present)', 'old_value': 'marriage'}, "root['occupation']": {'new_value': 'Actor, comedian, film director, presenter, poet, writer, historian', 'old_value': 'Flatlist'}}}
+351: {'dictionary_item_removed': {"root['yearsactive']": '1966–2014'}}
+379: {'values_changed': {"root['birthname']": {'new_value': 'Terence Graham Parry Jones', 'old_value': 'Vale! Terence Graham Parry Jones'}}}
+380: {'values_changed': {"root['birthname']": {'new_value': 'Vale! Terence Graham Parry Jones', 'old_value': 'Terence Graham Parry Jones'}}}
+383: {'values_changed': {"root['yearsactive']": {'new_value': '1966–2014', 'old_value': '1966–2016'}}}
+412: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Alison Telfer m.1970 d.2012 Anna Söderström m.2012-2020 his death'}}}
+413: {'values_changed': {"root['spouse']": {'new_value': 'Alison Telfer m.1970 d.2012 Anna Söderström m.2012-2020 his death', 'old_value': 'marriage'}}}
+433: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'Bill Jones (Son), WIlliam George Parry Jones, Louise Parry Jones (Daughter), Sally Jones (Daughter), Siri Jones (Daughter)'}}}
+434: {'values_changed': {"root['children']": {'new_value': 'Bill Jones (Son), WIlliam George Parry Jones, Louise Parry Jones (Daughter), Sally Jones (Daughter), Siri Jones (Daughter)', 'old_value': 'Bill Jones (Son), WIlliam George Parry Jones (Son), Louise Parry Jones (Daughter), Sally Jones (Daughter), Siri Jones (Daughter)'}}}
+435: {'values_changed': {"root['children']": {'new_value': 'Bill Jones (Son), WIlliam George Parry Jones (Son), Louise Parry Jones (Daughter), Sally Jones (Daughter), Siri Jones (Daughter)', 'old_value': '3'}}}
+447: {'values_changed': {"root['known_for']": {'new_value': 'Monty Python', 'old_value': 'One of the six members of Monty Python'}}}
+451: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['marriage'], 'new_value': 'marriage'}}}

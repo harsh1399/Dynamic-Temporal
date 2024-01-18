@@ -1,0 +1,18 @@
+598: {'dictionary_item_removed': {"root['name']": 'John Deere', "root['known_for']": 'John Deere', "root['occupation']": 'Inventor', "root['children']": '"deere.com">http://www.deere.com/en_US/compinfo/history/index.html'}}
+639: {'dictionary_item_removed': {"root['residence']": 'MOM', "root['education']": '3rd grade', "root['employer']": 'Mcdonalds', "root['salary']": '$100,000,000,000,000,000', "root['networth']": 'i love CATS ALOT LOLOL :)', "root['weight']": '450'}}
+644: {'dictionary_item_added': {"root['residence']": 'MOM', "root['education']": '3rd grade', "root['employer']": 'Mcdonalds', "root['salary']": '$100,000,000,000,000,000', "root['networth']": 'i love CATS ALOT LOLOL :)', "root['weight']": '450'}, 'values_changed': {"root['name']": {'new_value': 'John Deere', 'old_value': 'Sam W'}}}
+645: {'values_changed': {"root['name']": {'new_value': 'Sam W', 'old_value': 'John Deere'}}}
+648: {'values_changed': {"root['name']": {'new_value': 'John Deere', 'old_value': 'Hey, you coming out tonight for history'}}}
+649: {'values_changed': {"root['name']": {'new_value': 'Hey, you coming out tonight for history', 'old_value': 'John Deere'}}}
+661: {'values_changed': {"root['name']": {'new_value': 'John Deere', 'old_value': 'Eggy Lar'}}}
+665: {'values_changed': {"root['name']": {'new_value': 'Eggy Lar', 'old_value': 'John Deere'}}}
+668: {'values_changed': {"root['name']": {'new_value': 'John Deere', 'old_value': 'eggy lar'}}}
+671: {'values_changed': {"root['name']": {'new_value': 'eggy lar', 'old_value': 'John Deere'}}}
+677: {'values_changed': {"root['name']": {'new_value': 'John Deere', 'old_value': 'Nate Dogg'}}}
+678: {'values_changed': {"root['name']": {'new_value': 'Nate Dogg', 'old_value': 'Leo Jepsen'}}}
+679: {'values_changed': {"root['name']": {'new_value': 'Leo Jepsen', 'old_value': 'Ryan'}}}
+680: {'values_changed': {"root['name']": {'new_value': 'Ryan', 'old_value': 'John Deere'}}}
+681: {'values_changed': {"root['occupation']": {'new_value': 'Inventor', 'old_value': 'Inventor, Leo Jepsen'}}}
+682: {'values_changed': {"root['occupation']": {'new_value': 'Inventor, Leo Jepsen', 'old_value': 'Inventor'}}}
+717: {'dictionary_item_removed': {"root['weight']": '169 lbs'}}
+722: {'values_changed': {"root['weight']": {'new_value': '169 lbs', 'old_value': 'OVER NINE THOUSAAAAAAAAAAND!'}}}

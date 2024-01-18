@@ -1,0 +1,254 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Jimmy Page', "root['Background']": 'non_vocal_instrumentalist', "root['Birth_name']": 'James Patrick Page', "root['Born']": 'birth date and age', "root['Instrument']": 'Guitar, bass guitar, mandolin, banjo', "root['Genre']": 'Hard rock, Heavy metal music', "root['Occupation']": 'Guitarist, songwriter, Record producer', "root['Years_active']": '1957–present', "root['Associated_acts']": 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)', "root['Notable_instruments']": 'Gibson Les Paul, Gibson EDS-1275 '}}
+1: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275 ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC '}}}
+2: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+15: {'values_changed': {"root['Years_active']": {'new_value': '1957–present', 'old_value': '1962–present'}}}
+52: {'values_changed': {"root['Instrument']": {'new_value': 'Guitar, bass guitar, mandolin, banjo', 'old_value': 'Guitar, Bass Guitar, Mandolin, Banjo'}}}
+53: {'values_changed': {"root['Instrument']": {'new_value': 'Guitar, Bass Guitar, Mandolin, Banjo', 'old_value': 'Guitar, Mandolin, Banjo, Bass guitar'}, "root['Occupation']": {'new_value': 'Guitarist, songwriter, Record producer', 'old_value': 'Guitarist, Songwriter, Record producer'}}}
+72: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, Blues-rock, Folk rock'}}}
+73: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Blues-rock, Folk rock', 'old_value': 'Hard rock, Heavy metal music'}}}
+74: {'dictionary_item_removed': {"root['Img']": 'http://img267.imageshack.us/img267/1106/jimmyboync4.jpg', "root['Img_capt']": 'Jimmy Page 1969'}}
+77: {'dictionary_item_added': {"root['Img']": 'http://img267.imageshack.us/img267/1106/jimmyboync4.jpg', "root['Img_capt']": 'Jimmy Page 1969'}, 'values_changed': {"root['Instrument']": {'new_value': 'Guitar, Mandolin, Banjo, Bass guitar', 'old_value': 'Guitar, Mandolin, Bass guitar'}}}
+78: {'dictionary_item_removed': {"root['Alias']": 'ZoSo'}}
+85: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, Experimental rock, Blues-rock, Folk rock'}}}
+86: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Experimental rock, Blues-rock, Folk rock', 'old_value': 'Hard rock, Heavy metal music'}}}
+94: {'dictionary_item_removed': {"root['Img']": 'Image:JimmyPage20.jpg'}}
+96: {'values_changed': {"root['Img']": {'new_value': 'Image:JimmyPage20.jpg', 'old_value': 'Image:Jimmy_Page.jpg'}}}
+98: {'values_changed': {"root['Img']": {'new_value': 'Image:Jimmy_Page.jpg', 'old_value': 'Image:JimmyPage20.jpg'}}}
+99: {'values_changed': {"root['Img']": {'new_value': 'Image:JimmyPage20.jpg', 'old_value': 'JimmyPage20'}}}
+103: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage20', 'old_value': 'Image:JimmyPage20.jpg'}}}
+134: {'dictionary_item_added': {"root['Alias']": 'ZoSo'}, 'values_changed': {"root['Img']": {'new_value': 'Image:JimmyPage20.jpg', 'old_value': 'jimmy-page.jpg'}}}
+135: {'values_changed': {"root['Img']": {'new_value': 'jimmy-page.jpg', 'old_value': 'Page.jpg'}}}
+142: {'dictionary_item_added': {"root['Img']": 'Page.jpg'}, 'dictionary_item_removed': {"root['Img_capt']": 'philliprauls.com/images/young_jimmy_page_2_pr... 438 x 348 - 26k'}}
+144: {'dictionary_item_added': {"root['Img_capt']": 'philliprauls.com/images/young_jimmy_page_2_pr... 438 x 348 - 26k'}, 'dictionary_item_removed': {"root['Img']": 'Image:ledzeppelin.alexreisner.com/.../page2.jpg'}}
+147: {'values_changed': {"root['Img']": {'new_value': 'Image:ledzeppelin.alexreisner.com/.../page2.jpg', 'old_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg'}}}
+148: {'values_changed': {"root['Img']": {'new_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg', 'old_value': 'Image:Jimmy Page, guitar 343 x 306 - 13k - jpg'}}}
+149: {'values_changed': {"root['Img']": {'new_value': 'Image:Jimmy Page, guitar 343 x 306 - 13k - jpg', 'old_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg :Example.jpg'}}}
+150: {'values_changed': {"root['Img']": {'new_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg :Example.jpg', 'old_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg .jpg'}}}
+151: {'values_changed': {"root['Img']": {'new_value': 'Jimmy Page, guitar 343 x 306 - 13k - jpg .jpg', 'old_value': 'Jimmy Page, guitar 220 x 220 - 13k - jpg .jpg'}}}
+153: {'values_changed': {"root['Img']": {'new_value': 'Jimmy Page, guitar 220 x 220 - 13k - jpg .jpg', 'old_value': 'page2.jpg'}}}
+154: {'values_changed': {"root['Img']": {'new_value': 'page2.jpg', 'old_value': 'JimmyPage.jpg'}}}
+155: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'JimmyPage20.jpg'}}}
+156: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage20.jpg', 'old_value': 'jimmy_page.jpg'}}}
+157: {'values_changed': {"root['Img']": {'new_value': 'jimmy_page.jpg', 'old_value': 'zep_pick2.jpg'}}}
+158: {'values_changed': {"root['Img']": {'new_value': 'zep_pick2.jpg', 'old_value': 'jimmy_page.jpg'}}}
+159: {'values_changed': {"root['Img']": {'new_value': 'jimmy_page.jpg', 'old_value': 'jp32-85.jpg'}}}
+160: {'values_changed': {"root['Img']": {'new_value': 'jp32-85.jpg', 'old_value': 'GuitarsJimmyPage.jpg'}}}
+161: {'values_changed': {"root['Img']": {'new_value': 'GuitarsJimmyPage.jpg', 'old_value': 'jimmy1.jpg'}}}
+165: {'values_changed': {"root['Img']": {'new_value': 'jimmy1.jpg', 'old_value': 'jimmy_page.jpg'}}}
+175: {'dictionary_item_added': {"root['Img']": 'jimmy_page.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'JoJo Wysocki'}}}
+176: {'values_changed': {"root['Name']": {'new_value': 'JoJo Wysocki', 'old_value': 'Jimmy Page'}}}
+177: {'dictionary_item_removed': {"root['Img']": 'http://www.gibson.com/Files/AllAccess/2007/Feature_Images3/Jimmy-Page.jpg'}}
+203: {'dictionary_item_added': {"root['Img']": 'http://www.gibson.com/Files/AllAccess/2007/Feature_Images3/Jimmy-Page.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page (I Am Master chief of guitar !!)'}}}
+207: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page (I Am Master chief of guitar !!)', 'old_value': 'Jimmy Page'}}}
+209: {'dictionary_item_removed': {"root['Img']": 'Led Zeppelin 2007.jpg', "root['Img_capt']": 'Jimmy Page on left with Led Zeppelin (2007).'}}
+210: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page on left with Led Zeppelin (2007).', 'old_value': 'Jimmy Page on (stage)left with Led Zeppelin (2007).'}}}
+211: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page on (stage)left with Led Zeppelin (2007).', 'old_value': 'Jimmy Page on (stage) left with Led Zeppelin (2007).'}}}
+212: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page on (stage) left with Led Zeppelin (2007).', 'old_value': 'Jimmy Page on (stage) right with Led Zeppelin (2007).'}}}
+214: {'dictionary_item_removed': {"root['Img_size']": '250', "root['Landscape']": 'Yes'}, 'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page on (stage) right with Led Zeppelin (2007).', 'old_value': 'Jimmy Page at far right with Led Zeppelin (2007).'}}}
+222: {'dictionary_item_added': {"root['Img_capt']": 'Jimmy Page at far right with Led Zeppelin (2007).'}, 'values_changed': {"root['Img']": {'new_value': 'Led Zeppelin 2007.jpg', 'old_value': 'Led Zeppeli Jimmy Page at far right with Led Zeppelin (2007).'}}}
+223: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy e'}}}
+224: {'dictionary_item_removed': {"root['Img_capt']": 'Jimmy Page at far right with Led Zeppelin (2007).'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy e', 'old_value': 'Jimmy Page'}, "root['Img']": {'new_value': 'Led Zeppeli Jimmy Page at far right with Led Zeppelin (2007).', 'old_value': 'Led Zeppelin 2007.jpg'}}}
+227: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page ( the noob)'}}}
+229: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page ( the noob)', 'old_value': 'Jimmy Page'}}}
+238: {'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'James Patty Page'}}}
+239: {'values_changed': {"root['Birth_name']": {'new_value': 'James Patty Page', 'old_value': 'James Patrick Page'}}}
+243: {'dictionary_item_removed': {"root['Died']": "Gods Don't Die"}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jammy Pige'}, "root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'James Vagina Page'}, "root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard cock, Heavy metal music'}}}
+252: {'dictionary_item_added': {"root['Died']": "Gods Don't Die"}, 'values_changed': {"root['Name']": {'new_value': 'Jammy Pige', 'old_value': 'Jimmy Page'}, "root['Birth_name']": {'new_value': 'James Vagina Page', 'old_value': 'James Patrick Page'}, "root['Genre']": {'new_value': 'Hard cock, Heavy metal music', 'old_value': 'Hard rock, Heavy metal music'}}}
+263: {'dictionary_item_added': {"root['Img_capt']": 'Jimmy Page at far right with Led Zeppelin (2007).'}, 'values_changed': {"root['Img']": {'new_value': 'Led Zeppelin 2007.jpg', 'old_value': 'http://www.guitaralive.org/page.jpg'}}}
+264: {'values_changed': {"root['Img']": {'new_value': 'http://www.guitaralive.org/page.jpg', 'old_value': 'jimmypage2007.jpg'}}}
+265: {'dictionary_item_removed': {"root['Img_capt']": 'Jimmy Page at far right with Led Zeppelin (2007).'}, 'values_changed': {"root['Img']": {'new_value': 'jimmypage2007.jpg', 'old_value': 'Led Zeppelin 2007.jpg'}}}
+306: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster Fender Stratocaster '}}}
+307: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster Fender Stratocaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+325: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimy Page'}}}
+326: {'values_changed': {"root['Name']": {'new_value': 'Jimy Page', 'old_value': 'Jimmy Page'}}}
+332: {'values_changed': {"root['Img']": {'new_value': 'Led Zeppelin 2007.jpg', 'old_value': 'JimmyPage.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page at far right with Led Zeppelin (2007).', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}}}
+336: {'dictionary_item_added': {"root['Landscape']": 'Yes'}, 'values_changed': {"root['Img_size']": {'new_value': '250', 'old_value': '180'}}}
+339: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Michael Harris'}}}
+340: {'values_changed': {"root['Name']": {'new_value': 'Michael Harris', 'old_value': 'Jimmy Page'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'i love penis'}}}
+341: {'values_changed': {"root['Img_capt']": {'new_value': 'i love penis', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}}}
+356: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster, Fender Stratocaster '}}}
+357: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster, Fender Stratocaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+386: {'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'James Patrick Page ZIM'}}}
+387: {'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page ZIM', 'old_value': 'James Patrick Page'}}}
+389: {'dictionary_item_removed': {"root['Alias']": 'ZIMMER', "root['Died']": 'March 27, 2008'}, 'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'James Patrick Page ZIMZALICOUS'}}}
+390: {'dictionary_item_added': {"root['Alias']": 'ZIMMER'}, 'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page ZIMZALICOUS', 'old_value': 'James Patrick Page'}}}
+391: {'dictionary_item_added': {"root['Died']": 'March 27, 2008'}, 'values_changed': {"root['Img_size']": {'new_value': '180', 'old_value': '186'}}}
+395: {'values_changed': {"root['Associated_acts']": {'new_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)', 'old_value': 'The ZIMS, Led Zeppelin, The Honeydrippers, The Firm (band)'}}}
+396: {'values_changed': {"root['Associated_acts']": {'new_value': 'The ZIMS, Led Zeppelin, The Honeydrippers, The Firm (band)', 'old_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)'}}}
+435: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'Jimmy_Page_Knebworth_1979.jpg'}}}
+436: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'Jimmy Page with Led Zeppelin (1979).'}}}
+437: {'values_changed': {"root['Img']": {'new_value': 'Jimmy_Page_Knebworth_1979.jpg', 'old_value': 'JimmyPage.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (1979).', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}}}
+457: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'rock n roll, Heavy metal music'}}}
+458: {'values_changed': {"root['Genre']": {'new_value': 'rock n roll, Heavy metal music', 'old_value': 'rock n roll, metal music , Blues-rock, Folk rock'}}}
+459: {'values_changed': {"root['Genre']": {'new_value': 'rock n roll, metal music , Blues-rock, Folk rock', 'old_value': 'Hard rock, Heavy metal music'}}}
+460: {'dictionary_item_removed': {"root['Alias']": 'da man'}}
+504: {'dictionary_item_added': {"root['Alias']": 'da man'}, 'dictionary_item_removed': {"root['Died']": 'april 22, 2008 OMG'}}
+508: {'dictionary_item_added': {"root['Died']": 'april 22, 2008 OMG'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page IS THE BEST GUITARIST EVER!'}}}
+509: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page IS THE BEST GUITARIST EVER!', 'old_value': 'Jimmy Page IS THE BEST GUITARIST EVER! BY JAMES!'}}}
+510: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page IS THE BEST GUITARIST EVER! BY JAMES!', 'old_value': 'Jimmy Page'}}}
+519: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page - Jesus Reincarnate'}}}
+520: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page - Jesus Reincarnate', 'old_value': 'Jimmy Page'}}}
+546: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Dylan Lomax'}}}
+548: {'values_changed': {"root['Name']": {'new_value': 'Dylan Lomax', 'old_value': 'Jimmy Page'}}}
+553: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'Jimmy_Page_1975.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'Jimmy Page with Led Zeppelin (1975).'}, "root['Img_size']": {'new_value': '186', 'old_value': '300'}}}
+554: {'values_changed': {"root['Img']": {'new_value': 'Jimmy_Page_1975.jpg', 'old_value': 'JimmyPage.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (1975).', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}, "root['Img_size']": {'new_value': '300', 'old_value': '186'}}}
+617: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, blues-rock, folk rock'}}}
+618: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, blues-rock, folk rock', 'old_value': 'Hard rock, Heavy metal music'}}}
+669: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page (GOD)'}}}
+670: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page (GOD)', 'old_value': 'Jimmy Page'}}}
+674: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Cormacan'}}}
+675: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Cormacan', 'old_value': 'Jimmy Page'}}}
+676: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'A%20Crazy%20Redneck'}}}
+677: {'dictionary_item_added': {"root['Img']": 'A%20Crazy%20Redneck'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)', 'old_value': 'POOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!Crowes'}}}
+678: {'dictionary_item_removed': {"root['Img']": 'JimmyPage.jpg'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'POOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!Crowes', 'old_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)'}}}
+692: {'dictionary_item_removed': {"root['Died']": 'HE LIVES FOREVER'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy "sex god" Page'}}}
+693: {'dictionary_item_added': {"root['Died']": 'HE LIVES FOREVER'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy "sex god" Page', 'old_value': 'Jimmy Page'}}}
+694: {'dictionary_item_removed': {"root['Died']": 'HE LIVES FOREVER'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy "sex god" Page'}}}
+695: {'dictionary_item_added': {"root['Died']": 'HE LIVES FOREVER'}, 'values_changed': {"root['Name']": {'new_value': 'Jimmy "sex god" Page', 'old_value': 'Jimmy Page'}}}
+698: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page (GOD)'}}}
+699: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page (GOD)', 'old_value': 'Jimmy Page'}}}
+700: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page (GOD)'}}}
+701: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page (GOD)', 'old_value': 'Jimmy Page'}}}
+723: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page a.k.a greatest rock star ever!!!!!'}}}
+724: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page a.k.a greatest rock star ever!!!!!', 'old_value': 'Jimmy Page'}}}
+749: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Turd Ferguson'}}}
+755: {'values_changed': {"root['Name']": {'new_value': 'Turd Ferguson', 'old_value': 'Jimmy Page'}}}
+758: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1250, Danelectro 59 DC, Fender Telecaster '}}}
+759: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1250, Danelectro 59 DC, Fender Telecaster ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+760: {'dictionary_item_removed': {"root['Died']": 'died july 4 because he sucks by paul c'}}
+772: {'dictionary_item_added': {"root['Died']": 'died july 4 because he sucks by paul c'}, 'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'JimmyPage 1973.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'Jimmy Page'}}}
+773: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage 1973.jpg', 'old_value': 'JimmyPage.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}}}
+777: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Zach WEINBERG'}}}
+778: {'values_changed': {"root['Name']": {'new_value': 'Zach WEINBERG', 'old_value': 'Jimmy Page'}}}
+779: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'Jimmy Page with Forgotten Paradise w/ Ethan Holbrook (2007).'}}}
+780: {'values_changed': {"root['Img_capt']": {'new_value': 'Jimmy Page with Forgotten Paradise w/ Ethan Holbrook (2007).', 'old_value': 'Jimmy Page with Led Zeppelin (2007).'}}}
+810: {'dictionary_item_removed': {"root['Died']": '12/31/99'}}
+840: {'dictionary_item_added': {"root['Died']": '12/31/99'}, 'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'http://chriscornell.org.uk/images/jimmy-page.jpg'}}}
+841: {'values_changed': {"root['Img']": {'new_value': 'http://chriscornell.org.uk/images/jimmy-page.jpg', 'old_value': 'JimmyPage.jpg'}}}
+847: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Dr. Jimmy Page'}}}
+848: {'values_changed': {"root['Name']": {'new_value': 'Dr. Jimmy Page', 'old_value': 'Jimmy Page'}}}
+859: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, blues-rock, folk rock'}}}
+860: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, blues-rock, folk rock', 'old_value': 'Hard rock, Heavy metal music'}}}
+863: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page iz owsome'}}}
+864: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page iz owsome', 'old_value': 'Jimmy Page iz cool'}}}
+865: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page iz cool', 'old_value': 'Jimmy Page'}}}
+870: {'values_changed': {"root['Img']": {'new_value': 'JimmyPage.jpg', 'old_value': 'JimmyPage77.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page with Led Zeppelin (2007).', 'old_value': 'Jimmy Page in 1977'}, "root['Img_size']": {'new_value': '186', 'old_value': '280'}}}
+873: {'dictionary_item_removed': {"root['Landscape']": 'Yes'}, 'values_changed': {"root['Img_size']": {'new_value': '280', 'old_value': '250'}}}
+899: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'DR. Jimmy Page'}}}
+900: {'values_changed': {"root['Name']": {'new_value': 'DR. Jimmy Page', 'old_value': 'Jimmy Page'}}}
+908: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Blues rock, Hard rock, folk rock'}}}
+923: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page "Pollito"'}}}
+929: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page "Pollito"', 'old_value': 'Jimmy Page'}}}
+938: {'values_changed': {"root['Genre']": {'new_value': 'Blues rock, Hard rock, folk rock', 'old_value': 'Hard rock, Heavy metal music'}, "root['Occupation']": {'new_value': 'Guitarist, Songwriter, Record producer', 'old_value': 'Musician, Songwriter, Record producer'}}}
+980: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page would fuck your mother and sister'}}}
+981: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page would fuck your mother and sister', 'old_value': 'Jimmy Page'}}}
+982: {'values_changed': {"root['Associated_acts']": {'new_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)', 'old_value': 'The Yardbirds, The Who, Led Zeppelin, The Honeydrippers, The Firm (band)'}}}
+983: {'values_changed': {"root['Associated_acts']": {'new_value': 'The Yardbirds, The Who, Led Zeppelin, The Honeydrippers, The Firm (band)', 'old_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)'}}}
+994: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': "Jimmy Page will fuck your sister and your mother.  He probably fucked chandler's mom"}}}
+995: {'values_changed': {"root['Name']": {'new_value': "Jimmy Page will fuck your sister and your mother.  He probably fucked chandler's mom", 'old_value': 'Jimmy Page'}}}
+1015: {'dictionary_item_removed': {"root['Label']": 'Swan Song Records, Atlantic Records, Geffen Records, Fontana Records, Mercury Records'}}
+1021: {'values_changed': {"root['Label']": {'new_value': 'Swan Song Records, Atlantic Records, Geffen Records, Fontana Records, Mercury Records', 'old_value': 'Swan Song Records'}}}
+1030: {'dictionary_item_removed': {"root['Died']": 'death date and age', "root['accessdate']": '2007-02-17', "root['NAME']": 'Page, Jimmy |ALTERNATIVE'}, 'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster ', 'old_value': "Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster  '''James Patrick Page''', Order of the British Empire"}}}
+1031: {'dictionary_item_added': {"root['accessdate']": '2007-02-17', "root['NAME']": 'Page, Jimmy |ALTERNATIVE'}, 'values_changed': {"root['Notable_instruments']": {'new_value': "Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster  '''James Patrick Page''', Order of the British Empire", 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+1033: {'dictionary_item_removed': {"root['accessdate']": '2007-02-17', "root['NAME']": 'Page, Jimmy |ALTERNATIVE'}, 'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'Gay Boy'}, "root['Notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster ', 'old_value': "Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster  '''James Patrick Page''', Order of the British Empire"}}}
+1034: {'dictionary_item_added': {"root['Died']": 'death date and age', "root['accessdate']": '2007-02-17', "root['NAME']": 'Page, Jimmy |ALTERNATIVE'}, 'values_changed': {"root['Birth_name']": {'new_value': 'Gay Boy', 'old_value': 'James Patrick Page'}, "root['Notable_instruments']": {'new_value': "Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster  '''James Patrick Page''', Order of the British Empire", 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}}}
+1035: {'values_changed': {"root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'Gay'}}}
+1036: {'values_changed': {"root['Birth_name']": {'new_value': 'Gay', 'old_value': 'James Patrick Page'}}}
+1089: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'TOMB'}, "root['Img']": {'new_value': 'JimmyPage77.jpg', 'old_value': 'TOMB77.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page in 1977', 'old_value': 'TOMB in 1977'}, "root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'Tom Brent'}}}
+1090: {'values_changed': {"root['Name']": {'new_value': 'TOMB', 'old_value': 'Jimmy Page'}, "root['Img']": {'new_value': 'TOMB77.jpg', 'old_value': 'JimmyPage77.jpg'}, "root['Img_capt']": {'new_value': 'TOMB in 1977', 'old_value': 'Jimmy Page in 1977'}, "root['Birth_name']": {'new_value': 'Tom Brent', 'old_value': 'James Patrick Page'}}}
+1091: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'TOMB'}, "root['Img']": {'new_value': 'JimmyPage77.jpg', 'old_value': 'JimmyTOMB77.jpg'}, "root['Img_capt']": {'new_value': 'Jimmy Page in 1977', 'old_value': 'TOMB in 1977'}, "root['Birth_name']": {'new_value': 'James Patrick Page', 'old_value': 'Tom Brent'}}}
+1092: {'values_changed': {"root['Name']": {'new_value': 'TOMB', 'old_value': 'Jimmy Page'}, "root['Img']": {'new_value': 'JimmyTOMB77.jpg', 'old_value': 'JimmyPage77.jpg'}, "root['Img_capt']": {'new_value': 'TOMB in 1977', 'old_value': 'Jimmy Page in 1977'}, "root['Birth_name']": {'new_value': 'Tom Brent', 'old_value': 'James Patrick Page'}}}
+1105: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy dork'}}}
+1106: {'values_changed': {"root['Name']": {'new_value': 'Jimmy dork', 'old_value': 'Jimmy Page'}}}
+1112: {'dictionary_item_added': {"root['Occupation']": 'Musician, Songwriter, Record producer'}, 'dictionary_item_removed': {"root['Occupatio']": 'Musician, Songwriter, Record producer'}}
+1113: {'dictionary_item_added': {"root['Occupatio']": 'Musician, Songwriter, Record producer'}, 'dictionary_item_removed': {"root['Occupation']": 'Musician, Songwriter, Record producer'}}
+1180: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Paige'}}}
+1181: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Paige', 'old_value': 'Jimmy Page'}}}
+1197: {'values_changed': {"root['Instrument']": {'new_value': 'Guitar, Mandolin, Bass guitar', 'old_value': 'Guitar, Mandolin, Appalachian dulcimer'}}}
+1214: {'values_changed': {"root['Name']": {'new_value': 'Jimmy Page', 'old_value': 'Derek Finnicum'}}}
+1216: {'values_changed': {"root['Name']": {'new_value': 'Derek Finnicum', 'old_value': 'Jimmy Page'}}}
+1223: {'dictionary_item_added': {"root['Img_capt']": 'Jimmy Page in 1977'}, 'values_changed': {"root['Img']": {'new_value': 'JimmyPage77.jpg', 'old_value': 'File:Zoso.jpg'}, "root['Instrument']": {'new_value': 'Guitar, Mandolin, Appalachian dulcimer', 'old_value': 'Guitar, Appalachian dulcimer'}}}
+1224: {'dictionary_item_removed': {"root['Img_capt']": 'Jimmy Page in 1977'}, 'values_changed': {"root['Img']": {'new_value': 'File:Zoso.jpg', 'old_value': 'JimmyPage77.jpg'}, "root['Instrument']": {'new_value': 'Guitar, Appalachian dulcimer', 'old_value': 'Guitar, Mandolin, Appalachian dulcimer'}}}
+1245: {'values_changed': {"root['Years_active']": {'new_value': '1962–present', 'old_value': '1959–present'}}}
+1246: {'values_changed': {"root['Years_active']": {'new_value': '1959–present', 'old_value': '1962–present'}}}
+1263: {'dictionary_item_added': {"root['Name']": 'Jimmy Page', "root['Img']": 'JimmyPage77.jpg', "root['Img_capt']": 'Jimmy Page in 1977', "root['Img_size']": '250', "root['Landscape']": 'Yes', "root['Background']": 'non_vocal_instrumentalist', "root['Birth_name']": 'James Patrick Page', "root['Born']": 'birth date and age', "root['Instrument']": 'Guitar, Mandolin, Appalachian dulcimer', "root['Genre']": 'Hard rock, Heavy metal music', "root['Occupation']": 'Musician, Songwriter, Record producer', "root['Years_active']": '1962–present', "root['Label']": 'Swan Song Records', "root['Associated_acts']": 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (band)', "root['Notable_instruments']": 'Gibson Les Paul, Gibson EDS-1275, Danelectro 59 DC, Fender Telecaster '}, 'dictionary_item_removed': {"root['name']": 'Jimmy Page', "root['background']": 'non_vocal_instrumentalist', "root['instrument']": 'Guitar, mandolin, Appalachian dulcimer', "root['genre']": 'Hard rock, Heavy metal music', "root['occupation']": 'Musician, songwriter, Record producer', "root['label']": 'Swan Song Records', "root['associated_acts']": 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (rock band)', "root['notable_instruments']": 'Gibson Les Paul '}}
+1319: {'values_changed': {"root['associated_acts']": {'new_value': 'The Yardbirds, Led Zeppelin, The Honeydrippers, The Firm (rock band)', 'old_value': 'The Yardbirds, Led Zeppelin, the Honeydrippers, The Firm (rock band)'}}}
+1331: {'values_changed': {"root['associated_acts']": {'new_value': 'The Yardbirds, Led Zeppelin, the Honeydrippers, The Firm (rock band)', 'old_value': 'Led Zeppelin, The Yardbirds, the Honeydrippers, The Firm (rock band)'}}}
+1332: {'values_changed': {"root['associated_acts']": {'new_value': 'Led Zeppelin, The Yardbirds, the Honeydrippers, The Firm (rock band)', 'old_value': 'Led Zeppelin, the Yardbirds, the Honeydrippers, The Firm (rock band)'}}}
+1353: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, Record producer', 'old_value': 'Musician, songwriter, being God, Record producer'}}}
+1355: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, being God, Record producer', 'old_value': 'Musician, songwriter, Record producer'}}}
+1373: {'values_changed': {"root['name']": {'new_value': 'Jimmy Page', 'old_value': 'Jimmy Page , post-nominals'}}}
+1399: {'values_changed': {"root['name']": {'new_value': 'Jimmy Page , post-nominals', 'old_value': 'Jimmy "legend" Page  , post-nominals'}}}
+1400: {'values_changed': {"root['name']": {'new_value': 'Jimmy "legend" Page  , post-nominals', 'old_value': 'Jimmy Page , post-nominals'}}}
+1418: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, Record producer', 'old_value': 'Singer-songwriter Musician, Record producer'}}}
+1423: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter Musician, Record producer', 'old_value': 'Guitarist, Singer-songwriter Musician, Record producer'}}}
+1438: {'dictionary_item_removed': {"root['alias']": 'Jimmy, Pagey'}}
+1464: {'values_changed': {"root['occupation']": {'new_value': 'Guitarist, Singer-songwriter Musician, Record producer', 'old_value': 'Guitarist, singer-songwriter musician, Record producer'}}}
+1472: {'dictionary_item_added': {"root['genre']": 'Hard rock, Heavy metal music', "root['occupation']": 'Guitarist, singer-songwriter musician, Record producer', "root['label']": 'Swan Song Records', "root['associated_acts']": 'Led Zeppelin, the Yardbirds, the Honeydrippers, The Firm (rock band)', "root['notable_instruments']": 'Gibson Les Paul '}, 'values_changed': {"root['name']": {'new_value': 'Jimmy Page , post-nominals', 'old_value': 'Jimmy Paul , post-nominals'}, "root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer', 'old_value': 'Danelectro 3021'}}}
+1473: {'dictionary_item_removed': {"root['genre']": 'Hard rock, Heavy metal music', "root['occupation']": 'Guitarist, singer-songwriter musician, Record producer', "root['label']": 'Swan Song Records', "root['associated_acts']": 'Led Zeppelin, the Yardbirds, the Honeydrippers, The Firm (rock band)', "root['notable_instruments']": 'Gibson Les Paul '}, 'values_changed': {"root['name']": {'new_value': 'Jimmy Paul , post-nominals', 'old_value': 'Jimmy Page , post-nominals'}, "root['instrument']": {'new_value': 'Danelectro 3021', 'old_value': 'Guitar, mandolin, Appalachian dulcimer'}}}
+1512: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer', 'old_value': 'groupies, underage girls, sex, Guitar, mandolin, Appalachian dulcimer'}}}
+1513: {'values_changed': {"root['instrument']": {'new_value': 'groupies, underage girls, sex, Guitar, mandolin, Appalachian dulcimer', 'old_value': 'Guitar, mandolin, Appalachian dulcimer'}}}
+1520: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, Bass guitar'}, "root['occupation']": {'new_value': 'Guitarist, singer-songwriter musician, Record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1558: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, songwriter, producer'}}}
+1559: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1570: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Rock and Roll, Hard rock, Heavy metal music'}}}
+1571: {'values_changed': {"root['genre']": {'new_value': 'Rock and Roll, Hard rock, Heavy metal music', 'old_value': 'Hard rock, Heavy metal music'}}}
+1585: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, blues rock, folk rock, blues'}}}
+1586: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, blues rock, folk rock, blues', 'old_value': 'Hard rock, Heavy metal music'}}}
+1596: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer, sex god'}}}
+1597: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer, sex god', 'old_value': 'Musician, songwriter, record producer'}}}
+1598: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, Bass guitar', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}}}
+1600: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey', 'old_value': 'Jimmy, Pagey, S. Flavius Mercurius'}}}
+1601: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, S. Flavius Mercurius', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius'}}}
+1606: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': "Musician, Noel's husband,songwriter, record producer"}}}
+1607: {'values_changed': {"root['occupation']": {'new_value': "Musician, Noel's husband,songwriter, record producer", 'old_value': 'Musician, songwriter, record producer'}}}
+1630: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass guitar, banjo, harmonica, sitar, Keyboard instrument'}, "root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, songwriter, producer'}}}
+1631: {'values_changed': {"root['notable_instruments']": {'new_value': 'Gibson Les Paul ', 'old_value': 'Gibson Les Paul, Gibson EDS-1275, Fender Telecaster, Danelectro 3021 '}}}
+1632: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass guitar, banjo, harmonica, sitar, Keyboard instrument', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}, "root['occupation']": {'new_value': 'Musician, songwriter, producer', 'old_value': 'Musician, songwriter, record producer'}, "root['notable_instruments']": {'new_value': 'Gibson Les Paul, Gibson EDS-1275, Fender Telecaster, Danelectro 3021 ', 'old_value': 'Gibson Les Paul '}}}
+1634: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, ZOSO'}}}
+1635: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, ZOSO', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius'}}}
+1681: {'values_changed': {"root['name']": {'new_value': 'Jimmy Page , post-nominals', 'old_value': 'Jimmy "The Chink" Page , post-nominals'}}}
+1682: {'values_changed': {"root['name']": {'new_value': 'Jimmy "The Chink" Page , post-nominals', 'old_value': 'Jimmy "Guitar Chinkie" Page , post-nominals'}}}
+1683: {'values_changed': {"root['name']": {'new_value': 'Jimmy "Guitar Chinkie" Page , post-nominals', 'old_value': 'Jimmy "The Chink" Page , post-nominals'}}}
+1684: {'values_changed': {"root['name']": {'new_value': 'Jimmy "The Chink" Page , post-nominals', 'old_value': 'Jimmy "Guitar Chinkie" Page , post-nominals'}}}
+1685: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer, Niggerhunter'}}}
+1686: {'values_changed': {"root['name']": {'new_value': 'Jimmy "Guitar Chinkie" Page , post-nominals', 'old_value': 'Jimmy "The Chink" Page , post-nominals'}}}
+1687: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius', 'old_value': 'Jimmy, Jackie Chan, Pagey, Charles Obscure, S. Flavius Mercurius'}}}
+1688: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Jackie Chan, Pagey, Charles Obscure, S. Flavius Mercurius', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius'}}}
+1689: {'values_changed': {"root['name']": {'new_value': 'Jimmy "The Chink" Page , post-nominals', 'old_value': 'Jimmy "Guitar Chinkie" Page , post-nominals'}}}
+1690: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Nunchaku Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}}}
+1692: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer, Niggerhunter', 'old_value': 'Musician, songwriter, record producer'}}}
+1697: {'dictionary_item_added': {"root['instrument']": 'Guitar, mandolin, Nunchaku Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}, 'values_changed': {"root['name']": {'new_value': 'Jimmy "Guitar Chinkie" Page , post-nominals', 'old_value': 'Jimmy Page , post-nominals'}}}
+1698: {'dictionary_item_removed': {"root['instrument']": 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}}
+1706: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist songwriter, record producer'}}}
+1708: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1709: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1710: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1711: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1712: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1713: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'martial artist'}, "root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'martial artist'}}}
+1714: {'values_changed': {"root['genre']": {'new_value': 'martial artist', 'old_value': 'Hard rock, Heavy metal music'}, "root['occupation']": {'new_value': 'martial artist', 'old_value': 'Musician, songwriter, record producer'}}}
+1715: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1716: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1717: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1718: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1719: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1720: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1721: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, record producer', 'old_value': 'Musician, martial artist, songwriter, record producer'}}}
+1722: {'values_changed': {"root['occupation']": {'new_value': 'Musician, martial artist, songwriter, record producer', 'old_value': 'Musician, songwriter, record producer'}}}
+1730: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Hard rock, blues rock, folk rock, blues, Heavy metal music'}}}
+1731: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, blues rock, folk rock, blues, Heavy metal music', 'old_value': 'Hard rock, Heavy metal music'}}}
+1735: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, Jimmeh'}}}
+1736: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, Jimmeh', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius'}}}
+1762: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, sitar, keyboards, Tanpura (instrument)'}}}
+1763: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}}}
+1764: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Skiffle, Hard rock, Heavy metal music'}}}
+1768: {'values_changed': {"root['genre']": {'new_value': 'Skiffle, Hard rock, Heavy metal music', 'old_value': 'Hard rock, Heavy metal music'}}}
+1769: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Skiffle, Hard rock, Heavy metal music'}}}
+1786: {'values_changed': {"root['genre']": {'new_value': 'Skiffle, Hard rock, Heavy metal music', 'old_value': 'Hard rock, Blues rock, Folk rock, Blues'}}}
+1787: {'values_changed': {"root['genre']": {'new_value': 'Hard rock, Blues rock, Folk rock, Blues', 'old_value': 'Skiffle, Hard rock, Heavy metal music'}}}
+1789: {'values_changed': {"root['genre']": {'new_value': 'Skiffle, Hard rock, Heavy metal music', 'old_value': 'Hard rock, Heavy metal music'}}}
+1792: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, sitar, keyboards, Tanpura (instrument)'}}}
+1793: {'values_changed': {"root['instrument']": {'new_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, sitar, keyboards, Tanpura (instrument)', 'old_value': 'Guitar, mandolin, Appalachian dulcimer, theremin, bass, banjo, harmonica, Dobro, sitar, keyboards, Tanpura (instrument)'}}}
+1828: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, Tangerine God'}}}
+1829: {'values_changed': {"root['alias']": {'new_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius, Tangerine God', 'old_value': 'Jimmy, Pagey, Charles Obscure, S. Flavius Mercurius'}}}

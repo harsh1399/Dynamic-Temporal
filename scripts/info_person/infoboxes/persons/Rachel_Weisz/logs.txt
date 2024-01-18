@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['partner']": 'Darren Aronofsky (2001-2010; 1 child)'}}
+31: {'dictionary_item_added': {"root['partner']": 'Darren Aronofsky (2001-2010; 1 child)'}, 'dictionary_item_removed': {"root['occupation']": 'Actress', "root['yearsactive']": '1984–present', "root['domesticpartner']": 'Darren Aronofsky (2001-2010; 1 child)'}}
+40: {'dictionary_item_removed': {"root['children']": 'Benjamin Mwaruwari'}}
+209: {'dictionary_item_added': {"root['children']": 'Benjamin Mwaruwari'}, 'values_changed': {"root['domesticpartner']": {'new_value': 'Darren Aronofsky (2001-2010; 1 child)', 'old_value': 'Darren Aronofsky (2001–2010; 1 child)'}}}
+329: {'dictionary_item_removed': {"root['children']": 'Son'}, 'values_changed': {"root['domesticpartner']": {'new_value': 'Darren Aronofsky (2001–2010; 1 child)', 'old_value': 'Darren Aronofsky (2001–2010)'}}}
+339: {'values_changed': {"root['children']": {'new_value': 'Son', 'old_value': 'Henry Aronofsky'}}}
+344: {'values_changed': {"root['domesticpartner']": {'new_value': 'Darren Aronofsky (2001–2010)', 'old_value': 'Darren Aronofsky (2001–2010);Daniel Craig (June 2011-current)'}}}
+345: {'values_changed': {"root['domesticpartner']": {'new_value': 'Darren Aronofsky (2001–2010);Daniel Craig (June 2011-current)', 'old_value': 'Darren Aronofsky (2001–2010)'}}}
+347: {'dictionary_item_removed': {"root['spouse']": 'Daniel Craig (June 22, 2011-present)'}}
+351: {'values_changed': {"root['spouse']": {'new_value': 'Daniel Craig (June 22, 2011-present)', 'old_value': 'Daniel Craig (2011–present)'}}}
+368: {'values_changed': {"root['children']": {'new_value': 'Henry Aronofsky', 'old_value': '1'}}}
+431: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Henry Chance (b. 2006)'}}}
+432: {'values_changed': {"root['children']": {'new_value': 'Henry Chance (b. 2006)', 'old_value': 'Henry Chance  (b. 2006)'}}}
+481: {'dictionary_item_added': {"root['domesticpartner']": 'Darren Aronofsky (2001–2010)'}, 'dictionary_item_removed': {"root['partner']": 'Darren Aronofsky (2002–2010)'}, 'values_changed': {"root['children']": {'new_value': 'Henry Chance  (b. 2006)', 'old_value': 'Henry Chance Aronofsky  (b. 2006)'}}}
+486: {'dictionary_item_removed': {"root['alma_mater']": 'Cambridge University'}}
+504: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, Fashion Model'}}}
+529: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, Fashion Model'}}, 'dictionary_item_added': {"root['yearsactive']": '1984–present'}, 'dictionary_item_removed': {"root['residence']": 'London, England', "root['relations']": 'Minnie Weisz (sister) '}, 'values_changed': {"root['children']": {'new_value': 'Henry Chance Aronofsky  (b. 2006)', 'old_value': '1'}, "root['alma_mater']": {'new_value': 'Cambridge University', 'old_value': 'Trinity Hall, Cambridge'}, "root['spouse']": {'new_value': 'Daniel Craig (2011–present)', 'old_value': 'marriage'}, "root['partner']": {'new_value': 'Darren Aronofsky (2002–2010)', 'old_value': 'Darren Aronofsky   (2001–10)'}}}
+555: {'values_changed': {"root['residence']": {'new_value': 'London, England', 'old_value': 'New York City, United States'}}}
+587: {'values_changed': {"root['residence']": {'new_value': 'New York City, United States', 'old_value': 'New York City, New York, United States'}}}
+589: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, United States', 'old_value': 'New York City, New York, U.S.'}, "root['partner']": {'new_value': 'Darren Aronofsky   (2001–10)', 'old_value': 'Darren Aronofsky (2001–10)'}}}
+596: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+597: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+598: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+610: {'values_changed': {"root['partner']": {'new_value': 'Darren Aronofsky (2001–10)', 'old_value': 'Darren Aronofsky (2001–2010)'}}}
+642: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, U.S.'}}}
+649: {'dictionary_item_added': {"root['partner']": 'Darren Aronofsky (2001–2010)'}, 'dictionary_item_removed': {"root['lover']": 'Darren Aronofsky (2001–2010)'}}
+652: {'dictionary_item_added': {"root['lover']": 'Darren Aronofsky (2001–2010)'}, 'dictionary_item_removed': {"root['partner']": 'Darren Aronofsky (2001–2010)'}}

@@ -1,0 +1,111 @@
+105: {'dictionary_item_removed': {"root['name']": 'Aamir Khan', "root['birthdate']": 'birth date and age', "root['location']": 'Mumbai, Maharashtra, India', "root['spouse']": 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', "root['occupation']": 'Actor, Film producer & Film director', "root['yearsactive']": '1973 - 1974, 1984, 1988 - 2001, 2005 - present '}}
+144: {'values_changed': {"root['yearsactive']": {'new_value': '1973 - 1974, 1984, 1988 - 2001, 2005 - present ', 'old_value': '1973 - 1974, 1984, 1988 - 2001, 2005 - present'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Padmabhushan Aamir Khan'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Padmabhushan Aamir Khan', 'old_value': 'Aamir Khan'}}}
+173: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Film producer & Film director', 'old_value': 'Actor, film producer and Film director'}, "root['yearsactive']": {'new_value': '1973 - 1974, 1984, 1988 - 2001, 2005 - present', 'old_value': '1973 – 1974, 1984, 1988 – 2001, 2005 – present'}}}
+226: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rathod (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+229: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rathod (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+248: {'values_changed': {"root['yearsactive']": {'new_value': '1973 – 1974, 1984, 1988 – 2001, 2005 – present', 'old_value': '1973–1974, 1984, 1988–2001, 2005 – present'}}}
+253: {'dictionary_item_added': {"root['occupation']": 'Actor, film producer and Film director', "root['yearsactive']": '1973–1974, 1984, 1988–2001, 2005 – present'}, 'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rao (2005 - present)  film producer and Film director'}}}
+255: {'dictionary_item_removed': {"root['occupation']": 'Actor, film producer and Film director', "root['yearsactive']": '1973–1974, 1984, 1988–2001, 2005 – present'}, 'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  film producer and Film director', 'old_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+340: {'dictionary_item_added': {"root['birthdate']": 'birth date and age'}, 'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan sexena'}}}
+341: {'dictionary_item_removed': {"root['birthdate']": 'birth date and age'}, 'values_changed': {"root['name']": {'new_value': 'Aamir Khan sexena', 'old_value': 'Aamir Khan'}}}
+354: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Sourav Medya (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+357: {'values_changed': {"root['spouse']": {'new_value': 'Sourav Medya (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+360: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Miley cyrus (2005 - present)  Reena Dutta (1987 - 2002)'}}}
+361: {'values_changed': {"root['yearsactive']": {'new_value': '1973–1974, 1984, 1988–2001, 2005 – present', 'old_value': '1983–1984, 1984, 1988–2001, 2005 – present'}}}
+362: {'values_changed': {"root['spouse']": {'new_value': 'Miley cyrus (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)'}, "root['yearsactive']": {'new_value': '1983–1984, 1984, 1988–2001, 2005 – present', 'old_value': '1973–1974, 1984, 1988–2001, 2005 – present'}}}
+445: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1987 - 2002)', 'old_value': 'Kiran Rao (2005 - present)  Reena Dutta (1986 - 2002)'}}}
+481: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer and Film director', 'old_value': 'Actor, film producer'}}}
+482: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer and Film director'}}}
+483: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'n'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'n', 'old_value': 'Aamir Khan'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': "'''Khader Khan'''"}}}
+486: {'values_changed': {"root['name']": {'new_value': "'''Khader Khan'''", 'old_value': 'Aamir Khan'}}}
+487: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Amresh Puri'}}}
+489: {'values_changed': {"root['name']": {'new_value': 'Amresh Puri', 'old_value': 'Aamir Khan'}}}
+551: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan THE dude'}}}
+552: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan THE dude', 'old_value': 'Aamir Khan'}}}
+570: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Mumbai, Maharashtra, India', "root['yearsactive']": '1973–1974, 1984, 1988–2001, 2005 – present'}, 'dictionary_item_removed': {"root['twitter_details']": 'http://www.celebtweets.in/aamir_khan '}}
+657: {'dictionary_item_added': {"root['twitter_details']": 'http://www.celebtweets.in/aamir_khan '}, 'dictionary_item_removed': {"root['Weight']": 'convert'}}
+658: {'dictionary_item_added': {"root['Weight']": 'convert'}, 'dictionary_item_removed': {"root['weight']": 'convert'}}
+665: {'dictionary_item_added': {"root['weight']": 'convert'}, 'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'PUNSHI GADHAVI'}}}
+666: {'values_changed': {"root['name']": {'new_value': 'PUNSHI GADHAVI', 'old_value': 'Aamir Khan'}}}
+671: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan आमिर ख़ान عامر خان'}}}
+672: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan आमिर ख़ान عامر خان', 'old_value': 'Aamir Khan'}}}
+676: {'values_changed': {"root['spouse']": {'new_value': 'Kiran Rao (2005 - present)  Reena Dutta (1986 - 2002)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}}}
+679: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan (KING KHAN)'}}}
+680: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan (KING KHAN)', 'old_value': 'Aamir Khan'}}}
+684: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)', 'old_value': 'Reena Dutta (1986–2002) (divorced)   Kiran Rao (2005–present)'}, "root['occupation']": {'new_value': 'Actor, film producer and Film director', 'old_value': 'Actor, producer, director, screenwriter'}}}
+685: {'dictionary_item_removed': {"root['partner']": 'Kiran Rao   (2005–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) (divorced)   Kiran Rao (2005–present)', 'old_value': 'Reena Dutta   (1986–2002) (divorced)'}}}
+686: {'dictionary_item_added': {"root['partner']": 'Kiran Rao   (2005–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta   (1986–2002) (divorced)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}, "root['occupation']": {'new_value': 'Actor, producer, director, screenwriter', 'old_value': 'Actor, film producer and Film director'}}}
+711: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer and Film director', 'old_value': 'Actor'}}}
+732: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, producer, director and screenwriter'}}}
+734: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director and screenwriter', 'old_value': 'Actor'}}}
+756: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Mayank Hardikar'}}}
+757: {'values_changed': {"root['name']": {'new_value': 'Mayank Hardikar', 'old_value': 'Aamir Khan'}}}
+769: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan आमिर ख़ान عامر خان'}}}
+770: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan आमिर ख़ान عامر خان', 'old_value': 'Aamir Khan'}}}
+780: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khanna'}}}
+781: {'values_changed': {"root['name']": {'new_value': 'Aamir Khanna', 'old_value': 'Aamir Khan'}}}
+782: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Gayanga Prashan'}}}
+783: {'values_changed': {"root['name']": {'new_value': 'Gayanga Prashan', 'old_value': 'Aamir Khan'}}}
+784: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present) Gul Panag (present)'}}}
+785: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present) Gul Panag (present)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}}}
+794: {'dictionary_item_removed': {"root['religion']": 'Muslim'}}
+808: {'dictionary_item_added': {"root['religion']": 'Muslim'}, 'dictionary_item_removed': {"root['Height']": '5\'7"'}}
+829: {'dictionary_item_added': {"root['Height']": '5\'7"'}, 'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Mayur Ubale'}}}
+830: {'values_changed': {"root['name']": {'new_value': 'Mayur Ubale', 'old_value': 'Aamir Khan'}}}
+865: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Muzakkir Sayed'}}}
+866: {'values_changed': {"root['name']": {'new_value': 'Muzakkir Sayed', 'old_value': 'Aamir Khan'}}}
+894: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Amir Khan'}}}
+895: {'values_changed': {"root['name']": {'new_value': 'Amir Khan', 'old_value': 'Aamir Khan'}}}
+958: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan h'}}}
+959: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan h', 'old_value': 'Aamir Khan'}}}
+1003: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan...shoooo cuteee'}}}
+1004: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan...shoooo cuteee', 'old_value': 'Aamir Khan'}}}
+1005: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan .....jscjlaksj'}}}
+1006: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan .....jscjlaksj', 'old_value': 'Aamir Khan'}}}
+1053: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Filza Khan'}}}
+1054: {'values_changed': {"root['name']": {'new_value': 'Filza Khan', 'old_value': 'Aamir Khan'}}}
+1156: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan BAD LOOKING GUY'}}}
+1157: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan BAD LOOKING GUY', 'old_value': 'Aamir Khan'}}}
+1235: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)', 'old_value': 'Reena Dutta (1986&ndash;2002) Kiran Rao (2005&ndash;present)'}}}
+1288: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Saad Ahmad'}}}
+1289: {'values_changed': {"root['name']": {'new_value': 'Saad Ahmad', 'old_value': 'Aamir Khan'}}}
+1290: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Loser Khan'}}}
+1291: {'values_changed': {"root['name']": {'new_value': 'Loser Khan', 'old_value': 'Aamir Khan'}}}
+1359: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986&ndash;2002) Kiran Rao (2005&ndash;present)', 'old_value': 'Reena Dutta (1986&ndash;2002) kübra  (2005&ndash;sonsuzakadar)'}}}
+1360: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986&ndash;2002) kübra  (2005&ndash;sonsuzakadar)', 'old_value': 'Reena Dutta (1986&ndash;2002) Kiran Rao (2005&ndash;present)'}}}
+1532: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan harsha'}}}
+1533: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan harsha', 'old_value': 'Aamir Khan'}}}
+1538: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan harsha'}}}
+1549: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan harsha', 'old_value': 'Aamir Khan'}}}
+1550: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan,Pappu Kangi'}}}
+1551: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan,Pappu Kangi', 'old_value': 'Aamir Khan'}}}
+1552: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan harsha'}}}
+1553: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan harsha', 'old_value': 'Aamir Khan'}}}
+1660: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986&ndash;2002) Kiran Rao (2005&ndash;present)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}}}
+1689: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)', 'old_value': 'Reena Dutta (1986–2002) Masd Saram (2005–present)'}}}
+1690: {'values_changed': {"root['spouse']": {'new_value': 'Reena Dutta (1986–2002) Masd Saram (2005–present)', 'old_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}}}
+1738: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan bhai'}}}
+1739: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan bhai', 'old_value': 'Aamir Khan'}}}
+1849: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan', 'old_value': 'Aamir Khan ()'}}}
+1850: {'values_changed': {"root['name']": {'new_value': 'Aamir Khan ()', 'old_value': 'Aamir Khan'}}}
+1854: {'dictionary_item_removed': {"root['children']": 'Azad Rao Khan'}}
+1858: {'values_changed': {"root['children']": {'new_value': 'Azad Rao Khan', 'old_value': '3'}}}
+1861: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Reena Dutta (1986–2002) Kiran Rao (2005–present)'}}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'Junaid, Ira, Azad Rao'}, "root['occupation']": {'new_value': 'Actor', 'old_value': 'Flat list'}}}
+2063: {'dictionary_item_added': {"root['name']": 'Aamir Khan', "root['spouse']": [], "root['children']": 'Junaid, Ira, Azad Rao', "root['occupation']": 'Flat list'}, 'dictionary_item_removed': {"root['education']": 'Narsee Monjee College of Commerce and Economics '}}
+2169: {'dictionary_item_added': {"root['education']": 'Narsee Monjee College of Commerce and Economics '}, 'dictionary_item_removed': {"root['name']": 'Aamir Khan', "root['net_worth']": '$ 150 million (2020)', "root['spouse']": [], "root['children']": '3', "root['works']": 'Aamir Khan filmography', "root['occupation']": [], "root['honours']": 'Padma Shri (2003) Padma Bhushan (2010)  National Treasure of India, Government of China (2017)', "root['awards']": 'List of awards and nominations received by Aamir Khan'}}
+2201: {'values_changed': {"root['net_worth']": {'new_value': '$ 150 million (2020)', 'old_value': '$150 million (2020)'}}}
+2202: {'values_changed': {"root['net_worth']": {'new_value': '$150 million (2020)', 'old_value': '$180 million (2020)'}}}
+2244: {'dictionary_item_removed': {"root['date']": 'Birth', "root['last']": 'Bhatia', "root['work']": 'Aamir Khan filmography', "root['width']": 'http://www.ibosnetwork.com/newsmanager/templates/template1.aspx?a', "root['align']": 'right', "root['quote']": '"I think in the last maybe six to eight months, there is a growing sense of despondency. When I chat with Kiran Rao', "root['list']": 'The Times of India |date'}}
+2254: {'dictionary_item_added': {"root['date']": 'Birth', "root['last']": 'Bhatia', "root['work']": 'Aamir Khan filmography', "root['width']": 'http://www.ibosnetwork.com/newsmanager/templates/template1.aspx?a', "root['align']": 'right', "root['quote']": '"I think in the last maybe six to eight months, there is a growing sense of despondency. When I chat with Kiran Rao', "root['list']": 'The Times of India |date'}, 'values_changed': {"root['honours']": {'new_value': 'Padma Shri (2003) Padma Bhushan (2010)  National Treasure of India, Government of China (2017)', 'old_value': 'ubl'}}}
+2255: {'values_changed': {"root['honours']": {'new_value': 'ubl', 'old_value': 'Padma Shri (2003) Padma Bhushan (2010)  National Treasure of India, Government of China (2017)'}}}
+2258: {'dictionary_item_removed': {"root['education']": "St. Anne's High School ,  Bombay Scottish School ,  Narsee Monjee College  | other_names"}}
+2260: {'type_changes': {"root['education']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': "St. Anne's High School ,  Bombay Scottish School ,  Narsee Monjee College  | other_names"}}}
+2266: {'type_changes': {"root['education']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Narsee Monjee College ', 'new_value': []}}, 'dictionary_item_added': {"root['honours']": 'Padma Shri (2003) Padma Bhushan (2010)  National Treasure of India, Government of China (2017)', "root['awards']": 'List of awards and nominations received by Aamir Khan'}}
+2268: {'dictionary_item_removed': {"root['honours']": 'Padma Shri (2003) Padma Bhushan (2010)  National Treasure of India, Government of China (2017)', "root['awards']": 'List of awards and nominations received by Aamir Khan'}}
+2277: {'dictionary_item_removed': {"root['partner']": 'Fatima Sana Shiekh'}}
+2281: {'dictionary_item_added': {"root['partner']": 'Fatima Sana Shiekh'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'Junaid Khan, Ira Khan, Azad Khan'}}}
+2284: {'values_changed': {"root['children']": {'new_value': 'Junaid Khan, Ira Khan, Azad Khan', 'old_value': '3'}}}

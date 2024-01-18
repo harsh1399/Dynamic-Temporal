@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Charles Lindbergh', "root['occupation']": 'Aviator, author, inventor, explorer, activist', "root['education']": 'University of Wisconsin–Madison (did not graduate)', "root['home_town']": 'Little Falls, Minnesota', "root['spouse']": 'marriage', "root['children']": "'''With Anne Morrow Lindbergh''': Charles Augustus Lindbergh Jr. Jon Lindbergh Land Morrow Lindbergh Anne Lindbergh"}}
+89: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Aviator, author, inventor, explorer, activist'}}, 'dictionary_item_added': {"root['home_town']": 'Little Falls, Minnesota'}}
+103: {'values_changed': {"root['children']": {'new_value': "'''With Anne Morrow Lindbergh''': Charles Augustus Lindbergh Jr. Jon Lindbergh Land Morrow Lindbergh Anne Lindbergh", 'old_value': '14, including Charles Augustus Lindbergh Jr.'}}}
+111: {'values_changed': {"root['children']": {'new_value': '14, including Charles Augustus Lindbergh Jr.', 'old_value': '13, including Charles Augustus Lindbergh Jr.'}}}
+129: {'values_changed': {"root['children']": {'new_value': '13, including Charles Augustus Lindbergh Jr.', 'old_value': '6, including Charles Augustus Lindbergh Jr.'}}}
+130: {'values_changed': {"root['children']": {'new_value': '6, including Charles Augustus Lindbergh Jr.', 'old_value': '13,including Charles Augustus Lindbergh Jr.'}}}
+155: {'values_changed': {"root['children']": {'new_value': '13,including Charles Augustus Lindbergh Jr.', 'old_value': '13, including Charles Augustus Lindbergh Jr.'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Charles Lindbergh', 'old_value': 'Charles Lindbergh the turd'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Charles Lindbergh the turd', 'old_value': 'Charles Lindbergh'}}}
+169: {'values_changed': {"root['name']": {'new_value': 'Charles Lindbergh', 'old_value': 'Mr. Charles Sucky Sucky'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Mr. Charles Sucky Sucky', 'old_value': 'Charles Lindbergh'}}}
+230: {'values_changed': {"root['name']": {'new_value': 'Charles Lindbergh', 'old_value': 'Charles Lindbergh (Adam I changed the stuff on here)'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Charles Lindbergh (Adam I changed the stuff on here)', 'old_value': 'Charles Lindbergh'}}}
+237: {'dictionary_item_added': {"root['name']": 'Charles Lindbergh'}, 'values_changed': {"root['education']": {'new_value': 'University of Wisconsin–Madison (did not graduate)', 'old_value': 'University of Wisconsin–Madison (no degree)'}}}

@@ -1,0 +1,82 @@
+0: {'dictionary_item_removed': {"root['name']": 'David Schwimmer', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Astoria, Queens, New York, United States', "root['birthname']": 'David Lawrence Schwimmer', "root['occupation']": 'Actor, producer, director', "root['yearsactive']": '1988&ndash;present '}}
+17: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988&ndash;2010 '}}}
+18: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;2010 ', 'old_value': '1988&ndash;present '}}}
+49: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988&ndash;2009 '}}}
+50: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;2009 ', 'old_value': '1988&ndash;present '}}}
+51: {'dictionary_item_removed': {"root['deathdate']": 'death date and age'}}
+75: {'dictionary_item_added': {"root['deathdate']": 'death date and age'}, 'values_changed': {"root['birthplace']": {'new_value': 'Astoria, Queens, New York, United States', 'old_value': 'Islamabad, Pakistan'}, "root['birthname']": {'new_value': 'David Lawrence Schwimmer', 'old_value': 'Otis Cochsucha Spunkmeyer'}, "root['occupation']": {'new_value': 'Actor, producer, director', 'old_value': 'Manwhore, child pornographer, warlock'}, "root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '342 BCE&ndash;present '}}}
+76: {'values_changed': {"root['birthplace']": {'new_value': 'Islamabad, Pakistan', 'old_value': 'Astoria, Queens, New York, United States'}, "root['birthname']": {'new_value': 'Otis Cochsucha Spunkmeyer', 'old_value': 'David Lawrence Schwimmer'}, "root['occupation']": {'new_value': 'Manwhore, child pornographer, warlock', 'old_value': 'Actor, producer, director'}, "root['yearsactive']": {'new_value': '342 BCE&ndash;present ', 'old_value': '1988&ndash;present '}}}
+77: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'micmillington'}}}
+78: {'values_changed': {"root['name']": {'new_value': 'micmillington', 'old_value': 'David Schwimmer'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'micmilington'}}}
+80: {'values_changed': {"root['name']": {'new_value': 'micmilington', 'old_value': 'David Schwimmer'}}}
+86: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988&ndash;2010 '}}}
+88: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;2010 ', 'old_value': '1988&ndash;present '}}}
+89: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Schwimmer is a boob'}}}
+90: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer is a boob', 'old_value': 'David Schwimmer'}}}
+101: {'dictionary_item_removed': {"root['deathdate']": 'Unknown, generally accepted that he disappeared in November 2009.'}}
+132: {'dictionary_item_added': {"root['deathdate']": 'Unknown, generally accepted that he disappeared in November 2009.'}, 'values_changed': {"root['birthplace']": {'new_value': 'Astoria, Queens, New York, United States', 'old_value': 'Astoria, Queens, New York, United States   Date of Death: 24th May 2010(Drug overdose)'}}}
+133: {'values_changed': {"root['birthplace']": {'new_value': 'Astoria, Queens, New York, United States   Date of Death: 24th May 2010(Drug overdose)', 'old_value': 'Astoria, Queens, New York, United States'}}}
+142: {'dictionary_item_removed': {"root['rowspan']": '"3"', "root['align']": '"center" ! style', "root['NAME']": 'Schwimmer, David |ALTERNATIVE'}, 'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': "1988&ndash;present  Sadly '''David Lawrence Schwimmer''' passed away on June 2, 2010 the real cause of death is unknown yet but it is thought to be due to a drug over dose  '''David Lawrence Schwimmer''' (born November 2, 1966) is an American actor and director of Television director"}}}
+143: {'dictionary_item_added': {"root['rowspan']": '"3"', "root['align']": '"center" ! style', "root['NAME']": 'Schwimmer, David |ALTERNATIVE'}, 'values_changed': {"root['yearsactive']": {'new_value': "1988&ndash;present  Sadly '''David Lawrence Schwimmer''' passed away on June 2, 2010 the real cause of death is unknown yet but it is thought to be due to a drug over dose  '''David Lawrence Schwimmer''' (born November 2, 1966) is an American actor and director of Television director", 'old_value': '1988&ndash;present '}}}
+165: {'dictionary_item_removed': {"root['Died']": 'death date and age'}}
+167: {'values_changed': {"root['Died']": {'new_value': 'death date and age', 'old_value': 'birthpla'}, "root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988&ndash;present'}}}
+168: {'values_changed': {"root['Died']": {'new_value': 'birthpla', 'old_value': 'death date and age'}, "root['yearsactive']": {'new_value': '1988&ndash;present', 'old_value': '1988&ndash;present '}}}
+189: {'dictionary_item_added': {"root['Died']": 'death date and age'}, 'dictionary_item_removed': {"root['deathdate']": 'death date and age'}, 'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988&ndash;2010 '}}}
+191: {'dictionary_item_added': {"root['deathdate']": 'death date and age'}, 'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;2010 ', 'old_value': '1988&ndash;Present '}}}
+192: {'dictionary_item_removed': {"root['Died']": 'death date and age'}, 'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;Present ', 'old_value': '1988&ndash;present '}}}
+201: {'values_changed': {"root['yearsactive']": {'new_value': '1988&ndash;present ', 'old_value': '1988–present '}}}
+242: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['Died']": 'death date and age', "root['birthplace']": 'Astoria, Queens, New York, United States', "root['birthname']": 'David Lawrence Schwimmer', "root['yearsactive']": '1988–present '}, 'dictionary_item_removed': {"root['spouse']": 'Zoe Buckman (2010-) '}}
+259: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010-) ', 'old_value': 'Zoe Buckman (2010-Present) '}}}
+260: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010-Present) ', 'old_value': 'Zoe Buckman (2010-present) '}}}
+266: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'Ross'}}}
+267: {'values_changed': {"root['name']": {'new_value': 'Ross', 'old_value': 'David Schwimmer'}}}
+272: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010-present) ', 'old_value': 'Zoe Buckman (2010–present) '}}}
+298: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) ', 'old_value': 'Joe Buckman (2010–present) '}}}
+300: {'values_changed': {"root['spouse']": {'new_value': 'Joe Buckman (2010–present) ', 'old_value': 'Zoe Buckman (2010–present) '}}}
+312: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) ', 'old_value': 'Dirty Mouthafuka 010–present) '}}}
+313: {'values_changed': {"root['spouse']": {'new_value': 'Dirty Mouthafuka 010–present) ', 'old_value': 'Zoe Buckman (2010–present) '}}}
+359: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) ', 'old_value': 'Zoe Buckman (2010–present)   Stunt Double'}}}
+360: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present)   Stunt Double', 'old_value': 'Zoe Buckman (2010–present) | stunt double'}}}
+361: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) | stunt double', 'old_value': "Zoe Buckman (2010–present) '''Stunt Double'''"}}}
+362: {'values_changed': {"root['spouse']": {'new_value': "Zoe Buckman (2010–present) '''Stunt Double'''", 'old_value': 'Zoe Buckman (2010–present) '}}}
+390: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) ', 'old_value': 'Zoe Buckman (2010–present) }'}}}
+391: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) }', 'old_value': 'Zoe Buckman (2010–present) '}}}
+398: {'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) ', 'old_value': 'Zoe Buckman (2010–present) 1 child '}}}
+401: {'dictionary_item_removed': {"root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present) 1 child ', 'old_value': 'Zoe Buckman (2010–present)'}}}
+402: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '1 Cleo '}}}
+403: {'values_changed': {"root['children']": {'new_value': '1 Cleo ', 'old_value': 'Cleo '}}}
+405: {'values_changed': {"root['children']": {'new_value': 'Cleo ', 'old_value': 'Cleo'}}}
+407: {'values_changed': {"root['children']": {'new_value': 'Cleo', 'old_value': 'Cleo '}}}
+408: {'values_changed': {"root['children']": {'new_value': 'Cleo ', 'old_value': 'Cleckiop '}}}
+409: {'values_changed': {"root['children']": {'new_value': 'Cleckiop ', 'old_value': 'Cleo '}}}
+420: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David L. Schwimmer'}}}
+422: {'values_changed': {"root['name']": {'new_value': 'David L. Schwimmer', 'old_value': 'David Schwimmer'}}}
+456: {'dictionary_item_removed': {"root['religion']": 'Judaism'}}
+463: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Devil worshipper'}}}
+464: {'values_changed': {"root['religion']": {'new_value': 'Devil worshipper', 'old_value': 'Judaism'}}}
+496: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Swimmer'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'David Swimmer', 'old_value': 'David Schwimmer'}}}
+521: {'dictionary_item_added': {"root['religion']": 'Judaism'}, 'dictionary_item_removed': {"root['alma_mater']": 'Northwestern University (Bachelor of Arts'}, 'values_changed': {"root['spouse']": {'new_value': 'Zoe Buckman (2010–present)', 'old_value': 'marriage'}, "root['children']": {'new_value': 'Cleo ', 'old_value': '1 | known for'}}}
+525: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director', 'old_value': 'Actor, producer, director, Buttpirate'}}}
+526: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director, Buttpirate', 'old_value': 'Actor, producer, director'}}}
+532: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Schwimmer "White Drake"'}}}
+533: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer "White Drake"', 'old_value': 'David Schwimmer'}}}
+534: {'values_changed': {"root['children']": {'new_value': '1 | known for', 'old_value': '1,478,650 | known for'}}}
+535: {'values_changed': {"root['children']": {'new_value': '1,478,650 | known for', 'old_value': '1 | known for'}}}
+553: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': "David 'White Drake' Schwimmer"}}}
+554: {'values_changed': {"root['name']": {'new_value': "David 'White Drake' Schwimmer", 'old_value': 'David Schwimmer'}}}
+557: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Schwimmer Agnes Mary'}, "root['occupation']": {'new_value': 'Actor, producer, director', 'old_value': 'Actor, producer, director,man'}, "root['children']": {'new_value': '1 | known for', 'old_value': '45 | known for'}}}
+558: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer Agnes Mary', 'old_value': 'David Schwimmer'}, "root['occupation']": {'new_value': 'Actor, producer, director,man', 'old_value': 'Actor, producer, director'}, "root['children']": {'new_value': '45 | known for', 'old_value': '1 | known for'}}}
+590: {'values_changed': {"root['children']": {'new_value': '1 | known for', 'old_value': '19 | known for'}}}
+591: {'values_changed': {"root['children']": {'new_value': '19 | known for', 'old_value': '1 | known for'}}}
+622: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'Benjamin James Trout'}}}
+623: {'values_changed': {"root['name']": {'new_value': 'Benjamin James Trout', 'old_value': 'David Schwimmer'}}}
+657: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director', 'old_value': 'Actor, producer, director,dancer, singer,writer,dancer,rapper,artist,musician'}}}
+658: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, director,dancer, singer,writer,dancer,rapper,artist,musician', 'old_value': 'Actor, producer, director'}}}
+664: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Schwimmer (?)'}}}
+665: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer (?)', 'old_value': 'David Schwimmer'}}}
+677: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'David Swimmer'}}}
+678: {'values_changed': {"root['name']": {'new_value': 'David Swimmer', 'old_value': 'David Schwimmer'}}}
+684: {'values_changed': {"root['name']": {'new_value': 'David Schwimmer', 'old_value': 'Dave Schwimmer'}}}
+685: {'values_changed': {"root['name']": {'new_value': 'Dave Schwimmer', 'old_value': 'David Schwimmer'}}}

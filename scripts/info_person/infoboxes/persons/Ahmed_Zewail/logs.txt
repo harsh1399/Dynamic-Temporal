@@ -1,0 +1,35 @@
+68: {'dictionary_item_removed': {"root['name']": 'Ahmad Hasan Zowail', "root['field']": 'Chemistry, physics', "root['known_for']": 'Femtochemistry', "root['prizes']": 'nowrap', "root['religion']": 'Muslim'}}
+72: {'values_changed': {"root['name']": {'new_value': 'Ahmad Hasan Zowail', 'old_value': 'أحمد حسن زويل Ahmad Hasan Zowail'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'أحمد حسن زويل Ahmad Hasan Zowail', 'old_value': 'Ahmad Hasan Zowail'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Ahmad Hasan Zowail', 'old_value': 'أحمد حسن زويل'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'أحمد حسن زويل', 'old_value': 'Ahmad Hasan Zowail'}}}
+77: {'values_changed': {"root['name']": {'new_value': 'Ahmad Hasan Zowail', 'old_value': 'lang'}}}
+127: {'dictionary_item_added': {"root['known_for']": 'Femtochemistry', "root['prizes']": 'nowrap', "root['religion']": 'Muslim'}, 'values_changed': {"root['field']": {'new_value': 'Chemistry, physics', 'old_value': 'Mechatronics, Optimization '}}}
+128: {'dictionary_item_removed': {"root['known_for']": 'Femtochemistry', "root['prizes']": 'nowrap'}, 'values_changed': {"root['field']": {'new_value': 'Mechatronics, Optimization ', 'old_value': 'Chemistry, physics'}}}
+140: {'dictionary_item_removed': {"root['work_institutions']": 'California Institute of Technology'}}
+141: {'dictionary_item_removed': {"root['alma_mater']": 'University of Alexandria, University of Pennsylvania'}}
+201: {'dictionary_item_removed': {"root['image_width']": '.'}}
+207: {'dictionary_item_added': {"root['image_width']": '.'}, 'values_changed': {"root['name']": {'new_value': 'lang', 'old_value': "Ahmed Hassan Zewail''"}}}
+243: {'dictionary_item_removed': {"root['image_width']": '185'}}
+298: {'dictionary_item_added': {"root['alma_mater']": 'University of Alexandria, University of Pennsylvania'}, 'dictionary_item_removed': {"root['studied_at']": 'University of Alexandria, University of Pennsylvania'}}
+299: {'dictionary_item_added': {"root['studied_at']": 'University of Alexandria, University of Pennsylvania'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of Alexandria, University of Pennsylvania'}}
+300: {'dictionary_item_removed': {"root['Religion']": 'Muslim'}}
+310: {'dictionary_item_added': {"root['Religion']": 'Muslim'}, 'values_changed': {"root['work_institutions']": {'new_value': 'California Institute of Technology', 'old_value': 'Caltech'}}}
+311: {'dictionary_item_removed': {"root['Religion']": 'Muslim'}, 'values_changed': {"root['work_institutions']": {'new_value': 'Caltech', 'old_value': 'California Institute of Technology'}}}
+315: {'dictionary_item_added': {"root['image_width']": '185'}, 'values_changed': {"root['name']": {'new_value': "Ahmed Hassan Zewail''", 'old_value': "Ahmed Hassan Zewail zaglol''"}}}
+318: {'values_changed': {"root['name']": {'new_value': "Ahmed Hassan Zewail zaglol''", 'old_value': 'Ahmed Hassan Zewail'}}}
+319: {'values_changed': {"root['name']": {'new_value': 'Ahmed Hassan Zewail', 'old_value': "Ahmed Hassan Zewail zaglol''"}}}
+320: {'values_changed': {"root['name']": {'new_value': "Ahmed Hassan Zewail zaglol''", 'old_value': 'Ahmed Hassan Zewail'}}}
+327: {'values_changed': {"root['name']": {'new_value': 'Ahmed Hassan Zewail', 'old_value': 'Ahmed "THE BEAST" Zewail'}}}
+328: {'values_changed': {"root['name']": {'new_value': 'Ahmed "THE BEAST" Zewail', 'old_value': 'Ahmed Hassan Zewail'}}}
+368: {'dictionary_item_removed': {"root['students']": 'Martin Gruebele'}}
+374: {'dictionary_item_removed': {"root['thesis_title']": 'Optical and magnetic resonance spectra of triplet excitons and localized states in molecular crystals', "root['thesis_year']": '1975', "root['thesis_url']": 'http://www.worldcat.org/oclc/54507972'}, 'values_changed': {"root['name']": {'new_value': 'Ahmed Hassan Zewail', 'old_value': 'Ahmed Zewail'}, "root['field']": {'new_value': 'Chemistry, physics', 'old_value': 'Plainlist'}, "root['students']": {'new_value': 'Martin Gruebele', 'old_value': 'Martin Gruebelecitation needed'}, "root['alma_mater']": {'new_value': 'University of Alexandria, University of Pennsylvania', 'old_value': 'Plainlist'}, "root['work_institutions']": {'new_value': 'California Institute of Technology', 'old_value': 'Plainlist'}, "root['prizes']": {'new_value': 'nowrap', 'old_value': 'Plainlist'}}}
+397: {'dictionary_item_added': {"root['Religion']": 'Muslim'}, 'dictionary_item_removed': {"root['religion']": 'Islam'}}
+402: {'dictionary_item_removed': {"root['Death']": 'August,2,2016'}}
+407: {'dictionary_item_added': {"root['Death']": 'August,2,2016'}, 'dictionary_item_removed': {"root['Death_date']": 'August,2,2016'}}
+419: {'dictionary_item_added': {"root['Death_date']": 'August,2,2016'}, 'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Islam '}}}
+573: {'type_changes': {"root['prizes']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['King Faisal International Prize (Saudi Arabia) (1989)', 'Peter Debye Award (1996)<ref name'], 'new_value': 'Plainlist'}}, 'dictionary_item_added': {"root['students']": 'Martin Gruebelecitation needed', "root['work_institutions']": 'Plainlist', "root['religion']": 'Islam '}, 'dictionary_item_removed': {"root['doctoral_advisor']": 'Robin M. Hochstrasser', "root['doctoral_students']": 'Martin Gruebele', "root['notable_students']": 'Fabrizio Carbone', "root['workplaces']": 'Plainlist'}, 'values_changed': {"root['name']": {'new_value': 'Ahmed Zewail', 'old_value': 'Ahmed Hasan Zewail'}}}
+575: {'values_changed': {"root['prizes'][0]": {'new_value': 'King Faisal International Prize (Saudi Arabia) (1989)', 'old_value': 'King Faisal International Prize (1989)'}}, 'iterable_item_removed': {"root['prizes'][1]": 'Order of Merit (1995)'}}
+576: {'iterable_item_added': {"root['prizes'][0]": 'King Faisal International Prize (1989)'}}
+582: {'values_changed': {"root['name']": {'new_value': 'Ahmed Hasan Zewail', 'old_value': 'Same caca'}}}
+583: {'values_changed': {"root['name']": {'new_value': 'Same caca', 'old_value': 'Ahmed Hasan Zewail'}}}

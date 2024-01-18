@@ -1,0 +1,60 @@
+0: {'dictionary_item_removed': {"root['name']": 'Howard Stern', "root['alias']": 'The Howard; King of All Media', "root['birthname']": 'Howard Allan Stern', "root['birthdate']": 'birth date and age', "root['birthplace']": 'New York City, New York', "root['show']": 'The Howard Stern Show', "root['station']": 'Sirius Satellite Radio', "root['timeslot']": 'Monday-Thursday Monday-Friday', "root['country']": 'United States', "root['web']": 'http://www.howardstern.com/ HowardStern.com '}}
+8: {'values_changed': {"root['timeslot']": {'new_value': 'Monday-Thursday Monday-Friday', 'old_value': 'Monday–Thursday'}}}
+43: {'dictionary_item_removed': {"root['Img']": 'Howard_Stern.jpg'}}
+44: {'values_changed': {"root['Img']": {'new_value': 'Howard_Stern.jpg', 'old_value': 'Howard Stern.jpg'}}}
+45: {'values_changed': {"root['Img']": {'new_value': 'Howard Stern.jpg', 'old_value': 'Howard_Stern.jpg'}}}
+54: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York', 'old_value': 'New York City'}}}
+89: {'values_changed': {"root['web']": {'new_value': 'http://www.howardstern.com/ HowardStern.com ', 'old_value': 'http://www.howardstern.com/ www.HowardStern.com '}}}
+99: {'dictionary_item_added': {"root['Img']": 'Howard_Stern.jpg', "root['alias']": 'The Howard; King of All Media', "root['birthname']": 'Howard Allan Stern', "root['birthdate']": 'birth date and age', "root['birthplace']": 'New York City', "root['show']": 'The Howard Stern Show', "root['station']": 'Sirius Satellite Radio', "root['timeslot']": 'Monday–Thursday', "root['country']": 'United States', "root['web']": 'http://www.howardstern.com/ www.HowardStern.com '}, 'dictionary_item_removed': {"root['occupation']": 'Radio personality, television host, author, actor, photographer', "root['spouse']": 'Alison Berns (1978–2001; div.) Beth Ostrosky (2008–present)', "root['party']": 'Libertarian Party (United States)'}}
+122: {'dictionary_item_removed': {"root['religion']": 'Agnostiic'}}
+127: {'dictionary_item_added': {"root['religion']": 'Agnostiic'}, 'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, blogger'}}}
+131: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, blogger', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+136: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, King of All Media'}}}
+137: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, King of All Media', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard Stern not Opie and Anthony'}}}
+191: {'values_changed': {"root['name']": {'new_value': 'Howard Stern not Opie and Anthony', 'old_value': 'Howard Stern'}}}
+197: {'values_changed': {"root['spouse']": {'new_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky (2008–present)', 'old_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky Stern (2008–present)'}}}
+204: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, Pornography actor'}}}
+205: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, Pornography actor', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+208: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard (Pervert) Stern'}}}
+210: {'dictionary_item_removed': {"root['Estimated_death_place']": 'Probably in a strip club where he spends most his time'}}
+211: {'values_changed': {"root['name']": {'new_value': 'Howard (Pervert) Stern', 'old_value': 'Howard (homo) Stern'}}}
+212: {'values_changed': {"root['name']": {'new_value': 'Howard (homo) Stern', 'old_value': 'Howard (Pervert) Stern'}}}
+213: {'values_changed': {"root['name']": {'new_value': 'Howard (Pervert) Stern', 'old_value': 'Howard Stern'}}}
+214: {'dictionary_item_added': {"root['Estimated_death_place']": 'Probably in a strip club where he spends most his time'}, 'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard (Pervert) Stern'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'Howard (Pervert) Stern', 'old_value': 'Howard Stern'}}}
+216: {'dictionary_item_removed': {"root['religion']": 'musslem'}, 'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'bibity bow bow'}}}
+217: {'dictionary_item_added': {"root['religion']": 'musslem'}, 'values_changed': {"root['name']": {'new_value': 'bibity bow bow', 'old_value': 'Howard Stern'}}}
+219: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Baba Booey!!!!!'}}}
+220: {'values_changed': {"root['name']": {'new_value': 'Baba Booey!!!!!', 'old_value': 'Howard Stern'}}}
+232: {'dictionary_item_removed': {"root['alma_mater']": 'Boston University'}}
+235: {'values_changed': {"root['spouse']": {'new_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky Stern (2008–present)', 'old_value': 'Alison Berns (1978–2005; div.) Trish Stern (2009–present)'}}}
+236: {'values_changed': {"root['spouse']": {'new_value': 'Alison Berns (1978–2005; div.) Trish Stern (2009–present)', 'old_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky Stern (2008–present)'}}}
+251: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard Sterf'}}}
+252: {'values_changed': {"root['name']": {'new_value': 'Howard Sterf', 'old_value': 'Howard Stern'}}}
+266: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard SMELLY JEW Stern'}}}
+267: {'values_changed': {"root['name']": {'new_value': 'Howard SMELLY JEW Stern', 'old_value': 'Howard Stern'}}}
+270: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, self absorbed douche bag'}}}
+271: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, self absorbed douche bag', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+276: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Disc jockey'}}}
+279: {'values_changed': {"root['occupation']": {'new_value': 'Disc jockey', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+291: {'dictionary_item_removed': {"root['religion']": 'Pony Hater'}, 'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Bad bad meanie hater nasty man.'}, "root['party']": {'new_value': 'Libertarian Party (United States)', 'old_value': 'Nasty inconsiderate pony hater during 1994 Governor of New York campaign'}}}
+292: {'dictionary_item_added': {"root['religion']": 'Pony Hater'}, 'values_changed': {"root['occupation']": {'new_value': 'Bad bad meanie hater nasty man.', 'old_value': 'Radio personality, television host, author, actor, photographer'}, "root['party']": {'new_value': 'Nasty inconsiderate pony hater during 1994 Governor of New York campaign', 'old_value': 'Libertarian Party (United States)'}}}
+298: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, Director'}}}
+299: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, Director', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+300: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer, Director'}}}
+302: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer, Director', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+303: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'PENIIS FACE MAGGEE'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'PENIIS FACE MAGGEE', 'old_value': 'Howard Stern'}}}
+305: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Howard Fagget asss pusssy'}}}
+306: {'values_changed': {"root['name']": {'new_value': 'Howard Fagget asss pusssy', 'old_value': 'Howard Fagget pusssy'}}}
+307: {'values_changed': {"root['name']": {'new_value': 'Howard Fagget pusssy', 'old_value': 'Howard Stern'}}}
+331: {'values_changed': {"root['name']": {'new_value': 'Howard Stern', 'old_value': 'Mike Simms'}}}
+332: {'values_changed': {"root['name']": {'new_value': 'Mike Simms', 'old_value': 'Howard Stern'}}}
+333: {'dictionary_item_removed': {"root['years_sexually_active']": 'Never'}, 'values_changed': {"root['spouse']": {'new_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky Stern (2008–present)', 'old_value': 'Ivy McMullen'}}}
+334: {'dictionary_item_added': {"root['years_sexually_active']": 'Never'}, 'values_changed': {"root['spouse']": {'new_value': 'Ivy McMullen', 'old_value': 'Alison Berns (1978–2001; div.) Beth Ostrosky Stern (2008–present)'}}}
+342: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, television host, author, actor, photographer', 'old_value': 'Radio personality, telejvision host, author, actor, photographer'}}}
+346: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, telejvision host, author, actor, photographer', 'old_value': 'Radio personality, telejvision host, author, actor, photoshopper'}}}
+347: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, telejvision host, author, actor, photoshopper', 'old_value': 'Radio personality, telejvision host, author, actor, photographer'}}}
+354: {'values_changed': {"root['occupation']": {'new_value': 'Radio personality, telejvision host, author, actor, photographer', 'old_value': 'Radio personality, television host, author, actor, photographer'}}}
+372: {'dictionary_item_removed': {"root['religion']": 'Jewish'}}

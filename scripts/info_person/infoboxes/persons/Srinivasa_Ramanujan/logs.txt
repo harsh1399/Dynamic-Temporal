@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Srinivasa Ramanujan', "root['residence']": '• Kumbakonam, Madras Presidency, British Raj', "root['workplaces']": 'Trinity College, Cambridge', "root['education']": 'nowrap', "root['thesis_title']": 'Highly Composite Numbers', "root['thesis_url']": 'http://math.univ-lyon1.fr/~nicolas/ramanujanNR.pdf', "root['thesis_year']": '1916', "root['academic_advisors']": 'G. H. Hardy   John Edensor Littlewood', "root['known_for']": 'nowrap', "root['influences']": 'G. S. Carr', "root['influenced']": 'G. H. Hardy', "root['awards']": 'Fellow of the Royal Society', "root['field']": 'Mathematician'}}
+15: {'type_changes': {"root['residence']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Kumbakonam, Madras Presidency, British Raj'], 'new_value': '• Kumbakonam, Madras Presidency, British Raj'}, "root['education']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'nowrap'}, "root['academic_advisors']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'G. H. Hardy   John Edensor Littlewood'}, "root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'nowrap'}}}
+56: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Srinivasa Ramanujan ஸ்ரீநிவாச இராமாணுஜன்'}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan ஸ்ரீநிவாச இராமாணுஜன்', 'old_value': 'Srinivasa Ramanujan'}}}
+96: {'dictionary_item_removed': {"root['Spouse']": 'Janaki'}}
+112: {'dictionary_item_added': {"root['Spouse']": 'Janaki'}, 'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'utkarsh'}}}
+113: {'values_changed': {"root['name']": {'new_value': 'utkarsh', 'old_value': 'Srinivasa Ramanujan'}}}
+123: {'values_changed': {"root['influenced']": {'new_value': 'G. H. Hardy', 'old_value': 'G. H. Hardy, Alapan Chaudhuri'}}}
+124: {'type_changes': {"root['influenced']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'G. H. Hardy, Alapan Chaudhuri'}}}
+127: {'type_changes': {"root['influenced']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'G. H. Hardy', 'new_value': []}}}
+149: {'values_changed': {"root['thesis_url']": {'new_value': 'http://math.univ-lyon1.fr/~nicolas/ramanujanNR.pdf', 'old_value': 'https://math.univ-lyon1.fr/~nicolas/ramanujanNR.pdf'}}}
+161: {'dictionary_item_added': {"root['influences']": 'G. S. Carr'}, 'values_changed': {"root['awards']": {'new_value': 'Fellow of the Royal Society', 'old_value': 'Fellow of he  Royal Society'}}}
+163: {'values_changed': {"root['awards']": {'new_value': 'Fellow of he  Royal Society', 'old_value': 'Fellow of the Royal Society'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Srinivasa Ramanujan(god)'}}}
+184: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan(god)', 'old_value': 'Srinivasa Ramanujan (god)'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan (god)', 'old_value': 'Srinivasa Ramanujan'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Srinivasa Ramanujan Iyengar'}}}
+191: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan Iyengar', 'old_value': 'Srinivasa Ramanujan'}}}
+192: {'dictionary_item_removed': {"root['influences']": 'G. S. Carr'}}
+196: {'values_changed': {"root['thesis_url']": {'new_value': 'https://math.univ-lyon1.fr/~nicolas/ramanujanNR.pdf', 'old_value': 'https://web.archive.org/web/20180809110104/http://math.univ-lyon1.fr/~nicolas/ramanujanNR.pdf'}}}
+201: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Srinivasa Ramanujan(yaswanth)'}}}
+202: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan(yaswanth)', 'old_value': 'Srinivasa Ramanujan'}}}
+218: {'dictionary_item_removed': {"root['spouse']": 'Janakiammal (m. 1909-1920)', "root['Religion']": 'Hinduism '}}
+222: {'dictionary_item_added': {"root['spouse']": 'Janakiammal (m. 1909-1920)', "root['Religion']": 'Hinduism '}, 'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Srinivasa Ramanujans'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujans', 'old_value': 'Srinivasa Ramanujan'}}}
+276: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Dj Rama'}}}
+277: {'values_changed': {"root['name']": {'new_value': 'Dj Rama', 'old_value': 'Srinivasa Ramanujan'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Srinivasa Ramanujan', 'old_value': 'Naman Prabhat'}}}
+300: {'values_changed': {"root['name']": {'new_value': 'Naman Prabhat', 'old_value': 'Srinivasa Ramanujan'}}}

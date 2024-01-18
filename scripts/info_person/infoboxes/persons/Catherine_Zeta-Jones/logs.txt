@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Catherine Zeta-Jones', "root['occupation']": 'Actress', "root['spouse']": 'nowrap', "root['children']": '2 '}}
+22: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Dylan Michael Douglas Carys Zeta Douglas '}}}
+23: {'values_changed': {"root['children']": {'new_value': 'Dylan Michael Douglas Carys Zeta Douglas ', 'old_value': 'Dylan Michael Douglas                  Carys Zeta Douglas '}}}
+24: {'values_changed': {"root['children']": {'new_value': 'Dylan Michael Douglas                  Carys Zeta Douglas ', 'old_value': 'Dylan Michael Douglas Carys Zeta Douglas '}}}
+33: {'values_changed': {"root['children']": {'new_value': 'Dylan Michael Douglas Carys Zeta Douglas ', 'old_value': '2 '}}}
+37: {'dictionary_item_added': {"root['occupation']": 'Actress'}, 'values_changed': {"root['name']": {'new_value': 'Catherine Zeta-Jones', 'old_value': 'Caherine Zeta-Jones'}}}
+38: {'dictionary_item_removed': {"root['occupation']": 'Actress'}, 'values_changed': {"root['name']": {'new_value': 'Caherine Zeta-Jones', 'old_value': 'Catherine Zeta-Jones'}}}
+39: {'dictionary_item_added': {"root['name']": 'Catherine Zeta-Jones', "root['occupation']": 'Actress', "root['spouse']": 'nowrap', "root['children']": '2 '}, 'dictionary_item_removed': {"root['list']": 'AcademyAwardBestSupportingActress 2001-2020 BAFTA Award for Best Supporting Actress 1985-2009 Broadcast Film Critics Association Award for Best Supporting Actress DramaDesk MusicalOutstandingActress 2001-2025 Hasty Pudding Woman of the Year ScreenActorsGuildAward CastMotionPicture 1995-2000 ScreenActorsGuildAward CastMotionPicture 2001–2010 ScreenActorsGuildAward FemaleSupportMotionPicture 2001-2020 TonyAward MusicalLeadActress 2001-2025  Use dmy dates', "root['NAME']": 'Zeta-Jones, Catherine |ALTERNATIVE'}}
+40: {'dictionary_item_added': {"root['list']": 'AcademyAwardBestSupportingActress 2001-2020 BAFTA Award for Best Supporting Actress 1985-2009 Broadcast Film Critics Association Award for Best Supporting Actress DramaDesk MusicalOutstandingActress 2001-2025 Hasty Pudding Woman of the Year ScreenActorsGuildAward CastMotionPicture 1995-2000 ScreenActorsGuildAward CastMotionPicture 2001–2010 ScreenActorsGuildAward FemaleSupportMotionPicture 2001-2020 TonyAward MusicalLeadActress 2001-2025  Use dmy dates', "root['NAME']": 'Zeta-Jones, Catherine |ALTERNATIVE'}, 'dictionary_item_removed': {"root['name']": 'Catherine Zeta-Jones', "root['occupation']": 'Actress', "root['spouse']": 'nowrap', "root['children']": '2 '}}
+75: {'values_changed': {"root['spouse']": {'new_value': 'nowrap', 'old_value': 'Michael Douglas, (m. 2000–present)'}}}
+119: {'values_changed': {"root['name']": {'new_value': 'Catherine Zeta-Jones', 'old_value': 'Catherine Zeta-Jones   Commander of the Order of the British Empire'}}}
+135: {'values_changed': {"root['spouse']": {'new_value': 'Michael Douglas, (m. 2000–present)', 'old_value': 'Michael Douglas (2000–present)'}}}
+141: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '28 '}}}
+142: {'values_changed': {"root['children']": {'new_value': '28 ', 'old_value': '2 '}}}
+150: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Dylan Douglas, Carys Douglas '}}}
+151: {'values_changed': {"root['children']": {'new_value': 'Dylan Douglas, Carys Douglas ', 'old_value': '2 '}}}
+217: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2 Love of her life than she couldnt conquer: Bill Abboud '}}}
+218: {'values_changed': {"root['children']": {'new_value': '2 Love of her life than she couldnt conquer: Bill Abboud ', 'old_value': '2  '}}}
+219: {'values_changed': {"root['children']": {'new_value': '2  ', 'old_value': '2 Love of her life than she couldnt conquer: Bill Abboud '}}}
+220: {'values_changed': {"root['children']": {'new_value': '2 Love of her life than she couldnt conquer: Bill Abboud ', 'old_value': '2 '}}}

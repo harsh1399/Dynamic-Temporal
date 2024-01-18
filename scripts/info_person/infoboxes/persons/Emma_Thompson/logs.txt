@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['alma_mater']": 'Newnham College, Cambridge', "root['occupation']": 'Actor, comedian, author', "root['spouse']": 'marriage', "root['children']": '2'}}
+30: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Kenneth Branagh, (1989-1995), Greg Wise, (2003-present)'}}}
+36: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh, (1989-1995), Greg Wise, (2003-present)', 'old_value': 'Kenneth Branagh, (1989–1995), Greg Wise, (2003-present)'}}}
+38: {'dictionary_item_removed': {"root['religion']": 'Atheism'}}
+51: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': 'None (atheist)'}}}
+66: {'dictionary_item_removed': {"root['awards']": 'List of'}}
+68: {'dictionary_item_added': {"root['religion']": 'None (atheist)'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author', 'old_value': 'Actor, comedian, screenwriter, author, activist'}}}
+69: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh, (1989–1995), Greg Wise, (2003-present)', 'old_value': 'Kenneth Branagh, (m. 1989–1995), Greg Wise, (m. 2003)'}}}
+70: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh, (m. 1989–1995), Greg Wise, (m. 2003)', 'old_value': 'marriage'}}}
+156: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Kenneth Branagh (1989-1995) marriage'}}}
+212: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'two'}}}
+213: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh (1989-1995) marriage', 'old_value': 'Kenneth Branagh (1989&ndash;1995) marriage'}}}
+234: {'values_changed': {"root['children']": {'new_value': 'two', 'old_value': 'Two'}}}
+235: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh (1989&ndash;1995) marriage', 'old_value': 'Kenneth Branagh (1989–1995) marriage'}}}
+264: {'values_changed': {"root['children']": {'new_value': 'Two', 'old_value': '2'}}}
+282: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh (1989–1995) marriage', 'old_value': 'Kenneth Branagh (1989–1995), marriage'}}}
+283: {'values_changed': {"root['spouse']": {'new_value': 'Kenneth Branagh (1989–1995), marriage', 'old_value': 'marriage'}}}
+538: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, comedian, screenwriter, author, activist'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_removed': {"root['name']": 'Emma Thompson', "root['works']": 'Emma Thompson on stage and screen'}, 'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Emma Thompson'}}}
+563: {'values_changed': {"root['works']": {'new_value': 'Emma Thompson on stage and screen', 'old_value': 'Emma Thompson on screen and stage'}}}
+595: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Gaia Romilly Wise (biological daughter), Tindyebwa Agaba Wise (adoptive son)'}}}
+596: {'values_changed': {"root['children']": {'new_value': 'Gaia Romilly Wise (biological daughter), Tindyebwa Agaba Wise (adoptive son)', 'old_value': '2'}}}
+622: {'dictionary_item_removed': {"root['embed']": 'yes', "root['filename']": 'Emma_Thompson_BBC_Radio4_The_Film_Programme_28_Nov_13_b03jfc47.flac', "root['type']": 'speech', "root['description']": "from the BBC programme ''The Film Programme'', 28 November 2013. |"}}
+679: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ubl', 'new_value': []}}, 'dictionary_item_removed': {"root['relations']": 'Sophie Thompson (sister)'}}

@@ -1,0 +1,5 @@
+21: {'dictionary_item_removed': {"root['name']": 'Victor Borge', "root['birthdate']": 'birth date', "root['birthplace']": 'flagicon', "root['deathdate']": 'dda', "root['deathplace']": 'flagicon', "root['occupation']": 'Classical pianist, entertainer, comedian, humorist '}}
+24: {'values_changed': {"root['name']": {'new_value': 'Victor Borge', 'old_value': 'Victor gaYman'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'Victor gaYman', 'old_value': 'Victor Borge'}}}
+56: {'values_changed': {"root['deathdate']": {'new_value': 'dda', 'old_value': 'Death date and age'}}}
+79: {'values_changed': {"root['birthplace']": {'new_value': 'flagicon', 'old_value': 'Copenhagen, Denmark'}, "root['deathplace']": {'new_value': 'flagicon', 'old_value': 'Greenwich, Connecticut, United States'}}}

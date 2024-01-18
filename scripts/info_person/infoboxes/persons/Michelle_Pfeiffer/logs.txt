@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michelle Pfeiffer', "root['residence']": 'Woodside, California, U.S.', "root['occupation']": 'Actress, singer, producer', "root['spouse']": 'marriage', "root['children']": '2'}}
+13: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, producer', 'old_value': 'Actress, producer'}}}
+172: {'dictionary_item_added': {"root['residence']": 'Woodside, California, U.S.'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress, producer', 'old_value': 'Actress, singer,    producer'}}}
+177: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer,    producer', 'old_value': 'Actress, singer, producer'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Michelle Pfeiffer', 'old_value': 'Michelle pafaifer'}}}
+192: {'values_changed': {"root['name']": {'new_value': 'Michelle pafaifer', 'old_value': 'Michelle Pfeiffer'}}}

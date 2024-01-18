@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['alma_mater']": 'University of Southern California', "root['occupation']": 'Actor, filmmaker', "root['spouse']": 'marriage', "root['children']": '4; including Bryce Dallas Howard and Paige Howard'}}
+1: {'values_changed': {"root['children']": {'new_value': '4; including Bryce Dallas Howard and Paige Howard', 'old_value': 'Four; including Bryce Dallas Howard and Paige Howard'}}}
+9: {'values_changed': {"root['children']": {'new_value': 'Four; including Bryce Dallas Howard and Paige Howard', 'old_value': '4; including Bryce Dallas Howard and Paige Howard'}}}
+10: {'values_changed': {"root['children']": {'new_value': '4; including Bryce Dallas Howard and Paige Howard', 'old_value': 'Four; including Bryce Dallas Howard and Paige Howard'}}}
+56: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Southern California', 'old_value': 'University of Southern Coward'}, "root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': 'Coward'}, "root['children']": {'new_value': 'Four; including Bryce Dallas Howard and Paige Howard', 'old_value': 'Four; including Bryce Dallas Coward and Paige Coward'}}}
+57: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Southern Coward', 'old_value': 'University of Southern California'}, "root['occupation']": {'new_value': 'Coward', 'old_value': 'Actor, filmmaker'}, "root['children']": {'new_value': 'Four; including Bryce Dallas Coward and Paige Coward', 'old_value': 'Four; including Bryce Dallas Howard and Paige Howard'}}}
+58: {'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': "Actor, filmmaker, Todd Howard's good twin"}}}
+59: {'values_changed': {"root['occupation']": {'new_value': "Actor, filmmaker, Todd Howard's good twin", 'old_value': 'Actor, filmmaker'}}}
+91: {'values_changed': {"root['children']": {'new_value': 'Four; including Bryce Dallas Howard and Paige Howard', 'old_value': '4; including Bryce Dallas Howard and Paige Howard'}}}
+110: {'dictionary_item_removed': {"root['known_for']": 'Opie Taylor on the Andy Griffith Show and Return to Mayberry, Richie Cunningham on Happy Days', "root['political_party']": 'Democratic'}}
+121: {'dictionary_item_added': {"root['known_for']": 'Opie Taylor on the Andy Griffith Show and Return to Mayberry, Richie Cunningham on Happy Days', "root['political_party']": 'Democratic'}, 'dictionary_item_removed': {"root['name']": 'Ronny Howard'}}
+130: {'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': 'Actor, filmmaker, Ronny'}}}
+131: {'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker, Ronny', 'old_value': 'Actor, filmmaker'}}}

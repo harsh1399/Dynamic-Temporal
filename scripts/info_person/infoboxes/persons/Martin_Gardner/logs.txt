@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Martin Gardner', "root['residence']": 'Norman, Oklahoma, USA', "root['known_for']": 'Puzzles, popular mathematics, stage magic, debunking', "root['occupation']": 'Author', "root['religion']": 'Philosophical theism', "root['spouse']": 'Charlotte Gardner'}}
+69: {'values_changed': {"root['residence']": {'new_value': 'Norman, Oklahoma, USA', 'old_value': 'Norman, Oklahoma, U.S.'}}}
+176: {'dictionary_item_added': {"root['residence']": 'Norman, Oklahoma, U.S.'}, 'dictionary_item_removed': {"root['education']": 'BA, University of Chicago, 1 yr graduate classes (Philosophy; Univ of Chicago)'}}
+178: {'values_changed': {"root['education']": {'new_value': 'BA, University of Chicago, 1 yr graduate classes (Philosophy; Univ of Chicago)', 'old_value': 'Bachelor of Arts'}}}
+183: {'dictionary_item_added': {"root['religion']": 'Philosophical theism'}, 'dictionary_item_removed': {"root['religious_stance']": 'Philosophical theism'}}
+186: {'dictionary_item_added': {"root['religious_stance']": 'Philosophical theism'}, 'dictionary_item_removed': {"root['religion']": 'Philosophical theism'}}

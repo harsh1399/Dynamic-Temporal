@@ -1,0 +1,56 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor, film producer', "root['partner']": 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007),', "root['children']": '2', "root['alma_mater']": 'New College, Oxford '}}
+1: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007),', 'old_value': 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007)'}}}
+2: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007) Tinglan Hong (2011-present)'}}}
+7: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+8: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '2'}}}
+9: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+17: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000), Jemima Khan (2004–2007) Tinglan Hong (2011-present)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Tinglan Hong (2011–present)'}}}
+20: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+22: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+34: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Tinglan Hong (2011–present)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Tinglan Hong (2011–2014)'}}}
+35: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Tinglan Hong (2011–2014)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}}}
+87: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S'}, "root['children']": {'new_value': '3', 'old_value': '5'}}}
+88: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-)'}}}
+89: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)'}}}
+90: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}, "root['children']": {'new_value': '5', 'old_value': '3'}}}
+91: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)'}, "root['children']": {'new_value': '3', 'old_value': '5'}}}
+92: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}, "root['children']": {'new_value': '5', 'old_value': '3'}}}
+93: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)'}, "root['children']": {'new_value': '3', 'old_value': '5'}}}
+94: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}, "root['children']": {'new_value': '5', 'old_value': '3'}}}
+95: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)'}, "root['children']": {'new_value': '3', 'old_value': '5'}}}
+96: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007) Marianne S  (2008-spouse)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}, "root['children']": {'new_value': '5', 'old_value': '3'}}}
+98: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Pulane A Thaiteng (1995 - present)'}, "root['children']": {'new_value': '3', 'old_value': '2'}}}
+99: {'values_changed': {"root['partner']": {'new_value': 'Pulane A Thaiteng (1995 - present)', 'old_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)'}, "root['children']": {'new_value': '2', 'old_value': '3'}}}
+102: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, Film producer'}}}
+124: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Film producer', 'old_value': 'Actor, producer'}, "root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Jemima Khan (2004–2007)', 'old_value': 'Elizabeth Hurley (1987–2000)'}, "root['children']": {'new_value': '3', 'old_value': '4'}}}
+128: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000)', 'old_value': 'Madison Frazier'}}}
+129: {'values_changed': {"root['partner']": {'new_value': 'Madison Frazier', 'old_value': 'Elizabeth Hurley (1987–2000)'}}}
+142: {'values_changed': {"root['alma_mater']": {'new_value': 'New College, Oxford ', 'old_value': 'New College, Oxford'}}}
+149: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '5'}}}
+157: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000)', 'old_value': 'sakura haruno (1987–2000)'}}}
+158: {'values_changed': {"root['partner']": {'new_value': 'sakura haruno (1987–2000)', 'old_value': 'Elizabeth Hurley (1987–2000)'}}}
+159: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '9999999999999999999999999999999999999'}}}
+160: {'values_changed': {"root['children']": {'new_value': '9999999999999999999999999999999999999', 'old_value': '5'}}}
+161: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Cat caller, Professional ghost buster cosplayer'}, "root['children']": {'new_value': '5', 'old_value': 'None, he could not reproduce unless he were to lay eggs. Currently he has 3 eggs about to hatch soon.'}}}
+162: {'values_changed': {"root['occupation']": {'new_value': 'Cat caller, Professional ghost buster cosplayer', 'old_value': 'Actor, producer'}, "root['children']": {'new_value': 'None, he could not reproduce unless he were to lay eggs. Currently he has 3 eggs about to hatch soon.', 'old_value': '5'}}}
+216: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '4'}}}
+220: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '5'}}}
+226: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000)', 'old_value': 'Elizabeth Hurley (1987–2000) Anna Eberstein (spouse) 2018'}}}
+227: {'dictionary_item_removed': {"root['spouse']": 'marriage'}, 'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000) Anna Eberstein (spouse) 2018', 'old_value': 'Elizabeth Hurley (1987–2000)'}}}
+277: {'dictionary_item_removed': {"root['name']": 'Hugh Grant'}}
+423: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer'}}, 'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000)', 'old_value': 'Elizabeth Hurley small'}}}
+425: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, producer', 'new_value': []}}, 'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley small', 'old_value': 'Elizabeth Hurley (1987–2000)'}}}
+429: {'values_changed': {"root['name']": {'new_value': 'Hugh Grant', 'old_value': 'Hugh Josh is a god Grant'}}}
+430: {'values_changed': {"root['name']": {'new_value': 'Hugh Josh is a god Grant', 'old_value': 'Hugh Grant'}}}
+436: {'values_changed': {"root['partner']": {'new_value': 'Elizabeth Hurley (1987–2000)', 'old_value': 'Josh Chapman (1997-Present)'}}}
+437: {'values_changed': {"root['partner']": {'new_value': 'Josh Chapman (1997-Present)', 'old_value': 'Elizabeth Hurley (1987–2000)'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Hugh Grant', 'old_value': 'Hugh Hari Ram Om Prakash Mishra Grant'}}}
+464: {'values_changed': {"root['name']": {'new_value': 'Hugh Hari Ram Om Prakash Mishra Grant', 'old_value': 'Hugh Grant'}}}
+469: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '3'}}}
+470: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '5'}}}
+475: {'values_changed': {"root['alma_mater']": {'new_value': 'New College, Oxford', 'old_value': 'Latymer Upper School and New College, Oxford'}}}
+477: {'values_changed': {"root['alma_mater']": {'new_value': 'Latymer Upper School and New College, Oxford', 'old_value': 'New College, Oxford'}}}
+482: {'values_changed': {"root['name']": {'new_value': 'Hugh Grant', 'old_value': 'Hugh Hughson'}}}
+483: {'values_changed': {"root['name']": {'new_value': 'Hugh Hughson', 'old_value': 'Hugh Grant'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Hugh Grant', 'old_value': 'Hugh Mungo Mungo'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Hugh Mungo Mungo', 'old_value': 'Hugh Grant'}}}

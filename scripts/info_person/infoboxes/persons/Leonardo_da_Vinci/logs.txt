@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Leonardo da Vinci', "root['known_for']": 'Art, science', "root['movement']": 'High Renaissance', "root['works']": []}}
+10: {'values_changed': {"root['known_for']": {'new_value': 'Art, science', 'old_value': 'Art, science, engineering'}}}
+19: {'values_changed': {"root['known_for']": {'new_value': 'Art, science, engineering', 'old_value': 'Art, science, engineering, architecture'}}}
+20: {'values_changed': {"root['known_for']": {'new_value': 'Art, science, engineering, architecture', 'old_value': 'Art, science, engineering, architecture, anatomy'}}}
+21: {'values_changed': {"root['known_for']": {'new_value': 'Art, science, engineering, architecture, anatomy', 'old_value': 'Art (painting, drawing, sculpting), science, engineering, architecture, anatomy'}}}
+433: {'values_changed': {"root['known_for']": {'new_value': 'Art (painting, drawing, sculpting), science, engineering, architecture, anatomy', 'old_value': 'Painting, drawing, sculpting, science, engineering, architecture, anatomy'}}}
+506: {'dictionary_item_added': {"root['works']": []}, 'dictionary_item_removed': {"root['notable_works']": []}}

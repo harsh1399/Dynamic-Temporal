@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['name']": 'Richard Gere', "root['education']": 'North Syracuse Central High School', "root['alma_mater']": 'University of Massachusetts Amherst', "root['occupation']": [], "root['religion']": 'Buddhist', "root['spouse']": 'marriage', "root['children']": '1 '}}
+12: {'dictionary_item_removed': {"root['list']": 'url'}, 'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': "1   '''Richard Tiffany Gere'''<ref name"}}}
+13: {'dictionary_item_added': {"root['list']": 'url'}, 'values_changed': {"root['children']": {'new_value': "1   '''Richard Tiffany Gere'''<ref name", 'old_value': '1 '}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Richard Gere', 'old_value': 'Richard Gere 2nd'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Richard Gere 2nd', 'old_value': 'Richard Gere'}}}
+21: {'dictionary_item_added': {"root['name']": 'Richard Gere'}, 'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '222 '}}}
+22: {'dictionary_item_removed': {"root['name']": 'Richard Gere'}, 'values_changed': {"root['children']": {'new_value': '222 ', 'old_value': '1 '}}}
+33: {'dictionary_item_removed': {"root['instrument']": 'Vocals, Trumpet'}}
+90: {'values_changed': {"root['religion']": {'new_value': 'Buddhist', 'old_value': 'Tibetan Buddhism'}}}
+128: {'dictionary_item_added': {"root['spouse']": 'marriage', "root['children']": '1 '}, 'values_changed': {"root['religion']": {'new_value': 'Tibetan Buddhism', 'old_value': '1991|1995|reason'}}}
+130: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '1 '}, 'values_changed': {"root['religion']": {'new_value': '1991|1995|reason', 'old_value': 'Tibetan Buddhism'}}}
+149: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Trumpet', 'old_value': 'Vocals, trumpet'}}}
+179: {'dictionary_item_added': {"root['instrument']": 'Vocals, trumpet', "root['religion']": 'Tibetan Buddhism'}, 'values_changed': {"root['education']": {'new_value': 'North Syracuse Central High School', 'old_value': 'North Syracuse Central High School.                North masicusrlets'}, "root['children']": {'new_value': '1 ', 'old_value': '3 '}}, 'iterable_item_removed': {"root['occupation'][0]": 'Actor.', "root['occupation'][1]": 'activist Best firend is Jeffy (SML)'}}
+180: {'values_changed': {"root['education']": {'new_value': 'North Syracuse Central High School.                North masicusrlets', 'old_value': 'North Syracuse Central High School'}, "root['children']": {'new_value': '3 ', 'old_value': '1 '}}, 'iterable_item_added': {"root['occupation'][0]": 'Actor.', "root['occupation'][1]": 'activist Best firend is Jeffy (SML)'}}
+189: {'values_changed': {"root['education']": {'new_value': 'North Syracuse Central High School', 'old_value': 'North Syracuse Central School District#Senior High (Grades 10-12)'}}}
+322: {'dictionary_item_added': {"root['alma_mater']": 'University of Massachusetts Amherst'}, 'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '2 '}}}
+323: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '1 '}}}
+344: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, Activist', 'new_value': []}}, 'values_changed': {"root['education']": {'new_value': 'North Syracuse Central School District#Senior High (Grades 10-12)', 'old_value': 'University of Massachusetts Amherst'}}}
+345: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, Activist'}}, 'values_changed': {"root['education']": {'new_value': 'University of Massachusetts Amherst', 'old_value': 'North Syracuse Central School District#Senior High (Grades 10-12)'}}}
+364: {'values_changed': {"root['name']": {'new_value': 'Richard Gere', 'old_value': 'Richard Modiji is best Gear'}}}
+365: {'values_changed': {"root['name']": {'new_value': 'Richard Modiji is best Gear', 'old_value': 'Richard Gere'}}}
+382: {'values_changed': {"root['name']": {'new_value': 'Richard Gere', 'old_value': 'jas and Maria Richard Gere'}}}
+384: {'values_changed': {"root['name']": {'new_value': 'jas and Maria Richard Gere', 'old_value': 'Richard Gere'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'Richard Gere', 'old_value': 'Ballsack Gere'}}}
+397: {'values_changed': {"root['name']": {'new_value': 'Ballsack Gere', 'old_value': 'Richard Gere'}}}
+398: {'values_changed': {"root['name']": {'new_value': 'Richard Gere', 'old_value': 'Ballsack Gere'}}}
+399: {'values_changed': {"root['name']": {'new_value': 'Ballsack Gere', 'old_value': 'Richard Gere'}}}

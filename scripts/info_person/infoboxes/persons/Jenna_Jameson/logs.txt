@@ -1,0 +1,10 @@
+1585: {'dictionary_item_removed': {"root['name']": 'Jenna Jameson', "root['spouse']": [], "root['weight']": 'convert', "root['eye_color']": 'Blue', "root['hair_color']": 'Blonde (Brunette in 2005)', "root['ethnicity']": 'Italian American', "root['alias']": [], "root['number_of_films']": [], "root['spelling']": 'US '}}
+1830: {'dictionary_item_added': {"root['eye_color']": 'Blue', "root['hair_color']": 'Blonde (Brunette in 2005)', "root['ethnicity']": 'Italian American', "root['spelling']": 'US '}, 'values_changed': {"root['weight']": {'new_value': 'convert', 'old_value': '110 lb<ref name'}}}
+1854: {'dictionary_item_removed': {"root['partner']": 'Tito Ortiz (2006–2013)'}}
+1855: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}}
+1856: {'dictionary_item_removed': {"root['children']": '2'}}
+1892: {'dictionary_item_added': {"root['weight']": '110 lb<ref name', "root['number_of_films']": []}, 'dictionary_item_removed': {"root['occupation']": ['Pornographic film actress', 'businesswoman', 'model', 'television personality']}, 'values_changed': {"root['partner']": {'new_value': 'Tito Ortiz (2006–2013)', 'old_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–present)'}, "root['children']": {'new_value': '2', 'old_value': '3'}}}
+1923: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}}
+1931: {'values_changed': {"root['partner']": {'new_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–present)', 'old_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–2023)'}}}
+1933: {'values_changed': {"root['partner']": {'new_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–2023)', 'old_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–present)'}}}
+1934: {'values_changed': {"root['partner']": {'new_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–present)', 'old_value': 'Tito Ortiz (2006–2013) Lior Bitton (2015–2023)'}}}

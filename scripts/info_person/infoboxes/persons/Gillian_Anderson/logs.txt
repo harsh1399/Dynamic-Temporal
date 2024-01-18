@@ -1,0 +1,30 @@
+237: {'dictionary_item_removed': {"root['name']": 'Gillian Anderson', "root['birthdate']": 'birth date and age', "root['location']": 'Chicago, Illinois', "root['birthname']": 'Gillian Leigh Anderson', "root['spouse']": 'Clyde Klotz (1994-1997), Julian Ozanne (2004-) (Seperated) '}}
+243: {'values_changed': {"root['location']": {'new_value': 'Chicago, Illinois', 'old_value': 'Chicago, Illinois, United States'}}}
+245: {'values_changed': {"root['spouse']": {'new_value': 'Clyde Klotz (1994-1997), Julian Ozanne (2004-) (Seperated) ', 'old_value': 'Clyde Klotz (1994-1997), Julian Ozanne (2004-) (Separated) '}}}
+265: {'dictionary_item_added': {"root['name']": 'Gillian Anderson', "root['birthdate']": 'birth date and age', "root['location']": 'Chicago, Illinois, United States', "root['birthname']": 'Gillian Leigh Anderson'}, 'dictionary_item_removed': {"root['occupation']": 'Actress', "root['partner']": 'Mark Griffiths (2006–present)', "root['children']": '3'}, 'values_changed': {"root['spouse']": {'new_value': 'Clyde Klotz (1994-1997), Julian Ozanne (2004-) (Separated) ', 'old_value': 'Clyde Klotz (1994–1997), Julian Ozanne (2004–2006)'}}}
+336: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '999,999,999'}}}
+337: {'values_changed': {"root['children']": {'new_value': '999,999,999', 'old_value': '3'}}}
+342: {'dictionary_item_added': {"root['partner']": 'Mark Griffiths (2006–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Clyde Klotz (1994–1997), Julian Ozanne (2004–2006)', 'old_value': 'Mark Griffiths (2006–present)'}}}
+343: {'dictionary_item_removed': {"root['partner']": 'Mark Griffiths (2006–present)'}, 'values_changed': {"root['spouse']": {'new_value': 'Mark Griffiths (2006–present)', 'old_value': 'Clyde Klotz (1994–1997), Julian Ozanne (2004–2006)'}}}
+344: {'values_changed': {"root['spouse']": {'new_value': 'Clyde Klotz (1994–1997), Julian Ozanne (2004–2006)', 'old_value': 'marriage'}}}
+365: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–present)', 'old_value': 'Mark Griffiths (2006–2012)'}}}
+368: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–2012)', 'old_value': 'Mark Griffiths (2006 – 2012)'}}}
+410: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006 – 2012)', 'old_value': 'Mark Griffiths (2006 – 2012) David Duchovny'}}}
+411: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006 – 2012) David Duchovny', 'old_value': 'Mark Griffiths (2006 – 2012)'}}}
+446: {'dictionary_item_removed': {"root['name']": 'Gillian Leigh Anderson', "root['residence']": 'London, England, UK', "root['alma_mater']": 'DePaul University, B.F.A. 1990, National Theatre of Great Britain', "root['awards']": 'List of awards and nominations received by Gillian Anderson'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, activist, writer, producer, director'}, "root['partner']": {'new_value': 'Mark Griffiths (2006 – 2012)', 'old_value': 'Mark Griffiths (2006–12) David Duchovny (2013-Present)'}}}
+447: {'dictionary_item_added': {"root['name']": 'Gillian Leigh Anderson'}, 'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) David Duchovny (2013-Present)', 'old_value': 'Mark Griffiths (2006–12)'}}}
+480: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12)', 'old_value': 'Mark Griffiths (2006–12), Peter Morgan with secret relationship on the side with David Duchovny'}}}
+481: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12), Peter Morgan with secret relationship on the side with David Duchovny', 'old_value': 'Mark Griffiths (2006–12)'}}}
+490: {'dictionary_item_removed': {"root['name']": 'Gillian Anderson'}}
+509: {'dictionary_item_added': {"root['name']": 'Gillian Anderson'}, 'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12)', 'old_value': 'Mark Griffiths (2006–12) Peter Morgan (2016 - present)'}}}
+510: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) Peter Morgan (2016 - present)', 'old_value': 'Mark Griffiths (2006–12)'}}}
+511: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12)', 'old_value': 'Mark Griffiths (2006–12) Peter Morgan CBE (2016--present)'}}}
+512: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) Peter Morgan CBE (2016--present)', 'old_value': 'Mark Griffiths (2006–12)'}}}
+563: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist, writer, producer, director', 'old_value': 'Actress, writer, producer, director'}}}
+599: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12)', 'old_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-'}}}
+600: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-', 'old_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-present'}}}
+601: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-present', 'old_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-'}}}
+602: {'values_changed': {"root['partner']": {'new_value': 'Mark Griffiths (2006–12) Peter Morgan (2016-', 'old_value': 'Mark Griffiths (2006–12)'}}}
+683: {'values_changed': {"root['alma_mater']": {'new_value': 'DePaul University, B.F.A. 1990, National Theatre of Great Britain', 'old_value': 'DePaul University, B.F.A. 1990'}}}
+695: {'values_changed': {"root['residence']": {'new_value': 'London, England, UK', 'old_value': 'London, UK'}}}
+696: {'values_changed': {"root['residence']": {'new_value': 'London, UK', 'old_value': 'London, England, UK'}}}

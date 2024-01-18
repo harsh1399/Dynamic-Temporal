@@ -1,0 +1,124 @@
+0: {'dictionary_item_removed': {"root['name']": 'Stephan Gary "Woz" Wozniak', "root['occupation']": 'Computer engineer', "root['spouse']": 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)', "root['children']": '3'}}
+5: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '3000'}}}
+6: {'values_changed': {"root['children']": {'new_value': '3000', 'old_value': '3'}}}
+7: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Steve Wozniak'}}}
+8: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Stephan Gary "Woz" Wozniak'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephan Gary "Wozy" Wozniak'}, "root['children']": {'new_value': '3', 'old_value': '83'}}}
+60: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Wozy" Wozniak', 'old_value': 'Stephan Gary "Wozyfuzzballs" Wozniaki'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Wozyfuzzballs" Wozniaki', 'old_value': 'Stephan Gary "Woz" Wozniak'}, "root['children']": {'new_value': '83', 'old_value': '3'}}}
+96: {'dictionary_item_removed': {"root['salary']": '1k per minute'}, 'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Steptoot on a bannana'}, "root['occupation']": {'new_value': 'Computer engineer', 'old_value': 'Complumber'}, "root['spouse']": {'new_value': 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)', 'old_value': 'alsoma binladin(1976-1977), Candice Clark (1981-1987), adolf hitler (1990-2004)'}, "root['children']": {'new_value': '3', 'old_value': '100'}}}
+97: {'dictionary_item_added': {"root['salary']": '1k per minute'}, 'values_changed': {"root['name']": {'new_value': 'Steptoot on a bannana', 'old_value': 'Stephan Gary "Woz" Wozniak'}, "root['occupation']": {'new_value': 'Complumber', 'old_value': 'Computer engineer'}, "root['spouse']": {'new_value': 'alsoma binladin(1976-1977), Candice Clark (1981-1987), adolf hitler (1990-2004)', 'old_value': 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)'}, "root['children']": {'new_value': '100', 'old_value': '3'}}}
+98: {'dictionary_item_removed': {"root['salary']": '1k per min'}, 'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'have a bannana'}, "root['occupation']": {'new_value': 'Computer engineer', 'old_value': 'plumber'}, "root['spouse']": {'new_value': 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)', 'old_value': 'asama binladin son (1976-1977), bill gates(1981-1987), adolf hitler(1990-2004)'}, "root['children']": {'new_value': '3', 'old_value': '1000'}}}
+99: {'dictionary_item_added': {"root['salary']": '1k per min'}, 'values_changed': {"root['name']": {'new_value': 'have a bannana', 'old_value': 'Stephan Gary "Woz" Wozniak'}, "root['occupation']": {'new_value': 'plumber', 'old_value': 'Computer engineer'}, "root['spouse']": {'new_value': 'asama binladin son (1976-1977), bill gates(1981-1987), adolf hitler(1990-2004)', 'old_value': 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)'}, "root['children']": {'new_value': '1000', 'old_value': '3'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephan pinis "Woz" Wozniak'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Stephan pinis "Woz" Wozniak', 'old_value': 'Stephan Gary "Woz" Wozniak'}}}
+120: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephan Gary "Ozzie" Wozniak'}}}
+127: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Ozzie" Wozniak', 'old_value': 'Stephan Gary "Woz" Wozniak'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephan Gary "Ozzie" Wozniak'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Ozzie" Wozniak', 'old_value': 'Stephan Gary "Woz" Wozniak'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephan Gary "Million Dolla Balla" Wozniak'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Million Dolla Balla" Wozniak', 'old_value': 'Stephan Gary "Woz" Wozniak'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'Stephan Gary "Woz" Wozniak', 'old_value': 'Stephen Gary "Woz" Wozniak'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'Stephen Gary "Woz" Wozniak', 'old_value': 'Your Harry Momma'}}}
+180: {'values_changed': {"root['name']": {'new_value': 'Your Harry Momma', 'old_value': 'Stephen Gary "Woz" Wozniak'}}}
+208: {'values_changed': {"root['name']": {'new_value': 'Stephen Gary "Woz" Wozniak', 'old_value': 'Stephen Gay "Woz" Wozniak'}}}
+209: {'values_changed': {"root['name']": {'new_value': 'Stephen Gay "Woz" Wozniak', 'old_value': 'Stephen Gary "Woz" Wozniak'}}}
+236: {'dictionary_item_removed': {"root['partner']": 'Kathy Griffin'}}
+285: {'dictionary_item_added': {"root['partner']": 'Kathy Griffin'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': 'Jesse,Gary,Sara(with Clark)'}}}
+314: {'values_changed': {"root['name']": {'new_value': 'Stephen Gary "Woz" Wozniak', 'old_value': 'Stephen Garly "Woz" Wozniak'}}}
+325: {'values_changed': {"root['name']": {'new_value': 'Stephen Garly "Woz" Wozniak', 'old_value': 'Stephen Gary "Woz" Wozniak'}}}
+366: {'values_changed': {"root['spouse']": {'new_value': 'Alice Robertson (1976-1977), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)', 'old_value': 'Alice Robertson (1976-1980), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)'}}}
+367: {'values_changed': {"root['spouse']": {'new_value': 'Alice Robertson (1976-1980), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004)', 'old_value': 'Alice Robertson (1976-1980), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004), Janet Hill (2008-Present)'}}}
+400: {'dictionary_item_removed': {"root['nicknames']": 'Woz '}}
+420: {'dictionary_item_added': {"root['children']": 'Jesse,Gary,Sara(with Clark)', "root['nicknames']": 'Woz '}, 'values_changed': {"root['spouse']": {'new_value': 'Alice Robertson (1976-1980), Candice Clark (1981-1987), Suzanne Mulkern (1990-2004), Janet Hill (2008-Present)', 'old_value': 'Alice Robertson (1976-1980) Candice Clark (1981-1987) Suzanne Mulkern (1990-2004) Janet Hill (2008-Present)'}}}
+426: {'values_changed': {"root['occupation']": {'new_value': 'Computer engineer', 'old_value': 'fatty'}}}
+427: {'values_changed': {"root['occupation']": {'new_value': 'fatty', 'old_value': 'Computer engineer'}}}
+442: {'dictionary_item_removed': {"root['salary']": '10.00'}}
+455: {'dictionary_item_added': {"root['salary']": '10.00'}, 'dictionary_item_removed': {"root['alma_mater']": 'nowrap', "root['networth']": 'gain US$100 million(2012)', "root['children']": '3', "root['alias']": 'Stephen Wozniak<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Stephen Gary "Woz" Wozniak', 'old_value': 'Steve Wozniak'}, "root['occupation']": {'new_value': 'Computer engineer', 'old_value': 'Computer scientist Electronic engineering'}, "root['spouse']": {'new_value': 'Alice Robertson (1976-1980) Candice Clark (1981-1987) Suzanne Mulkern (1990-2004) Janet Hill (2008-Present)', 'old_value': 'marriage'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Colton Ball'}}}
+503: {'values_changed': {"root['name']": {'new_value': 'Colton Ball', 'old_value': 'Steve Wozniak'}}}
+506: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Koby Blunt'}}}
+507: {'values_changed': {"root['name']": {'new_value': 'Koby Blunt', 'old_value': 'Colton Ball'}}}
+508: {'values_changed': {"root['name']": {'new_value': 'Colton Ball', 'old_value': 'Colton Ball loves Kaela'}}}
+509: {'values_changed': {"root['name']": {'new_value': 'Colton Ball loves Kaela', 'old_value': 'Steve Wozniak'}}}
+512: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'colton ball loves kaela'}}}
+513: {'values_changed': {"root['name']": {'new_value': 'colton ball loves kaela', 'old_value': 'Steve Wozniak'}}}
+514: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Colton loves kaela'}}}
+515: {'values_changed': {"root['name']": {'new_value': 'Colton loves kaela', 'old_value': 'Steve Wozniak'}}}
+519: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'jspcjsd'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'jspcjsd', 'old_value': 'Steve Wozniak'}}}
+575: {'dictionary_item_added': {"root['networth']": 'gain US$100 million(2012)'}, 'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Deven Marz'}}}
+576: {'values_changed': {"root['name']": {'new_value': 'Deven Marz', 'old_value': 'Steve Wozniak'}}}
+578: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'C'}}}
+579: {'values_changed': {"root['name']": {'new_value': 'C', 'old_value': 'Steve Wozniak'}}}
+580: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Haley Evans'}}}
+581: {'values_changed': {"root['name']": {'new_value': 'Haley Evans', 'old_value': 'Steve Wozniak'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'porn orn'}}}
+587: {'values_changed': {"root['name']": {'new_value': 'porn orn', 'old_value': 'Steve Wozniak'}}}
+707: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Tom Brady'}}}
+708: {'values_changed': {"root['name']": {'new_value': 'Tom Brady', 'old_value': 'Steve Wozniak'}}}
+813: {'dictionary_item_removed': {"root['religion']": 'Atheist'}}
+827: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Wozner'}, "root['occupation']": {'new_value': 'Computer scientist Electronic engineering', 'old_value': 'Computer enginerer Electronic engineering'}}}
+828: {'values_changed': {"root['name']": {'new_value': 'Steve Wozner', 'old_value': 'Steve Wozniak'}, "root['occupation']": {'new_value': 'Computer enginerer Electronic engineering', 'old_value': 'Computer scientist Electronic engineering'}}}
+832: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'Atheist/agnostic'}}}
+834: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Computer scientist Electronic engineering'}, "root['alma_mater']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'nowrap'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}, "root['alias']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Woz', 'Berkeley Blue (hacking alias) |'], 'new_value': 'Stephen Wozniak<ref name'}}, 'dictionary_item_added': {"root['religion']": 'Atheist/agnostic'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': '5'}}}
+850: {'iterable_item_added': {"root['alias'][0]": 'Woz', "root['alias'][1]": 'Berkeley Blue (hacking alias) |'}}
+851: {'iterable_item_removed': {"root['alias'][0]": 'Woz', "root['alias'][1]": 'Berkeley Blue (hacking alias) |'}}
+881: {'dictionary_item_removed': {"root['education']": 'BS in Electrical Engineering and Computer Science, University of California, Berkeley, 1987'}}
+882: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '1'}}}
+884: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '5'}}}
+912: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': "'''Steve Wozniak'''"}}}
+913: {'values_changed': {"root['name']": {'new_value': "'''Steve Wozniak'''", 'old_value': 'Steve Wozniak'}}}
+924: {'values_changed': {"root['education']": {'new_value': 'BS in Electrical Engineering and Computer Science, University of California, Berkeley, 1987', 'old_value': 'Bachelor of Science'}, "root['alias'][0]": {'new_value': 'Woz', 'old_value': 'The Woz'}}}
+928: {'values_changed': {"root['alias'][0]": {'new_value': 'The Woz', 'old_value': 'Woz'}}}
+980: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Wozniak (the woz)'}}}
+981: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak (the woz)', 'old_value': 'Steve Wozniak'}}}
+994: {'dictionary_item_removed': {"root['known_for']": []}, 'iterable_item_added': {"root['alias'][0]": 'Woz', "root['alias'][1]": 'Berkeley Blue (hacking alias) |'}}
+1071: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '5fact'}}}
+1074: {'values_changed': {"root['children']": {'new_value': '5fact', 'old_value': '3<ref name'}}}
+1139: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Jobs'}}}
+1140: {'values_changed': {"root['name']": {'new_value': 'Steve Jobs', 'old_value': 'Steve Wozniak'}}}
+1143: {'type_changes': {"root['alias']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Woz, Berkeley Blue (hacking alias) |', 'new_value': []}}, 'dictionary_item_added': {"root['education']": 'Bachelor of Science', "root['alma_mater']": [], "root['occupation']": [], "root['known_for']": [], "root['spouse']": [], "root['children']": '3<ref name'}}
+1144: {'dictionary_item_removed': {"root['education']": 'University of Colorado Boulder', "root['occupation']": 'Electronic engineering', "root['known_for']": 'Co-Founder of Apple Inc., Apple I developer, Apple II co-developer, Pioneer of the personal computer revolution with Steve Jobs', "root['spouse']": 'marriage', "root['children']": '3<ref name'}, 'values_changed': {"root['alias']": {'new_value': 'Woz, Berkeley Blue (hacking alias) |', 'old_value': 'Woz, Berkeley Blue (hacking alias)'}}}
+1145: {'type_changes': {"root['alias']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Woz, Berkeley Blue (hacking alias)'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Electronic engineering'}, "root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Co-Founder of Apple Inc., Apple I developer, Apple II co-developer, Pioneer of the personal computer revolution with Steve Jobs'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_removed': {"root['alma_mater']": []}, 'values_changed': {"root['education']": {'new_value': 'University of Colorado Boulder', 'old_value': 'Bachelor of Science'}}}
+1150: {'dictionary_item_added': {"root['education']": 'Bachelor of Science'}, 'dictionary_item_removed': {"root['accessdate']": ['The Second Steve', 'The Wonderful Wizard of Woz', 'Evets Kainzow<ref name']}}
+1151: {'dictionary_item_added': {"root['accessdate']": ['The Second Steve', 'The Wonderful Wizard of Woz', 'Evets Kainzow<ref name']}, 'dictionary_item_removed': {"root['education']": 'Bachelor of Science'}}
+1167: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Wozniak (less-creative)'}}}
+1168: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak (less-creative)', 'old_value': 'Steve Wozniak'}}}
+1189: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve minecraft'}}}
+1190: {'values_changed': {"root['name']": {'new_value': 'Steve minecraft', 'old_value': 'Steve Wozniak'}}}
+1192: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Gary Wozniak'}}}
+1193: {'values_changed': {"root['name']": {'new_value': 'Steve Gary Wozniak', 'old_value': 'Stephen Gary Wozniak'}}}
+1196: {'values_changed': {"root['name']": {'new_value': 'Stephen Gary Wozniak', 'old_value': 'Steve Wozniak'}}}
+1236: {'dictionary_item_removed': {"root['partner']": 'Kathy Griffin (2007-2008)'}}
+1239: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve niak'}}}
+1240: {'values_changed': {"root['name']": {'new_value': 'Steve niak', 'old_value': 'Steve Wozniak'}}}
+1282: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Kevin'}}}
+1283: {'values_changed': {"root['name']": {'new_value': 'Kevin', 'old_value': 'Steve Wozniak'}}}
+1284: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Vishal Vincent'}}}
+1285: {'values_changed': {"root['name']": {'new_value': 'Vishal Vincent', 'old_value': 'Steve Wozniak'}}}
+1309: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Joe Larry Pizzaface'}}}
+1311: {'values_changed': {"root['name']": {'new_value': 'Joe Larry Pizzaface', 'old_value': 'Steve Wozniak'}}}
+1333: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Wozniak II'}}}
+1334: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak II', 'old_value': 'Steve Wozniak'}}}
+1346: {'iterable_item_removed': {"root['spouse'][0]": 'marriage'}}
+1347: {'dictionary_item_added': {"root['partner']": 'Kathy Griffin (2007-2008)', "root['children']": '3<ref name'}, 'values_changed': {"root['spouse'][0]": {'new_value': 'marriage', 'old_value': 'Alice Robertson'}}, 'iterable_item_removed': {"root['spouse'][1]": 'Candice Clark', "root['spouse'][2]": 'Suzanne Mulkern  |'}}
+1348: {'dictionary_item_removed': {"root['partner']": 'Kathy Griffin (2007-2008)', "root['children']": '3<ref name'}, 'values_changed': {"root['spouse'][0]": {'new_value': 'Alice Robertson', 'old_value': 'marriage'}}, 'iterable_item_added': {"root['spouse'][1]": 'Candice Clark', "root['spouse'][2]": 'Suzanne Mulkern  |'}}
+1349: {'dictionary_item_added': {"root['partner']": 'Kathy Griffin (2007-2008)', "root['children']": '3<ref name'}, 'values_changed': {"root['spouse'][0]": {'new_value': 'marriage', 'old_value': 'Alice Robertson'}}, 'iterable_item_removed': {"root['spouse'][1]": 'Candice Clark', "root['spouse'][2]": 'Suzanne Mulkern  |'}}
+1350: {'dictionary_item_removed': {"root['partner']": 'Kathy Griffin (2007-2008)', "root['children']": '3<ref name'}, 'values_changed': {"root['spouse'][0]": {'new_value': 'Alice Robertson', 'old_value': 'marriage'}}, 'iterable_item_added': {"root['spouse'][1]": 'Candice Clark', "root['spouse'][2]": 'Suzanne Mulkern  |'}}
+1351: {'iterable_item_added': {"root['spouse'][0]": 'marriage'}}
+1357: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'jim bob'}}}
+1358: {'values_changed': {"root['name']": {'new_value': 'jim bob', 'old_value': 'Steve Wozniak'}}}
+1382: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'woznikak'}}}
+1383: {'values_changed': {"root['name']": {'new_value': 'woznikak', 'old_value': 'Steve Wozniak'}}}
+1392: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Steve Wasniac'}}}
+1393: {'values_changed': {"root['name']": {'new_value': 'Steve Wasniac', 'old_value': 'Steve Wozniak'}}}
+1413: {'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Alice Giedrojt'}}}
+1414: {'values_changed': {"root['name']": {'new_value': 'Alice Giedrojt', 'old_value': 'Steve Wozniak'}}}
+1499: {'dictionary_item_added': {"root['children']": '3<ref name'}, 'dictionary_item_removed': {"root['residence']": 'Los Gatos, California, U.S.'}}
+1501: {'dictionary_item_added': {"root['residence']": 'Los Gatos, California, U.S.'}, 'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'Fat Man'}}}
+1502: {'values_changed': {"root['name']": {'new_value': 'Fat Man', 'old_value': 'Steve Wozniak'}}}
+1504: {'dictionary_item_removed': {"root['Nationality']": 'American'}}
+1515: {'dictionary_item_added': {"root['Nationality']": 'American'}, 'values_changed': {"root['name']": {'new_value': 'Steve Wozniak', 'old_value': 'my nuts really itch'}}}
+1516: {'values_changed': {"root['name']": {'new_value': 'my nuts really itch', 'old_value': 'Steve Wozniak'}}}
+1601: {'dictionary_item_removed': {"root['residence']": 'Los Gatos, California'}}

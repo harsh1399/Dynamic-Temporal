@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Oliver Sacks', "root['profession']": 'Physician', "root['specialism']": 'Neurology', "root['known_for']": 'Popular books containing case studies of some of his patients'}}
+14: {'dictionary_item_added': {"root['specialism']": 'Neurology'}, 'dictionary_item_removed': {"root['specialty']": 'Neurology'}}
+40: {'values_changed': {"root['name']": {'new_value': 'Oliver Sacks', 'old_value': 'Oliver sacks is cool'}}}
+41: {'values_changed': {"root['name']": {'new_value': 'Oliver sacks is cool', 'old_value': 'Oliver Sacks'}}}
+227: {'dictionary_item_removed': {"root['alma_mater']": "St Paul's School (London)"}}
+302: {'dictionary_item_added': {"root['alma_mater']": "St Paul's School (London)", "root['specialty']": 'Neurology'}, 'dictionary_item_removed': {"root['work_institutions']": 'Columbia University, Albert Einstein College of Medicine', "root['education']": "The Queen's College, Oxford", "root['specialism']": 'Neurology'}, 'values_changed': {"root['profession']": {'new_value': 'Physician', 'old_value': 'Physician, professor, author'}}}
+331: {'values_changed': {"root['specialism']": {'new_value': 'Neurology', 'old_value': 'Neurologist'}}}
+333: {'values_changed': {"root['specialism']": {'new_value': 'Neurologist', 'old_value': 'Neurology'}}}
+342: {'values_changed': {"root['name']": {'new_value': 'Oliver Sacks', 'old_value': 'Oliver Sacks baby olie'}}}
+343: {'values_changed': {"root['name']": {'new_value': 'Oliver Sacks baby olie', 'old_value': 'Oliver Sacks'}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Oliver Sacks', 'old_value': 'Oliver Sucks'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'Oliver Sucks', 'old_value': 'Oliver Sacks'}}}
+354: {'values_changed': {"root['name']": {'new_value': 'Oliver Sacks', 'old_value': 'Oliver Sucks'}}}
+355: {'values_changed': {"root['name']": {'new_value': 'Oliver Sucks', 'old_value': 'Oliver Sacks'}}}
+411: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients', 'old_value': 'Popular books containing case studies of some of his patients '}}}
+412: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients ', 'old_value': 'Popular books containing case studies of some of his patients'}}}
+415: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients', 'old_value': 'Popular books containing case studies of some of his patients '}}}
+471: {'dictionary_item_added': {"root['specialism']": 'Neurology'}, 'dictionary_item_removed': {"root['speciality']": 'Neurology'}}
+472: {'dictionary_item_added': {"root['speciality']": 'Neurology'}, 'dictionary_item_removed': {"root['specialty']": 'Neurology'}}
+473: {'dictionary_item_added': {"root['specialty']": 'Neurology'}, 'dictionary_item_removed': {"root['speciality']": 'Neurology'}}
+486: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients ', 'old_value': 'Popular books containing case studies of some of his patients and himself. Neurologist, physician, professor, author. Known for caring about his patients, taking time. '}}}
+487: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients and himself. Neurologist, physician, professor, author. Known for caring about his patients, taking time. ', 'old_value': 'Popular books containing case studies of some of his patients '}}}
+488: {'values_changed': {"root['profession']": {'new_value': 'Physician, professor, author', 'old_value': 'Physician, professor, author, neurologist.'}}}
+489: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients ', 'old_value': 'Popular books containing case studies of some of his patients and himself. Caring about his patients. '}}}
+490: {'values_changed': {"root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients and himself. Caring about his patients. ', 'old_value': 'Popular books containing case studies of some of his patients '}}}
+495: {'values_changed': {"root['work_institutions']": {'new_value': 'Columbia University, Albert Einstein College of Medicine', 'old_value': 'New York University, Columbia University, Albert Einstein College of Medicine, University of Warwick'}}}
+509: {'dictionary_item_added': {"root['speciality']": 'Neurology'}, 'dictionary_item_removed': {"root['specialism']": 'Neurology'}, 'values_changed': {"root['profession']": {'new_value': 'Physician, professor, author, neurologist.', 'old_value': 'Physician, professor, author, neurologist'}, "root['work_institutions']": {'new_value': 'New York University, Columbia University, Albert Einstein College of Medicine, University of Warwick', 'old_value': 'Nowrap'}, "root['known_for']": {'new_value': 'Popular books containing case studies of some of his patients ', 'old_value': 'Non-fiction books about his psychiatric and neurological patients'}}}
+516: {'values_changed': {"root['work_institutions']": {'new_value': 'Nowrap', 'old_value': 'nowrap'}}}
+568: {'values_changed': {"root['education']": {'new_value': "The Queen's College, Oxford", 'old_value': 'University of Oxford (Bachelor of Arts'}}}

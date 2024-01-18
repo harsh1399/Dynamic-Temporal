@@ -1,0 +1,18 @@
+359: {'dictionary_item_removed': {"root['name']": 'Tera Patrick', "root['gender']": 'female', "root['location']": 'Great Falls, Montana', "root['weight']": 'convert', "root['measurements']": '36Brassiere measurements', "root['ethnicity']": 'Thai people', "root['alias']": 'Tara Patrick, Sadie Jordan, Brooke Thomas, Tera Hopkins', "root['homepage']": 'http://www.terapatrick.com', "root['imdb']": '0665927', "root['iafd']": 'TaraPatrick', "root['afdb']": '15054', "root['spelling']": 'US'}}
+365: {'dictionary_item_added': {"root['location']": 'Great Falls, Montana'}, 'values_changed': {"root['name']": {'new_value': 'Tera Patrick', 'old_value': 'Linda Ann Hopkins'}}}
+366: {'values_changed': {"root['name']": {'new_value': 'Linda Ann Hopkins', 'old_value': 'Tera Patrick'}}}
+479: {'dictionary_item_added': {"root['gender']": 'female', "root['measurements']": '36Brassiere measurements', "root['homepage']": 'http://www.terapatrick.com', "root['imdb']": '0665927', "root['iafd']": 'TaraPatrick', "root['afdb']": '15054'}, 'dictionary_item_removed': {"root['spouse']": 'Evan Seinfeld (2004-2009; divorced) '}}
+481: {'values_changed': {"root['name']": {'new_value': 'Tera Patrick', 'old_value': 'Tera Alvarez'}}}
+482: {'values_changed': {"root['name']": {'new_value': 'Tera Alvarez', 'old_value': 'Tera Patrick'}}}
+528: {'values_changed': {"root['alias']": {'new_value': 'Tara Patrick, Sadie Jordan, Brooke Thomas, Tera Hopkins', 'old_value': 'Sadie Jordan, Sara Jordan, Tara Patrick, Linda Shapiro, Brooke Thomas'}}}
+533: {'values_changed': {"root['alias']": {'new_value': 'Sadie Jordan, Sara Jordan, Tara Patrick, Linda Shapiro, Brooke Thomas', 'old_value': 'Tara Patrick, Brooke Thomas, Linda Shapiro, Sadie Jordan, Sara Jordan<ref name'}, "root['spouse']": {'new_value': 'Evan Seinfeld (2004-2009; divorced) ', 'old_value': 'Evan Seinfeld (2004–2009; divorced) '}}}
+541: {'dictionary_item_removed': {"root['partner']": 'Tony Acosta (2010–present)', "root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': 'Evan Seinfeld (2004–2009; divorced) ', 'old_value': 'Evan Seinfeld (m. 2004–09)'}}}
+543: {'values_changed': {"root['spouse']": {'new_value': 'Evan Seinfeld (m. 2004–09)', 'old_value': 'Binh Huynh)(m. 2014–present)'}}}
+544: {'values_changed': {"root['spouse']": {'new_value': 'Binh Huynh)(m. 2014–present)', 'old_value': '(Binh Huynh)(m. 2014–present)'}}}
+545: {'values_changed': {"root['spouse']": {'new_value': '(Binh Huynh)(m. 2014–present)', 'old_value': 'Evan Seinfeld (m. 2004–09)'}}}
+557: {'values_changed': {"root['ethnicity']": {'new_value': 'Thai people', 'old_value': 'Thai American'}}}
+568: {'values_changed': {"root['weight']": {'new_value': 'convert', 'old_value': '121 lb<ref name'}}}
+572: {'values_changed': {"root['weight']": {'new_value': '121 lb<ref name', 'old_value': 'convert'}}}
+581: {'values_changed': {"root['weight']": {'new_value': 'convert', 'old_value': '121 lb<ref name'}}}
+591: {'values_changed': {"root['weight']": {'new_value': '121 lb<ref name', 'old_value': '221 lb<ref name'}}}
+592: {'values_changed': {"root['weight']": {'new_value': '221 lb<ref name', 'old_value': '121 lb<ref name'}}}

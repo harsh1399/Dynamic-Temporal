@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['Residence']": 'Nana Glen, New South Wales, Australia', "root['occupation']": 'Actor, producer, musician', "root['spouse']": 'marriage', "root['children']": '2 '}}
+42: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, musician', 'old_value': 'Actor, producer, musician, director'}}}
+147: {'dictionary_item_added': {"root['Residence']": 'Nana Glen, New South Wales, Australia'}, 'dictionary_item_removed': {"root['residence']": 'Nana Glen, New South Wales, Australia'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, musician, director', 'old_value': 'Actor, director, musician, producer'}, "root['children']": {'new_value': '2 ', 'old_value': 'Charles Spencer Crowe (born December 21, 2003), Tennyson Spencer Crowe (born July 7, 2006) '}}}
+149: {'dictionary_item_added': {"root['residence']": 'Nana Glen, New South Wales, Australia'}, 'dictionary_item_removed': {"root['Residence']": 'Nana Glen, New South Wales, Australia'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, director, musician, producer', 'old_value': 'Actor, producer, musician, director'}, "root['children']": {'new_value': 'Charles Spencer Crowe (born December 21, 2003), Tennyson Spencer Crowe (born July 7, 2006) ', 'old_value': '2 '}}}
+174: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2 sons '}}}
+175: {'values_changed': {"root['children']": {'new_value': '2 sons ', 'old_value': '2 '}}}
+281: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Nathan b.1997 Daniel b.1999 '}}}
+282: {'values_changed': {"root['children']": {'new_value': 'Nathan b.1997 Daniel b.1999 ', 'old_value': '2 '}}}
+318: {'dictionary_item_added': {"root['Residence']": 'Nana Glen, New South Wales, Australia'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+412: {'dictionary_item_removed': {"root['works']": 'Russell Crowe filmography', "root['awards']": 'Full list '}}
+414: {'dictionary_item_added': {"root['children']": '2', "root['awards']": 'Full list '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '2003|2012|reas'}}}
+415: {'dictionary_item_removed': {"root['children']": '2', "root['awards']": 'Full list '}, 'values_changed': {"root['spouse']": {'new_value': '2003|2012|reas', 'old_value': 'marriage'}}}
+486: {'dictionary_item_removed': {"root['name']": 'Derek Berger'}, 'values_changed': {"root['awards']": {'new_value': 'Full list ', 'old_value': 'List of'}}}
+487: {'dictionary_item_added': {"root['name']": 'Derek Berger'}, 'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'Full list '}}}
+519: {'dictionary_item_removed': {"root['name']": 'Russel Crowe'}, 'values_changed': {"root['awards']": {'new_value': 'Full list ', 'old_value': 'List of'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'Russel Crowe', 'old_value': 'Russell Crowe'}}}
+534: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, musician, director', 'old_value': 'Actor, Film producer'}}}
+540: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 child'}}}
+541: {'values_changed': {"root['children']": {'new_value': '2 child', 'old_value': '2'}}}
+555: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Film producer', 'old_value': 'Actor, producer, director musician'}}}
+564: {'dictionary_item_removed': {"root['residence']": 'Sydney, New South Wales, Australia'}}
+566: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, producer, director musician'}}, 'dictionary_item_added': {"root['residence']": 'Sydney, New South Wales, Australia'}}
+601: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '20,000'}}}
+602: {'values_changed': {"root['children']": {'new_value': '20,000', 'old_value': '2'}}}
+612: {'values_changed': {"root['name']": {'new_value': 'Russell Crowe', 'old_value': 'Russell Croweeeeeeee'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'Russell Croweeeeeeee', 'old_value': 'Russell Crowe'}}}
+614: {'dictionary_item_removed': {"root['residence']": 'Australia Rose Bay, New South Wales'}}
+620: {'dictionary_item_added': {"root['residence']": 'Australia Rose Bay, New South Wales'}, 'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'Full list '}}}
+698: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Makin’ Movies', 'new_value': []}}}
+700: {'values_changed': {"root['occupation']": {'new_value': 'Makin’ Movies', 'old_value': 'Makin’ Movies Makin’ songs Fighting round the world'}}}
+703: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Makin’ Movies Makin’ songs Fighting round the world'}}}
+712: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'making movies, making music, fighting round the world', 'new_value': []}}}
+713: {'values_changed': {"root['occupation']": {'new_value': 'making movies, making music, fighting round the world', 'old_value': 'Actor, Musician'}}}
+714: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, Musician'}}}

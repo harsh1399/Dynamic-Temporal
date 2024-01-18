@@ -1,0 +1,62 @@
+121: {'dictionary_item_removed': {"root['name']": 'Marcel Marceau', "root['bgcolour']": 'silver', "root['birthname']": 'Marcel Mangel', "root['birthdate']": 'March 22, 1923', "root['birthplace']": 'Strasbourg, France', "root['deathdate']": 'death date and age'}}
+150: {'dictionary_item_removed': {"root['deathplace']": 'Paris, France'}}
+151: {'values_changed': {"root['birthplace']": {'new_value': 'Strasbourg, France', 'old_value': 'flagicon'}, "root['deathplace']": {'new_value': 'Paris, France', 'old_value': 'flagicon'}}}
+252: {'values_changed': {"root['birthdate']": {'new_value': 'March 22, 1923', 'old_value': 'birth date'}}}
+263: {'values_changed': {"root['birthplace']": {'new_value': 'flagicon', 'old_value': 'Strasbourg, France'}, "root['deathdate']": {'new_value': 'death date and age', 'old_value': 'September 22, 2007'}, "root['deathplace']": {'new_value': 'flagicon', 'old_value': 'Cahors, France'}}}
+266: {'values_changed': {"root['deathdate']": {'new_value': 'September 22, 2007', 'old_value': 'death date and age'}}}
+284: {'dictionary_item_added': {"root['bgcolour']": 'silver'}, 'dictionary_item_removed': {"root['emmyawards']": '1956 - Best Specialty Act - Single or Group '}}
+337: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Marcel Marcea'}}}
+338: {'values_changed': {"root['name']": {'new_value': 'Marcel Marcea', 'old_value': 'Marcel Marceau'}}}
+364: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'nigger'}, "root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'nigga man'}, "root['birthplace']": {'new_value': 'Strasbourg, France', 'old_value': 'france'}, "root['deathplace']": {'new_value': 'Cahors, France', 'old_value': 'cooper, France'}}}
+365: {'values_changed': {"root['name']": {'new_value': 'nigger', 'old_value': 'Marcel Marceau'}, "root['birthname']": {'new_value': 'nigga man', 'old_value': 'Marcel Mangel'}, "root['birthplace']": {'new_value': 'france', 'old_value': 'Strasbourg, France'}, "root['deathplace']": {'new_value': 'cooper, France', 'old_value': 'Cahors, France'}}}
+401: {'values_changed': {"root['birthplace']": {'new_value': 'Strasbourg, France', 'old_value': 'Strasbourg, France flagicon'}, "root['deathplace']": {'new_value': 'Cahors, France', 'old_value': 'Cahors, France flagicon'}}}
+402: {'values_changed': {"root['birthplace']": {'new_value': 'Strasbourg, France flagicon', 'old_value': 'Strasbourg, France'}, "root['deathplace']": {'new_value': 'Cahors, France flagicon', 'old_value': 'Cahors, France'}}}
+463: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Marcel Marceau'}}}
+472: {'dictionary_item_removed': {"root['occupation']": 'Actor'}, 'values_changed': {"root['birthname']": {'new_value': 'Marcel Marceau', 'old_value': 'Marcel Mangel'}, "root['emmyawards']": {'new_value': '1956 - Best Specialty Act - Single or Group ', 'old_value': "'''Best Specialty Act''' , 1956 '''' "}}}
+473: {'dictionary_item_removed': {"root['spouse']": 'Anne Sicco (1975-2007) Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)'}, 'values_changed': {"root['emmyawards']": {'new_value': "'''Best Specialty Act''' , 1956 '''' ", 'old_value': "'''Best Specialty Act - Single or Group''' , 1956 "}}}
+474: {'values_changed': {"root['deathplace']": {'new_value': 'Cahors, France', 'old_value': 'Cahors, Lot, France'}, "root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, mime'}}}
+580: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Mar Mar'}}}
+582: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Mar Mar'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Mar Mar', 'old_value': 'Marcel Marceau'}, "root['birthname']": {'new_value': 'Mar Mar', 'old_value': 'Marcel Mangel'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Loony Toon'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'Loony Toon', 'old_value': 'Marcel Marceau'}}}
+604: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Finlz hehehe'}, "root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Flippppppp yo man'}}}
+605: {'values_changed': {"root['deathdate']": {'new_value': 'death date and age', 'old_value': 'In Franga Danga'}, "root['spouse']": {'new_value': 'Anne Sicco (1975-2007) Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)', 'old_value': 'oochitti boochitti'}}}
+606: {'values_changed': {"root['name']": {'new_value': 'Finlz hehehe', 'old_value': 'Marcel Marceau'}, "root['birthname']": {'new_value': 'Flippppppp yo man', 'old_value': 'Marcel Mangel'}, "root['deathdate']": {'new_value': 'In Franga Danga', 'old_value': 'death date and age'}, "root['spouse']": {'new_value': 'oochitti boochitti', 'old_value': 'Anne Sicco (1975-2007) Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)'}}}
+618: {'values_changed': {"root['spouse']": {'new_value': 'Anne Sicco (1975-2007) Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)', 'old_value': 'Anne Sicco (1975-2007), Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)'}}}
+625: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Marcel Epilangel'}, "root['occupation']": {'new_value': 'Actor, mime', 'old_value': 'Stripper, mime'}, "root['emmyawards']": {'new_value': "'''Best Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Worst Specialty Act - Single or Group''' , 1956 "}}}
+626: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Epilangel', 'old_value': 'Marcel Mangel'}, "root['occupation']": {'new_value': 'Stripper, mime', 'old_value': 'Actor, mime'}, "root['emmyawards']": {'new_value': "'''Worst Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Best Specialty Act - Single or Group''' , 1956 "}}}
+627: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Marcel Marceaupooop'}, "root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Marcel Epilangel'}, "root['occupation']": {'new_value': 'Actor, mime', 'old_value': 'Stripper, mime'}, "root['spouse']": {'new_value': 'Anne Sicco (1975-2007), Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)', 'old_value': 'Anne Sictaccoco (70 BC-2010), Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)'}, "root['emmyawards']": {'new_value': "'''Best Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Worst Specialty Act - Single or Group''' , 1956 "}}}
+628: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceaupooop', 'old_value': 'Marcel Marceau'}, "root['birthname']": {'new_value': 'Marcel Epilangel', 'old_value': 'Marcel Mangel'}, "root['occupation']": {'new_value': 'Stripper, mime', 'old_value': 'Actor, mime'}, "root['spouse']": {'new_value': 'Anne Sictaccoco (70 BC-2010), Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)', 'old_value': 'Anne Sicco (1975-2007), Ella Jaroszewicz (m. 1966), Huguette Mallette (div. 1958)'}, "root['emmyawards']": {'new_value': "'''Worst Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Best Specialty Act - Single or Group''' , 1956 "}}}
+629: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Marcel Epilangel'}, "root['occupation']": {'new_value': 'Actor, mime', 'old_value': 'Stripper'}, "root['emmyawards']": {'new_value': "'''Best Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Worst Sickest Act - Single or Sexual''' , 1956 "}}}
+630: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Epilangel', 'old_value': 'Marcel Mangel'}, "root['occupation']": {'new_value': 'Stripper', 'old_value': 'Actor, mime'}, "root['emmyawards']": {'new_value': "'''Worst Sickest Act - Single or Sexual''' , 1956 ", 'old_value': "'''Best Specialty Act - Single or Group''' , 1956 "}}}
+631: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Mangel', 'old_value': 'Marcel Epilangel'}, "root['occupation']": {'new_value': 'Actor, mime', 'old_value': 'Stripper, mime'}, "root['emmyawards']": {'new_value': "'''Best Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Worst Specialty Act - Single or Group''' , 1956 "}}}
+632: {'values_changed': {"root['birthname']": {'new_value': 'Marcel Epilangel', 'old_value': 'Marcel Mangel'}, "root['occupation']": {'new_value': 'Stripper, mime', 'old_value': 'Actor, mime'}, "root['emmyawards']": {'new_value': "'''Worst Specialty Act - Single or Group''' , 1956 ", 'old_value': "'''Best Specialty Act - Single or Group''' , 1956 "}}}
+678: {'dictionary_item_added': {"root['emmyawards']": "'''Best Specialty Act - Single or Group''' , 1956 "}, 'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'ASHLEY STAPLETON'}}}
+679: {'values_changed': {"root['name']": {'new_value': 'ASHLEY STAPLETON', 'old_value': 'oliver rallik'}}}
+680: {'values_changed': {"root['name']": {'new_value': 'oliver rallik', 'old_value': 'Marcel Marcea'}}}
+681: {'values_changed': {"root['name']": {'new_value': 'Marcel Marcea', 'old_value': 'Marcel Marceau'}}}
+682: {'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'Birth date'}}}
+688: {'dictionary_item_added': {"root['birthname']": 'Marcel Mangel', "root['birthdate']": 'Birth date', "root['birthplace']": 'Strasbourg, France', "root['deathdate']": 'death date and age', "root['deathplace']": 'Cahors, Lot, France'}, 'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Sanjay Chumber (the fatso)'}}}
+689: {'values_changed': {"root['name']": {'new_value': 'Sanjay Chumber (the fatso)', 'old_value': 'Marcel Marceau'}}}
+706: {'values_changed': {"root['occupation']": {'new_value': 'Actor, mime', 'old_value': 'Truck Driver, mime'}}}
+707: {'values_changed': {"root['occupation']": {'new_value': 'Truck Driver, mime', 'old_value': 'Actor, mime'}}}
+727: {'dictionary_item_removed': {"root['children']": '4'}}
+728: {'dictionary_item_removed': {"root['alma_mater']": "Charles Dullin's School of Dramatic Art"}}
+737: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'bla bla bla'}}}
+739: {'values_changed': {"root['name']": {'new_value': 'bla bla bla', 'old_value': 'Marcel Marceau'}}}
+740: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'bla bla bla'}}}
+742: {'values_changed': {"root['name']": {'new_value': 'bla bla bla', 'old_value': 'Marcel Marceau'}}}
+744: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Abbie'}}}
+745: {'values_changed': {"root['name']": {'new_value': 'Abbie', 'old_value': 'Marcel Marceau'}}}
+756: {'dictionary_item_removed': {"root['imagesize']": '500x'}}
+758: {'dictionary_item_added': {"root['imagesize']": '500x'}, 'dictionary_item_removed': {"root['influences']": 'Charlie Chaplin, Groucho Marx'}}
+759: {'dictionary_item_removed': {"root['known_for']": "'''Bip the Clown'''"}}
+771: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'Marcel Marceaussesd'}}}
+772: {'values_changed': {"root['name']": {'new_value': 'Marcel Marceaussesd', 'old_value': 'Marcel Marceau'}}}
+775: {'dictionary_item_removed': {"root['NAME']": 'Marceau, Marcel | ALTERNATIVE NAMES'}, 'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'MarDMDlkdmakcel Marceau'}}}
+776: {'dictionary_item_added': {"root['NAME']": 'Marceau, Marcel | ALTERNATIVE NAMES'}, 'values_changed': {"root['name']": {'new_value': 'MarDMDlkdmakcel Marceau', 'old_value': 'Marcel Marceau'}}}
+777: {'dictionary_item_removed': {"root['NAME']": 'Marceau, Marcel | ALTERNATIVE NAMES'}, 'values_changed': {"root['name']": {'new_value': 'Marcel Marceau', 'old_value': 'MarDMDlkdmakcel Marceau'}}}
+778: {'dictionary_item_added': {"root['NAME']": 'Marceau, Marcel | ALTERNATIVE NAMES'}, 'values_changed': {"root['name']": {'new_value': 'MarDMDlkdmakcel Marceau', 'old_value': 'Marcel Marceau'}}}
+779: {'values_changed': {"root['known_for']": {'new_value': "'''Bip the Clown'''", 'old_value': "'''Nip the Clown'''"}}}
+781: {'values_changed': {"root['known_for']": {'new_value': "'''Nip the Clown'''", 'old_value': "'''Bip the Clown'''"}}}

@@ -1,0 +1,17 @@
+82: {'dictionary_item_removed': {"root['name']": 'PAGENAME', "root['field']": 'natural scientist', "root['known_for']": 'biogeography'}}
+99: {'values_changed': {"root['name']": {'new_value': 'PAGENAME', 'old_value': 'Alexander von Humboldt'}}}
+122: {'dictionary_item_removed': {"root['ethnicity']": 'Yo Mamma'}}
+137: {'dictionary_item_added': {"root['ethnicity']": 'Yo Mamma'}, 'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt', 'old_value': 'irc.rizon.net #hatecrew'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'irc.rizon.net #hatecrew', 'old_value': 'Alexander von Humboldt'}}}
+161: {'values_changed': {"root['known_for']": {'new_value': 'biogeography', 'old_value': "biogeography, ''Kosmos'' (1845)"}}}
+165: {'dictionary_item_removed': {"root['influences']": 'F. W. J. Schelling', "root['influenced']": 'Charles Darwin'}, 'values_changed': {"root['field']": {'new_value': 'natural scientist', 'old_value': 'Geography'}, "root['known_for']": {'new_value': "biogeography, ''Kosmos'' (1845)", 'old_value': "Biogeography, ''Kosmos'' (1845)"}}}
+170: {'values_changed': {"root['known_for']": {'new_value': "Biogeography, ''Kosmos'' (1845)", 'old_value': "Biogeography, ''Kosmos (Humboldt)"}}}
+193: {'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt', 'old_value': 'Alexander  Humboldt'}}}
+194: {'values_changed': {"root['name']": {'new_value': 'Alexander  Humboldt', 'old_value': 'Alexander von Humboldt'}}}
+197: {'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt', 'old_value': 'Alexander von Humboldt Пісюн'}}}
+198: {'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt Пісюн', 'old_value': 'Alexander von Humboldt'}}}
+279: {'dictionary_item_removed': {"root['prizes']": 'Copley Medal (1852)'}}
+295: {'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt', 'old_value': 'Magnus dahl'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Magnus dahl', 'old_value': 'Alexander von Humboldt'}}}
+304: {'dictionary_item_removed': {"root['residence']": 'a 18st'}, 'values_changed': {"root['name']": {'new_value': 'Alexander von Humboldt', 'old_value': 'Alexander von humboldt'}}}
+305: {'dictionary_item_added': {"root['residence']": 'a 18st'}, 'values_changed': {"root['name']": {'new_value': 'Alexander von humboldt', 'old_value': 'Alexander von Humboldt'}}}

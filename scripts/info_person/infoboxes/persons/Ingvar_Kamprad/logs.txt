@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ingvar Kamprad', "root['occupation']": 'Entrepreneur', "root['networth']": 'loss United States dollar'}}
+5: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Ingvar Kamprad (Hanna Montana)'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad (Hanna Montana)', 'old_value': 'Ingvar Kamprad'}}}
+19: {'values_changed': {"root['networth']": {'new_value': 'loss United States dollar', 'old_value': 'gain United States dollar'}}}
+30: {'values_changed': {"root['networth']": {'new_value': 'gain United States dollar', 'old_value': 'gainUnited States dollar'}}}
+32: {'dictionary_item_removed': {"root['spouse']": 'Margaretha', "root['children']": '4 children: sons Peter, Jonas and Matthias; daughter'}}
+35: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Miguel Casares'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'Miguel Casares', 'old_value': 'Ingvar Kamprad'}}}
+81: {'values_changed': {"root['networth']": {'new_value': 'gainUnited States dollar', 'old_value': 'lossUnited States dollar'}}}
+114: {'values_changed': {"root['children']": {'new_value': '4 children: sons Peter, Jonas and Matthias; daughter', 'old_value': '4 children: sons Peter, Jonas and Matthias; daughter: Annika Kihlbom'}}}
+151: {'values_changed': {"root['spouse']": {'new_value': 'Margaretha', 'old_value': 'Margaretha (Deceased 12-12-2011)'}}}
+155: {'dictionary_item_removed': {"root['religion']": 'Lutheranism'}, 'values_changed': {"root['occupation']": {'new_value': 'Entrepreneur', 'old_value': 'Founder of IKEA'}, "root['networth']": {'new_value': 'lossUnited States dollar', 'old_value': 'US$46.8 billion (Bloomberg, September 2017)<ref name'}, "root['spouse']": {'new_value': 'Margaretha (Deceased 12-12-2011)', 'old_value': 'Marriage'}, "root['children']": {'new_value': '4 children: sons Peter, Jonas and Matthias; daughter: Annika Kihlbom', 'old_value': '4'}}}
+206: {'dictionary_item_added': {"root['religion']": 'Lutheranism'}, 'dictionary_item_removed': {"root['known_for']": 'Founding of IKEA '}, 'values_changed': {"root['occupation']": {'new_value': 'Founder of IKEA', 'old_value': 'Business magnate'}}}
+234: {'dictionary_item_removed': {"root['salary']": '2 donuts a second'}}
+235: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Dead Man Ingvar'}}}
+237: {'values_changed': {"root['name']": {'new_value': 'Dead Man Ingvar', 'old_value': 'Ingvar Kamprad'}}}
+266: {'dictionary_item_added': {"root['salary']": '2 donuts a second'}, 'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Ingvar Nazi Kamprad'}}}
+267: {'values_changed': {"root['name']": {'new_value': 'Ingvar Nazi Kamprad', 'old_value': 'Ingvar Kamprad'}}}
+268: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Ingvar Nazi Kamprad'}}}
+269: {'values_changed': {"root['name']": {'new_value': 'Ingvar Nazi Kamprad', 'old_value': 'Ingvar Kamprad'}}}
+289: {'values_changed': {"root['networth']": {'new_value': 'US$46.8 billion (Bloomberg, September 2017)<ref name', 'old_value': 'US$57.8 billion (Bloomberg, January 2018)<ref name'}}}
+294: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Ingvar Kamprad.'}}}
+295: {'values_changed': {"root['networth']": {'new_value': 'US$57.8 billion (Bloomberg, January 2018)<ref name', 'old_value': 'US$58.7 billion (Bloomberg, January 2018)<ref name'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad.', 'old_value': 'Ingvar Kamprad'}}}
+306: {'values_changed': {"root['known_for']": {'new_value': 'Founding of IKEA ', 'old_value': 'Founder of IKEA '}}}
+319: {'values_changed': {"root['known_for']": {'new_value': 'Founder of IKEA ', 'old_value': 'Founder of IKEA'}}}
+350: {'values_changed': {"root['networth']": {'new_value': 'US$58.7 billion (Bloomberg, January 2018)<ref name', 'old_value': 'US$90 billion (Bloomberg, January 2018)<ref name'}}}
+352: {'values_changed': {"root['networth']": {'new_value': 'US$90 billion (Bloomberg, January 2018)<ref name', 'old_value': 'US$58.7 billion (Bloomberg, January 2018)<ref name'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'Ingvar Kamprad', 'old_value': 'Ingvar the devil Kamprad'}}}
+359: {'values_changed': {"root['name']": {'new_value': 'Ingvar the devil Kamprad', 'old_value': 'Ingvar Kamprad'}}}
+369: {'values_changed': {"root['networth']": {'new_value': 'US$58.7 billion (Bloomberg, January 2018)<ref name', 'old_value': 'US$58.7 billion cents  (Bloomberg, January 2018)<ref name'}}}
+370: {'values_changed': {"root['networth']": {'new_value': 'US$58.7 billion cents  (Bloomberg, January 2018)<ref name', 'old_value': 'US$58.7 billion (Bloomberg, January 2018)<ref name'}}}

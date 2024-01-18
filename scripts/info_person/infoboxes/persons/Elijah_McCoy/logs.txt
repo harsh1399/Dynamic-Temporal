@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['name']": 'Elijah McCoy', "root['known_for']": 'Inventions, particularly his Mechanical Lubricator', "root['education']": 'Mechanical Engineering', "root['occupation']": 'Engineer, inventor, initially employed as a railroad fireman and oiler', "root['spouse']": 'Ann Elizabeth Stewart; Mary Eleanor Delaney'}}
+18: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'big dump'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'big dump', 'old_value': 'Elijah McCoy'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'Black Man'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Black Man', 'old_value': 'Elijah McCoy'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'Elijah poo'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Elijah poo', 'old_value': 'Elijah McCoy'}}}
+43: {'dictionary_item_added': {"root['spouse']": 'Ann Elizabeth Stewart; Mary Eleanor Delaney'}, 'dictionary_item_removed': {"root['salary']": 'broke because he black', "root['networth']": 'Hamburgers', "root['NAME']": 'Maccoy, Elijah | ALTERNATIVE NAMES'}}
+44: {'dictionary_item_added': {"root['salary']": 'broke because he black', "root['networth']": 'Hamburgers', "root['NAME']": 'Maccoy, Elijah | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['spouse']": 'Ann Elizabeth Stewart; Mary Eleanor Delaney'}}
+45: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'sampson ndokwe'}, "root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler', 'old_value': 'nothing'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'sampson ndokwe', 'old_value': 'Elijah McCoy'}, "root['occupation']": {'new_value': 'nothing', 'old_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler'}}}
+52: {'values_changed': {"root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler', 'old_value': 'Engineer, inventor, initially employed as a railroad teacher'}}}
+53: {'values_changed': {"root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad teacher', 'old_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'Elijah McCoys'}, "root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler', 'old_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler,and a teacher.'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoys', 'old_value': 'Elijah McCoy'}, "root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler,and a teacher.', 'old_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler'}}}
+86: {'dictionary_item_removed': {"root['employer']": 'Mine Coaling'}}
+139: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'Elijah fart'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'Elijah fart', 'old_value': 'Elijah McCoy'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Elijah McCoy', 'old_value': 'Elijah Mc'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Elijah Mc', 'old_value': 'Elijah McCoy'}}}
+166: {'dictionary_item_added': {"root['name']": 'Elijah McCoy', "root['education']": 'Mechanical Engineering'}, 'values_changed': {"root['known_for']": {'new_value': 'Inventions, particularly his Mechanical Lubricator', 'old_value': 'Inventions'}}}
+167: {'dictionary_item_removed': {"root['networth']": '100000000000000000'}}
+204: {'dictionary_item_added': {"root['networth']": '100000000000000000'}, 'values_changed': {"root['known_for']": {'new_value': 'Inventions', 'old_value': 'poo'}}}
+205: {'values_changed': {"root['known_for']": {'new_value': 'poo', 'old_value': 'Inventions'}}}
+206: {'values_changed': {"root['known_for']": {'new_value': 'Inventions', 'old_value': 'Oil Cup'}}}
+287: {'values_changed': {"root['known_for']": {'new_value': 'Oil Cup', 'old_value': 'Professional Rawdogger'}}}
+288: {'values_changed': {"root['known_for']": {'new_value': 'Professional Rawdogger', 'old_value': 'Oil Cup'}}}
+314: {'values_changed': {"root['employer']": {'new_value': 'Mine Coaling', 'old_value': 'Bubba-Gump Shrimp Company'}}}
+315: {'values_changed': {"root['employer']": {'new_value': 'Bubba-Gump Shrimp Company', 'old_value': 'Mine Coaling'}}}
+328: {'dictionary_item_removed': {"root['networth']": '11,909,878'}}
+332: {'values_changed': {"root['spouse']": {'new_value': 'Ann Elizabeth Stewart; Mary Eleanor Delaney', 'old_value': 'Ann Elizabeth Stewart; Mary Eleanor Delaney '}}}
+340: {'values_changed': {"root['known_for']": {'new_value': 'Oil Cup', 'old_value': 'Oil cup'}}}
+341: {'values_changed': {"root['spouse']": {'new_value': 'Ann Elizabeth Stewart; Mary Eleanor Delaney ', 'old_value': 'Marriage|Mary Eleanora Delaney|1873|1922|e'}}}
+346: {'values_changed': {"root['employer']": {'new_value': 'Mine Coaling', 'old_value': 'Non ming'}}}
+367: {'values_changed': {"root['employer']": {'new_value': 'Non ming', 'old_value': 'Mine Coaling'}}}
+368: {'values_changed': {"root['spouse']": {'new_value': 'Marriage|Mary Eleanora Delaney|1873|1922|e', 'old_value': 'Marriage|Mary Eleanora Delaney|1873|1923|e'}}}
+373: {'values_changed': {"root['known_for']": {'new_value': 'Oil cup', 'old_value': 'cup cakes'}, "root['employer']": {'new_value': 'Mine Coaling', 'old_value': 'violine comany'}}}
+380: {'values_changed': {"root['known_for']": {'new_value': 'cup cakes', 'old_value': 'steam engine lubrication systems'}}}
+397: {'dictionary_item_added': {"root['employer']": 'violine comany', "root['networth']": '11,909,878'}, 'values_changed': {"root['known_for']": {'new_value': 'steam engine lubrication systems', 'old_value': 'Steam engine lubrication systems'}, "root['occupation']": {'new_value': 'Engineer, inventor, initially employed as a railroad fireman and oiler', 'old_value': 'Engineer, inventor, railroad fireman & oiler'}}}
+398: {'values_changed': {"root['occupation']": {'new_value': 'Engineer, inventor, railroad fireman & oiler', 'old_value': 'Engineer, inventor, railroad fireman and oiler'}}}
+405: {'values_changed': {"root['known_for']": {'new_value': 'Steam engine lubrication systems', 'old_value': 'Invention of the steam engine automatic lubricator'}, "root['occupation']": {'new_value': 'Engineer, inventor, railroad fireman and oiler', 'old_value': 'Engineer, inventor, Tribology'}}}
+420: {'dictionary_item_removed': {"root['alma_mater']": 'University of Edinburgh'}}

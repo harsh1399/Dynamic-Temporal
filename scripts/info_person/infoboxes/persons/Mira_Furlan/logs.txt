@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mira Furlan', "root['occupation']": 'Actress', "root['spouse']": 'Goran Gajić'}}
+2: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, singer'}}}
+28: {'dictionary_item_removed': {"root['residence']": 'Los Angeles', "root['children']": '1 (Marko, born 1998)'}}
+30: {'dictionary_item_added': {"root['residence']": 'Los Angeles'}, 'values_changed': {"root['children']": {'new_value': '1 (Marko, born 1998)', 'old_value': '1'}}}
+40: {'values_changed': {"root['spouse']": {'new_value': 'Goran Gajić', 'old_value': 'marriage'}}}
+98: {'dictionary_item_removed': {"root['year_active']": '1985–2016'}}
+102: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, singer'}}, 'dictionary_item_added': {"root['year_active']": '1985–2016'}}
+125: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Goran Gajić (1998–2021)'}}}
+128: {'values_changed': {"root['spouse']": {'new_value': 'Goran Gajić (1998–2021)', 'old_value': 'marriage'}}}

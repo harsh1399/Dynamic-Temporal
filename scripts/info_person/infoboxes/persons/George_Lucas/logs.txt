@@ -1,0 +1,75 @@
+0: {'dictionary_item_removed': {"root['name']": 'George Lucas', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Modesto, California, United States', "root['birthname']": 'George Walton Lucas, Jr.', "root['yearsactive']": '1965—', "root['spouse']": 'Marcia Lucas née Griffin (1969–1983)', "root['domesticpartner']": 'Linda Ronstadt (1984–1988) Mellody Hobson (2007—)', "root['academyawards']": "'''Irving G. Thalberg Memorial Award''' 1992 Lifetime Achievement", "root['baftaawards']": "'''Britannia Award''' 2002 Excellence in Film", "root['goldenglobeawards']": "'''Golden Globe Award for Best Motion Picture - Musical or Comedy", "root['goldenraspberryawards']": "'''Worst Screenplay''' 2002 ''Star Wars Episode II: Attack of the Clones''", "root['awards']": "'''NSFC Award for Best Screenplay''' 1973 ''American Graffiti'' '''NYFCC Award for Best Screenplay''' 1973 ''American Graffiti'' '''Saturn Award for Best Direction''' 1977 ''Star Wars'' '''Saturn Award for Best Writing''' 1977 ''Star Wars'' '''AFI Life Achievement Award''' 2005 Lifetime Achievement "}}
+56: {'values_changed': {"root['baftaawards']": {'new_value': "'''Britannia Award''' 2002 Excellence in Film", 'old_value': "'''the pie Award''' 2002 Excellence in Film"}}}
+57: {'values_changed': {"root['baftaawards']": {'new_value': "'''the pie Award''' 2002 Excellence in Film", 'old_value': "'''Britannia Award''' 2002 Excellence in Film"}}}
+84: {'values_changed': {"root['birthplace']": {'new_value': 'Modesto, California, United States', 'old_value': 'Modesto, California, , United States'}}}
+90: {'values_changed': {"root['birthplace']": {'new_value': 'Modesto, California, , United States', 'old_value': 'Hong Kong, China, , China'}, "root['birthname']": {'new_value': 'George Walton Lucas, Jr.', 'old_value': 'George Washington Lucas, Jr.'}, "root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969–1983)', 'old_value': 'Lindsay Lucas née Griffin (1969–1983)'}}}
+92: {'values_changed': {"root['birthplace']": {'new_value': 'Hong Kong, China, , China', 'old_value': 'Modesto, California, , America'}, "root['birthname']": {'new_value': 'George Washington Lucas, Jr.', 'old_value': 'George Walton Lucas, Jr.'}, "root['spouse']": {'new_value': 'Lindsay Lucas née Griffin (1969–1983)', 'old_value': 'Lucas née Griffin (1969–1983)'}}}
+94: {'values_changed': {"root['birthplace']": {'new_value': 'Modesto, California, , America', 'old_value': 'Modesto, California, , United States'}}}
+95: {'values_changed': {"root['spouse']": {'new_value': 'Lucas née Griffin (1969–1983)', 'old_value': 'Marcia Lucas née Griffin (1969–1983)'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'George harpo Lucas'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'George harpo Lucas', 'old_value': 'George walton Lucas'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'George walton Lucas', 'old_value': 'George Walton Lucas'}}}
+104: {'values_changed': {"root['birthname']": {'new_value': 'George Walton Lucas, Jr.', 'old_value': 'George Heinrech Lucas, Jr.'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'George Walton Lucas', 'old_value': 'George walton Lucas'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'George walton Lucas', 'old_value': 'George Walton Lucas'}, "root['birthname']": {'new_value': 'George Heinrech Lucas, Jr.', 'old_value': 'George Walton Lucas, Jr.'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'George Walton Lucas', 'old_value': 'George Walton Lucas was a big wierdo head'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'George Walton Lucas was a big wierdo head', 'old_value': 'George Walton Lucas'}}}
+152: {'values_changed': {"root['name']": {'new_value': 'George Walton Lucas', 'old_value': 'George Vader Lucas'}}}
+153: {'values_changed': {"root['name']": {'new_value': 'George Vader Lucas', 'old_value': 'George Walton Lucas'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'George Walton Lucas', 'old_value': 'Jesus with a slice of master cheif'}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Jesus with a slice of master cheif', 'old_value': 'George Walton Lucas'}}}
+166: {'values_changed': {"root['baftaawards']": {'new_value': "'''Britannia Award''' 2002 Excellence in Film", 'old_value': "'''BAFTA Awards#Awards presented in Los Angeles"}}}
+242: {'dictionary_item_added': {"root['goldenraspberryawards']": "'''Worst Screenplay''' 2002 ''Star Wars Episode II: Attack of the Clones''"}, 'values_changed': {"root['name']": {'new_value': 'George Walton Lucas', 'old_value': 'George Lucas'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'Eli Melnick'}}}
+257: {'values_changed': {"root['name']": {'new_value': 'Eli Melnick', 'old_value': 'George Lucas'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'gsgsldfs,'}, "root['birthname']": {'new_value': 'George Walton Lucas, Jr.', 'old_value': 'ayvgakfgtvakf'}}}
+259: {'values_changed': {"root['name']": {'new_value': 'gsgsldfs,', 'old_value': 'George Lucas'}, "root['birthname']": {'new_value': 'ayvgakfgtvakf', 'old_value': 'George Walton Lucas, Jr.'}}}
+274: {'dictionary_item_added': {"root['spouse']": 'Marcia Lucas née Griffin (1969–1983)'}, 'values_changed': {"root['yearsactive']": {'new_value': '1965—', 'old_value': 'I was here!! MEEEE'}}}
+275: {'dictionary_item_removed': {"root['spouse']": 'Marcia Lucas née Griffin (1969–1983)'}, 'values_changed': {"root['yearsactive']": {'new_value': 'I was here!! MEEEE', 'old_value': '1965—'}}}
+279: {'dictionary_item_added': {"root['academyawards']": "'''Irving G. Thalberg Memorial Award''' 1992 Lifetime Achievement", "root['baftaawards']": "'''BAFTA Awards#Awards presented in Los Angeles", "root['goldenglobeawards']": "'''Golden Globe Award for Best Motion Picture - Musical or Comedy", "root['awards']": "'''NSFC Award for Best Screenplay''' 1973 ''American Graffiti'' '''NYFCC Award for Best Screenplay''' 1973 ''American Graffiti'' '''Saturn Award for Best Direction''' 1977 ''Star Wars'' '''Saturn Award for Best Writing''' 1977 ''Star Wars'' '''AFI Life Achievement Award''' 2005 Lifetime Achievement "}, 'values_changed': {"root['domesticpartner']": {'new_value': 'Linda Ronstadt (1984–1988) Mellody Hobson (2007—)', 'old_value': 'Linda Ronstadt (1984–1988) Mellody Hobson (2007—) '}}}
+308: {'values_changed': {"root['yearsactive']": {'new_value': '1965—', 'old_value': '1965—Present'}}}
+316: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'Geff Lucas'}}}
+318: {'values_changed': {"root['name']": {'new_value': 'Geff Lucas', 'old_value': 'George Lucas'}}}
+330: {'values_changed': {"root['domesticpartner']": {'new_value': 'Linda Ronstadt (1984–1988) Mellody Hobson (2007—) ', 'old_value': 'Mellody Hobson (2007—) '}}}
+332: {'values_changed': {"root['yearsactive']": {'new_value': '1965—Present', 'old_value': '1965—Present I'}, "root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969–1983)', 'old_value': 'Marcia Lucas née Griffin (1969–1983)Hate'}}}
+333: {'values_changed': {"root['yearsactive']": {'new_value': '1965—Present I', 'old_value': '1965—Present'}, "root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969–1983)Hate', 'old_value': 'Marcia Lucas née Griffin (1969–1983)'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'NERD NERD NERD NERD NERD NERD Sr.'}}}
+348: {'values_changed': {"root['name']": {'new_value': 'NERD NERD NERD NERD NERD NERD Sr.', 'old_value': 'George Lucas'}}}
+406: {'dictionary_item_added': {"root['birthplace']": 'Modesto, California, , United States', "root['birthname']": 'George Walton Lucas, Jr.'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'At Sea'}}}
+407: {'dictionary_item_removed': {"root['birthplace']": 'Modesto, California, , United States', "root['birthname']": 'George Walton Lucas, Jr.'}, 'values_changed': {"root['birthdate']": {'new_value': 'At Sea', 'old_value': 'birth date and age'}}}
+518: {'values_changed': {"root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969–1983)', 'old_value': 'Marcia Lucas née Griffin (1969-1983)'}, "root['domesticpartner']": {'new_value': 'Mellody Hobson (2007—) ', 'old_value': 'Mellody Hobson (2007-present) '}}}
+528: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'Kaleigh Thomas'}}}
+529: {'values_changed': {"root['name']": {'new_value': 'Kaleigh Thomas', 'old_value': 'George Lucas'}}}
+537: {'dictionary_item_removed': {"root['religion']": 'Buddhist Methodist'}}
+635: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'George shushas'}}}
+637: {'values_changed': {"root['name']": {'new_value': 'George shushas', 'old_value': 'George Lucas'}}}
+664: {'dictionary_item_removed': {"root['death']": 'death date and age'}, 'values_changed': {"root['yearsactive']": {'new_value': '1965—Present', 'old_value': '1965— 2009'}}}
+666: {'values_changed': {"root['domesticpartner']": {'new_value': 'Mellody Hobson (2007-present) ', 'old_value': 'Mellody Hobson (2007-2009) Death   2009/10/18 '}}}
+668: {'values_changed': {"root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969-1983)', 'old_value': 'Marcia Lucas née Griffin (1969-1983) Death   2009/10/18'}}}
+670: {'dictionary_item_added': {"root['death']": 'death date and age'}, 'values_changed': {"root['yearsactive']": {'new_value': '1965— 2009', 'old_value': '1965—Present'}, "root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969-1983) Death   2009/10/18', 'old_value': 'Marcia Lucas née Griffin (1969-1983)'}, "root['domesticpartner']": {'new_value': 'Mellody Hobson (2007-2009) Death   2009/10/18 ', 'old_value': 'Mellody Hobson (2007-present) '}}}
+677: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'Shelby Rose'}}}
+678: {'values_changed': {"root['name']": {'new_value': 'Shelby Rose', 'old_value': 'George Lucas'}}}
+684: {'dictionary_item_removed': {"root['deathdate']": 'death date'}, 'values_changed': {"root['yearsactive']": {'new_value': '1965—Present', 'old_value': '1965—2009'}, "root['domesticpartner']": {'new_value': 'Mellody Hobson (2007-present) ', 'old_value': 'Mellody Hobson (2007-2009) '}}}
+685: {'dictionary_item_added': {"root['deathdate']": 'death date'}, 'values_changed': {"root['yearsactive']": {'new_value': '1965—2009', 'old_value': '1965—Present'}, "root['domesticpartner']": {'new_value': 'Mellody Hobson (2007-2009) ', 'old_value': 'Mellody Hobson (2007-present) '}}}
+697: {'values_changed': {"root['birthplace']": {'new_value': 'Modesto, California, , United States', 'old_value': 'Jackson, Mississippi, , United States'}}}
+701: {'values_changed': {"root['birthplace']": {'new_value': 'Jackson, Mississippi, , United States', 'old_value': 'Modesto, California, , United States'}}}
+724: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'Gay for Ewoks'}}}
+725: {'values_changed': {"root['name']": {'new_value': 'Gay for Ewoks', 'old_value': 'George Lucas'}}}
+745: {'dictionary_item_removed': {"root['occupation']": 'Film Director/Producer'}}
+757: {'values_changed': {"root['occupation']": {'new_value': 'Film Director/Producer', 'old_value': 'Film director/producer'}}}
+759: {'values_changed': {"root['name']": {'new_value': 'George Lucas', 'old_value': 'George Lucas im a homosexual'}}}
+760: {'values_changed': {"root['name']": {'new_value': 'George Lucas im a homosexual', 'old_value': 'George Lucas'}}}
+776: {'dictionary_item_added': {"root['religion']": 'Buddhist Methodist'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'Birth date and age'}}}
+781: {'dictionary_item_added': {"root['name']": 'George Lucas', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Modesto, California, , United States', "root['yearsactive']": '1965—Present', "root['domesticpartner']": 'Mellody Hobson (2007-present) '}, 'dictionary_item_removed': {"root['residence']": 'Marin County, California', "root['education']": 'Modesto Junior College', "root['alma_mater']": 'University of Southern California  (B.A. and B.S.) <ref name', "root['networth']": 'Over $4 billion<ref name', "root['influences']": 'Akira Kurosawa,  <ref name', "root['home_town']": 'Central Valley (California)', "root['partner']": 'Mellody Hobson  (2007–present)  '}, 'values_changed': {"root['occupation']": {'new_value': 'Film director/producer', 'old_value': 'Chairman & CEO of Lucasfilm'}, "root['spouse']": {'new_value': 'Marcia Lucas née Griffin (1969-1983)', 'old_value': 'Marcia Lucas  (1969–1983)'}}}
+798: {'dictionary_item_added': {"root['networth']": 'Over $4 billion<ref name'}, 'dictionary_item_removed': {"root['net_worth']": 'United States dollar'}}
+799: {'dictionary_item_added': {"root['net_worth']": 'United States dollar'}, 'dictionary_item_removed': {"root['networth']": 'Over $4 billion<ref name'}}
+824: {'values_changed': {"root['networth']": {'new_value': 'Over $4 billion<ref name', 'old_value': '$3.9 billion (2013)<ref name'}}}
+841: {'dictionary_item_added': {"root['partner']": 'Mellody Hobson  (2007–present)  '}, 'values_changed': {"root['spouse']": {'new_value': 'Marcia Lucas  (1969–1983)', 'old_value': 'Marcia Lucas  (1969–1983)  Mellody Hobson  (2013–present)  '}}}
+842: {'values_changed': {"root['spouse']": {'new_value': 'Marcia Lucas  (1969–1983)  Mellody Hobson  (2013–present)  ', 'old_value': 'Marcia Lucas, Mellody Hobson '}}}
+853: {'dictionary_item_added': {"root['influences']": 'Akira Kurosawa,  <ref name'}, 'dictionary_item_removed': {"root['children']": '4 (3 adopted, 1 biological) '}, 'values_changed': {"root['spouse']": {'new_value': 'Marcia Lucas, Mellody Hobson ', 'old_value': 'marriage'}}}
+854: {'values_changed': {"root['children']": {'new_value': '4 (3 adopted, 1 biological) ', 'old_value': '4 '}}}
+869: {'values_changed': {"root['networth']": {'new_value': '$3.9 billion (2013)<ref name', 'old_value': '$7.3 billion (2013)<ref name'}}}
+870: {'values_changed': {"root['networth']": {'new_value': '$7.3 billion (2013)<ref name', 'old_value': '$3.9 billion (2013)<ref name'}}}
+876: {'values_changed': {"root['occupation']": {'new_value': 'Chairman & CEO of Lucasfilm', 'old_value': 'Former Chairman & CEO of Lucasfilm'}}}
+879: {'values_changed': {"root['networth']": {'new_value': '$3.9 billion (2013)<ref name', 'old_value': '$4.2 billion (2013)<ref name'}}}
+891: {'values_changed': {"root['residence']": {'new_value': 'Marin County, California', 'old_value': 'Marin County, California, U.S.'}, "root['occupation']": {'new_value': 'Former Chairman & CEO of Lucasfilm', 'old_value': 'Former chairman & CEO of Lucasfilm'}}}

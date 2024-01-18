@@ -1,0 +1,51 @@
+0: {'dictionary_item_removed': {"root['fields']": 'Mathematician', "root['known_for']": 'Fibonacci number Fibonacci prime Brahmagupta-Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system', "root['religion']": 'Catholic'}}
+2: {'values_changed': {"root['known_for']": {'new_value': 'Fibonacci number Fibonacci prime Brahmagupta-Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system', 'old_value': 'Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system'}}}
+54: {'dictionary_item_removed': {"root['workplaces']": 'In your mothers bed!'}}
+65: {'dictionary_item_added': {"root['workplaces']": 'In your mothers bed!'}, 'dictionary_item_removed': {"root['famous_quotes']": '"Why hello my dear Alex!"'}}
+67: {'values_changed': {"root['famous_quotes']": {'new_value': '"Why hello my dear Alex!"', 'old_value': '"Why Hello my dear Alex!"'}}}
+112: {'dictionary_item_added': {"root['famous_quotes']": '"Why Hello my dear Alex!"'}, 'values_changed': {"root['fields']": {'new_value': 'Mathematician', 'old_value': 'Scientist'}}}
+113: {'values_changed': {"root['fields']": {'new_value': 'Scientist', 'old_value': 'Mathematician'}}}
+134: {'dictionary_item_removed': {"root['awards']": 'nobel prize in mathmatics'}}
+151: {'dictionary_item_added': {"root['awards']": 'nobel prize in mathmatics'}, 'values_changed': {"root['known_for']": {'new_value': 'Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system', 'old_value': 'Having lots of sex.Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system'}}}
+152: {'values_changed': {"root['known_for']": {'new_value': 'Having lots of sex.Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system', 'old_value': 'Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system'}}}
+153: {'values_changed': {"root['fields']": {'new_value': 'Mathematician', 'old_value': 'math and science'}}}
+154: {'values_changed': {"root['fields']": {'new_value': 'math and science', 'old_value': 'Math'}}}
+155: {'values_changed': {"root['fields']": {'new_value': 'Math', 'old_value': 'Mathematician'}}}
+193: {'values_changed': {"root['known_for']": {'new_value': 'Fibonacci number Fibonacci prime Brahmagupta–Fibonacci identity Fibonacci polynomials Fibonacci pseudoprime Fibonacci word  Reciprocal Fibonacci constant Introduction of Hindu-Arabic numeral system', 'old_value': 'Fibonacci number, Fibonacci prime, Brahmagupta–Fibonacci identity, Fibonacci polynomials, Fibonacci pseudoprime, Fibonacci word,  Reciprocal Fibonacci constant, Introduction of Hindu-Arabic numeral system'}}}
+213: {'dictionary_item_added': {"root['fields']": 'Mathematician'}, 'dictionary_item_removed': {"root['ethnicity']": 'farts'}}
+214: {'dictionary_item_added': {"root['ethnicity']": 'farts'}, 'dictionary_item_removed': {"root['fields']": 'Mathematician'}}
+265: {'dictionary_item_removed': {"root['workplaces']": 'strip club'}, 'values_changed': {"root['fields']": {'new_value': 'Mathematician', 'old_value': 'prostitute'}}}
+266: {'dictionary_item_added': {"root['workplaces']": 'strip club'}, 'values_changed': {"root['fields']": {'new_value': 'prostitute', 'old_value': 'Prostitute'}}}
+267: {'values_changed': {"root['fields']": {'new_value': 'Prostitute', 'old_value': 'maths'}}}
+268: {'values_changed': {"root['fields']": {'new_value': 'maths', 'old_value': 'Mathematician'}}}
+293: {'dictionary_item_removed': {"root['parent']": 'Guglielmo Bonacci'}, 'values_changed': {"root['known_for']": {'new_value': 'Fibonacci number, Fibonacci prime, Brahmagupta–Fibonacci identity, Fibonacci polynomials, Fibonacci pseudoprime, Fibonacci word,  Reciprocal Fibonacci constant, Introduction of Hindu-Arabic numeral system', 'old_value': 'Fibonacci number, Introduction of Hindu–Arabic numeral system'}}}
+309: {'dictionary_item_removed': {"root['workplaces']": 'he was an italian stripper'}}
+442: {'dictionary_item_added': {"root['workplaces']": 'he was an italian stripper'}, 'values_changed': {"root['fields']": {'new_value': 'Mathematician', 'old_value': 'Smart Ass'}}}
+443: {'values_changed': {"root['fields']": {'new_value': 'Smart Ass', 'old_value': 'Mathematician'}}}
+449: {'dictionary_item_removed': {"root['workplaces']": '69', "root['alma_mater']": '69'}}
+452: {'values_changed': {"root['alma_mater']": {'new_value': '69', 'old_value': '12'}}}
+453: {'values_changed': {"root['parent']": {'new_value': 'Guglielmo Bonacci', 'old_value': 'Guglielmo Bonacci 69'}}}
+454: {'dictionary_item_added': {"root['workplaces']": '69', "root['alma_mater']": '12'}, 'values_changed': {"root['parent']": {'new_value': 'Guglielmo Bonacci 69', 'old_value': 'Guglielmo Bonacci'}}}
+460: {'values_changed': {"root['known_for']": {'new_value': 'Fibonacci number, Introduction of Hindu–Arabic numeral system', 'old_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Arabic numeral system'}}}
+498: {'dictionary_item_removed': {"root['notable_students']": 'RObert Downey Jr.'}}
+499: {'values_changed': {"root['religion']": {'new_value': 'Catholic', 'old_value': 'Jew'}}}
+504: {'dictionary_item_added': {"root['notable_students']": 'RObert Downey Jr.'}, 'values_changed': {"root['religion']": {'new_value': 'Jew', 'old_value': 'Catholic'}}}
+512: {'values_changed': {"root['parent']": {'new_value': 'Guglielmo Bonacci', 'old_value': 'Guglielmo Bonatti'}, "root['religion']": {'new_value': 'Catholic', 'old_value': 'Jew'}}}
+513: {'values_changed': {"root['parent']": {'new_value': 'Guglielmo Bonatti', 'old_value': 'Guglielmo Bonacci'}, "root['religion']": {'new_value': 'Jew', 'old_value': 'Catholic'}}}
+556: {'values_changed': {"root['known_for']": {'new_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Arabic numeral system', 'old_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Presian ( Iranian ) numeral system'}}}
+557: {'values_changed': {"root['known_for']": {'new_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Presian ( Iranian ) numeral system', 'old_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Arabic numeral system'}}}
+565: {'type_changes': {"root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'The Liber Abaci, Fibonacci number, The introduction of Hindu–Arabic numeral system'}}, 'dictionary_item_added': {"root['fields']": 'Mathematician', "root['parent']": 'Guglielmo Bonacci', "root['religion']": 'Catholic'}, 'dictionary_item_removed': {"root['occupation']": 'Mathematician'}}
+643: {'values_changed': {"root['occupation']": {'new_value': 'Mathematician', 'old_value': 'Mathematician, Pizza baker'}}}
+644: {'values_changed': {"root['occupation']": {'new_value': 'Mathematician, Pizza baker', 'old_value': 'Mathematician'}}}
+646: {'type_changes': {"root['known_for']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'being mentally retarded', 'new_value': []}}, 'values_changed': {"root['occupation']": {'new_value': 'Mathematician', 'old_value': 'hot dog eater'}}}
+647: {'type_changes': {"root['known_for']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'being mentally retarded'}}, 'values_changed': {"root['occupation']": {'new_value': 'hot dog eater', 'old_value': 'Mathematician'}}}
+672: {'values_changed': {"root['occupation']": {'new_value': 'Mathematician', 'old_value': 'Mathfuckematician'}}}
+673: {'values_changed': {"root['occupation']": {'new_value': 'Mathfuckematician', 'old_value': 'Mathematician'}}}
+674: {'dictionary_item_removed': {"root['parenlts']": 'Guglielmo Bonacci '}}
+708: {'dictionary_item_added': {"root['parenlts']": 'Guglielmo Bonacci '}, 'values_changed': {"root['occupation']": {'new_value': 'Mathematician', 'old_value': 'Math prodigy'}}}
+709: {'values_changed': {"root['occupation']": {'new_value': 'Math prodigy', 'old_value': 'Mathematician'}}}
+753: {'type_changes': {"root['known_for']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}}, 'dictionary_item_removed': {"root['name']": 'Fibonacci'}}
+772: {'values_changed': {"root['name']": {'new_value': 'Fibonacci', 'old_value': 'Foleyz'}}}
+773: {'values_changed': {"root['name']": {'new_value': 'Foleyz', 'old_value': 'Fibonacci'}}}
+783: {'values_changed': {"root['name']": {'new_value': 'Fibonacci', 'old_value': 'Sandra cunskis'}}}
+784: {'values_changed': {"root['name']": {'new_value': 'Sandra cunskis', 'old_value': 'Fibonacci'}}}

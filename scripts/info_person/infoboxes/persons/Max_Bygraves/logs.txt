@@ -1,0 +1,16 @@
+27: {'dictionary_item_removed': {"root['subject_name']": 'Max Bygraves', "root['image_name']": 'Max Bygraves.JPG', "root['image_caption']": 'Max Bygraves - CD cover.', "root['date_of_birth']": '16 October, 1922', "root['place_of_birth']": 'Rotherhithe, London, England, UK '}}
+33: {'dictionary_item_added': {"root['subject_name']": 'Max Bygraves', "root['image_name']": 'Max Bygraves.JPG', "root['image_caption']": 'Max Bygraves - CD cover.', "root['date_of_birth']": '16 October, 1922', "root['place_of_birth']": 'Rotherhithe, London, England, UK '}, 'dictionary_item_removed': {"root['name']": 'Max Bygraves', "root['Spouse']": 'Blossom Murray (1942-present) '}}
+40: {'dictionary_item_added': {"root['Spouse']": 'Blossom Murray (1942-present) '}, 'dictionary_item_removed': {"root['spouse']": 'Blossom Murray (m. 1942-2011, her death)'}}
+41: {'dictionary_item_removed': {"root['children']": '3 sons, 2 daughters '}, 'values_changed': {"root['spouse']": {'new_value': 'Blossom Murray (m. 1942-2011, her death)', 'old_value': 'Blossom Murray, (m. 1942-2011, her death)'}}}
+46: {'values_changed': {"root['spouse']": {'new_value': 'Blossom Murray, (m. 1942-2011, her death)', 'old_value': "Gladys 'Blossom' Murray, (m. 1942-2011, her death)"}}}
+68: {'values_changed': {"root['spouse']": {'new_value': "Gladys 'Blossom' Murray, (m. 1942-2011, her death)", 'old_value': "Gladys 'Blossom' Murray, (m. 1942–2011, her death)"}}}
+72: {'values_changed': {"root['children']": {'new_value': '3 sons, 2 daughters ', 'old_value': '3 sons, 3 daughters '}}}
+92: {'dictionary_item_added': {"root['children']": '3 sons, 3 daughters '}, 'values_changed': {"root['spouse']": {'new_value': "Gladys 'Blossom' Murray, (m. 1942–2011, her death)", 'old_value': "Gladys 'Blossom' Murray, (1942–2011, her death) "}}}
+191: {'values_changed': {"root['spouse']": {'new_value': "Gladys 'Blossom' Murray, (1942–2011, her death) ", 'old_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children'}}}
+202: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children', 'old_value': 'Gladys "Blossom" Murray, (1942–2011); 3 children, Christine, Anthony and Maxine'}}}
+205: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011); 3 children, Christine, Anthony and Maxine', 'old_value': 'Gladys "Blossom" Murray, (1942–2011; her death); 3 children'}}}
+207: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011; her death); 3 children', 'old_value': 'Gladys "Blossom" Murray, (1942–2011; her death); 3 children '}}}
+216: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011; her death); 3 children ', 'old_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children '}}}
+219: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children ', 'old_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children'}}}
+222: {'values_changed': {"root['spouse']": {'new_value': 'Gladys "Blossom" Murray, (1942–2011, her death); 3 children', 'old_value': 'Gladys "Blossom" Murray, (m. 1942–2011, her death); 3 children'}}}
+233: {'dictionary_item_removed': {"root['occupation']": 'English comedian, singer, actor and variety performer'}}

@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['name']": 'Viggo Mortensen', "root['birthname']": 'Viggo Peter Mortensen Jr.', "root['birthdate']": 'birth date and age', "root['location']": 'New York City, New York, USA', "root['yearsactive']": '1984 - present', "root['spouse']": 'Exene Cervenka (1987 - 1998)'}}
+45: {'dictionary_item_removed': {"root['academyawards']": '\'\'\'\'\'Nominated\'\'\' "Eastern Promises"\'\''}}
+83: {'dictionary_item_added': {"root['academyawards']": '\'\'\'\'\'Nominated\'\'\' "Eastern Promises"\'\''}, 'values_changed': {"root['yearsactive']": {'new_value': '1984 - present', 'old_value': '1984 - 2008'}}}
+84: {'values_changed': {"root['yearsactive']": {'new_value': '1984 - 2008', 'old_value': '1984 - present'}}}
+135: {'values_changed': {"root['location']": {'new_value': 'New York City, New York, USA', 'old_value': 'New York City, New York, United States'}}}
+155: {'dictionary_item_removed': {"root['sagawards']": "'''Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture", "root['awards']": 'Viggo Peter Mortensen Jr. | birthdate'}, 'values_changed': {"root['spouse']": {'new_value': 'Exene Cervenka (1987 - 1998)', 'old_value': 'Exene Cervenka (1987-1998)'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Viggo Mortensen', 'old_value': 'Alice Kramden'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Alice Kramden', 'old_value': 'Viggo Mortensen'}}}
+187: {'dictionary_item_added': {"root['name']": 'Viggo Mortensen', "root['location']": 'New York City, New York, United States'}, 'dictionary_item_removed': {"root['birthplace']": 'New York City, New York, United States'}}
+189: {'values_changed': {"root['awards']": {'new_value': 'Viggo Peter Mortensen Jr. | birthdate', 'old_value': "'''Outstanding Cast in a Motion Picture''', 2003 ''The Lord of the Rings: The Return of the King'' |"}}}
+191: {'values_changed': {"root['awards']": {'new_value': "'''Outstanding Cast in a Motion Picture''', 2003 ''The Lord of the Rings: The Return of the King'' |", 'old_value': 'Viggo Peter Mortensen Jr. | birthdate'}}}
+192: {'values_changed': {"root['awards']": {'new_value': 'Viggo Peter Mortensen Jr. | birthdate', 'old_value': "'''Outstanding Cast in a Motion Picture''', 2003 ''The Lord of the Rings: The Return of the King'' |"}}}
+217: {'values_changed': {"root['spouse']": {'new_value': 'Exene Cervenka (1987-1998)', 'old_value': 'Samantha Caughey (1997-present)'}}}
+224: {'values_changed': {"root['spouse']": {'new_value': 'Samantha Caughey (1997-present)', 'old_value': 'Exene Cervenka (1987-1998)'}}}
+300: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York, United States', 'old_value': 'WatertownNew York, United States'}}}
+301: {'values_changed': {"root['birthplace']": {'new_value': 'WatertownNew York, United States', 'old_value': 'Watertown (city), New York'}}}
+333: {'values_changed': {"root['birthplace']": {'new_value': 'Watertown (city), New York', 'old_value': 'New York City, New York State'}}}
+398: {'values_changed': {"root['birthname']": {'new_value': 'Viggo Peter Mortensen Jr.', 'old_value': 'Viggo Peter Mortensen, Jr.'}}}
+413: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York State', 'old_value': 'New York, New York State'}, "root['yearsactive']": {'new_value': '1984 - present', 'old_value': '1984 – present'}, "root['spouse']": {'new_value': 'Exene Cervenka (1987-1998)', 'old_value': 'Exene Cervenka, (1987–98)'}}}
+438: {'values_changed': {"root['birthname']": {'new_value': 'Viggo Peter Mortensen, Jr.', 'old_value': 'Viggo ken Mortensen, Jr.'}}}
+439: {'values_changed': {"root['birthname']": {'new_value': 'Viggo ken Mortensen, Jr.', 'old_value': 'Viggo Peter Mortensen, Jr.'}}}
+458: {'dictionary_item_removed': {"root['occupation']": 'Actor, Poet, Musician, Painter, Photographer'}, 'values_changed': {"root['birthplace']": {'new_value': 'New York, New York State', 'old_value': 'New York City, New York, United States'}, "root['spouse']": {'new_value': 'Exene Cervenka, (1987–98)', 'old_value': 'Exene Cervenka (1987–1998)'}}}
+467: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Poet, Musician, Painter, Photographer', 'old_value': 'Actor, Poet, Musician, Painter, Photographer,and making love to Kelly Sealy'}}}
+468: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Poet, Musician, Painter, Photographer,and making love to Kelly Sealy', 'old_value': 'Actor, Poet, Musician, Painter, Photographer'}}}
+473: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York, United States', 'old_value': 'New York City Prijepolje , United States'}}}
+475: {'values_changed': {"root['birthplace']": {'new_value': 'New York City Prijepolje , United States', 'old_value': 'New York City, New York, United States'}}}
+499: {'dictionary_item_added': {"root['sagawards']": "'''Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture", "root['awards']": "'''Outstanding Cast in a Motion Picture''', 2003 ''The Lord of the Rings: The Return of the King'' |"}, 'values_changed': {"root['spouse']": {'new_value': 'Exene Cervenka (1987–1998)', 'old_value': 'Exene Cervenka (1987–1998) '}}}
+602: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date and 51 age'}}}
+603: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and 51 age', 'old_value': 'birth date and age'}}}
+654: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Poet, Musician, Painter, Photographer', 'old_value': 'Actor, Poet, Musician, Photographer, Painter'}}}
+692: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, Poet, Musician, Photographer, Painter'}}, 'dictionary_item_added': {"root['birthname']": 'Viggo Peter Mortensen, Jr.', "root['birthdate']": 'birth date and age', "root['birthplace']": 'New York City, New York, United States', "root['yearsactive']": '1984 – present'}, 'dictionary_item_removed': {"root['alma_mater']": 'St. Lawrence University', "root['partner']": 'Ariadna Gil (2009–present)', "root['children']": '1 '}, 'values_changed': {"root['spouse']": {'new_value': 'Exene Cervenka (1987–1998) ', 'old_value': 'marriage'}}}
+717: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': 'Henry Mortensen '}}}
+751: {'values_changed': {"root['children']": {'new_value': 'Henry Mortensen ', 'old_value': '1 '}}}

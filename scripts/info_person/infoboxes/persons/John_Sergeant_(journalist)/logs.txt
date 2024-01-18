@@ -1,0 +1,8 @@
+9: {'dictionary_item_removed': {"root['name']": 'John Sergeant', "root['occupation']": 'Journalist, Broadcaster', "root['spouse']": 'Mary Smithies', "root['children']": '2'}}
+15: {'values_changed': {"root['occupation']": {'new_value': 'Journalist, Broadcaster', 'old_value': 'Journalist, Presenter'}}}
+82: {'dictionary_item_removed': {"root['education']": 'Great Tew Primary School, Bloxham School, Millfield School', "root['alma_mater']": 'Magdalen College, Oxford, Darlington College', "root['employer']": 'retired, freelance'}}
+83: {'dictionary_item_removed': {"root['residence']": 'Ealing, West London.'}}
+126: {'values_changed': {"root['residence']": {'new_value': 'Ealing, West London.', 'old_value': 'Ealing, West London'}, "root['employer']": {'new_value': 'retired, freelance', 'old_value': 'Retired, freelance'}}}
+127: {'values_changed': {"root['spouse']": {'new_value': 'Mary Smithies', 'old_value': 'Mary Smithie'}}}
+145: {'values_changed': {"root['occupation']": {'new_value': 'Journalist, Presenter', 'old_value': 'Journalist, broadcaster'}}}
+153: {'values_changed': {"root['residence']": {'new_value': 'Ealing, West London', 'old_value': 'Ealing, west London'}}}

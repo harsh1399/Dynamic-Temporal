@@ -1,0 +1,65 @@
+0: {'dictionary_item_removed': {"root['name']": 'Aretha Franklin', "root['residence']": 'Bloomfield Hills, Michigan', "root['occupation']": 'Flat list', "root['home_town']": 'Detroit, Michigan, U.S.', "root['religion']": 'Baptists in the United States', "root['children']": '4', "root['spouse']": 'marriage', "root['awards']": 'List of', "root['background']": 'solo_singer', "root['genre']": 'Flat list', "root['instrument']": 'Flat list', "root['label']": 'Flat list', "root['associated_acts']": 'Flat list'}}
+35: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': 'Lisa Bonet'}}}
+36: {'values_changed': {"root['children']": {'new_value': 'Lisa Bonet', 'old_value': '4'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Franklin   Presidential Medal of Freedom'}}}
+42: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin   Presidential Medal of Freedom', 'old_value': 'Aretha Franklin'}}}
+60: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['jazz', 'Rhythm and blues'], 'new_value': 'Flat list'}}}
+61: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flat list', 'new_value': ['jazz', 'Rhythm and blues']}}}
+70: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+71: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'Aretha Franklin'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'Aretha Franklin'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+77: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'Aretha Franklin'}}}
+111: {'dictionary_item_added': {"root['religion']": 'Baptists in the United States'}, 'values_changed': {"root['home_town']": {'new_value': 'Detroit, Michigan, U.S.', 'old_value': 'Detroit, Michigan'}}}
+129: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '5'}}}
+130: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '5 (Joe, Foe, Hoe, Low, Albert)'}}}
+131: {'values_changed': {"root['children']": {'new_value': '5 (Joe, Foe, Hoe, Low, Albert)', 'old_value': '4'}}}
+137: {'values_changed': {"root['occupation']": {'new_value': 'Flat list', 'old_value': 'Singer'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Posada'}, "root['occupation']": {'new_value': 'Singer', 'old_value': 'Ser hermosa'}, "root['children']": {'new_value': '4', 'old_value': '0'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Aretha Posada', 'old_value': 'Aretha Franklin'}, "root['occupation']": {'new_value': 'Ser hermosa', 'old_value': 'Singer'}, "root['children']": {'new_value': '0', 'old_value': '4'}}}
+161: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ["thumb|Franklin's birthplace at 406 Lucy Ave. in Memphis, Tennessee. |"], 'new_value': 'Flat list'}}, 'dictionary_item_added': {"root['instrument']": 'Flat list', "root['label']": 'Flat list', "root['associated_acts']": 'Flat list'}}
+162: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flat list', 'new_value': ["thumb|Franklin's birthplace at 406 Lucy Ave. in Memphis, Tennessee. |"]}}, 'dictionary_item_removed': {"root['instrument']": 'Flat list', "root['label']": 'Flat list', "root['associated_acts']": 'Flat list'}}
+167: {'values_changed': {"root['occupation']": {'new_value': 'Singer', 'old_value': 'Singer, Song Writer'}}}
+168: {'values_changed': {"root['occupation']": {'new_value': 'Singer, Song Writer', 'old_value': 'Singer, Songwriter'}}}
+190: {'values_changed': {"root['occupation']": {'new_value': 'Singer, Songwriter', 'old_value': 'Singer and songwriter'}}}
+193: {'values_changed': {"root['occupation']": {'new_value': 'Singer and songwriter', 'old_value': 'Flat list'}}}
+255: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Frankling'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'Aretha Frankling', 'old_value': 'Aretha Franklin'}}}
+270: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Franklin aka Zeus "Phat Z" "Chuycharron" Ochoa'}, "root['awards']": {'new_value': 'List of', 'old_value': 'List of awards received by Aretha Franklin'}}}
+271: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin aka Zeus "Phat Z" "Chuycharron" Ochoa', 'old_value': 'Aretha Franklin'}, "root['awards']": {'new_value': 'List of awards received by Aretha Franklin', 'old_value': 'List of'}}}
+295: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards received by Aretha Franklin'}}}
+296: {'values_changed': {"root['awards']": {'new_value': 'List of awards received by Aretha Franklin', 'old_value': 'List of'}}}
+381: {'values_changed': {"root['home_town']": {'new_value': 'Detroit, Michigan', 'old_value': 'Detroit'}}}
+400: {'dictionary_item_removed': {"root['death']": 'Death date and age'}}
+539: {'dictionary_item_added': {"root['death']": 'Death date and age', "root['residence']": 'Bloomfield Hills, Michigan'}, 'values_changed': {"root['home_town']": {'new_value': 'Detroit', 'old_value': 'Detroit, Michigan, U.S.'}}}
+762: {'values_changed': {"root['instrument']": {'new_value': 'Flat list', 'old_value': 'Flatlist'}, "root['label']": {'new_value': 'Flat list', 'old_value': 'Flatlist'}, "root['associated_acts']": {'new_value': 'Flat list', 'old_value': 'Flatlist'}}}
+970: {'dictionary_item_added': {"root['associated_acts']": 'Flatlist'}, 'values_changed': {"root['home_town']": {'new_value': 'Detroit, Michigan, U.S.', 'old_value': 'Memphis, Tennessee U.S.'}, "root['awards']": {'new_value': 'List of', 'old_value': 'List of awards received by Aretha Franklin'}}}
+971: {'values_changed': {"root['home_town']": {'new_value': 'Memphis, Tennessee U.S.', 'old_value': 'Detroit, Michigan, U.S.'}, "root['awards']": {'new_value': 'List of awards received by Aretha Franklin', 'old_value': 'List of'}}}
+1005: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+1006: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'a Franklin'}}}
+1007: {'values_changed': {"root['name']": {'new_value': 'a Franklin', 'old_value': 'Aretha Franklin'}}}
+1009: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards received by Aretha Franklin'}}}
+1010: {'values_changed': {"root['home_town']": {'new_value': 'Detroit, Michigan, U.S.', 'old_value': 'Detroit, Michigan'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+1084: {'values_changed': {"root['awards']": {'new_value': 'List of awards received by Aretha Franklin', 'old_value': 'List of awards and nominations received by Aretha Franklin'}}}
+1093: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha tim'}}}
+1094: {'values_changed': {"root['name']": {'new_value': 'Aretha tim', 'old_value': 'Aretha Franklin'}}}
+1185: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+1186: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'Aretha Franklin'}}}
+1187: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Urethra Franklin'}}}
+1188: {'values_changed': {"root['name']": {'new_value': 'Urethra Franklin', 'old_value': 'Aretha Franklin'}}}
+1214: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha DickButt'}}}
+1215: {'values_changed': {"root['name']": {'new_value': 'Aretha DickButt', 'old_value': 'Aretha Franklin'}}}
+1216: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Dick Butt'}}}
+1217: {'values_changed': {"root['name']": {'new_value': 'Aretha Dick Butt', 'old_value': 'Aretha Franklin'}}}
+1220: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Aretha Franklin Kayleah Scott'}}}
+1221: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin Kayleah Scott', 'old_value': 'Aretha Franklin'}, "root['children']": {'new_value': '4', 'old_value': '2'}}}
+1222: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '4'}}}
+1286: {'values_changed': {"root['home_town']": {'new_value': 'Detroit, Michigan', 'old_value': 'Detroit,'}}}
+1287: {'values_changed': {"root['home_town']": {'new_value': 'Detroit,', 'old_value': 'Detroit, Michigan'}}}
+1306: {'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'The Best Singer Ever'}}}
+1307: {'values_changed': {"root['name']": {'new_value': 'The Best Singer Ever', 'old_value': 'Aretha Franklin'}}}
+1316: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+1336: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['name']": {'new_value': 'Aretha Franklin', 'old_value': 'Jim Marentette'}}}
+1337: {'values_changed': {"root['name']": {'new_value': 'Jim Marentette', 'old_value': 'Jim Marentette is my dawg'}}}
+1338: {'values_changed': {"root['name']": {'new_value': 'Jim Marentette is my dawg', 'old_value': 'Aretha Franklin'}}}

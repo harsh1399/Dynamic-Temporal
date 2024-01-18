@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Meg Ryan', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Fairfield, Connecticut', "root['birthname']": 'Margaret Mary Emily Anne Hyra', "root['spouse']": 'Dennis Quaid (1991-2001)', "root['active']": '1981 - present', "root['americancomedyawards']": "'''Funniest Actress in a Motion Picture (Leading Role)''', 1989 ''When Harry Met Sally...'', 1993 ''Sleepless in Seattle'' "}}
+47: {'values_changed': {"root['birthplace']": {'new_value': 'Fairfield, Connecticut', 'old_value': 'Bethel, Connecticut'}}}
+55: {'values_changed': {"root['spouse']": {'new_value': 'Dennis Quaid (1991-2001)', 'old_value': 'Dennis Quaid (1991–2001)'}, "root['americancomedyawards']": {'new_value': "'''Funniest Actress in a Motion Picture (Leading Role)''', 1989 ''When Harry Met Sally...'', 1993 ''Sleepless in Seattle'' ", 'old_value': "'''Funniest Actress in a Motion Picture (Leading Role)''' 1989 ''When Harry Met Sally...'' 1993 ''Sleepless in Seattle'' "}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Meg Ryan', 'old_value': 'Meg bryan'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'Meg bryan', 'old_value': 'Meg Ryan'}}}
+80: {'dictionary_item_added': {"root['active']": '1981 - present'}, 'dictionary_item_removed': {"root['occupation']": 'Actress', "root['yearsactive']": '1981–present'}, 'values_changed': {"root['birthplace']": {'new_value': 'Bethel, Connecticut', 'old_value': 'Bethel, Connecticut, United States'}}}
+81: {'values_changed': {"root['birthplace']": {'new_value': 'Bethel, Connecticut, United States', 'old_value': 'Fairfield, Connecticut, United States'}}}
+82: {'values_changed': {"root['birthplace']": {'new_value': 'Fairfield, Connecticut, United States', 'old_value': 'Fairfield, Connecticut, U.S.'}}}
+85: {'values_changed': {"root['birthplace']": {'new_value': 'Fairfield, Connecticut, U.S.', 'old_value': 'Fairfield, Connecticut, USA'}, "root['americancomedyawards']": {'new_value': "'''Funniest Actress in a Motion Picture (Leading Role)''' 1989 ''When Harry Met Sally...'' 1993 ''Sleepless in Seattle'' ", 'old_value': "'''Funniest Actress in a Motion Picture (Leading Role)''' 1989 ''When Harry Met Sally...'' 1993 ''Sleepless in Seattle''  "}}}
+112: {'dictionary_item_added': {"root['americancomedyawards']": "'''Funniest Actress in a Motion Picture (Leading Role)''' 1989 ''When Harry Met Sally...'' 1993 ''Sleepless in Seattle''  "}, 'values_changed': {"root['yearsactive']": {'new_value': '1981–present', 'old_value': '1981–present '}}}
+115: {'values_changed': {"root['birthplace']": {'new_value': 'Fairfield, Connecticut, USA', 'old_value': 'Fairfield, Connecticut, United States'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Meg Ryan', 'old_value': 'Meg fuck'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'Meg fuck', 'old_value': 'Meg Ryan'}}}
+132: {'values_changed': {"root['yearsactive']": {'new_value': '1981–present ', 'old_value': '1986–present '}}}
+147: {'values_changed': {"root['spouse']": {'new_value': 'Dennis Quaid (1991–2001)', 'old_value': 'Dennis Quaid (14 February 1991 – 16 July 2001) (divorced); 1 son'}}}
+148: {'values_changed': {"root['spouse']": {'new_value': 'Dennis Quaid (14 February 1991 – 16 July 2001) (divorced); 1 son', 'old_value': 'Dennis Quaid (1991–2001)'}}}
+190: {'values_changed': {"root['birthname']": {'new_value': 'Margaret Mary Emily Anne Hyra', 'old_value': 'Margaret Mary Emily Hyra'}}}
+198: {'values_changed': {"root['yearsactive']": {'new_value': '1986–present ', 'old_value': '1981–present '}}}

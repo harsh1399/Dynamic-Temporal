@@ -1,0 +1,54 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Michel Demitri Chalhoub', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Alexandria, Egypt', "root['spouse']": 'Faten Hamama (1954-1974)', "root['occupation']": 'actor, singer, screenwriter, producer', "root['yearsactive']": '1954 - present', "root['cesarawards']": "'''César Award for Best Actor", "root['goldenglobeawards']": "'''Golden Globe Award for New Star of the Year - Actor", "root['awards']": "'''Best Actor''', 2003 ''Monsieur Ibrahim'' | goldenglobe"}}
+45: {'values_changed': {"root['occupation']": {'new_value': 'actor, singer, screenwriter, producer', 'old_value': 'Actor'}, "root['yearsactive']": {'new_value': '1954 - present', 'old_value': '1954 – present'}}}
+66: {'dictionary_item_added': {"root['cesarawards']": "'''César Award for Best Actor", "root['goldenglobeawards']": "'''Golden Globe Award for New Star of the Year - Actor", "root['awards']": "'''Best Actor''', 2003 ''Monsieur Ibrahim'' | goldenglobe"}, 'values_changed': {"root['yearsactive']": {'new_value': '1954 – present', 'old_value': '1954 – present '}}}
+124: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1954-1974)', 'old_value': 'Faten Hamama (1955-1974)'}}}
+125: {'values_changed': {"root['birthplace']": {'new_value': 'Alexandria, Egypt', 'old_value': 'Alexandria, Egypt or Greece http://books.google.com/books?id'}, "root['spouse']": {'new_value': 'Faten Hamama (1955-1974)', 'old_value': 'Faten Hamama (1954-1974)'}}}
+130: {'values_changed': {"root['birthplace']": {'new_value': 'Alexandria, Egypt or Greece http://books.google.com/books?id', 'old_value': 'Alexandria, Egypt'}}}
+177: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1954-1974)', 'old_value': 'Faten Hamama (1955-1974)'}}}
+182: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1955-1974)', 'old_value': 'Faten Hamama (1955&ndash;1974)'}, "root['yearsactive']": {'new_value': '1954 – present ', 'old_value': '1954&ndash;present '}}}
+183: {'values_changed': {"root['birthname']": {'new_value': 'Michel Demitri Chalhoub', 'old_value': 'Michel Demitri Shalhoub'}}}
+184: {'values_changed': {"root['birthname']": {'new_value': 'Michel Demitri Shalhoub', 'old_value': 'Michael Demitri Shalhoub'}}}
+199: {'values_changed': {"root['birthname']": {'new_value': 'Michael Demitri Shalhoub', 'old_value': 'Michel Demitri Chalhoub'}, "root['spouse']": {'new_value': 'Faten Hamama (1955&ndash;1974)', 'old_value': 'Faten Hamama (1955-1974)'}, "root['yearsactive']": {'new_value': '1954&ndash;present ', 'old_value': '1954 – present '}}}
+240: {'values_changed': {"root['birthname']": {'new_value': 'Michel Demitri Chalhoub', 'old_value': 'Michael Demitri Shalhoub'}}}
+283: {'values_changed': {"root['birthname']": {'new_value': 'Michael Demitri Shalhoub', 'old_value': 'Michel Demitri Shalhoub'}}}
+310: {'dictionary_item_added': {"root['birthname']": 'Michel Demitri Shalhoub', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Alexandria, Egypt', "root['yearsactive']": '1954 – present '}, 'dictionary_item_removed': {"root['name']": 'Omar Sharif', "root['education']": 'Victoria College, Alexandria', "root['alma_mater']": 'Cairo University', "root['awards']": [], "root['children']": 'One son '}, 'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1955-1974)', 'old_value': 'Faten Hamama (1954–74)'}}}
+386: {'values_changed': {"root['children']": {'new_value': 'One son ', 'old_value': 'Tarek El-Sharif '}}}
+408: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif', 'old_value': 'Omar Sharif ( GNF )'}}}
+409: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif ( GNF )', 'old_value': 'Omar Sharif'}}}
+410: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif', 'old_value': 'Omar "farting master" Sharif'}}}
+411: {'values_changed': {"root['name']": {'new_value': 'Omar "farting master" Sharif', 'old_value': 'Omar Sharif'}}}
+441: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1954–74)', 'old_value': 'Faten Hamama (1954–1974)'}}}
+459: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif', 'old_value': 'Omar Sharif, عمر الشريف'}}}
+462: {'dictionary_item_added': {"root['spouse']": 'Faten Hamama (1954–1974)', "root['children']": 'Tarek El-Sharif '}, 'iterable_item_removed': {"root['awards'][0]": 'César Award (2004)', "root['awards'][1]": 'Golden Globe Award (1962, 1963 ,1965)'}}
+463: {'dictionary_item_removed': {"root['spouse']": 'Faten Hamama (1954–1974)', "root['children']": 'Tarek El-Sharif '}, 'iterable_item_added': {"root['awards'][0]": 'César Award (2004)', "root['awards'][1]": 'Golden Globe Award (1962, 1963 ,1965)'}}
+477: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif, عمر الشريف', 'old_value': 'Omar El  Sharif, عمر الشريف'}}}
+486: {'values_changed': {"root['name']": {'new_value': 'Omar El  Sharif, عمر الشريف', 'old_value': 'Omar Sharif, عمر الشريف'}}}
+512: {'dictionary_item_removed': {"root['ethnicity']": 'Lebanese'}}
+556: {'dictionary_item_added': {"root['ethnicity']": 'Lebanese'}, 'values_changed': {"root['name']": {'new_value': 'Omar Sharif, عمر الشريف', 'old_value': 'Omar Al Sharif, عمر الشريف'}}}
+570: {'dictionary_item_removed': {"root['Nationality']": 'Egyptian'}}
+578: {'values_changed': {"root['children']": {'new_value': 'Tarek El-Sharif ', 'old_value': 'Tarek El-Sharif Osama bin laden '}}}
+579: {'values_changed': {"root['children']": {'new_value': 'Tarek El-Sharif Osama bin laden ', 'old_value': 'Tarek El-Sharif '}}}
+586: {'values_changed': {"root['children']": {'new_value': 'Tarek El-Sharif ', 'old_value': 'Tarek El-Sharif Osama bin laden   '}}}
+587: {'values_changed': {"root['children']": {'new_value': 'Tarek El-Sharif Osama bin laden   ', 'old_value': 'Tarek El-Sharif '}}}
+646: {'dictionary_item_added': {"root['Nationality']": 'Egyptian'}, 'values_changed': {"root['name']": {'new_value': 'Omar Al Sharif, عمر الشريف', 'old_value': 'Omar Sharif, عمر الشريف'}}}
+671: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif, عمر الشريف', 'old_value': 'Omar Sharif عمر الشريف'}}}
+783: {'dictionary_item_added': {"root['education']": 'Victoria College, Alexandria', "root['alma_mater']": 'Cairo University', "root['occupation']": 'Actor', "root['awards']": [], "root['spouse']": 'Faten Hamama (1954–1974)', "root['children']": 'Tarek El-Sharif '}, 'dictionary_item_removed': {"root['date']": 'Birth'}}
+786: {'dictionary_item_added': {"root['date']": 'Birth'}, 'dictionary_item_removed': {"root['education']": 'Victoria College, Alexandria', "root['alma_mater']": 'Cairo University', "root['occupation']": 'Actor', "root['awards']": [], "root['spouse']": 'Faten Hamama (1954–1974)', "root['children']": 'Tarek El-Sharif '}}
+862: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (1954–1974)', 'old_value': 'Faten Hamama ((5 February 1955 - 1974)'}, "root['children']": {'new_value': 'Tarek El-Sharif ', 'old_value': 'Tarek Sharif '}}}
+863: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama ((5 February 1955 - 1974)', 'old_value': 'Faten Hamama (5 February 1955 - 1974)'}}}
+866: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (5 February 1955 - 1974)', 'old_value': 'Faten Hamama (5 February 1955 - 1974, divorce)'}}}
+870: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (5 February 1955 - 1974, divorce)', 'old_value': 'Faten Hamama (5 February 1955 - 1974, divorce) .'}}}
+871: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (5 February 1955 - 1974, divorce) .', 'old_value': 'Faten Hamama (5 February 1955 - 1974, divorce)'}}}
+873: {'values_changed': {"root['spouse']": {'new_value': 'Faten Hamama (5 February 1955 - 1974, divorce)', 'old_value': 'Faten Hamama (1955 - 1974, divorce)'}}}
+878: {'dictionary_item_removed': {"root['Religion']": 'Islam'}}
+879: {'dictionary_item_added': {"root['Religion']": 'Islam'}, 'dictionary_item_removed': {"root['religion']": 'Islam'}}
+886: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Atheist'}}}
+895: {'values_changed': {"root['religion']": {'new_value': 'Atheist', 'old_value': 'Islam'}}}
+904: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Islam http://askville.amazon.com/Omar-Sharif-converted-Islam-Christianity/AnswerViewer.do?requestId'}}}
+905: {'values_changed': {"root['religion']": {'new_value': 'Islam http://askville.amazon.com/Omar-Sharif-converted-Islam-Christianity/AnswerViewer.do?requestId', 'old_value': 'Islam'}}}
+907: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Judaism'}}}
+908: {'values_changed': {"root['religion']": {'new_value': 'Judaism', 'old_value': 'Islam'}}}
+909: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Catholic (1932-1955)   Islam (1955-2015)'}}}
+945: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif عمر الشريف', 'old_value': 'Omar Sharif'}, "root['religion']": {'new_value': 'Catholic (1932-1955)   Islam (1955-2015)', 'old_value': "Islam  (1955–2015)  ,  ''prev.'' Catholic Church"}, "root['alma_mater']": {'new_value': 'Cairo University', 'old_value': 'Cairo University, Royal Academy of Dramatic Art'}, "root['spouse']": {'new_value': 'Faten Hamama (1955 - 1974, divorce)', 'old_value': 'marriage'}, "root['children']": {'new_value': 'Tarek Sharif ', 'old_value': '1 '}}}
+958: {'values_changed': {"root['name']": {'new_value': 'Omar Sharif', 'old_value': 'Omar Essam'}, "root['religion']": {'new_value': "Islam  (1955–2015)  ,  ''prev.'' Catholic Church", 'old_value': "Islam  (1955–2015)  ,  ''prev.'' Catholic (1932–1955)  "}, "root['children']": {'new_value': '1 ', 'old_value': '1'}}}
+959: {'values_changed': {"root['name']": {'new_value': 'Omar Essam', 'old_value': 'Omar Sharif'}, "root['children']": {'new_value': '1', 'old_value': '1 '}, "root['religion']": {'new_value': "Islam  (1955–2015)  ,  ''prev.'' Catholic (1932–1955)  ", 'old_value': "Islam  (1955–2015)  ,  ''prev.'' Catholic Church"}}}

@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['name']": 'Barbara Windsor', "root['birthdate']": 'Birth date and age', "root['location']": 'Shoreditch, London, UK', "root['birthname']": 'Barbara Ann Deeks', "root['occupation']": 'Actress', "root['yearsactive']": 'Since 1950', "root['spouse']": 'Ronnie Knight  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  '}}
+60: {'dictionary_item_added': {"root['location']": 'Shoreditch, London, UK'}, 'dictionary_item_removed': {"root['birthplace']": 'Shoreditch, London, UK'}}
+63: {'values_changed': {"root['yearsactive']": {'new_value': 'Since 1950', 'old_value': '1950–present'}}}
+75: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'porn star/soap star'}, "root['yearsactive']": {'new_value': '1950–present', 'old_value': '1950–2010'}, "root['spouse']": {'new_value': 'Ronnie Knight  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  ', 'old_value': 'Arron keith  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  '}}}
+76: {'values_changed': {"root['occupation']": {'new_value': 'porn star/soap star', 'old_value': 'Actress'}, "root['yearsactive']": {'new_value': '1950–2010', 'old_value': '1950–present'}, "root['spouse']": {'new_value': 'Arron keith  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  ', 'old_value': 'Ronnie Knight  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  '}}}
+77: {'values_changed': {"root['birthplace']": {'new_value': 'Shoreditch, London, UK', 'old_value': 'Shoreditch, London, England'}, "root['spouse']": {'new_value': 'Ronnie Knight  (1964–85) , Stephen Hollings  (1986–95) , Scott Mitchell  (2000–present)  ', 'old_value': 'Ronnie Knight  (1964–85) (divorced) , Stephen Hollings  (1986–95) (divorced) , Scott Mitchell  (2000–present)  '}}}
+78: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Barbara Mitchell'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'Barbara Mitchell', 'old_value': 'Barbara Windsor'}}}
+159: {'dictionary_item_added': {"root['birthdate']": 'Birth date and age', "root['birthplace']": 'Shoreditch, London, England', "root['birthname']": 'Barbara Ann Deeks', "root['yearsactive']": '1950–present'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress d'}}}
+160: {'values_changed': {"root['occupation']": {'new_value': 'Actress d', 'old_value': 'Actress'}}}
+161: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actor'}}}
+162: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actress'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Barbara Windsor SEX QUEEN'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor SEX QUEEN', 'old_value': 'Barbara Windsor'}}}
+179: {'dictionary_item_removed': {"root['Died']": 'Death date and age'}}
+192: {'dictionary_item_added': {"root['Died']": 'Death date and age'}, 'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Barbara Windsor MBE'}}}
+193: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor MBE', 'old_value': 'Barbara Windsor'}}}
+271: {'values_changed': {"root['spouse']": {'new_value': 'Ronnie Knight  (1964–85) (divorced) , Stephen Hollings  (1986–95) (divorced) , Scott Mitchell  (2000–present)  ', 'old_value': 'Ronnie Knight  (1964–85), (divorced)  Stephen Hollings  (1986–95) (divorced)  Scott Mitchell  (2000–present)  '}}}
+274: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Barbara Windsor Order of the British Empire'}}}
+288: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor Order of the British Empire', 'old_value': 'Barbara windy Windsor Order of the British Empire'}}}
+289: {'values_changed': {"root['name']": {'new_value': 'Barbara windy Windsor Order of the British Empire', 'old_value': 'Barbara Windsor Order of the British Empire'}}}
+398: {'dictionary_item_removed': {"root['net_worth']": 'steady £8.7 million (2014)<ref name'}, 'values_changed': {"root['name']": {'new_value': 'Barbara Windsor Order of the British Empire', 'old_value': 'Dame Barbara Windsor'}, "root['spouse']": {'new_value': 'Ronnie Knight  (1964–85), (divorced)  Stephen Hollings  (1986–95) (divorced)  Scott Mitchell  (2000–present)  ', 'old_value': 'Ronnie Knight,  (m. 1964–85, divorced)  Stephen Hollings,   (m. 1986–95, divorced)  Scott Mitchell  (m. 2000)'}}}
+401: {'dictionary_item_removed': {"root['residence']": 'Manchester, England'}}
+417: {'dictionary_item_added': {"root['residence']": 'Manchester, England'}, 'values_changed': {"root['name']": {'new_value': 'Dame Barbara Windsor', 'old_value': 'Dame Barbaraaaaaa Windsor'}}}
+418: {'values_changed': {"root['name']": {'new_value': 'Dame Barbaraaaaaa Windsor', 'old_value': 'Dame Barbara Windsor'}}}
+430: {'values_changed': {"root['name']": {'new_value': 'Dame Barbara Windsor', 'old_value': 'Barbara Windsor'}}}
+431: {'values_changed': {"root['spouse']": {'new_value': 'Ronnie Knight,  (m. 1964–85, divorced)  Stephen Hollings,   (m. 1986–95, divorced)  Scott Mitchell  (m. 2000)', 'old_value': '1985|e'}}}
+432: {'values_changed': {"root['spouse']": {'new_value': '1985|e', 'old_value': 'marriage'}}}
+444: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Dame Barbara Windsor'}}}
+446: {'values_changed': {"root['name']": {'new_value': 'Dame Barbara Windsor', 'old_value': 'Barbara Windsor'}}}
+456: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Dame Barbara Windsor'}}}
+457: {'values_changed': {"root['name']": {'new_value': 'Dame Barbara Windsor', 'old_value': 'Barbara Windsor'}}}
+487: {'values_changed': {"root['net_worth']": {'new_value': 'steady £8.7 million (2014)<ref name', 'old_value': 'steady £9 million (2018)<ref name'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Barbara Windsor', 'old_value': 'Peggy Mitchell'}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Peggy Mitchell', 'old_value': 'Barbara Windsor'}}}
+634: {'dictionary_item_removed': {"root['known_for']": "Role of Peggy Mitchell in ''EastEnders'' (1994–2010, 2013–2016)"}}
+649: {'values_changed': {"root['net_worth']": {'new_value': 'steady £9 million (2018)<ref name', 'old_value': 'steady £100 million (2018)<ref name'}}}
+650: {'values_changed': {"root['net_worth']": {'new_value': 'steady £100 million (2018)<ref name', 'old_value': 'steady £9 million (2018)<ref name'}}}
+653: {'values_changed': {"root['known_for']": {'new_value': "Role of Peggy Mitchell in ''EastEnders'' (1994–2010, 2013–2016)", 'old_value': "Role of '''Peggy Mitchell''' in ''EastEnders'' (1994–2010, 2013–2016)"}}}
+879: {'dictionary_item_added': {"root['known_for']": "Role of '''Peggy Mitchell''' in ''EastEnders'' (1994–2010, 2013–2016)"}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Porn star'}}}
+880: {'values_changed': {"root['occupation']": {'new_value': 'Porn star', 'old_value': 'actress'}}}
+888: {'values_changed': {"root['occupation']": {'new_value': 'actress', 'old_value': 'Actor'}}}
+1028: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['marriage'], 'new_value': 'marriage'}}, 'dictionary_item_added': {"root['name']": 'Barbara Windsor', "root['net_worth']": 'steady £9 million (2018)<ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actress'}}}
+1042: {'dictionary_item_removed': {"root['name']": 'Barbara Windsor'}}

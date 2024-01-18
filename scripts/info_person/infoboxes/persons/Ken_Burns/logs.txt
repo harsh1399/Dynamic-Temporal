@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ken Burns', "root['birthname']": 'Kenneth Lauren Burns', "root['birthdate']": 'birth date and age', "root['location']": 'Brooklyn, New York City', "root['spouse']": 'Julie Deborah Brown (2003-present), Amy Stechler Burns (1982-1993)', "root['emmyawards']": "'''Outstanding Individual Achievement - Informational Programming''', 1991 ''The Civil War'' '''Outstanding Informational Series''', 1991 ''The Civil War'', 1995 ''JAZZ'',  '''Outstanding Nonfiction Special''', 2005 ''Unforgivable Blackness: The Rise and Fall of Jack Johnson'' "}}
+67: {'dictionary_item_added': {"root['location']": 'Brooklyn, New York City', "root['emmyawards']": "'''Outstanding Individual Achievement - Informational Programming''', 1991 ''The Civil War'' '''Outstanding Informational Series''', 1991 ''The Civil War'', 1995 ''JAZZ'',  '''Outstanding Nonfiction Special''', 2005 ''Unforgivable Blackness: The Rise and Fall of Jack Johnson'' "}, 'dictionary_item_removed': {"root['birthplace']": 'Brooklyn, New York City'}}
+100: {'values_changed': {"root['birthplace']": {'new_value': 'Brooklyn, New York City', 'old_value': 'Brooklyn, New York City, U.S.'}}}
+121: {'dictionary_item_added': {"root['birthname']": 'Kenneth Lauren Burns', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Brooklyn, New York City, U.S.'}, 'dictionary_item_removed': {"root['alma_mater']": 'Hampshire College'}, 'values_changed': {"root['spouse']": {'new_value': 'Julie Deborah Brown (2003-present), Amy Stechler Burns (1982-1993)', 'old_value': 'Amy Stechler Burns (1982–1993) Julie Deborah Brown (2003–present)'}}}
+155: {'dictionary_item_removed': {"root['children']": '2'}}
+156: {'dictionary_item_removed': {"root['occupation']": 'documentary filmmaker'}}
+167: {'values_changed': {"root['occupation']": {'new_value': 'documentary filmmaker', 'old_value': 'mocumentary filmmaker'}}}
+168: {'values_changed': {"root['occupation']": {'new_value': 'mocumentary filmmaker', 'old_value': 'documentary filmmaker'}}}
+178: {'dictionary_item_removed': {"root['residence']": 'Walpole, New Hampshire, U.S.  '}, 'values_changed': {"root['occupation']": {'new_value': 'documentary filmmaker', 'old_value': 'Filmmaker'}, "root['spouse']": {'new_value': 'Amy Stechler Burns (1982–1993) Julie Deborah Brown (2003–present)', 'old_value': 'marriage'}, "root['children']": {'new_value': '2', 'old_value': '4'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Mr.Clean'}}}
+212: {'values_changed': {"root['name']": {'new_value': 'Mr.Clean', 'old_value': 'Ken Burns'}}}
+322: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States}'}, 'values_changed': {"root['residence']": {'new_value': 'Walpole, New Hampshire, U.S.  ', 'old_value': 'Walpole, New Hampshire, U.S.  }'}}}
+323: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States}', 'old_value': 'Democratic Party (United States)'}, "root['residence']": {'new_value': 'Walpole, New Hampshire, U.S.  }', 'old_value': 'Walpole, New Hampshire, U.S.  '}}}
+339: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Ken Burns the god'}}}
+340: {'values_changed': {"root['name']": {'new_value': 'Ken Burns the god', 'old_value': 'Ken Burns'}}}
+341: {'values_changed': {"root['occupation']": {'new_value': 'Filmmaker', 'old_value': 'Adult Filmmaker'}}}
+342: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Ken Burns the man the myth the legend'}}}
+343: {'values_changed': {"root['name']": {'new_value': 'Ken Burns the man the myth the legend', 'old_value': 'Ken Burns'}, "root['occupation']": {'new_value': 'Adult Filmmaker', 'old_value': 'Filmmaker'}}}
+344: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Ken Burns “Bernie”'}}}
+345: {'values_changed': {"root['name']": {'new_value': 'Ken Burns “Bernie”', 'old_value': 'Ken Burns'}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Ken Burns steak when he cooks it.'}}}
+347: {'values_changed': {"root['name']": {'new_value': 'Ken Burns steak when he cooks it.', 'old_value': 'Ken Burns'}}}
+348: {'values_changed': {"root['name']": {'new_value': 'Ken Burns', 'old_value': 'Ken Burns the god.'}}}
+349: {'values_changed': {"root['name']": {'new_value': 'Ken Burns the god.', 'old_value': 'Ken Burns'}}}
+355: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4, including Sarah Burns (writer filmmaker)'}}}
+370: {'values_changed': {"root['alma_mater']": {'new_value': 'Hampshire College', 'old_value': 'Hampshire College, Brown University (Honorary degree'}}}
+372: {'values_changed': {"root['alma_mater']": {'new_value': 'Hampshire College, Brown University (Honorary degree', 'old_value': 'Hampshire College'}}}
+392: {'dictionary_item_removed': {"root['notable_works']": "''The Civil War (miniseries)"}}
+414: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': '4, including Sarah Burns (writer filmmaker)'}}, 'values_changed': {"root['notable_works']": {'new_value': "''The Civil War (miniseries)", 'old_value': 'ubl'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}

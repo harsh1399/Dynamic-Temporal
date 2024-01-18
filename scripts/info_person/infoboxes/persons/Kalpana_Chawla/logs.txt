@@ -1,0 +1,67 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kalpana Chawla, ਕਲਪਨਾ ਚਾਵਲਾ, कल्\u200dपना चावला', "root['type']": 'Astronaut', "root['status']": "'''Deceased'''", "root['date_birth']": 'March 17, 1962', "root['date_death']": 'February 1, 2003 (aged 40)', "root['place_birth']": 'Karnal, Haryana, India', "root['place_death']": 'Over Texas', "root['previous_occupation']": 'Scientist', "root['selection']": 'List of astronauts by selection#1994', "root['time']": '31d 14h 54m', "root['mission']": 'STS-87, STS-107', "root['insignia']": '|'}}
+2: {'values_changed': {"root['date_birth']": {'new_value': 'March 17, 1962', 'old_value': 'july 1, 1961'}}}
+4: {'values_changed': {"root['date_birth']": {'new_value': 'july 1, 1961', 'old_value': 'July 1, 1961'}, "root['date_death']": {'new_value': 'February 1, 2003 (aged 40)', 'old_value': 'February 1, 2003 (aged 41)'}}}
+50: {'values_changed': {"root['date_birth']": {'new_value': 'July 1, 1961', 'old_value': 'March 17, 1962'}, "root['date_death']": {'new_value': 'February 1, 2003 (aged 41)', 'old_value': 'February 1, 2003 (aged 40)'}}}
+67: {'dictionary_item_removed': {"root['spouse']": 'Jean-Pierre Harrison'}}
+70: {'dictionary_item_added': {"root['spouse']": 'Jean-Pierre Harrison'}, 'values_changed': {"root['date_birth']": {'new_value': 'March 17, 1962', 'old_value': 'July 1, 1961'}}}
+72: {'values_changed': {"root['date_death']": {'new_value': 'February 1, 2003 (aged 40)', 'old_value': 'February 1, 2003 (aged 41)'}}}
+87: {'dictionary_item_added': {"root['type']": 'Astronaut'}, 'values_changed': {"root['date_birth']": {'new_value': 'July 1, 1961', 'old_value': 'March 17, 1962'}, "root['date_death']": {'new_value': 'February 1, 2003 (aged 41)', 'old_value': 'February 1, 2003 (aged 40)'}}}
+120: {'values_changed': {"root['place_death']": {'new_value': 'Over Texas', 'old_value': 'Over Texes'}}}
+121: {'values_changed': {"root['place_death']": {'new_value': 'Over Texes', 'old_value': 'Over Texas'}}}
+146: {'dictionary_item_added': {"root['status']": "'''Deceased'''", "root['date_birth']": 'March 17, 1962', "root['date_death']": 'February 1, 2003 (aged 40)', "root['place_birth']": 'Karnal, Haryana, India', "root['place_death']": 'Over Texas', "root['previous_occupation']": 'Scientist'}, 'dictionary_item_removed': {"root['alma_mater']": 'Punjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder', "root['awards']": 'CS Medal of Honor '}, 'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla, ਕਲਪਨਾ ਚਾਵਲਾ, कल्\u200dपना चावला', 'old_value': 'Kalpana Chawla'}, "root['time']": {'new_value': '31d 14h 54m', 'old_value': '31d 14h 54min'}, "root['insignia']": {'new_value': '|', 'old_value': 'File:Sts-87-patch.svg'}}}
+160: {'values_changed': {"root['time']": {'new_value': '31d 14h 54min', 'old_value': '15days 14hour 13min'}}}
+177: {'values_changed': {"root['time']": {'new_value': '15days 14hour 13min', 'old_value': '31 days, 14 hours, 54 minutes<ref name'}}}
+209: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'sexiKalpana Chawla'}}}
+210: {'values_changed': {"root['name']": {'new_value': 'sexiKalpana Chawla', 'old_value': 'sexi Kalpana Chawla'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'sexi Kalpana Chawla', 'old_value': 'shobhit love  Kalpana Chawla'}}}
+212: {'values_changed': {"root['name']": {'new_value': 'shobhit love  Kalpana Chawla', 'old_value': 'shobhit love Kalpana Chawla'}}}
+213: {'values_changed': {"root['name']": {'new_value': 'shobhit love Kalpana Chawla', 'old_value': 'Kalpana Chawla'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana parthv'}}}
+251: {'values_changed': {"root['name']": {'new_value': 'Kalpana parthv', 'old_value': 'Kalpana Chawla'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Khalpana Chawla'}}}
+310: {'values_changed': {"root['name']": {'new_value': 'Khalpana Chawla', 'old_value': 'Khalpana Chawa'}}}
+311: {'values_changed': {"root['name']": {'new_value': 'Khalpana Chawa', 'old_value': 'Khalpana Chawla'}}}
+312: {'values_changed': {"root['name']": {'new_value': 'Khalpana Chawla', 'old_value': 'Kalpana Chawla'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Khalpana Chawla'}}}
+314: {'values_changed': {"root['name']": {'new_value': 'Khalpana Chawla', 'old_value': 'Kalpana Chawla'}}}
+325: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'kalpana Chawla'}, "root['awards']": {'new_value': 'CS Medal of Honor ', 'old_value': 'CS Medal of Honor }'}}}
+326: {'values_changed': {"root['name']": {'new_value': 'kalpana Chawla', 'old_value': 'Kalpana Chawla'}, "root['awards']": {'new_value': 'CS Medal of Honor }', 'old_value': 'CS Medal of Honor '}}}
+353: {'dictionary_item_removed': {"root['Picture']": 'Kalpana Chawla, NASA photo portrait in orange suit.jpg'}}
+377: {'dictionary_item_added': {"root['Picture']": 'Kalpana Chawla, NASA photo portrait in orange suit.jpg'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Punjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder', 'old_value': 'PECPunjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder'}}}
+378: {'values_changed': {"root['alma_mater']": {'new_value': 'PECPunjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder', 'old_value': '(PEC-Chandigarh, INDIA) Punjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder'}}}
+450: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana lad saheb'}}}
+451: {'values_changed': {"root['name']": {'new_value': 'Kalpana lad saheb', 'old_value': 'Kalpana Chawla'}}}
+479: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Dr.Kalpana Chawla'}}}
+480: {'values_changed': {"root['name']": {'new_value': 'Dr.Kalpana Chawla', 'old_value': 'Kalpana Chawla'}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chawl'}}}
+525: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawl', 'old_value': 'Kalpana Chawla'}}}
+541: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chawla is the best person on earth'}}}
+542: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla is the best person on earth', 'old_value': 'Kalpana Chawla'}}}
+543: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chamar'}}}
+544: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chamar', 'old_value': 'Kalpana Chawla'}}}
+578: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana halwaa'}}}
+579: {'values_changed': {"root['name']": {'new_value': 'Kalpana halwaa', 'old_value': 'Kalpana Chawla'}}}
+595: {'values_changed': {"root['alma_mater']": {'new_value': '(PEC-Chandigarh, INDIA) Punjab Engineering College   University of Texas at Arlington   University of Colorado at Boulder', 'old_value': 'Punjab Engineering College (B.E.'}}}
+609: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chawla(rajma chawala)'}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla(rajma chawala)', 'old_value': 'Kalpana Chawla'}}}
+665: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chawla nick name '}}}
+667: {'dictionary_item_added': {"root['awards']": 'CS Medal of Honor '}, 'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla nick name ', 'old_value': 'Kalpana Chawla nick name }'}}}
+668: {'dictionary_item_removed': {"root['awards']": 'CS Medal of Honor '}, 'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla nick name }', 'old_value': 'Kalpana Chawla nick name '}}}
+669: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla nick name ', 'old_value': 'Kalpana Chawla'}}}
+710: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana Chawla the hero'}}}
+711: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla the hero', 'old_value': 'Kalpana Chawla the amazing'}}}
+713: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla the amazing', 'old_value': 'Kalpana Chawla'}}}
+729: {'values_changed': {"root['awards']": {'new_value': 'CS Medal of Honor ', 'old_value': 'CS Medal of Honour '}}}
+730: {'values_changed': {"root['awards']": {'new_value': 'CS Medal of Honour ', 'old_value': 'CS Medal of Honor '}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'KC'}}}
+732: {'values_changed': {"root['name']": {'new_value': 'KC', 'old_value': 'Kalpana chawla'}}}
+737: {'values_changed': {"root['name']": {'new_value': 'Kalpana chawla', 'old_value': 'Kalpana Chawla'}}}
+781: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana chawla'}}}
+782: {'values_changed': {"root['name']": {'new_value': 'Kalpana chawla', 'old_value': 'Kalpana Chawla'}}}
+810: {'values_changed': {"root['awards']": {'new_value': 'CS Medal of Honor ', 'old_value': 'CS Medal of Honor'}}}
+834: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'Kalpana chawla'}}}
+835: {'values_changed': {"root['name']": {'new_value': 'Kalpana chawla', 'old_value': 'Kalpana Chawla'}}}
+852: {'values_changed': {"root['name']": {'new_value': 'Kalpana Chawla', 'old_value': 'K'}}}
+853: {'values_changed': {"root['name']": {'new_value': 'K', 'old_value': 'Kalpana Chawla'}}}
+868: {'dictionary_item_removed': {"root['spouse']": '1983|2003|reas'}}
+869: {'values_changed': {"root['spouse']": {'new_value': '1983|2003|reas', 'old_value': 'marriage'}}}

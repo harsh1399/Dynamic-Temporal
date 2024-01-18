@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Denzel Washington', "root['alma_mater']": 'Fordham University, B.A. 1977', "root['occupation']": 'Actor, director, producer', "root['spouse']": 'marriage', "root['children']": '4, including John David Washington | net worth'}}
+27: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel Washington aka Denzel, WA 98208'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington aka Denzel, WA 98208', 'old_value': 'Denzel Washington'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel H. Washington'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'Denzel H. Washington', 'old_value': 'Denzel Washington'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel(playa) Washington'}}}
+69: {'values_changed': {"root['name']": {'new_value': 'Denzel(playa) Washington', 'old_value': 'Denzel Washington'}}}
+73: {'dictionary_item_removed': {"root['Religion']": 'Christianity'}}
+101: {'dictionary_item_added': {"root['Religion']": 'Christianity'}, 'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Jeremiah Bigby'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'Jeremiah Bigby', 'old_value': 'Denzel Washington'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel Washington the legend'}, "root['occupation']": {'new_value': 'Actor, director, producer', 'old_value': 'Porn star, producer'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington the legend', 'old_value': 'Denzel Washington'}, "root['occupation']": {'new_value': 'Porn star, producer', 'old_value': 'Actor, director, producer'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel Washington the legend'}}}
+106: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington the legend', 'old_value': 'Denzel Washington'}}}
+107: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington', 'old_value': 'Denzel Washington.'}}}
+108: {'values_changed': {"root['name']": {'new_value': 'Denzel Washington.', 'old_value': 'Denzel Washington'}}}
+111: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, director, producer'}}, 'values_changed': {"root['alma_mater']": {'new_value': 'Fordham University, B.A. 1977', 'old_value': 'Fordham University'}}}
+168: {'values_changed': {"root['children']": {'new_value': '4, including John David Washington | net worth', 'old_value': '¡6, including John David Washington and George Washington | net worth'}}}
+169: {'values_changed': {"root['children']": {'new_value': '¡6, including John David Washington and George Washington | net worth', 'old_value': '4, including John David Washington | net worth'}}}
+182: {'dictionary_item_added': {"root['alma_mater']": 'Fordham University'}, 'dictionary_item_removed': {"root['education']": 'Fordham University small'}}
+190: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, director, producer', 'new_value': []}}, 'dictionary_item_added': {"root['education']": 'Fordham University small'}}
+192: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, director, producer'}}, 'dictionary_item_removed': {"root['alma_mater']": 'Fordham University (Bachelor of Arts', "root['works']": 'Denzel Washington on screen and stage', "root['awards']": 'Full list '}, 'values_changed': {"root['children']": {'new_value': '4, including John David Washington | net worth', 'old_value': '4, including John David Washington'}}}
+209: {'dictionary_item_added': {"root['alma_mater']": 'Fordham University (Bachelor of Arts'}, 'dictionary_item_removed': {"root['education']": 'Fordham University (Bachelor of Arts'}}
+259: {'values_changed': {"root['awards']": {'new_value': 'Full list ', 'old_value': 'border Presidential Medal of Freedom (2022), Full list '}}}

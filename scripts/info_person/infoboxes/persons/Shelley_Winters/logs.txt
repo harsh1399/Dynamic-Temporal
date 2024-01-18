@@ -1,0 +1,5 @@
+165: {'dictionary_item_removed': {"root['birthdate']": 'August 18, 1920', "root['deathdate']": 'January 14, 2006'}}
+174: {'dictionary_item_removed': {"root['name']": 'Shelley Winters'}}
+184: {'dictionary_item_removed': {"root['birthname']": "'''Bold text'''im hot"}}
+193: {'dictionary_item_removed': {"root['location']": 'flagicon', "root['deathplace']": 'Beverly Hills, California'}, 'values_changed': {"root['birthname']": {'new_value': "'''Bold text'''im hot", 'old_value': 'Shirley Schrift'}, "root['deathdate']": {'new_value': 'January 14, 2006', 'old_value': 'January 14, 2006, age #expr:(2006)-(1920)-((1)<(8)or(1)'}}}
+194: {'dictionary_item_removed': {"root['bgcolour']": 'silver'}}

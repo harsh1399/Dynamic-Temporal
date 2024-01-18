@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sid Meier', "root['occupation']": 'Game designer', "root['spouse']": 'Susan Meier', "root['children']": 'Ryan Meier '}}
+43: {'dictionary_item_removed': {"root['employer']": 'Firaxis Games', "root['known_for']": 'Civilization (series)'}}
+52: {'dictionary_item_removed': {"root['alma_mater']": 'University of Michigan'}, 'values_changed': {"root['occupation']": {'new_value': 'Game designer', 'old_value': 'Game programmer, video game designer, video game producer'}, "root['employer']": {'new_value': 'Firaxis Games', 'old_value': '2K Games'}, "root['known_for']": {'new_value': 'Civilization (series)', 'old_value': 'MicroProse, Firaxis Games, Civilization (series)'}}}
+116: {'values_changed': {"root['spouse']": {'new_value': 'Susan Meier', 'old_value': 'Matt Connor'}, "root['children']": {'new_value': 'Ryan Meier ', 'old_value': 'Corey Greenwood, Batman, DonkeyKong, Billie Fox '}}}
+117: {'dictionary_item_added': {"root['spouse']": 'Matt Connor'}, 'dictionary_item_removed': {"root['interests']": 'boys'}}
+118: {'dictionary_item_added': {"root['interests']": 'boys'}, 'dictionary_item_removed': {"root['spouse']": 'Matt Connor'}}
+119: {'values_changed': {"root['spouse']": {'new_value': 'Matt Connor', 'old_value': 'Susan Meier'}, "root['children']": {'new_value': 'Corey Greenwood, Batman, DonkeyKong, Billie Fox ', 'old_value': 'Ryan Meier '}}}
+131: {'values_changed': {"root['known_for']": {'new_value': 'MicroProse, Firaxis Games, Civilization (series)', 'old_value': 'MicroPros, Firaxis Games, Civilization (series)'}}}
+132: {'values_changed': {"root['known_for']": {'new_value': 'MicroPros, Firaxis Games, Civilization (series)', 'old_value': 'MicroProse, Firaxis Games, Civilization (series)'}}}
+146: {'dictionary_item_removed': {"root['awards']": 'Academy of Interactive Arts & Sciences#Hall of Fame'}}

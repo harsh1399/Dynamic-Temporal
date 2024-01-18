@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kenny Baker', "root['occupation']": 'Actor | years active'}}
+62: {'values_changed': {"root['occupation']": {'new_value': 'Actor | years active', 'old_value': 'Actor'}}}
+63: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor | years active'}}}
+196: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '2 '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor | years active', 'old_value': 'Actor'}}}
+200: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2 | years active'}}}
+208: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor and Musician'}}}
+224: {'values_changed': {"root['occupation']": {'new_value': 'Actor and Musician', 'old_value': 'Actor, musician'}}}
+242: {'dictionary_item_removed': {"root['known']": 'R2-D2 in the Star Wars (film series)'}}
+286: {'dictionary_item_added': {"root['known']": 'R2-D2 in the Star Wars (film series)'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Eileen Baker (1970–1993; her death)'}}}
+326: {'values_changed': {"root['children']": {'new_value': '2 | years active', 'old_value': '3 | years active'}}}
+327: {'values_changed': {"root['children']": {'new_value': '3 | years active', 'old_value': '2 | years active'}}}
+328: {'values_changed': {"root['occupation']": {'new_value': 'Actor, musician', 'old_value': 'Actor, comedian, musician'}}}
+330: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, musician', 'old_value': 'Actor, musician'}}}

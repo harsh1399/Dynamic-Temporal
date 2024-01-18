@@ -1,0 +1,12 @@
+90: {'dictionary_item_removed': {"root['occupation']": 'Actor, producer, screenwriter, singer-songwriter, comedian', "root['spouse']": 'Deborah Falconer, (1992–2004), Susan Downey, (2005–present)', "root['children']": '2 '}}
+105: {'values_changed': {"root['spouse']": {'new_value': 'Deborah Falconer, (1992–2004), Susan Downey, (2005–present)', 'old_value': 'ubl'}}}
+172: {'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'marriage'}}}
+173: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+180: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, screenwriter, singer-songwriter, comedian', 'old_value': 'Actor, filmmaker, singer'}}}
+193: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}}}
+214: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}}
+215: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Deborah Falconer (m. 1992-2004) Susan Downey (m. 2005)'}}}
+218: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2 Indio Falconer Downey, Exton Elias Downey '}}}
+219: {'values_changed': {"root['children']": {'new_value': '2 Indio Falconer Downey, Exton Elias Downey ', 'old_value': '2 '}}}
+227: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '3 '}}}
+236: {'values_changed': {"root['spouse']": {'new_value': 'Deborah Falconer (m. 1992-2004) Susan Downey (m. 2005)', 'old_value': 'married'}}}

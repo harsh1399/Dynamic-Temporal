@@ -1,0 +1,36 @@
+100: {'dictionary_item_removed': {"root['name']": 'Prince Bandar bin Sultan', "root['spouse']": 'Haifa bint Faisal', "root['succession']": 'National Security Council (Saudi Arabia)', "root['reign']": 'since 16 October 2005', "root['succession1']": 'Saudi Ambassador to the United States', "root['reign1']": '1983–2005', "root['successor1']": 'Turki bin Faisal Al Saud', "root['house']": 'House of Saud'}}
+152: {'dictionary_item_removed': {"root['religion']": 'Islam '}}
+164: {'dictionary_item_added': {"root['successor1']": 'Turki bin Faisal Al Saud'}, 'dictionary_item_removed': {"root['succession2']": 'Saudi Ambassador to the United States', "root['reign2']": '1983–2005', "root['successor2']": 'Turki bin Faisal Al Saud'}, 'values_changed': {"root['succession']": {'new_value': 'National Security Council (Saudi Arabia)', 'old_value': 'General Intelligence Directorate'}, "root['reign']": {'new_value': 'since 16 October 2005', 'old_value': '20 July 2012—present'}, "root['succession1']": {'new_value': 'Saudi Ambassador to the United States', 'old_value': 'National Security Council (Saudi Arabia)'}, "root['reign1']": {'new_value': '1983–2005', 'old_value': '16 October 2005—20 July 2012'}}}
+166: {'values_changed': {"root['succession']": {'new_value': 'General Intelligence Directorate', 'old_value': "Director General of Al Mukhabarat Al A'amah"}}}
+172: {'values_changed': {"root['reign1']": {'new_value': '16 October 2005—20 July 2012', 'old_value': '16 October 2005—present'}}}
+174: {'values_changed': {"root['reign']": {'new_value': '20 July 2012—present', 'old_value': '19 July 2012—present'}}}
+189: {'values_changed': {"root['reign2']": {'new_value': '1983–2005', 'old_value': '24 October 1983–8 September 2005<ref name'}}}
+198: {'values_changed': {"root['reign']": {'new_value': '19 July 2012—present', 'old_value': '19 July 2012—22 july 2012'}, "root['reign1']": {'new_value': '16 October 2005—present', 'old_value': '16 October 2005—22 july 2012'}}}
+199: {'values_changed': {"root['reign']": {'new_value': '19 July 2012—22 july 2012', 'old_value': '19 July 2012—present'}, "root['reign1']": {'new_value': '16 October 2005—22 july 2012', 'old_value': '16 October 2005—present'}}}
+206: {'values_changed': {"root['reign']": {'new_value': '19 July 2012—present', 'old_value': '19 July 2012-26 July 2012'}, "root['reign1']": {'new_value': '16 October 2005—present', 'old_value': '16 October 2005—26 July 2012'}}}
+212: {'values_changed': {"root['reign']": {'new_value': '19 July 2012-26 July 2012', 'old_value': '19 July 2012 - present'}, "root['reign1']": {'new_value': '16 October 2005—26 July 2012', 'old_value': '16 October 2005 - present'}}}
+215: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 - present', 'old_value': '19 July 2012 - 24 July 2012'}, "root['reign1']": {'new_value': '16 October 2005 - present', 'old_value': '16 October 2005 - 24 July 2012'}}}
+216: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 - 24 July 2012', 'old_value': '19 July 2012 - present'}, "root['reign1']": {'new_value': '16 October 2005 - 24 July 2012', 'old_value': '16 October 2005 - present'}}}
+253: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 - present', 'old_value': '19 July 2012 - 23 July 2012'}}}
+254: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 - 23 July 2012', 'old_value': '19 July 2012 - present'}}}
+269: {'dictionary_item_removed': {"root['regent']": 'Abdullah of Saudi Arabia', "root['regent1']": 'Abdullah of Saudi Arabia', "root['regent2']": 'Fahd of Saudi Arabia'}}
+286: {'dictionary_item_removed': {"root['predecessor1']": "''Office established''"}}
+288: {'dictionary_item_added': {"root['religion']": 'Islam '}, 'dictionary_item_removed': {"root['predecessor2']": 'Faisal Al-Hujailan'}, 'values_changed': {"root['succession']": {'new_value': "Director General of Al Mukhabarat Al A'amah", 'old_value': "Al Mukhabarat Al A'amah"}, "root['reign']": {'new_value': '19 July 2012 - present', 'old_value': '19 July 2012 – present'}, "root['reign1']": {'new_value': '16 October 2005 - present', 'old_value': '16 October 2005 – present'}, "root['reign2']": {'new_value': '24 October 1983–8 September 2005<ref name', 'old_value': '24 October 1983–8 September 2005'}}}
+300: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 – present', 'old_value': '19 July 2012 – 15 April 2014'}}}
+314: {'values_changed': {"root['predecessor2']": {'new_value': 'Faisal Al-Hujailan', 'old_value': 'Faisal Al Hujailan'}}}
+323: {'values_changed': {"root['regent']": {'new_value': 'Abdullah of Saudi Arabia', 'old_value': 'Salman of Saudi Arabia'}}}
+325: {'values_changed': {"root['regent1']": {'new_value': 'Abdullah of Saudi Arabia', 'old_value': 'Salman of Saudi Arabia'}}}
+326: {'values_changed': {"root['regent1']": {'new_value': 'Salman of Saudi Arabia', 'old_value': 'Abdullah of Saudi Arabia'}}}
+327: {'values_changed': {"root['regent1']": {'new_value': 'Abdullah of Saudi Arabia', 'old_value': 'Salman of Saudi Arabia'}}}
+328: {'values_changed': {"root['regent']": {'new_value': 'Salman of Saudi Arabia', 'old_value': 'Abdullah of Saudi Arabia'}, "root['regent1']": {'new_value': 'Salman of Saudi Arabia', 'old_value': 'Abdullah of Saudi Arabia'}}}
+333: {'values_changed': {"root['reign2']": {'new_value': '24 October 1983–8 September 2005', 'old_value': '24 October 1983 – 8 September 2005'}}}
+339: {'values_changed': {"root['reign1']": {'new_value': '16 October 2005 – present', 'old_value': '16 October 2005 – January 2015'}}}
+341: {'values_changed': {"root['reign1']": {'new_value': '16 October 2005 – January 2015', 'old_value': '16 October 2005 – 30 January 2015'}}}
+345: {'values_changed': {"root['name']": {'new_value': 'Prince Bandar bin Sultan', 'old_value': 'Bandar bin Sultan'}, "root['reign1']": {'new_value': '16 October 2005 – 30 January 2015', 'old_value': '16 October 2005 – 29 January 2015'}}}
+348: {'dictionary_item_removed': {"root['successor1']": "''Office abolished''"}}
+366: {'dictionary_item_added': {"root['regent']": 'Abdullah of Saudi Arabia'}, 'values_changed': {"root['reign']": {'new_value': '19 July 2012 – 15 April 2014', 'old_value': '19 July 2012 –'}}}
+367: {'dictionary_item_removed': {"root['regent']": 'Abdullah of Saudi Arabia'}, 'values_changed': {"root['reign']": {'new_value': '19 July 2012 –', 'old_value': '19 July 2012 – 15 April 2014'}}}
+368: {'values_changed': {"root['reign']": {'new_value': '19 July 2012 – 15 April 2014', 'old_value': '19 July 2012 –'}}}
+369: {'values_changed': {"root['succession']": {'new_value': "Al Mukhabarat Al A'amah", 'old_value': 'Arab League General Secretariat'}}}
+370: {'values_changed': {"root['succession']": {'new_value': 'Arab League General Secretariat', 'old_value': 'Arab League'}}}
+371: {'values_changed': {"root['succession']": {'new_value': 'Arab League', 'old_value': "Al Mukhabarat Al A'amah"}, "root['reign']": {'new_value': '19 July 2012 –', 'old_value': '19 July 2012 – 15 April 2014'}}}

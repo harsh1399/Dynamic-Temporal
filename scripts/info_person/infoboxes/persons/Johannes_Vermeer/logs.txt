@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Johannes Vermeer', "root['birthdate']": 'Baptized birth date', "root['location']": 'Delft, Dutch Republic', "root['deathdate']": 'death date and age', "root['deathplace']": 'Delft, Dutch Republic', "root['field']": 'Painting', "root['movement']": 'Baroque painting', "root['works']": 'About 35 paintings have been attributed'}}
+30: {'dictionary_item_removed': {"root['awards']": 'Being sexist and a rude idiot awarded to him by the Americans '}}
+32: {'dictionary_item_added': {"root['awards']": 'Being sexist and a rude idiot awarded to him by the Americans '}, 'dictionary_item_removed': {"root['bgcolour']": '#EEDD82'}}
+33: {'dictionary_item_added': {"root['movement']": 'Baroque painting'}, 'dictionary_item_removed': {"root['birthname']": 'hi'}}
+35: {'dictionary_item_added': {"root['birthname']": 'hi'}, 'dictionary_item_removed': {"root['movement']": 'Baroque painting'}}
+188: {'dictionary_item_added': {"root['location']": 'Delft, Dutch Republic'}, 'dictionary_item_removed': {"root['training']": 'mi edc'}}
+195: {'dictionary_item_added': {"root['training']": 'mi edc'}, 'values_changed': {"root['works']": {'new_value': 'About 35 paintings have been attributed', 'old_value': '34'}}}
+196: {'dictionary_item_removed': {"root['training']": 'Carel Fabritius?'}, 'values_changed': {"root['deathplace']": {'new_value': 'Delft, Dutch Republic', 'old_value': 'Delft, Dutch Republic (now Netherlands)'}, "root['movement']": {'new_value': 'Baroque painting', 'old_value': 'Dutch Golden Age painting ,  Baroque painting'}}}
+198: {'values_changed': {"root['works']": {'new_value': '34', 'old_value': 'List of paintings by Johannes Vermeer'}}}
+212: {'values_changed': {"root['movement']": {'new_value': 'Dutch Golden Age painting ,  Baroque painting', 'old_value': 'Dutch Golden Age painting'}}}

@@ -1,0 +1,43 @@
+0: {'dictionary_item_removed': {"root['name']": 'Stephen Fry', "root['occupation']": 'Actor, comedian, author, journalist, broadcaster, film director', "root['partner']": 'Daniel Cohen (1995–2010)', "root['alma_mater']": "Queens' College, Cambridge", "root['box_width']": '25em '}}
+16: {'values_changed': {"root['box_width']": {'new_value': '25em ', 'old_value': '25em'}}}
+82: {'dictionary_item_removed': {"root['religion']": 'None (Atheism'}}
+84: {'values_changed': {"root['religion']": {'new_value': 'None (Atheism', 'old_value': 'None (Secular humanism'}}}
+87: {'values_changed': {"root['religion']": {'new_value': 'None (Secular humanism', 'old_value': 'None'}}}
+88: {'values_changed': {"root['religion']": {'new_value': 'None', 'old_value': 'None (Secular humanism'}}}
+116: {'dictionary_item_added': {"root['religion']": 'None (Secular humanism'}, 'dictionary_item_removed': {"root['education']": 'The College of West Anglia'}}
+185: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010)', 'old_value': 'Julia Roberts ( 1990-'}}}
+187: {'values_changed': {"root['partner']": {'new_value': 'Julia Roberts ( 1990-', 'old_value': 'Daniel Cohen (1995–2010)'}}}
+219: {'dictionary_item_removed': {"root['religion']": 'None (atheism) '}}
+247: {'dictionary_item_added': {"root['religion']": 'None (atheism) '}, 'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Stephen Fry Up'}}}
+248: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry Up', 'old_value': 'Stephen Fry'}}}
+249: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Stephen Potato'}, "root['partner']": {'new_value': 'Daniel Cohen (1995–2010)', 'old_value': 'Daniella Cohen (1995–2010)'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'Stephen Potato', 'old_value': 'Stephen Fry'}, "root['partner']": {'new_value': 'Daniella Cohen (1995–2010)', 'old_value': 'Daniel Cohen (1995–2010)'}}}
+264: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010)', 'old_value': 'Daniel Coben (1995–2010)'}}}
+265: {'values_changed': {"root['partner']": {'new_value': 'Daniel Coben (1995–2010)', 'old_value': 'Daniel Cohen (1995–2010)'}}}
+270: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author, journalist, broadcaster, film director', 'old_value': 'Actor, Comedian, Author, Journalist, Television presenter, Film director'}}}
+271: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Comedian, Author, Journalist, Television presenter, Film director', 'old_value': 'Actor, comedian, author, journalist, broadcaster, film director'}}}
+281: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010)', 'old_value': 'Daniel Cohen (1995–2010) Elliott Spencer (2014 - )'}}}
+285: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010) Elliott Spencer (2014 - )', 'old_value': 'Daniel Cohen (1995–2010); Elliott Spencer (present) Elliott Spencer (2014 - )'}}}
+286: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010); Elliott Spencer (present) Elliott Spencer (2014 - )', 'old_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014 - )'}}}
+287: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014 - )', 'old_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2015 - )'}}}
+288: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2015 - )', 'old_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014 - )'}}}
+294: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014 - )', 'old_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014&ndash;)'}}}
+295: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010);  Elliott Spencer (2014&ndash;)', 'old_value': 'Daniel Cohen (1995–2010);                    Elliott Spencer (2014&ndash;)'}}}
+327: {'values_changed': {"root['partner']": {'new_value': 'Daniel Cohen (1995–2010);                    Elliott Spencer (2014&ndash;)', 'old_value': 'Plainlist'}}}
+332: {'dictionary_item_added': {"root['partner']": 'Plainlist'}, 'dictionary_item_removed': {"root['spouse']": 'Plainlist'}}
+385: {'dictionary_item_added': {"root['box_width']": '25em'}, 'dictionary_item_removed': {"root['partner']": 'Daniel Cohen (1995-2010)'}}
+411: {'dictionary_item_added': {"root['partner']": 'Daniel Cohen (1995-2010)'}, 'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Brodie Griffin'}, "root['occupation']": {'new_value': 'Actor, comedian, author, journalist, broadcaster, film director', 'old_value': 'Full time gypsy and part time scrap metaler'}}}
+412: {'values_changed': {"root['name']": {'new_value': 'Brodie Griffin', 'old_value': 'Stephen Fry'}, "root['occupation']": {'new_value': 'Full time gypsy and part time scrap metaler', 'old_value': 'Actor, comedian, author, journalist, broadcaster, film director'}}}
+415: {'dictionary_item_removed': {"root['ethnicity']": 'Jews'}}
+429: {'dictionary_item_added': {"root['ethnicity']": 'Jews'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author, journalist, broadcaster, film director', 'old_value': 'Actor, comedian, author, chef, journalist, broadcaster, film director, lazy student'}}}
+430: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author, chef, journalist, broadcaster, film director, lazy student', 'old_value': 'Actor, comedian, author, journalist, broadcaster, film director'}}}
+461: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Greg Hardcastle'}}}
+462: {'values_changed': {"root['name']": {'new_value': 'Greg Hardcastle', 'old_value': 'Stephen Fry'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Greg Hardcastle'}}}
+464: {'values_changed': {"root['name']": {'new_value': 'Greg Hardcastle', 'old_value': 'Stephen Fry'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry', 'old_value': 'Stephen Fry Fry'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Stephen Fry Fry', 'old_value': 'Stephen Fry'}}}
+498: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author, journalist, broadcaster, film director', 'old_value': 'Actor, comedian, author, journalist, broadcaster, film director, racist Irish-hating poof'}}}
+499: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, author, journalist, broadcaster, film director, racist Irish-hating poof', 'old_value': 'Actor, comedian, author, journalist, broadcaster, film director'}}}
+691: {'dictionary_item_added': {"root['spouse']": 'Plainlist'}, 'dictionary_item_removed': {"root['partner']": 'Plainlist'}}
+692: {'dictionary_item_added': {"root['partner']": 'Plainlist'}, 'dictionary_item_removed': {"root['spouse']": 'Plainlist'}}

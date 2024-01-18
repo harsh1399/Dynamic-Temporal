@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael Dell', "root['occupation']": 'CEO and founder, Dell, Inc.', "root['education']": 'Attended University of Texas, Austin, 1983–1984', "root['networth']": "Gain''''$12.3 Billion'' (2009)<ref name", "root['religion']": 'Jewish', "root['spouse']": 'Susan Dell', "root['children']": '4'}}
+15: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Ryan Theriault'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Ryan Theriault', 'old_value': 'Michael Dell'}}}
+22: {'values_changed': {"root['networth']": {'new_value': "Gain''''$12.3 Billion'' (2009)<ref name", 'old_value': "Gain''$12.3 Billion'' (2009)<ref name"}}}
+32: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Mark Boyle'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Mark Boyle', 'old_value': 'Michael Dell'}}}
+58: {'values_changed': {"root['occupation']": {'new_value': 'CEO and founder, Dell, Inc.', 'old_value': 'CEO and founder, Dell Inc.'}}}
+121: {'values_changed': {"root['networth']": {'new_value': "Gain''$12.3 Billion'' (2009)<ref name", 'old_value': 'gainUnited States dollar'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Mark Boyle'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Mark Boyle', 'old_value': 'Michael Dell'}}}
+140: {'values_changed': {"root['religion']": {'new_value': 'Jewish', 'old_value': 'Nazi'}}}
+141: {'values_changed': {"root['religion']": {'new_value': 'Nazi', 'old_value': 'Jewish'}}}
+152: {'values_changed': {"root['religion']": {'new_value': 'Jewish', 'old_value': 'Mormon'}, "root['children']": {'new_value': '4', 'old_value': '18'}}}
+154: {'values_changed': {"root['religion']": {'new_value': 'Mormon', 'old_value': 'Jewish'}, "root['children']": {'new_value': '18', 'old_value': '4'}}}
+155: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '1,000,000,000,000,000,000,000,000'}}}
+156: {'values_changed': {"root['children']": {'new_value': '1,000,000,000,000,000,000,000,000', 'old_value': '4'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Michael Dell x Superscript text 2+ pussy'}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Michael Dell x Superscript text 2+ pussy', 'old_value': 'Michael Dell'}}}
+159: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Michael Dell X 2 +Pussy'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'Michael Dell X 2 +Pussy', 'old_value': 'Michael Dell X 2'}}}
+161: {'values_changed': {"root['name']": {'new_value': 'Michael Dell X 2', 'old_value': 'Michael Dell'}}}
+170: {'dictionary_item_added': {"root['occupation']": 'CEO and founder, Dell Inc.'}, 'values_changed': {"root['education']": {'new_value': 'Attended University of Texas, Austin, 1983–1984', 'old_value': 'Attended University of Texas, Austin, 1983–1984 Drop out ha ha!'}, "root['religion']": {'new_value': 'Jewish', 'old_value': 'Money'}}}
+171: {'dictionary_item_removed': {"root['occupation']": 'CEO and founder, Dell Inc.'}, 'values_changed': {"root['education']": {'new_value': 'Attended University of Texas, Austin, 1983–1984 Drop out ha ha!', 'old_value': 'Attended University of Texas, Austin, 1983–1984'}, "root['religion']": {'new_value': 'Money', 'old_value': 'Jewish'}}}
+191: {'values_changed': {"root['religion']": {'new_value': 'Jewish', 'old_value': 'Jewishfact'}}}
+193: {'values_changed': {"root['religion']": {'new_value': 'Jewishfact', 'old_value': 'Jewish'}}}
+216: {'dictionary_item_added': {"root['religion']": 'Jewish'}, 'dictionary_item_removed': {"root['party']": 'Republican_Party_(United_States)'}}
+240: {'dictionary_item_added': {"root['party']": 'Republican_Party_(United_States)'}, 'values_changed': {"root['education']": {'new_value': 'Attended University of Texas, Austin, 1983–1984', 'old_value': 'Dropout, University of Texas Austin'}, "root['networth']": {'new_value': 'gainUnited States dollar', 'old_value': 'gainUS dollar'}}}
+241: {'values_changed': {"root['education']": {'new_value': 'Dropout, University of Texas Austin', 'old_value': 'Dropout, University of Texas at Austin'}}}
+245: {'dictionary_item_removed': {"root['religion']": 'Jewish'}}
+255: {'dictionary_item_added': {"root['education']": 'Dropout, University of Texas at Austin', "root['religion']": 'Jewish'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of Texas Austin, Dropout'}}
+256: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Texas Austin, Dropout', 'old_value': 'University of Texas at Austin'}}}
+270: {'values_changed': {"root['name']": {'new_value': 'Michael Dell', 'old_value': 'Micliu                                           hael Dell'}}}
+271: {'values_changed': {"root['name']": {'new_value': 'Micliu                                           hael Dell', 'old_value': 'Michael Dell'}}}

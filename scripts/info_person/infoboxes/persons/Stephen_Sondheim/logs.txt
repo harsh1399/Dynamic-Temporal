@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Stephen Sondheim', "root['background']": 'non_performing_personnel', "root['education']": 'Williams College', "root['genre']": 'Musical theatre', "root['occupation']": []}}
+76: {'dictionary_item_added': {"root['education']": 'Williams College'}, 'dictionary_item_removed': {"root['alma_mater']": 'Williams College', "root['spouse']": 'Jeff Romley (m. 2017)    '}, 'values_changed': {"root['genre']": {'new_value': 'Musical theatre', 'old_value': 'Musical theater'}}}
+112: {'dictionary_item_added': {"root['background']": 'non_performing_personnel'}, 'values_changed': {"root['spouse']": {'new_value': 'Jeff Romley (m. 2017)    ', 'old_value': 'Jeff Romley    '}}}
+209: {'values_changed': {"root['spouse']": {'new_value': 'Jeff Romley    ', 'old_value': 'Jeff Romley  '}}}
+298: {'dictionary_item_added': {"root['spouse']": 'Jeff Romley  '}, 'values_changed': {"root['alma_mater']": {'new_value': 'Williams College', 'old_value': 'Williams College  '}}}
+306: {'dictionary_item_removed': {"root['spouse']": 'Jeffrey Romley  '}, 'values_changed': {"root['alma_mater']": {'new_value': 'Williams College  ', 'old_value': 'Williams College'}}}
+323: {'values_changed': {"root['genre']": {'new_value': 'Musical theater', 'old_value': 'Musical theater '}, "root['spouse']": {'new_value': 'Jeffrey Romley  ', 'old_value': 'Jeffrey Romley '}}}
+358: {'dictionary_item_added': {"root['name']": 'Stephen Sondheim'}, 'dictionary_item_removed': {"root['awards']": "''See list'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Jeffrey Romley ', 'old_value': 'marriage'}}}
+458: {'values_changed': {"root['awards']": {'new_value': "''See list'' ", 'old_value': 'See list '}}}
+462: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': "Jeffrey Romley (2017–2021; Stephen's death)"}}}
+468: {'values_changed': {"root['spouse']": {'new_value': "Jeffrey Romley (2017–2021; Stephen's death)", 'old_value': "Jeffrey Romley (2017–2021; Sondheim's death)"}}}
+469: {'values_changed': {"root['spouse']": {'new_value': "Jeffrey Romley (2017–2021; Sondheim's death)", 'old_value': 'marriage'}}}
+504: {'values_changed': {"root['awards']": {'new_value': 'See list ', 'old_value': 'Full list '}}}

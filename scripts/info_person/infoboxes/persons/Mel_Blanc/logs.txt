@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Mel Blanc', "root['alma_mater']": 'Lincoln High School (Portland, Oregon)', "root['occupation']": 'Voice actor/Comedian'}}
+5: {'dictionary_item_added': {"root['alma_mater']": 'Lincoln High School (Portland, Oregon)'}, 'dictionary_item_removed': {"root['education']": 'Lincoln High School (Portland, Oregon)', "root['home_town']": 'Portland, Oregon'}}
+6: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California'}}
+7: {'dictionary_item_added': {"root['education']": 'Lincoln High School (Portland, Oregon)', "root['home_town']": 'Portland, Oregon', "root['residence']": 'Los Angeles, California'}, 'dictionary_item_removed': {"root['alma_mater']": 'Lincoln High School (Portland, Oregon)'}}
+22: {'values_changed': {"root['name']": {'new_value': 'Mel Blanc', 'old_value': 'Michael Mosca'}}}
+23: {'values_changed': {"root['name']": {'new_value': 'Michael Mosca', 'old_value': 'Mel Blanc'}}}
+93: {'dictionary_item_removed': {"root['known_for']": "''Looney Toones''", "root['children']": 'Noel Blanc '}}
+94: {'values_changed': {"root['known_for']": {'new_value': "''Looney Toones''", 'old_value': "''Looney Tunes''"}}}
+102: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes''", 'old_value': "''Looney Tunes'', ''The Flintstones''"}}}
+103: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', ''The Flintstones''", 'old_value': "''Looney Tunes''"}}}
+119: {'dictionary_item_removed': {"root['spouse']": 'Estelle Rosenbaum, (1933–89; his death)'}}
+123: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes''", 'old_value': "''Looney Tunes'', The Voices of Bugs Bunny, Daffy Duck, Porky Pig, Tweety Bird, Sylvester (Looney Tunes)"}}}
+140: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', The Voices of Bugs Bunny, Daffy Duck, Porky Pig, Tweety Bird, Sylvester (Looney Tunes)", 'old_value': "''Looney Tunes'', ''The Jack Benny Show'', ''The Flintstones'' # Numbered list item"}}}
+142: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', ''The Jack Benny Show'', ''The Flintstones'' # Numbered list item", 'old_value': "''Looney Tunes'', ''The Jack Benny Show'', ''The Flintstones''"}}}
+146: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', ''The Jack Benny Show'', ''The Flintstones''", 'old_value': "''Looney Tunes'', ''The Flintstones'', ''The Jack Benny Show''"}}}
+149: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', ''The Flintstones'', ''The Jack Benny Show''", 'old_value': "''Looney Tunes'', ''The Flintstones'', ''The Jack Benny Program''"}}}
+163: {'values_changed': {"root['known_for']": {'new_value': "''Looney Tunes'', ''The Flintstones'', ''The Jack Benny Program''", 'old_value': "''Looney Tunes'', ''The Flintstones'', ''The Jetsons'', ''The Jack Benny Program''"}}}
+164: {'values_changed': {"root['occupation']": {'new_value': 'Voice actor/Comedian', 'old_value': 'Voice actor'}, "root['known_for']": {'new_value': "''Looney Tunes'', ''The Flintstones'', ''The Jetsons'', ''The Jack Benny Program''", 'old_value': "''Looney Tunes'', ''The Jack Benny Program''"}}}
+196: {'dictionary_item_removed': {"root['influenced']": 'Dave Chapelle '}, 'values_changed': {"root['children']": {'new_value': 'Noel Blanc ', 'old_value': 'Noel Blanc'}}}
+197: {'dictionary_item_added': {"root['influenced']": 'Dave Chapelle '}, 'values_changed': {"root['children']": {'new_value': 'Noel Blanc', 'old_value': 'Noel Blanc '}}}
+203: {'dictionary_item_added': {"root['alma_mater']": 'Lincoln High School (Portland, Oregon)', "root['known_for']": "''Looney Tunes'', ''The Jack Benny Program''"}, 'dictionary_item_removed': {"root['awards']": 'Inkpot Award (1976)'}, 'values_changed': {"root['occupation']": {'new_value': 'Voice actor', 'old_value': 'Voice actor, radio personality'}, "root['spouse']": {'new_value': 'Estelle Rosenbaum, (1933–89; his death)', 'old_value': 'marriage'}}}
+240: {'values_changed': {"root['children']": {'new_value': 'Noel Blanc ', 'old_value': 'Noel Blanc'}}}
+241: {'values_changed': {"root['children']": {'new_value': 'Noel Blanc', 'old_value': 'Noel Blanc '}}}
+299: {'values_changed': {"root['occupation']": {'new_value': 'Voice actor, radio personality', 'old_value': 'Voice actor, comedian, radio personality'}}}
+300: {'values_changed': {"root['occupation']": {'new_value': 'Voice actor, comedian, radio personality', 'old_value': 'Voice actor, radio personality'}}}

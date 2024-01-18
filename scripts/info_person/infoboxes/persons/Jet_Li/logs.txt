@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jet Li', "root['tradchinesename']": '李連杰', "root['simpchinesename']": '李连杰', "root['pinyinchinesename']": 'Lǐ Liánjié', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Beijing, China', "root['yearsactive']": '1982–present', "root['spouse']": 'Huang Qiuyan (1987–1990), Nina Li Chi (1999–)', "root['hongkongfilmwards']": "'''Best Actor''', 2007 ''The Warlords''", "root['goldenhorseawards']": "'''Special Award''', 1995", "root['hkfcsawards']": "'''Best Actor''', 2006 ''Fearless (2006 film)"}}
+1: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'EE'}}}
+2: {'values_changed': {"root['name']": {'new_value': 'EE', 'old_value': 'Jet Li'}}}
+3: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'EE'}}}
+4: {'values_changed': {"root['name']": {'new_value': 'EE', 'old_value': 'Jet Li'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Jet Li is the best'}}}
+22: {'values_changed': {"root['name']": {'new_value': 'Jet Li is the best', 'old_value': 'Jet Li'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'William Li'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'William Li', 'old_value': 'Jet Li'}}}
+108: {'values_changed': {"root['hongkongfilmwards']": {'new_value': "'''Best Actor''', 2007 ''The Warlords''", 'old_value': "'''Best Actor''', 2008 ''The Warlords''"}}}
+120: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Jet lo'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Jet lo', 'old_value': 'Jet Li'}}}
+135: {'values_changed': {"root['goldenhorseawards']": {'new_value': "'''Special Award''', 1995", 'old_value': "'''Special Award', 1995"}}}
+136: {'values_changed': {"root['yearsactive']": {'new_value': '1982–present', 'old_value': '1982 through present'}}}
+137: {'values_changed': {"root['yearsactive']": {'new_value': '1982 through present', 'old_value': '1982–present'}, "root['spouse']": {'new_value': 'Huang Qiuyan (1987–1990), Nina Li Chi (1999–)', 'old_value': 'Huang Qiuyan (1987–1990), Nina Li Chi (1999–present)'}, "root['goldenhorseawards']": {'new_value': "'''Special Award', 1995", 'old_value': "'''Special Award''', 1995"}}}
+163: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Jason Mohap'}}}
+165: {'values_changed': {"root['name']": {'new_value': 'Jason Mohap', 'old_value': 'Jet Li'}}}
+177: {'dictionary_item_removed': {"root['othername']": '李陽中 (Chinese producer pseudonym)'}}
+180: {'dictionary_item_removed': {"root['occupation']": 'Actor Martial artist'}}
+189: {'dictionary_item_removed': {"root['jyutpingchinesename']": 'Lei5 Lin6 Git6'}}
+200: {'values_changed': {"root['birthplace']": {'new_value': 'Beijing, China', 'old_value': 'Beijing, China (Current Citizenship: Singaporean)'}}}
+215: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date and age47'}}}
+216: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age47', 'old_value': 'birth date and age'}}}
+221: {'values_changed': {"root['jyutpingchinesename']": {'new_value': 'Lei5 Lin6 Git6', 'old_value': 'Lei5 Lin4 Git6'}}}
+255: {'values_changed': {"root['birthplace']": {'new_value': 'Beijing, China (Current Citizenship: Singaporean)', 'old_value': 'Beijing, China'}}}
+259: {'values_changed': {"root['othername']": {'new_value': '李陽中 (Chinese producer pseudonym)', 'old_value': 'Lee Yeung Chung/Li Yangzhong 李陽中  (Traditional Chinese characters'}}}
+322: {'dictionary_item_removed': {"root['religion']": 'Buddhist   '}}
+323: {'dictionary_item_added': {"root['religion']": 'Buddhist   '}, 'dictionary_item_removed': {"root['Religion']": 'Buddhist   '}}
+325: {'dictionary_item_added': {"root['Religion']": 'Buddhist   '}, 'dictionary_item_removed': {"root['religion']": 'Buddhist   '}}
+327: {'values_changed': {"root['religion']": {'new_value': 'Buddhist   ', 'old_value': '{Buddhist}   '}}}
+329: {'values_changed': {"root['religion']": {'new_value': '{Buddhist}   ', 'old_value': '{Buddhist}'}}}
+330: {'dictionary_item_added': {"root['religion']": '{Buddhist}'}, 'dictionary_item_removed': {"root['Religion']": 'Buddhist'}}
+344: {'values_changed': {"root['othername']": {'new_value': 'Lee Yeung Chung/Li Yangzhong 李陽中  (Traditional Chinese characters', 'old_value': 'Lee Yeung Chung/Li Yangzhong  李陽中   (Traditional Chinese characters'}}}
+353: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Jet Li pope'}}}
+356: {'values_changed': {"root['name']": {'new_value': 'Jet Li pope', 'old_value': 'Jet Li'}}}
+365: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Jet Li BONHER FCUKING FACE MATEE'}}}
+366: {'values_changed': {"root['name']": {'new_value': 'Jet Li BONHER FCUKING FACE MATEE', 'old_value': 'Jet Li'}}}
+395: {'values_changed': {"root['tradchinesename']": {'new_value': '李連杰', 'old_value': '李連傑'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'Jet Li', 'old_value': 'Gay Li'}}}
+397: {'values_changed': {"root['name']": {'new_value': 'Gay Li', 'old_value': 'Jet Li'}}}
+403: {'values_changed': {"root['tradchinesename']": {'new_value': '李連傑', 'old_value': '李連杰'}}}

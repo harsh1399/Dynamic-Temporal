@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ted Bundy', "root['alias']": 'ubl', "root['alma_mater']": 'ublist', "root['cause']": 'Electric chair', "root['penalty']": 'Capital punishment', "root['victims']": '30 confessed; total unconfirmed', "root['country']": 'United States', "root['states']": [], "root['beginyear']": 'February 1, 1974spaces', "root['endyear']": 'spacesFebruary 9, 1978', "root['escaped']": 'ubl', "root['apprehended']": 'August 16, 1975', "root['conviction']": 'ubl', "root['spouse']": 'marriage', "root['children']": '1'}}
+17: {'values_changed': {"root['penalty']": {'new_value': 'Capital punishment', 'old_value': 'Capital punishment in Florida'}}}
+118: {'values_changed': {"root['victims']": {'new_value': '30 confessed; total unconfirmed', 'old_value': '30 confessed; total 20+ confirmed'}}}
+119: {'values_changed': {"root['victims']": {'new_value': '30 confessed; total 20+ confirmed', 'old_value': '30 confessed, 20 confirmed'}}}
+171: {'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}}
+206: {'type_changes': {"root['conviction']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Murder (United States law)'], 'new_value': 'ubl'}}, 'dictionary_item_added': {"root['party']": 'Republican Party (United States)'}}
+207: {'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}}
+209: {'values_changed': {"root['beginyear']": {'new_value': 'February 1, 1974spaces', 'old_value': '1974'}, "root['endyear']": {'new_value': 'spacesFebruary 9, 1978', 'old_value': '1978'}}}

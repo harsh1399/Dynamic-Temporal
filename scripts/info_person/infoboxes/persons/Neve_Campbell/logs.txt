@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Neve Campbell', "root['birthdate']": 'birth date and age', "root['location']": 'Guelph, Ontario, Canada', "root['birthname']": 'Neve Adrianne Campbell', "root['homepage']": 'http://www.nevecampbell.org/ Official American Fansite, http://www.nevecampbell.dk/ Official Danish Fansite', "root['spouse']": 'Jeff Colt (3 April 1995 - 8 May 1998) (divorced) '}}
+1: {'values_changed': {"root['location']": {'new_value': 'Guelph, Ontario, Canada', 'old_value': 'Guelph, Ontario, Canada Flagicon'}}}
+22: {'values_changed': {"root['location']": {'new_value': 'Guelph, Ontario, Canada Flagicon', 'old_value': 'Guelph, Ontario, CAN'}}}
+49: {'values_changed': {"root['location']": {'new_value': 'Guelph, Ontario, CAN', 'old_value': 'flagicon'}}}
+61: {'values_changed': {"root['spouse']": {'new_value': 'Jeff Colt (3 April 1995 - 8 May 1998) (divorced) ', 'old_value': 'John Light (2007 - present) ,  Jeff Colt (1995 - 1998; divorced) '}}}
+141: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Guelph, Ontario'}}}
+164: {'dictionary_item_removed': {"root['awards']": '|'}, 'values_changed': {"root['spouse']": {'new_value': 'John Light (2007 - present) ,  Jeff Colt (1995 - 1998; divorced) ', 'old_value': 'John Light (actor)'}}}
+186: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Guelph, Ontario', "root['birthname']": 'Neve Adrianne Campbell', "root['homepage']": 'http://www.nevecampbell.org/ Official American Fansite, http://www.nevecampbell.dk/ Official Danish Fansite', "root['awards']": '|'}, 'dictionary_item_removed': {"root['occupation']": 'Actress'}, 'values_changed': {"root['spouse']": {'new_value': 'John Light (actor)', 'old_value': 'marriage'}}}
+297: {'dictionary_item_removed': {"root['imagesize']": '300'}}
+310: {'dictionary_item_added': {"root['imagesize']": '300'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': "Actress, she's got a hairy asshole"}}}
+311: {'values_changed': {"root['occupation']": {'new_value': "Actress, she's got a hairy asshole", 'old_value': 'Actress'}}}
+391: {'dictionary_item_removed': {"root['religion']": 'Roman Catholicism'}}
+394: {'dictionary_item_added': {"root['religion']": 'Roman Catholicism'}, 'dictionary_item_removed': {"root['partner']": 'Jj Fields'}}
+396: {'values_changed': {"root['partner']": {'new_value': 'Jj Fields', 'old_value': "JJ Field's"}}}
+458: {'dictionary_item_removed': {"root['children']": '1', "root['relations']": 'Christian Campbell (brother) '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Jeff Colt (m. 1995–1998), John Light (actor)'}, "root['partner']": {'new_value': "JJ Field's", 'old_value': 'JJ Feild'}}}
+499: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '5'}}}
+500: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '1'}}}
+511: {'values_changed': {"root['partner']": {'new_value': 'JJ Feild', 'old_value': 'JJ Field 2011-2015'}}}
+512: {'values_changed': {"root['partner']": {'new_value': 'JJ Field 2011-2015', 'old_value': 'JJ Field'}}}
+517: {'values_changed': {"root['partner']": {'new_value': 'JJ Field', 'old_value': 'JJ Field (2012–present)'}}}
+538: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1 (b. 2012)'}}}
+548: {'values_changed': {"root['children']": {'new_value': '1 (b. 2012)', 'old_value': '1'}}}
+566: {'values_changed': {"root['partner']": {'new_value': 'JJ Field (2012–present)', 'old_value': 'JJ Feild (2012–present)'}}}

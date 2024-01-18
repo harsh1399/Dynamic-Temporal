@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['Nationality']": 'American', "root['occupation']": 'Actor, director, producer, screenwriter', "root['spouse']": 'Talia Balsam  (m. 1989–1993)'}}
+134: {'values_changed': {"root['spouse']": {'new_value': 'Talia Balsam  (m. 1989–1993)', 'old_value': 'Talia Balsam , (m. 1989–1993)'}}}
+184: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, screenwriter', 'old_value': 'Actor, filmmaker'}}}
+204: {'values_changed': {"root['spouse']": {'new_value': 'Talia Balsam , (m. 1989–1993)', 'old_value': 'Talia Balsam , (m. 1989–1993), Amal Alamuddin, (m. 2014)'}}}
+218: {'values_changed': {"root['spouse']": {'new_value': 'Talia Balsam , (m. 1989–1993), Amal Alamuddin, (m. 2014)', 'old_value': 'married'}}}
+221: {'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': 'Actor, director, writer, producer'}}}
+230: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, writer, producer', 'old_value': 'Actor, filmmaker'}}}
+251: {'values_changed': {"root['occupation']": {'new_value': 'Actor, filmmaker', 'old_value': 'Actor, Filmmaking'}}}
+258: {'values_changed': {"root['spouse']": {'new_value': 'married', 'old_value': 'marriage'}}}
+263: {'dictionary_item_added': {"root['Nationality']": 'American'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Marriage'}}}
+265: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Filmmaking', 'old_value': 'Actor, screenwriter, producer, director'}, "root['spouse']": {'new_value': 'Marriage', 'old_value': 'marriage'}}}
+307: {'dictionary_item_removed': {"root['residence']": 'Sonning, Berkshire, UK'}}
+308: {'values_changed': {"root['residence']": {'new_value': 'Sonning, Berkshire, UK', 'old_value': 'Los Angeles, California Sonning, Berkshire, UK'}}}
+326: {'dictionary_item_removed': {"root['name']": 'George Clooney', "root['education']": 'Northern Kentucky University', "root['children']": '2'}, 'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California Sonning, Berkshire, UK', 'old_value': 'Sonning Eye, Oxfordshire, England'}, "root['occupation']": {'new_value': 'Actor, screenwriter, producer, director', 'old_value': 'Actor, Film director'}}}
+328: {'dictionary_item_removed': {"root['net_worth']": '$ 500 million (2020)'}}
+333: {'dictionary_item_removed': {"root['awards']": 'George Clooney Awards '}}
+334: {'values_changed': {"root['awards']": {'new_value': 'George Clooney Awards ', 'old_value': 'List of awards and nominations received by George Clooney '}}}
+335: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, Film director'}}, 'dictionary_item_removed': {"root['boards']": 'Council on Foreign Relations', "root['organizations']": 'Section Eight Productions'}, 'values_changed': {"root['net_worth']": {'new_value': '$ 500 million (2020)', 'old_value': 'United States dollar'}, "root['awards']": {'new_value': 'List of awards and nominations received by George Clooney ', 'old_value': 'Full list '}}}
+340: {'values_changed': {"root['organizations']": {'new_value': 'Section Eight Productions', 'old_value': 'Smoke House Pictures'}}}
+343: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US$500 million (2020)'}}}
+344: {'dictionary_item_added': {"root['residence']": 'Sonning Eye, Oxfordshire, England'}, 'values_changed': {"root['organizations']": {'new_value': 'Smoke House Pictures', 'old_value': 'Smoke House Pictures, Casamigos'}, "root['net_worth']": {'new_value': 'US$500 million (2020)', 'old_value': 'US$500 million (2020) (estimate)'}}}
+352: {'values_changed': {"root['organizations']": {'new_value': 'Smoke House Pictures, Casamigos', 'old_value': 'ubl'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+399: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}

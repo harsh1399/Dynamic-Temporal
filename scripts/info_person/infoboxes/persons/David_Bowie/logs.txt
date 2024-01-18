@@ -1,0 +1,34 @@
+0: {'dictionary_item_removed': {"root['name']": 'David Bowie', "root['occupation']": 'Flatlist', "root['spouse']": [], "root['children']": [], "root['associated_acts']": 'Flatlist'}}
+64: {'dictionary_item_removed': {"root['death']": '11th January 2015'}}
+239: {'type_changes': {"root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '2, including Duncan Jones', 'new_value': []}}, 'dictionary_item_added': {"root['death']": '11th January 2015'}}
+296: {'values_changed': {"root['children']": {'new_value': '2, including Duncan Jones', 'old_value': '2 ,  Duncan Jones (b. 1971) and Alexandria "Lexi" Zahra Jones (b. 2000)'}}}
+320: {'values_changed': {"root['children']": {'new_value': '2 ,  Duncan Jones (b. 1971) and Alexandria "Lexi" Zahra Jones (b. 2000)', 'old_value': 'Duncan Jones (b. 1971) ,  Alexandria Zahra Jones (b. 2000)'}}}
+372: {'values_changed': {"root['children']": {'new_value': 'Duncan Jones (b. 1971) ,  Alexandria Zahra Jones (b. 2000)', 'old_value': '2; including Duncan Jones'}}}
+533: {'values_changed': {"root['children']": {'new_value': '2; including Duncan Jones', 'old_value': 'Duncan Jones, Alexandria Zahra Jones'}}}
+541: {'values_changed': {"root['children']": {'new_value': 'Duncan Jones, Alexandria Zahra Jones', 'old_value': 'Two including Duncan Jones'}}}
+544: {'values_changed': {"root['children']": {'new_value': 'Two including Duncan Jones', 'old_value': 'Duncan Jones, Alexandria Zahra Jones'}}}
+593: {'values_changed': {"root['children']": {'new_value': 'Duncan Jones, Alexandria Zahra Jones', 'old_value': 'Two including Duncan Jones'}}}
+615: {'values_changed': {"root['children']": {'new_value': 'Two including Duncan Jones', 'old_value': 'Duncan Jones, Alexandria Zahra Jones'}}}
+616: {'values_changed': {"root['children']": {'new_value': 'Duncan Jones, Alexandria Zahra Jones', 'old_value': 'Two including Duncan Jones'}}}
+620: {'values_changed': {"root['children']": {'new_value': 'Two including Duncan Jones', 'old_value': 'Duncan Jones, Alexandria Zahra Jones'}}}
+623: {'values_changed': {"root['children']": {'new_value': 'Duncan Jones, Alexandria Zahra Jones', 'old_value': 'Two including Duncan Jones'}}}
+634: {'dictionary_item_removed': {"root['background']": 'solo_singer'}}
+1075: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'values_changed': {"root['children']": {'new_value': 'Two including Duncan Jones', 'old_value': 'Two, including Duncan Jones'}}}
+1304: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}, "root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ubl', 'new_value': []}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}}
+1305: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': []}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}, "root['associated_acts']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': []}}}
+1306: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}, "root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ubl', 'new_value': []}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}}
+1391: {'values_changed': {"root['name']": {'new_value': 'David Bowie', 'old_value': 'David Robert Jones'}}}
+1392: {'values_changed': {"root['name']": {'new_value': 'David Robert Jones', 'old_value': 'David Bowie'}}}
+1405: {'dictionary_item_added': {"root['name']": 'David Bowie'}, 'dictionary_item_removed': {"root['background']": 'solo_singer', "root['instrument']": [], "root['genre']": []}}
+1410: {'dictionary_item_removed': {"root['label']": []}}
+1411: {'values_changed': {"root['children']": {'new_value': 'Two, including Duncan Jones', 'old_value': '2; including Duncan Jones'}}}
+1482: {'values_changed': {"root['children']": {'new_value': '2; including Duncan Jones', 'old_value': '2, including Duncan Jones'}}}
+1529: {'dictionary_item_removed': {"root['religion']": 'Buddhism'}}
+1551: {'dictionary_item_added': {"root['religion']": 'Buddhism'}, 'values_changed': {"root['children']": {'new_value': '2, including Duncan Jones', 'old_value': '2, including Duncan Jones & Alexandria Zahra Jones'}}}
+1552: {'values_changed': {"root['children']": {'new_value': '2, including Duncan Jones & Alexandria Zahra Jones', 'old_value': '2, including Duncan Jones'}}}
+1608: {'dictionary_item_removed': {"root['grandchildren']": '1'}}
+1618: {'dictionary_item_added': {"root['grandchildren']": '1'}, 'dictionary_item_removed': {"root['religion']": 'Buddhism'}}
+1931: {'dictionary_item_added': {"root['religion']": 'Buddhism', "root['instrument']": []}, 'dictionary_item_removed': {"root['instruments']": []}}
+1933: {'dictionary_item_added': {"root['instruments']": []}, 'dictionary_item_removed': {"root['instrument']": []}}
+2101: {'dictionary_item_removed': {"root['religion']": 'Buddhism'}}
+2108: {'dictionary_item_added': {"root['religion']": 'Buddhism'}, 'dictionary_item_removed': {"root['office1']": 'Member of the European Parliament ,  for Cleveland and Richmond (European Parliament constituency)', "root['term_start1']": '15 June 1989', "root['term_end1']": '10 June 1999', "root['parliament1']": 'European', "root['predecessor1']": 'Peter Vanneck', "root['successor1']": 'Constituency Dissolved'}}

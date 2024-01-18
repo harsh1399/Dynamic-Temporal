@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sally Kristen Ride', "root['status']": 'Teaching', "root['type']": 'NASA astronaut', "root['occupation']": 'Physicist', "root['selection']": 'List of astronauts by selection#1978', "root['time']": '14d 07h 46m', "root['mission']": 'STS-7, STS-41-G', "root['insignia']": '|Date of ret'}}
+37: {'values_changed': {"root['status']": {'new_value': 'Teaching', 'old_value': 'Deceased'}}}
+143: {'dictionary_item_added': {"root['name']": 'Sally Kristen Ride'}, 'dictionary_item_removed': {"root['othernames']": 'Sally Kristen Ride'}}
+144: {'dictionary_item_added': {"root['othernames']": 'Sally Kristen Ride'}, 'dictionary_item_removed': {"root['othername']": 'Sally Kristen Ride'}}
+149: {'dictionary_item_added': {"root['othername']": 'Sally Kristen Ride'}, 'dictionary_item_removed': {"root['spouse']": 'Steven Hawley (1982&ndash;1987)<ref name', "root['partner']": "Dr. Tam O'Shaughnessy (1985&ndash;2012 (Ride's death))<ref name", "root['education']": 'Plainlist'}}
+154: {'values_changed': {"root['spouse']": {'new_value': 'Steven Hawley (1982&ndash;1987)<ref name', 'old_value': 'Steven Hawley (1982–1987)<ref name'}, "root['partner']": {'new_value': "Dr. Tam O'Shaughnessy (1985&ndash;2012 (Ride's death))<ref name", 'old_value': "Dr. Tam O'Shaughnessy (1985–2012 (Ride's death))<ref name"}}}
+185: {'values_changed': {"root['partner']": {'new_value': "Dr. Tam O'Shaughnessy (1985–2012 (Ride's death))<ref name", 'old_value': "Tam O'Shaughnessy (1985–2012 (Ride's death))<ref name"}}}
+194: {'values_changed': {"root['spouse']": {'new_value': 'Steven Hawley (1982–1987)<ref name', 'old_value': 'Steven Hawley (1982–1987)'}, "root['partner']": {'new_value': "Tam O'Shaughnessy (1985–2012 (Ride's death))<ref name", 'old_value': "Tam O'Shaughnessy (1985–2012 (Ride's death))"}}}
+225: {'values_changed': {"root['partner']": {'new_value': "Tam O'Shaughnessy (1985–2012 (Ride's death))", 'old_value': "Tam O'Shaughnessy , (1985–2012; Ride's death)"}, "root['status']": {'new_value': 'Deceased', 'old_value': 'deceased'}}}
+226: {'values_changed': {"root['spouse']": {'new_value': 'Steven Hawley (1982–1987)', 'old_value': 'Steven Hawley , (m.1982–1987; divorced)'}}}
+256: {'values_changed': {"root['spouse']": {'new_value': 'Steven Hawley , (m.1982–1987; divorced)', 'old_value': 'Steven Hawley , (m. 1982–1987; divorced)'}}}
+361: {'values_changed': {"root['status']": {'new_value': 'deceased', 'old_value': 'Deceased'}}}

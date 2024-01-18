@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Christine Keeler', "root['known_for']": 'Profumo affair', "root['occupation']": 'Model (people)'}}
+33: {'values_changed': {"root['occupation']": {'new_value': 'Model (people)', 'old_value': 'Model'}}}
+91: {'values_changed': {"root['name']": {'new_value': 'Christine Keeler', 'old_value': 'Christine Kneeler'}}}
+92: {'values_changed': {"root['name']": {'new_value': 'Christine Kneeler', 'old_value': 'Christine Keeler'}}}
+98: {'dictionary_item_removed': {"root['children']": '3 '}}
+157: {'values_changed': {"root['children']": {'new_value': '3 ', 'old_value': '3 | web.'}}}
+158: {'values_changed': {"root['children']": {'new_value': '3 | web.', 'old_value': '3'}}}

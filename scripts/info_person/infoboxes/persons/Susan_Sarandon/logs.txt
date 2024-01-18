@@ -1,0 +1,23 @@
+404: {'dictionary_item_removed': {"root['birthname']": 'Susan Abigail Tomalin', "root['birthplace']": 'New York City, New York, U.S.', "root['birthdate']": 'birth date and age', "root['yearsactive']": '1969–present', "root['occupation']": 'Actress', "root['spouse']": 'Chris Sarandon (1967–1979) (divorced)', "root['domesticpartner']": 'Tim Robbins (1988–2009) (separated) '}}
+413: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York, United States'}}}
+422: {'values_changed': {"root['birthplace']": {'new_value': 'New York City, New York, United States', 'old_value': 'city-state'}}}
+429: {'dictionary_item_added': {"root['birthname']": 'Susan Abigail Tomalin', "root['birthplace']": 'city-state', "root['birthdate']": 'birth date and age', "root['yearsactive']": '1969–present', "root['domesticpartner']": 'Tim Robbins (1988–2009) (separated) '}, 'dictionary_item_removed': {"root['partner']": 'Tim Robbins (1988–2009) (separated) '}}
+446: {'values_changed': {"root['partner']": {'new_value': 'Tim Robbins (1988–2009) (separated) ', 'old_value': 'Tim Robbins (1986–2009) (separated) '}}}
+499: {'dictionary_item_removed': {"root['children']": '3 (1 with Franco Amurri; 2 with Tim Robbins', "root['alma_mater']": 'The Catholic University of America '}, 'values_changed': {"root['spouse']": {'new_value': 'Chris Sarandon (1967–1979) (divorced)', 'old_value': 'Chris Sarandon (1967–1979)'}, "root['partner']": {'new_value': 'Tim Robbins (1986–2009) (separated) ', 'old_value': 'Tim Robbins (1988–2009)'}}}
+523: {'values_changed': {"root['children']": {'new_value': '3 (1 with Franco Amurri; 2 with Tim Robbins', 'old_value': '3; including Eva Amurri'}}}
+538: {'dictionary_item_removed': {"root['residence']": 'Pound Ridge, New York, U.S.'}}
+566: {'values_changed': {"root['spouse']": {'new_value': 'Chris Sarandon (1967–1979)', 'old_value': 'marriage'}}}
+572: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['partner']": {'new_value': 'Tim Robbins (1988–2009)', 'old_value': 'Franco Amurri (1980s), Tim Robbins (1988–2009)'}, "root['alma_mater']": {'new_value': 'The Catholic University of America ', 'old_value': 'The Catholic University of America, B.A. 1968 '}}}
+575: {'dictionary_item_added': {"root['partner']": 'Franco Amurri (1980s), Tim Robbins (1988–2009)', "root['children']": '3; including Eva Amurri', "root['alma_mater']": 'The Catholic University of America, B.A. 1968 '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1979|reason'}}}
+576: {'dictionary_item_removed': {"root['partner']": 'Franco Amurri (1980s), Tim Robbins (1988–2009)', "root['children']": '3; including Eva Amurri', "root['alma_mater']": 'The Catholic University of America, B.A. 1968 '}, 'values_changed': {"root['spouse']": {'new_value': '1979|reason', 'old_value': 'marriage'}}}
+586: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, singer'}}}
+587: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress'}}}
+592: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, activist'}}}
+616: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist', 'old_value': 'Actress, activist, Heartbreaker'}}}
+617: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist, Heartbreaker', 'old_value': 'Actress, activist'}}}
+629: {'values_changed': {"root['occupation']": {'new_value': 'Actress, activist', 'old_value': 'Actress'}}}
+634: {'values_changed': {"root['children']": {'new_value': '3; including Eva Amurri', 'old_value': '3, including Eva Amurri'}, "root['alma_mater']": {'new_value': 'The Catholic University of America, B.A. 1968 ', 'old_value': 'The Catholic University of America  (B.A. 1968)  '}}}
+635: {'values_changed': {"root['children']": {'new_value': '3, including Eva Amurri', 'old_value': '3; including Eva Amurri'}}}
+642: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+654: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, singer'}}}
+656: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress'}}}

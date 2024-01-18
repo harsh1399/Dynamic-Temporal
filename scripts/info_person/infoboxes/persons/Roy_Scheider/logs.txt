@@ -1,0 +1,24 @@
+12: {'dictionary_item_removed': {"root['name']": 'Roy Scheider', "root['birthname']": 'Roy Richard Scheider', "root['birthdate']": 'birth date and age', "root['location']": 'Flagicon', "root['homepage']": 'http://www.royscheider.com Website', "root['academyawards']": "'''Nominated:''' '''Academy Award for Best Actor", "root['goldenglobeawards']": "'''Nominated:''' '''Golden Globe Awardn for Best Actor - Motion Picture Musical or Comedy''' (1979) for ''All That Jazz''", "root['spouse']": 'Brenda King (married in 1989, present) 2 children,  Cynthia Scheider (married on 8 November 1962 divorced in 1989) 1 child '}}
+13: {'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Nominated:''' '''Golden Globe Awardn for Best Actor - Motion Picture Musical or Comedy''' (1979) for ''All That Jazz''", 'old_value': "'''Nominated:''' '''Golden Globe Award for Best Actor - Motion Picture Musical or Comedy''' (1979) for ''All That Jazz''"}}}
+19: {'values_changed': {"root['homepage']": {'new_value': 'http://www.royscheider.com Website', 'old_value': 'http://www.royscheider.net royscheider.net'}}}
+43: {'dictionary_item_added': {"root['academyawards']": "'''Nominated:''' '''Academy Award for Best Actor", "root['goldenglobeawards']": "'''Nominated:''' '''Golden Globe Award for Best Actor - Motion Picture Musical or Comedy''' (1979) for ''All That Jazz''"}, 'values_changed': {"root['spouse']": {'new_value': 'Brenda King (married in 1989, present) 2 children,  Cynthia Scheider (married on 8 November 1962 divorced in 1989) 1 child ', 'old_value': 'Cynthia Scheider (1962-1989)   Brenda King (1989-present) '}}}
+44: {'dictionary_item_removed': {"root['yearsactive']": '1968-present '}, 'values_changed': {"root['spouse']": {'new_value': 'Cynthia Scheider (1962-1989)   Brenda King (1989-present) ', 'old_value': 'Cynthia Scheider (1962-1989)   Brenda King (1989-present)'}}}
+83: {'values_changed': {"root['location']": {'new_value': 'Flagicon', 'old_value': 'Orange, New Jersey, United States'}}}
+108: {'values_changed': {"root['spouse']": {'new_value': 'Cynthia Scheider (1962-1989)   Brenda King (1989-present)', 'old_value': 'Cynthia Scheider (1962-1989)   Brenda Siemer Scheider (1989-present)'}}}
+110: {'values_changed': {"root['spouse']": {'new_value': 'Cynthia Scheider (1962-1989)   Brenda Siemer Scheider (1989-present)', 'old_value': 'second wife,Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-present)'}}}
+117: {'dictionary_item_removed': {"root['deathdate']": 'death date and age'}}
+120: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+128: {'values_changed': {"root['yearsactive']": {'new_value': '1968-present ', 'old_value': '1968-2008 '}}}
+129: {'values_changed': {"root['spouse']": {'new_value': 'second wife,Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-present)', 'old_value': 'second wife,Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-2008)'}}}
+135: {'dictionary_item_removed': {"root['deathplace']": 'Little Rock, Arkansas'}}
+157: {'values_changed': {"root['spouse']": {'new_value': 'second wife,Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-2008)', 'old_value': 'second wife, Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-2008)'}}}
+180: {'values_changed': {"root['deathplace']": {'new_value': 'Little Rock, Arkansas', 'old_value': 'Little Rock, Arkansas, United States'}, "root['spouse']": {'new_value': 'second wife, Cynthia Bebout Scheider (1962-1989)   Brenda Siemer Scheider (1989-2008)', 'old_value': 'second wife, Cynthia Bebout Scheider (1962–1989)   Brenda Siemer Scheider (1989–2008)'}, "root['yearsactive']": {'new_value': '1968-2008 ', 'old_value': '1968–2008 '}}}
+181: {'values_changed': {"root['spouse']": {'new_value': 'second wife, Cynthia Bebout Scheider (1962–1989)   Brenda Siemer Scheider (1989–2008)', 'old_value': 'Cynthia Bebout Scheider (1962–1989)   Brenda Siemer Scheider (1989–2008)'}}}
+248: {'values_changed': {"root['yearsactive']": {'new_value': '1968–2008 ', 'old_value': '1961–2008 '}}}
+251: {'dictionary_item_removed': {"root['imagesize']": '82'}}
+354: {'dictionary_item_added': {"root['homepage']": 'http://www.royscheider.net royscheider.net'}, 'values_changed': {"root['imagesize']": {'new_value': '82', 'old_value': '80'}}}
+355: {'dictionary_item_removed': {"root['academyawards']": "'''Best Supporting Actor''' , 2007 ''Opitmins Principals''"}}
+357: {'dictionary_item_added': {"root['academyawards']": "'''Best Supporting Actor''' , 2007 ''Opitmins Principals''"}, 'values_changed': {"root['imagesize']": {'new_value': '80', 'old_value': '340 px'}}}
+383: {'values_changed': {"root['imagesize']": {'new_value': '340 px', 'old_value': '82'}}}
+384: {'values_changed': {"root['imagesize']": {'new_value': '82', 'old_value': '340 px'}}}
+387: {'values_changed': {"root['imagesize']": {'new_value': '340 px', 'old_value': '82'}}}

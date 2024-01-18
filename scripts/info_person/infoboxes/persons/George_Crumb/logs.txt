@@ -1,0 +1,8 @@
+35: {'dictionary_item_removed': {"root['name']": 'George Crumb', "root['background']": 'composer', "root['genre']": [], "root['occupation']": []}}
+50: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Contemporary classical music', 'new_value': []}, "root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Composer', 'new_value': []}}}
+51: {'values_changed': {"root['occupation']": {'new_value': 'Composer', 'old_value': 'Composer, Educator'}}}
+55: {'values_changed': {"root['occupation']": {'new_value': 'Composer, Educator', 'old_value': 'Composer, educator'}}}
+80: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Composer, educator'}}, 'dictionary_item_added': {"root['background']": 'composer', "root['genre']": 'Contemporary classical music'}}
+115: {'dictionary_item_removed': {"root['organizations']": [], "root['awards']": []}}
+145: {'dictionary_item_added': {"root['organizations']": []}, 'dictionary_item_removed': {"root['notable_works']": '#List of compositions'}}
+171: {'dictionary_item_removed': {"root['alma_mater']": 'University of Michigan'}}

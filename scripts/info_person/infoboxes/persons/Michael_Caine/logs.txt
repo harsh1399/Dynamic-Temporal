@@ -1,0 +1,57 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Maurice Joseph Micklewhite', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'London, England, United Kingdom', "root['occupation']": 'Actor', "root['yearsactive']": '1956–present', "root['spouse']": 'Patricia Haines (1955–1962) Shakira Baksh (1973–present) '}}
+3: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'actor'}}}
+21: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) Shakira Baksh (1973–present) ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child '}}}
+29: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite', 'old_value': 'richard Joseph Micklewhite'}, "root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 10 children '}}}
+30: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 10 children ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 children '}}}
+31: {'values_changed': {"root['birthname']": {'new_value': 'richard Joseph Micklewhite', 'old_value': 'Richard Joseph Micklewhite'}}}
+32: {'values_changed': {"root['birthname']": {'new_value': 'Richard Joseph Micklewhite', 'old_value': 'Maurice Joseph Micklewhite'}, "root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 children ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child '}}}
+70: {'values_changed': {"root['occupation']": {'new_value': 'actor', 'old_value': 'Actor'}}}
+88: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 80 child Shakira Baksh (1973–present) 80 children '}}}
+89: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite', 'old_value': 'Maurice Joseph Micklewhite fuck'}}}
+90: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite fuck', 'old_value': 'Maurice Joseph Micklewhite'}, "root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 80 child Shakira Baksh (1973–present) 80 children ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child '}}}
+91: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 80 child Shakira Baksh (1973–present) 80 child '}}}
+92: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 80 child Shakira Baksh (1973–present) 80 child ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child '}}}
+115: {'values_changed': {"root['yearsactive']": {'new_value': '1956–present', 'old_value': '1950–present'}}}
+160: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite', 'old_value': "fuck this guy he's a fucking cunt"}}}
+161: {'values_changed': {"root['birthname']": {'new_value': "fuck this guy he's a fucking cunt", 'old_value': 'Maurice Joseph Micklewhite'}}}
+176: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite', 'old_value': 'Maurice Joseph Tinytinkle'}}}
+177: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Tinytinkle', 'old_value': 'Maurice Joseph Micklewhite'}}}
+181: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Micklewhite', 'old_value': 'Maurice Joseph Sheesy Micklewhite'}}}
+182: {'values_changed': {"root['birthname']": {'new_value': 'Maurice Joseph Sheesy Micklewhite', 'old_value': 'Maurice Joseph Micklewhite'}}}
+206: {'values_changed': {"root['birthplace']": {'new_value': 'London, England, United Kingdom', 'old_value': 'Elephant & Castle, South London, England'}}}
+267: {'dictionary_item_added': {"root['birthname']": 'Maurice Joseph Micklewhite', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Elephant & Castle, South London, England', "root['yearsactive']": '1950–present'}, 'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child ', 'old_value': '(1955–1962) (divorced) 1 child Lauren Pickard (1973–present) 1 child '}}}
+268: {'values_changed': {"root['spouse']": {'new_value': '(1955–1962) (divorced) 1 child Lauren Pickard (1973–present) 1 child ', 'old_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child '}}}
+271: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor,Author'}}}
+284: {'values_changed': {"root['occupation']": {'new_value': 'Actor,Author', 'old_value': 'Actor, author'}}}
+286: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962) (divorced) 1 child Shakira Baksh (1973–present) 1 child ', 'old_value': 'Patricia Haines (1955–1962; divorced; 1 child) Shakira Baksh (1973–present; 1 child) '}}}
+341: {'dictionary_item_removed': {"root['name']": 'Michael Caine', "root['children']": 'Dominique Caine (b. 1956) Natasha Caine (b. 1973)'}, 'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (1955–1962; divorced; 1 child) Shakira Baksh (1973–present; 1 child) ', 'old_value': 'Patricia Haines (m. 1955–1962; divorced) Shakira Caine'}}}
+351: {'values_changed': {"root['name']": {'new_value': 'Michael Caine', 'old_value': 'Sir Michael Caine'}}}
+356: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caine cbe'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine cbe', 'old_value': 'Sir Michael Caine CBE'}}}
+358: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine CBE', 'old_value': 'Sir Michael Caine'}}}
+381: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'My name, is Michael, Caine'}}}
+382: {'values_changed': {"root['name']": {'new_value': 'My name, is Michael, Caine', 'old_value': 'Sir Michael Caine'}}}
+383: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caine butt'}}}
+384: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine butt', 'old_value': 'Sir Michael Caine is AWESOME!'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine is AWESOME!', 'old_value': 'Sir Michael Caine'}}}
+386: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caineeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'}}}
+387: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caineeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'old_value': 'Sir Michael Caine'}}}
+388: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'My name, is, Sir Michael, Caine'}}}
+389: {'values_changed': {"root['name']": {'new_value': 'My name, is, Sir Michael, Caine', 'old_value': 'Sir Michael Caine'}}}
+390: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'I Am Sir...Michael...Caine'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'I Am Sir...Michael...Caine', 'old_value': 'Sir Michael Caine'}}}
+430: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caine the butt scratcher of thy own London'}}}
+431: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine the butt scratcher of thy own London', 'old_value': 'Sir Michael Caine'}}}
+432: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caine Hairy Butt Scratcher of thy own London'}}}
+433: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine Hairy Butt Scratcher of thy own London', 'old_value': 'Sir Michael Caine'}}}
+453: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine', 'old_value': 'Sir Michael Caine Order of the British Empire'}}}
+454: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine Order of the British Empire', 'old_value': 'Sir Michael Caine  Order of the British Empire'}}}
+468: {'values_changed': {"root['occupation']": {'new_value': 'Actor, author', 'old_value': 'Actor, Author'}}}
+522: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine  Order of the British Empire', 'old_value': 'Sir Michael Caine IS DEAD FUNNY  Order of the British Empire'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine IS DEAD FUNNY  Order of the British Empire', 'old_value': 'Sir Michael Caine  Order of the British Empire'}}}
+524: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine  Order of the British Empire', 'old_value': 'Sir Michael Caine has died at AGE 2055  Order of the British Empire'}}}
+525: {'values_changed': {"root['name']": {'new_value': 'Sir Michael Caine has died at AGE 2055  Order of the British Empire', 'old_value': 'Sir Michael Caine  Order of the British Empire'}}}
+534: {'dictionary_item_removed': {"root['imagesize']": '500'}}
+584: {'dictionary_item_added': {"root['imagesize']": '500'}, 'dictionary_item_removed': {"root['residence']": 'Leatherhead, Surrey   Miami Beach, Florida'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Author', 'old_value': 'Actor, author'}}}
+591: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (m. 1955–1962; divorced) Shakira Caine', 'old_value': 'Patricia Haines (m. 1955–1962; divorced) Morgan Freeman'}}}
+592: {'values_changed': {"root['spouse']": {'new_value': 'Patricia Haines (m. 1955–1962; divorced) Morgan Freeman', 'old_value': 'Patricia Haines (m. 1955–1962; divorced) Shakira Caine'}}}

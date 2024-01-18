@@ -1,0 +1,21 @@
+153: {'dictionary_item_removed': {"root['name']": 'Tim Allen', "root['occupation']": 'Actor, comedian'}}
+156: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian', 'old_value': 'Voice-over artist, character actor, comedian'}}}
+342: {'dictionary_item_removed': {"root['networth']": '$5', "root['penis']": "19'"}}
+353: {'dictionary_item_added': {"root['networth']": '$5', "root['penis']": "19'"}, 'values_changed': {"root['name']": {'new_value': 'Tim Allen', 'old_value': 'Tim "The Shaggy Dog" Allen'}}}
+355: {'values_changed': {"root['name']": {'new_value': 'Tim "The Shaggy Dog" Allen', 'old_value': 'Tim Allen'}}}
+386: {'dictionary_item_added': {"root['occupation']": 'Voice-over artist, character actor, comedian'}, 'dictionary_item_removed': {"root['medium']": 'Stand-up, film, television, books', "root['spouse']": 'Laura Deibel (1984–2003; 1 child), Jane Hajduk (2006–present; 1 child)', "root['genre']": 'Observational comedy, improvisational comedy, physical comedy, character comedy', "root['subject']": 'Relationships, marriage, masculinity, gender differences, parenting, everyday life'}}
+465: {'dictionary_item_removed': {"root['notable_work']": "Tim Taylor on ''Home Improvement (TV series)"}}
+474: {'dictionary_item_removed': {"root['influences']": 'Chevy Chase, Laurel and Hardy'}, 'values_changed': {"root['medium']": {'new_value': 'Stand-up, film, television, books', 'old_value': 'Stand-up comedy'}, "root['genre']": {'new_value': 'Observational comedy, improvisational comedy, physical comedy, character comedy', 'old_value': 'Observational comedy, Blue comedy, Physical comedy, Character comedy'}, "root['subject']": {'new_value': 'Relationships, marriage, masculinity, gender differences, parenting, everyday life', 'old_value': 'Sex, Marriage, Gender differences, Family, Everyday life'}}}
+487: {'dictionary_item_removed': {"root['Died']": 'Death Date April 3rd 2012', "root['rowspan']": '3', "root['NAME']": 'Allen, Tim |ALTERNATIVE'}}
+490: {'dictionary_item_added': {"root['Died']": 'Death Date April 3rd 2012', "root['rowspan']": '3', "root['NAME']": 'Allen, Tim |ALTERNATIVE'}, 'dictionary_item_removed': {"root['alternate_names']": 'Timothy Dick'}}
+573: {'dictionary_item_added': {"root['alternate_names']": 'Timothy Dick'}, 'values_changed': {"root['name']": {'new_value': 'Tim Allen', 'old_value': 'Euhhhh Euhhhhh Euhhhh'}}}
+574: {'values_changed': {"root['name']": {'new_value': 'Euhhhh Euhhhhh Euhhhh', 'old_value': 'Tim Allen'}}}
+575: {'values_changed': {"root['notable_work']": {'new_value': "Tim Taylor on ''Home Improvement (TV series)", 'old_value': 'Tim Taylor (character)'}}}
+580: {'values_changed': {"root['spouse']": {'new_value': 'Laura Deibel (1984–2003; 1 child), Jane Hajduk (2006–present; 1 child)', 'old_value': 'Laura Diebel (1984–2003; 1 child), Jane Hajduk (2006–present; 1 child)'}}}
+581: {'values_changed': {"root['spouse']": {'new_value': 'Laura Diebel (1984–2003; 1 child), Jane Hajduk (2006–present; 1 child)', 'old_value': 'Laura Deibel (1984–2003; 1 child), Jane Hajduk (2006–present; 1 child)'}}}
+600: {'dictionary_item_removed': {"root['influenced']": 'Nobody'}}
+602: {'values_changed': {"root['influenced']": {'new_value': 'Nobody', 'old_value': 'No one'}}}
+608: {'dictionary_item_added': {"root['influenced']": 'No one'}, 'values_changed': {"root['name']": {'new_value': 'Tim Allen', 'old_value': 'Andrew James Cleave'}}}
+609: {'values_changed': {"root['name']": {'new_value': 'Andrew James Cleave', 'old_value': 'Tim Allen'}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Tim Allen', 'old_value': 'Andrew James Cleave'}}}
+611: {'values_changed': {"root['name']": {'new_value': 'Andrew James Cleave', 'old_value': 'Tim Allen'}}}

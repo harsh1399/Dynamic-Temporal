@@ -1,0 +1,24 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pete Postlethwaite OBE', "root['occupation']": 'Actor', "root['spouse']": 'Jacqueline Morrish (2003-present) '}}
+4: {'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003-present) ', 'old_value': 'Jacqueline Morrish (2003-2011) '}}}
+24: {'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003-2011) ', 'old_value': 'Jacqueline Morrish (2003–2011) '}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Pete Postlethwaite OBE', 'old_value': 'Peter Postlethwaite OBE'}}}
+31: {'values_changed': {"root['name']": {'new_value': 'Peter Postlethwaite OBE', 'old_value': 'Pete Postlethwaite OBE'}}}
+35: {'dictionary_item_removed': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK '}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011) ', 'old_value': 'Jacqueline Morrish (2003–2011)'}}}
+36: {'dictionary_item_removed': {"root['ethnicity']": 'White British '}, 'values_changed': {"root['residence']": {'new_value': 'Shropshire, UK ', 'old_value': 'Shropshire, UK'}}}
+56: {'dictionary_item_added': {"root['ethnicity']": 'White British '}, 'values_changed': {"root['name']": {'new_value': 'Pete Postlethwaite OBE', 'old_value': 'Pete Postlethwaite Officer of the Order of the British Empire'}}}
+68: {'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011)', 'old_value': 'Jacqueline Morrish (2003–2011; his death)'}}}
+80: {'dictionary_item_added': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK'}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011; his death)', 'old_value': 'Jacqueline Morrish (2003–2011; his death) '}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Pete Postlethwaite Officer of the Order of the British Empire', 'old_value': 'Pete Postlethwaite, Officer of the Order of the British Empire'}}}
+89: {'dictionary_item_removed': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK'}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011; his death) ', 'old_value': 'Jacqueline Morrish (2003–2011; his death)'}}}
+90: {'dictionary_item_added': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK'}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011; his death)', 'old_value': 'Jacqueline Morrish (2003–2011; his death) '}}}
+92: {'dictionary_item_removed': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK'}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011; his death) ', 'old_value': 'Jacqueline Morrish (2003–2011; his death)'}}}
+178: {'dictionary_item_added': {"root['children']": 'Son and daughter', "root['residence']": 'Shropshire, UK'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Islamic Writer/Actor'}}}
+180: {'values_changed': {"root['occupation']": {'new_value': 'Islamic Writer/Actor', 'old_value': 'Actor'}}}
+244: {'dictionary_item_removed': {"root['rowspan']": '"4"', "root['NAME']": 'Postlethwaite, Pete | ALTERNATIVE NAMES'}}
+354: {'dictionary_item_added': {"root['rowspan']": '"4"', "root['NAME']": 'Postlethwaite, Pete | ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['religion']": 'Roman Catholic'}}
+369: {'dictionary_item_added': {"root['religion']": 'Roman Catholic'}, 'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–2011; his death)', 'old_value': 'Jacqueline Morrish (2003–11; his death)'}}}
+375: {'dictionary_item_removed': {"root['alma_mater']": 'Bristol Old Vic Theater School'}}
+376: {'dictionary_item_added': {"root['spouse']": 'Jacqueline Morrish (2003–11; his death)'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Bristol Old Vic Theater School', 'old_value': 'Bristol Old Vic Theatre School'}}}
+377: {'dictionary_item_removed': {"root['spouse']": 'Jacqueline Morrish (2003–11; his death) '}}
+378: {'values_changed': {"root['spouse']": {'new_value': 'Jacqueline Morrish (2003–11; his death) ', 'old_value': 'Jacqueline Morrish, (m. 2003–2011, his death) '}}}
+385: {'dictionary_item_removed': {"root['df']": 'y'}}

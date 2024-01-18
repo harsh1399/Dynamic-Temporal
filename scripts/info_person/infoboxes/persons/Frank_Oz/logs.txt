@@ -1,0 +1,76 @@
+79: {'dictionary_item_removed': {"root['name']": 'Frank Oz', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon', "root['birthname']": 'Richard Frank Oznowicz', "root['spouse']": 'Robin Garsen (1979 - present) 2 children  '}}
+87: {'values_changed': {"root['birthname']": {'new_value': 'Richard Frank Oznowicz', 'old_value': 'Frank Oznowicz'}}}
+88: {'values_changed': {"root['birthname']": {'new_value': 'Frank Oznowicz', 'old_value': 'Richard Frank Oznowicz'}}}
+138: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Hereford, England, United Kingdom'}}}
+159: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Hereford, England, United Kingdom', "root['birthname']": 'Richard Frank Oznowicz'}, 'dictionary_item_removed': {"root['occupation']": 'Actor, director, puppeteer'}, 'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979 - present) 2 children  ', 'old_value': 'Robin Garsen (1979-present) '}}}
+168: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005) |          Victoria Labalme (engaged) '}}}
+169: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) |          Victoria Labalme (engaged) ', 'old_value': 'Robin Garsen (1979-present) '}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'Arnold Cilanterri'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Arnold Cilanterri', 'old_value': 'Frank Oz'}}}
+213: {'dictionary_item_removed': {"root['imagesize']": '200 x 243'}}
+252: {'dictionary_item_added': {"root['imagesize']": '200 x 243'}, 'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005), Victoria Labalme (2011-current) '}}}
+253: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005), Victoria Labalme (2011-current) ', 'old_value': 'Victoria Labalme (2011-current), Robin Garsen (1979-2005) '}}}
+254: {'values_changed': {"root['spouse']": {'new_value': 'Victoria Labalme (2011-current), Robin Garsen (1979-2005) ', 'old_value': 'Robin Garsen (1979-present) '}}}
+255: {'dictionary_item_removed': {"root['characters']": 'Fozzie Bear'}}
+274: {'dictionary_item_added': {"root['characters']": 'Fozzie Bear'}, 'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present) '}}}
+275: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present) ', 'old_value': 'Robin Garsen (1979-present) '}}}
+276: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present) '}}}
+277: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present) ', 'old_value': 'Robin Garsen (1979-present) '}}}
+278: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    '}}}
+279: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    ', 'old_value': 'Robin Garsen (1979-present) '}}}
+284: {'dictionary_item_removed': {"root['imagesize']": '10'}}
+287: {'values_changed': {"root['imagesize']": {'new_value': '10', 'old_value': '65'}}}
+288: {'values_changed': {"root['imagesize']": {'new_value': '65', 'old_value': '100'}}}
+289: {'values_changed': {"root['imagesize']": {'new_value': '100', 'old_value': '300'}}}
+309: {'dictionary_item_added': {"root['imagesize']": '300'}, 'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'YODA'}}}
+310: {'values_changed': {"root['name']": {'new_value': 'YODA', 'old_value': 'Frank Oz'}}}
+335: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-present) ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    '}}}
+336: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    ', 'old_value': 'Robin Garsen (1979-2005) '}}}
+339: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    '}}}
+341: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)    ', 'old_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)  |'}}}
+344: {'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'Fuck You'}}}
+345: {'values_changed': {"root['name']": {'new_value': 'Fuck You', 'old_value': 'Frank Oz'}}}
+369: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen (1979-2005) Victoria Labalme (2011-present)  |', 'old_value': 'Robin Garsen Victoria Labalme, (m. 2011-present)  |'}}}
+370: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen Victoria Labalme, (m. 2011-present)  |', 'old_value': 'Robin Garsen, (m. 1979&ndash;2005) Victoria Labalme, (m. 2011&ndash;present)  |'}}}
+379: {'values_changed': {"root['spouse']": {'new_value': 'Robin Garsen, (m. 1979&ndash;2005) Victoria Labalme, (m. 2011&ndash;present)  |', 'old_value': 'Robin Garsen, (m. 1979&ndash;2005) Victoria Labalme, (m. 2011&ndash;present) <ref name'}}}
+423: {'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'Frank Oz/Users/arai/Desktop/th.jpeg'}}}
+424: {'values_changed': {"root['name']": {'new_value': 'Frank Oz/Users/arai/Desktop/th.jpeg', 'old_value': 'Frank Oz'}}}
+437: {'dictionary_item_removed': {"root['residence']": 'New York City, New York, U.S.', "root['education']": 'Oakland Technical High School', "root['alma_mater']": 'Laney College', "root['children']": '3<ref name'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, director, puppeteer', 'old_value': 'Puppeteer, filmmaker, actor'}, "root['spouse']": {'new_value': 'Robin Garsen, (m. 1979&ndash;2005) Victoria Labalme, (m. 2011&ndash;present) <ref name', 'old_value': 'marriage'}}}
+442: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+443: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'New York City, New York, U.S.'}}}
+445: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+447: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'New York City, New York, U.S.'}}}
+448: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+449: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'New York City, New York, U.S.'}}}
+450: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+451: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'New York City, New York, U.S.'}}}
+453: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+454: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'New York City, New York, U.S.'}}}
+455: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York, U.S.', 'old_value': 'New York City, New York (state)'}}}
+464: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'Orinda, California (state)'}}}
+467: {'values_changed': {"root['residence']": {'new_value': 'Orinda, California (state)', 'old_value': 'New York City, New York (state)'}}}
+468: {'values_changed': {"root['children']": {'new_value': '3<ref name', 'old_value': '4<ref name'}}}
+517: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Puppeteer, director, producer, actor'}}}
+519: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, director, producer, actor', 'old_value': 'Puppeteer, filmmaker, actor'}}}
+520: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Puppeteer, director, producer, actor'}}}
+522: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, director, producer, actor', 'old_value': 'Puppeteer, filmmaker, actor'}}}
+524: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Puppeteer, director, producer, actor'}}}
+525: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, director, producer, actor', 'old_value': 'Puppeteer, filmmaker, actor'}}}
+526: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Puppeteer, director, producer, actor'}}}
+531: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, director, producer, actor', 'old_value': 'Actor, puppeteer, director, producer'}}}
+572: {'dictionary_item_removed': {"root['home_town']": 'Oakland, California, U.S.'}}
+594: {'dictionary_item_added': {"root['home_town']": 'Oakland, California, U.S.'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, director, producer', 'old_value': 'Puppeteer, filmmaker, actor'}}}
+596: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Actor, puppeteer, director, producer'}}}
+597: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, director, producer', 'old_value': 'Puppeteer, filmmaker, actor'}}}
+599: {'values_changed': {"root['occupation']": {'new_value': 'Puppeteer, filmmaker, actor', 'old_value': 'Actor, puppeteer, director, producer'}}}
+688: {'values_changed': {"root['residence']": {'new_value': 'New York City, New York (state)', 'old_value': 'Manhattan, New York (state)'}}}
+713: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, director, producer', 'old_value': 'Actor, puppeteer, filmmaker'}}}
+715: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, filmmaker', 'old_value': 'Actor, puppeteer, director, producer'}}}
+716: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, director, producer', 'old_value': 'Actor, puppeteer, filmmaker'}}}
+718: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, filmmaker', 'old_value': 'Actor, puppeteer, director, producer'}}}
+719: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, director, producer', 'old_value': 'Actor, puppeteer, filmmaker'}}}
+720: {'values_changed': {"root['occupation']": {'new_value': 'Actor, puppeteer, filmmaker', 'old_value': 'Actor, puppeteer, director, producer'}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'yoda'}}}
+732: {'values_changed': {"root['name']": {'new_value': 'yoda', 'old_value': 'Frank Oz'}}}
+733: {'values_changed': {"root['name']": {'new_value': 'Frank Oz', 'old_value': 'Yoda Guy'}}}
+734: {'values_changed': {"root['name']": {'new_value': 'Yoda Guy', 'old_value': 'Frank Oz'}}}

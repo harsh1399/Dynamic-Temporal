@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Robert Hardy  Order of the British Empire', "root['occupation']": 'Actor', "root['spouse']": 'Elizabeth Fox (1952-1956) Sally Pearson (1961-1986) '}}
+1: {'values_changed': {"root['name']": {'new_value': 'Robert Hardy  Order of the British Empire', 'old_value': 'Robert Hardy'}}}
+9: {'values_changed': {"root['spouse']": {'new_value': 'Elizabeth Fox (1952-1956) Sally Pearson (1961-1986) ', 'old_value': 'Elizabeth Fox (1952-56) Sally Pearson (1961-86) '}}}
+37: {'values_changed': {"root['spouse']": {'new_value': 'Elizabeth Fox (1952-56) Sally Pearson (1961-86) ', 'old_value': 'Elizabeth Fox (1952–56) Sally Pearson (1961–86) '}}}
+38: {'values_changed': {"root['spouse']": {'new_value': 'Elizabeth Fox (1952–56) Sally Pearson (1961–86) ', 'old_value': 'Elizabeth Fox (1952–56) Sally Pearson (1961–86)'}}}
+81: {'values_changed': {"root['spouse']": {'new_value': 'Elizabeth Fox (1952–56) Sally Pearson (1961–86)', 'old_value': 'marriage'}}}
+200: {'dictionary_item_removed': {"root['alma_mater']": 'Magdalen College, Oxford'}}

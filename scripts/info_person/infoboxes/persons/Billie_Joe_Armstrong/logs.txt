@@ -1,0 +1,114 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Billie Joe Armstrong', "root['Img']": 'Billjoeamstrongscotland2009.jpg', "root['Background']": 'solo_singer', "root['Birth_name']": 'Billie Joe Armstrong', "root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink', "root['Born']": 'birth date and age', "root['Instrument']": 'Singer', "root['Genre']": 'Rock music', "root['Occupation']": 'Singer Musician, songwriter, guitarist', "root['Years_active']": '1986–present', "root['Label']": 'Reprise Records', "root['Associated_acts']": 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs', "root['Notable_instruments']": 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) '}}
+1: {'values_changed': {"root['Occupation']": {'new_value': 'Singer Musician, songwriter, guitarist', 'old_value': 'Singer, Musician, songwriter, guitarist'}}}
+20: {'values_changed': {"root['Years_active']": {'new_value': '1986–present', 'old_value': '1972–present'}}}
+21: {'values_changed': {"root['Years_active']": {'new_value': '1972–present', 'old_value': '1986–present'}}}
+69: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Captain Dildo'}, "root['Birth_name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Captain Dipshit Dildo'}}}
+70: {'values_changed': {"root['Name']": {'new_value': 'Captain Dildo', 'old_value': 'Billie Joe Armstrong'}, "root['Birth_name']": {'new_value': 'Captain Dipshit Dildo', 'old_value': 'Billie Joe Armstrong'}}}
+99: {'dictionary_item_removed': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Born']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+100: {'dictionary_item_added': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Born']": {'new_value': 'birth date', 'old_value': 'birth date and age'}}}
+110: {'values_changed': {"root['Genre']": {'new_value': 'Rock music', 'old_value': 'Punk rock, Alternative rock, Heavy Metal music'}}}
+112: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Heavy Metal music', 'old_value': 'Rock music'}}}
+119: {'values_changed': {"root['Genre']": {'new_value': 'Rock music', 'old_value': 'Punk rock, Pop punk, New Wave, Alternative rock'}}}
+124: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs', 'old_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs, Blatz (band)'}}}
+127: {'values_changed': {"root['Born']": {'new_value': 'birth date and age', 'old_value': 'birth date and age and penis'}}}
+128: {'values_changed': {"root['Born']": {'new_value': 'birth date and age and penis', 'old_value': 'birth date and age'}}}
+133: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Pop punk, New Wave, Alternative rock', 'old_value': 'Punk rock, Pop punk, New wave music, Alternative rock'}}}
+134: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Pop punk, New wave music, Alternative rock', 'old_value': 'Punk rock, Pop punk, New wave, Alternative rock'}}}
+136: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Pop punk, New wave, Alternative rock', 'old_value': 'Punk rock, Pop punk, New wave music'}}}
+168: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs, Blatz (band)', 'old_value': 'Green Day,Blatz'}}}
+170: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day,Blatz', 'old_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs, Blatz (band)'}}}
+177: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Billie Joe Armstrong Rox A (Give It Up 4 Im)'}, "root['Background']": {'new_value': 'solo_singer', 'old_value': 'Nok Nok Whoes Dear, Mesa Mesa Billy Joe Armstrong, OMG, Actully Met Im AGHHHGGAGHGAAAA!!!!'}, "root['Occupation']": {'new_value': 'Singer, Musician, songwriter, guitarist', 'old_value': 'Singer, Musician, songwriter, guitarist, Green Day Singer, He Rox A'}}}
+178: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong Rox A (Give It Up 4 Im)', 'old_value': 'Billie Joe Armstrong'}, "root['Background']": {'new_value': 'Nok Nok Whoes Dear, Mesa Mesa Billy Joe Armstrong, OMG, Actully Met Im AGHHHGGAGHGAAAA!!!!', 'old_value': 'solo_singer'}, "root['Occupation']": {'new_value': 'Singer, Musician, songwriter, guitarist, Green Day Singer, He Rox A', 'old_value': 'Singer, Musician, songwriter, guitarist'}}}
+179: {'dictionary_item_removed': {"root['Died']": 'death date and age'}}
+182: {'dictionary_item_added': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Billie Joe Armstrong  (is HOT!)'}}}
+183: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong  (is HOT!)', 'old_value': 'Billie Joe Armstrong  (is a fag)'}}}
+184: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong  (is a fag)', 'old_value': 'Andrew Griner'}}}
+186: {'values_changed': {"root['Img']": {'new_value': 'Billjoeamstrongscotland2009.jpg', 'old_value': 'http://www.facebook.com/profile/pic.php?uid'}}}
+187: {'values_changed': {"root['Name']": {'new_value': 'Andrew Griner', 'old_value': 'Billie Joe Armstrong  (is HOT!)'}, "root['Img']": {'new_value': 'http://www.facebook.com/profile/pic.php?uid', 'old_value': 'Billjoeamstrongscotland2009.jpg'}}}
+189: {'dictionary_item_added': {"root['Img']": 'Billjoeamstrongscotland2009.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong  (is HOT!)', 'old_value': 'Andrew griner'}}}
+190: {'values_changed': {"root['Birth_name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Sexy Dude'}}}
+192: {'dictionary_item_removed': {"root['Img']": 'Billjoeamstrongscotland2009.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Andrew griner', 'old_value': 'Billie Joe Armstrong  (is HOT!)'}, "root['Birth_name']": {'new_value': 'Sexy Dude', 'old_value': 'Billie Joe Armstrong'}}}
+197: {'dictionary_item_added': {"root['Img']": 'Billjoeamstrongscotland2009.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong  (is HOT!)', 'old_value': 'Andrew Griner'}}}
+198: {'dictionary_item_removed': {"root['Img']": 'Billjoeamstrongscotland2009.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Andrew Griner', 'old_value': 'Billie Joe Armstrong  (is HOT!)'}}}
+199: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong  (is HOT!)', 'old_value': 'Billie Joe Armstrong'}}}
+200: {'dictionary_item_removed': {"root['Height']": '5:7'}}
+201: {'values_changed': {"root['Img']": {'new_value': 'Billjoeamstrongscotland2009.jpg', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+208: {'values_changed': {"root['Occupation']": {'new_value': 'Singer, Musician, songwriter, guitarist', 'old_value': 'Singer, musician, songwriter, guitarist'}}}
+228: {'dictionary_item_added': {"root['Label']": 'Reprise Records'}, 'values_changed': {"root['Years_active']": {'new_value': '1986–present', 'old_value': '1986–2010 (hiatus)'}}}
+232: {'values_changed': {"root['Years_active']": {'new_value': '1986–2010 (hiatus)', 'old_value': '1986–2010'}}}
+235: {'values_changed': {"root['Years_active']": {'new_value': '1986–2010', 'old_value': '1986–Present'}}}
+236: {'values_changed': {"root['Years_active']": {'new_value': '1986–Present', 'old_value': '1986–present'}}}
+238: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Pop punk, New wave music', 'old_value': 'Punk rock, Alternative rock, Pop punk, New wave music'}}}
+252: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Billie Joe Dickstrong'}}}
+254: {'dictionary_item_added': {"root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink'}, 'values_changed': {"root['Birth_name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'ERA MAMMOR'}}}
+257: {'dictionary_item_removed': {"root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink'}, 'values_changed': {"root['Name']": {'new_value': 'Billie Joe Dickstrong', 'old_value': 'Billie Joe Armstrong'}, "root['Birth_name']": {'new_value': 'ERA MAMMOR', 'old_value': 'Billie Joe Armstrong'}}}
+274: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs, Blatz (band)', 'old_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs'}}}
+279: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, New wave music', 'old_value': 'Punk rock, Alternative rock, Pop punk, Garage Rock'}}}
+284: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png', 'old_value': 'Billjoeamstrongscotland2009.jpg'}}}
+306: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, Garage Rock', 'old_value': 'Punk rock, Garage Rock, Hardcore punk'}}}
+308: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Garage Rock, Hardcore punk', 'old_value': 'Punk rock, Alternative rock, Pop punk, Garage Rock'}}}
+311: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, Garage Rock', 'old_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music'}}}
+312: {'values_changed': {"root['Img']": {'new_value': 'Billjoeamstrongscotland2009.jpg', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+334: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music', 'old_value': 'Punk rock, Alternative rock, Heavy metal music'}}}
+335: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Heavy metal music', 'old_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music'}}}
+395: {'dictionary_item_removed': {"root['Spouses']": 'Adrienne Armstrong '}, 'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) ', 'old_value': 'Gibson Les Paul Junior'}}}
+396: {'dictionary_item_added': {"root['Spouses']": 'Adrienne Armstrong '}, 'values_changed': {"root['Notable_instruments']": {'new_value': 'Gibson Les Paul Junior', 'old_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) '}}}
+399: {'values_changed': {"root['Height']": {'new_value': '5:7', 'old_value': '5:2'}, "root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music', 'old_value': 'Emo, Alternative rock, Pop punk, Garage rock, New Wave music'}}}
+400: {'values_changed': {"root['Height']": {'new_value': '5:2', 'old_value': '5:7'}, "root['Genre']": {'new_value': 'Emo, Alternative rock, Pop punk, Garage rock, New Wave music', 'old_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music'}}}
+406: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'singer'}}}
+407: {'values_changed': {"root['Background']": {'new_value': 'singer', 'old_value': 'solo_singer'}}}
+410: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Billie Joe Armstrong (is awesome)'}}}
+411: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong (is awesome)', 'old_value': 'Billie Joe Armstrong'}}}
+425: {'values_changed': {"root['Height']": {'new_value': '5:7', 'old_value': '5:2'}}}
+427: {'values_changed': {"root['Height']": {'new_value': '5:2', 'old_value': '5:7'}}}
+432: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png', 'old_value': 'Billie Joe Armstrong is an awsome dude at mic in Cardiff.png'}}}
+433: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong is an awsome dude at mic in Cardiff.png', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+450: {'values_changed': {"root['Height']": {'new_value': '5:7', 'old_value': '4:8'}}}
+451: {'values_changed': {"root['Height']": {'new_value': '4:8', 'old_value': '5:7'}}}
+467: {'values_changed': {"root['Height']": {'new_value': '5:7', 'old_value': '4:8'}}}
+468: {'values_changed': {"root['Height']": {'new_value': '4:8', 'old_value': '5:7'}}}
+490: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong', 'old_value': 'Billie Joe Armstrong and Anne MacDonald <3'}}}
+491: {'values_changed': {"root['Name']": {'new_value': 'Billie Joe Armstrong and Anne MacDonald <3', 'old_value': 'Billie Joe Armstrong'}}}
+499: {'dictionary_item_removed': {"root['Label']": 'Reprise Records'}, 'values_changed': {"root['Height']": {'new_value': '5:7', 'old_value': '5\'7"'}}}
+505: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png', 'old_value': 'Image:billiejoe.jpg'}}}
+506: {'values_changed': {"root['Img']": {'new_value': 'Image:billiejoe.jpg', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+522: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, The Network, Pinhead Gunpowder, Foxboro Hot Tubs', 'old_value': 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs'}}}
+528: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, Alternative rock, Pop punk, Garage rock, New Wave music', 'old_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music'}}}
+542: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png so cool!'}}}
+543: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png so cool!', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+547: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music', 'old_value': 'alternative rock, pop punk, garage rock, New Wave music'}}}
+548: {'values_changed': {"root['Genre']": {'new_value': 'alternative rock, pop punk, garage rock, New Wave music', 'old_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music'}}}
+579: {'values_changed': {"root['Height']": {'new_value': '5\'7"', 'old_value': '5\'7" + Dove LOVES HIM HE IS SO COOL WEWEWEWEWEWEWEWEW'}}}
+580: {'values_changed': {"root['Height']": {'new_value': '5\'7" + Dove LOVES HIM HE IS SO COOL WEWEWEWEWEWEWEWEW', 'old_value': '5\'7"'}}}
+583: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs', 'old_value': 'Green Day, Pinhead Gunpowder,Foxboro Hot Tubs'}}}
+584: {'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, Pinhead Gunpowder,Foxboro Hot Tubs', 'old_value': 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs'}}}
+585: {'values_changed': {"root['Alias']": {'new_value': 'Wilhelm Fink, Reverend Strychnine Twitch, Fink', 'old_value': ', Reverend Strychnine Twitch,'}}}
+586: {'values_changed': {"root['Alias']": {'new_value': ', Reverend Strychnine Twitch,', 'old_value': 'Wilhelm Fink, Reverend Strychnine Twitch, Fink'}}}
+600: {'values_changed': {"root['Height']": {'new_value': '5\'7"', 'old_value': '5ft7'}}}
+601: {'values_changed': {"root['Height']": {'new_value': '5ft7', 'old_value': '5\'7"'}}}
+663: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) ', 'old_value': 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) '}}}
+664: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) ', 'old_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) '}}}
+665: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) ', 'old_value': 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) '}}}
+666: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) ', 'old_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) '}}}
+667: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Billie Joe Armstrong  Signature Gibson Les Paul Junior Fernandes Stratocaster (Blue) ', 'old_value': 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) '}}}
+691: {'values_changed': {"root['Img']": {'new_value': 'Billie Joe Armstrong at mic in Cardiff.png', 'old_value': 'File:billie joe August 31 jump.jpg'}}}
+692: {'values_changed': {"root['Img']": {'new_value': 'File:billie joe August 31 jump.jpg', 'old_value': 'Billie Joe Armstrong at mic in Cardiff.png'}}}
+696: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music', 'old_value': 'alternative rock, pop punk, garage rock, New Wave music'}}}
+698: {'values_changed': {"root['Genre']": {'new_value': 'alternative rock, pop punk, garage rock, New Wave music', 'old_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music'}}}
+703: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, alternative rock, pop punk, garage rock, New Wave music', 'old_value': 'Punk rock, alternative rock, rock music'}}}
+706: {'dictionary_item_added': {"root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs', 'old_value': 'Green Day, Pinhead Gunpowder, Foxboro Hot Tubs'}}}
+708: {'dictionary_item_removed': {"root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'Green Day, Pinhead Gunpowder, Foxboro Hot Tubs', 'old_value': 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs'}}}
+711: {'values_changed': {"root['Height']": {'new_value': '5\'7"', 'old_value': '5\'8"'}}}
+714: {'values_changed': {"root['Height']": {'new_value': '5\'8"', 'old_value': '5\'7"'}}}
+717: {'values_changed': {"root['Genre']": {'new_value': 'Punk rock, alternative rock, rock music', 'old_value': 'alternative rock, rock music'}}}
+718: {'values_changed': {"root['Genre']": {'new_value': 'alternative rock, rock music', 'old_value': 'Punk rock, alternative rock, rock music'}}}
+727: {'dictionary_item_added': {"root['Name']": 'Billie Joe Armstrong', "root['Img']": 'Billie Joe Armstrong at mic in Cardiff.png', "root['Background']": 'solo_singer', "root['Birth_name']": 'Billie Joe Armstrong', "root['Alias']": 'Wilhelm Fink, Reverend Strychnine Twitch, Fink', "root['Born']": 'birth date and age', "root['Instrument']": 'Singer', "root['Height']": '5\'7"', "root['Genre']": 'Punk rock, alternative rock, rock music', "root['Occupation']": 'Singer, musician, songwriter, guitarist', "root['Years_active']": '1986–present', "root['Label']": 'Reprise Records', "root['Associated_acts']": 'Green Day, Pinhead Gunpowder, The Network, Foxboro Hot Tubs', "root['Notable_instruments']": 'Billie Joe Armstrong , Signature Gibson Les Paul Junior, Fernandes Stratocaster (Blue) '}, 'dictionary_item_removed': {"root['name']": 'Billie Joe Armstrong', "root['alias']": [], "root['origin']": 'Rodeo, California, U.S.', "root['genre']": [], "root['occupation']": [], "root['instrument']": [], "root['label']": [], "root['associated_acts']": []}}
+740: {'dictionary_item_added': {"root['label']": [], "root['associated_acts']": []}, 'iterable_item_removed': {"root['instrument'][0]": 'Vocals', "root['instrument'][1]": 'guitar', "root['instrument'][2]": 'drums'}}
+741: {'dictionary_item_removed': {"root['label']": [], "root['associated_acts']": []}, 'iterable_item_added': {"root['instrument'][0]": 'Vocals', "root['instrument'][1]": 'guitar', "root['instrument'][2]": 'drums'}}
+756: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['current_member_of']": []}}
+757: {'dictionary_item_added': {"root['origin']": 'Rodeo, California, U.S.'}, 'dictionary_item_removed': {"root['education']": 'Pinole Valley High School', "root['spouse']": [], "root['children']": '2', "root['awards']": 'List of awards and nominations received by Green Day', "root['embed']": 'yes'}}
+760: {'dictionary_item_removed': {"root['party']": 'Independent politician'}}
+761: {'dictionary_item_removed': {"root['past_member_of']": 'Desecrated Youth'}}
+807: {'type_changes': {"root['past_member_of']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Desecrated Youth<ref name'], 'new_value': 'Desecrated Youth'}}}
+813: {'values_changed': {"root['party']": {'new_value': 'Independent politician', 'old_value': 'Independent voter'}}}
+816: {'iterable_item_added': {"root['past_member_of'][0]": 'Desecrated Youth<ref name'}}

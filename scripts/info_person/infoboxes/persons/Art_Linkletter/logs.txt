@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Art Linkletter', "root['birthname']": 'Gordon Arthur Kelly', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Moose Jaw, Saskatchewan, Canada', "root['occupation']": 'Radio personality', "root['spouse']": 'Lois Foerster (1935 - present) '}}
+29: {'values_changed': {"root['spouse']": {'new_value': 'Lois Foerster (1935 - present) ', 'old_value': 'Lois Foerster (1935 - 2010 (his death)) '}}}
+32: {'values_changed': {"root['spouse']": {'new_value': 'Lois Foerster (1935 - 2010 (his death)) ', 'old_value': 'Lois Foerster (1935-2010 (his death)) '}}}
+34: {'dictionary_item_removed': {"root['deathdate']": 'May 26, 2010 (aged 97)'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'July 17, 1912'}}}
+36: {'dictionary_item_removed': {"root['yearsactive']": '1933-2010'}}
+43: {'values_changed': {"root['spouse']": {'new_value': 'Lois Foerster (1935-2010 (his death)) ', 'old_value': 'Lois Foerster (1935-2010) , (his death) '}}}
+44: {'dictionary_item_removed': {"root['deathplace']": 'Los Angeles, California'}}
+94: {'values_changed': {"root['birthdate']": {'new_value': 'July 17, 1912', 'old_value': 'birth date'}, "root['deathdate']": {'new_value': 'May 26, 2010 (aged 97)', 'old_value': 'death date and age'}, "root['deathplace']": {'new_value': 'Los Angeles, California', 'old_value': 'Los Angeles, California, United States'}, "root['occupation']": {'new_value': 'Radio personality', 'old_value': 'Radio/Television personality'}, "root['yearsactive']": {'new_value': '1933-2010', 'old_value': '1933&ndash;2010'}}}
+102: {'values_changed': {"root['deathplace']": {'new_value': 'Los Angeles, California, United States', 'old_value': 'city-state'}, "root['spouse']": {'new_value': 'Lois Foerster (1935-2010) , (his death) ', 'old_value': 'Lois Foerster '}}}
+121: {'values_changed': {"root['deathplace']": {'new_value': 'city-state', 'old_value': 'Los Angeles, California, United States'}, "root['occupation']": {'new_value': 'Radio/Television personality', 'old_value': 'Radio/television personality'}}}

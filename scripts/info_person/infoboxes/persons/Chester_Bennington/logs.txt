@@ -1,0 +1,162 @@
+215: {'dictionary_item_removed': {"root['band_name']": 'Chester Bennington', "root['origin']": 'Phoenix, Arizona', "root['country']": 'United States', "root['music_genre']": 'Nu-Metal '}}
+308: {'values_changed': {"root['music_genre']": {'new_value': 'Nu-Metal ', 'old_value': 'Nu-Metal, Rock '}}}
+462: {'values_changed': {"root['music_genre']": {'new_value': 'Nu-Metal, Rock ', 'old_value': 'Nu-Metal '}}}
+473: {'values_changed': {"root['music_genre']": {'new_value': 'Nu-Metal ', 'old_value': 'Nu-Metal/rapcore/alternative rock '}}}
+475: {'values_changed': {"root['music_genre']": {'new_value': 'Nu-Metal/rapcore/alternative rock ', 'old_value': 'Nu Metal '}}}
+480: {'values_changed': {"root['music_genre']": {'new_value': 'Nu Metal ', 'old_value': 'Alt. Rock '}}}
+481: {'values_changed': {"root['music_genre']": {'new_value': 'Alt. Rock ', 'old_value': 'Alternative Rock '}}}
+484: {'values_changed': {"root['music_genre']": {'new_value': 'Alternative Rock ', 'old_value': 'Nu metal '}}}
+497: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal ', 'old_value': 'Nu metal/Alternative Rock '}}}
+528: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal/Alternative Rock ', 'old_value': 'Nu metal '}}}
+559: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal ', 'old_value': 'Nu Metal '}}}
+607: {'values_changed': {"root['band_name']": {'new_value': 'Chester Bennington', 'old_value': 'Harley 2 Munky'}}}
+608: {'values_changed': {"root['band_name']": {'new_value': 'Harley 2 Munky', 'old_value': 'Chester Bennington'}}}
+614: {'values_changed': {"root['music_genre']": {'new_value': 'Nu Metal ', 'old_value': 'Nu metal '}}}
+631: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal ', 'old_value': 'Nu metal   Spouse'}}}
+632: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal   Spouse', 'old_value': 'Nu metal '}}}
+637: {'values_changed': {"root['band_name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Charles Bennington'}}}
+638: {'values_changed': {"root['band_name']": {'new_value': 'Chester Charles Bennington', 'old_value': 'Chester Bennington'}}}
+662: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal ', 'old_value': 'Nu metal ,  Alternative metal ,  Alternative rock '}}}
+688: {'values_changed': {"root['music_genre']": {'new_value': 'Nu metal ,  Alternative metal ,  Alternative rock ', 'old_value': 'Nu metal ,  Alternative rock '}}}
+690: {'dictionary_item_added': {"root['band_name']": 'Chester Bennington', "root['country']": 'United States', "root['music_genre']": 'Nu metal ,  Alternative rock '}, 'dictionary_item_removed': {"root['name']": 'Chester Bennington', "root['alias']": 'Chazy Chaz', "root['instrument']": 'Vocals, guitar, piano, drums', "root['genre']": 'Alternative rock, post-grunge, alternative metal, rap rock, nu metal, electronic rock', "root['occupation']": 'Musician, singer-songwriter, actor', "root['voice_type']": 'Tenor', "root['label']": 'Warner Bros. Records', "root['associated_acts']": 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots', "root['background']": 'solo_singer', "root['notable_instruments']": 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars Yamaha Guitars '}, 'values_changed': {"root['origin']": {'new_value': 'Phoenix, Arizona', 'old_value': 'Agoura Hills, California, U.S.'}}}
+691: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, alternative metal, rap rock, nu metal, electronic rock', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+724: {'dictionary_item_added': {"root['origin']": 'Agoura Hills, California, U.S.'}, 'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, nu metal, post-grunge, rap rock, alternative metal'}}}
+725: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, nu metal, post-grunge, rap rock, alternative metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+728: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative metal, alternative rock, post-grunge, rap rock, nu metal'}}}
+729: {'values_changed': {"root['genre']": {'new_value': 'Alternative metal, alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+733: {'dictionary_item_added': {"root['alias']": 'Chazy Chaz', "root['voice_type']": 'Tenor'}, 'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, Alternative Metal, post-grunge, rap rock, Rap Metal, nu metal, Electronic rock,'}}}
+734: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, Alternative Metal, post-grunge, rap rock, Rap Metal, nu metal, Electronic rock,', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+741: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge,  nu metal'}}}
+742: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge,  nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+746: {'values_changed': {"root['notable_instruments']": {'new_value': 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars Yamaha Guitars ', 'old_value': 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars  Yamaha electric guitar models '}}}
+747: {'values_changed': {"root['notable_instruments']": {'new_value': 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars  Yamaha electric guitar models ', 'old_value': 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars  Yamaha Guitars '}}}
+748: {'values_changed': {"root['associated_acts']": {'new_value': 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots', 'old_value': 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots, Bucket of Weenies'}}}
+754: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, rap metal, hip hop, heavy metal, punk rock, nu metal'}, "root['associated_acts']": {'new_value': 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots, Bucket of Weenies', 'old_value': 'Linkin Park, Dead by Sunrise, Motley Crue, Chris Cornell, Fort Minor, Jonathan Davis, Mike Shinoda, Busta Rhymes, Jay-Z, Slash, Julien-K, Grey Daze, Sean Dowdell And His Friends?, Xero, Stone Temple Pilots, Bucket of Weenies'}}}
+755: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, rap metal, hip hop, heavy metal, punk rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}, "root['associated_acts']": {'new_value': 'Linkin Park, Dead by Sunrise, Motley Crue, Chris Cornell, Fort Minor, Jonathan Davis, Mike Shinoda, Busta Rhymes, Jay-Z, Slash, Julien-K, Grey Daze, Sean Dowdell And His Friends?, Xero, Stone Temple Pilots, Bucket of Weenies', 'old_value': 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots, Bucket of Weenies'}}}
+756: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal, Pieca Pyrofire was here'}}}
+757: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal, Pieca Pyrofire was here', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+769: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal'}}}
+770: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal, post-hardcore, punk rock, pop rock'}}}
+771: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal, post-hardcore, punk rock, pop rock', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal'}}}
+772: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal, alternative metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+775: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, rap metal, nu metal, alternative metal, hard rock, heavy metal'}}}
+776: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, rap metal, nu metal, alternative metal, hard rock, heavy metal', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+777: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, piano, drums', 'old_value': 'Vocals, guitar, piano, drums, percussion'}}}
+778: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, rap rock, nu metal, hard rock, alternative metal, post-grunge'}}}
+779: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, piano, drums, percussion', 'old_value': 'Vocals, guitar, piano, drums'}, "root['genre']": {'new_value': 'Alternative rock, rap rock, nu metal, hard rock, alternative metal, post-grunge', 'old_value': 'Alternative rock, post-grunge, rap rock, nu metal'}}}
+782: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Anime Man'}}}
+783: {'values_changed': {"root['name']": {'new_value': 'Anime Man', 'old_value': 'Chester Bennington'}}}
+784: {'values_changed': {"root['genre']": {'new_value': 'Alternative rock, post-grunge, rap rock, nu metal', 'old_value': 'Alternative rock, post-grunge, rap rock, alternative metal, nu metal'}}}
+804: {'values_changed': {"root['notable_instruments']": {'new_value': 'Hamer Vector flying V guitar  Takamine Guitars Taylor Guitars  Yamaha Guitars ', 'old_value': 'Hamer Vector  Takamine Guitars Taylor Guitars  Yamaha Guitars '}}}
+805: {'dictionary_item_added': {"root['notable_instruments']": 'Hamer Vector  Takamine Guitars Taylor Guitars  Yamaha Guitars '}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, piano, drums', 'old_value': 'Vocals'}, "root['occupation']": {'new_value': 'Musician, singer-songwriter, actor', 'old_value': 'Musician, singer, songwriter, actor'}}}
+806: {'dictionary_item_removed': {"root['notable_instruments']": 'Hamer Vector  Takamine Guitars Taylor Guitars  Yamaha Guitars '}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar, piano, drums'}, "root['occupation']": {'new_value': 'Musician, singer, songwriter, actor', 'old_value': 'Musician, singer-songwriter, actor'}}}
+807: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, piano, drums', 'old_value': 'Vocals'}}}
+809: {'dictionary_item_added': {"root['notable_instruments']": 'Hamer Vector  Takamine Guitars Taylor Guitars  Yamaha Guitars '}, 'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar'}}}
+810: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar', 'old_value': 'Vocals'}}}
+811: {'values_changed': {"root['occupation']": {'new_value': 'Musician, singer-songwriter, actor', 'old_value': 'Musician, singer, songwriter, actor'}}}
+813: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Guitar, Piano, Percussion'}}}
+814: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Guitar, Piano, Percussion', 'old_value': 'Vocals'}}}
+816: {'dictionary_item_removed': {"root['origin']": 'fag land', "root['notable_instruments']": 'Drums,tuba,baritone,microphone, '}}
+829: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Alternative rock, post-grunge, rap rock, alternative metal, nu metal'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Musician, singer, songwriter, actor'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Warner Bros. Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots', 'Grey Daze', 'Bucket of Weenies Of Mice and Men'], 'new_value': 'Linkin Park, Dead by Sunrise, Julien-K, Grey Daze, Stone Temple Pilots, Bucket of Weenies'}}, 'dictionary_item_added': {"root['origin']": 'fag land', "root['notable_instruments']": 'Drums,tuba,baritone,microphone, '}, 'dictionary_item_removed': {"root['spouse']": [], "root['children']": '6'}}
+830: {'values_changed': {"root['associated_acts'][6]": {'new_value': 'Bucket of Weenies Of Mice and Men', 'old_value': 'Bucket of Weenies'}}}
+833: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester "dicksucking" Bennington'}}}
+834: {'values_changed': {"root['name']": {'new_value': 'Chester "dicksucking" Bennington', 'old_value': 'Chester Bennington'}}}
+835: {'iterable_item_removed': {"root['associated_acts'][4]": 'Jonathan Davis', "root['associated_acts'][5]": 'Disturbed'}}
+837: {'iterable_item_added': {"root['associated_acts'][4]": 'Jonathan Davis', "root['associated_acts'][5]": 'Disturbed'}}
+838: {'iterable_item_removed': {"root['associated_acts'][4]": 'Jonathan Davis', "root['associated_acts'][5]": 'Disturbed'}}
+839: {'iterable_item_added': {"root['associated_acts'][4]": 'Jonathan Davis', "root['associated_acts'][5]": 'Disturbed'}}
+851: {'iterable_item_removed': {"root['associated_acts'][2]": 'Mötley Crüe'}}
+852: {'iterable_item_added': {"root['associated_acts'][2]": 'Mötley Crüe'}}
+857: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Guitar, Bass and Piano'}}}
+858: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Guitar, Bass and Piano', 'old_value': 'Vocals'}}}
+867: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals•Guitar'}}}
+868: {'values_changed': {"root['instrument']": {'new_value': 'Vocals•Guitar', 'old_value': 'Vocals'}}}
+882: {'type_changes': {"root['label']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Warner Bros. Records', 'new_value': []}}}
+883: {'type_changes': {"root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Warner Bros. Records'}}}
+884: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals , Guitar'}}}
+885: {'values_changed': {"root['instrument']": {'new_value': 'Vocals , Guitar', 'old_value': 'Vocals'}}}
+890: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar'}}}
+891: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar', 'old_value': 'Vocals'}}}
+900: {'dictionary_item_removed': {"root['date']": 'Birth', "root['accessdate']": '2008-09-30', "root['rowspan']": '"1"', "root['colwidth']": '30em'}, 'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots', "root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+902: {'dictionary_item_added': {"root['date']": 'Birth', "root['accessdate']": '2008-09-30', "root['rowspan']": '"1"', "root['colwidth']": '30em'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots', "root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+929: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'wenger out'}}}
+937: {'values_changed': {"root['name']": {'new_value': 'wenger out', 'old_value': 'Chester Bennington'}}}
+942: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'wenger out'}}}
+943: {'values_changed': {"root['name']": {'new_value': 'wenger out', 'old_value': 'Chester Bennington'}}}
+1011: {'dictionary_item_removed': {"root['died']": 'today'}}
+1019: {'values_changed': {"root['died']": {'new_value': 'today', 'old_value': 'July 20, 2017'}}}
+1052: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_added': {"root['died']": 'July 20, 2017'}}
+1053: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Cheesy Bennington'}}}
+1062: {'values_changed': {"root['name']": {'new_value': 'Cheesy Bennington', 'old_value': 'Chester Bennington'}}}
+1066: {'dictionary_item_removed': {"root['other_name']": 'Jefro James'}}
+1071: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Cheste Bennington'}}}
+1075: {'values_changed': {"root['children']": {'new_value': '6', 'old_value': '47'}}}
+1077: {'values_changed': {"root['name']": {'new_value': 'Cheste Bennington', 'old_value': 'Chester Bennington'}, "root['children']": {'new_value': '47', 'old_value': '6'}}}
+1099: {'dictionary_item_added': {"root['other_name']": 'Jefro James'}, 'dictionary_item_removed': {"root['date']": 'Birth date', "root['accessdate']": '2008-09-30', "root['rowspan']": '"1"', "root['colwidth']": '30em'}, 'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots', "root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+1105: {'dictionary_item_added': {"root['accessdate']": '2008-09-30', "root['rowspan']": '"1"', "root['colwidth']": '30em'}, 'values_changed': {"root['date']": {'new_value': 'Birth date', 'old_value': 'Birth'}}}
+1106: {'dictionary_item_added': {"root['date']": 'Birth'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots', "root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+1120: {'dictionary_item_removed': {"root['embed']": 'yes'}}
+1127: {'iterable_item_added': {"root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+1131: {'iterable_item_removed': {"root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+1147: {'iterable_item_added': {"root['associated_acts'][5]": 'Grey Daze', "root['associated_acts'][6]": 'Bucket of Weenies'}}
+1350: {'dictionary_item_added': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '2005|e'}}}
+1351: {'dictionary_item_removed': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': '2005|e', 'old_value': 'marriage'}}}
+1414: {'iterable_item_removed': {"root['associated_acts'][5]": 'Jay Z'}}
+1419: {'values_changed': {"root['associated_acts'][5]": {'new_value': 'Jay Z', 'old_value': 'Chris Cornell'}}}
+1420: {'values_changed': {"root['associated_acts'][5]": {'new_value': 'Chris Cornell', 'old_value': 'Jay Z'}}}
+1435: {'dictionary_item_added': {"root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots', 'Jay Z']}, 'dictionary_item_removed': {"root['date']": 'Birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}}
+1436: {'dictionary_item_added': {"root['date']": 'Birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'dictionary_item_removed': {"root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}}
+1549: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, guitar'}}}
+1551: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar', 'old_value': 'Vocals'}}}
+1553: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Bennington (The BEST person to EVER live)'}}}
+1554: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington (The BEST person to EVER live)', 'old_value': 'Chester Bennington'}}}
+1568: {'dictionary_item_added': {"root['spouse']": 'marriage', "root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'iterable_item_removed': {"root['occupation'][0]": 'Musician', "root['occupation'][1]": 'singer', "root['occupation'][2]": 'songwriter', "root['occupation'][3]": 'actor'}}
+1571: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'iterable_item_added': {"root['occupation'][0]": 'Musician', "root['occupation'][1]": 'singer', "root['occupation'][2]": 'songwriter', "root['occupation'][3]": 'actor'}}
+1593: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Bennington (REST IN PEACE FOREVER)'}}}
+1594: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington (REST IN PEACE FOREVER)', 'old_value': 'Chester Bennington'}}}
+1636: {'dictionary_item_removed': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1638: {'dictionary_item_added': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1664: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Guitar and Bass'}}}
+1665: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Guitar and Bass', 'old_value': 'Vocals'}}}
+1676: {'iterable_item_removed': {"root['associated_acts'][1]": 'Chris Cornell'}}
+1678: {'iterable_item_added': {"root['associated_acts'][1]": 'Chris Cornell'}}
+1701: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Deadington'}}}
+1702: {'values_changed': {"root['name']": {'new_value': 'Chester Deadington', 'old_value': 'Chester Bennington'}}}
+1703: {'dictionary_item_added': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1996|2005|e'}}}
+1704: {'dictionary_item_removed': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': '1996|2005|e', 'old_value': 'marriage'}}}
+1705: {'dictionary_item_added': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1996|2005|e'}}}
+1706: {'dictionary_item_removed': {"root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": 'Vocals', "root['genre']": [], "root['label']": [], "root['associated_acts']": ['Linkin Park', 'Dead by Sunrise', 'Julien-K', 'Kings of Chaos', 'Stone Temple Pilots']}, 'values_changed': {"root['spouse']": {'new_value': '1996|2005|e', 'old_value': 'marriage'}}}
+1742: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals'}}}
+1747: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals', 'new_value': []}}}
+1774: {'iterable_item_removed': {"root['associated_acts'][5]": 'Grey Daze'}}
+1776: {'iterable_item_added': {"root['associated_acts'][5]": 'Grey Daze'}}
+1797: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer, songwriter, actor', 'new_value': []}}}
+1798: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer, songwriter, actor'}}}
+1817: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Electric/Acoustic Guitar'}}}
+1818: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Electric/Acoustic Guitar', 'old_value': 'Vocals, Guitar, And Bass'}}}
+1819: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Guitar, And Bass', 'old_value': 'Vocals'}}}
+1830: {'dictionary_item_removed': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1831: {'dictionary_item_added': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1846: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Guitar'}}}
+1848: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, Guitar'}}}
+1866: {'iterable_item_removed': {"root['associated_acts'][2]": 'Bon Jovi'}}
+1867: {'iterable_item_added': {"root['associated_acts'][2]": 'Bon Jovi'}}
+1869: {'iterable_item_removed': {"root['associated_acts'][1]": 'Jay Z'}}
+1871: {'iterable_item_added': {"root['associated_acts'][1]": 'Jay Z'}}
+1872: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Bennington is a god'}}}
+1873: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington is a god', 'old_value': 'Chester Bennington'}}}
+1885: {'dictionary_item_removed': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1886: {'dictionary_item_added': {"root['date']": 'birth', "root['rowspan']": '2001 || Stone Temple Pilots || "Wonderful (Live)" || \'\'The Family Values 2001 Tour\'\' |- |'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1923: {'iterable_item_added': {"root['associated_acts'][0]": 'Linkin Park', "root['associated_acts'][1]": 'Dead by Sunrise', "root['associated_acts'][2]": 'Julien-K', "root['associated_acts'][3]": 'Kings of Chaos', "root['associated_acts'][4]": 'Stone Temple Pilots'}}
+1930: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Eminem'}}}
+1931: {'values_changed': {"root['name']": {'new_value': 'Eminem', 'old_value': 'Chester Bennington'}}}
+1932: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Eminem'}}}
+1933: {'values_changed': {"root['name']": {'new_value': 'Eminem', 'old_value': 'Chester Bennington'}}}
+1957: {'values_changed': {"root['children']": {'new_value': '6', 'old_value': '26'}}}
+1958: {'values_changed': {"root['children']": {'new_value': '26', 'old_value': '6'}}}
+1989: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Chester Charles Bennington'}}}
+1990: {'values_changed': {"root['name']": {'new_value': 'Chester Charles Bennington', 'old_value': 'Chester Bennington'}}}
+2002: {'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Burrito Bennington'}}}
+2004: {'values_changed': {"root['name']": {'new_value': 'Burrito Bennington', 'old_value': 'Chester Bennington'}}}
+2012: {'dictionary_item_added': {"root['occupation']": [], "root['spouse']": 'marriage', "root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": [], "root['genre']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['name']": {'new_value': 'Chester Bennington', 'old_value': 'Burrito Bennington'}}}
+2013: {'dictionary_item_removed': {"root['occupation']": [], "root['spouse']": 'marriage', "root['children']": '6', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['instrument']": [], "root['genre']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['name']": {'new_value': 'Burrito Bennington', 'old_value': 'Chester Bennington'}}}

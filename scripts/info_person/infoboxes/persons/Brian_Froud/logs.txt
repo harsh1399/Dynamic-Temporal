@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['bgcolour']": '#FBF5DF', "root['name']": 'Brian Froud', "root['birthdate']": 'birth-date', "root['location']": 'Winchester, England', "root['field']": 'illustration, painting, writing, conceptual design', "root['training']": 'Maidstone College of Art', "root['awards']": 'Hugo Award, Chesley Award '}}
+33: {'values_changed': {"root['birthdate']": {'new_value': 'birth-date', 'old_value': 'birth year and age'}}}
+34: {'values_changed': {"root['field']": {'new_value': 'illustration, painting, writing, conceptual design', 'old_value': 'Illustration, painting, writing, and conceptual design.'}}}
+75: {'dictionary_item_added': {"root['bgcolour']": '#FBF5DF', "root['birthdate']": 'birth year and age', "root['location']": 'Winchester, England'}, 'values_changed': {"root['awards']": {'new_value': 'Hugo Award, Chesley Award ', 'old_value': 'Hugo Awardfact, Chesley Awardfact '}}}
+76: {'values_changed': {"root['awards']": {'new_value': 'Hugo Awardfact, Chesley Awardfact ', 'old_value': 'Hugo Awardda'}}}
+80: {'values_changed': {"root['awards']": {'new_value': 'Hugo Awardda', 'old_value': 'Hugo Award,da'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'Brian Froud', 'old_value': 'Toby Froud'}}}
+84: {'values_changed': {"root['name']": {'new_value': 'Toby Froud', 'old_value': 'Brian Froud'}}}
+85: {'values_changed': {"root['awards']": {'new_value': 'Hugo Award,da', 'old_value': 'Hugo Award<ref name'}}}
+109: {'dictionary_item_removed': {"root['spouse']": 'Wendy Froud '}}
+118: {'type_changes': {"root['awards']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Hugo Award<ref name'}}, 'values_changed': {"root['field']": {'new_value': 'Illustration, painting, writing, and conceptual design.', 'old_value': 'Illustration, painting, and conceptual design.'}}}
+170: {'dictionary_item_removed': {"root['children']": 'Toby Froud (b. 1984) '}, 'values_changed': {"root['spouse']": {'new_value': 'Wendy Froud ', 'old_value': 'marriage'}}}

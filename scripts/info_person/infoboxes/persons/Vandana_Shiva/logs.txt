@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Vandana Shiva', "root['occupation']": 'philosopher, environmentalist'}}
+110: {'values_changed': {"root['occupation']": {'new_value': 'philosopher, environmentalist', 'old_value': 'physicist,philosopher, environmentalist'}}}
+111: {'values_changed': {"root['occupation']": {'new_value': 'physicist,philosopher, environmentalist', 'old_value': 'environmentalist, philosopher'}}}
+121: {'values_changed': {"root['occupation']": {'new_value': 'environmentalist, philosopher', 'old_value': 'Environmentalist, philosopher'}}}
+162: {'dictionary_item_removed': {"root['awards']": 'Right Livelihood Award in 1993.,'}, 'values_changed': {"root['occupation']": {'new_value': 'Environmentalist, philosopher', 'old_value': 'Philosopher, environmentalist, writer, physical'}}}
+163: {'values_changed': {"root['occupation']": {'new_value': 'Philosopher, environmentalist, writer, physical', 'old_value': 'Philosopher, environmentalist, writer, physicist'}}}
+165: {'values_changed': {"root['occupation']": {'new_value': 'Philosopher, environmentalist, writer, physicist', 'old_value': 'Philosopher, environmentalist, writer'}}}
+186: {'values_changed': {"root['occupation']": {'new_value': 'Philosopher, environmentalist, writer', 'old_value': 'Philosopher, Environmentalist, Author, Physicist'}}}
+235: {'dictionary_item_removed': {"root['alma_mater']": 'University of Guelph, University of Western Ontario', "root['religion']": 'Hindu'}, 'values_changed': {"root['occupation']": {'new_value': 'Philosopher, Environmentalist, Author, Physicist', 'old_value': 'Philosopher, Environmentalist, Author'}, "root['awards']": {'new_value': 'Right Livelihood Award in 1993.,', 'old_value': 'Right Livelihood Award (1993), Sydney Peace Prize (2010)'}}}
+243: {'values_changed': {"root['occupation']": {'new_value': 'Philosopher, Environmentalist, Author', 'old_value': 'Philosopher, environmentalist, author'}, "root['awards']": {'new_value': 'Right Livelihood Award (1993), Sydney Peace Prize (2010)', 'old_value': 'Right Livelihood Award (1993), Sydney Peace Prize (2010), Fukuoka Asian Culture Prize (2012)'}}}

@@ -1,0 +1,43 @@
+127: {'dictionary_item_removed': {"root['name']": 'Scott Adams', "root['area']": 'Cartoonist, writer'}}
+258: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer', 'old_value': 'Cartoonist, writer, psychoanalyst'}}}
+259: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer, psychoanalyst', 'old_value': 'Cartoonist, writer, cognitive psychoanalyst'}}}
+260: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer, cognitive psychoanalyst', 'old_value': 'Cartoonist, writer'}}}
+262: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer', 'old_value': 'Cartoonist, writer, social anthropologist'}}}
+263: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer, social anthropologist', 'old_value': 'Cartoonist, writer'}}}
+279: {'dictionary_item_removed': {"root['residence']": 'Pleasanton, California'}}
+280: {'values_changed': {"root['residence']": {'new_value': 'Pleasanton, California', 'old_value': 'Pleasanton, California, United States'}}}
+311: {'values_changed': {"root['residence']": {'new_value': 'Pleasanton, California, United States', 'old_value': 'Pleasanton, California, U.S.'}}}
+333: {'dictionary_item_added': {"root['name']": 'Scott Adams'}, 'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer', 'old_value': 'Cartoonist, writer, clairvoyant'}}}
+334: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer, clairvoyant', 'old_value': 'Cartoonist, writer'}}}
+350: {'values_changed': {"root['area']": {'new_value': 'Cartoonist, writer', 'old_value': 'Cartoonist, writer, political commentator'}}}
+380: {'dictionary_item_removed': {"root['spouse']": '2006|2014|e'}}
+391: {'dictionary_item_added': {"root['residence']": 'Pleasanton, California, U.S.', "root['area']": 'Cartoonist, writer, political commentator'}, 'dictionary_item_removed': {"root['occupation']": 'Cartoonist, writer, political commentator', "root['notable_works']": "''Dilbert''", "root['alma_mater']": 'Hartwick College, University of California, Berkeley', "root['party']": 'Independent voter'}}
+392: {'values_changed': {"root['alma_mater']": {'new_value': 'Hartwick College, University of California, Berkeley', 'old_value': 'Hartwick College (BA), University of California, Berkeley (MBA)'}}}
+393: {'values_changed': {"root['notable_works']": {'new_value': "''Dilbert''", 'old_value': "''Dilbert' and the inventorof Castle Ball''"}}}
+394: {'values_changed': {"root['notable_works']": {'new_value': "''Dilbert' and the inventorof Castle Ball''", 'old_value': "''Dilbert''"}}}
+403: {'values_changed': {"root['party']": {'new_value': 'Independent voter', 'old_value': 'Republican'}}}
+404: {'values_changed': {"root['party']": {'new_value': 'Republican', 'old_value': 'Independent'}}}
+405: {'values_changed': {"root['party']": {'new_value': 'Independent', 'old_value': 'Independent politician'}}}
+427: {'dictionary_item_removed': {"root['name']": 'Scott Adams'}}
+441: {'values_changed': {"root['party']": {'new_value': 'Independent politician', 'old_value': 'Fascism'}}}
+442: {'values_changed': {"root['party']": {'new_value': 'Fascism', 'old_value': 'Independent politician'}}}
+445: {'values_changed': {"root['name']": {'new_value': 'Scott Adams', 'old_value': "Dilbert's Dad"}}}
+446: {'values_changed': {"root['name']": {'new_value': "Dilbert's Dad", 'old_value': 'Scott Adams'}}}
+556: {'dictionary_item_added': {"root['party']": 'Independent politician'}, 'dictionary_item_removed': {"root['channel_direct_url']": 'channel/UCfpnY5NnBl-8L7SvICuYkYQ', "root['channel_display_name']": 'Real Coffee with Scott Adams', "root['subscribers']": '101K', "root['views']": '25,756,792', "root['stats_update']": '13 May, 2021  '}, 'values_changed': {"root['notable_works']": {'new_value': "''Dilbert''", 'old_value': "''Dilbert'', ''Coffee with Scott Adams''"}, "root['spouse']": {'new_value': '2006|2014|e', 'old_value': 'Marriage'}}}
+560: {'dictionary_item_removed': {"root['pseudonym']": 'Clot Adams'}}
+563: {'dictionary_item_added': {"root['pseudonym']": 'Clot Adams'}, 'values_changed': {"root['views']": {'new_value': '25,756,792', 'old_value': '33M'}}}
+564: {'values_changed': {"root['subscribers']": {'new_value': '101K', 'old_value': '106K'}}}
+565: {'values_changed': {"root['stats_update']": {'new_value': '13 May, 2021  ', 'old_value': '13 May 2021  '}}}
+576: {'values_changed': {"root['alma_mater']": {'new_value': 'Hartwick College (BA), University of California, Berkeley (MBA)', 'old_value': 'Hartwick College (BA) University of California, Berkeley (MBA)'}}}
+687: {'values_changed': {"root['subscribers']": {'new_value': '106K', 'old_value': '110K'}, "root['views']": {'new_value': '33M', 'old_value': '38M'}, "root['stats_update']": {'new_value': '13 May 2021  ', 'old_value': 'September 20, 2022  '}}}
+694: {'values_changed': {"root['subscribers']": {'new_value': '110K', 'old_value': '111K'}, "root['views']": {'new_value': '38M', 'old_value': '39M'}, "root['stats_update']": {'new_value': 'September 20, 2022  ', 'old_value': 'September 27, 2022  '}}}
+726: {'values_changed': {"root['alma_mater']": {'new_value': 'Hartwick College (BA) University of California, Berkeley (MBA)', 'old_value': 'Ubl'}, "root['spouse']": {'new_value': 'Marriage', 'old_value': 'Ubl'}}}
+740: {'values_changed': {"root['views']": {'new_value': '39M', 'old_value': '40M'}, "root['stats_update']": {'new_value': 'September 27, 2022  ', 'old_value': 'November 10, 2022  '}}}
+753: {'values_changed': {"root['subscribers']": {'new_value': '111K', 'old_value': '112K'}, "root['views']": {'new_value': '40M', 'old_value': '41M'}, "root['stats_update']": {'new_value': 'November 10, 2022  ', 'old_value': 'December 14, 2022  '}}}
+764: {'values_changed': {"root['subscribers']": {'new_value': '112K', 'old_value': '114K'}, "root['views']": {'new_value': '41M', 'old_value': '42M'}, "root['stats_update']": {'new_value': 'December 14, 2022  ', 'old_value': 'January 23, 2023  '}}}
+777: {'values_changed': {"root['occupation']": {'new_value': 'Cartoonist, writer, political commentator', 'old_value': 'Cartoonist, writer, political commentator, racist'}}}
+778: {'values_changed': {"root['occupation']": {'new_value': 'Cartoonist, writer, political commentator, racist', 'old_value': 'Cartoonist, writer, political commentator'}}}
+1017: {'values_changed': {"root['subscribers']": {'new_value': '114K', 'old_value': '136K'}, "root['views']": {'new_value': '42M', 'old_value': '43.9 million'}}}
+1026: {'values_changed': {"root['stats_update']": {'new_value': 'January 23, 2023  ', 'old_value': 'March 5, 2023  '}}}
+1126: {'values_changed': {"root['stats_update']": {'new_value': 'March 5, 2023  ', 'old_value': 'May 1, 2023  '}}}
+1136: {'values_changed': {"root['notable_works']": {'new_value': "''Dilbert'', ''Coffee with Scott Adams''", 'old_value': "''Dilbert'', ''Real Coffee with Scott Adams''"}, "root['subscribers']": {'new_value': '136K', 'old_value': '146K'}, "root['views']": {'new_value': '43.9 million', 'old_value': '47 million'}, "root['stats_update']": {'new_value': 'May 1, 2023  ', 'old_value': 'June 8, 2023  '}}}

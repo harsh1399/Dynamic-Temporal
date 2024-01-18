@@ -1,0 +1,17 @@
+93: {'dictionary_item_removed': {"root['name']": 'Jack Chick', "root['known_for']": 'Chick tract', "root['occupation']": 'publisher, writer,,  Comic book creator', "root['religion']": 'Independent Baptist'}}
+125: {'values_changed': {"root['name']": {'new_value': 'Jack Chick', 'old_value': 'Jack T. Chick'}}}
+278: {'values_changed': {"root['known_for']": {'new_value': 'Chick tract', 'old_value': 'Chick tracts'}, "root['occupation']": {'new_value': 'publisher, writer,,  Comic book creator', 'old_value': 'Publisher, comic book creator, writer'}}}
+322: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, comic book creator, writer', 'old_value': 'Publisher, comic book creator, writer, evangelist'}}}
+323: {'dictionary_item_removed': {"root['home_town']": 'Alhambra, Caliofrnia'}}
+324: {'values_changed': {"root['home_town']": {'new_value': 'Alhambra, Caliofrnia', 'old_value': 'Alhambra, California'}}}
+325: {'dictionary_item_removed': {"root['spouse']": 'Lynn Chick (d. 1998)'}}
+327: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, comic book creator, writer, evangelist', 'old_value': 'Publisher, comic book creator, writer, evangelist, crazy person'}}}
+328: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, comic book creator, writer, evangelist, crazy person', 'old_value': 'Publisher, comic book creator, writer, evangelist'}}}
+346: {'dictionary_item_removed': {"root['residence']": 'Hell'}}
+386: {'dictionary_item_added': {"root['residence']": 'Hell'}, 'dictionary_item_removed': {"root['children']": 'Carol (daughter, d. 2001)'}, 'values_changed': {"root['spouse']": {'new_value': 'Lynn Chick (d. 1998)', 'old_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948-her death)'}}}
+395: {'dictionary_item_added': {"root['home_town']": 'Alhambra, California'}, 'values_changed': {"root['name']": {'new_value': 'Jack T. Chick', 'old_value': 'Jack Chick'}}}
+406: {'values_changed': {"root['spouse']": {'new_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948-her death)', 'old_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)'}}}
+417: {'values_changed': {"root['spouse']": {'new_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)', 'old_value': 'Plainlist'}}}
+418: {'values_changed': {"root['spouse']": {'new_value': 'Plainlist', 'old_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)'}}}
+423: {'values_changed': {"root['spouse']": {'new_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)', 'old_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)  , Susie aka Susy Chick<ref name'}}}
+431: {'values_changed': {"root['spouse']": {'new_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)  , Susie aka Susy Chick<ref name', 'old_value': 'Lola Lynn Priddle (1926–1998), aka Lynn Chick (1948–her death)'}}}

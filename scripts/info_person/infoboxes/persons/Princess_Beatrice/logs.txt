@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Princess Beatrice', "root['house']": 'House of Windsor'}}
+110: {'dictionary_item_removed': {"root['husband']": 'James Brooksbank'}}
+300: {'dictionary_item_added': {"root['husband']": 'James Brooksbank'}, 'dictionary_item_removed': {"root['spouse']": 'Edoardo Mapelli Mozzi (m.2020) '}}
+306: {'values_changed': {"root['spouse']": {'new_value': 'Edoardo Mapelli Mozzi (m.2020) ', 'old_value': 'Edoardo Mapelli Mozzi<ref name'}}}
+309: {'values_changed': {"root['spouse']": {'new_value': 'Edoardo Mapelli Mozzi<ref name', 'old_value': 'Marriage'}}}
+353: {'dictionary_item_removed': {"root['titletext']": 'Countess Edoardo Mapelli Mozzi'}}
+443: {'dictionary_item_added': {"root['titletext']": 'Countess Edoardo Mapelli Mozzi'}, 'dictionary_item_removed': {"root['Suffix']": '|title'}}
+450: {'dictionary_item_added': {"root['Suffix']": '|title'}, 'values_changed': {"root['name']": {'new_value': 'Princess Beatrice', 'old_value': 'Princess Beatrice, Mrs. Edoardo Mapelli Mozzi'}}}
+451: {'values_changed': {"root['name']": {'new_value': 'Princess Beatrice, Mrs. Edoardo Mapelli Mozzi', 'old_value': 'Princess Beatrice'}}}
+476: {'dictionary_item_removed': {"root['issue']": 'Christopher Woolf Mapelli Mozzi (stepson)'}}
+503: {'dictionary_item_added': {"root['issue']": 'Christopher Woolf Mapelli Mozzi (stepson)'}, 'dictionary_item_removed': {"root['occupation']": []}}

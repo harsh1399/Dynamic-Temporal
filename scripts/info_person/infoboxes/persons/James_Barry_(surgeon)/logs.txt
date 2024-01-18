@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'James Barry', "root['occupation']": 'surgeon '}}
+10: {'dictionary_item_removed': {"root['known_for']": 'medical reforms, disputed gender'}}
+76: {'values_changed': {"root['name']": {'new_value': 'James Barry', 'old_value': 'James Miranda Steuart Barrysfn'}, "root['known_for']": {'new_value': 'medical reforms, disputed gender', 'old_value': 'medical reforms, first successful Caesarean section in Africa'}}}
+108: {'values_changed': {"root['known_for']": {'new_value': 'medical reforms, first successful Caesarean section in Africa', 'old_value': 'Medical reforms, first successful Caesarean section in Africa'}, "root['occupation']": {'new_value': 'surgeon ', 'old_value': 'Surgeon '}}}
+181: {'values_changed': {"root['name']": {'new_value': 'James Miranda Steuart Barrysfn', 'old_value': 'James Barry'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'James Barry', 'old_value': 'James Miranda Steuart Barrysfn'}}}
+195: {'values_changed': {"root['name']": {'new_value': 'James Miranda Steuart Barrysfn', 'old_value': 'James Miranda Stuart Barrysfn'}}}
+196: {'values_changed': {"root['name']": {'new_value': 'James Miranda Stuart Barrysfn', 'old_value': 'James Miranda Steuart Barrysfn'}}}
+222: {'dictionary_item_removed': {"root['alma_mater']": 'University of Edinburgh Medical School'}, 'values_changed': {"root['name']": {'new_value': 'James Miranda Steuart Barrysfn', 'old_value': 'James Barry'}, "root['occupation']": {'new_value': 'Surgeon ', 'old_value': 'Surgeon'}}}

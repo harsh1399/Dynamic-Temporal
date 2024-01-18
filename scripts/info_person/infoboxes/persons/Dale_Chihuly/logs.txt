@@ -1,0 +1,11 @@
+173: {'dictionary_item_removed': {"root['bgcolour']": '#6495ED', "root['name']": 'Dale Chihuly', "root['field']": 'Glass artist', "root['education']": 'University of Washington, Seattle, University of Wisconsin–Madison, Rhode Island School of Design.', "root['spouse']": 'Leslie Jackson (2005–current)<ref name'}}
+176: {'dictionary_item_removed': {"root['awards']": 'nothing because he was a loser'}}
+199: {'dictionary_item_added': {"root['awards']": 'nothing because he was a loser'}, 'dictionary_item_removed': {"root['imagesize']": 'smd'}}
+202: {'dictionary_item_added': {"root['imagesize']": 'smd'}, 'values_changed': {"root['name']": {'new_value': 'Dale Chihuly', 'old_value': 'bob jeff21'}}}
+203: {'values_changed': {"root['name']": {'new_value': 'bob jeff21', 'old_value': 'Dale Chihuly'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'Dale Chihuly', 'old_value': 'polish jerry'}}}
+229: {'values_changed': {"root['name']": {'new_value': 'polish jerry', 'old_value': 'Dale Chihuly'}}}
+230: {'dictionary_item_removed': {"root['awards']": 'death'}, 'values_changed': {"root['name']": {'new_value': 'Dale Chihuly', 'old_value': 'POLISH JERRY'}, "root['education']": {'new_value': 'University of Washington, Seattle, University of Wisconsin–Madison, Rhode Island School of Design.', 'old_value': "STD's ARE US"}, "root['spouse']": {'new_value': 'Leslie Jackson (2005–current)<ref name', 'old_value': 'Bill Cosby (2005–current)<ref name'}}}
+231: {'dictionary_item_added': {"root['awards']": 'death'}, 'values_changed': {"root['name']": {'new_value': 'POLISH JERRY', 'old_value': 'Dale Chihuly'}, "root['education']": {'new_value': "STD's ARE US", 'old_value': 'University of Washington, Seattle, University of Wisconsin–Madison, Rhode Island School of Design.'}, "root['spouse']": {'new_value': 'Bill Cosby (2005–current)<ref name', 'old_value': 'Leslie Jackson (2005–current)<ref name'}}}
+245: {'type_changes': {"root['education']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'University of Washington, Seattle, University of Wisconsin–Madison, Rhode Island School of Design.'}}, 'dictionary_item_added': {"root['bgcolour']": '#6495ED'}}
+246: {'values_changed': {"root['spouse']": {'new_value': 'Leslie Jackson (2005–current)<ref name', 'old_value': ' Leslie Jackson <ref name'}}}

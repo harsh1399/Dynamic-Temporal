@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Roger Eugene Ailes', "root['occupation']": 'President of Faux News Channel, Chairman Faux Television Stations Group', "root['salary']": '$21 million (2012) '}}
+3: {'values_changed': {"root['occupation']": {'new_value': 'President of Faux News Channel, Chairman Faux Television Stations Group', 'old_value': 'President of Fox News Channel, Chairman Fox Television Stations Group'}}}
+9: {'values_changed': {"root['salary']": {'new_value': '$21 million (2012) ', 'old_value': '$10 million (2012) '}}}
+14: {'dictionary_item_added': {"root['salary']": '$10 million (2012) '}, 'values_changed': {"root['occupation']": {'new_value': 'President of Fox News Channel, Chairman Fox Television Stations Group', 'old_value': 'President of Fox News Channel, Chairman Fox Television Stations Group  '}}}
+34: {'values_changed': {"root['occupation']": {'new_value': 'President of Fox News Channel, Chairman Fox Television Stations Group  ', 'old_value': 'President of Fox News Channel Chairman Fox Television Stations Group  '}}}
+42: {'dictionary_item_added': {"root['birthname']": 'Roger Eugene Ailes'}, 'dictionary_item_removed': {"root['name']": 'Roger Ailes', "root['party']": 'Republican Party (United States)', "root['religion']": 'Freemason', "root['spouse']": 'Elizabeth Tilson small', "root['children']": '1'}, 'values_changed': {"root['occupation']": {'new_value': 'President of Fox News Channel Chairman Fox Television Stations Group  ', 'old_value': 'Former president of Fox News Former chair of Fox Television Stations '}}}
+51: {'values_changed': {"root['occupation']": {'new_value': 'Former president of Fox News Former chair of Fox Television Stations ', 'old_value': 'Former president of Fox News Former chair of Fox Television Stations }'}}}
+52: {'values_changed': {"root['occupation']": {'new_value': 'Former president of Fox News Former chair of Fox Television Stations }', 'old_value': 'Former president of Fox News Former chair of Fox Television Stations '}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Roger Ailes', 'old_value': 'RA'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'RA', 'old_value': 'Miley Cyrus'}}}
+60: {'values_changed': {"root['name']": {'new_value': 'Miley Cyrus', 'old_value': 'Roger Ailes'}}}
+121: {'dictionary_item_added': {"root['religion']": 'Freemason'}, 'values_changed': {"root['occupation']": {'new_value': 'Former president of Fox News Former chair of Fox Television Stations ', 'old_value': 'President of Fox News Chair of Fox Television Stations '}}}
+143: {'values_changed': {"root['occupation']": {'new_value': 'President of Fox News Chair of Fox Television Stations ', 'old_value': 'Former President of Fox News Chair of Fox Television Stations '}}}
+187: {'values_changed': {"root['occupation']": {'new_value': 'Former President of Fox News Chair of Fox Television Stations ', 'old_value': 'Former President of Fox News, Chair of Fox Television, Stations '}}}
+200: {'values_changed': {"root['occupation']": {'new_value': 'Former President of Fox News, Chair of Fox Television, Stations ', 'old_value': 'Former President of Fox News Chair of Fox Television Stations '}}}
+207: {'values_changed': {"root['occupation']": {'new_value': 'Former President of Fox News Chair of Fox Television Stations ', 'old_value': 'Former President of Fox News, Chair of Fox Television, Stations '}}}
+214: {'values_changed': {"root['occupation']": {'new_value': 'Former President of Fox News, Chair of Fox Television, Stations ', 'old_value': 'Former President of Fox News Chair of Fox Television Stations '}}}
+234: {'values_changed': {"root['spouse']": {'new_value': 'Elizabeth Tilson small', 'old_value': 'Unbulleted list'}}}
+237: {'values_changed': {"root['spouse']": {'new_value': 'Unbulleted list', 'old_value': 'marriage'}}}
+239: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Unbulleted list'}}}
+240: {'values_changed': {"root['spouse']": {'new_value': 'Unbulleted list', 'old_value': 'marriage'}}}
+243: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Unbulleted list'}}}
+245: {'values_changed': {"root['spouse']": {'new_value': 'Unbulleted list', 'old_value': 'marriage'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'Roger Ailes', 'old_value': 'Roger "Phat Phuck" Ailes'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'Roger "Phat Phuck" Ailes', 'old_value': 'Roger Ailes'}}}
+316: {'values_changed': {"root['name']": {'new_value': 'Roger Ailes', 'old_value': 'sexist in chief'}}}
+317: {'values_changed': {"root['name']": {'new_value': 'sexist in chief', 'old_value': 'Roger Ailes'}}}

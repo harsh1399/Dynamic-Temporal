@@ -1,0 +1,11 @@
+149: {'dictionary_item_removed': {"root['occupation']": 'Biologist and businessman.', "root['known_for']": 'DNA and human genome'}}
+228: {'values_changed': {"root['occupation']": {'new_value': 'Biologist and businessman.', 'old_value': 'Biologist and businessman'}}}
+249: {'dictionary_item_removed': {"root['alma_mater']": 'University of California, San Diego'}}
+250: {'values_changed': {"root['known_for']": {'new_value': 'DNA and human genome', 'old_value': 'DNA, human genome, and metagenomics'}}}
+251: {'dictionary_item_removed': {"root['name']": 'J. Craig Venter', "root['work_institution']": 'University at Buffalo, The State University of New York'}}
+273: {'values_changed': {"root['alma_mater']": {'new_value': 'University of California, San Diego', 'old_value': 'San Mateo Community College                University of California, San Diego'}}}
+274: {'values_changed': {"root['alma_mater']": {'new_value': 'San Mateo Community College                University of California, San Diego', 'old_value': 'University of California, San Diego'}}}
+336: {'dictionary_item_removed': {"root['awards']": 'Kistler Prize (2008), ENI award (2008), National Medal of Science (2008)'}, 'values_changed': {"root['occupation']": {'new_value': 'Biologist and businessman', 'old_value': 'Biologist, Entrepreneur'}, "root['known_for']": {'new_value': 'DNA, human genome, and metagenomics', 'old_value': 'DNA, Human genome, Metagenomics, Synthetic genomics Shotgun sequencing'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'J. Craig Venter', 'old_value': 'Craig Venter'}, "root['occupation']": {'new_value': 'Biologist, Entrepreneur', 'old_value': 'Biologist Entrepreneur'}, "root['known_for']": {'new_value': 'DNA, Human genome, Metagenomics, Synthetic genomics Shotgun sequencing', 'old_value': 'DNA Human genome Metagenomics Synthetic genomics Shotgun sequencing'}, "root['awards']": {'new_value': 'Kistler Prize (2008), ENI award (2008), National Medal of Science (2008)', 'old_value': 'Gairdner Foundation International Award'}}}
+398: {'values_changed': {"root['name']": {'new_value': 'Craig Venter', 'old_value': 'Craig fish'}}}
+399: {'values_changed': {"root['name']": {'new_value': 'Craig fish', 'old_value': 'Craig Venter'}}}

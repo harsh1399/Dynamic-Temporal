@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'LeVar Burton', "root['alma_mater']": 'University of Southern California', "root['residence']": 'Sherman Oaks, California, U.S.', "root['occupation']": 'Actor, presenter, director, author', "root['spouse']": 'marriage', "root['children']": '2', "root['awards']": 'See Awards '}}
+54: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Southern California', 'old_value': 'Drexel University'}, "root['children']": {'new_value': '2', 'old_value': '1'}}}
+64: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+69: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+72: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+159: {'dictionary_item_added': {"root['residence']": 'Sherman Oaks, California, U.S.'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Drexel University', 'old_value': 'USC'}}}
+160: {'values_changed': {"root['alma_mater']": {'new_value': 'USC', 'old_value': 'University of Southern California'}}}

@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor'}}
+75: {'dictionary_item_removed': {"root['known_for']": 'Acting, LGBT-rights activism '}}
+148: {'dictionary_item_added': {"root['known_for']": 'Acting, LGBT-rights activism '}, 'dictionary_item_removed': {"root['spouse']": 'Emma Watson (2009-2010) '}}
+277: {'dictionary_item_added': {"root['spouse']": 'Emma Watson (2009-2010) '}, 'dictionary_item_removed': {"root['name']": 'Daniel Radcliffe', "root['partner']": 'Erin Darke (2012–present)'}}
+332: {'dictionary_item_removed': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of awards and nominations received by Daniel Radcliffe'}}
+340: {'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Daniel Radcliffe', 'old_value': 'List of'}}}
+342: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}}
+344: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}, 'dictionary_item_added': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of'}}
+345: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}, 'dictionary_item_removed': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of'}}
+346: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}, 'dictionary_item_added': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of'}}
+349: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, producer'}}}
+350: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Actor'}}}
+362: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor'}}, 'dictionary_item_removed': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of'}}
+368: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor', 'new_value': []}}, 'dictionary_item_added': {"root['works']": 'Daniel Radcliffe on screen and stage', "root['awards']": 'List of'}}
+369: {'dictionary_item_removed': {"root['works']": 'Daniel Radcliffe on screen and stage'}}
+373: {'dictionary_item_removed': {"root['awards']": 'List of awards and nominations received by Daniel Radcliffe'}}

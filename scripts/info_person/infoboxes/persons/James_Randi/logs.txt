@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'James Randi', "root['occupation']": 'Magician, illusionist, writer, skeptic', "root['religion']": 'None (Atheism'}}
+31: {'values_changed': {"root['religion']": {'new_value': 'None (Atheism', 'old_value': 'None<ref name'}}}
+32: {'values_changed': {"root['religion']": {'new_value': 'None<ref name', 'old_value': 'Atheism'}}}
+56: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': 'None (Atheism'}}}
+70: {'dictionary_item_removed': {"root['education']": 'University at Buffalo, The State University of New York'}}
+74: {'dictionary_item_added': {"root['education']": 'University at Buffalo, The State University of New York'}, 'values_changed': {"root['religion']": {'new_value': 'None (Atheism', 'old_value': 'Atheism'}}}
+75: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': '(Atheism'}}}
+77: {'values_changed': {"root['religion']": {'new_value': '(Atheism', 'old_value': 'Atheism'}}}
+78: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': 'None (Atheism'}}}
+107: {'values_changed': {"root['religion']": {'new_value': 'None (Atheism', 'old_value': 'Atheism'}}}
+115: {'dictionary_item_removed': {"root['spouse']": 'Deyvi Pena (married 2013)'}}
+140: {'values_changed': {"root['spouse']": {'new_value': 'Deyvi Pena (married 2013)', 'old_value': 'Deyvi Pena (2013—)'}}}
+141: {'values_changed': {"root['spouse']": {'new_value': 'Deyvi Pena (2013—)', 'old_value': 'Deyvi Pena (married 2013)'}}}
+145: {'values_changed': {"root['religion']": {'new_value': 'Atheism', 'old_value': 'None<ref name'}}}
+166: {'values_changed': {"root['religion']": {'new_value': 'None<ref name', 'old_value': 'Materialistic Atheism (Orthodox)<ref name'}}}
+167: {'values_changed': {"root['religion']": {'new_value': 'Materialistic Atheism (Orthodox)<ref name', 'old_value': 'None<ref name'}}}
+294: {'dictionary_item_added': {"root['name']": 'James Randi', "root['occupation']": 'Magician, illusionist, writer, skeptic', "root['spouse']": 'Deyvi Pena (married 2013)', "root['religion']": 'None<ref name'}, 'dictionary_item_removed': {"root['filename']": 'Audio James Randi.wav', "root['type']": 'speech', "root['description']": 'recorded October 2016 at CSICon  '}}
+439: {'dictionary_item_added': {"root['filename']": 'Audio James Randi.wav', "root['type']": 'speech', "root['description']": 'recorded October 2016 at CSICon  '}, 'dictionary_item_removed': {"root['name']": 'James Randi', "root['occupation']": [], "root['spouse']": 'marriage'}}
+603: {'dictionary_item_removed': {"root['ima']": 'Preferred official head-shot from James Randi Educational Foundation.jpg'}}

@@ -1,0 +1,77 @@
+0: {'dictionary_item_removed': {"root['name']": 'Billy the Kid', "root['alias']": 'William H. Bonney, William McCarty, Henry McCarty, Henry Antrim, Kid Antrim', "root['occupation']": []}}
+18: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'horse rustler, cowboy, gambler, outlaw', 'new_value': []}}}
+69: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'the kid'}}}
+70: {'values_changed': {"root['name']": {'new_value': 'the kid', 'old_value': 'bart simpson'}}}
+71: {'values_changed': {"root['name']": {'new_value': 'bart simpson', 'old_value': 'Billy the Kid'}}}
+78: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Kit'}}}
+79: {'values_changed': {"root['name']": {'new_value': 'Billy the Kit', 'old_value': 'Billy the Kid'}}}
+87: {'values_changed': {"root['occupation']": {'new_value': 'horse rustler, cowboy, gambler, outlaw', 'old_value': 'horse rustler, cowboy,  gambler, outlaw'}}}
+88: {'values_changed': {"root['occupation']": {'new_value': 'horse rustler, cowboy,  gambler, outlaw', 'old_value': 'horse rustler, cowboy, gambler, outlaw'}}}
+91: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Fudge'}}}
+93: {'values_changed': {"root['name']": {'new_value': 'Billy the Fudge', 'old_value': 'Billy the Kid'}}}
+94: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Fudge'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Billy the Fudge', 'old_value': 'Billy the Kid'}}}
+96: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Fudge'}}}
+97: {'values_changed': {"root['name']": {'new_value': 'Billy the Fudge', 'old_value': 'Billy the Kid'}}}
+124: {'values_changed': {"root['occupation']": {'new_value': 'horse rustler, cowboy, gambler, outlaw', 'old_value': 'Horse rustler, cowboy, gambler, outlaw'}}}
+136: {'dictionary_item_removed': {"root['death_plae']": 'New Mexico Territory (present-day Fort Sumner, New Mexico)'}, 'values_changed': {"root['occupation']": {'new_value': 'Horse rustler, cowboy, gambler, outlaw', 'old_value': 'Horse rustler, horse pleasure service, male whore, original gay cowbiy fuck brokeback mountain'}}}
+137: {'dictionary_item_added': {"root['death_plae']": 'New Mexico Territory (present-day Fort Sumner, New Mexico)'}, 'values_changed': {"root['occupation']": {'new_value': 'Horse rustler, horse pleasure service, male whore, original gay cowbiy fuck brokeback mountain', 'old_value': 'Horse rustler, cowboy, gambler, outlaw'}}}
+141: {'dictionary_item_removed': {"root['list']": '"utley198-199"/>', "root['NAME']": 'Billy The Kid | ALTERNATIVE NAMES'}}
+202: {'values_changed': {"root['alias']": {'new_value': 'William H. Bonney, William McCarty, Henry McCarty, Henry Antrim, Kid Antrim', 'old_value': 'William H. Bonney, Henry Antrim, Kid Antrim'}}}
+203: {'dictionary_item_added': {"root['list']": '"utley198-199"/>', "root['NAME']": 'Billy The Kid | ALTERNATIVE NAMES'}, 'values_changed': {"root['alias']": {'new_value': 'William H. Bonney, Henry Antrim, Kid Antrim', 'old_value': 'William H. Bonney, William McCarty, Henry McCarty, Henry Antrim, Kid Antrim'}}}
+206: {'values_changed': {"root['alias']": {'new_value': 'William H. Bonney, William McCarty, Henry McCarty, Henry Antrim, Kid Antrim', 'old_value': 'William H. Bonney, Henry McCarty, Henry Antrim, Kid Antrim'}}}
+218: {'values_changed': {"root['alias']": {'new_value': 'William H. Bonney, Henry McCarty, Henry Antrim, Kid Antrim', 'old_value': 'William H. Bonney, Henry Antrim, Kid Antrim'}}}
+338: {'dictionary_item_removed': {"root['restwoundace']": 'Old Fort Sumner Cemetery'}}
+365: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'William Bonney'}}}
+366: {'values_changed': {"root['name']": {'new_value': 'William Bonney', 'old_value': 'Billy the Kid'}}}
+396: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': "Ke'shaun the Kid"}}}
+397: {'values_changed': {"root['name']": {'new_value': "Ke'shaun the Kid", 'old_value': 'Billy the Kid'}}}
+398: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': "Ke'Shaun"}}}
+403: {'values_changed': {"root['name']": {'new_value': "Ke'Shaun", 'old_value': 'Billy the Kid'}}}
+483: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Little Kid'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Billy the Little Kid', 'old_value': 'Billy the Kid'}}}
+559: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Ki'}}}
+560: {'values_changed': {"root['name']": {'new_value': 'Billy the Ki', 'old_value': 'Billy the Kid'}}}
+584: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'William H. Bonney'}}}
+585: {'values_changed': {"root['name']": {'new_value': 'William H. Bonney', 'old_value': 'Billy the Kid'}}}
+586: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Henry McCarty'}}}
+587: {'values_changed': {"root['name']": {'new_value': 'Henry McCarty', 'old_value': 'Billy the Kid'}}}
+588: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Man'}}}
+589: {'values_changed': {"root['name']": {'new_value': 'Billy the Man', 'old_value': 'Billy the Kid'}}}
+1206: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Horse rustler, cowboy, gambler, outlaw'}}, 'dictionary_item_added': {"root['restwoundace']": 'Old Fort Sumner Cemetery'}, 'dictionary_item_removed': {"root['weight']": 'convert', "root['restingplace']": 'Old Fort Sumner Cemetery'}}
+1210: {'dictionary_item_removed': {"root['gay']": 'September 17 or November 23, 1859 (disputed)'}}
+1241: {'dictionary_item_added': {"root['gay']": 'September 17 or November 23, 1859 (disputed)'}, 'dictionary_item_removed': {"root['resting_place_coordinaptes']": 'Coord'}}
+1284: {'dictionary_item_added': {"root['resting_place_coordinaptes']": 'Coord'}, 'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Bobby the Kid'}}}
+1285: {'values_changed': {"root['name']": {'new_value': 'Bobby the Kid', 'old_value': 'Billy the Kid'}}}
+1293: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Kid wanks'}}}
+1294: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid wanks', 'old_value': 'Billy the Kid'}}}
+1310: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Bob the Kd'}}}
+1311: {'values_changed': {"root['name']": {'new_value': 'Bob the Kd', 'old_value': 'Billy the Kid'}}}
+1312: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Bob the Kid'}}}
+1313: {'values_changed': {"root['name']": {'new_value': 'Bob the Kid', 'old_value': 'Billy the Kid'}}}
+1333: {'dictionary_item_removed': {"root['tion']": 'Enhanced photo of Billy the Kid, circa'}}
+1380: {'dictionary_item_added': {"root['tion']": 'Enhanced photo of Billy the Kid, circa'}, 'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Ka med oss på selvær?'}}}
+1381: {'values_changed': {"root['name']": {'new_value': 'Ka med oss på selvær?', 'old_value': 'Billy the Kid'}}}
+1382: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Willy på sanna'}}}
+1383: {'values_changed': {"root['name']": {'new_value': 'Willy på sanna', 'old_value': 'Billy the Kid'}}}
+1384: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Willy på sanna'}}}
+1385: {'values_changed': {"root['name']": {'new_value': 'Willy på sanna', 'old_value': 'Billy the Kid'}}}
+1388: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'willy på sanna'}}}
+1389: {'values_changed': {"root['name']": {'new_value': 'willy på sanna', 'old_value': 'Billy the Kid'}}}
+1424: {'dictionary_item_added': {"root['alias']": 'William H. Bonney, Henry Antrim, Kid Antrim'}, 'dictionary_item_removed': {"root['alien']": 'William H. Bonney, Henry Antrim, Kid Antrim'}}
+1425: {'dictionary_item_added': {"root['alien']": 'William H. Bonney, Henry Antrim, Kid Antrim'}, 'dictionary_item_removed': {"root['alias']": 'William H. Bonney, Henry Antrim, Kid Antrim'}}
+1436: {'dictionary_item_added': {"root['weight']": 'convert'}, 'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy boy the Kid'}}}
+1437: {'values_changed': {"root['name']": {'new_value': 'Billy boy the Kid', 'old_value': 'Billy the Kid'}}}
+1447: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'pp the Kid'}}}
+1448: {'values_changed': {"root['name']": {'new_value': 'pp the Kid', 'old_value': 'Billy the Kid'}}}
+1449: {'values_changed': {"root['restingplace']": {'new_value': 'Old Fort Sumner Cemetery', 'old_value': 'Yo Mama'}}}
+1450: {'values_changed': {"root['restingplace']": {'new_value': 'Yo Mama', 'old_value': 'Old Fort Sumner Cemetery'}}}
+1463: {'iterable_item_removed': {"root['occupation'][0]": 'Cattle rustler', "root['occupation'][1]": 'cowboy and ranch hand', "root['occupation'][2]": 'gambler', "root['occupation'][3]": 'horse thief', "root['occupation'][4]": 'outlaw'}}
+1471: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Kid I'}}}
+1474: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid I', 'old_value': 'Billy the Kid'}}}
+1477: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Kid I'}}}
+1478: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid I', 'old_value': 'Billy the Kid'}}}
+1479: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Kid 505'}}}
+1480: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid 505', 'old_value': 'Billy the Kid'}}}
+1481: {'values_changed': {"root['name']": {'new_value': 'Billy the Kid', 'old_value': 'Billy the Not so kid'}}}
+1482: {'values_changed': {"root['name']": {'new_value': 'Billy the Not so kid', 'old_value': 'Billy the Kid'}}}

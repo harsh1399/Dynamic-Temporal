@@ -1,0 +1,9 @@
+27: {'dictionary_item_removed': {"root['name']": 'Wolfgang Petersen', "root['occupation']": 'Film director, film producer, screenwriter', "root['spouse']": 'Ursula Sieg (div. 1978), Maria Borgel-Petersen (1978–present)'}}
+33: {'values_changed': {"root['spouse']": {'new_value': 'Ursula Sieg (div. 1978), Maria Borgel-Petersen (1978–present)', 'old_value': 'Ursula Sieg (div. 1978), Maria Borgel-Petersen (1978–present) '}}}
+39: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Film director, film producer, screenwriter'}}, 'values_changed': {"root['spouse']": {'new_value': 'Ursula Sieg (div. 1978), Maria Borgel-Petersen (1978–present) ', 'old_value': 'Ursula Sieg, (Maria Borgel-Petersen , |1978| |e'}}}
+43: {'dictionary_item_removed': {"root['date_date']": 'Death date and age'}}
+45: {'values_changed': {"root['date_date']": {'new_value': 'Death date and age', 'old_value': 'Death date'}}}
+55: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hlist', 'new_value': []}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Ursula Sieg|1970|1978|end'], 'new_value': 'Ursula Sieg, (Maria Borgel-Petersen , |1978| |e'}}, 'dictionary_item_added': {"root['date_date']": 'Death date'}}
+111: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': ['Ursula Sieg|1970|1978|end']}}, 'dictionary_item_removed': {"root['children']": '1 '}}
+128: {'values_changed': {"root['name']": {'new_value': 'Wolfgang Petersen', 'old_value': 'Wolfgang(Bang) Petershlong'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Wolfgang(Bang) Petershlong', 'old_value': 'Wolfgang Petersen'}}}

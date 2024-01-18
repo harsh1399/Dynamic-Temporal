@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['name']": 'John Carmack', "root['occupation']": 'Technical Director, id Software , Founder, Armadillo Aerospace', "root['spouse']": 'Katherine Anna Kang', "root['children']": '1 '}}
+29: {'dictionary_item_removed': {"root['residence']": 'Mesquite, Texas'}}
+49: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '2 '}}}
+54: {'values_changed': {"root['residence']": {'new_value': 'Mesquite, Texas', 'old_value': 'Heath, Texas'}}}
+55: {'values_changed': {"root['residence']": {'new_value': 'Heath, Texas', 'old_value': 'Mesquite, Texas'}}}
+56: {'values_changed': {"root['residence']": {'new_value': 'Mesquite, Texas', 'old_value': 'Heath, Texas'}}}
+70: {'dictionary_item_added': {"root['children']": '2 '}, 'values_changed': {"root['name']": {'new_value': 'John Carmack', 'old_value': 'John D. Carmack'}}}
+88: {'dictionary_item_removed': {"root['children']": '2'}}
+89: {'values_changed': {"root['occupation']": {'new_value': 'Technical Director, id Software , Founder, Armadillo Aerospace', 'old_value': 'Technical Director, id Software , Founder, Armadillo Aerospace , Chief Technology Officer'}}}
+94: {'values_changed': {"root['occupation']": {'new_value': 'Technical Director, id Software , Founder, Armadillo Aerospace , Chief Technology Officer', 'old_value': 'Chief Technology Officer'}}}
+103: {'values_changed': {"root['occupation']": {'new_value': 'Chief Technology Officer', 'old_value': 'Technical Director, id Software,  Chief Technology Officer'}}}
+117: {'dictionary_item_removed': {"root['religion']": 'None (Atheist)   '}}
+127: {'dictionary_item_added': {"root['religion']": 'None (Atheist)   '}, 'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 '}}}
+129: {'values_changed': {"root['occupation']": {'new_value': 'Technical Director, id Software,  Chief Technology Officer', 'old_value': 'Chief Technology Officer'}}}
+136: {'dictionary_item_added': {"root['residence']": 'Heath, Texas'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of Missouri, Kansas City (no degree)', "root['employer']": 'Oculus VR', "root['known_for']": "Co-founding id Software ''Commander Keen'', ''Wolfenstein 3D'', ''Doom (franchise)"}, 'values_changed': {"root['name']": {'new_value': 'John D. Carmack', 'old_value': 'John Carmack'}, "root['occupation']": {'new_value': 'Chief Technology Officer', 'old_value': 'Computer programmer, video game developer, engineer'}, "root['spouse']": {'new_value': 'Katherine Anna Kang', 'old_value': 'marriage'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'John Carmack', 'old_value': 'Firoz Fahim'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'Firoz Fahim', 'old_value': 'John Carmack'}}}
+172: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '10billion '}}}
+173: {'values_changed': {"root['children']": {'new_value': '10billion ', 'old_value': '2 '}}}
+176: {'dictionary_item_added': {"root['occupation']": 'Computer programmer, video game developer, engineer', "root['employer']": 'Oculus VR', "root['known_for']": "Co-founding id Software ''Commander Keen'', ''Wolfenstein 3D'', ''Doom (franchise)"}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Missouri, Kansas City (no degree)', 'old_value': 'University of Missouri, Kansas City (no name'}}}
+177: {'dictionary_item_removed': {"root['occupation']": 'Computer programmer, video game developer, engineer', "root['employer']": 'Oculus VR', "root['known_for']": "Co-founding id Software ''Commander Keen'', ''Wolfenstein 3D'', ''Doom (franchise)"}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Missouri, Kansas City (no name', 'old_value': 'University of Missouri, Kansas City (no degree)'}}}
+239: {'values_changed': {"root['employer']": {'new_value': 'Oculus VR', 'old_value': 'Oculus VR (2013–2022)'}}}
+277: {'dictionary_item_removed': {"root['partner']": 'Trista DeLeon(2022-present).<ref name'}, 'values_changed': {"root['employer']": {'new_value': 'Oculus VR (2013–2022)', 'old_value': 'Keen Technologies (2023-present) Oculus VR (2013–2022)'}}}
+278: {'values_changed': {"root['partner']": {'new_value': 'Trista DeLeon(2022-present).<ref name', 'old_value': 'Trista DeLeon<ref name'}}}
+279: {'values_changed': {"root['partner']": {'new_value': 'Trista DeLeon<ref name', 'old_value': 'Trista DeLeon (2022-present)'}}}
+297: {'dictionary_item_added': {"root['employer']": 'Keen Technologies (2023-present) Oculus VR (2013–2022)', "root['known_for']": "Co-founding id Software ''Commander Keen'', ''Wolfenstein 3D'', ''Doom (franchise)", "root['spouse']": 'marriage', "root['partner']": 'Trista DeLeon (2022-present)', "root['children']": '2 '}, 'values_changed': {"root['occupation']": {'new_value': 'Computer programmer, video game developer, engineer', 'old_value': 'Computer programmer, video game developer, engineer  '}}}
+299: {'dictionary_item_removed': {"root['employer']": 'Keen Technologies (2023-present) Oculus VR (2013–2022)', "root['known_for']": "Co-founding id Software ''Commander Keen'', ''Wolfenstein 3D'', ''Doom (franchise)", "root['spouse']": 'marriage', "root['partner']": 'Trista DeLeon (2022-present)', "root['children']": '2 '}, 'values_changed': {"root['occupation']": {'new_value': 'Computer programmer, video game developer, engineer  ', 'old_value': 'Computer programmer, video game developer, engineer'}}}

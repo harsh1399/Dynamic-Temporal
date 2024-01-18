@@ -1,0 +1,27 @@
+787: {'dictionary_item_removed': {"root['region']": 'Western philosophy', "root['color']": '#B0C4DE', "root['image_name']": 'AdamSmith.jpg', "root['image_alt']": 'A sketch of a man facing to the right', "root['name']": 'Adam Smith', "root['school_tradition']": 'Classical economics', "root['main_interests']": 'Political philosophy, ethics, economics', "root['influences']": 'Aristotle· Joseph Butler', "root['influenced']": 'Manuel Belgrano', "root['notable_ideas']": 'Classical economics, modern free market, division of labour, the "invisible hand"'}}
+924: {'dictionary_item_added': {"root['image_name']": 'AdamSmith.jpg', "root['image_alt']": 'A sketch of a man facing to the right'}, 'values_changed': {"root['notable_ideas']": {'new_value': 'Classical economics, modern free market, division of labour, the "invisible hand"', 'old_value': 'Classical economics, modern free market, division of labour, the "invisible hand" '}}}
+947: {'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam H. Smith'}}}
+950: {'values_changed': {"root['name']": {'new_value': 'Adam H. Smith', 'old_value': 'Adam M. Smith'}}}
+954: {'values_changed': {"root['name']": {'new_value': 'Adam M. Smith', 'old_value': 'Adam Smith'}}}
+995: {'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam Pups'}}}
+996: {'values_changed': {"root['name']": {'new_value': 'Adam Pups', 'old_value': 'Adam Smith'}}}
+1000: {'values_changed': {"root['region']": {'new_value': 'Western philosophy', 'old_value': 'I like to use the restroom'}}}
+1003: {'values_changed': {"root['region']": {'new_value': 'I like to use the restroom', 'old_value': 'Western Philosophy'}}}
+1009: {'values_changed': {"root['region']": {'new_value': 'Western Philosophy', 'old_value': 'Western philosophy'}}}
+1388: {'dictionary_item_added': {"root['color']": '#B0C4DE'}, 'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam Smith HOBO'}}}
+1390: {'values_changed': {"root['name']": {'new_value': 'Adam Smith HOBO', 'old_value': 'Adam Smith'}}}
+1432: {'values_changed': {"root['region']": {'new_value': 'Western philosophy', 'old_value': 'Western philosophy and suck a doleo'}}}
+1433: {'values_changed': {"root['region']": {'new_value': 'Western philosophy and suck a doleo', 'old_value': 'Western philosophy'}}}
+1448: {'values_changed': {"root['region']": {'new_value': 'Western philosophy', 'old_value': 'Western philosophy∗'}}}
+1449: {'values_changed': {"root['region']": {'new_value': 'Western philosophy∗', 'old_value': 'Western philosophy'}}}
+1454: {'values_changed': {"root['region']": {'new_value': 'Western philosophy', 'old_value': 'west virginia'}}}
+1455: {'values_changed': {"root['region']": {'new_value': 'west virginia', 'old_value': 'Western philosophy'}}}
+1456: {'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam(little poo) Smith'}}}
+1457: {'values_changed': {"root['name']": {'new_value': 'Adam(little poo) Smith', 'old_value': 'Adam Smith'}}}
+1471: {'type_changes': {"root['influences']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Aristotle· Joseph Butler'}, "root['influenced']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Manuel Belgrano'}}, 'dictionary_item_removed': {"root['alma_mater']": [], "root['notable_works']": []}, 'values_changed': {"root['school_tradition']": {'new_value': 'Classical economics', 'old_value': 'Classical liberalism'}, "root['notable_ideas']": {'new_value': 'Classical economics, modern free market, division of labour, the "invisible hand" ', 'old_value': 'Classical economics Free market Economic liberalism Division of labour Absolute advantage Invisible hand '}}}
+1497: {'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam Smith the twerking extraordinaire'}}}
+1498: {'values_changed': {"root['name']": {'new_value': 'Adam Smith the twerking extraordinaire', 'old_value': 'Adam Smith'}}}
+1499: {'values_changed': {"root['name']": {'new_value': 'Adam Smith', 'old_value': 'Adam Smith podi patti ende mole'}}}
+1500: {'values_changed': {"root['name']": {'new_value': 'Adam Smith podi patti ende mole', 'old_value': 'Adam Smith'}}}
+1501: {'values_changed': {"root['notable_ideas']": {'new_value': 'Classical economics Free market Economic liberalism Division of labour Absolute advantage Invisible hand ', 'old_value': 'Classical economics '}}}
+1526: {'type_changes': {"root['notable_ideas']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Classical economics', 'Free market', 'Economic liberalism', 'Division of labour', 'Absolute advantage', 'Invisible hand'], 'new_value': 'Classical economics '}}}

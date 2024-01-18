@@ -1,0 +1,143 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tobey Maguire', "root['Height']": "5'8", "root['occupation']": 'Actor', "root['spouse']": 'Jennifer Meyer (fiancée) '}}
+2: {'dictionary_item_added': {"root['Height']": "5'8", "root['occupation']": 'Actor', "root['spouse']": 'Jennifer Meyer (fiancée) '}, 'dictionary_item_removed': {"root['birthdate']": '27 June, 1975', "root['location']": 'Santa Monica, California', "root['birthname']": 'Tobias Vincent Maguire'}}
+30: {'dictionary_item_removed': {"root['Img']": 'S-p.jpg', "root['Img_capt']": 'Tobey Maguire'}}
+32: {'values_changed': {"root['Img']": {'new_value': 'S-p.jpg', 'old_value': 'Blonde aguilera.jpg'}}}
+33: {'dictionary_item_added': {"root['Img']": 'Blonde aguilera.jpg'}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey Maguire Image:maguire.jpg'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire Image:maguire.jpg', 'old_value': 'Tobey Maguire Image:S-p.jpg'}}}
+41: {'dictionary_item_added': {"root['Img_capt']": 'Tobey Maguire'}, 'dictionary_item_removed': {"root['spouse']": 'Jennifer Meyer '}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire Image:S-p.jpg', 'old_value': 'Tobey Maguire'}}}
+44: {'values_changed': {"root['spouse']": {'new_value': 'Jennifer Meyer ', 'old_value': 'Jennifer Meyer (fiance) '}}}
+54: {'values_changed': {"root['spouse']": {'new_value': 'Jennifer Meyer (fiance) ', 'old_value': 'Jennifer Meyer (fiancee) '}}}
+55: {'values_changed': {"root['birthdate']": {'new_value': '27 June, 1975', 'old_value': 'birth date and age'}, "root['location']": {'new_value': 'Santa Monica, California', 'old_value': 'flagicon'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey Maguire Image:s-p'}}}
+61: {'dictionary_item_added': {"root['spouse']": 'Jennifer Meyer (fiancee) '}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire Image:s-p', 'old_value': 'Tobey Maguire'}}}
+70: {'dictionary_item_removed': {"root['Img']": 'Tobeymaguire1.jpg', "root['Img_capt']": 'Tobias Vicent Maguire', "root['Img_size']": '220'}}
+77: {'dictionary_item_removed': {"root['spouse']": '| notable role'}}
+99: {'dictionary_item_removed': {"root['deathdate']": 'Just now.', "root['deathplace']": 'Driver seat, 1992 buick Lesabre'}}
+126: {'dictionary_item_added': {"root['Img']": 'Tobeymaguire1.jpg', "root['Img_capt']": 'Tobias Vicent Maguire', "root['Img_size']": '220', "root['deathdate']": 'Just now.', "root['deathplace']": 'Driver seat, 1992 buick Lesabre', "root['spouse']": '| notable role'}, 'dictionary_item_removed': {"root['yearsactive']": '1979 – Present'}, 'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Santa Monica, California, United States flagicon'}}}
+157: {'values_changed': {"root['location']": {'new_value': 'Santa Monica, California, United States flagicon', 'old_value': 'flagicon'}}}
+183: {'dictionary_item_removed': {"root['death']": '16th April 2007 w/ Rap sensations Fat Joe and Will Smith'}}
+194: {'dictionary_item_added': {"root['death']": '16th April 2007 w/ Rap sensations Fat Joe and Will Smith'}, 'dictionary_item_removed': {"root['deathdate']": 'April 15 2007'}}
+211: {'dictionary_item_added': {"root['deathdate']": 'April 15 2007'}, 'values_changed': {"root['yearsactive']": {'new_value': '1979 – Present', 'old_value': '1979 – 2007 (31)'}}}
+214: {'values_changed': {"root['yearsactive']": {'new_value': '1979 – 2007 (31)', 'old_value': '1979 – Present'}}}
+300: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'C. Biscuit'}, "root['birthname']": {'new_value': 'Tobias Vincent Maguire', 'old_value': 'C. Biscuit'}}}
+301: {'values_changed': {"root['name']": {'new_value': 'C. Biscuit', 'old_value': 'Tobey Maguire'}, "root['birthname']": {'new_value': 'C. Biscuit', 'old_value': 'Tobias Vincent Maguire'}}}
+317: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Poophead Magi-boob'}}}
+318: {'values_changed': {"root['name']": {'new_value': 'Poophead Magi-boob', 'old_value': 'Tobey Maguire'}}}
+319: {'values_changed': {"root['birthname']": {'new_value': 'Tobias Vincent Maguire', 'old_value': 'Poopish Buttocks Boobhead Crapmonk Magi-boobboobboobboobboobboobboobboob'}, "root['yearsactive']": {'new_value': '1979 – Present', 'old_value': 'O BC – Present'}}}
+323: {'values_changed': {"root['birthname']": {'new_value': 'Poopish Buttocks Boobhead Crapmonk Magi-boobboobboobboobboobboobboobboob', 'old_value': 'Tobias Vincent Maguire'}, "root['yearsactive']": {'new_value': 'O BC – Present', 'old_value': '1989 – Present'}}}
+496: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'June 27, 1975'}, "root['location']": {'new_value': 'flagicon', 'old_value': 'Santa Monica, California'}}}
+497: {'values_changed': {"root['birthdate']": {'new_value': 'June 27, 1975', 'old_value': 'birth date and age'}}}
+498: {'values_changed': {"root['location']": {'new_value': 'Santa Monica, California', 'old_value': 'flagicon'}}}
+526: {'values_changed': {"root['yearsactive']": {'new_value': '1989 – Present', 'old_value': '1989 - Present'}}}
+536: {'dictionary_item_removed': {"root['tonyawards']": 'gsdjkbghbdh '}}
+543: {'values_changed': {"root['tonyawards']": {'new_value': 'gsdjkbghbdh ', 'old_value': 'gsdjkbghbdh NOT HE IS ATED IN HIS DEBOUT IN SPIDERMAN 3 SO TUNE IN LATER  TO FIND OUT EVDSJAHNVKSADVNHKGSEGVLSD AND SNBFVJASVFJKAS '}}}
+607: {'dictionary_item_added': {"root['tonyawards']": 'gsdjkbghbdh NOT HE IS ATED IN HIS DEBOUT IN SPIDERMAN 3 SO TUNE IN LATER  TO FIND OUT EVDSJAHNVKSADVNHKGSEGVLSD AND SNBFVJASVFJKAS '}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Hello Vesti, Re-Koil sends his greetings.'}}}
+608: {'values_changed': {"root['name']": {'new_value': 'Hello Vesti, Re-Koil sends his greetings.', 'old_value': 'Tobey Maguire'}}}
+619: {'dictionary_item_added': {"root['yearsactive']": '1989 - Present'}, 'dictionary_item_removed': {"root['partner']": 'Jennifer Meyer (2003-)', "root['children']": 'Ruby Maguire (b.2006)', "root['awards']": "'''Best Younger Actor''', 1998 ''Pleasantville'' ,  '''Saturn Award for Best Actor (film)''', 2004 ''Spider-Man 2'' "}, 'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Santa Monica, California'}}}
+620: {'values_changed': {"root['awards']": {'new_value': "'''Best Younger Actor''', 1998 ''Pleasantville'' ,  '''Saturn Award for Best Actor (film)''', 2004 ''Spider-Man 2'' ", 'old_value': "'''Saturn Award for Best Younger Actor''', 1998 ''Pleasantville'' ,  '''Saturn Award for Best Actor (film)''', 2004 ''Spider-Man 2'' "}}}
+629: {'dictionary_item_added': {"root['partner']": 'Jennifer Meyer (2003-)'}, 'dictionary_item_removed': {"root['spouse']": 'Jennifer Meyer (Married September 3, 2007)'}}
+631: {'values_changed': {"root['spouse']": {'new_value': 'Jennifer Meyer (Married September 3, 2007)', 'old_value': 'Jennifer Meyer (2007 - present) 1 child'}, "root['children']": {'new_value': 'Ruby Maguire (b.2006)', 'old_value': 'Ruby Maguire (b. 2006)'}}}
+651: {'values_changed': {"root['location']": {'new_value': 'Santa Monica, California', 'old_value': 'flagicon'}}}
+652: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Santa Monica, California'}}}
+665: {'dictionary_item_added': {"root['birthname']": 'Tobias Vincent Maguire', "root['birthdate']": 'birth date and age', "root['location']": 'Santa Monica, California', "root['awards']": "'''Saturn Award for Best Younger Actor''', 1998 ''Pleasantville'' ,  '''Saturn Award for Best Actor (film)''', 2004 ''Spider-Man 2'' "}, 'dictionary_item_removed': {"root['occupation']": 'Actor, film producer'}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey  Maguire'}, "root['spouse']": {'new_value': 'Jennifer Meyer (2007 - present) 1 child', 'old_value': 'marriage'}, "root['children']": {'new_value': 'Ruby Maguire (b. 2006)', 'old_value': 'Ruby (born 2006) '}}}
+666: {'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': '2 '}}}
+667: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Ruby (born 2006) '}}}
+668: {'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': '2 '}}}
+670: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Ruby (born 2006) '}}}
+678: {'values_changed': {"root['name']": {'new_value': 'Tobey  Maguire', 'old_value': 'Tobey Maguire'}}}
+688: {'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': 'Ruby (b. 2006) '}}}
+689: {'values_changed': {"root['children']": {'new_value': 'Ruby (b. 2006) ', 'old_value': 'Ruby (born 2006) '}}}
+695: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey Maguire, AKA, Peter Parker, Husband of Mary Jane'}}}
+696: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire, AKA, Peter Parker, Husband of Mary Jane', 'old_value': 'Tobey Maguire'}}}
+705: {'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': '2 '}}}
+706: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Ruby (born 2006) '}}}
+709: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer,spider'}}}
+710: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer,spider', 'old_value': 'Actor, film producer'}}}
+719: {'dictionary_item_removed': {"root['list']": 'MTV Movie Award for Best Kiss Saturn Award for Best Actor 1991–2010 Saturn Award for Best Performance by a Younger Actor   Use mdy dates', "root['NAME']": 'Maguire, Tobey |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': '2  \'\'\'Tobias Vincent\'\'\' "\'\'\'Tobey\'\'\'" \'\'\'Maguire\'\'\' (born June 27, 1975) is an American actor and film producer who began his career in the late 1980s. He is known for his role as Spider-Man'}}}
+720: {'dictionary_item_added': {"root['list']": 'MTV Movie Award for Best Kiss Saturn Award for Best Actor 1991–2010 Saturn Award for Best Performance by a Younger Actor   Use mdy dates', "root['NAME']": 'Maguire, Tobey |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': '2  \'\'\'Tobias Vincent\'\'\' "\'\'\'Tobey\'\'\'" \'\'\'Maguire\'\'\' (born June 27, 1975) is an American actor and film producer who began his career in the late 1980s. He is known for his role as Spider-Man', 'old_value': '2 '}}}
+723: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey V. Maguire'}}}
+724: {'values_changed': {"root['name']": {'new_value': 'Tobey V. Maguire', 'old_value': 'Tobey Maguire'}}}
+726: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey rodriquez Maguire'}, "root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, photographer at the daily bugle, friendly neigbourhood spiederman (shhhhh)'}, "root['children']": {'new_value': '2 ', 'old_value': '69 '}}}
+727: {'values_changed': {"root['name']": {'new_value': 'Tobey rodriquez Maguire', 'old_value': 'Tobey Maguire'}, "root['occupation']": {'new_value': 'Actor, film producer, photographer at the daily bugle, friendly neigbourhood spiederman (shhhhh)', 'old_value': 'Actor, film producer'}, "root['children']": {'new_value': '69 ', 'old_value': '2 '}}}
+745: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey spideyman Maguire'}, "root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'being spidey'}, "root['children']": {'new_value': '2 ', 'old_value': '2 spiders '}}}
+746: {'values_changed': {"root['name']": {'new_value': 'Tobey spideyman Maguire', 'old_value': 'Tobey Maguire'}, "root['occupation']": {'new_value': 'being spidey', 'old_value': 'Actor, film producer'}, "root['children']": {'new_value': '2 spiders ', 'old_value': '2 '}}}
+752: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, musician'}}}
+754: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, musician', 'old_value': 'Actor, film producer'}}}
+757: {'dictionary_item_removed': {"root['position']": 'Forward (association football)', "root['currentclub']": 'FC Barcelona', "root['clubnumber']": '10', "root['youthyears1']": '1995–2000', "root['youthyears2']": '2000–2003', "root['years1']": '2003–2004', "root['years2']": '2004–2005', "root['years3']": '2004–'}}
+783: {'dictionary_item_added': {"root['position']": 'Forward (association football)', "root['currentclub']": 'FC Barcelona', "root['clubnumber']": '10', "root['youthyears1']": '1995–2000', "root['youthyears2']": '2000–2003', "root['years1']": '2003–2004', "root['years2']": '2004–2005', "root['years3']": '2004–'}, 'dictionary_item_removed': {"root['alma_mater']": 'Bryn Mawr College'}}
+787: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey McMuffin'}}}
+789: {'values_changed': {"root['name']": {'new_value': 'Tobey McMuffin', 'old_value': 'Tobey Maguire'}}}
+799: {'dictionary_item_added': {"root['alma_mater']": 'Bryn Mawr College'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, drag queen'}}}
+800: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, drag queen', 'old_value': 'Actor, film producer'}}}
+801: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '3 '}}}
+802: {'values_changed': {"root['children']": {'new_value': '3 ', 'old_value': '2 '}}}
+808: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey "Moon Prince" Maguire'}}}
+809: {'values_changed': {"root['name']": {'new_value': 'Tobey "Moon Prince" Maguire', 'old_value': 'Tobey Maguire'}}}
+810: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey "Moon Prince" Maguire'}}}
+811: {'values_changed': {"root['name']": {'new_value': 'Tobey "Moon Prince" Maguire', 'old_value': 'Tobey Maguire'}}}
+812: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '1 girl,  1 boy '}}}
+814: {'values_changed': {"root['children']": {'new_value': '1 girl,  1 boy ', 'old_value': '2 '}}}
+818: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Micheal Moore Aka "Tobey Maguire"'}}}
+819: {'values_changed': {"root['name']": {'new_value': 'Micheal Moore Aka "Tobey Maguire"', 'old_value': 'Tobey Maguire'}}}
+829: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey MaSpoogis'}}}
+832: {'values_changed': {"root['name']": {'new_value': 'Tobey MaSpoogis', 'old_value': 'Tobey Maguire'}}}
+856: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey Masquire'}}}
+857: {'values_changed': {"root['name']": {'new_value': 'Tobey Masquire', 'old_value': 'Tobey Maguire'}}}
+869: {'dictionary_item_removed': {"root['alma_mater']": 'University'}}
+917: {'dictionary_item_added': {"root['alma_mater']": 'University'}, 'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Steven abreu Romero'}}}
+918: {'values_changed': {"root['name']": {'new_value': 'Steven abreu Romero', 'old_value': 'Tobey Maguire'}}}
+919: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey "Tugboat"Maguire'}}}
+920: {'values_changed': {"root['name']": {'new_value': 'Tobey "Tugboat"Maguire', 'old_value': 'Tobey Maguire'}}}
+921: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tugboat Maguire'}}}
+922: {'values_changed': {"root['name']": {'new_value': 'Tugboat Maguire', 'old_value': 'Tobey Maguire'}}}
+923: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Peter Parker OG'}}}
+924: {'values_changed': {"root['name']": {'new_value': 'Peter Parker OG', 'old_value': 'Tobey Maguire'}}}
+928: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Jennifer Meyer '}, "root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+929: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 '}, "root['spouse']": {'new_value': 'Jennifer Meyer ', 'old_value': 'marriage'}}}
+930: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey adel maguire'}}}
+931: {'values_changed': {"root['name']": {'new_value': 'Tobey adel maguire', 'old_value': 'Tobey Maguire'}}}
+994: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, Spiderman'}}}
+995: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, Spiderman', 'old_value': 'Actor, film producer, Spider-man'}}}
+996: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, Spider-man', 'old_value': 'Actor, film producer'}}}
+998: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobble McGobble'}}}
+999: {'values_changed': {"root['name']": {'new_value': 'Tobble McGobble', 'old_value': 'Tobey Maguire'}}}
+1000: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Jennifer Meyer '}, "root['children']": {'new_value': '2 ', 'old_value': '5009'}}}
+1001: {'values_changed': {"root['children']": {'new_value': '5009', 'old_value': '2 '}, "root['spouse']": {'new_value': 'Jennifer Meyer ', 'old_value': 'marriage'}}}
+1006: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start. ding'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'Jennifer Meyer '}, "root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+1008: {'values_changed': {"root['name']": {'new_value': 'The FitnessGram Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly but gets faster each minute after you hear this signal bodeboop. A sing lap should be completed every time you hear this sound. ding Remember to run in a straight line and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark. Get ready!… Start. ding', 'old_value': 'Tobey Maguire'}, "root['children']": {'new_value': '2', 'old_value': '2 '}, "root['spouse']": {'new_value': 'Jennifer Meyer ', 'old_value': 'marriage'}}}
+1017: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Ugly head'}}}
+1018: {'values_changed': {"root['name']": {'new_value': 'Ugly head', 'old_value': 'Tobey Maguire'}}}
+1020: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey "Everybody Loves Raymond" Maguire'}}}
+1022: {'values_changed': {"root['name']": {'new_value': 'Tobey "Everybody Loves Raymond" Maguire', 'old_value': 'Tobey Maguire'}}}
+1026: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Illuminado Marco'}}}
+1027: {'values_changed': {"root['name']": {'new_value': 'Illuminado Marco', 'old_value': 'Tobey Maguire'}}}
+1030: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Illuminado Marco'}}}
+1031: {'values_changed': {"root['name']": {'new_value': 'Illuminado Marco', 'old_value': 'Tobey Maguire'}}}
+1042: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Paul Crowley'}}}
+1043: {'values_changed': {"root['name']": {'new_value': 'Paul Crowley', 'old_value': 'Tobey Maguire'}}}
+1053: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, musician'}}}
+1054: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'John Cena'}}}
+1055: {'values_changed': {"root['name']": {'new_value': 'John Cena', 'old_value': 'Tobey Maguire'}}}
+1060: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobey Maguire(alias: Hazzilla)'}}}
+1061: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire(alias: Hazzilla)', 'old_value': 'Harry + jack 4 ever'}, "root['occupation']": {'new_value': 'Actor, film producer, musician', 'old_value': 'I know a guy that has hemeroids'}}}
+1062: {'values_changed': {"root['name']": {'new_value': 'Harry + jack 4 ever', 'old_value': 'Tobey Maguire(alias: Hazzilla)'}, "root['occupation']": {'new_value': 'I know a guy that has hemeroids', 'old_value': 'Actor, film producer, musician'}}}
+1063: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire(alias: Hazzilla)', 'old_value': 'Tobey Maguire'}}}
+1064: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Harry Ford'}}}
+1066: {'values_changed': {"root['name']": {'new_value': 'Harry Ford', 'old_value': 'Tobey Maguire'}}}
+1071: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Estas demente parker:v'}}}
+1072: {'values_changed': {"root['name']": {'new_value': 'Estas demente parker:v', 'old_value': 'Tobey Maguire'}}}
+1101: {'dictionary_item_removed': {"root['list']": 'da'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '2   \'\'\'Tobias Vincent\'\'\' "\'\'\'Tobey\'\'\'" \'\'\'Maguire\'\'\' (born June 27, 1975)   is an American actor and film producer. Maguire began his career in the late 1980s. His first appearance in a feature film was a non-speaking part in \'\'The Wizard (film)'}}}
+1102: {'dictionary_item_added': {"root['list']": 'da'}, 'values_changed': {"root['children']": {'new_value': '2   \'\'\'Tobias Vincent\'\'\' "\'\'\'Tobey\'\'\'" \'\'\'Maguire\'\'\' (born June 27, 1975)   is an American actor and film producer. Maguire began his career in the late 1980s. His first appearance in a feature film was a non-speaking part in \'\'The Wizard (film)', 'old_value': '2 '}}}
+1109: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, musician', 'old_value': 'Actor, film producer'}}}
+1115: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer', 'old_value': 'Actor, film producer, and professional skateboarder'}}}
+1118: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, and professional skateboarder', 'old_value': 'Actor, producer,'}}}
+1121: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': 'Ruby (born 2006) '}}}
+1122: {'values_changed': {"root['children']": {'new_value': 'Ruby (born 2006) ', 'old_value': '2 '}}}
+1131: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer,', 'old_value': 'Actor, producer, narrator'}}}
+1133: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, narrator', 'old_value': 'Actor, producer'}}}
+1142: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Cray Cray Toe-bay'}}}
+1143: {'values_changed': {"root['name']": {'new_value': 'Cray Cray Toe-bay', 'old_value': 'Tobey Maguire'}}}
+1147: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '.0000000001  '}}}
+1148: {'values_changed': {"root['children']": {'new_value': '.0000000001  ', 'old_value': '2 '}}}
+1149: {'values_changed': {"root['name']": {'new_value': 'Tobey Maguire', 'old_value': 'Tobuscus'}, "root['children']": {'new_value': '2 ', 'old_value': '.000000000001 '}}}
+1150: {'values_changed': {"root['name']": {'new_value': 'Tobuscus', 'old_value': 'Tobey Maguire'}, "root['children']": {'new_value': '.000000000001 ', 'old_value': '2 '}}}

@@ -1,0 +1,19 @@
+181: {'dictionary_item_removed': {"root['subject_name']": 'Neil Aspinall', "root['date_of_birth']": '1942', "root['place_of_birth']": 'Liverpool', "root['occupation']": 'Road Manager, Personal Assistant, Producer, Executive'}}
+182: {'dictionary_item_removed': {"root['spouse']": 'Suzy Ornstein', "root['children']": 'Roag Best (with Mona Best) '}, 'values_changed': {"root['place_of_birth']": {'new_value': 'Liverpool', 'old_value': 'Liverpool, England'}, "root['occupation']": {'new_value': 'Road Manager, Personal Assistant, Producer, Executive', 'old_value': 'Road Manager, Personal assistant, Producer, Executive'}}}
+202: {'values_changed': {"root['place_of_birth']": {'new_value': 'Liverpool, England', 'old_value': 'Prestatyn, North Wales'}}}
+214: {'values_changed': {"root['date_of_birth']": {'new_value': '1942', 'old_value': '13 October 1942'}}}
+218: {'values_changed': {"root['spouse']": {'new_value': 'Suzy Ornstein', 'old_value': 'Suzy Aspinall (née Ornstein)'}}}
+278: {'values_changed': {"root['children']": {'new_value': 'Roag Best (with Mona Best) ', 'old_value': 'Vincent "Roag" Best (with Mona Best) '}}}
+360: {'values_changed': {"root['occupation']": {'new_value': 'Road Manager, Personal assistant, Producer, Executive', 'old_value': 'Road Manager, Personal assistant, Record producer, Executive'}}}
+368: {'values_changed': {"root['occupation']": {'new_value': 'Road Manager, Personal assistant, Record producer, Executive', 'old_value': 'Road Manager, Personal assistant, Record producer, Corporate title'}}}
+485: {'dictionary_item_removed': {"root['image_name']": 'NeilAspinall.jpg', "root['image_caption']": 'Neil Apinall (photo by Linda McCartney)'}}
+486: {'values_changed': {"root['image_caption']": {'new_value': 'Neil Apinall (photo by Linda McCartney)', 'old_value': 'Neil Aspinall (photo by Linda McCartney)'}}}
+487: {'values_changed': {"root['image_caption']": {'new_value': 'Neil Aspinall (photo by Linda McCartney)', 'old_value': '(Photo by Linda McCartney)'}}}
+491: {'values_changed': {"root['spouse']": {'new_value': 'Suzy Aspinall (née Ornstein)', 'old_value': 'Suzy Aspinall (née Ornstein) (daughter of film producer Bud Ornstein'}}}
+503: {'dictionary_item_added': {"root['subject_name']": 'Neil Aspinall', "root['image_name']": 'NeilAspinall.jpg', "root['image_caption']": '(Photo by Linda McCartney)', "root['date_of_birth']": '13 October 1942', "root['place_of_birth']": 'Prestatyn, North Wales'}, 'dictionary_item_removed': {"root['name']": 'Neil Aspinall'}}
+531: {'values_changed': {"root['spouse']": {'new_value': 'Suzy Aspinall (née Ornstein) (daughter of film producer Bud Ornstein', 'old_value': 'Suzy Aspinall (née Ornstein) (daughter of film producer Bud Ornstein)'}}}
+578: {'values_changed': {"root['spouse']": {'new_value': 'Suzy Aspinall (née Ornstein) (daughter of film producer Bud Ornstein)', 'old_value': 'Suzy Aspinall (née Ornstein)'}}}
+594: {'values_changed': {"root['occupation']": {'new_value': 'Road Manager, Personal assistant, Record producer, Corporate title', 'old_value': 'Road manager, Personal assistant, Record producer, Corporate title'}}}
+618: {'values_changed': {"root['children']": {'new_value': 'Vincent "Roag" Best (with Mona Best) ', 'old_value': 'Vincent "Roag" Best (with Mona Best), daughters Gayla, Dhara and Mandy and son Julian (with Suzy Orenstein) '}}}
+619: {'values_changed': {"root['children']": {'new_value': 'Vincent "Roag" Best (with Mona Best), daughters Gayla, Dhara and Mandy and son Julian (with Suzy Orenstein) ', 'old_value': 'Vincent "Roag" Best (with Mona Best), daughters Gayla, Dhara and Mandy and son Julian (with Suzy Aspinall) '}}}
+662: {'values_changed': {"root['occupation']": {'new_value': 'Road manager, Personal assistant, Record producer, Corporate title', 'old_value': 'Road manager, Personal assistant, producer, Corporate title'}}}

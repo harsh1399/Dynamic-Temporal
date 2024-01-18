@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sacha Baron Cohen', "root['birthname']": 'Sacha Noam Baron Cohen', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Hammersmith, London, England, United Kingdom', "root['occupation']": 'comedian, writer, actor', "root['active']": '1995–present', "root['domesticpartner']": 'Isla Fisher (engaged)'}}
+5: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'dddddddd penisbirth date and age'}}}
+6: {'values_changed': {"root['birthdate']": {'new_value': 'dddddddd penisbirth date and age', 'old_value': 'birth date and age'}}}
+17: {'values_changed': {"root['occupation']": {'new_value': 'comedian, writer, actor', 'old_value': 'Comedian, Writer, Actor'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Sacha Baron Cohen', 'old_value': 'Sacha Baron Cohen aka the big cheese'}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Sacha Baron Cohen aka the big cheese', 'old_value': 'Sacha Baron Cohen'}}}
+61: {'dictionary_item_added': {"root['domesticpartner']": 'Isla Fisher (engaged)'}, 'dictionary_item_removed': {"root['spouse']": "dmy '''Sacha Noam Baron Cohen'''<ref name", "root['first']": 'Harry', "root['rowspan']": '"2"', "root['NAME']": 'Baron Cohen, Sacha,Jr |ALTERNATIVE'}}
+62: {'dictionary_item_added': {"root['spouse']": "dmy '''Sacha Noam Baron Cohen'''<ref name", "root['first']": 'Harry', "root['rowspan']": '"2"', "root['NAME']": 'Baron Cohen, Sacha,Jr |ALTERNATIVE'}, 'dictionary_item_removed': {"root['domesticpartner']": 'Isla Fisher (engaged)'}}
+64: {'values_changed': {"root['name']": {'new_value': 'Sacha Baron Cohen', 'old_value': 'Jewsih man'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'Jewsih man', 'old_value': 'Jewish man'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'Jewish man', 'old_value': 'Sacha Baron Cohen'}}}
+67: {'values_changed': {"root['name']": {'new_value': 'Sacha Baron Cohen', 'old_value': 'ASSSSS HOOOOLLLLLEEE'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'ASSSSS HOOOOLLLLLEEE', 'old_value': 'Sacha Baron Cohen'}}}
+71: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'October 13, 1971'}}}
+78: {'values_changed': {"root['birthdate']": {'new_value': 'October 13, 1971', 'old_value': 'birth date and age'}}}
+91: {'values_changed': {"root['domesticpartner']": {'new_value': 'Isla Fisher (engaged)', 'old_value': 'Isla Fisher (MARRIED)'}}}
+92: {'values_changed': {"root['domesticpartner']": {'new_value': 'Isla Fisher (MARRIED)', 'old_value': 'Isla Fisher (engaged)'}}}
+93: {'values_changed': {"root['name']": {'new_value': 'Sacha Baron Cohen', 'old_value': 'Sacha Noam Baron Cohen'}, "root['occupation']": {'new_value': 'Comedian, Writer, Actor', 'old_value': 'Actor, Comedian, Writer'}}}
+154: {'dictionary_item_added': {"root['name']": 'Sacha Noam Baron Cohen'}, 'values_changed': {"root['domesticpartner']": {'new_value': 'Isla Fisher (engaged)', 'old_value': 'Isla Fisher (married)'}}}
+155: {'values_changed': {"root['domesticpartner']": {'new_value': 'Isla Fisher (married)', 'old_value': 'Isla Fisher (married)  '}}}
+156: {'dictionary_item_added': {"root['domesticpartner']": 'Isla Fisher (married)  '}, 'dictionary_item_removed': {"root['spouse']": 'Isla Fisher (2010-present)  '}}
+171: {'values_changed': {"root['spouse']": {'new_value': 'Isla Fisher (2010-present)  ', 'old_value': 'Isla Fisher (2010–present)  '}}}
+172: {'values_changed': {"root['spouse']": {'new_value': 'Isla Fisher (2010–present)  ', 'old_value': 'Isla Fisher (2010-present)  '}}}
+173: {'values_changed': {"root['spouse']": {'new_value': 'Isla Fisher (2010-present)  ', 'old_value': 'Isla Fisher (2010–present)  '}}}
+174: {'values_changed': {"root['spouse']": {'new_value': 'Isla Fisher (2010–present)  ', 'old_value': 'Isla Fisher (2010-present)  '}}}
+177: {'values_changed': {"root['spouse']": {'new_value': 'Isla Fisher (2010-present)  ', 'old_value': 'Isla Fisher (2010–present)  '}}}
+194: {'dictionary_item_added': {"root['active']": '1995–present'}, 'dictionary_item_removed': {"root['yearsactive']": '1995–present'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'Birth date and age'}, "root['occupation']": {'new_value': 'Actor, Comedian, Writer', 'old_value': 'Actor, writer, comedian,'}, "root['spouse']": {'new_value': 'Isla Fisher (2010–present)  ', 'old_value': 'Isla Fisher  '}}}
+239: {'values_changed': {"root['birthplace']": {'new_value': 'Hammersmith, London, England, United Kingdom', 'old_value': 'Hammersmith, London, England, UK'}}}
+286: {'values_changed': {"root['birthname']": {'new_value': 'Sacha Noam Baron Cohen', 'old_value': 'Sacha Noam Baron Cohen neil mcmillan ya bas'}}}
+289: {'values_changed': {"root['birthname']": {'new_value': 'Sacha Noam Baron Cohen neil mcmillan ya bas', 'old_value': 'Sacha Noam Baron Cohen'}}}
+362: {'dictionary_item_added': {"root['birthname']": 'Sacha Noam Baron Cohen', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Hammersmith, London, England, UK', "root['yearsactive']": '1995–present', "root['spouse']": 'Isla Fisher  '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, writer, comedian,', 'old_value': 'comedian, actor, writer'}}}
+536: {'values_changed': {"root['occupation']": {'new_value': 'comedian, actor, writer', 'old_value': 'arsehole'}}}
+537: {'values_changed': {"root['occupation']": {'new_value': 'arsehole', 'old_value': 'comedian, actor, writer'}}}
+540: {'dictionary_item_removed': {"root['spouse']": 'Isla Fisher'}}
+615: {'dictionary_item_added': {"root['spouse']": 'Isla Fisher'}, 'dictionary_item_removed': {"root['Medium']": 'Stand up, Films'}}
+618: {'dictionary_item_removed': {"root['name']": 'Sacha,Baron Cohen'}}
+632: {'dictionary_item_added': {"root['name']": 'Sacha,Baron Cohen', "root['Medium']": 'Stand up, Films'}, 'values_changed': {"root['occupation']": {'new_value': 'comedian, actor, writer', 'old_value': 'Comedian, actor, writer'}}}
+675: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '2 daughters '}}
+788: {'values_changed': {"root['occupation']": {'new_value': 'Comedian, actor, writer', 'old_value': 'Stand-up comedian, actor, writer, voice artist, comedian'}}}
+846: {'dictionary_item_removed': {"root['alma_mater']": 'Cambridge University'}}
+873: {'dictionary_item_removed': {"root['notable_works']": 'Ali G, Borat Sagdiyev'}}

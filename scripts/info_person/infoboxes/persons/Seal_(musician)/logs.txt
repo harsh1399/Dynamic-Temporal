@@ -1,0 +1,50 @@
+65: {'dictionary_item_removed': {"root['name']": 'Seal', "root['background']": 'solo_singer', "root['origin']": 'Paddington, London, England', "root['genre']": 'soul music', "root['instrument']": 'Vocals, guitar, bass guitar', "root['occupation']": 'Singer-songwriter, musician', "root['label']": 'ZTT Records'}}
+169: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Faggot scar muncher'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Faggot scar muncher', 'old_value': 'Seal'}}}
+217: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': "sam 'the seal' Malpasso"}}}
+218: {'values_changed': {"root['name']": {'new_value': "sam 'the seal' Malpasso", 'old_value': 'Seal'}}}
+230: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Seal :) ^-^ -_- :)'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Seal :) ^-^ -_- :)', 'old_value': 'Seal'}}}
+260: {'values_changed': {"root['origin']": {'new_value': 'Paddington, London, England', 'old_value': 'The Ocean'}}}
+261: {'values_changed': {"root['origin']": {'new_value': 'The Ocean', 'old_value': 'Paddington, London, England'}}}
+277: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, musician', 'old_value': 'Singer-songwriter, musician, Photographer'}}}
+278: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, musician, Photographer', 'old_value': 'Singer-songwriter, musician'}}}
+354: {'values_changed': {"root['genre']": {'new_value': 'soul music', 'old_value': 'Contemporary R&B'}}}
+379: {'values_changed': {"root['genre']": {'new_value': 'Contemporary R&B', 'old_value': 'Soul music'}}}
+382: {'dictionary_item_removed': {"root['associated_acts']": 'Adamski, Santana (band)'}}
+400: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Seal Pup'}}}
+402: {'values_changed': {"root['name']": {'new_value': 'Seal Pup', 'old_value': 'Seal'}}}
+407: {'dictionary_item_added': {"root['origin']": 'Paddington, London, England'}, 'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Seale'}}}
+408: {'values_changed': {"root['name']": {'new_value': 'Seale', 'old_value': 'Sealiourmum'}}}
+409: {'values_changed': {"root['name']": {'new_value': 'Sealiourmum', 'old_value': 'Seal the Musical Artist'}}}
+411: {'values_changed': {"root['name']": {'new_value': 'Seal the Musical Artist', 'old_value': 'Seal'}}}
+414: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Seal ye mum'}}}
+415: {'values_changed': {"root['name']": {'new_value': 'Seal ye mum', 'old_value': 'Seal'}}}
+428: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Penis link'}}}
+429: {'values_changed': {"root['name']": {'new_value': 'Penis link', 'old_value': 'Seal'}}}
+430: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Penis link'}}}
+431: {'values_changed': {"root['name']": {'new_value': 'Penis link', 'old_value': 'Seal'}}}
+448: {'dictionary_item_removed': {"root['spouse']": 'Heidi Klum (2005– d. 2012) two sons, two daughters'}}
+449: {'dictionary_item_added': {"root['spouse']": 'Heidi Klum (2005– d. 2012) two sons, two daughters'}, 'values_changed': {"root['label']": {'new_value': 'ZTT Records', 'old_value': 'ZTT, Sire, Warner Bros., Reprise  '}}}
+450: {'dictionary_item_removed': {"root['spouse']": 'Heidi Klum (2005– d. 2012) two sons, two daughters'}, 'values_changed': {"root['label']": {'new_value': 'ZTT, Sire, Warner Bros., Reprise  ', 'old_value': 'ZTT Records'}}}
+451: {'values_changed': {"root['spouse']": {'new_value': 'Heidi Klum (2005– d. 2012) two sons, two daughters', 'old_value': 'marriage'}}}
+476: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer, dancer, everything'}}}
+477: {'values_changed': {"root['background']": {'new_value': 'solo_singer, dancer, everything', 'old_value': 'solo_singer'}}}
+480: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Soul music'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, guitar, bass guitar'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer-songwriter, musician'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Adamski, Santana (band)'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ZTT', 'Sire', 'Warner Bros.', 'Reprise', 'Decca'], 'new_value': 'ZTT Records'}}, 'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.', "root['children']": '4'}}
+581: {'dictionary_item_added': {"root['associated_acts']": []}, 'dictionary_item_removed': {"root['partner']": 'Tatjana Patitz (1997-2003)'}}
+589: {'values_changed': {"root['partner']": {'new_value': 'Tatjana Patitz (1997-2003)', 'old_value': 'Tatjana Patitz (1997-2003)  Erica Baxter (2015-present)'}}}
+597: {'dictionary_item_added': {"root['partner']": 'Tatjana Patitz (1997-2003)  Erica Baxter (2015-present)'}, 'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, US'}}}
+603: {'values_changed': {"root['name']": {'new_value': 'Seal', 'old_value': 'Seals   Ln'}}}
+604: {'values_changed': {"root['name']": {'new_value': 'Seals   Ln', 'old_value': 'Seal'}}}
+623: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, US', 'old_value': 'Los Angeles, California, U.S.'}}}
+645: {'dictionary_item_added': {"root['residence']": 'Los Angeles, California, U.S.', "root['instrument']": []}, 'dictionary_item_removed': {"root['alias']": 'Sealhenry Samuel', "root['associated_acts']": [], "root['awards']": '#Awards and nominations'}, 'iterable_item_added': {"root['label'][0]": 'ZTT', "root['label'][1]": 'Sire', "root['label'][2]": 'Warner Bros.', "root['label'][3]": 'Reprise', "root['label'][4]": 'Decca'}}
+653: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'porch monkey'}}}
+655: {'values_changed': {"root['background']": {'new_value': 'porch monkey', 'old_value': 'solo_singer'}}}
+670: {'dictionary_item_removed': {"root['instrument']": 'Vocals ,  Guitar'}}
+671: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals ,  Guitar'}}}
+721: {'dictionary_item_added': {"root['background']": 'solo_singer', "root['alias']": 'Sealhenry Samuel', "root['genre']": [], "root['instrument']": [], "root['label']": [], "root['associated_acts']": [], "root['awards']": '#Awards and nominations', "root['spouse']": 'marriage', "root['children']": '4'}, 'iterable_item_removed': {"root['occupation'][0]": 'Musician', "root['occupation'][1]": 'singer', "root['occupation'][2]": 'songwriter', "root['occupation'][3]": 'record producer'}}
+722: {'dictionary_item_removed': {"root['awards']": '#Awards and nominations', "root['spouse']": 'marriage', "root['children']": '4', "root['embed']": 'yes', "root['genre']": [], "root['instrument']": [], "root['label']": [], "root['associated_acts']": ['The Bullitts', 'Trevor Horn']}, 'iterable_item_added': {"root['occupation'][0]": 'Musician', "root['occupation'][1]": 'singer', "root['occupation'][2]": 'songwriter', "root['occupation'][3]": 'record producer'}}
+723: {'dictionary_item_added': {"root['embed']": 'yes'}, 'dictionary_item_removed': {"root['alias']": 'Sealhenry Samuel'}, 'iterable_item_added': {"root['associated_acts'][0]": 'The Bullitts', "root['associated_acts'][1]": 'Trevor Horn'}}
+724: {'dictionary_item_added': {"root['alias']": 'Sealhenry Samuel'}, 'dictionary_item_removed': {"root['embed']": 'yes'}, 'iterable_item_removed': {"root['associated_acts'][0]": 'The Bullitts', "root['associated_acts'][1]": 'Trevor Horn'}}
+725: {'dictionary_item_added': {"root['embed']": 'yes'}, 'dictionary_item_removed': {"root['alias']": 'Sealhenry Samuel'}, 'iterable_item_added': {"root['associated_acts'][0]": 'The Bullitts', "root['associated_acts'][1]": 'Trevor Horn'}}
+740: {'dictionary_item_removed': {"root['rowspan']": '2', "root['list']": 'Brit British Album Brit British Male Grammy Award for Record of the Year 1990s Grammy Award for Song of the Year 1990s Grammy Award for Best Male Pop Vocal Performance   Authority control  DEFAULTSORT:Seal Category:1963 births Category:Living people Category:Black British singers Category:Brit Award winners Category:English expatriates in Australia Category:English expatriates in the United States Category:English people of Nigerian descent Category:English people of Brazilian descent Category:English male singer-songwriters Category:English soul musicians Category:English tenors Category:Grammy Award winners Category:People from Paddington Category:People with lupus Category:Reprise Records artists Category:Singers from London Category:Sire Records artists Category:Warner Records artists Category:Yoruba musicians Category:ZTT Records artists Category:Ivor Novello Award winners'}}

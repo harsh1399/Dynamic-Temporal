@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Michael Reagan', "root['occupation']": 'Radio talk show host', "root['spouse']": 'marriage'}}
+6: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'adoptive paren'}}}
+72: {'dictionary_item_removed': {"root['alma_mater']": 'Arizona State University,  (dropped-out)', "root['religion']": 'Born Again Christian', "root['residence']": 'Toluca Lake, Los Angeles, California U.S.', "root['children']": 'Cameron and Ashley Reagan'}, 'values_changed': {"root['spouse']": {'new_value': 'adoptive paren', 'old_value': 'marriage'}}}
+77: {'values_changed': {"root['children']": {'new_value': 'Cameron and Ashley Reagan', 'old_value': 'Cameron <ref name'}}}
+119: {'values_changed': {"root['religion']": {'new_value': 'Born Again Christian', 'old_value': 'Catholic'}}}
+126: {'values_changed': {"root['religion']": {'new_value': 'Catholic', 'old_value': 'Born Again Christian'}}}
+139: {'values_changed': {"root['religion']": {'new_value': 'Born Again Christian', 'old_value': 'Catholic'}}}
+145: {'values_changed': {"root['religion']": {'new_value': 'Catholic', 'old_value': 'Born Again Christian <ref name'}}}
+163: {'dictionary_item_added': {"root['religion']": 'Born Again Christian <ref name'}, 'values_changed': {"root['children']": {'new_value': 'Cameron <ref name', 'old_value': 'Cameron<ref name'}}}
+359: {'values_changed': {"root['alma_mater']": {'new_value': 'Arizona State University,  (dropped-out)', 'old_value': 'Arizona State University,  (first semester drop-out)'}}}
+666: {'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}, 'values_changed': {"root['name']": {'new_value': 'Michael Reagan', 'old_value': 'Michael Edward Reagan'}, "root['occupation']": {'new_value': 'Radio talk show host', 'old_value': 'Radio personality'}, "root['alma_mater']": {'new_value': 'Arizona State University,  (first semester drop-out)', 'old_value': 'Arizona State University'}, "root['residence']": {'new_value': 'Toluca Lake, Los Angeles, California U.S.', 'old_value': 'Toluca Lake, Los Angeles'}, "root['children']": {'new_value': 'Cameron<ref name', 'old_value': 'Cameron Reagan<ref name'}}}

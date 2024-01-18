@@ -1,0 +1,39 @@
+161: {'dictionary_item_removed': {"root['Name']": 'James Brown', "root['Background']": 'khaki', "root['Img']": 'Jb-godfatherofsoul.jpg', "root['Img_capt']": 'Music pioneer James Brown, circa 1965', "root['Birth_name']": 'James Joseph Brown', "root['Born']": 'May 3, 1933', "root['Origin']": 'Barnwell, South Carolina', "root['Genre']": 'R&B/soul music', "root['Occupation']": 'Singer-songwriter, dancer, bandleader, record producer', "root['Instrument']": 'Singing, piano/keyboard instrument', "root['Years_active']": '1956 - present', "root['Label']": 'King Records (USA)', "root['Associated_acts']": 'The Famous Flames, The JBs '}}
+182: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933', 'old_value': 'May 3, 1933: Barnwell, South Carolina, USA'}, "root['Origin']": {'new_value': 'Barnwell, South Carolina', 'old_value': 'Augusta, Georgia, USA'}}}
+183: {'values_changed': {"root['Img_capt']": {'new_value': 'Music pioneer James Brown, circa 1965', 'old_value': 'James Brown, circa 1965'}}}
+184: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Barnwell, South Carolina, USA', 'old_value': 'May 19, 1992: Barnwell, Leeds, UK'}, "root['Origin']": {'new_value': 'Augusta, Georgia, USA', 'old_value': 'Leeds UK, UK'}}}
+185: {'values_changed': {"root['Born']": {'new_value': 'May 19, 1992: Barnwell, Leeds, UK', 'old_value': 'May 3, 1933: Barnwell, South Carolina, USA'}, "root['Origin']": {'new_value': 'Leeds UK, UK', 'old_value': 'Augusta, Georgia, USA'}}}
+201: {'values_changed': {"root['Birth_name']": {'new_value': 'James Joseph Brown', 'old_value': 'James Joseph Brown, Jr.'}}}
+261: {'values_changed': {"root['Name']": {'new_value': 'James Brown', 'old_value': "James Brown & '''Ike Watters'''"}}}
+264: {'values_changed': {"root['Name']": {'new_value': "James Brown & '''Ike Watters'''", 'old_value': 'James Brown'}}}
+272: {'values_changed': {"root['Name']": {'new_value': 'James Brown', 'old_value': "James Brown & '''Ike Watters'''"}}}
+273: {'values_changed': {"root['Name']": {'new_value': "James Brown & '''Ike Watters'''", 'old_value': 'James Brown'}}}
+297: {'values_changed': {"root['Instrument']": {'new_value': 'Singing, piano/keyboard instrument', 'old_value': 'Singing, organ instrument'}}}
+298: {'values_changed': {"root['Instrument']": {'new_value': 'Singing, organ instrument', 'old_value': 'Singing, organ music'}}}
+328: {'values_changed': {"root['Instrument']": {'new_value': 'Singing, organ music', 'old_value': 'Singing, organ (music)'}}}
+364: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Barnwell, South Carolina, USA', 'old_value': 'May 3, 1933: Barnwell, South Carolina, USAD. NOV 1, 2006'}}}
+365: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Barnwell, South Carolina, USAD. NOV 1, 2006', 'old_value': 'May 3, 1933: Barnwell, South Carolina, USA D. NOV 1, 2006'}}}
+367: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Barnwell, South Carolina, USA D. NOV 1, 2006', 'old_value': 'May 3, 1933: Barnwell, South Carolina, USA'}}}
+400: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Barnwell, South Carolina, USA', 'old_value': 'May 3, 1933: Georgia, USA'}}}
+405: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Georgia, USA', 'old_value': 'May 3, 1933: Georgia (U.S. state)'}}}
+468: {'dictionary_item_removed': {"root['Died']": 'December 25, 2006'}}
+472: {'values_changed': {"root['Died']": {'new_value': 'December 25, 2006', 'old_value': 'December 25, 2006: Atlanta, Georgia, USA'}}}
+475: {'values_changed': {"root['Years_active']": {'new_value': '1956 - present', 'old_value': '1956 - 2006'}}}
+528: {'values_changed': {"root['Name']": {'new_value': 'James Brown', 'old_value': 'James DESU'}}}
+531: {'values_changed': {"root['Name']": {'new_value': 'James DESU', 'old_value': 'James Brown'}}}
+578: {'dictionary_item_added': {"root['Origin']": 'Augusta, Georgia, USA'}, 'values_changed': {"root['Born']": {'new_value': 'May 3, 1933: Georgia (U.S. state)', 'old_value': 'May 3, 1933, Augusta, Georgia'}, "root['Died']": {'new_value': 'December 25, 2006: Atlanta, Georgia, USA', 'old_value': 'December 25, 2006, Atlanta, Georgia (U.S. state)'}}}
+645: {'values_changed': {"root['Died']": {'new_value': 'December 25, 2006, Atlanta, Georgia (U.S. state)', 'old_value': 'December 26, 2006, around 1:45 AM) , Atlanta, Georgia (U.S. state)'}}}
+646: {'values_changed': {"root['Died']": {'new_value': 'December 26, 2006, around 1:45 AM) , Atlanta, Georgia (U.S. state)', 'old_value': 'December 25, 2006, Atlanta, Georgia (U.S. state)'}}}
+662: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933, Augusta, Georgia', 'old_value': 'May 3, 1933, Barnwell, South Carolina'}}}
+689: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1933, Barnwell, South Carolina', 'old_value': 'May 3, 1928, Barnwell, South Carolina'}}}
+695: {'values_changed': {"root['Born']": {'new_value': 'May 3, 1928, Barnwell, South Carolina', 'old_value': 'May 3, 1933, Barnwell, South Carolina'}}}
+701: {'dictionary_item_removed': {"root['Alias']": 'The Godfather of Soul'}, 'values_changed': {"root['Born']": {'new_value': 'May 3, 1933, Barnwell, South Carolina', 'old_value': 'May 3 1933, flagicon'}, "root['Died']": {'new_value': 'December 25, 2006, Atlanta, Georgia (U.S. state)', 'old_value': 'December 25 2006, flagicon'}, "root['Genre']": {'new_value': 'R&B/soul music', 'old_value': 'rhythm and blues'}, "root['Occupation']": {'new_value': 'Singer-songwriter, dancer, bandleader, record producer', 'old_value': 'Singer, songwriter, dancer, bandleader, record producer'}, "root['Years_active']": {'new_value': '1956 - 2006', 'old_value': '1956&ndash;2006'}}}
+719: {'values_changed': {"root['Born']": {'new_value': 'May 3 1933, flagicon', 'old_value': 'May 3 1928, flagicon'}}}
+720: {'values_changed': {"root['Born']": {'new_value': 'May 3 1928, flagicon', 'old_value': 'May 3 1933, flagicon'}}}
+728: {'values_changed': {"root['Alias']": {'new_value': 'The Godfather of Soul', 'old_value': 'The Godfather of Soul, Soul Brother No.1, The Minister of Super Hard Funk.'}}}
+729: {'values_changed': {"root['Alias']": {'new_value': 'The Godfather of Soul, Soul Brother No.1, The Minister of Super Hard Funk.', 'old_value': 'The Godfather of Soul, Soul Brother No.1, The Minister of Super Heavy Funk.'}}}
+731: {'values_changed': {"root['Born']": {'new_value': 'May 3 1933, flagicon', 'old_value': 'May 3 1933 or 1928 , flagicon'}}}
+748: {'dictionary_item_removed': {"root['Origin']": 'flagicon'}}
+759: {'values_changed': {"root['Born']": {'new_value': 'May 3 1933 or 1928 , flagicon', 'old_value': 'May 3 1933 , flagicon'}}}
+782: {'values_changed': {"root['Background']": {'new_value': 'khaki', 'old_value': 'solo_singer'}, "root['Img_capt']": {'new_value': 'James Brown, circa 1965', 'old_value': 'James Brown (Circa 1965 in music'}, "root['Alias']": {'new_value': 'The Godfather of Soul, Soul Brother No.1, The Minister of Super Heavy Funk.', 'old_value': '<font style'}, "root['Genre']": {'new_value': 'rhythm and blues', 'old_value': '<font style'}, "root['Occupation']": {'new_value': 'Singer, songwriter, dancer, bandleader, record producer', 'old_value': '<font style'}, "root['Instrument']": {'new_value': 'Singing, organ (music)', 'old_value': '<font style'}, "root['Years_active']": {'new_value': '1956&ndash;2006', 'old_value': '1956 in music'}, "root['Associated_acts']": {'new_value': 'The Famous Flames, The JBs ', 'old_value': 'The Famous Flames The JBs '}}}
+787: {'values_changed': {"root['Associated_acts']": {'new_value': 'The Famous Flames The JBs ', 'old_value': 'The Famous Flames,  The JBs,  '}}}

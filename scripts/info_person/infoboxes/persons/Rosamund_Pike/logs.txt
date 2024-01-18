@@ -1,0 +1,35 @@
+0: {'dictionary_item_removed': {"root['name']": 'Rosamund Pike', "root['birthdate']": 'birth date and age', "root['location']": 'London, England', "root['yearsactive']": '1998 - present', "root['awards']": "'''British Independent Film Award for Best Supporting Actress/Actor''', 2004 ''The Libertine'' ,  '''Empire Award for Best Newcomer''', 2002 ''Die Another Day'' "}}
+10: {'dictionary_item_added': {"root['location']": 'London, England'}, 'dictionary_item_removed': {"root['birthplace']": 'London, England'}}
+13: {'dictionary_item_added': {"root['awards']": "'''British Independent Film Award for Best Supporting Actress/Actor''', 2004 ''The Libertine'' ,  '''Empire Award for Best Newcomer''', 2002 ''Die Another Day'' "}, 'values_changed': {"root['birthplace']": {'new_value': 'London, England', 'old_value': 'London, England, UK'}, "root['yearsactive']": {'new_value': '1998 - present', 'old_value': 'fy'}}}
+53: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['birthplace']": 'London, England, UK', "root['yearsactive']": 'fy'}, 'dictionary_item_removed': {"root['alma_mater']": 'Wadham College, Oxford', "root['occupation']": 'Actress', "root['partner']": 'Robie Uniacke (2009–present)', "root['children']": '2  '}}
+67: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Robie Uniacke  (2009–present)'}}}
+70: {'dictionary_item_removed': {"root['residence']": 'Harlow, Essex, England'}}
+85: {'dictionary_item_added': {"root['partner']": 'Robie Uniacke  (2009–present)'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+86: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['partner']": 'Robie Uniacke  (2009–present)'}}
+92: {'values_changed': {"root['children']": {'new_value': '2  ', 'old_value': '2 '}}}
+98: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '7 '}}}
+99: {'values_changed': {"root['children']": {'new_value': '7 ', 'old_value': '2 '}}}
+107: {'dictionary_item_removed': {"root['education']": 'Badminton School'}}
+122: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke  (2009–present)', 'old_value': 'Robie Uniacke (2009–present)'}}}
+152: {'dictionary_item_added': {"root['residence']": 'Harlow, Essex, England', "root['education']": 'Badminton School'}, 'dictionary_item_removed': {"root['awards']": 'Full list '}, 'values_changed': {"root['alma_mater']": {'new_value': 'Wadham College, Oxford', 'old_value': 'University of Oxford'}, "root['children']": {'new_value': '2 ', 'old_value': '2'}}}
+155: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Oxford', 'old_value': 'University of Oxford small'}, "root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Robie Uniacke ,  small'}}}
+156: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Oxford small', 'old_value': 'University of Oxford'}, "root['partner']": {'new_value': 'Robie Uniacke ,  small', 'old_value': 'Robie Uniacke (2009–present)'}}}
+176: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Robie Uniacke small'}}}
+177: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke small', 'old_value': 'Robie Uniacke (2009–present)'}}}
+185: {'dictionary_item_added': {"root['alma_mater']": 'University of Oxford'}, 'dictionary_item_removed': {"root['education']": 'Wadham College, Oxford (Bachelor of Arts'}}
+202: {'dictionary_item_added': {"root['education']": 'Wadham College, Oxford (Bachelor of Arts'}, 'dictionary_item_removed': {"root['alma_mater']": 'Wadham College, Oxford'}}
+213: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Eliza Gonzalez (2020–present)'}}}
+214: {'values_changed': {"root['partner']": {'new_value': 'Eliza Gonzalez (2020–present)', 'old_value': 'Robie Uniacke (2009–present)'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'Rosamund Pike', 'old_value': 'Rosamund Pikecvdxdvggggbbbnhjjhfdyrsearea'}}}
+216: {'values_changed': {"root['name']": {'new_value': 'Rosamund Pikecvdxdvggggbbbnhjjhfdyrsearea', 'old_value': 'Rosamund Pike'}}}
+229: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Eiza González (2019–present)'}}}
+230: {'values_changed': {"root['partner']": {'new_value': 'Eiza González (2019–present)', 'old_value': 'Robie Uniacke (2009–present)'}}}
+231: {'values_changed': {"root['partner']": {'new_value': 'Robie Uniacke (2009–present)', 'old_value': 'Eiza Gonzales Reyna(2019-present)'}}}
+232: {'values_changed': {"root['partner']": {'new_value': 'Eiza Gonzales Reyna(2019-present)', 'old_value': 'Eiza Gonzáles Reyna(2019-present)'}}}
+233: {'values_changed': {"root['partner']": {'new_value': 'Eiza Gonzáles Reyna(2019-present)', 'old_value': 'Robie Uniacke (2009–present)'}}}
+235: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress and narrator'}}}
+289: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress and narrator'}}}
+294: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': 'Martina Pike, Mia Uniacke'}}}
+295: {'values_changed': {"root['children']": {'new_value': 'Martina Pike, Mia Uniacke', 'old_value': 'Solo Uniacke, Atom Uniacke, Martina Duran'}}}
+296: {'values_changed': {"root['children']": {'new_value': 'Solo Uniacke, Atom Uniacke, Martina Duran', 'old_value': 'Solo Uniacke, Atom Uniacke'}}}
+297: {'values_changed': {"root['children']": {'new_value': 'Solo Uniacke, Atom Uniacke', 'old_value': '2'}}}

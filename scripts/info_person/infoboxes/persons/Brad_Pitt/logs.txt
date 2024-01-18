@@ -1,0 +1,18 @@
+579: {'dictionary_item_removed': {"root['name']": 'Brad Pitt', "root['occupation']": 'Actor, film producer', "root['spouse']": 'Marriage', "root['partner']": 'Angelina Jolie (2005&ndash;present)', "root['children']": '6 '}}
+580: {'values_changed': {"root['partner']": {'new_value': 'Angelina Jolie (2005&ndash;present)', 'old_value': 'Angelina Jolie , (2005&ndash;present; engaged)'}}}
+610: {'dictionary_item_removed': {"root['religion']": 'None '}, 'values_changed': {"root['children']": {'new_value': '6 ', 'old_value': '#Children'}}}
+655: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+657: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['children']": {'new_value': '#Children', 'old_value': '6'}}}
+686: {'dictionary_item_added': {"root['partner']": 'Angelina Jolie , (2005&ndash;present; engaged)'}, 'values_changed': {"root['spouse']": {'new_value': 'Marriage', 'old_value': 'ubl'}}}
+689: {'dictionary_item_removed': {"root['partner']": 'Angelina Jolie , (2005&ndash;present; engaged)'}, 'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'Marriage'}}}
+691: {'dictionary_item_added': {"root['partner']": 'Angelina Jolie , (2005&ndash;present; engaged)'}, 'values_changed': {"root['spouse']": {'new_value': 'Marriage', 'old_value': 'ug'}}}
+692: {'values_changed': {"root['spouse']": {'new_value': 'ug', 'old_value': 'ubl'}}}
+704: {'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'married'}}}
+705: {'values_changed': {"root['spouse']": {'new_value': 'married', 'old_value': 'marriage'}}}
+721: {'dictionary_item_added': {"root['religion']": 'None '}, 'values_changed': {"root['children']": {'new_value': '6', 'old_value': '6 '}}}
+768: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, film producer'}}, 'dictionary_item_removed': {"root['alma_mater']": 'Kickapoo High School (Springfield, Missouri)', "root['works']": 'Brad Pitt filmography', "root['home_town']": 'Springfield, Missouri, U.S.', "root['net_worth']": '$240 million (2018)', "root['relations']": 'Douglas Pitt (brother) '}, 'values_changed': {"root['children']": {'new_value': '6 ', 'old_value': '6'}}}
+823: {'dictionary_item_removed': {"root['education']": 'Kickapoo High School (Springfield, Missouri)'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Kickapoo High School (Springfield, Missouri)', 'old_value': 'University of Missouri'}}}
+865: {'values_changed': {"root['net_worth']": {'new_value': '$240 million (2018)', 'old_value': '$300 million (2018)'}}}
+866: {'values_changed': {"root['net_worth']": {'new_value': '$300 million (2018)', 'old_value': '$240 million (2018)'}}}
+872: {'dictionary_item_added': {"root['net_worth']": '$240 million (2018)'}, 'dictionary_item_removed': {"root['awards']": 'Full list '}, 'values_changed': {"root['relations']": {'new_value': 'Douglas Pitt (brother) ', 'old_value': 'Douglas Pitt (brother)'}}}
+880: {'dictionary_item_added': {"root['education']": 'Kickapoo High School (Springfield, Missouri)', "root['home_town']": 'Springfield, Missouri, U.S.'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}

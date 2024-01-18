@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'James Scott Bumgarner<ref name', "root['birthdate']": 'birth date and age', "root['birthplace']": 'city-state', "root['spouse']": 'marriage', "root['occupation']": 'Actor', "root['yearsactive']": '1956&ndash;2007'}}
+19: {'values_changed': {"root['birthplace']": {'new_value': 'city-state', 'old_value': 'Norman, Oklahoma, United States'}}}
+20: {'values_changed': {"root['birthplace']": {'new_value': 'Norman, Oklahoma, United States', 'old_value': 'city-state'}}}
+46: {'values_changed': {"root['yearsactive']": {'new_value': '1956&ndash;2007', 'old_value': '1956–2007 '}}}
+129: {'dictionary_item_added': {"root['birthname']": 'James Scott Bumgarner<ref name', "root['birthdate']": 'birth date and age', "root['birthplace']": 'city-state', "root['yearsactive']": '1956–2007 '}, 'dictionary_item_removed': {"root['alma_mater']": 'University of Oklahoma', "root['party']": 'Democratic party (United States)', "root['home_town']": 'Norman, Oklahoma', "root['residence']": 'Los Angeles, California', "root['children']": 'Greta Garner', "root['awards']": "''See Awards'' "}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Lois Clark (1956—present)'}}}
+139: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clark (1956—present)', 'old_value': 'Lois Clark (1956–present)'}}}
+173: {'dictionary_item_added': {"root['party']": 'Democratic party (United States)'}, 'dictionary_item_removed': {"root['NAME']": 'Garner, James | ALTERNATIVE NAMES'}, 'values_changed': {"root['awards']": {'new_value': "''See Awards'' ", 'old_value': '#Awards'}}}
+174: {'dictionary_item_added': {"root['NAME']": 'Garner, James | ALTERNATIVE NAMES'}, 'values_changed': {"root['awards']": {'new_value': '#Awards', 'old_value': "''See Awards'' "}}}
+181: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clark (1956–present)', 'old_value': 'Lois Clark (1956–2014, his death)'}}}
+183: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clark (1956–2014, his death)', 'old_value': 'Lois Clark (m. 1956–2014) (his death)'}}}
+210: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clark (m. 1956–2014) (his death)', 'old_value': 'Lois Clark (m. 1956–2014; his death)'}}}
+238: {'values_changed': {"root['home_town']": {'new_value': 'Norman, Oklahoma', 'old_value': 'Norman, Oklahoma, U.S.'}, "root['residence']": {'new_value': 'Los Angeles, California', 'old_value': 'Los Angeles, California, U.S.'}}}
+270: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Brentwood, Los Angeles, California, U.S.'}, "root['spouse']": {'new_value': 'Lois Clark (m. 1956–2014; his death)', 'old_value': 'Lois Clarke (m. 1956–2014; his death)'}}}
+282: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clarke (m. 1956–2014; his death)', 'old_value': 'Lois Clarke (m. 1956–2014, his death)'}}}
+307: {'values_changed': {"root['children']": {'new_value': 'Greta Garner', 'old_value': 'Greta Garner GiGi, Kimberly Garner'}}}
+328: {'values_changed': {"root['children']": {'new_value': 'Greta Garner GiGi, Kimberly Garner', 'old_value': 'Greta Garner (GiGi), Kimberly Garner'}}}
+332: {'values_changed': {"root['spouse']": {'new_value': 'Lois Clarke (m. 1956–2014, his death)', 'old_value': 'Lois Fleishman Clarke (m. 1956–2014, his death)'}}}
+352: {'dictionary_item_added': {"root['alma_mater']": 'University of Oklahoma', "root['home_town']": 'Norman, Oklahoma, U.S.', "root['residence']": 'Brentwood, Los Angeles, California, U.S.', "root['awards']": "''See Awards'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Lois Fleishman Clarke (m. 1956–2014, his death)', 'old_value': 'Lois Fleishman Clarke (1956–2014; his death)'}, "root['children']": {'new_value': 'Greta Garner (GiGi), Kimberly Garner', 'old_value': '2'}}}
+380: {'dictionary_item_removed': {"root['residence']": 'Brentwood, Los Angeles'}}
+425: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Shit'}}}
+426: {'values_changed': {"root['occupation']": {'new_value': 'Shit', 'old_value': 'Actor'}}}
+443: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+465: {'values_changed': {"root['spouse']": {'new_value': 'Lois Fleishman Clarke (1956–2014; his death)', 'old_value': 'Lois Josephine Fleischman Clarke (1956–2014; his death)'}}}
+495: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+496: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+544: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+545: {'dictionary_item_removed': {"root['office']": 'Vice-President of the Screen Actors Guild'}}
+546: {'dictionary_item_removed': {"root['term_start']": '1947', "root['term_end']": '1952'}}
+547: {'dictionary_item_removed': {"root['president']": 'Ronald Reagan'}}
+573: {'dictionary_item_added': {"root['office']": 'Vice-President of the Screen Actors Guild', "root['term_start']": '1947', "root['term_end']": '1952', "root['president']": 'Ronald Reagan'}, 'dictionary_item_removed': {"root['name']": 'James Garner'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice artist, comedian'}}}

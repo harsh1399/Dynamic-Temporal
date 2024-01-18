@@ -1,0 +1,26 @@
+174: {'dictionary_item_removed': {"root['name']": 'Sir George Martin', "root['background']": 'non_performing_personnel', "root['origin']": 'Highbury, London, England', "root['instrument']": 'Oboe, piano, keyboards, guitar', "root['genre']": 'Rock, pop, classical', "root['occupation']": 'Record producer, arranger, composer, musician, conductor', "root['label']": 'EMI, Parlophone, Apple Records', "root['associated_acts']": 'The Beatles, Wings (band)'}}
+181: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin (legend)'}}}
+182: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin (legend)', 'old_value': 'Sir George Martin'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin - legend'}}}
+184: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin - legend', 'old_value': 'Sir George Martin'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin - legend'}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin - legend', 'old_value': 'Sir George Martin'}}}
+235: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin legend'}}}
+236: {'dictionary_item_removed': {"root['deth_date']": 'Deth date'}}
+239: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin legend', 'old_value': 'Sir George Martin'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin legend'}}}
+246: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin legend', 'old_value': 'Sir George Martin'}}}
+304: {'dictionary_item_added': {"root['deth_date']": 'Deth date'}, 'values_changed': {"root['instrument']": {'new_value': 'Oboe, piano, keyboards, guitar', 'old_value': 'Oboe, piano'}}}
+318: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'George Martin'}}}
+340: {'values_changed': {"root['name']": {'new_value': 'George Martin', 'old_value': 'Sir George Martin'}}}
+343: {'values_changed': {"root['origin']": {'new_value': 'Highbury, London, England', 'old_value': 'Highbury, London, England, UK'}}}
+355: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Dr. George Martin'}}}
+357: {'values_changed': {"root['name']": {'new_value': 'Dr. George Martin', 'old_value': 'Sir George Martin'}}}
+371: {'dictionary_item_added': {"root['origin']": 'Highbury, London, England, UK'}, 'dictionary_item_removed': {"root['alias']": 'The fifth beatle'}}
+487: {'dictionary_item_added': {"root['alias']": 'The fifth beatle'}, 'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Marteen'}}}
+488: {'values_changed': {"root['name']": {'new_value': 'Sir George Marteen', 'old_value': 'Sir George Martin'}}}
+489: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sit George Martin'}, "root['occupation']": {'new_value': 'Record producer, arranger, composer, musician, conductor', 'old_value': 'toilet producer, arranger, composer, musician, conductor'}}}
+493: {'values_changed': {"root['name']": {'new_value': 'Sit George Martin', 'old_value': 'Sir George Martin'}, "root['occupation']": {'new_value': 'toilet producer, arranger, composer, musician, conductor', 'old_value': 'Record producer, arranger, composer, musician, conductor'}}}
+503: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin', 'old_value': 'Sir George Martin The Waxy'}}}
+504: {'values_changed': {"root['name']": {'new_value': 'Sir George Martin The Waxy', 'old_value': 'Sir George Martin'}}}
+507: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rock, pop, classical'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Record producer, arranger, composer, musician, conductor'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Oboe, piano'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'EMI, Parlophone, Apple Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'The Beatles, Wings (band)'}}}

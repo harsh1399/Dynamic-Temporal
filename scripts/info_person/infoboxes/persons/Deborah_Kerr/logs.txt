@@ -1,0 +1,46 @@
+0: {'dictionary_item_removed': {"root['name']": 'Deborah Kerr', "root['birthdate']": 'birth date and age', "root['location']": 'flagicon', "root['birthname']": 'Deborah Jane Kerr-Trimmer', "root['spouse']": 'Peter Viertel '}}
+21: {'dictionary_item_removed': {"root['bgcolour']": 'gold'}}
+22: {'values_changed': {"root['bgcolour']": {'new_value': 'gold', 'old_value': 'silver'}}}
+23: {'values_changed': {"root['bgcolour']": {'new_value': 'silver', 'old_value': 'gold'}}}
+52: {'dictionary_item_added': {"root['bgcolour']": 'gold'}, 'values_changed': {"root['spouse']": {'new_value': 'Peter Viertel ', 'old_value': 'Andrew Bartley, 1945-1959, (divorced), ,  Peter Viertel, 1960 to present.'}}}
+127: {'dictionary_item_removed': {"root['academyawards']": "'''Academy Award for Best Actress", "root['goldenglobeawards']": "'''Best Actress - Musical/Comedy''' ,  '''Won:''' ,  1957 ''The King and I'' ,   '''Best Actress - Motion Picture Drama''' ,  '''Nominated:'''   1950 ''Edward, My Son'' ,  1958 ''Heaven Knows, Mr. Allison'' ,  1959 ''Separate Tables'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Andrew Bartley, 1945-1959, (divorced), ,  Peter Viertel, 1960 to present.', 'old_value': 'Andrew Bartley (1945-1959) ,  Peter Viertel (1960-)'}}}
+129: {'dictionary_item_added': {"root['academyawards']": "'''Academy Award for Best Actress"}, 'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Best Actress - Musical/Comedy''' ,  '''Won:''' ,  1957 ''The King and I'' ,   '''Best Actress - Motion Picture Drama''' ,  '''Nominated:'''   1950 ''Edward, My Son'' ,  1958 ''Heaven Knows, Mr. Allison'' ,  1959 ''Separate Tables'' ", 'old_value': "'''Best Actress - Musical/Comedy''' ,  1957 ''The King and I'' "}}}
+138: {'dictionary_item_removed': {"root['academyawards']": "'''Academy Honorary Award''' (1994)"}}
+140: {'values_changed': {"root['academyawards']": {'new_value': "'''Academy Honorary Award''' (1994)", 'old_value': "1994 '''Academy Honorary Award'''"}}}
+160: {'dictionary_item_removed': {"root['yearsactive']": '1940 in film'}, 'values_changed': {"root['academyawards']": {'new_value': "1994 '''Academy Honorary Award'''", 'old_value': "'''Academy Honorary Award"}}}
+166: {'values_changed': {"root['spouse']": {'new_value': 'Andrew Bartley (1945-1959) ,  Peter Viertel (1960-)', 'old_value': 'Andrew Bartley (1945-1959) ,  Peter Viertel (1960-present)'}}}
+180: {'values_changed': {"root['academyawards']": {'new_value': "'''Academy Honorary Award", 'old_value': "'''Academy Honorary Award''' ,  1994 Lifetime Achievement"}}}
+184: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'euro birth date and age'}, "root['location']": {'new_value': 'flagicon', 'old_value': 'Helensburgh, Scotland'}}}
+185: {'values_changed': {"root['spouse']": {'new_value': 'Andrew Bartley (1945-1959) ,  Peter Viertel (1960-present)', 'old_value': 'Anthony Bartley (1945-1959) ,  Peter Viertel (1960-present)'}}}
+188: {'values_changed': {"root['birthdate']": {'new_value': 'euro birth date and age', 'old_value': 'birth date and age'}}}
+190: {'values_changed': {"root['location']": {'new_value': 'Helensburgh, Scotland', 'old_value': 'flagicon'}}}
+195: {'dictionary_item_removed': {"root['awards']": "'''Academy Honorary Award''' ,  1994 Lifetime Achievement | goldenglobe"}, 'values_changed': {"root['goldenglobeawards']": {'new_value': "'''Best Actress - Musical/Comedy''' ,  1957 ''The King and I'' ", 'old_value': "'''Golden Globe Award for Best Actress - Motion Picture Musical or Comedy"}}}
+201: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Helensburgh, Scotland, UK'}, "root['yearsactive']": {'new_value': '1940 in film', 'old_value': '1940 - 1986'}}}
+215: {'dictionary_item_removed': {"root['deathdate']": 'death date and age'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+217: {'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'birth date and age'}, "root['deathdate']": {'new_value': 'death date and age', 'old_value': 'death date'}}}
+220: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'birth date'}}}
+222: {'values_changed': {"root['deathdate']": {'new_value': 'death date', 'old_value': 'death date and age'}}}
+230: {'values_changed': {"root['spouse']": {'new_value': 'Anthony Bartley (1945-1959) ,  Peter Viertel (1960-present)', 'old_value': 'Anthony Bartley (1945-1959) ,  Peter Viertel (1960-2007)'}}}
+244: {'values_changed': {"root['location']": {'new_value': 'Helensburgh, Scotland, UK', 'old_value': 'flagicon'}}}
+251: {'values_changed': {"root['deathdate']": {'new_value': 'death date and age', 'old_value': 'October 16, 2007'}}}
+252: {'dictionary_item_removed': {"root['deathplace']": 'Suffolk, England'}}
+254: {'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'September 30, 1921'}}}
+255: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Helensburgh, Scotland'}}}
+257: {'values_changed': {"root['location']": {'new_value': 'Helensburgh, Scotland', 'old_value': 'flagicon'}, "root['deathplace']": {'new_value': 'Suffolk, England', 'old_value': 'flagicon'}}}
+258: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Helensburgh, Scotland'}, "root['deathplace']": {'new_value': 'flagicon', 'old_value': 'Suffolk, England'}}}
+279: {'values_changed': {"root['deathdate']": {'new_value': 'October 16, 2007', 'old_value': 'Death date and age'}}}
+296: {'dictionary_item_removed': {"root['baftaawards']": '1991 Fellowship'}, 'values_changed': {"root['awards']": {'new_value': "'''Academy Honorary Award''' ,  1994 Lifetime Achievement | goldenglobe", 'old_value': '1991 Fellowship | academy'}}}
+303: {'values_changed': {"root['birthdate']": {'new_value': 'September 30, 1921', 'old_value': 'September 30 1921'}}}
+313: {'values_changed': {"root['birthdate']": {'new_value': 'September 30 1921', 'old_value': '30 September 1921'}}}
+322: {'values_changed': {"root['baftaawards']": {'new_value': '1991 Fellowship', 'old_value': '1991 Special Award'}, "root['awards']": {'new_value': '1991 Fellowship | academy', 'old_value': '1991 Special Award | academy'}}}
+328: {'dictionary_item_added': {"root['location']": 'Helensburgh, Scotland'}, 'dictionary_item_removed': {"root['birthplace']": 'Helensburgh, Scotland', "root['othername']": 'Deborah Kerr-Trimmer ,  Deborah Kerr-Viertel'}}
+329: {'dictionary_item_removed': {"root['children']": 'Melanie Jane Bartley (b.1947) ,  Francesca Ann Bartley-Shrapnel'}}
+358: {'values_changed': {"root['deathplace']": {'new_value': 'Suffolk, England', 'old_value': 'Botesdale, Suffolk, England'}}}
+364: {'values_changed': {"root['deathplace']": {'new_value': 'Botesdale, Suffolk, England', 'old_value': 'Botesdale, England'}}}
+375: {'values_changed': {"root['birthplace']": {'new_value': 'Helensburgh, Scotland', 'old_value': 'Helensburgh, Scotland flagicon'}, "root['deathplace']": {'new_value': 'Botesdale, England', 'old_value': 'Botesdale, England flagicon'}}}
+376: {'values_changed': {"root['birthplace']": {'new_value': 'Helensburgh, Scotland flagicon', 'old_value': 'Helensburgh, Scotland'}, "root['deathplace']": {'new_value': 'Botesdale, England flagicon', 'old_value': 'Botesdale, England'}}}
+394: {'values_changed': {"root['birthplace']": {'new_value': 'Helensburgh, Scotland', 'old_value': 'Glasgow, Scotland'}}}
+479: {'dictionary_item_added': {"root['yearsactive']": '1940 - 1986'}, 'values_changed': {"root['birthplace']": {'new_value': 'Glasgow, Scotland', 'old_value': 'Helensburgh, Scotland'}}}
+516: {'dictionary_item_added': {"root['name']": 'Deborah Kerr', "root['birthname']": 'Deborah Jane Kerr-Trimmer', "root['birthdate']": '30 September 1921', "root['birthplace']": 'Helensburgh, Scotland', "root['deathdate']": 'Death date and age', "root['deathplace']": 'Botesdale, England', "root['othername']": 'Deborah Kerr-Trimmer ,  Deborah Kerr-Viertel', "root['baftaawards']": '1991 Special Award', "root['academyawards']": "'''Academy Honorary Award''' ,  1994 Lifetime Achievement", "root['goldenglobeawards']": "'''Golden Globe Award for Best Actress - Motion Picture Musical or Comedy", "root['awards']": '1991 Special Award | academy'}, 'dictionary_item_removed': {"root['occupation']": 'Actress'}, 'values_changed': {"root['spouse']": {'new_value': 'Anthony Bartley (1945-1959) ,  Peter Viertel (1960-2007)', 'old_value': 'ubl'}, "root['children']": {'new_value': 'Melanie Jane Bartley (b.1947) ,  Francesca Ann Bartley-Shrapnel', 'old_value': 'Francesca Ann Bartley small |Christine Viertel (stepdaughter) '}}}
+522: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'ubl'}}}
+570: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_removed': {"root['name']": 'Deborah Kerr'}, 'values_changed': {"root['children']": {'new_value': 'Francesca Ann Bartley small |Christine Viertel (stepdaughter) ', 'old_value': '2'}}}

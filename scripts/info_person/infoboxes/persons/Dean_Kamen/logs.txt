@@ -1,0 +1,6 @@
+118: {'dictionary_item_removed': {"root['residence']": 'Westwind'}}
+141: {'dictionary_item_removed': {"root['ethnicity']": 'Jewish'}}
+199: {'dictionary_item_added': {"root['ethnicity']": 'Jewish'}, 'values_changed': {"root['residence']": {'new_value': 'Westwind', 'old_value': 'Westwind, Bedford, New Hampshire'}}}
+200: {'values_changed': {"root['residence']": {'new_value': 'Westwind, Bedford, New Hampshire', 'old_value': 'Westwind   Bedford, New Hampshire'}}}
+218: {'values_changed': {"root['residence']": {'new_value': 'Westwind   Bedford, New Hampshire', 'old_value': 'Westwind  Bedford, New Hampshire'}}}
+227: {'dictionary_item_removed': {"root['name']": 'Dean Kamen', "root['awards']": 'Hoover Medal small'}, 'values_changed': {"root['residence']": {'new_value': 'Westwind  Bedford, New Hampshire', 'old_value': 'Bedford, New Hampshire, U.S.'}}}

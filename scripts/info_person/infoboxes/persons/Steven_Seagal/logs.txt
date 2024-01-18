@@ -1,0 +1,85 @@
+0: {'dictionary_item_removed': {"root['name']": 'Steven Seagal', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Lansing, Michigan', "root['othername']": 'Chungdrag Dorje, Takeshigemichi', "root['spouse']": 'Miyako Fujitani (1975–1986) ,  Adrienne La Russa (1984–1987) ,  Kelly LeBrock (1987–1996)', "root['goldenraspberryawards']": "'''Worst Director''', 1994 ''On Deadly Ground'' "}}
+46: {'dictionary_item_removed': {"root['deathdate']": '2009-01-15'}}
+47: {'values_changed': {"root['deathdate']": {'new_value': '2009-01-15', 'old_value': 'January 9 2009 (Aged 57)'}}}
+49: {'dictionary_item_added': {"root['deathdate']": 'January 9 2009 (Aged 57)'}, 'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Steven Seagull'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'Steven Seagull', 'old_value': 'Steven Seagal'}}}
+52: {'dictionary_item_removed': {"root['deathdate']": 'Today'}}
+116: {'dictionary_item_added': {"root['deathdate']": 'Today'}, 'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Mick Arnoldus'}, "root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986) ,  Adrienne La Russa (1984–1987) ,  Kelly LeBrock (1987–1996)', 'old_value': 'Lea(1975–1986) ,  Marijke (1984–1987) ,  Kelly know from the dutch television programme Big Brother(1987–1996)'}}}
+119: {'values_changed': {"root['name']": {'new_value': 'Mick Arnoldus', 'old_value': 'Steven Seagal'}, "root['spouse']": {'new_value': 'Lea(1975–1986) ,  Marijke (1984–1987) ,  Kelly know from the dutch television programme Big Brother(1987–1996)', 'old_value': 'Miyako Fujitani (1975–1986) ,  Adrienne La Russa (1984–1987) ,  Kelly LeBrock (1987–1996)'}}}
+122: {'dictionary_item_removed': {"root['other']": 'Arissa Wolf'}}
+206: {'dictionary_item_removed': {"root['deathdate']": 'March 26, 2009 aged 57 Stomach blew-up down to eating to much'}}
+208: {'dictionary_item_removed': {"root['birthname']": 'The Fat Lord'}, 'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Steven Seagal aka The Fat Lord'}, "root['deathdate']": {'new_value': 'March 26, 2009 aged 57 Stomach blew-up down to eating to much', 'old_value': '26 March, 2009 from over doing it with good in which hes stomach blew-up'}}}
+209: {'dictionary_item_added': {"root['birthname']": 'The Fat Lord', "root['deathdate']": '26 March, 2009 from over doing it with good in which hes stomach blew-up'}, 'values_changed': {"root['name']": {'new_value': 'Steven Seagal aka The Fat Lord', 'old_value': 'Steven Seagal'}}}
+251: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986) ,  Adrienne La Russa (1984–1987) ,  Kelly LeBrock (1987–1996)', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)'}, "root['goldenraspberryawards']": {'new_value': "'''Worst Director''', 1994 ''On Deadly Ground'' ", 'old_value': "'''Worst Director''' 1994 ''On Deadly Ground'' "}}}
+261: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)', 'old_value': 'Ross Dwyer (2008-)'}}}
+264: {'values_changed': {"root['spouse']": {'new_value': 'Ross Dwyer (2008-)', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)'}}}
+265: {'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Steven Seagull'}}}
+266: {'values_changed': {"root['name']": {'new_value': 'Steven Seagull', 'old_value': 'Steven Seagal'}}}
+276: {'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Steven Seagull'}}}
+277: {'values_changed': {"root['name']": {'new_value': 'Steven Seagull', 'old_value': 'Steven Seagal'}}}
+306: {'dictionary_item_added': {"root['other']": 'Arissa Wolf', "root['goldenraspberryawards']": "'''Worst Director''' 1994 ''On Deadly Ground'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) '}}}
+312: {'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': "Steven Seagal (Monsieur Fail d'Epique!)"}, "root['othername']": {'new_value': 'Chungdrag Dorje, Takeshigemichi', 'old_value': 'Chungdrag Dorje, Takeshigemichi, Master Steven of the Epic Fail Dojo (USA)'}}}
+315: {'values_changed': {"root['name']": {'new_value': "Steven Seagal (Monsieur Fail d'Epique!)", 'old_value': 'Steven Seagal'}, "root['othername']": {'new_value': 'Chungdrag Dorje, Takeshigemichi, Master Steven of the Epic Fail Dojo (USA)', 'old_value': 'Chungdrag Dorje, Takeshigemichi'}}}
+376: {'dictionary_item_removed': {"root['birthname']": 'Martial/forest Law'}}
+529: {'dictionary_item_added': {"root['birthname']": 'Martial/forest Law'}, 'dictionary_item_removed': {"root['deathdate']": '8-25-2009'}}
+530: {'values_changed': {"root['deathdate']": {'new_value': '8-25-2009', 'old_value': 'August 25, 2009'}}}
+536: {'dictionary_item_added': {"root['deathdate']": 'August 25, 2009'}, 'dictionary_item_removed': {"root['birthname']": 'Zack Waldron'}, 'values_changed': {"root['birthplace']": {'new_value': 'Lansing, Michigan', 'old_value': 'Hattiesburg, Mississippi'}}}
+537: {'dictionary_item_added': {"root['birthname']": 'Zack Waldron'}, 'values_changed': {"root['birthplace']": {'new_value': 'Hattiesburg, Mississippi', 'old_value': 'Lansing, Michigan'}}}
+538: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) ', 'old_value': 'Mason Sanders   Adrienne La Russa   '}}}
+539: {'values_changed': {"root['spouse']": {'new_value': 'Mason Sanders   Adrienne La Russa   ', 'old_value': 'Mason Sanders (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) '}}}
+540: {'values_changed': {"root['spouse']": {'new_value': 'Mason Sanders (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) ', 'old_value': 'Mason Sanders   Adrienne La Russa   '}}}
+541: {'values_changed': {"root['spouse']": {'new_value': 'Mason Sanders   Adrienne La Russa   ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) '}}}
+552: {'dictionary_item_removed': {"root['birthname']": 'Britney Spears', "root['deathdate']": '08/29/09'}, 'values_changed': {"root['birthplace']": {'new_value': 'Lansing, Michigan', 'old_value': 'whore-house in mexico'}, "root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) ', 'old_value': "Tom Cruise  '''Steven F. Seagal''' (sɨˈgɑːl; born April 10, 1952)<ref name"}}}
+553: {'dictionary_item_added': {"root['birthname']": 'Britney Spears', "root['deathdate']": '08/29/09'}, 'values_changed': {"root['birthplace']": {'new_value': 'whore-house in mexico', 'old_value': 'Lansing, Michigan'}, "root['spouse']": {'new_value': "Tom Cruise  '''Steven F. Seagal''' (sɨˈgɑːl; born April 10, 1952)<ref name", 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) '}}}
+565: {'dictionary_item_removed': {"root['deathdate']": 'August 28, 2009'}}
+600: {'dictionary_item_added': {"root['deathdate']": 'August 28, 2009'}, 'values_changed': {"root['name']": {'new_value': 'Steven Seagal', 'old_value': 'Steven Seagal AKA THE MAN/BETTER THAT YOU'}}}
+601: {'values_changed': {"root['name']": {'new_value': 'Steven Seagal AKA THE MAN/BETTER THAT YOU', 'old_value': 'Steven Seagal AKA THE MAN/BETTER THAN YOU'}}}
+602: {'values_changed': {"root['name']": {'new_value': 'Steven Seagal AKA THE MAN/BETTER THAN YOU', 'old_value': 'Steven Seagal'}}}
+625: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)   Tom Parisi '}}}
+626: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)   Tom Parisi ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    '}}}
+655: {'dictionary_item_removed': {"root['birthname']": 'Steven F. Seagal', "root['occupation']": 'Actor', "root['yearsactive']": '1987–present'}}
+659: {'values_changed': {"root['birthplace']": {'new_value': 'Lansing, Michigan', 'old_value': 'bootyville'}}}
+660: {'values_changed': {"root['birthplace']": {'new_value': 'bootyville', 'old_value': 'Lansing, Michigan'}}}
+727: {'dictionary_item_removed': {"root['totem']": 'Seagull'}}
+756: {'dictionary_item_added': {"root['birthname']": 'Steven F. Seagal', "root['birthplace']": 'Lansing, Michigan', "root['occupation']": 'Actor', "root['totem']": 'Seagull', "root['yearsactive']": '1987–present'}, 'dictionary_item_removed': {"root['location']": 'Lansing, Michigan', "root['weight']": '280 lb.', "root['homepage']": 'http://www.stevenseagal.com www.stevenseagal.com'}, 'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    ', 'old_value': 'Miyako Fujitani (1975-1986) ,  Adrienne La Russa (1984-1984) ,  Kelly LeBrock (1987-1996) '}}}
+757: {'dictionary_item_added': {"root['location']": 'Lansing, Michigan', "root['weight']": '280 lb.', "root['homepage']": 'http://www.stevenseagal.com www.stevenseagal.com'}, 'dictionary_item_removed': {"root['birthname']": 'Steven F. Seagal', "root['birthplace']": 'Lansing, Michigan', "root['occupation']": 'Actor', "root['yearsactive']": '1987–present'}, 'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975-1986) ,  Adrienne La Russa (1984-1984) ,  Kelly LeBrock (1987-1996) ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    '}}}
+758: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Deputy Sheriff'}}}
+759: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Deputy Sheriff', 'old_value': 'Actor'}}}
+767: {'values_changed': {"root['othername']": {'new_value': 'Chungdrag Dorje, Takeshigemichi', 'old_value': 'Chungdrag Dorje, Takeshigemichi, Fucking Asshole'}}}
+768: {'values_changed': {"root['othername']": {'new_value': 'Chungdrag Dorje, Takeshigemichi, Fucking Asshole', 'old_value': 'Chungdrag Dorje, Takeshigemichi'}}}
+783: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor/cop'}}}
+784: {'values_changed': {"root['occupation']": {'new_value': 'Actor/cop', 'old_value': 'Actor'}}}
+821: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+833: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor, Law Enforcement, person'}}}
+834: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement, person', 'old_value': 'Actor, Law Enforcement'}}}
+900: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor, Law Enforcement, person'}}}
+901: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement, person', 'old_value': 'Actor, Law Enforcement'}}}
+997: {'values_changed': {"root['birthname']": {'new_value': 'Steven F. Seagal', 'old_value': 'Steven Frederic Seagal'}}}
+1007: {'values_changed': {"root['birthname']": {'new_value': 'Steven Frederic Seagal', 'old_value': 'Steven F. Seagal'}}}
+1010: {'values_changed': {"root['othername']": {'new_value': 'Chungdrag Dorje, Takeshigemichi', 'old_value': 'Chungdrag Dorje, Albs Oft, Takeshigemichi,'}}}
+1016: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) Marg Helgenberger(1996-1997)    '}}}
+1017: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996) Marg Helgenberger(1996-1997)    ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)   '}}}
+1018: {'values_changed': {"root['spouse']": {'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)   ', 'old_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    '}}}
+1028: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1031: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+1036: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1044: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+1048: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1050: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+1051: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1052: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+1053: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1054: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Law Enforcement'}}}
+1055: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor'}}}
+1057: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, Reserve Deputy Sheriff'}}}
+1058: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Reserve Deputy Sheriff', 'old_value': 'Actor, Law Enforcement'}}}
+1084: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Miyako Fujitani (1975–1986)   Adrienne La Russa (1984–1987)   Kelly LeBrock (1987–1996)    '}}, 'dictionary_item_added': {"root['birthname']": 'Steven F. Seagal', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Lansing, Michigan', "root['othername']": 'Chungdrag Dorje, Albs Oft, Takeshigemichi,', "root['yearsactive']": '1987–present'}, 'dictionary_item_removed': {"root['rank']": 'color box', "root['religion']": 'Buddhist', "root['children']": '7, including Ayako Fujitani '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Law Enforcement', 'old_value': 'Actor, film producer, martial artist, musician, writer, director, reserve deputy sheriff, entrepreneur'}}}
+1113: {'values_changed': {"root['religion']": {'new_value': 'Buddhist', 'old_value': 'Buddhism'}}}
+1116: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, martial artist, musician, writer, director, reserve deputy sheriff, entrepreneur', 'old_value': 'Actor, film producer, martial artist, director'}}}
+1154: {'values_changed': {"root['occupation']": {'new_value': 'Actor, film producer, martial artist, director', 'old_value': 'Actor, producer, screenwriter, director, martial artist, musician'}}}
+1160: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': []}}, 'dictionary_item_added': {"root['rank']": 'color box', "root['religion']": 'Buddhism'}, 'dictionary_item_removed': {"root['party']": 'For Truth', "root['education']": 'Buena Park High School', "root['alma_mater']": 'Fullerton College'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, screenwriter, director, martial artist, musician', 'old_value': 'Actor, writer, producer, martial artist, musician'}}}
+1191: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_added': {"root['education']": 'Buena Park High School'}}
+1192: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, writer, producer, martial artist, musician'}}}
+1194: {'values_changed': {"root['party']": {'new_value': 'For Truth', 'old_value': 'A Just Russia — For Truth'}}}
+1196: {'dictionary_item_added': {"root['party']": 'A Just Russia — For Truth'}, 'values_changed': {"root['children']": {'new_value': '7, including Ayako Fujitani ', 'old_value': '7, including Ayako Fujitani and Vladimir Putin '}}}
+1197: {'values_changed': {"root['children']": {'new_value': '7, including Ayako Fujitani and Vladimir Putin ', 'old_value': '7, including Ayako Fujitani '}}}

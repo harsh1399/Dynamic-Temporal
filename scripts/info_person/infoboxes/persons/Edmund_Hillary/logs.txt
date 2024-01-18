@@ -1,0 +1,74 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sir Edmund Hillary', "root['spouse']": 'Louise Mary Rose (1953-1975), June Mulgrew (1989-present)', "root['children']": 'Peter (1954), Sarah (1955), and Belinda (1959-1975) '}}
+18: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-present)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-death)'}}}
+25: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-death)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-present)'}}}
+29: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-present)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-death)'}}}
+144: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-death)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+154: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-)'}}}
+174: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-)', 'old_value': 'Louise Mary Rose (1930-1975), June Mulgrew (1989-)'}}}
+176: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1930-1975), June Mulgrew (1989-)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-)'}}}
+208: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+230: {'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), and Belinda (1959-1975) ', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+455: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'i hate'}}}
+456: {'values_changed': {"root['name']": {'new_value': 'i hate', 'old_value': 'Sir Edmund Hillary'}}}
+475: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'jdjclshdfjs'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'jdjclshdfjs', 'old_value': 'Sir Edmund Hillary'}}}
+507: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'idiot'}}}
+508: {'values_changed': {"root['name']": {'new_value': 'idiot', 'old_value': 'Sir Edmund Hillary'}}}
+533: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': "'''Bold text'''Sir Edmund Hillary"}}}
+534: {'values_changed': {"root['name']": {'new_value': "'''Bold text'''Sir Edmund Hillary", 'old_value': 'Sir Edmund Hillary'}}}
+548: {'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter HillPeter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+549: {'values_changed': {"root['children']": {'new_value': 'Peter HillPeter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+558: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Jack'}}}
+560: {'values_changed': {"root['name']": {'new_value': 'Jack', 'old_value': 'Sir Edmund Hillary'}}}
+563: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Hillary the second'}}}
+564: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary the second', 'old_value': 'Sir Edmund Hillary'}}}
+594: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund pervert Hillary'}}}
+595: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund pervert Hillary', 'old_value': 'Sir Edmund Percival Hillary'}}}
+599: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)', 'old_value': "Louise Mary''' ''Italic text''Rose''' (1953-1975), June Mulgrew (1989-2008)"}}}
+600: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Percival Hillary', 'old_value': 'Sir Edmund pervert Hillary'}, "root['spouse']": {'new_value': "Louise Mary''' ''Italic text''Rose''' (1953-1975), June Mulgrew (1989-2008)", 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+601: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund pervert Hillary', 'old_value': 'Sir Edmund Percival Hillary'}}}
+603: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Percival Hillary', 'old_value': 'Sir Edmund pervert Hillary'}}}
+604: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund pervert Hillary', 'old_value': 'Sir Edmund Percival Hillary'}}}
+606: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Percival Hillary', 'old_value': 'Sir Edmund Hillary'}}}
+644: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary Rose (1920-1975), June Mulgrew (1989-2008)'}}}
+645: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1920-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+682: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund asshole'}}}
+683: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund asshole', 'old_value': 'Sir Edmund Hillary'}}}
+684: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund asshole'}}}
+685: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund asshole', 'old_value': 'Sir Edmund Hillary'}}}
+708: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Hilda'}}}
+709: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hilda', 'old_value': 'Sir Edmund Hillary'}}}
+715: {'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'smelly ppl '}}}
+718: {'values_changed': {"root['children']": {'new_value': 'smelly ppl ', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+735: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Edmund Hillary'}}}
+736: {'values_changed': {"root['name']": {'new_value': 'Edmund Hillary', 'old_value': 'mary mo'}}}
+737: {'values_changed': {"root['name']": {'new_value': 'mary mo', 'old_value': 'sir edmund hillary'}, "root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary mo (1953-1975), June Mulgrew (1989-2008)'}}}
+740: {'values_changed': {"root['name']": {'new_value': 'sir edmund hillary', 'old_value': 'Sir Edmund Hillary'}, "root['spouse']": {'new_value': 'Louise Mary mo (1953-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+773: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir James mickle'}}}
+774: {'values_changed': {"root['name']": {'new_value': 'Sir James mickle', 'old_value': 'Sir Edmund Hillary'}}}
+847: {'dictionary_item_removed': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Hillary duff'}, "root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter Hillary'}}}
+848: {'dictionary_item_added': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary duff', 'old_value': 'Sir Edmund Hillary'}, "root['children']": {'new_value': 'Peter Hillary', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+867: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Percival Hillary'}}}
+868: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Percival Hillary', 'old_value': 'Sir Edmund Hillary'}}}
+894: {'dictionary_item_removed': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter Hillary'}}}
+895: {'dictionary_item_added': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter Hillary', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+896: {'dictionary_item_removed': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter Hillary'}}}
+897: {'dictionary_item_added': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter Hillary', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+988: {'dictionary_item_removed': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter Hillary'}}}
+989: {'dictionary_item_added': {"root['NAME']": 'Hillary, Edmund Percival |ALTERNATIVE'}, 'values_changed': {"root['children']": {'new_value': 'Peter Hillary', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+1009: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Willary'}}}
+1010: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Willary', 'old_value': 'Sir Edmund Hillary'}}}
+1025: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew on her toes  (1989-2008)'}}}
+1026: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew on her toes  (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mul grew ON HER TOES  (1989-2008)'}}}
+1027: {'values_changed': {"root['spouse']": {'new_value': 'Louise Mary Rose (1953-1975), June Mul grew ON HER TOES  (1989-2008)', 'old_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}}}
+1032: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir poo Hillary'}}}
+1033: {'values_changed': {"root['name']": {'new_value': 'Sir poo Hillary', 'old_value': 'Sir Edmund Hillary'}}}
+1034: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir kate  Hillary'}}}
+1035: {'values_changed': {"root['name']": {'new_value': 'Sir kate  Hillary', 'old_value': 'Sir Edmund Hillary'}}}
+1076: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Sir Edmund Faggothead Hillary.jpg'}}}
+1077: {'values_changed': {"root['name']": {'new_value': 'Sir Edmund Faggothead Hillary.jpg', 'old_value': 'Sir Edmund Hillary'}}}
+1106: {'values_changed': {"root['children']": {'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) ', 'old_value': 'Peter (1954), Theresa sua (1955), Belinda (1959-1975) '}}}
+1107: {'values_changed': {"root['children']": {'new_value': 'Peter (1954), Theresa sua (1955), Belinda (1959-1975) ', 'old_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}}
+1145: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Louise Mary Rose (1953-1975), June Mulgrew (1989-2008)'}, "root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Peter (1954), Sarah (1955), Belinda (1959-1975) '}}, 'dictionary_item_removed': {"root['known_for']": 'With Tenzing Norgay, first to reach summit of Mount Everest', "root['allegiance']": 'NZ', "root['branch']": 'Royal New Zealand Air Force', "root['serviceyears']": '1943–1945', "root['rank']": 'Sergeant', "root['unit']": 'No. 6 Squadron RNZAF No. 5 Squadron RNZAF', "root['battles']": 'World War II  '}, 'values_changed': {"root['name']": {'new_value': 'Sir Edmund Hillary', 'old_value': 'Edmund Hillary'}}}
+1146: {'values_changed': {"root['rank']": {'new_value': 'Sergeant', 'old_value': 'Sergeant<ref name'}}}
+1155: {'dictionary_item_removed': {"root['embed']": 'yes'}}

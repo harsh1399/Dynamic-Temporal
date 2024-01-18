@@ -1,0 +1,53 @@
+0: {'dictionary_item_removed': {"root['name']": 'Alec Baldwin', "root['spouse']": 'Kim Basinger, (m. 1993–2002, divorced)', "root['children']": 'Daughter Ireland (1995)', "root['occupation']": 'Actor'}}
+19: {'values_changed': {"root['children']": {'new_value': 'Daughter Ireland (1995)', 'old_value': 'daughter,  Ireland (1995)'}}}
+21: {'values_changed': {"root['children']": {'new_value': 'daughter,  Ireland (1995)', 'old_value': 'Ireland (b. 1995)'}}}
+28: {'dictionary_item_removed': {"root['wealth']": '$3 billion'}}
+29: {'dictionary_item_removed': {"root['list']": '"wikitable sortable"', "root['NAME']": 'Baldwin, Alec |ALTERNATIVE NAMES'}}
+122: {'dictionary_item_added': {"root['wealth']": '$3 billion', "root['list']": '"wikitable sortable"', "root['NAME']": 'Baldwin, Alec |ALTERNATIVE NAMES'}, 'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002, divorced)', 'old_value': 'Kim Basinger, (m. 1993–2002, divorced), Hilaria Thomas,  (engaged)'}}}
+123: {'values_changed': {"root['children']": {'new_value': 'Ireland (b. 1995)', 'old_value': 'Ireland Eliesse Baldwin (b. 1995)'}}}
+124: {'values_changed': {"root['children']": {'new_value': 'Ireland Eliesse Baldwin (b. 1995)', 'old_value': 'Ireland (b. 1995)'}}}
+163: {'dictionary_item_removed': {"root['partner']": 'Hilaria Thomas,  (engaged)'}, 'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002, divorced), Hilaria Thomas,  (engaged)', 'old_value': 'Kim Basinger, (m. 1993–2002; divorced)'}, "root['children']": {'new_value': 'Ireland (b. 1995)', 'old_value': '1'}}}
+182: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002; divorced)', 'old_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child)'}}}
+205: {'dictionary_item_added': {"root['partner']": 'Hilaria Thomas,  (engaged)'}, 'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child)', 'old_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child) ,  Hilaria Thomas (2012 - )'}}}
+208: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child) ,  Hilaria Thomas (2012 - )', 'old_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child) ,  Hilaria Thomas (2012 - present )'}}}
+209: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger, (m. 1993–2002; divorced, 1 child) ,  Hilaria Thomas (2012 - present )', 'old_value': 'marriage'}}}
+210: {'values_changed': {"root['name']": {'new_value': 'Alec Baldwin', 'old_value': 'Alec Baldwin (pron: dousch-bag)'}}}
+211: {'values_changed': {"root['name']": {'new_value': 'Alec Baldwin (pron: dousch-bag)', 'old_value': 'Alec Baldwin'}}}
+230: {'values_changed': {"root['name']": {'new_value': 'Alec Baldwin', 'old_value': 'Will Smith'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Will Smith', 'old_value': 'Alec Baldwin'}}}
+262: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Kim Basinger(1993–2002), Hilaria Thomas (2012–present)'}, "root['children']": {'new_value': '1', 'old_value': 'Ireland Baldwin'}}}
+266: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger(1993–2002), Hilaria Thomas (2012–present)', 'old_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2012–present)'}}}
+283: {'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actress'}}}
+284: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actor'}}}
+293: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2012–present)', 'old_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2011–present)'}}}
+296: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2011–present)', 'old_value': 'Kim Basinger (m. 1993–2002), Hilaria Thomas (m. 2012–present)'}}}
+337: {'values_changed': {"root['name']": {'new_value': 'Alec Baldwin', 'old_value': 'Alec Buthead'}}}
+338: {'values_changed': {"root['name']": {'new_value': 'Alec Buthead', 'old_value': 'Alec Baldwin'}}}
+346: {'dictionary_item_added': {"root['spouse']": 'Kim Basinger (m. 1993–2002), Hilaria Thomas (m. 2012–present)'}, 'values_changed': {"root['name']": {'new_value': 'Alec Baldwin', 'old_value': 'Alec Weissman'}, "root['occupation']": {'new_value': 'Actor', 'old_value': 'Professional Fencer'}}}
+348: {'dictionary_item_removed': {"root['spouse']": 'Kim Basinger (m. 1993–2002), Hilaria Thomas (m. 2012–present)'}, 'values_changed': {"root['name']": {'new_value': 'Alec Weissman', 'old_value': 'Alec Baldwin'}, "root['occupation']": {'new_value': 'Professional Fencer', 'old_value': 'Actor'}}}
+357: {'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger (m. 1993–2002), Hilaria Thomas (m. 2012–present)', 'old_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2012–present)'}}}
+401: {'dictionary_item_removed': {"root['religion']": 'Roman Catholic.', "root['alma_mater']": 'Tisch School of the Arts  George Washington University (transferred)', "root['notable_works']": []}, 'values_changed': {"root['spouse']": {'new_value': 'Kim Basinger (1993–2002), Hilaria Thomas (2012–present)', 'old_value': 'Plainlist'}, "root['children']": {'new_value': 'Ireland Baldwin', 'old_value': '3, including Ireland Baldwin'}, "root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, comedian, producer'}}}
+407: {'dictionary_item_removed': {"root['political_party']": 'Democratic'}}
+408: {'dictionary_item_added': {"root['political_party']": 'Democratic'}, 'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+419: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican Party (United States)'}}}
+420: {'values_changed': {"root['name']": {'new_value': 'Alec Baldwin', 'old_value': 'Alex Baldwin'}}}
+422: {'values_changed': {"root['name']": {'new_value': 'Alex Baldwin', 'old_value': 'Alec Baldwin'}, "root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'Democratic Party (United States)'}}}
+437: {'type_changes': {"root['alma_mater']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Tisch School of the Arts  George Washington University (transferred)'}}}
+472: {'values_changed': {"root['children']": {'new_value': '3, including Ireland Baldwin', 'old_value': '3, including Ireland Baldwin Expecting a 4 child'}}}
+473: {'values_changed': {"root['children']": {'new_value': '3, including Ireland Baldwin Expecting a 4 child', 'old_value': '3, including Ireland Baldwin'}}}
+502: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic.', 'old_value': 'Roman Catholic'}}}
+570: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, director, producer, screenwriter'}}}
+571: {'values_changed': {"root['occupation']": {'new_value': 'Actor, director, producer, screenwriter', 'old_value': 'Actor, comedian, producer'}}}
+635: {'values_changed': {"root['children']": {'new_value': '3, including Ireland Baldwin', 'old_value': '4, including Ireland Baldwin'}}}
+638: {'values_changed': {"root['children']": {'new_value': '4, including Ireland Baldwin', 'old_value': '3, including Ireland Baldwin'}}}
+641: {'values_changed': {"root['children']": {'new_value': '3, including Ireland Baldwin', 'old_value': '4, including Ireland Baldwin'}}}
+689: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, comedian, producer, {Donald Trump}'}}}
+690: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer, {Donald Trump}', 'old_value': 'Actor, comedian, producer'}}}
+698: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, comedian, producer and left wing hack'}}}
+699: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer and left wing hack', 'old_value': 'Actor, comedian, producer'}}}
+710: {'dictionary_item_removed': {"root['rowspan']": '5', "root['list']": 'Actor, comedian, producer | years_active'}}
+729: {'dictionary_item_added': {"root['religion']": 'Roman Catholic', "root['rowspan']": '5', "root['list']": 'Actor, comedian, producer | years_active'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, comedian, producer asshole'}}}
+730: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer asshole', 'old_value': 'Actor, comedian, producer'}}}
+747: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, comedian, producer, writer'}}}
+749: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer, writer', 'old_value': 'Actor, comedian, producer'}}}
+768: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, producer', 'old_value': 'Actor, writer, comedian, producer'}}}

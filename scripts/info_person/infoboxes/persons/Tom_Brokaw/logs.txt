@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tom Brokaw', "root['birthname']": 'Thomas John Brokaw', "root['occupation']": 'Television Journalist', "root['spouse']": 'Meredith Lynn Auld', "root['children']": 'Jennifer Jean Andra Brooks Sara Auld', "root['credits']": "''Today (NBC program)"}}
+26: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': 'Dickhead Brokaw'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Dickhead Brokaw', 'old_value': 'Tom Brokaw'}}}
+30: {'dictionary_item_removed': {"root['gender']": 'male'}}
+34: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': '50 Cent'}, "root['birthname']": {'new_value': 'Thomas John Brokaw', 'old_value': '50 Cent'}, "root['gender']": {'new_value': 'male', 'old_value': 'female'}}}
+35: {'values_changed': {"root['children']": {'new_value': 'Jennifer Jean Andra Brooks Sara Auld', 'old_value': 'Jennifer Lopez Brad Pitt Michael Jackson'}}}
+36: {'values_changed': {"root['children']": {'new_value': 'Jennifer Lopez Brad Pitt Michael Jackson', 'old_value': 'Jennifer Jean Andra Brooks Sara Auld'}}}
+37: {'values_changed': {"root['name']": {'new_value': '50 Cent', 'old_value': 'Tom Brokaw'}}}
+38: {'values_changed': {"root['birthname']": {'new_value': '50 Cent', 'old_value': 'Thomas John Brokaw'}, "root['gender']": {'new_value': 'female', 'old_value': 'male'}}}
+39: {'values_changed': {"root['children']": {'new_value': 'Jennifer Jean Andra Brooks Sara Auld', 'old_value': 'Michael Jackson Ludacris Bow Wow'}}}
+40: {'values_changed': {"root['children']": {'new_value': 'Michael Jackson Ludacris Bow Wow', 'old_value': 'Jennifer Jean Andra Brooks Sara Auld'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': 'Michael Jackson'}}}
+44: {'values_changed': {"root['name']": {'new_value': 'Michael Jackson', 'old_value': 'Tom Brokaw'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': 'Tom Brokaw ????'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw ????', 'old_value': 'Tom Brokaw'}}}
+152: {'dictionary_item_removed': {"root['religion']": 'RETARDISM'}}
+188: {'dictionary_item_added': {"root['religion']": 'RETARDISM'}, 'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': 'Tom Brokhaw'}}}
+189: {'values_changed': {"root['name']": {'new_value': 'Tom Brokhaw', 'old_value': 'Tom Brokaw'}}}
+208: {'dictionary_item_removed': {"root['age']": '68', "root['education']": 'Degree in politics and journalism from University of South Dakota'}}
+270: {'values_changed': {"root['occupation']": {'new_value': 'Television Journalist', 'old_value': 'Television journalist'}}}
+272: {'values_changed': {"root['occupation']": {'new_value': 'Television journalist', 'old_value': 'Television Journalist'}}}
+273: {'values_changed': {"root['occupation']": {'new_value': 'Television Journalist', 'old_value': 'Television journalist'}}}
+310: {'dictionary_item_added': {"root['age']": '68', "root['gender']": 'male'}, 'values_changed': {"root['education']": {'new_value': 'Degree in politics and journalism from University of South Dakota', 'old_value': 'University of South Dakota'}, "root['occupation']": {'new_value': 'Television journalist', 'old_value': 'Television journalist, author'}, "root['spouse']": {'new_value': 'Meredith Lynn Auld', 'old_value': 'Meredith Lynn Auld (1962–present)'}, "root['children']": {'new_value': 'Jennifer Jean Andra Brooks Sara Auld', 'old_value': 'Jennifer Jean Brokaw Andrea Brooks Simon Sarah Auld Brokaw'}}}
+315: {'values_changed': {"root['name']": {'new_value': 'Tom Brokaw', 'old_value': 'Tom Brokedick'}}}
+316: {'values_changed': {"root['name']": {'new_value': 'Tom Brokedick', 'old_value': 'Tom Brokaw'}}}
+363: {'dictionary_item_removed': {"root['salary']": '$8 Million'}}
+375: {'dictionary_item_added': {"root['birthname']": 'Thomas John Brokaw', "root['salary']": '$8 Million'}, 'dictionary_item_removed': {"root['alma_mater']": 'University of South Dakota (Bachelor of Arts', "root['employer']": 'NBC (1966–present)'}, 'values_changed': {"root['education']": {'new_value': 'University of South Dakota', 'old_value': 'Yankton High School'}, "root['occupation']": {'new_value': 'Television journalist, author', 'old_value': 'Television journalist, Author'}, "root['spouse']": {'new_value': 'Meredith Lynn Auld (1962–present)', 'old_value': 'Marriage'}, "root['children']": {'new_value': 'Jennifer Jean Brokaw Andrea Brooks Simon Sarah Auld Brokaw', 'old_value': '3'}}}
+386: {'values_changed': {"root['employer']": {'new_value': 'NBC (1966–present)', 'old_value': 'NBC (1966–2020)'}}}
+387: {'values_changed': {"root['employer']": {'new_value': 'NBC (1966–2020)', 'old_value': 'NBC (1966–2021)'}}}
+449: {'values_changed': {"root['occupation']": {'new_value': 'Television journalist, Author', 'old_value': 'Television journalist Author'}}}

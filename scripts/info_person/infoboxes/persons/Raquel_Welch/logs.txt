@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actress, singer', "root['spouse']": 'marriage', "root['children']": '2, including Tahnee Welch '}}
+5: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress, singer, slag'}}}
+6: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer, slag', 'old_value': 'Actress, singer,'}}}
+116: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer,', 'old_value': 'Actress, singer'}}}
+185: {'values_changed': {"root['occupation']": {'new_value': 'Actress, singer', 'old_value': 'Actress'}}}
+196: {'dictionary_item_removed': {"root['died']": 'February 15, 2023'}}
+199: {'values_changed': {"root['died']": {'new_value': 'February 15, 2023', 'old_value': 'February 25, 2023'}}}
+200: {'values_changed': {"root['died']": {'new_value': 'February 25, 2023', 'old_value': 'death date and age'}}}
+271: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_added': {"root['died']": 'death date and age'}}
+380: {'values_changed': {"root['children']": {'new_value': '2, including Tahnee Welch ', 'old_value': '2, including Tahnee '}}}
+435: {'dictionary_item_removed': {"root['education']": 'San Diego State University'}}
+549: {'dictionary_item_removed': {"root['rowspan']": '"2" | 1964 | \'\'A House Is Not a Home\'\' | Polly\'s Girl | |<ref name'}, 'values_changed': {"root['children']": {'new_value': '2, including Tahnee ', 'old_value': "2, including Tahnee Welc  MY DOG HAS DIED''' (née"}}}
+550: {'dictionary_item_added': {"root['rowspan']": '"2" | 1964 | \'\'A House Is Not a Home\'\' | Polly\'s Girl | |<ref name'}, 'values_changed': {"root['children']": {'new_value': "2, including Tahnee Welc  MY DOG HAS DIED''' (née", 'old_value': '2, including Tahnee '}}}
+551: {'dictionary_item_removed': {"root['rowspan']": '"2" | 1964 | \'\'A House Is Not a Home\'\' | Polly\'s Girl | |<ref name'}, 'values_changed': {"root['children']": {'new_value': '2, including Tahnee ', 'old_value': '2, including Tahnee Welch'}}}
+552: {'dictionary_item_added': {"root['rowspan']": '"2" | 1964 | \'\'A House Is Not a Home\'\' | Polly\'s Girl | |<ref name'}, 'values_changed': {"root['children']": {'new_value': '2, including Tahnee Welch', 'old_value': '2, including Tahnee '}}}

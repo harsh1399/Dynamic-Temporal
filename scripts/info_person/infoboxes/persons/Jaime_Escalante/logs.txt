@@ -1,0 +1,10 @@
+158: {'dictionary_item_removed': {"root['name']": 'Jaime Escalante', "root['birthdate']": 'birth date', "root['location']": 'La Paz, Bolivia', "root['deathdate']": 'death date and age', "root['deathplace']": 'Sacramento, California'}}
+177: {'values_changed': {"root['deathplace']": {'new_value': 'Sacramento, California', 'old_value': 'Sacramento, California, U.S.'}}}
+178: {'values_changed': {"root['deathplace']": {'new_value': 'Sacramento, California, U.S.', 'old_value': 'Sacramento, California'}}}
+180: {'values_changed': {"root['deathplace']": {'new_value': 'Sacramento, California', 'old_value': 'Sacramento, California, U.S.'}}}
+204: {'values_changed': {"root['name']": {'new_value': 'Jaime Escalante', 'old_value': 'Jaime Escalante (Jaime Alfonso Escalante Gutierrez)'}}}
+207: {'values_changed': {"root['deathplace']": {'new_value': 'Sacramento, California, U.S.', 'old_value': 'Roseville, California, U.S.'}}}
+208: {'values_changed': {"root['deathplace']": {'new_value': 'Roseville, California, U.S.', 'old_value': 'Sacramento, California, U.S.'}}}
+236: {'values_changed': {"root['name']": {'new_value': 'Jaime Escalante (Jaime Alfonso Escalante Gutierrez)', 'old_value': 'Jaime Escalante'}}}
+250: {'values_changed': {"root['deathplace']": {'new_value': 'Sacramento, California, U.S.', 'old_value': 'Roseville, California, U.S.  '}}}
+251: {'values_changed': {"root['deathplace']": {'new_value': 'Roseville, California, U.S.  ', 'old_value': 'Roseville, California, U.S. |'}}}

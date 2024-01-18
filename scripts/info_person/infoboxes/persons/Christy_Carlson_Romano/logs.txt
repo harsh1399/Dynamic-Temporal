@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Christy Carlson Romano', "root['background']": 'solo_singer', "root['alias']": 'Christy Romano', "root['instrument']": 'Vocals, guitar', "root['genre']": 'Pop music', "root['occupation']": 'Actress, singer, songwriter, author', "root['label']": 'Walt Disney, Virgin, Atlantic'}}
+3: {'values_changed': {"root['alias']": {'new_value': 'Christy Romano', 'old_value': 'Christy Romano Christy Carlson'}}}
+4: {'values_changed': {"root['alias']": {'new_value': 'Christy Romano Christy Carlson', 'old_value': 'Christy Romano'}}}
+96: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['education']": 'Barnard College, Columbia University'}, 'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'pop music'}, "root['label']": {'new_value': 'Walt Disney, Virgin, Atlantic', 'old_value': 'Walt Disney Records'}}}
+109: {'dictionary_item_added': {"root['alias']": 'Christy Romano'}, 'values_changed': {"root['genre']": {'new_value': 'pop music', 'old_value': 'Pop music'}, "root['occupation']": {'new_value': 'Actress, singer, songwriter, author', 'old_value': 'Actress, singer'}}}
+123: {'values_changed': {"root['education']": {'new_value': 'Barnard College, Columbia University', 'old_value': 'Barnard College'}}}
+124: {'values_changed': {"root['education']": {'new_value': 'Barnard College', 'old_value': 'Barnard College, Columbia University'}}}
+125: {'values_changed': {"root['education']": {'new_value': 'Barnard College, Columbia University', 'old_value': 'Barnard College'}}}
+135: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Pop punk'}}}
+136: {'values_changed': {"root['genre']": {'new_value': 'Pop punk', 'old_value': 'Pop music'}}}
+137: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'Pop punk'}}}
+158: {'values_changed': {"root['genre']": {'new_value': 'Pop punk', 'old_value': 'Pop music'}}}
+204: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, singer'}}, 'dictionary_item_added': {"root['label']": 'Walt Disney Records', "root['instrument']": 'Vocals, guitar', "root['genre']": 'Pop music', "root['background']": 'solo_singer'}}
+245: {'dictionary_item_removed': {"root['children']": '1'}}
+265: {'dictionary_item_added': {"root['children']": '1'}, 'dictionary_item_removed': {"root['Children']": '1', "root['align']": '"left" v'}}
+268: {'dictionary_item_added': {"root['Children']": '1', "root['align']": '"left" v'}, 'dictionary_item_removed': {"root['children']": '1'}}
+272: {'dictionary_item_added': {"root['education']": 'Barnard College'}, 'dictionary_item_removed': {"root['alma_mater']": 'Barnard College'}}
+283: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+285: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '1'}}}
+288: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2'}}}
+300: {'dictionary_item_removed': {"root['residence']": 'Orange County, California, USA'}}

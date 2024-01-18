@@ -1,0 +1,237 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Ozzy Osbourne', "root['Img']": 'Ozzy Osbourne 2008-03-15.JPG', "root['Img_capt']": 'Osbourne in 2008', "root['Background']": 'solo_singer', "root['Birth_name']": 'John Michael Osbourne', "root['Born']": 'birth date and age', "root['Instrument']": 'Vocals', "root['Genre']": 'Heavy metal music', "root['Occupation']": 'Musician, songwriter', "root['Years_active']": '1960s–present', "root['Label']": 'Epic Records', "root['Associated_acts']": 'Black Sabbath, Kelly Osbourne, Black Label Society', "root['URL']": 'http://www.ozzy.com Ozzy.com '}}
+20: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'peyton hughes'}}}
+21: {'values_changed': {"root['Name']": {'new_value': 'peyton hughes', 'old_value': 'Ozzy Osbourne'}}}
+67: {'dictionary_item_added': {"root['Birth_name']": 'John Michael Osbourne', "root['Born']": 'birth date and age', "root['Instrument']": 'Vocals', "root['Genre']": 'Heavy metal music', "root['Occupation']": 'Musician, songwriter', "root['Years_active']": '1960s–present', "root['Label']": 'Epic Records', "root['Associated_acts']": 'Black Sabbath, Kelly Osbourne, Black Label Society', "root['URL']": 'http://www.ozzy.com Ozzy.com '}, 'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'solof'}}}
+68: {'dictionary_item_removed': {"root['Birth_name']": 'John Michael Osbourne', "root['Born']": 'birth date and age', "root['Instrument']": 'Vocals', "root['Genre']": 'Heavy metal music', "root['Occupation']": 'Musician, songwriter', "root['Years_active']": '1960s–present', "root['Label']": 'Epic Records', "root['Associated_acts']": 'Black Sabbath, Kelly Osbourne, Black Label Society', "root['URL']": 'http://www.ozzy.com Ozzy.com '}, 'values_changed': {"root['Background']": {'new_value': 'solof', 'old_value': 'solo_singer'}}}
+69: {'dictionary_item_added': {"root['Background']": 'solo_singer'}, 'dictionary_item_removed': {"root['Spouse']": 'Nick Beaton Background'}}
+70: {'dictionary_item_added': {"root['Spouse']": 'Nick Beaton Background'}, 'dictionary_item_removed': {"root['Background']": 'solo_singer'}}
+71: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne loves nick beaton'}}}
+72: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne loves nick beaton', 'old_value': 'Ozzy Osbourne'}}}
+78: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Meow'}}}
+79: {'values_changed': {"root['Name']": {'new_value': 'Meow', 'old_value': 'Ozzy Osbourne'}}}
+98: {'values_changed': {"root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Rock music'}}}
+99: {'values_changed': {"root['Genre']": {'new_value': 'Rock music', 'old_value': 'Heavy metal music'}}}
+100: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+157: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne Punk'}, "root['Birth_name']": {'new_value': 'John Michael Osbourne', 'old_value': 'Ozzy Loves HardcorePunk'}, "root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'The Exploited, The Misfits, Bad Religion, Rise Against'}}}
+158: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne Punk', 'old_value': 'Ozzy Osbourne'}, "root['Birth_name']": {'new_value': 'Ozzy Loves HardcorePunk', 'old_value': 'John Michael Osbourne'}, "root['Associated_acts']": {'new_value': 'The Exploited, The Misfits, Bad Religion, Rise Against', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+159: {'dictionary_item_removed': {"root['Died']": '1969, Drunked and Raped'}, 'values_changed': {"root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Hardcore punk, Oi!, Horror Punk'}, "root['Occupation']": {'new_value': 'Musician, songwriter', 'old_value': 'Musician, songwriter, drunksman, anarchist,'}, "root['Years_active']": {'new_value': '1960s–present', 'old_value': '1960s–1969s'}}}
+160: {'dictionary_item_added': {"root['Died']": '1969, Drunked and Raped'}, 'values_changed': {"root['Genre']": {'new_value': 'Hardcore punk, Oi!, Horror Punk', 'old_value': 'Heavy metal music'}, "root['Occupation']": {'new_value': 'Musician, songwriter, drunksman, anarchist,', 'old_value': 'Musician, songwriter'}, "root['Years_active']": {'new_value': '1960s–1969s', 'old_value': '1960s–present'}}}
+167: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Synthesizer'}}}
+168: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals, Synthesizer', 'old_value': 'Vocals'}}}
+170: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash'}}}
+176: {'dictionary_item_removed': {"root['Died']": 'February 6, 2010'}}
+186: {'dictionary_item_added': {"root['Died']": 'February 6, 2010'}, 'values_changed': {"root['Img']": {'new_value': 'Ozzy Osbourne 2008-03-15.JPG', 'old_value': 'OzzyOsbourneIn2009.jpg'}, "root['Img_capt']": {'new_value': 'Osbourne in 2008', 'old_value': 'Ozzy in 2009.'}}}
+190: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Obby Obourne'}}}
+191: {'values_changed': {"root['Name']": {'new_value': 'Obby Obourne', 'old_value': 'Ozzy Osbourne'}}}
+197: {'values_changed': {"root['Img']": {'new_value': 'OzzyOsbourneIn2009.jpg', 'old_value': 'Ozzy Osbourne 2008-03-15.JPG'}, "root['Img_capt']": {'new_value': 'Ozzy in 2009.', 'old_value': 'Osbourne in 2008'}}}
+200: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slashemo  emo emo emo emom emo emo'}}}
+201: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slashemo  emo emo emo emom emo emo', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash'}}}
+202: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne!!!!!!!!'}}}
+203: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne!!!!!!!!', 'old_value': 'Ozzy Osbourne'}}}
+218: {'dictionary_item_removed': {"root['Died']": 'March 18 2009 Los Angles'}}
+237: {'dictionary_item_added': {"root['Died']": 'March 18 2009 Los Angles'}, 'values_changed': {"root['Img']": {'new_value': 'Ozzy Osbourne 2008-03-15.JPG', 'old_value': 'Ozzy Osbourne-2010.jpg'}, "root['Img_capt']": {'new_value': 'Osbourne in 2008', 'old_value': 'Ozzy Osbourne (2010)'}}}
+241: {'values_changed': {"root['Years_active']": {'new_value': '1960s–present', 'old_value': '21st century'}}}
+242: {'values_changed': {"root['Years_active']": {'new_value': '21st century', 'old_value': '1960s–present'}}}
+271: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'John Michael "Ozzy" Osbourne'}, "root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Harmonica'}}}
+272: {'values_changed': {"root['Name']": {'new_value': 'John Michael "Ozzy" Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['Instrument']": {'new_value': 'Vocals, Harmonica', 'old_value': 'Vocals'}}}
+275: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica'}}}
+276: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals, harmonica', 'old_value': 'Vocals'}}}
+283: {'values_changed': {"root['Years_active']": {'new_value': '1960s–present', 'old_value': '1969–present'}}}
+297: {'values_changed': {"root['Years_active']": {'new_value': '1969–present', 'old_value': '1960s–present'}}}
+298: {'dictionary_item_removed': {"root['Died']": 'NOT YET'}}
+309: {'values_changed': {"root['Died']": {'new_value': 'NOT YET', 'old_value': 'March 21 2008'}}}
+314: {'dictionary_item_added': {"root['Died']": 'March 21 2008'}, 'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ossy Osbourne'}, "root['Img']": {'new_value': 'Ozzy Osbourne-2010.jpg', 'old_value': 'Ossy Osbourne-2010.jpg'}, "root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Ossy Osbourne (2010)'}, "root['URL']": {'new_value': 'http://www.ozzy.com Ozzy.com ', 'old_value': 'http://www.ossy.com Ossy.com '}}}
+315: {'values_changed': {"root['Name']": {'new_value': 'Ossy Osbourne', 'old_value': 'Aussie Osbourne'}, "root['Img']": {'new_value': 'Ossy Osbourne-2010.jpg', 'old_value': 'Aussie Osbourne-2010.jpg'}, "root['Img_capt']": {'new_value': 'Ossy Osbourne (2010)', 'old_value': 'Aussie Osbourne (2010)'}, "root['URL']": {'new_value': 'http://www.ossy.com Ossy.com ', 'old_value': 'http://www.Aussie.com Aussie.com '}}}
+316: {'values_changed': {"root['Name']": {'new_value': 'Aussie Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['Img']": {'new_value': 'Aussie Osbourne-2010.jpg', 'old_value': 'Ozzy Osbourne-2010.jpg'}, "root['Img_capt']": {'new_value': 'Aussie Osbourne (2010)', 'old_value': 'Ozzy Osbourne (2010)'}, "root['URL']": {'new_value': 'http://www.Aussie.com Aussie.com ', 'old_value': 'http://www.ozzy.com Ozzy.com '}}}
+317: {'dictionary_item_removed': {"root['Died']": 'death date and age'}}
+352: {'dictionary_item_added': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Birth_name']": {'new_value': 'John Michael Osbourne', 'old_value': 'John Bono Osbourne'}}}
+353: {'values_changed': {"root['Birth_name']": {'new_value': 'John Bono Osbourne', 'old_value': 'John Michael Osbourne'}}}
+355: {'dictionary_item_removed': {"root['Died']": '1990/223/3'}}
+364: {'dictionary_item_added': {"root['Died']": '1990/223/3'}, 'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'jobless'}, "root['Birth_name']": {'new_value': 'John Michael Osbourne', 'old_value': 'Christine Manson Osbourne'}}}
+365: {'values_changed': {"root['Background']": {'new_value': 'jobless', 'old_value': 'solo_singer'}, "root['Birth_name']": {'new_value': 'Christine Manson Osbourne', 'old_value': 'John Michael Osbourne'}}}
+381: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash'}}}
+411: {'values_changed': {"root['Years_active']": {'new_value': '1960s–present', 'old_value': '1969–present'}, "root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash'}}}
+412: {'values_changed': {"root['Years_active']": {'new_value': '1969–present', 'old_value': '1960s–present'}, "root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind,Slash', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash'}}}
+414: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Ozzy Osbourne at a book signing (2010)'}}}
+423: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)'}}}
+457: {'values_changed': {"root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Hard Rock'}}}
+458: {'values_changed': {"root['Genre']": {'new_value': 'Hard Rock', 'old_value': 'Heavy metal music'}}}
+461: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne at a book signing (2010)', 'old_value': 'Ozzy Osbourne at pot convention (2010)'}}}
+462: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne at pot convention (2010)', 'old_value': 'Ozzy Osbourne at a book signing (2010)'}}}
+480: {'values_changed': {"root['Years_active']": {'new_value': '1960s–present', 'old_value': '1966–1992, 1995-present'}}}
+488: {'values_changed': {"root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Hard Rock'}}}
+490: {'values_changed': {"root['Genre']": {'new_value': 'Hard Rock', 'old_value': 'Heavy Metal'}}}
+491: {'values_changed': {"root['Genre']": {'new_value': 'Heavy Metal', 'old_value': 'Heavy Metal music'}}}
+538: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Singing'}}}
+543: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne at a book signing (2010)', 'old_value': 'Ozzy Osbourne masturbating (2010)'}}}
+544: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne masturbating (2010)', 'old_value': 'Ozzy Osbourne (2010)'}}}
+545: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Ozzy Osbourne swearing(2010)'}}}
+546: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne swearing(2010)', 'old_value': 'Ozzy Osbourne (2010)'}}}
+547: {'values_changed': {"root['Years_active']": {'new_value': '1966–1992, 1995-present', 'old_value': '1966–92, 1995–present'}}}
+550: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Ozzy Osbourne talking to himself(2010)'}}}
+555: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne talking to himself(2010)', 'old_value': 'Ozzy Osbourne (2010)'}}}
+570: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy fonzebourne'}}}
+571: {'values_changed': {"root['Name']": {'new_value': 'Ozzy fonzebourne', 'old_value': 'Ozzy Osbourne'}}}
+580: {'values_changed': {"root['Years_active']": {'new_value': '1966–92, 1995–present', 'old_value': '1966–1992, 1995–present'}}}
+586: {'values_changed': {"root['Genre']": {'new_value': 'Heavy Metal music', 'old_value': 'Rock music'}}}
+587: {'values_changed': {"root['Genre']": {'new_value': 'Rock music', 'old_value': 'Heavy Metal music'}}}
+598: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)', 'old_value': 'Black Sabbath,Gary Moore, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)'}}}
+599: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath,Gary Moore, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)', 'old_value': 'Black Sabbath, Gary Moore, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)'}}}
+600: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'File:Ozzy_wordmark.png'}}}
+601: {'values_changed': {"root['Name']": {'new_value': 'File:Ozzy_wordmark.png', 'old_value': 'Ozzy Osbourne'}}}
+602: {'values_changed': {"root['Years_active']": {'new_value': '1966–1992, 1995–present', 'old_value': '1966–present'}}}
+603: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Gary Moore, Kelly Osbourne, Black Label Society, Firewind, Slash (musician)', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society'}, "root['URL']": {'new_value': 'http://www.ozzy.com Ozzy.com ', 'old_value': 'http://www.ozzy.com Official website '}}}
+606: {'values_changed': {"root['Img']": {'new_value': 'Ozzy Osbourne-2010.jpg', 'old_value': 'OzzyChangingHands02-20-2010.jpg'}}}
+726: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne swearing'}}}
+727: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne swearing', 'old_value': 'Ozzy Osbourne'}, "root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Ozzy Osbourne swearing (2010)'}}}
+728: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne swearing (2010)', 'old_value': 'Ozzy Osbourne (2010)'}}}
+732: {'values_changed': {"root['Genre']": {'new_value': 'Heavy Metal music', 'old_value': 'Heavy metal music'}}}
+739: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Fozzy Osbourne'}, "root['Background']": {'new_value': 'solo_singer', 'old_value': 'homo_singer'}, "root['Birth_name']": {'new_value': 'John Michael Osbourne', 'old_value': 'John Michelle Osbourne'}}}
+740: {'values_changed': {"root['Name']": {'new_value': 'Fozzy Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['Background']": {'new_value': 'homo_singer', 'old_value': 'solo_singer'}, "root['Birth_name']": {'new_value': 'John Michelle Osbourne', 'old_value': 'John Michael Osbourne'}}}
+745: {'values_changed': {"root['Img_capt']": {'new_value': 'Ozzy Osbourne (2010)', 'old_value': 'Osbourne in 2010'}}}
+780: {'dictionary_item_removed': {"root['Died']": 'Thursday,July 22, 2010'}, 'values_changed': {"root['Years_active']": {'new_value': '1966–present', 'old_value': '1966–2012'}}}
+781: {'dictionary_item_added': {"root['Died']": 'Thursday,July 22, 2010'}, 'values_changed': {"root['Years_active']": {'new_value': '1966–2012', 'old_value': '1966–present'}}}
+784: {'dictionary_item_removed': {"root['Died']": '21 July 2010'}}
+809: {'dictionary_item_added': {"root['Died']": '21 July 2010'}, 'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Ozzbourne'}, "root['Img_capt']": {'new_value': 'Osbourne in 2010', 'old_value': 'Ozzbourne in 2010'}}}
+810: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Ozzbourne', 'old_value': 'Ozzy Osbourne'}, "root['Img_capt']": {'new_value': 'Ozzbourne in 2010', 'old_value': 'Osbourne in 2010'}}}
+822: {'dictionary_item_removed': {"root['Died']": '29.07.2010'}}
+824: {'dictionary_item_added': {"root['Died']": '29.07.2010'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+829: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne (blows dick)'}}}
+830: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne (blows dick)', 'old_value': 'Ozzy Osbourne'}}}
+831: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne blows dick'}}}
+832: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne blows dick', 'old_value': 'Ozzy Osbourne'}}}
+835: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind Gus G'}}}
+836: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind Gus G', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+847: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy(Dumbass)Osbourne'}, "root['Img_capt']": {'new_value': 'Osbourne in 2010', 'old_value': 'Osbourne stoned on Crack'}, "root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Rap with zaboomafoo'}}}
+848: {'values_changed': {"root['Name']": {'new_value': 'Ozzy(Dumbass)Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['Img_capt']": {'new_value': 'Osbourne stoned on Crack', 'old_value': 'Osbourne in 2010'}, "root['Genre']": {'new_value': 'Rap with zaboomafoo', 'old_value': 'Heavy metal music'}}}
+880: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Alice Cooper, Firewind'}}}
+881: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Alice Cooper, Firewind', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+888: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'zack macleod'}}}
+889: {'values_changed': {"root['Name']": {'new_value': 'zack macleod', 'old_value': 'Ozzy Osbourne'}}}
+901: {'values_changed': {"root['Img']": {'new_value': 'OzzyChangingHands02-20-2010.jpg', 'old_value': 'OzzyChangingHands02-20-2010.jpg           I Love Sharon!!!!'}}}
+902: {'values_changed': {"root['Img']": {'new_value': 'OzzyChangingHands02-20-2010.jpg           I Love Sharon!!!!', 'old_value': 'OzzyChangingHands02-20-2010.jpg'}}}
+932: {'values_changed': {"root['Years_active']": {'new_value': '1966–present', 'old_value': '1966–2010'}}}
+933: {'values_changed': {"root['Years_active']": {'new_value': '1966–2010', 'old_value': '1966–present'}}}
+934: {'values_changed': {"root['Instrument']": {'new_value': 'Singing', 'old_value': 'Vocals, harmonica, keyboards'}}}
+974: {'values_changed': {"root['Occupation']": {'new_value': 'Musician, songwriter', 'old_value': 'Musician, songwriter,occasional actor'}}}
+975: {'values_changed': {"root['Occupation']": {'new_value': 'Musician, songwriter,occasional actor', 'old_value': 'Musician, songwriter, actor'}}}
+978: {'values_changed': {"root['URL']": {'new_value': 'http://www.ozzy.com Official website ', 'old_value': 'ozzy.com '}}}
+985: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy Osbourne (aka) Give Back The Children Stolen From Good Parents & Sold To UK Family Courts'}}}
+986: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne (aka) Give Back The Children Stolen From Good Parents & Sold To UK Family Courts', 'old_value': 'Ozzy Osbourne'}}}
+995: {'dictionary_item_added': {"root['Img']": 'OzzyChangingHands02-20-2010.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Liz Webster'}}}
+996: {'dictionary_item_removed': {"root['Img']": 'OzzyChangingHands02-20-2010.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Liz Webster', 'old_value': 'Ozzy Osbourne'}}}
+1002: {'values_changed': {"root['Occupation']": {'new_value': 'Musician, songwriter, actor', 'old_value': 'lovely hair stylist'}}}
+1003: {'values_changed': {"root['Occupation']": {'new_value': 'lovely hair stylist', 'old_value': 'Musician, songwriter, actor'}}}
+1007: {'values_changed': {"root['Years_active']": {'new_value': '1966–present', 'old_value': '1968–present'}}}
+1022: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'Dansband Singer'}, "root['Genre']": {'new_value': 'Heavy metal music', 'old_value': 'Dansband Music'}}}
+1023: {'values_changed': {"root['Background']": {'new_value': 'Dansband Singer', 'old_value': 'solo_singer'}, "root['Genre']": {'new_value': 'Dansband Music', 'old_value': 'Heavy metal music'}}}
+1034: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals, harmonica, keyboards', 'old_value': 'Vocals'}}}
+1035: {'values_changed': {"root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica, keyboards'}}}
+1088: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'Black Label Society'}}}
+1089: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Label Society', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+1104: {'dictionary_item_removed': {"root['first']": '"Ozzy"/>  In the early 2000s, Osbourne\'s career expanded to a new medium when he became a star in his own reality show, \'\'The Osbournes\'\', alongside wife/manager Sharon Osbourne', "root['journal']": 'Moreman', "root['publisher']": 'Zomba Books', "root['date']": 'yes', "root['location']": 'Glasgow, Scotland', "root['pages']": '14–15', "root['isbn']": '0446569895', "root['colspan']": '"10" style', "root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}, 'values_changed': {"root['URL']": {'new_value': 'ozzy.com ', 'old_value': 'url'}}}
+1105: {'dictionary_item_added': {"root['first']": '"Ozzy"/>  In the early 2000s, Osbourne\'s career expanded to a new medium when he became a star in his own reality show, \'\'The Osbournes\'\', alongside wife/manager Sharon Osbourne', "root['journal']": 'Moreman', "root['publisher']": 'Zomba Books', "root['date']": 'yes', "root['location']": 'Glasgow, Scotland', "root['pages']": '14–15', "root['isbn']": '0446569895', "root['colspan']": '"10" style', "root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}, 'values_changed': {"root['URL']": {'new_value': 'url', 'old_value': 'ozzy.com '}}}
+1150: {'dictionary_item_removed': {"root['first']": '"Ozzy"/>  In the early 2000s, Osbourne\'s career expanded to a new medium when he became a star in his own reality show, \'\'The Osbournes\'\', alongside wife/manager Sharon Osbourne', "root['journal']": 'Moreman', "root['publisher']": 'Zomba Books', "root['date']": 'yes', "root['location']": 'Glasgow, Scotland', "root['pages']": '14–15', "root['isbn']": '0446569895', "root['colspan']": '"10" style', "root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}, 'values_changed': {"root['URL']": {'new_value': 'ozzy.com ', 'old_value': 'url'}}}
+1151: {'dictionary_item_added': {"root['first']": '"Ozzy"/>  In the early 2000s, Osbourne\'s career expanded to a new medium when he became a star in his own reality show, \'\'The Osbournes\'\', alongside wife/manager Sharon Osbourne', "root['journal']": 'Moreman', "root['publisher']": 'Zomba Books', "root['date']": 'yes', "root['location']": 'Glasgow, Scotland', "root['pages']": '14–15', "root['isbn']": '0446569895', "root['colspan']": '"10" style', "root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}, 'values_changed': {"root['URL']": {'new_value': 'url', 'old_value': 'ozzy.com '}}}
+1170: {'values_changed': {"root['Img_capt']": {'new_value': 'Osbourne in 2010', 'old_value': 'Osbourne in 2010.'}}}
+1173: {'values_changed': {"root['Name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Archivo:Ozzy_wordmark.png'}}}
+1174: {'values_changed': {"root['Name']": {'new_value': 'Archivo:Ozzy_wordmark.png', 'old_value': 'Ozzy Osbourne'}}}
+1191: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'solo_singer and crack head'}, "root['Instrument']": {'new_value': 'Vocals, harmonica, keyboards', 'old_value': 'Vocals, harmonica, keyboards, and bong'}, "root['Occupation']": {'new_value': 'Musician, songwriter, actor', 'old_value': 'Musician, songwriter, actor, crack head'}}}
+1192: {'values_changed': {"root['Background']": {'new_value': 'solo_singer and crack head', 'old_value': 'solo_singer'}, "root['Instrument']": {'new_value': 'Vocals, harmonica, keyboards, and bong', 'old_value': 'Vocals, harmonica, keyboards'}, "root['Occupation']": {'new_value': 'Musician, songwriter, actor, crack head', 'old_value': 'Musician, songwriter, actor'}}}
+1193: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Motorhead'}}}
+1194: {'values_changed': {"root['Associated_acts']": {'new_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind, Motorhead', 'old_value': 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind'}}}
+1197: {'dictionary_item_added': {"root['Name']": 'Ozzy Osbourne', "root['Img']": 'OzzyChangingHands02-20-2010.jpg', "root['Img_capt']": 'Osbourne in 2010.', "root['Background']": 'solo_singer', "root['Birth_name']": 'John Michael Osbourne', "root['Born']": 'birth date and age', "root['Instrument']": 'Vocals, harmonica, keyboards', "root['Genre']": 'Heavy metal music', "root['Occupation']": 'Musician, songwriter, actor', "root['Years_active']": '1968–present', "root['Label']": 'Epic Records', "root['Associated_acts']": 'Black Sabbath, Kelly Osbourne, Black Label Society, Firewind', "root['URL']": 'ozzy.com '}, 'dictionary_item_removed': {"root['name']": 'Ozzy Osbourne', "root['background']": 'solo_singer', "root['alias']": 'Ozzy', "root['instrument']": 'Vocals', "root['genre']": 'Heavy metal music', "root['occupation']": 'Musician, songwriter', "root['spouse']": 'marriage', "root['label']": 'Epic Records', "root['associated_acts']": 'Black Sabbath'}}
+1199: {'dictionary_item_removed': {"root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}}
+1203: {'dictionary_item_added': {"root['NAME']": 'Ozzy Osbourne |ALTERNATIVE NAMES'}, 'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath', 'old_value': 'Black Sabbath |net worth'}}}
+1204: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath |net worth', 'old_value': 'Black Sabbath'}}}
+1205: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Shamire Osbourne'}, "root['alias']": {'new_value': 'Ozzy', 'old_value': 'ShaDeer'}}}
+1206: {'values_changed': {"root['name']": {'new_value': 'Shamire Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['alias']": {'new_value': 'ShaDeer', 'old_value': 'Ozzy'}}}
+1207: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Ozzy- Osbourne'}, "root['alias']": {'new_value': 'Ozzy', 'old_value': 'ShaDeer'}}}
+1208: {'values_changed': {"root['name']": {'new_value': 'Ozzy- Osbourne', 'old_value': 'Ozzy Osbourne'}, "root['alias']": {'new_value': 'ShaDeer', 'old_value': 'Ozzy'}}}
+1209: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Shamire Henderson Osbourne'}}}
+1210: {'values_changed': {"root['name']": {'new_value': 'Shamire Henderson Osbourne', 'old_value': 'Ozzy Osbourne'}}}
+1211: {'values_changed': {"root['alias']": {'new_value': 'Ozzy', 'old_value': 'Shamire the third'}}}
+1212: {'values_changed': {"root['alias']": {'new_value': 'Shamire the third', 'old_value': 'Ozzy'}}}
+1213: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Shamire Henderson'}, "root['alias']": {'new_value': 'Ozzy', 'old_value': 'Shadeer'}}}
+1214: {'values_changed': {"root['name']": {'new_value': 'Shamire Henderson', 'old_value': 'Ozzy Osbourne'}, "root['alias']": {'new_value': 'Shadeer', 'old_value': 'Ozzy'}}}
+1215: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Shamire Henderson'}, "root['alias']": {'new_value': 'Ozzy', 'old_value': 'Shadeer'}}}
+1216: {'values_changed': {"root['name']": {'new_value': 'Shamire Henderson', 'old_value': 'Ozzy Osbourne'}, "root['alias']": {'new_value': 'Shadeer', 'old_value': 'Ozzy'}}}
+1217: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, keyboard, synthesizer, percussion, harmonica'}}}
+1218: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, keyboard, synthesizer, percussion, harmonica', 'old_value': 'Vocals'}}}
+1219: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'porn star'}}}
+1220: {'values_changed': {"root['background']": {'new_value': 'porn star', 'old_value': 'solo_singer'}}}
+1228: {'values_changed': {"root['alias']": {'new_value': 'Ozzy', 'old_value': 'Ozzy, The God Father Of Heavy Metal'}}}
+1229: {'values_changed': {"root['alias']": {'new_value': 'Ozzy, The God Father Of Heavy Metal', 'old_value': 'Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness'}}}
+1230: {'values_changed': {"root['alias']": {'new_value': 'Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness', 'old_value': 'Ozzy Osbourne, Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness'}}}
+1231: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Osbourne, Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness', 'old_value': 'Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness'}}}
+1232: {'values_changed': {"root['alias']": {'new_value': 'Ozzy, The God Father Of Heavy Metal, The Prince Of Darkness', 'old_value': 'Ozzy'}}}
+1237: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Heavy metal music'}}}
+1242: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals Harmonica'}}}
+1243: {'values_changed': {"root['instrument']": {'new_value': 'Vocals Harmonica', 'old_value': 'Vocals, Harmonica'}}}
+1244: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Harmonica', 'old_value': 'Vocals'}}}
+1248: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica, keyboard, synthesizer, percussion'}}}
+1249: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, keyboard, synthesizer, percussion', 'old_value': 'Vocals'}}}
+1268: {'values_changed': {"root['alias']": {'new_value': 'Ozzy', 'old_value': 'Ozzy, The Prince of Darkness'}, "root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Piano'}, "root['associated_acts']": {'new_value': 'Black Sabbath', 'old_value': 'Black Sabbath, Quiet Riot, Black Label Society'}}}
+1269: {'values_changed': {"root['alias']": {'new_value': 'Ozzy, The Prince of Darkness', 'old_value': 'Ozzy'}, "root['instrument']": {'new_value': 'Vocals, Piano', 'old_value': 'Vocals'}, "root['associated_acts']": {'new_value': 'Black Sabbath, Quiet Riot, Black Label Society', 'old_value': 'Black Sabbath'}}}
+1270: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath', 'old_value': 'Black Sabbath, Coal Chamber, Metallica'}}}
+1271: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath, Coal Chamber, Metallica', 'old_value': 'Black Sabbath, Metallica'}}}
+1272: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath, Metallica', 'old_value': 'Black Sabbath'}}}
+1281: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica, synthesizer'}}}
+1282: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, synthesizer', 'old_value': 'Vocals'}}}
+1290: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'austin grant'}}}
+1291: {'values_changed': {"root['name']": {'new_value': 'austin grant', 'old_value': 'Ozzy Osbourne'}}}
+1292: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Skin Flute'}}}
+1293: {'values_changed': {"root['instrument']": {'new_value': 'Skin Flute', 'old_value': 'Vocals'}}}
+1306: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica'}}}
+1307: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica', 'old_value': 'Vocals'}}}
+1308: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals,harmonica'}}}
+1309: {'values_changed': {"root['instrument']": {'new_value': 'Vocals,harmonica', 'old_value': 'Vocals'}}}
+1310: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals,harmonica'}}}
+1311: {'values_changed': {"root['instrument']": {'new_value': 'Vocals,harmonica', 'old_value': 'Vocals'}}}
+1312: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals,harmonica'}}}
+1313: {'values_changed': {"root['instrument']": {'new_value': 'Vocals,harmonica', 'old_value': 'Vocals'}}}
+1314: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals,harmonica'}}}
+1316: {'values_changed': {"root['instrument']": {'new_value': 'Vocals,harmonica', 'old_value': 'Vocals'}}}
+1317: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica'}}}
+1318: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica', 'old_value': 'Vocals'}}}
+1328: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter', 'old_value': 'Singer, songwriter'}}}
+1333: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, keyboards, harmonica'}}}
+1334: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, keyboards, harmonica', 'old_value': 'Vocals'}}}
+1343: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Gay Osbourne'}}}
+1344: {'values_changed': {"root['name']": {'new_value': 'Gay Osbourne', 'old_value': 'Ozzy Osbourne'}}}
+1356: {'values_changed': {"root['alias']": {'new_value': 'Ozzy', 'old_value': 'Ozzy Prince of Darkness'}, "root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, harmonica'}}}
+1358: {'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter', 'old_value': 'Singer-songwriter, television personality'}}}
+1359: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, television personality', 'old_value': 'Singer, songwriter, television personality'}}}
+1365: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness', 'old_value': 'Ozzy Prince of Darkness / The Godfather of Metal'}}}
+1366: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness / The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness The Godfather of Metal'}}}
+1367: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal'}}}
+1371: {'type_changes': {"root['name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', 'kin Osbourne'], 'new_value': 'Ozzy Osbourne'}}}
+1372: {'type_changes': {"root['name']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Ozzy Osbourne', 'new_value': ['', 'kin Osbourne']}}}
+1375: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath', 'old_value': 'Black Sabbath, Black Label Society'}}}
+1376: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath, Black Label Society', 'old_value': 'Black Sabbath, Zakk Wylde'}}}
+1383: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Victoria Martinez'}}}
+1384: {'values_changed': {"root['name']": {'new_value': 'Victoria Martinez', 'old_value': 'Ozzy Osbourne'}}}
+1397: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal  Eh Weldon'}}}
+1398: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal  Eh Weldon', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal'}}}
+1399: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica', 'old_value': 'Vocals, harmonica, guitar'}}}
+1400: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica, guitar', 'old_value': 'Vocals, harmonica'}}}
+1440: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  Mr. Crowley The Godfather of Metal'}}}
+1441: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  Mr. Crowley The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal'}}}
+1458: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath, Zakk Wylde', 'old_value': 'Black Sabbath, Zakk Wylde, Randy Rhoads'}}}
+1462: {'values_changed': {"root['associated_acts']": {'new_value': 'Black Sabbath, Zakk Wylde, Randy Rhoads', 'old_value': 'Black Sabbath'}}}
+1470: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, harmonica', 'old_value': 'Singing'}}}
+1477: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Michael Jackson'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'pop solo_singer'}, "root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal', 'old_value': 'Ozzy king of pop  The Godfather of Metal'}}}
+1478: {'values_changed': {"root['name']": {'new_value': 'Michael Jackson', 'old_value': 'Ozzy Osbourne'}, "root['background']": {'new_value': 'pop solo_singer', 'old_value': 'solo_singer'}, "root['alias']": {'new_value': 'Ozzy king of pop  The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal'}}}
+1490: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal Madman'}}}
+1496: {'values_changed': {"root['alias']": {'new_value': 'Ozzy Prince of Darkness  The Godfather of Metal Madman', 'old_value': 'Ozzy The Prince of Darkness  The Godfather of Heavy Metal Madman'}}}
+1497: {'values_changed': {"root['alias']": {'new_value': 'Ozzy The Prince of Darkness  The Godfather of Heavy Metal Madman', 'old_value': 'Ozzy Prince of Darkness  The Godfather of Metal Madman'}}}
+1498: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer, songwriter, television personality'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Epic Records'}}, 'dictionary_item_added': {"root['alias']": 'Ozzy Prince of Darkness  The Godfather of Metal Madman'}, 'dictionary_item_removed': {"root['residence']": 'Buckinghamshire, England  Los Angeles, California, U.S.', "root['children']": '6, including Aimee Osbourne'}, 'values_changed': {"root['instrument']": {'new_value': 'Singing', 'old_value': 'Vocals'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+1499: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals harmonica'}}}
+1500: {'values_changed': {"root['instrument']": {'new_value': 'Vocals harmonica', 'old_value': 'Vocals'}}}
+1547: {'type_changes': {"root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Black Sabbath'}}}
+1698: {'dictionary_item_added': {"root['residence']": 'Buckinghamshire, England  Los Angeles, California, U.S.', "root['associated_acts']": []}, 'dictionary_item_removed': {"root['past_member_of']": []}, 'values_changed': {"root['children']": {'new_value': '6, including Aimee Osbourne', 'old_value': '5, including Aimee Osbourne'}}}
+1735: {'values_changed': {"root['children']": {'new_value': '5, including Aimee Osbourne', 'old_value': '6, including Aimee Osbourne'}}}
+1737: {'values_changed': {"root['children']": {'new_value': '6, including Aimee Osbourne', 'old_value': '5, including Aimee Osbourne'}}}
+1742: {'values_changed': {"root['name']": {'new_value': 'Ozzy Osbourne', 'old_value': 'Supreme Leader Ozzy Osbourne'}}}
+1743: {'dictionary_item_added': {"root['genre']": []}, 'dictionary_item_removed': {"root['gender']": []}}
+1744: {'dictionary_item_added': {"root['gender']": []}, 'dictionary_item_removed': {"root['genre']": []}, 'values_changed': {"root['name']": {'new_value': 'Supreme Leader Ozzy Osbourne', 'old_value': 'Ozzy Osbourne'}}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Elvis Presley', "root['occupation']": 'Singer, musician, actor', "root['spouse']": 'marriage', "root['children']": 'Lisa Marie Presley'}}
+265: {'values_changed': {"root['children']": {'new_value': 'Lisa Marie Presley', 'old_value': 'Lisa Marie Presley , Elvis Presley Jr.'}}}
+266: {'values_changed': {"root['children']": {'new_value': 'Lisa Marie Presley , Elvis Presley Jr.', 'old_value': 'Lisa Marie Presley'}}}
+273: {'values_changed': {"root['occupation']": {'new_value': 'Singer, musician, actor', 'old_value': 'Singer, actor'}}}
+340: {'values_changed': {"root['occupation']": {'new_value': 'Singer, actor', 'old_value': 'Singer, songwriter, musician, actor'}}}
+352: {'values_changed': {"root['occupation']": {'new_value': 'Singer, songwriter, musician, actor', 'old_value': 'Singer, actor'}}}
+466: {'dictionary_item_removed': {"root['awards']": 'File:Presidential Medal of Freedom (ribbon).png'}}

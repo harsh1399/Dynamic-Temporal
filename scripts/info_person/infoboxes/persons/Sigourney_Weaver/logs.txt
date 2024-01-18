@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['alma_mater']": 'Stanford University (B.A., 1972), Yale University (M.F.A., 1974)', "root['occupation']": 'Actress', "root['children']": '1', "root['spouse']": 'Jim Simpson '}}
+71: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'goat'}, "root['children']": {'new_value': '1', 'old_value': '1 goat'}}}
+72: {'values_changed': {"root['occupation']": {'new_value': 'goat', 'old_value': 'Actress'}, "root['children']": {'new_value': '1 goat', 'old_value': '1'}}}
+94: {'dictionary_item_removed': {"root['name']": 'Sigourney Weaver'}}
+140: {'dictionary_item_removed': {"root['height_m']": '1.82'}}
+141: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Charlotte Simpson (born 1990)'}}}

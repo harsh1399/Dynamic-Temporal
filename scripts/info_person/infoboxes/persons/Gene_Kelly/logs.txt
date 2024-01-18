@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gene Kelly', "root['education']": 'Peabody High School (Pennsylvania)', "root['alma_mater']": 'Pennsylvania State College, University of Pittsburgh, University of Pittsburgh School of Law', "root['occupation']": 'Actor, dancer, singer, director, producer, choreographer', "root['spouse']": 'marriage', "root['children']": '3 '}}
+36: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly', 'old_value': 'Gene Kellyyyyyyyyy'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'Gene Kellyyyyyyyyy', 'old_value': 'Cian Gormley OMG AHAHAHA'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'Cian Gormley OMG AHAHAHA', 'old_value': 'Gene Kelly'}}}
+62: {'dictionary_item_removed': {"root['ethnicity']": 'Irish'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Pennsylvania State College, University of Pittsburgh, University of Pittsburgh School of Law', 'old_value': 'University of Pittsburgh'}}}
+114: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+115: {'dictionary_item_removed': {"root['religion']": 'Roman Catholic (1912-1939)'}}
+116: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic (1912-1939)', 'old_value': 'Roman Catholic (1912-1939), Agnostic (1939-1996)'}}}
+127: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly', 'old_value': 'Gene Kelly hey little mama let me whisper in your ear'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly hey little mama let me whisper in your ear', 'old_value': 'Gene Kelly'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly', 'old_value': 'Gene Kelly loves charles darwin'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly loves charles darwin', 'old_value': 'Gene Kelly'}}}
+131: {'values_changed': {"root['name']": {'new_value': 'Gene Kelly', 'old_value': 'Gene Kellys'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Gene Kellys', 'old_value': 'Gene Kelly'}}}
+145: {'values_changed': {"root['ethnicity']": {'new_value': 'Irish', 'old_value': 'Irish, 1/4 German'}}}
+151: {'dictionary_item_removed': {"root['known_for']": 'This biography fails to cite in the Film listings one of Kelly\'s most critically acclaimed dramatic performances as the cynical agnostic reporter - opposite Spencer Tracy and Fredrick March in "Inherit The Wind."'}}
+162: {'dictionary_item_added': {"root['known_for']": 'This biography fails to cite in the Film listings one of Kelly\'s most critically acclaimed dramatic performances as the cynical agnostic reporter - opposite Spencer Tracy and Fredrick March in "Inherit The Wind."'}, 'values_changed': {"root['religion']": {'new_value': 'Roman Catholic (1912-1939), Agnostic (1939-1996)', 'old_value': 'Roman Catholic (1912-1939), Agnostic (1839-1996)'}}}
+163: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic (1912-1939), Agnostic (1839-1996)', 'old_value': 'Roman Catholic (1912-1939), Agnostic (1939-1996)'}}}
+165: {'values_changed': {"root['ethnicity']": {'new_value': 'Irish, 1/4 German', 'old_value': 'Irish, 1/4 German<ref name'}, "root['religion']": {'new_value': 'Roman Catholic (1912-1939), Agnostic (1939-1996)', 'old_value': 'Roman Catholic (1912–1939), Agnostic (1939–1996)'}}}

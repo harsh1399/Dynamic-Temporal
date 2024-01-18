@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Woody Allen', "root['home_town']": 'Brooklyn, New York, U.S.', "root['occupation']": 'Actor, comedian, filmmaker, playwright', "root['spouse']": 'Plainlist', "root['partner']": 'Plainlist', "root['children']": 'Plainlist', "root['awards']": 'List of awards and nominations received by Woody Allen', "root['medium']": 'Stand-up, film, television, theatre, books', "root['genre']": 'Observational comedy, satire, black comedy, self-deprecation, cringe comedy, deadpan', "root['subject']": 'Culture of the United States'}}
+7: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, filmmaker, musician, playwright'}}}
+8: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, musician, playwright', 'old_value': 'Actor, comedian, filmmaker, playwright'}}}
+17: {'dictionary_item_added': {"root['subject']": 'Culture of the United States'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, film-maker, playwright'}}}
+18: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, film-maker, playwright', 'old_value': 'Actor, comedian, filmmaker, playwright'}}}
+33: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, pedophile, comedian, filmmaker, playwright'}}}
+34: {'values_changed': {"root['occupation']": {'new_value': 'Actor, pedophile, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, filmmaker, playwright'}}}
+65: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, filmmaker, playwright, musician'}}}
+66: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright, musician', 'old_value': 'Actor, comedian, filmmaker, playwright'}}}
+77: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, filmmaker, director, producer, playwright, composer, writer'}}}
+85: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, director, producer, playwright, composer, writer', 'old_value': 'Actor, comedian, filmmaker, playwright'}}}
+101: {'values_changed': {"root['name']": {'new_value': 'Woody Allen', 'old_value': 'Woodward Q. Allen'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'Woodward Q. Allen', 'old_value': 'Woody Allen'}}}
+166: {'values_changed': {"root['name']": {'new_value': 'Woody Allen', 'old_value': 'Woody Allen the third'}}}
+167: {'values_changed': {"root['name']": {'new_value': 'Woody Allen the third', 'old_value': 'Woody Allen'}}}
+168: {'values_changed': {"root['home_town']": {'new_value': 'Brooklyn, New York, U.S.', 'old_value': 'Brooklyn, New York, U.S.A.'}}}
+169: {'values_changed': {"root['home_town']": {'new_value': 'Brooklyn, New York, U.S.A.', 'old_value': 'Brooklyn, New York, U.S.'}}}
+215: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright', 'old_value': 'Actor, comedian, filmmaker, playwright, musician'}}}
+322: {'dictionary_item_added': {"root['home_town']": 'Brooklyn, New York, U.S.'}, 'values_changed': {"root['name']": {'new_value': 'Woody Allen', 'old_value': 'Woody Allen Rapist'}}}
+323: {'values_changed': {"root['name']": {'new_value': 'Woody Allen Rapist', 'old_value': 'Woody Allen'}}}
+343: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}, "root['partner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}}, 'values_changed': {"root['children']": {'new_value': 'Plainlist', 'old_value': 'flatlis'}}}
+344: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'flatlis'}}}
+345: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}, "root['partner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}, "root['children']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}}}
+362: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, filmmaker, playwright, musician', 'old_value': 'Actor, author, filmmaker, comedian, playwright, musician'}}}
+377: {'dictionary_item_removed': {"root['influences']": 'Groucho Marx', "root['influenced']": 'Steven Spielberg'}}
+381: {'dictionary_item_added': {"root['influences']": 'Groucho Marx', "root['influenced']": 'Steven Spielberg'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, author, filmmaker, comedian, playwright, musician', 'old_value': 'Actor, author, Filmmaking'}}}

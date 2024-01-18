@@ -1,0 +1,2 @@
+0: {'dictionary_item_removed': {"root['name']": 'Harry Shearer', "root['residence']": 'New Orleans, Louisiana, U.S.', "root['occupation']": 'Actor, voice actor, comedian, writer, musician, radio host, director, producer', "root['credits']": "''The Simpsons'', ''This Is Spinal Tap''", "root['spouse']": 'ubl'}}
+43: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, voice actor, comedian, writer, musician, radio host, director, producer'}}}

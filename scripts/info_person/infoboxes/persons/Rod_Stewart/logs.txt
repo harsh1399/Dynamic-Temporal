@@ -1,0 +1,63 @@
+313: {'dictionary_item_removed': {"root['name']": 'Linda Ronstadt', "root['occupation']": 'Singer, Songwriter'}}
+314: {'values_changed': {"root['name']": {'new_value': 'Linda Ronstadt', 'old_value': 'Rod Stewart'}}}
+488: {'values_changed': {"root['occupation']": {'new_value': 'Singer, Songwriter', 'old_value': 'Singer-songwriter'}}}
+499: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart', 'old_value': 'Rod Stewart - AKA Terry Munns'}}}
+501: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart - AKA Terry Munns', 'old_value': 'Rod Stewart'}}}
+502: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart', 'old_value': 'Rich wants on Katie'}}}
+503: {'values_changed': {"root['name']": {'new_value': 'Rich wants on Katie', 'old_value': 'Rod Stewart'}}}
+522: {'dictionary_item_removed': {"root['Genres']": 'Rock and Roll ,  Folk-Rock ,  Rock music'}}
+576: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart', 'old_value': 'paul haskins'}}}
+577: {'values_changed': {"root['name']": {'new_value': 'paul haskins', 'old_value': 'Rod Stewart'}}}
+666: {'dictionary_item_added': {"root['name']": 'Rod Stewart', "root['occupation']": 'Singer-songwriter', "root['Genres']": 'Rock and Roll ,  Folk-Rock ,  Rock music'}, 'dictionary_item_removed': {"root['Name']": 'Rod Stewart', "root['Img']": 'Rstewmerc.jpg', "root['Img_capt']": 'In the early 1970s', "root['Background']": 'solo_singer', "root['Birth_name']": 'Roderick David Stewart', "root['Born']": 'birth date and age', "root['Origin']": 'London, England', "root['Genre']": 'Rock and Roll, Folk-Rock, Rock music', "root['Occupation']": 'Singer-songwriter', "root['URL']": 'http://www.rodstewart.com/ RodStewart.com'}}
+671: {'dictionary_item_removed': {"root['Associated_acts']": 'Faces, The Jeff Beck Group'}}
+731: {'values_changed': {"root['Img']": {'new_value': 'Rstewmerc.jpg', 'old_value': 'Rod-stewart 60825.jpg'}, "root['Img_capt']": {'new_value': 'In the early 1970s', 'old_value': 'Album Cover Photo'}, "root['Origin']": {'new_value': 'London, England', 'old_value': 'London, England flagicon'}}}
+733: {'values_changed': {"root['Img']": {'new_value': 'Rod-stewart 60825.jpg', 'old_value': 'RODSTEWARTFLICKR.jpg'}, "root['Img_capt']": {'new_value': 'Album Cover Photo', 'old_value': 'Rod Stewart in concert'}}}
+734: {'values_changed': {"root['Img']": {'new_value': 'RODSTEWARTFLICKR.jpg', 'old_value': 'ROD.jpg'}}}
+759: {'dictionary_item_added': {"root['Img']": 'ROD.jpg', "root['Img_capt']": 'Rod Stewart in concert'}, 'values_changed': {"root['Associated_acts']": {'new_value': 'Faces, The Jeff Beck Group', 'old_value': 'Tne Faces, The Jeff Beck Group'}}}
+760: {'values_changed': {"root['Associated_acts']": {'new_value': 'Tne Faces, The Jeff Beck Group', 'old_value': 'The Faces, The Jeff Beck Group'}}}
+762: {'dictionary_item_added': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Roderick David Stewart', "root['Born']": 'birth date and age'}, 'dictionary_item_removed': {"root['Img_size']": '<!-- Only for images narrower than 220 pixels. Set the value as a is gay!!!!!!!!!!!!!!!!!!!'}}
+763: {'dictionary_item_added': {"root['Img_size']": '<!-- Only for images narrower than 220 pixels. Set the value as a is gay!!!!!!!!!!!!!!!!!!!'}, 'dictionary_item_removed': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Roderick David Stewart', "root['Born']": 'birth date and age'}}
+765: {'values_changed': {"root['Genre']": {'new_value': 'Rock and Roll, Folk-Rock, Rock music', 'old_value': 'Rock & Roll, Classic Rock, Folk-Rock, Rock music'}}}
+771: {'values_changed': {"root['Genre']": {'new_value': 'Rock & Roll, Classic Rock, Folk-Rock, Rock music', 'old_value': 'Rock music'}}}
+776: {'dictionary_item_removed': {"root['Img']": 'rodstewlive.jpg'}}
+795: {'dictionary_item_removed': {"root['Instrument']": 'singing'}}
+817: {'dictionary_item_removed': {"root['Img_capt']": 'puic'}}
+879: {'dictionary_item_added': {"root['Img_capt']": 'puic'}, 'values_changed': {"root['Origin']": {'new_value': 'London, England flagicon', 'old_value': 'flagicon'}}}
+880: {'values_changed': {"root['Origin']": {'new_value': 'flagicon', 'old_value': 'London, England flagicon'}}}
+894: {'dictionary_item_removed': {"root['Img_capt']": 'Rod Stewart in 1976'}, 'values_changed': {"root['Img']": {'new_value': 'rodstewlive.jpg', 'old_value': 'Rod stewart 05111976 12 400.jpg'}, "root['Origin']": {'new_value': 'London, England flagicon', 'old_value': 'London, England'}}}
+936: {'values_changed': {"root['Name']": {'new_value': 'Rod Stewart', 'old_value': 'Rod "Funny Hair" Stewart'}}}
+939: {'values_changed': {"root['Name']": {'new_value': 'Rod "Funny Hair" Stewart', 'old_value': 'Rod Stewart'}}}
+947: {'values_changed': {"root['Origin']": {'new_value': 'London, England', 'old_value': 'Flagicon'}}}
+975: {'values_changed': {"root['Origin']": {'new_value': 'Flagicon', 'old_value': 'London, England'}, "root['Instrument']": {'new_value': 'singing', 'old_value': 'Singing'}}}
+986: {'values_changed': {"root['Name']": {'new_value': 'Rod Stewart', 'old_value': 'JESSIE WONG'}, "root['Img_capt']": {'new_value': 'Rod Stewart in 1976', 'old_value': 'JESSIE WONG in 1976'}, "root['Birth_name']": {'new_value': 'Roderick David Stewart', 'old_value': 'JESSIE WONG'}}}
+987: {'values_changed': {"root['Name']": {'new_value': 'JESSIE WONG', 'old_value': 'Rod Stewart'}, "root['Birth_name']": {'new_value': 'JESSIE WONG', 'old_value': 'Rod Stewart'}}}
+988: {'values_changed': {"root['Img_capt']": {'new_value': 'JESSIE WONG in 1976', 'old_value': 'Rod Stewart in 1976'}}}
+990: {'values_changed': {"root['Origin']": {'new_value': 'London, England', 'old_value': 'London, United Kingdom'}}}
+1014: {'values_changed': {"root['Origin']": {'new_value': 'London, United Kingdom', 'old_value': 'flagicon'}}}
+1015: {'values_changed': {"root['Origin']": {'new_value': 'flagicon', 'old_value': 'London, United Kingdom'}}}
+1031: {'values_changed': {"root['Name']": {'new_value': 'Rod Stewart', 'old_value': "Rod Stewart a.k.a the love machine as he claims in his song 'do you think im sexy?' i personally do not think he is"}}}
+1033: {'values_changed': {"root['Name']": {'new_value': "Rod Stewart a.k.a the love machine as he claims in his song 'do you think im sexy?' i personally do not think he is", 'old_value': 'Rod Stewart'}}}
+1037: {'values_changed': {"root['Origin']": {'new_value': 'London, United Kingdom', 'old_value': 'London, England'}}}
+1047: {'values_changed': {"root['Birth_name']": {'new_value': 'Rod Stewart', 'old_value': 'Roderick David Stewart'}}}
+1055: {'values_changed': {"root['Img_capt']": {'new_value': 'Rod Stewart in 1976', 'old_value': 'Rod Stewart in Oslo 1976'}}}
+1057: {'dictionary_item_added': {"root['Name']": 'Rod Stewart', "root['Img']": 'Rod stewart 05111976 12 400.jpg', "root['Img_capt']": 'Rod Stewart in Oslo 1976', "root['Background']": 'solo_singer', "root['Birth_name']": 'Roderick David Stewart', "root['Born']": 'birth date and age', "root['Origin']": 'London, England', "root['Instrument']": 'Singing', "root['Genre']": 'Rock music', "root['Occupation']": 'Singer-songwriter', "root['Associated_acts']": 'The Faces, The Jeff Beck Group', "root['URL']": 'http://www.rodstewart.com/ RodStewart.com'}, 'dictionary_item_removed': {"root['name']": 'Rod Stewart Post-nominals', "root['background']": 'solo_singer', "root['alias']": '"Rod the Mod"', "root['instrument']": 'Vocals, guitar, harmonica, banjo, mandolin, piano', "root['genre']": 'Rock music', "root['occupation']": 'Singer-songwriter', "root['label']": 'Mercury Records', "root['associated_acts']": 'Shotgun Express, The Steampacket, The Jeff Beck Group, Faces (band)'}}
+1074: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, guitar, harmonica, banjo, mandolin, piano', 'old_value': 'Vocals, guitar, harmonica, banjo, mandolin, piano, keyboards'}}}
+1124: {'dictionary_item_removed': {"root['notable_instruments']": 'Rusty Tromboner '}, 'values_changed': {"root['alias']": {'new_value': '"Rod the Mod"', 'old_value': '"Rod the Mod","The Butt Burgeller","the 3rd Juggalo"'}, "root['occupation']": {'new_value': 'Singer-songwriter', 'old_value': 'Singer-songwriter, Jerk'}, "root['associated_acts']": {'new_value': 'Shotgun Express, The Steampacket, The Jeff Beck Group, Faces (band)', 'old_value': 'Shotgun Express, Insane Clowne Posse, The Jeff Beck Group, Faces (band)'}}}
+1125: {'dictionary_item_added': {"root['notable_instruments']": 'Rusty Tromboner '}, 'values_changed': {"root['alias']": {'new_value': '"Rod the Mod","The Butt Burgeller","the 3rd Juggalo"', 'old_value': '"Rod the Mod"'}, "root['occupation']": {'new_value': 'Singer-songwriter, Jerk', 'old_value': 'Singer-songwriter'}, "root['associated_acts']": {'new_value': 'Shotgun Express, Insane Clowne Posse, The Jeff Beck Group, Faces (band)', 'old_value': 'Shotgun Express, The Steampacket, The Jeff Beck Group, Faces (band)'}}}
+1138: {'values_changed': {"root['associated_acts']": {'new_value': 'Shotgun Express, The Steampacket, The Jeff Beck Group, Faces (band)', 'old_value': 'Shotgun Express, Steampacket, The Jeff Beck Group, Faces (band)'}}}
+1143: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart Post-nominals', 'old_value': 'Rod Stewart  Post-nominals'}}}
+1149: {'values_changed': {"root['associated_acts']": {'new_value': 'Shotgun Express, Steampacket, The Jeff Beck Group, Faces (band)', 'old_value': 'Shotgun Express, Steampacket, The Jeff Beck Group, Cactus (band)'}}}
+1150: {'values_changed': {"root['associated_acts']": {'new_value': 'Shotgun Express, Steampacket, The Jeff Beck Group, Cactus (band)', 'old_value': 'Shotgun Express, Steampacket, The Jeff Beck Group, Faces (band)'}}}
+1153: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock'}}}
+1160: {'values_changed': {"root['genre']": {'new_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock', 'old_value': 'Rock music'}}}
+1161: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock'}}}
+1162: {'values_changed': {"root['genre']": {'new_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock', 'old_value': 'Rock music'}}}
+1163: {'values_changed': {"root['genre']": {'new_value': 'Rock music', 'old_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock'}}}
+1164: {'values_changed': {"root['genre']": {'new_value': 'Rock, pop, blues rock, blue-eyed soul, folk rock, hard rock, soft rock', 'old_value': 'Rock music'}}}
+1190: {'values_changed': {"root['alias']": {'new_value': '"Rod the Mod"', 'old_value': '"Rod the blow job giver"'}}}
+1191: {'values_changed': {"root['alias']": {'new_value': '"Rod the blow job giver"', 'old_value': '"Rod the Mod"'}}}
+1203: {'values_changed': {"root['alias']": {'new_value': '"Rod the Mod"', 'old_value': '"Shirley Carter"'}}}
+1204: {'values_changed': {"root['alias']": {'new_value': '"Shirley Carter"', 'old_value': '"Rod the Mod"'}}}
+1229: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Rock music'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer-songwriter'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Mercury Records'}}, 'dictionary_item_added': {"root['alias']": '"Rod the Mod"', "root['instrument']": 'Vocals, guitar, harmonica, banjo, mandolin, piano, keyboards', "root['associated_acts']": 'Shotgun Express, Steampacket, The Jeff Beck Group, Faces (band)'}, 'dictionary_item_removed': {"root['spouse']": 'ubl', "root['partner']": 'Plainlist', "root['children']": '8; including Kimberly Stewart', "root['embed']": 'yes', "root['current_member_of']": 'Faces (band)', "root['past_member_of']": []}, 'values_changed': {"root['name']": {'new_value': 'Rod Stewart  Post-nominals', 'old_value': 'Rod Stewart'}}}
+1256: {'values_changed': {"root['name']": {'new_value': 'Rod Stewart', 'old_value': 'Sexual Predator'}}}
+1257: {'values_changed': {"root['name']": {'new_value': 'Sexual Predator', 'old_value': 'Rod Stewart'}}}

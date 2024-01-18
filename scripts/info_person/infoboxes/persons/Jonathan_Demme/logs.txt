@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jonathan Demme', "root['birthname']": 'Robert Jonathan Demme', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Baldwin, Nassau County, New York, U.S.', "root['spouse']": 'Joanne Howard ,  Evelyn Purcell', "root['occupation']": 'director, producer, actor, screenwriter', "root['yearsactive']": '1971 - present'}}
+64: {'dictionary_item_added': {"root['birthname']": 'Robert Jonathan Demme', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Baldwin, Nassau County, New York, U.S.', "root['yearsactive']": '1971 - present'}, 'dictionary_item_removed': {"root['children']": '3'}, 'values_changed': {"root['spouse']": {'new_value': 'Joanne Howard ,  Evelyn Purcell', 'old_value': 'Joanne Howard, Evelyn Purcell'}, "root['occupation']": {'new_value': 'director, producer, actor, screenwriter', 'old_value': 'Director, producer, actor, screenwriter'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'Jonathan Demme', 'old_value': 'Jonathan Gay'}}}
+67: {'values_changed': {"root['name']": {'new_value': 'Jonathan Gay', 'old_value': 'Jonathan Demme'}}}
+105: {'dictionary_item_removed': {"root['alma_mater']": 'University of Florida'}}
+199: {'values_changed': {"root['occupation']": {'new_value': 'Director, producer, actor, screenwriter', 'old_value': 'Film director, film producer, screenwriter'}}}
+200: {'values_changed': {"root['occupation']": {'new_value': 'Film director, film producer, screenwriter', 'old_value': 'Film director, film producer, screenwriter, actor'}}}
+203: {'values_changed': {"root['occupation']": {'new_value': 'Film director, film producer, screenwriter, actor', 'old_value': 'Film director, film producer, screenwriter'}}}
+206: {'dictionary_item_added': {"root['alma_mater']": 'University of Florida'}, 'values_changed': {"root['occupation']": {'new_value': 'Film director, film producer, screenwriter', 'old_value': 'Director, producer, screenwriter'}}}
+212: {'values_changed': {"root['occupation']": {'new_value': 'Director, producer, screenwriter', 'old_value': 'Film director, film producer, screenwriter'}}}
+213: {'values_changed': {"root['spouse']": {'new_value': 'Joanne Howard, Evelyn Purcell', 'old_value': 'Joanne Howard Evelyn Purcell'}}}
+219: {'dictionary_item_removed': {"root['education']": 'Southwest Miami High School', "root['alma_mater']": 'University of Florida'}}
+224: {'values_changed': {"root['name']": {'new_value': 'Jonathan Demme', 'old_value': 'Big bucks go to swagbucks.com for free money'}}}
+225: {'values_changed': {"root['name']": {'new_value': 'Big bucks go to swagbucks.com for free money', 'old_value': 'Jonathan Demme'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Jonathan Demme', 'old_value': 'Jonathan Demnne'}, "root['children']": {'new_value': '3', 'old_value': '2'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Jonathan Demnne', 'old_value': 'Jonathan Demme'}, "root['children']": {'new_value': '2', 'old_value': '3'}}}
+234: {'values_changed': {"root['name']": {'new_value': 'Jonathan Demme', 'old_value': 'Jonathan Dead'}}}
+235: {'values_changed': {"root['name']": {'new_value': 'Jonathan Dead', 'old_value': 'Jonathan Demme'}}}

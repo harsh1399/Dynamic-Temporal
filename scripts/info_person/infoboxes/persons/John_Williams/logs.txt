@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['Names']": 'John Williams', "root['Background']": 'non_performing_personnel', "root['Img']": 'Johnwilliams2006.JPG', "root['Img_capt']": 'Williams at the Boston Symphony Hall after he conducted the Boston Pops, May 2006', "root['Birth_name']": 'John Towner Williams', "root['Born']": 'birth date and age', "root['Origin']": 'Flushing, Queens, New York, United States', "root['Occupation']": 'Composer, pianist, Conducting', "root['Years_active']": '1952–present', "root['Spouse']": 'Barbara Ruick (1956 - 74)(her death) Samantha Winslow (1980 - present)', "root['URL']": 'http://www.jwfan.com/ jwfan.com '}}
+55: {'values_changed': {"root['Spouse']": {'new_value': 'Barbara Ruick (1956 - 74)(her death) Samantha Winslow (1980 - present)', 'old_value': 'Barbara Ruick (1956–74)(her death) Samantha Winslow (1980–present)'}}}
+79: {'values_changed': {"root['URL']": {'new_value': 'http://www.jwfan.com/ jwfan.com ', 'old_value': 'http://www.johnwilliamscomposer.com/ Official website '}}}
+90: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'J Williams'}}}
+91: {'values_changed': {"root['Names']": {'new_value': 'J Williams', 'old_value': 'John Williams'}}}
+100: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'John Williams :P'}}}
+101: {'values_changed': {"root['Names']": {'new_value': 'John Williams :P', 'old_value': 'John Williams'}}}
+181: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': "John Williams the totally awesome and uber awesome star wars and indiana jones producers and originator that kicks your fuckin' ass bitch wahoo!"}}}
+182: {'values_changed': {"root['Names']": {'new_value': "John Williams the totally awesome and uber awesome star wars and indiana jones producers and originator that kicks your fuckin' ass bitch wahoo!", 'old_value': 'John Williams'}}}
+192: {'values_changed': {"root['Occupation']": {'new_value': 'Composer, pianist, Conducting', 'old_value': 'Composer, piano'}, "root['Spouse']": {'new_value': 'Barbara Ruick (1956–74)(her death) Samantha Winslow (1980–present)', 'old_value': 'Barbara Ruick (1956–74) (deceased), Samantha Winslow (1980–present)'}}}
+203: {'values_changed': {"root['URL']": {'new_value': 'http://www.johnwilliamscomposer.com/ Official website ', 'old_value': 'http://www.johnwilliams.org/ Official website '}}}
+205: {'dictionary_item_added': {"root['URL']": 'http://www.johnwilliams.org/ Official website '}, 'values_changed': {"root['Spouse']": {'new_value': 'Barbara Ruick (1956–74) (deceased), Samantha Winslow (1980–present)', 'old_value': 'Barbara Ruick (1956–74) (deceased), Samantha Winslow (1980–present) '}}}
+214: {'values_changed': {"root['Img_capt']": {'new_value': 'Williams at the Boston Symphony Hall after he conducted the Boston Pops, May 2006', 'old_value': 'Williams at the Boston Symphony Hall after conducting the Boston Pops, May 2006'}}}
+219: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'John the Baptist'}}}
+220: {'values_changed': {"root['Names']": {'new_value': 'John the Baptist', 'old_value': 'John Williams'}}}
+241: {'values_changed': {"root['Birth_name']": {'new_value': 'John Towner Williams', 'old_value': 'John Towner Williams, Jr.'}}}
+242: {'values_changed': {"root['Birth_name']": {'new_value': 'John Towner Williams, Jr.', 'old_value': 'John Towner Williams'}}}
+263: {'values_changed': {"root['Img']": {'new_value': 'Johnwilliams2006.JPG', 'old_value': 'John Williams tux.jpg'}}}
+264: {'values_changed': {"root['Img_capt']": {'new_value': 'Williams at the Boston Symphony Hall after conducting the Boston Pops, May 2006', 'old_value': 'Williams at the Avery Fisher Hall'}}}
+316: {'values_changed': {"root['Img_capt']": {'new_value': 'Williams at the Avery Fisher Hall', 'old_value': 'Williams at the Avery Fisher Hall in 2007'}}}
+341: {'dictionary_item_added': {"root['Background']": 'non_performing_personnel', "root['Img']": 'John Williams tux.jpg', "root['Img_capt']": 'Williams at the Avery Fisher Hall in 2007', "root['Birth_name']": 'John Towner Williams', "root['Origin']": 'Flushing, Queens, New York, United States', "root['Occupation']": 'Composer, piano', "root['Years_active']": '1952–present'}, 'dictionary_item_removed': {"root['background']": 'non_performing_personnel', "root['origin']": 'Flushing, Queens, New York, United States', "root['occupation']": 'Composer, piano'}}
+408: {'values_changed': {"root['origin']": {'new_value': 'Flushing, Queens, New York, United States', 'old_value': 'Flushing, Queens, New York, U.S.'}, "root['occupation']": {'new_value': 'Composer, piano', 'old_value': 'Composer, pianist, conductor'}}}
+459: {'dictionary_item_added': {"root['Born']": 'birth date and age'}, 'dictionary_item_removed': {"root['Genre']": 'Classical, Jazz'}}
+471: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'John simon cumming Williams'}}}
+472: {'values_changed': {"root['Names']": {'new_value': 'John simon cumming Williams', 'old_value': 'John Williams'}}}
+481: {'values_changed': {"root['Genre']": {'new_value': 'Classical, Jazz', 'old_value': 'Classical music'}}}
+482: {'values_changed': {"root['occupation']": {'new_value': 'Composer, pianist, conductor', 'old_value': 'Gay porn star'}}}
+483: {'values_changed': {"root['occupation']": {'new_value': 'Gay porn star', 'old_value': 'Composer, pianist, conductor'}}}
+484: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'John Willies'}}}
+485: {'values_changed': {"root['Names']": {'new_value': 'John Willies', 'old_value': 'John Williams'}}}
+488: {'values_changed': {"root['Names']": {'new_value': 'John Williams', 'old_value': 'John William'}}}
+489: {'values_changed': {"root['Names']": {'new_value': 'John William', 'old_value': 'John Williams'}}}
+527: {'values_changed': {"root['Genre']": {'new_value': 'Classical music', 'old_value': 'Romance (music)'}}}

@@ -1,0 +1,22 @@
+268: {'dictionary_item_removed': {"root['name']": 'Jerry Falwell', "root['occupation']": 'Protestant Christianity'}}
+289: {'dictionary_item_removed': {"root['deathplace']": 'Lynchburg, Virginia'}}
+709: {'dictionary_item_added': {"root['deathplace']": 'Lynchburg, Virginia'}, 'values_changed': {"root['name']": {'new_value': 'Jerry Falwell', 'old_value': 'Thank God Jerry Falwell Is Dead'}}}
+712: {'values_changed': {"root['name']": {'new_value': 'Thank God Jerry Falwell Is Dead', 'old_value': 'Jerry Falwell'}}}
+998: {'values_changed': {"root['name']": {'new_value': 'Jerry Falwell', 'old_value': 'Jerry Fartwell'}}}
+999: {'values_changed': {"root['name']": {'new_value': 'Jerry Fartwell', 'old_value': 'Jerry Falwell'}}}
+1090: {'values_changed': {"root['name']": {'new_value': 'Jerry Falwell', 'old_value': 'Jerry Fagwell'}}}
+1094: {'values_changed': {"root['name']": {'new_value': 'Jerry Fagwell', 'old_value': 'Jerry Falwell'}}}
+1230: {'values_changed': {"root['name']": {'new_value': 'Jerry Falwell', 'old_value': 'Jerry Lamon Falwell Sr.'}}}
+1231: {'values_changed': {"root['name']": {'new_value': 'Jerry Lamon Falwell Sr.', 'old_value': 'Jerry Falwell'}}}
+1232: {'values_changed': {"root['name']": {'new_value': 'Jerry Falwell', 'old_value': 'Jerry Lamon Falwell Sr.'}}}
+1289: {'values_changed': {"root['name']": {'new_value': 'Jerry Lamon Falwell Sr.', 'old_value': 'Jerry Falwell'}, "root['occupation']": {'new_value': 'Protestant Christianity', 'old_value': 'Pastor, televangelist, Chancellor-Liberty University'}}}
+1351: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist, Chancellor-Liberty University', 'old_value': 'Pastor, televangelist,professional liar Chancellor-Liberty University'}}}
+1352: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist,professional liar Chancellor-Liberty University', 'old_value': 'Pastor, televangelist, Chancellor-Liberty University'}}}
+1355: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist, Chancellor-Liberty University', 'old_value': 'Pastor, televangelist, creep,  Chancellor-Liberty University'}}}
+1356: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist, creep,  Chancellor-Liberty University', 'old_value': 'Pastor, televangelist, Chancellor-Liberty University'}}}
+1408: {'dictionary_item_removed': {"root['salary']": 'Burning in Hell', "root['networth']": 'Dead'}}
+1410: {'dictionary_item_added': {"root['salary']": 'Burning in Hell', "root['networth']": 'Dead'}, 'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist, Chancellor-Liberty University', 'old_value': 'Pastor, televangelist, commentator'}}}
+1540: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['religion']": 'Southern Baptist', "root['party']": 'Republican Party (United States)', "root['children']": 'Jerry Falwell Jr., Jonathan Falwell, Jeannie Falwell'}, 'values_changed': {"root['occupation']": {'new_value': 'Pastor, televangelist, commentator', 'old_value': 'Pastor, educator, evangelist, activist'}}}
+1548: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, educator, evangelist, activist', 'old_value': 'Pastor, confidence man, educator, evangelist, activist'}}}
+1549: {'values_changed': {"root['occupation']": {'new_value': 'Pastor, confidence man, educator, evangelist, activist', 'old_value': 'Pastor, educator, evangelist, activist'}}}
+1579: {'dictionary_item_removed': {"root['office']": '1st President of Liberty University', "root['term_start']": 'September 1, 1971', "root['term_end']": 'May 15, 2007'}}

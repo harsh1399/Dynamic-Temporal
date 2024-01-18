@@ -1,0 +1,17 @@
+69: {'dictionary_item_removed': {"root['name']": 'Patrick Macnee', "root['birthname']": "'''Daniel Patrick Macnee'''", "root['birthdate']": 'birth date and age', "root['location']": 'England London,  England birthdate'}}
+71: {'values_changed': {"root['location']": {'new_value': 'England London,  England birthdate', 'old_value': 'England London,  England  '}}}
+72: {'values_changed': {"root['location']": {'new_value': 'England London,  England  ', 'old_value': 'England London, England '}}}
+96: {'values_changed': {"root['birthname']": {'new_value': "'''Daniel Patrick Macnee'''", 'old_value': 'Daniel Patrick Macnee'}}}
+106: {'values_changed': {"root['location']": {'new_value': 'England London, England ', 'old_value': 'London, England '}}}
+107: {'values_changed': {"root['location']": {'new_value': 'London, England ', 'old_value': 'Paddington, London, England '}}}
+109: {'dictionary_item_added': {"root['name']": 'Patrick Macnee', "root['birthname']": 'Daniel Patrick Macnee', "root['birthdate']": 'birth date and age', "root['location']": 'Paddington, London, England '}, 'dictionary_item_removed': {"root['alma_mater']": 'Eton College', "root['known_for']": 'John Steed', "root['occupation']": 'Film, television actor', "root['spouse']": 'Barbara Douglas, (1942−1956; divorced),, Katherine Woodville (actress)', "root['children']": 'With Douglas:, Rupert Macnee,, Jenny Macnee'}}
+168: {'values_changed': {"root['spouse']": {'new_value': 'Barbara Douglas, (1942−1956; divorced),, Katherine Woodville (actress)', 'old_value': 'ubl'}, "root['children']": {'new_value': 'With Douglas:, Rupert Macnee,, Jenny Macnee', 'old_value': 'Two, with Douglas'}}}
+173: {'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'Unbulleted list'}}}
+227: {'dictionary_item_added': {"root['alma_mater']": 'Eton College', "root['known_for']": 'John Steed'}, 'values_changed': {"root['occupation']": {'new_value': 'Film, television actor', 'old_value': 'Actor'}, "root['children']": {'new_value': 'Two, with Douglas', 'old_value': '2'}}}
+261: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2  Brother:   James Macnee known as "jimmy" lived in Greenwich SE London until 2005 when he moved into Sally Army rest home in Clapham London. Died in a couple of months before his brother Patrick. DOB 27.12.1927.'}}}
+263: {'values_changed': {"root['children']": {'new_value': '2  Brother:   James Macnee known as "jimmy" lived in Greenwich SE London until 2005 when he moved into Sally Army rest home in Clapham London. Died in a couple of months before his brother Patrick. DOB 27.12.1927.', 'old_value': '2'}}}
+349: {'dictionary_item_removed': {"root['name']": 'Patrick Macnee', "root['nationally']": 'British and American'}}
+358: {'dictionary_item_added': {"root['name']": 'Patrick Macnee', "root['nationally']": 'British and American'}, 'values_changed': {"root['children']": {'new_value': '2', 'old_value': '2 Grandchildren'}}}
+359: {'dictionary_item_removed': {"root['Grandchildren']": '1'}, 'values_changed': {"root['children']": {'new_value': '2 Grandchildren', 'old_value': '2'}}}
+379: {'values_changed': {"root['Grandchildren']": {'new_value': '1', 'old_value': '1 '}}}
+380: {'values_changed': {"root['Grandchildren']": {'new_value': '1 ', 'old_value': '1'}}}

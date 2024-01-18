@@ -1,0 +1,53 @@
+580: {'dictionary_item_removed': {"root['subject_name']": 'Nicole Kidman', "root['image_name']": 'Nicole kidman3.jpg', "root['image_caption']": 'Kidman at the 2001 Cannes Film Festival', "root['date_of_birth']": '20 June, 1967', "root['place_of_birth']": 'Honolulu, Hawaii, USA'}}
+672: {'dictionary_item_added': {"root['subject_name']": 'Nicole Kidman', "root['image_name']": 'Nicole kidman3.jpg', "root['image_caption']": 'Kidman at the 2001 Cannes Film Festival', "root['date_of_birth']": '20 June, 1967', "root['place_of_birth']": 'Honolulu, Hawaii, USA'}, 'dictionary_item_removed': {"root['name']": 'Nicole Kidman', "root['birthdate']": '20 June, 1967', "root['location']": 'Honolulu, Hawaii, USA', "root['birthname']": 'Nicole Mary Kidman', "root['academyawards']": "'''Won:''' Academy Award for Best Actor (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actor (2002) Moulin Rouge   "}}
+675: {'values_changed': {"root['academyawards']": {'new_value': "'''Won:''' Academy Award for Best Actor (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actor (2002) Moulin Rouge   ", 'old_value': "'''Won:''' Academy Award for Best Actor (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actor (2002) for ''Moulin Rouge''  "}}}
+703: {'values_changed': {"root['academyawards']": {'new_value': "'''Won:''' Academy Award for Best Actor (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actor (2002) for ''Moulin Rouge''  ", 'old_value': "'''Won:''' Academy Award for Best Actress (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actress (2002) for ''Moulin Rouge''  "}}}
+717: {'dictionary_item_removed': {"root['spouse']": 'Tom Cruise (1990-2001)   Keith Urban (2006 - present) '}, 'values_changed': {"root['academyawards']": {'new_value': "'''Won:''' Academy Award for Best Actress (2003)  for ''The Hours'' ,  '''Nominated:''' Academy Award for Best Actress (2002) for ''Moulin Rouge''  ", 'old_value': "Academy Award for Best Actress (2003)  for ''The Hours (film)"}}}
+750: {'values_changed': {"root['name']": {'new_value': 'Nicole Kidman', 'old_value': 'Jenny and Kerstin teh B!tcheZ'}}}
+751: {'values_changed': {"root['name']": {'new_value': 'Jenny and Kerstin teh B!tcheZ', 'old_value': 'Nicole Kidman'}}}
+753: {'values_changed': {"root['academyawards']": {'new_value': "Academy Award for Best Actress (2003)  for ''The Hours (film)", 'old_value': "'''Won:''' Academy Award for Best Actress (2003) for ''The Hours (film)"}}}
+759: {'values_changed': {"root['academyawards']": {'new_value': "'''Won:''' Academy Award for Best Actress (2003) for ''The Hours (film)", 'old_value': "Academy Award for Best Actress (2003) for ''The Hours (film)"}}}
+760: {'values_changed': {"root['academyawards']": {'new_value': "Academy Award for Best Actress (2003) for ''The Hours (film)", 'old_value': "'''Won:''' Academy Award for Best Actress (2003) for ''The Hours (film)"}}}
+768: {'values_changed': {"root['academyawards']": {'new_value': "'''Won:''' Academy Award for Best Actress (2003) for ''The Hours (film)", 'old_value': "Academy Award for Best Actress (2003) for ''The Hours (film)"}}}
+784: {'values_changed': {"root['birthdate']": {'new_value': '20 June, 1967', 'old_value': 'June 20, 1967'}}}
+798: {'values_changed': {"root['name']": {'new_value': 'Nicole Kidman', 'old_value': 'I.P Freely'}}}
+799: {'values_changed': {"root['name']": {'new_value': 'I.P Freely', 'old_value': 'Nicole Kidman'}}}
+840: {'values_changed': {"root['birthdate']": {'new_value': 'June 20, 1967', 'old_value': 'birth date and age'}}}
+860: {'values_changed': {"root['location']": {'new_value': 'Honolulu, Hawaii, USA', 'old_value': 'flagicon'}}}
+898: {'values_changed': {"root['spouse']": {'new_value': 'Tom Cruise (1990-2001)   Keith Urban (2006 - present) ', 'old_value': 'Tom Cruise (1990-2001) Keith Urban (2006 - present) '}}}
+990: {'values_changed': {"root['location']": {'new_value': 'flagicon', 'old_value': 'Honolulu, Hawaii, USA'}}}
+998: {'dictionary_item_added': {"root['name']": 'Nicole Kidman', "root['birthdate']": 'birth date and age', "root['location']": 'Honolulu, Hawaii, USA', "root['birthname']": 'Nicole Mary Kidman', "root['academyawards']": "Academy Award for Best Actress (2003) for ''The Hours (film)"}, 'dictionary_item_removed': {"root['occupation']": 'Actress, producer, singer', "root['children']": '4', "root['net_worth']": 'AUD $183 million (March 2015) |'}, 'values_changed': {"root['spouse']": {'new_value': 'Tom Cruise (1990-2001) Keith Urban (2006 - present) ', 'old_value': 'marriage'}}}
+1027: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Actress, producer, singer,racist'}, "root['net_worth']": {'new_value': 'AUD $183 million (March 2015) |', 'old_value': 'AUD $183 million (March 2015)'}}}
+1028: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer,racist', 'old_value': 'Actress, producer, singer'}, "root['net_worth']": {'new_value': 'AUD $183 million (March 2015)', 'old_value': 'AUD $183 million (March 2015) |'}}}
+1029: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': 'Isabella Jane Kidman Cruise Connor Anthony Kidman Cruise Sunday Rose Kidman Urban Faith Margaret Kidman Urban'}}}
+1030: {'values_changed': {"root['children']": {'new_value': 'Isabella Jane Kidman Cruise Connor Anthony Kidman Cruise Sunday Rose Kidman Urban Faith Margaret Kidman Urban', 'old_value': '4'}}}
+1068: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Maid, Actress, producer, singer'}}}
+1069: {'values_changed': {"root['occupation']": {'new_value': 'Maid, Actress, producer, singer', 'old_value': 'Actress, producer, singer'}}}
+1149: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Actress, producer, singer, Legend'}}}
+1150: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer, Legend', 'old_value': 'Actress, producer, singer'}}}
+1151: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Actress, producer, singer, Legend'}}}
+1152: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer, Legend', 'old_value': 'Actress, producer, singer'}}}
+1153: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Actress, producer, singer, Legend'}}}
+1154: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer, Legend', 'old_value': 'Actress, producer, singer'}}}
+1204: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'none'}, "root['children']": {'new_value': '4', 'old_value': 'none'}}}
+1206: {'values_changed': {"root['spouse']": {'new_value': 'none', 'old_value': 'marriage'}, "root['children']": {'new_value': 'none', 'old_value': '4'}}}
+1249: {'values_changed': {"root['net_worth']": {'new_value': 'AUD $183 million (March 2015) |', 'old_value': 'AUD $183,000,000 (March 2015) |'}}}
+1250: {'values_changed': {"root['net_worth']": {'new_value': 'AUD $183,000,000 (March 2015) |', 'old_value': 'AUD $183 million (March 2015) |'}}}
+1257: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer', 'old_value': 'Actress, producer, singer, model'}}}
+1258: {'values_changed': {"root['occupation']": {'new_value': 'Actress, producer, singer, model', 'old_value': 'Actress, producer, singer'}}}
+1266: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '50'}}}
+1267: {'values_changed': {"root['children']": {'new_value': '50', 'old_value': '4'}}}
+1288: {'dictionary_item_removed': {"root['religion']": 'Roman Catholicism'}}
+1306: {'dictionary_item_added': {"root['religion']": 'Roman Catholicism'}, 'values_changed': {"root['net_worth']": {'new_value': 'AUD $183 million (March 2015) |', 'old_value': 'AUD $260  million (March 2015) |'}}}
+1307: {'values_changed': {"root['net_worth']": {'new_value': 'AUD $260  million (March 2015) |', 'old_value': 'AUD $260 million (March 2015) |'}}}
+1308: {'values_changed': {"root['net_worth']": {'new_value': 'AUD $260 million (March 2015) |', 'old_value': 'AUD $183 million (March 2015) |'}}}
+1351: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '5'}}}
+1352: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '4'}}}
+1359: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4 (2 adopted, 1 biological, 1 surrogate)'}}}
+1380: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress, producer, singer'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_added': {"root['net_worth']": 'AUD $183 million (March 2015) |'}, 'dictionary_item_removed': {"root['name']": 'Nicole Kidman', "root['works']": 'Nicole Kidman on screen and stage', "root['awards']": 'Full list '}, 'values_changed': {"root['children']": {'new_value': '4 (2 adopted, 1 biological, 1 surrogate)', 'old_value': '4'}}}
+1531: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '41'}}}
+1534: {'values_changed': {"root['children']": {'new_value': '41', 'old_value': '4'}}}
+1536: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4efn'}}}
+1537: {'values_changed': {"root['children']": {'new_value': '4efn', 'old_value': '4'}}}
+1551: {'type_changes': {"root['works']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Nicole Kidman on screen and stage'}}}
+1633: {'values_changed': {"root['awards']": {'new_value': 'Full list ', 'old_value': 'List of awards and nominations received by Nicole Kidman'}}}

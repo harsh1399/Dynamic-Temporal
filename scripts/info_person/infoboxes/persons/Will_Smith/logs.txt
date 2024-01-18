@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'Will Smith', "root['spouse']": [], "root['residence']": 'Los Angeles, California, U.S.', "root['home_town']": 'West Philadelphia, Pennsylvania', "root['occupation']": [], "root['net_worth']": 'US $250 million (2014)', "root['children']": '3 (including Jaden Smith', "root['awards']": 'List of', "root['background']": 'solo_singer', "root['genre']": 'Hip hop music', "root['label']": [], "root['associated_acts']": []}}
+5: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'US $300 million (2018)'}}}
+6: {'values_changed': {"root['net_worth']": {'new_value': 'US $300 million (2018)', 'old_value': 'United States dollar'}}}
+7: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US $250 million (2014)'}}}
+8: {'values_changed': {"root['residence']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Calabasas, California, U.S.'}}}
+10: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'United States dollar'}}}
+11: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US $250 million (2014)'}}}
+13: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'United States dollar'}}}
+14: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US $250 million (2014)'}}}
+15: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'United States dollar'}}}
+16: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US $250 million (2014)'}}}
+17: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'United States dollar'}}}
+20: {'values_changed': {"root['net_worth']": {'new_value': 'United States dollar', 'old_value': 'US $250 million (2014)'}}}
+42: {'values_changed': {"root['net_worth']": {'new_value': 'US $250 million (2014)', 'old_value': 'US$250 million (2014)'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'Will Smith', 'old_value': 'Will Smith is NSB anonymous'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Will Smith is NSB anonymous', 'old_value': 'Will Smith'}}}
+52: {'values_changed': {"root['net_worth']": {'new_value': 'US$250 million (2014)', 'old_value': 'US$300 million (2019)'}}}
+53: {'values_changed': {"root['net_worth']": {'new_value': 'US$300 million (2019)', 'old_value': 'US$250 million (2014)'}}}
+87: {'dictionary_item_removed': {"root['works']": 'Will Smith filmography'}}
+93: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+107: {'values_changed': {"root['children']": {'new_value': '3 (including Jaden Smith', 'old_value': 'Trey Smith, Jaden Smith'}}}
+108: {'values_changed': {"root['children']": {'new_value': 'Trey Smith, Jaden Smith', 'old_value': 'Willard "Trey" Smith III, Jaden Smith'}}}
+111: {'type_changes': {"root['works']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Will Smith discography'], 'new_value': 'Will Smith filmography'}}, 'dictionary_item_removed': {"root['organization']": 'Overbrook Entertainment'}}
+113: {'values_changed': {"root['children']": {'new_value': 'Willard "Trey" Smith III, Jaden Smith', 'old_value': 'Willard "Trey" Smith III Jaden Smith Willow Smith'}}}
+128: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['children']": {'new_value': 'Willard "Trey" Smith III Jaden Smith Willow Smith', 'old_value': '3, including  Jaden Smith and  Willow Smith'}}}
+132: {'type_changes': {"root['works']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Will Smith discography', 'new_value': ['Will Smith discography']}}}
+150: {'values_changed': {"root['home_town']": {'new_value': 'West Philadelphia, Pennsylvania', 'old_value': 'West Philadelphia, Pennsylvania, U.S.'}}}
+160: {'dictionary_item_added': {"root['residence']": 'Calabasas, California, U.S.', "root['home_town']": 'West Philadelphia, Pennsylvania, U.S.'}, 'dictionary_item_removed': {"root['origin']": 'West Philadelphia, Pennsylvania, U.S.'}, 'values_changed': {"root['net_worth']": {'new_value': 'US$250 million (2014)', 'old_value': 'US$350 million (2020)'}, "root['children']": {'new_value': '3, including  Jaden Smith and  Willow Smith', 'old_value': '3, including Jaden Smith'}, "root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Will Smith'}}}
+198: {'type_changes': {"root['organization']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Overbrook Entertainment'}}}
+236: {'dictionary_item_added': {"root['net_worth']": 'US$350 million (2020)'}, 'values_changed': {"root['children']": {'new_value': '3, including Jaden Smith', 'old_value': 'Trey, Jaden Smith'}}}
+251: {'values_changed': {"root['children']": {'new_value': 'Trey, Jaden Smith', 'old_value': '3, including Jaden Smith'}}}
+275: {'values_changed': {"root['genre']": {'new_value': 'Hip hop music', 'old_value': 'Pop-rap'}}}

@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Maureen Lipman', "root['birthdate']": 'Birth date and age', "root['location']": 'flagicon'}}
+9: {'dictionary_item_removed': {"root['birthname']": 'Maureen Diane Lipman', "root['spouse']": 'Jack Rosenthal (deceased) '}}
+10: {'dictionary_item_added': {"root['name']": 'Maureen Lipman', "root['location']": 'flagicon'}, 'dictionary_item_removed': {"root['birthplace']": 'flagicon'}}
+26: {'values_changed': {"root['birthplace']": {'new_value': 'flagicon', 'old_value': 'Kingston upon Hull'}}}
+28: {'dictionary_item_removed': {"root['olivierawards']": "'''Best Comedy Performance''', 1985 ''See How They Run'' "}, 'values_changed': {"root['spouse']": {'new_value': 'Jack Rosenthal (deceased) ', 'old_value': 'Jack Rosenthal (deceased)'}}}
+34: {'dictionary_item_added': {"root['birthname']": 'Maureen Diane Lipman', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Kingston upon Hull', "root['olivierawards']": "'''Best Comedy Performance''', 1985 ''See How They Run'' "}, 'dictionary_item_removed': {"root['name']": 'Maureen Lipman,  post-nominals', "root['occupation']": 'Actress', "root['children']": '2; including Amy Rosenthal | years active'}, 'values_changed': {"root['spouse']": {'new_value': 'Jack Rosenthal (deceased)', 'old_value': 'Marriage'}}}
+99: {'values_changed': {"root['name']": {'new_value': 'Maureen Lipman,  post-nominals', 'old_value': 'Maureen Lipman'}}}
+105: {'dictionary_item_removed': {"root['domestic_partner']": 'Guido Castro 2008–2021'}}
+106: {'values_changed': {"root['children']": {'new_value': '2; including Amy Rosenthal | years active', 'old_value': 'Two, including Amy Rosenthal | years active'}}}
+111: {'values_changed': {"root['domestic_partner']": {'new_value': 'Guido Castro 2008–2021', 'old_value': 'Guido Castro 2008– died 2021'}}}
+128: {'dictionary_item_removed': {"root['alma_mater']": 'London Academy of Music and Dramatic Art'}}
+130: {'values_changed': {"root['occupation']": {'new_value': 'Actress', 'old_value': 'Actress, writer, comedian, political activist'}}}
+143: {'values_changed': {"root['children']": {'new_value': 'Two, including Amy Rosenthal | years active', 'old_value': '2, including Amy Rosenthal | years active'}}}
+165: {'values_changed': {"root['children']": {'new_value': '2, including Amy Rosenthal | years active', 'old_value': 'One daughter (Amy Rosenthal) and one son  | years active'}}}
+167: {'values_changed': {"root['domestic_partner']": {'new_value': 'Guido Castro 2008– died 2021', 'old_value': 'Guido Castro (2008–2021)'}, "root['children']": {'new_value': 'One daughter (Amy Rosenthal) and one son  | years active', 'old_value': '2, including Amy Rosenthal  | years active'}}}

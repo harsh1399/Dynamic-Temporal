@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['name']": 'Linus Torvalds', "root['residence']": 'Portland, Oregon', "root['known_for']": 'Linux', "root['employer']": 'Linux Foundation', "root['occupation']": 'Software engineer', "root['spouse']": 'Tove Torvalds', "root['children']": 'Patricia Miranda Torvalds ,  Daniela Yolanda Torvalds ,  Celeste Amanda Torvalds'}}
+167: {'values_changed': {"root['known_for']": {'new_value': 'Linux', 'old_value': 'Linux, Git (software)'}}}
+221: {'dictionary_item_added': {"root['spouse']": 'Tove Torvalds', "root['children']": 'Patricia Miranda Torvalds ,  Daniela Yolanda Torvalds ,  Celeste Amanda Torvalds'}, 'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'miron polexwolf'}}}
+223: {'values_changed': {"root['name']": {'new_value': 'miron polexwolf', 'old_value': 'Linus Torvalds'}}}
+224: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'miron polexwolf'}}}
+227: {'values_changed': {"root['name']": {'new_value': 'miron polexwolf', 'old_value': 'Linus Torvalds'}}}
+252: {'dictionary_item_removed': {"root['spouse']": 'Tove Torvalds'}}
+256: {'dictionary_item_removed': {"root['children']": 'Your children.'}, 'values_changed': {"root['spouse']": {'new_value': 'Tove Torvalds', 'old_value': 'Your mother.'}}}
+257: {'dictionary_item_added': {"root['children']": 'Your children.'}, 'values_changed': {"root['spouse']": {'new_value': 'Your mother.', 'old_value': 'Tove Torvalds'}}}
+278: {'values_changed': {"root['known_for']": {'new_value': 'Linux, Git (software)', 'old_value': 'Linux kernel, Git (software)'}}}
+307: {'values_changed': {"root['occupation']": {'new_value': 'Software engineer', 'old_value': 'Prick'}}}
+308: {'values_changed': {"root['occupation']": {'new_value': 'Prick', 'old_value': 'Software engineer'}}}
+309: {'values_changed': {"root['occupation']": {'new_value': 'Software engineer', 'old_value': 'Prick'}}}
+310: {'values_changed': {"root['occupation']": {'new_value': 'Prick', 'old_value': 'Software engineer'}}}
+365: {'values_changed': {"root['occupation']": {'new_value': 'Software engineer', 'old_value': 'Software engineering god'}}}
+366: {'values_changed': {"root['occupation']": {'new_value': 'Software engineering god', 'old_value': 'Software engineer, Computer God'}}}
+367: {'values_changed': {"root['occupation']": {'new_value': 'Software engineer, Computer God', 'old_value': 'Software engineer'}}}
+373: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Lius Torvalds'}}}
+374: {'values_changed': {"root['name']": {'new_value': 'Lius Torvalds', 'old_value': 'Linus Torvalds'}}}
+385: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Linux Buttpenguin'}}}
+386: {'values_changed': {"root['name']": {'new_value': 'Linux Buttpenguin', 'old_value': 'Linux Torvalds'}}}
+387: {'values_changed': {"root['name']": {'new_value': 'Linux Torvalds', 'old_value': 'Linus Torvalds'}}}
+438: {'dictionary_item_removed': {"root['children']": '3'}, 'values_changed': {"root['spouse']": {'new_value': 'Tove Torvalds', 'old_value': 'Tove Torvalds née Monni'}}}
+451: {'dictionary_item_added': {"root['known_for']": 'Linux kernel, Git (software)'}, 'values_changed': {"root['residence']": {'new_value': 'Portland, Oregon', 'old_value': 'PoLeabian haircuts'}, "root['occupation']": {'new_value': 'Software engineer', 'old_value': 'lesbian haircuts'}, "root['children']": {'new_value': '3', 'old_value': '109'}}}
+452: {'dictionary_item_removed': {"root['known_for']": 'Linux kernel, Git (software)'}, 'values_changed': {"root['residence']": {'new_value': 'PoLeabian haircuts', 'old_value': 'Portland, Oregon'}, "root['occupation']": {'new_value': 'lesbian haircuts', 'old_value': 'Software engineer'}, "root['children']": {'new_value': '109', 'old_value': '3'}}}
+479: {'dictionary_item_removed': {"root['alma_mater']": 'University of Helsinki (M.S.)'}, 'values_changed': {"root['residence']": {'new_value': 'Portland, Oregon', 'old_value': 'Dunthorpe, Oregon, United States<ref name'}, "root['known_for']": {'new_value': 'Linux kernel, Git (software)', 'old_value': 'Linux kernel, Linux, Git (software)'}, "root['spouse']": {'new_value': 'Tove Torvalds née Monni', 'old_value': '#property:p26'}}}
+490: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Linus TornMan'}}}
+491: {'values_changed': {"root['residence']": {'new_value': 'Dunthorpe, Oregon, United States<ref name', 'old_value': 'Dunthorpe, Oregon, United Stallman<ref name'}}}
+493: {'values_changed': {"root['name']": {'new_value': 'Linus TornMan', 'old_value': 'Linus Torvalds'}}}
+494: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Linus TornMan'}}}
+495: {'values_changed': {"root['name']": {'new_value': 'Linus TornMan', 'old_value': 'Linus Torvalds'}}}
+496: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Linus TornMan'}}}
+497: {'values_changed': {"root['name']": {'new_value': 'Linus TornMan', 'old_value': 'Linus Torvalds'}}}
+498: {'values_changed': {"root['name']": {'new_value': 'Linus Torvalds', 'old_value': 'Linus TornMan'}}}
+500: {'values_changed': {"root['name']": {'new_value': 'Linus TornMan', 'old_value': 'Linus Torvalds'}}}
+503: {'values_changed': {"root['residence']": {'new_value': 'Dunthorpe, Oregon, United Stallman<ref name', 'old_value': 'Dunthorpe, Oregon, United States<ref name'}}}
+540: {'values_changed': {"root['known_for']": {'new_value': 'Linux kernel, Linux, Git (software)', 'old_value': 'his ugly face, Subsurface (software)'}}}
+541: {'values_changed': {"root['known_for']": {'new_value': 'his ugly face, Subsurface (software)', 'old_value': 'Linux kernel, Linux, Git (software)'}}}
+542: {'values_changed': {"root['known_for']": {'new_value': 'Linux kernel, Linux, Git (software)', 'old_value': 'his ugly face'}}}
+543: {'values_changed': {"root['known_for']": {'new_value': 'his ugly face', 'old_value': 'Linux kernel, Linux, Git (software)'}}}
+558: {'values_changed': {"root['occupation']": {'new_value': 'Software engineer', 'old_value': 'Software support engineer'}, "root['children']": {'new_value': '3', 'old_value': '8'}}}
+559: {'values_changed': {"root['occupation']": {'new_value': 'Software support engineer', 'old_value': 'Software engineer'}, "root['children']": {'new_value': '8', 'old_value': '3'}}}

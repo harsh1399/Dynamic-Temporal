@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Will Wright', "root['occupation']": 'Game designer', "root['spouse']": 'Joell Jones '}}
+55: {'values_changed': {"root['name']": {'new_value': 'Will Wright', 'old_value': 'Will Wright Jr.'}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Will Wright Jr.', 'old_value': 'Will R. Wright Jr.'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'Will R. Wright Jr.', 'old_value': 'Will Wright'}}}
+149: {'dictionary_item_removed': {"root['religion']": 'None'}}
+174: {'values_changed': {"root['religion']": {'new_value': 'None', 'old_value': 'None (Atheist)'}}}
+183: {'values_changed': {"root['religion']": {'new_value': 'None (Atheist)', 'old_value': 'infidel'}}}
+184: {'values_changed': {"root['religion']": {'new_value': 'infidel', 'old_value': 'Infidel'}}}
+185: {'values_changed': {"root['religion']": {'new_value': 'Infidel', 'old_value': 'None (Atheist)'}}}
+186: {'values_changed': {"root['religion']": {'new_value': 'None (Atheist)', 'old_value': 'None'}}}
+192: {'dictionary_item_added': {"root['religion']": 'None'}, 'values_changed': {"root['name']": {'new_value': 'Will Wright', 'old_value': 'billlyill Wright'}, "root['spouse']": {'new_value': 'Joell Jones ', 'old_value': 'lil wanyes '}}}
+193: {'values_changed': {"root['name']": {'new_value': 'billlyill Wright', 'old_value': 'Will Wright'}, "root['spouse']": {'new_value': 'lil wanyes ', 'old_value': 'Joell Jones '}}}
+233: {'values_changed': {"root['spouse']": {'new_value': 'Joell Jones ', 'old_value': 'Joell Jones Kim Edwards Wright '}}}
+234: {'values_changed': {"root['spouse']": {'new_value': 'Joell Jones Kim Edwards Wright ', 'old_value': 'Joell Jones  Kim Edwards Wright '}}}
+235: {'values_changed': {"root['spouse']": {'new_value': 'Joell Jones  Kim Edwards Wright ', 'old_value': 'Joell Jones '}}}

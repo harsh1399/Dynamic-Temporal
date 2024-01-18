@@ -1,0 +1,175 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gwen Stefani', "root['background']": 'solo_singer', "root['genre']": 'pop music', "root['occupation']": 'Singer-songwriter, record producer, fashion designer, dancer', "root['instrument']": 'Vocals, guitar<ref name', "root['label']": 'Interscope Records', "root['associated_acts']": 'No Doubt, Eve (rapper)'}}
+47: {'dictionary_item_removed': {"root['Spouse']": 'Gavin Rossdale'}}
+67: {'dictionary_item_added': {"root['occupation']": 'Singer-songwriter, record producer, fashion designer, dancer', "root['instrument']": 'Vocals, guitar<ref name', "root['label']": 'Interscope Records', "root['associated_acts']": 'No Doubt, Eve (rapper)', "root['Spouse']": 'Gavin Rossdale'}, 'values_changed': {"root['genre']": {'new_value': 'pop music', 'old_value': 'Media U.S. |issue'}}}
+68: {'dictionary_item_removed': {"root['occupation']": 'Singer-songwriter, record producer, fashion designer, dancer', "root['instrument']": 'Vocals, guitar<ref name', "root['label']": 'Interscope Records', "root['associated_acts']": 'No Doubt, Eve (rapper)'}, 'values_changed': {"root['genre']": {'new_value': 'Media U.S. |issue', 'old_value': 'pop music'}}}
+123: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer, fashion designer, dancer', 'old_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress'}}}
+125: {'values_changed': {"root['associated_acts']": {'new_value': 'No Doubt, Eve (rapper)', 'old_value': 'No Doubt Pie, Eve (rapper)'}}}
+126: {'values_changed': {"root['associated_acts']": {'new_value': 'No Doubt Pie, Eve (rapper)', 'old_value': 'No Doubt, Eve (rapper)'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Dead Stefani'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Dead Stefani', 'old_value': 'Gwen Stefani'}}}
+172: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress', 'old_value': 'Singer  record producer, fashion designer, dancer, actress'}}}
+173: {'values_changed': {"root['occupation']": {'new_value': 'Singer  record producer, fashion designer, dancer, actress', 'old_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress'}}}
+179: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress', 'old_value': 'Singer-songwriter, record producer,model,fashion designer, dancer, actress'}}}
+182: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer,model,fashion designer, dancer, actress', 'old_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress'}}}
+184: {'values_changed': {"root['associated_acts']": {'new_value': 'No Doubt, Eve (rapper)', 'old_value': 'No Doubt, Eve (entertainer)'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani Rossdale'}}}
+191: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani Rossdale', 'old_value': 'Gwen Stefani'}}}
+208: {'values_changed': {"root['genre']": {'new_value': 'pop music', 'old_value': 'Pop music'}}}
+210: {'values_changed': {"root['genre']": {'new_value': 'Pop music', 'old_value': 'pop music'}}}
+233: {'values_changed': {"root['associated_acts']": {'new_value': 'No Doubt, Eve (entertainer)', 'old_value': 'Akon,No Doubt, Eve (entertainer)'}}}
+234: {'values_changed': {"root['associated_acts']": {'new_value': 'Akon,No Doubt, Eve (entertainer)', 'old_value': 'No Doubt, Eve (entertainer)'}}}
+311: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen StefaniCHEESE'}}}
+312: {'values_changed': {"root['name']": {'new_value': 'Gwen StefaniCHEESE', 'old_value': 'Gwen CHEESE Stefani'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'Gwen CHEESE Stefani', 'old_value': 'Gwen Stefani'}}}
+356: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress', 'old_value': 'Singer-songwriter, record producer, designer, dancer, actress'}}}
+357: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter, record producer, designer, dancer, actress', 'old_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress'}}}
+367: {'values_changed': {"root['genre']": {'new_value': 'pop music', 'old_value': 'Flat list'}, "root['occupation']": {'new_value': 'Singer-songwriter, record producer, fashion designer, dancer, actress', 'old_value': 'Flat list'}, "root['instrument']": {'new_value': 'Vocals, guitar<ref name', 'old_value': 'Flat list'}, "root['label']": {'new_value': 'Interscope Records', 'old_value': 'Flat list'}, "root['associated_acts']": {'new_value': 'No Doubt, Eve (entertainer)', 'old_value': 'Flat list'}}}
+399: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani-Rossdale'}}}
+400: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani-Rossdale', 'old_value': 'Gwen Stefani'}}}
+423: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flat list'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flat list'}, "root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flat list'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flat list'}}, 'values_changed': {"root['label']": {'new_value': 'Flat list', 'old_value': 'Interscope Records'}}}
+881: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals', 'new_value': []}}, 'dictionary_item_removed': {"root['alma_mater']": 'California State University, Fullerton', "root['net_worth']": '$80 million (2014)', "root['spouse']": 'marriage', "root['children']": '3', "root['embed']": 'yes', "root['publisher']": 'IPC Media', "root['NAME']": 'Stefani, Gwen | ALTERNATIVE NAMES'}}
+959: {'dictionary_item_added': {"root['publisher']": 'IPC Media', "root['NAME']": 'Stefani, Gwen | ALTERNATIVE NAMES'}, 'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$00.00 (2014)'}, "root['children']": {'new_value': '3', 'old_value': '7'}}}
+960: {'values_changed': {"root['net_worth']": {'new_value': '$00.00 (2014)', 'old_value': '$80 million (2014)'}, "root['children']": {'new_value': '7', 'old_value': '3'}}}
+980: {'values_changed': {"root['instrument']": {'new_value': 'Vocals', 'old_value': 'Vocals, Keyboards'}}}
+1003: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$96 million (2015)'}}}
+1029: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, Keyboards', 'old_value': 'Vocals, keyboards'}}}
+1049: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+1053: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+1062: {'values_changed': {"root['net_worth']": {'new_value': '$96 million (2015)', 'old_value': '$80 million (2014)'}}}
+1066: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$100 million (2015)'}}}
+1069: {'values_changed': {"root['net_worth']": {'new_value': '$100 million (2015)', 'old_value': '$80 million (2014)'}}}
+1087: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'dating'}}}
+1088: {'values_changed': {"root['spouse']": {'new_value': 'dating', 'old_value': 'marriage'}}}
+1097: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '4'}}}
+1100: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '3'}}}
+1107: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$800 million (2014)'}}}
+1108: {'values_changed': {"root['net_worth']": {'new_value': '$800 million (2014)', 'old_value': '$80 million (2014)'}}}
+1112: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, keyboards'}}}
+1113: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals, keyboards', 'new_value': []}}}
+1123: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwenioso'}}}
+1124: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '12'}}}
+1125: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '700 0 million (2014)'}}}
+1126: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, keyboards', 'old_value': 'Vocals, noses'}}}
+1127: {'values_changed': {"root['name']": {'new_value': 'Gwenioso', 'old_value': 'Gwen Stefani'}, "root['net_worth']": {'new_value': '700 0 million (2014)', 'old_value': '$80 million (2014)'}, "root['children']": {'new_value': '12', 'old_value': '3'}, "root['instrument']": {'new_value': 'Vocals, noses', 'old_value': 'Vocals, keyboards'}}}
+1133: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'divorced'}, "root['children']": {'new_value': '3', 'old_value': '3 and expecting'}}}
+1134: {'values_changed': {"root['spouse']": {'new_value': 'divorced', 'old_value': 'marriage'}, "root['children']": {'new_value': '3 and expecting', 'old_value': '3'}}}
+1135: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '3 (expecting one)'}}}
+1136: {'values_changed': {"root['children']": {'new_value': '3 (expecting one)', 'old_value': '3'}}}
+1140: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$100 million (2014)'}}}
+1154: {'values_changed': {"root['net_worth']": {'new_value': '$100 million (2014)', 'old_value': '$80 million (2014)'}}}
+1155: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$100 million (2014)'}}}
+1172: {'values_changed': {"root['net_worth']": {'new_value': '$100 million (2014)', 'old_value': '$80 million (2014)'}}}
+1191: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$100 million (2015)'}}}
+1192: {'values_changed': {"root['net_worth']": {'new_value': '$100 million (2015)', 'old_value': '$80 million (2014)'}}}
+1201: {'values_changed': {"root['instrument']": {'new_value': 'Vocals, keyboards', 'old_value': 'Vocals, keyboards, guitar'}}}
+1216: {'dictionary_item_removed': {"root['partner']": 'Blake Shelton (2015-present)'}}
+1222: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015-present)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1234: {'type_changes': {"root['instrument']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Vocals, keyboards, guitar'}}}
+1253: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Blake Shelton (2015-present)'}}}
+1368: {'dictionary_item_added': {"root['partner']": 'Blake Shelton (2015-present)'}, 'iterable_item_removed': {"root['genre'][0]": 'Pop music'}}
+1369: {'iterable_item_added': {"root['genre'][0]": 'Pop music'}}
+1379: {'dictionary_item_removed': {"root['publisher']": 'IPC Media |date'}}
+1390: {'dictionary_item_added': {"root['publisher']": 'IPC Media |date'}, 'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)', 'old_value': '$80 million (2014)<ref name'}}}
+1392: {'values_changed': {"root['net_worth']": {'new_value': '$80 million (2014)<ref name', 'old_value': '$80 million (2014)'}}}
+1530: {'dictionary_item_added': {"root['net_worth']": '$80 million (2014)', "root['label']": 'Interscope Records', "root['associated_acts']": []}, 'values_changed': {"root['alma_mater']": {'new_value': 'California State University, Fullerton', 'old_value': 'university)))'}}}
+1531: {'values_changed': {"root['alma_mater']": {'new_value': 'university)))', 'old_value': 'California State University, Fullerton'}}}
+1554: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['Partner']": 'Blake Shelton 2015 to present'}}
+1555: {'dictionary_item_added': {"root['Partner']": 'Blake Shelton 2015 to present'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+1556: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['net_worth']": 'Partner Blake Shelton 2015 - present'}}
+1557: {'dictionary_item_added': {"root['net_worth']": 'Partner Blake Shelton 2015 - present'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+1558: {'dictionary_item_added': {"root['spouse']": 'marriage'}, 'dictionary_item_removed': {"root['partner']": 'Blake Shelton 2015-present'}}
+1559: {'dictionary_item_added': {"root['partner']": 'Blake Shelton 2015-present'}, 'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+1564: {'dictionary_item_removed': {"root['Partner']": 'Blake Shelton (partner)'}}
+1565: {'values_changed': {"root['Partner']": {'new_value': 'Blake Shelton (partner)', 'old_value': 'Partner'}}}
+1578: {'dictionary_item_added': {"root['Partner']": 'Partner'}, 'values_changed': {"root['children']": {'new_value': '3', 'old_value': '10'}}}
+1579: {'values_changed': {"root['children']": {'new_value': '10', 'old_value': '3'}}}
+1596: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton'}}}
+1597: {'values_changed': {"root['name']": {'new_value': 'Gwen Shelton', 'old_value': 'Gwen Stefani'}}}
+1598: {'dictionary_item_removed': {"root['work']": 'NME |date'}, 'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton'}}}
+1599: {'dictionary_item_added': {"root['work']": 'NME |date'}, 'values_changed': {"root['name']": {'new_value': 'Gwen Shelton', 'old_value': 'Gwen Stefani'}}}
+1600: {'dictionary_item_removed': {"root['work']": 'NME |date'}, 'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton'}}}
+1601: {'dictionary_item_added': {"root['work']": 'NME |date'}, 'values_changed': {"root['name']": {'new_value': 'Gwen Shelton', 'old_value': 'Gwen Stefani'}}}
+1627: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani Papa'}}}
+1628: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani Papa', 'old_value': 'Gwen Stefani'}}}
+1629: {'type_changes': {"root['instrument']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Vocals', 'new_value': []}}, 'dictionary_item_removed': {"root['label']": 'Interscope Records', "root['associated_acts']": []}}
+1636: {'dictionary_item_removed': {"root['work']": 'NME |date'}}
+1641: {'dictionary_item_added': {"root['work']": 'NME |date'}, 'dictionary_item_removed': {"root['partner']": 'Blake Shelton'}}
+1643: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton', 'old_value': 'Blake Shelton (2015–Present)'}}}
+1650: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–Present)', 'old_value': 'Butt Plugman (2015–Present)'}}}
+1651: {'values_changed': {"root['partner']": {'new_value': 'Butt Plugman (2015–Present)', 'old_value': 'Blake Shelton (2015–Present)'}}}
+1652: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–Present)', 'old_value': 'Tony Kanal (1987-1994) Blake Shelton (2015–Present)'}}}
+1653: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987-1994) Blake Shelton (2015–Present)', 'old_value': 'Blake Shelton (2015–Present)'}}}
+1656: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–Present)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1664: {'dictionary_item_removed': {"root['reason']": 'divorced'}}
+1690: {'dictionary_item_added': {"root['reason']": 'divorced'}, 'dictionary_item_removed': {"root['work']": 'NME |date'}}
+1702: {'dictionary_item_added': {"root['work']": 'NME |date'}, 'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Not currently dating...'}}}
+1703: {'values_changed': {"root['partner']": {'new_value': 'Not currently dating...', 'old_value': 'Blake Shelton (2015–present)'}}}
+1714: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '30'}}}
+1715: {'values_changed': {"root['children']": {'new_value': '30', 'old_value': '3'}}}
+1723: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'The Hebrew Hammer    (2015–present)'}}}
+1725: {'values_changed': {"root['partner']": {'new_value': 'The Hebrew Hammer    (2015–present)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1730: {'dictionary_item_removed': {"root['residence']": 'Nashville, Tennessee, USA'}}
+1731: {'values_changed': {"root['residence']": {'new_value': 'Nashville, Tennessee, USA', 'old_value': 'Beverly Hills, California, USA'}}}
+1740: {'dictionary_item_added': {"root['residence']": 'Beverly Hills, California, USA'}, 'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stephani'}}}
+1741: {'values_changed': {"root['name']": {'new_value': 'Gwen Stephani', 'old_value': 'Gwen Stefani'}}}
+1746: {'dictionary_item_removed': {"root['work']": 'NME |date'}}
+1818: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Flatlist', 'new_value': []}}, 'dictionary_item_added': {"root['work']": 'NME |date'}}
+1825: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': "Gwen Stefani (Jill Stefani's older sibling)"}}}
+1826: {'values_changed': {"root['name']": {'new_value': "Gwen Stefani (Jill Stefani's older sibling)", 'old_value': 'Gwen Stefani'}}}
+1837: {'dictionary_item_added': {"root['partner']": 'Blake Shelton (2015–present)'}, 'dictionary_item_removed': {"root['work']": 'NME |date'}}
+1839: {'dictionary_item_added': {"root['work']": 'NME |date'}, 'dictionary_item_removed': {"root['partner']": 'Blake Shelton (2015–present)'}}
+1840: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Blakke Shelton (2015–present)'}}}
+1842: {'values_changed': {"root['partner']": {'new_value': 'Blakke Shelton (2015–present)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1843: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Steffani'}}}
+1844: {'values_changed': {"root['name']": {'new_value': 'Gwen Steffani', 'old_value': 'Gwen Stefani'}}}
+1846: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani she fitty'}}}
+1847: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani she fitty', 'old_value': 'Gwen Stefani'}}}
+1852: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Blake Shelton (2015–2018)'}}}
+1853: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–2018)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1854: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Blake Shelton (2015–2018)'}}}
+1855: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–2018)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1876: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Blake Shelton, who is much better than Gwen (2015–present)'}}}
+1878: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton, who is much better than Gwen (2015–present)', 'old_value': 'Blake Shelton, who is below average (2015–present)'}}}
+1880: {'values_changed': {"root['partner']": {'new_value': 'Blake Shelton, who is below average (2015–present)', 'old_value': 'Blake Shelton (2015–present)'}}}
+1903: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Flatlist'}}, 'dictionary_item_removed': {"root['organization']": 'L.A.M.B.', "root['awards']": 'List of'}, 'values_changed': {"root['partner']": {'new_value': 'Blake Shelton (2015–present)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}}
+1911: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen stefano'}}}
+1912: {'values_changed': {"root['name']": {'new_value': 'Gwen stefano', 'old_value': 'Gwen Stefani'}}}
+1920: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present)'}}}
+1921: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}}
+1932: {'dictionary_item_removed': {"root['alias']": 'Gwen Rossdale', "root['origin']": 'Anaheim, California, U.S.'}, 'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present)'}}}
+1933: {'dictionary_item_added': {"root['alias']": 'Gwen Rossdale', "root['origin']": 'Anaheim, California, U.S.'}, 'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}}
+1943: {'dictionary_item_added': {"root['partner']": 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}, 'dictionary_item_removed': {"root['Spouse']": 'Tony Kanal (1987–1994) Blake Shelton (2015–present)'}}
+1944: {'dictionary_item_added': {"root['Spouse']": 'Tony Kanal (1987–1994) Blake Shelton (2015–present)'}, 'dictionary_item_removed': {"root['partner']": 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}
+1968: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Gwen Stefani'}}}
+1970: {'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Gwen Stefani', 'old_value': 'List of'}}}
+1971: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Gwen Stefani'}}}
+1972: {'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Gwen Stefani', 'old_value': 'List of'}}}
+1973: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Gwen Stefani'}}}
+1974: {'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Gwen Stefani', 'old_value': 'List of'}}}
+2018: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Gwen Stefani'}}}
+2019: {'values_changed': {"root['awards']": {'new_value': 'List of awards and nominations received by Gwen Stefani', 'old_value': 'List of'}}}
+2020: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)', 'old_value': 'Cameron Fegreus (2011-2013) Blake Shelton (2015–present; engaged)'}}}
+2023: {'values_changed': {"root['partner']": {'new_value': 'Cameron Fegreus (2011-2013) Blake Shelton (2015–present; engaged)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}}
+2028: {'values_changed': {"root['organization']": {'new_value': 'L.A.M.B.', 'old_value': 'L.A.M.B.  Harajuku Lovers  GX by Gwen Stefani'}}}
+2029: {'dictionary_item_removed': {"root['origin']": 'Anaheim, California, U.S.'}}
+2078: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)', 'old_value': 'Tony Kanal (1987–1994)'}}}
+2079: {'dictionary_item_added': {"root['partner']": 'Tony Kanal (1987–1994)'}, 'dictionary_item_removed': {"root['partners']": 'Tony Kanal (1987–1994) Gavin Rossdale'}}
+2080: {'dictionary_item_added': {"root['partners']": 'Tony Kanal (1987–1994) Gavin Rossdale'}, 'dictionary_item_removed': {"root['list']": '"Vh1">|'}}
+2081: {'dictionary_item_added': {"root['list']": '"Vh1">|'}, 'dictionary_item_removed': {"root['partner']": 'Tony Kanal (1987–1994)'}}
+2083: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994)', 'old_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)'}}}
+2084: {'values_changed': {"root['partner']": {'new_value': 'Tony Kanal (1987–1994) Blake Shelton (2015–present; engaged)', 'old_value': 'Tony Kanal (1987–1994)'}}}
+2085: {'values_changed': {"root['awards']": {'new_value': 'List of', 'old_value': 'List of awards and nominations received by Gwen Stefani'}}}
+2092: {'dictionary_item_removed': {"root['net_worth']": '$150 Million'}}
+2105: {'values_changed': {"root['net_worth']": {'new_value': '$150 Million', 'old_value': '$150 million'}}}
+2125: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton'}}}
+2127: {'values_changed': {"root['name']": {'new_value': 'Gwen Shelton', 'old_value': 'Gwen Stefani'}}}
+2128: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani Shelton'}}}
+2129: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani Shelton', 'old_value': 'Gwen Stefani shelton'}}}
+2130: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani shelton', 'old_value': 'Gwen Stefani Shelton'}}}
+2131: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani Shelton', 'old_value': 'Gwen Stefani'}}}
+2137: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton  l Maiden name'}}}
+2139: {'values_changed': {"root['name']": {'new_value': 'Gwen Shelton  l Maiden name', 'old_value': 'Gwen Stefani'}}}
+2146: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Shelton'}}}
+2147: {'values_changed': {"root['name']": {'new_value': 'Gwen Shelton', 'old_value': 'Gwen Stefani'}}}
+2150: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani', 'old_value': 'Gwen Stefani Shelton'}}}
+2151: {'values_changed': {"root['name']": {'new_value': 'Gwen Stefani Shelton', 'old_value': 'Gwen Stefani'}}}

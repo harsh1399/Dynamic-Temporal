@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Waylon Jennings', "root['occupation']": 'Singer-songwriter, musician', "root['spouse']": 'marriage', "root['children']": '6, including Shooter Jennings', "root['background']": 'solo_singer', "root['instrument']": [], "root['genre']": [], "root['label']": [], "root['associated_acts']": [], "root['notable_instruments']": '|alt'}}
+88: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer-songwriter, musician'}}}
+163: {'dictionary_item_added': {"root['background']": 'solo_singer', "root['associated_acts']": [], "root['notable_instruments']": '|alt'}, 'dictionary_item_removed': {"root['past_member_of']": []}}
+171: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'ubl'}}}
+207: {'dictionary_item_removed': {"root['alias']": 'Hlist'}}

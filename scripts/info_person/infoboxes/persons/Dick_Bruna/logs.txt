@@ -1,0 +1,9 @@
+21: {'dictionary_item_removed': {"root['name']": 'Dick Bruna', "root['birthname']": 'Hendrik Magdalenus Bruna', "root['birthdate']": 'birth date', "root['location']": 'Utrecht (city)', "root['field']": 'Graphic Design, Illustration, Author, Artist'}}
+23: {'values_changed': {"root['location']": {'new_value': 'Utrecht (city)', 'old_value': 'flagicon'}}}
+42: {'dictionary_item_removed': {"root['bgcolour']": 'blue', "root['influenced']": 'Kaws, Sanrio,'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date', 'old_value': 'Birth date'}, "root['location']": {'new_value': 'flagicon', 'old_value': 'Utrecht (city)'}, "root['field']": {'new_value': 'Graphic Design, Illustration, Author, Artist', 'old_value': "Artist, Graphic Designer, Illustration, Children's Book Illustrator/Author"}}}
+46: {'dictionary_item_removed': {"root['awards']": 'Golden Paintbrush '}}
+75: {'dictionary_item_added': {"root['birthname']": 'Hendrik Magdalenus Bruna'}, 'dictionary_item_removed': {"root['imagesize']": '250 px'}}
+79: {'values_changed': {"root['imagesize']": {'new_value': '250 px', 'old_value': '300 px'}}}
+84: {'dictionary_item_added': {"root['bgcolour']": 'blue', "root['imagesize']": '300 px', "root['birthdate']": 'Birth date', "root['location']": 'Utrecht (city)'}, 'dictionary_item_removed': {"root['works']": 'Miffy'}, 'values_changed': {"root['influenced']": {'new_value': 'Kaws, Sanrio,', 'old_value': 'Kaws, Sanrio'}}}
+98: {'values_changed': {"root['field']": {'new_value': "Artist, Graphic Designer, Illustration, Children's Book Illustrator/Author", 'old_value': "Artist, graphic designer, illustrator/author of children's books"}}}
+141: {'dictionary_item_added': {"root['influenced']": 'Kaws, Sanrio'}, 'dictionary_item_removed': {"root['spouse']": 'Irene de Jongh (m: 1953) <ref name'}}

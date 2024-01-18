@@ -1,0 +1,67 @@
+0: {'dictionary_item_removed': {"root['name']": 'Lenny Henry', "root['birthname']": 'Lenworth George Henry', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Dudley, Worcestershire, England', "root['yearsactive']": '1975–present', "root['occupation']": 'Actor, comedian, presenter, writer', "root['spouse']": 'Dawn French (1984–present) '}}
+30: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–present) ', 'old_value': 'Dawn French (1984–2010) '}}}
+31: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–2010) ', 'old_value': 'Dawn French (1984–present) '}}}
+32: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–present) ', 'old_value': 'Dawn French (1984–2010) '}}}
+33: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–2010) ', 'old_value': 'Dawn French (1984–present) '}}}
+35: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–present) ', 'old_value': 'Dawn French (1984–2010 '}}}
+36: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–2010 ', 'old_value': 'Dawn French (1984–2010) '}}}
+37: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–2010) ', 'old_value': 'Dawn French (1984–present) '}}}
+40: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French (1984–present) ', 'old_value': 'Dawn French  ((m. 1984, separated 2010, 1 adopted daughter)) '}}}
+41: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French  ((m. 1984, separated 2010, 1 adopted daughter)) ', 'old_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter)) '}}}
+42: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter)) ', 'old_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter) '}}}
+63: {'dictionary_item_removed': {"root['deathdate']": 'pleeaasaaase any time soon'}, 'values_changed': {"root['birthplace']": {'new_value': 'Dudley, Worcestershire, England', 'old_value': 'jamaica, Worcestershire, England'}, "root['occupation']": {'new_value': 'Actor, comedian, presenter, writer', 'old_value': 'oxygen thief, racist, bnp volunteer'}}}
+64: {'dictionary_item_added': {"root['deathdate']": 'pleeaasaaase any time soon'}, 'values_changed': {"root['birthplace']": {'new_value': 'jamaica, Worcestershire, England', 'old_value': 'Dudley, Worcestershire, England'}, "root['occupation']": {'new_value': 'oxygen thief, racist, bnp volunteer', 'old_value': 'Actor, comedian, presenter, writer'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'lewis rook'}, "root['birthname']": {'new_value': 'Lenworth George Henry', 'old_value': 'lewis mitchell rook'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'lewis rook', 'old_value': 'Lenny Henry'}, "root['birthname']": {'new_value': 'lewis mitchell rook', 'old_value': 'Lenworth George Henry'}}}
+80: {'values_changed': {"root['birthplace']": {'new_value': 'Dudley, Worcestershire, England', 'old_value': 'Dudley, Worcestershire, ((Now part of the West Midlands)), England'}}}
+81: {'values_changed': {"root['birthplace']": {'new_value': 'Dudley, Worcestershire, ((Now part of the West Midlands)), England', 'old_value': 'Dudley, Worcestershire, England'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'Lenny Davies'}, "root['yearsactive']": {'new_value': '1975–present', 'old_value': '1945–present'}, "root['occupation']": {'new_value': 'Actor, comedian, presenter, writer', 'old_value': 'Actor, comedian, presenter, writer, Cross Dresser'}, "root['spouse']": {'new_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter) ', 'old_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter)    Milkman'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'Lenny Davies', 'old_value': 'Lenny Henry'}, "root['yearsactive']": {'new_value': '1945–present', 'old_value': '1975–present'}, "root['occupation']": {'new_value': 'Actor, comedian, presenter, writer, Cross Dresser', 'old_value': 'Actor, comedian, presenter, writer'}, "root['spouse']": {'new_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter)    Milkman', 'old_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter) '}}}
+94: {'dictionary_item_added': {"root['birthname']": 'Lenworth George Henry', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Dudley, Worcestershire, England', "root['yearsactive']": '1975–present'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, presenter, writer', 'old_value': 'Actor, comedian, presenter, writer, Grand Wizard of the British branch of the Ku Klux Klan, avid supporter and member of the   Priory of Scion'}}}
+95: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, presenter, writer, Grand Wizard of the British branch of the Ku Klux Klan, avid supporter and member of the   Priory of Scion', 'old_value': 'Actor, comedian, presenter, writer'}}}
+106: {'values_changed': {"root['spouse']": {'new_value': 'Dawn French  (m. 1984, separated 2010, 1 adopted daughter) ', 'old_value': 'Dawn French  (divorced) 1984 - 2010, 1 adopted daughter) '}}}
+107: {'dictionary_item_removed': {"root['Children']": '1 adopted daughter'}, 'values_changed': {"root['spouse']": {'new_value': 'Dawn French  (divorced) 1984 - 2010, 1 adopted daughter) ', 'old_value': 'Dawn French  (1984-2010)(divorced)'}}}
+108: {'dictionary_item_added': {"root['Children']": '1 adopted daughter'}, 'values_changed': {"root['spouse']": {'new_value': 'Dawn French  (1984-2010)(divorced)', 'old_value': 'Dawn French  (1984-2010)(divorced) 1 adopted daughter'}}}
+113: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, presenter, writer', 'old_value': 'Actor, comedian,, broadcaster, writer'}, "root['spouse']": {'new_value': 'Dawn French  (1984-2010)(divorced) 1 adopted daughter', 'old_value': 'Dawn French (divorced); 1 adopted daughter '}}}
+120: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'simon cowell'}}}
+121: {'values_changed': {"root['name']": {'new_value': 'simon cowell', 'old_value': 'Lenny Henry'}}}
+122: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'simon cowell'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'simon cowell', 'old_value': 'Lenny Henry'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'Lenny Henry  Order of the British Empire'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry  Order of the British Empire', 'old_value': 'Lenny Henry'}}}
+137: {'dictionary_item_removed': {"root['children']": 'Adopted daughter '}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian,, broadcaster, writer', 'old_value': 'Actor, comedian, broadcaster, writer'}, "root['spouse']": {'new_value': 'Dawn French (divorced); 1 adopted daughter ', 'old_value': 'marriage'}}}
+176: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'Lenny Black Cunt Henry'}}}
+177: {'values_changed': {"root['name']": {'new_value': 'Lenny Black Cunt Henry', 'old_value': 'Lenny Henry'}}}
+178: {'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, broadcaster, writer', 'old_value': 'Actor, Comedian, Charity worker, Writer'}}}
+182: {'values_changed': {"root['children']": {'new_value': 'Adopted daughter ', 'old_value': 'Adopted daughter: Billie '}}}
+197: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Comedian, Charity worker, Writer', 'old_value': 'Actor, Stand up comedian, Activist, Writer'}}}
+198: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'Lenny Henry Order of the British Empire'}}}
+199: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Stand up comedian, Activist, Writer', 'old_value': 'Actor, unfunny Stand up comedian, Activist, Writer'}}}
+200: {'values_changed': {"root['occupation']": {'new_value': 'Actor, unfunny Stand up comedian, Activist, Writer', 'old_value': 'Actor, Stand up comedian, Activist, Writer'}}}
+210: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Stand up comedian, Activist, Writer', 'old_value': 'Actor, Stand up comedian, Activist, Writer Started the UK branch of the Klu Klux Klan'}}}
+211: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Stand up comedian, Activist, Writer Started the UK branch of the Klu Klux Klan', 'old_value': 'Actor, Stand up comedian, Activist, Writer'}}}
+216: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Stand up comedian, Activist, Writer', 'old_value': 'Actor, comedian, activist, writer'}, "root['children']": {'new_value': 'Adopted daughter: Billie ', 'old_value': 'Adopted daughter, Billie '}}}
+222: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry Order of the British Empire', 'old_value': 'Lenny Henry'}}}
+231: {'dictionary_item_removed': {"root['birthname']": 'Lenworth George Henry', "root['alma_mater']": 'The Open University  (Bachelor of Arts', "root['known_for']": "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''"}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, comedian, activist, writer', 'old_value': 'Comedian, actor, singer, writer, television presenter'}, "root['children']": {'new_value': 'Adopted daughter, Billie ', 'old_value': '1 '}}}
+241: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief and now blob on the masked singer''"}}}
+244: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief and now blob on the masked singer''", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''"}}}
+259: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''  The Masked Singer"}}}
+260: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''  The Masked Singer", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''  The Masked Singer blob"}}}
+261: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''  The Masked Singer blob", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''"}}}
+312: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Comedian, actor, singer, writer, television presenter'}}, 'dictionary_item_removed': {"root['office1']": 'Chancellor of Birmingham City University', "root['predecessor1']": 'Ray Hassall'}}
+313: {'values_changed': {"root['office1']": {'new_value': 'Chancellor of Birmingham City University', 'old_value': 'Chancellor (education)'}}}
+314: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Comedian, actor, singer, writer, television presenter', 'new_value': []}}, 'dictionary_item_added': {"root['office1']": 'Chancellor (education)', "root['predecessor1']": 'Ray Hassall'}}
+316: {'values_changed': {"root['occupation']": {'new_value': 'Comedian, actor, singer, writer, television presenter', 'old_value': 'Actor, comedian, singer, television presenter, writer'}}}
+350: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''", 'old_value': 'Meeting Keith Hogg'}}}
+351: {'values_changed': {"root['known_for']": {'new_value': 'Meeting Keith Hogg', 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''"}}}
+367: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'My Life just Got FLipped Upside Down'}}}
+368: {'values_changed': {"root['name']": {'new_value': 'My Life just Got FLipped Upside Down', 'old_value': 'Lenny Henry'}}}
+369: {'values_changed': {"root['name']": {'new_value': 'Lenny Henry', 'old_value': 'Frick'}}}
+370: {'values_changed': {"root['name']": {'new_value': 'Frick', 'old_value': 'Lenny Henry'}}}
+389: {'values_changed': {"root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  ''Comic Relief''", 'old_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  Comic Relief"}}}
+398: {'values_changed': {"root['alma_mater']": {'new_value': 'The Open University  (Bachelor of Arts', 'old_value': 'ubl'}, "root['known_for']": {'new_value': "''The Lenny Henry Show'' ,  ''Chef!'' ,  Comic Relief", 'old_value': 'ubl'}}}
+412: {'values_changed': {"root['known_for']": {'new_value': 'ubl', 'old_value': 'Being the 3rd best Charity fundraiser after Luna and Kev'}}}
+413: {'values_changed': {"root['known_for']": {'new_value': 'Being the 3rd best Charity fundraiser after Luna and Kev', 'old_value': 'ubl'}}}
+415: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, comedian, singer, television presenter, writer'}}}
+463: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': 'Boris Johnson, Rishi Sunak, Liz Truss  '}}}
+464: {'values_changed': {"root['children']": {'new_value': 'Boris Johnson, Rishi Sunak, Liz Truss  ', 'old_value': '1 '}}}

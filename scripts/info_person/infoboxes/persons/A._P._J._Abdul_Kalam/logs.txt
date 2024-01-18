@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['name']": 'Dr. Abdul Kalam', "root['order']": '11th President of India', "root['term_start']": 'July 25, 2002', "root['vicepresident']": 'Bhairon Singh Shekhawat', "root['primeminister']": 'Dr. Manmohan Singh', "root['party']": 'Not affliated to any political', "root['spouse']": 'Not Married', "root['religion']": 'Islam'}}
+17: {'values_changed': {"root['name']": {'new_value': 'Dr. Abdul Kalam', 'old_value': 'Abdul Kalam'}}}
+94: {'dictionary_item_added': {"root['primeminister']": 'Dr. Manmohan Singh'}, 'dictionary_item_removed': {"root['Prime_Minister']": 'Dr. Manmohan Singh'}, 'values_changed': {"root['party']": {'new_value': 'Not affliated to any political', 'old_value': 'Not affiliated'}}}
+181: {'dictionary_item_added': {"root['religion']": 'Islam'}, 'values_changed': {"root['spouse']": {'new_value': 'Not Married', 'old_value': 'Homosexual Karan Johar'}}}
+192: {'values_changed': {"root['spouse']": {'new_value': 'Homosexual Karan Johar', 'old_value': 'never married'}}}
+193: {'dictionary_item_removed': {"root['religion']": 'Muslim'}}
+261: {'dictionary_item_removed': {"root['term_end']": 'July 25, 2007'}}
+262: {'values_changed': {"root['spouse']": {'new_value': 'never married', 'old_value': 'Never Married'}}}
+265: {'values_changed': {"root['order']": {'new_value': '11th President of India', 'old_value': '12thPresident of India'}}}
+279: {'values_changed': {"root['order']": {'new_value': '12thPresident of India', 'old_value': '12th President of India'}}}
+289: {'values_changed': {"root['vicepresident']": {'new_value': 'Bhairon Singh Shekhawat', 'old_value': 'Vacant'}}}
+295: {'values_changed': {"root['vicepresident']": {'new_value': 'Vacant', 'old_value': 'Bhairon Singh Shekhawat'}}}
+297: {'values_changed': {"root['religion']": {'new_value': 'Muslim', 'old_value': 'Islam'}}}
+308: {'values_changed': {"root['spouse']": {'new_value': 'Never Married', 'old_value': 'Never married'}}}
+325: {'values_changed': {"root['order']": {'new_value': '12th President of India', 'old_value': 'Twelth President of India'}}}
+327: {'values_changed': {"root['order']": {'new_value': 'Twelth President of India', 'old_value': 'Twelfth President of India'}}}
+362: {'values_changed': {"root['name']": {'new_value': 'Abdul Kalam', 'old_value': 'Abdul Kalam "Greasy Boy"'}}}
+363: {'values_changed': {"root['name']": {'new_value': 'Abdul Kalam "Greasy Boy"', 'old_value': 'Abdul Kalam'}}}
+366: {'values_changed': {"root['order']": {'new_value': 'Twelfth President of India', 'old_value': '12th President of India'}}}
+396: {'values_changed': {"root['order']": {'new_value': '12th President of India', 'old_value': '11th President of India'}}}
+436: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'ShiaIslam'}}}
+437: {'values_changed': {"root['religion']": {'new_value': 'ShiaIslam', 'old_value': "Shi'a Islam"}}}
+438: {'values_changed': {"root['religion']": {'new_value': "Shi'a Islam", 'old_value': 'Islam'}}}
+439: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': "Shi'a Islam"}}}
+443: {'dictionary_item_added': {"root['order']": '11th President of India', "root['Prime_Minister']": 'Dr. Manmohan Singh', "root['party']": 'Not affiliated', "root['spouse']": 'Never married'}, 'dictionary_item_removed': {"root['office']": 'List of Presidents of India', "root['primeminister']": 'Atal Bihari Vajpayee, Manmohan Singh', "root['facebook']": 'URL', "root['alma_mater']": "St. Joseph's College, Tiruchirappalli Madras Institute of Technology", "root['profession']": 'Professor, Author, Aerospace scientist '}, 'values_changed': {"root['name']": {'new_value': 'Abdul Kalam', 'old_value': 'Dr A P J Abdul Kalam'}, "root['term_start']": {'new_value': 'July 25, 2002', 'old_value': '25 July 2002'}, "root['term_end']": {'new_value': 'July 25, 2007', 'old_value': '25 July 2007'}, "root['vicepresident']": {'new_value': 'Bhairon Singh Shekhawat', 'old_value': 'Krishan Kant, Bhairon Singh Shekhawat'}, "root['religion']": {'new_value': "Shi'a Islam", 'old_value': 'Islam'}}}
+481: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'Muhammad Sazad'}}}
+482: {'values_changed': {"root['name']": {'new_value': 'Muhammad Sazad', 'old_value': 'Dr A P J Abdul Kalam'}}}
+484: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'Dr. A P J Abdul Kalam'}}}
+485: {'values_changed': {"root['name']": {'new_value': 'Dr. A P J Abdul Kalam', 'old_value': 'Dr A P J Abdul Kalam'}}}
+489: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'Dr A P J Abdul Kalam ,  ए पी जे अब्दुल कलाम'}}}
+490: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam ,  ए पी जे अब्दुल कलाम', 'old_value': 'Dr A P J Abdul Kalam'}}}
+517: {'dictionary_item_added': {"root['facebook']": 'URL'}, 'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'Dr A P J Abdul Kalam.'}}}
+518: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam.', 'old_value': 'Dr A P J Abdul Kalam'}}}
+519: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'Dr A P J Abdul Kalam kalam'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam kalam', 'old_value': 'Dr A P J Abdul Kalam'}}}
+523: {'dictionary_item_removed': {"root['facebook']": 'hellooo'}}
+634: {'dictionary_item_added': {"root['facebook']": 'hellooo'}, 'values_changed': {"root['name']": {'new_value': 'Dr A P J Abdul Kalam', 'old_value': 'A. P. J. Abdul Kalam'}}}
+680: {'values_changed': {"root['primeminister']": {'new_value': 'Atal Bihari Vajpayee, Manmohan Singh', 'old_value': 'Atal Bihari Vajpayee Manmohan Singh'}, "root['vicepresident']": {'new_value': 'Krishan Kant, Bhairon Singh Shekhawat', 'old_value': 'Krishan Kant Bhairon Singh Shekhawat'}, "root['profession']": {'new_value': 'Professor, Author, Aerospace scientist ', 'old_value': 'Professor Author Aerospace scientist '}}}
+720: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Islamcn'}}}
+723: {'values_changed': {"root['religion']": {'new_value': 'Islamcn', 'old_value': 'Islamcitation needed'}}}
+743: {'values_changed': {"root['religion']": {'new_value': 'Islamcitation needed', 'old_value': 'Islam<ref name'}}}
+766: {'values_changed': {"root['name']": {'new_value': 'A. P. J. Abdul Kalam', 'old_value': 'Dr. A. P. J. Abdul Kalam'}}}
+775: {'values_changed': {"root['name']": {'new_value': 'Dr. A. P. J. Abdul Kalam', 'old_value': 'A. P. J. Abdul Kalam'}}}
+812: {'values_changed': {"root['name']": {'new_value': 'A. P. J. Abdul Kalam', 'old_value': 'அ.ப.ஜெ.அப்துல் கலாம், A. P. J. Abdul Kalam'}}}
+814: {'values_changed': {"root['profession']": {'new_value': 'Professor Author Aerospace scientist ', 'old_value': 'Professor Author Aerospace engineering'}}}
+864: {'values_changed': {"root['name']": {'new_value': 'அ.ப.ஜெ.அப்துல் கலாம், A. P. J. Abdul Kalam', 'old_value': 'ஆ. ப. ஜெ. அப்துல் கலாம், A. P. J. Abdul Kalam'}}}
+1002: {'values_changed': {"root['name']": {'new_value': 'ஆ. ப. ஜெ. அப்துல் கலாம், A. P. J. Abdul Kalam', 'old_value': 'ஆ. ப. ஜெ. அப்துல் கலாம்,  Dr. A. P. J. Abdul Kalam'}}}
+1004: {'values_changed': {"root['name']": {'new_value': 'ஆ. ப. ஜெ. அப்துல் கலாம்,  Dr. A. P. J. Abdul Kalam', 'old_value': 'ஆ. ப. ஜெ. அப்துல் கலாம்,  A. P. J. Abdul Kalam'}}}
+1017: {'values_changed': {"root['name']": {'new_value': 'ஆ. ப. ஜெ. அப்துல் கலாம்,  A. P. J. Abdul Kalam', 'old_value': 'A. P. J. Abdul Kalam'}}}
+1082: {'type_changes': {"root['profession']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Professor Author Aerospace engineering'}}, 'dictionary_item_added': {"root['religion']": 'Islam<ref name'}, 'dictionary_item_removed': {"root['awards']": 'Padma Bhushan (1981)   Padma Vibhushan (1990)   Bharat Ratna (1997) Hoover Medal (2009), National Space Society#NSS Von Braun Award', "root['blank1']": 'Notable work(s)', "root['data1']": "''Wings of Fire'', ''India 2020'', ''Ignited Minds'', ''Indomitable Spirit'', ''Transcendence: My Spiritual Experiences with Pramukh Swamiji''", "root['embed']": 'yes', "root['fields']": 'Aerospace Engineering', "root['workplaces']": 'Defence Research and Development Organisation Indian Space Research Organisation  '}, 'values_changed': {"root['office']": {'new_value': 'List of Presidents of India', 'old_value': '11th President of India'}, "root['primeminister']": {'new_value': 'Atal Bihari Vajpayee Manmohan Singh', 'old_value': 'Atal Bihari Vajpayee, Manmohan Singh'}, "root['vicepresident']": {'new_value': 'Krishan Kant Bhairon Singh Shekhawat', 'old_value': 'Krishan Kant, Bhairon Singh Shekhawat'}, "root['alma_mater']": {'new_value': "St. Joseph's College, Tiruchirappalli Madras Institute of Technology", 'old_value': 'Plainlist'}}}
+1116: {'values_changed': {"root['awards']": {'new_value': 'Padma Bhushan (1981)   Padma Vibhushan (1990)   Bharat Ratna (1997) Hoover Medal (2009), National Space Society#NSS Von Braun Award', 'old_value': 'List of honors and awards received by A. P. J. Abdul Kalam'}}}
+1131: {'values_changed': {"root['data1']": {'new_value': "''Wings of Fire'', ''India 2020'', ''Ignited Minds'', ''Indomitable Spirit'', ''Transcendence: My Spiritual Experiences with Pramukh Swamiji''", 'old_value': "''Wings of Fire (autobiography)"}}}

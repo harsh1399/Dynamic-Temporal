@@ -1,0 +1,9 @@
+53: {'dictionary_item_removed': {"root['name']": 'Thora Birch', "root['birthdate']": 'March 11, 1982', "root['location']": 'Los Angeles, California, USA', "root['imdb']": '0000301 '}}
+116: {'dictionary_item_removed': {"root['imagesize']": '+'}}
+167: {'dictionary_item_added': {"root['imagesize']": '+', "root['imdb']": '0000301 '}, 'values_changed': {"root['birthdate']": {'new_value': 'March 11, 1982', 'old_value': 'birth date and age'}, "root['location']": {'new_value': 'Los Angeles, California, USA', 'old_value': 'Los Angeles, California'}}}
+221: {'dictionary_item_removed': {"root['homepage']": '| notable role'}, 'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'March 11, 1982'}, "root['location']": {'new_value': 'Los Angeles, California', 'old_value': 'Los Angeles, California, United States'}}}
+223: {'values_changed': {"root['birthdate']": {'new_value': 'March 11, 1982', 'old_value': 'birth date and age'}}}
+233: {'dictionary_item_added': {"root['birthdate']": 'birth date and age', "root['location']": 'Los Angeles, California, United States', "root['homepage']": '| notable role'}, 'dictionary_item_removed': {"root['occupation']": 'Actress, producer'}}
+243: {'dictionary_item_removed': {"root['spouse']": 'Unknown'}}
+257: {'values_changed': {"root['spouse']": {'new_value': 'Unknown', 'old_value': 'Michael Adler'}}}
+258: {'values_changed': {"root['spouse']": {'new_value': 'Michael Adler', 'old_value': 'Michael Benton Adler'}}}

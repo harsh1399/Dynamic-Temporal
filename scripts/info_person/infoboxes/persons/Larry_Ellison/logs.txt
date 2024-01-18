@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['name']": 'Larry Ellison', "root['occupation']": 'Co-founder and Chief executive officer', "root['salary']": 'US $1.0 million (2009)', "root['networth']": 'loss $22.5 billion USD (2009)<ref name', "root['spouse']": 'marriage', "root['children']": '5'}}
+3: {'values_changed': {"root['salary']": {'new_value': 'US $1.0 million (2009)', 'old_value': 'US $1 million (2009)'}}}
+16: {'values_changed': {"root['salary']": {'new_value': 'US $1 million (2009)', 'old_value': 'US $ 56,810,852 (basic) 616,859,186 (options) (2009)'}}}
+17: {'values_changed': {"root['salary']": {'new_value': 'US $ 56,810,852 (basic) 616,859,186 (options) (2009)', 'old_value': 'US $1 million (2009)<ref name'}}}
+58: {'values_changed': {"root['salary']": {'new_value': 'US $1 million (2009)<ref name', 'old_value': '$1 million (2009)<ref name'}, "root['networth']": {'new_value': 'loss $22.5 billion USD (2009)<ref name', 'old_value': 'gainUnited States dollar'}}}
+62: {'values_changed': {"root['occupation']": {'new_value': 'Co-founder and Chief executive officer', 'old_value': 'Co-founder & Chief executive officer'}}}
+69: {'dictionary_item_removed': {"root['residence']": 'New York City, USA'}}
+114: {'dictionary_item_added': {"root['residence']": 'New York City, USA'}, 'values_changed': {"root['salary']": {'new_value': '$1 million (2009)<ref name', 'old_value': '$1 (2009)<ref name'}}}
+162: {'values_changed': {"root['salary']": {'new_value': '$1 (2009)<ref name', 'old_value': '$70.1 Million (2009)<ref name'}}}
+190: {'values_changed': {"root['salary']": {'new_value': '$70.1 Million (2009)<ref name', 'old_value': '$70.1 M (2009)<ref name'}, "root['networth']": {'new_value': 'gainUnited States dollar', 'old_value': 'gain$27 bn (2010)<ref name'}}}
+194: {'values_changed': {"root['networth']": {'new_value': 'gain$27 bn (2010)<ref name', 'old_value': 'gainUnited States dollar'}}}
+237: {'dictionary_item_removed': {"root['alma_mater']": 'University of Chicago (Dropout), University of Illinois at Urbana (Dropout)'}}
+245: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '2'}}}
+246: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'dictionary_item_removed': {"root['residence']": 'Woodside, California, U.S.', "root['known_for']": 'Co-founder of Oracle Corporation'}, 'values_changed': {"root['alma_mater']": {'new_value': 'University of Chicago (Dropout), University of Illinois at Urbana (Dropout)', 'old_value': 'University of Illinois at Urbana-Champaign (dropped out), University of Chicago (dropped out)'}, "root['occupation']": {'new_value': 'Co-founder & Chief executive officer', 'old_value': 'Chairman of Oracle Corporation'}, "root['salary']": {'new_value': '$70.1 M (2009)<ref name', 'old_value': '$77 million (2013)<ref name'}, "root['networth']": {'new_value': 'gainUnited States dollar', 'old_value': 'increaseUS$ 53.6 billion (Jan. 2015)<ref name'}, "root['children']": {'new_value': '2', 'old_value': 'David Ellison, Megan Ellison'}}}
+254: {'values_changed': {"root['occupation']": {'new_value': 'Chairman of Oracle Corporation', 'old_value': 'Executive Chairman and CTO of Oracle Corporation'}, "root['networth']": {'new_value': 'increaseUS$ 53.6 billion (Jan. 2015)<ref name', 'old_value': 'increaseUnited States dollar'}}}
+259: {'values_changed': {"root['known_for']": {'new_value': 'Co-founder of Oracle Corporation', 'old_value': 'Co-founder and CEO of Oracle Corporation'}}}
+267: {'values_changed': {"root['occupation']": {'new_value': 'Executive Chairman and CTO of Oracle Corporation', 'old_value': 'Executive Chairman and Chief technology officer'}}}
+289: {'values_changed': {"root['salary']": {'new_value': '$77 million (2013)<ref name', 'old_value': 'oon no no dieon (2013)<ref name'}}}
+292: {'values_changed': {"root['salary']": {'new_value': 'oon no no dieon (2013)<ref name', 'old_value': '$77 million (2013)<ref name'}}}
+315: {'values_changed': {"root['networth']": {'new_value': 'increaseUnited States dollar', 'old_value': 'DecreaseUnited States dollar'}}}
+317: {'values_changed': {"root['residence']": {'new_value': 'Woodside, California, U.S.', 'old_value': 'Woodside, California, U.S. THIS GUY IS AMAZEBALLS'}}}
+318: {'values_changed': {"root['residence']": {'new_value': 'Woodside, California, U.S. THIS GUY IS AMAZEBALLS', 'old_value': 'Woodside, California, U.S.'}}}
+321: {'values_changed': {"root['networth']": {'new_value': 'DecreaseUnited States dollar', 'old_value': 'IncreaseUnited States dollar'}}}
+323: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUnited States dollar', 'old_value': 'Increase US$55.2 billion (June 2015)<ref name'}}}
+324: {'values_changed': {"root['networth']": {'new_value': 'Increase US$55.2 billion (June 2015)<ref name', 'old_value': 'Decrease US$52.8 billion (June 2015)<ref name'}}}
+326: {'dictionary_item_removed': {"root['ethnicity']": 'Jewish, Italian'}}
+329: {'dictionary_item_added': {"root['ethnicity']": 'Jewish, Italian'}, 'values_changed': {"root['networth']": {'new_value': 'Decrease US$52.8 billion (June 2015)<ref name', 'old_value': 'Decrease US$50.8 billion (June 2015)<ref name'}}}
+330: {'values_changed': {"root['networth']": {'new_value': 'Decrease US$50.8 billion (June 2015)<ref name', 'old_value': 'US$50.8 billion (June 2015)<ref name'}}}
+333: {'values_changed': {"root['networth']": {'new_value': 'US$50.8 billion (June 2015)<ref name', 'old_value': 'US$50 billion (June 2015)<ref name'}}}
+348: {'values_changed': {"root['name']": {'new_value': 'Larry Ellison', 'old_value': 'Larry Johnson Ellison'}, "root['occupation']": {'new_value': 'Executive Chairman and Chief technology officer', 'old_value': 'manager and Checkout manager of countdown'}, "root['networth']": {'new_value': 'US$50 billion (June 2015)<ref name', 'old_value': 'US$250 Thousand (June 2015)<ref name'}}}
+350: {'values_changed': {"root['name']": {'new_value': 'Larry Johnson Ellison', 'old_value': 'Larry Ellison'}, "root['occupation']": {'new_value': 'manager and Checkout manager of countdown', 'old_value': 'Executive Chairman and Chief technology officer'}, "root['networth']": {'new_value': 'US$250 Thousand (June 2015)<ref name', 'old_value': 'US$50 billion (June 2015)<ref name'}}}
+356: {'dictionary_item_removed': {"root['party']": 'Democratic, Republican'}}
+359: {'values_changed': {"root['party']": {'new_value': 'Democratic, Republican', 'old_value': 'Republican, Democratic'}}}
+368: {'dictionary_item_added': {"root['party']": 'Republican, Democratic'}, 'values_changed': {"root['networth']": {'new_value': 'US$50 billion (June 2015)<ref name', 'old_value': 'US$54.3 billion (June 2015)<ref name'}}}
+369: {'values_changed': {"root['networth']": {'new_value': 'US$54.3 billion (June 2015)<ref name', 'old_value': 'US$54.3 billion (September 2015)<ref name'}}}
+371: {'values_changed': {"root['networth']": {'new_value': 'US$54.3 billion (September 2015)<ref name', 'old_value': 'US$50 billion (June 2015)<ref name'}}}
+386: {'values_changed': {"root['networth']": {'new_value': 'US$50 billion (June 2015)<ref name', 'old_value': 'US$49.5 billion (November 2015)<ref name'}}}
+387: {'values_changed': {"root['networth']": {'new_value': 'US$49.5 billion (November 2015)<ref name', 'old_value': 'increaseUS$50 billion (November 2015)<ref name'}}}
+388: {'values_changed': {"root['networth']": {'new_value': 'increaseUS$50 billion (November 2015)<ref name', 'old_value': 'increase US$50 billion (November 2015)<ref name'}}}
+392: {'values_changed': {"root['residence']": {'new_value': 'Woodside, California, U.S.', 'old_value': 'Woodside, California'}}}
+397: {'values_changed': {"root['residence']": {'new_value': 'Woodside, California', 'old_value': 'Woodside, California, U.S.'}}}
+398: {'values_changed': {"root['known_for']": {'new_value': 'Co-founder and CEO of Oracle Corporation', 'old_value': 'Co-founder and former CEO of Oracle Corporation'}, "root['salary']": {'new_value': '$77 million (2013)<ref name', 'old_value': 'US$63.6 million (2015)'}, "root['networth']": {'new_value': 'increase US$50 billion (November 2015)<ref name', 'old_value': 'decrease US$48.6 billion (December 2015)<ref name'}}}
+401: {'values_changed': {"root['name']": {'new_value': 'Larry Ellison', 'old_value': 'Lapooopoofndnjdbrks'}}}
+402: {'values_changed': {"root['name']": {'new_value': 'Lapooopoofndnjdbrks', 'old_value': 'Larry Ellison'}}}

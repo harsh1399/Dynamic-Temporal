@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['name']": 'David Livingstone', "root['known_for']": 'Exploration of Africa', "root['spouse']": 'Mary Livingstone (née Moffat)', "root['religion']": 'Christian '}}
+1: {'values_changed': {"root['religion']": {'new_value': 'Christian ', 'old_value': 'Christian'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Livingdead stone'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'David Livingdead stone', 'old_value': 'David Livingstone'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Adamrigdenstone'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'David Adamrigdenstone', 'old_value': 'David Livingstone'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David poopoo'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'David poopoo', 'old_value': 'David Livingstone'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David poopoo'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'David poopoo', 'old_value': 'David Livingstone'}}}
+103: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Livingsto'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'David Livingsto', 'old_value': 'David Livingstone'}}}
+164: {'dictionary_item_added': {"root['religion']": 'Christian'}, 'values_changed': {"root['known_for']": {'new_value': 'Exploration of Africa', 'old_value': 'Spreading the Gospel and Exploration of Africa'}, "root['spouse']": {'new_value': 'Mary Livingstone (née Moffat)', 'old_value': 'Mary (née Moffat; m. 1845 – 27 April 1862; her death); 6 children '}}}
+166: {'dictionary_item_added': {"root['known_for']": 'Spreading the Gospel and Exploration of Africa', "root['spouse']": 'Mary (née Moffat; m. 1845 – 27 April 1862; her death); 6 children '}, 'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Livingstone5yfgbrtgt'}}}
+167: {'dictionary_item_removed': {"root['known_for']": 'Spreading the Gospel and Exploration of Africa', "root['spouse']": 'Mary (née Moffat; m. 1845 – 27 April 1862; her death); 6 children '}, 'values_changed': {"root['name']": {'new_value': 'David Livingstone5yfgbrtgt', 'old_value': 'David Livingstone'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Corner'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'David Corner', 'old_value': 'David Livingstone'}}}
+180: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Corner Livingstone'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'David Corner Livingstone', 'old_value': 'David Livingstone'}}}
+182: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Corner'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'David Corner', 'old_value': 'David Livingstone'}}}
+247: {'dictionary_item_removed': {"root['children']": '6 '}, 'values_changed': {"root['spouse']": {'new_value': 'Mary (née Moffat; m. 1845 – 27 April 1862; her death); 6 children ', 'old_value': 'marriage'}}}
+268: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Dickinson'}, "root['children']": {'new_value': '6 ', 'old_value': '3 '}}}
+269: {'values_changed': {"root['name']": {'new_value': 'David Dickinson', 'old_value': 'David Livingstone'}, "root['children']": {'new_value': '3 ', 'old_value': '6 '}}}
+270: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'David Dickinson'}}}
+271: {'values_changed': {"root['name']": {'new_value': 'David Dickinson', 'old_value': 'David Livingstone'}}}
+279: {'values_changed': {"root['children']": {'new_value': '6 ', 'old_value': '69 '}}}
+280: {'values_changed': {"root['children']": {'new_value': '69 ', 'old_value': '6 '}}}
+283: {'values_changed': {"root['name']": {'new_value': 'David Livingstone', 'old_value': 'lil D Livingstone'}}}
+284: {'values_changed': {"root['name']": {'new_value': 'lil D Livingstone', 'old_value': 'David Livingstone'}}}
+302: {'values_changed': {"root['known_for']": {'new_value': 'Spreading the Gospel and Exploration of Africa', 'old_value': 'Spreading the Gospel and Exploration of Africa and meeting Henry Stanley.'}}}

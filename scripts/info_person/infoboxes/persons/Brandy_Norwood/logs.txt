@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Brandy Norwood', "root['occupation']": [], "root['home_town']": 'Los Angeles, California, U.S.', "root['children']": '1', "root['embed']": 'yes', "root['background']": 'solo_singer', "root['genre']": [], "root['label']": [], "root['associated_acts']": [], "root['alias']": ['B Rocka', "Bran'Nu"]}}
+13: {'dictionary_item_removed': {"root['awards']": 'List of'}}
+22: {'dictionary_item_removed': {"root['instrument']": 'Vocals'}}
+39: {'dictionary_item_added': {"root['associated_acts']": [], "root['alias']": ['B Rocka', "Bran'Nu"]}, 'iterable_item_removed': {"root['label'][0]": 'Atlantic', "root['label'][1]": 'Knockout', "root['label'][2]": 'Epic', "root['label'][3]": 'RCA', "root['label'][4]": 'Chameleon', "root['label'][5]": 'E1', "root['label'][6]": 'Primary Wave'}}
+41: {'dictionary_item_removed': {"root['associated_acts']": [], "root['alias']": ['B Rocka', "Bran'Nu"]}, 'iterable_item_added': {"root['label'][0]": 'Atlantic', "root['label'][1]": 'Knockout', "root['label'][2]": 'Epic', "root['label'][3]": 'RCA', "root['label'][4]": 'Chameleon', "root['label'][5]": 'E1', "root['label'][6]": 'Primary Wave'}}
+46: {'values_changed': {"root['home_town']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, United States'}}}
+49: {'iterable_item_added': {"root['alias'][0]": 'B Rocka', "root['alias'][1]": "Bran'Nu"}}
+70: {'values_changed': {"root['name']": {'new_value': 'Brandy Norwood', 'old_value': '“Keep yo seat belt handy with Brandy” Norwood'}}}
+71: {'values_changed': {"root['name']": {'new_value': '“Keep yo seat belt handy with Brandy” Norwood', 'old_value': 'Brandy Norwood'}}}
+77: {'values_changed': {"root['home_town']": {'new_value': 'Los Angeles, California, United States', 'old_value': 'Lous Angeles, California, United States'}}}
+78: {'values_changed': {"root['home_town']": {'new_value': 'Lous Angeles, California, United States', 'old_value': 'Los Angeles, California, United States'}}}
+114: {'values_changed': {"root['name']": {'new_value': 'Brandy Norwood', 'old_value': 'Brandy'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'Brandy', 'old_value': 'Brandy Norwood'}}}
+116: {'values_changed': {"root['name']": {'new_value': 'Brandy Norwood', 'old_value': 'Brandy'}}}
+118: {'values_changed': {"root['name']": {'new_value': 'Brandy', 'old_value': 'Brandy Norwood'}}}
+203: {'values_changed': {"root['name']": {'new_value': 'Brandy Norwood', 'old_value': 'NaS'}}}
+204: {'values_changed': {"root['name']": {'new_value': 'NaS', 'old_value': 'Brandy Norwood'}}}
+213: {'values_changed': {"root['name']": {'new_value': 'Brandy Norwood', 'old_value': 'Brandy'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'Brandy', 'old_value': 'Brandy Norwood'}}}

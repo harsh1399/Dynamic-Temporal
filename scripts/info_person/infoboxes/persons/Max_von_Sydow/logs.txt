@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Actor', "root['spouse']": 'Kerstin Olin (1951–1979; two sons), Catherine Brelet (1997–present; two sons) '}}
+27: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Kerstin Olin (1951–1979; two sons)', 'Catherine Brelet (1997–present; two sons) Endplainlist'], 'new_value': 'Kerstin Olin (1951–1979; two sons), Catherine Brelet (1997–present; two sons) '}}}
+61: {'values_changed': {"root['spouse'][1]": {'new_value': 'Catherine Brelet (1997–present; two sons) Endplainlist', 'old_value': 'Catherine Brelet (1997–present; two sons)'}}}
+62: {'values_changed': {"root['spouse'][0]": {'new_value': 'Kerstin Olin (1951–1979; two sons)', 'old_value': 'Kerstin Olin  (1951–1979; two sons)'}, "root['spouse'][1]": {'new_value': 'Catherine Brelet (1997–present; two sons)', 'old_value': 'Catherine Brelet  (1997–present; two sons)'}}}
+63: {'values_changed': {"root['spouse'][1]": {'new_value': 'Catherine Brelet  (1997–present; two sons)', 'old_value': 'Catherine Brelet  (1997–present)'}}}
+80: {'dictionary_item_removed': {"root['residence']": 'Paddington, London, UK'}}
+86: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'marriage', 'new_value': ['Kerstin Olin  (1951–1979; two sons)', 'Catherine Brelet  (1997–present)']}}, 'dictionary_item_added': {"root['residence']": 'Paddington, London, UK'}, 'dictionary_item_removed': {"root['children']": '2 '}}
+116: {'dictionary_item_removed': {"root['alma_mater']": 'Royal Dramatic Theatre'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '4 '}}}
+129: {'dictionary_item_removed': {"root['name']": 'Max von Sydow'}}
+253: {'dictionary_item_added': {"root['name']": 'Max von Sydow'}, 'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '4'}}}
+291: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4 '}}}
+379: {'dictionary_item_removed': {"root['list']": "NYTObit/> Von Sydow made his British stage debut at The Old Vic in 1988 as Prospero in ''The Tempest'', a role he first played in Sweden three decades ago.<ref name"}, 'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': "4   '''Max von Sydow''' (IPAc-en"}}}
+380: {'dictionary_item_added': {"root['spouse']": 'marriage', "root['list']": "NYTObit/> Von Sydow made his British stage debut at The Old Vic in 1988 as Prospero in ''The Tempest'', a role he first played in Sweden three decades ago.<ref name"}, 'values_changed': {"root['children']": {'new_value': "4   '''Max von Sydow''' (IPAc-en", 'old_value': '4 '}}}
+383: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+428: {'dictionary_item_removed': {"root['name']": 'Max von Sydow'}}
+480: {'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '4'}}}

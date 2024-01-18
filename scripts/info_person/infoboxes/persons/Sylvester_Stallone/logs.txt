@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sylvester Stallone', "root['residence']": 'Beverly Hills, California, U.S.', "root['education']": 'Miami Dade College University of Miami', "root['occupation']": 'Actor, director, screenwriter, producer', "root['net_worth']": 'US$', "root['spouse']": 'marriage', "root['children']": '5, including Sage Stallone'}}
+39: {'dictionary_item_added': {"root['net_worth']": 'US$'}, 'dictionary_item_removed': {"root['height_ft']": '5', "root['height_in']": '8'}}
+96: {'dictionary_item_added': {"root['height_ft']": '5', "root['height_in']": '8'}, 'dictionary_item_removed': {"root['net_worth']": '$400 million'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, director, screenwriter, producer', 'old_value': 'Actor, Film director'}}}
+154: {'dictionary_item_added': {"root['residence']": 'Beverly Hills, California, U.S.', "root['net_worth']": '$400 million'}, 'values_changed': {"root['occupation']": {'new_value': 'Actor, Film director', 'old_value': 'Actor, filmmaker'}}}
+162: {'values_changed': {"root['education']": {'new_value': 'Miami Dade College University of Miami', 'old_value': 'Miami Dade College University of Miami, Bachelor of Fine Arts'}}}
+163: {'values_changed': {"root['education']": {'new_value': 'Miami Dade College University of Miami, Bachelor of Fine Arts', 'old_value': 'Miami Dade College University of Miami (Bachelor of Fine Arts'}}}
+198: {'dictionary_item_added': {"root['education']": 'Miami Dade College University of Miami (Bachelor of Fine Arts'}, 'dictionary_item_removed': {"root['alma_mater']": 'Miami Dade College University of Miami (Bachelor of Fine Arts'}}
+217: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, filmmaker'}}}
+224: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}}

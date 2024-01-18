@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['spouse']": 'Akosua Busia (1996–1997)', "root['occupation']": 'Film director '}}
+1: {'dictionary_item_removed': {"root['imagesize']": '300'}}
+5: {'values_changed': {"root['imagesize']": {'new_value': '300', 'old_value': '225'}}}
+17: {'dictionary_item_removed': {"root['name']": 'John Singleton', "root['children']": '4 '}, 'values_changed': {"root['spouse']": {'new_value': 'Akosua Busia (1996–1997)', 'old_value': 'marriage'}, "root['occupation']": {'new_value': 'Film director ', 'old_value': 'Film director, screenwriter, producer'}}}
+29: {'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '7 '}}}
+40: {'values_changed': {"root['children']": {'new_value': '7 ', 'old_value': '5 '}}}
+97: {'values_changed': {"root['imagesize']": {'new_value': '225', 'old_value': '250'}}}
+98: {'values_changed': {"root['imagesize']": {'new_value': '250', 'old_value': '225'}}}
+159: {'values_changed': {"root['children']": {'new_value': '5 ', 'old_value': '7 '}}}
+229: {'dictionary_item_added': {"root['imagesize']": '225'}, 'values_changed': {"root['occupation']": {'new_value': 'Film director, screenwriter, producer', 'old_value': 'Film director, screenwriter, producer, actor'}}}

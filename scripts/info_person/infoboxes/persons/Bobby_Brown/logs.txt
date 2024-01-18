@@ -1,0 +1,163 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Bobby Brown', "root['Background']": 'solo_singer', "root['Birth_name']": 'Robert Beresford Brown', "root['Born']": 'February 5, 1969', "root['Origin']": 'Boston, Massachusetts, United States of America', "root['Instrument']": 'Flute carved from whale bone', "root['Genre']": 'Rhythm and blues, hip hop', "root['Occupation']": 'Singer, dancer, rapper', "root['Years_active']": '1980-present', "root['Label']": 'MCA Records', "root['Associated_acts']": 'New Edition, Whitney Houston', "root['URL']": 'http://www.bobbybrownonline.com'}}
+1: {'values_changed': {"root['Instrument']": {'new_value': 'Flute carved from whale bone', 'old_value': 'Vocal'}}}
+14: {'dictionary_item_removed': {"root['Notable_instruments']": 'the crack pipe '}}
+16: {'values_changed': {"root['Notable_instruments']": {'new_value': 'the crack pipe ', 'old_value': 'THE CRACK PIPE '}}}
+21: {'dictionary_item_added': {"root['Notable_instruments']": 'THE CRACK PIPE '}, 'values_changed': {"root['Name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown he made out with his mother at home before'}}}
+22: {'values_changed': {"root['Name']": {'new_value': 'Bobby Brown he made out with his mother at home before', 'old_value': 'Bobby Brown'}}}
+28: {'values_changed': {"root['Born']": {'new_value': 'February 5, 1969', 'old_value': 'birth date and age'}}}
+51: {'dictionary_item_removed': {"root['Alias']": 'Bobby, B. Brown, Triple B, Brown Bomber'}, 'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'solo singer 1986-Present Member of New Edition 1978-1986; 1994-1997; 2005-Present'}}}
+52: {'values_changed': {"root['Genre']": {'new_value': 'Rhythm and blues, hip hop', 'old_value': 'R&B, New jack swing'}}}
+112: {'dictionary_item_added': {"root['Origin']": 'Boston, Massachusetts, United States of America', "root['Instrument']": 'Vocal', "root['URL']": 'http://www.bobbybrownonline.com'}, 'values_changed': {"root['Background']": {'new_value': 'solo singer 1986-Present Member of New Edition 1978-1986; 1994-1997; 2005-Present', 'old_value': 'solo_singer'}, "root['Genre']": {'new_value': 'R&B, New jack swing', 'old_value': 'R&B New jack swing'}, "root['Occupation']": {'new_value': 'Singer, dancer, rapper', 'old_value': 'Singer-songwriter'}, "root['Years_active']": {'new_value': '1980-present', 'old_value': '1978–present'}, "root['Associated_acts']": {'new_value': 'New Edition, Whitney Houston', 'old_value': 'New Edition'}}}
+145: {'values_changed': {"root['Name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby "o.j"  Brown'}}}
+146: {'values_changed': {"root['Name']": {'new_value': 'Bobby "o.j"  Brown', 'old_value': 'Bobby Brown'}}}
+161: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Beresford Brown', 'old_value': 'Robert Berisford Brown'}}}
+163: {'values_changed': {"root['Occupation']": {'new_value': 'Singer-songwriter', 'old_value': 'dancer and pro eater'}}}
+164: {'values_changed': {"root['Occupation']": {'new_value': 'dancer and pro eater', 'old_value': 'Singer-songwriter'}}}
+168: {'values_changed': {"root['Name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Hill'}, "root['Background']": {'new_value': 'solo_singer', 'old_value': 'male_stripper'}}}
+169: {'values_changed': {"root['Name']": {'new_value': 'Bobby Hill', 'old_value': 'Bobby Brown'}, "root['Background']": {'new_value': 'male_stripper', 'old_value': 'solo_singer'}}}
+175: {'values_changed': {"root['Genre']": {'new_value': 'R&B New jack swing', 'old_value': 'R&B,'}, "root['Associated_acts']": {'new_value': 'New Edition', 'old_value': 'New Edition, Whitney Houston'}}}
+180: {'values_changed': {"root['Genre']": {'new_value': 'R&B,', 'old_value': 'R&B, New jack swing'}}}
+215: {'values_changed': {"root['Label']": {'new_value': 'MCA Records', 'old_value': 'Brownhouze Entertainment'}}}
+218: {'values_changed': {"root['Label']": {'new_value': 'Brownhouze Entertainment', 'old_value': 'MCA Records'}}}
+219: {'values_changed': {"root['Label']": {'new_value': 'MCA Records', 'old_value': 'MCA'}}}
+224: {'dictionary_item_added': {"root['Alias']": 'Bobby, B. Brown, Triple B, Brown Bomber'}, 'dictionary_item_removed': {"root['Origin']": 'Flagicon', "root['Instrument']": 'Vocals'}, 'values_changed': {"root['Genre']": {'new_value': 'R&B, New jack swing', 'old_value': 'R&B, new jack swing'}, "root['Years_active']": {'new_value': '1978–present', 'old_value': '1978 – present'}}}
+225: {'values_changed': {"root['Label']": {'new_value': 'MCA', 'old_value': 'The Inc./Universal Motown'}}}
+226: {'values_changed': {"root['Label']": {'new_value': 'The Inc./Universal Motown', 'old_value': 'The Inc.'}}}
+227: {'values_changed': {"root['Label']": {'new_value': 'The Inc.', 'old_value': 'Universal Motown'}}}
+228: {'values_changed': {"root['Label']": {'new_value': 'Universal Motown', 'old_value': 'Universal/Motown'}}}
+229: {'values_changed': {"root['Label']": {'new_value': 'Universal/Motown', 'old_value': 'Universal Motown'}}}
+230: {'values_changed': {"root['Label']": {'new_value': 'Universal Motown', 'old_value': 'The Inc. Universal Motown'}}}
+231: {'values_changed': {"root['Label']": {'new_value': 'The Inc. Universal Motown', 'old_value': 'The Inc./Universal Motown'}}}
+232: {'values_changed': {"root['Label']": {'new_value': 'The Inc./Universal Motown', 'old_value': 'MCA'}}}
+241: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'salt_singer'}}}
+242: {'values_changed': {"root['Label']": {'new_value': 'MCA', 'old_value': 'MCA Records/MCA'}}}
+243: {'values_changed': {"root['Label']": {'new_value': 'MCA Records/MCA', 'old_value': 'MCA Records'}}}
+244: {'values_changed': {"root['Label']": {'new_value': 'MCA Records', 'old_value': 'MCA'}}}
+245: {'values_changed': {"root['Label']": {'new_value': 'MCA', 'old_value': 'MCA Records'}}}
+246: {'values_changed': {"root['Label']": {'new_value': 'MCA Records', 'old_value': 'MCA'}}}
+247: {'values_changed': {"root['Years_active']": {'new_value': '1978 – present', 'old_value': '1978 – Present'}, "root['Label']": {'new_value': 'MCA', 'old_value': 'MCA Records'}}}
+251: {'values_changed': {"root['Background']": {'new_value': 'salt_singer', 'old_value': 'solo_singer'}, "root['Instrument']": {'new_value': 'Vocals', 'old_value': 'Singing'}, "root['Occupation']": {'new_value': 'Singer-songwriter', 'old_value': 'Singer, songwriter'}, "root['Years_active']": {'new_value': '1978 – Present', 'old_value': '1978–present'}}}
+252: {'dictionary_item_added': {"root['Origin']": 'Flagicon'}, 'values_changed': {"root['Genre']": {'new_value': 'R&B, new jack swing', 'old_value': 'rhythm and blues'}, "root['Occupation']": {'new_value': 'Singer, songwriter', 'old_value': 'Singer, songwriter, dancer'}}}
+257: {'dictionary_item_removed': {"root['Alias']": 'Asshole'}}
+259: {'dictionary_item_added': {"root['Alias']": 'Asshole'}, 'dictionary_item_removed': {"root['Died']": '5/16/2007'}}
+264: {'dictionary_item_added': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Robert Berisford Brown', "root['Born']": 'birth date and age', "root['Died']": '5/16/2007', "root['Instrument']": 'Singing', "root['Occupation']": 'Singer, songwriter, dancer', "root['Years_active']": '1978–present'}, 'dictionary_item_removed': {"root['IDDDDDDDDDDDDDDDDDDDDDmg']": 'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD', "root['BaDDDDDDckgrouDDDDDDDnd']": 'solo_singer', "root['DDDDDDDDDDDDDDDDDDDDDDBiDDDDDDDDDDDDDDDrDDDDDDDDDDtDDDDDhDDDDDDDDDDDDDDDDDDDDDD_name']": 'Robert Berisford DDDDDDDDBDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDrDDDDDDDDDDDDDDDDDDDDoDDDDDDDwDDDDDDDDnDDDDDDDDDDDDDDDDDDDDDDDD', "root['BornDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD']": 'birth date and age', "root['OccupatioDDDDDDDDDDDDDDDDn']": 'Singer, songwriter, dancer', "root['YearDDDDDDDDs_DDDDDDDDDDacDDDDDDDtive']": '1DDDDDDDDDDDDDDDDDDDDDDDDDDDDD9DDDDDDDDDD7DDDDDDDDDDDDDDDDDD8–pDDDDDDDDDDresDDDDDDDDDentDDDDDDDDDDDDDD', "root['URL']": 'DDDDDD '}, 'values_changed': {"root['Name']": {'new_value': 'Bobby Brown', 'old_value': 'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD BoDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDbbyDDDDDDDDDDDDDDDDD DDDDDDDDDDDDDDDDDDDDDBrown'}, "root['Label']": {'new_value': 'MCA Records', 'old_value': 'MCDDDDDDDDDDDDDDDDDDDADDDDDDDD ReDDDDDDDDDDDDDDDDDDDcorDDDDDDDDDDDDDDDDDdDDDDDDs'}, "root['Associated_acts']": {'new_value': 'New Edition, Whitney Houston', 'old_value': 'DDDDDDDDDDDDDDDNeDDDDDDDDDw DDDDDDDEDDDDDDDDditiDDDDDDDDDDDDDDDDon, WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDhitDDDDDDDDDDDDDDDDDney Houston'}}}
+265: {'dictionary_item_added': {"root['IDDDDDDDDDDDDDDDDDDDDDmg']": 'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD', "root['BaDDDDDDckgrouDDDDDDDnd']": 'solo_singer', "root['DDDDDDDDDDDDDDDDDDDDDDBiDDDDDDDDDDDDDDDrDDDDDDDDDDtDDDDDhDDDDDDDDDDDDDDDDDDDDDD_name']": 'Robert Berisford DDDDDDDDBDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDrDDDDDDDDDDDDDDDDDDDDoDDDDDDDwDDDDDDDDnDDDDDDDDDDDDDDDDDDDDDDDD', "root['BornDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD']": 'birth date and age', "root['OccupatioDDDDDDDDDDDDDDDDn']": 'Singer, songwriter, dancer', "root['YearDDDDDDDDs_DDDDDDDDDDacDDDDDDDtive']": '1DDDDDDDDDDDDDDDDDDDDDDDDDDDDD9DDDDDDDDDD7DDDDDDDDDDDDDDDDDD8–pDDDDDDDDDDresDDDDDDDDDentDDDDDDDDDDDDDD', "root['URL']": 'DDDDDD '}, 'dictionary_item_removed': {"root['Background']": 'solo_singer', "root['Birth_name']": 'Robert Berisford Brown', "root['Born']": 'birth date and age', "root['Instrument']": 'Singing', "root['Occupation']": 'Singer, songwriter, dancer', "root['Years_active']": '1978–present'}, 'values_changed': {"root['Name']": {'new_value': 'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD BoDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDbbyDDDDDDDDDDDDDDDDD DDDDDDDDDDDDDDDDDDDDDBrown', 'old_value': 'Bobby Brown'}, "root['Label']": {'new_value': 'MCDDDDDDDDDDDDDDDDDDDADDDDDDDD ReDDDDDDDDDDDDDDDDDDDcorDDDDDDDDDDDDDDDDDdDDDDDDs', 'old_value': 'MCA Records'}, "root['Associated_acts']": {'new_value': 'DDDDDDDDDDDDDDDNeDDDDDDDDDw DDDDDDDEDDDDDDDDditiDDDDDDDDDDDDDDDDon, WDDDDDDDDDDDDDDDDDDDDDDDDDDDDDhitDDDDDDDDDDDDDDDDDney Houston', 'old_value': 'New Edition, Whitney Houston'}}}
+272: {'dictionary_item_removed': {"root['Alias']": 'B. Brown, the King of R&B'}}
+284: {'dictionary_item_added': {"root['Instrument']": 'Singing'}, 'values_changed': {"root['Occupation']": {'new_value': 'Singer, songwriter, dancer', 'old_value': 'Singer-songwriter ,  dance'}, "root['Associated_acts']": {'new_value': 'New Edition, Whitney Houston', 'old_value': 'New Edition ,  Whitney Houston'}}}
+313: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Berisford Brown', 'old_value': 'Robert Barisford Brown'}}}
+319: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Barisford Brown', 'old_value': 'Robert Barisford'}}}
+320: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Barisford', 'old_value': "Robert j'andre Barisford"}}}
+321: {'values_changed': {"root['Birth_name']": {'new_value': "Robert j'andre Barisford", 'old_value': 'Robert Barisford'}}}
+322: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Barisford', 'old_value': 'Robert Barisford Brown'}}}
+328: {'dictionary_item_added': {"root['Alias']": 'B. Brown, the King of R&B'}, 'dictionary_item_removed': {"root['Origin']": 'flagicon'}, 'values_changed': {"root['Occupation']": {'new_value': 'Singer-songwriter ,  dance', 'old_value': 'Singer-songwriter Dancer'}, "root['Associated_acts']": {'new_value': 'New Edition ,  Whitney Houston', 'old_value': 'New Edition   Whitney Houston'}}}
+329: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Barisford Brown', 'old_value': 'Robert Baresford Brown'}}}
+413: {'dictionary_item_removed': {"root['Died']": 'death date and age (2007)(10)(12)'}}
+414: {'values_changed': {"root['Died']": {'new_value': 'death date and age (2007)(10)(12)', 'old_value': 'death date and age'}}}
+415: {'values_changed': {"root['Years_active']": {'new_value': '1978–present', 'old_value': '1978–2007'}}}
+434: {'dictionary_item_added': {"root['Died']": 'death date and age'}, 'values_changed': {"root['Years_active']": {'new_value': '1978–2007', 'old_value': '1978–Present'}}}
+438: {'values_changed': {"root['Associated_acts']": {'new_value': 'New Edition   Whitney Houston', 'old_value': 'New Edition   Whitney Houston   URL'}}}
+439: {'values_changed': {"root['Associated_acts']": {'new_value': 'New Edition   Whitney Houston   URL', 'old_value': 'New Edition   Whitney Houston'}}}
+444: {'values_changed': {"root['Birth_name']": {'new_value': 'Robert Baresford Brown', 'old_value': 'Robert Barisford Brown'}}}
+455: {'values_changed': {"root['Origin']": {'new_value': 'flagicon', 'old_value': 'Roxbury, Massachusetts'}}}
+495: {'dictionary_item_added': {"root['Name']": 'Bobby Brown', "root['Background']": 'solo_singer', "root['Birth_name']": 'Robert Barisford Brown', "root['Born']": 'birth date and age', "root['Origin']": 'Roxbury, Massachusetts', "root['Genre']": 'rhythm and blues', "root['Occupation']": 'Singer-songwriter Dancer', "root['Years_active']": '1978–Present', "root['Label']": 'MCA Records', "root['Associated_acts']": 'New Edition   Whitney Houston'}, 'dictionary_item_removed': {"root['name']": 'Bobby Brown', "root['background']": 'solo_singer', "root['origin']": 'Roxbury, Massachusetts, United States', "root['genre']": 'Contemporary R&B', "root['occupation']": 'Singer-songwriter  Dancer', "root['label']": 'MCA Records', "root['associated_acts']": 'New Edition Heads of State (R&B Group)'}}
+545: {'values_changed': {"root['origin']": {'new_value': 'Roxbury, Massachusetts, United States', 'old_value': 'Roxbury, Boston, Massachusetts, United States'}}}
+564: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Dicky LOU Shitty McFargason'}}}
+565: {'values_changed': {"root['name']": {'new_value': 'Dicky LOU Shitty McFargason', 'old_value': 'Bobby Brown'}}}
+572: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'addicted whitny housten into drugs and alochoal'}, "root['occupation']": {'new_value': 'Singer-songwriter  Dancer', 'old_value': 'drug dealer  Dancer'}}}
+573: {'values_changed': {"root['background']": {'new_value': 'addicted whitny housten into drugs and alochoal', 'old_value': 'solo_singer'}, "root['occupation']": {'new_value': 'drug dealer  Dancer', 'old_value': 'Singer-songwriter  Dancer'}}}
+585: {'dictionary_item_removed': {"root['Spouse']": 'Whitney Houston (1992-2007)'}}
+591: {'values_changed': {"root['occupation']": {'new_value': 'Singer-songwriter  Dancer', 'old_value': 'Singer-songwriter Rapper  Dancer Actor'}}}
+607: {'dictionary_item_added': {"root['name']": 'Bobby Brown', "root['occupation']": 'Singer-songwriter Rapper  Dancer Actor', "root['Spouse']": 'Whitney Houston (1992-2007)'}, 'dictionary_item_removed': {"root['married']": 'Whitney Houston  children'}}
+627: {'dictionary_item_added': {"root['origin']": 'Roxbury, Boston, Massachusetts, United States', "root['married']": 'Whitney Houston  children'}, 'dictionary_item_removed': {"root['children']": 'Bobbi Kristina Brown  occupation'}}
+673: {'dictionary_item_removed': {"root['Spouse']": 'Whitney Houston (1992-2007, divorced, 1 child)'}}
+674: {'values_changed': {"root['Spouse']": {'new_value': 'Whitney Houston (1992-2007, divorced, 1 child)', 'old_value': 'Whitney Houston (1992-2007)'}}}
+704: {'dictionary_item_added': {"root['Spouse']": 'Whitney Houston (1992-2007)'}, 'dictionary_item_removed': {"root['occupation']": 'Singer-songwriter, rapper, dancer, actor'}, 'values_changed': {"root['children']": {'new_value': 'Bobbi Kristina Brown  occupation', 'old_value': 'Bobbi Kristina Brown'}}}
+705: {'values_changed': {"root['associated_acts']": {'new_value': 'New Edition Heads of State (R&B Group)', 'old_value': 'New Edition, Heads of State (R&B Group)'}}}
+736: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Contemporary R&B'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer-songwriter, rapper, dancer, actor'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'MCA Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'New Edition, Heads of State (R&B Group)'}}, 'dictionary_item_removed': {"root['name']": 'Bobby Brown', "root['alias']": [], "root['spouse']": 'ubl'}, 'values_changed': {"root['children']": {'new_value': 'Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+752: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '8; including Bobbi Kristina Brown'}}}
+753: {'values_changed': {"root['children']": {'new_value': '8; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+786: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Hobby Brown'}, "root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '10; including Bobbi Kristina Brown'}}}
+787: {'values_changed': {"root['name']": {'new_value': 'Hobby Brown', 'old_value': 'Bobby Brown'}, "root['children']": {'new_value': '10; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+795: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Houston - Brown'}}}
+796: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Houston - Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+804: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown.'}}}
+805: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown.', 'old_value': 'Bobby Brown'}}}
+816: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Hill'}, "root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '1 ; including Bobbi Kristina Brown'}}}
+817: {'values_changed': {"root['name']": {'new_value': 'Bobby Hill', 'old_value': 'Bobby Brown'}, "root['children']": {'new_value': '1 ; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+825: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown turner'}}}
+826: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown turner', 'old_value': 'Bobby Brown'}}}
+827: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown Turner'}}}
+829: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown Turner', 'old_value': 'Bobby Brown'}}}
+830: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '8; including Bobbi Kristina Brown and Shyquan Carter'}}}
+831: {'values_changed': {"root['children']": {'new_value': '8; including Bobbi Kristina Brown and Shyquan Carter', 'old_value': '8; including Bobbi Kristina Brown'}}}
+832: {'values_changed': {"root['children']": {'new_value': '8; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+846: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Swing Swang Walla Walla Bing Bang'}}}
+847: {'values_changed': {"root['name']": {'new_value': 'Swing Swang Walla Walla Bing Bang', 'old_value': 'Swing Swang Walla Walla Bing Bang  Booty Cheeks Slappah Dappah'}}}
+848: {'values_changed': {"root['name']": {'new_value': 'Swing Swang Walla Walla Bing Bang  Booty Cheeks Slappah Dappah', 'old_value': 'Bobby Brown'}}}
+849: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Booty Claps McGee'}}}
+850: {'values_changed': {"root['name']": {'new_value': 'Bobby Booty Claps McGee', 'old_value': 'Bobby Brown'}}}
+910: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Donald J. Trump'}}}
+912: {'values_changed': {"root['name']": {'new_value': 'Donald J. Trump', 'old_value': 'Bobby Brown'}}}
+921: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Donald Trump'}}}
+922: {'values_changed': {"root['name']": {'new_value': 'Donald Trump', 'old_value': 'Bobby Brown'}}}
+936: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown also known as the king of r&b'}}}
+937: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown also known as the king of r&b', 'old_value': 'Bobby Brown'}}}
+942: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Soul music', 'new_value': []}}}
+943: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Soul music'}}}
+944: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Gay Brown'}}}
+945: {'values_changed': {"root['name']": {'new_value': 'Bobby Gay Brown', 'old_value': 'Bobby Brown'}}}
+948: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brow'}}}
+949: {'values_changed': {"root['name']": {'new_value': 'Bobby Brow', 'old_value': 'Bobby Brown'}}}
+973: {'type_changes': {"root['alias']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'B. Brown, Triple B., Flash B.', 'new_value': []}, "root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Singer, songwriter, dancer, actor', 'new_value': []}}}
+974: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Contemporary R&B', 'new_value': []}, "root['label']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'MCA Records', 'new_value': []}}}
+975: {'type_changes': {"root['associated_acts']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'New Edition, Heads of State (band)', 'new_value': []}}}
+976: {'type_changes': {"root['alias']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'B. Brown, Triple B., Flash B.'}, "root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Singer, songwriter, dancer, actor'}, "root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Contemporary R&B'}, "root['label']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'MCA Records'}, "root['associated_acts']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'New Edition, Heads of State (band)'}}}
+1028: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Nyron Harris I’m a legend'}}}
+1030: {'values_changed': {"root['name']": {'new_value': 'Nyron Harris I’m a legend', 'old_value': 'Bobby Brown'}}}
+1031: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Nyron Harris  Brown'}}}
+1032: {'values_changed': {"root['name']": {'new_value': 'Bobby Nyron Harris  Brown', 'old_value': 'Bobby Brown'}}}
+1074: {'values_changed': {"root['background']": {'new_value': 'solo_singer', 'old_value': 'Bull_shitter'}}}
+1079: {'values_changed': {"root['background']": {'new_value': 'Bull_shitter', 'old_value': 'solo_singer'}}}
+1082: {'dictionary_item_added': {"root['children']": '7; including Bobbi Kristina Brown', "root['background']": 'solo_singer', "root['genre']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['spouse']": {'new_value': 'ubl', 'old_value': 'Whitney Houston, |1992|2007|reas'}}}
+1085: {'dictionary_item_removed': {"root['children']": '7; including Bobbi Kristina Brown', "root['background']": 'solo_singer', "root['genre']": [], "root['label']": [], "root['associated_acts']": []}, 'values_changed': {"root['spouse']": {'new_value': 'Whitney Houston, |1992|2007|reas', 'old_value': 'ubl'}}}
+1113: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Harold Beachem Sr'}}}
+1115: {'values_changed': {"root['name']": {'new_value': 'Harold Beachem Sr', 'old_value': 'Bobby Brown'}}}
+1162: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '8; including Bobbi Kristina Brown'}}}
+1165: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brownh'}}}
+1166: {'values_changed': {"root['name']": {'new_value': 'Bobby Brownh', 'old_value': 'Bobby Brown'}}}
+1169: {'values_changed': {"root['children']": {'new_value': '8; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1178: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'jbb'}}}
+1179: {'values_changed': {"root['name']": {'new_value': 'jbb', 'old_value': 'Bobby Brown'}}}
+1180: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brownn'}}}
+1181: {'values_changed': {"root['name']": {'new_value': 'Bobby Brownn', 'old_value': 'Bobby Brown'}}}
+1182: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown timmy brown (order  (brother'}}}
+1183: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown timmy brown (order  (brother', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1184: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby crackhead Brown'}}}
+1185: {'values_changed': {"root['name']": {'new_value': 'Bobby crackhead Brown', 'old_value': 'Bobby Brown'}}}
+1186: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina BrownJaihad Dennis Taylor'}}}
+1187: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina BrownJaihad Dennis Taylor', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1188: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina BrownJaihad Bobby Taylor'}}}
+1189: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina BrownJaihad Bobby Taylor', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1213: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown Tommy Brown (brother)'}}}
+1214: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown Tommy Brown (brother)', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1219: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown Tommy browns bron'}}}
+1221: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown Tommy browns bron', 'old_value': '7; including Bobbi Kristina Brown bobb brown jr'}}}
+1222: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown bobb brown jr', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1246: {'dictionary_item_removed': {"root['partner']": 'Melika Williams (1985-1988; ex-girlfriend),  Kim Ward (1980-1992; ex-girlfriend)'}}
+1274: {'dictionary_item_added': {"root['occupation']": [], "root['partner']": 'Melika Williams (1985-1988; ex-girlfriend),  Kim Ward (1980-1992; ex-girlfriend)'}, 'dictionary_item_removed': {"root['love']": []}}
+1275: {'dictionary_item_added': {"root['love']": []}, 'dictionary_item_removed': {"root['occupation']": []}}
+1278: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown Bobby brown jr (son)'}}}
+1279: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown Bobby brown jr (son)', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1280: {'iterable_item_removed': {"root['associated_acts'][0]": 'New Edition', "root['associated_acts'][1]": 'Heads of State', "root['associated_acts'][2]": 'Babyface', "root['associated_acts'][3]": 'Whitney Houston', "root['associated_acts'][4]": 'Teddy Riley', "root['associated_acts'][5]": 'Bell Biv DeVoe'}}
+1293: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown Tommy brown (older brother)'}}}
+1294: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown Tommy brown (older brother)', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1295: {'values_changed': {"root['associated_acts'][5]": {'new_value': 'Bell Biv DeVoe', 'old_value': "Bell Biv DeVoe     '''Robert Barisford Brown''' (born February 5, 1969)<ref name"}}}
+1297: {'values_changed': {"root['associated_acts'][5]": {'new_value': "Bell Biv DeVoe     '''Robert Barisford Brown''' (born February 5, 1969)<ref name", 'old_value': 'Bell Biv DeVoe'}}}
+1298: {'dictionary_item_added': {"root['name']": 'Bobby Brown'}, 'values_changed': {"root['associated_acts'][5]": {'new_value': 'Bell Biv DeVoe', 'old_value': "Bell Biv DeVoe     '''Robert Barisford Brown''' (born February 5, 1969)<ref name"}}}
+1299: {'dictionary_item_removed': {"root['name']": 'Bobby Brown'}, 'values_changed': {"root['associated_acts'][5]": {'new_value': "Bell Biv DeVoe     '''Robert Barisford Brown''' (born February 5, 1969)<ref name", 'old_value': 'Bell Biv DeVoe'}}}
+1306: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '8; including Bobbi Kristina Brown'}}}
+1312: {'values_changed': {"root['associated_acts'][5]": {'new_value': 'Bell Biv DeVoe', 'old_value': 'Whitney Houston'}}, 'iterable_item_added': {"root['associated_acts'][3]": 'Whitney Houston'}}
+1326: {'values_changed': {"root['children']": {'new_value': '8; including Bobbi Kristina Brown', 'old_value': '7; including Bobbi Kristina Brown'}}}
+1334: {'values_changed': {"root['children']": {'new_value': '7; including Bobbi Kristina Brown', 'old_value': '6; including Bobbi Kristina Brown'}}}
+1342: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown', 'old_value': 'Bobby Brown Pants'}, "root['children']": {'new_value': '6; including Bobbi Kristina Brown', 'old_value': '6; including Bobbi Kristina Brown Pants'}}}
+1343: {'values_changed': {"root['name']": {'new_value': 'Bobby Brown Pants', 'old_value': 'Bobby Brown'}, "root['children']": {'new_value': '6; including Bobbi Kristina Brown Pants', 'old_value': '6; including Bobbi Kristina Brown'}}}

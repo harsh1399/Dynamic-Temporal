@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Edward James Olmos', "root['occupation']": 'Actor, director', "root['spouse']": 'Kaija Keel (1971–1992) ,  Lorraine Bracco (1994–2002) ,  Lymari Nadal (2002&ndash;present) '}}
+23: {'values_changed': {"root['name']": {'new_value': 'Edward James Olmos', 'old_value': 'Jacob James Olmos'}}}
+24: {'values_changed': {"root['name']": {'new_value': 'Jacob James Olmos', 'old_value': 'Edward James Olmos'}}}
+69: {'dictionary_item_removed': {"root['residence']": 'Los Angeles, California, U.S.', "root['children']": '6 '}, 'values_changed': {"root['spouse']": {'new_value': 'Kaija Keel (1971–1992) ,  Lorraine Bracco (1994–2002) ,  Lymari Nadal (2002&ndash;present) ', 'old_value': 'marriage'}}}
+109: {'values_changed': {"root['name']": {'new_value': 'Edward James Olmos', 'old_value': 'can of beans'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'can of beans', 'old_value': 'Edward James Olmos'}}}
+175: {'values_changed': {"root['children']": {'new_value': '6 ', 'old_value': '6, including Bodie Olmos '}}}
+196: {'dictionary_item_added': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1992|e'}}}
+197: {'dictionary_item_removed': {"root['children']": '6, including Bodie Olmos  |end'}, 'values_changed': {"root['spouse']": {'new_value': '1992|e', 'old_value': 'marriage'}}}
+198: {'values_changed': {"root['children']": {'new_value': '6, including Bodie Olmos  |end', 'old_value': '6, including Bodie Olmos '}}}
+204: {'dictionary_item_added': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1992|e'}}}
+207: {'dictionary_item_removed': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': '1992|e', 'old_value': 'marriage'}}}
+208: {'dictionary_item_added': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1992|e'}}}
+211: {'dictionary_item_removed': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': '1992|e', 'old_value': 'marriage'}}}
+213: {'dictionary_item_added': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1992|e'}}}
+215: {'dictionary_item_removed': {"root['children']": '6, including Bodie Olmos '}, 'values_changed': {"root['spouse']": {'new_value': '1992|e', 'old_value': 'marriage'}}}
+255: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, director'}, "root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}}
+276: {'dictionary_item_added': {"root['residence']": 'Los Angeles, California, U.S.'}, 'values_changed': {"root['name']": {'new_value': 'Edward James Olmos', 'old_value': 'Jacob James Olmos'}}}
+277: {'values_changed': {"root['name']": {'new_value': 'Jacob James Olmos', 'old_value': 'Edward James Olmos'}}}
+338: {'values_changed': {"root['children']": {'new_value': '6, including Bodie Olmos ', 'old_value': '7, including Bodie Olmos Tony Messina of Wisconsin  '}}}
+340: {'values_changed': {"root['children']": {'new_value': '7, including Bodie Olmos Tony Messina of Wisconsin  ', 'old_value': '6, including Bodie Olmos '}}}
+368: {'values_changed': {"root['children']": {'new_value': '6, including Bodie Olmos ', 'old_value': '6, including Bodie Olmos, Mico Olmos, and Daniela Olmos '}}}

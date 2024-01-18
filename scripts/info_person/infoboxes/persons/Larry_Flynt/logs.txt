@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['birthname']": 'Larry Claxton Flynt', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Magoffin County, Kentucky,, United States '}}
+111: {'values_changed': {"root['birthname']": {'new_value': 'Larry Claxton Flynt', 'old_value': 'NO MORALS'}}}
+112: {'values_changed': {"root['birthname']": {'new_value': 'NO MORALS', 'old_value': 'Larry Claxton Flynt'}}}
+124: {'dictionary_item_removed': {"root['spouse']": 'Mary, Peggy, Kathy, Althea Flynt (1976-1987), Elizabeth Berrios (1998-present) '}, 'values_changed': {"root['birthplace']": {'new_value': 'Magoffin County, Kentucky,, United States ', 'old_value': 'Magoffin County, Kentucky'}}}
+125: {'values_changed': {"root['spouse']": {'new_value': 'Mary, Peggy, Kathy, Althea Flynt (1976-1987), Elizabeth Berrios (1998-present) ', 'old_value': 'Mary, Peggy, Kathy, Althea Flynt (1976-1987), Elizabeth Berrios, (1998-present) '}}}
+176: {'dictionary_item_added': {"root['birthname']": 'Larry Claxton Flynt', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'Magoffin County, Kentucky'}, 'dictionary_item_removed': {"root['occupation']": 'Publisher, free speech activist, pornographer', "root['children']": '5 (1 deceased) '}, 'values_changed': {"root['spouse']": {'new_value': 'Mary, Peggy, Kathy, Althea Flynt (1976-1987), Elizabeth Berrios, (1998-present) ', 'old_value': 'marriage'}}}
+184: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, free speech activist, pornographer', 'old_value': 'Publisher, free speech activist, pornographer, choked on a Brussel sprout.'}}}
+185: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, free speech activist, pornographer, choked on a Brussel sprout.', 'old_value': 'Publisher, free speech activist, pornographer'}}}
+191: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, free speech activist, pornographer', 'old_value': 'Publisher, free speech activist, pornographer, avid brussel sprout eater'}}}
+192: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, free speech activist, pornographer, avid brussel sprout eater', 'old_value': 'Publisher, free speech activist, pornographer'}}}
+203: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, free speech activist, pornographer', 'old_value': 'Publisher, fat slob, pornographer'}}}
+204: {'values_changed': {"root['occupation']": {'new_value': 'Publisher, fat slob, pornographer', 'old_value': 'Publisher, free speech activist, pornographer'}}}
+210: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Publisher, free speech activist, pornographer'}}}

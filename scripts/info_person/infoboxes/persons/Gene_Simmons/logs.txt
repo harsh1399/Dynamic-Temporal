@@ -1,0 +1,85 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Gene Simmons', "root['Img']": 'Gene Simmons2.jpg', "root['Img_capt']": 'Gene Simmons', "root['Birth_name']": 'Chaim Witz he', "root['Stage_name']": 'Gene Simmons or The Demon', "root['Born']": 'Birth date and age', "root['Background']": 'solo_singer', "root['Occupation']": 'Musician, songwriter, producer, actor, entrepreneur', "root['Genre']": 'Hard rock, Heavy metal music', "root['Instrument']": 'Bass, Vocals, Guitar', "root['Voice_type']": 'Bass', "root['Associated_acts']": 'Kiss (band)', "root['Years_active']": '1963–present', "root['URL']": 'http://www.genesimmons.com Official Gene Simmons Website', "root['Notable_instruments']": 'Cort Signature GS-1 Gene Simmons Signature model'}}
+2: {'values_changed': {"root['Background']": {'new_value': 'solo_singer', 'old_value': 'solo_pornstar'}}}
+3: {'values_changed': {"root['Background']": {'new_value': 'solo_pornstar', 'old_value': 'solo_singer'}}}
+4: {'values_changed': {"root['Years_active']": {'new_value': '1963–present', 'old_value': '1970–present'}}}
+5: {'values_changed': {"root['Years_active']": {'new_value': '1970–present', 'old_value': '1963–present'}}}
+14: {'values_changed': {"root['Name']": {'new_value': 'Gene Simmons', 'old_value': 'chaim witz'}}}
+15: {'values_changed': {"root['Name']": {'new_value': 'chaim witz', 'old_value': 'Gene Simmons'}}}
+16: {'values_changed': {"root['Genre']": {'new_value': 'Hard rock, Heavy metal music', 'old_value': 'Heavy metal music'}}}
+39: {'dictionary_item_added': {"root['Img']": 'Gene Simmons2.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Gene Simmons', 'old_value': 'Snoopy'}}}
+40: {'dictionary_item_removed': {"root['Img']": 'Gene Simmons2.jpg'}, 'values_changed': {"root['Name']": {'new_value': 'Snoopy', 'old_value': 'Gene Simmons'}}}
+54: {'values_changed': {"root['Name']": {'new_value': 'Gene Simmons', 'old_value': 'Faggot'}, "root['Stage_name']": {'new_value': 'Gene Simmons or The Demon', 'old_value': 'Gene Simmons or The Dicksucker'}, "root['Occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Cocksucker, takes it in the butt well, faggot'}}}
+55: {'values_changed': {"root['Name']": {'new_value': 'Faggot', 'old_value': 'Gene Simmons'}, "root['Stage_name']": {'new_value': 'Gene Simmons or The Dicksucker', 'old_value': 'Gene Simmons or The Demon'}, "root['Occupation']": {'new_value': 'Cocksucker, takes it in the butt well, faggot', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+59: {'values_changed': {"root['Instrument']": {'new_value': 'Bass, Vocals, Guitar', 'old_value': 'Bass, Vocals, Guitar, Piano'}}}
+60: {'values_changed': {"root['Instrument']": {'new_value': 'Bass, Vocals, Guitar, Piano', 'old_value': 'Bass guitar'}}}
+88: {'values_changed': {"root['Occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, entrepreneure'}}}
+89: {'values_changed': {"root['Occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneure', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+146: {'values_changed': {"root['Img']": {'new_value': 'Gene Simmons2.jpg', 'old_value': 'Gene Simmons2 cropped.jpg'}}}
+170: {'values_changed': {"root['Birth_name']": {'new_value': 'Chaim Witz he', 'old_value': 'Chaim Witz (IPAc-en'}}}
+183: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Cort Signature GS-1 Gene Simmons Signature model', 'old_value': 'Cort Signature GS-1 Gene Simmons Signature model '}}}
+185: {'values_changed': {"root['Notable_instruments']": {'new_value': 'Cort Signature GS-1 Gene Simmons Signature model ', 'old_value': 'Cort Signature GS-1 Gene Simmons Signature model  '}}}
+252: {'dictionary_item_added': {"root['Stage_name']": 'Gene Simmons or The Demon'}, 'dictionary_item_removed': {"root['Alias']": '"The Demon"'}}
+257: {'values_changed': {"root['Born']": {'new_value': 'Birth date and age', 'old_value': 'Birth date and age 1949'}}}
+263: {'values_changed': {"root['Born']": {'new_value': 'Birth date and age 1949', 'old_value': 'Birth date and age'}}}
+266: {'values_changed': {"root['Birth_name']": {'new_value': 'Chaim Witz (IPAc-en', 'old_value': 'Chaim Weitz (IPAc-en'}}}
+282: {'values_changed': {"root['Birth_name']": {'new_value': 'Chaim Weitz (IPAc-en', 'old_value': 'Chaim Witz (IPAc-en'}}}
+284: {'values_changed': {"root['Birth_name']": {'new_value': 'Chaim Witz (IPAc-en', 'old_value': 'Chaim Weitz (IPAc-en'}}}
+285: {'dictionary_item_added': {"root['Name']": 'Gene Simmons', "root['Img']": 'Gene Simmons2 cropped.jpg', "root['Img_capt']": 'Gene Simmons', "root['Birth_name']": 'Chaim Weitz (IPAc-en', "root['Alias']": '"The Demon"', "root['Background']": 'solo_singer', "root['Occupation']": 'Musician, songwriter, producer, actor, entrepreneur', "root['Genre']": 'Heavy metal music', "root['Instrument']": 'Bass guitar', "root['Voice_type']": 'Bass', "root['Associated_acts']": 'Kiss (band)', "root['Years_active']": '1963–present', "root['URL']": 'http://www.genesimmons.com Official Gene Simmons Website', "root['Notable_instruments']": 'Cort Signature GS-1 Gene Simmons Signature model  '}, 'dictionary_item_removed': {"root['name']": 'Gene Simmons', "root['alias']": '"The Demon"', "root['background']": 'solo_singer', "root['occupation']": 'Musician, songwriter, producer, actor, entrepreneur', "root['genre']": 'Heavy metal music', "root['instrument']": 'Bass guitar', "root['associated_acts']": 'Kiss (band)', "root['notable_instruments']": 'Cort Signature GS-1 Gene Simmons Signature model  '}}
+319: {'values_changed': {"root['notable_instruments']": {'new_value': 'Cort Signature GS-1 Gene Simmons Signature model  ', 'old_value': 'Cort Signature GS-1 Gene Simmons Signature model '}}}
+322: {'values_changed': {"root['instrument']": {'new_value': 'Bass guitar', 'old_value': 'Bass, vocals, guitar, piano'}}}
+330: {'values_changed': {"root['Born']": {'new_value': 'Birth date and age', 'old_value': 'Birth date and age62'}}}
+331: {'values_changed': {"root['Born']": {'new_value': 'Birth date and age62', 'old_value': 'Birth date and age'}}}
+337: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, businessman'}}}
+379: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, businessman', 'old_value': 'tilelayer'}}}
+380: {'values_changed': {"root['occupation']": {'new_value': 'tilelayer', 'old_value': 'Musician, songwriter, producer, actor, businessman'}}}
+414: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'dictionary_item_removed': {"root['Spouse']": 'Shannon Tweed'}}
+440: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene Simmons kly'}}}
+441: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons kly', 'old_value': 'Gene Simmons'}}}
+443: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, businessman', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+447: {'values_changed': {"root['Spouse']": {'new_value': 'Shannon Tweed', 'old_value': 'Shannon Tweed, October 1st, 2011'}}}
+456: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': '"The Chicken Fucker"'}}}
+457: {'values_changed': {"root['alias']": {'new_value': '"The Chicken Fucker"', 'old_value': '"The Demon"'}}}
+470: {'dictionary_item_added': {"root['Spouse']": 'Shannon Tweed, October 1st, 2011'}, 'dictionary_item_removed': {"root['background']": 'solo_singer '}, 'values_changed': {"root['notable_instruments']": {'new_value': 'Cort Signature GS-1 Gene Simmons Signature model ', 'old_value': 'Cort Guitars'}}}
+476: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene what a wanker Simmons'}}}
+477: {'values_changed': {"root['name']": {'new_value': 'Gene what a wanker Simmons', 'old_value': 'Gene Simmons'}}}
+500: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano', 'old_value': 'Bass, vocals, guitar, piano, keyboards'}}}
+501: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano, keyboards', 'old_value': 'Bass, vocals, guitar, piano'}}}
+503: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene Simmons is a fucking beast'}}}
+504: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons is a fucking beast', 'old_value': 'Gene Simmons'}}}
+514: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur and a woman lover'}}}
+515: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur and a woman lover', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+552: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano', 'old_value': 'Bass, vocals, guitar, piano, skin flute'}}}
+553: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano, skin flute', 'old_value': 'Bass, vocals, guitar, piano'}}}
+554: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano', 'old_value': 'Bass, vocals, guitar, piano, skin flute'}}}
+555: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano, skin flute', 'old_value': 'Bass, vocals, guitar, piano'}}}
+580: {'dictionary_item_added': {"root['Born']": 'Birth date and age'}, 'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur, holder of the longest tongue in the world'}}}
+581: {'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur, holder of the longest tongue in the world', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+605: {'dictionary_item_removed': {"root['spouse']": 'Shannon Tweed Simmons', "root['children']": 'Nick Simmons and Sophie Alexandra Simmons'}, 'values_changed': {"root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, voice over actor, entrepreneur, author'}}}
+606: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': 'The Demon, Eugene Klein, Gene Klein'}}}
+607: {'dictionary_item_added': {"root['spouse']": 'Shannon Tweed Simmons', "root['children']": 'Nick Simmons and Sophie Alexandra Simmons'}, 'values_changed': {"root['alias']": {'new_value': 'The Demon, Eugene Klein, Gene Klein', 'old_value': '"The Demon"'}, "root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, voice over actor, entrepreneur, author', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+638: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene Simmons AKA :(Smelly Jew)'}}}
+640: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons AKA :(Smelly Jew)', 'old_value': 'Gene Simmons'}}}
+641: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene Simmons AKA :(Smelly Jew)'}}}
+642: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons AKA :(Smelly Jew)', 'old_value': 'Gene Simmons'}}}
+647: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': '"The dumb-dumb"'}}}
+648: {'values_changed': {"root['alias']": {'new_value': '"The dumb-dumb"', 'old_value': '"The Demon"'}}}
+662: {'dictionary_item_added': {"root['background']": 'solo_singer '}, 'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Andy Simmons'}, "root['alias']": {'new_value': '"The Demon"', 'old_value': '"The Crying Vampire"'}, "root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter,'}, "root['instrument']": {'new_value': 'Bass, vocals, guitar, piano', 'old_value': 'Bass, vocals, guitar, piano<!-- he is a bassist and vocalist;'}, "root['associated_acts']": {'new_value': 'Kiss (band)', 'old_value': 'Attack In Panic,'}, "root['notable_instruments']": {'new_value': 'Cort Guitars', 'old_value': 'Cort Guitars,Dean Guitar \'\'\'Andy Simmons\'\'\' (born \'\'\'Andrew Lee Simmons\'\'\' חיים ויץ; Septenber 27, 1949) is an American rock bassist, singer-songwriter, entrepreneur Known as "The Crying Vampire" and "Lestrange", he is the bassist/vocalist of Attack In Panic'}}}
+663: {'dictionary_item_removed': {"root['background']": 'solo_singer '}, 'values_changed': {"root['name']": {'new_value': 'Andy Simmons', 'old_value': 'Gene Simmons'}, "root['alias']": {'new_value': '"The Crying Vampire"', 'old_value': '"The Demon"'}, "root['occupation']": {'new_value': 'Musician, songwriter,', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}, "root['instrument']": {'new_value': 'Bass, vocals, guitar, piano<!-- he is a bassist and vocalist;', 'old_value': 'Bass, vocals, guitar, piano'}, "root['associated_acts']": {'new_value': 'Attack In Panic,', 'old_value': 'Kiss (band)'}, "root['notable_instruments']": {'new_value': 'Cort Guitars,Dean Guitar \'\'\'Andy Simmons\'\'\' (born \'\'\'Andrew Lee Simmons\'\'\' חיים ויץ; Septenber 27, 1949) is an American rock bassist, singer-songwriter, entrepreneur Known as "The Crying Vampire" and "Lestrange", he is the bassist/vocalist of Attack In Panic', 'old_value': 'Cort Guitars'}}}
+664: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene Simmons?'}}}
+665: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons?', 'old_value': 'Gene Simmons'}}}
+673: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': '"The Demon" or "Zaida(זיידע) which means old in yiddish"'}}}
+674: {'values_changed': {"root['alias']": {'new_value': '"The Demon" or "Zaida(זיידע) which means old in yiddish"', 'old_value': '"The Demon"'}}}
+676: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gene "funkyfressshh" Simmons'}}}
+677: {'values_changed': {"root['name']": {'new_value': 'Gene "funkyfressshh" Simmons', 'old_value': 'Gene Simmons'}}}
+696: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': '"Penis Licker"'}, "root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur, professonal cock sucker'}}}
+697: {'values_changed': {"root['alias']": {'new_value': '"Penis Licker"', 'old_value': '"The Demon"'}, "root['occupation']": {'new_value': 'Musician, songwriter, producer, actor, entrepreneur, professonal cock sucker', 'old_value': 'Musician, songwriter, producer, actor, entrepreneur'}}}
+721: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Fate Amos'}}}
+722: {'values_changed': {"root['name']": {'new_value': 'Fate Amos', 'old_value': 'Gene Simmons'}}}
+730: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'Gennie Simmons'}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Gennie Simmons', 'old_value': 'Stamp Act'}}}
+732: {'values_changed': {"root['name']": {'new_value': 'Stamp Act', 'old_value': 'Gene Simmons'}}}
+734: {'values_changed': {"root['name']": {'new_value': 'Gene Simmons', 'old_value': 'salvatore frattallone'}}}
+735: {'values_changed': {"root['name']": {'new_value': 'salvatore frattallone', 'old_value': 'Gene Simmons'}}}
+747: {'values_changed': {"root['alias']": {'new_value': '"The Demon"', 'old_value': '"The cat"'}}}
+748: {'values_changed': {"root['alias']": {'new_value': '"The cat"', 'old_value': '"The Demon"'}}}
+774: {'values_changed': {"root['instrument']": {'new_value': 'Bass, vocals, guitar, piano', 'old_value': 'Bass guitar, Singing'}}}

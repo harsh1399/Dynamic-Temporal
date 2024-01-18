@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Guy Pearce', "root['occupation']": 'Actor, musician', "root['spouse']": 'Kate Mestitz (1997–present) '}}
+80: {'values_changed': {"root['name']": {'new_value': 'Guy Pearce', 'old_value': 'Guy Parce'}}}
+81: {'values_changed': {"root['name']": {'new_value': 'Guy Parce', 'old_value': 'Guy Pearce'}}}
+99: {'dictionary_item_removed': {"root['weight']": '170 lbs'}}
+100: {'values_changed': {"root['weight']": {'new_value': '170 lbs', 'old_value': '176 lbs'}}}
+162: {'values_changed': {"root['weight']": {'new_value': '176 lbs', 'old_value': '180 lbs'}}}
+166: {'values_changed': {"root['spouse']": {'new_value': 'Kate Mestitz (1997–present) ', 'old_value': 'Kate Mestitz (1997–2015) '}}}
+176: {'values_changed': {"root['weight']": {'new_value': '180 lbs', 'old_value': '12st 12lbs'}}}
+180: {'values_changed': {"root['spouse']": {'new_value': 'Kate Mestitz (1997–2015) ', 'old_value': '1997|2005|reas'}}}
+181: {'values_changed': {"root['spouse']": {'new_value': '1997|2005|reas', 'old_value': '1997|2015|reas'}}}

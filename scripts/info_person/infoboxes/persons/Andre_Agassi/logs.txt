@@ -1,0 +1,169 @@
+111: {'dictionary_item_removed': {"root['playername']": 'Andre Agassi', "root['country']": 'United States', "root['residence']": 'Las Vegas, Nevada', "root['datebirth']": 'April 29, 1970', "root['placebirth']": 'Las Vegas, Nevada', "root['weight']": '177 lbs (80 kg)', "root['turnedpro']": '1986', "root['plays']": 'Right', "root['careerprizemoney']": '$31,006,875', "root['singlestitles']": '60', "root['highestsinglesranking']": 'No. 1 (April 10, 1995)', "root['AustralianOpenresult']": "'''W''' (1995, 2000, 2001, 2003)", "root['FrenchOpenresult']": "'''W''' (1999)", "root['Wimbledonresult']": "'''W''' (1992)", "root['USOpenresult']": "'''W''' (1994, 1999)", "root['doublestitles']": '1', "root['highestdoublesranking']": 'No. 123 (August 17, 1992) '}}
+138: {'values_changed': {"root['weight']": {'new_value': '177 lbs (80 kg)', 'old_value': '177 lb (80 kg)'}}}
+185: {'dictionary_item_removed': {"root['singlesrecord']": '864-269', "root['doublessrecord']": '40-41'}}
+186: {'dictionary_item_added': {"root['doublessrecord']": '40-41'}, 'dictionary_item_removed': {"root['doublesrecord']": '40-41'}}
+218: {'values_changed': {"root['placebirth']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'UR MOM, United States'}}}
+219: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,006,875', 'old_value': '2 bucks'}}}
+220: {'values_changed': {"root['placebirth']": {'new_value': 'UR MOM, United States', 'old_value': 'Las Vegas, Nevada'}, "root['careerprizemoney']": {'new_value': '2 bucks', 'old_value': '$31,006,875'}}}
+221: {'values_changed': {"root['placebirth']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'monkeyville, United States'}, "root['weight']": {'new_value': '177 lb (80 kg)', 'old_value': 'fat ass (80 kg)'}, "root['careerprizemoney']": {'new_value': '$31,006,875', 'old_value': '2bucks'}}}
+222: {'values_changed': {"root['weight']": {'new_value': 'fat ass (80 kg)', 'old_value': 'fat ass'}}}
+226: {'values_changed': {"root['placebirth']": {'new_value': 'monkeyville, United States', 'old_value': 'Las Vegas, Nevada'}, "root['weight']": {'new_value': 'fat ass', 'old_value': '177 lb (80 kg)'}, "root['careerprizemoney']": {'new_value': '2bucks', 'old_value': '$31,006,875'}}}
+227: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,006,875', 'old_value': '1 buck'}}}
+228: {'values_changed': {"root['careerprizemoney']": {'new_value': '1 buck', 'old_value': '$31,006,875'}}}
+229: {'dictionary_item_removed': {"root['grip']": 'his balls'}}
+231: {'dictionary_item_added': {"root['grip']": 'his balls'}, 'values_changed': {"root['placebirth']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Pangea, United States'}, "root['weight']": {'new_value': '177 lb (80 kg)', 'old_value': 'fat ass'}}}
+232: {'values_changed': {"root['placebirth']": {'new_value': 'Pangea, United States', 'old_value': 'Las Vegas, Nevada'}, "root['weight']": {'new_value': 'fat ass', 'old_value': '177 lb (80 kg)'}}}
+245: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'Image:Flag of the United States.svg'}}}
+360: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,006,875', 'old_value': '$31,043,450'}}}
+362: {'dictionary_item_removed': {"root['retired']": '2006'}}
+370: {'dictionary_item_added': {"root['retired']": '2006'}, 'values_changed': {"root['turnedpro']": {'new_value': '1986', 'old_value': '1986 - 2006'}}}
+385: {'dictionary_item_removed': {"root['updated']": '28 June, 2006 '}, 'values_changed': {"root['singlesrecord']": {'new_value': '864-269', 'old_value': '865-270'}, "root['doublesrecord']": {'new_value': '40-41', 'old_value': '40-42'}, "root['highestdoublesranking']": {'new_value': 'No. 123 (August 17, 1992) ', 'old_value': 'No. 123 (August 17, 1992)'}}}
+418: {'values_changed': {"root['residence']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Las Vegas, Nevada, United States'}, "root['placebirth']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Las Vegas, Nevada, United States'}}}
+427: {'values_changed': {"root['singlesrecord']": {'new_value': '865-270', 'old_value': '866-271'}, "root['updated']": {'new_value': '28 June, 2006 ', 'old_value': 'July 4, 2006 '}}}
+471: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,043,450', 'old_value': '$31,091,650'}, "root['updated']": {'new_value': 'July 4, 2006 ', 'old_value': 'July 10, 2006 '}}}
+534: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,091,650', 'old_value': '$31,105,750'}, "root['singlesrecord']": {'new_value': '866-271', 'old_value': '868-272'}, "root['updated']": {'new_value': 'July 10, 2006 ', 'old_value': 'July 31, 2006 '}}}
+540: {'dictionary_item_removed': {"root['retired']": '2006'}, 'values_changed': {"root['turnedpro']": {'new_value': '1986 - 2006', 'old_value': '1986'}}}
+558: {'values_changed': {"root['plays']": {'new_value': 'Right', 'old_value': 'Right; Two-handed backhand'}}}
+586: {'values_changed': {"root['careerprizemoney']": {'new_value': '$31,105,750', 'old_value': '$31,110,975'}, "root['singlesrecord']": {'new_value': '868-272', 'old_value': '868-273'}, "root['updated']": {'new_value': 'July 31, 2006 ', 'old_value': 'August 21, 2006 '}}}
+617: {'values_changed': {"root['retired']": {'new_value': '2006', 'old_value': "2006 (but hasn't happened yet.  not until the US Open is completed in two weeks today)"}}}
+624: {'values_changed': {"root['retired']": {'new_value': "2006 (but hasn't happened yet.  not until the US Open is completed in two weeks today)", 'old_value': '2006 (After the 2006 US Open)'}}}
+756: {'values_changed': {"root['retired']": {'new_value': '2006 (After the 2006 US Open)', 'old_value': '2006'}}}
+760: {'values_changed': {"root['retired']": {'new_value': '2006', 'old_value': '3 september 2006'}}}
+763: {'values_changed': {"root['retired']": {'new_value': '3 september 2006', 'old_value': 'September 3, 2006'}}}
+791: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Agassi the greatest'}}}
+792: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi the greatest', 'old_value': 'Andre Agassi'}}}
+802: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Eirik Fuglestad'}}}
+804: {'values_changed': {"root['playername']": {'new_value': 'Eirik Fuglestad', 'old_value': 'Andre Agassi'}}}
+805: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Eirik Fuglestad'}}}
+806: {'values_changed': {"root['playername']": {'new_value': 'Eirik Fuglestad', 'old_value': 'Andre Agassi'}}}
+885: {'values_changed': {"root['updated']": {'new_value': 'August 21, 2006 ', 'old_value': 'September 3, 2006 '}}}
+904: {'values_changed': {"root['country']": {'new_value': 'Image:Flag of the United States.svg', 'old_value': 'I'}, "root['residence']": {'new_value': 'Las Vegas, Nevada, United States', 'old_value': 'Las Vegas, Nevada, Unit'}, "root['highestdoublesranking']": {'new_value': 'No. 123 (August 17, 1992)', 'old_value': 'No. 123 (August 17'}}}
+905: {'values_changed': {"root['country']": {'new_value': 'I', 'old_value': 'Image:Flag of the United States.svg'}, "root['residence']": {'new_value': 'Las Vegas, Nevada, Unit', 'old_value': 'Las Vegas, Nevada, United States'}, "root['highestdoublesranking']": {'new_value': 'No. 123 (August 17', 'old_value': 'No. 123 (August 17, 1992)'}}}
+988: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Andre"The Giant"Agassi'}}}
+994: {'values_changed': {"root['playername']": {'new_value': 'Andre"The Giant"Agassi', 'old_value': 'Andre Agassi'}}}
+1057: {'values_changed': {"root['retired']": {'new_value': 'September 3, 2006', 'old_value': 'September 3, 1999'}}}
+1058: {'values_changed': {"root['retired']": {'new_value': 'September 3, 1999', 'old_value': 'September 3, 2006'}}}
+1081: {'values_changed': {"root['singlesrecord']": {'new_value': '868-273', 'old_value': '870-273'}}}
+1091: {'values_changed': {"root['country']": {'new_value': 'Image:Flag of the United States.svg', 'old_value': 'USA IRN'}, "root['careerprizemoney']": {'new_value': '$31,110,975', 'old_value': '$31,152,975'}, "root['singlesrecord']": {'new_value': '870-273', 'old_value': '870-274'}, "root['updated']": {'new_value': 'September 3, 2006 ', 'old_value': 'N/A '}}}
+1100: {'values_changed': {"root['country']": {'new_value': 'USA IRN', 'old_value': 'USA , IRNian citizenship'}}}
+1122: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA ,'}}}
+1123: {'values_changed': {"root['country']": {'new_value': 'USA ,', 'old_value': 'USA'}}}
+1124: {'values_changed': {"root['updated']": {'new_value': 'N/A ', 'old_value': 'September 11, 2006 '}}}
+1127: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USA , IRNian citizenship'}}}
+1145: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA'}}}
+1146: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USA , IRNian citizenship'}}}
+1166: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA'}}}
+1167: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USA , IRNian citizenship'}}}
+1187: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA'}}}
+1188: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USA , IRNian citizenship'}}}
+1190: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'ARG , IRNian citizenship'}}}
+1191: {'values_changed': {"root['country']": {'new_value': 'ARG , IRNian citizenship', 'old_value': 'USA , IRNian citizenship'}}}
+1209: {'values_changed': {"root['residence']": {'new_value': 'Las Vegas, Nevada, United States', 'old_value': 'Las Vegas, Nevada'}, "root['placebirth']": {'new_value': 'Las Vegas, Nevada, United States', 'old_value': 'Las Vegas, Nevada'}}}
+1215: {'values_changed': {"root['retired']": {'new_value': 'September 3, 2006', 'old_value': 'Image:Andre Agassi Indian Wells 2006.jpg'}}}
+1216: {'values_changed': {"root['retired']": {'new_value': 'Image:Andre Agassi Indian Wells 2006.jpg', 'old_value': 'September 3, 2006'}}}
+1239: {'values_changed': {"root['singlesrecord']": {'new_value': '870-274', 'old_value': '870-274sdfjkhLOL ! Andre agassi rox!'}}}
+1240: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA , IRNian citizenship Lyfffffffffffffffft'}, "root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Agassi ROOOOOOOOX!'}}}
+1241: {'dictionary_item_removed': {"root['grip']": 'fhgvsdfs'}, 'values_changed': {"root['weight']": {'new_value': '177 lb (80 kg)', 'old_value': '1,998 lb (80 kg)'}, "root['turnedpro']": {'new_value': '1986', 'old_value': '195555555555555'}}}
+1242: {'values_changed': {"root['plays']": {'new_value': 'Right; Two-handed backhand', 'old_value': 'Right; Two-handed backhandbbbbbbbbbbbbbbbbbbbbbbooooooooooooooooomm baby!'}, "root['AustralianOpenresult']": {'new_value': "'''W''' (1995, 2000, 2001, 2003)", 'old_value': "'''W''' (1995, 2000, 2001, 2003)YEHA"}}}
+1243: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi ROOOOOOOOX!', 'old_value': 'Andre Agassi'}}}
+1244: {'dictionary_item_added': {"root['grip']": 'fhgvsdfs'}, 'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship Lyfffffffffffffffft', 'old_value': 'USA , IRNian citizenship'}, "root['weight']": {'new_value': '1,998 lb (80 kg)', 'old_value': '177 lb (80 kg)'}, "root['turnedpro']": {'new_value': '195555555555555', 'old_value': '1986'}, "root['plays']": {'new_value': 'Right; Two-handed backhandbbbbbbbbbbbbbbbbbbbbbbooooooooooooooooomm baby!', 'old_value': 'Right; Two-handed backhand'}, "root['singlesrecord']": {'new_value': '870-274sdfjkhLOL ! Andre agassi rox!', 'old_value': '870-274'}, "root['AustralianOpenresult']": {'new_value': "'''W''' (1995, 2000, 2001, 2003)YEHA", 'old_value': "'''W''' (1995, 2000, 2001, 2003)"}}}
+1246: {'values_changed': {"root['country']": {'new_value': 'USA , IRNian citizenship', 'old_value': 'USA'}}}
+1248: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USA, IRNian citizenship'}}}
+1280: {'values_changed': {"root['weight']": {'new_value': '177 lb (80 kg)', 'old_value': '3009 lb (80 kg)'}, "root['retired']": {'new_value': 'September 3, 2006', 'old_value': 'never!!!!!!!'}, "root['careerprizemoney']": {'new_value': '$31,152,975', 'old_value': '$31,152,975,000'}}}
+1281: {'values_changed': {"root['weight']": {'new_value': '3009 lb (80 kg)', 'old_value': '177 lb (80 kg)'}, "root['retired']": {'new_value': 'never!!!!!!!', 'old_value': 'September 3, 2006'}, "root['careerprizemoney']": {'new_value': '$31,152,975,000', 'old_value': '$31,152,975'}}}
+1288: {'values_changed': {"root['datebirth']": {'new_value': 'April 29, 1970', 'old_value': 'The Big Bang'}}}
+1289: {'values_changed': {"root['datebirth']": {'new_value': 'The Big Bang', 'old_value': 'April 29, 1970'}}}
+1317: {'values_changed': {"root['country']": {'new_value': 'USA, IRNian citizenship', 'old_value': 'USA, IRNian citizenship, {Armenian}'}}}
+1318: {'values_changed': {"root['country']": {'new_value': 'USA, IRNian citizenship, {Armenian}', 'old_value': 'USA, IRNian citizenship, {Armenia}'}}}
+1319: {'values_changed': {"root['country']": {'new_value': 'USA, IRNian citizenship, {Armenia}', 'old_value': 'USA, IRNian citizenship, {Am}'}}}
+1320: {'values_changed': {"root['country']": {'new_value': 'USA, IRNian citizenship, {Am}', 'old_value': 'USA'}}}
+1324: {'dictionary_item_added': {"root['plays']": 'Right; Two-handed backhand'}, 'values_changed': {"root['retired']": {'new_value': 'September 3, 2006', 'old_value': "September 3, 2006 '''''YOU SUCK ! ! ! !'''''"}}}
+1325: {'dictionary_item_removed': {"root['plays']": 'Right; Two-handed backhand'}, 'values_changed': {"root['retired']": {'new_value': "September 3, 2006 '''''YOU SUCK ! ! ! !'''''", 'old_value': 'September 3, 2006'}}}
+1378: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'United States'}}}
+1408: {'type_changes': {"root['careerprizemoney']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['ATP Tour records#Earnings'], 'new_value': '$31,152,975'}}, 'dictionary_item_added': {"root['updated']": 'September 11, 2006 '}, 'dictionary_item_removed': {"root['Othertournaments']": 'Yes', "root['MastersCupresult']": "'''W''' (1990 ATP Tour World Championships", "root['Olympicsresult']": "'''W''' (Tennis at the 1996 Summer Olympics - Men's Singles", "root['grandslamsdoublesresults']": 'yes', "root['FrenchOpenDoublesresult']": 'QF (1992)', "root['USOpenDoublesresult']": '1R (1987)'}, 'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}, "root['residence']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Las Vegas, Nevada, USA'}, "root['datebirth']": {'new_value': 'April 29, 1970', 'old_value': 'birth date and age'}, "root['placebirth']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Las Vegas, Nevada, USA'}, "root['weight']": {'new_value': '177 lb (80 kg)', 'old_value': 'convert'}, "root['plays']": {'new_value': 'Right; Two-handed backhand', 'old_value': 'Right-handed (two-handed backhand)'}, "root['singlesrecord']": {'new_value': '870-274', 'old_value': '870–274 (76.05%) (at ATP Tour, Grand Prix tour and Grand Slam (tennis)'}, "root['singlestitles']": {'new_value': '60', 'old_value': '60 according to the ATP and 68 in total'}, "root['highestsinglesranking']": {'new_value': 'No. 1 (April 10, 1995)', 'old_value': "No. '''1''' (April 10, 1995)"}, "root['AustralianOpenresult']": {'new_value': "'''W''' (1995, 2000, 2001, 2003)", 'old_value': "'''W''' (1995 Australian Open - Men's Singles"}, "root['FrenchOpenresult']": {'new_value': "'''W''' (1999)", 'old_value': "'''W''' (1999 French Open - Men's Singles"}, "root['Wimbledonresult']": {'new_value': "'''W''' (1992)", 'old_value': "'''W''' (1992 Wimbledon Championships - Men's Singles"}, "root['USOpenresult']": {'new_value': "'''W''' (1994, 1999)", 'old_value': "'''W''' (1994 U.S. Open - Men's Singles"}, "root['doublesrecord']": {'new_value': '40-42', 'old_value': '40–42 (at ATP Tour, Grand Prix tour and Grand Slam level, and in Davis Cup)'}}}
+1420: {'values_changed': {"root['AustralianOpenresult']": {'new_value': "'''W''' (1995 Australian Open - Men's Singles", 'old_value': "'''4W''' (1995 Australian Open - Men's Singles"}, "root['USOpenresult']": {'new_value': "'''W''' (1994 U.S. Open - Men's Singles", 'old_value': "'''2W''' (1994 U.S. Open - Men's Singles"}}}
+1423: {'dictionary_item_removed': {"root['tennishofyear']": '2011', "root['tennishofid']": 'andre-agassi'}}
+1451: {'values_changed': {"root['AustralianOpenresult']": {'new_value': "'''4W''' (1995 Australian Open - Men's Singles", 'old_value': "'''W''' (1995 Australian Open - Men's Singles"}, "root['USOpenresult']": {'new_value': "'''2W''' (1994 U.S. Open - Men's Singles", 'old_value': "'''W''' (1994 U.S. Open - Men's Singles"}}}
+1479: {'values_changed': {"root['Olympicsresult']": {'new_value': "'''W''' (Tennis at the 1996 Summer Olympics - Men's Singles", 'old_value': "'''W''' (Tennis at the 1996 Summer Olympics – Men's singles"}}}
+1484: {'values_changed': {"root['playername']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Fagassi'}, "root['tennishofid']": {'new_value': 'andre-agassi', 'old_value': 'andre-Fagassi'}}}
+1485: {'values_changed': {"root['playername']": {'new_value': 'Andre Fagassi', 'old_value': 'Andre Agassi'}, "root['tennishofid']": {'new_value': 'andre-Fagassi', 'old_value': 'andre-agassi'}}}
+1488: {'values_changed': {"root['residence']": {'new_value': 'Las Vegas, Nevada, USA', 'old_value': 'Las Vegas, Nevada, U.S.'}, "root['placebirth']": {'new_value': 'Las Vegas, Nevada, USA', 'old_value': 'Las Vegas, Nevada, U.S.'}}}
+1491: {'values_changed': {"root['turnedpro']": {'new_value': '1986', 'old_value': '1926'}}}
+1492: {'values_changed': {"root['turnedpro']": {'new_value': '1926', 'old_value': '1986'}}}
+1542: {'dictionary_item_added': {"root['datebirth']": 'birth date and age', "root['placebirth']": 'Las Vegas, Nevada, U.S.'}, 'values_changed': {"root['singlesrecord']": {'new_value': '870–274 (76.05%) (at ATP Tour, Grand Prix tour and Grand Slam (tennis)', 'old_value': '870–274 (76.05%) (on the ATP World Tour, Grand Prix tour, in Grand Slam (tennis)'}}}
+1543: {'values_changed': {"root['singlesrecord']": {'new_value': '870–274 (76.05%) (on the ATP World Tour, Grand Prix tour, in Grand Slam (tennis)', 'old_value': '870–274 (76.05%) (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)'}}}
+1556: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'Armenia'}}}
+1557: {'values_changed': {"root['country']": {'new_value': 'Armenia', 'old_value': 'USA'}}}
+1580: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USAyup. thats correct'}}}
+1581: {'values_changed': {"root['country']": {'new_value': 'USAyup. thats correct', 'old_value': 'USA'}}}
+1595: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'Flag'}}}
+1600: {'dictionary_item_added': {"root['playername']": 'Andre Agassi'}, 'dictionary_item_removed': {"root['name']": 'Andre Agassi'}}
+1610: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Agassi(Goegz)'}}}
+1611: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi(Goegz)', 'old_value': 'Andre Agassi'}}}
+1635: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre CHAP'}}}
+1636: {'values_changed': {"root['name']": {'new_value': 'Andre CHAP', 'old_value': 'Andre Agassi'}}}
+1651: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Agasi'}}}
+1652: {'values_changed': {"root['name']": {'new_value': 'Andre Agasi', 'old_value': 'Andre Agassi'}}}
+1673: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Agassimjnijink'}}}
+1674: {'values_changed': {"root['name']": {'new_value': 'Andre Agassimjnijink', 'old_value': 'Andre Agassi'}}}
+1702: {'values_changed': {"root['USOpenresult']": {'new_value': "'''W''' (1994 U.S. Open - Men's Singles", 'old_value': "'''W''' (1994 US Open - Men's Singles"}}}
+1715: {'type_changes': {"root['careerprizemoney']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'US$', 'new_value': ['ATP Tour records#Earnings']}}, 'dictionary_item_removed': {"root['Team']": 'yes', "root['DavisCupresult']": "'''W''' (1990, 1992, 1995) "}, 'values_changed': {"root['country']": {'new_value': 'Flag', 'old_value': 'USA'}, "root['residence']": {'new_value': 'Las Vegas, Nevada, U.S.', 'old_value': 'Las Vegas Valley'}, "root['singlesrecord']": {'new_value': '870–274 (76.05%) (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)', 'old_value': '870–274  (76.05% on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)'}, "root['singlestitles']": {'new_value': '60 according to the ATP and 68 in total', 'old_value': '60  (in Grand Prix and ATP Tour play and 68 in total)'}, "root['highestsinglesranking']": {'new_value': "No. '''1''' (April 10, 1995)", 'old_value': "No. '''1''' ( April 10, 1995)"}, "root['AustralianOpenresult']": {'new_value': "'''W''' (1995 Australian Open - Men's Singles", 'old_value': "'''W''' (1995 Australian Open – Men's Singles"}, "root['FrenchOpenresult']": {'new_value': "'''W''' (1999 French Open - Men's Singles", 'old_value': "'''W''' (1999 French Open – Men's Singles"}, "root['Wimbledonresult']": {'new_value': "'''W''' (1992 Wimbledon Championships - Men's Singles", 'old_value': "'''W''' (1992 Wimbledon Championships – Men's Singles"}, "root['USOpenresult']": {'new_value': "'''W''' (1994 US Open - Men's Singles", 'old_value': "'''W''' (1994 US Open – Men's Singles"}, "root['Olympicsresult']": {'new_value': "'''W''' (Tennis at the 1996 Summer Olympics – Men's singles", 'old_value': 'File:Gold medal.svg'}, "root['doublesrecord']": {'new_value': '40–42 (at ATP Tour, Grand Prix tour and Grand Slam level, and in Davis Cup)', 'old_value': '40-42  (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)'}}}
+1739: {'values_changed': {"root['retired']": {'new_value': 'September 3, 2006', 'old_value': '3 September 2006'}, "root['highestsinglesranking']": {'new_value': "No. '''1''' ( April 10, 1995)", 'old_value': "No. '''1''' ( 10 April 1995)"}, "root['highestdoublesranking']": {'new_value': 'No. 123 (August 17, 1992)', 'old_value': 'No. 123 (17 August 1992)'}}}
+1755: {'values_changed': {"root['retired']": {'new_value': '3 September 2006', 'old_value': 'September 3, 2006'}}}
+1756: {'values_changed': {"root['highestsinglesranking']": {'new_value': "No. '''1''' ( 10 April 1995)", 'old_value': "No. '''1''' (April 10, 1995)"}, "root['highestdoublesranking']": {'new_value': 'No. 123 (17 August 1992)', 'old_value': 'No. 123 (August 17, 1992)'}}}
+1830: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'United States'}}}
+1831: {'dictionary_item_removed': {"root['coach']": 'Nick Bollettieri (?–1993)'}}
+1837: {'values_changed': {"root['coach']": {'new_value': 'Nick Bollettieri (?–1993)', 'old_value': 'Emmanuel Agassi (1970–1983), Nick Bollettieri (1983–1993)'}}}
+1855: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}}}
+1969: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'USsmallA'}}}
+1971: {'values_changed': {"root['country']": {'new_value': 'USsmallA', 'old_value': 'United States'}}}
+1977: {'dictionary_item_added': {"root['weight']": 'convert', "root['grandslamsdoublesresults']": 'yes'}, 'dictionary_item_removed': {"root['GrandSlamCupresult']": 'F (Grand Slam Cup#1998'}, 'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'Flagu'}, "root['coach']": {'new_value': 'Emmanuel Agassi (1970–1983), Nick Bollettieri (1983–1993)', 'old_value': 'Emmanuel Agassi (1970–83) Nick Bollettieri (1983–93)'}, "root['careerprizemoney']": {'new_value': 'US$', 'old_value': 'United States Dollar'}, "root['singlestitles']": {'new_value': '60  (in Grand Prix and ATP Tour play and 68 in total)', 'old_value': '60'}, "root['Olympicsresult']": {'new_value': 'File:Gold medal.svg', 'old_value': "'''W''' (Tennis at the 1996 Summer Olympics – Men's singles"}, "root['doublesrecord']": {'new_value': '40-42  (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)', 'old_value': '40–42  (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)'}, "root['DavisCupresult']": {'new_value': "'''W''' (1990, 1992, 1995) ", 'old_value': "'''W''' (1990, 1992, 1995) | medaltemplates-expand"}}}
+1992: {'values_changed': {"root['country']": {'new_value': 'Flagu', 'old_value': 'USA'}}}
+1994: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'IRAN'}}}
+1995: {'values_changed': {"root['country']": {'new_value': 'IRAN', 'old_value': 'USA'}}}
+1997: {'values_changed': {"root['careerprizemoney']": {'new_value': 'United States Dollar', 'old_value': 'United States dollar'}}}
+1998: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'IRAN'}}}
+1999: {'values_changed': {"root['country']": {'new_value': 'IRAN', 'old_value': 'USA'}}}
+2002: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Rashe'}}}
+2003: {'values_changed': {"root['name']": {'new_value': 'Andre Rashe', 'old_value': 'Andre Agassi'}}}
+2006: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre Rashe'}}}
+2007: {'values_changed': {"root['name']": {'new_value': 'Andre Rashe', 'old_value': 'Andre Agassi'}}}
+2021: {'dictionary_item_removed': {"root['CoachYears']": '2017–', "root['CoachPlayers']": 'medaltemplates-expa'}, 'values_changed': {"root['DavisCupresult']": {'new_value': "'''W''' (1990, 1992, 1995) | medaltemplates-expand", 'old_value': "'''W''' (1990, 1992, 1995)"}}}
+2037: {'dictionary_item_removed': {"root['WCTFinalsresult']": 'QF (1989 WCT Finals - Singles'}}
+2039: {'values_changed': {"root['GrandSlamCupresult']": {'new_value': 'F (Grand Slam Cup#1998', 'old_value': "F  (1998 Compaq Grand Slam Cup - Men's Singles"}}}
+2046: {'values_changed': {"root['retired']": {'new_value': 'September 3, 2006', 'old_value': '2006'}}}
+2080: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Charlie Brown'}}}
+2081: {'values_changed': {"root['name']": {'new_value': 'Charlie Brown', 'old_value': 'Andre Agassi'}}}
+2158: {'dictionary_item_added': {"root['WCTFinalsresult']": 'QF (1989 WCT Finals - Singles'}, 'values_changed': {"root['GrandSlamCupresult']": {'new_value': "F  (1998 Compaq Grand Slam Cup - Men's Singles", 'old_value': 'F (Grand Slam Cup#1998'}}}
+2196: {'values_changed': {"root['singlesrecord']": {'new_value': '870–274  (76.05% on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)', 'old_value': '870–274 (76.1%)'}, "root['doublesrecord']": {'new_value': '40–42  (on the Grand Prix tour, ATP Tour, in Grand Slam (tennis)', 'old_value': '40–42'}}}
+2242: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Arthur Wang'}}}
+2248: {'values_changed': {"root['name']": {'new_value': 'Arthur Wang', 'old_value': 'Andre Agassi'}}}
+2264: {'values_changed': {"root['singlesrecord']": {'new_value': '870–274 (76.1%)', 'old_value': 'tennis record'}}}
+2304: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': "Andre 'wheres the meth nikkah?' Agassi"}}}
+2305: {'values_changed': {"root['name']": {'new_value': "Andre 'wheres the meth nikkah?' Agassi", 'old_value': 'Andre Agassi'}}}
+2334: {'dictionary_item_added': {"root['GrandSlamCupresult']": 'F (Grand Slam Cup#1998'}, 'values_changed': {"root['highestsinglesranking']": {'new_value': "No. '''1''' (April 10, 1995)", 'old_value': 'List of ATP number 1 ranked singles players'}}}
+2344: {'values_changed': {"root['retired']": {'new_value': '2006', 'old_value': '1806'}}}
+2345: {'values_changed': {"root['retired']": {'new_value': '1806', 'old_value': '2006'}}}
+2346: {'values_changed': {"root['singlestitles']": {'new_value': '60', 'old_value': "60 (Open Era tennis records – men's singles#All tournaments"}}}
+2355: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'US'}}}
+2356: {'type_changes': {"root['careerprizemoney']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['nobr'], 'new_value': 'United States dollar'}}}
+2379: {'values_changed': {"root['country']": {'new_value': 'US', 'old_value': 'United States'}}}
+2395: {'values_changed': {"root['careerprizemoney'][0]": {'new_value': 'nobr', 'old_value': "Open Era tennis records – men's singles#Prize money"}}}
+2400: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'United States, of Armenian origin'}}}
+2401: {'values_changed': {"root['country']": {'new_value': 'United States, of Armenian origin', 'old_value': 'United States'}}}
+2417: {'type_changes': {"root['careerprizemoney']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'US$31,152,975', 'new_value': ["Open Era tennis records – men's singles#Prize money"]}}, 'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'flag'}, "root['singlestitles']": {'new_value': "60 (Open Era tennis records – men's singles#All tournaments", 'old_value': '60'}}}
+2430: {'values_changed': {"root['CoachYears']": {'new_value': '2017–', 'old_value': '2017–2020'}}}
+2431: {'values_changed': {"root['country']": {'new_value': 'flag', 'old_value': 'flagu'}, "root['residence']": {'new_value': 'Las Vegas Valley', 'old_value': 'Las Vegas, Nevada, U.S.'}}}
+2432: {'values_changed': {"root['country']": {'new_value': 'flagu', 'old_value': 'United States'}}}
+2444: {'values_changed': {"root['AustralianOpenresult']": {'new_value': "'''W''' (1995 Australian Open – Men's Singles", 'old_value': "'''W''' (1995 Australian Open – Men's singles"}, "root['FrenchOpenresult']": {'new_value': "'''W''' (1999 French Open – Men's Singles", 'old_value': "'''W''' (1999 French Open – Men's singles"}, "root['Wimbledonresult']": {'new_value': "'''W''' (1992 Wimbledon Championships – Men's Singles", 'old_value': "'''W''' (1992 Wimbledon Championships – Men's singles"}, "root['USOpenresult']": {'new_value': "'''W''' (1994 US Open – Men's Singles", 'old_value': "'''W''' (1994 US Open – Men's singles"}}}
+2461: {'values_changed': {"root['name']": {'new_value': 'Andre Agassi', 'old_value': 'Andre    Agassi'}}}
+2462: {'values_changed': {"root['name']": {'new_value': 'Andre    Agassi', 'old_value': 'Andre Agassi'}}}
+2481: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}}}
+2482: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'United States'}}}
+2483: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}}}
+2484: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'United States'}}}
+2486: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}}}
+2487: {'values_changed': {"root['country']": {'new_value': 'USA', 'old_value': 'United States'}}}
+2490: {'values_changed': {"root['MastersCupresult']": {'new_value': "'''W''' (1990 ATP Tour World Championships", 'old_value': "'''W''' (1990 ATP Tour World Championships – Singles"}}}
+2493: {'values_changed': {"root['coach']": {'new_value': 'Emmanuel Agassi (1970–83) Nick Bollettieri (1983–93)', 'old_value': 'Ubl'}}}
+2495: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'USA'}}}

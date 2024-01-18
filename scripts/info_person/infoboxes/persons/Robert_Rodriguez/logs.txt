@@ -1,0 +1,24 @@
+170: {'dictionary_item_removed': {"root['name']": 'Robert Rodriguez', "root['education']": 'St. Anthony Catholic School, St. Anthony Catholic High School (San Antonio, Texas)', "root['alma_mater']": 'University of Texas at Austin College of Communication', "root['occupation']": 'Filmmaker', "root['spouse']": 'marriage', "root['children']": '5'}}
+201: {'dictionary_item_removed': {"root['Image']": 'File:Robert Rodriguez 2019.jpg', "root['bSize']": '915', "root['cWidth']": '500', "root['cHeight']": '400', "root['oTop']": '180', "root['oLeft']": '60 '}}
+202: {'values_changed': {"root['Image']": {'new_value': 'File:Robert Rodriguez 2019.jpg', 'old_value': 'Robert Rodriguez 2019.jpg'}}}
+203: {'values_changed': {"root['cWidth']": {'new_value': '500', 'old_value': '100'}, "root['cHeight']": {'new_value': '400', 'old_value': '100'}}}
+204: {'values_changed': {"root['cWidth']": {'new_value': '100', 'old_value': '200'}, "root['cHeight']": {'new_value': '100', 'old_value': '200'}}}
+205: {'dictionary_item_added': {"root['oTop']": '180', "root['oLeft']": '60 '}, 'values_changed': {"root['cWidth']": {'new_value': '200', 'old_value': '400'}, "root['cHeight']": {'new_value': '200', 'old_value': '200 '}}}
+207: {'dictionary_item_removed': {"root['oTop']": '180', "root['oLeft']": '60 '}, 'values_changed': {"root['bSize']": {'new_value': '915', 'old_value': '400'}, "root['cWidth']": {'new_value': '400', 'old_value': '100'}, "root['cHeight']": {'new_value': '200 ', 'old_value': '100'}}}
+208: {'values_changed': {"root['cWidth']": {'new_value': '100', 'old_value': '300'}}}
+209: {'values_changed': {"root['oTop']": {'new_value': '180', 'old_value': '0'}, "root['oLeft']": {'new_value': '60 ', 'old_value': '180 '}}}
+210: {'values_changed': {"root['oLeft']": {'new_value': '180 ', 'old_value': '400 '}}}
+211: {'values_changed': {"root['oLeft']": {'new_value': '400 ', 'old_value': '60 '}}}
+212: {'values_changed': {"root['cHeight']": {'new_value': '100', 'old_value': '300'}}}
+213: {'values_changed': {"root['oLeft']": {'new_value': '60 ', 'old_value': '50 '}}}
+214: {'values_changed': {"root['cWidth']": {'new_value': '300', 'old_value': '400'}}}
+215: {'values_changed': {"root['cWidth']": {'new_value': '400', 'old_value': '250'}}}
+216: {'values_changed': {"root['cHeight']": {'new_value': '300', 'old_value': '250'}}}
+217: {'values_changed': {"root['cWidth']": {'new_value': '250', 'old_value': '300'}, "root['cHeight']": {'new_value': '250', 'old_value': '300'}, "root['oTop']": {'new_value': '0', 'old_value': '10'}}}
+218: {'values_changed': {"root['oLeft']": {'new_value': '50 ', 'old_value': '70 '}}}
+219: {'values_changed': {"root['cWidth']": {'new_value': '300', 'old_value': '270'}}}
+220: {'values_changed': {"root['cWidth']": {'new_value': '270', 'old_value': '260'}, "root['oLeft']": {'new_value': '70 ', 'old_value': '60 '}}}
+221: {'values_changed': {"root['oLeft']": {'new_value': '60 ', 'old_value': '80 '}}}
+223: {'values_changed': {"root['cWidth']": {'new_value': '260', 'old_value': '250'}}}
+246: {'dictionary_item_added': {"root['Image']": 'Robert Rodriguez 2019.jpg', "root['bSize']": '400', "root['cWidth']": '250', "root['cHeight']": '300', "root['oTop']": '10', "root['oLeft']": '80 '}, 'values_changed': {"root['occupation']": {'new_value': 'Filmmaker', 'old_value': 'Filmmaker, score composer, cinematographer, film editor, visual effects supervisor'}}}
+253: {'values_changed': {"root['occupation']": {'new_value': 'Filmmaker, score composer, cinematographer, film editor, visual effects supervisor', 'old_value': 'Filmmaker, visual effects supervisor'}}}

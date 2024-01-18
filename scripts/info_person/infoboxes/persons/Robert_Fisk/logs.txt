@@ -1,0 +1,14 @@
+379: {'dictionary_item_removed': {"root['name']": 'Robert Fisk', "root['education']": 'Lancaster University (B.A., 1968), Trinity College, Dublin (Ph.D., 1985)', "root['occupation']": "Middle East correspondent for ''The Independent''", "root['ethnic']": 'United kingdom', "root['credits']": "Jacob's Award, Amnesty International", "root['URL']": 'http://www.independent.co.uk/news/fisk/ '}}
+586: {'values_changed': {"root['name']": {'new_value': 'Robert Fisk', 'old_value': 'Robert Fisk hhrdz'}}}
+587: {'values_changed': {"root['name']": {'new_value': 'Robert Fisk hhrdz', 'old_value': 'Robert Fisk'}}}
+588: {'values_changed': {"root['occupation']": {'new_value': "Middle East correspondent for ''The Independent''", 'old_value': "Middle East correspondent for ''The Independent''kin fxot r"}}}
+589: {'values_changed': {"root['occupation']": {'new_value': "Middle East correspondent for ''The Independent''kin fxot r", 'old_value': "Middle East correspondent for ''The Independent''"}}}
+624: {'dictionary_item_added': {"root['ethnic']": 'United kingdom'}, 'dictionary_item_removed': {"root['ethnicity']": 'United kingdom'}}
+646: {'values_changed': {"root['ethnicity']": {'new_value': 'United kingdom', 'old_value': 'United Kingdom'}}}
+648: {'values_changed': {"root['ethnicity']": {'new_value': 'United Kingdom', 'old_value': 'United kingdom'}}}
+649: {'values_changed': {"root['ethnicity']": {'new_value': 'United kingdom', 'old_value': 'United Kingdom'}}}
+701: {'dictionary_item_added': {"root['ethnicity']": 'United Kingdom'}, 'dictionary_item_removed': {"root['spouse']": 'Lara Marlowe (1994–2006)'}, 'values_changed': {"root['education']": {'new_value': 'Lancaster University (B.A., 1968), Trinity College, Dublin (Ph.D., 1985)', 'old_value': 'Lancaster University (B.A., 1968), Trinity College, Dublin (PhD, 1985)'}, "root['URL']": {'new_value': 'http://www.independent.co.uk/news/fisk/ ', 'old_value': 'https://www.independent.co.uk/author/robert-fisk '}}}
+728: {'values_changed': {"root['education']": {'new_value': 'Lancaster University (B.A., 1968), Trinity College, Dublin (PhD, 1985)', 'old_value': 'Nowrap'}, "root['credits']": {'new_value': "Jacob's Award, Amnesty International", 'old_value': 'Nowrap'}}}
+733: {'values_changed': {"root['spouse']": {'new_value': 'Lara Marlowe (1994–2006)', 'old_value': 'marriage'}}}
+778: {'values_changed': {"root['URL']": {'new_value': 'https://www.independent.co.uk/author/robert-fisk ', 'old_value': 'https://www.independent.co.uk/author/robert-fisk/ independent.co.uk/author/robert-fisk '}}}
+905: {'type_changes': {"root['education']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Nowrap'}, "root['credits']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Nowrap'}}}

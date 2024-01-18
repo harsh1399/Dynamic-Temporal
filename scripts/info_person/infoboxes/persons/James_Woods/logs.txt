@@ -1,0 +1,86 @@
+0: {'dictionary_item_removed': {"root['name']": 'James Woods', "root['education']": 'Pilgrim High School', "root['alma_mater']": 'Massachusetts Institute of Technology', "root['occupation']": 'Actor, producer, voice artist', "root['religion']": 'Roman Catholic', "root['spouse']": ' Kathryn Morrison (1980–83)   '}}
+21: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, voice artist', 'old_value': 'Actor, Voice actor, Film producer'}}}
+22: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Voice actor, Film producer', 'old_value': 'Actor, producer, voice artist'}}}
+24: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James bootylord Woods'}}}
+25: {'values_changed': {"root['name']": {'new_value': 'James bootylord Woods', 'old_value': 'James Woods'}}}
+26: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James BootyLord Woods'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'James BootyLord Woods', 'old_value': 'James Woods'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James Howard Woods'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'James Howard Woods', 'old_value': 'James Woods'}}}
+37: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James fatass'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'James fatass', 'old_value': 'James Woods'}}}
+108: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Actor', 'Producer'], 'new_value': 'Actor, producer, voice artist'}}, 'values_changed': {"root['spouse']": {'new_value': ' Kathryn Morrison (1980–83)   ', 'old_value': ' Kathryn Morrison (1980–83)  '}}}
+132: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actor, Producer', 'new_value': ['Actor', 'Producer']}}, 'dictionary_item_added': {"root['religion']": 'Roman Catholic'}}
+142: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Producer', 'old_value': 'Actor, producer, voice actor'}, "root['spouse']": {'new_value': ' Kathryn Morrison (1980–83)  ', 'old_value': ' Kathryn Morrison (1980–83), Sarah Owen (1989–90) '}}}
+149: {'dictionary_item_removed': {"root['religion']": 'Roman Catholic'}}
+153: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Massachusetts Institute of Technology (did not graduate<ref name'}}}
+163: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer, voice actor', 'old_value': 'Actor, producer'}}}
+225: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Kathryn Morrison |1980|1983|reason'], 'new_value': ' Kathryn Morrison (1980–83), Sarah Owen (1989–90) '}}, 'dictionary_item_added': {"root['religion']": 'Roman Catholic'}, 'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology (did not graduate<ref name', 'old_value': 'Massachusetts Institute of Technology'}, "root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Actor, voice actor, producer'}}}
+251: {'dictionary_item_removed': {"root['partners']": 'Missy Crider (1993-2000 Kristen Bauguess (2013-present) '}, 'iterable_item_added': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+257: {'values_changed': {"root['partners']": {'new_value': 'Missy Crider (1993-2000 Kristen Bauguess (2013-present) ', 'old_value': 'Missy Crider (1993-2000) Kristen Bauguess (2013-2015) Sarah Miller (2017-present) '}}}
+258: {'values_changed': {"root['partners']": {'new_value': 'Missy Crider (1993-2000) Kristen Bauguess (2013-2015) Sarah Miller (2017-present) ', 'old_value': 'Missy Crider (1993-2000) Kristen Bauguess (2013-2015) Sara Miller (2017-present) '}}}
+259: {'values_changed': {"root['partners']": {'new_value': 'Missy Crider (1993-2000) Kristen Bauguess (2013-2015) Sara Miller (2017-present) ', 'old_value': 'Missy Crider (1993-2000 Kristen Bauguess (2013-present) '}}}
+260: {'values_changed': {"root['partners']": {'new_value': 'Missy Crider (1993-2000 Kristen Bauguess (2013-present) ', 'old_value': 'Missy Crider (1993-2000) Kristen Bauguess (2013) '}}}
+261: {'dictionary_item_added': {"root['partners']": 'Missy Crider (1993-2000) Kristen Bauguess (2013) '}, 'iterable_item_removed': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+285: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James “Bully & Harasser” Woods'}, "root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'New Republican Party (United States)'}}}
+287: {'values_changed': {"root['name']": {'new_value': 'James “Bully & Harasser” Woods', 'old_value': 'James Woods'}, "root['party']": {'new_value': 'New Republican Party (United States)', 'old_value': 'Republican Party (United States)'}}}
+309: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, producer', 'old_value': 'Actor, voice actor, producer, Shitposter.'}}}
+310: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, producer, Shitposter.', 'old_value': 'Actor, voice actor, Shitposter.'}}}
+311: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, Shitposter.', 'old_value': 'Actor, voice actor, Producer.'}}}
+313: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, Producer.', 'old_value': 'Actor, Shitposter.'}}}
+314: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Shitposter.', 'old_value': 'Actor, voice actor, Producer.'}}}
+320: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, Producer.', 'old_value': 'Actor, voice actor, Producer'}}}
+321: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, Producer', 'old_value': 'Actor, voice actor, Producer.'}}}
+324: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, Producer.', 'old_value': 'Actor, voice actor, producer'}}}
+331: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Nazi Institute of Germany'}, "root['occupation']": {'new_value': 'Actor, voice actor, producer', 'old_value': 'Actor, voice actor, producer, Nazi'}}}
+333: {'values_changed': {"root['alma_mater']": {'new_value': 'Nazi Institute of Germany', 'old_value': 'Massachusetts Institute of Technology'}, "root['occupation']": {'new_value': 'Actor, voice actor, producer, Nazi', 'old_value': 'Actor, voice actor, producer'}}}
+334: {'dictionary_item_removed': {"root['children']": 'James Frank Wood '}, 'iterable_item_added': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+335: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James “Trump’s Lackey on Twitter” Woods'}, "root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Massachusetts Institute of Technology dropped out'}, "root['occupation']": {'new_value': 'Actor, voice actor, producer', 'old_value': 'ex-Actor, ex-voice actor, ex-producer, Twitter lackey'}}}
+336: {'values_changed': {"root['name']": {'new_value': 'James “Trump’s Lackey on Twitter” Woods', 'old_value': 'James Woods'}, "root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology dropped out', 'old_value': 'Massachusetts Institute of Technology'}, "root['occupation']": {'new_value': 'ex-Actor, ex-voice actor, ex-producer, Twitter lackey', 'old_value': 'Actor, voice actor, producer'}}}
+350: {'values_changed': {"root['children']": {'new_value': 'James Frank Wood ', 'old_value': 'James Frank Woods '}}}
+368: {'dictionary_item_added': {"root['children']": 'James Frank Woods '}, 'iterable_item_removed': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+426: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Massachusetts Institute of Technology (dropped out'}}}
+428: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology (dropped out', 'old_value': 'Massachusetts Institute of Technology'}}}
+444: {'values_changed': {"root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'Plainlist'}}}
+467: {'dictionary_item_removed': {"root['children']": 'None '}, 'iterable_item_added': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+516: {'dictionary_item_removed': {"root['movement']": 'ETCU (Eleven Toed Citizens United)'}}
+518: {'dictionary_item_added': {"root['movement']": 'ETCU (Eleven Toed Citizens United)'}, 'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'Peter Griffin'}}}
+519: {'values_changed': {"root['name']": {'new_value': 'Peter Griffin', 'old_value': 'James Woods'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James 6666 woods'}}}
+521: {'values_changed': {"root['name']": {'new_value': 'James 6666 woods', 'old_value': 'James Woods'}}}
+541: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, producer', 'old_value': 'Actor, producer'}}}
+568: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'Stupid Jackass'}}}
+569: {'values_changed': {"root['name']": {'new_value': 'Stupid Jackass', 'old_value': 'James Woods'}}}
+570: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'Stupid Jackass'}}}
+571: {'values_changed': {"root['name']": {'new_value': 'Stupid Jackass', 'old_value': 'James Woods'}}}
+588: {'dictionary_item_added': {"root['children']": 'None '}, 'iterable_item_removed': {"root['spouse'][0]": 'Kathryn Morrison |1980|1983|reason'}}
+604: {'values_changed': {"root['occupation']": {'new_value': 'Actor, producer', 'old_value': 'Actor, voice actor, producer'}}}
+619: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Massachusetts Institute of Technology, did not graduate'}}}
+620: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology, did not graduate', 'old_value': 'Massachusetts Institute of Technology'}}}
+641: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, producer', 'old_value': 'Actor, voice actor, producer, narasist'}}}
+642: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor, producer, narasist', 'old_value': 'Actor, voice actor, producer'}}}
+652: {'values_changed': {"root['party']": {'new_value': 'Plainlist', 'old_value': 'Democratic Party (United States)'}}}
+653: {'values_changed': {"root['party']": {'new_value': 'Democratic Party (United States)', 'old_value': 'Republican Party (United States)'}}}
+656: {'values_changed': {"root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'Plainlist'}}}
+723: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology', 'old_value': 'Massachusetts Institute of Technology B.A. Political Science & Computer Science (dropped out)'}}}
+724: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology B.A. Political Science & Computer Science (dropped out)', 'old_value': 'Massachusetts Institute of Technology  B.A. Political Science & Computer Science (dropped out)'}}}
+725: {'type_changes': {"root['alma_mater']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['B.A. Political Science & Computer Science (dropped out)'], 'new_value': 'Massachusetts Institute of Technology  B.A. Political Science & Computer Science (dropped out)'}}}
+726: {'type_changes': {"root['alma_mater']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Massachusetts Institute of Technology                                                                                     B.A. Political Science & Computer Science (dropped out)', 'new_value': ['B.A. Political Science & Computer Science (dropped out)']}}}
+749: {'dictionary_item_added': {"root['party']": 'Plainlist'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology                                                                                     B.A. Political Science & Computer Science (dropped out)', 'old_value': 'Massachusetts Institute of Technology                                                                                  Political Science & Computer Science (dropped out)'}}}
+750: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology                                                                                  Political Science & Computer Science (dropped out)', 'old_value': 'Massachusetts Institute of Technology                                                                                     B.A. Political Science & Computer Science (dropped out)'}}}
+751: {'values_changed': {"root['alma_mater']": {'new_value': 'Massachusetts Institute of Technology                                                                                     B.A. Political Science & Computer Science (dropped out)', 'old_value': 'Massachusetts Institute of Technology                                                                            Political Science & Computer Science (dropped out)'}}}
+768: {'dictionary_item_removed': {"root['party']": 'Republican Party (United States)'}}
+824: {'values_changed': {"root['spouse'][0]": {'new_value': 'Kathryn Morrison |1980|1983|reason', 'old_value': 'Kathryn Morrison|1980|1983|reason'}}}
+832: {'dictionary_item_added': {"root['alma_mater']": 'Massachusetts Institute of Technology                                                                            Political Science & Computer Science (dropped out)'}, 'values_changed': {"root['education']": {'new_value': 'Pilgrim High School', 'old_value': 'Pilgrim High School, Massachusetts Institute of Technology'}}}
+848: {'iterable_item_added': {"root['spouse'][0]": 'Kathryn Morrison|1980|1983|reason'}}
+857: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actor, voice actor, producer'}}, 'values_changed': {"root['education']": {'new_value': 'Pilgrim High School, Massachusetts Institute of Technology', 'old_value': 'Ubl'}}, 'iterable_item_removed': {"root['spouse'][0]": 'Kathryn Morrison|1980|1983|reason'}}
+860: {'values_changed': {"root['education']": {'new_value': 'Ubl', 'old_value': 'Massachusetts Institute of Technology'}}}
+938: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'James "Dookie" Woods'}}}
+939: {'values_changed': {"root['name']": {'new_value': 'James "Dookie" Woods', 'old_value': 'James Woods'}}}
+1011: {'values_changed': {"root['party']": {'new_value': 'Republican Party (United States)', 'old_value': 'Plain list'}}}
+1103: {'values_changed': {"root['name']": {'new_value': 'James Woods', 'old_value': 'Doyle Funkhouser'}}}
+1104: {'values_changed': {"root['name']": {'new_value': 'Doyle Funkhouser', 'old_value': 'James Woods'}}}
+1113: {'dictionary_item_added': {"root['education']": 'Massachusetts Institute of Technology'}, 'dictionary_item_removed': {"root['alma_mater']": 'Massachusetts Institute of Technology small'}}
+1128: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '1980|1983|reas', 'new_value': ['Kathryn Morrison|1980|1983|reason']}}}
+1132: {'dictionary_item_added': {"root['party']": 'Plain list'}, 'dictionary_item_removed': {"root['rowspan']": '2', "root['list']": 'title'}, 'values_changed': {"root['spouse']": {'new_value': '1980|1983|reas', 'old_value': 'marriage'}}}
+1133: {'dictionary_item_added': {"root['rowspan']": '2', "root['list']": 'title'}, 'dictionary_item_removed': {"root['party']": 'Plain list'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': '1980|1983|reas'}}}

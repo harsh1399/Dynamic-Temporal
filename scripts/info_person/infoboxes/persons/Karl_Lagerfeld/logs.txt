@@ -1,0 +1,54 @@
+30: {'dictionary_item_removed': {"root['name']": 'Karl Lagerfeld', "root['label_name']": 'Karl Lagerfeld Chanel Fendi', "root['awards']": '|'}}
+76: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Clown Lagerfeld'}}}
+78: {'values_changed': {"root['name']": {'new_value': 'Karl Clown Lagerfeld', 'old_value': 'Karl Lagerfeld'}}}
+124: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld Chanel Fendi', 'old_value': 'Karl Lagerfeld, Chanel, Fendi'}}}
+201: {'dictionary_item_removed': {"root['residence']": 'France'}}
+204: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld, Chanel, Fendi', 'old_value': 'Karl Lagerfeld Chanel, Fendi'}}}
+217: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld Chanel, Fendi', 'old_value': 'Karl Lagerfeld 1984-2011  Jean Patou, 1958-1963 Chanel 1983-Today, Fendi1965-Today, Chloe 1963-1978,1992-1997,  Steilmann/Quelle 1988-1999 Hogan 2010/11, H&M 2004'}}}
+218: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld 1984-2011  Jean Patou, 1958-1963 Chanel 1983-Today, Fendi1965-Today, Chloe 1963-1978,1992-1997,  Steilmann/Quelle 1988-1999 Hogan 2010/11, H&M 2004', 'old_value': 'Karl Lagerfeld Chanel, Fendi'}}}
+306: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld Chanel, Fendi', 'old_value': 'Karl Lagerfeld Chanel (since 1983)  , Fendi (since 1965)  , Chloé'}}}
+307: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld Chanel (since 1983)  , Fendi (since 1965)  , Chloé', 'old_value': 'Karl Lagerfeld Chanel (since 1983)  , Fendi (since 1965),   Chloé'}}}
+309: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld Chanel (since 1983)  , Fendi (since 1965),   Chloé', 'old_value': 'Karl Lagerfeld (since 1974,various brands) http://www.whoswho.de/templ/te_bio.php?PID'}}}
+314: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld (since 1974,various brands) http://www.whoswho.de/templ/te_bio.php?PID', 'old_value': 'Karl Lagerfeld (since 1974,various brands)<ref name'}}}
+363: {'dictionary_item_added': {"root['awards']": '|'}, 'dictionary_item_removed': {"root['education']": 'St. Annes School', "root['Nickname']": 'The Kaiser'}, 'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld (since 1974,various brands)<ref name', 'old_value': 'Karl Lagerfeld (since 1974, various brands)<ref name'}}}
+367: {'values_changed': {"root['residence']": {'new_value': 'France', 'old_value': 'Paris, France'}}}
+471: {'dictionary_item_added': {"root['Nickname']": 'The Kaiser'}, 'dictionary_item_removed': {"root['net_worth']": 'US$125 million (November 2014)'}}
+518: {'dictionary_item_added': {"root['net_worth']": 'US$125 million (November 2014)'}, 'dictionary_item_removed': {"root['spouse']": 'Kaidyn Alane Lagerfeld'}}
+549: {'dictionary_item_added': {"root['spouse']": 'Kaidyn Alane Lagerfeld'}, 'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld (since 1974, various brands)<ref name', 'old_value': 'Karl Lagerfeld,  (since 1974, various brands)<ref name'}}}
+573: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Otto Lagerfeldt'}}}
+574: {'values_changed': {"root['name']": {'new_value': 'Karl Otto Lagerfeldt', 'old_value': 'Karl Lagerfeld'}}}
+575: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Otto Lagerfeld'}}}
+576: {'values_changed': {"root['name']": {'new_value': 'Karl Otto Lagerfeld', 'old_value': 'Karl Lagerfeld'}}}
+598: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl "Cancer" Lagerfeld'}}}
+599: {'values_changed': {"root['name']": {'new_value': 'Karl "Cancer" Lagerfeld', 'old_value': 'Karl Lagerfeld'}}}
+716: {'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld,  (since 1974, various brands)<ref name', 'old_value': 'Karl Lagerfeld,  (from 1974, various brands)<ref name'}}}
+730: {'dictionary_item_added': {"root['residence']": 'Paris, France'}, 'values_changed': {"root['label_name']": {'new_value': 'Karl Lagerfeld,  (from 1974, various brands)<ref name', 'old_value': 'Karl Lagerfeld, (from 1974, various brands)<ref name'}}}
+799: {'type_changes': {"root['label_name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Karl Lagerfeld', '(from 1974, various brands)<ref name'], 'new_value': 'Karl Lagerfeld, (from 1974, various brands)<ref name'}}}
+802: {'values_changed': {"root['label_name'][0]": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Lagerfeld (from 1974)<ref name'}}, 'iterable_item_added': {"root['label_name'][1]": '(from 1974, various brands)<ref name'}}
+854: {'type_changes': {"root['label_name']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': ['Karl Lagerfeld (from 1974)<ref name']}}, 'dictionary_item_removed': {"root['bullets']": '|Jean Patou (1958–1963)<ref name'}}
+928: {'values_changed': {"root['bullets']": {'new_value': '|Jean Patou (1958–1963)<ref name', 'old_value': '| Jean Patou (1958–1963)<ref name'}}}
+983: {'dictionary_item_removed': {"root['partner']": "Jacques de Bascher (1971-89; de Bascher's death)"}}
+985: {'values_changed': {"root['partner']": {'new_value': "Jacques de Bascher (1971-89; de Bascher's death)", 'old_value': "Jacques de Bascher (1971–89, de Bascher's death)"}}}
+986: {'values_changed': {"root['education']": {'new_value': 'St. Annes School', 'old_value': 'Lycée Montaigne (Paris)'}}}
+993: {'values_changed': {"root['partner']": {'new_value': "Jacques de Bascher (1971–89, de Bascher's death)", 'old_value': 'Jacques de Bascher (1971–89, her death)'}}}
+994: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1971–89, her death)', 'old_value': 'Jacques de Bascher (1971–89, his death)'}}}
+1003: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1971–89, his death)', 'old_value': 'Jacques de Bascher (born 1951- died 1989; 1971–1989, his death)'}}}
+1005: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (born 1951- died 1989; 1971–1989, his death)', 'old_value': 'Jacques de Bascher (1971–1989, his death)'}}}
+1030: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1971–1989, his death)', 'old_value': 'Jacques de Bascher (1951–1989, his death)'}}}
+1031: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1951–1989, his death)', 'old_value': 'Jacques de Bascher (1971–1989, his death)'}}}
+1036: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Butthead'}}}
+1037: {'values_changed': {"root['name']": {'new_value': 'Karl Butthead', 'old_value': 'Karl Lagerfeld'}}}
+1040: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Shumika Jaxon'}}}
+1045: {'values_changed': {"root['name']": {'new_value': 'Shumika Jaxon', 'old_value': 'Karl Lagerfeld'}}}
+1051: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1971–1989, his death)', 'old_value': 'Jacques de Bascher (1971– September 3, 1989)'}}}
+1052: {'values_changed': {"root['partner']": {'new_value': 'Jacques de Bascher (1971– September 3, 1989)', 'old_value': 'Jacques de Bascher (1971–1989, his death)'}}}
+1053: {'dictionary_item_added': {"root['bullets']": '| Jean Patou (1958–1963)<ref name'}, 'dictionary_item_removed': {"root['Label']": 'Karl Lagerfeld '}}
+1054: {'dictionary_item_added': {"root['Label']": 'Karl Lagerfeld '}, 'dictionary_item_removed': {"root['bullets']": '| Jean Patou (1958–1963)<ref name'}}
+1057: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Lagerfeldbbb'}}}
+1059: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeldbbb', 'old_value': 'Karl Lagerfeld'}}}
+1078: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Mike "Karl Lagerfeld" Hawk'}}}
+1079: {'values_changed': {"root['name']": {'new_value': 'Mike "Karl Lagerfeld" Hawk', 'old_value': 'Karl Lagerfeld'}}}
+1080: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Mike Hawk Lagerfeld'}}}
+1081: {'values_changed': {"root['name']": {'new_value': 'Mike Hawk Lagerfeld', 'old_value': 'Karl Lagerfeld'}}}
+1084: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld', 'old_value': 'Karl Lagerfeld Turkey,ığdır'}}}
+1085: {'values_changed': {"root['name']": {'new_value': 'Karl Lagerfeld Turkey,ığdır', 'old_value': 'Karl Lagerfeld'}}}

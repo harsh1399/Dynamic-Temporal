@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['occupation']": 'Artist, actress, fashion designer, socialite', "root['spouse']": [], "root['children']": '4, including Anderson Cooper '}}
+80: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Unbulleted list', 'new_value': []}}}
+214: {'dictionary_item_removed': {"root['Cause_of_death']": 'stomach cancer'}}
+297: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Artist, actress, fashion designer, socialite'}}, 'dictionary_item_added': {"root['Cause_of_death']": 'stomach cancer'}}

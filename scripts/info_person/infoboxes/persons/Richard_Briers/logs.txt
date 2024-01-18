@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Richard Briers', "root['birthdate']": 'birth date and age', "root['birthplace']": 'Raynes Park, Surrey, England, United Kingdom'}}
+1: {'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England, United Kingdom', 'old_value': 'Raynes Park, Surrey, England'}}}
+19: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'January 14 1934'}}}
+20: {'values_changed': {"root['birthdate']": {'new_value': 'January 14 1934', 'old_value': 'January 14 1934 (age 75)'}}}
+21: {'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England', 'old_value': 'Raynes Park, Surrey, England, United Kingdom'}}}
+22: {'values_changed': {"root['birthdate']": {'new_value': 'January 14 1934 (age 75)', 'old_value': 'birth date and age'}, "root['birthplace']": {'new_value': 'Raynes Park, Surrey, England, United Kingdom', 'old_value': 'Raynes Park, Surrey, England'}}}
+29: {'dictionary_item_removed': {"root['occupation']": 'Actor', "root['yearsactive']": '1957–present '}}
+37: {'dictionary_item_added': {"root['occupation']": 'Actor', "root['yearsactive']": '1957–present '}, 'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England', 'old_value': 'Raynes Park, Surrey, England, United Kingdom'}}}
+38: {'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England, United Kingdom', 'old_value': 'Raynes Park, Surrey, England'}}}
+40: {'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England', 'old_value': 'Raynes Park, Surrey, England, United Kingdom'}}}
+41: {'values_changed': {"root['birthplace']": {'new_value': 'Raynes Park, Surrey, England, United Kingdom', 'old_value': 'Raynes Park, Surrey, England'}}}
+46: {'values_changed': {"root['birthdate']": {'new_value': 'birth date and age', 'old_value': 'Birth date and age'}}}
+47: {'dictionary_item_added': {"root['birthdate']": 'Birth date and age', "root['birthplace']": 'Raynes Park, Surrey, England'}, 'dictionary_item_removed': {"root['occupation']": 'Actor', "root['spouse']": 'Ann Davies (actress)', "root['children']": 'Lucy Briers Katie Briers '}}
+61: {'type_changes': {"root['children']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Lucy Briers', 'Katie Briers'], 'new_value': 'Lucy Briers Katie Briers '}}}
+352: {'values_changed': {"root['spouse']": {'new_value': 'Ann Davies (actress)', 'old_value': 'marriage'}}}
+354: {'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Ann Davies (actress)'}}}
+361: {'dictionary_item_removed': {"root['birthname']": 'Richard David Briers'}}

@@ -1,0 +1,33 @@
+67: {'dictionary_item_removed': {"root['name']": 'Ken Dodd', "root['occupation']": 'Comedian'}}
+71: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd', 'old_value': 'Ken Dodd is now dead'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd is now dead', 'old_value': 'Ken Dodd'}}}
+90: {'values_changed': {"root['occupation']": {'new_value': 'Comedian', 'old_value': 'Comedian, Singer, Songwriter'}}}
+112: {'dictionary_item_added': {"root['occupation']": 'Comedian, Singer, Songwriter'}, 'dictionary_item_removed': {"root['medium']": 'Stand-up comedy', "root['active']": '1954–present', "root['genre']": 'One-line joke', "root['influences']": 'Arthur Askey, Ted Ray (comedian)', "root['influenced']": 'Joe Pasquale, Harry Hill, Peter Kay, Jason Byrne (comedian)'}, 'values_changed': {"root['name']": {'new_value': 'Ken Dodd', 'old_value': 'Sir Ken Dodd,  Order of the British Empire'}}}
+127: {'values_changed': {"root['active']": {'new_value': '1954–present', 'old_value': '1954–RIP'}}}
+128: {'values_changed': {"root['active']": {'new_value': '1954–RIP', 'old_value': '1954–Present'}}}
+129: {'values_changed': {"root['active']": {'new_value': '1954–Present', 'old_value': '1954–present'}}}
+189: {'values_changed': {"root['name']": {'new_value': 'Sir Ken Dodd,  Order of the British Empire', 'old_value': 'Najiyah begum nur ,  Order of the British Empire'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Najiyah begum nur ,  Order of the British Empire', 'old_value': 'Sir Ken Dodd,  Order of the British Empire'}}}
+201: {'values_changed': {"root['name']": {'new_value': 'Sir Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd,  Order of the British Empire'}}}
+204: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Order of the British Empire', 'old_value': 'Sir Ken Dodd,  Order of the British Empire'}}}
+214: {'values_changed': {"root['active']": {'new_value': '1954–present', 'old_value': '1954–2017'}, "root['influenced']": {'new_value': 'Joe Pasquale, Harry Hill, Peter Kay, Jason Byrne (comedian)', 'old_value': 'Joe Pasquale, Harry Hill, Peter Gay, Jason Byrne (comedian)'}}}
+215: {'values_changed': {"root['active']": {'new_value': '1954–2017', 'old_value': '1954–present'}, "root['influenced']": {'new_value': 'Joe Pasquale, Harry Hill, Peter Gay, Jason Byrne (comedian)', 'old_value': 'Joe Pasquale, Harry Hill, Peter Kay, Jason Byrne (comedian)'}}}
+244: {'values_changed': {"root['name']": {'new_value': 'Sir Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd,  Order of the British Empire'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Order of the British Empire', 'old_value': 'Sir Ken Dodd,  Order of the British Empire'}}}
+246: {'values_changed': {"root['name']": {'new_value': 'Sir Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd,  Order of the British Empire'}}}
+256: {'values_changed': {"root['active']": {'new_value': '1954–present', 'old_value': '1954–2018 Died 12th March 2018'}}}
+257: {'values_changed': {"root['active']": {'new_value': '1954–2018 Died 12th March 2018', 'old_value': '1954–2018'}}}
+263: {'dictionary_item_removed': {"root['Death_date']": 'death date and age'}}
+284: {'dictionary_item_added': {"root['Death_date']": 'death date and age'}, 'values_changed': {"root['medium']": {'new_value': 'Stand-up comedy', 'old_value': 'Stand-up comedy, television and music'}}}
+299: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+329: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd,  Knight Commander of the British Empire'}}}
+330: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Knight Commander of the British Empire', 'old_value': 'Ken Dodd,  Order of the British Empire'}}}
+336: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd,  Knight Commander of the British Empire'}}}
+338: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Knight Commander of the British Empire', 'old_value': 'Ken Dodd,  Order of the British Empire'}}}
+352: {'values_changed': {"root['name']": {'new_value': 'Ken Dodd,  Order of the British Empire', 'old_value': 'Ken Dodd'}}}
+569: {'dictionary_item_added': {"root['influences']": 'Arthur Askey, Ted Ray (comedian)', "root['influenced']": 'Joe Pasquale, Harry Hill, Peter Kay, Jason Byrne (comedian)'}, 'values_changed': {"root['active']": {'new_value': '1954–2018', 'old_value': '1954–present'}}}
+571: {'values_changed': {"root['active']": {'new_value': '1954–present', 'old_value': '1954–2018'}}}
+577: {'values_changed': {"root['medium']": {'new_value': 'Stand-up comedy, television and music', 'old_value': 'Stand-up comedy, theatre, radio, television and music'}}}
+626: {'values_changed': {"root['active']": {'new_value': '1954–2018', 'old_value': '1954–2017'}}}
+633: {'dictionary_item_added': {"root['active']": '1954–2017'}, 'values_changed': {"root['genre']": {'new_value': 'One-line joke', 'old_value': 'One-liners  '}}}
+656: {'values_changed': {"root['genre']": {'new_value': 'One-liners  ', 'old_value': 'One-liners, music hall  '}}}

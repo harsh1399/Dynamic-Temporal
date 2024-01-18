@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Steve McQueen', "root['occupation']": 'Actor', "root['spouse']": 'Marriage', "root['children']": 'Chad McQueen (b. 1960), Terry Leslie McQueen (1959–1998)'}}
+110: {'values_changed': {"root['name']": {'new_value': 'Steve McQueen', 'old_value': 'Steve McQueer'}, "root['children']": {'new_value': 'Chad McQueen (b. 1960), Terry Leslie McQueen (1959–1998)', 'old_value': 'Chad McQueer (b. 1960), Terry Leslie McQueer (1959–1998)'}}}
+111: {'values_changed': {"root['name']": {'new_value': 'Steve McQueer', 'old_value': 'Steve McQueen'}, "root['children']": {'new_value': 'Chad McQueer (b. 1960), Terry Leslie McQueer (1959–1998)', 'old_value': 'Chad McQueen (b. 1960), Terry Leslie McQueen (1959–1998)'}}}
+112: {'values_changed': {"root['children']": {'new_value': 'Chad McQueen (b. 1960), Terry Leslie McQueen (1959–1998)', 'old_value': '2, including Chad McQueen'}}}
+129: {'values_changed': {"root['name']": {'new_value': 'Steve McQueen', 'old_value': 'Ben Griffiths'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'Ben Griffiths', 'old_value': 'Steve McQueen'}}}
+156: {'dictionary_item_removed': {"root['allegiance']": 'Flagu', "root['branch']": 'Nowrap', "root['serviceyears']": '1947–50', "root['rank']": 'Corporal<ref name'}}
+268: {'values_changed': {"root['allegiance']": {'new_value': 'Flagu', 'old_value': 'Flag'}}}
+281: {'values_changed': {"root['children']": {'new_value': '2, including Chad McQueen', 'old_value': '3, including Chad McQueen'}}}
+282: {'values_changed': {"root['children']": {'new_value': '3, including Chad McQueen', 'old_value': '2, including Chad McQueen'}}}

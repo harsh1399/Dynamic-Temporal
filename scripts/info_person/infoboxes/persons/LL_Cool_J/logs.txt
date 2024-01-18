@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['name']": 'LL Cool J', "root['background']": 'solo_singer', "root['origin']": 'Hollis, Queens, New York (state)', "root['occupation']": [], "root['genre']": 'Hip hop music', "root['instrument']": [], "root['label']": [], "root['associated_acts']": []}}
+37: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'LARRY DUFF'}}}
+38: {'values_changed': {"root['name']": {'new_value': 'LARRY DUFF', 'old_value': 'LL Cool J'}}}
+42: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Hip hop music'}}}
+43: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hip hop music', 'new_value': []}}}
+44: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'LL Cool Jay and Silent Bob'}, "root['background']": {'new_value': 'solo_singer', 'old_value': 'A_guy'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'LL Cool Jay and Silent Bob', 'old_value': 'LL Cool J'}, "root['background']": {'new_value': 'A_guy', 'old_value': 'solo_singer'}}}
+97: {'type_changes': {"root['genre']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Hip hop music'}}}
+138: {'type_changes': {"root['genre']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hip hop music', 'new_value': []}}, 'values_changed': {"root['origin']": {'new_value': 'Hollis, Queens, New York (state)', 'old_value': 'Hollis, Queens, New York'}}}
+168: {'dictionary_item_removed': {"root['rowspan']": 'Himself || |- |', "root['align']": 'center'}}
+178: {'dictionary_item_added': {"root['rowspan']": 'Himself || |- |', "root['align']": 'center'}, 'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'LL Cool J AKA Sam'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'LL Cool J AKA Sam', 'old_value': 'LL Cool J'}}}
+180: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'LL Cool J AKA SAMMY<3'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'LL Cool J AKA SAMMY<3', 'old_value': 'LL Cool J'}}}
+182: {'dictionary_item_added': {"root['associated_acts']": []}, 'values_changed': {"root['origin']": {'new_value': 'Hollis, Queens, New York', 'old_value': 'Queens, New York (state)'}}}
+193: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'Shawn Nick'}}}
+194: {'values_changed': {"root['name']": {'new_value': 'Shawn Nick', 'old_value': 'LL Cool J'}}}
+249: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'fat balls J'}}}
+250: {'values_changed': {"root['name']": {'new_value': 'fat balls J', 'old_value': 'LL Cool J'}}}
+268: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': "LL Cool I'll 2I'll 22233pm 1and 23and 3pm 2and and J"}}}
+269: {'values_changed': {"root['name']": {'new_value': "LL Cool I'll 2I'll 22233pm 1and 23and 3pm 2and and J", 'old_value': 'LL Cool J'}}}
+271: {'dictionary_item_added': {"root['background']": 'solo_singer'}, 'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '4<ref name', "root['embed']": 'yes'}}
+272: {'dictionary_item_removed': {"root['partner']": 'Kidada Jones (1992–1994)'}}
+273: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'wrestler', 'new_value': []}}, 'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'Gold Boulder'}, "root['children']": {'new_value': '4<ref name', 'old_value': '2<ref name'}, "root['genre']": {'new_value': 'Hip hop music', 'old_value': 'wrestler'}}}
+275: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'wrestler'}}, 'values_changed': {"root['name']": {'new_value': 'Gold Boulder', 'old_value': 'LL Cool J'}, "root['children']": {'new_value': '2<ref name', 'old_value': '4<ref name'}, "root['genre']": {'new_value': 'wrestler', 'old_value': 'Hip hop music'}}}
+276: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'Gold Boulder'}}}
+278: {'values_changed': {"root['name']": {'new_value': 'Gold Boulder', 'old_value': 'LL Cool J'}}}
+288: {'values_changed': {"root['partner']": {'new_value': 'Kidada Jones (1992–1994)', 'old_value': 'Kidada Jones (1992–1994)<ref name'}}}
+295: {'values_changed': {"root['name']": {'new_value': 'LL Cool J', 'old_value': 'BYRON BENJAMIN'}}}
+296: {'values_changed': {"root['name']": {'new_value': 'BYRON BENJAMIN', 'old_value': 'LL Cool J'}}}
+297: {'values_changed': {"root['partner']": {'new_value': 'Kidada Jones (1992–1994)<ref name', 'old_value': 'Kidada Jones , (1992–1994)<ref name'}}}

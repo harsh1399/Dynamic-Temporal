@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pierce Brosnan', "root['home_town']": 'Navan, County Meath, Ireland', "root['occupation']": 'Actor, producer, environmentalist', "root['spouse']": 'marriage', "root['children']": '5'}}
+3: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan', 'old_value': 'Pierce Brosnam'}}}
+4: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosnam', 'old_value': 'Pierce Brosnan'}}}
+5: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan', 'old_value': 'Pierce Brosmon'}}}
+6: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosmon', 'old_value': 'Pierce Brosnan'}}}
+26: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan', 'old_value': 'Dickbum'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Dickbum', 'old_value': 'Pierce Brosnan'}}}
+28: {'dictionary_item_removed': {"root['series']": 'The Charlie Rose Show', "root['credits']": 'Charlie Rose (host)', "root['network']": 'PBS', "root['airdate']": '5 August 1999', "root['transcripturl']": "  In 1993 he played a supporting role in the comedy film ''Mrs. Doubtfire''. He also appeared in several television films, including ''Victim of Love (film)", "root['rowspan']": '2'}, 'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan', 'old_value': "Pierce Brosnan (James Bond's Arse)"}, "root['occupation']": {'new_value': 'Actor, producer, environmentalist', 'old_value': 'Actor, producer, dog environmentalist'}}}
+29: {'dictionary_item_added': {"root['series']": 'The Charlie Rose Show', "root['credits']": 'Charlie Rose (host)', "root['network']": 'PBS', "root['airdate']": '5 August 1999', "root['transcripturl']": "  In 1993 he played a supporting role in the comedy film ''Mrs. Doubtfire''. He also appeared in several television films, including ''Victim of Love (film)", "root['rowspan']": '2'}, 'values_changed': {"root['name']": {'new_value': "Pierce Brosnan (James Bond's Arse)", 'old_value': 'Pierce Brosnan'}, "root['occupation']": {'new_value': 'Actor, producer, dog environmentalist', 'old_value': 'Actor, producer, environmentalist'}}}
+45: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '5  '}}}
+46: {'values_changed': {"root['children']": {'new_value': '5  ', 'old_value': '5'}}}
+97: {'values_changed': {"root['children']": {'new_value': '5', 'old_value': '5  '}}}
+98: {'values_changed': {"root['children']": {'new_value': '5  ', 'old_value': '5'}}}
+181: {'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan', 'old_value': 'Pierce Brosnan(De Aguiar)'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'Married gay lover Dylan de Aguiar when it finally became legal in his area in 2002'}, "root['children']": {'new_value': '5', 'old_value': '9(adopted)  '}}}
+182: {'dictionary_item_added': {"root['spouse']": 'Married gay lover Dylan de Aguiar when it finally became legal in his area in 2002', "root['children']": '9(adopted)  '}, 'values_changed': {"root['name']": {'new_value': 'Pierce Brosnan(De Aguiar)', 'old_value': 'Pierce Brosnan'}}}
+199: {'dictionary_item_removed': {"root['residence']": 'Malibu, California, USA'}}
+202: {'dictionary_item_removed': {"root['spouse']": 'marriage'}}
+204: {'dictionary_item_removed': {"root['children']": '5; including Chris and Sean Brosnan '}}
+207: {'values_changed': {"root['residence']": {'new_value': 'Malibu, California, USA', 'old_value': 'Malibu, California, United States'}}}
+210: {'values_changed': {"root['home_town']": {'new_value': 'Navan, County Meath, Ireland', 'old_value': 'Navan, County Meath, Republic of Ireland'}}}

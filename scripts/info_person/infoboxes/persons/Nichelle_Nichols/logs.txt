@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Nichelle Nichols', "root['residence']": 'Woodland Hills, Los Angeles', "root['home_town']": 'Chicago', "root['spouse']": 'marriage', "root['children']": '1', "root['occupation']": [], "root['known_for']": "Lt. Uhura–''Star Trek''"}}
+28: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Hlist', 'new_value': []}}, 'dictionary_item_added': {"root['name']": 'Nichelle Nichols'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Ubl'}}}
+34: {'values_changed': {"root['known_for']": {'new_value': "Lt. Uhura–''Star Trek''", 'old_value': "Lt. Uhura (''Star Trek'')"}}}
+42: {'values_changed': {"root['home_town']": {'new_value': 'Chicago', 'old_value': 'Chicago, Illinois, U.S.'}}}
+46: {'values_changed': {"root['known_for']": {'new_value': "Lt. Uhura (''Star Trek'')", 'old_value': "Uhura (''Star Trek'')"}}}
+54: {'dictionary_item_added': {"root['residence']": 'Woodland Hills, Los Angeles', "root['home_town']": 'Chicago, Illinois, U.S.'}, 'dictionary_item_removed': {"root['name']": 'Nichelle Nichols'}, 'values_changed': {"root['children']": {'new_value': '1', 'old_value': 'Kyle Johnson (actor)'}, "root['known_for']": {'new_value': "Uhura (''Star Trek'')", 'old_value': "Nyota Uhura (''Star Trek'')"}}}
+65: {'dictionary_item_added': {"root['known_for']": "Nyota Uhura (''Star Trek'')"}, 'dictionary_item_removed': {"root['credits']": "Nyota Uhura in ''Star Trek''"}}
+68: {'values_changed': {"root['children']": {'new_value': 'Kyle Johnson (actor)', 'old_value': 'Kyle Johnson '}}}
+85: {'dictionary_item_removed': {"root['education']": 'Englewood Technical Prep Academy'}}

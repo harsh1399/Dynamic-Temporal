@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kathryn Grayson', "root['birthname']": 'Zelma Kathryn Elisabeth Hedrick', "root['birthdate']": 'Birth date and age', "root['birthplace']": 'city-state', "root['occupation']": 'Actress/Singer', "root['yearsactive']": '1941&ndash;2004', "root['spouse']": 'John Shelton (1941&ndash;1946) divorced, Johnny Johnston (1947&ndash;1951) divorced'}}
+8: {'values_changed': {"root['birthdate']": {'new_value': 'Birth date and age', 'old_value': 'Birth date and 88 age'}}}
+9: {'values_changed': {"root['birthdate']": {'new_value': 'Birth date and 88 age', 'old_value': 'Birth date and age'}}}
+14: {'dictionary_item_removed': {"root['deathdate']": 'Death date and age'}}
+15: {'dictionary_item_removed': {"root['rowspan']": '3', "root['NAME']": 'Grayson, Kathryn |ALTERNATIVE NAMES'}}
+16: {'values_changed': {"root['deathdate']": {'new_value': 'Death date and age', 'old_value': 'Death date'}}}
+19: {'dictionary_item_added': {"root['rowspan']": '3', "root['NAME']": 'Grayson, Kathryn |ALTERNATIVE NAMES'}, 'dictionary_item_removed': {"root['deathplace']": 'city-state'}, 'values_changed': {"root['deathdate']": {'new_value': 'Death date', 'old_value': 'Death date and age'}}}
+20: {'values_changed': {"root['birthdate']": {'new_value': 'Birth date and age', 'old_value': 'Birth date'}, "root['deathdate']": {'new_value': 'Death date and age', 'old_value': 'death date and age'}}}
+26: {'values_changed': {"root['deathdate']": {'new_value': 'death date and age', 'old_value': 'dda'}}}
+76: {'values_changed': {"root['spouse']": {'new_value': 'John Shelton (1941&ndash;1946) divorced, Johnny Johnston (1947&ndash;1951) divorced', 'old_value': 'John Shelton (1941&ndash;1946) divorced, Johnny Johnston, (1947&ndash;1951) divorced'}}}
+130: {'values_changed': {"root['spouse']": {'new_value': 'John Shelton (1941&ndash;1946) divorced, Johnny Johnston, (1947&ndash;1951) divorced', 'old_value': 'John Shelton (1941&ndash;1946), (divorced), Johnny Johnston (1947&ndash;1951), (divorced) 1 child'}}}
+168: {'values_changed': {"root['yearsactive']": {'new_value': '1941&ndash;2004', 'old_value': '1941–2004'}, "root['spouse']": {'new_value': 'John Shelton (1941&ndash;1946), (divorced), Johnny Johnston (1947&ndash;1951), (divorced) 1 child', 'old_value': 'John Shelton (1941–1946) (divorced) Johnny Johnston (1947–1951) (divorced) 1 child'}}}

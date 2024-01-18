@@ -1,0 +1,19 @@
+172: {'dictionary_item_removed': {"root['name']": 'David Warner', "root['education']": 'Feldon School', "root['alma_mater']": 'Royal Academy of Dramatic Art', "root['occupation']": 'Actor', "root['spouse']": 'marriage', "root['children']": '1', "root['awards']": 'Emmy Award '}}
+272: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'marriage'}}, 'values_changed': {"root['occupation']": {'new_value': 'Actor', 'old_value': 'Actor, voice actor'}, "root['children']": {'new_value': '1', 'old_value': '2 '}, "root['awards']": {'new_value': 'Emmy Award ', 'old_value': '1981 Emmy Award'}}}
+290: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor, Voice actor'}}}
+291: {'values_changed': {"root['occupation']": {'new_value': 'Actor, Voice actor', 'old_value': 'Actor, voice actor'}}}
+294: {'values_changed': {"root['occupation']": {'new_value': 'Actor, voice actor', 'old_value': 'Actor'}}}
+324: {'dictionary_item_removed': {"root['domesticpartner']": 'Lisa Bowerman'}}
+350: {'dictionary_item_added': {"root['domesticpartner']": 'Lisa Bowerman'}, 'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '1 '}}}
+353: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '2 '}}}
+359: {'values_changed': {"root['children']": {'new_value': '2 ', 'old_value': '1 '}}}
+472: {'type_changes': {"root['spouse']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Plainlist', 'new_value': []}}}
+510: {'values_changed': {"root['children']": {'new_value': '1 ', 'old_value': '2 |'}}}
+512: {'dictionary_item_removed': {"root['partner']": 'Lisa Bowerman (- 2022)'}}
+513: {'values_changed': {"root['partner']": {'new_value': 'Lisa Bowerman (- 2022)', 'old_value': 'Lisa Bowerman (–2022)'}}}
+555: {'dictionary_item_added': {"root['education']": 'Feldon School'}, 'values_changed': {"root['children']": {'new_value': '2 |', 'old_value': '1 |'}}}
+560: {'values_changed': {"root['partner']": {'new_value': 'Lisa Bowerman (–2022)', 'old_value': 'Lisa Bowerman (2006–2022)'}}}
+564: {'values_changed': {"root['children']": {'new_value': '1 |', 'old_value': '1'}}}
+566: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '1 |'}}}
+569: {'values_changed': {"root['partner']": {'new_value': 'Lisa Bowerman (2006–2022)', 'old_value': 'Lisa Bowerman (2006–2022; his death)'}}}
+570: {'type_changes': {"root['spouse']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Plainlist'}}}

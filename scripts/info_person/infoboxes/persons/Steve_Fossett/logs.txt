@@ -1,0 +1,11 @@
+204: {'dictionary_item_removed': {"root['name']": 'Steve Fossett', "root['known_for']": 'Aviator, sailor and adventurer'}}
+382: {'dictionary_item_removed': {"root['status']": 'Missing'}}
+429: {'dictionary_item_added': {"root['status']": 'Missing', "root['known_for']": 'Aviator, sailor and adventurer'}, 'dictionary_item_removed': {"root['occupation']": 'aviator, sailor, adventurer '}}
+430: {'dictionary_item_added': {"root['occupation']": 'aviator, sailor, adventurer '}, 'dictionary_item_removed': {"root['known_for']": 'Aviator, sailor and adventurer', "root['status']": 'Missing'}}
+509: {'values_changed': {"root['status']": {'new_value': 'Missing', 'old_value': 'Dead'}}}
+510: {'values_changed': {"root['known_for']": {'new_value': 'Aviator, sailor and adventurer', 'old_value': 'Aviator, sailor and corpse'}}}
+513: {'values_changed': {"root['known_for']": {'new_value': 'Aviator, sailor and corpse', 'old_value': 'Aviator, sailor and adventurer'}, "root['status']": {'new_value': 'Dead', 'old_value': 'Missing'}}}
+550: {'values_changed': {"root['status']": {'new_value': 'Missing', 'old_value': 'Presumed Dead'}}}
+552: {'values_changed': {"root['status']": {'new_value': 'Presumed Dead', 'old_value': 'Missing'}}}
+602: {'values_changed': {"root['status']": {'new_value': 'Missing', 'old_value': 'Missing (likely deceased)'}}}
+605: {'values_changed': {"root['status']": {'new_value': 'Missing (likely deceased)', 'old_value': 'Missing'}}}

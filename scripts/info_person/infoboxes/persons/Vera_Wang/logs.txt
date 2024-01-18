@@ -1,0 +1,8 @@
+13: {'dictionary_item_removed': {"root['name']": 'Vera Wang', "root['education']": 'The Chapin School (Manhattan)', "root['label_name']": 'Vera Wang', "root['awards']": '|'}}
+102: {'values_changed': {"root['label_name']": {'new_value': 'Vera Wang', 'old_value': 'Vera Guevara'}}}
+105: {'values_changed': {"root['label_name']": {'new_value': 'Vera Guevara', 'old_value': 'Vera Wang'}}}
+115: {'dictionary_item_removed': {"root['ethnicity']": 'Chinese', "root['spouse']": 'Arthur Becker (m. 1989-present)', "root['children']": '2'}, 'values_changed': {"root['name']": {'new_value': 'Vera Wang', 'old_value': 'Vera Wang 王薇薇'}, "root['label_name']": {'new_value': 'Vera Wang', 'old_value': 'Vera Ellen Wang'}, "root['awards']": {'new_value': '|', 'old_value': "CFDA's womenswear designer of the year, 2005; André Leon Talley Lifetime Achievement Award |"}}}
+165: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '23'}}}
+166: {'values_changed': {"root['children']": {'new_value': '23', 'old_value': '2'}}}
+187: {'dictionary_item_added': {"root['education']": 'The Chapin School (Manhattan)'}, 'dictionary_item_removed': {"root['alma_mater']": 'Sarah Lawrence College'}}
+191: {'values_changed': {"root['spouse']": {'new_value': 'Arthur Becker (m. 1989-present)', 'old_value': 'Arthur Becker (m. 1989-2012)'}}}

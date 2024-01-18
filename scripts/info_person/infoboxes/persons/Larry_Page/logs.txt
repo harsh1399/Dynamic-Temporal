@@ -1,0 +1,167 @@
+0: {'dictionary_item_removed': {"root['name']": 'Larry Page', "root['occupation']": 'Co-Founder & President of Products of Google Inc.', "root['salary']": '$35,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission', "root['networth']": 'gain $12.8 billion United States dollar'}}
+7: {'values_changed': {"root['networth']": {'new_value': 'gain $12.8 billion United States dollar', 'old_value': 'gain $14 billion United States dollar'}}}
+57: {'values_changed': {"root['networth']": {'new_value': 'gain $14 billion United States dollar', 'old_value': 'gain $16.6 billion United States dollar'}}}
+81: {'values_changed': {"root['networth']": {'new_value': 'gain $16.6 billion United States dollar', 'old_value': 'gain $9.6 billion United States dollar'}}}
+83: {'values_changed': {"root['networth']": {'new_value': 'gain $9.6 billion United States dollar', 'old_value': 'gain $16.6 billion United States dollar'}}}
+97: {'values_changed': {"root['networth']": {'new_value': 'gain $16.6 billion United States dollar', 'old_value': 'gain $1.5 billion United States dollar'}}}
+98: {'values_changed': {"root['networth']": {'new_value': 'gain $1.5 billion United States dollar', 'old_value': 'gain $16.6 billion United States dollar'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Page (is a dumb dumb head!)'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'Larry Page (is a dumb dumb head!)', 'old_value': 'Larry Page'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Page the gay'}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Larry Page the gay', 'old_value': 'Larry Page'}}}
+220: {'values_changed': {"root['networth']": {'new_value': 'gain $16.6 billion United States dollar', 'old_value': 'gain $18.5 billion United States dollar'}}}
+222: {'values_changed': {"root['networth']": {'new_value': 'gain $18.5 billion United States dollar', 'old_value': 'gain $16.6 billion United States dollar'}}}
+229: {'values_changed': {"root['networth']": {'new_value': 'gain $16.6 billion United States dollar', 'old_value': 'gain $18.5 billion United States dollar'}}}
+263: {'values_changed': {"root['salary']": {'new_value': '$35,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission', 'old_value': '$34,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission'}}}
+264: {'values_changed': {"root['networth']": {'new_value': 'gain $18.5 billion United States dollar', 'old_value': 'gain $10.5 billion United States dollar'}}}
+265: {'values_changed': {"root['salary']": {'new_value': '$34,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission', 'old_value': '$35,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission'}, "root['networth']": {'new_value': 'gain $10.5 billion United States dollar', 'old_value': 'gain $18.5 billion United States dollar'}}}
+266: {'values_changed': {"root['salary']": {'new_value': '$35,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission', 'old_value': '$25,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission'}}}
+302: {'dictionary_item_removed': {"root['spouse']": 'Lucinda Southworth'}}
+307: {'dictionary_item_added': {"root['salary']": '$25,045 USD (2005) 2005 compensations from Google: $1 in salary, $1,630 in bonus, $33,411 other annual compensation, $3 all other compensation. Source: United States Securities and Exchange Commission'}, 'dictionary_item_removed': {"root['hometown']": 'East Lansing, Michigan'}, 'values_changed': {"root['networth']": {'new_value': 'gain $18.5 billion United States dollar', 'old_value': "increase '''$8.6 billion''' United States dollar"}}}
+308: {'values_changed': {"root['networth']": {'new_value': "increase '''$8.6 billion''' United States dollar", 'old_value': "decrease '''$15.8 billion''' United States dollar"}}}
+311: {'dictionary_item_added': {"root['occupation']": 'Co-Founder & President of Products of Google Inc.', "root['networth']": "decrease '''$15.8 billion''' United States dollar", "root['spouse']": 'Lucinda Southworth', "root['hometown']": 'East Lansing, Michigan'}, 'dictionary_item_removed': {"root['NAME']": 'Page, Larry |ALTERNATIVE'}, 'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'L/20070826180524/http://bnaibrith.org/pubs/bnaibrith/spring2006bbm/searchmeisters.cfm The Searchmeisters    He is also the brother of Carl Victor Page, Jr.,<ref name'}}}
+313: {'dictionary_item_added': {"root['NAME']": 'Page, Larry |ALTERNATIVE'}, 'dictionary_item_removed': {"root['occupation']": 'Co-Founder & President of Products of Google Inc.', "root['networth']": "decrease '''$15.8 billion''' United States dollar", "root['spouse']": 'Lucinda Southworth', "root['hometown']": 'East Lansing, Michigan'}, 'values_changed': {"root['name']": {'new_value': 'L/20070826180524/http://bnaibrith.org/pubs/bnaibrith/spring2006bbm/searchmeisters.cfm The Searchmeisters    He is also the brother of Carl Victor Page, Jr.,<ref name', 'old_value': 'Larry Page'}}}
+340: {'values_changed': {"root['networth']": {'new_value': "decrease '''$15.8 billion''' United States dollar", 'old_value': "'''$15.8 billion''' United States dollar"}, "root['spouse']": {'new_value': 'Lucinda Southworth', 'old_value': 'Lucy Southworth'}}}
+344: {'values_changed': {"root['spouse']": {'new_value': 'Lucy Southworth', 'old_value': 'Lucinda Southworth'}}}
+349: {'dictionary_item_added': {"root['networth']": "'''$15.8 billion''' United States dollar"}, 'dictionary_item_removed': {"root['known_for']": "Co-founder of Google, Inc. , world's largest internet company"}, 'values_changed': {"root['occupation']": {'new_value': 'Co-Founder & President of Products of Google Inc.', 'old_value': 'Computer scientist, technology innovator, entrepreneur'}}}
+374: {'values_changed': {"root['known_for']": {'new_value': "Co-founder of Google, Inc. , world's largest internet company", 'old_value': 'Co-founder of Google, Inc.'}}}
+381: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technology innovator, entrepreneur', 'old_value': 'Computer scientist, technology innovator, entrepreneur  one of the Youngest billionair'}}}
+382: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technology innovator, entrepreneur  one of the Youngest billionair', 'old_value': 'Computer scientist, technology innovator, entrepreneur'}}}
+396: {'dictionary_item_removed': {"root['alma_mater']": 'University of Michigan ,  Stanford University'}}
+483: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technology innovator, entrepreneur', 'old_value': 'Engineer, Computer scientist, technology innovator, entrepreneur'}}}
+485: {'values_changed': {"root['occupation']": {'new_value': 'Engineer, Computer scientist, technology innovator, entrepreneur', 'old_value': 'Computer scientist, technology innovator, entrepreneur'}}}
+494: {'dictionary_item_removed': {"root['Death_date']": 'June, 6, 2006'}}
+496: {'dictionary_item_added': {"root['Death_date']": 'June, 6, 2006'}, 'dictionary_item_removed': {"root['died']": 'june 6, 2006'}}
+522: {'dictionary_item_added': {"root['died']": 'june 6, 2006'}, 'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Pagecameron was here'}}}
+523: {'values_changed': {"root['name']": {'new_value': 'Larry Pagecameron was here', 'old_value': 'Larry Page'}}}
+531: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technology innovator, entrepreneur', 'old_value': 'Computer scientist, technoogy innovator, entrepreneur'}}}
+532: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technoogy innovator, entrepreneur', 'old_value': 'Computer scientist, technoogy inovator, entrepreneur'}}}
+535: {'values_changed': {"root['occupation']": {'new_value': 'Computer scientist, technoogy inovator, entrepreneur', 'old_value': 'Computer scientist, technology innovator, entrepreneur'}}}
+633: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Michigan ,  Stanford University', 'old_value': 'East Lansing High School ,  University of Michigan ,  Stanford University'}}}
+635: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Computer scientist, technology innovator, entrepreneur'}}, 'dictionary_item_added': {"root['spouse']": 'Lucinda Southworth', "root['hometown']": 'East Lansing, Michigan'}, 'dictionary_item_removed': {"root['residence']": 'Palo Alto, California, U.S.<ref name', "root['salary']": 'One-dollar salary', "root['networth']": 'US$61.3 billion<ref name'}, 'values_changed': {"root['alma_mater']": {'new_value': 'East Lansing High School ,  University of Michigan ,  Stanford University', 'old_value': 'University of Michigan (Bachelor of Science'}, "root['known_for']": {'new_value': 'Co-founder of Google, Inc.', 'old_value': 'Co-founding Google, Alphabet Inc. and PageRank'}}}
+637: {'values_changed': {"root['networth']": {'new_value': 'US$61.3 billion<ref name', 'old_value': 'US$64.3 billion<ref name'}}}
+646: {'values_changed': {"root['networth']": {'new_value': 'US$64.3 billion<ref name', 'old_value': 'US$66.3 billion(2020)<ref name'}}}
+668: {'values_changed': {"root['networth']": {'new_value': 'US$66.3 billion(2020)<ref name', 'old_value': 'IncreaseUS$66.3 billion(2020)<ref name'}}}
+669: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google, Alphabet Inc. and PageRank', 'old_value': 'Co-founding Google ,  Co-founderAlphabet Inc. ,  Co-founder PageRank'}}}
+675: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founderAlphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+679: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Page(Thumb with hair)'}}}
+680: {'values_changed': {"root['name']": {'new_value': 'Larry Page(Thumb with hair)', 'old_value': 'Larry Page'}}}
+681: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Page(Thumb with Hair)'}}}
+682: {'values_changed': {"root['name']": {'new_value': 'Larry Page(Thumb with Hair)', 'old_value': 'Larry Page'}}}
+689: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$66.3 billion(2020)<ref name', 'old_value': 'IncreaseUS$66.3 billion (2020)<ref name'}}}
+691: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$66.3 billion (2020)<ref name', 'old_value': 'IncreaseUS$53.6 billion (2020)<ref name'}}}
+699: {'dictionary_item_removed': {"root['spouse']": 'marriage', "root['children']": '2'}}
+702: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Matthew Ochoa'}}}
+703: {'values_changed': {"root['name']": {'new_value': 'Matthew Ochoa', 'old_value': 'Larry Page'}}}
+705: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$53.6 billion (2020)<ref name', 'old_value': 'IncreaseUS$1 billion (2020)<ref name'}}}
+706: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$1 billion (2020)<ref name', 'old_value': 'IncreaseUS$58 billion (2020)<ref name'}}}
+707: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$58 billion (2020)<ref name', 'old_value': 'IncreaseUS$48 billion (2020)<ref name'}}}
+717: {'values_changed': {"root['networth']": {'new_value': 'IncreaseUS$48 billion (2020)<ref name', 'old_value': 'US$48 billion (2020)<ref name'}}}
+721: {'values_changed': {"root['networth']": {'new_value': 'US$48 billion (2020)<ref name', 'old_value': 'US$67 billion (2020)<ref name'}}}
+724: {'values_changed': {"root['networth']": {'new_value': 'US$67 billion (2020)<ref name', 'old_value': 'US$62 billion (2020)<ref name'}}}
+728: {'values_changed': {"root['networth']": {'new_value': 'US$62 billion (2020)<ref name', 'old_value': 'US$63.3 billion (May 2020)<ref name'}}}
+730: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Rarry Page'}}}
+731: {'values_changed': {"root['name']": {'new_value': 'Rarry Page', 'old_value': 'Larry Page'}}}
+735: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Yahoo ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+736: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Yahoo ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+737: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Yahoo ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+738: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Yahoo ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+746: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founder of Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+747: {'values_changed': {"root['known_for']": {'new_value': 'Co-founder of Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank'}}}
+748: {'values_changed': {"root['networth']": {'new_value': 'US$63.3 billion (May 2020)<ref name', 'old_value': 'US$1 mllion (May 2020)<ref name'}}}
+749: {'values_changed': {"root['networth']": {'new_value': 'US$1 mllion (May 2020)<ref name', 'old_value': 'US$63.3 billion (May 2020)<ref name'}}}
+752: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founder Alphabet Inc. ,  Co-founder PageRank', 'old_value': 'Co-founding Google ,  Co-founding Alphabet Inc. ,  Co-creator PageRank'}}}
+757: {'dictionary_item_added': {"root['residence']": 'Palo Alto, California, U.S.<ref name'}, 'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google ,  Co-founding Alphabet Inc. ,  Co-creator PageRank', 'old_value': 'Co-founding Google Co-founding Alphabet Inc. Co-creator PageRank'}}}
+762: {'values_changed': {"root['networth']": {'new_value': 'US$63.3 billion (May 2020)<ref name', 'old_value': 'US$69.8 billion (July 2020)<ref name'}}}
+774: {'values_changed': {"root['networth']": {'new_value': 'US$69.8 billion (July 2020)<ref name', 'old_value': 'US$67 billion (July 2020)<ref name'}}}
+794: {'values_changed': {"root['networth']": {'new_value': 'US$67 billion (July 2020)<ref name', 'old_value': 'US$65.6 billion (September 2020)<ref name'}}}
+807: {'values_changed': {"root['alma_mater']": {'new_value': 'University of Michigan (Bachelor of Science', 'old_value': 'environmental health academy Padang (Amd) Riau of University (Bachelor of Law'}, "root['children']": {'new_value': '2', 'old_value': '3'}}}
+808: {'values_changed': {"root['alma_mater']": {'new_value': 'environmental health academy Padang (Amd) Riau of University (Bachelor of Law', 'old_value': 'University of Michigan (Bachelor of Science'}, "root['children']": {'new_value': '3', 'old_value': '2'}}}
+821: {'dictionary_item_added': {"root['salary']": 'One-dollar salary'}, 'values_changed': {"root['networth']": {'new_value': 'US$65.6 billion (September 2020)<ref name', 'old_value': 'US$65.6 trillion dollars (September 2020)<ref name'}}}
+822: {'values_changed': {"root['networth']": {'new_value': 'US$65.6 trillion dollars (September 2020)<ref name', 'old_value': 'US$65.6 billion (September 2020)<ref name'}}}
+832: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'SARTHAK RANA'}}}
+833: {'values_changed': {"root['name']": {'new_value': 'SARTHAK RANA', 'old_value': 'Larry Page'}}}
+834: {'values_changed': {"root['networth']": {'new_value': 'US$65.6 billion (September 2020)<ref name', 'old_value': 'US$77.6 billion (November 2020)<ref name'}}}
+839: {'values_changed': {"root['networth']": {'new_value': 'US$77.6 billion (November 2020)<ref name', 'old_value': 'Increase US$ 78.1 billion  (14 November 2020) <ref name'}}}
+842: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 78.1 billion  (14 November 2020) <ref name', 'old_value': 'Increase US$ 78.1 billion  (November 2020) <ref name'}}}
+843: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '72'}}}
+844: {'values_changed': {"root['children']": {'new_value': '72', 'old_value': '2'}}}
+872: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Pag'}}}
+873: {'values_changed': {"root['name']": {'new_value': 'Larry Pag', 'old_value': 'Larry Page'}}}
+884: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'User'}}}
+885: {'values_changed': {"root['name']": {'new_value': 'User', 'old_value': 'Page'}}}
+888: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '3'}}}
+893: {'values_changed': {"root['name']": {'new_value': 'Page', 'old_value': 'Larry Page'}}}
+912: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 78.1 billion  (November 2020) <ref name', 'old_value': 'Increase US$ 89.4 Billion  (February 2021) <ref name'}}}
+914: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 89.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$ 96.6 Billion  (February 2021) <ref name'}}}
+915: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 96.6 Billion  (February 2021) <ref name', 'old_value': 'Increase US$ 97.4 Billion  (February 2021) <ref name'}}}
+916: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 97.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$ 895.4 Billion  (February 2021) <ref name'}}}
+917: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ 895.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$ $20 Thousand  (February 2021) <ref name'}}}
+919: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ $20 Thousand  (February 2021) <ref name', 'old_value': 'Increase US$ $92 Billion  (February 2021) <ref name'}}}
+920: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ $92 Billion  (February 2021) <ref name', 'old_value': 'Increase US$ $97.4 Billion  (February 2021) <ref name'}}}
+921: {'values_changed': {"root['children']": {'new_value': '3', 'old_value': '1'}}}
+922: {'values_changed': {"root['children']": {'new_value': '1', 'old_value': '2<ref name'}}}
+923: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ $97.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$20,000  (February 2021) <ref name'}}}
+924: {'values_changed': {"root['networth']": {'new_value': 'Increase US$20,000  (February 2021) <ref name', 'old_value': 'Increase US$ $97.4 Billion  (February 2021) <ref name'}}}
+925: {'values_changed': {"root['networth']": {'new_value': 'Increase US$ $97.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$97.4 Billion  (February 2021) <ref name'}}}
+934: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'activationquotes.com/authordetails/1171'}}}
+937: {'values_changed': {"root['name']": {'new_value': 'activationquotes.com/authordetails/1171', 'old_value': 'Larry Page'}}}
+945: {'values_changed': {"root['networth']": {'new_value': 'Increase US$97.4 Billion  (February 2021) <ref name', 'old_value': 'Increase US$93.6 Billion  (February 2021) <ref name'}}}
+946: {'values_changed': {"root['networth']": {'new_value': 'Increase US$93.6 Billion  (February 2021) <ref name', 'old_value': 'down US$93.6 Billion  (February 2021) <ref name'}}}
+947: {'values_changed': {"root['networth']": {'new_value': 'down US$93.6 Billion  (February 2021) <ref name', 'old_value': 'down US$93.6 Billion  (March 2021) <ref name'}}}
+948: {'values_changed': {"root['networth']": {'new_value': 'down US$93.6 Billion  (March 2021) <ref name', 'old_value': 'up US$93.6 Billion  (March 2021) <ref name'}}}
+949: {'values_changed': {"root['networth']": {'new_value': 'up US$93.6 Billion  (March 2021) <ref name', 'old_value': 'up US$95.5 Billion  (March 2021) <ref name'}}}
+950: {'values_changed': {"root['networth']": {'new_value': 'up US$95.5 Billion  (March 2021) <ref name', 'old_value': 'down US$95.3 Billion  (2021) <ref name'}}}
+951: {'values_changed': {"root['networth']": {'new_value': 'down US$95.3 Billion  (2021) <ref name', 'old_value': 'down US$93.1 Billion  (2021) <ref name'}}}
+952: {'values_changed': {"root['networth']": {'new_value': 'down US$93.1 Billion  (2021) <ref name', 'old_value': 'up US$94.0 Billion  (2021) <ref name'}}}
+954: {'values_changed': {"root['networth']": {'new_value': 'up US$94.0 Billion  (2021) <ref name', 'old_value': 'up US$96.4 Billion  (2021) <ref name'}}}
+955: {'values_changed': {"root['networth']": {'new_value': 'up US$96.4 Billion  (2021) <ref name', 'old_value': 'up US$995.4 Billion  (2021) <ref name'}}}
+956: {'values_changed': {"root['networth']": {'new_value': 'up US$995.4 Billion  (2021) <ref name', 'old_value': 'up US$96.4 Billion  (2021) <ref name'}}}
+957: {'values_changed': {"root['networth']": {'new_value': 'up US$96.4 Billion  (2021) <ref name', 'old_value': 'down US$92.9 Billion  (2021) <ref name'}}}
+958: {'values_changed': {"root['networth']": {'new_value': 'down US$92.9 Billion  (2021) <ref name', 'old_value': 'up US$94.2 Billion  (2021) <ref name'}}}
+959: {'values_changed': {"root['networth']": {'new_value': 'up US$94.2 Billion  (2021) <ref name', 'old_value': 'down US$92.9 Billion  (2021) <ref name'}}}
+964: {'values_changed': {"root['networth']": {'new_value': 'down US$92.9 Billion  (2021) <ref name', 'old_value': 'up US$94.8 Billion  (2021) <ref name'}}}
+973: {'values_changed': {"root['networth']": {'new_value': 'up US$94.8 Billion  (2021) <ref name', 'old_value': 'up US$93.8 Billion  (2021) <ref name'}}}
+974: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Larry Pedo'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'marriage f.u.cke.d coloured crayons Page'}}}
+975: {'values_changed': {"root['name']": {'new_value': 'Larry Pedo', 'old_value': 'Larry Page'}, "root['spouse']": {'new_value': 'marriage f.u.cke.d coloured crayons Page', 'old_value': 'marriage'}}}
+976: {'values_changed': {"root['networth']": {'new_value': 'up US$93.8 Billion  (2021) <ref name', 'old_value': 'down US$93.9 Billion  (2021) <ref name'}}}
+993: {'values_changed': {"root['networth']": {'new_value': 'down US$93.9 Billion  (2021) <ref name', 'old_value': 'up US$95.0 Billion  (2021) <ref name'}}}
+998: {'values_changed': {"root['networth']": {'new_value': 'up US$95.0 Billion  (2021) <ref name', 'old_value': 'up US$102.8 Billion  (2021) <ref name'}}}
+1003: {'values_changed': {"root['networth']": {'new_value': 'up US$102.8 Billion  (2021) <ref name', 'old_value': 'up US$103.7 Billion  (2021) <ref name'}}}
+1005: {'values_changed': {"root['networth']": {'new_value': 'up US$103.7 Billion  (2021) <ref name', 'old_value': 'up US$104.2 Billion  (2021) <ref name'}}}
+1010: {'values_changed': {"root['networth']": {'new_value': 'up US$104.2 Billion  (2021) <ref name', 'old_value': 'up US$104.2 billion  (2021) <ref name'}}}
+1011: {'values_changed': {"root['networth']": {'new_value': 'up US$104.2 billion  (2021) <ref name', 'old_value': 'up US$104.8 billion  (2021) <ref name'}}}
+1012: {'values_changed': {"root['networth']": {'new_value': 'up US$104.8 billion  (2021) <ref name', 'old_value': 'down US$107.9 billion  (2021) <ref name'}}}
+1014: {'values_changed': {"root['networth']": {'new_value': 'down US$107.9 billion  (2021) <ref name', 'old_value': 'up US$107.5 billion  (2021) <ref name'}}}
+1049: {'values_changed': {"root['networth']": {'new_value': 'up US$107.5 billion  (2021) <ref name', 'old_value': 'up US$104.4 billion  (2021) <ref name'}}}
+1050: {'values_changed': {"root['networth']": {'new_value': 'up US$104.4 billion  (2021) <ref name', 'old_value': 'down US$105.2 billion  (2021) <ref name'}}}
+1053: {'dictionary_item_added': {"root['name']": 'Larry Page'}, 'values_changed': {"root['networth']": {'new_value': 'down US$105.2 billion  (2021) <ref name', 'old_value': 'up US$107.9 billion  (2021) <ref name'}}}
+1056: {'values_changed': {"root['networth']": {'new_value': 'up US$107.9 billion  (2021) <ref name', 'old_value': 'up US$109.4 billion  (2021) <ref name'}}}
+1057: {'values_changed': {"root['networth']": {'new_value': 'up US$109.4 billion  (2021) <ref name', 'old_value': 'up US$111.7 billion  (2021) <ref name'}}}
+1059: {'values_changed': {"root['networth']": {'new_value': 'up US$111.7 billion  (2021) <ref name', 'old_value': 'down US$110.9 billion  (2021) <ref name'}}}
+1061: {'values_changed': {"root['networth']": {'new_value': 'down US$110.9 billion  (2021) <ref name', 'old_value': 'down US$112.5 billion  (2021) <ref name'}}}
+1063: {'values_changed': {"root['networth']": {'new_value': 'down US$112.5 billion  (2021) <ref name', 'old_value': 'gain US$114.3 billion  (2021) <ref name'}}}
+1064: {'values_changed': {"root['networth']": {'new_value': 'gain US$114.3 billion  (2021) <ref name', 'old_value': 'loss US$114.4 billion  (2021) <ref name'}}}
+1078: {'dictionary_item_added': {"root['networth']": 'loss US$114.4 billion  (2021) <ref name'}, 'dictionary_item_removed': {"root['name']": 'Lawrence Edward Page  Larry Page'}}
+1087: {'values_changed': {"root['name']": {'new_value': 'Lawrence Edward Page  Larry Page', 'old_value': 'ownerdavidwcoleAll block'}}}
+1095: {'dictionary_item_added': {"root['name']": 'ownerdavidwcoleAll block', "root['children']": '2<ref name'}, 'dictionary_item_removed': {"root['friends']": 'Ashish Jadhav name'}}
+1096: {'dictionary_item_added': {"root['friends']": 'Ashish Jadhav name'}, 'dictionary_item_removed': {"root['children']": '2<ref name'}}
+1097: {'dictionary_item_added': {"root['children']": '2<ref name'}, 'values_changed': {"root['spouse']": {'new_value': 'marriage', 'old_value': 'Close Frien'}}}
+1098: {'dictionary_item_removed': {"root['children']": '2<ref name'}, 'values_changed': {"root['spouse']": {'new_value': 'Close Frien', 'old_value': 'marriage'}}}
+1109: {'dictionary_item_removed': {"root['name']": 'Larry Page'}}
+1127: {'values_changed': {"root['known_for']": {'new_value': 'Co-founding Google Co-founding Alphabet Inc. Co-creator PageRank', 'old_value': 'founding Google Co-founding Alphabet Inc. Co-creator PageRank'}}}
+1128: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'get I guess'}}}
+1129: {'values_changed': {"root['name']": {'new_value': 'get I guess', 'old_value': 'Larry Page'}}}
+1130: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Hi'}}}
+1131: {'values_changed': {"root['name']": {'new_value': 'Hi', 'old_value': 'Larry Page'}}}
+1132: {'values_changed': {"root['known_for']": {'new_value': 'founding Google Co-founding Alphabet Inc. Co-creator PageRank', 'old_value': 'Co-founding Google Co-founding Alphabet Inc. Co-creator PageRank'}}}
+1134: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'subhash'}}}
+1135: {'values_changed': {"root['name']": {'new_value': 'subhash', 'old_value': 'Larry Page'}}}
+1136: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Subhash vishwakarma'}}}
+1137: {'values_changed': {"root['name']": {'new_value': 'Subhash vishwakarma', 'old_value': 'Larry Page'}}}
+1151: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'google maniac'}}}
+1152: {'values_changed': {"root['name']": {'new_value': 'google maniac', 'old_value': 'Larry Page'}}}
+1153: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Nalla Page'}}}
+1154: {'values_changed': {"root['name']": {'new_value': 'Nalla Page', 'old_value': 'Larry Page'}}}
+1155: {'values_changed': {"root['name']": {'new_value': 'Larry Page', 'old_value': 'Nalla Page'}}}
+1156: {'values_changed': {"root['name']": {'new_value': 'Nalla Page', 'old_value': 'Larry Page'}}}

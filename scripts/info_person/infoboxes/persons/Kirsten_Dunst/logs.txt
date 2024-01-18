@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kirsten Dunst', "root['occupation']": []}}
+57: {'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst', 'old_value': 'God'}}}
+58: {'values_changed': {"root['name']": {'new_value': 'God', 'old_value': 'Kirsten Dunst'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst', 'old_value': "Kirsten Dunst Bucsoiu (she get the names after her marriage with Daniel Gabriel Bucsoiu, an romanian guy meeting him on Facebook this year andsaid about him:''He's my everything. My air'')"}}}
+62: {'values_changed': {"root['name']": {'new_value': "Kirsten Dunst Bucsoiu (she get the names after her marriage with Daniel Gabriel Bucsoiu, an romanian guy meeting him on Facebook this year andsaid about him:''He's my everything. My air'')", 'old_value': 'Kirsten Dunst'}}}
+160: {'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst', 'old_value': 'Kirsten Dunst "Sexy Pants"'}}}
+161: {'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst "Sexy Pants"', 'old_value': 'Kirsten Dunst'}}}
+233: {'dictionary_item_removed': {"root['rowspan']": '"4"', "root['list']": 'sta'}, 'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst', 'old_value': 'Kirsten Dunst or Mary Jane'}}}
+234: {'dictionary_item_added': {"root['rowspan']": '"4"', "root['list']": 'sta'}, 'values_changed': {"root['name']": {'new_value': 'Kirsten Dunst or Mary Jane', 'old_value': 'Kirsten Dunst'}}}
+279: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actress', 'new_value': []}}}
+291: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress'}}, 'dictionary_item_removed': {"root['works']": 'List of Kirsten Dunst performances', "root['partner']": 'Plainlist', "root['children']": '2', "root['awards']": 'Full list '}}
+369: {'dictionary_item_removed': {"root['spouse']": 'Jesse Plemons'}}
+394: {'dictionary_item_added': {"root['spouse']": 'Jesse Plemons'}, 'values_changed': {"root['partner']": {'new_value': 'Plainlist', 'old_value': 'Jesse Plemons (2016–present)efn'}}}
+395: {'values_changed': {"root['partner']": {'new_value': 'Jesse Plemons (2016–present)efn', 'old_value': 'Garrett Hedlund (2012–2016)  Jesse Plemons (2016–present)efn'}}}
+396: {'values_changed': {"root['partner']": {'new_value': 'Garrett Hedlund (2012–2016)  Jesse Plemons (2016–present)efn', 'old_value': 'Jesse Plemons (2016–present)efn'}}}
+406: {'values_changed': {"root['partner']": {'new_value': 'Jesse Plemons (2016–present)efn', 'old_value': 'Jesse Plemons (2016-present)efn'}}}
+415: {'values_changed': {"root['partner']": {'new_value': 'Jesse Plemons (2016-present)efn', 'old_value': 'Jesse Plemons'}}}
+416: {'values_changed': {"root['partner']": {'new_value': 'Jesse Plemons', 'old_value': 'Garrett Hedlund (2012-2016), Jesse Plemons'}}}
+417: {'values_changed': {"root['partner']": {'new_value': 'Garrett Hedlund (2012-2016), Jesse Plemons', 'old_value': 'Garrett Hedlund (2012–2016), Jesse Plemons'}}}
+418: {'dictionary_item_removed': {"root['spouse']": 'marriage'}, 'values_changed': {"root['partner']": {'new_value': 'Garrett Hedlund (2012–2016), Jesse Plemons', 'old_value': 'Garrett Hedlund (2012–2016)<ref name'}}}
+419: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actress', 'new_value': []}}}
+421: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress'}}}
+422: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actress', 'new_value': []}}}
+426: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress'}}}
+427: {'type_changes': {"root['occupation']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Actress', 'new_value': []}}}

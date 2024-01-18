@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['name']": 'Walter Mercado', "root['occupation']": 'Astrologer'}}
+58: {'values_changed': {"root['name']": {'new_value': 'Walter Mercado', 'old_value': 'Walter Mariquita Mercado'}}}
+59: {'dictionary_item_removed': {"root['salary']": '69$'}}
+60: {'dictionary_item_removed': {"root['spouse']": 'tu negrito macondo'}}
+61: {'dictionary_item_removed': {"root['children']": 'la niña prodijio, la catalina'}}
+63: {'values_changed': {"root['occupation']": {'new_value': 'Astrologer', 'old_value': 'Maricon de los Cielos'}}}
+65: {'dictionary_item_added': {"root['salary']": '69$', "root['spouse']": 'tu negrito macondo', "root['children']": 'la niña prodijio, la catalina'}, 'values_changed': {"root['name']": {'new_value': 'Walter Mariquita Mercado', 'old_value': 'Walter Mercado'}, "root['occupation']": {'new_value': 'Maricon de los Cielos', 'old_value': 'Astrologer'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'Walter Mercado', 'old_value': 'Walter Mariquita Mercado'}}}
+67: {'dictionary_item_removed': {"root['salary']": '69$'}}
+68: {'dictionary_item_added': {"root['salary']": '69$'}, 'values_changed': {"root['name']": {'new_value': 'Walter Mariquita Mercado', 'old_value': 'Walter Mercado'}}}
+69: {'dictionary_item_removed': {"root['spouse']": 'tu negrito macondo'}}
+70: {'dictionary_item_removed': {"root['salary']": '69$'}}
+72: {'dictionary_item_added': {"root['salary']": '69$', "root['spouse']": 'tu negrito macondo'}, 'values_changed': {"root['name']": {'new_value': 'Walter Mercado', 'old_value': 'Walter Mariquita Mercado'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Walter Mariquita Mercado', 'old_value': 'Walter Mercado'}}}
+82: {'dictionary_item_added': {"root['occupation']": 'Astrologer'}, 'dictionary_item_removed': {"root['imagesize']": '200', "root['field']": 'Astrologer, actor, dancer, writer', "root['training']": 'University of Puerto Rico', "root['movement']": 'Sanford Meisner', "root['awards']": 'Mr. Televisión (New York City'}}
+86: {'values_changed': {"root['name']": {'new_value': 'Walter Mercado', 'old_value': 'Walter Mariquita mercado'}, "root['field']": {'new_value': 'Astrologer, actor, dancer, writer', 'old_value': 'Astrologer, actor, dancer, writer, hooker'}}}
+87: {'values_changed': {"root['name']": {'new_value': 'Walter Mariquita mercado', 'old_value': 'Walter Mercado'}, "root['field']": {'new_value': 'Astrologer, actor, dancer, writer, hooker', 'old_value': 'Astrologer, actor, dancer, writer'}}}
+90: {'dictionary_item_added': {"root['movement']": 'Sanford Meisner'}, 'dictionary_item_removed': {"root['mvement']": 'Sanford Meisner'}}
+91: {'dictionary_item_added': {"root['mvement']": 'Sanford Meisner'}, 'dictionary_item_removed': {"root['movement']": 'Sanford Meisner'}}
+99: {'values_changed': {"root['name']": {'new_value': 'Walter Mercado', 'old_value': 'Walter Mercado (The Hispanic ""Callate qiero escuchar")'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Walter Mercado (The Hispanic ""Callate qiero escuchar")', 'old_value': 'Walter Mercado'}}}
+224: {'type_changes': {"root['field']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Astrologer, actor, dancer, writer'}}, 'dictionary_item_added': {"root['imagesize']": '200'}}

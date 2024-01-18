@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kate Mulgrew', "root['occupation']": 'Actress', "root['spouse']": 'Robert H. Egan  (1982–1993) ,  Tim Hagan  (1999–present)'}}
+5: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan  (1982–1993) ,  Tim Hagan  (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)'}}}
+22: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)'}}}
+24: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)'}}}
+25: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)'}}}
+28: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)'}}}
+29: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)'}}}
+43: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–circa 2011)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)'}}}
+62: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–????)'}}}
+63: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–????)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)'}}}
+71: {'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present)', 'old_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present) Verify source'}}}
+127: {'dictionary_item_removed': {"root['imagesize']": '225'}}
+133: {'dictionary_item_added': {"root['imagesize']": '225'}, 'dictionary_item_removed': {"root['alma_mater']": 'New York University', "root['children']": '3 '}, 'values_changed': {"root['spouse']": {'new_value': 'Robert H. Egan (1982–1993),  Tim Hagan (1999–present) Verify source', 'old_value': 'Plainlist'}}}
+162: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Actress'}}, 'dictionary_item_removed': {"root['known_for']": "''Star Trek: Voyager'', ''Orange Is the New Black''"}}

@@ -1,0 +1,162 @@
+0: {'dictionary_item_removed': {"root['name']": 'Jeff Bezos', "root['residence']": 'Seattle, Washington, U.S.', "root['alma_mater']": 'Princeton University (Bachelor of Engineering', "root['occupation']": 'Founder, Chairman & CEO of Amazon.com', "root['salary']": '$100,000', "root['spouse']": 'MacKenzie Bezos (m. 1993)', "root['children']": '4<ref name', "root['networth']": 'increase US$66.7 billion (December 2016)<ref name'}}
+5: {'values_changed': {"root['networth']": {'new_value': 'increase US$66.7 billion (December 2016)<ref name', 'old_value': 'increase US$68.6 billion (January 2017)<ref name'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Bezos  pig'}}}
+22: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos  pig', 'old_value': 'Jeff Bezos'}}}
+26: {'values_changed': {"root['networth']": {'new_value': 'increase US$68.6 billion (January 2017)<ref name', 'old_value': 'increase US$69.7 billion (January 2017)<ref name'}}}
+39: {'values_changed': {"root['alma_mater']": {'new_value': 'Princeton University (Bachelor of Engineering', 'old_value': 'Princeton University'}}}
+40: {'dictionary_item_added': {"root['alma_mater']": 'Princeton University'}, 'dictionary_item_removed': {"root['education']": 'Princeton University (Bachelor of Engineering'}}
+42: {'values_changed': {"root['networth']": {'new_value': 'increase US$69.7 billion (January 2017)<ref name', 'old_value': 'increase US$70.4 billion (January 2017)<ref name'}}}
+48: {'values_changed': {"root['networth']": {'new_value': 'increase US$70.4 billion (January 2017)<ref name', 'old_value': 'increase US$72.1 billion (January 2017)<ref name'}}}
+51: {'values_changed': {"root['networth']": {'new_value': 'increase US$72.1 billion (January 2017)<ref name', 'old_value': 'increase US$70.4 billion (January 2017)<ref name'}}}
+52: {'values_changed': {"root['networth']": {'new_value': 'increase US$70.4 billion (January 2017)<ref name', 'old_value': 'increase US$71.8 billion (January 2017)   '}}}
+64: {'values_changed': {"root['networth']": {'new_value': 'increase US$71.8 billion (January 2017)   ', 'old_value': 'increase US$71.8 billion (January 2017)<ref name'}}}
+72: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'My Name IS jeff  Jeff'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'My Name IS jeff  Jeff', 'old_value': 'Jeff Bezos  Jeff'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos  Jeff', 'old_value': 'Jeff Bezos'}}}
+93: {'values_changed': {"root['networth']": {'new_value': 'increase US$71.8 billion (January 2017)<ref name', 'old_value': 'increase US$72.3 billion (February 13, 2017)<ref name'}}}
+97: {'values_changed': {"root['networth']": {'new_value': 'increase US$72.3 billion (February 13, 2017)<ref name', 'old_value': 'increase $72.3 billion USD (February 2017) '}}}
+98: {'dictionary_item_added': {"root['education']": 'Princeton University (Bachelor of Engineering'}, 'dictionary_item_removed': {"root['alma_mater']": 'Princeton University'}}
+100: {'dictionary_item_removed': {"root['known_for']": 'Founding and leading Amazon.com and Blue Origin, Managing Jeff Bezos#Bezos Expeditions'}, 'values_changed': {"root['occupation']": {'new_value': 'Founder, Chairman & CEO of Amazon.com', 'old_value': 'Technology and retail entrepreneur and investor'}}}
+102: {'values_changed': {"root['networth']": {'new_value': 'increase $72.3 billion USD (February 2017) ', 'old_value': 'US$72.3 billion (February 2017) '}}}
+103: {'values_changed': {"root['salary']": {'new_value': '$100,000', 'old_value': 'US$100,000'}}}
+106: {'values_changed': {"root['children']": {'new_value': '4<ref name', 'old_value': '3<ref name'}}}
+120: {'values_changed': {"root['networth']": {'new_value': 'US$72.3 billion (February 2017) ', 'old_value': 'US$72.4 billion (February 2017) '}}}
+121: {'values_changed': {"root['networth']": {'new_value': 'US$72.4 billion (February 2017) ', 'old_value': 'US$72.3 billion (February 2017) '}}}
+124: {'values_changed': {"root['networth']": {'new_value': 'US$72.3 billion (February 2017) ', 'old_value': 'US$73.2 billion (February 2017) '}}}
+125: {'values_changed': {"root['networth']": {'new_value': 'US$73.2 billion (February 2017) ', 'old_value': 'US$72.3 billion (February 2017) '}}}
+126: {'values_changed': {"root['children']": {'new_value': '3<ref name', 'old_value': '4'}}}
+128: {'values_changed': {"root['networth']": {'new_value': 'US$72.3 billion (February 2017) ', 'old_value': 'US$73.3 billion (February 2017) '}}}
+147: {'values_changed': {"root['networth']": {'new_value': 'US$73.3 billion (February 2017) ', 'old_value': 'US$72.7 billion (March 2017) '}}}
+148: {'values_changed': {"root['networth']": {'new_value': 'US$72.7 billion (March 2017) ', 'old_value': 'US$72.8 billion (March 2017) '}}}
+155: {'values_changed': {"root['networth']": {'new_value': 'US$72.8 billion (March 2017) ', 'old_value': 'US$75.6 billion (March 2017) '}}}
+165: {'values_changed': {"root['spouse']": {'new_value': 'MacKenzie Bezos (m. 1993)', 'old_value': 'McKenzie Bezos (m. 1993)'}}}
+166: {'values_changed': {"root['spouse']": {'new_value': 'McKenzie Bezos (m. 1993)', 'old_value': 'MacKenzie Bezos (m. 1993)'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Boobs'}}}
+171: {'values_changed': {"root['name']": {'new_value': 'Jeff Boobs', 'old_value': 'Jeff Bezos'}}}
+180: {'values_changed': {"root['networth']": {'new_value': 'US$75.6 billion (March 2017) ', 'old_value': 'US$77.1 billion (March 2017) '}}}
+184: {'values_changed': {"root['networth']": {'new_value': 'US$77.1 billion (March 2017) ', 'old_value': 'US$78.4 billion (March 2017) '}}}
+203: {'dictionary_item_added': {"root['salary']": 'US$100,000'}, 'values_changed': {"root['networth']": {'new_value': 'US$78.4 billion (March 2017) ', 'old_value': 'US$1.4 trillion (March 2017) '}}}
+206: {'values_changed': {"root['networth']": {'new_value': 'US$1.4 trillion (March 2017) ', 'old_value': 'US$78.4 billion (March 2017) '}}}
+225: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Bezos {mummys boy} #jakefox and catlin Beckley for evere'}}}
+226: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos {mummys boy} #jakefox and catlin Beckley for evere', 'old_value': 'Jeff Bezos'}}}
+227: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'jake fox is ugly'}}}
+228: {'values_changed': {"root['name']": {'new_value': 'jake fox is ugly', 'old_value': 'im gay like jake fox'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'im gay like jake fox', 'old_value': 'Jeff Bezos'}}}
+234: {'values_changed': {"root['networth']": {'new_value': 'US$78.4 billion (March 2017) ', 'old_value': 'US$79.3 billion (April 2017) '}}}
+246: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Bezos (@baby.girl.rossie follow me on IG)'}}}
+247: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos (@baby.girl.rossie follow me on IG)', 'old_value': 'Jeff Bezos'}}}
+248: {'values_changed': {"root['networth']": {'new_value': 'US$79.3 billion (April 2017) ', 'old_value': 'US$79.3 billion (on the side) '}}}
+249: {'values_changed': {"root['networth']": {'new_value': 'US$79.3 billion (on the side) ', 'old_value': 'US$79.3 billion (April 2017) '}}}
+252: {'values_changed': {"root['networth']": {'new_value': 'US$79.3 billion (April 2017) ', 'old_value': 'US$82 billion (May 2017) '}}}
+262: {'values_changed': {"root['networth']": {'new_value': 'US$82 billion (May 2017) ', 'old_value': 'US$84.4 billion (June 2017) '}}}
+263: {'values_changed': {"root['networth']": {'new_value': 'US$84.4 billion (June 2017) ', 'old_value': 'US$400 billion (June 2017) '}}}
+264: {'values_changed': {"root['networth']": {'new_value': 'US$400 billion (June 2017) ', 'old_value': 'US$ 82.9 billion (June 2017) '}}}
+273: {'values_changed': {"root['networth']": {'new_value': 'US$ 82.9 billion (June 2017) ', 'old_value': 'US$ 82.9 billion ( 2017) '}}}
+274: {'values_changed': {"root['networth']": {'new_value': 'US$ 82.9 billion ( 2017) ', 'old_value': 'US$ 84.4 billion (May 2017) '}}}
+275: {'values_changed': {"root['networth']": {'new_value': 'US$ 84.4 billion (May 2017) ', 'old_value': 'US$84.4 billion (May 2017) '}}}
+279: {'values_changed': {"root['networth']": {'new_value': 'US$84.4 billion (May 2017) ', 'old_value': 'US$85.7 billion (June 2017) '}}}
+281: {'values_changed': {"root['networth']": {'new_value': 'US$85.7 billion (June 2017) ', 'old_value': 'US$84.4 billion (May 2017) '}}}
+285: {'values_changed': {"root['networth']": {'new_value': 'US$84.4 billion (May 2017) ', 'old_value': 'US$84.9 billion (May 2017) '}}}
+288: {'values_changed': {"root['networth']": {'new_value': 'US$84.9 billion (May 2017) ', 'old_value': 'US$72.8 billion (May 2017) '}}}
+289: {'values_changed': {"root['networth']": {'new_value': 'US$72.8 billion (May 2017) ', 'old_value': 'US$84.1 billion (June 2017) '}}}
+306: {'values_changed': {"root['networth']": {'new_value': 'US$84.1 billion (June 2017) ', 'old_value': 'US$85.4 billion (June 2017)   '}}}
+308: {'dictionary_item_added': {"root['known_for']": 'Founding and leading Amazon.com and Blue Origin, Managing Jeff Bezos#Bezos Expeditions', "root['spouse']": 'MacKenzie Bezos (m. 1993)', "root['children']": '4', "root['networth']": 'US$85.4 billion (June 2017)   '}, 'values_changed': {"root['occupation']": {'new_value': 'Technology and retail entrepreneur and investor', 'old_value': 'Wired|first'}}}
+309: {'dictionary_item_removed': {"root['known_for']": 'Founding and leading Amazon.com and Blue Origin, Managing Jeff Bezos#Bezos Expeditions', "root['spouse']": 'MacKenzie Bezos (m. 1993)', "root['children']": '4', "root['networth']": 'US$85.4 billion (June 2017)   '}, 'values_changed': {"root['occupation']": {'new_value': 'Wired|first', 'old_value': 'Technology and retail entrepreneur and investor'}}}
+310: {'dictionary_item_removed': {"root['party']": 'Democratic Party (United States)'}}
+329: {'dictionary_item_added': {"root['party']": 'Democratic Party (United States)'}, 'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Kaustubh Shinde'}}}
+330: {'values_changed': {"root['name']": {'new_value': 'Kaustubh Shinde', 'old_value': 'Jeff Bezos'}}}
+334: {'dictionary_item_removed': {"root['party']": 'Libertarian Party (United States)'}}
+345: {'dictionary_item_added': {"root['residence']": 'Seattle, Washington, U.S.', "root['party']": 'Libertarian Party (United States)'}, 'values_changed': {"root['known_for']": {'new_value': 'Founding and leading Amazon.com and Blue Origin, Managing Jeff Bezos#Bezos Expeditions', 'old_value': 'Founding and leading Amazon.com'}}}
+350: {'values_changed': {"root['networth']": {'new_value': 'US$85.4 billion (June 2017)   ', 'old_value': 'US$87.2 billion (July 2017)   '}}}
+356: {'values_changed': {"root['networth']": {'new_value': 'US$87.2 billion (July 2017)   ', 'old_value': 'US$88.2 billion (July 2017)   '}}}
+359: {'values_changed': {"root['networth']": {'new_value': 'US$88.2 billion (July 2017)   ', 'old_value': 'US$90.2 billion (July 2017)   '}}}
+361: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': "Jeff ''God'' Bezos"}}}
+362: {'values_changed': {"root['name']": {'new_value': "Jeff ''God'' Bezos", 'old_value': 'Jeff Bezos'}}}
+366: {'values_changed': {"root['networth']": {'new_value': 'US$90.2 billion (July 2017)   ', 'old_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c '}}}
+369: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c ', 'old_value': 'US$190.6 trillion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c '}}}
+370: {'values_changed': {"root['networth']": {'new_value': 'US$190.6 trillion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c ', 'old_value': 'US$190.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c '}}}
+371: {'values_changed': {"root['networth']": {'new_value': 'US$190.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c ', 'old_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c '}}}
+372: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c ', 'old_value': 'US$90.6 billion '}}}
+373: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion ', 'old_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c '}}}
+374: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion (July 2017) https://www.forbes.com/sites/katevinton/2017/07/27/jeff-bezos-overtakes-bill-gates-to-become-worlds-richest-man/#4ccb607e791c ', 'old_value': 'US$90.6 billion (July 2017)   '}}}
+375: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion (July 2017)   ', 'old_value': 'US$91.5 billion (July 2017)   '}}}
+381: {'values_changed': {"root['networth']": {'new_value': 'US$91.5 billion (July 2017)   ', 'old_value': 'US$99.8 billion (July 2017)   '}}}
+383: {'values_changed': {"root['networth']": {'new_value': 'US$99.8 billion (July 2017)   ', 'old_value': 'US$91.5 billion (July 2017)   '}}}
+384: {'values_changed': {"root['networth']": {'new_value': 'US$91.5 billion (July 2017)   ', 'old_value': 'US$99.8 billion (July 2017)   '}}}
+388: {'values_changed': {"root['networth']": {'new_value': 'US$99.8 billion (July 2017)   ', 'old_value': 'US$90.2 billion (July 2017)   '}}}
+389: {'values_changed': {"root['networth']": {'new_value': 'US$90.2 billion (July 2017)   ', 'old_value': 'US$91.4 billion (July 2017)   '}}}
+392: {'values_changed': {"root['known_for']": {'new_value': 'Founding and leading Amazon.com', 'old_value': "Founding and leading Amazon.com and World's Richest Man ( From July 2017 )"}}}
+394: {'values_changed': {"root['known_for']": {'new_value': "Founding and leading Amazon.com and World's Richest Man ( From July 2017 )", 'old_value': "Founding and leading Amazon.com and World's Richest Man ( From July 27, 2017 )"}}}
+410: {'values_changed': {"root['networth']": {'new_value': 'US$91.4 billion (July 2017)   ', 'old_value': 'US$88.7 billion (July 2017)   '}}}
+411: {'values_changed': {"root['networth']": {'new_value': 'US$88.7 billion (July 2017)   ', 'old_value': 'US$91.4 billion (July 2017)   '}}}
+412: {'values_changed': {"root['networth']": {'new_value': 'US$91.4 billion (July 2017)   ', 'old_value': 'US$88.7 billion (July 2017)   '}}}
+414: {'values_changed': {"root['networth']": {'new_value': 'US$88.7 billion (July 2017)   ', 'old_value': 'US$88.7 billion (July 2017) |'}}}
+416: {'values_changed': {"root['known_for']": {'new_value': "Founding and leading Amazon.com and World's Richest Man ( From July 27, 2017 )", 'old_value': "Founding and leading Amazon.com and World's Richest Man ( Briefly on July 27, 2017 )"}}}
+417: {'values_changed': {"root['networth']": {'new_value': 'US$88.7 billion (July 2017) |', 'old_value': 'US$ $91.4 billion (July 2017) |'}}}
+419: {'values_changed': {"root['networth']": {'new_value': 'US$ $91.4 billion (July 2017) |', 'old_value': 'US$ $90.9 billion (July 2017) |'}}}
+421: {'values_changed': {"root['known_for']": {'new_value': "Founding and leading Amazon.com and World's Richest Man ( Briefly on July 27, 2017 )", 'old_value': "Founding and leading Amazon.com and World's Richest Man ( From July 27, 2017 )"}, "root['networth']": {'new_value': 'US$ $90.9 billion (July 2017) |', 'old_value': 'US$88.7 billion (July 2017) |'}}}
+434: {'values_changed': {"root['known_for']": {'new_value': "Founding and leading Amazon.com and World's Richest Man ( From July 27, 2017 )", 'old_value': "Founding and leading Amazon.com and world's second richest man"}}}
+436: {'values_changed': {"root['networth']": {'new_value': 'US$88.7 billion (July 2017) |', 'old_value': 'US$87 billion (July 2017) |'}}}
+444: {'values_changed': {"root['networth']": {'new_value': 'US$87 billion (July 2017) |', 'old_value': 'US$8 billion (July 2017) |'}}}
+445: {'values_changed': {"root['networth']": {'new_value': 'US$8 billion (July 2017) |', 'old_value': 'US$87 billion (July 2017) |'}}}
+450: {'values_changed': {"root['known_for']": {'new_value': "Founding and leading Amazon.com and world's second richest man", 'old_value': 'Founder of Amazon.com'}}}
+452: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Bezos by mary rose de vega Ms.com'}}}
+453: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos by mary rose de vega Ms.com', 'old_value': 'Jeff Bezos'}}}
+455: {'values_changed': {"root['networth']": {'new_value': 'US$87 billion (July 2017) |', 'old_value': 'US$89 billion (July 2017) |'}}}
+461: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '2'}}}
+463: {'values_changed': {"root['children']": {'new_value': '2', 'old_value': '4'}}}
+486: {'values_changed': {"root['alma_mater']": {'new_value': 'Princeton University', 'old_value': 'Kwandebele University'}}}
+487: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Mthokozisi Nkabinde'}, "root['alma_mater']": {'new_value': 'Kwandebele University', 'old_value': 'Princeton University'}}}
+488: {'values_changed': {"root['name']": {'new_value': 'Mthokozisi Nkabinde', 'old_value': 'Jeff Bezos'}, "root['alma_mater']": {'new_value': 'Princeton University', 'old_value': 'Kwandebele University'}}}
+489: {'values_changed': {"root['alma_mater']": {'new_value': 'Kwandebele University', 'old_value': 'Princeton University'}}}
+490: {'values_changed': {"root['networth']": {'new_value': 'US$89 billion (July 2017) |', 'old_value': 'US$890 billion (July 2017) |'}}}
+491: {'values_changed': {"root['networth']": {'new_value': 'US$890 billion (July 2017) |', 'old_value': 'US$89 billion (July 2017) |'}}}
+492: {'dictionary_item_removed': {"root['religion']": 'Christian'}}
+499: {'dictionary_item_added': {"root['alma_mater']": 'Princeton University', "root['religion']": 'Christian'}, 'dictionary_item_removed': {"root['education']": 'Princeton University small'}, 'values_changed': {"root['spouse']": {'new_value': 'MacKenzie Bezos (m. 1993)', 'old_value': 'marriage'}}}
+512: {'values_changed': {"root['networth']": {'new_value': 'US$89 billion (July 2017) |', 'old_value': 'US$82.3 billion (September 2017) |'}}}
+517: {'values_changed': {"root['networth']": {'new_value': 'US$82.3 billion (September 2017) |', 'old_value': 'US$84 billion (September 2017) |'}}}
+520: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff memelord'}}}
+521: {'values_changed': {"root['name']": {'new_value': 'Jeff memelord', 'old_value': 'Jeff Bezos'}}}
+528: {'values_changed': {"root['networth']": {'new_value': 'US$84 billion (September 2017) |', 'old_value': 'US$82.6 billion (September 2017) |'}}}
+535: {'values_changed': {"root['occupation']": {'new_value': 'Technology and retail entrepreneur and investor', 'old_value': 'Brutal exploitation of blue collar workers'}}}
+536: {'values_changed': {"root['occupation']": {'new_value': 'Brutal exploitation of blue collar workers', 'old_value': 'Technology and retail entrepreneur and investor'}}}
+563: {'dictionary_item_added': {"root['education']": 'Princeton University small'}, 'dictionary_item_removed': {"root['alma_mater']": 'Princeton University small'}}
+568: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Kuru eat my b_hole'}}}
+569: {'values_changed': {"root['name']": {'new_value': 'Kuru eat my b_hole', 'old_value': 'Jeff Bezos'}}}
+570: {'values_changed': {"root['networth']": {'new_value': 'US$82.6 billion (September 2017) |', 'old_value': 'US$90.6 billion (September 2017) |'}}}
+571: {'values_changed': {"root['networth']": {'new_value': 'US$90.6 billion (September 2017) |', 'old_value': 'US$90.6 billion (October 2017) |'}}}
+575: {'dictionary_item_added': {"root['networth']": 'US$90.6 billion (October 2017) |'}, 'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jefg Bezos'}}}
+576: {'values_changed': {"root['name']": {'new_value': 'Jefg Bezos', 'old_value': 'Jeff Bezos'}}}
+585: {'dictionary_item_removed': {"root['networth']": 'US$93.1 billion (October 2017)'}}
+588: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4 |'}, "root['networth']": {'new_value': 'US$93.1 billion (October 2017)', 'old_value': 'nowrap'}}}
+590: {'values_changed': {"root['networth']": {'new_value': 'nowrap', 'old_value': 'US$93.1 billion (October 2017)'}, "root['children']": {'new_value': '4 |', 'old_value': '4'}}}
+591: {'values_changed': {"root['children']": {'new_value': '4', 'old_value': '4 |'}, "root['networth']": {'new_value': 'US$93.1 billion (October 2017)', 'old_value': 'nowrap'}}}
+594: {'dictionary_item_removed': {"root['caprion']": 'Bezos in 2016'}}
+601: {'dictionary_item_added': {"root['caprion']": 'Bezos in 2016'}, 'values_changed': {"root['known_for']": {'new_value': 'Founder of Amazon.com', 'old_value': "Founder of Amazon.com, Ruining my birthday because Amazon Prime doesn't deliver when they say"}}}
+602: {'values_changed': {"root['known_for']": {'new_value': "Founder of Amazon.com, Ruining my birthday because Amazon Prime doesn't deliver when they say", 'old_value': 'Founder of Amazon.com'}}}
+648: {'values_changed': {"root['alma_mater']": {'new_value': 'Princeton University small', 'old_value': 'Princeton University (Bachelor of Science'}}}
+675: {'type_changes': {"root['occupation']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Technology and retail entrepreneur and investor'}}, 'dictionary_item_removed': {"root['residence']": 'Medina, Washington'}, 'values_changed': {"root['alma_mater']": {'new_value': 'Princeton University (Bachelor of Science', 'old_value': 'Princeton University'}, "root['known_for']": {'new_value': 'Founder of Amazon.com', 'old_value': 'Founding Amazon (company)'}, "root['networth']": {'new_value': 'nowrap', 'old_value': 'US dollar'}, "root['children']": {'new_value': '4 |', 'old_value': '4 '}}}
+680: {'values_changed': {"root['children']": {'new_value': '4 ', 'old_value': '4 }'}}}
+683: {'values_changed': {"root['children']": {'new_value': '4 }', 'old_value': '4 '}}}
+712: {'values_changed': {"root['residence']": {'new_value': 'Medina, Washington', 'old_value': 'Medina, Washington, U.S.'}}}
+737: {'dictionary_item_added': {"root['alma_mater']": 'Princeton University'}, 'dictionary_item_removed': {"root['education']": 'Princeton University (Bachelor of Science'}}
+845: {'values_changed': {"root['education']": {'new_value': 'Princeton University (Bachelor of Science', 'old_value': 'Bachelor of Science'}}}
+879: {'values_changed': {"root['residence']": {'new_value': 'Medina, Washington, U.S.', 'old_value': 'Medina, Washington, U.S.   New York City, New York (state)'}}}
+882: {'values_changed': {"root['networth']": {'new_value': 'US dollar', 'old_value': 'US$113.7 billion (August 2019)'}}}
+911: {'values_changed': {"root['networth']": {'new_value': 'US$113.7 billion (August 2019)', 'old_value': 'US$108.2 billion (October 2019)'}}}
+922: {'values_changed': {"root['networth']": {'new_value': 'US$108.2 billion (October 2019)', 'old_value': 'US$111.4 billion (November 2019)'}}}
+937: {'values_changed': {"root['residence']": {'new_value': 'Medina, Washington, U.S.   New York City, New York (state)', 'old_value': 'Medina, Washington, U.S.   New York City, New York City'}}}
+943: {'values_changed': {"root['networth']": {'new_value': 'US$111.4 billion (November 2019)', 'old_value': 'US$111.3 billion (December 2019)'}}}
+947: {'dictionary_item_added': {"root['residence']": 'Medina, Washington, U.S.   New York City, New York City', "root['known_for']": 'Founding Amazon (company)', "root['networth']": 'US$111.3 billion (December 2019)'}, 'dictionary_item_removed': {"root['partner']": 'Lauren Sánchez (2019–present)'}, 'values_changed': {"root['education']": {'new_value': 'Bachelor of Science', 'old_value': 'Princeton University (Bachelor of Engineering'}, "root['spouse']": {'new_value': 'marriage', 'old_value': 'Marriage'}, "root['children']": {'new_value': '4 ', 'old_value': '4'}}}
+951: {'values_changed': {"root['name']": {'new_value': 'Jeff Bezos', 'old_value': 'Jeff Danyal Bezos'}}}
+952: {'values_changed': {"root['name']": {'new_value': 'Jeff Danyal Bezos', 'old_value': 'Jeff Bezos'}}}
+1041: {'dictionary_item_removed': {"root['embed']": 'yes', "root['type']": 'Blue Origin NS-16', "root['selection']": 'Blue Origin', "root['flight_time']": '10m 18s', "root['missions']": 'Blue Origin NS-16  '}}
+1042: {'values_changed': {"root['type']": {'new_value': 'Blue Origin NS-16', 'old_value': 'Commercial Astronaut File:US - FAA Astronaut Wings version 2.png'}, "root['selection']": {'new_value': 'Blue Origin', 'old_value': 'Passenger'}, "root['missions']": {'new_value': 'Blue Origin NS-16  ', 'old_value': 'NS-16  '}}}
+1043: {'dictionary_item_added': {"root['flight_time']": '10m 18s'}, 'dictionary_item_removed': {"root['space_time']": '10m 18s'}}
+1044: {'values_changed': {"root['selection']": {'new_value': 'Passenger', 'old_value': 'Space tourism'}}}
+1046: {'values_changed': {"root['missions']": {'new_value': 'NS-16  ', 'old_value': 'Blue Origin NS-16  '}}}
+1047: {'dictionary_item_removed': {"root['insignia']": 'File:NS-16 logo.png'}, 'values_changed': {"root['selection']": {'new_value': 'Space tourism', 'old_value': 'New Shepard'}}}
+1048: {'dictionary_item_added': {"root['selection']": 'New Shepard'}, 'values_changed': {"root['type']": {'new_value': 'Commercial Astronaut File:US - FAA Astronaut Wings version 2.png', 'old_value': 'Commercial Astronaut  New Shepard'}}}
+1050: {'values_changed': {"root['type']": {'new_value': 'Commercial Astronaut  New Shepard', 'old_value': 'Commercial Astronaut  Hlist'}}}
+1051: {'values_changed': {"root['type']": {'new_value': 'Commercial Astronaut  Hlist', 'old_value': 'Hlist'}}}
+1054: {'dictionary_item_added': {"root['insignia']": 'File:NS-16 logo.png'}, 'values_changed': {"root['type']": {'new_value': 'Hlist', 'old_value': 'Commercial Astronaut  New Shepard Space tourism'}}}

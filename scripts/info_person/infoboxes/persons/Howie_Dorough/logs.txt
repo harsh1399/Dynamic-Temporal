@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['Name']": 'Howie Dorough', "root['Background']": 'solo_singer', "root['Birth_name']": 'Howard Dwaine Dorough Flores', "root['Born']": 'birth date and age', "root['Instrument']": 'Singing', "root['Genre']": 'Pop music', "root['Occupation']": 'Singer, actor, songwriter', "root['Years_active']": '1993 to present', "root['Associated_acts']": 'Backstreet Boys'}}
+23: {'dictionary_item_removed': {"root['Alias']": 'Howard Dorough'}, 'values_changed': {"root['Birth_name']": {'new_value': 'Howard Dwaine Dorough Flores', 'old_value': 'Tony Donetti'}}}
+26: {'values_changed': {"root['Birth_name']": {'new_value': 'Tony Donetti', 'old_value': 'Howard Dwaine Dorough'}}}
+27: {'values_changed': {"root['Name']": {'new_value': 'Howie Dorough', 'old_value': 'Howie Dwyane Dorough'}, "root['Alias']": {'new_value': 'Howard Dorough', 'old_value': 'Howard D'}}}
+42: {'values_changed': {"root['Name']": {'new_value': 'Howie Dwyane Dorough', 'old_value': 'Howie Dwaine Dorough'}, "root['Alias']": {'new_value': 'Howard D', 'old_value': 'Howie D'}}}
+86: {'dictionary_item_removed': {"root['Img_capt']": '34'}}
+88: {'values_changed': {"root['Birth_name']": {'new_value': 'Howard Dwaine Dorough', 'old_value': 'Howard Dwaine Flores Dorough'}}}
+104: {'values_changed': {"root['Name']": {'new_value': 'Howie Dwaine Dorough', 'old_value': 'Howie Dorough'}}}
+105: {'dictionary_item_removed': {"root['Img']": 'Howie_dorough_2.jpg'}}
+122: {'dictionary_item_added': {"root['Name']": 'Howie Dorough', "root['Img']": 'Howie_dorough_2.jpg', "root['Img_capt']": '34', "root['Background']": 'solo_singer', "root['Birth_name']": 'Howard Dwaine Flores Dorough', "root['Alias']": 'Howie D', "root['Born']": 'birth date and age', "root['Instrument']": 'Singing', "root['Genre']": 'Pop music', "root['Occupation']": 'Singer, actor, songwriter', "root['Years_active']": '1993 to present', "root['Associated_acts']": 'Backstreet Boys'}, 'dictionary_item_removed': {"root['name']": 'Howie Dorough', "root['origin']": 'Orlando, Florida, U.S.', "root['instrument']": 'Singing, guitar, percussion, drum kit', "root['occupation']": 'Singer, actor, songwriter', "root['label']": 'Jive Records, RCA Records', "root['associated_acts']": 'Backstreet Boys', "root['background']": 'solo_singer '}}
+142: {'values_changed': {"root['background']": {'new_value': 'solo_singer ', 'old_value': 'solo_singer'}}}
+154: {'dictionary_item_added': {"root['origin']": 'Orlando, Florida, U.S.'}, 'dictionary_item_removed': {"root['alias']": 'Howie D, Sweet D'}}
+173: {'values_changed': {"root['associated_acts']": {'new_value': 'Backstreet Boys', 'old_value': 'Backstreet Boys, Yu Shirota'}}}
+174: {'values_changed': {"root['associated_acts']": {'new_value': 'Backstreet Boys, Yu Shirota', 'old_value': 'Backstreet Boys, NKOTBSB, Yu Shirota'}}}
+189: {'values_changed': {"root['instrument']": {'new_value': 'Singing, guitar, percussion, drum kit', 'old_value': 'Singing, guitar, bass guitar, percussion, drum kit'}}}
