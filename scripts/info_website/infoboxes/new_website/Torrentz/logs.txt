@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['name']": 'Torrentz', "root['alexa']": '11|a'}}
+4: {'values_changed': {"root['alexa']": {'new_value': '11|a', 'old_value': '1|a'}}}
+5: {'values_changed': {"root['alexa']": {'new_value': '1|a', 'old_value': '16|a'}}}
+15: {'dictionary_item_added': {"root['alexa']": '16|a'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz', 'old_value': 'hi'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'hi', 'old_value': 'Torrentz'}}}
+28: {'dictionary_item_removed': {"root['alexa']": '7|12|a'}}
+31: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+32: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+39: {'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|2|a'}}}
+41: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '11|2|a'}}}
+43: {'values_changed': {"root['alexa']": {'new_value': '11|2|a', 'old_value': '12|31|a'}}}
+47: {'values_changed': {"root['alexa']": {'new_value': '12|31|a', 'old_value': 'July|a'}}}
+50: {'dictionary_item_added': {"root['alexa']": 'July|a'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz', 'old_value': 'Torrentz   | launch date'}}}
+51: {'dictionary_item_removed': {"root['alexa']": 'July|a'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz   | launch date', 'old_value': 'Torrentz'}}}
+52: {'dictionary_item_added': {"root['alexa']": 'July|a'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz', 'old_value': 'Torrentz   | launch date'}}}
+53: {'dictionary_item_removed': {"root['alexa']": 'July|a'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz   | launch date', 'old_value': 'Torrentz'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Torrentz', 'old_value': 'Torrentz  zxx'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'Torrentz  zxx', 'old_value': 'Torrentz'}}}
+72: {'dictionary_item_added': {"root['alexa']": 'July|a'}, 'dictionary_item_removed': {"root['Closed']": '05 August 2016 '}, 'values_changed': {"root['name']": {'new_value': 'Torrentz', 'old_value': 'Torrentz   | launch date    =  current status = Offli'}}}
+79: {'dictionary_item_removed': {"root['Defunct']": '2016|8|5} | current status = Offline'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz   | launch date    =  current status = Offli', 'old_value': 'Torrentz   | launch date    = '}}}
+89: {'values_changed': {"root['Defunct']": {'new_value': '2016|8|5} | current status = Offline', 'old_value': '2016|8|5} | current status = Online'}}}
+93: {'values_changed': {"root['name']": {'new_value': 'Torrentz   | launch date    = ', 'old_value': 'Torrentz | launch date    = '}}}
+94: {'values_changed': {"root['Defunct']": {'new_value': '2016|8|5} | current status = Online', 'old_value': '2016|8|5} | current status = Offline'}}}
+99: {'values_changed': {"root['Defunct']": {'new_value': '2016|8|5} | current status = Offline', 'old_value': '8|5} | current status = Online'}}}
+106: {'values_changed': {"root['Defunct']": {'new_value': '8|5} | current status = Online', 'old_value': '8|5} | current status = Blocked'}}}
+125: {'dictionary_item_added': {"root['Closed']": '05 August 2016 '}, 'values_changed': {"root['Defunct']": {'new_value': '8|5} | current status = Blocked', 'old_value': '8|5} | current status'}}}
+126: {'dictionary_item_removed': {"root['Closed']": '05 August 2016 '}, 'values_changed': {"root['Defunct']": {'new_value': '8|5} | current status', 'old_value': '8|5} | current status = Blocked'}}}
+127: {'values_changed': {"root['Defunct']": {'new_value': '8|5} | current status = Blocked', 'old_value': '8|5} | current status ='}}}
+140: {'dictionary_item_added': {"root['Closed']": '05 August 2016 '}, 'values_changed': {"root['Defunct']": {'new_value': '8|5} | current status =', 'old_value': '8|5} | current status'}}}
+141: {'dictionary_item_added': {"root['Defunct']": '8|5} | current status'}, 'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date'}}}
+142: {'dictionary_item_removed': {"root['Closed']": '05 August 2016 '}, 'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date', 'old_value': 'Torrentz | launch date    =  current status'}}}
+143: {'dictionary_item_removed': {"root['Defunct']": '8|5} | current status ='}, 'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    =  current status', 'old_value': 'Torrentz | launch date    = '}}}
+155: {'dictionary_item_added': {"root['Defunct']": '8|5} | current status =', "root['Closed']": '05 August 2016 '}, 'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date = '}}}
+156: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date = ', 'old_value': 'Torrentz | launch date    = '}}}
+157: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date = '}}}
+158: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date = ', 'old_value': 'Torrentz | launch date    = '}}}
+159: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date = '}}}
+160: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date = ', 'old_value': 'Torrentz | launch date    = '}}}
+177: {'dictionary_item_removed': {"root['area_served']": 'Worldwide', "root['country']": 'Finland'}}
+183: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date = '}}}
+184: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date = ', 'old_value': 'Torrentz | launch date    = '}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz | launch date = '}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date = ', 'old_value': 'Torrentz | launch date    = '}}}
+187: {'values_changed': {"root['name']": {'new_value': 'Torrentz | launch date    = ', 'old_value': 'Torrentz'}}}

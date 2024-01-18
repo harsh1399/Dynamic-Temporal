@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Dwolla', "root['company_logo']": 'frameless', "root['location']": 'Des Moines, Iowa', "root['website_type']": 'Online payment system', "root['num_users']": '20,000 (June 2011)'}}
+20: {'values_changed': {"root['num_users']": {'new_value': '20,000 (June 2011)', 'old_value': '500,000 (Fall 20113)'}}}
+21: {'values_changed': {"root['num_users']": {'new_value': '500,000 (Fall 20113)', 'old_value': '500,000 (Fall 2013)'}}}
+23: {'dictionary_item_added': {"root['company_name']": 'Dwolla', "root['company_logo']": 'frameless'}, 'dictionary_item_removed': {"root['name']": 'Dwolla'}}
+49: {'values_changed': {"root['num_users']": {'new_value': '500,000 (Fall 2013)', 'old_value': '500,000 (Fall 2013) | ut we’re always exploring ways we can expand to help every small business move money quickly and safely.'}}}
+50: {'dictionary_item_added': {"root['website_type']": 'Online payment system'}, 'dictionary_item_removed': {"root['subsid']": '| company_slogan Online payment system'}}
+56: {'dictionary_item_added': {"root['subsid']": '| company_slogan Online payment system'}, 'dictionary_item_removed': {"root['website_type']": 'Online payment system'}, 'values_changed': {"root['num_users']": {'new_value': '500,000 (Fall 2013) | ut we’re always exploring ways we can expand to help every small business move money quickly and safely.', 'old_value': '500,000 (Fall 2013)'}}}
+60: {'dictionary_item_removed': {"root['num_employees']": '75 (as of April 8, 2015)'}}

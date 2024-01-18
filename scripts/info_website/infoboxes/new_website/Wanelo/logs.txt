@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Wanelo', "root['company_logo']": 'thumb', "root['location']": 'San Francisco', "root['CEO']": 'Deena Varshavskaya', "root['num_employees']": '27', "root['company_slogan']": '“All stores in one place.”', "root['num_users']": '10 million '}}
+8: {'values_changed': {"root['company_logo']": {'new_value': 'thumb', 'old_value': 'File:Wanelo.com Logo.jpg'}}}
+12: {'dictionary_item_added': {"root['company_logo']": 'File:Wanelo.com Logo.jpg', "root['company_slogan']": '“All stores in one place.”'}, 'values_changed': {"root['num_employees']": {'new_value': '27', 'old_value': '33 '}}}
+13: {'values_changed': {"root['num_users']": {'new_value': '10 million ', 'old_value': '11 million '}}}

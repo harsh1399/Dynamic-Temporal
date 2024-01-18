@@ -1,0 +1,6 @@
+1: {'dictionary_item_removed': {"root['company_name']": 'Mahalo.com, Inc.', "root['foundation']": '2007', "root['location']": 'Santa Monica, California, USA', "root['revenue']": 'profit Unknown', "root['key_people']": 'Jason Calacanis, founder.', "root['homepage']": 'http://www.mahalo.com/ Mahalo.com '}}
+6: {'dictionary_item_removed': {"root['company_logo']": 'Image:MahaloAlpha_SiteLogo.gif'}, 'values_changed': {"root['key_people']": {'new_value': 'Jason Calacanis, founder.', 'old_value': 'Jason Calacanis, Founding CEO. , C.K. Sample III, Editorial Director'}}}
+12: {'dictionary_item_removed': {"root['num_employees']": '40 '}, 'values_changed': {"root['homepage']": {'new_value': 'http://www.mahalo.com/ Mahalo.com ', 'old_value': 'http://www.mahalo.com/ Mahalo.com'}}}
+44: {'values_changed': {"root['key_people']": {'new_value': 'Jason Calacanis, Founding CEO. , C.K. Sample III, Editorial Director', 'old_value': 'Jason Calacanis, Founding CEO. ,  Elliot C.R. Cook: COO,  Mark Jeffrey: CTO'}}}
+61: {'values_changed': {"root['num_employees']": {'new_value': '40 ', 'old_value': '55 '}}}
+67: {'values_changed': {"root['revenue']": {'new_value': 'profit Unknown', 'old_value': 'Unknown, Startup May 2007'}}}

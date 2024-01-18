@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": "''Mic''", "root['genre']": 'News', "root['foundation']": '2011', "root['company_slogan']": '"Don\'t think too rationally about the World."', "root['alexa']": '11|29|a'}}
+1: {'values_changed': {"root['company_slogan']": {'new_value': '"Don\'t think too rationally about the World."', 'old_value': '"Rethink the World."'}}}
+14: {'dictionary_item_added': {"root['alexa']": '11|29|a'}, 'dictionary_item_removed': {"root['key_people']": 'Chris Altchek Jake Horowitz Cory Haik', "root['num_employees']": '120-200', "root['website_type']": 'News'}}
+15: {'dictionary_item_added': {"root['key_people']": 'Chris Altchek Jake Horowitz Cory Haik', "root['num_employees']": '120-200', "root['website_type']": 'News'}, 'dictionary_item_removed': {"root['alexa']": '11|29|a'}}

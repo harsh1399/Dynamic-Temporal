@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'La Patilla', "root['content_license']": '| programming language =', "root['owner']": 'Alberto Federico Ravell'}}
+1: {'values_changed': {"root['content_license']": {'new_value': '| programming language =', 'old_value': 'programming language'}}}
+6: {'dictionary_item_removed': {"root['logocaption']": 'Text logo of La Patilla'}}
+8: {'dictionary_item_removed': {"root['slogan']": "''Noticias, Información e Investigación sobre Venezuela y el mundo.''"}}
+13: {'values_changed': {"root['logocaption']": {'new_value': 'Text logo of La Patilla', 'old_value': 'Logo of La Patilla'}}}
+14: {'dictionary_item_removed': {"root['editor']": 'David Moran'}}
+16: {'dictionary_item_removed': {"root['num_users']": '3.0 million (monthly)'}}
+17: {'values_changed': {"root['num_users']": {'new_value': '3.0 million (monthly)', 'old_value': '3.0 million (monthly, May 2014)'}}}
+19: {'values_changed': {"root['content_license']": {'new_value': 'programming language', 'old_value': '| programming language ='}}}
+36: {'dictionary_item_added': {"root['logocaption']": 'Logo of La Patilla'}, 'values_changed': {"root['num_users']": {'new_value': '3.0 million (monthly, May 2014)', 'old_value': '+4.5 million (monthly, September 2015)'}}}

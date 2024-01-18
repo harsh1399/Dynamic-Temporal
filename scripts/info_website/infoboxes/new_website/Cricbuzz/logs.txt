@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'CricBuzz', "root['owner']": 'Times Internet, Piyush Agrawal'}}
+5: {'dictionary_item_removed': {"root['num_users']": '50 million,  (Feb 2015)  '}}
+6: {'values_changed': {"root['num_users']": {'new_value': '50 million,  (Feb 2015)  ', 'old_value': '50 million, (Feb 2015)  '}}}
+44: {'dictionary_item_removed': {"root['logocaption']": 'CriCuzz Logo'}}
+45: {'values_changed': {"root['logocaption']": {'new_value': 'CriCuzz Logo', 'old_value': 'CricBuzz Logo'}}}
+47: {'values_changed': {"root['name']": {'new_value': 'CricBuzz', 'old_value': 'cricbuzz'}, "root['logocaption']": {'new_value': 'CricBuzz Logo', 'old_value': 'cricbuzz Logo'}}}
+50: {'values_changed': {"root['name']": {'new_value': 'cricbuzz', 'old_value': 'cricbuzzz'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'cricbuzzz', 'old_value': 'cric buzzz'}}}
+53: {'values_changed': {"root['name']": {'new_value': 'cric buzzz', 'old_value': 'cricbuzz'}}}
+55: {'values_changed': {"root['name']": {'new_value': 'cricbuzz', 'old_value': 'CricBuzz'}, "root['logocaption']": {'new_value': 'cricbuzz Logo', 'old_value': 'CricBuzz Logo'}}}
+56: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['revenue']": '7.8 million$ title=estimated revenue by promising website'}, 'values_changed': {"root['name']": {'new_value': 'CricBuzz', 'old_value': 'CricBuzz.com'}, "root['logocaption']": {'new_value': 'CricBuzz Logo', 'old_value': '| current status'}, "root['num_users']": {'new_value': '50 million, (Feb 2015)  ', 'old_value': '500 million, (Jan 2018) '}}}
+76: {'values_changed': {"root['revenue']": {'new_value': '7.8 million$ title=estimated revenue by promising website', 'old_value': '7.8 million$ |'}}}
+85: {'values_changed': {"root['revenue']": {'new_value': '7.8 million$ |', 'old_value': '$7.8 million |'}}}
+96: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot', "root['owner']": 'Times Internet, Piyush Agrawal', "root['revenue']": '$7.8 million |', "root['logocaption']": '| current status'}, 'dictionary_item_removed': {"root['publisher']": 'accessdate'}, 'values_changed': {"root['num_users']": {'new_value': '500 million, (Jan 2018) ', 'old_value': '500 million, (Jan 2018) |'}}}
+97: {'dictionary_item_added': {"root['publisher']": 'accessdate'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['owner']": 'Times Internet, Piyush Agrawal', "root['revenue']": '$7.8 million |', "root['logocaption']": '| current status'}, 'values_changed': {"root['num_users']": {'new_value': '500 million, (Jan 2018) |', 'old_value': '500 million, (Jan 2018) '}}}
+101: {'values_changed': {"root['name']": {'new_value': 'CricBuzz.com', 'old_value': 'Devbrat anand'}, "root['owner']": {'new_value': 'Times Internet, Piyush Agrawal', 'old_value': 'Times Internet, devbrat anand'}}}
+102: {'values_changed': {"root['name']": {'new_value': 'Devbrat anand', 'old_value': 'CricBuzz.com'}, "root['owner']": {'new_value': 'Times Internet, devbrat anand', 'old_value': 'Times Internet, Piyush Agrawal'}}}
+129: {'dictionary_item_added': {"root['logocaption']": '| current status'}, 'values_changed': {"root['name']": {'new_value': 'CricBuzz.com', 'old_value': 'Cricbuzz'}, "root['num_users']": {'new_value': '500 million, (Jan 2018) ', 'old_value': '50 million, (January 2018) '}, "root['owner']": {'new_value': 'Times Internet, Piyush Agrawal', 'old_value': 'Times Internet'}}}
+136: {'dictionary_item_added': {"root['revenue']": '$7.8 million |'}, 'values_changed': {"root['num_users']": {'new_value': '50 million, (January 2018) ', 'old_value': '50 million (January 2018) '}}}

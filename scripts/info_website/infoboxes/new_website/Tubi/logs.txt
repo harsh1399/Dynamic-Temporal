@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tubi', "root['area_served']": 'United States, Canada, and Australia; UK (2020)'}}
+13: {'values_changed': {"root['area_served']": {'new_value': 'United States, Canada, and Australia; UK (2020)', 'old_value': 'United States, Canada, Australia, and United Kingdom'}}}
+14: {'values_changed': {"root['area_served']": {'new_value': 'United States, Canada, Australia, and United Kingdom', 'old_value': 'United States, Canada, Australia, United Kingdom and Mexico'}}}
+21: {'values_changed': {"root['area_served']": {'new_value': 'United States, Canada, Australia, United Kingdom and Mexico', 'old_value': 'United States, Canada, Australia, United Kingdom, India, and Mexico'}}}
+40: {'values_changed': {"root['name']": {'new_value': 'Tubi', 'old_value': 'Tubi, Inc.'}}}
+51: {'dictionary_item_removed': {"root['num_locations']": '4'}}
+53: {'dictionary_item_removed': {"root['key_people']": ', Farhad Massoudi (CE'}}
+55: {'values_changed': {"root['key_people']": {'new_value': ', Farhad Massoudi (CE', 'old_value': ', Farhad Massoudi (CEO)'}}}
+57: {'values_changed': {"root['key_people']": {'new_value': ', Farhad Massoudi (CEO)', 'old_value': 'Farhad Massoudi (CEO)'}}}
+58: {'values_changed': {"root['key_people']": {'new_value': 'Farhad Massoudi (CEO)', 'old_value': 'Farhad Massoudi  (CEO)'}}}
+59: {'dictionary_item_added': {"root['num_locations']": '4'}, 'values_changed': {"root['key_people']": {'new_value': 'Farhad Massoudi  (CEO)', 'old_value': 'Farhad Massoudi (CEO)'}}}
+61: {'values_changed': {"root['area_served']": {'new_value': 'United States, Canada, Australia, United Kingdom, India, and Mexico', 'old_value': 'United States, Canada, Australia, United Kingdom, India, Ireland, New Zealand, South Africa, Spain, France, Germany, Argentina and Mexico'}}}
+62: {'values_changed': {"root['area_served']": {'new_value': 'United States, Canada, Australia, United Kingdom, India, Ireland, New Zealand, South Africa, Spain, France, Germany, Argentina and Mexico', 'old_value': 'Worldwide'}}}
+74: {'dictionary_item_removed': {"root['owner']": 'Fox Corporation'}}
+77: {'values_changed': {"root['owner']": {'new_value': 'Fox Corporation', 'old_value': 'Fox Entertainment, (Fox Corporation)'}}}
+83: {'values_changed': {"root['owner']": {'new_value': 'Fox Entertainment, (Fox Corporation)', 'old_value': 'Fox Corporation'}}}
+92: {'values_changed': {"root['owner']": {'new_value': 'Fox Corporation', 'old_value': 'Independent (2014-2020), Fox Corporation (2020-present)'}}}
+107: {'dictionary_item_added': {"root['area_served']": 'Worldwide'}, 'values_changed': {"root['owner']": {'new_value': 'Independent (2014-2020), Fox Corporation (2020-present)', 'old_value': 'Independent (2014–2020) Fox Corporation (2020–present)'}}}
+172: {'dictionary_item_removed': {"root['area_served']": 'Australia, Canada, Costa Rica, Ecuador, El Salvador, Guatemala, Mexico, Panama and United States'}}
+174: {'values_changed': {"root['key_people']": {'new_value': 'Farhad Massoudi (CEO)', 'old_value': 'CEO Paul Cheesbrough'}}}
+178: {'values_changed': {"root['owner']": {'new_value': 'Independent (2014–2020) Fox Corporation (2020–present)', 'old_value': 'Independent (2014–2020) Fox Corporation (2020–present) Tubi Media Group 2023-'}}}
+183: {'values_changed': {"root['key_people']": {'new_value': 'CEO Paul Cheesbrough', 'old_value': 'Farhad Massoudi (CEO)'}, "root['owner']": {'new_value': 'Independent (2014–2020) Fox Corporation (2020–present) Tubi Media Group 2023-', 'old_value': 'Independent (2014–2020) Fox Corporation (2020–present)'}}}
+184: {'values_changed': {"root['key_people']": {'new_value': 'Farhad Massoudi (CEO)', 'old_value': 'Paul Cheesbrough  (CEO)'}}}

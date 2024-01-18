@@ -1,0 +1,6 @@
+6: {'dictionary_item_removed': {"root['name']": 'Lexico Dictionaries'}}
+7: {'values_changed': {"root['name']": {'new_value': 'Lexico Dictionaries', 'old_value': 'OxfordDictionaries.com'}}}
+8: {'dictionary_item_removed': {"root['owner']": 'Dictionary.com'}, 'values_changed': {"root['name']": {'new_value': 'OxfordDictionaries.com', 'old_value': 'Lexico'}}}
+18: {'values_changed': {"root['name']": {'new_value': 'Lexico', 'old_value': 'OxfordDictionaries.com'}, "root['owner']": {'new_value': 'Dictionary.com', 'old_value': 'Oxford University Press'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'OxfordDictionaries.com', 'old_value': 'Oxford Dictionaries'}}}
+44: {'dictionary_item_removed': {"root['authors']": 'Oxford University Press'}, 'values_changed': {"root['name']": {'new_value': 'Oxford Dictionaries', 'old_value': 'Lexico'}, "root['owner']": {'new_value': 'Oxford University Press', 'old_value': 'Dictionary.com'}}}

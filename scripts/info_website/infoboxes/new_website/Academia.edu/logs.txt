@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Academia.edu', "root['location']": 'San Francisco, California', "root['users']": '36 million', "root['area_served']": 'Worldwide', "root['num_employees']": '23 ', "root['website_type']": 'Platform for sharing research papers'}}
+10: {'values_changed': {"root['name']": {'new_value': 'Academia.edu', 'old_value': 'Academia edu'}, "root['location']": {'new_value': 'San Francisco, California', 'old_value': 'Wellington, New Zealand'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'Academia edu', 'old_value': 'Academia.edu'}, "root['location']": {'new_value': 'Wellington, New Zealand', 'old_value': 'San Francisco, California'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Academia.edu', 'old_value': 'Academia, Inc.'}}}
+32: {'values_changed': {"root['users']": {'new_value': '36 million', 'old_value': '58 million'}}}
+66: {'values_changed': {"root['num_employees']": {'new_value': '23 ', 'old_value': '39 '}}}
+67: {'values_changed': {"root['users']": {'new_value': '58 million', 'old_value': '71 million'}}}

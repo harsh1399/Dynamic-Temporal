@@ -1,0 +1,11 @@
+14: {'dictionary_item_removed': {"root['name']": 'Icertis', "root['foundation']": '2009', "root['location']": 'Bellevue, Washington United States'}}
+19: {'dictionary_item_removed': {"root['locations']": '12', "root['products']": 'Enterprise-wide contract management software in the cloud', "root['employees']": '1,100+'}}
+21: {'values_changed': {"root['employees']": {'new_value': '1,100+', 'old_value': '1,200+'}}}
+25: {'values_changed': {"root['employees']": {'new_value': '1,200+', 'old_value': '1,500+'}}}
+26: {'values_changed': {"root['products']": {'new_value': 'Enterprise-wide contract management software in the cloud', 'old_value': 'Icertis contract intelligence (ICI) and contract lifecycle management (CLM)'}}}
+27: {'values_changed': {"root['products']": {'new_value': 'Icertis contract intelligence (ICI) and contract lifecycle management (CLM)', 'old_value': 'Icertis Contract Intelligence (ICI)'}}}
+36: {'values_changed': {"root['products']": {'new_value': 'Icertis Contract Intelligence (ICI)', 'old_value': 'Enterprise-wide contract management software in the cloud'}, "root['employees']": {'new_value': '1,500+', 'old_value': '1,200+'}}}
+41: {'values_changed': {"root['products']": {'new_value': 'Enterprise-wide contract management software in the cloud', 'old_value': 'Icertis Contract Intelligence (ICI)'}, "root['employees']": {'new_value': '1,200+', 'old_value': '1,500+'}}}
+42: {'values_changed': {"root['products']": {'new_value': 'Icertis Contract Intelligence (ICI)', 'old_value': 'Icertis Contract Intelligence'}}}
+48: {'values_changed': {"root['products']": {'new_value': 'Icertis Contract Intelligence', 'old_value': 'Icertis Contract Intelligence (ICI)'}}}
+62: {'dictionary_item_added': {"root['locations']": '12'}, 'values_changed': {"root['foundation']": {'new_value': '2009', 'old_value': '2009 '}, "root['employees']": {'new_value': '1,500+', 'old_value': '||'}}}

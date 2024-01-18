@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['image_file']": '247-logo-2.png', "root['editor']": 'Patrick Garratt', "root['frequency']": 'Daily', "root['category']": 'Video game blog', "root['company']": 'Videogaming 247 Ltd', "root['country']": 'UK'}}
+1: {'values_changed': {"root['editor']": {'new_value': 'Patrick Garratt', 'old_value': 'Patrick Garratt '}}}
+3: {'dictionary_item_added': {"root['image_file']": '247-logo-2.png', "root['editor']": 'Patrick Garratt ', "root['frequency']": 'Daily', "root['category']": 'Video game blog', "root['company']": 'Videogaming 247 Ltd', "root['country']": 'UK'}, 'dictionary_item_removed': {"root['name']": 'VG247', "root['owner']": 'Videogaming 247 Ltd', "root['revenue']": '|alexa rank='}}
+28: {'dictionary_item_added': {"root['revenue']": '|alexa rank='}, 'values_changed': {"root['owner']": {'new_value': 'Videogaming 247 Ltd', 'old_value': 'videogaming247 Ltd.'}}}
+32: {'values_changed': {"root['owner']": {'new_value': 'videogaming247 Ltd.', 'old_value': 'Gamer Network'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'VG247', 'old_value': "''VG247''"}}}
+37: {'dictionary_item_removed': {"root['key_people']": 'Tom Orry, Patrick Garratt, Alex Donaldson', "root['website_type']": 'Video game journalism', "root['launchd']": '2008'}}
+39: {'dictionary_item_added': {"root['launchd']": '2008'}, 'dictionary_item_removed': {"root['launched']": '2008'}}
+40: {'dictionary_item_added': {"root['launched']": '2008'}, 'dictionary_item_removed': {"root['location']": 'Brighton', "root['country']": 'England', "root['area_served']": 'Worldwide'}}
+42: {'values_changed': {"root['key_people']": {'new_value': 'Tom Orry, Patrick Garratt, Alex Donaldson', 'old_value': 'Tom Orry, Patrick Garratt, Alex Donaldson, Matt Martin, Dave Cook'}}}

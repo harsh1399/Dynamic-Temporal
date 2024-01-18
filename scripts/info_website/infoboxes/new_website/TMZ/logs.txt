@@ -1,0 +1,7 @@
+22: {'dictionary_item_removed': {"root['name']": 'TMZ', "root['owner']": 'Time Warner', "root['alexa']": '585 '}}
+108: {'values_changed': {"root['name']": {'new_value': 'TMZ', 'old_value': 'Michael Jacson'}, "root['alexa']": {'new_value': '585 ', 'old_value': '600 '}}}
+109: {'values_changed': {"root['name']": {'new_value': 'Michael Jacson', 'old_value': 'TMZ'}, "root['alexa']": {'new_value': '600 ', 'old_value': '585 '}}}
+143: {'values_changed': {"root['alexa']": {'new_value': '585 ', 'old_value': '585 | Server Status'}}}
+144: {'values_changed': {"root['alexa']": {'new_value': '585 | Server Status', 'old_value': '585  '}}}
+145: {'values_changed': {"root['alexa']": {'new_value': '585  ', 'old_value': '367  '}}}
+325: {'dictionary_item_added': {"root['owner']": 'Time Warner', "root['alexa']": '367  '}, 'dictionary_item_removed': {"root['editor']": 'Harvey Levin'}}

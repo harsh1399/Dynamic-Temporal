@@ -1,0 +1,4 @@
+1: {'dictionary_item_removed': {"root['name']": 'One Thirty BPM', "root['owner']": 'Evan Kaloudis'}}
+57: {'dictionary_item_added': {"root['owner']": 'Evan Kaloudis'}, 'values_changed': {"root['name']": {'new_value': 'One Thirty BPM', 'old_value': 'Beats Per Minute (formerly One Thirty BPM)'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'Beats Per Minute (formerly One Thirty BPM)', 'old_value': "Beats Per Minute (formerly ''One Thirty BPM'')"}}}
+69: {'values_changed': {"root['name']": {'new_value': "Beats Per Minute (formerly ''One Thirty BPM'')", 'old_value': "''Beats Per Minute'' (formerly ''One Thirty BPM'')"}}}

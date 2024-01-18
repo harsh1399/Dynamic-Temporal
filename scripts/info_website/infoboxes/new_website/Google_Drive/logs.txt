@@ -1,0 +1,28 @@
+7: {'dictionary_item_removed': {"root['name']": 'Google Drive', "root['developer']": 'Google Inc.', "root['release_date']": 'April 24 2012', "root['operating_system']": 'hybrid, native and Web-based application', "root['genre']": 'Online cloud storage for files'}}
+9: {'dictionary_item_added': {"root['developer']": 'Google Inc.', "root['release_date']": 'April 24 2012', "root['operating_system']": 'hybrid, native and Web-based application', "root['genre']": 'Online cloud storage for files'}, 'dictionary_item_removed': {"root['owner']": 'Google'}}
+61: {'dictionary_item_added': {"root['owner']": 'Google'}, 'dictionary_item_removed': {"root['developer']": 'Google', "root['released']": 'April 24, 2012 | frequently updated     = yes | programmi', "root['status']": 'Active', "root['genre']": 'Online backup service'}}
+62: {'values_changed': {"root['released']": {'new_value': 'April 24, 2012 | frequently updated     = yes | programmi', 'old_value': 'frequently updated     = yes | program'}}}
+133: {'dictionary_item_removed': {"root['license']": 'Proprietary software'}, 'values_changed': {"root['developer']": {'new_value': 'Google', 'old_value': 'Google, Inc.'}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Google Drive', 'old_value': 'Jeetu Rathore Drive'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Jeetu Rathore Drive', 'old_value': 'Google Drive'}}}
+233: {'dictionary_item_added': {"root['developer']": 'Google, Inc.', "root['released']": 'frequently updated     = yes | program', "root['status']": 'Active', "root['genre']": 'Online backup service', "root['license']": 'Proprietary software'}, 'dictionary_item_removed': {"root['num_users']": '800 million (March 2017)', "root['owner']": 'Google'}, 'values_changed': {"root['name']": {'new_value': 'Google Drive', 'old_value': 'Google Drive '}}}
+252: {'values_changed': {"root['owner']": {'new_value': 'Google', 'old_value': 'Google LLC'}}}
+256: {'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google Drive aka Hitler '}}}
+257: {'values_changed': {"root['name']": {'new_value': 'Google Drive aka Hitler ', 'old_value': 'Google Drive '}}}
+268: {'values_changed': {"root['num_users']": {'new_value': '800 million (March 2017)', 'old_value': '1 billion (July 2018)'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google Drive is sexy like me '}}}
+309: {'values_changed': {"root['name']": {'new_value': 'Google Drive is sexy like me ', 'old_value': 'Google Drive '}}}
+369: {'dictionary_item_removed': {"root['alexa']": 'Android'}, 'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google Drive pro '}}}
+371: {'dictionary_item_added': {"root['alexa']": 'Android'}, 'values_changed': {"root['name']": {'new_value': 'Google Drive pro ', 'old_value': 'Google Drive '}}}
+375: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+388: {'dictionary_item_added': {"root['name']": 'Google Drive '}, 'dictionary_item_removed': {"root['branch1']": 'Android', "root['version1']": '2.20.061.04', "root['branch2']": 'iOS', "root['version2']": '4.2019.42202'}}
+389: {'dictionary_item_added': {"root['branch1']": 'Android', "root['version1']": '2.20.061.04', "root['branch2']": 'iOS', "root['version2']": '4.2019.42202'}, 'dictionary_item_removed': {"root['name']": 'Google Drive '}}
+421: {'dictionary_item_removed': {"root['area_served']": 'Worldwide'}}
+440: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot', "root['area_served']": 'Worldwide', "root['owner']": 'Google LLC', "root['name']": 'Google Drive '}, 'dictionary_item_removed': {"root['branch1']": 'Android', "root['version1']": '2.20.061.04', "root['branch2']": 'iOS', "root['version2']": '4.2019.42202'}, 'values_changed': {"root['num_users']": {'new_value': '1 billion (July 2018)', 'old_value': '1 billion (July 2018)   | owner Google LLC'}}}
+441: {'dictionary_item_added': {"root['branch1']": 'Android', "root['version1']": '2.20.061.04', "root['branch2']": 'iOS', "root['version2']": '4.2019.42202'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['owner']": 'Google LLC', "root['name']": 'Google Drive '}, 'values_changed': {"root['num_users']": {'new_value': '1 billion (July 2018)   | owner Google LLC', 'old_value': '1 billion (July 2018)'}}}
+442: {'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google '}}}
+443: {'values_changed': {"root['name']": {'new_value': 'Google ', 'old_value': 'Google Drive '}}}
+450: {'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google Work  '}}}
+451: {'values_changed': {"root['name']": {'new_value': 'Google Work  ', 'old_value': 'Google Drive '}}}
+454: {'values_changed': {"root['name']": {'new_value': 'Google Drive ', 'old_value': 'Google Drive'}}}
+503: {'values_changed': {"root['owner']": {'new_value': 'Google LLC', 'old_value': 'Google'}}}

@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": "''Pitchfork''", "root['owner']": 'Condé Nast', "root['revenue']": '| launch date    =  current status = Acti', "root['alexa']": '10|3|a'}}
+6: {'dictionary_item_removed': {"root['editor']": 'Puja Patel'}}
+15: {'values_changed': {"root['revenue']": {'new_value': '| launch date    =  current status = Acti', 'old_value': '| launch date =  current status = Acti'}}}
+16: {'values_changed': {"root['alexa']": {'new_value': '10|3|a', 'old_value': '04|4|a'}}}
+21: {'values_changed': {"root['alexa']": {'new_value': '04|4|a', 'old_value': '10|5|a'}}}
+23: {'values_changed': {"root['alexa']": {'new_value': '10|5|a', 'old_value': '6|12|a'}}}
+99: {'dictionary_item_added': {"root['revenue']": '| launch date =  current status = Acti'}, 'values_changed': {"root['alexa']": {'new_value': '6|12|a', 'old_value': '4|25|a'}}}
+100: {'values_changed': {"root['name']": {'new_value': "''Pitchfork''", 'old_value': "''Pretentious''"}, "root['editor']": {'new_value': 'Puja Patel', 'old_value': 'some dumb indian who smells'}}}
+101: {'values_changed': {"root['name']": {'new_value': "''Pretentious''", 'old_value': "''Pitchfork''"}, "root['editor']": {'new_value': 'some dumb indian who smells', 'old_value': 'Puja Patel'}}}
+106: {'values_changed': {"root['alexa']": {'new_value': '4|25|a', 'old_value': '06|14|a'}}}
+120: {'dictionary_item_removed': {"root['employees']": '36'}}

@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Treehouse Island, Inc.', "root['foundation']": '2011', "root['area_served']": 'Worldwide', "root['services']": 'Technology education', "root['num_employees']": '75', "root['num_users']": '100,000'}}
+2: {'dictionary_item_added': {"root['company_name']": 'Treehouse Island, Inc.'}, 'dictionary_item_removed': {"root['name']": 'Treehouse Island, Inc.'}}
+10: {'dictionary_item_removed': {"root['net_income']": '45,000,000,000'}}
+11: {'values_changed': {"root['num_users']": {'new_value': '100,000', 'old_value': '100,000,000'}}}
+12: {'values_changed': {"root['num_users']": {'new_value': '100,000,000', 'old_value': '1,000,000'}}}
+13: {'values_changed': {"root['num_employees']": {'new_value': '75', 'old_value': '100'}}}
+14: {'values_changed': {"root['net_income']": {'new_value': '45,000,000,000', 'old_value': '4,000,000'}}}
+15: {'dictionary_item_added': {"root['net_income']": '4,000,000'}, 'values_changed': {"root['num_employees']": {'new_value': '100', 'old_value': '75'}, "root['num_users']": {'new_value': '1,000,000', 'old_value': '200,000'}}}
+26: {'values_changed': {"root['num_employees']": {'new_value': '75', 'old_value': '76'}}}
+27: {'values_changed': {"root['num_employees']": {'new_value': '76', 'old_value': '75'}}}
+43: {'values_changed': {"root['num_employees']": {'new_value': '75', 'old_value': '120'}, "root['num_users']": {'new_value': '200,000', 'old_value': '171,000'}}}
+47: {'values_changed': {"root['num_employees']": {'new_value': '120', 'old_value': '110'}}}

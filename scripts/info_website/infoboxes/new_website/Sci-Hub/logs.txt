@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sci-Hub', "root['content_license']": 'Hosts material without regard to copyright'}}
+37: {'values_changed': {"root['content_license']": {'new_value': 'Hosts material without regard to copyright', 'old_value': 'Serves material without regard to copyright'}}}
+38: {'values_changed': {"root['content_license']": {'new_value': 'Serves material without regard to copyright', 'old_value': 'Hosts material without regard to copyright'}}}
+72: {'values_changed': {"root['content_license']": {'new_value': 'Hosts material without regard to copyright', 'old_value': 'Serves material without regard to copyright'}}}
+75: {'values_changed': {"root['content_license']": {'new_value': 'Serves material without regard to copyright', 'old_value': 'Hosts material without regard to copyright'}}}
+76: {'dictionary_item_removed': {"root['owner']": 'Alexandra Elbakyan', "root['embed']": 'yes  '}}
+118: {'dictionary_item_added': {"root['embed']": 'yes  '}, 'dictionary_item_removed': {"root['slogan']": 'I cannot find or download unavailable research paper or book for you'}}
+119: {'dictionary_item_added': {"root['slogan']": 'I cannot find or download unavailable research paper or book for you'}, 'dictionary_item_removed': {"root['motto']": 'I cannot find or download unavailable research paper or book for you'}}
+128: {'dictionary_item_added': {"root['motto']": 'I cannot find or download unavailable research paper or book for you'}, 'values_changed': {"root['owner']": {'new_value': 'Alexandra Elbakyan', 'old_value': 'access-date=2020-07-11|publisher=Sci-Hub  | programmed in   = PHP'}}}
+130: {'dictionary_item_added': {"root['content_license']": 'Hosts material without regard to copyright'}, 'values_changed': {"root['owner']": {'new_value': 'access-date=2020-07-11|publisher=Sci-Hub  | programmed in   = PHP', 'old_value': 'access-date=2020-07-11|publisher=Sci-Hub}'}}}
+131: {'dictionary_item_removed': {"root['content_license']": 'Hosts material without regard to copyright'}}
+260: {'dictionary_item_removed': {"root['URL']": 'sci-hub.tf '}}
+314: {'dictionary_item_added': {"root['URL']": 'sci-hub.tf '}, 'values_changed': {"root['content_license']": {'new_value': 'Hosts material without regard to copyright', 'old_value': "you can't block me :)"}}}
+315: {'values_changed': {"root['content_license']": {'new_value': "you can't block me :)", 'old_value': 'Hosts material without regard to copyright'}}}
+316: {'values_changed': {"root['content_license']": {'new_value': 'Hosts material without regard to copyright', 'old_value': 'contact me > majidiof at yahoo :)'}}}
+317: {'values_changed': {"root['content_license']": {'new_value': 'contact me > majidiof at yahoo :)', 'old_value': 'Hosts material without regard to copyright'}}}
+373: {'values_changed': {"root['owner']": {'new_value': 'access-date=2020-07-11|publisher=Sci-Hub}', 'old_value': 'access-date=11 July 2020|publisher=Sci-Hub}'}}}
+577: {'values_changed': {"root['owner']": {'new_value': 'access-date=11 July 2020|publisher=Sci-Hub}', 'old_value': 'access-date=11 July 2020|publisher=Sci-Hub|archive-date=8 July 2020|archive-url=https://web.archive.org/web/20200708043253/https://sci-hub.st/alexandra|url-status=live}'}}}

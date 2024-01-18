@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['name']": 'Chess.com', "root['slogan']": 'Play Chess Online', "root['alexa']": '1|22|a'}}
+4: {'values_changed': {"root['alexa']": {'new_value': '1|22|a', 'old_value': '2|25|a'}}}
+5: {'values_changed': {"root['slogan']": {'new_value': 'Play Chess Online', 'old_value': "''Play. Learn. Share.''"}}}
+7: {'values_changed': {"root['alexa']": {'new_value': '2|25|a', 'old_value': '3|2|a'}}}
+10: {'values_changed': {"root['alexa']": {'new_value': '3|2|a', 'old_value': '7|21|a'}}}
+11: {'values_changed': {"root['alexa']": {'new_value': '7|21|a', 'old_value': '8|29|a'}}}
+158: {'dictionary_item_added': {"root['alexa']": '8|29|a'}, 'values_changed': {"root['slogan']": {'new_value': "''Play. Learn. Share.''", 'old_value': "''Cheat. Boast. Troll.''"}}}
+159: {'values_changed': {"root['slogan']": {'new_value': "''Cheat. Boast. Troll.''", 'old_value': "''Play. Learn. Share.''"}}}
+175: {'values_changed': {"root['name']": {'new_value': 'Chess.com', 'old_value': 'Cheese.com'}}}
+176: {'values_changed': {"root['name']": {'new_value': 'Cheese.com', 'old_value': 'Chess.com'}}}
+187: {'dictionary_item_removed': {"root['screenshot_caption']": 'Chess.com homepage', "root['collapsetext']": 'Screenshot'}}
+202: {'dictionary_item_added': {"root['screenshot_caption']": 'Chess.com homepage', "root['collapsetext']": 'Screenshot', "root['slogan']": "''Play. Learn. Share.''"}, 'dictionary_item_removed': {"root['foundation']": 'May 2007'}}
+204: {'dictionary_item_removed': {"root['num_users']": '18+ million'}}
+207: {'dictionary_item_removed': {"root['num_employees']": '120+ '}, 'values_changed': {"root['num_users']": {'new_value': '18+ million', 'old_value': '24+ million'}}}
+236: {'values_changed': {"root['num_users']": {'new_value': '24+ million', 'old_value': '25+ million'}}}
+238: {'values_changed': {"root['num_users']": {'new_value': '25+ million', 'old_value': '24+ million'}}}
+251: {'values_changed': {"root['num_employees']": {'new_value': '120+ ', 'old_value': '114 '}}}
+252: {'values_changed': {"root['num_users']": {'new_value': '24+ million', 'old_value': '32.471+ million'}}}
+254: {'values_changed': {"root['num_users']": {'new_value': '32.471+ million', 'old_value': '33.771+ million'}}}
+257: {'values_changed': {"root['num_users']": {'new_value': '33.771+ million', 'old_value': '1,000,033.771'}}}
+258: {'values_changed': {"root['name']": {'new_value': 'Chess.com', 'old_value': 'Chess.com, LLC'}}}
+259: {'values_changed': {"root['num_users']": {'new_value': '1,000,033.771', 'old_value': '30 million +'}}}
+290: {'values_changed': {"root['num_employees']": {'new_value': '114 ', 'old_value': '158 '}, "root['num_users']": {'new_value': '30 million +', 'old_value': '40 million +'}}}
+294: {'dictionary_item_added': {"root['foundation']": 'May 2007'}, 'values_changed': {"root['num_employees']": {'new_value': '158 ', 'old_value': '158'}}}
+324: {'values_changed': {"root['num_users']": {'new_value': '40 million +', 'old_value': '50 million +'}}}
+355: {'values_changed': {"root['num_employees']": {'new_value': '158', 'old_value': '200'}}}
+367: {'values_changed': {"root['num_users']": {'new_value': '50 million +', 'old_value': '71 million +'}}}
+414: {'values_changed': {"root['num_employees']": {'new_value': '200', 'old_value': '200+'}, "root['num_users']": {'new_value': '71 million +', 'old_value': '77 million+'}}}
+525: {'values_changed': {"root['num_users']": {'new_value': '77 million+', 'old_value': '93 million+'}}}
+549: {'values_changed': {"root['num_employees']": {'new_value': '200+', 'old_value': '400+'}}}
+553: {'values_changed': {"root['num_users']": {'new_value': '93 million+', 'old_value': '100 million+'}}}

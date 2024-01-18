@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'RootMusic', "root['foundation']": '2009', "root['num_employees']": '12', "root['website_type']": 'Tools For Musicians, Applications for Facebook'}}
+5: {'values_changed': {"root['num_employees']": {'new_value': '12', 'old_value': '10'}}}
+24: {'dictionary_item_added': {"root['num_employees']": '10'}, 'values_changed': {"root['foundation']": {'new_value': '2009', 'old_value': 'Q4, 2009'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'State', "root['slogan']": 'The global opinion network', "root['owner']": 'EqualMedia', "root['revenue']": '|current status  = Closed beta'}}
+1: {'dictionary_item_added': {"root['slogan']": 'The global opinion network'}, 'dictionary_item_removed': {"root['description']": 'The global opinion network'}, 'values_changed': {"root['owner']": {'new_value': 'EqualMedia', 'old_value': 'Equal Media Ltd.'}, "root['revenue']": {'new_value': '|current status  = Closed beta', 'old_value': '|current status  = Closed alpha'}}}
+6: {'values_changed': {"root['revenue']": {'new_value': '|current status  = Closed alpha', 'old_value': '|current status  = Closed beta'}}}
+7: {'values_changed': {"root['revenue']": {'new_value': '|current status  = Closed beta', 'old_value': '|current status  = Open beta'}}}
+18: {'values_changed': {"root['description']": {'new_value': 'The global opinion network', 'old_value': 'Global opinion network'}, "root['revenue']": {'new_value': '|current status  = Open beta', 'old_value': '|current status  = Public'}}}

@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Udemy', "root['homepage']": 'http://www.udemy.com', "root['key_people']": 'Dennis Yang (CEO) | launch date    = 2010', "root['alexa']": '1,837 '}}
+49: {'dictionary_item_added': {"root['homepage']": 'http://www.udemy.com', "root['alexa']": '1,837 '}, 'values_changed': {"root['name']": {'new_value': 'Udemy', 'old_value': 'MSysTraining'}}}
+50: {'dictionary_item_removed': {"root['alexa']": '1,837 '}, 'values_changed': {"root['name']": {'new_value': 'MSysTraining', 'old_value': 'Udemy'}}}
+57: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['key_people']": {'new_value': 'Dennis Yang (CEO) | launch date    = 2010', 'old_value': 'Dennis Yang (CEO)'}, "root['alexa']": {'new_value': '1,837 ', 'old_value': '2|19|a'}}}
+65: {'values_changed': {"root['key_people']": {'new_value': 'Dennis Yang (CEO)', 'old_value': 'Kevin H. Johnson (CEO)'}}}
+78: {'values_changed': {"root['alexa']": {'new_value': '2|19|a', 'old_value': '9|7|a'}}}
+97: {'dictionary_item_added': {"root['alexa']": '9|7|a'}, 'dictionary_item_removed': {"root['num_employees']": '3,963', "root['num_users']": '35 million'}, 'values_changed': {"root['name']": {'new_value': 'Udemy', 'old_value': 'Udemy, Inc.'}, "root['key_people']": {'new_value': 'Kevin H. Johnson (CEO)', 'old_value': 'Gregg Coccari (CEO)'}}}
+110: {'values_changed': {"root['num_users']": {'new_value': '35 million', 'old_value': '40 million'}}}
+111: {'values_changed': {"root['num_employees']": {'new_value': '3,963', 'old_value': '1,000'}}}
+175: {'values_changed': {"root['num_users']": {'new_value': '40 million', 'old_value': '46 million (2021)'}}}
+184: {'values_changed': {"root['num_users']": {'new_value': '46 million (2021)', 'old_value': '52 million (2022)'}}}
+192: {'dictionary_item_removed': {"root['revenue']": '516 million (2021)', "root['operating_income']": '-78 million (2021)', "root['net_income']": '-80 million (2021)', "root['assets']": '740 million (2021)', "root['equity']": '390 million (2021)<ref name'}, 'values_changed': {"root['num_employees']": {'new_value': '1,000', 'old_value': '1,238 (December 2021) '}}}

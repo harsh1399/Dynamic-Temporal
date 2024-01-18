@@ -1,0 +1,54 @@
+125: {'dictionary_item_removed': {"root['company_name']": 'Reddit Inc.', "root['company_logo']": 'frameless', "root['company_slogan']": 'The front page of the internet', "root['area_served']": 'Worldwide', "root['key_people']": 'Yishan Wong (CEO)', "root['num_employees']": '28', "root['website_type']": 'Social news'}}
+175: {'values_changed': {"root['num_employees']": {'new_value': '28', 'old_value': '44'}}}
+222: {'values_changed': {"root['num_employees']": {'new_value': '44', 'old_value': '51'}}}
+272: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': '4chan.'}}}
+274: {'values_changed': {"root['company_name']": {'new_value': '4chan.', 'old_value': 'Reddit Inc.'}}}
+276: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': '4chan.'}}}
+277: {'values_changed': {"root['company_name']": {'new_value': '4chan.', 'old_value': 'Reddit Inc.'}}}
+278: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': '4chan.'}}}
+279: {'values_changed': {"root['company_name']": {'new_value': '4chan.', 'old_value': 'Reddit Inc.'}}}
+280: {'values_changed': {"root['company_slogan']": {'new_value': 'The front page of the internet', 'old_value': '9/11 is a lie'}}}
+281: {'values_changed': {"root['company_slogan']": {'new_value': '9/11 is a lie', 'old_value': 'The front page of the internet'}}}
+346: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': 'Le 9Gag Incorporated'}}}
+347: {'values_changed': {"root['company_name']": {'new_value': 'Le 9Gag Incorporated', 'old_value': 'Reddit Inc.'}}}
+348: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': "Zoe Quinn's Funposting hideout"}, "root['company_slogan']": {'new_value': 'The front page of the internet', 'old_value': 'The cesspool of the internet'}}}
+349: {'values_changed': {"root['company_name']": {'new_value': "Zoe Quinn's Funposting hideout", 'old_value': 'Reddit Inc.'}, "root['company_slogan']": {'new_value': 'The cesspool of the internet', 'old_value': 'The front page of the internet'}}}
+352: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': '9GAG'}, "root['company_slogan']": {'new_value': 'The front page of the internet', 'old_value': 'The cesspool of the internet'}, "root['area_served']": {'new_value': 'Worldwide', 'old_value': 'topkek'}, "root['key_people']": {'new_value': 'Yishan Wong (CEO)', 'old_value': 'Yishan Wang (CEO)'}}}
+353: {'values_changed': {"root['company_name']": {'new_value': '9GAG', 'old_value': 'Reddit Inc.'}, "root['company_slogan']": {'new_value': 'The cesspool of the internet', 'old_value': 'The front page of the internet'}, "root['area_served']": {'new_value': 'topkek', 'old_value': 'Worldwide'}, "root['key_people']": {'new_value': 'Yishan Wang (CEO)', 'old_value': 'Yishan Wong (CEO)'}}}
+364: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': 'Le Reddit Inc.'}}}
+365: {'values_changed': {"root['company_name']": {'new_value': 'Le Reddit Inc.', 'old_value': 'Reddit Inc.'}}}
+453: {'values_changed': {"root['key_people']": {'new_value': 'Yishan Wong (CEO)', 'old_value': 'Ellen Pao (Interim CEO)'}}}
+454: {'dictionary_item_removed': {"root['num_users']": '174 million (November 2014)'}, 'values_changed': {"root['key_people']": {'new_value': 'Ellen Pao (Interim CEO)', 'old_value': 'Ellen Pao (Interim CEO)  '}}}
+456: {'values_changed': {"root['company_slogan']": {'new_value': 'The front page of the internet', 'old_value': '"The front page of the internet"'}}}
+474: {'values_changed': {"root['company_slogan']": {'new_value': '"The front page of the internet"', 'old_value': '"The front page of the 4Chan"'}}}
+479: {'values_changed': {"root['company_slogan']": {'new_value': '"The front page of the 4Chan"', 'old_value': '"The front page of the internet"'}}}
+480: {'values_changed': {"root['key_people']": {'new_value': 'Ellen Pao (Interim CEO)  ', 'old_value': 'Adolf Hitler (Race Relations)  '}}}
+493: {'values_changed': {"root['key_people']": {'new_value': 'Adolf Hitler (Race Relations)  ', 'old_value': 'Ellen Pao (Interim CEO)  '}}}
+497: {'values_changed': {"root['company_slogan']": {'new_value': '"The front page of the internet"', 'old_value': '"chodes are yummy"'}}}
+499: {'values_changed': {"root['company_slogan']": {'new_value': '"chodes are yummy"', 'old_value': '"The front page of the internet"'}}}
+507: {'values_changed': {"root['company_name']": {'new_value': 'Reddit Inc.', 'old_value': '4Chan.'}}}
+508: {'values_changed': {"root['company_name']": {'new_value': '4Chan.', 'old_value': 'Reddit Inc.'}}}
+541: {'dictionary_item_added': {"root['company_name']": 'Reddit Inc.', "root['company_logo']": 'frameless', "root['company_slogan']": '"The front page of the internet"', "root['num_users']": '174 million (November 2014)'}, 'dictionary_item_removed': {"root['name']": 'Reddit Inc.', "root['owner']": 'Advance Publications (majority shareholder)'}, 'values_changed': {"root['key_people']": {'new_value': 'Ellen Pao (Interim CEO)  ', 'old_value': 'Steve Huffman (co-founder and CEO)'}, "root['num_employees']": {'new_value': '51', 'old_value': '230 (July 2017)'}, "root['website_type']": {'new_value': 'Social news', 'old_value': 'Social news and media aggregation'}}}
+544: {'dictionary_item_removed': {"root['location']": 'San Francisco, California'}}
+571: {'values_changed': {"root['location']": {'new_value': 'San Francisco, California', 'old_value': 'San Francisco, California, U.S.'}}}
+597: {'values_changed': {"root['key_people']": {'new_value': 'Steve Huffman (co-founder and CEO)', 'old_value': 'Steve Huffman (co-founder and CEO) Jen Wong COO Chris Slowe CTO'}}}
+606: {'values_changed': {"root['key_people']": {'new_value': 'Steve Huffman (co-founder and CEO) Jen Wong COO Chris Slowe CTO', 'old_value': 'Steve Huffman (co-founder and CEO) Jen Wong COO Christopher Slowe CTO'}}}
+696: {'values_changed': {"root['website_type']": {'new_value': 'Social news and media aggregation', 'old_value': 'Social news, media aggregation'}, "root['key_people']": {'new_value': 'Steve Huffman (co-founder and CEO) Jen Wong COO Christopher Slowe CTO', 'old_value': 'Steve Huffman (co-founder and CEO), Jen Wong COO, Christopher Slowe CTO'}}}
+697: {'values_changed': {"root['num_employees']": {'new_value': '230 (July 2017)', 'old_value': '230 Approximately 230 people were employed as of July 2017.'}}}
+767: {'dictionary_item_added': {"root['website_type']": 'Social news, media aggregation', "root['key_people']": 'Steve Huffman (co-founder and CEO), Jen Wong COO, Christopher Slowe CTO'}, 'values_changed': {"root['num_employees']": {'new_value': '230 Approximately 230 people were employed as of July 2017.', 'old_value': '400 (September 2018)'}}}
+803: {'dictionary_item_removed': {"root['accessdate']": 'August 28, 2014| title'}}
+808: {'dictionary_item_added': {"root['accessdate']": 'August 28, 2014| title'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+822: {'dictionary_item_added': {"root['owner']": 'Advance Publications (majority shareholder)', "root['area_served']": 'Worldwide', "root['location']": 'San Francisco, California, U.S.', "root['num_employees']": '400 (September 2018)'}, 'dictionary_item_removed': {"root['website_type']": 'Social news '}}
+823: {'dictionary_item_removed': {"root['owner']": 'Advance Publications (majority shareholder)', "root['area_served']": 'Worldwide', "root['location']": 'San Francisco, California, U.S.', "root['num_employees']": '400 (September 2018)'}, 'values_changed': {"root['website_type']": {'new_value': 'Social news ', 'old_value': 'Social news'}}}
+930: {'values_changed': {"root['num_employees']": {'new_value': '400 (September 2018)', 'old_value': '700 (February 2021)'}}}
+999: {'dictionary_item_removed': {"root['users']": '52 million DAU (Oct 2020)'}}
+1161: {'dictionary_item_added': {"root['owner']": 'Advance Publications (majority shareholder)'}, 'values_changed': {"root['num_employees']": {'new_value': '700 (February 2021)', 'old_value': '3.021 (June 2023)'}, "root['users']": {'new_value': '52 million DAU (Oct 2020)', 'old_value': '52 million DAU'}}}
+1168: {'values_changed': {"root['users']": {'new_value': '52 million DAU', 'old_value': '52 million (Oct 2020) DAU'}}}
+1169: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Worldwide, except for Indonesia, Turkey, and China.'}}}
+1171: {'values_changed': {"root['num_employees']": {'new_value': '3.021 (June 2023)', 'old_value': '700 (February 2021)'}}}
+1175: {'values_changed': {"root['num_employees']": {'new_value': '700 (February 2021)', 'old_value': '3.023 (June 2023)'}}}
+1177: {'values_changed': {"root['num_employees']": {'new_value': '3.023 (June 2023)', 'old_value': '2,000 (June 2023)'}}}
+1283: {'dictionary_item_removed': {"root['owner']": 'Advance Publications (majority shareholder)'}}
+1289: {'dictionary_item_added': {"root['location']": 'San Francisco, California, U.S.'}, 'dictionary_item_removed': {"root['locations']": '5', "root['equity']": 'US$15.0 billion (2023)'}, 'values_changed': {"root['owner']": {'new_value': 'Advance Publications (majority shareholder)', 'old_value': 'Advance Publications (30%)  , Tencent (5%)'}}}
+1336: {'dictionary_item_added': {"root['equity']": 'US$15.0 billion (2023)'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide, except for Indonesia, Turkey, and China.', 'old_value': 'Worldwide, except for Indonesia, and China.'}}}
+1337: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide, except for Indonesia, and China.', 'old_value': 'Worldwide, except for Indonesia and China.'}}}

@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Omgpop', "root['owner']": 'Zynga', "root['alexa']": 'http://www.alexa.com/siteinfo/omgpop.com 9,928', "root['slogan']": 'Play games. Meet people. Hang out.', "root['address']": '132 Crosby St. New York, NY 10012 '}}
+8: {'dictionary_item_added': {"root['alexa']": 'http://www.alexa.com/siteinfo/omgpop.com 9,928', "root['address']": '132 Crosby St. New York, NY 10012 '}, 'dictionary_item_removed': {"root['logocaption']": 'Current logo', "root['content_licence']": '| programming language ='}}
+25: {'values_changed': {"root['name']": {'new_value': 'Omgpop', 'old_value': 'Omgpoop'}}}
+26: {'values_changed': {"root['name']": {'new_value': 'Omgpoop', 'old_value': 'Omgpop'}}}
+95: {'values_changed': {"root['owner']": {'new_value': 'Zynga', 'old_value': 'Oblivion Kingdoms'}}}
+99: {'values_changed': {"root['owner']": {'new_value': 'Oblivion Kingdoms', 'old_value': 'Zynga'}}}
+101: {'dictionary_item_removed': {"root['editor']": 'Charles Forman Dan Porter'}}
+124: {'values_changed': {"root['name']": {'new_value': 'Omgpop', 'old_value': 'OMGPop'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'OMGPop', 'old_value': 'OMGPo'}}}
+149: {'values_changed': {"root['name']": {'new_value': 'OMGPo', 'old_value': 'OMGPop'}}}
+150: {'values_changed': {"root['logocaption']": {'new_value': 'Current logo', 'old_value': 'Final logo'}}}
+158: {'dictionary_item_added': {"root['owner']": 'Zynga'}, 'values_changed': {"root['content_licence']": {'new_value': '| programming language =', 'old_value': '| programming language =  | owner of .us    = Hasan A. Ahmed | owner of .com   = Zynga'}}}
+159: {'dictionary_item_removed': {"root['owner']": 'Hasan A. Ahmed'}, 'values_changed': {"root['content_licence']": {'new_value': '| programming language =  | owner of .us    = Hasan A. Ahmed | owner of .com   = Zynga', 'old_value': '| programming language ='}}}
+160: {'values_changed': {"root['owner']": {'new_value': 'Hasan A. Ahmed', 'old_value': 'Albunnia'}}}
+161: {'values_changed': {"root['owner']": {'new_value': 'Albunnia', 'old_value': 'Hasan A. Ahmed'}}}
+200: {'values_changed': {"root['content_licence']": {'new_value': '| programming language =', 'old_value': '| programming language =  | Founder(s)      = Hasan A. Ahmed'}, "root['owner']": {'new_value': 'Hasan A. Ahmed', 'old_value': 'Zynga Inc.'}}}
+201: {'values_changed': {"root['content_licence']": {'new_value': '| programming language =  | Founder(s)      = Hasan A. Ahmed', 'old_value': '| programming language ='}}}
+210: {'values_changed': {"root['name']": {'new_value': 'OMGPop', 'old_value': 'OMGPOP'}}}
+214: {'values_changed': {"root['name']": {'new_value': 'OMGPOP', 'old_value': 'OMGPop'}}}

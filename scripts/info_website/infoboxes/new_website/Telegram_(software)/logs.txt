@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['name']": 'Telegram', "root['developer']": 'Telegram LLC', "root['released']": '| frequently updated = yes  | programming language =', "root['genre']": 'Instant messaging', "root['license']": 'Proprietary'}}
+1: {'values_changed': {"root['license']": {'new_value': 'Proprietary', 'old_value': 'Partially  open source'}}}
+2: {'values_changed': {"root['license']": {'new_value': 'Partially  open source', 'old_value': 'Partially open source'}}}
+116: {'values_changed': {"root['license']": {'new_value': 'Partially open source', 'old_value': 'GNU GPL2'}}}
+117: {'values_changed': {"root['license']": {'new_value': 'GNU GPL2', 'old_value': 'GNU GPL2 (client), closed source (server)'}}}
+126: {'values_changed': {"root['name']": {'new_value': 'Telegram', 'old_value': 'TelegraSanju'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'TelegraSanju', 'old_value': 'Telegra'}}}
+186: {'values_changed': {"root['developer']": {'new_value': 'Telegram LLC', 'old_value': 'Telegram Messenger LLP'}}}
+342: {'values_changed': {"root['name']": {'new_value': 'Telegra', 'old_value': 'Telegram'}, "root['released']": {'new_value': '| frequently updated = yes  | programming language =', 'old_value': 'frequently updated     = yes | programming language'}, "root['license']": {'new_value': 'GNU GPL2 (client), closed source (server)', 'old_value': 'GPL v2 (client), closed source (server)'}}}
+360: {'dictionary_item_removed': {"root['status']": 'Active'}}
+416: {'dictionary_item_added': {"root['released']": 'frequently updated     = yes | programming language', "root['status']": 'Active'}, 'dictionary_item_removed': {"root['operating_system']": 'Android, iOS, Windows Phone, Ubuntu Touch, Firefox OS,  MS Windows, Linux, OS X'}, 'values_changed': {"root['license']": {'new_value': 'GPL v2 (client), closed source (server)', 'old_value': 'Multiple (client)  Closed-source (server) | latest release version = '}}}
+470: {'dictionary_item_removed': {"root['status']": 'Active'}}
+471: {'values_changed': {"root['license']": {'new_value': 'Multiple (client)  Closed-source (server) | latest release version = ', 'old_value': 'latest release version = '}}}
+554: {'dictionary_item_added': {"root['license']": 'latest release version = '}, 'dictionary_item_removed': {"root['released']": 'latest release version = '}, 'values_changed': {"root['operating_system']": {'new_value': 'Android, iOS, Windows Phone, Ubuntu Touch, Firefox OS,  MS Windows, Linux, OS X', 'old_value': 'Android, iOS, Windows Phone, Ubuntu Touch, Firefox OS,  MS Windows, Linux, OS X '}}}
+569: {'values_changed': {"root['operating_system']": {'new_value': 'Android, iOS, Windows Phone, Ubuntu Touch, Firefox OS,  MS Windows, Linux, OS X ', 'old_value': 'Cross-platform  '}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Telegram', 'old_value': 'Telegram by Atanu'}}}
+613: {'values_changed': {"root['name']": {'new_value': 'Telegram by Atanu', 'old_value': 'Telegram software'}}}
+614: {'values_changed': {"root['name']": {'new_value': 'Telegram software', 'old_value': 'Telegram qwerty'}}}
+615: {'values_changed': {"root['name']": {'new_value': 'Telegram qwerty', 'old_value': "Telegram(based on Atanu's Quantum Theory)"}}}
+617: {'values_changed': {"root['name']": {'new_value': "Telegram(based on Atanu's Quantum Theory)", 'old_value': 'Telegram'}}}
+630: {'values_changed': {"root['genre']": {'new_value': 'Instant messaging', 'old_value': 'International messaging'}}}
+631: {'values_changed': {"root['genre']": {'new_value': 'International messaging', 'old_value': 'Instant messaging'}}}
+632: {'values_changed': {"root['genre']": {'new_value': 'Instant messaging', 'old_value': 'International messaging'}}}
+633: {'values_changed': {"root['genre']": {'new_value': 'International messaging', 'old_value': 'Instant messaging'}}}
+664: {'dictionary_item_added': {"root['status']": 'Active', "root['operating_system']": 'Cross-platform  '}, 'dictionary_item_removed': {"root['platform']": 'Web platform, Windows NT, macOS, Linux, Android, iOS, Windows Phone'}, 'values_changed': {"root['released']": {'new_value': 'latest release version = ', 'old_value': 'ver layout             = stack'}}}
+680: {'values_changed': {"root['released']": {'new_value': 'ver layout             = stack', 'old_value': 'ver layout = stack'}}}
+685: {'values_changed': {"root['platform']": {'new_value': 'Web platform, Windows NT, macOS, Linux, Android, iOS, Windows Phone', 'old_value': 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, Web platform'}}}
+752: {'values_changed': {"root['name']": {'new_value': 'Telegram', 'old_value': 'Tele'}}}
+753: {'values_changed': {"root['name']": {'new_value': 'Tele', 'old_value': 'Telegram'}}}
+853: {'values_changed': {"root['developer']": {'new_value': 'Telegram Messenger LLP', 'old_value': 'Telegram FZ LLC'}}}
+887: {'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC', 'old_value': 'Telegram FZ LLC, Telegram Messenger Inc.'}}}
+936: {'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC, Telegram Messenger Inc.', 'old_value': 'Telegram FZ LLC, Telegram Messenger Inc. (A Divison of DT Publishing Group)'}}}
+988: {'values_changed': {"root['platform']": {'new_value': 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, Web platform', 'old_value': 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, uWeb platform'}}}
+989: {'values_changed': {"root['platform']": {'new_value': 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, uWeb platform', 'old_value': 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, Web platform'}}}
+991: {'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC, Telegram Messenger Inc. (A Divison of DT Publishing Group)', 'old_value': 'Telegram FZ LLC, Telegram Messenger Inc.'}}}
+1038: {'dictionary_item_added': {"root['platform']": 'Android, iOS, Windows Phone, Windows NT, macOS, Linux, Web platform'}, 'values_changed': {"root['released']": {'new_value': 'ver layout = stack', 'old_value': 'ver layout = stacked | programming language = C'}}}
+1137: {'dictionary_item_removed': {"root['repo']": 'programming language = C', "root['license']": 'GNU GPLv2 or GPLv3 (clients), '}, 'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC, Telegram Messenger Inc.', 'old_value': 'Telegram FZ LLC Telegram Messenger Inc.'}, "root['released']": {'new_value': 'ver layout = stacked | programming language = C', 'old_value': 'ver layout = stack'}}}
+1215: {'values_changed': {"root['repo']": {'new_value': 'programming language = C', 'old_value': 'programming language = C++ , C , Java'}}}
+1216: {'values_changed': {"root['repo']": {'new_value': 'programming language = C++ , C , Java', 'old_value': 'programming language = C++ , C , Java (programming language)'}}}
+1217: {'values_changed': {"root['repo']": {'new_value': 'programming language = C++ , C , Java (programming language)', 'old_value': 'programming language = C++ , C , Ja'}}}
+1309: {'values_changed': {"root['repo']": {'new_value': 'programming language = C++ , C , Ja', 'old_value': 'programming language = C++ , C , Java, Node'}}}
+1311: {'values_changed': {"root['repo']": {'new_value': 'programming language = C++ , C , Java, Node', 'old_value': 'programming language = C++ , C , Ja'}}}
+1386: {'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC Telegram Messenger Inc.', 'old_value': 'Telegram FZ LLC by Narendra Modi Telegram Messenger Inc.'}}}
+1387: {'values_changed': {"root['developer']": {'new_value': 'Telegram FZ LLC by Narendra Modi Telegram Messenger Inc.', 'old_value': 'Telegram FZ LLC Telegram Messenger Inc.'}}}
+1403: {'values_changed': {"root['repo']": {'new_value': 'programming language = C++ , C , Ja', 'old_value': '| programming language = C++ , C , Java'}}}
+1540: {'values_changed': {"root['repo']": {'new_value': '| programming language = C++ , C , Java', 'old_value': '| programming language = C++, C, Java'}}}
+1548: {'values_changed': {"root['repo']": {'new_value': '| programming language = C++, C, Java', 'old_value': '| programming language = Desktop : C++, C Android : Java  IOS : Swift'}}}
+1549: {'values_changed': {"root['repo']": {'new_value': '| programming language = Desktop : C++, C Android : Java  IOS : Swift', 'old_value': '| programming language = Desktop : C++, C, Java, Python  Android : Java  IOS : Swift'}}}
+1557: {'values_changed': {"root['name']": {'new_value': 'Telegram', 'old_value': 'HOW TO'}}}
+1558: {'values_changed': {"root['name']": {'new_value': 'HOW TO', 'old_value': 'Telegram'}}}
+1582: {'dictionary_item_removed': {"root['country']": 'Russia'}}
+1606: {'dictionary_item_added': {"root['country']": 'Russia'}, 'values_changed': {"root['license']": {'new_value': 'GNU GPLv2 or GPLv3 (clients), ', 'old_value': 'GNU GPLv3 only with OpenSSL linking exception (clients), '}}}

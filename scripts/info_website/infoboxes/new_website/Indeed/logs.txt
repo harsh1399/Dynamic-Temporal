@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Indeed', "root['num_employees']": '10,000', "root['owner']": 'Recruit'}}
+9: {'values_changed': {"root['num_employees']": {'new_value': '10,000', 'old_value': '11,500+'}}}
+21: {'values_changed': {"root['name']": {'new_value': 'Indeed', 'old_value': 'google'}}}
+22: {'values_changed': {"root['name']": {'new_value': 'google', 'old_value': 'Indeed'}}}
+29: {'values_changed': {"root['num_employees']": {'new_value': '11,500+', 'old_value': '12,200+'}}}
+52: {'values_changed': {"root['num_employees']": {'new_value': '12,200+', 'old_value': '14,600+'}}}

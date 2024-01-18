@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pickaboo.com', "root['slogan']": 'Delivering Happiness', "root['services']": 'Online shopping', "root['headquarter']": 'Dhaka, Bangladesh', "root['Founder']": ', Arun Gupta,Chairman , Jakaria Shahid, Managing Director', "root['Employees']": '200 | Customer service'}}
+1: {'dictionary_item_added': {"root['slogan']": 'Delivering Happiness', "root['headquarter']": 'Dhaka, Bangladesh', "root['Founder']": ', Arun Gupta,Chairman , Jakaria Shahid, Managing Director', "root['Employees']": '200 | Customer service'}, 'dictionary_item_removed': {"root['employees']": '200 '}}
+13: {'dictionary_item_removed': {"root['CEO']": 'Shahrear Sattar, CEO |'}, 'values_changed': {"root['employees']": {'new_value': '200 ', 'old_value': '200'}}}
+17: {'values_changed': {"root['CEO']": {'new_value': 'Shahrear Sattar, CEO |', 'old_value': 'Ahmed Pasha, CEO |'}}}
+18: {'dictionary_item_removed': {"root['key_people']": 'Morin Talukder (Head of Marketing) '}, 'values_changed': {"root['CEO']": {'new_value': 'Ahmed Pasha, CEO |', 'old_value': 'Ahmed Pasha, CEO'}}}
+19: {'values_changed': {"root['key_people']": {'new_value': 'Morin Talukder (Head of Marketing) ', 'old_value': 'Morin Talukder (Head of Products & Campaign) Nahid Chowdhury ( Manager, Business Development) Ershad Ahamed ( Head of SCM) '}}}
+20: {'values_changed': {"root['key_people']": {'new_value': 'Morin Talukder (Head of Products & Campaign) Nahid Chowdhury ( Manager, Business Development) Ershad Ahamed ( Head of SCM) ', 'old_value': 'Morin Talukder (Head of Products & Campaign), Nahid Chowdhury ( Manager, Business Development), Ershad Ahamed ( Head of SCM) '}}}
+21: {'values_changed': {"root['key_people']": {'new_value': 'Morin Talukder (Head of Products & Campaign), Nahid Chowdhury ( Manager, Business Development), Ershad Ahamed ( Head of SCM) ', 'old_value': ', Morin Talukder (Head of Products & Campaign) , Nahid Chowdhury (Manager, Business Development)  , Ershad Ahamed (Head of SCM) '}}}
+22: {'values_changed': {"root['key_people']": {'new_value': ', Morin Talukder (Head of Products & Campaign) , Nahid Chowdhury (Manager, Business Development)  , Ershad Ahamed (Head of SCM) ', 'old_value': ', Morin Talukder, Additional General Manager |'}}}
+34: {'values_changed': {"root['key_people']": {'new_value': ', Morin Talukder, Additional General Manager |', 'old_value': ', Morin Talukder, Chief Product Officer |'}}}
+35: {'dictionary_item_added': {"root['key_people']": ', Morin Talukder, Chief Product Officer |'}, 'dictionary_item_removed': {"root['CPO']": ', Morin Talukder,CPO  |'}}
+36: {'values_changed': {"root['employees']": {'new_value': '200', 'old_value': '200+'}}}
+37: {'dictionary_item_added': {"root['CPO']": ', Morin Talukder,CPO  |'}, 'dictionary_item_removed': {"root['key_people']": 'Morin Talukder, CPOda'}}
+39: {'values_changed': {"root['key_people']": {'new_value': 'Morin Talukder, CPOda', 'old_value': 'Morin Talukder, CPO  |'}}}
+40: {'dictionary_item_added': {"root['key_people']": 'Morin Talukder, CPO  |'}, 'dictionary_item_removed': {"root['CPO']": 'Morin Talukder, CPO  |'}}
+41: {'dictionary_item_removed': {"root['owner']": 'Silver Water Technologies Bangladesh Limited'}}
+42: {'dictionary_item_added': {"root['CPO']": 'Morin Talukder, CPO  |'}, 'dictionary_item_removed': {"root['key_people']": 'Morin Talukder, CPO  |'}}
+53: {'values_changed': {"root['name']": {'new_value': 'Pickaboo.com', 'old_value': 'Jaagodeal.com'}}}
+54: {'values_changed': {"root['name']": {'new_value': 'Jaagodeal.com', 'old_value': 'Pickaboo.com'}}}
+57: {'dictionary_item_added': {"root['key_people']": 'Morin Talukder, CPO  |'}, 'values_changed': {"root['CEO']": {'new_value': 'Ahmed Pasha, CEO', 'old_value': 'Morin Talukder, CEO  |'}}}

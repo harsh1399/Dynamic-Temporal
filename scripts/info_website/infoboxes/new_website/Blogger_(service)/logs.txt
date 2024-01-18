@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['name']": 'Blogger', "root['owner']": 'Google Inc.', "root['alexa']": '7 |'}}
+53: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'Vikas Jain'}}}
+54: {'values_changed': {"root['name']": {'new_value': 'Vikas Jain', 'old_value': 'Blogger'}}}
+83: {'values_changed': {"root['alexa']": {'new_value': '7 |', 'old_value': '8 |'}}}
+206: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'pankaj Saini'}, "root['owner']": {'new_value': 'Google Inc.', 'old_value': 'Pankaj Saini'}}}
+209: {'values_changed': {"root['name']": {'new_value': 'pankaj Saini', 'old_value': 'Blogger'}, "root['owner']": {'new_value': 'Pankaj Saini', 'old_value': 'Google Inc.'}}}
+213: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'http://www.freeblogtraffic.info/ Blogger'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'http://www.freeblogtraffic.info/ Blogger', 'old_value': 'Blogger'}}}
+224: {'values_changed': {"root['alexa']": {'new_value': '8 |', 'old_value': '7 |'}}}
+249: {'values_changed': {"root['alexa']": {'new_value': '7 |', 'old_value': '6 |'}}}
+251: {'values_changed': {"root['alexa']": {'new_value': '6 |', 'old_value': '02|a'}}}
+259: {'dictionary_item_removed': {"root['URL']": 'http://www.blogger.com/ www.blogger.com'}}
+262: {'values_changed': {"root['alexa']": {'new_value': '02|a', 'old_value': '03|a'}}}
+270: {'values_changed': {"root['alexa']": {'new_value': '03|a', 'old_value': '04|a'}}}
+296: {'dictionary_item_added': {"root['URL']": 'http://www.blogger.com/ www.blogger.com'}, 'values_changed': {"root['alexa']": {'new_value': '04|a', 'old_value': '06|a'}}}
+304: {'values_changed': {"root['alexa']": {'new_value': '06|a', 'old_value': '7|6|a'}}}
+309: {'values_changed': {"root['alexa']": {'new_value': '7|6|a', 'old_value': '7|12|a'}}}
+319: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+322: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'Bloggerdsfgdsgdfgfgfgfd'}}}
+323: {'values_changed': {"root['name']": {'new_value': 'Bloggerdsfgdsgdfgfgfgfd', 'old_value': 'Blogger'}}}
+325: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'kumar udayappan (குமார் உடையப்பன்'}}}
+326: {'values_changed': {"root['name']": {'new_value': 'kumar udayappan (குமார் உடையப்பன்', 'old_value': 'Blogger'}}}
+328: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+334: {'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '9|14|a'}}}
+335: {'values_changed': {"root['alexa']": {'new_value': '9|14|a', 'old_value': '9|18|a'}}}
+344: {'values_changed': {"root['alexa']": {'new_value': '9|18|a', 'old_value': '10|2|a'}}}
+350: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '10|11|a'}}}
+358: {'values_changed': {"root['alexa']": {'new_value': '10|11|a', 'old_value': '11|2|a'}}}
+360: {'values_changed': {"root['alexa']": {'new_value': '11|2|a', 'old_value': '9|18|a'}}}
+364: {'values_changed': {"root['alexa']": {'new_value': '9|18|a', 'old_value': '11|9|a'}}}
+365: {'values_changed': {"root['alexa']": {'new_value': '11|9|a', 'old_value': '9|18|a'}}}
+366: {'values_changed': {"root['alexa']": {'new_value': '9|18|a', 'old_value': '11|9|a'}}}
+380: {'values_changed': {"root['alexa']": {'new_value': '11|9|a', 'old_value': '12|2|a'}}}
+383: {'values_changed': {"root['alexa']": {'new_value': '12|2|a', 'old_value': '12|7|a'}}}
+390: {'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'Blogger For an example of what a blog looks like please click the link  http://www.blogger.com/blogger.g?blogID=3489500183942853696#editor/target=post;postID=6625975540828630512'}}}
+391: {'values_changed': {"root['name']": {'new_value': 'Blogger For an example of what a blog looks like please click the link  http://www.blogger.com/blogger.g?blogID=3489500183942853696#editor/target=post;postID=6625975540828630512', 'old_value': 'Blogger'}}}
+397: {'dictionary_item_removed': {"root['developer']": 'Pyra Labs'}, 'values_changed': {"root['name']": {'new_value': 'Blogger', 'old_value': 'Hassan rasheed'}, "root['owner']": {'new_value': 'Google Inc.', 'old_value': 'Google'}, "root['alexa']": {'new_value': '12|7|a', 'old_value': '11|09|a'}}}
+402: {'values_changed': {"root['name']": {'new_value': 'Hassan rasheed', 'old_value': 'skp'}}}
+413: {'dictionary_item_added': {"root['name']": 'skp'}, 'values_changed': {"root['alexa']": {'new_value': '11|09|a', 'old_value': '03|22|a'}}}
+416: {'values_changed': {"root['alexa']": {'new_value': '03|22|a', 'old_value': '04|07|a'}}}
+417: {'values_changed': {"root['alexa']": {'new_value': '04|07|a', 'old_value': '04|06|a'}}}

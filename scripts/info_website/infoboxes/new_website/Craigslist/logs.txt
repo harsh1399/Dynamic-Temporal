@@ -1,0 +1,59 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Craigslist Inc.', "root['foundation']": '1999', "root['area_served']": '450 cities in 50 countries', "root['key_people']": 'Jim Buckmaster (CEO)', "root['revenue']": 'not published', "root['num_employees']": '24', "root['website_type']": 'classifieds, forums'}}
+26: {'values_changed': {"root['num_employees']": {'new_value': '24', 'old_value': '25'}}}
+62: {'dictionary_item_removed': {"root['alexa']": '<100'}}
+84: {'values_changed': {"root['area_served']": {'new_value': '450 cities in 50 countries', 'old_value': '450 cities in 50 countries Small Text'}}}
+85: {'values_changed': {"root['area_served']": {'new_value': '450 cities in 50 countries Small Text', 'old_value': '450 cities in 50 countries'}}}
+86: {'values_changed': {"root['company_name']": {'new_value': 'Craigslist Inc.', 'old_value': 'graigslist Inc.'}}}
+87: {'values_changed': {"root['company_name']": {'new_value': 'graigslist Inc.', 'old_value': 'craigslist Inc.'}}}
+88: {'values_changed': {"root['company_name']": {'new_value': 'craigslist Inc.', 'old_value': 'Craigslist Inc.'}}}
+101: {'values_changed': {"root['revenue']": {'new_value': 'not published', 'old_value': '$800 Million'}}}
+102: {'values_changed': {"root['revenue']": {'new_value': '$800 Million', 'old_value': 'not published'}}}
+104: {'values_changed': {"root['foundation']": {'new_value': '1999', 'old_value': '1995 (Incorporated 1999)'}}}
+152: {'dictionary_item_added': {"root['num_employees']": '25'}, 'dictionary_item_removed': {"root['owner']": 'fart is crap and i suck things'}}
+153: {'dictionary_item_added': {"root['owner']": 'fart is crap and i suck things'}, 'dictionary_item_removed': {"root['num_employees']": '25'}}
+154: {'dictionary_item_removed': {"root['owner']": 'Craig Newmark'}}
+155: {'dictionary_item_added': {"root['owner']": 'Craig Newmark'}, 'values_changed': {"root['foundation']": {'new_value': '1995 (Incorporated 1999)', 'old_value': '1995 (Incorporated 1999) | founder & Owner = Craig Newmark'}}}
+156: {'values_changed': {"root['foundation']": {'new_value': '1995 (Incorporated 1999) | founder & Owner = Craig Newmark', 'old_value': '1995 (Incorporated 1999) | founder and owner =          Craig Newmark'}}}
+157: {'dictionary_item_removed': {"root['owner']": 'Craig Newmark'}, 'values_changed': {"root['foundation']": {'new_value': '1995 (Incorporated 1999) | founder and owner =          Craig Newmark', 'old_value': '1995 (Incorporated 1999)'}}}
+168: {'dictionary_item_removed': {"root['company_logo']": 'center'}}
+263: {'dictionary_item_added': {"root['alexa']": '<100'}, 'values_changed': {"root['key_people']": {'new_value': 'Jim Buckmaster (CEO)', 'old_value': 'Jim Buckmaster (CEO) Eric Scheide (CTO) Clint Powell (CS mgr) Sean ? (Net mgr) Russell (emerson) (programmer)'}}}
+264: {'values_changed': {"root['key_people']": {'new_value': 'Jim Buckmaster (CEO) Eric Scheide (CTO) Clint Powell (CS mgr) Sean ? (Net mgr) Russell (emerson) (programmer)', 'old_value': 'Jim Buckmaster (CEO)'}}}
+287: {'dictionary_item_removed': {"root['products']": 'wwe'}, 'values_changed': {"root['num_employees']": {'new_value': '25', 'old_value': '13'}}}
+288: {'dictionary_item_added': {"root['products']": 'wwe'}, 'values_changed': {"root['num_employees']": {'new_value': '13', 'old_value': '25'}}}
+353: {'values_changed': {"root['area_served']": {'new_value': '450 cities in 50 countries', 'old_value': '450 cities in 50 states'}}}
+354: {'values_changed': {"root['area_served']": {'new_value': '450 cities in 50 states', 'old_value': '450 cities in 50 countries'}}}
+364: {'values_changed': {"root['foundation']": {'new_value': '1995 (Incorporated 1999)', 'old_value': '1995 (incorporated 1999)'}, "root['revenue']": {'new_value': 'not published', 'old_value': 'Not published'}, "root['website_type']": {'new_value': 'classifieds, forums', 'old_value': 'Classifieds, forums'}}}
+373: {'dictionary_item_added': {"root['revenue']": 'Not published', "root['owner']": 'Craig Newmark'}, 'dictionary_item_removed': {"root['services']": 'Web Communications', "root['alexa']": '41 |'}, 'values_changed': {"root['area_served']": {'new_value': '450 cities in 50 countries', 'old_value': '570 cities in 50 countries'}, "root['num_employees']": {'new_value': '25', 'old_value': '32'}}}
+374: {'values_changed': {"root['alexa']": {'new_value': '41 |', 'old_value': '36 |'}}}
+464: {'values_changed': {"root['alexa']": {'new_value': '36 |', 'old_value': '7|12|a'}}}
+483: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+492: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+501: {'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|2|a'}}}
+516: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '11|2|a'}}}
+560: {'dictionary_item_added': {"root['foundation']": '1995 (incorporated 1999)', "root['website_type']": 'Classifieds, forums'}, 'values_changed': {"root['services']": {'new_value': 'Web Communications', 'old_value': 'Web communications'}, "root['num_employees']": {'new_value': '32', 'old_value': '30+'}, "root['alexa']": {'new_value': '11|2|a', 'old_value': '9|27|a'}}}
+562: {'dictionary_item_added': {"root['company_name']": 'Craigslist Inc.', "root['company_logo']": 'center'}, 'dictionary_item_removed': {"root['name']": 'Craigslist Inc.'}}
+571: {'values_changed': {"root['area_served']": {'new_value': '570 cities in 50 countries', 'old_value': '570 cities in 70 countries'}}}
+573: {'values_changed': {"root['alexa']": {'new_value': '9|27|a', 'old_value': '8|15|a'}}}
+597: {'dictionary_item_added': {"root['alexa']": '8|15|a'}, 'dictionary_item_removed': {"root['revenue']": 'Increase US$ 381 million (2015)', "root['website_type']": 'Classifieds, forums'}}
+599: {'values_changed': {"root['services']": {'new_value': 'Web communications', 'old_value': 'Web communication'}}}
+600: {'values_changed': {"root['services']": {'new_value': 'Web communication', 'old_value': 'Web communications'}}}
+608: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 381 million (2015)', 'old_value': 'Increase US$ 38100000000000000000000 billion (2015)'}}}
+609: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 38100000000000000000000 billion (2015)', 'old_value': 'Increase US$ 381 million (2015)'}}}
+614: {'values_changed': {"root['area_served']": {'new_value': '570 cities in 70 countries', 'old_value': '57000 cities in 70 countries'}}}
+615: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 381 million (2015)', 'old_value': 'Increase UkS$ 381 million (2015)'}}}
+616: {'values_changed': {"root['revenue']": {'new_value': 'Increase UkS$ 381 million (2015)', 'old_value': 'Increase US$ 381 million (2015)'}}}
+633: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 381 million (2015)', 'old_value': 'Increase US$ 290 million (2017)'}}}
+635: {'dictionary_item_removed': {"root['net_income']": 'US$ 500 million (2016)'}, 'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 290 million (2017)', 'old_value': 'Increase US$ 694 million (2016)'}}}
+636: {'values_changed': {"root['num_employees']": {'new_value': '30+', 'old_value': '50 (2017)'}}}
+640: {'values_changed': {"root['name']": {'new_value': 'Craigslist Inc.', 'old_value': 'Craigslisth Inc.'}}}
+642: {'values_changed': {"root['name']": {'new_value': 'Craigslisth Inc.', 'old_value': 'Craigslist Inc.'}}}
+688: {'values_changed': {"root['area_served']": {'new_value': '57000 cities in 70 countries', 'old_value': '570 cities in 70 countries'}}}
+758: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$ 694 million (2016)', 'old_value': 'Increase US$694 million (2016)'}, "root['net_income']": {'new_value': 'US$ 500 million (2016)', 'old_value': 'US$500 million (2016)'}}}
+786: {'values_changed': {"root['name']": {'new_value': 'Craigslist Inc.', 'old_value': 'Trump Inc.'}}}
+788: {'values_changed': {"root['name']": {'new_value': 'Trump Inc.', 'old_value': 'Craigslist Inc.'}}}
+896: {'values_changed': {"root['name']": {'new_value': 'Craigslist Inc.', 'old_value': 'C'}}}
+897: {'values_changed': {"root['name']": {'new_value': 'C', 'old_value': 'Craigslist Inc.'}}}
+1009: {'values_changed': {"root['net_income']": {'new_value': 'US$500 million (2016)', 'old_value': 'US$51 million (2016)'}}}
+1011: {'dictionary_item_added': {"root['net_income']": 'US$51 million (2016)'}, 'dictionary_item_removed': {"root['last']": 'Yltaevae', "root['first']": 'L.', "root['publisher']": '| access-date  = April 1, 2023'}, 'values_changed': {"root['revenue']": {'new_value': 'Increase US$694 million (2016)', 'old_value': 'US$660  |'}}}
+1013: {'values_changed': {"root['revenue']": {'new_value': 'US$660  |', 'old_value': 'US$660M  |'}}}
+1019: {'dictionary_item_added': {"root['last']": 'Yltaevae', "root['first']": 'L.', "root['publisher']": '| access-date  = April 1, 2023'}, 'values_changed': {"root['revenue']": {'new_value': 'US$660M  |', 'old_value': 'US$660M'}}}

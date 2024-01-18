@@ -1,0 +1,8 @@
+32: {'dictionary_item_removed': {"root['name']": 'Yahoo! Video', "root['owner']": 'Yahoo!'}}
+52: {'dictionary_item_removed': {"root['slogan']": "It's On"}}
+61: {'dictionary_item_added': {"root['slogan']": "It's On"}, 'values_changed': {"root['name']": {'new_value': 'Yahoo! Video', 'old_value': 'Yahoo! Screen'}}}
+69: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Screen', 'old_value': 'Yahoo Screen'}, "root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo'}}}
+72: {'values_changed': {"root['name']": {'new_value': 'Yahoo Screen', 'old_value': 'Yahoo! Screen'}, "root['owner']": {'new_value': 'Yahoo', 'old_value': 'Yahoo!'}}}
+88: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Screen', 'old_value': 'Yahoo! View'}}}
+111: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Verizon'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'Yahoo! View', 'old_value': 'Yahoo! Video, Screen, and View'}}}

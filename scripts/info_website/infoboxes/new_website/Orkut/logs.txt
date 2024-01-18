@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Orkut', "root['num_users']": '33 million', "root['headquarter']": 'Belo Horizonte, Brazil', "root['owner']": 'Google Inc.', "root['alexa']": '1|10|a'}}
+3: {'values_changed': {"root['alexa']": {'new_value': '1|10|a', 'old_value': '2|2|a'}}}
+8: {'dictionary_item_added': {"root['name']": 'Orkut', "root['num_users']": '33 million', "root['headquarter']": 'Belo Horizonte, Brazil'}, 'values_changed': {"root['owner']": {'new_value': 'Google Inc.', 'old_value': 'Google'}}}
+12: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|1|a'}}}
+38: {'dictionary_item_added': {"root['alexa']": '3|1|a'}, 'dictionary_item_removed': {"root['area_served']": 'United States (2004–05) Worldwide (2005–present)', "root['website_type']": 'Social networking service'}}
+39: {'values_changed': {"root['area_served']": {'new_value': 'United States (2004–05) Worldwide (2005–present)', 'old_value': 'Worldwide (2004–present)'}}}
+72: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide (2004–present)', 'old_value': 'Worldwide (2004–September 2014)'}}}
+102: {'dictionary_item_removed': {"root['slogan']": 'Orkut you can sign in!'}}
+103: {'dictionary_item_removed': {"root['defunct']": '2014'}}
+109: {'values_changed': {"root['defunct']": {'new_value': '2014', 'old_value': 'September 30th 2014'}}}
+113: {'dictionary_item_added': {"root['defunct']": 'September 30th 2014'}, 'dictionary_item_removed': {"root['style']": '"width:; float:right; font-size:85%; margin:0.25em 0 1em 1em;" |! colspan'}, 'values_changed': {"root['owner']": {'new_value': 'Google', 'old_value': 'Google.co.in'}}}
+114: {'dictionary_item_added': {"root['style']": '"width:; float:right; font-size:85%; margin:0.25em 0 1em 1em;" |! colspan'}, 'values_changed': {"root['owner']": {'new_value': 'Google.co.in', 'old_value': 'Google'}}}
+129: {'dictionary_item_removed': {"root['fate']": 'Closed'}}
+134: {'values_changed': {"root['fate']": {'new_value': 'Closed', 'old_value': 'Offline'}}}
+140: {'dictionary_item_added': {"root['fate']": 'Offline'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide (2004–September 2014)', 'old_value': 'Worldwide'}}}

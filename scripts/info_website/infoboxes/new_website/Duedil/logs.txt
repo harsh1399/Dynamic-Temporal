@@ -1,0 +1,6 @@
+3: {'dictionary_item_removed': {"root['name']": 'Duedil', "root['revenue']": '|current status  = Open beta'}}
+14: {'values_changed': {"root['name']": {'new_value': 'Duedil', 'old_value': 'DueDil'}, "root['revenue']": {'new_value': '|current status  = Open beta', 'old_value': '|current status  ='}}}
+20: {'dictionary_item_removed': {"root['CEO']": 'Justin Fitzpatrick '}, 'values_changed': {"root['revenue']": {'new_value': '|current status  =', 'old_value': '| current status ='}}}
+21: {'dictionary_item_removed': {"root['num_employees']": '110 (2019)'}, 'values_changed': {"root['revenue']": {'new_value': '| current status =', 'old_value': '£4.1 million (2017) | current status ='}}}
+22: {'dictionary_item_added': {"root['CEO']": 'Justin Fitzpatrick '}, 'dictionary_item_removed': {"root['key_people']": 'Justin Fitzpatrick (CEO) '}}
+30: {'values_changed': {"root['revenue']": {'new_value': '£4.1 million (2017) | current status =', 'old_value': '£4.1 million (2017)'}}}

@@ -1,0 +1,10 @@
+149: {'dictionary_item_removed': {"root['name']": 'Liveleak', "root['owner']": 'Unknown'}}
+209: {'dictionary_item_added': {"root['name']": 'Liveleak'}, 'dictionary_item_removed': {"root['company_name']": 'LiveLeak', "root['company_logo']": 'Liveleak logo'}}
+227: {'values_changed': {"root['owner']": {'new_value': 'Unknown', 'old_value': 'Beyond Vision Solutions Ltd'}}}
+238: {'dictionary_item_removed': {"root['area_served']": 'Worldwide', "root['company_slogan']": 'Redefining The Media', "root['foundation']": 'October 2006'}}
+244: {'values_changed': {"root['owner']": {'new_value': 'Beyond Vision Solutions Ltd', 'old_value': 'Unknown.'}}}
+245: {'values_changed': {"root['owner']": {'new_value': 'Unknown.', 'old_value': 'Unknown'}}}
+264: {'dictionary_item_added': {"root['company_name']": 'LiveLeak', "root['company_logo']": 'Liveleak logo', "root['foundation']": 'October 2006'}, 'dictionary_item_removed': {"root['name']": 'LiveLeak'}}
+286: {'dictionary_item_removed': {"root['foundation']": '|'}}
+345: {'dictionary_item_added': {"root['company_slogan']": 'Redefining The Media'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'nans vagina Worldwide'}}}
+346: {'values_changed': {"root['area_served']": {'new_value': 'nans vagina Worldwide', 'old_value': 'Worldwide'}}}

@@ -1,0 +1,5 @@
+8: {'dictionary_item_removed': {"root['name']": 'Sway'}}
+11: {'dictionary_item_removed': {"root['owner']": 'Microsoft'}}
+15: {'dictionary_item_removed': {"root['num_users']": 'All', "root['content_license']": '2014', "root['editor']": 'Satya Nadella', "root['revenue']": 'Yes', "root['ip']": 'Yes'}}
+20: {'dictionary_item_added': {"root['num_users']": 'All', "root['content_license']": '2014', "root['editor']": 'Satya Nadella', "root['revenue']": 'Yes', "root['ip']": 'Yes'}, 'dictionary_item_removed': {"root['slogan']": 'Reimagine the way your ideas come to life.'}}
+25: {'dictionary_item_added': {"root['slogan']": 'Reimagine the way your ideas come to life.'}, 'values_changed': {"root['name']": {'new_value': 'Sway', 'old_value': 'Office Sway'}}}

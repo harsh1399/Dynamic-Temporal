@@ -1,0 +1,14 @@
+2: {'dictionary_item_removed': {"root['name']": 'SCP Foundation'}}
+15: {'dictionary_item_removed': {"root['products']": 'To protect humanity from paranormal entities', "root['motto']": 'Secure, Contain, Protect'}}
+26: {'dictionary_item_added': {"root['products']": 'To protect humanity from paranormal entities'}, 'dictionary_item_removed': {"root['location']": 'Global', "root['leader']": '0-5 Command', "root['purpose']": 'To contain anomalous entities and protect humanity'}}
+32: {'values_changed': {"root['leader']": {'new_value': '0-5 Command', 'old_value': '05 Command'}}}
+34: {'values_changed': {"root['purpose']": {'new_value': 'To contain anomalous entities and protect humanity', 'old_value': ',To secure and contain anomalous entities  ,To protect humanity from anomalies'}}}
+50: {'dictionary_item_added': {"root['location']": 'Global', "root['leader']": '05 Command', "root['purpose']": ',To secure and contain anomalous entities  ,To protect humanity from anomalies', "root['motto']": 'Secure, Contain, Protect'}, 'dictionary_item_removed': {"root['slogan']": 'Secure, Contain, Protect', "root['content_license']": 'CC Attribution / Share-Alike 3.0'}}
+197: {'dictionary_item_removed': {"root['alexa']": '39,639 ('}}
+311: {'dictionary_item_added': {"root['alexa']": '39,639 ('}, 'values_changed': {"root['name']": {'new_value': 'SCP Foundation', 'old_value': 'My mom'}}}
+312: {'values_changed': {"root['name']": {'new_value': 'My mom', 'old_value': 'SCP Foundation'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'SCP Foundation', 'old_value': 'This Is my wiki now.'}}}
+315: {'values_changed': {"root['slogan']": {'new_value': 'Secure, Contain, Protect', 'old_value': 'Visit,Break,Terminate'}}}
+316: {'dictionary_item_added': {"root['slogan']": 'Visit,Break,Terminate'}, 'dictionary_item_removed': {"root['blogan']": 'Visit,Break,Terminate'}}
+317: {'dictionary_item_added': {"root['blogan']": 'Visit,Break,Terminate'}, 'dictionary_item_removed': {"root['slogan']": 'Secure, Contain, Protect'}, 'values_changed': {"root['name']": {'new_value': 'This Is my wiki now.', 'old_value': 'SCP Foundation'}}}
+588: {'dictionary_item_added': {"root['slogan']": 'Secure, Contain, Protect'}, 'values_changed': {"root['content_license']": {'new_value': 'CC Attribution / Share-Alike 3.0', 'old_value': 'CC-BY-SA-3.0'}}}

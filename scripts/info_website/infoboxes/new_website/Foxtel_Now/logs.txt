@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Foxtel Now', "root['hq_location']": 'Sydney, NSW, Australia', "root['products']": 'Internet television', "root['owner']": 'Foxtel'}}
+19: {'dictionary_item_added': {"root['hq_location']": 'Sydney, NSW, Australia', "root['products']": 'Internet television'}, 'dictionary_item_removed': {"root['location']": 'Sydney, New South Wales', "root['country']": 'Australia', "root['area_served']": 'Australia', "root['services']": 'Pay television  Streaming media', "root['website_type']": 'Video on demand, OTT, live streaming'}}
+31: {'values_changed': {"root['services']": {'new_value': 'Pay television  Streaming media', 'old_value': 'Pay television, Streaming media'}}}
+49: {'dictionary_item_added': {"root['services']": 'Pay television, Streaming media'}, 'values_changed': {"root['website_type']": {'new_value': 'Video on demand, OTT, live streaming', 'old_value': 'Over-the-top media service'}}}

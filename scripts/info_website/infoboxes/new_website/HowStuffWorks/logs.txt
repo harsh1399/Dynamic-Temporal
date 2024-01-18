@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'HowStuffWorks', "root['owner']": 'Discovery Communications', "root['revenue']": 'Advertising', "root['slogan']": '"It\'s good to know." '}}
+2: {'values_changed': {"root['name']": {'new_value': 'HowStuffWorks', 'old_value': 'HowStuffWorks, Inc.'}}}
+3: {'values_changed': {"root['slogan']": {'new_value': '"It\'s good to know." ', 'old_value': "''Learn How Everything Works.'' "}}}
+18: {'values_changed': {"root['owner']": {'new_value': 'Discovery Communications', 'old_value': 'Blucora, Inc.'}}}
+23: {'dictionary_item_removed': {"root['country']": 'United States'}}
+29: {'dictionary_item_added': {"root['revenue']": 'Advertising', "root['slogan']": "''Learn How Everything Works.'' "}, 'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'Atlanta, Georgia, U. S.'}, "root['owner']": {'new_value': 'Blucora, Inc.', 'old_value': 'Stuff Media'}}}
+42: {'values_changed': {"root['owner']": {'new_value': 'Stuff Media', 'old_value': "'''Podcasting:''' iHeartMedia, '''Website:'''"}}}
+107: {'dictionary_item_added': {"root['country']": 'Atlanta, Georgia, U. S.'}, 'values_changed': {"root['owner']": {'new_value': "'''Podcasting:''' iHeartMedia, '''Website:'''", 'old_value': "'''Podcasting''': iHeartMedia, '''Website''': System1"}}}

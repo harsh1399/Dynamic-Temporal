@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Lockerz', "root['location']": 'USA', "root['website_type']": 'Social network', "root['num_users']": '17 000 000'}}
+18: {'values_changed': {"root['num_users']": {'new_value': '17 000 000', 'old_value': '17 million'}}}
+22: {'values_changed': {"root['num_users']": {'new_value': '17 million', 'old_value': '19 million'}}}
+23: {'values_changed': {"root['num_users']": {'new_value': '19 million', 'old_value': '17 million'}}}
+60: {'values_changed': {"root['num_users']": {'new_value': '17 million', 'old_value': '97 million'}}}
+62: {'values_changed': {"root['num_users']": {'new_value': '97 million', 'old_value': '17 million'}}}
+72: {'dictionary_item_removed': {"root['area_served']": 'themselves and their asses', "root['foundation']": 'The Nazi Party', "root['key_people']": 'Adolf Hitler', "root['revenue']": 'lets see.... they are having a drinking party laughing at our asses', "root['net_income']": '-$99999999', "root['num_employees']": '-22'}, 'values_changed': {"root['company_name']": {'new_value': 'Lockerz', 'old_value': 'Lockerz (Pro Scam Site)'}, "root['location']": {'new_value': 'USA', 'old_value': 'USA (and rumored Germany)'}, "root['website_type']": {'new_value': 'Social network', 'old_value': 'Scam Site'}, "root['num_users']": {'new_value': '17 million', 'old_value': '17 million Scammed'}}}
+80: {'dictionary_item_added': {"root['area_served']": 'themselves and their asses', "root['foundation']": 'The Nazi Party', "root['key_people']": 'Adolf Hitler', "root['revenue']": 'lets see.... they are having a drinking party laughing at our asses', "root['net_income']": '-$99999999', "root['num_employees']": '-22'}, 'values_changed': {"root['company_name']": {'new_value': 'Lockerz (Pro Scam Site)', 'old_value': 'Lockerz'}, "root['location']": {'new_value': 'USA (and rumored Germany)', 'old_value': 'USA'}, "root['website_type']": {'new_value': 'Scam Site', 'old_value': 'Social network'}, "root['num_users']": {'new_value': '17 million Scammed', 'old_value': '17 million'}}}
+84: {'dictionary_item_added': {"root['location']": 'USA'}, 'dictionary_item_removed': {"root['num_employees']": '-22'}, 'values_changed': {"root['website_type']": {'new_value': 'Social network', 'old_value': 'Social Network'}}}
+85: {'dictionary_item_added': {"root['num_employees']": '-22'}, 'dictionary_item_removed': {"root['location']": 'USA'}}
+93: {'values_changed': {"root['num_users']": {'new_value': '17 million', 'old_value': '107 million'}}}
+94: {'values_changed': {"root['num_users']": {'new_value': '107 million', 'old_value': '17 million'}}}
+124: {'dictionary_item_removed': {"root['area_served']": 'Worldwide'}}
+125: {'values_changed': {"root['website_type']": {'new_value': 'Social Network', 'old_value': 'Social Network / E-Commerce'}}}
+126: {'values_changed': {"root['website_type']": {'new_value': 'Social Network / E-Commerce', 'old_value': 'Social Network / Commerce'}}}
+127: {'values_changed': {"root['website_type']": {'new_value': 'Social Network / Commerce', 'old_value': 'Social Network / eCommerce'}}}
+129: {'dictionary_item_removed': {"root['company_logo']": 'border'}}
+143: {'values_changed': {"root['website_type']": {'new_value': 'Social Network / eCommerce', 'old_value': 'Social Commerce'}, "root['num_users']": {'new_value': '17 million', 'old_value': '19 million'}}}
+150: {'dictionary_item_removed': {"root['publisher']": 'TechChruch/  | language'}, 'values_changed': {"root['num_users']": {'new_value': '19 million', 'old_value': '19 million '}}}
+161: {'values_changed': {"root['location']": {'new_value': 'USA', 'old_value': 'United States'}}}

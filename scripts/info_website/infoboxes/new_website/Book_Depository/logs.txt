@@ -1,0 +1,4 @@
+62: {'dictionary_item_removed': {"root['name']": 'Book Depository', "root['location']": 'London, UK', "root['area_served']": 'Worldwide', "root['products']": 'Books', "root['num_employees']": '150', "root['website_type']": 'E-commerce', "root['alexa']": []}}
+66: {'type_changes': {"root['alexa']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "1,182,039 ('''.co.uk''' ", 'new_value': []}}, 'dictionary_item_removed': {"root['revenue']": '£69 million (2010)'}}
+70: {'dictionary_item_added': {"root['alexa']": "1,182,039 ('''.co.uk''' "}, 'values_changed': {"root['revenue']": {'new_value': '£69 million (2010)', 'old_value': '£69 million (2010)<ref name'}}}
+88: {'values_changed': {"root['name']": {'new_value': 'Book Depository', 'old_value': 'The Book Depository Ltd.'}}}

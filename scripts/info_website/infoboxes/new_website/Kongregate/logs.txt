@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Kongregate Games', "root['owner']": 'Jim and Emily Greer', "root['revenue']": 'Advertising generated, In game currency ("Kreds"), Corporate Sponsorship'}}
+16: {'values_changed': {"root['name']": {'new_value': 'Kongregate Games', 'old_value': 'Kongregate Kitty!'}}}
+17: {'values_changed': {"root['name']": {'new_value': 'Kongregate Kitty!', 'old_value': 'Kongregate Games'}}}
+39: {'dictionary_item_removed': {"root['investors']": 'Joe Kraus, Reid Hoffman | launch date = October 2006    | current status = Online'}}
+40: {'dictionary_item_added': {"root['owner']": 'Jim and Emily Greer'}, 'dictionary_item_removed': {"root['cofounders']": 'Jim and Emily Greer'}}
+42: {'dictionary_item_added': {"root['cofounders']": 'Jim and Emily Greer', "root['investors']": 'Joe Kraus, Reid Hoffman | launch date = October 2006    | current status = Online'}, 'dictionary_item_removed': {"root['owner']": 'Jim and Emily Greer'}}
+45: {'values_changed': {"root['name']": {'new_value': 'Kongregate Games', 'old_value': 'Kongregate Games.'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'Kongregate Games.', 'old_value': 'Kongregate Games'}}}
+107: {'values_changed': {"root['owner']": {'new_value': 'Jim and Emily Greer', 'old_value': 'Poe'}, "root['revenue']": {'new_value': 'Advertising generated, In game currency ("Kreds"), Corporate Sponsorship', 'old_value': 'Advertising generated, In game currency ("Lurkies"), Corporate Sponsorship'}}}
+109: {'values_changed': {"root['owner']": {'new_value': 'Poe', 'old_value': 'a queer'}}}
+110: {'values_changed': {"root['owner']": {'new_value': 'a queer', 'old_value': 'Poe'}}}
+111: {'values_changed': {"root['owner']": {'new_value': 'Poe', 'old_value': 'unknown'}}}
+116: {'values_changed': {"root['owner']": {'new_value': 'unknown', 'old_value': 'Jim Greer | launch date = October 20th 02   | current status = Active'}, "root['revenue']": {'new_value': 'Advertising generated, In game currency ("Lurkies"), Corporate Sponsorship', 'old_value': 'Advertising generated, In game currency ("Creds"), Corporate Sponsorship'}}}
+121: {'values_changed': {"root['revenue']": {'new_value': 'Advertising generated, In game currency ("Creds"), Corporate Sponsorship', 'old_value': 'Advertising generated, In game currency ("Kreds"), Corporate Sponsorship'}}}
+130: {'values_changed': {"root['owner']": {'new_value': 'Jim Greer | launch date = October 20th 02   | current status = Active', 'old_value': 'Jim Greer | launch date = October 20th 06   | current status = Active'}}}
+131: {'values_changed': {"root['owner']": {'new_value': 'Jim Greer | launch date = October 20th 06   | current status = Active', 'old_value': 'Jim and Emily Greer | launch date = October 20th 06   | current status = Active'}}}
+134: {'values_changed': {"root['owner']": {'new_value': 'Jim and Emily Greer | launch date = October 20th 06   | current status = Active', 'old_value': 'Jim and Emily Greer | launch date = October 20th 06   | current status = Active Beta'}}}
+180: {'dictionary_item_added': {"root['owner']": 'Jim and Emily Greer | launch date = October 20th 06   | current status = Active Beta'}, 'dictionary_item_removed': {"root['owners']": 'Jim and Emily Greer; Gamestop | launch date = October 20th 06   | current status = Active Beta'}}
+182: {'values_changed': {"root['owners']": {'new_value': 'Jim and Emily Greer; Gamestop | launch date = October 20th 06   | current status = Active Beta', 'old_value': 'Jim and Emily Greer; Gamestop | launch date = October 20th 06'}}}
+201: {'values_changed': {"root['owners']": {'new_value': 'Jim and Emily Greer; Gamestop | launch date = October 20th 06', 'old_value': 'Jim and Emily Greer; Gamestop | launch date = October 20, 2006'}}}
+214: {'values_changed': {"root['owners']": {'new_value': 'Jim and Emily Greer; Gamestop | launch date = October 20, 2006', 'old_value': 'Jim and Emily Greer; Gamestop | launch date = October 10, 2006'}}}
+274: {'dictionary_item_added': {"root['owners']": 'Jim and Emily Greer; Gamestop | launch date = October 10, 2006'}, 'dictionary_item_removed': {"root['owner']": 'GameStop', "root['alexa']": '7|8|a'}, 'values_changed': {"root['name']": {'new_value': 'Kongregate Games', 'old_value': 'Kongregate'}, "root['revenue']": {'new_value': 'Advertising generated, In game currency ("Kreds"), Corporate Sponsorship', 'old_value': 'Advertising In game currency ("Kreds") Corporate sponsorship Premium memberships(Kong+)'}}}
+282: {'values_changed': {"root['owner']": {'new_value': 'GameStop', 'old_value': 'Modern Times Group GameStop (2010-2017)'}}}
+289: {'values_changed': {"root['owner']": {'new_value': 'Modern Times Group GameStop (2010-2017)', 'old_value': 'Modern Times Group (2017-) GameStop (2010-2017)'}}}
+290: {'values_changed': {"root['alexa']": {'new_value': '7|8|a', 'old_value': '7|7|a'}}}
+337: {'dictionary_item_added': {"root['alexa']": '7|7|a'}, 'values_changed': {"root['name']": {'new_value': 'Kongregate', 'old_value': 'Kongredoor'}}}
+338: {'values_changed': {"root['name']": {'new_value': 'Kongredoor', 'old_value': 'Kongregate'}}}
+341: {'values_changed': {"root['revenue']": {'new_value': 'Advertising In game currency ("Kreds") Corporate sponsorship Premium memberships(Kong+)', 'old_value': 'Advertising In-game currency ("Kreds") Corporate sponsorship Premium memberships(Kong+)'}}}
+346: {'values_changed': {"root['owner']": {'new_value': 'Modern Times Group (2017-) GameStop (2010-2017)', 'old_value': 'Modern Times Group (2017–) GameStop (2010–2017)'}, "root['revenue']": {'new_value': 'Advertising In-game currency ("Kreds") Corporate sponsorship Premium memberships(Kong+)', 'old_value': 'Advertising In-game currency ("Kreds") Corporate sponsorship Premium memberships (Kong+)'}}}
+352: {'values_changed': {"root['owner']": {'new_value': 'Modern Times Group (2017–) GameStop (2010–2017)', 'old_value': 'GameStop (2010–2017), Modern Times Group (2017–)'}}}

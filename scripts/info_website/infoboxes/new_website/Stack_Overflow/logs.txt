@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Stack Overflow', "root['alexa']": '295', "root['owner']": 'Stack Overflow Internet Services, Inc.'}}
+12: {'values_changed': {"root['alexa']": {'new_value': '295', 'old_value': '160'}}}
+14: {'values_changed': {"root['owner']": {'new_value': 'Stack Overflow Internet Services, Inc.', 'old_value': 'Stack Exchange, Inc.'}}}
+23: {'values_changed': {"root['alexa']": {'new_value': '160', 'old_value': '121'}}}
+45: {'values_changed': {"root['alexa']": {'new_value': '121', 'old_value': '112'}}}
+95: {'dictionary_item_added': {"root['alexa']": '112'}, 'dictionary_item_removed': {"root['content_license']": 'CC-BY-SA 3.0 (for user contributions)'}}
+128: {'dictionary_item_added': {"root['owner']": 'Stack Exchange, Inc.'}, 'values_changed': {"root['name']": {'new_value': 'Stack Overflow', 'old_value': 'Stack Overflow '}}}
+186: {'dictionary_item_removed': {"root['landscape']": 'yes', "root['owner']": 'Stack Exchange, Inc.'}, 'values_changed': {"root['name']": {'new_value': 'Stack Overflow ', 'old_value': 'Stack Overflow'}, "root['content_license']": {'new_value': 'CC-BY-SA 3.0 (for user contributions)', 'old_value': 'CC-BY-SA 3.0'}}}
+224: {'dictionary_item_added': {"root['landscape']": 'yes'}, 'dictionary_item_removed': {"root['CEO']": 'Prashanth Chandrasekar'}, 'values_changed': {"root['name']": {'new_value': 'Stack Overflow', 'old_value': 'Stack Overflow Home'}, "root['content_license']": {'new_value': 'CC-BY-SA 3.0', 'old_value': 'CC BY-SA 2.5, 3.0, or 4.0 (depending on date)'}}}
+236: {'values_changed': {"root['name']": {'new_value': 'Stack Overflow Home', 'old_value': 'Stack Exchange, Inc.'}}}
+247: {'values_changed': {"root['owner']": {'new_value': 'Stack Exchange, Inc.', 'old_value': 'Prosus NV.'}}}
+248: {'values_changed': {"root['owner']": {'new_value': 'Prosus NV.', 'old_value': 'Prosus'}}}

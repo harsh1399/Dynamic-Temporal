@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gizmodo', "root['owner']": 'Gawker Media', "root['editor']": 'Brian Barrett | launch date = 2002 | current status = Active', "root['alexa']": '11|13|a'}}
+2: {'values_changed': {"root['editor']": {'new_value': 'Brian Barrett | launch date = 2002 | current status = Active', 'old_value': 'Katie Drummond | launch date = 2002 | current status = Active'}}}
+4: {'values_changed': {"root['owner']": {'new_value': 'Gawker Media', 'old_value': 'Hulk Hogan'}}}
+8: {'dictionary_item_removed': {"root['revenue']": '115 million in debt'}, 'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = 2002 | current status = Active', 'old_value': 'Katie Drummond | launch date = 2002 | current status = Cucked'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Gizmodo', 'old_value': "THE HULKMANIACS CAN'T BE CONTAINED"}}}
+12: {'dictionary_item_added': {"root['revenue']": '115 million in debt'}, 'values_changed': {"root['name']": {'new_value': "THE HULKMANIACS CAN'T BE CONTAINED", 'old_value': 'Gizmodo'}, "root['owner']": {'new_value': 'Hulk Hogan', 'old_value': 'Gawker Media'}, "root['editor']": {'new_value': 'Katie Drummond | launch date = 2002 | current status = Cucked', 'old_value': 'Katie Drummond | launch date = 2002 | current status = Active'}}}
+13: {'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = 2002 | current status = Active', 'old_value': 'Katie Drummond | launch date = April 30, 1945 | current status = Active'}}}
+16: {'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = April 30, 1945 | current status = Active', 'old_value': 'Katie Drummond | launch date = 2002 | current status = Active'}}}
+17: {'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = 2002 | current status = Active', 'old_value': 'Katie Drummond | launch date = April 20, 1889 | current status = Active'}}}
+19: {'dictionary_item_removed': {"root['revenue']": '-115,000,000 UNITED STATES DOLLARS'}, 'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = April 20, 1889 | current status = Active', 'old_value': 'Katie Drummond | launch date = April 20, 1889 | current status = SOON TO BE OUT OF BUISNESS'}}}
+20: {'dictionary_item_added': {"root['revenue']": '-115,000,000 UNITED STATES DOLLARS'}, 'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = April 20, 1889 | current status = SOON TO BE OUT OF BUISNESS', 'old_value': 'Katie Drummond | launch date = 2002 | current status = Active'}}}
+21: {'values_changed': {"root['owner']": {'new_value': 'Gawker Media', 'old_value': 'Hulk Hogan (as of March 19th 2016) | form'}}}
+22: {'values_changed': {"root['owner']": {'new_value': 'Hulk Hogan (as of March 19th 2016) | form', 'old_value': 'Gawker Media'}}}
+28: {'values_changed': {"root['owner']": {'new_value': 'Gawker Media', 'old_value': 'Univision Communications'}}}
+36: {'values_changed': {"root['alexa']": {'new_value': '11|13|a', 'old_value': '9|09|a'}}}
+38: {'values_changed': {"root['editor']": {'new_value': 'Katie Drummond | launch date = 2002 | current status = Active', 'old_value': 'Katie Drummond | launch date =  current status = Acti'}}}
+51: {'values_changed': {"root['alexa']": {'new_value': '9|09|a', 'old_value': '(Global, '}}}
+52: {'dictionary_item_added': {"root['alexa']": '(Global, '}, 'values_changed': {"root['name']": {'new_value': 'Gizmodo', 'old_value': "''Gizmodo''"}, "root['owner']": {'new_value': 'Univision Communications', 'old_value': 'G/O Media'}, "root['editor']": {'new_value': 'Katie Drummond | launch date =  current status = Acti', 'old_value': 'John Biggs'}}}
+54: {'values_changed': {"root['editor']": {'new_value': 'John Biggs', 'old_value': 'David M. Ewalt'}}}

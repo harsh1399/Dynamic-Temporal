@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'GameFAQs', "root['owner']": 'CBS Interactive', "root['administrator']": 'Allen "SBAllen" Tyner', "root['alexa']": '12|1|a'}}
+2: {'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '2|2|a'}}}
+3: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|1|a'}}}
+5: {'values_changed': {"root['alexa']": {'new_value': '3|1|a', 'old_value': '4|1|a'}}}
+13: {'dictionary_item_added': {"root['administrator']": 'Allen "SBAllen" Tyner', "root['alexa']": '4|1|a'}, 'dictionary_item_removed': {"root['logocaption']": 'GameFAQs logo.'}, 'values_changed': {"root['owner']": {'new_value': 'CBS Interactive', 'old_value': 'CBS Interactive, ,  Allen "SBAllen" Tyner'}}}
+23: {'values_changed': {"root['owner']": {'new_value': 'CBS Interactive, ,  Allen "SBAllen" Tyner', 'old_value': 'CBS Interactive'}}}
+35: {'dictionary_item_added': {"root['logocaption']": 'GameFAQs logo.'}, 'values_changed': {"root['owner']": {'new_value': 'CBS Interactive', 'old_value': 'Red Ventures'}}}
+40: {'values_changed': {"root['owner']": {'new_value': 'Red Ventures', 'old_value': 'Fandom (website)'}}}
+41: {'values_changed': {"root['owner']": {'new_value': 'Fandom (website)', 'old_value': 'Fandom, Inc. '}}}

@@ -1,0 +1,16 @@
+154: {'dictionary_item_removed': {"root['name']": 'Flickr', "root['owner']": 'Yahoo! Inc.'}}
+237: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Inc.', 'old_value': 'Yahoo! Inc. |programmi'}}}
+256: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Inc. |programmi', 'old_value': 'Yahoo Inc. |programmi'}}}
+335: {'values_changed': {"root['name']": {'new_value': 'Flickr', 'old_value': 'hamid husain'}}}
+336: {'values_changed': {"root['name']": {'new_value': 'hamid husain', 'old_value': 'Flickr'}}}
+337: {'values_changed': {"root['name']": {'new_value': 'Flickr', 'old_value': 'sayyad hamid husain'}}}
+338: {'values_changed': {"root['name']": {'new_value': 'sayyad hamid husain', 'old_value': 'Flickr'}}}
+355: {'values_changed': {"root['owner']": {'new_value': 'Yahoo Inc. |programmi', 'old_value': 'Yahoo! |programmi'}}}
+440: {'dictionary_item_added': {"root['owner']": 'Yahoo! |programmi'}, 'dictionary_item_removed': {"root['developer']": 'Yahoo Inc.', "root['latest_release_version']": '3.2.1', "root['latest_release_date']": '11 June 2009', "root['operating_system']": 'Mac OS X, Windows 7, Vista & XP', "root['license']": 'GPL'}, 'values_changed': {"root['name']": {'new_value': 'Flickr', 'old_value': 'Flickr Uploadr'}}}
+441: {'dictionary_item_added': {"root['developer']": 'Yahoo Inc.', "root['latest_release_version']": '3.2.1', "root['latest_release_date']": '11 June 2009', "root['operating_system']": 'Mac OS X, Windows 7, Vista & XP', "root['license']": 'GPL'}, 'dictionary_item_removed': {"root['owner']": 'Yahoo! |programmi'}, 'values_changed': {"root['name']": {'new_value': 'Flickr Uploadr', 'old_value': 'Flickr'}}}
+451: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! |programmi', 'old_value': 'Yahoo!'}}}
+459: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! (until June 2017), Oath (since June 2017)'}}}
+462: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! (until June 2017), Oath (since June 2017)', 'old_value': 'Verizon Communications'}}}
+485: {'dictionary_item_added': {"root['owner']": 'Verizon Communications'}, 'dictionary_item_removed': {"root['foundation']": 'Vancouver, British Columbia, Canada, 2004'}}
+545: {'dictionary_item_removed': {"root['owner']": 'Lewis Da Goat'}}
+546: {'values_changed': {"root['owner']": {'new_value': 'Lewis Da Goat', 'old_value': 'Lewis Da Goat Lopez'}}}

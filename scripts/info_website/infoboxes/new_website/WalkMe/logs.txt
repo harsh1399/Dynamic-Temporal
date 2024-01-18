@@ -1,0 +1,6 @@
+16: {'dictionary_item_removed': {"root['name']": 'WalkMe'}}
+19: {'dictionary_item_removed': {"root['location']": 'San Francisco, California | launch date    = 2012'}}
+24: {'dictionary_item_removed': {"root['subsidiaries']": 'Abbi , Jaco', "root['Employees']": '600', "root['CEO']": 'Dan Adika', "root['Founders']": 'Dan Adika, Rafi Sweary, Eyal Cohen '}, 'values_changed': {"root['name']": {'new_value': 'WalkMe', 'old_value': 'WalkMe™'}, "root['location']": {'new_value': 'San Francisco, California | launch date    = 2012', 'old_value': '525 Market Street  ,  San Francisco, California'}}}
+28: {'dictionary_item_added': {"root['Employees']": '600', "root['Founders']": 'Dan Adika, Rafi Sweary, Eyal Cohen '}, 'dictionary_item_removed': {"root['employees']": '600', "root['key_people']": 'Rafi Sweary, Eyal Cohen '}}
+29: {'values_changed': {"root['name']": {'new_value': 'WalkMe™', 'old_value': 'WalkMe'}}}
+34: {'values_changed': {"root['location']": {'new_value': '525 Market Street  ,  San Francisco, California', 'old_value': '525 Market Street  ,  San Francisco, California, U.S.'}, "root['subsidiaries']": {'new_value': 'Abbi , Jaco', 'old_value': 'Abbi , Jaco, DeepUI'}, "root['employees']": {'new_value': '600', 'old_value': '850'}, "root['key_people']": {'new_value': 'Rafi Sweary, Eyal Cohen ', 'old_value': 'Rafi Sweary, Dan Adika '}}}

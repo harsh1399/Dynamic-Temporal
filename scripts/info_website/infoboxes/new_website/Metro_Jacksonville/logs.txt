@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Metro Jacksonville', "root['owner']": 'Metro Jacksonville'}}
+5: {'values_changed': {"root['name']": {'new_value': 'Metro Jacksonville', 'old_value': "''Metro Jacksonville''"}}}
+9: {'values_changed': {"root['owner']": {'new_value': 'Metro Jacksonville', 'old_value': 'Metro Jacksonville, Inc.'}}}
+11: {'dictionary_item_added': {"root['name']": "''Metro Jacksonville''", "root['owner']": 'Metro Jacksonville, Inc.'}, 'dictionary_item_removed': {"root['company_name']": "''Metro Jacksonville''", "root['company_logo']": 'File:MetroJacksonvillelogo.png', "root['genre']": 'News and information', "root['foundation']": 'March 2006', "root['website_type']": 'Weblog Forum'}}

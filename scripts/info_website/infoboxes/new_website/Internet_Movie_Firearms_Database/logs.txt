@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Internet Movie Firearm Database', "root['logocaption']": "''IMFDB Logo''", "root['num_users']": '7,766   (As of 6/6/12)', "root['content_license']": 'GNU Free Documentation License', "root['owner']": 'IMFDB, LLC', "root['alexa']": '20,348  ('}}
+6: {'values_changed': {"root['name']": {'new_value': 'Internet Movie Firearm Database', 'old_value': 'Internet Movie Firearms Database'}}}
+8: {'values_changed': {"root['num_users']": {'new_value': '7,766   (As of 6/6/12)', 'old_value': '8,475   (As of 7/26/12)'}}}
+19: {'dictionary_item_added': {"root['logocaption']": "''IMFDB Logo''"}, 'values_changed': {"root['num_users']": {'new_value': '8,475   (As of 7/26/12)', 'old_value': '8,475'}, "root['alexa']": {'new_value': '20,348  (', 'old_value': '20,348 ('}}}
+23: {'dictionary_item_added': {"root['alexa']": '20,348 ('}, 'values_changed': {"root['owner']": {'new_value': 'IMFDB, LLC', 'old_value': 'IMFDb, LLC'}}}
+28: {'values_changed': {"root['owner']": {'new_value': 'IMFDb, LLC', 'old_value': 'imfdb, LLC'}}}
+31: {'dictionary_item_removed': {"root['logocaption']": 'imfdb Logo'}, 'values_changed': {"root['num_users']": {'new_value': '8,475', 'old_value': '8,784'}}}

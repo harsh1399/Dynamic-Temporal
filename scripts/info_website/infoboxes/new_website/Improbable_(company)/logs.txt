@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Improbable', "root['num_employees']": '150+'}}
+5: {'dictionary_item_removed': {"root['location']": '20 Farringdon Road, London, EC1M 3HE, UK '}, 'values_changed': {"root['num_employees']": {'new_value': '150+', 'old_value': '170+'}}}
+16: {'values_changed': {"root['location']": {'new_value': '20 Farringdon Road, London, EC1M 3HE, UK ', 'old_value': '30 Farringdon Road, London, EC1M 3HE, UK '}}}
+42: {'values_changed': {"root['location']": {'new_value': '30 Farringdon Road, London, EC1M 3HE, UK ', 'old_value': '10 Bishops Square, London, E1 6EG, UK  '}}}
+49: {'values_changed': {"root['num_employees']": {'new_value': '170+', 'old_value': '600+'}}}
+60: {'dictionary_item_removed': {"root['key_people']": 'Lincoln Wallen ', "root['revenue']": 'Increase £11m (2019)Increase £1.2m (201', "root['equity']": 'Decrease £(308)m (2019)  parent = Independe'}, 'values_changed': {"root['name']": {'new_value': 'Improbable', 'old_value': 'Improbable Worlds Ltd'}, "root['num_employees']": {'new_value': '600+', 'old_value': '1000'}}}

@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'SourceForge', "root['owner']": 'Geeknet, Inc.', "root['alexa']": 'launch date    = November 1999 | current status = Acti'}}
+42: {'values_changed': {"root['owner']": {'new_value': 'Geeknet, Inc.', 'old_value': 'Dice Holdings, Inc.'}}}
+51: {'values_changed': {"root['alexa']": {'new_value': 'launch date    = November 1999 | current status = Acti', 'old_value': 'launch date    = November 1999 | current status = Onli'}}}
+57: {'values_changed': {"root['owner']": {'new_value': 'Dice Holdings, Inc.', 'old_value': 'BIZX, LLC'}}}
+58: {'values_changed': {"root['owner']": {'new_value': 'BIZX, LLC', 'old_value': 'Dice Holdings, Inc.'}}}
+59: {'values_changed': {"root['owner']": {'new_value': 'Dice Holdings, Inc.', 'old_value': 'BIZX, LLC'}}}
+74: {'values_changed': {"root['owner']": {'new_value': 'BIZX, LLC', 'old_value': 'Geeknet, Inc. (1999-2012)  DIH Group, Inc. (2012-2016)  BIZX, LLC'}}}
+76: {'values_changed': {"root['owner']": {'new_value': 'Geeknet, Inc. (1999-2012)  DIH Group, Inc. (2012-2016)  BIZX, LLC', 'old_value': 'Geeknet, Inc. (1999-2012)  DHI Group, Inc. (2012-2016)  BIZX, LLC'}}}
+85: {'dictionary_item_added': {"root['alexa']": 'launch date    = November 1999 | current status = Onli'}, 'dictionary_item_removed': {"root['logocaption']": 'The SourceForge logo | author-link'}}
+141: {'dictionary_item_removed': {"root['alexa']": '11|12|a'}, 'values_changed': {"root['logocaption']": {'new_value': 'The SourceForge logo | author-link', 'old_value': 'The SourceForge logo'}}}
+143: {'values_changed': {"root['alexa']": {'new_value': '11|12|a', 'old_value': '12|04|a'}}}
+164: {'values_changed': {"root['alexa']": {'new_value': '12|04|a', 'old_value': '06|20|a'}}}
+167: {'values_changed': {"root['alexa']": {'new_value': '06|20|a', 'old_value': '08|02|a'}}}
+172: {'values_changed': {"root['alexa']": {'new_value': '08|02|a', 'old_value': '09|07|a'}}}
+174: {'values_changed': {"root['alexa']": {'new_value': '09|07|a', 'old_value': '10|01|a'}}}
+175: {'values_changed': {"root['alexa']": {'new_value': '10|01|a', 'old_value': '12|02|a'}}}
+181: {'values_changed': {"root['alexa']": {'new_value': '12|02|a', 'old_value': '01|03|a'}}}
+183: {'values_changed': {"root['alexa']": {'new_value': '01|03|a', 'old_value': '02|04|a'}}}
+194: {'dictionary_item_added': {"root['alexa']": '02|04|a'}, 'dictionary_item_removed': {"root['revenue']": '| current status'}}
+195: {'dictionary_item_added': {"root['revenue']": '| current status'}, 'dictionary_item_removed': {"root['alexa']": '02|04|a'}}
+202: {'dictionary_item_added': {"root['alexa']": '02|04|a'}, 'dictionary_item_removed': {"root['key_people']": 'Logan Abbott (President) |'}}

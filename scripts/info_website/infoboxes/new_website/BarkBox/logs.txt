@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'BarkBox, Inc.', "root['location']": 'New York, New York, United States', "root['area_served']": 'US and Canada', "root['CEO']": 'Matt Meeker', "root['num_employees']": '350'}}
+14: {'values_changed': {"root['CEO']": {'new_value': 'Matt Meeker', 'old_value': 'Manish Joneja'}}}
+17: {'values_changed': {"root['num_employees']": {'new_value': '350', 'old_value': '450'}}}
+19: {'dictionary_item_removed': {"root['revenue']": '$365 Million(2020)'}}

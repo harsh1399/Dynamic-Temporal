@@ -1,0 +1,28 @@
+112: {'dictionary_item_removed': {"root['name']": 'EdX', "root['owner']": 'MIT & Harvard University', "root['alexa']": '12,009 ('}}
+118: {'values_changed': {"root['name']": {'new_value': 'EdX', 'old_value': 'edX'}}}
+135: {'dictionary_item_added': {"root['alexa']": '12,009 ('}, 'dictionary_item_removed': {"root['num_users']": '1.6 million (November 2013)'}}
+136: {'values_changed': {"root['num_users']": {'new_value': '1.6 million (November 2013)', 'old_value': 'more than 1.6 million (November 2013)'}}}
+144: {'values_changed': {"root['num_users']": {'new_value': 'more than 1.6 million (November 2013)', 'old_value': 'more than 1.6 million (November 2013)      | content license = Copyright of edX'}}}
+145: {'dictionary_item_added': {"root['owner']": 'MIT & Harvard University'}, 'values_changed': {"root['num_users']": {'new_value': 'more than 1.6 million (November 2013)      | content license = Copyright of edX', 'old_value': 'more than 1.6 million (November 2013)  |'}}}
+146: {'dictionary_item_removed': {"root['owner']": 'MIT & Harvard University'}, 'values_changed': {"root['num_users']": {'new_value': 'more than 1.6 million (November 2013)  |', 'old_value': 'more than 1.6 million (November 2013)      | content license = Copyright of edX'}}}
+150: {'values_changed': {"root['num_users']": {'new_value': 'more than 1.6 million (November 2013)      | content license = Copyright of edX', 'old_value': 'more than 2.1 million (April 2014)      | content license = Copyright of edX'}}}
+168: {'values_changed': {"root['num_users']": {'new_value': 'more than 2.1 million (April 2014)      | content license = Copyright of edX', 'old_value': 'more than 2.5 million (June 2014)      | content license = Copyright of edX'}}}
+199: {'values_changed': {"root['num_users']": {'new_value': 'more than 2.5 million (June 2014)      | content license = Copyright of edX', 'old_value': 'more than 2.5 million (July 2014)      | content license = Copyright of edX'}}}
+214: {'values_changed': {"root['num_users']": {'new_value': 'more than 2.5 million (July 2014)      | content license = Copyright of edX', 'old_value': 'more than 3 million (October 2014)      | content license = Copyright of edX'}}}
+218: {'dictionary_item_added': {"root['owner']": 'MIT & Harvard University'}, 'values_changed': {"root['num_users']": {'new_value': 'more than 3 million (October 2014)      | content license = Copyright of edX', 'old_value': '~10 million (December 2016)   | content license = Copyright of edX'}}}
+224: {'values_changed': {"root['num_users']": {'new_value': '~10 million (December 2016)   | content license = Copyright of edX', 'old_value': '~14 million (December 2017)   | content license = Copyright of edX'}}}
+237: {'dictionary_item_removed': {"root['owner']": 'edX Inc.'}}
+244: {'dictionary_item_removed': {"root['content_license']": 'Copyright of edX'}, 'values_changed': {"root['num_users']": {'new_value': '~14 million (December 2017)   | content license = Copyright of edX', 'old_value': '~20 million (September 2019)'}}}
+254: {'values_changed': {"root['num_users']": {'new_value': '~20 million (September 2019)', 'old_value': '~24 million (September 2019)'}}}
+256: {'values_changed': {"root['num_users']": {'new_value': '~24 million (September 2019)', 'old_value': '~32 million (July 2020)'}}}
+257: {'values_changed': {"root['owner']": {'new_value': 'edX Inc.', 'old_value': 'edX Inc.a'}}}
+260: {'values_changed': {"root['num_users']": {'new_value': '~32 million (July 2020)', 'old_value': '~33 million (July 2020)'}}}
+267: {'values_changed': {"root['num_users']": {'new_value': '~33 million (July 2020)', 'old_value': '24 million (Sep 2020)'}}}
+273: {'dictionary_item_removed': {"root['logocaption']": 'Logo of edX'}, 'values_changed': {"root['owner']": {'new_value': 'edX Inc.a', 'old_value': 'edX Inc.'}}}
+289: {'values_changed': {"root['owner']": {'new_value': 'edX Inc.', 'old_value': '2U'}}}
+307: {'dictionary_item_added': {"root['owner']": '2U'}, 'values_changed': {"root['name']": {'new_value': 'edX', 'old_value': 'SEX'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'SEX', 'old_value': 'edX'}}}
+309: {'values_changed': {"root['name']": {'new_value': 'edX', 'old_value': 'SEX'}}}
+312: {'values_changed': {"root['name']": {'new_value': 'SEX', 'old_value': 'EdX'}}}
+313: {'values_changed': {"root['name']": {'new_value': 'EdX', 'old_value': 'edX'}}}
+325: {'values_changed': {"root['num_users']": {'new_value': '24 million (Sep 2020)', 'old_value': '40 million (2021)'}}}

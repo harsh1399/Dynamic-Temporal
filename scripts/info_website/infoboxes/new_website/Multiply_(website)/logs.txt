@@ -1,0 +1,12 @@
+77: {'dictionary_item_removed': {"root['name']": 'Multiply', "root['location']": 'Boca Raton, Florida', "root['owner']": 'Peter Pezaris '}}
+117: {'values_changed': {"root['location']": {'new_value': 'Boca Raton, Florida', 'old_value': 'Jakarta, Indonesia'}, "root['owner']": {'new_value': 'Peter Pezaris ', 'old_value': 'Stefan Magdalinski  '}}}
+159: {'dictionary_item_removed': {"root['Ended']": 'May 6, 2013'}}
+161: {'dictionary_item_added': {"root['Ended']": 'May 6, 2013'}, 'dictionary_item_removed': {"root['closed']": 'May 6, 2013'}}
+166: {'dictionary_item_added': {"root['closed']": 'May 6, 2013'}, 'values_changed': {"root['owner']": {'new_value': 'Stefan Magdalinski  ', 'old_value': 'Stefan Magdalinski '}}}
+172: {'dictionary_item_removed': {"root['status']": 'Defunct     '}, 'values_changed': {"root['owner']": {'new_value': 'Stefan Magdalinski ', 'old_value': 'Stefan Magdalinski'}}}
+174: {'values_changed': {"root['name']": {'new_value': 'Multiply', 'old_value': 'Multiply (now defunct)'}}}
+178: {'values_changed': {"root['name']": {'new_value': 'Multiply (now defunct)', 'old_value': 'Multiply'}}}
+179: {'values_changed': {"root['name']": {'new_value': 'Multiply', 'old_value': 'Multiply (now defunct)'}}}
+181: {'dictionary_item_added': {"root['location']": 'Jakarta, Indonesia', "root['status']": 'Defunct     '}, 'values_changed': {"root['owner']": {'new_value': 'Stefan Magdalinski', 'old_value': 'Stefan Magdalinski |current status'}}}
+196: {'values_changed': {"root['name']": {'new_value': 'Multiply (now defunct)', 'old_value': 'Multiply'}}}
+272: {'values_changed': {"root['owner']": {'new_value': 'Stefan Magdalinski |current status', 'old_value': 'Stefan Magdalinski'}}}

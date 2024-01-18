@@ -1,0 +1,5 @@
+12: {'dictionary_item_removed': {"root['name']": 'CommonFloor.com', "root['location']": 'Bangalore, India', "root['CEO']": 'Sumit Jain', "root['key_people']": 'Parveen Kumar & Vinayak Warke'}}
+16: {'dictionary_item_added': {"root['key_people']": 'Parveen Kumar & Vinayak Warke'}, 'dictionary_item_removed': {"root['num_employees']": 'more than 1500', "root['company_slogan']": 'No Darr Find Ghar'}}
+29: {'values_changed': {"root['company_slogan']": {'new_value': 'No Darr Find Ghar', 'old_value': 'You Are Home, No Darr Find Ghar'}}}
+31: {'dictionary_item_removed': {"root['foundation']": '2007', "root['area_served']": 'India', "root['products']": 'Residential, CF Groups, CF Retina (Virtual Reality), Live-in Tours'}, 'values_changed': {"root['name']": {'new_value': 'CommonFloor.com', 'old_value': 'CommonFloor'}, "root['location']": {'new_value': 'Bangalore, India', 'old_value': 'Bangalore'}, "root['num_employees']": {'new_value': 'more than 1500', 'old_value': '795 (as of June 2015)'}}}
+36: {'dictionary_item_removed': {"root['CPO']": 'Lalit Mangal'}}

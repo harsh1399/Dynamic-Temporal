@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": '8chan', "root['slogan']": "'''''Welcome to 8chan, the infinitely expanding imageboard.'''''", "root['owner']": 'Jim Watkins,  N.T. Technology (2channel)   | launch date    = ', "root['alexa']": '8|22|a'}}
+111: {'dictionary_item_added': {"root['slogan']": "'''''Welcome to 8chan, the infinitely expanding imageboard.'''''"}, 'values_changed': {"root['name']": {'new_value': '8chan', 'old_value': '4chan'}}}
+112: {'values_changed': {"root['name']": {'new_value': '4chan', 'old_value': '8chan'}}}
+117: {'values_changed': {"root['alexa']": {'new_value': '8|22|a', 'old_value': '10|12|a'}}}
+129: {'values_changed': {"root['owner']": {'new_value': 'Jim Watkins,  N.T. Technology (2channel)   | launch date    = ', 'old_value': 'Jim Watkins,  N.T. Technology (2channel) | launch date    = '}}}
+133: {'values_changed': {"root['owner']": {'new_value': 'Jim Watkins,  N.T. Technology (2channel) | launch date    = ', 'old_value': 'Jim Watkins,  N.T. Technology (2channel)   | launch date    = '}}}
+135: {'dictionary_item_added': {"root['alexa']": '10|12|a'}, 'values_changed': {"root['name']": {'new_value': '8chan', 'old_value': '8kun'}, "root['owner']": {'new_value': 'Jim Watkins,  N.T. Technology (2channel)   | launch date    = ', 'old_value': "Fredrick Brennan (Oct'13-July'16),  Jim Watkins (July'16-present),  N.T. Technology (2channel)"}}}
+136: {'values_changed': {"root['owner']": {'new_value': "Fredrick Brennan (Oct'13-July'16),  Jim Watkins (July'16-present),  N.T. Technology (2channel)", 'old_value': "Fredrick Brennan, (Oct'13-July'16),  Jim Watkins, (July'16-Jan'21),  N.T. Technology (2channel)"}}}
+137: {'values_changed': {"root['name']": {'new_value': '8kun', 'old_value': '8kun, (formerly 8chan)'}, "root['owner']": {'new_value': "Fredrick Brennan, (Oct'13-July'16),  Jim Watkins, (July'16-Jan'21),  N.T. Technology (2channel)", 'old_value': 'Fredrick Brennan, (2013-2016), Jim Watkins, (2016-2021),  N.T. Technology (2channel)'}}}
+139: {'values_changed': {"root['owner']": {'new_value': 'Fredrick Brennan, (2013-2016), Jim Watkins, (2016-2021),  N.T. Technology (2channel)', 'old_value': 'Fredrick Brennan, (2013&ndash;2016), Jim Watkins, (2016&ndash;present),  N.T. Technology (2channel)'}}}
+140: {'values_changed': {"root['name']": {'new_value': '8kun, (formerly 8chan)', 'old_value': '8kun'}}}

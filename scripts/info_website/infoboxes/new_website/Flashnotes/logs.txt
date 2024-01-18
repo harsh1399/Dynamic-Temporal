@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['name']": 'FlashNotes', "root['foundation']": '2009', "root['location']": 'Akron, OH', "root['homepage']": 'http://www.flashnotes.com '}}
+3: {'values_changed': {"root['location']": {'new_value': 'Akron, OH', 'old_value': 'Boston, MA'}}}
+10: {'dictionary_item_added': {"root['name']": 'FlashNotes', "root['homepage']": 'http://www.flashnotes.com '}, 'dictionary_item_removed': {"root['company_name']": 'Flashnotes', "root['company_logo']": 'frameless', "root['website_type']": 'Online marketplace'}, 'values_changed': {"root['location']": {'new_value': 'Boston, MA', 'old_value': 'Boston, Massachusetts'}}}

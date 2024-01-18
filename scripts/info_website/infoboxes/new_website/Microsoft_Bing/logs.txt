@@ -1,0 +1,111 @@
+0: {'dictionary_item_removed': {"root['name']": 'Live Search', "root['owner']": 'Microsoft'}}
+19: {'dictionary_item_removed': {"root['alexa']": '4 '}}
+39: {'values_changed': {"root['alexa']": {'new_value': '4 ', 'old_value': '5 '}}}
+54: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+70: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+71: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+80: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+81: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+83: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+85: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+89: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+90: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+107: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+109: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+110: {'dictionary_item_added': {"root['slogan']": 'Bing & decide'}, 'dictionary_item_removed': {"root['alexa']": '5 '}, 'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Live Search'}}}
+111: {'dictionary_item_added': {"root['alexa']": '5 '}, 'dictionary_item_removed': {"root['slogan']": 'Bing & decide'}, 'values_changed': {"root['name']": {'new_value': 'Live Search', 'old_value': 'Bing'}}}
+191: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'bing'}}}
+193: {'values_changed': {"root['name']": {'new_value': 'bing', 'old_value': 'Bing'}}}
+217: {'dictionary_item_removed': {"root['rank']": '2rd Place in seach '}}
+218: {'dictionary_item_added': {"root['rank']": '2rd Place in seach '}, 'dictionary_item_removed': {"root['ranks']": '2rd Place in search (16.28%) '}}
+528: {'dictionary_item_added': {"root['ranks']": '2rd Place in search (16.28%) '}, 'dictionary_item_removed': {"root['alexa']": '48 as of July 11th 2009 http://alexa.com/siteinfo/bing.com '}}
+529: {'values_changed': {"root['alexa']": {'new_value': '48 as of July 11th 2009 http://alexa.com/siteinfo/bing.com ', 'old_value': '48th as of July 11th 2009 http://alexa.com/siteinfo/bing.com '}}}
+534: {'values_changed': {"root['alexa']": {'new_value': '48th as of July 11th 2009 http://alexa.com/siteinfo/bing.com ', 'old_value': '48th (As of July 11, 2009)   '}}}
+556: {'values_changed': {"root['alexa']": {'new_value': '48th (As of July 11, 2009)   ', 'old_value': '39th (As of July 19, 2009)   '}}}
+586: {'values_changed': {"root['alexa']": {'new_value': '39th (As of July 19, 2009)   ', 'old_value': '38th (As of July 24, 2009)   Live.com: 5th    '}}}
+590: {'values_changed': {"root['alexa']": {'new_value': '38th (As of July 24, 2009)   Live.com: 5th    ', 'old_value': '37th (As of July 27, 2009)   Live.com: 5th    '}}}
+631: {'values_changed': {"root['alexa']": {'new_value': '37th (As of July 27, 2009)   Live.com: 5th    ', 'old_value': '37th (As of July 27, 2009)   Live.com: 5th   '}}}
+646: {'values_changed': {"root['alexa']": {'new_value': '37th (As of July 27, 2009)   Live.com: 5th   ', 'old_value': '35th (As of August 3, 2009)   Live.com: 5th   '}}}
+698: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing  (Mandarin for disease} not a bad idea to research a name in many                    languages before using it as a trade name or mark.'}, "root['alexa']": {'new_value': '35th (As of August 3, 2009)   Live.com: 5th   ', 'old_value': '35th (As of August 3, 2009)   Live.com: 5th   }'}}}
+699: {'dictionary_item_added': {"root['name']": 'Bing  (Mandarin for disease} not a bad idea to research a name in many                    languages before using it as a trade name or mark.'}, 'values_changed': {"root['alexa']": {'new_value': '35th (As of August 3, 2009)   Live.com: 5th   }', 'old_value': '35th (As of August 3, 2009)   Live.com: 5th   '}}}
+700: {'dictionary_item_removed': {"root['name']": 'Bing'}}
+715: {'values_changed': {"root['alexa']": {'new_value': '35th (As of August 3, 2009)   Live.com: 5th   ', 'old_value': '18 (As of September 3, 2009)   Live.com: 5th   '}}}
+719: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Binga'}}}
+720: {'values_changed': {"root['name']": {'new_value': 'Binga', 'old_value': 'Bing'}}}
+726: {'values_changed': {"root['alexa']": {'new_value': '18 (As of September 3, 2009)   Live.com: 5th   ', 'old_value': '19 (As of September 11, 2009)   Live.com: 5th   '}}}
+764: {'values_changed': {"root['alexa']": {'new_value': '19 (As of September 11, 2009)   Live.com: 5th   ', 'old_value': '21 (As of September 27, 2009)   Live.com: 5th   '}}}
+765: {'values_changed': {"root['alexa']": {'new_value': '21 (As of September 27, 2009)   Live.com: 5th   ', 'old_value': '20 (As of September 27, 2009)   Live.com: 5th   '}}}
+784: {'values_changed': {"root['alexa']": {'new_value': '20 (As of September 27, 2009)   Live.com: 5th   ', 'old_value': '21 (As of October 7, 2009)   Live.com: 5th   '}}}
+794: {'values_changed': {"root['alexa']": {'new_value': '21 (As of October 7, 2009)   Live.com: 5th   ', 'old_value': 'http://www.alexa.com/siteinfo/bing.com 21 (As of October 9, 2009) Live.com: 5th   '}}}
+831: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'michael'}}}
+832: {'values_changed': {"root['name']": {'new_value': 'michael', 'old_value': 'Bing'}}}
+865: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'frgthyjukil'}}}
+866: {'values_changed': {"root['name']": {'new_value': 'frgthyjukil', 'old_value': 'Bing'}}}
+868: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'ARLENEA MARIE BALLARD Bing'}, "root['owner']": {'new_value': 'Microsoft', 'old_value': 'ARLENEA MARIE BALLARDMicrosoft'}, "root['slogan']": {'new_value': 'Bing & decide', 'old_value': 'ARLENEA MARIE BALLARD Bing & decide'}}}
+869: {'values_changed': {"root['name']": {'new_value': 'ARLENEA MARIE BALLARD Bing', 'old_value': 'Bing'}, "root['owner']": {'new_value': 'ARLENEA MARIE BALLARDMicrosoft', 'old_value': 'Microsoft'}, "root['slogan']": {'new_value': 'ARLENEA MARIE BALLARD Bing & decide', 'old_value': 'Bing & decide'}}}
+894: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'bing'}}}
+908: {'values_changed': {"root['name']": {'new_value': 'bing', 'old_value': 'peice of crummy relationship associated personal search-engine c.r.a.p.'}}}
+909: {'values_changed': {"root['name']": {'new_value': 'peice of crummy relationship associated personal search-engine c.r.a.p.', 'old_value': 'bing'}}}
+956: {'values_changed': {"root['name']": {'new_value': 'bing', 'old_value': 'bing (go to google/yahoo)'}}}
+961: {'values_changed': {"root['name']": {'new_value': 'bing (go to google/yahoo)', 'old_value': 'bing'}}}
+992: {'values_changed': {"root['name']": {'new_value': 'bing', 'old_value': 'Bing'}, "root['alexa']": {'new_value': 'http://www.alexa.com/siteinfo/bing.com 21 (As of October 9, 2009) Live.com: 5th   ', 'old_value': '25 |'}}}
+993: {'values_changed': {"root['alexa']": {'new_value': '25 |', 'old_value': '24 |'}}}
+994: {'values_changed': {"root['alexa']": {'new_value': '24 |', 'old_value': '25 |'}}}
+999: {'values_changed': {"root['alexa']": {'new_value': '25 |', 'old_value': '23 |'}}}
+1000: {'values_changed': {"root['alexa']": {'new_value': '23 |', 'old_value': '25 |'}}}
+1002: {'values_changed': {"root['alexa']": {'new_value': '25 |', 'old_value': '21 |'}}}
+1004: {'values_changed': {"root['alexa']": {'new_value': '21 |', 'old_value': '25 |'}}}
+1010: {'values_changed': {"root['alexa']": {'new_value': '25 |', 'old_value': '21 |'}}}
+1011: {'values_changed': {"root['alexa']": {'new_value': '21 |', 'old_value': '25 |'}}}
+1021: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': "Because It's Not Google| logo           ="}}}
+1022: {'values_changed': {"root['name']": {'new_value': "Because It's Not Google| logo           =", 'old_value': 'Bing'}}}
+1023: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Sucks a lot| logo           ='}}}
+1024: {'values_changed': {"root['name']": {'new_value': 'Sucks a lot| logo           =', 'old_value': 'Bing'}}}
+1041: {'values_changed': {"root['alexa']": {'new_value': '25 |', 'old_value': '22 |'}}}
+1042: {'values_changed': {"root['alexa']": {'new_value': '22 |', 'old_value': '21 |'}}}
+1043: {'values_changed': {"root['alexa']": {'new_value': '21 |', 'old_value': '22 |'}}}
+1044: {'values_changed': {"root['alexa']": {'new_value': '22 |', 'old_value': '21 |'}}}
+1049: {'values_changed': {"root['alexa']": {'new_value': '21 |', 'old_value': '01|a'}}}
+1105: {'values_changed': {"root['alexa']": {'new_value': '01|a', 'old_value': '03|a'}}}
+1112: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Because Were Not Better Then Google'}}}
+1113: {'values_changed': {"root['name']": {'new_value': 'Because Were Not Better Then Google', 'old_value': 'Bing'}}}
+1132: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bngi'}}}
+1133: {'values_changed': {"root['name']": {'new_value': 'Bngi', 'old_value': 'Bing'}}}
+1152: {'values_changed': {"root['alexa']": {'new_value': '03|a', 'old_value': '04|a'}}}
+1153: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing+ But  Its Not  Google'}}}
+1154: {'values_changed': {"root['name']": {'new_value': 'Bing+ But  Its Not  Google', 'old_value': 'Bing'}}}
+1155: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing=BUT ITS NOT GOOGLE'}}}
+1156: {'values_changed': {"root['name']": {'new_value': 'Bing=BUT ITS NOT GOOGLE', 'old_value': 'Bing'}}}
+1161: {'values_changed': {"root['alexa']": {'new_value': '04|a', 'old_value': '05|a'}}}
+1172: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing, a poor version of Google'}}}
+1173: {'values_changed': {"root['name']": {'new_value': 'Bing, a poor version of Google', 'old_value': 'Bing'}}}
+1184: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': "Bing (because It's Not on Google)"}}}
+1185: {'values_changed': {"root['name']": {'new_value': "Bing (because It's Not on Google)", 'old_value': 'Bing'}}}
+1203: {'values_changed': {"root['alexa']": {'new_value': '05|a', 'old_value': '06|a'}}}
+1209: {'values_changed': {"root['slogan']": {'new_value': 'Bing & decide', 'old_value': 'Bing and decide'}}}
+1220: {'values_changed': {"root['alexa']": {'new_value': '06|a', 'old_value': '7|12|a'}}}
+1229: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': "Bing(But's Its Not Google)"}}}
+1230: {'values_changed': {"root['name']": {'new_value': "Bing(But's Its Not Google)", 'old_value': 'Bing(But Its Not Google)'}}}
+1231: {'values_changed': {"root['name']": {'new_value': 'Bing(But Its Not Google)', 'old_value': 'Bing'}}}
+1235: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+1246: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing beats wikipedia so hard'}}}
+1247: {'values_changed': {"root['name']": {'new_value': 'Bing beats wikipedia so hard', 'old_value': 'Bing'}}}
+1259: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+1273: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Bing is not google'}, "root['owner']": {'new_value': 'Microsoft', 'old_value': 'Sony ))'}}}
+1274: {'values_changed': {"root['name']": {'new_value': 'Bing is not google', 'old_value': 'Bing'}, "root['owner']": {'new_value': 'Sony ))', 'old_value': 'Microsoft'}}}
+1277: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'GOOGLE IS BETTER :)'}}}
+1278: {'values_changed': {"root['name']": {'new_value': 'GOOGLE IS BETTER :)', 'old_value': 'Bing'}}}
+1290: {'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|2|a'}}}
+1308: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Ping'}}}
+1309: {'values_changed': {"root['name']": {'new_value': 'Ping', 'old_value': 'Bing'}}}
+1325: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '11|2|a'}}}
+1336: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': "Bing (Because It's Not Google)"}}}
+1337: {'values_changed': {"root['name']": {'new_value': "Bing (Because It's Not Google)", 'old_value': 'Bing'}}}
+1347: {'values_changed': {"root['alexa']": {'new_value': '11|2|a', 'old_value': '12|2|a'}}}
+1372: {'dictionary_item_added': {"root['slogan']": 'Bing and decide'}, 'dictionary_item_removed': {"root['revenue']": 'Bing Ads'}, 'values_changed': {"root['alexa']": {'new_value': '12|2|a', 'old_value': '12|21|a'}}}
+1374: {'values_changed': {"root['alexa']": {'new_value': '12|21|a', 'old_value': '01|11|a'}}}
+1380: {'values_changed': {"root['alexa']": {'new_value': '01|11|a', 'old_value': '04|14|a'}}}
+1388: {'values_changed': {"root['alexa']": {'new_value': '04|14|a', 'old_value': '(Global, '}}}
+1389: {'values_changed': {"root['revenue']": {'new_value': 'Bing Ads', 'old_value': 'Microsoft Ads'}}}
+1402: {'values_changed': {"root['name']": {'new_value': 'Bing', 'old_value': 'Microsoft Bing'}}}
+1410: {'values_changed': {"root['revenue']": {'new_value': 'Microsoft Ads', 'old_value': 'Microsoft Advertising'}}}

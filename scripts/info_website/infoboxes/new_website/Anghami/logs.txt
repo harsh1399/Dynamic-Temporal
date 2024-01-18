@@ -1,0 +1,22 @@
+2: {'dictionary_item_removed': {"root['name']": 'Anghami أنغامي', "root['CEO']": 'Eddy Maroun ', "root['services']": 'Music streaming'}}
+3: {'dictionary_item_removed': {"root['area_served']": 'Middle East (full catalogue) Worldwide (Arabic music only) | country of origin = '}}
+22: {'values_changed': {"root['area_served']": {'new_value': 'Middle East (full catalogue) Worldwide (Arabic music only) | country of origin = ', 'old_value': 'Middle East (full catalogue) Worldwide  | country of origin = '}}}
+23: {'values_changed': {"root['area_served']": {'new_value': 'Middle East (full catalogue) Worldwide  | country of origin = ', 'old_value': 'Middle East (full catalogue) Worldwide (Arabic songs) | country of origin = '}}}
+29: {'values_changed': {"root['name']": {'new_value': 'Anghami أنغامي', 'old_value': 'Anghami '}, "root['area_served']": {'new_value': 'Middle East (full catalogue) Worldwide (Arabic songs) | country of origin = ', 'old_value': 'Middle East and North Africa  (full catalogue)  Worldwide  (Arabic songs)  | country of origin = '}}}
+31: {'values_changed': {"root['area_served']": {'new_value': 'Middle East and North Africa  (full catalogue)  Worldwide  (Arabic songs)  | country of origin = ', 'old_value': 'Middle East and North Africa  13 countries (full catalogue)    Worldwide  (Arabic songs)  | country of origin = '}}}
+34: {'values_changed': {"root['area_served']": {'new_value': 'Middle East and North Africa  13 countries (full catalogue)    Worldwide  (Arabic songs)  | country of origin = ', 'old_value': 'Arab World 13 countries (full catalogue)    Worldwide  (Arabic songs)  | country of origin = '}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Anghami ', 'old_value': 'Anghami أنغامي'}}}
+56: {'values_changed': {"root['area_served']": {'new_value': 'Arab World 13 countries (full catalogue)    Worldwide  (Arabic songs)  | country of origin = ', 'old_value': 'Worldwide | country of origin = '}}}
+58: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide | country of origin = ', 'old_value': 'World | country of origin = '}}}
+59: {'values_changed': {"root['area_served']": {'new_value': 'World | country of origin = ', 'old_value': 'Worldwide | country of origin = '}}}
+62: {'values_changed': {"root['name']": {'new_value': 'Anghami أنغامي', 'old_value': 'Anghami أنHامي'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'Anghami أنHامي', 'old_value': 'Anghami أنغامي'}}}
+76: {'dictionary_item_removed': {"root['num_employees']": '100 (2017)<ref name'}}
+79: {'dictionary_item_added': {"root['num_employees']": '100 (2017)<ref name'}, 'values_changed': {"root['CEO']": {'new_value': 'Eddy Maroun ', 'old_value': 'Taylor Swift '}}}
+80: {'dictionary_item_added': {"root['services']": 'Music streaming'}, 'values_changed': {"root['CEO']": {'new_value': 'Taylor Swift ', 'old_value': 'Taylor Swift<ref name'}}}
+81: {'dictionary_item_removed': {"root['services']": 'Music streaming'}, 'values_changed': {"root['CEO']": {'new_value': 'Taylor Swift<ref name', 'old_value': 'Eddy Maroun '}}}
+93: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide | country of origin = ', 'old_value': 'Arab World,  13 countries (full catalogue)   | country of origin = '}}}
+94: {'values_changed': {"root['area_served']": {'new_value': 'Arab World,  13 countries (full catalogue)   | country of origin = ', 'old_value': 'Arab world,  13 countries (full catalogue)   | country of origin = '}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Anghami أنغامي', 'old_value': 'Anghami'}}}
+96: {'values_changed': {"root['area_served']": {'new_value': 'Arab world,  13 countries (full catalogue)   | country of origin = ', 'old_value': 'Arab world,  13 countries (full catalogue)'}}}
+111: {'values_changed': {"root['area_served']": {'new_value': 'Arab world,  13 countries (full catalogue)', 'old_value': 'Arab world, 13 countries (full catalogue)'}}}

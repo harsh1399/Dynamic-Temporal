@@ -1,0 +1,97 @@
+0: {'dictionary_item_removed': {"root['name']": 'WWE Network', "root['logofile']": 'Wwenetworklogo.png', "root['logocaption']": "The logo unveiled during the November 9, 2011 episode of ''WWE NXT''.", "root['owner']": 'WWE', "root['country']": 'United States | broadcast area   = United States', "root['web']": '| sat serv 1'}}
+34: {'dictionary_item_removed': {"root['slogan']": "''It's Way Over the Top''"}}
+39: {'values_changed': {"root['owner']": {'new_value': 'WWE', 'old_value': 'World Wrestling Entertainment, Inc.'}}}
+41: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States', 'old_value': 'United States | broadcast area   = Worldwide'}}}
+42: {'values_changed': {"root['logocaption']": {'new_value': "The logo unveiled during the November 9, 2011 episode of ''WWE NXT''.", 'old_value': 'WWE Network'}}}
+43: {'values_changed': {"root['web']": {'new_value': '| sat serv 1', 'old_value': 'http://www.wwe.com WWE.com | sat serv 1'}}}
+46: {'values_changed': {"root['web']": {'new_value': 'http://www.wwe.com WWE.com | sat serv 1', 'old_value': 'http://www.wwenetwork.com WWENetwork.com | sat serv 1'}}}
+55: {'values_changed': {"root['web']": {'new_value': 'http://www.wwenetwork.com WWENetwork.com | sat serv 1', 'old_value': 'http://www.wwenetwork.com WWE Network | sat serv 1'}}}
+60: {'values_changed': {"root['owner']": {'new_value': 'World Wrestling Entertainment, Inc.', 'old_value': 'WWE, Inc.'}}}
+63: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = Worldwide', 'old_value': 'United States | broadcast area   = United States '}}}
+87: {'values_changed': {"root['web']": {'new_value': 'http://www.wwenetwork.com WWE Network | sat serv 1', 'old_value': 'sat serv'}}}
+94: {'values_changed': {"root['web']": {'new_value': 'sat serv', 'old_value': 'http://www.wwe.com/wwenetwork | sat serv 1'}}}
+95: {'values_changed': {"root['web']": {'new_value': 'http://www.wwe.com/wwenetwork | sat serv 1', 'old_value': 'sat serv'}}}
+105: {'values_changed': {"root['owner']": {'new_value': 'WWE, Inc.', 'old_value': 'WWE'}}}
+106: {'values_changed': {"root['owner']": {'new_value': 'WWE', 'old_value': 'WWE Inc.'}}}
+113: {'dictionary_item_added': {"root['logocaption']": 'WWE Network'}, 'values_changed': {"root['owner']": {'new_value': 'WWE Inc.', 'old_value': 'WWE'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'wwe.com'}}}
+130: {'values_changed': {"root['name']": {'new_value': 'wwe.com', 'old_value': 'WWE Network'}}}
+145: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'im the best'}}}
+146: {'values_changed': {"root['name']": {'new_value': 'im the best', 'old_value': 'WWE Network'}}}
+179: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''It's Way Over The Top''"}}}
+187: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'WWE Networ'}}}
+188: {'dictionary_item_added': {"root['logofile']": 'Wwenetworklogo.png', "root['owner']": 'WWE', "root['slogan']": "''It's Way Over The Top''"}, 'values_changed': {"root['name']": {'new_value': 'WWE Networ', 'old_value': "NIO{OB CU;P?N213456yuikmnbvcfdgthyjmn vbhjIt's Way Over The Top''"}}}
+189: {'dictionary_item_removed': {"root['logofile']": 'Wwenetworklogo.png', "root['owner']": 'WWE', "root['slogan']": "''It's Way Over The Top''"}, 'values_changed': {"root['name']": {'new_value': "NIO{OB CU;P?N213456yuikmnbvcfdgthyjmn vbhjIt's Way Over The Top''", 'old_value': 'WWE Network'}}}
+192: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'WWE Network mehsam'}}}
+193: {'values_changed': {"root['name']": {'new_value': 'WWE Network mehsam', 'old_value': 'WWE Network'}}}
+198: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over The Top''", 'old_value': "''It's Way Over the Top''"}}}
+204: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'Daniel Bryan Network'}}}
+205: {'values_changed': {"root['name']": {'new_value': 'Daniel Bryan Network', 'old_value': 'WWE Network'}}}
+224: {'dictionary_item_removed': {"root['operater']": 'MLBAM'}}
+225: {'dictionary_item_added': {"root['operater']": 'MLBAM'}, 'values_changed': {"root['owner']": {'new_value': 'WWE', 'old_value': 'WWE | operated by      = MLBAM'}}}
+226: {'values_changed': {"root['owner']": {'new_value': 'WWE | operated by      = MLBAM', 'old_value': 'WWE'}}}
+289: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States ', 'old_value': 'Australia | broadcast area   = United States '}}}
+290: {'values_changed': {"root['country']": {'new_value': 'Australia | broadcast area   = United States ', 'old_value': 'United States | broadcast area   = United States '}}}
+292: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'True Jesus Christ'}, "root['owner']": {'new_value': 'WWE', 'old_value': 'Jesus Christ'}}}
+293: {'values_changed': {"root['name']": {'new_value': 'True Jesus Christ', 'old_value': 'WWE Network'}, "root['owner']": {'new_value': 'Jesus Christ', 'old_value': 'WWE'}}}
+311: {'values_changed': {"root['logofile']": {'new_value': 'Wwenetworklogo.png', 'old_value': 'WWE network.jpg'}}}
+316: {'dictionary_item_added': {"root['logofile']": 'WWE network.jpg'}, 'dictionary_item_removed': {"root['launch']": 'picture format   = 720p'}}
+317: {'dictionary_item_added': {"root['launch']": 'picture format   = 720p'}, 'dictionary_item_removed': {"root['logofile']": 'Wwenetworklogo.png'}}
+326: {'dictionary_item_added': {"root['name']": 'WWE Network', "root['logofile']": 'Wwenetworklogo.png', "root['owner']": 'WWE', "root['slogan']": "''It's Way Over the Top''", "root['country']": 'United States | broadcast area   = United States ', "root['web']": 'sat serv'}, 'dictionary_item_removed': {"root['championshipname']": 'NXT Championship', "root['currentholder']": 'Adrian Neville', "root['won']": 'February 27, 2014', "root['promotion']": 'WWE NXT', "root['created']": 'July 1, 2012', "root['firstchamp']": 'Seth Rollins', "root['longestreign']": 'Bo Dallas (280 days)', "root['shortestreign']": 'Seth Rollins (133 days)', "root['oldest']": 'Adrian Neville (', "root['youngest']": 'Bo Dallas (', "root['heaviest']": 'Big E Langston '}}
+327: {'dictionary_item_added': {"root['championshipname']": 'NXT Championship', "root['currentholder']": 'Adrian Neville', "root['won']": 'February 27, 2014', "root['promotion']": 'WWE NXT', "root['created']": 'July 1, 2012', "root['firstchamp']": 'Seth Rollins', "root['longestreign']": 'Bo Dallas (280 days)', "root['shortestreign']": 'Seth Rollins (133 days)', "root['oldest']": 'Adrian Neville (', "root['youngest']": 'Bo Dallas (', "root['heaviest']": 'Big E Langston '}, 'dictionary_item_removed': {"root['name']": 'WWE Network', "root['logofile']": 'Wwenetworklogo.png', "root['owner']": 'WWE', "root['slogan']": "''It's Way Over the Top''", "root['country']": 'United States | broadcast area   = United States ', "root['web']": 'sat serv'}}
+333: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''It's Way Over the Top''  ''It's Like Netflix, but Better!''"}}}
+334: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''  ''It's Like Netflix, but Better!''", 'old_value': "''It's Way Over the Top''"}}}
+338: {'dictionary_item_added': {"root['slogan']": "''It's Way Over the Top''"}, 'dictionary_item_removed': {"root['slogans']": '\'\'It\'s Way Over the Top\'\' "It\'s like Netflix... ONLY BETTER!"'}}
+339: {'dictionary_item_added': {"root['slogans']": '\'\'It\'s Way Over the Top\'\' "It\'s like Netflix... ONLY BETTER!"'}, 'dictionary_item_removed': {"root['slogan']": "''It's Way Over the Top'' ''It's Like Netflix... ONLY BETTER!''"}}
+340: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top'' ''It's Like Netflix... ONLY BETTER!''", 'old_value': "''It's Way Over the Top''"}}}
+345: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States ', 'old_value': 'United States,Canada | broadcast area   = United States '}}}
+346: {'values_changed': {"root['country']": {'new_value': 'United States,Canada | broadcast area   = United States ', 'old_value': 'United States | broadcast area   = United States '}}}
+351: {'values_changed': {"root['logofile']": {'new_value': 'Wwenetworklogo.png', 'old_value': 'thumbnail'}}}
+362: {'dictionary_item_added': {"root['logofile']": 'thumbnail'}, 'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''Running Wild''"}}}
+363: {'values_changed': {"root['slogan']": {'new_value': "''Running Wild''", 'old_value': '\'\'It\'s Way Over The Top"'}}}
+365: {'values_changed': {"root['slogan']": {'new_value': '\'\'It\'s Way Over The Top"', 'old_value': "''It's Way Over the Top''"}}}
+372: {'dictionary_item_removed': {"root['logofile']": 'Wwenetworklogo.png'}}
+400: {'dictionary_item_added': {"root['logofile']": 'Wwenetworklogo.png', "root['web']": 'sat serv'}, 'dictionary_item_removed': {"root['launch']": 'picture format   = 720p'}}
+417: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''Buy It For Only $9.99 ,Triple H Face''"}}}
+418: {'values_changed': {"root['slogan']": {'new_value': "''Buy It For Only $9.99 ,Triple H Face''", 'old_value': "''It's Way Over the Top''"}}}
+430: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States ', 'old_value': 'United States | broadcast area   = United States  '}}}
+440: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'WWE Networks'}}}
+441: {'values_changed': {"root['name']": {'new_value': 'WWE Networks', 'old_value': 'WWE Network'}}}
+451: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States  ', 'old_value': 'United States | broadcast area   = United States '}}}
+459: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States ', 'old_value': 'United States | broadcast area   = United States, Australia, New Zealand, Hong Kong, Singapore, Mexico, Spain, Nordics '}}}
+461: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States, Australia, New Zealand, Hong Kong, Singapore, Mexico, Spain, Nordics ', 'old_value': 'United States | broadcast area   = United States,  Australia,   New Zealand Hong Kong  Singapore Mexico Spain Nordics '}}}
+462: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States,  Australia,   New Zealand Hong Kong  Singapore Mexico Spain Nordics ', 'old_value': 'United States | broadcast area   = United States,  Australia,   New Zealand,  Hong Kong,   Singapore,  Mexico,  Spain,  Nordics,  '}}}
+463: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''It's Only $9.99''"}}}
+469: {'values_changed': {"root['country']": {'new_value': 'United States | broadcast area   = United States,  Australia,   New Zealand,  Hong Kong,   Singapore,  Mexico,  Spain,  Nordics,  ', 'old_value': 'United States | broadcast area   = United States,  Australia,   New Zealand,  Hong Kong,   Singapore,  Mexico,  Spain,  Portugal,  Brazil,  Nordics,  '}}}
+470: {'values_changed': {"root['slogan']": {'new_value': "''It's Only $9.99''", 'old_value': "''It's Way Over the Top''"}}}
+471: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over the Top''", 'old_value': "''It's only $9.99''"}}}
+483: {'dictionary_item_added': {"root['country']": 'United States | broadcast area   = United States,  Australia,   New Zealand,  Hong Kong,   Singapore,  Mexico,  Spain,  Portugal,  Brazil,  Nordics,  '}, 'dictionary_item_removed': {"root['logofile']": 'File:Wwenetworklogo.png'}}
+484: {'values_changed': {"root['slogan']": {'new_value': "''It's only $9.99''", 'old_value': "''It's Way Over The Top''"}}}
+485: {'values_changed': {"root['slogan']": {'new_value': "''It's Way Over The Top''", 'old_value': '\'\'It\'s Only $9.99"'}}}
+486: {'values_changed': {"root['slogan']": {'new_value': '\'\'It\'s Only $9.99"', 'old_value': '\'\'"It\'s Way Over The Top!"\'\''}}}
+487: {'values_changed': {"root['launch']": {'new_value': 'picture format   = 720p', 'old_value': 'United States and 170+ countries    |picture format   = 720p HD'}}}
+488: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s Way Over The Top!"\'\'', 'old_value': '"It\'s only $9.99"'}}}
+489: {'values_changed': {"root['launch']": {'new_value': 'United States and 170+ countries    |picture format   = 720p HD', 'old_value': 'picture format   = 720p'}, "root['slogan']": {'new_value': '"It\'s only $9.99"', 'old_value': '\'\'"It\'s Way Over The Top!"\'\''}}}
+499: {'dictionary_item_added': {"root['logofile']": 'File:Wwenetworklogo.png'}, 'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s Way Over The Top!"\'\'', 'old_value': '\'\'"It\'s only 9.99"\'\''}}}
+500: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s only 9.99"\'\'', 'old_value': '\'\'"It\'s Way Over The Top!"\'\''}}}
+503: {'dictionary_item_removed': {"root['logofile']": 'File:http://prowrestlingpowerhouse.com/wp-content/uploads/2012/06/eddie-guerrero-and-chris-benoit.jpg'}}
+522: {'dictionary_item_added': {"root['logofile']": 'File:http://prowrestlingpowerhouse.com/wp-content/uploads/2012/06/eddie-guerrero-and-chris-benoit.jpg'}, 'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s Way Over The Top!"\'\'', 'old_value': '\'\'"It\'s only $9.99!"\'\''}}}
+553: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s only $9.99!"\'\'', 'old_value': '\'\'"It\'s way over the top!"\'\''}}}
+573: {'values_changed': {"root['launch']": {'new_value': 'picture format   = 720p', 'old_value': '|picture format   = 720p'}}}
+574: {'values_changed': {"root['launch']": {'new_value': '|picture format   = 720p', 'old_value': 'picture format   = 720p'}}}
+596: {'values_changed': {"root['name']": {'new_value': 'WWE Network', 'old_value': 'WiFC Network'}}}
+597: {'values_changed': {"root['name']": {'new_value': 'WiFC Network', 'old_value': 'WWE Network'}}}
+601: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s way over the top!"\'\'', 'old_value': '\'\'"It\'s only 9.99!"\'\''}}}
+602: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s only 9.99!"\'\'', 'old_value': '\'\'"It\'s way over the top!"\'\''}}}
+606: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s way over the top!"\'\'', 'old_value': '\'\'"Free! Free! Free!"\'\''}}}
+607: {'values_changed': {"root['slogan']": {'new_value': '\'\'"Free! Free! Free!"\'\'', 'old_value': '\'\'"It\'s way over the top!"\'\''}}}
+610: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s way over the top!"\'\'', 'old_value': '\'\'"It\'s only $9.99!"\'\''}}}
+615: {'dictionary_item_removed': {"root['subscribers']": '731,000 Subscribers as of September 2014   |broadcast area   = Australia, Brazil, Denmark, Finland, Hong Kong, Iceland, Mexico, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, and United States'}}
+616: {'values_changed': {"root['subscribers']": {'new_value': '731,000 Subscribers as of September 2014   |broadcast area   = Australia, Brazil, Denmark, Finland, Hong Kong, Iceland, Mexico, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, and United States', 'old_value': '731,000 Subscribers as of September 2014 |broadcast area   = Australia, Brazil, Denmark, Finland, Hong Kong, Iceland, Mexico, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, and United States'}}}
+623: {'values_changed': {"root['slogan']": {'new_value': '\'\'"It\'s only $9.99!"\'\'', 'old_value': '\'\'"You can see it all for just 9,99!"\'\''}}}
+625: {'dictionary_item_added': {"root['slogan']": '\'\'"You can see it all for just 9,99!"\'\''}, 'dictionary_item_removed': {"root['logofile']": 'WWE Network logo.svg', "root['web']": 'sat serv'}, 'values_changed': {"root['launch']": {'new_value': 'picture format   = 720p', 'old_value': 'picture format  = HDTV (1080p/720p 16:9)'}, "root['subscribers']": {'new_value': '731,000 Subscribers as of September 2014 |broadcast area   = Australia, Brazil, Denmark, Finland, Hong Kong, Iceland, Mexico, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, and United States', 'old_value': 'Over 1,000,000 Subscribers as of January 2015. |broadcast area   = Worldwide (with exceptions)'}}}
+684: {'dictionary_item_added': {"root['subscribers']": 'Over 1,000,000 Subscribers as of January 2015. |broadcast area   = Worldwide (with exceptions)'}, 'dictionary_item_removed': {"root['slogan']": '|broadcast area   = Worldwide (with exceptions)'}}
+690: {'dictionary_item_added': {"root['logofile']": 'WWE Network logo.svg', "root['launch']": 'picture format  = HDTV (1080p/720p 16:9)', "root['slogan']": '|broadcast area   = Worldwide (with exceptions)', "root['web']": 'sat serv'}, 'dictionary_item_removed': {"root['picture_format']": 'HDTV (1080p/720p 16:9)', "root['area']": 'Worldwide (with exceptions)', "root['sat_serv_1']": 'Astro (Malaysia)', "root['sat_chan_1']": 'Channel 821 (HD),  Channel 841 (SD)'}}
+705: {'dictionary_item_removed': {"root['sat_serv_2']": 'Unifi TV', "root['sat_chan_2']": 'Channel 730 (HD)'}}
+707: {'dictionary_item_added': {"root['sat_serv_2']": 'Unifi TV', "root['sat_chan_2']": 'Channel 730 (HD)'}, 'dictionary_item_removed': {"root['iptv_serv_1']": 'Unifi TV', "root['iptv_chan_1']": 'Channel 730 (HD)'}, 'values_changed': {"root['owner']": {'new_value': 'WWE', 'old_value': 'Astro, Measat Broadcasting Systems Sdn Bhd'}}}
+710: {'values_changed': {"root['owner']": {'new_value': 'Astro, Measat Broadcasting Systems Sdn Bhd', 'old_value': 'WWE'}}}

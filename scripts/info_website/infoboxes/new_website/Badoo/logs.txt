@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Badoo', "root['owner']": 'Badoo Trading Limited 332 Agiou Andreou Street, "Patrician Chambers"  3035 Limassol Cyprus http://badoo.com/terms Badoo – Terms of Use Accessed August 2009.'}}
+1: {'dictionary_item_removed': {"root['num_users']": '232,904,567+ ', "root['creator']": 'Andrey Andreev', "root['ip']": '31.222.77.252'}, 'values_changed': {"root['owner']": {'new_value': 'Badoo Trading Limited 332 Agiou Andreou Street, "Patrician Chambers"  3035 Limassol Cyprus http://badoo.com/terms Badoo – Terms of Use Accessed August 2009.', 'old_value': 'Badoo Trading Ltd'}}}
+13: {'dictionary_item_added': {"root['ip']": '31.222.77.252'}, 'values_changed': {"root['num_users']": {'new_value': '232,904,567+ ', 'old_value': '246,075,125+ '}}}
+17: {'values_changed': {"root['owner']": {'new_value': 'Badoo Trading Ltd', 'old_value': 'Badoo Trading Limited 332 Agiou Andreou Street, "Patrician Chambers"  3035 Limassol '}}}
+29: {'dictionary_item_added': {"root['name']": 'Badoo', "root['num_users']": '246,075,125+ '}, 'dictionary_item_removed': {"root['nname']": 'Badoo'}}
+30: {'dictionary_item_added': {"root['nname']": 'Badoo'}, 'dictionary_item_removed': {"root['name']": 'Badoo'}}
+36: {'values_changed': {"root['owner']": {'new_value': 'Badoo Trading Limited 332 Agiou Andreou Street, "Patrician Chambers"  3035 Limassol ', 'old_value': 'Badoo Trading Limited'}, "root['creator']": {'new_value': 'Andrey Andreev', 'old_value': 'Andrey Andreev '}}}
+41: {'values_changed': {"root['owner']": {'new_value': 'Badoo Trading Limited', 'old_value': 'Badoo Trading Ltd.'}}}
+53: {'values_changed': {"root['owner']": {'new_value': 'Badoo Trading Ltd.', 'old_value': 'Bumble Inc.'}}}

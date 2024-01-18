@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'Youku', "root['owner']": 'Victor Koo', "root['slogan']": '"The World is Watching"', "root['alexa']": '56 '}}
+12: {'dictionary_item_added': {"root['slogan']": '"The World is Watching"'}, 'dictionary_item_removed': {"root['company_logo']": 'Image:YoukuLogo.jpg', "root['foundation']": 'March, 2006', "root['company_slogan']": '"The World is Watching"', "root['website_type']": 'Video hosting service'}, 'values_changed': {"root['owner']": {'new_value': 'Victor Koo', 'old_value': 'Independent'}}}
+15: {'values_changed': {"root['alexa']": {'new_value': '56 ', 'old_value': '49 '}}}
+32: {'dictionary_item_added': {"root['company_logo']": 'Image:YoukuLogo.jpg', "root['foundation']": 'March, 2006', "root['owner']": 'Independent'}, 'dictionary_item_removed': {"root['num_employees']": '2,104', "root['services']": 'Online services', "root['revenue']": 'US$ 897 million (2011)'}, 'values_changed': {"root['name']": {'new_value': 'Youku', 'old_value': 'Youku Inc.'}, "root['alexa']": {'new_value': '49 ', 'old_value': '12|1|a'}}}
+37: {'dictionary_item_added': {"root['name']": 'Youku Inc.'}, 'dictionary_item_removed': {"root['company_name']": 'Youku Inc.'}}
+38: {'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '2|2|a'}}}
+40: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|1|a'}}}
+43: {'values_changed': {"root['alexa']": {'new_value': '3|1|a', 'old_value': '4|1|a'}}}
+66: {'dictionary_item_added': {"root['company_name']": 'Youku Inc.'}, 'dictionary_item_removed': {"root['name']": 'Youku Inc.'}}
+69: {'values_changed': {"root['revenue']": {'new_value': 'US$ 897 million (2011)', 'old_value': 'US$ 649.5 million (2014)'}}}
+105: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+111: {'dictionary_item_added': {"root['company_slogan']": '"The World is Watching"', "root['alexa']": '4|1|a'}, 'values_changed': {"root['name']": {'new_value': 'Youku Inc.', 'old_value': 'Youku Tudou Inc.'}}}
+118: {'dictionary_item_removed': {"root['location']": 'Beijing, China'}}
+120: {'values_changed': {"root['location']": {'new_value': 'Beijing, China', 'old_value': 'Beijing, China (main);'}}}
+121: {'values_changed': {"root['location']": {'new_value': 'Beijing, China (main);', 'old_value': 'Beijing, China (main); Shanghai'}}}
+126: {'values_changed': {"root['location']": {'new_value': 'Beijing, China (main); Shanghai', 'old_value': 'Beijing, China (main)'}}}
+127: {'values_changed': {"root['location']": {'new_value': 'Beijing, China (main)', 'old_value': 'Beijing, China (main); Shanghai'}}}
+131: {'dictionary_item_added': {"root['location']": 'Beijing, China (main); Shanghai'}, 'values_changed': {"root['revenue']": {'new_value': 'US$ 649.5 million (2014)', 'old_value': 'US$649.5 million (2014)'}}}

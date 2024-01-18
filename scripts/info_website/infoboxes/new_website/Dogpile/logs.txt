@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Dogpile.com', "root['owner']": 'InfoSpace, Inc.', "root['slogan']": 'All the best search engines piled into one', "root['alexa']": '1|2|a'}}
+2: {'values_changed': {"root['alexa']": {'new_value': '1|2|a', 'old_value': '2|2|a'}}}
+3: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|2|a'}}}
+4: {'values_changed': {"root['alexa']": {'new_value': '3|2|a', 'old_value': '4|2|a'}}}
+7: {'values_changed': {"root['alexa']": {'new_value': '4|2|a', 'old_value': '5|2|a'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Dogpile.com', 'old_value': 'Dogpile'}}}
+10: {'values_changed': {"root['alexa']": {'new_value': '5|2|a', 'old_value': '6|2|a'}}}
+14: {'values_changed': {"root['alexa']": {'new_value': '6|2|a', 'old_value': '7|2|a'}}}
+17: {'values_changed': {"root['alexa']": {'new_value': '7|2|a', 'old_value': '8|2|a'}}}
+22: {'values_changed': {"root['owner']": {'new_value': 'InfoSpace, Inc.', 'old_value': 'Blucora, Inc.'}}}
+26: {'values_changed': {"root['alexa']": {'new_value': '8|2|a', 'old_value': '9|9|a'}}}
+38: {'dictionary_item_added': {"root['slogan']": 'All the best search engines piled into one', "root['alexa']": '9|9|a'}, 'values_changed': {"root['owner']": {'new_value': 'Blucora, Inc.', 'old_value': 'System1'}}}

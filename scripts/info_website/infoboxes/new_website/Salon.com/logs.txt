@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Salon.com', "root['allegiance']": 'Liberal (mostly)', "root['owner']": 'Salon Media Group'}}
+6: {'dictionary_item_removed': {"root['editor']": 'Kerry Lauerman | launch date = 1995 | current status ='}}
+13: {'values_changed': {"root['name']": {'new_value': 'Salon.com', 'old_value': 'Salon'}}}
+22: {'dictionary_item_added': {"root['allegiance']": 'Liberal (mostly)'}, 'values_changed': {"root['editor']": {'new_value': 'Kerry Lauerman | launch date = 1995 | current status =', 'old_value': 'Kerry Lauerman'}}}
+33: {'values_changed': {"root['name']": {'new_value': 'Salon', 'old_value': "''Salon''"}}}
+65: {'values_changed': {"root['editor']": {'new_value': 'Kerry Lauerman', 'old_value': 'David Daley'}}}
+124: {'values_changed': {"root['editor']": {'new_value': 'David Daley', 'old_value': 'David Fascist'}}}
+125: {'values_changed': {"root['owner']": {'new_value': 'Salon Media Group', 'old_value': "Hitler's Nazis Media Group"}}}
+126: {'dictionary_item_added': {"root['owner']": "Hitler's Nazis Media Group"}, 'values_changed': {"root['editor']": {'new_value': 'David Fascist', 'old_value': 'David'}}}
+172: {'values_changed': {"root['editor']": {'new_value': 'David', 'old_value': 'Pete Catapano and Alex Bhattacharji'}}}
+185: {'dictionary_item_removed': {"root['owner']": 'Salon Media Group Inc.'}}
+196: {'values_changed': {"root['editor']": {'new_value': 'Pete Catapano and Alex Bhattacharji', 'old_value': 'Pete Catapano and Alex Bhattacharji | key people      = Jordan Hoffner '}}}
+198: {'values_changed': {"root['editor']": {'new_value': 'Pete Catapano and Alex Bhattacharji | key people      = Jordan Hoffner ', 'old_value': "Andrew O'Hehir | key people      = Jordan Hoffner "}}}
+258: {'dictionary_item_removed': {"root['key_people']": 'Jordan Hoffner '}, 'values_changed': {"root['editor']": {'new_value': "Andrew O'Hehir | key people      = Jordan Hoffner ", 'old_value': "Andrew O'Hehir"}}}
+261: {'dictionary_item_added': {"root['owner']": 'Salon Media Group Inc.'}, 'values_changed': {"root['editor']": {'new_value': "Andrew O'Hehir", 'old_value': 'Erin Keane '}, "root['key_people']": {'new_value': 'Jordan Hoffner ', 'old_value': 'Chris Richmond '}}}
+262: {'values_changed': {"root['editor']": {'new_value': 'Erin Keane ', 'old_value': 'Erin Keane (Editor in Chief)'}, "root['key_people']": {'new_value': 'Chris Richmond ', 'old_value': 'Chris Richmond (CEO)'}}}

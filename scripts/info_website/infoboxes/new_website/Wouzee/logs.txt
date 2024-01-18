@@ -1,0 +1,8 @@
+4: {'dictionary_item_removed': {"root['company_name']": 'wouzee.com.', "root['services']": 'Video Streaming'}}
+5: {'values_changed': {"root['company_name']": {'new_value': 'wouzee.com.', 'old_value': 'wouzee.com'}}}
+6: {'values_changed': {"root['company_name']": {'new_value': 'wouzee.com', 'old_value': 'wouzee'}}}
+7: {'dictionary_item_removed': {"root['users']": '20.000 (junio 2014)'}}
+8: {'values_changed': {"root['company_name']": {'new_value': 'wouzee', 'old_value': "'''wouzee'''"}}}
+10: {'dictionary_item_removed': {"root['Slogan']": 'Bienvenido al Lifestreaming'}}
+11: {'values_changed': {"root['Slogan']": {'new_value': 'Bienvenido al Lifestreaming', 'old_value': 'Welcome to Lifestreaming'}, "root['services']": {'new_value': 'Video Streaming', 'old_value': 'Video Streaming  |current state'}}}
+24: {'values_changed': {"root['users']": {'new_value': '20.000 (junio 2014)', 'old_value': '20.000 (june 2014)'}}}

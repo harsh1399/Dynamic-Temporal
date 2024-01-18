@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'CNET', "root['owner']": 'CBS Interactive', "root['category']": 'Journalism'}}
+15: {'dictionary_item_removed': {"root['editor']": 'Lindsey Turrentine and Connie Guglielmo'}, 'values_changed': {"root['category']": {'new_value': 'Journalism', 'old_value': 'Journalism |launch date'}}}
+26: {'values_changed': {"root['editor']": {'new_value': 'Lindsey Turrentine and Connie Guglielmo', 'old_value': 'Lindsey Turrentine ,  Connie Guglielmo'}}}
+40: {'dictionary_item_added': {"root['category']": 'Journalism |launch date'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['owner']": {'new_value': 'CBS Interactive', 'old_value': 'Red Ventures'}, "root['name']": {'new_value': 'CNET', 'old_value': "''CNET''"}}}
+67: {'values_changed': {"root['owner']": {'new_value': 'Red Ventures', 'old_value': 'Rico ValdezRed Ventures'}}}
+68: {'values_changed': {"root['owner']": {'new_value': 'Rico ValdezRed Ventures', 'old_value': 'Red Ventures'}}}

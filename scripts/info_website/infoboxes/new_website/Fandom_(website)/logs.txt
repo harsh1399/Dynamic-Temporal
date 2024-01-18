@@ -1,0 +1,78 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Wikia, Inc.', "root['foundation']": '2004', "root['key_people']": 'Craig Palmer (CEO)', "root['products']": 'Wiki hosting', "root['num_employees']": '127 (September 2011)', "root['website_type']": 'Wiki farm'}}
+26: {'values_changed': {"root['num_employees']": {'new_value': '127 (September 2011)', 'old_value': '200 (March 2014)'}}}
+92: {'values_changed': {"root['website_type']": {'new_value': 'Wiki farm', 'old_value': 'Wiki hosting service'}}}
+103: {'dictionary_item_removed': {"root['defunct']": '2014', "root['dissolved_date']": 'November 4, 2014'}}
+113: {'dictionary_item_added': {"root['company_name']": 'Wikia, Inc.', "root['foundation']": '2004', "root['defunct']": '2014', "root['key_people']": 'Craig Palmer (CEO)', "root['dissolved_date']": 'November 4, 2014'}, 'dictionary_item_removed': {"root['name']": 'Wikia, Inc.', "root['CEO']": 'Craig Palmer', "root['president']": 'Jimmy Wales '}, 'values_changed': {"root['products']": {'new_value': 'Wiki hosting', 'old_value': ',Wiki hosting ,Data Research   ,API'}}}
+119: {'dictionary_item_removed': {"root['Slogan']": 'The Home of Fandom'}}
+120: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Wikipedia'}, "root['CEO']": {'new_value': 'Craig Palmer', 'old_value': 'Craig Charles'}, "root['president']": {'new_value': 'Jimmy Wales ', 'old_value': 'Jimmy '}}}
+121: {'values_changed': {"root['name']": {'new_value': 'Wikipedia', 'old_value': 'Wikia, Inc.'}, "root['CEO']": {'new_value': 'Craig Charles', 'old_value': 'Craig Palmer'}, "root['president']": {'new_value': 'Jimmy ', 'old_value': 'Jimmy Wales '}}}
+139: {'dictionary_item_added': {"root['num_employees']": '200 (March 2014)', "root['president']": 'Jimmy Wales '}, 'dictionary_item_removed': {"root['foundation']": '201', "root['work']": 'current_stat'}, 'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Escarpg'}, "root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'Pancraft'}, "root['products']": {'new_value': ',Wiki hosting ,Data Research   ,API', 'old_value': ',Server ,Data Research   ,API'}, "root['CEO']": {'new_value': 'Craig Palmer', 'old_value': 'Adrian'}}}
+140: {'dictionary_item_added': {"root['foundation']": '201', "root['work']": 'current_stat'}, 'dictionary_item_removed': {"root['president']": 'Jimmy Wales '}, 'values_changed': {"root['name']": {'new_value': 'Escarpg', 'old_value': 'Wikia, Inc.'}, "root['Slogan']": {'new_value': 'Pancraft', 'old_value': 'The Home of Fandom'}, "root['products']": {'new_value': ',Server ,Data Research   ,API', 'old_value': ',Wiki hosting ,Data Research   ,API'}, "root['CEO']": {'new_value': 'Adrian', 'old_value': 'Craig Palmer'}}}
+178: {'dictionary_item_removed': {"root['num_employees']": '300+ (2016)'}, 'values_changed': {"root['president']": {'new_value': 'Jimmy Wales ', 'old_value': 'Jimmy Wales'}}}
+192: {'dictionary_item_added': {"root['products']": ',Wiki hosting ,Data Research   ,API', "root['Slogan']": 'The Home of Fandom', "root['num_employees']": '300+ (2016)', "root['website_type']": 'Wiki hosting service'}, 'values_changed': {"root['CEO']": {'new_value': 'Craig Palmer', 'old_value': '#DiscussionsAreStupid '}}}
+193: {'dictionary_item_removed': {"root['products']": ',Wiki hosting ,Data Research   ,API', "root['Slogan']": 'The Home of Fandom', "root['num_employees']": '300+ (2016)', "root['website_type']": 'Wiki hosting service'}, 'values_changed': {"root['CEO']": {'new_value': '#DiscussionsAreStupid ', 'old_value': 'Craig Palmer'}}}
+194: {'dictionary_item_removed': {"root['work']": 'Optional | language'}, 'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,Data Research   ,API', 'old_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,Digital Pop Culture News Magazine'}}}
+195: {'dictionary_item_added': {"root['work']": 'Optional | language'}, 'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,Digital Pop Culture News Magazine', 'old_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine'}}}
+199: {'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine', 'old_value': ',Wiki hosting, Fandom ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine'}}}
+200: {'values_changed': {"root['products']": {'new_value': ',Wiki hosting, Fandom ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine', 'old_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine'}}}
+210: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'The Home of Fandom (Jan-Oct 2016)'}}}
+211: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom (Jan-Oct 2016)', 'old_value': 'The Home of Fandom'}}}
+212: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'The Home of Fandom (Jan-Oct 2016)'}}}
+213: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom (Jan-Oct 2016)', 'old_value': 'The Home of Fandom'}}}
+214: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'The Home of Fandom (Jan-Oct 2016)'}}}
+215: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom (Jan-Oct 2016)', 'old_value': 'The Home of Fandom'}}}
+221: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'The Home of Fandom (Jan-Oct 2016)'}}}
+222: {'values_changed': {"root['Slogan']": {'new_value': 'The Home of Fandom (Jan-Oct 2016)', 'old_value': 'The Home of Fandom'}}}
+255: {'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,,Wiki Topic Discussion Forums ,Data Research   ,Private Focus Group and Early Marketing   ,API    ,Digital Pop Culture News Magazine', 'old_value': ',Wiki hosting ,, Wiki Topic Discussion Forums , Data Research   , Private Focus Group and Early Marketing   , API    , Digital Pop Culture News Magazine'}, "root['Slogan']": {'new_value': 'The Home of Fandom', 'old_value': 'The Home of Fandom (2015–2016)'}}}
+306: {'dictionary_item_added': {"root['president']": 'Jimmy Wales', "root['CEO']": 'Craig Palmer'}, 'dictionary_item_removed': {"root['key_people']": 'Craig Palmer ('}}
+312: {'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,, Wiki Topic Discussion Forums , Data Research   , Private Focus Group and Early Marketing   , API    , Digital Pop Culture News Magazine', 'old_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine'}}}
+313: {'values_changed': {"root['key_people']": {'new_value': 'Craig Palmer (', 'old_value': 'Andy Doyle ('}}}
+314: {'values_changed': {"root['key_people']": {'new_value': 'Andy Doyle (', 'old_value': 'Andrew Doyle ('}}}
+325: {'dictionary_item_added': {"root['Slogan']": 'The Home of Fandom (2015–2016)'}, 'dictionary_item_removed': {"root['users']": '14 million'}}
+330: {'dictionary_item_removed': {"root['alexa']": '58 ('}}
+331: {'values_changed': {"root['users']": {'new_value': '14 million', 'old_value': '~14 million   '}}}
+332: {'values_changed': {"root['users']": {'new_value': '~14 million   ', 'old_value': '~14 million   ('}}}
+351: {'dictionary_item_added': {"root['num_employees']": '300+ (2016)'}, 'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine', 'old_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine   | revenue              = | url                  =  alexa                =  58 ('}}}
+352: {'dictionary_item_removed': {"root['num_employees']": '300+ (2016)'}, 'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine   | revenue              = | url                  =  alexa                =  58 (', 'old_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine'}}}
+361: {'values_changed': {"root['alexa']": {'new_value': '58 (', 'old_value': '21 (US), 58 (global)('}}}
+381: {'values_changed': {"root['alexa']": {'new_value': '21 (US), 58 (global)(', 'old_value': '18 (US), 56 (global)('}, "root['users']": {'new_value': '~14 million   (', 'old_value': '~15 million   ('}}}
+418: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'ABWikia, Inc.'}}}
+419: {'values_changed': {"root['name']": {'new_value': 'ABWikia, Inc.', 'old_value': 'Wikia, Inc.'}}}
+432: {'dictionary_item_added': {"root['alexa']": '18 (US), 56 (global)('}, 'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Wikipedia Knockoff for games and wack stuff'}}}
+433: {'values_changed': {"root['name']": {'new_value': 'Wikipedia Knockoff for games and wack stuff', 'old_value': 'Wikia, Inc.'}}}
+522: {'values_changed': {"root['key_people']": {'new_value': 'Andrew Doyle (', 'old_value': 'Perkins Miller ('}}}
+529: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom'}}}
+534: {'values_changed': {"root['name']": {'new_value': 'Fandom', 'old_value': 'Wikia, Inc.'}}}
+573: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Nyami Is The Best Wikia User'}}}
+574: {'values_changed': {"root['name']": {'new_value': 'Nyami Is The Best Wikia User', 'old_value': 'Wikia, Inc.'}}}
+583: {'values_changed': {"root['key_people']": {'new_value': 'Perkins Miller (', 'old_value': 'Lav Parmar, Perkins Miller ('}}}
+584: {'values_changed': {"root['key_people']": {'new_value': 'Lav Parmar, Perkins Miller (', 'old_value': 'Perkins Miller ('}}}
+614: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+616: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+617: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+618: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+619: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+620: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+622: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+623: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+624: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+625: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+626: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+627: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Wikia, Inc.'}}}
+638: {'values_changed': {"root['name']": {'new_value': 'Wikia, Inc.', 'old_value': 'Fandom, Inc.'}}}
+653: {'values_changed': {"root['key_people']": {'new_value': 'Perkins Miller (', 'old_value': 'Perkins Miller (CEO) Donovan Duncan (Chief business officer), Jimmy Wales (President)'}, "root['products']": {'new_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research   , Private focus group and early marketing   , API   , Digital pop culture news magazine', 'old_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research'}, "root['users']": {'new_value': '~15 million   (', 'old_value': '26 million   ('}}}
+664: {'dictionary_item_removed': {"root['subsid']": 'Curse Media   Focus Multimedia'}}
+670: {'values_changed': {"root['key_people']": {'new_value': 'Perkins Miller (CEO) Donovan Duncan (Chief business officer), Jimmy Wales (President)', 'old_value': 'Perkins Miller (CEO), Jimmy Wales (President), Brandon Rhea (VP of Growth)'}}}
+694: {'values_changed': {"root['key_people']": {'new_value': 'Perkins Miller (CEO), Jimmy Wales (President), Brandon Rhea (VP of Growth)', 'old_value': 'Perkins Miller (CEO), Jimmy Wales (President), Brandon Rhea (VP of Community)'}}}
+711: {'dictionary_item_removed': {"root['slogan']": 'For the love of fans.'}}
+719: {'dictionary_item_added': {"root['slogan']": 'For the love of fans.'}, 'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Willy on Wheels!'}}}
+720: {'values_changed': {"root['name']": {'new_value': 'Willy on Wheels!', 'old_value': 'Fandom, Inc.'}}}
+721: {'values_changed': {"root['name']": {'new_value': 'Fandom, Inc.', 'old_value': 'Willy on Wheels!'}}}
+723: {'values_changed': {"root['name']": {'new_value': 'Willy on Wheels!', 'old_value': 'Fandom, Inc.'}}}
+783: {'values_changed': {"root['key_people']": {'new_value': 'Perkins Miller (CEO), Jimmy Wales (President), Brandon Rhea (VP of Community)', 'old_value': 'Brandon Rhea '}}}
+827: {'values_changed': {"root['subsid']": {'new_value': 'Curse Media   Focus Multimedia', 'old_value': 'Comic Vine   Cord Cutters News   Curse Media   Focus Multimedia   GameFAQs   GameSpot   Giant Bomb   Metacritic   TV Guide'}}}
+828: {'values_changed': {"root['subsid']": {'new_value': 'Comic Vine   Cord Cutters News   Curse Media   Focus Multimedia   GameFAQs   GameSpot   Giant Bomb   Metacritic   TV Guide', 'old_value': 'Curse Media   Focus Multimedia'}}}
+833: {'values_changed': {"root['products']": {'new_value': ',Wiki hosting ,, Wiki topic discussion forums , Data research', 'old_value': ', Wiki hosting ,, Wiki topic discussion forums , Data research'}, "root['subsid']": {'new_value': 'Curse Media   Focus Multimedia', 'old_value': 'Curse Media ,  Focus Multimedia'}}}
+834: {'values_changed': {"root['subsid']": {'new_value': 'Curse Media ,  Focus Multimedia', 'old_value': 'Curse Media, Focus Multimedia'}}}
+836: {'values_changed': {"root['users']": {'new_value': '26 million   (', 'old_value': '31 million   ('}}}
+839: {'dictionary_item_added': {"root['key_people']": 'Brandon Rhea ', "root['subsid']": 'Curse Media, Focus Multimedia'}, 'dictionary_item_removed': {"root['license']": 'Media licensing varies'}}

@@ -1,0 +1,9 @@
+5: {'dictionary_item_removed': {"root['name']": 'Blendle B.V.', "root['country']": '|country of origin    = Netherlands', "root['locations']": '|area served          =', "root['GM']": '|key people           =', "root['alexa']": 'website type', "root['launched']": '|current status       =  |native clients       ='}}
+12: {'dictionary_item_added': {"root['locations']": '|area served          =', "root['GM']": '|key people           ='}, 'dictionary_item_removed': {"root['location']": 'Utrecht', "root['CEO']": '|key people           ='}, 'values_changed': {"root['name']": {'new_value': 'Blendle B.V.', 'old_value': 'Blendle bv'}, "root['country']": {'new_value': '|country of origin    = Netherlands', 'old_value': 'Netherlands  |area served          ='}, "root['launched']": {'new_value': '|current status       =  |native clients       =', 'old_value': '|current status'}}}
+13: {'dictionary_item_removed': {"root['users']": '250,000 (April 2015)'}}
+14: {'values_changed': {"root['users']": {'new_value': '250,000 (April 2015)', 'old_value': '250,000 (April 2015) '}}}
+19: {'values_changed': {"root['name']": {'new_value': 'Blendle bv', 'old_value': 'Blendle B.V.'}}}
+23: {'values_changed': {"root['alexa']": {'new_value': 'website type', 'old_value': 'website type         =News, magazin'}}}
+24: {'values_changed': {"root['country']": {'new_value': 'Netherlands  |area served          =', 'old_value': 'Netherlands  |area served          =Netherlands, Germany'}, "root['users']": {'new_value': '250,000 (April 2015) ', 'old_value': '|||'}}}
+29: {'dictionary_item_removed': {"root['revenue']": '|operating income     ='}}
+32: {'dictionary_item_added': {"root['CEO']": '|key people           =', "root['revenue']": '|operating income     ='}, 'values_changed': {"root['users']": {'new_value': '|||', 'old_value': '550,000 ('}, "root['launched']": {'new_value': '|current status', 'old_value': '04|28|'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'TheFreeDictionary.com', "root['owner']": 'Farlex, Inc.'}}
+1: {'values_changed': {"root['owner']": {'new_value': 'Farlex, Inc.', 'old_value': 'http://www.farlex.com Farlex, Inc.'}}}
+2: {'values_changed': {"root['name']": {'new_value': 'TheFreeDictionary.com', 'old_value': 'TheFreeDictionary'}, "root['owner']": {'new_value': 'http://www.farlex.com Farlex, Inc.', 'old_value': 'http://www.ahmedgroup.synthasite.com AhmedPedia, Inc.'}}}
+3: {'values_changed': {"root['name']": {'new_value': 'TheFreeDictionary', 'old_value': 'TheFreeDictionary.com'}, "root['owner']": {'new_value': 'http://www.ahmedgroup.synthasite.com AhmedPedia, Inc.', 'old_value': 'http://www.farlex.com Farlex, Inc.'}}}
+4: {'values_changed': {"root['owner']": {'new_value': 'http://www.farlex.com Farlex, Inc.', 'old_value': 'http://www.farlex.com Farlex, Inc./ http://www.ahmedgroup.synthasite.com Ahmed Group'}}}
+12: {'values_changed': {"root['owner']": {'new_value': 'http://www.farlex.com Farlex, Inc./ http://www.ahmedgroup.synthasite.com Ahmed Group', 'old_value': 'http://www.farlex.com Farlex, Inc.'}}}
+13: {'values_changed': {"root['owner']": {'new_value': 'http://www.farlex.com Farlex, Inc.', 'old_value': 'Farlex, Inc.'}}}
+15: {'values_changed': {"root['owner']": {'new_value': 'Farlex, Inc.', 'old_value': 'Farlex, Inc. http://www.farlex.com farlex.com'}}}

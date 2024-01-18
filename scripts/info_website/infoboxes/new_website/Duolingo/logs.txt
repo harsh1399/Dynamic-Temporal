@@ -1,0 +1,81 @@
+11: {'dictionary_item_removed': {"root['name']": 'Duolingo'}}
+100: {'dictionary_item_removed': {"root['logocaption']": 'Duolingo Logo', "root['slogan']": 'With Duolingo you learn a language for free while helping to translate the web'}}
+129: {'values_changed': {"root['logocaption']": {'new_value': 'Duolingo Logo', 'old_value': 'Duolingo logo'}, "root['slogan']": {'new_value': 'With Duolingo you learn a language for free while helping to translate the web', 'old_value': 'Free language education for the world'}}}
+210: {'values_changed': {"root['slogan']": {'new_value': 'Free language education for the world', 'old_value': '"Free language education for the world"'}}}
+226: {'dictionary_item_removed': {"root['alexa']": '04|18|a'}}
+267: {'values_changed': {"root['logocaption']": {'new_value': 'Duolingo logo', 'old_value': 'Duolingo logo, featuring the mascot Duo'}}}
+307: {'values_changed': {"root['alexa']": {'new_value': '04|18|a', 'old_value': '07|21|a'}}}
+335: {'values_changed': {"root['alexa']": {'new_value': '07|21|a', 'old_value': '08|21|a'}}}
+336: {'values_changed': {"root['alexa']": {'new_value': '08|21|a', 'old_value': '09|03|a'}}}
+346: {'dictionary_item_added': {"root['logocaption']": 'Duolingo logo, featuring the mascot Duo'}, 'dictionary_item_removed': {"root['location']": 'Pittsburgh', "root['country']": 'USA |country of origin    =', "root['locations']": '|area served          =', "root['CEO']": 'Luis von Ahn', "root['GM']": '|key people           =', "root['services']": 'Multiple language courses, Duolingo Test Center', "root['revenue']": '|operating income     =', "root['launched']": 'current status       = Online |native clients       = Android, iOS, Windows Pho'}, 'values_changed': {"root['alexa']": {'new_value': '09|03|a', 'old_value': 'website type'}}}
+347: {'dictionary_item_removed': {"root['employees']": '42'}, 'values_changed': {"root['services']": {'new_value': 'Multiple language courses, Duolingo Test Center', 'old_value': 'Language courses, Duolingo Test Center, Duolingo for Schools'}, "root['slogan']": {'new_value': '"Free language education for the world"', 'old_value': "''Free language education for the world''"}}}
+353: {'values_changed': {"root['country']": {'new_value': 'USA |country of origin    =', 'old_value': 'US |country of origin    ='}}}
+375: {'dictionary_item_added': {"root['slogan']": "''Free language education for the world''"}, 'values_changed': {"root['locations']": {'new_value': '|area served          =', 'old_value': '|area served          = outside EU'}}}
+403: {'values_changed': {"root['locations']": {'new_value': '|area served          = outside EU', 'old_value': '|area served          = World European Union (restricted)'}, "root['employees']": {'new_value': '42', 'old_value': '60'}}}
+406: {'values_changed': {"root['location']": {'new_value': 'Pittsburgh', 'old_value': 'Austria'}, "root['country']": {'new_value': 'US |country of origin    =', 'old_value': 'GE |country of origin    ='}}}
+407: {'values_changed': {"root['location']": {'new_value': 'Austria', 'old_value': 'Pittsburgh'}, "root['country']": {'new_value': 'GE |country of origin    =', 'old_value': 'US |country of origin    ='}}}
+423: {'dictionary_item_removed': {"root['assets']": 'Scala (programming language)'}}
+435: {'dictionary_item_added': {"root['assets']": 'Scala (programming language)'}, 'values_changed': {"root['launched']": {'new_value': 'current status       = Online |native clients       = Android, iOS, Windows Pho', 'old_value': 'current status       = Online |native clients       = Android, iOS, Windows Phone, Windows 10 Mobi'}}}
+578: {'values_changed': {"root['employees']": {'new_value': '60', 'old_value': '95'}}}
+589: {'dictionary_item_removed': {"root['slogan']": "''Free language education for the world''"}, 'values_changed': {"root['locations']": {'new_value': '|area served          = World European Union (restricted)', 'old_value': '|area served          = World'}}}
+594: {'dictionary_item_added': {"root['GM']": '|key people           =', "root['slogan']": "''Free language education for the world''"}, 'values_changed': {"root['name']": {'new_value': 'Duolingo', 'old_value': 'Duolingo, Inc.'}, "root['location']": {'new_value': 'Pittsburgh', 'old_value': 'Pittsburgh, PA, U.S.'}, "root['country']": {'new_value': 'US |country of origin    =', 'old_value': '|country of origin    ='}, "root['CEO']": {'new_value': 'Luis von Ahn', 'old_value': 'Luis von Ahn |key people           ='}, "root['services']": {'new_value': 'Language courses, Duolingo Test Center, Duolingo for Schools', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app'}}}
+611: {'dictionary_item_added': {"root['services']": 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', "root['revenue']": '|operating income     =', "root['employees']": '95'}, 'dictionary_item_removed': {"root['products']": 'operating income     = Vqgqywyw|employees            = 95'}}
+612: {'dictionary_item_added': {"root['products']": 'operating income     = Vqgqywyw|employees            = 95'}, 'dictionary_item_removed': {"root['services']": 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', "root['revenue']": '|operating income     =', "root['employees']": '95'}}
+656: {'values_changed': {"root['country']": {'new_value': '|country of origin    =', 'old_value': '|country of origin    = United States of America'}, "root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app, Kidnapping'}}}
+658: {'values_changed': {"root['country']": {'new_value': '|country of origin    = United States of America', 'old_value': '|country of origin    ='}, "root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app, Kidnapping', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app'}}}
+666: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'DO YOUR SPANISH LESSON NOW Inc.'}}}
+667: {'values_changed': {"root['name']": {'new_value': 'DO YOUR SPANISH LESSON NOW Inc.', 'old_value': 'Duolingo, Inc.'}}}
+668: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Do your spanish or else Inc.'}}}
+670: {'values_changed': {"root['name']": {'new_value': 'Do your spanish or else Inc.', 'old_value': 'Duolingo, Inc.'}}}
+682: {'values_changed': {"root['location']": {'new_value': 'Pittsburgh, PA, U.S.', 'old_value': 'Pittsburgh, Pennsylvania, United States'}}}
+710: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Duolingo, Inc. duolingo will kill you and your family if you dont practice spanish. Duolingo will make you beg for your life in Spanish'}}}
+711: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc. duolingo will kill you and your family if you dont practice spanish. Duolingo will make you beg for your life in Spanish', 'old_value': 'Duolingo, Inc.'}}}
+720: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app, taking your family away from you, Chinese water torture, killing you in your sleep.'}}}
+721: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app, taking your family away from you, Chinese water torture, killing you in your sleep.', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app'}}}
+725: {'values_changed': {"root['employees']": {'new_value': '95', 'old_value': '160'}}}
+726: {'values_changed': {"root['employees']": {'new_value': '160', 'old_value': '95'}}}
+813: {'values_changed': {"root['employees']": {'new_value': '95', 'old_value': '170'}}}
+867: {'values_changed': {"root['revenue']": {'new_value': '|operating income     =', 'old_value': '36 million USD in 2018  |operating income     ='}}}
+902: {'dictionary_item_added': {"root['country']": '|country of origin    =', "root['locations']": '|area served          = World', "root['alexa']": 'website type', "root['launched']": 'current status       = Online |native clients       = Android, iOS, Windows Phone, Windows 10 Mobi'}, 'dictionary_item_removed': {"root['area_served']": 'World'}, 'values_changed': {"root['CEO']": {'new_value': 'Luis von Ahn |key people           =', 'old_value': 'Luis von Ahn'}, "root['revenue']": {'new_value': '36 million USD in 2018  |operating income     =', 'old_value': '36 million USD in 2018'}}}
+921: {'values_changed': {"root['employees']": {'new_value': '170', 'old_value': '200+'}}}
+929: {'dictionary_item_added': {"root['employees']": '200+'}, 'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Duolingo, Inc.  He is just way too OP'}}}
+930: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.  He is just way too OP', 'old_value': 'Duolingo, Inc.'}}}
+950: {'dictionary_item_removed': {"root['Valuation']": '$1.5 billion '}}
+993: {'dictionary_item_added': {"root['Valuation']": '$1.5 billion '}, 'dictionary_item_removed': {"root['employees']": '200+'}}
+1012: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Duolingo,also know as "have you done your Spanish lesson yet amigo"Inc.'}}}
+1013: {'values_changed': {"root['name']": {'new_value': 'Duolingo,also know as "have you done your Spanish lesson yet amigo"Inc.', 'old_value': 'Duolingo, Inc.'}}}
+1014: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Duolingo do the Spanish or give your life , Inc.'}}}
+1015: {'values_changed': {"root['name']": {'new_value': 'Duolingo do the Spanish or give your life , Inc.', 'old_value': 'Duolingo, Inc.'}}}
+1053: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Triolingo, Inc.'}, "root['location']": {'new_value': 'Pittsburgh, Pennsylvania, United States', 'old_value': 'tokyo, transylvania, United States'}}}
+1054: {'values_changed': {"root['name']": {'new_value': 'Triolingo, Inc.', 'old_value': 'Duolingo, Inc.'}, "root['location']": {'new_value': 'tokyo, transylvania, United States', 'old_value': 'Pittsburgh, Pennsylvania, United States'}}}
+1066: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Taylorville,IL.'}}}
+1067: {'values_changed': {"root['name']": {'new_value': 'Taylorville,IL.', 'old_value': 'Duolingo, Inc.'}}}
+1158: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Gay Boxcars Inc'}}}
+1159: {'values_changed': {"root['name']": {'new_value': 'Gay Boxcars Inc', 'old_value': 'Duolingo, Inc.'}}}
+1160: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Hello Nyook'}}}
+1161: {'values_changed': {"root['name']": {'new_value': 'Hello Nyook', 'old_value': 'Duolingo, Inc.'}}}
+1162: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'Gay Boxcars'}}}
+1163: {'values_changed': {"root['name']": {'new_value': 'Gay Boxcars', 'old_value': 'Duolingo, Inc.'}}}
+1195: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'speak Spanish or vanish'}}}
+1196: {'values_changed': {"root['name']": {'new_value': 'speak Spanish or vanish', 'old_value': 'Duolingo, Inc.'}}}
+1291: {'values_changed': {"root['revenue']": {'new_value': '36 million USD in 2018', 'old_value': 'Increase$ 36 million USD in 2018'}}}
+1420: {'values_changed': {"root['area_served']": {'new_value': 'World', 'old_value': 'Worldwide'}, "root['revenue']": {'new_value': 'Increase$ 36 million USD in 2018', 'old_value': 'Increase$161.7 million USD (2020) https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm'}, "root['employees']": {'new_value': '200+', 'old_value': '400+'}}}
+1609: {'values_changed': {"root['revenue']": {'new_value': 'Increase$161.7 million USD (2020) https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm', 'old_value': 'Increase US$161.7 million (2020) https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm'}}}
+1610: {'dictionary_item_added': {"root['employees']": '400+'}, 'dictionary_item_removed': {"root['operating_income']": '−60 million (2021)', "root['net_income']": '−60 million (2021)', "root['assets']": '661 million (2021)', "root['equity']": '513 million (2021)'}, 'values_changed': {"root['revenue']": {'new_value': 'Increase US$161.7 million (2020) https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm', 'old_value': '251 million (2021)'}}}
+1616: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools'}}}
+1664: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app'}}}
+1665: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools, Tinycards flashcard app', 'old_value': 'Language courses, Duolingo English Test, Duolingo for Schools'}}}
+1683: {'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test, Duolingo for Schools', 'old_value': 'Language courses, Duolingo English Test'}}}
+1729: {'dictionary_item_removed': {"root['users']": '49.2 million MAU'}}
+1737: {'values_changed': {"root['location']": {'new_value': 'Pittsburgh, Pennsylvania, United States', 'old_value': 'Crimson Kentucky, United States'}}}
+1738: {'values_changed': {"root['location']": {'new_value': 'Crimson Kentucky, United States', 'old_value': 'Pittsburgh, Pennsylvania, United States'}}}
+1763: {'values_changed': {"root['CEO']": {'new_value': 'Luis von Ahn', 'old_value': 'Donald Trump'}}}
+1765: {'values_changed': {"root['CEO']": {'new_value': 'Donald Trump', 'old_value': 'Luis von Ahn'}}}
+1857: {'values_changed': {"root['users']": {'new_value': '49.2 million MAU', 'old_value': '49.5 million MAU'}}}
+1866: {'values_changed': {"root['users']": {'new_value': '49.5 million MAU', 'old_value': '56.5 million MAU'}}}
+1894: {'dictionary_item_removed': {"root['products']": 'Duolingo, Duolingo Math, Duolingo ABC, Duolingo English Test'}, 'values_changed': {"root['services']": {'new_value': 'Language courses, Duolingo English Test', 'old_value': 'Language and mathematics courses and tests.'}}}
+1913: {'values_changed': {"root['name']": {'new_value': 'Duolingo, Inc.', 'old_value': 'pornhub, Inc.'}}}
+1914: {'values_changed': {"root['name']": {'new_value': 'pornhub, Inc.', 'old_value': 'Duolingo, Inc.'}}}
+1920: {'values_changed': {"root['CEO']": {'new_value': 'Luis von Ahn', 'old_value': 'Chelsie Bennet'}}}
+1921: {'values_changed': {"root['CEO']": {'new_value': 'Chelsie Bennet', 'old_value': 'Luis von Ahn'}}}
+1942: {'dictionary_item_removed': {"root['employees']": '600+ (December 2022)'}, 'values_changed': {"root['revenue']": {'new_value': '251 million (2021)', 'old_value': '369 million (2022)'}, "root['operating_income']": {'new_value': '−60 million (2021)', 'old_value': '−65 million (2022)'}, "root['net_income']": {'new_value': '−60 million (2021)', 'old_value': '−60 million (2022)'}, "root['assets']": {'new_value': '661 million (2021)', 'old_value': '747 million (2022)'}, "root['equity']": {'new_value': '513 million (2021)', 'old_value': '542 million (2022)'}, "root['users']": {'new_value': '56.5 million MAU', 'old_value': '60.7 million MAU (2022)'}}}

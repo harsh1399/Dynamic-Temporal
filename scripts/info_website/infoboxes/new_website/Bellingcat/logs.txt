@@ -1,0 +1,5 @@
+6: {'dictionary_item_removed': {"root['name']": 'Bellingcat', "root['slogan']": 'The home of online investigations', "root['creator']": 'Eliot Higgins', "root['ip']": '198.211.103.177'}}
+143: {'dictionary_item_added': {"root['slogan']": 'The home of online investigations', "root['ip']": '198.211.103.177'}, 'dictionary_item_removed': {"root['owner']": 'Stichting Bellingcat'}}
+171: {'values_changed': {"root['owner']": {'new_value': 'Stichting Bellingcat', 'old_value': 'Stichting Bellingcat '}}}
+231: {'values_changed': {"root['name']": {'new_value': 'Bellingcat', 'old_value': 'Belligerent CIA'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Belligerent CIA', 'old_value': 'Bellingcat'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Headspace', "root['area_served']": 'Worldwide', "root['products']": 'Mobile App, Books, Website', "root['num_employees']": '50+'}}
+1: {'dictionary_item_removed': {"root['key_people']": 'Rich Pierson (CEO)'}}
+6: {'dictionary_item_removed': {"root['Developer']": 'Aidan Arnold'}}
+9: {'dictionary_item_added': {"root['Developer']": 'Aidan Arnold', "root['products']": 'Mobile App, Books, Website'}, 'dictionary_item_removed': {"root['num_locations']": '3', "root['num_locations_year']": '2018', "root['genre']": 'Meditation and mindfulness', "root['services']": 'Guided meditation and mindfulness through online platform', "root['subsid']": 'Headspace Health', "root['hq_location']": '2415 Michigan Avenue', "root['hq_location_country']": 'United States '}, 'values_changed': {"root['key_people']": {'new_value': 'Rich Pierson (CEO)', 'old_value': 'Andy Puddicombe, Rich Pierson (CEO), Ross Hoffman (CBO)'}}}
+13: {'values_changed': {"root['num_employees']": {'new_value': '50+', 'old_value': '100+'}}}

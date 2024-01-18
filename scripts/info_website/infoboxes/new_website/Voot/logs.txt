@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Voot', "root['owner']": 'Viacom 18', "root['area_served']": 'India, United Kingdom (Virgin Media Only)', "root['website_type']": 'Entertainment, video streaming, video on demand, web portal'}}
+1: {'values_changed': {"root['area_served']": {'new_value': 'India, United Kingdom (Virgin Media Only)', 'old_value': 'India, United Kingdom (Virgin Media only)'}}}
+43: {'dictionary_item_added': {"root['website_type']": 'Entertainment, video streaming, video on demand, web portal'}, 'dictionary_item_removed': {"root['num_users']": '100 monthly active users'}}
+44: {'values_changed': {"root['num_users']": {'new_value': '100 monthly active users', 'old_value': '100 million monthly active users'}}}
+67: {'dictionary_item_added': {"root['num_users']": '100 million monthly active users'}, 'values_changed': {"root['area_served']": {'new_value': 'India, United Kingdom (Virgin Media only)', 'old_value': 'India United Kingdom (Virgin Media only)'}}}
+71: {'values_changed': {"root['area_served']": {'new_value': 'India United Kingdom (Virgin Media only)', 'old_value': 'India United Kingdom (Virgin Media only) /> United States (Sling TV only)'}}}
+72: {'values_changed': {"root['area_served']": {'new_value': 'India United Kingdom (Virgin Media only) /> United States (Sling TV only)', 'old_value': 'India United Kingdom (Virgin Media only) United States (Sling TV only)'}}}
+89: {'values_changed': {"root['owner']": {'new_value': 'Viacom 18', 'old_value': 'Viacom18'}}}

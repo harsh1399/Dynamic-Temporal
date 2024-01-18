@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Dice.com', "root['location']": 'San Jose, CA, U.S.', "root['key_people']": 'Bob Melk, President, Dice. Mike Durney, President and Chief Executive Officer, DHI Group, Inc.', "root['owner']": 'DHI Group, Inc.', "root['services']": 'Career website', "root['website_type']": 'Job search engine, review site', "root['alexa']": '12|10|a'}}
+1: {'values_changed': {"root['key_people']": {'new_value': 'Bob Melk, President, Dice. Mike Durney, President and Chief Executive Officer, DHI Group, Inc.', 'old_value': 'Mike Durney, President and Chief Executive Officer, DHI Group, Inc.'}}}
+3: {'values_changed': {"root['key_people']": {'new_value': 'Mike Durney, President and Chief Executive Officer, DHI Group, Inc.', 'old_value': 'Mike Durney, president and chief executive officer, DHI Group, Inc.'}}}
+12: {'values_changed': {"root['key_people']": {'new_value': 'Mike Durney, president and chief executive officer, DHI Group, Inc.', 'old_value': 'Art Zeile, president and chief executive officer, DHI Group, Inc.'}}}
+13: {'values_changed': {"root['location']": {'new_value': 'San Jose, CA, U.S.', 'old_value': 'New York, NY, U.S.'}}}

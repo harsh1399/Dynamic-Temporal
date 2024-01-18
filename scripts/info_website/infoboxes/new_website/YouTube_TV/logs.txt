@@ -1,0 +1,10 @@
+6: {'dictionary_item_removed': {"root['name']": 'YouTube TV', "root['services']": 'Streaming television', "root['hq_location_city']": '901 Cherry Avenue, San Bruno, California, U.S.', "root['area_served']": 'United States', "root['owner']": 'YouTube (Google)'}}
+9: {'dictionary_item_added': {"root['area_served']": 'United States', "root['owner']": 'YouTube (Google)'}, 'values_changed': {"root['services']": {'new_value': 'Streaming television', 'old_value': 'OTT Internet television'}}}
+10: {'dictionary_item_removed': {"root['area_served']": 'United States', "root['owner']": 'YouTube (Google)'}, 'values_changed': {"root['services']": {'new_value': 'OTT Internet television', 'old_value': 'Streaming television'}}}
+104: {'values_changed': {"root['name']": {'new_value': 'YouTube TV', 'old_value': 'YouTube TV | https://youtubetvsupportservice.blogspot.com/p/contact-youtube-tv-customer-service.html Contact YouTube TV Customer Service Number'}}}
+105: {'values_changed': {"root['name']": {'new_value': 'YouTube TV | https://youtubetvsupportservice.blogspot.com/p/contact-youtube-tv-customer-service.html Contact YouTube TV Customer Service Number', 'old_value': 'YouTube TV'}}}
+108: {'values_changed': {"root['owner']": {'new_value': 'YouTube (Google)', 'old_value': 'Alphabet Inc.'}}}
+109: {'dictionary_item_removed': {"root['users']": '7|1|'}}
+110: {'dictionary_item_added': {"root['hq_location_city']": '901 Cherry Avenue, San Bruno, California, U.S.'}, 'dictionary_item_removed': {"root['location']": '901 Cherry Avenue, San Bruno, California, U.S.'}}
+116: {'values_changed': {"root['area_served']": {'new_value': 'United States', 'old_value': 'United States, Europe'}}}
+117: {'values_changed': {"root['area_served']": {'new_value': 'United States, Europe', 'old_value': 'United States'}}}

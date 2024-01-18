@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gay.com', "root['owner']": 'PlanetOut Inc.'}}
+20: {'values_changed': {"root['owner']": {'new_value': 'PlanetOut Inc.', 'old_value': 'Henry W. Laster'}}}
+22: {'values_changed': {"root['owner']": {'new_value': 'Henry W. Laster', 'old_value': 'PlanetOut Inc.'}}}
+23: {'values_changed': {"root['owner']": {'new_value': 'PlanetOut Inc.', 'old_value': 'Henry W. Laster'}}}
+24: {'values_changed': {"root['owner']": {'new_value': 'Henry W. Laster', 'old_value': 'PlanetOut Inc.'}}}
+25: {'values_changed': {"root['owner']": {'new_value': 'PlanetOut Inc.', 'old_value': 'Henry W. Laster...DO NOT REVISE LISTING AS IT HAS BEEN VERIFIED'}}}
+26: {'values_changed': {"root['owner']": {'new_value': 'Henry W. Laster...DO NOT REVISE LISTING AS IT HAS BEEN VERIFIED', 'old_value': 'PlanetOut Inc.'}}}
+33: {'dictionary_item_removed': {"root['alexa']": '3085 http://www.alexa.com/data/details/traffic_details/gay.com'}}
+41: {'values_changed': {"root['name']": {'new_value': 'Gay.com', 'old_value': 'gay.com'}}}
+44: {'dictionary_item_added': {"root['alexa']": '3085 http://www.alexa.com/data/details/traffic_details/gay.com'}, 'values_changed': {"root['owner']": {'new_value': 'PlanetOut Inc.', 'old_value': 'Here Media Inc.'}}}
+61: {'dictionary_item_removed': {"root['slogan']": 'Encounter. Experience. Enjoy. | current status'}, 'values_changed': {"root['name']": {'new_value': 'gay.com', 'old_value': 'Gay.com'}}}
+62: {'dictionary_item_removed': {"root['revenue']": 'Advertising membership fee for premium accounts. | current status'}, 'values_changed': {"root['slogan']": {'new_value': 'Encounter. Experience. Enjoy. | current status', 'old_value': 'Encounter. Experience. Enjoy.'}}}

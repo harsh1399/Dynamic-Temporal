@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'ClassDojo', "root['location']": 'San Francisco, California'}}
+3: {'dictionary_item_removed': {"root['area_served']": 'Worldwide', "root['products']": 'Educational technology', "root['num_employees']": '30 (2017) |'}}
+44: {'dictionary_item_added': {"root['products']": 'Educational technology'}, 'values_changed': {"root['num_employees']": {'new_value': '30 (2017) |', 'old_value': '40+(2019) |'}}}
+45: {'values_changed': {"root['name']": {'new_value': 'ClassDojo', 'old_value': '5/6 W'}}}
+50: {'values_changed': {"root['name']": {'new_value': '5/6 W', 'old_value': 'ClassDojo'}, "root['num_employees']": {'new_value': '40+(2019) |', 'old_value': '30 (2017) |'}}}
+53: {'values_changed': {"root['num_employees']": {'new_value': '30 (2017) |', 'old_value': '40 (2019)'}}}
+65: {'values_changed': {"root['location']": {'new_value': 'San Francisco, California', 'old_value': 'San Shrewsbury Massachusetts )'}}}
+66: {'values_changed': {"root['location']": {'new_value': 'San Shrewsbury Massachusetts )', 'old_value': 'San Francisco, California'}}}
+76: {'values_changed': {"root['name']": {'new_value': 'ClassDojo', 'old_value': 'Natalie'}}}
+77: {'values_changed': {"root['name']": {'new_value': 'Natalie', 'old_value': 'ClassDojo'}}}

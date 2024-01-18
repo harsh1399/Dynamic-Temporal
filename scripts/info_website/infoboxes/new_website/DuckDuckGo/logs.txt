@@ -1,0 +1,48 @@
+0: {'dictionary_item_removed': {"root['name']": 'DuckDuckGo', "root['slogan']": "The search engine that doesn't track you so thats cool brawl.", "root['location']": 'Paoli, Pennsylvania, United States', "root['owner']": 'DuckDuckGo, Inc.', "root['alexa']": '12|14|a'}}
+1: {'values_changed': {"root['slogan']": {'new_value': "The search engine that doesn't track you so thats cool brawl.", 'old_value': "The search engine that doesn't track you."}}}
+21: {'values_changed': {"root['alexa']": {'new_value': '12|14|a', 'old_value': '2|8|a'}}}
+23: {'values_changed': {"root['alexa']": {'new_value': '2|8|a', 'old_value': '2|24|a'}}}
+24: {'values_changed': {"root['alexa']": {'new_value': '2|24|a', 'old_value': '2|25|a'}}}
+27: {'values_changed': {"root['alexa']": {'new_value': '2|25|a', 'old_value': '2|28|a'}}}
+28: {'values_changed': {"root['alexa']": {'new_value': '2|28|a', 'old_value': '03|1|a'}}}
+44: {'values_changed': {"root['alexa']": {'new_value': '03|1|a', 'old_value': '03|26|a'}}}
+46: {'values_changed': {"root['alexa']": {'new_value': '03|26|a', 'old_value': '03|29|a'}}}
+49: {'values_changed': {"root['alexa']": {'new_value': '03|29|a', 'old_value': '03|30|a'}}}
+50: {'values_changed': {"root['alexa']": {'new_value': '03|30|a', 'old_value': '03|31|a'}}}
+68: {'values_changed': {"root['location']": {'new_value': 'Paoli, Pennsylvania, United States', 'old_value': 'Paoli, Pennsylvania, fairy land/)$$$$$$'}}}
+69: {'values_changed': {"root['location']": {'new_value': 'Paoli, Pennsylvania, fairy land/)$$$$$$', 'old_value': 'Paoli, Pennsylvania, United States'}}}
+71: {'values_changed': {"root['alexa']": {'new_value': '03|31|a', 'old_value': '06|02|a'}}}
+92: {'values_changed': {"root['alexa']": {'new_value': '06|02|a', 'old_value': '06|17|a'}}}
+107: {'values_changed': {"root['alexa']": {'new_value': '06|17|a', 'old_value': '08|13|a'}}}
+113: {'values_changed': {"root['slogan']": {'new_value': "The search engine that doesn't track you.", 'old_value': "virus engine that doesn't need to track"}}}
+114: {'values_changed': {"root['slogan']": {'new_value': "virus engine that doesn't need to track", 'old_value': "The search engine that doesn't track you."}}}
+117: {'values_changed': {"root['slogan']": {'new_value': "The search engine that doesn't track you.", 'old_value': 'Better Than Google.'}}}
+119: {'values_changed': {"root['slogan']": {'new_value': 'Better Than Google.', 'old_value': "The search engine that doesn't track you."}}}
+137: {'values_changed': {"root['alexa']": {'new_value': '08|13|a', 'old_value': '11|16|a'}}}
+140: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'DuckDuckGo is Bullshit'}}}
+141: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo is Bullshit', 'old_value': 'DuckDuckGo'}}}
+142: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'DuckDuckGoBullshit'}}}
+143: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGoBullshit', 'old_value': 'DuckDuckGo'}}}
+145: {'values_changed': {"root['location']": {'new_value': 'Paoli, Pennsylvania, United States', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, USA'}}}
+147: {'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania, USA', 'old_value': 'Paoli, Pennsylvania, United States'}}}
+148: {'values_changed': {"root['location']": {'new_value': 'Paoli, Pennsylvania, United States', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, USA'}}}
+156: {'dictionary_item_added': {"root['alexa']": '11|16|a'}, 'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania, USA', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, United States'}}}
+175: {'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania, United States', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania'}}}
+177: {'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, United States'}}}
+182: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'duckduckGo'}}}
+183: {'values_changed': {"root['name']": {'new_value': 'duckduckGo', 'old_value': 'DuckDuckGo'}}}
+193: {'values_changed': {"root['owner']": {'new_value': 'DuckDuckGo, Inc.', 'old_value': 'Duck Duck Go, Inc.'}}}
+214: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'DickDickGo'}}}
+215: {'values_changed': {"root['name']": {'new_value': 'DickDickGo', 'old_value': 'DuckDuckGo'}}}
+216: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'DickDickGo'}}}
+217: {'values_changed': {"root['name']": {'new_value': 'DickDickGo', 'old_value': 'DuckDuckGo'}}}
+218: {'values_changed': {"root['name']": {'new_value': 'DuckDuckGo', 'old_value': 'DickDickGo'}}}
+219: {'values_changed': {"root['name']": {'new_value': 'DickDickGo', 'old_value': 'DuckDuckGo'}}}
+240: {'dictionary_item_removed': {"root['alexa']": 'current status       = Acti'}}
+282: {'values_changed': {"root['alexa']": {'new_value': 'current status       = Acti', 'old_value': 'current status = Acti'}}}
+307: {'dictionary_item_removed': {"root['area_served']": 'Worldwide'}}
+309: {'dictionary_item_removed': {"root['revenue']": 'Unknown'}}
+355: {'dictionary_item_added': {"root['slogan']": "The search engine that doesn't track you.", "root['revenue']": 'Unknown', "root['area_served']": 'Worldwide'}, 'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania, United States', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, United States | area_served'}}}
+356: {'dictionary_item_removed': {"root['area_served']": 'Worldwide '}, 'values_changed': {"root['location']": {'new_value': '20 Paoli Pike, Paoli, Pennsylvania, United States | area_served', 'old_value': '20 Paoli Pike, Paoli, Pennsylvania, United States'}}}
+432: {'dictionary_item_added': {"root['alexa']": 'current status = Acti'}, 'dictionary_item_removed': {"root['revenue']": '|  | current status = Active'}}
+433: {'dictionary_item_added': {"root['revenue']": '|  | current status = Active'}, 'dictionary_item_removed': {"root['alexa']": 'current status = Acti'}}

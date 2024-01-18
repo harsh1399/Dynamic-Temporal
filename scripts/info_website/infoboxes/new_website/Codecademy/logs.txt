@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Codecademy', "root['area_served']": 'Worldwide', "root['num_employees']": '57', "root['num_users']": '25 million ('}}
+15: {'values_changed': {"root['name']": {'new_value': 'Codecademy', 'old_value': 'Ryzac, Inc.'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'Ryzac, Inc.', 'old_value': 'Codecademy'}}}
+21: {'dictionary_item_removed': {"root['owner']": 'Ryzac, Inc.'}}
+27: {'values_changed': {"root['num_employees']": {'new_value': '57', 'old_value': '90'}}}
+54: {'values_changed': {"root['num_employees']": {'new_value': '90', 'old_value': '109'}, "root['num_users']": {'new_value': '25 million (', 'old_value': '45 million ('}}}

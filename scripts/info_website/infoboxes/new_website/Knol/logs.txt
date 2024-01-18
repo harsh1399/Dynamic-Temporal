@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'Knol'}}
+161: {'values_changed': {"root['name']": {'new_value': 'Knol', 'old_value': 'knoll'}}}
+162: {'values_changed': {"root['name']": {'new_value': 'knoll', 'old_value': 'Knol'}}}
+163: {'values_changed': {"root['name']": {'new_value': 'Knol', 'old_value': 'knoll'}}}
+164: {'values_changed': {"root['name']": {'new_value': 'knoll', 'old_value': 'Knol'}}}
+214: {'dictionary_item_removed': {"root['owner']": 'Google'}}
+223: {'dictionary_item_removed': {"root['alexa']": '#2 (the rank of Google.com)'}}
+254: {'dictionary_item_removed': {"root['slogan']": 'Knol, a unit of knowledge'}}
+337: {'dictionary_item_added': {"root['alexa']": '#2 (the rank of Google.com)'}, 'values_changed': {"root['slogan']": {'new_value': 'Knol, a unit of knowledge', 'old_value': 'Knol, a unit of knowledge '}}}
+339: {'values_changed': {"root['slogan']": {'new_value': 'Knol, a unit of knowledge ', 'old_value': 'Knol, a unit of knowledge'}}}
+385: {'dictionary_item_removed': {"root['status']": 'Inactive (deleted October 1, 2012)'}}

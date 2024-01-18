@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Daytrotter', "root['owner']": 'Daytrotter | created by = Daytrotter', "root['genre']": 'Alternative rock  Indie rock', "root['country']": 'United States', "root['location']": 'Rock Island, Illinois'}}
+11: {'dictionary_item_added': {"root['genre']": 'Alternative rock  Indie rock', "root['country']": 'United States', "root['location']": 'Rock Island, Illinois'}, 'values_changed': {"root['owner']": {'new_value': 'Daytrotter | created by = Daytrotter', 'old_value': 'Daytrotter'}}}
+12: {'dictionary_item_added': {"root['owner']": 'Daytrotter'}, 'dictionary_item_removed': {"root['launched']": 'March 2006'}}
+13: {'dictionary_item_added': {"root['launched']": 'March 2006'}, 'dictionary_item_removed': {"root['owner']": 'Daytrotter'}}
+16: {'values_changed': {"root['owner']": {'new_value': 'Daytrotter', 'old_value': "Wolfgang's Vault"}}}
+27: {'values_changed': {"root['owner']": {'new_value': "Wolfgang's Vault", 'old_value': "Wolfgang's"}}}
+28: {'values_changed': {"root['owner']": {'new_value': "Wolfgang's", 'old_value': "Wolfgang's "}}}

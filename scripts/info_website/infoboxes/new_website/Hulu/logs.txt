@@ -1,0 +1,8 @@
+10: {'dictionary_item_removed': {"root['company_name']": 'Hulu, LLC', "root['company_logo']": 'hulu.com logo', "root['foundation']": 'August 29, 2007', "root['key_people']": 'Jason Kilar, CEO | homepage = http://www.hulu.com/ hulu.com', "root['website_type']": 'video sharing '}}
+13: {'dictionary_item_removed': {"root['homepage']": 'http://www.hulu.com/ hulu.com'}, 'values_changed': {"root['key_people']": {'new_value': 'Jason Kilar, CEO | homepage = http://www.hulu.com/ hulu.com', 'old_value': 'Jason Kilar, CEO'}}}
+72: {'dictionary_item_added': {"root['company_name']": 'Hulu, LLC', "root['company_logo']": 'hulu.com logo', "root['foundation']": 'August 29, 2007', "root['homepage']": 'http://www.hulu.com/ hulu.com', "root['website_type']": 'video sharing '}, 'dictionary_item_removed': {"root['name']": 'Hulu, LLC', "root['area_served']": 'United States, Japan'}, 'values_changed': {"root['key_people']": {'new_value': 'Jason Kilar, CEO', 'old_value': 'Joe Earley (President)'}}}
+98: {'values_changed': {"root['area_served']": {'new_value': 'United States, Japan', 'old_value': 'United States, Japan, Croatia, Serbia'}}}
+99: {'values_changed': {"root['area_served']": {'new_value': 'United States, Japan, Croatia, Serbia', 'old_value': 'United States, Japan'}}}
+108: {'dictionary_item_removed': {"root['owner']": "'''United States version: '''"}}
+112: {'dictionary_item_added': {"root['owner']": "'''United States version: '''"}, 'values_changed': {"root['area_served']": {'new_value': 'United States, Japan', 'old_value': 'United States'}}}
+133: {'values_changed': {"root['name']": {'new_value': 'Hulu, LLC', 'old_value': 'Hulu'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Inquirer', "root['owner']": 'Incisive Media Ltd.', "root['alexa']": '3|1|a'}}
+1: {'values_changed': {"root['alexa']": {'new_value': '3|1|a', 'old_value': '4|1|a'}}}
+2: {'dictionary_item_removed': {"root['editor']": 'Madeline Bennett | news editor    = Carly Page | staff writer   = Lee Bell', "root['contributors']": "Dave Neal, Egan Orion, Chris Merriman (as of November '14)"}}
+5: {'dictionary_item_removed': {"root['reporter']": 'Roland Moore-Colyer'}, 'values_changed': {"root['editor']": {'new_value': 'Madeline Bennett | news editor    = Carly Page | staff writer   = Lee Bell', 'old_value': 'Carly Page'}, "root['contributors']": {'new_value': "Dave Neal, Egan Orion, Chris Merriman (as of November '14)", 'old_value': "Dave Neal, Chris Merriman (as of November '14)"}, "root['alexa']": {'new_value': '4|1|a', 'old_value': '10|07|a'}}}
+6: {'dictionary_item_added': {"root['reporter']": 'Roland Moore-Colyer', "root['contributors']": "Dave Neal, Chris Merriman (as of November '14)"}, 'dictionary_item_removed': {"root['key_people']": "Roland Moore-Colyer, Dave Neal, Chris Merriman (as of November '14)"}}

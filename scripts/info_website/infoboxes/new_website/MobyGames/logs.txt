@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'MobyGames', "root['logocaption']": "MobyGames' official logo", "root['owner']": 'GameFly', "root['revenue']": '|current status  = active'}}
+38: {'dictionary_item_removed': {"root['alexa']": '15,786 ('}}
+62: {'dictionary_item_added': {"root['alexa']": '15,786 ('}, 'values_changed': {"root['logocaption']": {'new_value': "MobyGames' official logo", 'old_value': "MobyGames' old official logo"}, "root['owner']": {'new_value': 'GameFly', 'old_value': 'GameFly |launch date     = '}}}
+63: {'values_changed': {"root['owner']": {'new_value': 'GameFly |launch date     = ', 'old_value': 'GameFly (formerly, now acquired by Blue Flame Labs)  |launch date     = '}}}
+77: {'values_changed': {"root['owner']": {'new_value': 'GameFly (formerly, now acquired by Blue Flame Labs)  |launch date     = ', 'old_value': 'Blue Flame Labs  |launch date     = '}}}
+133: {'values_changed': {"root['revenue']": {'new_value': '|current status  = active', 'old_value': '|current status  = inactive'}}}
+135: {'values_changed': {"root['revenue']": {'new_value': '|current status  = inactive', 'old_value': '|current status  = active'}}}

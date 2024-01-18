@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Farfetch Limited', "root['collapsetext']": 'Screenshot', "root['key_people']": 'José Neves, founder and CEO', "root['products']": 'Clothes, shoes, accessories, jewellery, designer', "root['num_employees']": '3,000', "root['foundation']": 'June 2007', "root['location']": 'London, England '}}
+9: {'values_changed': {"root['location']": {'new_value': 'London, England ', 'old_value': 'Oporto, Portugal '}}}
+10: {'values_changed': {"root['location']": {'new_value': 'Oporto, Portugal ', 'old_value': 'London, England '}}}
+35: {'values_changed': {"root['num_employees']": {'new_value': '3,000', 'old_value': '4,200'}}}
+36: {'values_changed': {"root['num_employees']": {'new_value': '4,200', 'old_value': '3,000'}}}
+37: {'values_changed': {"root['num_employees']": {'new_value': '3,000', 'old_value': '4,532'}}}
+40: {'dictionary_item_added': {"root['products']": 'Clothes, shoes, accessories, jewellery, designer'}, 'values_changed': {"root['num_employees']": {'new_value': '4,532', 'old_value': '4,533'}}}
+41: {'dictionary_item_removed': {"root['products']": 'Clothes, shoes, accessories, jewellery, designer'}, 'values_changed': {"root['num_employees']": {'new_value': '4,533', 'old_value': '4,532'}}}

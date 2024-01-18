@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['name']": 'G2A.COM', "root['num_users']": 'Over 16 million', "root['num_employees']": '700 (', "root['area_served']": 'Worldwide'}}
+3: {'values_changed': {"root['num_users']": {'new_value': 'Over 16 million', 'old_value': '20 million (as of 2020)'}, "root['num_employees']": {'new_value': '700 (', 'old_value': '550 (as of 2020)'}}}
+101: {'values_changed': {"root['num_employees']": {'new_value': '550 (as of 2020)', 'old_value': '600 (as of 2020)'}}}

@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['name']": 'LendingTree', "root['foundation']": 'Charlotte, North Carolina, USA (1996)', "root['location']": '11115 Rushmore Drive,  Charlotte, North Carolina 28277,  United States', "root['key_people']": 'Doug Lebda, CEO/Founder', "root['num_employees']": '150+ (2014)', "root['homepage']": 'http://www.lendingtree.com www.lendingtree.com '}}
+1: {'values_changed': {"root['num_employees']": {'new_value': '150+ (2014)', 'old_value': '300+ (2016)'}}}
+7: {'dictionary_item_removed': {"root['owner']": 'Douglas Lebda, MBA '}}
+8: {'values_changed': {"root['owner']": {'new_value': 'Douglas Lebda, MBA ', 'old_value': 'Doug Lebda, MBA '}}}
+9: {'values_changed': {"root['owner']": {'new_value': 'Doug Lebda, MBA ', 'old_value': 'Doug Lebda '}}}
+10: {'dictionary_item_added': {"root['foundation']": 'Charlotte, North Carolina, USA (1996)'}, 'values_changed': {"root['location']": {'new_value': '11115 Rushmore Drive,  Charlotte, North Carolina 28277,  United States', 'old_value': 'Charlotte, North Carolina, United States'}, "root['key_people']": {'new_value': 'Doug Lebda, CEO/Founder', 'old_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson'}, "root['owner']": {'new_value': 'Doug Lebda ', 'old_value': 'Doug Lebda (14.8%) '}, "root['num_employees']": {'new_value': '300+ (2016)', 'old_value': '500+ (2017)'}}}
+11: {'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson', 'old_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson (CMO), Claudette Parham (CHRO), Paul Tyma (CTO), J.D. Moriarty (CFO), Nikul Patel'}}}
+14: {'dictionary_item_added': {"root['homepage']": 'http://www.lendingtree.com www.lendingtree.com '}, 'values_changed': {"root['num_employees']": {'new_value': '500+ (2017)', 'old_value': '575+ (2017)'}}}
+15: {'values_changed': {"root['num_employees']": {'new_value': '575+ (2017)', 'old_value': '575+ (2018)'}}}
+27: {'dictionary_item_removed': {"root['revenue']": '$617.7 million (2017)'}}
+29: {'dictionary_item_added': {"root['revenue']": '$617.7 million (2017)'}, 'values_changed': {"root['owner']": {'new_value': 'Doug Lebda (14.8%) ', 'old_value': 'Doug Lebda (14.8%)'}}}
+30: {'values_changed': {"root['owner']": {'new_value': 'Doug Lebda (14.8%)', 'old_value': 'Doug Lebda (18.9%)'}}}
+32: {'values_changed': {"root['name']": {'new_value': 'LendingTree', 'old_value': 'LendingTree, Inc.'}}}
+37: {'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson (CMO), Claudette Parham (CHRO), Paul Tyma (CTO), J.D. Moriarty (CFO), Nikul Patel', 'old_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson (CMO), Jill Olmstead (CHRO), Paul Tyma (CTO), J.D. Moriarty (CFO), Nikul Patel'}}}
+39: {'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO), Neil Salvage (President), Brad Wilson (CMO), Jill Olmstead (CHRO), Paul Tyma (CTO), J.D. Moriarty (CFO), Nikul Patel', 'old_value': 'Doug Lebda (CEO)  Neil Salvage (President)'}}}
+40: {'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO)  Neil Salvage (President)', 'old_value': 'Doug Lebda (CEO),  Neil Salvage (President)'}}}
+46: {'values_changed': {"root['num_employees']": {'new_value': '575+ (2018)', 'old_value': '909 (2019)'}}}
+66: {'dictionary_item_removed': {"root['revenue']": '$1,106 million (2019),  $765 million (2018)'}, 'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO),  Neil Salvage (President)', 'old_value': 'Doug Lebda (CEO),  Neil Salvage (President), John David Moriarty  (CFO)'}}}
+67: {'values_changed': {"root['key_people']": {'new_value': 'Doug Lebda (CEO),  Neil Salvage (President), John David Moriarty  (CFO)', 'old_value': 'Doug Lebda (CEO),  Neil Salvage (President), John David Moriarty (CFO)'}}}
+70: {'dictionary_item_removed': {"root['alexa']": '06|17|a'}}

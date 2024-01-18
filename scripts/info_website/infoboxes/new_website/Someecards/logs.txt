@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Someecards'}}
+11: {'values_changed': {"root['name']": {'new_value': 'Someecards', 'old_value': "Someecards ''when you care enough to hit send''"}}}
+12: {'values_changed': {"root['name']": {'new_value': "Someecards ''when you care enough to hit send''", 'old_value': "Someecards: ''when you care enough to hit send''"}}}
+13: {'values_changed': {"root['name']": {'new_value': "Someecards: ''when you care enough to hit send''", 'old_value': 'Someecards.com'}}}

@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! Games', "root['owner']": 'Yahoo!', "root['operating_system']": '| launch date = | current status = Active'}}
+17: {'dictionary_item_removed': {"root['developer']": 'Many'}}
+26: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Games', 'old_value': 'RICK JAMES'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'RICK JAMES', 'old_value': 'Yahoo! Games'}}}
+31: {'values_changed': {"root['operating_system']": {'new_value': '| launch date = | current status = Active', 'old_value': '| launch date = | current status = Defuncted since 2014'}}}
+33: {'values_changed': {"root['operating_system']": {'new_value': '| launch date = | current status = Defuncted since 2014', 'old_value': '| launch date =  current status = Defuncted since 20'}}}
+36: {'values_changed': {"root['operating_system']": {'new_value': '| launch date =  current status = Defuncted since 20', 'old_value': '| launch date =  current status = Defunct since 20'}}}
+43: {'values_changed': {"root['operating_system']": {'new_value': '| launch date =  current status = Defunct since 20', 'old_value': '| launch date =  current status = Active; scaled back in 2014; to be defunct as of 2016-05-1'}}}
+49: {'values_changed': {"root['operating_system']": {'new_value': '| launch date =  current status = Active; scaled back in 2014; to be defunct as of 2016-05-1', 'old_value': '| launch date =  current status = Defunct; scaled back in 2014; defuncted on 2016-05-1'}}}
+50: {'dictionary_item_removed': {"root['Ended']": '2016-05-13'}, 'values_changed': {"root['operating_system']": {'new_value': '| launch date =  current status = Defunct; scaled back in 2014; defuncted on 2016-05-1', 'old_value': '| launch date = '}}}
+51: {'dictionary_item_added': {"root['Ended']": '2016-05-13'}, 'dictionary_item_removed': {"root['Defunct']": '2016-05-13'}}
+52: {'dictionary_item_added': {"root['Defunct']": '2016-05-13'}, 'dictionary_item_removed': {"root['defunct']": '2016-05-13 '}}
+57: {'dictionary_item_added': {"root['defunct']": '2016-05-13 '}, 'values_changed': {"root['operating_system']": {'new_value': '| launch date = ', 'old_value': '| launch date'}}}

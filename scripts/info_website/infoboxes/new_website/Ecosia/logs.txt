@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Ecosia', "root['num_users']": '15,000,000 ', "root['CEO']": 'Christian Kroll', "root['revenue']": '19.1M€ (2019)'}}
+9: {'values_changed': {"root['CEO']": {'new_value': 'Christian Kroll', 'old_value': 'Anshul Tyagi'}}}
+12: {'values_changed': {"root['CEO']": {'new_value': 'Anshul Tyagi', 'old_value': 'Christian Kroll'}}}
+15: {'values_changed': {"root['revenue']": {'new_value': '19.1M€ (2019)', 'old_value': '28M€ (2021)'}}}
+45: {'values_changed': {"root['num_users']": {'new_value': '15,000,000 ', 'old_value': '20,000,000 '}}}
+102: {'values_changed': {"root['num_users']": {'new_value': '20,000,000 ', 'old_value': '20 million '}, "root['revenue']": {'new_value': '28M€ (2021)', 'old_value': '28M€ (2021)date=November 2022'}}}
+115: {'values_changed': {"root['revenue']": {'new_value': '28M€ (2021)date=November 2022', 'old_value': '28M€ (2021)'}}}
+121: {'values_changed': {"root['num_users']": {'new_value': '20 million ', 'old_value': '>20 million '}}}
+134: {'values_changed': {"root['revenue']": {'new_value': '28M€ (2021)', 'old_value': '34.5M€ (2022)'}}}
+135: {'values_changed': {"root['revenue']": {'new_value': '34.5M€ (2022)', 'old_value': '28M€ (2021)'}}}
+136: {'values_changed': {"root['revenue']": {'new_value': '28M€ (2021)', 'old_value': '34.5M€ (2022)'}}}
+137: {'values_changed': {"root['revenue']": {'new_value': '34.5M€ (2022)', 'old_value': "34.5M€ (2022) title=Ecosia's financial reports |url=https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/ |website=Ecosia  |access-date=8 May 2023 (The value 34.5M€ for an"}}}
+138: {'values_changed': {"root['revenue']": {'new_value': "34.5M€ (2022) title=Ecosia's financial reports |url=https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/ |website=Ecosia  |access-date=8 May 2023 (The value 34.5M€ for an", 'old_value': "34.5M€ (2022) title=Ecosia's Financial reports"}}}
+139: {'values_changed': {"root['revenue']": {'new_value': "34.5M€ (2022) title=Ecosia's Financial reports", 'old_value': "34.5M€ (2022) title=Ecosia's Financial reports    (The value 34.5M€ for annu"}}}
+150: {'values_changed': {"root['revenue']": {'new_value': "34.5M€ (2022) title=Ecosia's Financial reports    (The value 34.5M€ for annu", 'old_value': "34.5M€ (2022) title=Ecosia's Financial reports   (The value 34.5M€ for annu"}}}
+151: {'values_changed': {"root['revenue']": {'new_value': "34.5M€ (2022) title=Ecosia's Financial reports   (The value 34.5M€ for annu", 'old_value': "34.5M€ (2022) title=Ecosia's Financial reports    (The value 34.5M€ for annu"}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! Music', "root['owner']": 'Yahoo!'}}
+5: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! |launch date    = |current status = Active'}}}
+10: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Music', 'old_value': 'Yahoo Music'}, "root['owner']": {'new_value': 'Yahoo! |launch date    = |current status = Active', 'old_value': 'Yahoo |launch date    = |current status = Active'}}}
+13: {'values_changed': {"root['owner']": {'new_value': 'Yahoo |launch date    = |current status = Active', 'old_value': 'Yahoo! (2001–2017), Oath Inc. (2017–present) |launch date    = |current status = Active'}}}
+14: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! (2001–2017), Oath Inc. (2017–present) |launch date    = |current status = Active', 'old_value': 'Oath Inc.  |launch date    = |current status = Active'}}}
+20: {'values_changed': {"root['owner']": {'new_value': 'Oath Inc.  |launch date    = |current status = Active', 'old_value': 'Oath Inc.  |launch date    = |current status = Defunct (merged into Yahoo! Entertainment)'}}}

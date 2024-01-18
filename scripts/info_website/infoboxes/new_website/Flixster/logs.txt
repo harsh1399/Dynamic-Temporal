@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['name']": 'Flixster'}}
+2: {'dictionary_item_removed': {"root['genre']": 'Movies; Social media', "root['location']": 'San Francisco, California', "root['key_people']": 'Joe Greenstein (Co-founder); ,  Saran Chari (Co-founder);', "root['owner']": 'Time Warner', "root['num_employees']": '75http://www.crunchbase.com/company/flixster'}, 'values_changed': {"root['name']": {'new_value': 'Flixster', 'old_value': 'Flixster, Inc.'}}}
+3: {'values_changed': {"root['key_people']": {'new_value': 'Joe Greenstein (Co-founder); ,  Saran Chari (Co-founder);', 'old_value': 'Joe Greenstein (Co-founder) ,  Saran Chari (Co-founder)'}}}
+5: {'values_changed': {"root['owner']": {'new_value': 'Time Warner', 'old_value': 'Time Warner (formerly), comcast/NBCUniversal (currently)'}}}
+9: {'values_changed': {"root['owner']": {'new_value': 'Time Warner (formerly), comcast/NBCUniversal (currently)', 'old_value': 'Time Warner (minor), comcast/NBCUniversal (currently)'}}}
+10: {'values_changed': {"root['owner']": {'new_value': 'Time Warner (minor), comcast/NBCUniversal (currently)', 'old_value': 'Time Warner (minor), comcast/NBCUniversal (major)'}}}
+11: {'values_changed': {"root['owner']": {'new_value': 'Time Warner (minor), comcast/NBCUniversal (major)', 'old_value': 'Time Warner (minor), Comcast/NBCUniversal (major)'}}}
+15: {'values_changed': {"root['num_employees']": {'new_value': '75http://www.crunchbase.com/company/flixster', 'old_value': '75 http://www.crunchbase.com/company/flixster'}}}
+18: {'values_changed': {"root['owner']": {'new_value': 'Time Warner (minor), Comcast/NBCUniversal (major)', 'old_value': 'Time Warner (30%), Comcast/NBCUniversal (70%)'}}}
+21: {'values_changed': {"root['owner']": {'new_value': 'Time Warner (30%), Comcast/NBCUniversal (70%)', 'old_value': 'Fandango Media, '}}}
+23: {'values_changed': {"root['owner']": {'new_value': 'Fandango Media, ', 'old_value': 'Fandango Media, ('}}}
+35: {'dictionary_item_added': {"root['genre']": 'Movies; Social media', "root['location']": 'San Francisco, California', "root['key_people']": 'Joe Greenstein (Co-founder) ,  Saran Chari (Co-founder)'}, 'dictionary_item_removed': {"root['founders']": 'Joe Greenstein, Saran Chari', "root['hq_location_city']": 'San Francisco, California', "root['hq_location_country']": 'United States', "root['services']": 'Film, social networking'}}
+42: {'dictionary_item_added': {"root['num_employees']": '75 http://www.crunchbase.com/company/flixster'}, 'values_changed': {"root['owner']": {'new_value': 'Fandango Media, (', 'old_value': 'Fandango Media (30%), NBCUniversal (70%))'}}}
+43: {'dictionary_item_removed': {"root['num_employees']": '75 http://www.crunchbase.com/company/flixster'}, 'values_changed': {"root['owner']": {'new_value': 'Fandango Media (30%), NBCUniversal (70%))', 'old_value': 'Fandango Media (30%), NBCUniversal (70%)'}}}
+44: {'values_changed': {"root['owner']": {'new_value': 'Fandango Media (30%), NBCUniversal (70%)', 'old_value': 'WarnerMedia (30%), NBCUniversal (70%)'}}}
+45: {'values_changed': {"root['owner']": {'new_value': 'WarnerMedia (30%), NBCUniversal (70%)', 'old_value': 'Fandango Media (30%), NBCUniversal (70%)'}}}
+46: {'values_changed': {"root['owner']": {'new_value': 'Fandango Media (30%), NBCUniversal (70%)', 'old_value': 'Fandango Media, WarnerMedia (30%), NBCUniversal (70%)'}}}
+47: {'values_changed': {"root['owner']": {'new_value': 'Fandango Media, WarnerMedia (30%), NBCUniversal (70%)', 'old_value': 'Fandango Media (30%), NBCUniversal (70%)'}}}
+48: {'values_changed': {"root['owner']": {'new_value': 'Fandango Media (30%), NBCUniversal (70%)', 'old_value': 'Fandango (30%), NBCUniversal (70%)'}}}
+66: {'dictionary_item_added': {"root['owner']": 'Fandango (30%), NBCUniversal (70%)'}, 'values_changed': {"root['num_employees']": {'new_value': '75 http://www.crunchbase.com/company/flixster', 'old_value': '75'}}}
+76: {'dictionary_item_added': {"root['founders']": 'Joe Greenstein, Saran Chari', "root['hq_location_city']": 'San Francisco, California', "root['hq_location_country']": 'United States', "root['num_employees']": '75'}, 'dictionary_item_removed': {"root['employees']": '75'}}

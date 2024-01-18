@@ -1,0 +1,119 @@
+31: {'dictionary_item_removed': {"root['company_name']": 'mig33', "root['area_served']": 'Worldwide, with a focus on East Asia', "root['key_people']": 'Steven Goh (CEO & Co-founder) Johan Gozali (Director of Engineering) Wish Ronquillo (Director of Content) Kiki Rizki (Country Manager, Indonesia)', "root['services']": 'Chats, Games, Microblogging, Virtual Gifting, Avatars', "root['website_type']": 'Social network service, microblogging', "root['num_users']": '65 million '}}
+41: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) Johan Gozali (Director of Engineering) Wish Ronquillo (Director of Content) Kiki Rizki (Country Manager, Indonesia)', 'old_value': 'Steven Goh (CEO & Co-founder)'}}}
+45: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'Mashrur Mohsin (CEO & Co-founder)'}}}
+46: {'values_changed': {"root['key_people']": {'new_value': 'Mashrur Mohsin (CEO & Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder)'}}}
+72: {'values_changed': {"root['num_users']": {'new_value': '65 million ', 'old_value': '70 million '}}}
+101: {'values_changed': {"root['num_users']": {'new_value': '70 million ', 'old_value': '65 million '}}}
+103: {'values_changed': {"root['num_users']": {'new_value': '65 million ', 'old_value': '70 million '}}}
+104: {'values_changed': {"root['num_users']": {'new_value': '70 million ', 'old_value': '65 million '}}}
+105: {'values_changed': {"root['num_users']": {'new_value': '65 million ', 'old_value': '70 million '}}}
+127: {'values_changed': {"root['services']": {'new_value': 'Chats, Games, Microblogging, Virtual Gifting, Avatars', 'old_value': 'Chats, Games, Microblogging, Virtual Gifting, Avatars, Stickers'}}}
+147: {'dictionary_item_added': {"root['company_name']": 'mig33'}, 'dictionary_item_removed': {"root['name']": 'migme', "root['owner']": 'Steven Goh', "root['num_employees']": '130'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide, with a focus on East Asia', 'old_value': 'Global'}, "root['services']": {'new_value': 'Chats, Games, Microblogging, Virtual Gifting, Avatars, Stickers', 'old_value': 'Chat, Blog, Virtual Gifting, Games, Stickers'}, "root['website_type']": {'new_value': 'Social network service, microblogging', 'old_value': 'Social entertainment platform, mobile digital, Social networking service, microblogging'}, "root['num_users']": {'new_value': '70 million ', 'old_value': '43 million monthly active users '}}}
+151: {'values_changed': {"root['num_users']": {'new_value': '43 million monthly active users ', 'old_value': '5000 to 1000  million monthly active users '}}}
+152: {'values_changed': {"root['num_users']": {'new_value': '5000 to 1000  million monthly active users ', 'old_value': '5000 to 10000  monthly active users '}}}
+153: {'values_changed': {"root['services']": {'new_value': 'Chat, Blog, Virtual Gifting, Games, Stickers', 'old_value': 'Chat, Blog, Virtual Gifting, Games, Stickers8'}, "root['num_users']": {'new_value': '5000 to 10000  monthly active users ', 'old_value': '5000 to 8000  monthly active users '}}}
+154: {'values_changed': {"root['num_users']": {'new_value': '5000 to 8000  monthly active users ', 'old_value': '500 to 800  monthly active users '}}}
+155: {'values_changed': {"root['num_users']": {'new_value': '500 to 800  monthly active users ', 'old_value': '33 million+  monthly active users '}}}
+158: {'values_changed': {"root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Steven Gandu'}}}
+166: {'values_changed': {"root['owner']": {'new_value': 'Steven Gandu', 'old_value': 'Steven Goh'}}}
+167: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'Steven bolod (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Steven bolod'}, "root['num_employees']": {'new_value': '130', 'old_value': '1300'}}}
+168: {'values_changed': {"root['key_people']": {'new_value': 'Steven bolod (CEO & Co-founder)', 'old_value': 'Navaz (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Steven bolod', 'old_value': 'Steven Goh'}}}
+169: {'values_changed': {"root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Navaz'}}}
+170: {'values_changed': {"root['owner']": {'new_value': 'Navaz', 'old_value': 'Navaz (navasya)'}, "root['num_employees']": {'new_value': '1300', 'old_value': '130'}}}
+174: {'values_changed': {"root['key_people']": {'new_value': 'Navaz (CEO & Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Navaz (navasya)', 'old_value': 'Navaz'}}}
+176: {'values_changed': {"root['owner']": {'new_value': 'Navaz', 'old_value': 'Steven Goh'}}}
+177: {'values_changed': {"root['num_users']": {'new_value': '33 million+  monthly active users ', 'old_value': '3300 +  monthly active users '}}}
+178: {'values_changed': {"root['num_employees']": {'new_value': '130', 'old_value': '2'}}}
+179: {'values_changed': {"root['num_employees']": {'new_value': '2', 'old_value': '130'}}}
+182: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'Steven Gandu (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Steven Gandu Farud'}}}
+183: {'values_changed': {"root['owner']": {'new_value': 'Steven Gandu Farud', 'old_value': 'Steven Gandu Fraud'}}}
+184: {'values_changed': {"root['key_people']": {'new_value': 'Steven Gandu (CEO & Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Steven Gandu Fraud', 'old_value': 'Steven Goh'}}}
+189: {'values_changed': {"root['num_employees']": {'new_value': '130', 'old_value': '330'}, "root['num_users']": {'new_value': '3300 +  monthly active users ', 'old_value': '300000 +  monthly active users '}}}
+190: {'values_changed': {"root['services']": {'new_value': 'Chat, Blog, Virtual Gifting, Games, Stickers8', 'old_value': 'Chatrooms, Blog, Virtual Gifting, Games, Stickers'}}}
+191: {'values_changed': {"root['num_users']": {'new_value': '300000 +  monthly active users ', 'old_value': '100,000 +  monthly active users '}}}
+192: {'values_changed': {"root['num_employees']": {'new_value': '330', 'old_value': '200'}}}
+193: {'values_changed': {"root['services']": {'new_value': 'Chatrooms, Blog, Virtual Gifting, Games, Stickers', 'old_value': 'Chat, Blog, Virtual Gifting, Games, Stickers8'}, "root['num_employees']": {'new_value': '200', 'old_value': '130'}, "root['num_users']": {'new_value': '100,000 +  monthly active users ', 'old_value': '3300 +  monthly active users '}}}
+194: {'dictionary_item_removed': {"root['Status']": 'Closed '}, 'values_changed': {"root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Sajidmarwat'}, "root['num_employees']": {'new_value': '130', 'old_value': '2'}}}
+195: {'values_changed': {"root['Status']": {'new_value': 'Closed ', 'old_value': 'Closed  '}}}
+196: {'values_changed': {"root['owner']": {'new_value': 'Sajidmarwat', 'old_value': 'Steven Goh'}}}
+197: {'values_changed': {"root['owner']": {'new_value': 'Steven Goh', 'old_value': 'sylhety don'}}}
+198: {'values_changed': {"root['owner']": {'new_value': 'sylhety don', 'old_value': 'Steven Goh'}}}
+199: {'values_changed': {"root['area_served']": {'new_value': 'Global', 'old_value': 'only Singaporeans girls'}, "root['owner']": {'new_value': 'Steven Goh', 'old_value': 'unknown'}, "root['Status']": {'new_value': 'Closed  ', 'old_value': 'Destroyed  '}}}
+200: {'values_changed': {"root['area_served']": {'new_value': 'only Singaporeans girls', 'old_value': 'Global'}, "root['owner']": {'new_value': 'unknown', 'old_value': 'Steven Goh'}, "root['Status']": {'new_value': 'Destroyed  ', 'old_value': 'Closed  '}}}
+201: {'values_changed': {"root['owner']": {'new_value': 'Steven Goh', 'old_value': 'Sajid Marwat'}}}
+202: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'Steven Goh(CEO & Co-founder)'}}}
+203: {'values_changed': {"root['owner']": {'new_value': 'Sajid Marwat', 'old_value': 'Adiyan Molla'}}}
+204: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh(CEO & Co-founder)', 'old_value': 'adiyan molla (CEO & Co-founder)'}, "root['services']": {'new_value': 'Chat, Blog, Virtual Gifting, Games, Stickers8', 'old_value': 'sex Chat, Blog, Virtual Gifting, Games, Stickers8'}}}
+206: {'dictionary_item_added': {"root['num_employees']": '2'}, 'values_changed': {"root['key_people']": {'new_value': 'adiyan molla (CEO & Co-founder)', 'old_value': 'steven goh (CEO & Co-founder)'}, "root['services']": {'new_value': 'sex Chat, Blog, Virtual Gifting, Games, Stickers8', 'old_value': 'chat fun, blogs, Games etc'}, "root['owner']": {'new_value': 'Adiyan Molla', 'old_value': 'steven goh'}}}
+207: {'values_changed': {"root['owner']": {'new_value': 'steven goh', 'old_value': 'adiyan'}}}
+208: {'values_changed': {"root['key_people']": {'new_value': 'steven goh (CEO & Co-founder)', 'old_value': 'Sajid Khan (CEO & Co-founder)'}, "root['owner']": {'new_value': 'adiyan', 'old_value': 'Seri Maizura'}}}
+210: {'values_changed': {"root['key_people']": {'new_value': 'Sajid Khan (CEO & Co-founder)', 'old_value': 'Pratik  (CEO & Co-founder)'}, "root['owner']": {'new_value': 'Seri Maizura', 'old_value': 'Cold_devil'}}}
+212: {'values_changed': {"root['key_people']": {'new_value': 'Pratik  (CEO & Co-founder)', 'old_value': 'stoner.x (CEO & Co-founder)'}, "root['Status']": {'new_value': 'Closed  ', 'old_value': 'Closed '}}}
+213: {'values_changed': {"root['key_people']": {'new_value': 'stoner.x (CEO & Co-founder)', 'old_value': 'Pratik  (CEO & Co-founder)'}, "root['Status']": {'new_value': 'Closed ', 'old_value': 'Closed  '}}}
+214: {'values_changed': {"root['owner']": {'new_value': 'Cold_devil', 'old_value': 'stoner.x'}}}
+215: {'values_changed': {"root['owner']": {'new_value': 'stoner.x', 'old_value': '"cold_devil" "plus" The migme legend'}}}
+216: {'values_changed': {"root['owner']": {'new_value': '"cold_devil" "plus" The migme legend', 'old_value': '"the_hornet-boy" "crazygrapes" The migme legend'}, "root['num_users']": {'new_value': '3300 +  monthly active users ', 'old_value': '300 +  monthly active users '}}}
+217: {'values_changed': {"root['owner']": {'new_value': '"the_hornet-boy" "crazygrapes" The migme legend', 'old_value': '"cold_devil" "plus" The migme legend'}}}
+218: {'dictionary_item_removed': {"root['num_employees']": '13'}, 'values_changed': {"root['key_people']": {'new_value': 'Pratik  (CEO & Co-founder)', 'old_value': 'Steven Goh  (CEO & Co-founder)'}, "root['owner']": {'new_value': '"cold_devil" "plus" The migme legend', 'old_value': '"the_hornet-boy" The migme legend'}, "root['num_users']": {'new_value': '300 +  monthly active users ', 'old_value': '3000 +  monthly active users '}}}
+219: {'values_changed': {"root['Status']": {'new_value': 'Closed  ', 'old_value': 'Closed'}}}
+220: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh  (CEO & Co-founder)', 'old_value': 'Pratik  (CEO & Co-founder)'}, "root['owner']": {'new_value': '"the_hornet-boy" The migme legend', 'old_value': '"cold_devil" "plus" The migme legend'}}}
+221: {'dictionary_item_added': {"root['owner']": '"cold_devil" "plus" The migme legend', "root['num_employees']": '13'}, 'dictionary_item_removed': {"root['revenue']": 'Decrease $21.5m', "root['operating_income']": '|profit or loss = -$24.4m'}, 'values_changed': {"root['key_people']": {'new_value': 'Pratik  (CEO & Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (Chief Financial Officer)'}, "root['services']": {'new_value': 'chat fun, blogs, Games etc', 'old_value': 'Chat, Blog, Games, Stickers, Virtual Gifts etc.'}, "root['num_users']": {'new_value': '3000 +  monthly active users ', 'old_value': '12K '}}}
+227: {'values_changed': {"root['area_served']": {'new_value': 'Global', 'old_value': 'toilet'}, "root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (Chief Financial Officer)', 'old_value': 'adiyan'}}}
+228: {'values_changed': {"root['area_served']": {'new_value': 'toilet', 'old_value': 'Global'}, "root['key_people']": {'new_value': 'adiyan', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (Chief Financial Officer)'}}}
+229: {'values_changed': {"root['area_served']": {'new_value': 'Global', 'old_value': 'ADI'}}}
+230: {'values_changed': {"root['area_served']": {'new_value': 'ADI', 'old_value': 'Global'}}}
+235: {'dictionary_item_removed': {"root['locations']": 'Nepal, Singapore, Malaysia, Indonesia, Taiwan, HongKong, India'}}
+238: {'dictionary_item_added': {"root['locations']": 'Nepal, Singapore, Malaysia, Indonesia, Taiwan, HongKong, India'}, 'dictionary_item_removed': {"root['subsid']": 'LoveByte, alivenotdead and Sold.sg'}}
+242: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (Chief Financial Officer)', 'old_value': 'Nitesh  (CEO & Co-founder) and (Chief Financial Officer)'}}}
+244: {'values_changed': {"root['key_people']": {'new_value': 'Nitesh  (CEO & Co-founder) and (Chief Financial Officer)', 'old_value': 'Rishav Acharya  (CEO & Co-founder) and (Chief Financial Officer)'}}}
+246: {'values_changed': {"root['key_people']": {'new_value': 'Rishav Acharya  (CEO & Co-founder) and (Chief Financial Officer)', 'old_value': 'Omar Faruk Nipu  (CEO & Co-founder) and (Chief Financial Officer)'}}}
+247: {'values_changed': {"root['key_people']": {'new_value': 'Omar Faruk Nipu  (CEO & Co-founder) and (Chief Financial Officer)', 'old_value': 'Son of Ram Acharya-Mr.Rishav Acharya (Biratnagar)  (CEO & Co-founder) and (Chief Financial Officer)'}}}
+249: {'values_changed': {"root['key_people']": {'new_value': 'Son of Ram Acharya-Mr.Rishav Acharya (Biratnagar)  (CEO & Co-founder) and (Chief Financial Officer)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+250: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Son of Ram acharya Mr.Rishav Acharya (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+252: {'dictionary_item_added': {"root['key_people']": 'Son of Ram acharya Mr.Rishav Acharya (CEO & Co-founder) and Anthony Benino (CFO)'}, 'values_changed': {"root['num_users']": {'new_value': '12K ', 'old_value': '3K '}}}
+253: {'dictionary_item_removed': {"root['key_people']": 'Son of Ram acharya Mr.Rishav Acharya (CEO & Co-founder) and Anthony Benino (CFO)'}, 'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '12K '}}}
+254: {'dictionary_item_added': {"root['operating_income']": '|profit or loss = -$24.4m'}, 'values_changed': {"root['key_people']": {'new_value': 'Son of Ram acharya Mr.Rishav Acharya (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}, "root['num_users']": {'new_value': '12K ', 'old_value': '3K '}}}
+258: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Seri Zain(CEO & Co-founder) and Sajid (CFO)'}}}
+260: {'values_changed': {"root['key_people']": {'new_value': 'Seri Zain(CEO & Co-founder) and Sajid (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+265: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'plus (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+266: {'values_changed': {"root['key_people']": {'new_value': 'plus (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+268: {'values_changed': {"root['revenue']": {'new_value': 'Decrease $21.5m', 'old_value': 'Decrease $12.09m'}}}
+273: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'smart_atheist aka PRATIK (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+274: {'values_changed': {"root['key_people']": {'new_value': 'smart_atheist aka PRATIK (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+276: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'PRATIK (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+277: {'values_changed': {"root['key_people']": {'new_value': 'PRATIK (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+301: {'values_changed': {"root['name']": {'new_value': 'migme', 'old_value': 'migjan'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'migjan', 'old_value': 'mig33'}}}
+307: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Azy Khan(CEO & Co-founder) and Great Javed (CFO)'}}}
+308: {'values_changed': {"root['key_people']": {'new_value': 'Azy Khan(CEO & Co-founder) and Great Javed (CFO)', 'old_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)'}}}
+309: {'values_changed': {"root['name']": {'new_value': 'mig33', 'old_value': 'migme'}}}
+310: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder) and Anthony Benino (CFO)', 'old_value': 'Steven Hoh(CEO & Co-found'}}}
+311: {'values_changed': {"root['key_people']": {'new_value': 'Steven Hoh(CEO & Co-found', 'old_value': 'Devesh Teli(CEO & Co-found'}, "root['Status']": {'new_value': 'Closed', 'old_value': 'Maa Chudi Padi hai'}}}
+312: {'values_changed': {"root['key_people']": {'new_value': 'Devesh Teli(CEO & Co-found', 'old_value': 'Steven Hoh(CEO & Co-found'}, "root['Status']": {'new_value': 'Maa Chudi Padi hai', 'old_value': 'Closed'}}}
+315: {'values_changed': {"root['key_people']": {'new_value': 'Steven Hoh(CEO & Co-found', 'old_value': 'Steven Goh (CEO & Co-founder)'}}}
+317: {'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '10 '}}}
+318: {'values_changed': {"root['num_users']": {'new_value': '10 ', 'old_value': '3K '}}}
+319: {'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '20 Users '}}}
+320: {'values_changed': {"root['num_users']": {'new_value': '20 Users ', 'old_value': '3K '}}}
+322: {'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '20 User '}}}
+325: {'values_changed': {"root['num_users']": {'new_value': '20 User ', 'old_value': '3K '}}}
+326: {'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '20 Users '}}}
+327: {'values_changed': {"root['num_users']": {'new_value': '20 Users ', 'old_value': '3K '}}}
+331: {'dictionary_item_added': {"root['Status']": 'Closed'}, 'values_changed': {"root['num_users']": {'new_value': '3K ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}
+334: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'PRATIK (CEO & Co-founder)'}}}
+336: {'values_changed': {"root['key_people']": {'new_value': 'PRATIK (CEO & Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder)'}}}
+337: {'values_changed': {"root['num_users']": {'new_value': '33+ million Monthly Active Users & 3000+ Artists  ', 'old_value': '3K Active Users & 100 Active Artist without Bots  '}}}
+338: {'values_changed': {"root['num_users']": {'new_value': '3K Active Users & 100 Active Artist without Bots  ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}
+339: {'values_changed': {"root['num_users']": {'new_value': '33+ million Monthly Active Users & 3000+ Artists  ', 'old_value': '10 Monthly Active Users &  '}}}
+340: {'values_changed': {"root['num_users']": {'new_value': '10 Monthly Active Users &  ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}
+341: {'values_changed': {"root['key_people']": {'new_value': 'Steven Goh (CEO & Co-founder)', 'old_value': 'Mr. Rabin Bhattarai (CEO &Rishav Acharya (Co-founder)'}}}
+342: {'values_changed': {"root['key_people']": {'new_value': 'Mr. Rabin Bhattarai (CEO &Rishav Acharya (Co-founder)', 'old_value': 'Steven Goh (CEO & Co-founder)'}}}
+347: {'values_changed': {"root['num_users']": {'new_value': '33+ million Monthly Active Users & 3000+ Artists  ', 'old_value': '200 Monthly Active Users & 3000+ Artists  '}}}
+348: {'values_changed': {"root['num_users']": {'new_value': '200 Monthly Active Users & 3000+ Artists  ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}
+349: {'dictionary_item_removed': {"root['operating_income']": '0$'}, 'values_changed': {"root['num_users']": {'new_value': '33+ million Monthly Active Users & 3000+ Artists  ', 'old_value': '200  Monthly Active Users & 4 Artists  '}}}
+350: {'values_changed': {"root['num_users']": {'new_value': '200  Monthly Active Users & 4 Artists  ', 'old_value': '150  Monthly Active Users & 4 Artists  '}}}
+351: {'dictionary_item_added': {"root['operating_income']": '0$'}, 'values_changed': {"root['num_users']": {'new_value': '150  Monthly Active Users & 4 Artists  ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}
+358: {'values_changed': {"root['subsid']": {'new_value': 'LoveByte, alivenotdead and Sold.sg', 'old_value': 'LoveByte, alivenotdead and Sold.sg (Already shut down)'}}}
+364: {'values_changed': {"root['subsid']": {'new_value': 'LoveByte, alivenotdead and Sold.sg (Already shut down)', 'old_value': 'LoveByte, alivenotdead and Sold.sg'}}}
+367: {'values_changed': {"root['num_users']": {'new_value': '33+ million Monthly Active Users & 3000+ Artists  ', 'old_value': '0 users '}}}
+368: {'values_changed': {"root['num_users']": {'new_value': '0 users ', 'old_value': '33+ million Monthly Active Users & 3000+ Artists  '}}}

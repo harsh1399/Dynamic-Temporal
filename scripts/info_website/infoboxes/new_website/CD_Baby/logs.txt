@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'CD Baby, Inc.', "root['location']": 'Portland, Oregon', "root['area_served']": 'Worldwide', "root['products']": 'Compact discs, music downloads'}}
+14: {'values_changed': {"root['location']": {'new_value': 'Portland, Oregon', 'old_value': 'Portland, Oregon, U.S.'}}}
+15: {'values_changed': {"root['products']": {'new_value': 'Compact discs, music downloads', 'old_value': 'Digital distribution, promotion'}}}
+32: {'dictionary_item_removed': {"root['subsid']": 'Audio and Video Labs, Inc. (Soundrop)'}}

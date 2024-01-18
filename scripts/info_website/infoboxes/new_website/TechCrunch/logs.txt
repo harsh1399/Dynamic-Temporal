@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['name']": 'TechCrunch', "root['location']": 'Bay Area, United States', "root['owner']": 'TechCrunch', "root['revenue']": 'US$200,000 monthly'}}
+3: {'dictionary_item_removed': {"root['alexa']": '368   |current status=Active'}}
+12: {'values_changed': {"root['alexa']": {'new_value': '368   |current status=Active', 'old_value': '368 |current status=Active'}}}
+14: {'values_changed': {"root['alexa']": {'new_value': '368 |current status=Active', 'old_value': '368   |current status=Active'}}}
+32: {'values_changed': {"root['alexa']": {'new_value': '368   |current status=Active', 'old_value': '380   |current status=Active'}}}
+53: {'values_changed': {"root['revenue']": {'new_value': 'US$200,000 monthly', 'old_value': 'US$2.4 million (2007 est.)'}}}
+70: {'values_changed': {"root['alexa']": {'new_value': '380   |current status=Active', 'old_value': '309   |current status=Active'}}}
+73: {'values_changed': {"root['alexa']": {'new_value': '309   |current status=Active', 'old_value': '302   |current status=Active'}}}
+74: {'values_changed': {"root['owner']": {'new_value': 'TechCrunch', 'old_value': 'AOL'}}}
+75: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'AOL Inc.'}}}
+77: {'values_changed': {"root['owner']": {'new_value': 'AOL Inc.', 'old_value': 'AOL'}}}
+91: {'dictionary_item_removed': {"root['editor']": 'Matthew Panzarino |launch date=June 11, 2005'}, 'values_changed': {"root['alexa']": {'new_value': '302   |current status=Active', 'old_value': 'current status=Acti'}, "root['revenue']": {'new_value': 'US$2.4 million (2007 est.)', 'old_value': 'US$2.4 million (2007 est.) |'}}}
+95: {'values_changed': {"root['editor']": {'new_value': 'Matthew Panzarino |launch date=June 11, 2005', 'old_value': 'Matthew Panzarino |launch date='}}}
+152: {'dictionary_item_added': {"root['editor']": 'Matthew Panzarino |launch date='}, 'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Oath Inc.  (Verizon)'}}}
+153: {'values_changed': {"root['owner']": {'new_value': 'Oath Inc.  (Verizon)', 'old_value': 'AOL (2010–2017), Oath Inc. (2017–present)'}}}
+158: {'dictionary_item_removed': {"root['editor']": 'Matthew Panzarino | launch date    ='}, 'values_changed': {"root['revenue']": {'new_value': 'US$2.4 million (2007 est.) |', 'old_value': 'US$ 2.4 million (2007 est.) |'}}}
+159: {'values_changed': {"root['revenue']": {'new_value': 'US$ 2.4 million (2007 est.) |', 'old_value': 'US$2.4 million (2007 est.) |'}}}
+169: {'values_changed': {"root['name']": {'new_value': 'TechCrunch', 'old_value': 'Techcrunch'}}}
+184: {'values_changed': {"root['name']": {'new_value': 'Techcrunch', 'old_value': 'TechCrunch'}}}
+189: {'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Oath Inc. (2017–present)', 'old_value': 'AOL (2010–2017), Verizon Media (2017–present)'}}}
+212: {'values_changed': {"root['revenue']": {'new_value': 'US$2.4 million (2007 est.) |', 'old_value': 'US$10.0 million (2010) |'}}}
+225: {'dictionary_item_added': {"root['alexa']": 'current status=Acti'}, 'values_changed': {"root['editor']": {'new_value': 'Matthew Panzarino | launch date    =', 'old_value': 'Matthew Panzarino'}}}
+233: {'dictionary_item_added': {"root['revenue']": 'US$10.0 million (2010) |'}, 'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Verizon Media (2017–present)', 'old_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–present)'}}}
+246: {'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–present)', 'old_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–2021), Apollo Global Management (2021–present)'}}}
+247: {'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–2021), Apollo Global Management (2021–present)', 'old_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–present)'}}}
+258: {'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–present)', 'old_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–2021), Yahoo (2021–present)'}}}
+287: {'values_changed': {"root['location']": {'new_value': 'Bay Area, United States', 'old_value': 'San Francisco, California, United States'}}}
+304: {'values_changed': {"root['owner']": {'new_value': 'AOL (2010–2017), Oath (2017–2019), Verizon Media (2019–2021), Yahoo (2021–present)', 'old_value': 'AOL (2010–2017) Oath (2017–2019) Verizon Media (2019–2021) Yahoo (2021–present)'}}}

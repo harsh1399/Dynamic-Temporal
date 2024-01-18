@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Porch', "root['company_logo']": 'Porch-logo-2x', "root['location']": 'Seattle, WA, USA', "root['area_served']": 'Worldwide', "root['CEO']": 'Matt Ehrlichman', "root['num_employees']": '200+ (Sept 2014)', "root['alexa']": '6311 US'}}
+1: {'values_changed': {"root['num_employees']": {'new_value': '200+ (Sept 2014)', 'old_value': '370+ (Jan 2015)'}}}
+2: {'dictionary_item_added': {"root['company_name']": 'Porch', "root['company_logo']": 'Porch-logo-2x'}, 'dictionary_item_removed': {"root['name']": 'Porch'}}
+13: {'dictionary_item_removed': {"root['key_people']": 'Asha Sharma, COO', "root['services']": 'Online marketplace, Review site'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'United States'}, "root['alexa']": {'new_value': '6311 US', 'old_value': '6259 US'}}}
+14: {'values_changed': {"root['key_people']": {'new_value': 'Asha Sharma, COO', 'old_value': 'Asha Sharma, COO  , Bob Barton, CFO'}}}
+15: {'values_changed': {"root['key_people']": {'new_value': 'Asha Sharma, COO  , Bob Barton, CFO', 'old_value': 'Asha Sharma, COO  , Bob Barton, CFO  , Craig Cincotta, Chief of Staff and VP of Communications'}}}
+18: {'dictionary_item_removed': {"root['website_type']": 'Consumer service'}}
+19: {'values_changed': {"root['num_employees']": {'new_value': '370+ (Jan 2015)', 'old_value': '400+ (Oct 2015)'}}}
+33: {'values_changed': {"root['key_people']": {'new_value': 'Asha Sharma, COO  , Bob Barton, CFO  , Craig Cincotta, Chief of Staff and VP of Communications', 'old_value': 'Asha Sharma, COO  , Eric Doerr, Chief Product Officer, Eric Koenig, Chief Growth Officer, Jenn Branstetter, Chief of Staff, Matthew Neagle, Chief Customer Officer'}}}
+34: {'values_changed': {"root['alexa']": {'new_value': '6259 US', 'old_value': '5185 US'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'Porch', 'old_value': 'Porch.com, Inc.'}, "root['num_employees']": {'new_value': '400+ (Oct 2015)', 'old_value': '~250 (October 2016)'}}}
+47: {'dictionary_item_removed': {"root['country']": 'United States'}, 'values_changed': {"root['location']": {'new_value': 'Seattle, WA, USA', 'old_value': 'Seattle, Washington'}}}

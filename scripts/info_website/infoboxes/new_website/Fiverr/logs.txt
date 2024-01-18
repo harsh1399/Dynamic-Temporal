@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Fiverr International Ltd.', "root['area_served']": 'Worldwide', "root['location']": 'Tel Aviv, Israel'}}
+57: {'dictionary_item_added': {"root['location']": 'Tel Aviv, Israel'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'not worldwide'}}}
+58: {'values_changed': {"root['area_served']": {'new_value': 'not worldwide', 'old_value': 'Worldwide'}}}
+60: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Notworldwide'}}}
+61: {'values_changed': {"root['area_served']": {'new_value': 'Notworldwide', 'old_value': 'Worldwide'}}}
+189: {'dictionary_item_removed': {"root['homepage']": 'https://www.fivers.cf/ Fiverr.com'}}
+316: {'dictionary_item_added': {"root['homepage']": 'https://www.fivers.cf/ Fiverr.com'}, 'dictionary_item_removed': {"root['num_employees']": '787 (2021)', "root['revenue']": '298 million (2021)'}}

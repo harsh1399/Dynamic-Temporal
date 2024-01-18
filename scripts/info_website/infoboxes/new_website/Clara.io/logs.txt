@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Clara.io', "root['developer']": 'Exocortex http://exocortex.com', "root['operating_system']": 'Windows,Linux, Max OS and Android', "root['platform']": 'x64, x86', "root['genre']": '3D computer graphics software', "root['license']": 'Freemium'}}
+1: {'values_changed': {"root['operating_system']": {'new_value': 'Windows,Linux, Max OS and Android', 'old_value': 'Windows,Linux, Mac OS and Android'}}}
+2: {'values_changed': {"root['developer']": {'new_value': 'Exocortex http://exocortex.com', 'old_value': 'http://exocortex.com Exocortex'}}}
+17: {'dictionary_item_added': {"root['developer']": 'http://exocortex.com Exocortex', "root['operating_system']": 'Windows,Linux, Mac OS and Android', "root['platform']": 'x64, x86', "root['genre']": '3D computer graphics software', "root['license']": 'Freemium'}, 'dictionary_item_removed': {"root['logocaption']": 'Clara.io logo', "root['num_users']": '14,000+', "root['content_license']": 'Creative Commons |programming language = JavaScript', "root['owner']": 'http://exocortex Exocortex'}}
+28: {'values_changed': {"root['num_users']": {'new_value': '14,000+', 'old_value': '26,000+'}}}
+29: {'values_changed': {"root['owner']": {'new_value': 'http://exocortex Exocortex', 'old_value': 'http://exocortex.com Exocortex'}}}
+36: {'values_changed': {"root['num_users']": {'new_value': '26,000+', 'old_value': '85,000+'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'AllMovie', "root['owner']": 'All Media Network, LLC'}}
+4: {'dictionary_item_removed': {"root['alexa']": '04|18|a'}}
+6: {'values_changed': {"root['owner']": {'new_value': 'All Media Network, LLC', 'old_value': 'All Media Network'}}}
+12: {'values_changed': {"root['name']": {'new_value': 'AllMovie', 'old_value': 'AllMoviexxx'}}}
+13: {'values_changed': {"root['name']": {'new_value': 'AllMoviexxx', 'old_value': 'AllMovie'}}}
+16: {'values_changed': {"root['name']": {'new_value': 'AllMovie', 'old_value': 'AllMovie toy'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'AllMovie toy', 'old_value': 'AllMovie'}}}
+22: {'dictionary_item_added': {"root['alexa']": '04|18|a'}, 'values_changed': {"root['name']": {'new_value': 'AllMovie', 'old_value': 'AllMovie | launch date'}}}
+32: {'dictionary_item_removed': {"root['alexa']": 'current status = Onli'}, 'values_changed': {"root['owner']": {'new_value': 'All Media Network', 'old_value': 'RhythmOne'}, "root['name']": {'new_value': 'AllMovie | launch date', 'old_value': 'AllMovie'}}}
+40: {'values_changed': {"root['owner']": {'new_value': 'RhythmOne', 'old_value': 'RhythmOne '}}}

@@ -1,0 +1,10 @@
+6: {'dictionary_item_removed': {"root['name']": 'DramaFever', "root['company_slogan']": '"What the World is Watching"', "root['foundation']": '2009', "root['num_users']": '15,000 subscribers  (2012)', "root['key_people']": 'Seung Bak, founder & CEO Suk Park, founder & President'}}
+10: {'dictionary_item_removed': {"root['owner']": 'Time Warner   '}}
+14: {'values_changed': {"root['owner']": {'new_value': 'Time Warner   ', 'old_value': 'Time Warner     '}}}
+29: {'dictionary_item_added': {"root['foundation']": '2009', "root['num_users']": '15,000 subscribers  (2012)'}, 'values_changed': {"root['company_slogan']": {'new_value': '"What the World is Watching"', 'old_value': '"Passion Shows"'}}}
+34: {'values_changed': {"root['owner']": {'new_value': 'Time Warner     ', 'old_value': 'Time Warner<ref name'}}}
+48: {'dictionary_item_added': {"root['company_slogan']": '"Passion Shows"'}, 'values_changed': {"root['owner']": {'new_value': 'Time Warner<ref name', 'old_value': '(WarnerMedia a division of AT&T) <ref name'}}}
+50: {'values_changed': {"root['owner']": {'new_value': '(WarnerMedia a division of AT&T) <ref name', 'old_value': 'WarnerMedia<ref name'}}}
+51: {'values_changed': {"root['owner']": {'new_value': 'WarnerMedia<ref name', 'old_value': 'WarnerMedia (AT&T)<ref name'}}}
+66: {'dictionary_item_added': {"root['owner']": 'WarnerMedia (AT&T)<ref name'}, 'dictionary_item_removed': {"root['defunct']": 'October 16, 2018'}}
+67: {'dictionary_item_added': {"root['defunct']": 'October 16, 2018'}, 'dictionary_item_removed': {"root['status']": 'Shut down'}}

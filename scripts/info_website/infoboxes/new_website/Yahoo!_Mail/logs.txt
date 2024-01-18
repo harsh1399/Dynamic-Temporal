@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! Mail', "root['owner']": 'Yahoo!', "root['developer']": 'Yahoo!', "root['operating_system']": 'Cross-platform (web-based application) | launch date = 1996 | current status = Beta Period ended'}}
+19: {'dictionary_item_removed': {"root['release']": 'current status = Beta Period end'}, 'values_changed': {"root['operating_system']": {'new_value': 'Cross-platform (web-based application) | launch date = 1996 | current status = Beta Period ended', 'old_value': 'Cross-platform (web-based application)'}}}
+20: {'dictionary_item_added': {"root['release']": 'current status = Beta Period end'}, 'values_changed': {"root['operating_system']": {'new_value': 'Cross-platform (web-based application)', 'old_value': 'Cross-platform (web-based application) | launch date =  current status = Beta Period end'}}}
+74: {'dictionary_item_added': {"root['developer']": 'Yahoo!'}, 'dictionary_item_removed': {"root['revenue']": '$6.7 Billion USD'}, 'values_changed': {"root['operating_system']": {'new_value': 'Cross-platform (web-based application) | launch date =  current status = Beta Period end', 'old_value': 'Cross-platform  | current status   = Beta Period ended'}}}
+216: {'dictionary_item_added': {"root['operating_system']": 'Cross-platform  | current status   = Beta Period ended', "root['revenue']": '$6.7 Billion USD'}, 'dictionary_item_removed': {"root['num_users']": '281 million (December 2012)', "root['content_license']": 'Proprietary'}, 'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail', 'old_value': 'Yahoo Mail'}, "root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo'}}}
+238: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Google Mail'}}}
+239: {'values_changed': {"root['name']": {'new_value': 'Google Mail', 'old_value': 'Yahoo Mail'}}}
+252: {'dictionary_item_removed': {"root['logocaption']": '|screenshot  thumb      ='}}
+274: {'dictionary_item_added': {"root['logocaption']": '|screenshot  thumb      ='}, 'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Yahoo Mail 1888-406-4114'}}}
+275: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail 1888-406-4114', 'old_value': 'Yahoo Mail'}}}
+293: {'values_changed': {"root['num_users']": {'new_value': '281 million (December 2012)', 'old_value': '1 billion active monthly users (Febuary 2016)'}}}
+298: {'values_changed': {"root['num_users']": {'new_value': '1 billion active monthly users (Febuary 2016)', 'old_value': '1 billion active monthly users (February 2016)'}}}
+299: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Rajendra Panda'}}}
+300: {'values_changed': {"root['name']": {'new_value': 'Rajendra Panda', 'old_value': 'Yahoo Mail'}}}
+301: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Rajendra Panda'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'Rajendra Panda', 'old_value': 'Yahoo Mail'}}}
+303: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Yahoo! Mail'}, "root['content_license']": {'new_value': 'Proprietary', 'old_value': 'Freeware, proprietary'}, "root['owner']": {'new_value': 'Yahoo', 'old_value': 'Yahoo!'}}}
+305: {'values_changed': {"root['content_license']": {'new_value': 'Freeware, proprietary', 'old_value': 'Proprietary'}}}
+333: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail', 'old_value': 'hazeljoyanchetadegaliciaYahoo! Mail'}}}
+334: {'values_changed': {"root['name']": {'new_value': 'hazeljoyanchetadegaliciaYahoo! Mail', 'old_value': 'Yahoo! Mail'}}}
+335: {'values_changed': {"root['num_users']": {'new_value': '1 billion active monthly users (February 2016)', 'old_value': '225 million active monthly users (February 2017)'}}}
+345: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail', 'old_value': 'Yahoo Mail'}}}
+346: {'values_changed': {"root['name']": {'new_value': 'Yahoo Mail', 'old_value': 'Yahoo! Mail'}}}
+351: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! Holdings, (Oath Inc.)'}}}
+355: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Holdings, (Oath Inc.)', 'old_value': 'Oath Inc., (Verizon Communications)'}}}
+358: {'dictionary_item_removed': {"root['logocaption']": 'yahoomail '}}
+371: {'dictionary_item_added': {"root['logocaption']": 'yahoomail '}, 'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail', 'old_value': "Yahoo! Mail '''(18772013829)'''"}}}
+372: {'values_changed': {"root['name']": {'new_value': "Yahoo! Mail '''(18772013829)'''", 'old_value': 'Yahoo! Mail'}}}
+379: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail', 'old_value': 'Yahoo! Mail (18772013829)'}}}
+380: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Mail (18772013829)', 'old_value': 'Yahoo! Mail'}}}
+392: {'values_changed': {"root['owner']": {'new_value': 'Oath Inc., (Verizon Communications)', 'old_value': 'Verizon Media, (Verizon Communications)'}}}
+408: {'values_changed': {"root['owner']": {'new_value': 'Verizon Media, (Verizon Communications)', 'old_value': 'Verizon Media, (Verizon Communications) hello'}}}
+409: {'values_changed': {"root['owner']": {'new_value': 'Verizon Media, (Verizon Communications) hello', 'old_value': 'Verizon Media, (Verizon Communications)'}}}

@@ -1,0 +1,45 @@
+102: {'dictionary_item_removed': {"root['company_name']": 'The Huffington Post', "root['genre']": 'News', "root['foundation']": 'May 2005', "root['key_people']": 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor', "root['owner']": 'Arianna Huffington  Kenneth Lerer', "root['num_employees']": '60', "root['company_slogan']": '"The Internet Newspaper: News, Blogs, Video, Community"', "root['website_type']": 'News & blogging', "root['alexa']": '154 (37 in US) |'}}
+117: {'dictionary_item_added': {"root['key_people']": 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor'}, 'dictionary_item_removed': {"root['key_peple']": 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor'}}
+118: {'dictionary_item_added': {"root['key_peple']": 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor'}, 'dictionary_item_removed': {"root['key_people']": 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor'}}
+124: {'values_changed': {"root['owner']": {'new_value': 'Arianna Huffington  Kenneth Lerer', 'old_value': 'AOL'}}}
+125: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Arianna Huffington  Kenneth Lerer'}}}
+135: {'values_changed': {"root['alexa']": {'new_value': '154 (37 in US) |', 'old_value': '128 (31 in U.S.)   '}}}
+157: {'values_changed': {"root['company_name']": {'new_value': 'The Huffington Post', 'old_value': 'The Huffington Post is Crap'}}}
+158: {'values_changed': {"root['company_name']": {'new_value': 'The Huffington Post is Crap', 'old_value': 'The Huffington Post'}}}
+204: {'dictionary_item_added': {"root['owner']": 'Arianna Huffington  Kenneth Lerer'}, 'values_changed': {"root['key_people']": {'new_value': 'Arianna Huffington, Editor-in-Chief  Eric Hippeau, Chief Executive Officer   Roy Sekoff, editor', 'old_value': 'Arianna Huffington, Editor-in-Chief  Tim Armstrong, Chief Executive Officer   Roy Sekoff, editor'}, "root['num_employees']": {'new_value': '60', 'old_value': '200+'}, "root['alexa']": {'new_value': '128 (31 in U.S.)   ', 'old_value': '123    '}}}
+225: {'values_changed': {"root['alexa']": {'new_value': '123    ', 'old_value': '06|a'}}}
+242: {'values_changed': {"root['alexa']": {'new_value': '06|a', 'old_value': '7|12|a'}}}
+248: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+257: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+267: {'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|2|a'}}}
+287: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '11|2|a'}}}
+306: {'values_changed': {"root['key_people']": {'new_value': 'Arianna Huffington, Editor-in-Chief  Tim Armstrong, Chief Executive Officer   Roy Sekoff, editor', 'old_value': 'Arianna Huffington, Editor-in-Chief  Tim Armstrong, Chief Executive Officer  Roy Sekoff, editor'}}}
+320: {'dictionary_item_added': {"root['alexa']": '11|2|a'}, 'values_changed': {"root['company_name']": {'new_value': 'The Huffington Post', 'old_value': "''The Huffington Post''"}, "root['key_people']": {'new_value': 'Arianna Huffington, Editor-in-Chief  Tim Armstrong, Chief Executive Officer  Roy Sekoff, editor', 'old_value': 'Arianna Huffington (editor-in-chief)  Jimmy Maymann (CEO)  Roy Sekoff (editor)  Anne Sinclair (French edition editor-in-chief)'}, "root['num_employees']": {'new_value': '200+', 'old_value': '850'}, "root['website_type']": {'new_value': 'News & blogging', 'old_value': 'Political weblog'}}}
+326: {'dictionary_item_added': {"root['company_name']": "''The Huffington Post''"}, 'dictionary_item_removed': {"root['name']": "''The Huffington Post''"}}
+371: {'dictionary_item_added': {"root['company_slogan']": '"The Internet Newspaper: News, Blogs, Video, Community"'}, 'dictionary_item_removed': {"root['alexa']": '4|11|a'}, 'values_changed': {"root['key_people']": {'new_value': 'Arianna Huffington (editor-in-chief)  Jimmy Maymann (CEO)  Roy Sekoff (editor)  Anne Sinclair (French edition editor-in-chief)', 'old_value': 'Arianna Huffington (editor-in-chief)  Jared Grusd (CEO)  Roy Sekoff (editor)  Anne Sinclair (French edition editor-in-chief)'}}}
+404: {'dictionary_item_added': {"root['foundation']": 'May 2005'}, 'values_changed': {"root['alexa']": {'new_value': '4|11|a', 'old_value': '10|28|a'}}}
+406: {'values_changed': {"root['key_people']": {'new_value': 'Arianna Huffington (editor-in-chief)  Jared Grusd (CEO)  Roy Sekoff (editor)  Anne Sinclair (French edition editor-in-chief)', 'old_value': 'Arianna Huffington (editor-in-chief) Jared Grusd (CEO) Roy Sekoff (editor) Anne Sinclair (French edition editor-in-chief)'}}}
+427: {'values_changed': {"root['alexa']": {'new_value': '10|28|a', 'old_value': '11|13|a'}}}
+438: {'dictionary_item_added': {"root['genre']": 'News', "root['key_people']": 'Arianna Huffington (editor-in-chief) Jared Grusd (CEO) Roy Sekoff (editor) Anne Sinclair (French edition editor-in-chief)', "root['num_employees']": '850', "root['website_type']": 'Political weblog', "root['alexa']": '11|13|a'}, 'dictionary_item_removed': {"root['slogan']": 'Inform, Inspire, Entertain, Empower', "root['owner']": 'AOL', "root['editor']": 'Arianna Huffington (former)'}}
+439: {'values_changed': {"root['editor']": {'new_value': 'Arianna Huffington (former)', 'old_value': 'Lydia Polgreen'}}}
+443: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Verizon through AOL'}}}
+459: {'values_changed': {"root['owner']": {'new_value': 'Verizon through AOL', 'old_value': 'AOL'}}}
+469: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Juden AOL'}}}
+470: {'values_changed': {"root['owner']": {'new_value': 'Juden AOL', 'old_value': 'AOL'}}}
+471: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Juden'}}}
+472: {'values_changed': {"root['owner']": {'new_value': 'Juden', 'old_value': 'AOL'}}}
+491: {'values_changed': {"root['name']": {'new_value': "''The Huffington Post''", 'old_value': "''HuffPost''"}}}
+507: {'values_changed': {"root['slogan']": {'new_value': 'Inform, Inspire, Entertain, Empower', 'old_value': "''Inform, Inspire, Entertain, Empower''"}}}
+516: {'values_changed': {"root['name']": {'new_value': "''HuffPost''", 'old_value': "''KFC''"}}}
+517: {'values_changed': {"root['name']": {'new_value': "''KFC''", 'old_value': "''HuffPost''"}}}
+518: {'values_changed': {"root['name']": {'new_value': "''HuffPost''", 'old_value': "''KFCC''"}, "root['slogan']": {'new_value': "''Inform, Inspire, Entertain, Empower''", 'old_value': "''Inform, eat sleep walk drive die''"}, "root['owner']": {'new_value': 'AOL', 'old_value': 'AIA'}}}
+519: {'values_changed': {"root['name']": {'new_value': "''KFCC''", 'old_value': "''HuffPost''"}, "root['slogan']": {'new_value': "''Inform, eat sleep walk drive die''", 'old_value': "''Inform, Inspire, Entertain, Empower''"}, "root['owner']": {'new_value': 'AIA', 'old_value': 'AOL'}}}
+542: {'values_changed': {"root['name']": {'new_value': "''HuffPost''", 'old_value': "''Fake News"}}}
+543: {'values_changed': {"root['name']": {'new_value': "''Fake News", 'old_value': "''HuffPost''"}}}
+562: {'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'Verizon Communications'}}}
+715: {'values_changed': {"root['owner']": {'new_value': 'Verizon Communications', 'old_value': 'Liberal progressives'}}}
+720: {'dictionary_item_added': {"root['slogan']": "''Inform, Inspire, Entertain, Empower''"}, 'values_changed': {"root['owner']": {'new_value': 'Liberal progressives', 'old_value': 'AOL'}}}
+731: {'dictionary_item_removed': {"root['alexa']": '678 ('}}
+741: {'dictionary_item_removed': {"root['location']": '770 Broadway, New York City, U.S. '}}
+742: {'values_changed': {"root['alexa']": {'new_value': '678 (', 'old_value': '679 ('}}}
+780: {'dictionary_item_added': {"root['alexa']": '679 ('}, 'values_changed': {"root['owner']": {'new_value': 'AOL', 'old_value': 'BuzzFeed'}}}

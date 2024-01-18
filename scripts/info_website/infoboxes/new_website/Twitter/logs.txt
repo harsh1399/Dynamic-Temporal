@@ -1,0 +1,101 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Twitter, Inc.', "root['area_served']": 'Worldwide', "root['revenue']": 'Increase US$140 million (2010 est.)', "root['num_employees']": '900+ (2012)', "root['website_type']": 'Social network service, microblogging'}}
+204: {'values_changed': {"root['num_employees']": {'new_value': '900+ (2012)', 'old_value': '2,000+ (2013)'}}}
+238: {'values_changed': {"root['revenue']": {'new_value': 'Increase US$140 million (2010 est.)', 'old_value': 'Increase US$317 million (2012)  author= Jeremy Quittner'}}}
+263: {'dictionary_item_added': {"root['company_name']": 'Twitter, Inc.', "root['num_employees']": '2,000+ (2013)'}, 'dictionary_item_removed': {"root['name']": 'Twitter, Inc.', "root['location']": 'San Francisco, California, United States', "root['key_people']": 'Jack P. Dorsey | ', "root['operating_income']": 'US$ 38.74 million (2017)', "root['net_income']": 'US$ -108.06 million (2017)', "root['assets']": 'US$ 7.41 billion (2017)', "root['equity']": 'US$ 5.05 billion (2017)'}, 'values_changed': {"root['revenue']": {'new_value': 'Increase US$317 million (2012)  author= Jeremy Quittner', 'old_value': 'US$ 2.44 billion (2017)'}, "root['website_type']": {'new_value': 'Social network service, microblogging', 'old_value': 'News and social networking service'}}}
+267: {'values_changed': {"root['revenue']": {'new_value': 'US$ 2.44 billion (2017)', 'old_value': 'US$2.44 billion (2017)'}, "root['operating_income']": {'new_value': 'US$ 38.74 million (2017)', 'old_value': 'US$38.74 million (2017)'}, "root['net_income']": {'new_value': 'US$ -108.06 million (2017)', 'old_value': '−US$108.06 million (2017)'}, "root['assets']": {'new_value': 'US$ 7.41 billion (2017)', 'old_value': 'US$7.41 billion (2017)'}, "root['equity']": {'new_value': 'US$ 5.05 billion (2017)', 'old_value': 'US$5.05 billion (2017)'}}}
+270: {'values_changed': {"root['key_people']": {'new_value': 'Jack P. Dorsey | ', 'old_value': 'Jack Dorsey (CEO)'}}}
+280: {'values_changed': {"root['key_people']": {'new_value': 'Jack Dorsey (CEO)', 'old_value': 'class=nowrap  | Omid Kordestani |  Jack Dorsey | '}}}
+281: {'values_changed': {"root['key_people']": {'new_value': 'class=nowrap  | Omid Kordestani |  Jack Dorsey | ', 'old_value': 'Jack Dorsey | '}}}
+298: {'values_changed': {"root['revenue']": {'new_value': 'US$2.44 billion (2017)', 'old_value': 'US$3.04 billion (2018)'}, "root['operating_income']": {'new_value': 'US$38.74 million (2017)', 'old_value': 'US$453 million (2018)'}, "root['net_income']": {'new_value': '−US$108.06 million (2017)', 'old_value': 'US$1.2 billion (2018)'}, "root['assets']": {'new_value': 'US$7.41 billion (2017)', 'old_value': 'US$10.16 billion (2018)'}, "root['equity']": {'new_value': 'US$5.05 billion (2017)', 'old_value': 'US$6.8 billion (2018)'}}}
+328: {'values_changed': {"root['website_type']": {'new_value': 'News and social networking service', 'old_value': 'News, social networking service'}}}
+488: {'dictionary_item_added': {"root['key_people']": 'Jack Dorsey | '}, 'values_changed': {"root['location']": {'new_value': 'San Francisco, California, United States', 'old_value': 'San Francisco, California United States'}, "root['revenue']": {'new_value': 'US$3.04 billion (2018)', 'old_value': 'US$3.46 billion (2019)'}, "root['net_income']": {'new_value': 'US$1.2 billion (2018)', 'old_value': 'US$1.47 billion (2019)'}}}
+559: {'values_changed': {"root['operating_income']": {'new_value': 'US$453 million (2018)', 'old_value': 'US366.37 million (2019)'}, "root['assets']": {'new_value': 'US$10.16 billion (2018)', 'old_value': 'US$12.7 billion (2019)'}, "root['equity']": {'new_value': 'US$6.8 billion (2018)', 'old_value': 'US$8.7 billion (2019)'}}}
+603: {'values_changed': {"root['revenue']": {'new_value': 'US$3.46 billion (2019)', 'old_value': 'US$3.72 billion (2020)'}, "root['net_income']": {'new_value': 'US$1.47 billion (2019)', 'old_value': 'US$-1.13 billion (2020)'}, "root['operating_income']": {'new_value': 'US366.37 million (2019)', 'old_value': 'US27 million (2020)'}, "root['assets']": {'new_value': 'US$12.7 billion (2019)', 'old_value': 'US$13.37 billion (2020)'}, "root['equity']": {'new_value': 'US$8.7 billion (2019)', 'old_value': 'US$7.97 billion (2020)'}}}
+622: {'values_changed': {"root['operating_income']": {'new_value': 'US27 million (2020)', 'old_value': 'US$27 million (2020)'}}}
+704: {'values_changed': {"root['net_income']": {'new_value': 'US$-1.13 billion (2020)', 'old_value': '−US$1.13 billion (2020)'}}}
+743: {'values_changed': {"root['location']": {'new_value': 'San Francisco, California United States', 'old_value': 'San Francisco, California U.S.'}}}
+745: {'values_changed': {"root['net_income']": {'new_value': '−US$1.13 billion (2020)', 'old_value': 'US$1.13 billion (2020)'}}}
+813: {'values_changed': {"root['revenue']": {'new_value': 'US$3.72 billion (2020)', 'old_value': 'US$ 3.72 billion (2020)'}, "root['net_income']": {'new_value': 'US$1.13 billion (2020)', 'old_value': 'US$ 1.13 billion (2020)'}, "root['operating_income']": {'new_value': 'US$27 million (2020)', 'old_value': 'US$ 27 million (2020)'}, "root['assets']": {'new_value': 'US$13.37 billion (2020)', 'old_value': 'US$ 13.37 billion (2020)'}, "root['equity']": {'new_value': 'US$7.97 billion (2020)', 'old_value': 'US$ 7.97 billion (2020)'}}}
+814: {'values_changed': {"root['net_income']": {'new_value': 'US$ 1.13 billion (2020)', 'old_value': 'US$ red billion (2020)'}}}
+823: {'values_changed': {"root['location']": {'new_value': 'San Francisco, California U.S.', 'old_value': 'San Francisco, California, U.S.'}}}
+933: {'dictionary_item_removed': {"root['owner']": 'Elon Musk (9.2% stake and largest shareholder)'}}
+947: {'dictionary_item_added': {"root['owner']": 'Elon Musk (9.2% stake and largest shareholder)'}, 'values_changed': {"root['revenue']": {'new_value': 'US$ 3.72 billion (2020)', 'old_value': '5.08 billion (2021)'}, "root['net_income']": {'new_value': 'US$ red billion (2020)', 'old_value': 'US$red million (2021)'}, "root['operating_income']": {'new_value': 'US$ 27 million (2020)', 'old_value': 'US$272.96 million (2021)'}, "root['assets']": {'new_value': 'US$ 13.37 billion (2020)', 'old_value': 'US$14.06 billion (2021)'}, "root['equity']": {'new_value': 'US$ 7.97 billion (2020)', 'old_value': 'US$7.31 billion (2021)'}}}
+1036: {'dictionary_item_removed': {"root['owner']": 'Elon Musk'}}
+1109: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Elon Musk   (pending)'}}}
+1115: {'dictionary_item_added': {"root['owner']": 'Elon Musk   (pending)'}, 'dictionary_item_removed': {"root['ceo']": 'Parag Agrawal'}}
+1128: {'dictionary_item_added': {"root['ceo']": 'Parag Agrawal'}, 'dictionary_item_removed': {"root['owner']": 'Elon Musk'}}
+1153: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Elon Mask'}}}
+1154: {'values_changed': {"root['owner']": {'new_value': 'Elon Mask', 'old_value': 'Elon Musk'}}}
+1172: {'dictionary_item_added': {"root['owner']": 'Elon Musk', "root['revenue']": '5.08 billion (2021)', "root['net_income']": 'US$red million (2021)', "root['operating_income']": 'US$272.96 million (2021)', "root['assets']": 'US$14.06 billion (2021)', "root['equity']": 'US$7.31 billion (2021)'}, 'dictionary_item_removed': {"root['key_people']": 'Elon Musk| , Bret Taylor  (Chair) , Parag Agrawal (CEO) |'}}
+1173: {'dictionary_item_added': {"root['key_people']": 'Elon Musk| , Bret Taylor  (Chair) , Parag Agrawal (CEO) |'}, 'dictionary_item_removed': {"root['revenue']": '5.08 billion (2021)', "root['net_income']": 'US$red million (2021)', "root['operating_income']": 'US$272.96 million (2021)', "root['assets']": 'US$14.06 billion (2021)', "root['equity']": 'US$7.31 billion (2021)'}}
+1177: {'dictionary_item_removed': {"root['owner']": 'Elon Musk'}}
+1192: {'dictionary_item_added': {"root['owner']": 'Elon Musk'}, 'dictionary_item_removed': {"root['num_users']": '217 million monetizable DAU (Q4 2021)'}}
+1203: {'values_changed': {"root['num_users']": {'new_value': '217 million monetizable DAU (Q4 2021)', 'old_value': '229 million monetizable DAU (Q1 2022)'}}}
+1219: {'dictionary_item_removed': {"root['owner']": 'Elon Musk'}}
+1225: {'dictionary_item_added': {"root['revenue']": '5.08 billion (2021)', "root['net_income']": 'US$red million (2021)', "root['operating_income']": 'US$272.96 million (2021)', "root['assets']": 'US$14.06 billion (2021)', "root['equity']": 'US$7.31 billion (2021)'}, 'values_changed': {"root['name']": {'new_value': 'Twitter, Inc.', 'old_value': 'Twitter'}, "root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Twitter, Inc.'}}}
+1232: {'dictionary_item_removed': {"root['CEO']": 'Parag Agrawal (CEO)'}, 'values_changed': {"root['website_type']": {'new_value': 'News, social networking service', 'old_value': 'social networking service'}, "root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Worldwide, except blocking countries'}}}
+1244: {'dictionary_item_added': {"root['location']": 'San Francisco, California, U.S.'}, 'values_changed': {"root['website_type']": {'new_value': 'social networking service', 'old_value': 'Social networking service'}}}
+1387: {'values_changed': {"root['owner']": {'new_value': 'Twitter, Inc.', 'old_value': 'Elon Musk'}}}
+1388: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Twitter, Inc.'}}}
+1390: {'values_changed': {"root['CEO']": {'new_value': 'Parag Agrawal (CEO)', 'old_value': 'Elon Musk (CEO)'}}}
+1392: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk (CEO)', 'old_value': 'Parag Agrawal (CEO)'}}}
+1393: {'values_changed': {"root['CEO']": {'new_value': 'Parag Agrawal (CEO)', 'old_value': 'Vacant'}}}
+1395: {'values_changed': {"root['owner']": {'new_value': 'Twitter, Inc.', 'old_value': 'Elon Musk (CEO)'}}}
+1396: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk (CEO)', 'old_value': 'Twitter, Inc.'}}}
+1399: {'dictionary_item_added': {"root['CEO']": 'Vacant'}, 'values_changed': {"root['owner']": {'new_value': 'Twitter, Inc.', 'old_value': 'Elon musk.'}}}
+1400: {'values_changed': {"root['owner']": {'new_value': 'Elon musk.', 'old_value': 'Elon Musk'}}}
+1401: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Twitter, Inc.'}}}
+1403: {'values_changed': {"root['owner']": {'new_value': 'Twitter, Inc.', 'old_value': 'Elon Musk'}}}
+1408: {'values_changed': {"root['owner']": {'new_value': 'Elon Musk', 'old_value': 'Twitter, Inc.'}}}
+1435: {'values_changed': {"root['num_users']": {'new_value': '229 million monetizable DAU (Q1 2022)', 'old_value': '238 million monetizable DAU (Q2 2022)'}}}
+1436: {'dictionary_item_removed': {"root['CEO']": 'Elon Musk'}}
+1553: {'dictionary_item_added': {"root['CEO']": 'Elon Musk'}, 'values_changed': {"root['num_users']": {'new_value': '238 million monetizable DAU (Q2 2022)', 'old_value': '254 million monetizable DAU (November 2022)'}}}
+1554: {'values_changed': {"root['num_users']": {'new_value': '254 million monetizable DAU (November 2022)', 'old_value': '238 million monetizable DAU (Q2 2022)'}}}
+1648: {'dictionary_item_removed': {"root['CEO']": 'Elon Musk'}}
+1690: {'values_changed': {"root['num_users']": {'new_value': '238 million monetizable DAU (Q2 2022)', 'old_value': '368 million DAU (January 2023)'}}}
+1728: {'values_changed': {"root['num_users']": {'new_value': '368 million DAU (January 2023)', 'old_value': '368 million MAU (December 2022)'}}}
+1729: {'values_changed': {"root['num_users']": {'new_value': '368 million MAU (December 2022)', 'old_value': '450 million MAU (as of 2023)'}}}
+1737: {'values_changed': {"root['num_users']": {'new_value': '450 million MAU (as of 2023)', 'old_value': '556 million MAU (March 2023)'}}}
+1748: {'values_changed': {"root['num_users']": {'new_value': '556 million MAU (March 2023)', 'old_value': '450 million MAU (Q1 2023)'}}}
+1786: {'values_changed': {"root['owner']": {'new_value': 'Twitter, Inc.', 'old_value': 'X Corporation'}}}
+1789: {'values_changed': {"root['owner']": {'new_value': 'X Corporation', 'old_value': 'X Corp.'}}}
+1807: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': "Floki (Elon Musk's Dog) |"}}}
+1808: {'values_changed': {"root['CEO']": {'new_value': "Floki (Elon Musk's Dog) |", 'old_value': 'Elon Musk'}}}
+1811: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': "Floki (Elon Musk's Dog) |"}}}
+1813: {'values_changed': {"root['CEO']": {'new_value': "Floki (Elon Musk's Dog) |", 'old_value': 'Elon Musk'}}}
+1816: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': "Floki (Elon Musk's Dog) |"}}}
+1817: {'values_changed': {"root['CEO']": {'new_value': "Floki (Elon Musk's Dog) |", 'old_value': 'Elon Musk'}}}
+1818: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': "Floki (Elon Musk's Dog) |"}}}
+1819: {'values_changed': {"root['CEO']": {'new_value': "Floki (Elon Musk's Dog) |", 'old_value': 'Elon Musk'}}}
+1820: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': "Floki (Elon Musk's Dog) |"}}}
+1822: {'values_changed': {"root['CEO']": {'new_value': "Floki (Elon Musk's Dog) |", 'old_value': 'Elon Musk'}}}
+1823: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1826: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1827: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1828: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1829: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1830: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1831: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1832: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1833: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1834: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1835: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Floki (Elon Musk’s dog)'}}}
+1836: {'values_changed': {"root['CEO']": {'new_value': 'Floki (Elon Musk’s dog)', 'old_value': 'Elon Musk'}}}
+1881: {'dictionary_item_added': {"root['num_users']": '450 million MAU (Q1 2023)'}, 'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Elon Bastra'}}}
+1882: {'values_changed': {"root['CEO']": {'new_value': 'Elon Bastra', 'old_value': 'Elon Musk'}}}
+1891: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Linda Yaccarino'}}}
+1892: {'values_changed': {"root['CEO']": {'new_value': 'Linda Yaccarino', 'old_value': 'Elon Musk'}}}
+1895: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Linda Yaccarino'}}}
+1896: {'values_changed': {"root['CEO']": {'new_value': 'Linda Yaccarino', 'old_value': 'Elon Musk'}}}
+1899: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Linda Yaccarino'}}}
+1900: {'values_changed': {"root['CEO']": {'new_value': 'Linda Yaccarino', 'old_value': 'Elon Musk'}}}
+1901: {'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Linda Yaccarino'}}}
+1902: {'dictionary_item_removed': {"root['chairman']": 'Elon Musk'}}
+1903: {'dictionary_item_added': {"root['chairman']": 'Elon Musk'}, 'values_changed': {"root['CEO']": {'new_value': 'Linda Yaccarino', 'old_value': 'Elon Musk'}}}
+1929: {'dictionary_item_added': {"root['owner']": 'X Corp.'}, 'values_changed': {"root['CEO']": {'new_value': 'Elon Musk', 'old_value': 'Linda Yaccarino'}}}
+1930: {'dictionary_item_removed': {"root['chairman']": 'Elon Musk', "root['owner']": 'X Corp.'}}
+1933: {'values_changed': {"root['owner']": {'new_value': 'X Corp.', 'old_value': 'Odeo (2006) Obvious Corporation (2006-2007) Twitter, Inc. (2007-2023) X Corp. (2023-present)'}}}
+1934: {'values_changed': {"root['owner']": {'new_value': 'Odeo (2006) Obvious Corporation (2006-2007) Twitter, Inc. (2007-2023) X Corp. (2023-present)', 'old_value': 'X Corp.'}}}
+1935: {'values_changed': {"root['owner']": {'new_value': 'X Corp.', 'old_value': 'Odeo (2006) Obvious Corporation (2006-2007) Twitter, Inc. (2007-2023) X Corp. (2023-present)'}}}
+1939: {'values_changed': {"root['owner']": {'new_value': 'Odeo (2006) Obvious Corporation (2006-2007) Twitter, Inc. (2007-2023) X Corp. (2023-present)', 'old_value': 'Odeo (2006) Obvious Corporation (2006–2007) Twitter, Inc. (2007–2023) X Corp. (2023-present)'}}}
+1940: {'values_changed': {"root['owner']": {'new_value': 'Odeo (2006) Obvious Corporation (2006–2007) Twitter, Inc. (2007–2023) X Corp. (2023-present)', 'old_value': 'Odeo (2006) Obvious Corporation (2006–2007) Twitter, Inc. (2007–2023) X Corp. (2023–present)'}}}

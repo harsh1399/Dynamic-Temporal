@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Quirky Inc.', "root['location']": 'New York City', "root['net_income']": 'date=August 2013', "root['num_employees']": '250+', "root['company_slogan']": 'We Make Invention Accessible', "root['num_users']": '877,000+'}}
+2: {'dictionary_item_added': {"root['net_income']": 'date=August 2013'}, 'values_changed': {"root['num_users']": {'new_value': '877,000+', 'old_value': '1,106,000'}}}
+33: {'dictionary_item_added': {"root['num_employees']": '250+'}, 'dictionary_item_removed': {"root['subsid']": 'Wink'}, 'values_changed': {"root['num_users']": {'new_value': '1,106,000', 'old_value': '1,130,000'}}}
+38: {'dictionary_item_removed': {"root['intl']": '|key people'}}
+58: {'values_changed': {"root['subsid']": {'new_value': 'Wink', 'old_value': 'Undercurrent'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'BlueLine', "root['company_slogan']": 'Strong Connections.  Safe Communities', "root['company_logo']": 'thumb', "root['area_served']": 'U.S.', "root['website_type']": 'Social network service  '}}
+13: {'values_changed': {"root['website_type']": {'new_value': 'Social network service  ', 'old_value': 'Professional network service  '}}}
+14: {'values_changed': {"root['website_type']": {'new_value': 'Professional network service  ', 'old_value': 'Social network service  '}}}
+23: {'dictionary_item_added': {"root['company_logo']": 'thumb'}, 'values_changed': {"root['company_name']": {'new_value': 'BlueLine', 'old_value': 'BlueLine Grid'}}}
+35: {'values_changed': {"root['company_slogan']": {'new_value': 'Strong Connections.  Safe Communities', 'old_value': 'Connecting Those Who Serve'}}}
+36: {'dictionary_item_added': {"root['website_type']": 'Social network service  '}, 'dictionary_item_removed': {"root['revenue']": 'Subscription'}}

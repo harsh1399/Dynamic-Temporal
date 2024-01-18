@@ -1,0 +1,42 @@
+0: {'dictionary_item_removed': {"root['name']": 'VKontakte', "root['owner']": 'Doraview Limited'}}
+1: {'dictionary_item_removed': {"root['num_users']": 'Over 140,000,000'}}
+27: {'values_changed': {"root['num_users']": {'new_value': 'Over 140,000,000', 'old_value': 'Over 150,000,000'}}}
+28: {'values_changed': {"root['num_users']": {'new_value': 'Over 150,000,000', 'old_value': 'Over 155,000,000'}}}
+29: {'values_changed': {"root['num_users']": {'new_value': 'Over 155,000,000', 'old_value': 'Over 145,000,000'}}}
+31: {'values_changed': {"root['num_users']": {'new_value': 'Over 145,000,000', 'old_value': '160,000,000'}}}
+34: {'values_changed': {"root['num_users']": {'new_value': '160,000,000', 'old_value': 'More than 160,000,000'}}}
+47: {'values_changed': {"root['num_users']": {'new_value': 'More than 160,000,000', 'old_value': '116.6 million'}}}
+48: {'values_changed': {"root['num_users']": {'new_value': '116.6 million', 'old_value': '160 million'}}}
+82: {'values_changed': {"root['num_users']": {'new_value': '160 million', 'old_value': '290 million'}}}
+87: {'values_changed': {"root['num_users']": {'new_value': '290 million', 'old_value': '417 million'}}}
+88: {'values_changed': {"root['num_users']": {'new_value': '417 million', 'old_value': '290 million'}}}
+94: {'values_changed': {"root['name']": {'new_value': 'VKontakte', 'old_value': 'VK'}}}
+163: {'dictionary_item_added': {"root['name']": 'VK'}, 'values_changed': {"root['num_users']": {'new_value': '290 million', 'old_value': '310 million'}}}
+164: {'values_changed': {"root['num_users']": {'new_value': '310 million', 'old_value': '290 million'}}}
+167: {'dictionary_item_removed': {"root['alexa']": '34 ('}}
+177: {'values_changed': {"root['num_users']": {'new_value': '290 million', 'old_value': '140 million'}}}
+207: {'dictionary_item_added': {"root['num_users']": '140 million', "root['owner']": 'Doraview Limited'}, 'values_changed': {"root['alexa']": {'new_value': '34 (', 'old_value': '11|10|a'}}}
+218: {'values_changed': {"root['alexa']": {'new_value': '11|10|a', 'old_value': '02|27|a'}}}
+244: {'dictionary_item_added': {"root['alexa']": '02|27|a'}, 'dictionary_item_removed': {"root['name']": 'VK  | parent'}}
+296: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+415: {'dictionary_item_removed': {"root['area_served']": 'Worldwide; majority of users are in CIS', "root['num_users']": '593,000,000+ as of April 2020', "root['CEO']": 'Andrey Rogozov', "root['creator']": 'Pavel Durov', "root['revenue']": '42.751 billion (2016)'}, 'values_changed': {"root['name']": {'new_value': 'VK  | parent', 'old_value': 'VK'}}}
+416: {'values_changed': {"root['num_users']": {'new_value': '593,000,000+ as of April 2020', 'old_value': '634,000,000+ as of April 2020'}}}
+422: {'values_changed': {"root['num_users']": {'new_value': '634,000,000+ as of April 2020', 'old_value': '649,016,600+ as of 10 April 2021'}}}
+446: {'dictionary_item_added': {"root['creator']": 'Pavel Durov'}, 'dictionary_item_removed': {"root['creators']": 'Pavel Durov ,  Nikolai Durov'}}
+447: {'values_changed': {"root['creators']": {'new_value': 'Pavel Durov ,  Nikolai Durov', 'old_value': 'Pavel Durov , Nikolai Durov'}}}
+449: {'dictionary_item_removed': {"root['publisher']": 'VK.com | access-date     = 28 December 2012'}, 'values_changed': {"root['creators']": {'new_value': 'Pavel Durov , Nikolai Durov', 'old_value': 'Pavel Durov,  Nikolai Durov'}}}
+462: {'values_changed': {"root['name']": {'new_value': 'VK', 'old_value': 'Kongpc'}}}
+463: {'values_changed': {"root['name']": {'new_value': 'Kongpc', 'old_value': 'VK'}}}
+475: {'values_changed': {"root['creators']": {'new_value': 'Pavel Durov,  Nikolai Durov', 'old_value': 'Pavel Durov, Nikolai Durov'}}}
+485: {'values_changed': {"root['publisher']": {'new_value': 'VK.com | access-date     = 28 December 2012', 'old_value': 'VK.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  '}}}
+493: {'values_changed': {"root['publisher']": {'new_value': 'VK.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  ', 'old_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  '}}}
+495: {'values_changed': {"root['publisher']": {'new_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  ', 'old_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://play.google.com/store/apps/details?id=com.vkwall.app  | url-status          = dead  '}}}
+511: {'values_changed': {"root['publisher']": {'new_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://play.google.com/store/apps/details?id=com.vkwall.app  | url-status          = dead  ', 'old_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  '}}}
+512: {'values_changed': {"root['publisher']": {'new_value': 'vkwall.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  ', 'old_value': 'VK.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  '}}}
+525: {'dictionary_item_added': {"root['CEO']": 'Andrey Rogozov'}, 'dictionary_item_removed': {"root['accessdate']": 'April 14, 2022 '}, 'values_changed': {"root['publisher']": {'new_value': 'VK.com  | access-date          = 28 December 2012  | archive-date          = 25 April 2018  | archive-url          = https://web.archive.org/web/20180425063720/https://vk.com/catalog.php  | url-status          = dead  ', 'old_value': '|'}}}
+539: {'values_changed': {"root['publisher']": {'new_value': '|', 'old_value': '||'}}}
+558: {'values_changed': {"root['creators']": {'new_value': 'Pavel Durov, Nikolai Durov', 'old_value': 'Pavel Duroff, Nikolai Duroff'}, "root['revenue']": {'new_value': '42.751 billion (2016)', 'old_value': '42.751 (2016)'}}}
+563: {'dictionary_item_added': {"root['accessdate']": 'April 14, 2022 '}, 'values_changed': {"root['creators']": {'new_value': 'Pavel Duroff, Nikolai Duroff', 'old_value': 'Pavel Durov, Nikolai Durov'}}}
+576: {'values_changed': {"root['revenue']": {'new_value': '42.751 (2016)', 'old_value': '42.751 billion (2016)'}}}
+588: {'values_changed': {"root['num_users']": {'new_value': '649,016,600+ as of 10 April 2021', 'old_value': '656,000,000+ as of 21 May 2021'}}}
+591: {'dictionary_item_added': {"root['publisher']": '||'}, 'dictionary_item_removed': {"root['CEO']": 'Marina Krasnova, (since 2021) ||'}}

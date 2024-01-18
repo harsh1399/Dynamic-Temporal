@@ -1,0 +1,4 @@
+7: {'dictionary_item_removed': {"root['name']": 'TRADER Corporation', "root['hq_location_city']": 'Toronto', "root['hq_location_country']": 'Canada', "root['area_served']": 'Canada', "root['key_people']": 'Sebastian Baldwin (CEO) ,  David McMinn (CFO)', "root['products']": 'autoTRADER.ca, autoHEBDO.net, autos.ca'}}
+25: {'values_changed': {"root['key_people']": {'new_value': 'Sebastian Baldwin (CEO) ,  David McMinn (CFO)', 'old_value': 'Sebastian Baldwin (CEO)'}}}
+27: {'values_changed': {"root['products']": {'new_value': 'autoTRADER.ca, autoHEBDO.net, autos.ca', 'old_value': 'AutoTrader.ca, AutoHebdo.net, Autos.ca  , deal'}}}
+28: {'values_changed': {"root['products']": {'new_value': 'AutoTrader.ca, AutoHebdo.net, Autos.ca  , deal', 'old_value': 'AutoTrader.ca, AutoHebdo.net, Autos.ca,   deal'}}}

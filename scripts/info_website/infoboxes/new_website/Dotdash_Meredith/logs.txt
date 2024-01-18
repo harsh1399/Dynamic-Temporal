@@ -1,0 +1,13 @@
+38: {'dictionary_item_removed': {"root['name']": 'About.com', "root['owner']": 'The New York Times Company', "root['alexa']": '1|2|a'}}
+39: {'values_changed': {"root['alexa']": {'new_value': '1|2|a', 'old_value': '2|2|a'}}}
+44: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|2|a'}}}
+47: {'values_changed': {"root['alexa']": {'new_value': '3|2|a', 'old_value': '4|2|a'}}}
+50: {'values_changed': {"root['alexa']": {'new_value': '4|2|a', 'old_value': '5|2|a'}}}
+57: {'values_changed': {"root['alexa']": {'new_value': '5|2|a', 'old_value': '6|2|a'}}}
+59: {'values_changed': {"root['alexa']": {'new_value': '6|2|a', 'old_value': '7|2|a'}}}
+60: {'values_changed': {"root['alexa']": {'new_value': '7|2|a', 'old_value': '8|2|a'}}}
+63: {'values_changed': {"root['owner']": {'new_value': 'The New York Times Company', 'old_value': 'IAC'}}}
+67: {'values_changed': {"root['owner']": {'new_value': 'IAC', 'old_value': 'The New York Times Company'}}}
+68: {'values_changed': {"root['owner']": {'new_value': 'The New York Times Company', 'old_value': 'IAC'}}}
+69: {'values_changed': {"root['owner']": {'new_value': 'IAC', 'old_value': 'The New York Times Company'}}}
+73: {'values_changed': {"root['owner']": {'new_value': 'The New York Times Company', 'old_value': 'IAC'}}}

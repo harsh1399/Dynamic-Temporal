@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'Parler', "root['website_type']": 'Social networking service', "root['foundation']": '2018', "root['location']": 'Henderson, Nevada', "root['CEO']": 'John Matze', "root['num_users']": '4', "root['num_employees']": '30'}}
+77: {'values_changed': {"root['CEO']": {'new_value': 'John Matze', 'old_value': 'John Matze, Jr.'}}}
+178: {'dictionary_item_removed': {"root['defunct']": '2021'}}
+233: {'dictionary_item_added': {"root['defunct']": '2021'}, 'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada', 'old_value': 'Henderson, Nevada, U.S'}}}
+234: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada, U.S', 'old_value': 'Henderson, Nevada'}}}
+235: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada', 'old_value': 'Henderson, Nevada, U.S'}}}
+236: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada, U.S', 'old_value': 'Henderson, Nevada'}}}
+237: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada', 'old_value': 'Henderson, Nevada, U.S'}}}
+238: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada, U.S', 'old_value': 'Henderson, Nevada'}}}
+276: {'values_changed': {"root['num_users']": {'new_value': '4', 'old_value': '2.3'}}}
+470: {'values_changed': {"root['CEO']": {'new_value': 'John Matze, Jr.', 'old_value': 'John Matze, Jr. (2018–January 29, 2021)'}}}
+543: {'values_changed': {"root['CEO']": {'new_value': 'John Matze, Jr. (2018–January 29, 2021)', 'old_value': 'Mark Meckler (interim)'}}}
+630: {'values_changed': {"root['num_users']": {'new_value': '2.3', 'old_value': '2.3 million (active), '}}}
+654: {'values_changed': {"root['CEO']": {'new_value': 'Mark Meckler (interim)', 'old_value': 'George Farmer'}}}
+773: {'values_changed': {"root['location']": {'new_value': 'Henderson, Nevada', 'old_value': 'Nashville, Tennessee'}, "root['num_users']": {'new_value': '2.3 million (active), ', 'old_value': '700,000 to 1 million (active), '}}}

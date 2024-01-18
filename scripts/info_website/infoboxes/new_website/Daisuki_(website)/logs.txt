@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Daisuke', "root['foundation']": 'May 2013', "root['website_type']": 'Video streaming service '}}
+10: {'dictionary_item_removed': {"root['company_logo']": 'File:Daisuke company logo.gif'}}
+20: {'values_changed': {"root['company_name']": {'new_value': 'Daisuke', 'old_value': 'Daisuki'}}}
+23: {'dictionary_item_added': {"root['company_name']": 'Daisuki', "root['company_logo']": 'File:Daisuke company logo.gif'}, 'dictionary_item_removed': {"root['name']": 'Daisuki'}}
+35: {'dictionary_item_removed': {"root['defunct']": 'October 2017'}}
+36: {'values_changed': {"root['foundation']": {'new_value': 'May 2013', 'old_value': 'May 16, 2013'}, "root['defunct']": {'new_value': 'October 2017', 'old_value': 'October 31, 2017 at 11:59 JST'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! News', "root['owner']": 'Yahoo!', "root['developer']": 'Yahoo!', "root['operating_system']": '| launch date = | current status = Active'}}
+2: {'dictionary_item_added': {"root['operating_system']": '| launch date = | current status = Active'}, 'values_changed': {"root['developer']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! | launch date = | current status = Active'}}}
+8: {'dictionary_item_removed': {"root['Presenter']": "'''Katie Couric''',,  Lead Anchor"}, 'values_changed': {"root['name']": {'new_value': 'Yahoo! News', 'old_value': 'Yahoo News'}, "root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo'}, "root['developer']": {'new_value': 'Yahoo! | launch date = | current status = Active', 'old_value': 'Yahoo | launch date = | current status = Active'}}}
+23: {'values_changed': {"root['developer']": {'new_value': 'Yahoo | launch date = | current status = Active', 'old_value': 'Yahoo | launch date =  current status = Acti'}}}
+39: {'values_changed': {"root['name']": {'new_value': 'Yahoo News', 'old_value': 'Yahoo! News'}}}
+41: {'values_changed': {"root['owner']": {'new_value': 'Yahoo', 'old_value': 'Yahoo!'}, "root['developer']": {'new_value': 'Yahoo | launch date =  current status = Acti', 'old_value': 'Yahoo! | launch date =  current status = Acti'}}}
+48: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! Holdings, (Oath Inc.)'}}}
+49: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Holdings, (Oath Inc.)', 'old_value': 'Oath Inc., (Verizon Communications)'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'WorldRemit', "root['hq_location_city']": 'London', "root['hq_location_country']": 'United Kingdom'}}
+2: {'dictionary_item_removed': {"root['founders']": 'Ismail Ahmed, Catherine Wines, Richard Igoe'}}
+8: {'values_changed': {"root['name']": {'new_value': 'WorldRemit', 'old_value': 'WorldRemit Ltd'}}}
+16: {'dictionary_item_removed': {"root['key_people']": 'Breon Corcoran (CEO), Ismail Ahmed (Executive Chairman), Andras Mecser (CFO)', "root['revenue']": '£85.83 million (2018)', "root['num_employees']": '1000+', "root['num_employees_year']": '2020'}}
+18: {'dictionary_item_added': {"root['founders']": 'Ismail Ahmed, Catherine Wines, Richard Igoe', "root['hq_location_city']": 'London', "root['hq_location_country']": 'United Kingdom', "root['key_people']": 'Breon Corcoran (CEO), Ismail Ahmed (Executive Chairman), Andras Mecser (CFO)', "root['num_employees']": '1000+', "root['num_employees_year']": '2020'}, 'dictionary_item_removed': {"root['services']": 'Financial services, Remittance', "root['location']": 'London', "root['chairman']": 'Ismail Ahmed ', "root['CEO']": 'Breon Corcoran ', "root['employees']": '776 (2021)'}, 'values_changed': {"root['name']": {'new_value': 'WorldRemit Ltd', 'old_value': 'WorldRemit Limited'}}}
+22: {'values_changed': {"root['employees']": {'new_value': '776 (2021)', 'old_value': '1200+ (2021)'}}}
+37: {'dictionary_item_added': {"root['revenue']": '£85.83 million (2018)'}, 'dictionary_item_removed': {"root['net_income']": '300 million annually'}, 'values_changed': {"root['employees']": {'new_value': '1200+ (2021)', 'old_value': '3000+ 2021)'}}}
+38: {'values_changed': {"root['net_income']": {'new_value': '300 million annually', 'old_value': '300 million dollars  annually'}}}
+39: {'dictionary_item_added': {"root['net_income']": '300 million dollars  annually'}, 'values_changed': {"root['employees']": {'new_value': '3000+ 2021)', 'old_value': '1200+ (2021)'}}}
+40: {'values_changed': {"root['employees']": {'new_value': '1200+ (2021)', 'old_value': '848 (2021)'}}}

@@ -1,0 +1,5 @@
+2: {'dictionary_item_removed': {"root['name']": 'PromotionCode.org', "root['location']": 'Las Vegas, Nevada', "root['website_type']": 'Bargain/Coupon website', "root['num_users']": '1 million unique visitors per month (peak seasons)'}}
+9: {'dictionary_item_added': {"root['num_users']": '1 million unique visitors per month (peak seasons)'}, 'values_changed': {"root['location']": {'new_value': 'Las Vegas, Nevada', 'old_value': 'Tallahassee, Florida'}}}
+13: {'dictionary_item_added': {"root['location']": 'Tallahassee, Florida'}, 'dictionary_item_removed': {"root['key_people']": 'Mike Catania'}, 'values_changed': {"root['website_type']": {'new_value': 'Bargain/Coupon website', 'old_value': 'Online coupons'}}}
+21: {'dictionary_item_removed': {"root['num_employees']": '11-50'}}
+34: {'values_changed': {"root['key_people']": {'new_value': 'Mike Catania', 'old_value': 'Robert Russo, ('}}}

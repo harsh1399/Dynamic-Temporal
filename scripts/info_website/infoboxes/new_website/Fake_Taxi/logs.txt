@@ -1,0 +1,32 @@
+0: {'dictionary_item_removed': {"root['name']": 'Fake Taxi', "root['key_people']": 'Feras Antoon (CEO),   David Tassilo (COO), Lenc Sterili (CEO)', "root['area_served']": 'Worldwide', "root['genre']": 'Reality Pornography', "root['products']": 'Pornographic films & series', "root['founders']": 'Really Useful Ltd | market cap'}}
+1: {'dictionary_item_removed': {"root['foundation']": '| market cap'}, 'values_changed': {"root['founders']": {'new_value': 'Really Useful Ltd | market cap', 'old_value': 'dean linton'}}}
+2: {'values_changed': {"root['founders']": {'new_value': 'dean linton', 'old_value': 'wan simpson'}}}
+3: {'values_changed': {"root['founders']": {'new_value': 'wan simpson', 'old_value': 'dean linton'}}}
+7: {'dictionary_item_added': {"root['name']": 'Fake Taxi'}, 'values_changed': {"root['founders']": {'new_value': 'dean linton', 'old_value': 'James McKiernan'}}}
+8: {'values_changed': {"root['founders']": {'new_value': 'James McKiernan', 'old_value': 'dean linton'}}}
+9: {'dictionary_item_removed': {"root['name']": 'Fake Taxi'}, 'values_changed': {"root['founders']": {'new_value': 'dean linton', 'old_value': 'Dean Linton'}, "root['key_people']": {'new_value': 'Feras Antoon (CEO),   David Tassilo (COO), Lenc Sterili (CEO)', 'old_value': 'Feras Antoon (CEO) '}, "root['genre']": {'new_value': 'Reality Pornography', 'old_value': 'Reality pornography'}, "root['products']": {'new_value': 'Pornographic films & series', 'old_value': 'Pornographic films and series'}, "root['foundation']": {'new_value': '| market cap', 'old_value': '|market cap'}}}
+26: {'values_changed': {"root['founders']": {'new_value': 'Dean Linton', 'old_value': 'JT'}}}
+27: {'values_changed': {"root['founders']": {'new_value': 'JT', 'old_value': 'Dean Linton'}}}
+28: {'values_changed': {"root['founders']": {'new_value': 'Dean Linton', 'old_value': 'Dean Harry Young'}}}
+29: {'values_changed': {"root['founders']": {'new_value': 'Dean Harry Young', 'old_value': 'Jack Kelly'}}}
+35: {'dictionary_item_added': {"root['founders']": 'Jack Kelly'}, 'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'Fake Taxis'}}}
+36: {'values_changed': {"root['name']": {'new_value': 'Fake Taxis', 'old_value': 'Fake Taxi'}}}
+62: {'dictionary_item_removed': {"root['founders']": 'John Todd Canterbury'}}
+66: {'dictionary_item_added': {"root['founders']": 'John Todd Canterbury'}, 'values_changed': {"root['key_people']": {'new_value': 'Feras Antoon (CEO) ', 'old_value': 'Tie my shoe(CEO) '}}}
+67: {'values_changed': {"root['key_people']": {'new_value': 'Tie my shoe(CEO) ', 'old_value': 'Feras Antoon (CEO) '}}}
+97: {'dictionary_item_added': {"root['key_people']": 'Feras Antoon (CEO) '}, 'dictionary_item_removed': {"root['founders']": 'Jonathan Todd', "root['owner']": 'Jonathan Todd '}}
+98: {'dictionary_item_added': {"root['founders']": 'Jonathan Todd', "root['area_served']": 'Worldwide', "root['genre']": 'Reality pornography', "root['products']": 'Pornographic films and series', "root['foundation']": '|market cap'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['content_licence']": 'Copyrighted'}}
+109: {'values_changed': {"root['owner']": {'new_value': 'Jonathan Todd ', 'old_value': 'Lee Hall '}}}
+110: {'values_changed': {"root['owner']": {'new_value': 'Lee Hall ', 'old_value': 'Jonathan Todd '}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'Justine Jeremie Xylone Lu'}}}
+124: {'values_changed': {"root['name']": {'new_value': 'Justine Jeremie Xylone Lu', 'old_value': 'Fake Taxi'}}}
+125: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'Fake Taxi Chun To Mak'}}}
+126: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi Chun To Mak', 'old_value': 'Fake Taxi'}}}
+134: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'Fake Taxi kailun lin and jersey nikole chua'}}}
+135: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi kailun lin and jersey nikole chua', 'old_value': 'Fake Taxi'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'CHUN TO MAK'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'CHUN TO MAK', 'old_value': 'Fake Taxi'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'Fake Taxi', 'old_value': 'MAK CHUN'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'MAK CHUN', 'old_value': 'MAK CHUN LIKES PORN'}}}
+140: {'values_changed': {"root['name']": {'new_value': 'MAK CHUN LIKES PORN', 'old_value': 'Fake Taxi'}}}
+146: {'values_changed': {"root['owner']": {'new_value': 'Jonathan Todd ', 'old_value': 'Jona Todd '}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['owner']": 'Wikimedia Foundation', "root['editor']": 'German Wikipedia community '}}
+14: {'values_changed': {"root['editor']": {'new_value': 'German Wikipedia community ', 'old_value': 'German foot tacos Wikipedia community '}}}
+15: {'values_changed': {"root['editor']": {'new_value': 'German foot tacos Wikipedia community ', 'old_value': 'German Wikipedia community '}}}
+19: {'values_changed': {"root['editor']": {'new_value': 'German Wikipedia community ', 'old_value': 'burber dude  '}}}
+21: {'values_changed': {"root['editor']": {'new_value': 'burber dude  ', 'old_value': 'burber and fries dude  '}}}
+23: {'values_changed': {"root['editor']": {'new_value': 'burber and fries dude  ', 'old_value': 'German Wikipedia community '}}}
+32: {'dictionary_item_added': {"root['editor']": 'German Wikipedia community '}, 'values_changed': {"root['owner']": {'new_value': 'Wikimedia Foundation', 'old_value': 'Wikimedia Foundation | editor           Google '}}}
+34: {'dictionary_item_removed': {"root['editor']": 'German Wikipedia community '}, 'values_changed': {"root['owner']": {'new_value': 'Wikimedia Foundation | editor           Google ', 'old_value': 'Wikimedia Foundation'}}}
+46: {'values_changed': {"root['editor']": {'new_value': 'German Wikipedia community ', 'old_value': 'Germany Wikipedia community '}}}
+47: {'values_changed': {"root['editor']": {'new_value': 'Germany Wikipedia community ', 'old_value': 'German Wikipedia community '}}}

@@ -1,0 +1,49 @@
+8: {'dictionary_item_removed': {"root['company_name']": 'Quora, Inc.', "root['area_served']": 'Worldwide', "root['location']": 'Palo Alto, California', "root['num_employees']": '4', "root['website_type']": 'Social network service'}}
+11: {'values_changed': {"root['num_employees']": {'new_value': '4', 'old_value': '8'}}}
+13: {'values_changed': {"root['num_employees']": {'new_value': '8', 'old_value': '10'}, "root['website_type']": {'new_value': 'Social network service', 'old_value': 'Knowledge organization'}}}
+14: {'values_changed': {"root['num_employees']": {'new_value': '10', 'old_value': '11'}}}
+16: {'dictionary_item_removed': {"root['company_logo']": 'File:QuoraLogo.gif'}}
+22: {'values_changed': {"root['num_employees']": {'new_value': '11', 'old_value': '12'}}}
+24: {'values_changed': {"root['num_employees']": {'new_value': '12', 'old_value': '13'}}}
+44: {'values_changed': {"root['num_employees']": {'new_value': '13', 'old_value': '14'}}}
+58: {'values_changed': {"root['num_employees']": {'new_value': '14', 'old_value': '15'}}}
+72: {'values_changed': {"root['num_employees']": {'new_value': '15', 'old_value': '16'}}}
+82: {'values_changed': {"root['num_employees']": {'new_value': '16', 'old_value': '18'}}}
+84: {'values_changed': {"root['num_employees']": {'new_value': '18', 'old_value': '19'}}}
+123: {'values_changed': {"root['num_employees']": {'new_value': '19', 'old_value': '18'}}}
+136: {'values_changed': {"root['num_employees']": {'new_value': '18', 'old_value': '19'}}}
+203: {'values_changed': {"root['company_name']": {'new_value': 'Quora, Inc.', 'old_value': 'Quora, Inc you need an invitation WHY??.'}}}
+204: {'values_changed': {"root['company_name']": {'new_value': 'Quora, Inc you need an invitation WHY??.', 'old_value': 'Quora, Inc.'}}}
+214: {'values_changed': {"root['num_employees']": {'new_value': '19', 'old_value': '25'}}}
+226: {'values_changed': {"root['num_employees']": {'new_value': '25', 'old_value': '26'}}}
+263: {'values_changed': {"root['num_employees']": {'new_value': '26', 'old_value': '29'}}}
+264: {'values_changed': {"root['num_employees']": {'new_value': '29', 'old_value': '30'}}}
+316: {'dictionary_item_added': {"root['website_type']": 'Knowledge organization'}, 'dictionary_item_removed': {"root['key_people']": "Adam D'Angelo (CEO) | programming language      = Python"}, 'values_changed': {"root['company_logo']": {'new_value': 'File:QuoraLogo.gif', 'old_value': 'Quora logo.svg'}, "root['location']": {'new_value': 'Palo Alto, California', 'old_value': 'Mountain View, California'}, "root['num_employees']": {'new_value': '30', 'old_value': '106'}}}
+323: {'dictionary_item_added': {"root['company_name']": 'Quora, Inc.', "root['company_logo']": 'Quora logo.svg'}, 'dictionary_item_removed': {"root['name']": 'Quora, Inc.'}}
+358: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO) | programming language      = Python", 'old_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python"}}}
+360: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python", 'old_value': "Adam D'Angelo (CEO) | programming language      = Python"}}}
+361: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO) | programming language      = Python", 'old_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python"}}}
+364: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python", 'old_value': "Adam D'Angelo (CEO) | programming language      = Python"}}}
+365: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO) | programming language      = Python", 'old_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python"}}}
+367: {'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO)  Marc Bodnick | programming language      = Python", 'old_value': "Adam D'Angelo (CEO) | programming language      = Python"}}}
+383: {'values_changed': {"root['num_employees']": {'new_value': '106', 'old_value': '1060'}}}
+384: {'values_changed': {"root['num_employees']": {'new_value': '1060', 'old_value': '106'}}}
+420: {'values_changed': {"root['location']": {'new_value': 'Mountain View, California', 'old_value': 'Sydney, Australia'}}}
+421: {'values_changed': {"root['location']": {'new_value': 'Sydney, Australia', 'old_value': 'Mountain View, California'}}}
+457: {'dictionary_item_added': {"root['num_employees']": '106'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['company_slogan']": 'The best answer to any question.', "root['website_type']": 'Question & answer'}, 'values_changed': {"root['key_people']": {'new_value': "Adam D'Angelo (CEO) | programming language      = Python", 'old_value': "Adam D'Angelo (CEO), Kelly Battles (CFO)"}, "root['location']": {'new_value': 'Mountain View, California', 'old_value': 'Mountain View, California, U.S.'}}}
+498: {'values_changed': {"root['location']": {'new_value': 'Mountain View, California, U.S.', 'old_value': 'Mountain View, boston, U.S.'}}}
+501: {'values_changed': {"root['location']": {'new_value': 'Mountain View, boston, U.S.', 'old_value': 'Mountain View, California, U.S.'}}}
+534: {'values_changed': {"root['website_type']": {'new_value': 'Question & answer', 'old_value': 'Question and answer'}}}
+585: {'dictionary_item_added': {"root['company_slogan']": 'The best answer to any question.'}, 'values_changed': {"root['collapsetext']": {'new_value': 'Screenshot', 'old_value': "'''Screenshot''':"}}}
+610: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc.', 'old_value': 'Quora, Inc. QUAORA IS BAD AND THEY SUCJ'}}}
+611: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc. QUAORA IS BAD AND THEY SUCJ', 'old_value': 'Quora, Inc.'}}}
+745: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc.', 'old_value': 'Sunil, Inc.'}}}
+746: {'values_changed': {"root['name']": {'new_value': 'Sunil, Inc.', 'old_value': 'Quora, Inc.'}}}
+792: {'dictionary_item_added': {"root['name']": 'Quora, Inc.', "root['collapsetext']": "'''Screenshot''':"}, 'values_changed': {"root['website_type']": {'new_value': 'Question and answer', 'old_value': 'Question and answer  | current_status'}}}
+793: {'dictionary_item_removed': {"root['name']": 'Quora, Inc.', "root['collapsetext']": "'''Screenshot''':"}, 'values_changed': {"root['website_type']": {'new_value': 'Question and answer  | current_status', 'old_value': 'Question and answer'}}}
+795: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc.', 'old_value': 'Quora.'}}}
+796: {'values_changed': {"root['name']": {'new_value': 'Quora.', 'old_value': 'Quora, Inc.'}}}
+835: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc.', 'old_value': 'Quora, Inc. | logo    jthfujvufjdhduchcyfufgshxyxnfjfufjdjdud                  = Quora logo 2015.svg'}}}
+836: {'values_changed': {"root['name']": {'new_value': 'Quora, Inc. | logo    jthfujvufjdhduchcyfufgshxyxnfjfufjdjdud                  = Quora logo 2015.svg', 'old_value': 'Quora, Inc.'}}}
+856: {'dictionary_item_removed': {"root['num_employees']": '722 (2019)', "root['revenue']": '$20 million (2018)'}}
+891: {'values_changed': {"root['num_employees']": {'new_value': '722 (2019)', 'old_value': '200-300 (2019)'}}}

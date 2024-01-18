@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['name']": 'iGoogle', "root['developer']": 'Google', "root['platform']": 'Web browsers', "root['genre']": 'Web Gadgets'}}
+33: {'dictionary_item_removed': {"root['latest_release_version']": '2005', "root['closed_date']": '1 November 2013'}}
+34: {'dictionary_item_added': {"root['closed_date']": '1 November 2013'}, 'dictionary_item_removed': {"root['closing_date']": '1 November 2013'}}
+35: {'dictionary_item_added': {"root['closing_date']": '1 November 2013'}, 'dictionary_item_removed': {"root['latest_preview_date']": '1 November 2013', "root['closed']": '1/11/2013'}}
+36: {'dictionary_item_added': {"root['closed']": '1/11/2013'}, 'dictionary_item_removed': {"root['retired']": 'November 2013'}}
+48: {'values_changed': {"root['retired']": {'new_value': 'November 2013', 'old_value': '1 November 2013'}}}
+55: {'dictionary_item_added': {"root['latest_release_version']": '2005', "root['latest_preview_date']": '1 November 2013', "root['retired']": '1 November 2013'}, 'dictionary_item_removed': {"root['status']": 'Discontinued'}}
+60: {'values_changed': {"root['name']": {'new_value': 'iGoogle', 'old_value': 'mgoogle'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'mgoogle', 'old_value': 'iGoogle'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'iGoogle', 'old_value': 'mmmmGoogle'}, "root['platform']": {'new_value': 'Web browsers', 'old_value': 'Web crusers'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'mmmmGoogle', 'old_value': 'iGoogle'}, "root['platform']": {'new_value': 'Web crusers', 'old_value': 'Web browsers'}}}
+66: {'values_changed': {"root['name']": {'new_value': 'iGoogle', 'old_value': 'mmmmGoogle'}, "root['platform']": {'new_value': 'Web browsers', 'old_value': 'Web crusers'}}}
+67: {'values_changed': {"root['name']": {'new_value': 'mmmmGoogle', 'old_value': 'iGoogle'}, "root['platform']": {'new_value': 'Web crusers', 'old_value': 'Web browsers'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'iGoogle', 'old_value': 'myGoogle'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'myGoogle', 'old_value': 'iGoogle'}}}
+77: {'dictionary_item_added': {"root['status']": 'Discontinued'}, 'dictionary_item_removed': {"root['discontinued']": 'July 31, 2012 (Mobile)   November 1, 2013 (Desktop)'}}
+80: {'dictionary_item_added': {"root['discontinued']": 'July 31, 2012 (Mobile)   November 1, 2013 (Desktop)'}, 'dictionary_item_removed': {"root['status']": 'Discontinued on 1 November 2013.'}}
+87: {'values_changed': {"root['status']": {'new_value': 'Discontinued on 1 November 2013.', 'old_value': 'Discontinued on November 1, 2013.'}}}

@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['name']": 'Windows Live Hotmail', "root['num_users']": '364 million  (November 2010)', "root['content_license']": 'Proprietary', "root['owner']": 'Microsoft'}}
+27: {'values_changed': {"root['num_users']": {'new_value': '364 million  (November 2010)', 'old_value': '364 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM'}}}
+32: {'values_changed': {"root['num_users']": {'new_value': '364 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM', 'old_value': '2 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM'}}}
+33: {'values_changed': {"root['num_users']": {'new_value': '2 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM', 'old_value': '364 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM'}}}
+40: {'values_changed': {"root['num_users']": {'new_value': '364 million  (November 2010)  http://www.pcmag.com/article2/0,2817,2392728,00.aspM', 'old_value': '364 million  (November 2010)  '}}}
+92: {'values_changed': {"root['num_users']": {'new_value': '364 million  (November 2010)  ', 'old_value': '369 million  (March 2011)  '}}}
+93: {'values_changed': {"root['num_users']": {'new_value': '369 million  (March 2011)  ', 'old_value': '369 million  (March 29 2011)  '}}}
+95: {'values_changed': {"root['num_users']": {'new_value': '369 million  (March 29 2011)  ', 'old_value': '369 million  (March 29, 2011)  '}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Windows Live Hotmail', 'old_value': 'Hotmail'}}}
+123: {'values_changed': {"root['name']": {'new_value': 'Hotmail', 'old_value': 'Microsoft Hotmail'}}}
+124: {'dictionary_item_removed': {"root['logocaption']": "'''hotmail note:IF YOU MAKE OR HAVE HOTMAIL IT COULD GET HACKED INTO!!!!!''' screenshot      ="}}
+187: {'dictionary_item_added': {"root['logocaption']": "'''hotmail note:IF YOU MAKE OR HAVE HOTMAIL IT COULD GET HACKED INTO!!!!!''' screenshot      ="}, 'dictionary_item_removed': {"root['alexa']": '2,688 ('}}
+204: {'dictionary_item_added': {"root['alexa']": '2,688 ('}, 'dictionary_item_removed': {"root['Screenshot']": 'thumb'}}
+207: {'dictionary_item_added': {"root['Screenshot']": 'thumb'}, 'dictionary_item_removed': {"root['closed']": 'August 15, 2012'}}
+285: {'dictionary_item_added': {"root['closed']": 'August 15, 2012'}, 'values_changed': {"root['name']": {'new_value': 'Microsoft Hotmail', 'old_value': 'Outlook.com'}, "root['num_users']": {'new_value': '369 million  (March 29, 2011)  ', 'old_value': '400 million'}}}
+392: {'values_changed': {"root['name']": {'new_value': 'Outlook.com', 'old_value': 'Outlook'}}}
+393: {'values_changed': {"root['name']": {'new_value': 'Outlook', 'old_value': 'Outlook.com'}}}

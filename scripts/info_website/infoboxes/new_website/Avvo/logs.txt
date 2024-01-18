@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['name']": 'Avvo', "root['slogan']": 'Legal. Easier.', "root['location']": 'Seattle, Washington', "root['country']": 'U.S.'}}
+17: {'dictionary_item_added': {"root['country']": 'U.S.'}, 'values_changed': {"root['location']": {'new_value': 'Seattle, Washington', 'old_value': 'Seattle,   Washington'}}}
+31: {'dictionary_item_added': {"root['slogan']": 'Legal. Easier.'}, 'dictionary_item_removed': {"root['website_type']": 'Legal Services', "root['country']": 'U.S.'}}

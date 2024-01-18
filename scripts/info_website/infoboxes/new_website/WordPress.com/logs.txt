@@ -1,0 +1,8 @@
+9: {'dictionary_item_removed': {"root['name']": 'WordPress.com', "root['owner']": 'Automattic', "root['alexa']": '1|2|a'}}
+13: {'values_changed': {"root['alexa']": {'new_value': '1|2|a', 'old_value': '2|2|a'}}}
+16: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|2|a'}}}
+18: {'dictionary_item_added': {"root['alexa']": '3|2|a'}, 'dictionary_item_removed': {"root['area_served']": 'Worldwide '}}
+42: {'values_changed': {"root['name']": {'new_value': 'WordPress.com', 'old_value': 'WordPress.net.vn'}}}
+43: {'values_changed': {"root['name']": {'new_value': 'WordPress.net.vn', 'old_value': 'WordPress.com'}}}
+75: {'dictionary_item_removed': {"root['blog']": 'dgusblog.wordpress.com'}}
+98: {'dictionary_item_added': {"root['blog']": 'dgusblog.wordpress.com'}, 'dictionary_item_removed': {"root['alexa']": 'launch date    = ', "root['license']": 'GPLv2 or later'}}

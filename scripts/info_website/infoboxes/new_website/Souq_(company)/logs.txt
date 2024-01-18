@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Souq.com', "root['location']": 'Dubai, UAE', "root['area_served']": 'Middle East', "root['Key_people']": 'Ronaldo Mouchawar CEO, Asif Keshodia Group CFO', "root['services']": 'E-commerce, (Online shopping)', "root['num_employees']": '2500+', "root['intl']": 'no '}}
+2: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+5: {'dictionary_item_removed': {"root['owner']": 'Amazon.com'}}
+6: {'values_changed': {"root['owner']": {'new_value': 'Amazon.com', 'old_value': 'Amazon.com   (2017-)'}}}
+7: {'dictionary_item_added': {"root['Key_people']": 'Ronaldo Mouchawar CEO, Asif Keshodia Group CFO'}, 'dictionary_item_removed': {"root['key_people']": 'Ronaldo Mouchawar, CEO,  Asif Keshodia Group, CFO'}, 'values_changed': {"root['owner']": {'new_value': 'Amazon.com   (2017-)', 'old_value': 'Amazon.com   (2017-present)'}, "root['num_employees']": {'new_value': '2500+', 'old_value': '3,000'}}}
+17: {'values_changed': {"root['key_people']": {'new_value': 'Ronaldo Mouchawar, CEO,  Asif Keshodia Group, CFO', 'old_value': 'Ronaldo Mouchawar  (CEO) ,  Asif Keshodia Group  (CFO)'}, "root['services']": {'new_value': 'E-commerce, (Online shopping)', 'old_value': 'E-commerce, (online shopping)'}, "root['owner']": {'new_value': 'Amazon.com   (2017-present)', 'old_value': 'Amazon.com '}}}
+19: {'values_changed': {"root['owner']": {'new_value': 'Amazon.com ', 'old_value': 'Amazon.com,  (2017-present)  '}}}
+56: {'dictionary_item_added': {"root['owner']": 'Amazon.com,  (2017-present)  '}, 'values_changed': {"root['name']": {'new_value': 'Souq.com', 'old_value': 'Souq.com FZ LLC'}}}
+57: {'values_changed': {"root['name']": {'new_value': 'Souq.com FZ LLC', 'old_value': 'Souq.com'}}}
+61: {'dictionary_item_added': {"root['intl']": 'no '}, 'values_changed': {"root['area_served']": {'new_value': 'Middle East', 'old_value': 'Arab world'}, "root['key_people']": {'new_value': 'Ronaldo Mouchawar  (CEO) ,  Asif Keshodia Group  (CFO)', 'old_value': 'Ronaldo Mouchawar (CEO),  Asif Keshodia (Group CFO),  Wisam Daoud (CTO/COO)'}}}
+74: {'values_changed': {"root['key_people']": {'new_value': 'Ronaldo Mouchawar (CEO),  Asif Keshodia (Group CFO),  Wisam Daoud (CTO/COO)', 'old_value': 'Ronaldo Mouchawar (CEO),  Asif Keshodia (Group CFO),  Sam Daoud (CTO/COO)'}}}
+75: {'values_changed': {"root['key_people']": {'new_value': 'Ronaldo Mouchawar (CEO),  Asif Keshodia (Group CFO),  Sam Daoud (CTO/COO)', 'old_value': 'Ronaldo Mouchawar (CEO),  Asif Keshodia (Group CFO),  Wisam Daoud (CTO/COO)'}}}

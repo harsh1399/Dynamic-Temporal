@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Rantic Marketing', "root['owner']": 'Jacob, Juice, Jerry, Alexander, Kamaruzaman', "root['revenue']": 'Unknown |current status  = Active'}}
+49: {'values_changed': {"root['owner']": {'new_value': 'Jacob, Juice, Jerry, Alexander, Kamaruzaman', 'old_value': 'Jacob, Juice, Jerry, Alexander, Kamaruzaman, William'}}}
+82: {'values_changed': {"root['owner']": {'new_value': 'Jacob, Juice, Jerry, Alexander, Kamaruzaman, William', 'old_value': 'Jacob, Juice, Jerry, Alexander, Kamaruzaman'}}}
+128: {'dictionary_item_added': {"root['owner']": 'Jacob, Juice, Jerry, Alexander, Kamaruzaman'}, 'dictionary_item_removed': {"root['owners']": '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman"'}}
+143: {'values_changed': {"root['owners']": {'new_value': '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman"', 'old_value': '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman", "William"'}}}
+147: {'values_changed': {"root['owners']": {'new_value': '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman", "William"', 'old_value': '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman"'}}}
+159: {'values_changed': {"root['owners']": {'new_value': '"Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman"', 'old_value': 'Simon Z (CEO)> '}}}
+160: {'values_changed': {"root['owners']": {'new_value': 'Simon Z (CEO)> ', 'old_value': 'Simon Z (CEO) '}}}
+164: {'values_changed': {"root['owners']": {'new_value': 'Simon Z (CEO) ', 'old_value': 'Simon Z (CEO)  , "Jacob", "Juice", "Jerry", "Alexander", "Kamaruzaman"'}}}

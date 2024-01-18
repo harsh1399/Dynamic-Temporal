@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['name']": 'Tinder', "root['developer']": 'IAC', "root['released']": 'frequently updated = y', "root['status']": 'Active |operating system   = iOS, Android'}}
+11: {'dictionary_item_added': {"root['released']": 'frequently updated = y'}, 'values_changed': {"root['developer']": {'new_value': 'IAC', 'old_value': 'Callum Dukes'}}}
+26: {'values_changed': {"root['developer']": {'new_value': 'Callum Dukes', 'old_value': 'IAC'}}}
+27: {'values_changed': {"root['name']": {'new_value': 'Tinder', 'old_value': 'James'}}}
+28: {'values_changed': {"root['name']": {'new_value': 'James', 'old_value': 'Tinder'}}}
+44: {'values_changed': {"root['developer']": {'new_value': 'IAC', 'old_value': 'IAC Derren Stevinson'}}}
+45: {'values_changed': {"root['developer']": {'new_value': 'IAC Derren Stevinson', 'old_value': 'IAC, Derren Stevinson'}}}
+46: {'values_changed': {"root['developer']": {'new_value': 'IAC, Derren Stevinson', 'old_value': 'IAC'}}}
+47: {'values_changed': {"root['developer']": {'new_value': 'IAC', 'old_value': 'IAC, Derren Stevinson'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'Tinder', 'old_value': 'Tinder add me on snapchat cameronduffy01'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'Tinder add me on snapchat cameronduffy01', 'old_value': 'Tinder'}}}
+65: {'values_changed': {"root['status']": {'new_value': 'Active |operating system   = iOS, Android', 'old_value': 'Active |operating system   = iOS, Android, Web'}}}
+75: {'values_changed': {"root['developer']": {'new_value': 'IAC, Derren Stevinson', 'old_value': 'IAC'}}}
+81: {'values_changed': {"root['name']": {'new_value': 'Tinder', 'old_value': 'Donny mj'}}}
+82: {'values_changed': {"root['name']": {'new_value': 'Donny mj', 'old_value': 'Tinder'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'Tinder', 'old_value': 'Tindr'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'Tindr', 'old_value': 'Tinder'}}}
+165: {'dictionary_item_removed': {"root['released']": 'ver layout = stack'}, 'values_changed': {"root['status']": {'new_value': 'Active |operating system   = iOS, Android, Web', 'old_value': 'Active | operating system = iOS, Android, Web'}}}
+182: {'dictionary_item_added': {"root['status']": 'Active | operating system = iOS, Android, Web'}, 'values_changed': {"root['developer']": {'new_value': 'IAC', 'old_value': 'Tinder Inc.'}, "root['released']": {'new_value': 'ver layout = stack', 'old_value': 'ver layout = stacked | operating system = iOS, Android, W'}}}
+280: {'dictionary_item_added': {"root['developer']": 'Tinder Inc.', "root['released']": 'ver layout = stacked | operating system = iOS, Android, W'}, 'dictionary_item_removed': {"root['location']": 'West Hollywood, Los Angeles, California, United States', "root['CEO']": 'Renate Nyborg', "root['owner']": 'Match Group', "root['area_served']": 'Global', "root['num_employees']": '200+ '}, 'values_changed': {"root['name']": {'new_value': 'Tinder', 'old_value': 'Tinder, Inc.'}}}
+309: {'dictionary_item_added': {"root['owner']": 'Match Group'}, 'values_changed': {"root['CEO']": {'new_value': 'Renate Nyborg', 'old_value': 'Renate Nyborg '}}}
+323: {'values_changed': {"root['num_employees']": {'new_value': '200+ ', 'old_value': '750<ref name'}}}
+324: {'type_changes': {"root['name']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['logo = TinderLogo-2017.svg', 'location = West Hollywood, Los Angeles, California, United States', 'founder =', 'Sean Rad', 'Justin Mateen', 'Jonathan Badeen', 'CEO = Renate Nyborg', 'industry = Software', 'owner = Match Group', 'url =', 'foundation =', 'area_served = Global', 'num_employees = 750', 'title ='], 'new_value': 'Tinder, Inc.'}}, 'dictionary_item_added': {"root['num_employees']": '750<ref name'}, 'dictionary_item_removed': {"root['developer']": 'Tinder, Inc.', "root['released']": 'ver layout = stacked | operating system = iOS, Android, W'}}
+326: {'type_changes': {"root['name']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Tinder, Inc.', 'new_value': ['logo = TinderLogo-2017.svg', 'location = West Hollywood, Los Angeles, California, United States', 'founder =', 'Sean Rad', 'Justin Mateen', 'Jonathan Badeen', 'CEO = Renate Nyborg', 'industry = Software', 'owner = Match Group', 'url =', 'foundation =', 'area_served = Global', 'num_employees = 750', 'title =']}}, 'dictionary_item_added': {"root['developer']": 'Tinder, Inc.', "root['released']": 'ver layout = stacked | operating system = iOS, Android, W'}, 'dictionary_item_removed': {"root['num_employees']": '750  |'}}
+426: {'values_changed': {"root['CEO']": {'new_value': 'Renate Nyborg ', 'old_value': 'Renate Major '}, "root['num_employees']": {'new_value': '750  |', 'old_value': '750 |'}}}
+428: {'values_changed': {"root['CEO']": {'new_value': 'Renate Major ', 'old_value': 'Bernard Kim'}}}
+453: {'values_changed': {"root['location']": {'new_value': 'West Hollywood, Los Angeles, California, United States', 'old_value': 'West Hollywood, Los Angeles, California,ted States'}}}
+454: {'values_changed': {"root['location']": {'new_value': 'West Hollywood, Los Angeles, California,ted States', 'old_value': 'West Hollywood, Los Angeles, California, United States'}}}
+467: {'values_changed': {"root['name']": {'new_value': 'Tinder, Inc.', 'old_value': 'Tinder'}}}
+470: {'dictionary_item_removed': {"root['owner']": 'Match Group'}, 'values_changed': {"root['CEO']": {'new_value': 'Bernard Kim', 'old_value': 'Melinda Crosbie'}}}
+471: {'dictionary_item_added': {"root['owner']": 'Match Group'}, 'values_changed': {"root['CEO']": {'new_value': 'Melinda Crosbie', 'old_value': 'Bernard Kim'}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'GameSpot', "root['owner']": 'CBS Interactive | launch date = ', "root['alexa']": '02|08|a'}}
+19: {'values_changed': {"root['alexa']": {'new_value': '02|08|a', 'old_value': '05|27|a'}}}
+24: {'values_changed': {"root['alexa']": {'new_value': '05|27|a', 'old_value': '06|10|a'}}}
+25: {'values_changed': {"root['alexa']": {'new_value': '06|10|a', 'old_value': '07|1|a'}}}
+30: {'dictionary_item_removed': {"root['genre']": 'Video game journalism'}}
+39: {'dictionary_item_added': {"root['genre']": 'Video game journalism'}, 'values_changed': {"root['alexa']": {'new_value': '07|1|a', 'old_value': '12|1|a'}}}
+40: {'dictionary_item_added': {"root['alexa']": '12|1|a'}, 'values_changed': {"root['name']": {'new_value': 'GameSpot', 'old_value': "''GameSpot''"}, "root['owner']": {'new_value': 'CBS Interactive | launch date = ', 'old_value': 'Red Ventures'}}}
+48: {'values_changed': {"root['owner']": {'new_value': 'Red Ventures', 'old_value': 'Fandom, Inc. '}}}

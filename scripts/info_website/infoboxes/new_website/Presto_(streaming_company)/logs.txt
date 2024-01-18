@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Presto', "root['foundation']": '2014', "root['location']": 'city=', "root['area_served']": 'Australia', "root['products']": 'Internet streaming', "root['homepage']": 'https://www.presto.com.au/ Presto website'}}
+42: {'dictionary_item_added': {"root['foundation']": '2014'}, 'dictionary_item_removed': {"root['owner']": 'Foxtel'}}
+50: {'dictionary_item_removed': {"root['fate']": 'Dissolved'}}
+55: {'values_changed': {"root['homepage']": {'new_value': 'https://www.presto.com.au/ Presto website', 'old_value': 'https://www.presto.com.au/ Presto website '}}}

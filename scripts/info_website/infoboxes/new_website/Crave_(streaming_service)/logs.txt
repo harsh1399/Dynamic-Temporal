@@ -1,0 +1,10 @@
+5: {'dictionary_item_removed': {"root['company_name']": 'CraveTV', "root['foundation']": 'December 2014', "root['area_served']": 'Canada', "root['website_type']": 'Video on demand', "root['homepage']": 'http://info.cravetv.ca/ cravetv.ca '}}
+24: {'dictionary_item_added': {"root['company_name']": 'CraveTV', "root['foundation']": 'December 2014', "root['homepage']": 'http://info.cravetv.ca/ cravetv.ca '}, 'dictionary_item_removed': {"root['name']": 'CraveTV', "root['owner']": 'Bell Canada'}}
+39: {'values_changed': {"root['owner']": {'new_value': 'Bell Canada', 'old_value': 'BCE Inc.'}}}
+52: {'values_changed': {"root['name']": {'new_value': 'CraveTV', 'old_value': 'Crave'}}}
+57: {'values_changed': {"root['owner']": {'new_value': 'BCE Inc.', 'old_value': 'Bell Media'}}}
+77: {'dictionary_item_removed': {"root['users']": '09|30|'}}
+82: {'dictionary_item_added': {"root['website_type']": 'Video on demand'}, 'values_changed': {"root['area_served']": {'new_value': 'Canada', 'old_value': 'Canada | website_type = Video on demand'}}}
+83: {'values_changed': {"root['name']": {'new_value': 'Crave', 'old_value': 'Fuck Crave Fuck Canada GAOT Streaming'}}}
+84: {'dictionary_item_removed': {"root['website_type']": 'Video on demand'}, 'values_changed': {"root['name']": {'new_value': 'Fuck Crave Fuck Canada GAOT Streaming', 'old_value': 'Crave'}, "root['area_served']": {'new_value': 'Canada | website_type = Video on demand', 'old_value': 'Canada'}}}
+96: {'values_changed': {"root['users']": {'new_value': '09|30|', 'old_value': '03|31|'}}}

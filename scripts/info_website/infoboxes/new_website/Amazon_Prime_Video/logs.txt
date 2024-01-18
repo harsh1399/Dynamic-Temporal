@@ -1,0 +1,18 @@
+71: {'dictionary_item_removed': {"root['name']": 'Amazon Prime Video', "root['owner']": 'Amazon Inc.', "root['area_served']": 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea and Syria)', "root['subsidiaries']": 'Video Direct', "root['users']": '4|29|'}}
+80: {'values_changed': {"root['owner']": {'new_value': 'Amazon Inc.', 'old_value': 'Amazon'}}}
+103: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea and Syria)', 'old_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia and Syria)'}}}
+104: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia and Syria)', 'old_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea and Syria)'}}}
+105: {'dictionary_item_added': {"root['subsidiaries']": 'Video Direct'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea and Syria)', 'old_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia    and Syria)'}}}
+107: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia    and Syria)', 'old_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia   and Syria)'}}}
+108: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia   and Syria)', 'old_value': 'Worldwide (excluding Mainland China, Cuba, Iran, North Korea, Russia '}}}
+112: {'dictionary_item_added': {"root['users']": '4|29|'}, 'dictionary_item_removed': {"root['subsidiaries']": 'Video Direct '}}
+113: {'dictionary_item_added': {"root['subsidiaries']": 'Video Direct '}, 'dictionary_item_removed': {"root['users']": '4|29|'}}
+163: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime Video', 'old_value': 'Prime Video'}}}
+165: {'values_changed': {"root['users']": {'new_value': '4|29|', 'old_value': '9|3|'}}}
+169: {'values_changed': {"root['name']": {'new_value': 'Prime Video', 'old_value': 'Amazon Prime Video'}}}
+185: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime Video', 'old_value': 'Jul en y'}}}
+186: {'values_changed': {"root['name']": {'new_value': 'Jul en y', 'old_value': 'Amazon Prime Video'}}}
+187: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime Video', 'old_value': 'Prime Video'}}}
+188: {'values_changed': {"root['name']": {'new_value': 'Prime Video', 'old_value': 'Amazon Prime Video'}}}
+189: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime Video', 'old_value': 'Prime Video'}}}
+190: {'values_changed': {"root['name']": {'new_value': 'Prime Video', 'old_value': 'Amazon Prime Video'}}}

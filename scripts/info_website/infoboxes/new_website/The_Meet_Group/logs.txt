@@ -1,0 +1,6 @@
+5: {'dictionary_item_removed': {"root['company_name']": 'MeetMe, Inc.', "root['revenue']": '20 million USD', "root['company_slogan']": 'where new friends meet.'}}
+41: {'dictionary_item_added': {"root['company_slogan']": 'where new friends meet.'}, 'dictionary_item_removed': {"root['website_type']": 'Social network service'}, 'values_changed': {"root['revenue']": {'new_value': '20 million USD', 'old_value': '20 million'}}}
+50: {'dictionary_item_added': {"root['company_name']": 'MeetMe, Inc.', "root['revenue']": '20 million'}, 'dictionary_item_removed': {"root['name']": 'The Meet Group, Inc.'}}
+56: {'values_changed': {"root['website_type']": {'new_value': 'Social network service', 'old_value': 'Social networking service'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'The Meet Group, Inc.', 'old_value': 'The Meet Group, Inc. AKA SCAMMERS'}}}
+65: {'values_changed': {"root['name']": {'new_value': 'The Meet Group, Inc. AKA SCAMMERS', 'old_value': 'The Meet Group, Inc.'}}}

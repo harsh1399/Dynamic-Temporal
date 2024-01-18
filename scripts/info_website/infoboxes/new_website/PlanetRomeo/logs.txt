@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['name']": 'PlanetRomeo', "root['logocaption']": 'PlanetRomeo logo', "root['owner']": 'PlanetRomeo B.V.', "root['revenue']": 'Membership fee for PLUS accounts in certain countries advertising. |current status = Active'}}
+29: {'values_changed': {"root['revenue']": {'new_value': 'Membership fee for PLUS accounts in certain countries advertising. |current status = Active', 'old_value': 'Membership fee for PLUS accounts in certain countries advertising.   |current status = Active'}}}
+46: {'values_changed': {"root['name']": {'new_value': 'PlanetRomeo', 'old_value': 'PlanetRomeo B.V.'}}}
+50: {'values_changed': {"root['name']": {'new_value': 'PlanetRomeo B.V.', 'old_value': 'APlanetRomeo B.V.'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'APlanetRomeo B.V.', 'old_value': 'PlanetRomeo B.V.'}}}
+52: {'dictionary_item_added': {"root['logocaption']": 'PlanetRomeo logo'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+56: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['revenue']": {'new_value': 'Membership fee for PLUS accounts in certain countries advertising.   |current status = Active', 'old_value': 'Membership fee for PLUS accounts in certain countries advertising. |'}}}
+64: {'values_changed': {"root['name']": {'new_value': 'PlanetRomeo B.V.', 'old_value': 'ROMEO B.V.'}, "root['owner']": {'new_value': 'PlanetRomeo B.V.', 'old_value': 'ROMEO B.V.'}}}
+73: {'values_changed': {"root['revenue']": {'new_value': 'Membership fee for PLUS accounts in certain countries advertising. |', 'old_value': 'Membership fee for PLUS accounts in certain countries advertising.'}}}
+80: {'values_changed': {"root['revenue']": {'new_value': 'Membership fee for PLUS accounts in certain countries advertising.', 'old_value': 'Membership fee for PLUS accounts in certain countries.'}}}
+91: {'values_changed': {"root['revenue']": {'new_value': 'Membership fee for PLUS accounts in certain countries.', 'old_value': 'Membership fee for PLUS accounts in certain countries advertising.'}}}

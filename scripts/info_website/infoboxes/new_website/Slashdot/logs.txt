@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['name']": 'Slashdot', "root['owner']": 'DHI Group, Inc.', "root['alexa']": 'launch date    = ', "root['revenue']": 'Advertisement, optional subscription'}}
+4: {'values_changed': {"root['owner']": {'new_value': 'DHI Group, Inc.', 'old_value': 'BIZX, LLC'}}}
+58: {'values_changed': {"root['owner']": {'new_value': 'BIZX, LLC', 'old_value': 'BizX'}}}
+109: {'dictionary_item_added': {"root['alexa']": 'launch date    = '}, 'values_changed': {"root['owner']": {'new_value': 'BizX', 'old_value': 'BIZX, LLC'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Slashdot', 'old_value': 'Slash'}}}
+111: {'values_changed': {"root['name']": {'new_value': 'Slash', 'old_value': 'Slashdot'}}}
+122: {'dictionary_item_added': {"root['owner']": 'BIZX, LLC'}, 'dictionary_item_removed': {"root['key_people']": 'Logan Abbott (President)'}}
+141: {'values_changed': {"root['name']": {'new_value': 'Slashdot', 'old_value': 'Slashdot (/.)'}}}
+144: {'dictionary_item_removed': {"root['owner']": 'Slashdot Media'}}

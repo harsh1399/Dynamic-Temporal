@@ -1,0 +1,6 @@
+9: {'dictionary_item_removed': {"root['name']": 'Steemit', "root['num_users']": '40000'}}
+15: {'values_changed': {"root['num_users']": {'new_value': '40000', 'old_value': '>40000 (as of July 28, 2016)'}}}
+34: {'values_changed': {"root['num_users']": {'new_value': '>40000 (as of July 28, 2016)', 'old_value': '>117,000 (as of December 9th, 2016)'}}}
+35: {'values_changed': {"root['num_users']": {'new_value': '>117,000 (as of December 9th, 2016)', 'old_value': '>120,000 (as of December 18th, 2016)'}}}
+38: {'values_changed': {"root['num_users']": {'new_value': '>120,000 (as of December 18th, 2016)', 'old_value': '+ 1 Million users'}}}
+77: {'values_changed': {"root['num_users']": {'new_value': '+ 1 Million users', 'old_value': '1,238,717 registered users  '}}}

@@ -1,0 +1,8 @@
+5: {'dictionary_item_removed': {"root['name']": 'Yahoo! Answers'}}
+11: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Answers', 'old_value': 'Yahoo Answers'}}}
+12: {'dictionary_item_removed': {"root['owner']": 'Yahoo '}}
+14: {'dictionary_item_added': {"root['owner']": 'Yahoo '}, 'values_changed': {"root['name']": {'new_value': 'Yahoo Answers', 'old_value': 'Yahoo! Answers'}}}
+15: {'dictionary_item_removed': {"root['owner']": 'Yahoo '}, 'values_changed': {"root['name']": {'new_value': 'Yahoo! Answers', 'old_value': 'Yahoo Answers'}}}
+16: {'dictionary_item_added': {"root['owner']": 'Yahoo '}, 'values_changed': {"root['name']": {'new_value': 'Yahoo Answers', 'old_value': 'Yahoo! Answers'}}}
+59: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Answers', 'old_value': 'Yahoo Answers'}}}
+60: {'values_changed': {"root['name']": {'new_value': 'Yahoo Answers', 'old_value': 'Yahoo! Answers'}}}

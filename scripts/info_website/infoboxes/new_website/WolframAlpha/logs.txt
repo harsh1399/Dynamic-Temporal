@@ -1,0 +1,24 @@
+18: {'dictionary_item_removed': {"root['name']": 'Alpha', "root['owner']": 'Wolfram Alpha LLC'}}
+19: {'values_changed': {"root['name']": {'new_value': 'Alpha', 'old_value': 'Wolfram Alpha'}}}
+77: {'values_changed': {"root['name']": {'new_value': 'Wolfram Alpha', 'old_value': 'Wolfram | Alpha'}}}
+110: {'values_changed': {"root['name']": {'new_value': 'Wolfram | Alpha', 'old_value': 'Wolfram Alpha'}}}
+138: {'values_changed': {"root['name']": {'new_value': 'Wolfram Alpha', 'old_value': 'Wolfram Alpha aka Skynet'}}}
+139: {'values_changed': {"root['name']": {'new_value': 'Wolfram Alpha aka Skynet', 'old_value': 'Wolfram Alpha'}}}
+170: {'values_changed': {"root['name']": {'new_value': 'Wolfram Alpha', 'old_value': 'Alpha'}}}
+172: {'values_changed': {"root['name']": {'new_value': 'Alpha', 'old_value': 'Wolfram | Alpha'}}}
+243: {'dictionary_item_removed': {"root['Shortlink']": 'http://www.wfalpha.com/ www.WFAlpha.com'}}
+366: {'dictionary_item_added': {"root['Shortlink']": 'http://www.wfalpha.com/ www.WFAlpha.com'}, 'values_changed': {"root['name']": {'new_value': 'Wolfram | Alpha', 'old_value': 'Wolfram Alpha'}}}
+452: {'dictionary_item_removed': {"root['alexa']": 'current status = Acti'}, 'values_changed': {"root['name']": {'new_value': 'Wolfram Alpha', 'old_value': 'Wolfram | Alpha'}}}
+489: {'values_changed': {"root['alexa']": {'new_value': 'current status = Acti', 'old_value': '2|3|a'}}}
+493: {'values_changed': {"root['alexa']": {'new_value': '2|3|a', 'old_value': '4|22|a'}}}
+514: {'values_changed': {"root['alexa']": {'new_value': '4|22|a', 'old_value': '8|21|a'}}}
+515: {'values_changed': {"root['alexa']": {'new_value': '8|21|a', 'old_value': '9|1|a'}}}
+516: {'values_changed': {"root['name']": {'new_value': 'Wolfram | Alpha', 'old_value': 'Wolfram Alpha'}}}
+518: {'dictionary_item_removed': {"root['num_employees']": '200 (as of 2012)    | launch date = May 18, 2009 '}}
+519: {'values_changed': {"root['num_employees']": {'new_value': '200 (as of 2012)    | launch date = May 18, 2009 ', 'old_value': 'c. 200 (as of 2012)    | launch date = May 18, 2009 '}}}
+520: {'values_changed': {"root['num_employees']": {'new_value': 'c. 200 (as of 2012)    | launch date = May 18, 2009 ', 'old_value': '200 (as of 2012)    | launch date = May 18, 2009 '}}}
+522: {'dictionary_item_added': {"root['num_employees']": '200 (as of 2012)    | launch date = May 18, 2009 '}, 'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|1|a'}}}
+530: {'values_changed': {"root['alexa']": {'new_value': '10|1|a', 'old_value': '11|1|a'}}}
+536: {'values_changed': {"root['alexa']": {'new_value': '11|1|a', 'old_value': '12|1|a'}}}
+542: {'dictionary_item_removed': {"root['slogan']": 'Making the world’s knowledge computable.'}, 'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '26|31|a'}}}
+574: {'values_changed': {"root['alexa']": {'new_value': '26|31|a', 'old_value': 'num_employees ≈ 200 (as of 201'}}}

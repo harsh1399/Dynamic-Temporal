@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Microsoft Network', "root['Certificate']": 'Normal', "root['area_served']": 'Worldwide', "root['owner']": 'Microsoft', "root['alexa']": '11<ref name'}}
+9: {'values_changed': {"root['name']": {'new_value': 'The Microsoft Network', 'old_value': 'The Micro$oft Network'}}}
+10: {'values_changed': {"root['name']": {'new_value': 'The Micro$oft Network', 'old_value': 'The Microsoft Network'}}}
+23: {'values_changed': {"root['name']": {'new_value': 'The Microsoft Network', 'old_value': 'MSN'}}}
+24: {'values_changed': {"root['name']": {'new_value': 'MSN', 'old_value': 'The Microsoft Network'}}}
+32: {'values_changed': {"root['alexa']": {'new_value': '11<ref name', 'old_value': '7|5|a'}}}
+34: {'values_changed': {"root['alexa']": {'new_value': '7|5|a', 'old_value': '7|12|a'}}}
+48: {'values_changed': {"root['name']": {'new_value': 'The Microsoft Network', 'old_value': 'Microsoft Network'}}}
+49: {'values_changed': {"root['name']": {'new_value': 'Microsoft Network', 'old_value': 'The Microsoft Network'}}}
+51: {'values_changed': {"root['alexa']": {'new_value': '7|12|a', 'old_value': '8|4|a'}}}
+53: {'values_changed': {"root['alexa']": {'new_value': '8|4|a', 'old_value': '9|1|a'}}}
+55: {'dictionary_item_removed': {"root['favicon']": 'CONOSES A BENITO CAMELAS?'}}
+60: {'dictionary_item_added': {"root['favicon']": 'CONOSES A BENITO CAMELAS?'}, 'values_changed': {"root['alexa']": {'new_value': '9|1|a', 'old_value': '10|2|a'}}}
+72: {'values_changed': {"root['alexa']": {'new_value': '10|2|a', 'old_value': '11|2|a'}}}
+77: {'dictionary_item_removed': {"root['logocaption']": 'The current MSN logo from 2014 to present with the modified modified favicon from 2000 to present from 2009 to present from 2014 to present.', "root['slogan']": "''Explore the Possibilities''"}, 'values_changed': {"root['name']": {'new_value': 'The Microsoft Network', 'old_value': 'MSN'}, "root['owner']": {'new_value': 'Microsoft', 'old_value': 'Microsoft | launch date = August 24, 1995 | current status = Active'}, "root['alexa']": {'new_value': '11|2|a', 'old_value': '4|1|a'}}}
+82: {'values_changed': {"root['logocaption']": {'new_value': 'The current MSN logo from 2014 to present with the modified modified favicon from 2000 to present from 2009 to present from 2014 to present.', 'old_value': 'The current MSN logo from 2014 to present with the modified favicon from 2000 to present from 2009 to present from 2014 to present.'}}}
+85: {'values_changed': {"root['alexa']": {'new_value': '4|1|a', 'old_value': '02|12|a'}}}
+89: {'dictionary_item_added': {"root['logocaption']": 'The current MSN logo from 2014 to present with the modified favicon from 2000 to present from 2009 to present from 2014 to present.'}, 'values_changed': {"root['alexa']": {'new_value': '02|12|a', 'old_value': '03|03|a'}}}
+91: {'values_changed': {"root['alexa']": {'new_value': '03|03|a', 'old_value': '03|26|a'}}}
+111: {'dictionary_item_added': {"root['slogan']": "''Explore the Possibilities''"}, 'values_changed': {"root['name']": {'new_value': 'MSN', 'old_value': 'msn please select as homepage'}}}
+112: {'values_changed': {"root['name']": {'new_value': 'msn please select as homepage', 'old_value': 'MSN'}}}
+136: {'values_changed': {"root['name']": {'new_value': 'MSN', 'old_value': 'MSN - Muslim Social Network'}, "root['owner']": {'new_value': 'Microsoft | launch date = August 24, 1995 | current status = Active', 'old_value': 'Ahmad Ibrahim | launch date = August 24, 1995 | current status = Active'}}}
+137: {'values_changed': {"root['name']": {'new_value': 'MSN - Muslim Social Network', 'old_value': 'MSN'}, "root['owner']": {'new_value': 'Ahmad Ibrahim | launch date = August 24, 1995 | current status = Active', 'old_value': 'Microsoft | launch date = August 24, 1995 | current status = Active'}}}
+141: {'values_changed': {"root['alexa']": {'new_value': '03|26|a', 'old_value': '07|25|a'}}}
+152: {'values_changed': {"root['name']": {'new_value': 'MSN', 'old_value': 'MSNh'}}}
+153: {'values_changed': {"root['owner']": {'new_value': 'Microsoft | launch date = August 24, 1995 | current status = Active', 'old_value': 'Microsoft | launch date =  current status = Acti'}}}
+155: {'values_changed': {"root['name']": {'new_value': 'MSNh', 'old_value': 'MSN'}}}
+167: {'values_changed': {"root['alexa']": {'new_value': '07|25|a', 'old_value': '12|29|a'}}}
+168: {'dictionary_item_added': {"root['Certificate']": 'Normal', "root['alexa']": '12|29|a'}, 'values_changed': {"root['owner']": {'new_value': 'Microsoft | launch date =  current status = Acti', 'old_value': 'Microsoft'}}}

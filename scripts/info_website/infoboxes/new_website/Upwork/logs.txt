@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'oDesk', "root['foundation']": 'Campbell, California  2003', "root['location']": 'Redwood City, California', "root['key_people']": 'Thomas Layton, (', "root['homepage']": 'http://www.odesk.com/ oDesk.com  '}}
+7: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California  2003', 'old_value': 'Campbell, California  2005'}}}
+47: {'dictionary_item_added': {"root['company_name']": 'oDesk'}, 'dictionary_item_removed': {"root['name']": 'oDesk'}}
+75: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California  2005', 'old_value': 'Campbell, California 2005'}, "root['key_people']": {'new_value': 'Thomas Layton, (', 'old_value': 'Thomas Layton('}}}
+76: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California 2005', 'old_value': 'Campbell, California  2005'}, "root['key_people']": {'new_value': 'Thomas Layton(', 'old_value': 'Thomas Layton, ('}}}
+77: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California  2005', 'old_value': 'Campbell, California 2005'}, "root['key_people']": {'new_value': 'Thomas Layton, (', 'old_value': 'Thomas Layton('}}}
+78: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California 2005', 'old_value': 'Campbell, California  2005'}, "root['key_people']": {'new_value': 'Thomas Layton(', 'old_value': 'Thomas Layton, ('}}}
+83: {'values_changed': {"root['foundation']": {'new_value': 'Campbell, California  2005', 'old_value': 'Campbell, California  2003'}, "root['key_people']": {'new_value': 'Thomas Layton, (', 'old_value': 'Thomas Layton, Fabio Rosati'}, "root['homepage']": {'new_value': 'http://www.odesk.com/ oDesk.com  ', 'old_value': 'http://www.odesk.com/ oDesk.com '}}}
+95: {'values_changed': {"root['name']": {'new_value': 'oDesk', 'old_value': 'Upwork'}}}
+103: {'dictionary_item_removed': {"root['area_served']": 'Worldwide'}, 'values_changed': {"root['homepage']": {'new_value': 'http://www.odesk.com/ oDesk.com ', 'old_value': 'http://www.upwork.com/ Upwork.com '}}}
+111: {'dictionary_item_removed': {"root['founders']": 'Odysseas Tsatalos, Stratis Karamanlakis'}, 'values_changed': {"root['location']": {'new_value': 'Redwood City, California', 'old_value': 'Mountain View, California'}, "root['key_people']": {'new_value': 'Thomas Layton, Fabio Rosati', 'old_value': 'Stephane Kasriel (CEO), Thomas Layton (Chairman)'}, "root['homepage']": {'new_value': 'http://www.upwork.com/ Upwork.com ', 'old_value': 'https://www.upwork.com/ Upwork.com '}}}
+121: {'dictionary_item_added': {"root['founders']": 'Odysseas Tsatalos, Stratis Karamanlakis'}, 'values_changed': {"root['foundation']": {'new_value': 'Campbell, California  2003', 'old_value': 'Mountain View, California  2015'}}}
+138: {'dictionary_item_removed': {"root['written_in']": 'JavaScript'}}
+174: {'dictionary_item_added': {"root['foundation']": 'Mountain View, California  2015', "root['location']": 'Mountain View, California', "root['written_in']": 'JavaScript', "root['homepage']": 'https://www.upwork.com/ Upwork.com '}, 'values_changed': {"root['name']": {'new_value': 'Upwork', 'old_value': 'Upwork Global Inc.'}}}
+182: {'values_changed': {"root['key_people']": {'new_value': 'Stephane Kasriel (CEO), Thomas Layton (Chairman)', 'old_value': 'Hayden Brown (Jan 1, 2020–) (CEO), Thomas Layton (Chairman)'}}}
+183: {'values_changed': {"root['key_people']": {'new_value': 'Hayden Brown (Jan 1, 2020–) (CEO), Thomas Layton (Chairman)', 'old_value': 'Hayden Brown (CEO), Thomas Layton (Chairman)'}}}
+191: {'values_changed': {"root['name']": {'new_value': 'Upwork Global Inc.', 'old_value': "'''Upwork Scam Global Inc fRuad.'''"}}}
+193: {'values_changed': {"root['name']": {'new_value': "'''Upwork Scam Global Inc fRuad.'''", 'old_value': 'Upwork Global Inc.'}}}
+194: {'values_changed': {"root['name']": {'new_value': 'Upwork Global Inc.', 'old_value': 'alamin Global Inc.'}}}
+195: {'values_changed': {"root['name']": {'new_value': 'alamin Global Inc.', 'old_value': 'Upwork Global Inc.'}}}
+206: {'values_changed': {"root['name']": {'new_value': 'Upwork Global Inc.', 'old_value': 'Upwork Global Inc. by prince'}}}
+207: {'values_changed': {"root['name']": {'new_value': 'Upwork Global Inc. by prince', 'old_value': 'Upwork Global Inc.'}}}
+250: {'dictionary_item_removed': {"root['num_employees']": '500', "root['revenue']": 'Increase $301 Million(2019)'}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": "''Business Insider''", "root['owner']": 'Axel Springer SE', "root['creator']": 'Kevin P. Ryan', "root['editor']": 'Henry Blodget', "root['alexa']": '8|7|a'}}
+130: {'dictionary_item_added': {"root['alexa']": '8|7|a'}, 'values_changed': {"root['editor']": {'new_value': 'Henry Blodget', 'old_value': 'Nicholas Carlson'}}}
+136: {'values_changed': {"root['name']": {'new_value': "''Business Insider''", 'old_value': "''Insider''"}}}
+158: {'values_changed': {"root['name']": {'new_value': "''Insider''", 'old_value': "''Business Insider''"}, "root['editor']": {'new_value': 'Nicholas Carlson', 'old_value': 'Henry Blodget'}}}
+175: {'values_changed': {"root['name']": {'new_value': "''Business Insider''", 'old_value': "''Insider''"}}}

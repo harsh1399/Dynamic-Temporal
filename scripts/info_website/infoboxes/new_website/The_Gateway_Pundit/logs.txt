@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gateway Pundit', "root['format']": 'Political Magazine', "root['owners']": '2013 theGatewayPundit.com. All rights reserved.', "root['chiefeditor']": 'Jim Hoft', "root['political']": 'Independent Conservative', "root['circulation']": '31 Million views per month (October 2016) | sister newspapers    ='}}
+6: {'values_changed': {"root['circulation']": {'new_value': '31 Million views per month (October 2016) | sister newspapers    =', 'old_value': '12million views per month | sister newspapers    ='}}}
+7: {'values_changed': {"root['circulation']": {'new_value': '12million views per month | sister newspapers    =', 'old_value': '12 million views per month  sister newspapers'}}}
+18: {'dictionary_item_added': {"root['owners']": '2013 theGatewayPundit.com. All rights reserved.'}, 'values_changed': {"root['format']": {'new_value': 'Political Magazine', 'old_value': 'Political magazine'}}}
+28: {'values_changed': {"root['political']": {'new_value': 'Independent Conservative', 'old_value': 'Conservative'}}}
+68: {'dictionary_item_added': {"root['format']": 'Political magazine', "root['chiefeditor']": 'Jim Hoft', "root['political']": 'Conservative', "root['circulation']": '12 million views per month  sister newspapers'}, 'dictionary_item_removed': {"root['creator']": 'Jim Hoft ', "root['editor']": 'Jim Hoft'}}
+70: {'dictionary_item_removed': {"root['alexa']": 'http://www.alexa.com/siteinfo/thegatewaypundit.com 1,256 (US 02/2017)'}}
+72: {'dictionary_item_removed': {"root['slogan']": 'Where Hope Finally Made A Comeback'}}
+79: {'values_changed': {"root['editor']": {'new_value': 'Jim Hoft', 'old_value': 'Mark Miller'}}}
+80: {'values_changed': {"root['editor']": {'new_value': 'Mark Miller', 'old_value': 'Jim Hoft'}}}
+107: {'values_changed': {"root['name']": {'new_value': 'Gateway Pundit', 'old_value': 'The Gateway Pundit'}}}
+108: {'values_changed': {"root['name']": {'new_value': 'The Gateway Pundit', 'old_value': 'Gateway Pundit'}}}
+169: {'values_changed': {"root['creator']": {'new_value': 'Jim Hoft ', 'old_value': '||'}}}
+170: {'values_changed': {"root['creator']": {'new_value': '||', 'old_value': 'Jim Hoft '}}}
+326: {'values_changed': {"root['alexa']": {'new_value': 'http://www.alexa.com/siteinfo/thegatewaypundit.com 1,256 (US 02/2017)', 'old_value': 'http://www.alexa.com/siteinfo/thegatewaypundit.com 1,462 (US 11/2017)'}}}
+353: {'dictionary_item_added': {"root['slogan']": 'Where Hope Finally Made A Comeback', "root['alexa']": 'http://www.alexa.com/siteinfo/thegatewaypundit.com 1,462 (US 11/2017)'}, 'dictionary_item_removed': {"root['owner']": 'Jim Hoft'}, 'values_changed': {"root['name']": {'new_value': 'Gateway Pundit', 'old_value': 'The Gateway Pundit'}}}

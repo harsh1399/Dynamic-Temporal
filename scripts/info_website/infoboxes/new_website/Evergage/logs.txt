@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'Evergage, Inc.', "root['owner']": 'Karl Wirth Greg Hinkle', "root['creators']": 'Karl Wirth   Greg Hinkle', "root['area_served']": 'Worldwide', "root['key_people']": 'Karl Wirth - CEO  Greg Hinkle - CTO', "root['website_type']": 'Personalization '}}
+7: {'values_changed': {"root['owner']": {'new_value': 'Karl Wirth Greg Hinkle', 'old_value': 'Salesforce'}}}
+12: {'values_changed': {"root['creators']": {'new_value': 'Karl Wirth   Greg Hinkle', 'old_value': 'Karl Wirth         Greg Hinkle'}, "root['key_people']": {'new_value': 'Karl Wirth - CEO  Greg Hinkle - CTO', 'old_value': 'Karl Wirth, (CEO),  Greg Hinkle, (CTO)'}}}
+16: {'values_changed': {"root['creators']": {'new_value': 'Karl Wirth         Greg Hinkle', 'old_value': 'Karl Wirth '}}}
+17: {'values_changed': {"root['key_people']": {'new_value': 'Karl Wirth, (CEO),  Greg Hinkle, (CTO)', 'old_value': 'Karl Wirth, (CEO), Greg Hinkle, (CTO)'}}}

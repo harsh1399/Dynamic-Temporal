@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'Snopes.com', "root['slogan']": "''Rumor Has It''", "root['editor']": 'Brooke Binkowski, managing editor  | launch date = 1994', "root['alexa']": '01|21|a'}}
+11: {'values_changed': {"root['editor']": {'new_value': 'Brooke Binkowski, managing editor  | launch date = 1994', 'old_value': 'Brooke Binkowski, managing editor  | launch date = '}}}
+13: {'values_changed': {"root['editor']": {'new_value': 'Brooke Binkowski, managing editor  | launch date = ', 'old_value': 'Brooke Binkowski, managing editor  | launch date = 1994'}}}
+100: {'dictionary_item_added': {"root['slogan']": "''Rumor Has It''"}, 'values_changed': {"root['editor']": {'new_value': 'Brooke Binkowski, managing editor  | launch date = 1994', 'old_value': 'Brooke Binkowski, managing editor  | launch date = '}}}
+176: {'dictionary_item_added': {"root['editor']": 'Brooke Binkowski, managing editor  | launch date = '}, 'values_changed': {"root['alexa']": {'new_value': '01|21|a', 'old_value': '12|03|a'}}}
+305: {'dictionary_item_added': {"root['alexa']": '12|03|a'}, 'values_changed': {"root['name']": {'new_value': 'Snopes.com', 'old_value': "''Snopes.com''"}}}

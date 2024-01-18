@@ -1,0 +1,37 @@
+86: {'dictionary_item_removed': {"root['name']": 'Amazon Web Services', "root['developer']": 'Amazon', "root['discontinued']": '| latest release version =  | latest release date    =  | latest preview version =  | latest preview date    =  | frequently updated     =  | programming language   =  | operating system       ='}}
+87: {'dictionary_item_removed': {"root['released']": '2003'}}
+88: {'values_changed': {"root['released']": {'new_value': '2003', 'old_value': 'July 2002'}}}
+89: {'values_changed': {"root['developer']": {'new_value': 'Amazon', 'old_value': 'Amazon.com'}}}
+95: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services', 'old_value': 'Amazon Web Services 2012'}}}
+140: {'dictionary_item_added': {"root['developer']": 'Amazon.com', "root['released']": 'July 2002', "root['discontinued']": '| latest release version =  | latest release date    =  | latest preview version =  | latest preview date    =  | frequently updated     =  | programming language   =  | operating system       ='}, 'dictionary_item_removed': {"root['content_license']": '| programming language =', "root['owner']": 'Amazon.com'}, 'values_changed': {"root['name']": {'new_value': 'Amazon Web Services 2012', 'old_value': 'Amazon Web Services'}}}
+192: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services', 'old_value': 'Amazon Web Services (AWS)'}}}
+207: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services (AWS)', 'old_value': 'Amazon Web Services (Abc)'}}}
+208: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services (Abc)', 'old_value': 'Amazon Web Services (AWS)'}}}
+232: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services (AWS)', 'old_value': 'Amazon Web Services'}}}
+329: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services', 'old_value': 'Amazon Web Services, Inc.'}}}
+364: {'dictionary_item_removed': {"root['Key_people']": 'Andy Jassy (CEO)'}}
+365: {'dictionary_item_added': {"root['Key_people']": 'Andy Jassy (CEO)'}, 'dictionary_item_removed': {"root['key_people']": 'Andy Jassy (CEO)'}}
+371: {'values_changed': {"root['owner']": {'new_value': 'Amazon.com', 'old_value': 'gopichand.com'}}}
+372: {'values_changed': {"root['owner']": {'new_value': 'gopichand.com', 'old_value': 'Amazon.com'}}}
+373: {'values_changed': {"root['key_people']": {'new_value': 'Andy Jassy (CEO)', 'old_value': 'Andy Jassy (CEO)   '}}}
+387: {'values_changed': {"root['key_people']": {'new_value': 'Andy Jassy (CEO)   ', 'old_value': 'Andy Jassy (CEO) |'}}}
+408: {'dictionary_item_added': {"root['owner']": 'Amazon.com'}, 'dictionary_item_removed': {"root['subsidiaries']": 'Annapurna Labs, AWS Elemental'}}
+420: {'dictionary_item_removed': {"root['revenue']": 'operating income =  $7.2 billion (2018)'}}
+434: {'values_changed': {"root['revenue']": {'new_value': 'operating income =  $7.2 billion (2018)', 'old_value': 'operating income =  $7.2 billion (2018'}}}
+481: {'values_changed': {"root['key_people']": {'new_value': 'Andy Jassy (CEO) |', 'old_value': 'Vaishnav Dubey (CEO) |'}}}
+482: {'values_changed': {"root['key_people']": {'new_value': 'Vaishnav Dubey (CEO) |', 'old_value': 'Andy Jassy (CEO) |'}}}
+495: {'dictionary_item_added': {"root['content_license']": '| programming language ='}, 'dictionary_item_removed': {"root['operating_income']": '$7.2 billion (2018)'}, 'values_changed': {"root['revenue']": {'new_value': 'operating income =  $7.2 billion (2018', 'old_value': '$25.6 billion (2018)'}}}
+512: {'values_changed': {"root['revenue']": {'new_value': '$25.6 billion (2018)', 'old_value': '$35.03 billion (2019)'}}}
+557: {'dictionary_item_added': {"root['subsidiaries']": 'Annapurna Labs, AWS Elemental'}, 'values_changed': {"root['revenue']": {'new_value': '$35.03 billion (2019)', 'old_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption'}}}
+559: {'values_changed': {"root['operating_income']": {'new_value': '$7.2 billion (2018)', 'old_value': 'US$13.5 billion (2020)'}}}
+580: {'type_changes': {"root['key_people']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Andy Jassy (CEO) |'}}}
+613: {'dictionary_item_added': {"root['key_people']": []}, 'values_changed': {"root['revenue']": {'new_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption', 'old_value': 'US$46 billion (2020)'}}}
+614: {'dictionary_item_removed': {"root['key_people']": []}, 'values_changed': {"root['revenue']": {'new_value': 'US$46 billion (2020)', 'old_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption'}}}
+615: {'dictionary_item_added': {"root['key_people']": []}, 'values_changed': {"root['revenue']": {'new_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption', 'old_value': 'US$46 billion (2020)'}}}
+616: {'dictionary_item_removed': {"root['key_people']": []}, 'values_changed': {"root['revenue']": {'new_value': 'US$46 billion (2020)', 'old_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption'}}}
+653: {'dictionary_item_removed': {"root['logocaption']": 'zzz'}}
+752: {'dictionary_item_added': {"root['logocaption']": 'zzz'}, 'values_changed': {"root['revenue']": {'new_value': 'US$46 billion (2020) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption', 'old_value': 'US$62 billion (2021) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption'}, "root['operating_income']": {'new_value': 'US$13.5 billion (2020)', 'old_value': 'US$13.5 billion (2021)'}}}
+832: {'values_changed': {"root['operating_income']": {'new_value': 'US$13.5 billion (2021)', 'old_value': 'US$18.5 billion (2021)'}}}
+877: {'values_changed': {"root['name']": {'new_value': 'Amazon Web Services, Inc.', 'old_value': 'DRACOAmazonTECH Web BMOServices, Inc.O.o'}}}
+878: {'values_changed': {"root['name']": {'new_value': 'DRACOAmazonTECH Web BMOServices, Inc.O.o', 'old_value': 'Amazon Web Services, Inc.'}}}
+884: {'values_changed': {"root['revenue']": {'new_value': 'US$62 billion (2021) title=Exclusive with AWS chief Andy Jassy: The wakeup call for cloud adoption', 'old_value': 'US$80 billion (2022) title=Google Cloud makes its first profit, 15 years after launching'}, "root['operating_income']": {'new_value': 'US$18.5 billion (2021)', 'old_value': 'US$22.8 billion (2022)'}}}

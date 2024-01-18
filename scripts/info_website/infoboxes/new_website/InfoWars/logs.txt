@@ -1,0 +1,4 @@
+31: {'dictionary_item_removed': {"root['name']": 'InfoWars', "root['owner']": 'Alex Jones'}}
+128: {'dictionary_item_removed': {"root['slogan']": "There's a war on for your mind!"}}
+373: {'dictionary_item_added': {"root['slogan']": "There's a war on for your mind!"}, 'values_changed': {"root['owner']": {'new_value': 'Alex Jones', 'old_value': 'Alex Jones (via Free Speech Systems LLC)'}}}
+699: {'values_changed': {"root['name']": {'new_value': 'InfoWars', 'old_value': "''InfoWars''"}}}

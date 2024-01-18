@@ -1,0 +1,4 @@
+50: {'dictionary_item_removed': {"root['name']": 'FiveThirtyEight', "root['owner']": 'Nate Silver', "root['slogan']": 'Electoral Projections Done Right. '}}
+183: {'values_changed': {"root['slogan']": {'new_value': 'Electoral Projections Done Right. ', 'old_value': 'Politics Done Right. '}}}
+203: {'dictionary_item_added': {"root['slogan']": 'Politics Done Right. '}, 'dictionary_item_removed': {"root['creator']": 'Nate Silver', "root['editor']": 'Nate Silver |launch date    = current status = Onli'}, 'values_changed': {"root['owner']": {'new_value': 'Nate Silver', 'old_value': 'ESPN'}}}
+249: {'values_changed': {"root['owner']": {'new_value': 'ESPN', 'old_value': 'ESPN Inc.'}}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['caption2']": 'An example of a Windows Live ID sign-in page', "root['label1']": 'Type', "root['data1']": 'Single sign-on', "root['label2']": 'Slogan', "root['data2']": 'Simplify your sign in', "root['label3']": 'Owner', "root['data3']": 'Microsoft '}}
+3: {'values_changed': {"root['caption2']": {'new_value': 'An example of a Windows Live ID sign-in page', 'old_value': 'An example of a Microsoft Account sign-in page'}}}
+20: {'values_changed': {"root['caption2']": {'new_value': 'An example of a Microsoft Account sign-in page', 'old_value': 'An example of a  Windows Live ID sign-in page'}}}
+21: {'values_changed': {"root['caption2']": {'new_value': 'An example of a  Windows Live ID sign-in page', 'old_value': 'An example of a Microsoft Account sign-in page'}}}
+30: {'values_changed': {"root['caption2']": {'new_value': 'An example of a Microsoft Account sign-in page', 'old_value': 'An example of a Microsoft account sign-in page'}}}
+47: {'values_changed': {"root['data2']": {'new_value': 'Simplify your sign in', 'old_value': 'Your account, our priority'}}}
+74: {'dictionary_item_added': {"root['label1']": 'Type', "root['data1']": 'Single sign-on', "root['label2']": 'Slogan', "root['data2']": 'Your account, our priority', "root['label3']": 'Owner', "root['data3']": 'Microsoft '}, 'dictionary_item_removed': {"root['name']": 'Microsoft account', "root['slogan']": 'Your account, our priority', "root['owner']": 'Microsoft '}}
+81: {'dictionary_item_added': {"root['name']": 'Microsoft account', "root['owner']": 'Microsoft '}, 'dictionary_item_removed': {"root['Evilangel57']": 'Microsoft account', "root['mykah']": 'Microsoft'}}
+82: {'dictionary_item_added': {"root['Evilangel57']": 'Microsoft account', "root['mykah']": 'Microsoft'}, 'dictionary_item_removed': {"root['name']": 'Microsoft account', "root['owner']": 'Microsoft'}}
+86: {'values_changed': {"root['caption2']": {'new_value': 'An example of a Microsoft account sign-in page', 'old_value': 'An example of a Microsoft account sign-up page'}}}
+88: {'values_changed': {"root['caption2']": {'new_value': 'An example of a Microsoft account sign-up page', 'old_value': 'An example of a Microsoft account sign-in page'}}}
+89: {'values_changed': {"root['name']": {'new_value': 'Microsoft account', 'old_value': 'Dhanu'}}}
+90: {'values_changed': {"root['name']": {'new_value': 'Dhanu', 'old_value': 'Microsoft account'}}}
+100: {'values_changed': {"root['name']": {'new_value': 'Microsoft account', 'old_value': 'Microsoft Account'}}}

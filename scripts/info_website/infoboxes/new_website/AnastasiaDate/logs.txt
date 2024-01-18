@@ -1,0 +1,14 @@
+2: {'dictionary_item_removed': {"root['name']": 'AnastasiaDate.com'}}
+8: {'dictionary_item_removed': {"root['num_users']": 'More than 1 million'}}
+28: {'values_changed': {"root['name']": {'new_value': 'AnastasiaDate.com', 'old_value': 'Anastasia International'}}}
+29: {'dictionary_item_removed': {"root['revenue']": '$110 million USD'}}
+123: {'dictionary_item_added': {"root['num_users']": 'More than 1 million'}, 'values_changed': {"root['revenue']": {'new_value': '$110 million USD', 'old_value': '$110 million USD Citation needed'}}}
+124: {'values_changed': {"root['revenue']": {'new_value': '$110 million USD Citation needed', 'old_value': '$110 million USD da'}}}
+126: {'values_changed': {"root['name']": {'new_value': 'Anastasia International', 'old_value': 'Anastasia Date'}}}
+127: {'values_changed': {"root['name']": {'new_value': 'Anastasia Date', 'old_value': 'Anastasia International'}}}
+128: {'values_changed': {"root['name']": {'new_value': 'Anastasia International', 'old_value': 'Anastasia Date'}}}
+132: {'values_changed': {"root['name']": {'new_value': 'Anastasia Date', 'old_value': 'AnastasiaDate'}}}
+134: {'values_changed': {"root['revenue']": {'new_value': '$110 million USD da', 'old_value': '$110 million USD (2012) <ref name'}}}
+168: {'dictionary_item_removed': {"root['owner']": '103 Sham Peng Tong Plaza Victoria, '}}
+169: {'values_changed': {"root['owner']": {'new_value': '103 Sham Peng Tong Plaza Victoria, ', 'old_value': 'Anastasia Date Ltd   103 Sham Peng Tong Plaza Victoria, '}}}
+195: {'dictionary_item_added': {"root['owner']": 'Anastasia Date Ltd   103 Sham Peng Tong Plaza Victoria, ', "root['revenue']": '$110 million USD (2012) <ref name'}, 'dictionary_item_removed': {"root['services']": 'E-mail correspondence, video chat, live chat', "root['employees']": '250-500', "root['slogan']": '"Love Knows No Boundaries"', "root['users']": '4 million ', "root['launched']": 'current stat'}}

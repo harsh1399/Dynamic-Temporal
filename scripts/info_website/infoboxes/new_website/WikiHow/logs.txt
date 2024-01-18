@@ -1,0 +1,43 @@
+8: {'dictionary_item_removed': {"root['name']": 'wikiHow', "root['location']": 'Palo Alto, California', "root['alexa']": '12|1|a'}}
+14: {'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '2|2|a'}}}
+16: {'values_changed': {"root['alexa']": {'new_value': '2|2|a', 'old_value': '3|1|a'}}}
+29: {'values_changed': {"root['alexa']": {'new_value': '3|1|a', 'old_value': '4|1|a'}}}
+45: {'values_changed': {"root['alexa']": {'new_value': '4|1|a', 'old_value': '9|8|a'}}}
+56: {'dictionary_item_added': {"root['location']": 'Palo Alto, California', "root['alexa']": '9|8|a'}, 'dictionary_item_removed': {"root['slogan']": '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}}
+58: {'values_changed': {"root['slogan']": {'new_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."', 'old_value': '"We love you so you should love us?"'}}}
+59: {'values_changed': {"root['slogan']": {'new_value': '"We love you so you should love us?"', 'old_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}}}
+129: {'dictionary_item_removed': {"root['favicon']": 'OR'}, 'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'SFL & Blue dart'}}}
+130: {'dictionary_item_added': {"root['favicon']": 'OR'}, 'values_changed': {"root['name']": {'new_value': 'SFL & Blue dart', 'old_value': 'wikiHow'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (is stupid)'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'wikiHow (is stupid)', 'old_value': 'wikiHow'}}}
+158: {'values_changed': {"root['slogan']": {'new_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."', 'old_value': '"We\'re trying to help everyone on Jeff planet learn how to do anything. Join us."'}}}
+159: {'values_changed': {"root['slogan']": {'new_value': '"We\'re trying to help everyone on Jeff planet learn how to do anything. Join us."', 'old_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}}}
+166: {'values_changed': {"root['slogan']": {'new_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."', 'old_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us. We have weird images, drawn by 3 year olds."'}}}
+167: {'values_changed': {"root['slogan']": {'new_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us. We have weird images, drawn by 3 year olds."', 'old_value': '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}}}
+168: {'dictionary_item_added': {"root['slogan']": '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}, 'dictionary_item_removed': {"root['owner']": 'STARBOY'}, 'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'STARBOY'}}}
+169: {'dictionary_item_added': {"root['owner']": 'STARBOY'}, 'dictionary_item_removed': {"root['slogan']": '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}, 'values_changed': {"root['name']": {'new_value': 'STARBOY', 'old_value': 'wikiHow'}}}
+201: {'dictionary_item_added': {"root['slogan']": '"We\'re trying to help everyone on the planet learn how to do anything. Join us."'}, 'dictionary_item_removed': {"root['area_served']": 'Worldwide'}}
+208: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'WikiHow'}}}
+209: {'values_changed': {"root['name']": {'new_value': 'WikiHow', 'old_value': 'wikiHow'}}}
+249: {'dictionary_item_removed': {"root['key_people']": 'Elizabeth Douglas (CEO), Jack Herrick (Founder) '}}
+275: {'dictionary_item_added': {"root['key_people']": 'Elizabeth Douglas (CEO), Jack Herrick (Founder) '}, 'dictionary_item_removed': {"root['Courses']": 'Diploma in Medical Lab Technology, Diploma in X-Ray & ECG Tech., Diploma in Multi Purpose Health Worker '}, 'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'Institute of Public Health & Hygiene'}, "root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Urban'}}}
+276: {'dictionary_item_added': {"root['Courses']": 'Diploma in Medical Lab Technology, Diploma in X-Ray & ECG Tech., Diploma in Multi Purpose Health Worker '}, 'dictionary_item_removed': {"root['key_people']": 'Elizabeth Douglas (CEO), Jack Herrick (Founder) '}, 'values_changed': {"root['name']": {'new_value': 'Institute of Public Health & Hygiene', 'old_value': 'wikiHow'}, "root['area_served']": {'new_value': 'Urban', 'old_value': 'Worldwide'}}}
+281: {'dictionary_item_removed': {"root['employees']": '236 (as of September 2021)'}, 'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (WikiHow (upper case)'}, "root['key_people']": {'new_value': 'Elizabeth Douglas (CEO), Jack Herrick (Founder) ', 'old_value': 'Elizabeth Douglas (CEO), Jack Herrick (founder) '}}}
+282: {'values_changed': {"root['name']": {'new_value': 'wikiHow (WikiHow (upper case)', 'old_value': 'wikiHow'}}}
+283: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (WikiHow (upper case)'}}}
+284: {'values_changed': {"root['name']": {'new_value': 'wikiHow (WikiHow (upper case)', 'old_value': 'wikiHow'}}}
+285: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (WikiHow (upper case)'}}}
+286: {'values_changed': {"root['name']": {'new_value': 'wikiHow (WikiHow (upper case)', 'old_value': 'wikiHow'}}}
+297: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (Wikihow in caps)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '240+ (as of Jan 2022)'}}}
+298: {'values_changed': {"root['name']": {'new_value': 'wikiHow (Wikihow in caps)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '240+ (as of Jan 2022)', 'old_value': '236 (as of September 2021)'}}}
+299: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (Wikihow in caps)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '240+ (as of Jan 2022)'}}}
+300: {'values_changed': {"root['name']": {'new_value': 'wikiHow (Wikihow in caps)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '240+ (as of Jan 2022)', 'old_value': '236 (as of September 2021)'}}}
+301: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (Wikihow in caps)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '240+ (as of Jan 2022)'}}}
+302: {'values_changed': {"root['name']": {'new_value': 'wikiHow (Wikihow in caps)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '240+ (as of Jan 2022)', 'old_value': '236 (as of September 2021)'}}}
+303: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (Wikihow in caps)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '240+ (as of Jan 2022)'}}}
+304: {'values_changed': {"root['name']": {'new_value': 'wikiHow (Wikihow in caps)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '240+ (as of Jan 2022)', 'old_value': '236 (as of September 2021)'}}}
+305: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (Wikihow in caps)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '240+ (as of Jan 2022)'}}}
+306: {'values_changed': {"root['name']": {'new_value': 'wikiHow (Wikihow in caps)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '240+ (as of Jan 2022)', 'old_value': '236 (as of September 2021)'}}}
+307: {'values_changed': {"root['name']": {'new_value': 'wikiHow', 'old_value': 'wikiHow (WikiHow)'}, "root['employees']": {'new_value': '236 (as of September 2021)', 'old_value': '242 (as of 2022)'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'wikiHow (WikiHow)', 'old_value': 'wikiHow'}, "root['employees']": {'new_value': '242 (as of 2022)', 'old_value': '236 (as of September 2021)'}}}
+345: {'dictionary_item_added': {"root['employees']": '236 (as of September 2021)'}, 'dictionary_item_removed': {"root['content_license']": 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (user-generated content) |'}, 'values_changed': {"root['key_people']": {'new_value': 'Elizabeth Douglas (CEO), Jack Herrick (founder) ', 'old_value': 'Elizabeth Douglas (CEO), Jack Herrick (founder)'}}}

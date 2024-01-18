@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'iWant TV', "root['services']": 'video on demand, video streaming, pay per view', "root['revenue']": '| operating income     =', "root['owner']": 'ABS-CBN', "root['slogan']": '"Anytime. Anywhere!"', "root['alexa']": '| website type         =', "root['users']": '8 million  (August 2017)'}}
+2: {'values_changed': {"root['users']": {'new_value': '8 million  (August 2017)', 'old_value': '6 million  (August 2017)'}}}
+20: {'dictionary_item_added': {"root['slogan']": '"Anytime. Anywhere!"'}, 'values_changed': {"root['name']": {'new_value': 'iWant TV', 'old_value': 'iWant'}}}
+44: {'values_changed': {"root['revenue']": {'new_value': '| operating income     =', 'old_value': '| operating income ='}, "root['alexa']": {'new_value': '| website type         =', 'old_value': '| website type ='}}}
+71: {'values_changed': {"root['name']": {'new_value': 'iWant', 'old_value': 'IWant'}}}
+89: {'values_changed': {"root['name']": {'new_value': 'IWant', 'old_value': 'iWant'}}}
+90: {'dictionary_item_added': {"root['alexa']": '| website type ='}, 'dictionary_item_removed': {"root['foundation']": 'CarLs’ForTheDevs’poorBasterds', "root['launched']": 'df=yes|January 2010 (as iWantv), '}, 'values_changed': {"root['revenue']": {'new_value': '| operating income =', 'old_value': '10000000 | operating income ='}}}
+91: {'dictionary_item_added': {"root['foundation']": 'CarLs’ForTheDevs’poorBasterds', "root['launched']": 'df=yes|January 2010 (as iWantv), '}, 'dictionary_item_removed': {"root['alexa']": '| website type ='}, 'values_changed': {"root['revenue']": {'new_value': '10000000 | operating income =', 'old_value': '| operating income ='}}}
+97: {'values_changed': {"root['name']": {'new_value': 'iWant', 'old_value': 'IWant'}}}
+98: {'values_changed': {"root['name']": {'new_value': 'IWant', 'old_value': 'iWant'}}}
+144: {'values_changed': {"root['services']": {'new_value': 'video on demand, video streaming, pay per view', 'old_value': 'Video on demand, Video streaming, Pay-per-view'}}}
+172: {'values_changed': {"root['users']": {'new_value': '6 million  (August 2017)', 'old_value': '13 million  (July 2019)'}}}
+218: {'dictionary_item_removed': {"root['slogan']": "''‘Pag may gusto, nasa iWant ‘yan!''"}}
+360: {'dictionary_item_added': {"root['revenue']": '| operating income =', "root['alexa']": '| website type ='}, 'values_changed': {"root['slogan']": {'new_value': "''‘Pag may gusto, nasa iWant ‘yan!''", 'old_value': "''Pag may gusto, nasa iWant yan''"}}}
+427: {'dictionary_item_added': {"root['services']": 'Video on demand, Video streaming, Pay-per-view', "root['slogan']": "''Pag may gusto, nasa iWant yan''", "root['owner']": 'ABS-CBN'}, 'dictionary_item_removed': {"root['launched']": "January 2010 (as ''iWantv'') ,  ", "root['area_served']": 'Philippines'}}
+447: {'dictionary_item_added': {"root['users']": '13 million  (July 2019)'}, 'values_changed': {"root['launched']": {'new_value': "January 2010 (as ''iWantv'') ,  ", 'old_value': "January 2010 (as ''iWant TV'') ,  "}}}
+450: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+454: {'dictionary_item_added': {"root['launched']": "January 2010 (as ''iWant TV'') ,  "}, 'values_changed': {"root['area_served']": {'new_value': 'Philippines', 'old_value': 'Philippines <!---Worldwide---'}}}
+466: {'values_changed': {"root['area_served']": {'new_value': 'Philippines <!---Worldwide---', 'old_value': 'Worldwide'}}}
+467: {'values_changed': {"root['name']": {'new_value': 'iWant', 'old_value': 'iWant TFC'}}}
+507: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Worldwide '}}}
+508: {'dictionary_item_removed': {"root['products']": 'services = '}}
+511: {'type_changes': {"root['products']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'services = '}}}
+512: {'dictionary_item_added': {"root['products']": []}, 'values_changed': {"root['area_served']": {'new_value': 'Worldwide ', 'old_value': 'Worldwide'}}}
+517: {'dictionary_item_removed': {"root['advertisements']": 'Yes'}}
+528: {'dictionary_item_added': {"root['advertisements']": 'Yes'}, 'dictionary_item_removed': {"root['location']": '9th Floor Eugenio Lopez Jr. Communications Center, Eugenio Lopez Drive, South Triangle, Quezon City, Philippines'}}

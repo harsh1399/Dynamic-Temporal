@@ -1,0 +1,8 @@
+12: {'dictionary_item_removed': {"root['location']": 'Ukraine', "root['owner']": 'Olena Prytula', "root['editor']": 'Sevğil Musayeva-Borovyk (since 2014)'}}
+16: {'dictionary_item_removed': {"root['name']": 'Ukrayinska Pravda'}}
+18: {'values_changed': {"root['owner']": {'new_value': 'Olena Prytula', 'old_value': 'Dragon Capital '}}}
+19: {'values_changed': {"root['editor']": {'new_value': 'Sevğil Musayeva-Borovyk (since 2014)', 'old_value': 'Sevğil Musayeva-Borovyk  (since 2014)'}}}
+40: {'values_changed': {"root['name']": {'new_value': 'Ukrayinska Pravda', 'old_value': "''Ukrayinska Pravda''"}}}
+51: {'values_changed': {"root['name']": {'new_value': "''Ukrayinska Pravda''", 'old_value': "''Ukrainska Pravda''"}}}
+53: {'values_changed': {"root['owner']": {'new_value': 'Dragon Capital ', 'old_value': '|'}}}
+58: {'dictionary_item_added': {"root['location']": 'Ukraine', "root['editor']": 'Sevğil Musayeva-Borovyk  (since 2014)'}, 'values_changed': {"root['owner']": {'new_value': '|', 'old_value': 'Dragon Capital ||'}}}

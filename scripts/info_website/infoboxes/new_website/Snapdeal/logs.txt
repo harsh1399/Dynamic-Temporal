@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'Snapdeal.com', "root['location']": 'New Delhi, India', "root['num_users']": '20+ Million Users', "root['services']": 'Electronic commerce', "root['num_employees']": '1000+', "root['company_slogan']": 'Bachatey Raho!'}}
+15: {'dictionary_item_added': {"root['name']": 'Snapdeal.com', "root['num_users']": '20+ Million Users'}, 'dictionary_item_removed': {"root['company_name']": 'Snapdeal', "root['area_served']": 'India', "root['key_people']": 'Kunal Bahl & Rohit Bansal', "root['website_type']": 'Online shopping'}}
+21: {'values_changed': {"root['num_employees']": {'new_value': '1000+', 'old_value': '2000+'}}}
+28: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal', 'old_value': 'Kunal Bahl & Rohit Bhatnagar'}}}
+29: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bhatnagar', 'old_value': 'Kunal Bahl & Rohit Bansal'}}}
+75: {'values_changed': {"root['area_served']": {'new_value': 'India', 'old_value': 'All over India'}}}
+76: {'values_changed': {"root['area_served']": {'new_value': 'All over India', 'old_value': 'India'}}}
+79: {'values_changed': {"root['company_name']": {'new_value': 'Snapdeal', 'old_value': "''''''Bold text'''''''''Bold text'''''''''Bold text'''''''''Bold text'''''Italic text''''''''''''''"}}}
+80: {'values_changed': {"root['company_name']": {'new_value': "''''''Bold text'''''''''Bold text'''''''''Bold text'''''''''Bold text'''''Italic text''''''''''''''", 'old_value': 'Snapdeal'}}}
+107: {'values_changed': {"root['company_name']": {'new_value': 'Snapdeal', 'old_value': 'teri toh'}}}
+108: {'values_changed': {"root['company_name']": {'new_value': 'teri toh', 'old_value': 'Snapdeal'}}}
+170: {'dictionary_item_added': {"root['website_type']": 'Online shopping'}, 'dictionary_item_removed': {"root['company_logo']": 'Snapdeal-logo.png'}}
+178: {'dictionary_item_added': {"root['company_name']": 'Snapdeal', "root['company_logo']": 'Snapdeal-logo.png', "root['area_served']": 'India', "root['company_slogan']": 'Bachatey Raho!'}, 'dictionary_item_removed': {"root['name']": 'Snapdeal'}}
+207: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal', 'old_value': 'Kunal Bahl & Rohit Bansal,Viral Vora'}}}
+208: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal,Viral Vora', 'old_value': 'Kunal Bahl & Rohit Bansal,'}}}
+210: {'values_changed': {"root['name']": {'new_value': 'Snapdeal', 'old_value': 'Snapdeal.com'}, "root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal,', 'old_value': 'Kunal Bahl & Rohit Bansal,Viral Vora'}}}
+211: {'values_changed': {"root['services']": {'new_value': 'Electronic commerce', 'old_value': 'E-commerce, (Online shopping)'}}}
+216: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal,Viral Vora', 'old_value': 'Kunal Bahl & Daksh Shukla, Rohit Bansal, Viral Vora'}}}
+217: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Daksh Shukla, Rohit Bansal, Viral Vora', 'old_value': 'Kunal Bahl & Rohit Bansal,Viral Vora'}}}
+219: {'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal,Viral Vora', 'old_value': 'Kunal Bahl & Daksh Shukla, Rohit Bansal,Viral Vora'}}}
+221: {'dictionary_item_removed': {"root['owner']": 'niknite'}}
+224: {'dictionary_item_added': {"root['owner']": 'niknite'}, 'values_changed': {"root['key_people']": {'new_value': 'Kunal Bahl & Daksh Shukla, Rohit Bansal,Viral Vora', 'old_value': 'Kunal Bahl & Rohit Bansal'}}}
+225: {'values_changed': {"root['services']": {'new_value': 'E-commerce, (Online shopping)', 'old_value': 'm-commerce, (Online shopping)'}}}
+227: {'values_changed': {"root['services']": {'new_value': 'm-commerce, (Online shopping)', 'old_value': 'E-commerce, (Online shopping)'}}}
+229: {'dictionary_item_added': {"root['num_employees']": '2000+'}, 'dictionary_item_removed': {"root['revenue']": "925 (FY 2019) title=Snapdeal's revenue grows 73%, losses drop by 71% in FY19", "root['website_type']": 'E-commerce', "root['subsidiaries']": ['Unicommerce', '']}, 'values_changed': {"root['name']": {'new_value': 'Snapdeal.com', 'old_value': 'Snapdeal Private Limited'}, "root['key_people']": {'new_value': 'Kunal Bahl & Rohit Bansal', 'old_value': 'Kunal Bahl, (CEO)'}, "root['services']": {'new_value': 'E-commerce, (Online shopping)', 'old_value': 'Online shopping'}}}
+262: {'values_changed': {"root['name']": {'new_value': 'Snapdeal Private Limited', 'old_value': 'Snapdeal Priate Limited'}}}
+264: {'values_changed': {"root['name']": {'new_value': 'Snapdeal Priate Limited', 'old_value': 'Snapdeal Private Limited'}}}
+280: {'type_changes': {"root['subsidiaries']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Jabong', 'new_value': ['Unicommerce', '']}}, 'dictionary_item_added': {"root['revenue']": "925 (FY 2019) title=Snapdeal's revenue grows 73%, losses drop by 71% in FY19"}}
+286: {'dictionary_item_added': {"root['subsidiaries']": 'Jabong'}, 'values_changed': {"root['name']": {'new_value': 'Snapdeal Private Limited', 'old_value': 'Jasper Infotech private limited'}}}
+287: {'values_changed': {"root['name']": {'new_value': 'Jasper Infotech private limited', 'old_value': 'Snapdeal Private Limited'}}}

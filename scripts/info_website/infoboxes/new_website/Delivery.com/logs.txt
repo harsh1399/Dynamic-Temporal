@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'delivery.com', "root['company_slogan']": 'Your neighborhood. Delivered.', "root['foundation']": 'New York City, New York, USA   2004', "root['area_served']": 'United States', "root['homepage']": 'http://www.delivery.com http://delivery.com', "root['website_type']": 'Online ordering '}}
+4: {'dictionary_item_added': {"root['company_slogan']": 'Your neighborhood. Delivered.', "root['foundation']": 'New York City, New York, USA   2004', "root['homepage']": 'http://www.delivery.com http://delivery.com'}, 'dictionary_item_removed': {"root['key_people']": 'Jed Kleckner  (CEO)'}, 'values_changed': {"root['name']": {'new_value': 'delivery.com', 'old_value': 'Delivery.com LLC'}}}
+12: {'dictionary_item_removed': {"root['num_employees']": '264 (2019)'}}
+17: {'values_changed': {"root['key_people']": {'new_value': 'Jed Kleckner  (CEO)', 'old_value': 'Jed Kleckner     ,  (CEO)'}}}

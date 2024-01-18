@@ -1,0 +1,7 @@
+10: {'dictionary_item_removed': {"root['name']": 'Viadeo', "root['employees']": '174 | launch date = May 2003, Paris, France | current status = Active', "root['revenue']": '€12-14 million (2008 projected)'}}
+14: {'values_changed': {"root['employees']": {'new_value': '174 | launch date = May 2003, Paris, France | current status = Active', 'old_value': '174 | launch date = May 2004, Paris, France | current status = Active'}}}
+30: {'values_changed': {"root['employees']": {'new_value': '174 | launch date = May 2004, Paris, France | current status = Active', 'old_value': '174 | launch date = June 2004, Paris, France | current status = Active'}}}
+61: {'values_changed': {"root['name']": {'new_value': 'Viadeo', 'old_value': 'Viadeo | Image:Logo_Viadeo.GIF'}}}
+62: {'values_changed': {"root['name']": {'new_value': 'Viadeo | Image:Logo_Viadeo.GIF', 'old_value': 'Viadeo'}}}
+67: {'values_changed': {"root['employees']": {'new_value': '174 | launch date = June 2004, Paris, France | current status = Active', 'old_value': '174 | launch date = June 2004 Paris, France | current status = Active'}}}
+72: {'values_changed': {"root['employees']": {'new_value': '174 | launch date = June 2004 Paris, France | current status = Active', 'old_value': '174 | launch date = May 2004 Paris, France | current status = Active'}}}

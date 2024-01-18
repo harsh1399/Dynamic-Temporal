@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Oyster', "root['area_served']": '| founder(s)          = Eric Stromberg, Andrew Brown, Willem van Lancker'}}
+14: {'dictionary_item_removed': {"root['company_logo']": 'thumb'}}
+24: {'dictionary_item_added': {"root['company_logo']": 'thumb'}, 'values_changed': {"root['area_served']": {'new_value': '| founder(s)          = Eric Stromberg, Andrew Brown, Willem van Lancker', 'old_value': '| founder(s)          = Eric Stromberg, Andrew Brown, Willem Van Lancker'}}}
+40: {'dictionary_item_added': {"root['company_name']": 'Oyster'}, 'dictionary_item_removed': {"root['name']": 'Oyster'}}
+49: {'dictionary_item_removed': {"root['CEO']": 'Eric Stromberg'}}
+64: {'dictionary_item_removed': {"root['key_people']": 'Eric Stromberg, Andrew Brown, Willem Van Lancker, Matthew Shatz'}}
+66: {'dictionary_item_added': {"root['key_people']": 'Eric Stromberg, Andrew Brown, Willem Van Lancker, Matthew Shatz'}, 'dictionary_item_removed': {"root['num_users']": '100,000 subscribers (September 2015)'}}
+68: {'dictionary_item_removed': {"root['intl']": '|logo size'}}
+70: {'dictionary_item_added': {"root['CEO']": 'Eric Stromberg'}, 'dictionary_item_removed': {"root['key_people']": 'Eric Stromberg, Andrew Brow, Willem Van Lancker'}}
+71: {'values_changed': {"root['key_people']": {'new_value': 'Eric Stromberg, Andrew Brow, Willem Van Lancker', 'old_value': 'Eric Stromberg, Andrew Brown, Willem Van Lancker'}}}
+79: {'dictionary_item_added': {"root['intl']": '|logo size'}, 'dictionary_item_removed': {"root['owner']": 'Alphabet Inc.'}}

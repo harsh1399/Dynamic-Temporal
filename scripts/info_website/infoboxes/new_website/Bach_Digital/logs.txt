@@ -1,0 +1,6 @@
+5: {'dictionary_item_removed': {"root['languages']": ['German', 'English', 'Spanish', 'French', 'Italian', 'Japanese'], "root['cost']": 'free', "root['disciplines']": 'Musicology'}}
+7: {'dictionary_item_removed': {"root['web']": 'http://www.bach-digital.de/'}}
+25: {'dictionary_item_added': {"root['languages']": ['German', 'English', 'Spanish', 'French', 'Italian', 'Japanese'], "root['cost']": 'free', "root['disciplines']": 'Musicology', "root['web']": 'http://www.bach-digital.de/'}, 'dictionary_item_removed': {"root['content_license']": 'Creative Commons', "root['creator']": 'Uwe Wolf'}}
+85: {'dictionary_item_removed': {"root['name']": 'Bach Digital'}}
+87: {'values_changed': {"root['content_license']": {'new_value': 'Creative Commons', 'old_value': 'Creative Commons https://www.bach-digital.de/content/license.xml?lang=en License at Bach Digital website. '}}}
+88: {'values_changed': {"root['content_license']": {'new_value': 'Creative Commons https://www.bach-digital.de/content/license.xml?lang=en License at Bach Digital website. ', 'old_value': 'Creative Commons '}}}

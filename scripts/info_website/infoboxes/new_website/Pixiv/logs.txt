@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Pixiv', "root['slogan']": "It's fun drawing!", "root['owner']": 'Pixiv Inc.', "root['alexa']": '481 (28 in Japan) |'}}
+1: {'values_changed': {"root['alexa']": {'new_value': '481 (28 in Japan) |', 'old_value': '481 (29 in Japan) |'}}}
+2: {'values_changed': {"root['alexa']": {'new_value': '481 (29 in Japan) |', 'old_value': '483 (28 in Japan) |'}}}
+7: {'values_changed': {"root['alexa']": {'new_value': '483 (28 in Japan) |', 'old_value': '382 (29 in Japan) |'}}}
+22: {'values_changed': {"root['alexa']": {'new_value': '382 (29 in Japan) |', 'old_value': '253 (18 in Japan) |'}}}
+28: {'dictionary_item_added': {"root['slogan']": "It's fun drawing!"}, 'dictionary_item_removed': {"root['location']": 'Shibuya, Tokyo, Japan'}, 'values_changed': {"root['name']": {'new_value': 'Pixiv', 'old_value': 'P ixivphot'}, "root['alexa']": {'new_value': '253 (18 in Japan) |', 'old_value': '12|25|a'}}}
+29: {'values_changed': {"root['name']": {'new_value': 'P ixivphot', 'old_value': 'Pixiv'}}}
+41: {'values_changed': {"root['alexa']": {'new_value': '12|25|a', 'old_value': '3|2|a'}}}

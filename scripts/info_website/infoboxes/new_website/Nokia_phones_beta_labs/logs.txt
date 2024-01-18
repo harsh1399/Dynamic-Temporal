@@ -1,0 +1,6 @@
+6: {'dictionary_item_removed': {"root['name']": 'Nokia Beta Labs', "root['owner']": 'Microsoft Mobile', "root['slogan']": 'Shaping the future together'}}
+12: {'values_changed': {"root['owner']": {'new_value': 'Microsoft Mobile', 'old_value': 'Microsoft Mobile (2014), Nokia (2007-2014)'}}}
+20: {'values_changed': {"root['name']": {'new_value': 'Nokia Beta Labs', 'old_value': 'Lumia Beta Apps'}, "root['owner']": {'new_value': 'Microsoft Mobile (2014), Nokia (2007-2014)', 'old_value': 'Microsoft Mobile (2014-), Nokia (2007-2014)'}, "root['slogan']": {'new_value': 'Shaping the future together', 'old_value': 'Try what you like. Say what you think.'}}}
+74: {'values_changed': {"root['owner']": {'new_value': 'Microsoft Mobile (2014-), Nokia (2007-2014)', 'old_value': 'Microsoft Mobile (2014-2015), Nokia (2007-2014)'}}}
+81: {'dictionary_item_added': {"root['slogan']": 'Try what you like. Say what you think.'}, 'values_changed': {"root['name']": {'new_value': 'Lumia Beta Apps', 'old_value': 'Nokia Beta Labs'}, "root['owner']": {'new_value': 'Microsoft Mobile (2014-2015), Nokia (2007-2014)', 'old_value': 'HMD Global (2017-), Microsoft Mobile (2014-2015), Nokia (2007-2014)'}}}
+86: {'values_changed': {"root['name']": {'new_value': 'Nokia Beta Labs', 'old_value': 'Nokia phones beta labs'}}}

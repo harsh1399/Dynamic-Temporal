@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Rightster Group plc', "root['location']": 'London, UK', "root['area_served']": 'Worldwide', "root['key_people']": 'Charlie Muirhead (Founder and CEO)', "root['revenue']": 'Increase 1.97 million (2013)', "root['num_employees']": '200'}}
+9: {'dictionary_item_added': {"root['company_name']": 'Rightster Group plc'}, 'dictionary_item_removed': {"root['name']": 'Rightster Group plc'}, 'values_changed': {"root['key_people']": {'new_value': 'Charlie Muirhead (Founder and CEO)', 'old_value': 'Patrick Walker (CEO)'}, "root['num_employees']": {'new_value': '200', 'old_value': '229'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'Rightster Group plc', 'old_value': 'Brave Bison'}, "root['location']": {'new_value': 'London, UK', 'old_value': 'London, United Kingdom'}}}
+20: {'dictionary_item_added': {"root['num_employees']": '229'}, 'values_changed': {"root['key_people']": {'new_value': 'Patrick Walker (CEO)', 'old_value': 'Ashley MacKenzie (CEO)'}}}
+26: {'values_changed': {"root['revenue']": {'new_value': 'Increase 1.97 million (2013)', 'old_value': 'Increase 16.8 million (2019)'}, "root['key_people']": {'new_value': 'Ashley MacKenzie (CEO)', 'old_value': 'Oli Green (CEO)'}}}
+29: {'dictionary_item_removed': {"root['num_employees']": '75'}}
+30: {'dictionary_item_removed': {"root['website_type']": 'Social Marketing, Media Brands, YouTube Channel Management'}}
+36: {'values_changed': {"root['key_people']": {'new_value': 'Oli Green (CEO)', 'old_value': 'Oli Green (Chairman)  Theo Green (Chief Growth Officer)'}}}
+38: {'values_changed': {"root['key_people']": {'new_value': 'Oli Green (Chairman)  Theo Green (Chief Growth Officer)', 'old_value': 'Oli Green (CEO)'}}}
+39: {'values_changed': {"root['key_people']": {'new_value': 'Oli Green (CEO)', 'old_value': 'Oli Green (Chairman) Theo Green (Chief Growth Officer)'}}}
+40: {'values_changed': {"root['num_employees']": {'new_value': '75', 'old_value': '100+'}}}
+46: {'values_changed': {"root['website_type']": {'new_value': 'Social Marketing, Media Brands, YouTube Channel Management', 'old_value': 'Social Marketing, Media Brands, YouTube Channel Management, Influencer Marketing'}}}
+52: {'values_changed': {"root['num_employees']": {'new_value': '100+', 'old_value': '150+'}}}

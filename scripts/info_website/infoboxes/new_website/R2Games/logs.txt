@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'R2Games', "root['foundation']": '2010', "root['area_served']": 'Global', "root['homepage']": 'http://www.r2games.com// www.R2Games.com '}}
+20: {'dictionary_item_added': {"root['company_name']": 'R2Games'}, 'dictionary_item_removed': {"root['name']": 'R2Games'}}
+33: {'values_changed': {"root['name']": {'new_value': 'R2Games', 'old_value': 'R2Games Mobile'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'R2Games Mobile', 'old_value': 'R2Games'}}}
+44: {'dictionary_item_added': {"root['homepage']": 'http://www.r2games.com// www.R2Games.com '}, 'dictionary_item_removed': {"root['num_employees']": '250+'}, 'values_changed': {"root['area_served']": {'new_value': 'Global', 'old_value': 'Worldwide'}}}
+46: {'dictionary_item_removed': {"root['location']": 'Shenzhen, China'}}
+50: {'dictionary_item_removed': {"root['locations']": '4 (Shenzhen, Shanghai, San Francisco, Hong Kong)', "root['founders']": 'Owen Luo, Jared Psigoda, Ben Chen', "root['CEO']": 'Jared Psigoda'}}
+51: {'dictionary_item_added': {"root['founders']": 'Owen Luo, Jared Psigoda, Ben Chen'}, 'values_changed': {"root['CEO']": {'new_value': 'Jared Psigoda', 'old_value': 'Jared Psigoda   |key people           = Owen Luo, Jared Psigoda, Ben Chen'}}}
+57: {'dictionary_item_added': {"root['num_employees']": '250+'}, 'values_changed': {"root['CEO']": {'new_value': 'Jared Psigoda   |key people           = Owen Luo, Jared Psigoda, Ben Chen', 'old_value': 'Jared Psigoda'}}}

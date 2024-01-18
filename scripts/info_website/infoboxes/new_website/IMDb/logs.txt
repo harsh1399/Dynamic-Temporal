@@ -1,0 +1,35 @@
+0: {'dictionary_item_removed': {"root['name']": 'Internet Movie Database (IMDb)', "root['owner']": 'Amazon.com', "root['alexa']": '12|1|a'}}
+19: {'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '1|20|a'}}}
+45: {'dictionary_item_added': {"root['name']": 'Internet Movie Database (IMDb)'}, 'dictionary_item_removed': {"root['namye']": 'Internet Movie Database (IMDb)'}}
+46: {'dictionary_item_added': {"root['namye']": 'Internet Movie Database (IMDb)'}, 'dictionary_item_removed': {"root['name']": 'Internet Movie Database (IMDb)'}}
+47: {'values_changed': {"root['alexa']": {'new_value': '1|20|a', 'old_value': '02|27|a'}}}
+69: {'dictionary_item_added': {"root['alexa']": '02|27|a'}, 'values_changed': {"root['name']": {'new_value': 'Internet Movie Database (IMDb)', 'old_value': '"alexa">|'}}}
+166: {'dictionary_item_removed': {"root['alexa']": '10|21|a'}, 'values_changed': {"root['name']": {'new_value': '"alexa">|', 'old_value': 'Internet Movie Database (IMDb)'}}}
+176: {'values_changed': {"root['owner']": {'new_value': 'Amazon.com', 'old_value': 'IMDb.com, Inc.'}}}
+181: {'values_changed': {"root['alexa']": {'new_value': '10|21|a', 'old_value': '11|09|a'}}}
+204: {'values_changed': {"root['alexa']": {'new_value': '11|09|a', 'old_value': '12|22|a'}}}
+205: {'dictionary_item_added': {"root['alexa']": '12|22|a'}, 'dictionary_item_removed': {"root['subsidiaries']": 'Box Office Mojo '}, 'values_changed': {"root['name']": {'new_value': 'Internet Movie Database (IMDb)', 'old_value': 'IMDb'}, "root['owner']": {'new_value': 'IMDb.com, Inc.', 'old_value': 'Amazon'}}}
+216: {'dictionary_item_added': {"root['owner']": 'Amazon', "root['subsidiaries']": 'Box Office Mojo '}, 'dictionary_item_removed': {"root['align']": '560,232 |- |Short film |'}}
+217: {'dictionary_item_added': {"root['align']": '560,232 |- |Short film |'}, 'dictionary_item_removed': {"root['owner']": 'Amazon', "root['subsidiaries']": 'Box Office Mojo '}}
+236: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+244: {'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'Umut Özdemir'}}}
+245: {'values_changed': {"root['name']": {'new_value': 'Umut Özdemir', 'old_value': 'IMDb'}}}
+307: {'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'Rahul Tiwari Adhiyari'}}}
+308: {'values_changed': {"root['name']": {'new_value': 'Rahul Tiwari Adhiyari', 'old_value': 'IMDb'}}}
+344: {'dictionary_item_removed': {"root['content_license']": 'Copyright'}}
+364: {'values_changed': {"root['collapsetext']": {'new_value': 'Screenshot', 'old_value': 'Screenshotkannad'}}}
+365: {'values_changed': {"root['collapsetext']": {'new_value': 'Screenshotkannad', 'old_value': 'Screenshot'}}}
+381: {'values_changed': {"root['content_license']": {'new_value': 'Copyright', 'old_value': 'Copyright '}}}
+383: {'values_changed': {"root['content_license']": {'new_value': 'Copyright ', 'old_value': 'Copyright'}}}
+384: {'values_changed': {"root['content_license']": {'new_value': 'Copyright', 'old_value': 'Copyright '}}}
+396: {'values_changed': {"root['subsidiaries']": {'new_value': 'Box Office Mojo ', 'old_value': 'Box Office MojoBring back the TV show of heroes! '}}}
+397: {'values_changed': {"root['subsidiaries']": {'new_value': 'Box Office MojoBring back the TV show of heroes! ', 'old_value': 'Box Office Mojo '}}}
+398: {'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'IMDb |Bring back the TV show of heroes! logo = IMDB Logo 2016.svg'}, "root['collapsetext']": {'new_value': 'Screenshot', 'old_value': 'Screenshot | Bring back the TV show of heroes!screenshot = IMDb homepage.png'}, "root['owner']": {'new_value': 'Amazon', 'old_value': 'Amazon |Bring back the TV show of heroes! launch_date = '}}}
+399: {'values_changed': {"root['name']": {'new_value': 'IMDb |Bring back the TV show of heroes! logo = IMDB Logo 2016.svg', 'old_value': 'IMDb'}, "root['collapsetext']": {'new_value': 'Screenshot | Bring back the TV show of heroes!screenshot = IMDb homepage.png', 'old_value': 'Screenshot'}, "root['owner']": {'new_value': 'Amazon |Bring back the TV show of heroes! launch_date = ', 'old_value': 'Amazon'}}}
+402: {'values_changed': {"root['content_license']": {'new_value': 'Copyright ', 'old_value': 'Proprietary '}}}
+457: {'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'Md Shohag Hossain'}}}
+458: {'values_changed': {"root['name']": {'new_value': 'Md Shohag Hossain', 'old_value': 'IMDb'}}}
+459: {'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'Md Shohag Hossain'}}}
+460: {'values_changed': {"root['name']": {'new_value': 'Md Shohag Hossain', 'old_value': 'IMDb'}}}
+485: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot', "root['content_license']": 'Proprietary '}, 'dictionary_item_removed': {"root['editor']": 'Me'}, 'values_changed': {"root['name']": {'new_value': 'IMDb', 'old_value': 'The Peanut Butter & Jelly Show'}, "root['owner']": {'new_value': 'Amazon', 'old_value': 'Me'}, "root['subsidiaries']": {'new_value': 'Box Office Mojo ', 'old_value': "SpongeBob SquarePants, Wow! Wow! Wubbzy!, Chloe's Closet "}}}
+486: {'dictionary_item_added': {"root['editor']": 'Me'}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['content_license']": 'Proprietary '}, 'values_changed': {"root['name']": {'new_value': 'The Peanut Butter & Jelly Show', 'old_value': 'IMDb'}, "root['owner']": {'new_value': 'Me', 'old_value': 'Amazon'}, "root['subsidiaries']": {'new_value': "SpongeBob SquarePants, Wow! Wow! Wubbzy!, Chloe's Closet ", 'old_value': 'Box Office Mojo '}}}

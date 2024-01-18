@@ -1,0 +1,10 @@
+7: {'dictionary_item_removed': {"root['name']": 'Pink News', "root['slogan']": "Europe's largest gay news service", "root['alexa']": '12|21|a'}}
+33: {'values_changed': {"root['slogan']": {'new_value': "Europe's largest gay news service", 'old_value': "Europe's Largest Gay News Service"}}}
+35: {'dictionary_item_removed': {"root['editor']": 'Stephen Gray'}}
+36: {'values_changed': {"root['alexa']": {'new_value': '12|21|a', 'old_value': '04|01|a'}}}
+54: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray', 'old_value': 'Stephen Gray, Tony Grew, Jessica Geen, Marc Shoffman, Benjamin Cohen, Rachel Charman, Christopher Brocklebank'}}}
+55: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray, Tony Grew, Jessica Geen, Marc Shoffman, Benjamin Cohen, Rachel Charman, Christopher Brocklebank', 'old_value': 'Stephen Gray, Jessica Geen, Jessica Geen, Marc Shoffman, Benjamin Cohen,'}}}
+56: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray, Jessica Geen, Jessica Geen, Marc Shoffman, Benjamin Cohen,', 'old_value': 'Stephen Gray, Jessica Geen, Marc Shoffman, Benjamin Cohen,'}}}
+61: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray, Jessica Geen, Marc Shoffman, Benjamin Cohen,', 'old_value': 'Stephen Gray, Jessica Geen, Tony Grew, Marc Shoffman, Benjamin Cohen,'}}}
+62: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray, Jessica Geen, Tony Grew, Marc Shoffman, Benjamin Cohen,', 'old_value': 'Stephen Gray, Jessica Geen, Tony Grew, Marc Shoffman, Benjamin Cohen, James Park'}}}
+63: {'values_changed': {"root['editor']": {'new_value': 'Stephen Gray, Jessica Geen, Tony Grew, Marc Shoffman, Benjamin Cohen, James Park', 'old_value': 'Stephen Gray, Jessica Geen, Tony Grew, Marc Shoffman, Benjamin Cohen'}}}

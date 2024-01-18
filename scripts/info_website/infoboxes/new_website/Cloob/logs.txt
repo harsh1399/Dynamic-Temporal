@@ -1,0 +1,6 @@
+3: {'dictionary_item_removed': {"root['name']": 'Cloob', "root['location']": 'Tehran, Iran'}}
+7: {'dictionary_item_removed': {"root['owner']": 'Cloob.com'}}
+40: {'dictionary_item_added': {"root['location']": 'Tehran, Iran', "root['owner']": 'Cloob.com'}, 'dictionary_item_removed': {"root['slogan']": 'cloob dot com : virtual society of Iranians all across the world'}}
+48: {'dictionary_item_added': {"root['slogan']": 'cloob dot com : virtual society of Iranians all across the world'}, 'dictionary_item_removed': {"root['owner']": 'SabaIdea'}}
+51: {'values_changed': {"root['owner']": {'new_value': 'SabaIdea', 'old_value': 'jelliSabaIdea'}}}
+52: {'values_changed': {"root['owner']": {'new_value': 'jelliSabaIdea', 'old_value': 'SabaIdea'}}}

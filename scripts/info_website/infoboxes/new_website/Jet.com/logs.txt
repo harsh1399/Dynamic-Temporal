@@ -1,0 +1,21 @@
+1: {'dictionary_item_removed': {"root['name']": 'Jet.com', "root['CEO']": 'Marc Lore', "root['num_employees']": '101-250 (August, 2015) '}}
+24: {'values_changed': {"root['num_employees']": {'new_value': '101-250 (August, 2015) ', 'old_value': '501-1000 (January, 2015) '}}}
+31: {'values_changed': {"root['num_employees']": {'new_value': '501-1000 (January, 2015) ', 'old_value': '1000-1499 (January, 2015) '}}}
+32: {'values_changed': {"root['num_employees']": {'new_value': '1000-1499 (January, 2015) ', 'old_value': '1000-1499 (February, 2016) '}}}
+50: {'values_changed': {"root['name']": {'new_value': 'Jet.com', 'old_value': 'Mega poopy'}}}
+51: {'values_changed': {"root['name']": {'new_value': 'Mega poopy', 'old_value': 'Jet.com'}}}
+83: {'values_changed': {"root['num_employees']": {'new_value': '1000-1499 (February, 2016) ', 'old_value': '1000–5000 (July 2016) '}}}
+128: {'dictionary_item_removed': {"root['owner']": 'Walmart Corporation', "root['valuation']": '$3.3 Billion (August 2016)<ref name'}}
+134: {'values_changed': {"root['owner']": {'new_value': 'Walmart Corporation', 'old_value': 'privately held'}}}
+136: {'dictionary_item_added': {"root['owner']": 'privately held'}, 'values_changed': {"root['num_employees']": {'new_value': '1000–5000 (July 2016) ', 'old_value': '1000–5000  (August 2016)  '}}}
+137: {'dictionary_item_removed': {"root['owner']": 'Walmart Corporation'}, 'values_changed': {"root['num_employees']": {'new_value': '1000–5000  (August 2016)  ', 'old_value': '1000–5000 (July 2016) '}}}
+142: {'dictionary_item_added': {"root['owner']": 'Walmart Corporation'}, 'values_changed': {"root['num_employees']": {'new_value': '1000–5000 (July 2016) ', 'old_value': '1,000–5,000 (July 2016) '}}}
+143: {'dictionary_item_added': {"root['valuation']": '$3.3 Billion (August 2016)<ref name'}, 'values_changed': {"root['num_employees']": {'new_value': '1,000–5,000 (July 2016) ', 'old_value': '1,000–5,000 (July 2016)<ref name'}}}
+145: {'dictionary_item_removed': {"root['owner']": 'Walmart'}}
+162: {'dictionary_item_added': {"root['CEO']": 'Marc Lore', "root['owner']": 'Walmart'}, 'dictionary_item_removed': {"root['key_people']": 'Marc Lore (President,  CEO of Wal-Mart e-commerce)'}}
+163: {'values_changed': {"root['key_people']": {'new_value': 'Marc Lore (President,  CEO of Wal-Mart e-commerce)', 'old_value': 'Marc Lore (President,  CEO of Wal-Mart e-Commerce)'}}}
+164: {'values_changed': {"root['key_people']": {'new_value': 'Marc Lore (President,  CEO of Wal-Mart e-Commerce)', 'old_value': 'Marc Lore (President,  CEO of Wal-Mart Global e-Commerce, USA)'}}}
+165: {'values_changed': {"root['key_people']": {'new_value': 'Marc Lore (President,  CEO of Wal-Mart Global e-Commerce, USA)', 'old_value': 'Marc Lore, (President,  CEO of Wal-Mart Global e-Commerce, USA)'}}}
+168: {'dictionary_item_removed': {"root['owner']": 'Walmart '}, 'values_changed': {"root['num_employees']": {'new_value': '1,000–5,000 (July 2016)<ref name', 'old_value': '1,000–5,000 (July 2016) '}}}
+189: {'dictionary_item_removed': {"root['collapsetext']": 'Screenshot'}}
+220: {'dictionary_item_added': {"root['num_employees']": '1,000–5,000 (July 2016) ', "root['owner']": 'Walmart '}, 'dictionary_item_removed': {"root['employees']": '1,000–5,000 (July 2016) '}, 'values_changed': {"root['key_people']": {'new_value': 'Marc Lore, (President,  CEO of Wal-Mart Global e-Commerce, USA)', 'old_value': 'Marc Lore, (President, CEO of Wal-Mart Global e-Commerce, USA)'}}}

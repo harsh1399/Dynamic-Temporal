@@ -1,0 +1,19 @@
+60: {'dictionary_item_removed': {"root['name']": 'Mininova'}}
+63: {'dictionary_item_removed': {"root['owner']": 'Mininova B.V.'}}
+84: {'dictionary_item_added': {"root['name']": 'Mininova', "root['owner']": 'Mininova B.V.'}, 'dictionary_item_removed': {"root['company_name']": 'Mininova B.V.', "root['foundation']": '2005', "root['location']": 'Netherlands', "root['revenue']": 'Undisclosed', "root['num_employees']": '5', "root['alexa']": '53', "root['website_type']": 'torrent directory and search engine'}}
+91: {'values_changed': {"root['location']": {'new_value': 'Netherlands', 'old_value': 'North pole'}}}
+92: {'values_changed': {"root['location']": {'new_value': 'North pole', 'old_value': 'Netherlands'}}}
+115: {'values_changed': {"root['revenue']": {'new_value': 'Undisclosed', 'old_value': '€1 million'}}}
+116: {'values_changed': {"root['company_name']": {'new_value': 'Mininova B.V.', 'old_value': 'Mininova'}}}
+117: {'values_changed': {"root['alexa']": {'new_value': '53', 'old_value': '#53'}}}
+118: {'values_changed': {"root['company_name']": {'new_value': 'Mininova', 'old_value': 'Mininova B.V.'}}}
+129: {'dictionary_item_removed': {"root['work']": 'TorrentFreak TV S01E07', "root['date']": '2009-03-23', "root['accessdate']": '||'}, 'values_changed': {"root['revenue']": {'new_value': '€1 million', 'old_value': '€1 million in 2007 (before taxes and expenses)'}}}
+146: {'values_changed': {"root['alexa']": {'new_value': '#53', 'old_value': '#94'}}}
+153: {'values_changed': {"root['revenue']": {'new_value': '€1 million in 2007 (before taxes and expenses)', 'old_value': '€1.1 million in 2007 (before taxes and expenses)'}}}
+184: {'values_changed': {"root['alexa']": {'new_value': '#94', 'old_value': '#33'}}}
+203: {'values_changed': {"root['alexa']": {'new_value': '#33', 'old_value': '#90'}}}
+239: {'values_changed': {"root['alexa']": {'new_value': '#90', 'old_value': '#92'}}}
+258: {'values_changed': {"root['alexa']": {'new_value': '#92', 'old_value': ',#92'}}}
+259: {'values_changed': {"root['alexa']": {'new_value': ',#92', 'old_value': '#92'}}}
+262: {'values_changed': {"root['alexa']": {'new_value': '#92', 'old_value': '#114'}}}
+263: {'dictionary_item_added': {"root['company_name']": 'Mininova B.V.', "root['foundation']": '2005', "root['work']": 'TorrentFreak TV S01E07', "root['alexa']": '#114'}, 'dictionary_item_removed': {"root['name']": 'Mininova B.V.'}, 'values_changed': {"root['date']": {'new_value': '2009-03-23', 'old_value': '2005|1 | founder          =  | location_city    =  | location_country =  | location         = Netherlands | locations        =  | area_served      =  | key_people       =  | industry         =  | products         =  | services         =  | revenue          = €1.1 million in 2007 (before taxes and expenses) ||'}}}

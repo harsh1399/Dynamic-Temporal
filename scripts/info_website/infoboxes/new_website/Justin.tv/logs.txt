@@ -1,0 +1,8 @@
+283: {'dictionary_item_removed': {"root['name']": 'Justin.tv, Inc.', "root['owner']": 'Twitch Interactive(called Justin.tv, Inc until February 2014)  launch date    = ', "root['slogan']": '"Streaming live video broadcasts for Everyone"', "root['alexa']": '12|1|a'}}
+286: {'values_changed': {"root['alexa']": {'new_value': '12|1|a', 'old_value': '3|1|a'}}}
+289: {'values_changed': {"root['alexa']": {'new_value': '3|1|a', 'old_value': '4|1|a'}}}
+291: {'values_changed': {"root['owner']": {'new_value': 'Twitch Interactive(called Justin.tv, Inc until February 2014)  launch date    = ', 'old_value': 'Twitch Interactive (called Justin.tv, Inc until February 2014)  launch date    = '}}}
+295: {'values_changed': {"root['name']": {'new_value': 'Justin.tv, Inc.', 'old_value': 'Justin.tv'}, "root['owner']": {'new_value': 'Twitch Interactive (called Justin.tv, Inc until February 2014)  launch date    = ', 'old_value': 'Justin.tv | launch date    =  current status = Acti'}}}
+299: {'values_changed': {"root['name']": {'new_value': 'Justin.tv', 'old_value': 'Justin.tv, Inc.'}, "root['owner']": {'new_value': 'Justin.tv | launch date    =  current status = Acti', 'old_value': 'Twitch Interactive (called Justin.tv, Inc until February 2014)  launch date    = '}}}
+320: {'values_changed': {"root['owner']": {'new_value': 'Twitch Interactive (called Justin.tv, Inc until February 2014)  launch date    = ', 'old_value': 'Justin.tv | launch date    =  end date = August 5th, 2014 | current status = Shutdown 2014-08-'}}}
+321: {'values_changed': {"root['owner']": {'new_value': 'Justin.tv | launch date    =  end date = August 5th, 2014 | current status = Shutdown 2014-08-', 'old_value': 'Twitch Interactive (called Justin.tv, Inc until February 2014)  launch date    = '}}}

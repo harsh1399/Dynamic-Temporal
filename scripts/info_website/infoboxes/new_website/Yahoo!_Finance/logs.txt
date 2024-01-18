@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! Finance', "root['owner']": 'Yahoo!', "root['editor']": 'Aaron Task   |launch date    =  |current status = Active'}}
+1: {'dictionary_item_removed': {"root['genre']": 'Financial News and Data', "root['website_type']": 'News & Entertainment'}, 'values_changed': {"root['editor']": {'new_value': 'Aaron Task   |launch date    =  |current status = Active', 'old_value': 'Andrew Serwer'}}}
+25: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'ANTHONY Vela Modesto'}, "root['editor']": {'new_value': 'Andrew Serwer', 'old_value': 'ANTHONY Vela'}}}
+26: {'values_changed': {"root['owner']": {'new_value': 'ANTHONY Vela Modesto', 'old_value': 'Yahoo!'}, "root['editor']": {'new_value': 'ANTHONY Vela', 'old_value': 'Andrew Serwer'}}}
+30: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Oath, (Verizon)'}}}
+34: {'values_changed': {"root['owner']": {'new_value': 'Oath, (Verizon)', 'old_value': 'Yahoo! Holdings, (Oath Inc.)'}}}
+36: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Holdings, (Oath Inc.)', 'old_value': 'Oath Inc., (Verizon Communications)'}}}
+54: {'dictionary_item_added': {"root['genre']": 'Financial News and Data'}, 'values_changed': {"root['owner']": {'new_value': 'Oath Inc., (Verizon Communications)', 'old_value': 'Verizon Media'}}}
+55: {'dictionary_item_removed': {"root['key_people']": 'Joanna Lambert, General Manager (2018–present)'}}
+63: {'values_changed': {"root['owner']": {'new_value': 'Verizon Media', 'old_value': 'Yahoo, Inc.'}}}

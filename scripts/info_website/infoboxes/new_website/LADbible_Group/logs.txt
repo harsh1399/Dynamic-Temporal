@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['name']": 'LADbible', "root['owner']": 'The LADbible Group Ltd', "root['employees']": '120 (January 2017)', "root['key_people']": 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (Director)', "root['website_type']": 'News and Entertainment'}}
+10: {'values_changed': {"root['name']": {'new_value': 'LADbible', 'old_value': 'BULLSHITbible'}}}
+11: {'values_changed': {"root['name']": {'new_value': 'BULLSHITbible', 'old_value': 'LADbible'}}}
+14: {'values_changed': {"root['employees']": {'new_value': '120 (January 2017)', 'old_value': '450 (August 2021)'}}}
+17: {'values_changed': {"root['owner']": {'new_value': 'The LADbible Group Ltd', 'old_value': 'LADbible Group Limited'}}}
+24: {'values_changed': {"root['employees']": {'new_value': '450 (August 2021)', 'old_value': '450 Absolute Plums'}}}
+25: {'values_changed': {"root['employees']": {'new_value': '450 Absolute Plums', 'old_value': '450 (August 2021)'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'LADbible', 'old_value': 'LADbible Group'}, "root['owner']": {'new_value': 'LADbible Group Limited', 'old_value': 'LBG Media plc'}, "root['key_people']": {'new_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (Director)', 'old_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (co-founder and COO)'}}}
+34: {'values_changed': {"root['name']": {'new_value': 'LADbible Group', 'old_value': 'LADbible'}, "root['owner']": {'new_value': 'LBG Media plc', 'old_value': 'LADbible Group Limited'}, "root['key_people']": {'new_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (co-founder and COO)', 'old_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (Director)'}}}
+35: {'values_changed': {"root['name']": {'new_value': 'LADbible', 'old_value': 'LADbible Group'}}}
+37: {'values_changed': {"root['owner']": {'new_value': 'LADbible Group Limited', 'old_value': 'LBG Media plc'}, "root['employees']": {'new_value': '450 (August 2021)', 'old_value': '360 (December 2021)'}}}
+39: {'dictionary_item_added': {"root['website_type']": 'News and Entertainment'}, 'values_changed': {"root['key_people']": {'new_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (Director)', 'old_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (COO)'}}}
+41: {'values_changed': {"root['key_people']": {'new_value': 'Alexander Solomou  (co-founder and CEO) , Arian Kalantari  (COO)', 'old_value': 'Alexander Solomou (co-founder and CEO), Arian Kalantari (COO)'}}}
+43: {'values_changed': {"root['employees']": {'new_value': '360 (December 2021)', 'old_value': '450 (December 2021)'}}}
+48: {'values_changed': {"root['key_people']": {'new_value': 'Alexander Solomou (co-founder and CEO), Arian Kalantari (COO)', 'old_value': 'Alexander Solomou (co-founder and CEO) Arian Kalantari (COO)'}}}

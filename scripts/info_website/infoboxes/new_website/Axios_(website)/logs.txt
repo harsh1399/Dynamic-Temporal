@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['name']": 'AXIOS Media', "root['key_people']": 'Jim VandeHei (founder), Mike Allen (founder)'}}
+22: {'dictionary_item_removed': {"root['owner']": 'AXIOS Media', "root['logocaption']": 'The logo of AXIOS | content license'}, 'values_changed': {"root['name']": {'new_value': 'AXIOS Media', 'old_value': "''AXIOS''"}}}
+27: {'values_changed': {"root['name']": {'new_value': "''AXIOS''", 'old_value': "''AXIOS'' which is very fake news!!!"}}}
+28: {'values_changed': {"root['name']": {'new_value': "''AXIOS'' which is very fake news!!!", 'old_value': "''AXIOS''"}}}
+30: {'values_changed': {"root['name']": {'new_value': "''AXIOS''", 'old_value': "''Axios''"}, "root['owner']": {'new_value': 'AXIOS Media', 'old_value': 'Axios Media'}, "root['logocaption']": {'new_value': 'The logo of AXIOS | content license', 'old_value': 'Axios logo | content license'}}}
+34: {'values_changed': {"root['key_people']": {'new_value': 'Jim VandeHei (founder), Mike Allen (founder)', 'old_value': 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy Schwartz (founder and president)'}}}
+38: {'values_changed': {"root['key_people']": {'new_value': 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy Schwartz (founder and president)', 'old_value': 'Roy Schwartz (founder and president)'}}}
+39: {'values_changed': {"root['key_people']": {'new_value': 'Roy Schwartz (founder and president)', 'old_value': 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy_Schwartz (founder and president)'}}}
+42: {'values_changed': {"root['key_people']": {'new_value': 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy_Schwartz (founder and president)', 'old_value': 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy Schwartz (founder and president)'}}}
+63: {'dictionary_item_added': {"root['key_people']": 'Jim VandeHei (founder and CEO), Mike Allen (founder and executive editor), Roy Schwartz (founder and president)', "root['logocaption']": 'Axios logo | content license'}, 'values_changed': {"root['owner']": {'new_value': 'Axios Media', 'old_value': 'Axios Media Inc.'}}}
+167: {'dictionary_item_removed': {"root['employees']": '60 (as of 2017)'}}
+172: {'values_changed': {"root['owner']": {'new_value': 'Axios Media Inc.', 'old_value': 'Cox Enterprises'}}}
+177: {'values_changed': {"root['employees']": {'new_value': '60 (as of 2017)', 'old_value': '500 (2022)'}}}

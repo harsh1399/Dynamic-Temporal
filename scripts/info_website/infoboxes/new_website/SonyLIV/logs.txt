@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['name']": 'SonyLIV', "root['collapsetext']": 'Screenshot', "root['owner']": 'Sony Pictures Networks India', "root['country']": 'India', "root['website_type']": 'Video on demand', "root['services']": 'On-demand video streaming', "root['key_people']": 'Uday Sodhi', "root['alexa']": '03|15|a'}}
+8: {'values_changed': {"root['key_people']": {'new_value': 'Uday Sodhi', 'old_value': 'Danish K.'}}}
+9: {'values_changed': {"root['key_people']": {'new_value': 'Danish K.', 'old_value': 'Danish K'}}}
+23: {'values_changed': {"root['website_type']": {'new_value': 'Video on demand', 'old_value': 'Video On Demand'}}}
+55: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot'}, 'dictionary_item_removed': {"root['area_served']": "'''Premium membership'''   "}}
+62: {'values_changed': {"root['area_served']": {'new_value': "'''Premium membership'''   ", 'old_value': "'''Worldwide'''   "}}}
+63: {'values_changed': {"root['area_served']": {'new_value': "'''Worldwide'''   ", 'old_value': "'''Worldwide Except:'''   "}}}
+64: {'values_changed': {"root['area_served']": {'new_value': "'''Worldwide Except:'''   ", 'old_value': "'''Worldwide, Except:'''   "}}}
+66: {'values_changed': {"root['services']": {'new_value': 'On-demand video streaming', 'old_value': 'Video On Demand Streaming'}}}
+67: {'values_changed': {"root['services']": {'new_value': 'Video On Demand Streaming', 'old_value': 'Live TV and Video On Demand Streaming'}}}
+76: {'dictionary_item_removed': {"root['slogan']": 'We Liv to Entertain'}}
+81: {'dictionary_item_added': {"root['slogan']": 'We Liv to Entertain'}, 'values_changed': {"root['alexa']": {'new_value': '03|15|a', 'old_value': 'reas'}}}
+82: {'dictionary_item_added': {"root['alexa']": 'reas'}, 'values_changed': {"root['area_served']": {'new_value': "'''Worldwide, Except:'''   ", 'old_value': 'reas'}}}
+83: {'values_changed': {"root['area_served']": {'new_value': 'reas', 'old_value': "'''Worldwide, Except:'''   "}}}
+109: {'dictionary_item_added': {"root['area_served']": "'''Worldwide, Except:'''   "}, 'dictionary_item_removed': {"root['collapsetext']": 'Screenshot', "root['alexa']": '03|15|a'}, 'values_changed': {"root['website_type']": {'new_value': 'Video On Demand', 'old_value': 'Video on demand'}, "root['services']": {'new_value': 'Live TV and Video On Demand Streaming', 'old_value': 'On-demand video streaming'}}}
+111: {'values_changed': {"root['name']": {'new_value': 'SonyLIV', 'old_value': 'SONY LIV'}}}
+113: {'values_changed': {"root['name']": {'new_value': 'SONY LIV', 'old_value': 'SONY Sex player'}}}
+114: {'values_changed': {"root['name']": {'new_value': 'SONY Sex player', 'old_value': 'SONY LIV'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'SONY LIV', 'old_value': 'SONY Sex player'}}}
+116: {'values_changed': {"root['name']": {'new_value': 'SONY Sex player', 'old_value': 'SONY LIV'}}}
+119: {'values_changed': {"root['services']": {'new_value': 'On-demand video streaming', 'old_value': 'On-Demand video streaming'}}}
+130: {'dictionary_item_added': {"root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['alexa']": {'new_value': '03|15|a', 'old_value': '06|34|a'}}}
+153: {'dictionary_item_added': {"root['key_people']": 'Danish K'}, 'values_changed': {"root['country']": {'new_value': 'India', 'old_value': 'Mumbai, India'}}}
+156: {'values_changed': {"root['name']": {'new_value': 'SONY LIV', 'old_value': 'SonyLIV'}}}
+165: {'dictionary_item_removed': {"root['slogan']": 'we liv to entertain'}}
+166: {'values_changed': {"root['slogan']": {'new_value': 'we liv to entertain', 'old_value': 'We Liv To Entertain'}}}
+167: {'dictionary_item_added': {"root['slogan']": 'We Liv To Entertain'}, 'dictionary_item_removed': {"root['key_people']": 'we liv to entertain'}}
+169: {'dictionary_item_added': {"root['key_people']": 'we liv to entertain'}, 'dictionary_item_removed': {"root['slogan']": 'We Liv To Entertain'}}
+171: {'dictionary_item_added': {"root['website_type']": 'Video on demand', "root['services']": 'On-Demand video streaming', "root['slogan']": 'We Liv To Entertain'}, 'dictionary_item_removed': {"root['area_served']": ['India', 'UAE', 'Qatar', 'Kuwait', 'Saudi Arabia', 'Oman', 'Bahrain'], "root['num_users']": '14–20 million (paid) , 70–80 million monthly active users '}, 'values_changed': {"root['alexa']": {'new_value': '06|34|a', 'old_value': '09|22|a'}}}
+214: {'dictionary_item_added': {"root['area_served']": ['India', 'UAE', 'Qatar', 'Kuwait', 'Saudi Arabia', 'Oman', 'Bahrain'], "root['alexa']": '09|22|a'}, 'values_changed': {"root['num_users']": {'new_value': '14–20 million (paid) , 70–80 million monthly active users ', 'old_value': '14–20 million (paid)<ref name'}}}

@@ -1,0 +1,26 @@
+0: {'dictionary_item_removed': {"root['name']": 'Eros Now', "root['owner']": 'Eros International plc', "root['CEO']": 'Rishika Lulla Singh', "root['area_served']": 'Worldwide', "root['num_users']": '1.5 billion', "root['website_type']": 'OTT, Web portal (entertainment, video streaming, video on demand)'}}
+2: {'values_changed': {"root['num_users']": {'new_value': '1.5 billion', 'old_value': '142 million (15.9 million paid)'}}}
+38: {'values_changed': {"root['num_users']": {'new_value': '142 million (15.9 million paid)', 'old_value': '142 million (18.8 million paid)'}}}
+39: {'values_changed': {"root['num_users']": {'new_value': '142 million (18.8 million paid)', 'old_value': '155 million (18.8 million paid)'}}}
+63: {'dictionary_item_added': {"root['website_type']": 'OTT, Web portal (entertainment, video streaming, video on demand)'}, 'dictionary_item_removed': {"root['alexa']": '09|22|a'}}
+67: {'values_changed': {"root['name']": {'new_value': 'Eros Now', 'old_value': 'Eros (porn division) Now'}}}
+69: {'values_changed': {"root['name']": {'new_value': 'Eros (porn division) Now', 'old_value': 'Eros ( division) Now'}}}
+70: {'values_changed': {"root['name']": {'new_value': 'Eros ( division) Now', 'old_value': 'Eros Now'}}}
+73: {'values_changed': {"root['name']": {'new_value': 'Eros Now', 'old_value': 'Eros(soft porn) Now'}}}
+75: {'values_changed': {"root['name']": {'new_value': 'Eros(soft porn) Now', 'old_value': 'Eros(Soft Porn & Islamic Jihad) Now'}}}
+79: {'values_changed': {"root['CEO']": {'new_value': 'Rishika Lulla Singh', 'old_value': 'Ali hassan'}}}
+81: {'values_changed': {"root['CEO']": {'new_value': 'Ali hassan', 'old_value': 'Rishika Lulla Singh'}}}
+84: {'values_changed': {"root['name']": {'new_value': 'Eros(Soft Porn & Islamic Jihad) Now', 'old_value': 'Eros Now'}}}
+88: {'values_changed': {"root['name']": {'new_value': 'Eros Now', 'old_value': 'Eros anti-Hindu Now'}, "root['CEO']": {'new_value': 'Rishika Lulla Singh', 'old_value': 'Rishika Lull Singh'}}}
+89: {'values_changed': {"root['name']": {'new_value': 'Eros anti-Hindu Now', 'old_value': 'Eros Now'}, "root['CEO']": {'new_value': 'Rishika Lull Singh', 'old_value': 'Rishika Lulla Singh'}}}
+91: {'values_changed': {"root['CEO']": {'new_value': 'Rishika Lulla Singh', 'old_value': 'Ali Hussein'}}}
+92: {'values_changed': {"root['area_served']": {'new_value': 'Worldwide', 'old_value': 'Jihad'}}}
+93: {'values_changed': {"root['area_served']": {'new_value': 'Jihad', 'old_value': 'Worldwide'}}}
+110: {'values_changed': {"root['owner']": {'new_value': 'Eros International plc', 'old_value': 'islamic owned Eros International plc'}}}
+111: {'values_changed': {"root['owner']": {'new_value': 'islamic owned Eros International plc', 'old_value': 'Eros International plc'}}}
+113: {'values_changed': {"root['CEO']": {'new_value': 'Ali Hussein', 'old_value': 'Rishika Lulla'}}}
+114: {'values_changed': {"root['name']": {'new_value': 'Eros Now', 'old_value': 'Eros islamic Now'}}}
+115: {'values_changed': {"root['name']": {'new_value': 'Eros islamic Now', 'old_value': 'Eros Now'}}}
+117: {'dictionary_item_removed': {"root['CTO']": 'Lokesh Chauhan'}}
+120: {'dictionary_item_added': {"root['CTO']": 'Lokesh Chauhan'}, 'dictionary_item_removed': {"root['key_people']": 'Lokesh Chauhan (CTO)'}}
+128: {'dictionary_item_added': {"root['alexa']": '09|22|a'}, 'values_changed': {"root['owner']": {'new_value': 'Eros International plc', 'old_value': 'Eros International'}}}

@@ -1,0 +1,16 @@
+3: {'dictionary_item_removed': {"root['name']": 'Amazon Prime'}}
+35: {'dictionary_item_removed': {"root['num_users']": '80 million ', "root['owner']": 'Amazon.com', "root['area_served']": 'International', "root['revenue']": '$6.4 billion (2016)'}}
+77: {'values_changed': {"root['num_users']": {'new_value': '80 million ', 'old_value': '100 million '}}}
+141: {'values_changed': {"root['revenue']": {'new_value': '$6.4 billion (2016)', 'old_value': '$ 14.17 billion (2018)'}}}
+142: {'values_changed': {"root['revenue']": {'new_value': '$ 14.17 billion (2018)', 'old_value': '$14.17 billion (2018)'}}}
+157: {'values_changed': {"root['num_users']": {'new_value': '100 million ', 'old_value': 'million '}}}
+158: {'values_changed': {"root['num_users']": {'new_value': 'million ', 'old_value': '100 million '}}}
+176: {'dictionary_item_added': {"root['num_users']": '100 million '}, 'values_changed': {"root['owner']": {'new_value': 'Amazon.com', 'old_value': 'Amazon'}, "root['revenue']": {'new_value': '$14.17 billion (2018)', 'old_value': '$19.21 billion (2019)'}}}
+284: {'values_changed': {"root['area_served']": {'new_value': 'International', 'old_value': 'International (20 côuntries)'}}}
+287: {'values_changed': {"root['area_served']": {'new_value': 'International (20 côuntries)', 'old_value': 'International'}}}
+294: {'values_changed': {"root['area_served']": {'new_value': 'International', 'old_value': 'International (20 côuntries)'}}}
+296: {'values_changed': {"root['area_served']": {'new_value': 'International (20 côuntries)', 'old_value': 'International'}}}
+361: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime', 'old_value': 'VAIBHAV (PRIME MINISTER)'}}}
+362: {'values_changed': {"root['name']": {'new_value': 'VAIBHAV (PRIME MINISTER)', 'old_value': 'Amazon Prime'}}}
+363: {'values_changed': {"root['name']": {'new_value': 'Amazon Prime', 'old_value': 'Prime Minister of India - Vaibhav'}}}
+364: {'values_changed': {"root['name']": {'new_value': 'Prime Minister of India - Vaibhav', 'old_value': 'Amazon Prime'}}}

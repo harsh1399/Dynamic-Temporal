@@ -1,0 +1,25 @@
+0: {'dictionary_item_removed': {"root['name']": 'Grooveshark', "root['owner']": 'Escape Media Group Inc.', "root['alexa']": '04|11|a'}}
+21: {'dictionary_item_removed': {"root['Founded']": '2007-2015 | current status = Inactive'}}
+23: {'dictionary_item_added': {"root['Founded']": '2007-2015 | current status = Inactive'}, 'dictionary_item_removed': {"root['released']": '2007 | latest release version = 2007/2015', "root['discontinued']": 'yes | current status = Inactive'}}
+67: {'dictionary_item_added': {"root['released']": '2007 | latest release version = 2007/2015', "root['discontinued']": 'yes | current status = Inactive', "root['alexa']": '04|11|a'}, 'values_changed': {"root['name']": {'new_value': 'Grooveshark', 'old_value': 'GROOVESHARK (OUT OF BUISNESS NOW)'}}}
+68: {'values_changed': {"root['name']": {'new_value': 'GROOVESHARK (OUT OF BUISNESS NOW)', 'old_value': 'Grooveshark'}}}
+87: {'dictionary_item_removed': {"root['URL']": 'http://www.grooveshark.io/ | current status = Available (as of May 05, 2015)'}}
+92: {'values_changed': {"root['URL']": {'new_value': 'http://www.grooveshark.io/ | current status = Available (as of May 05, 2015)', 'old_value': '| current status = Officially Defunct, Possibly Relaunched (as of May 05, 2015)'}}}
+97: {'dictionary_item_added': {"root['URL']": '| current status = Officially Defunct, Possibly Relaunched (as of May 05, 2015)'}, 'dictionary_item_removed': {"root['authors']": 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto'}}
+178: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto', 'old_value': 'Sam Tarantino ,  Josh Greenberg (d. 2015),  Andrés Barreto'}}}
+179: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg (d. 2015),  Andrés Barreto', 'old_value': 'Sam Tarantino ,  Josh Greenberg (b. 1976 - d. 2015),  Andrés Barreto'}}}
+180: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg (b. 1976 - d. 2015),  Andrés Barreto', 'old_value': 'Sam Tarantino ,  Josh Greenberg (b. 1986 - d. 2015),  Andrés Barreto'}}}
+185: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg (b. 1986 - d. 2015),  Andrés Barreto', 'old_value': 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto'}}}
+186: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto', 'old_value': 'Sam Tarantino, Josh Greenberg (died 2015),  Andrés Barreto'}}}
+187: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino, Josh Greenberg (died 2015),  Andrés Barreto', 'old_value': 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto'}}}
+188: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino ,  Josh Greenberg ,  Andrés Barreto', 'old_value': 'Sam Tarantino, Josh Greenberg (died 2015),  Andrés Barreto'}}}
+190: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino, Josh Greenberg (died 2015),  Andrés Barreto', 'old_value': 'Sam Tarantino, Josh Greenberg ,  Andrés Barreto'}}}
+228: {'dictionary_item_removed': {"root['num_users']": '3.2 million'}, 'values_changed': {"root['owner']": {'new_value': 'Escape Media Group Inc.', 'old_value': 'gs_forever'}}}
+230: {'dictionary_item_added': {"root['num_users']": '3.2 million'}, 'values_changed': {"root['owner']": {'new_value': 'gs_forever', 'old_value': 'Escape Media Group Inc.'}}}
+233: {'dictionary_item_removed': {"root['num_users']": '3.2 million'}, 'values_changed': {"root['owner']": {'new_value': 'Escape Media Group Inc.', 'old_value': 'gs_forever'}}}
+234: {'dictionary_item_added': {"root['num_users']": '3.2 million'}, 'values_changed': {"root['owner']": {'new_value': 'gs_forever', 'old_value': 'Escape Media Group Inc.'}}}
+238: {'values_changed': {"root['name']": {'new_value': 'Grooveshark', 'old_value': 'scooby doo loo'}}}
+239: {'values_changed': {"root['name']": {'new_value': 'scooby doo loo', 'old_value': 'my name is freaky'}}}
+240: {'values_changed': {"root['name']": {'new_value': 'my name is freaky', 'old_value': 'Grooveshark'}}}
+262: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino, Josh Greenberg ,  Andrés Barreto', 'old_value': 'Sam Tarantino, Josh Greenberg ,  Andrés Barreto '}}}
+263: {'values_changed': {"root['authors']": {'new_value': 'Sam Tarantino, Josh Greenberg ,  Andrés Barreto ', 'old_value': 'Sam Tarantino, Josh Greenberg ,  Andrés Barreto'}}}

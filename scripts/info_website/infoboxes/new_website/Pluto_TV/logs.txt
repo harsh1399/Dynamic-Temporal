@@ -1,0 +1,28 @@
+23: {'dictionary_item_removed': {"root['name']": 'Pluto TV', "root['hq_location_city']": 'Los Angeles, California', "root['hq_location_country']": 'United States', "root['owner']": 'Viacom'}}
+25: {'dictionary_item_removed': {"root['founders']": 'Tom Ryan, Ilya Pozin'}}
+46: {'values_changed': {"root['founders']": {'new_value': 'Tom Ryan, Ilya Pozin', 'old_value': 'Tom Ryan   Ilya Pozin'}}}
+49: {'values_changed': {"root['founders']": {'new_value': 'Tom Ryan   Ilya Pozin', 'old_value': 'Tom Ryan ,  Ilya Pozin'}}}
+355: {'dictionary_item_added': {"root['founders']": 'Tom Ryan ,  Ilya Pozin', "root['owner']": 'Viacom'}, 'dictionary_item_removed': {"root['area_served']": 'United States, Puerto Rico, Europe', "root['key_people']": 'Tom Ryan ', "root['services']": 'OTT Internet television', "root['slogan']": "''It's Free TV.''"}}
+373: {'dictionary_item_added': {"root['hq_location_city']": 'Los Angeles, California', "root['slogan']": "''It's Free TV.''"}, 'dictionary_item_removed': {"root['hq_location']": 'Los Angeles, California '}}
+380: {'dictionary_item_added': {"root['hq_location_country']": 'United States'}, 'dictionary_item_removed': {"root['founders']": 'Tom Ryan, Ilya Pozin, Nick Grouf'}}
+385: {'values_changed': {"root['hq_location']": {'new_value': 'Los Angeles, California ', 'old_value': 'Los Angeles, California, '}}}
+388: {'values_changed': {"root['hq_location']": {'new_value': 'Los Angeles, California, ', 'old_value': 'Los Angeles, California,, New York City, New York,, Silicon, '}}}
+389: {'values_changed': {"root['hq_location']": {'new_value': 'Los Angeles, California,, New York City, New York,, Silicon, ', 'old_value': 'Los Angeles, California,, New York City, New York, '}}}
+447: {'dictionary_item_removed': {"root['owner']": 'Pluto, Inc.'}}
+514: {'values_changed': {"root['owner']": {'new_value': 'Pluto, Inc.', 'old_value': 'Pluto Inc.'}}}
+528: {'values_changed': {"root['name']": {'new_value': 'Pluto TV', 'old_value': 'Pluto TV R1'}}}
+529: {'values_changed': {"root['name']": {'new_value': 'Pluto TV R1', 'old_value': 'Pluto TV'}}}
+530: {'dictionary_item_removed': {"root['former_name']": 'PIUTO TV 2013-20'}}
+542: {'dictionary_item_added': {"root['former_name']": 'PIUTO TV 2013-20'}, 'dictionary_item_removed': {"root['slogan']": "''Drop In. It’s Free.''"}}
+549: {'dictionary_item_added': {"root['slogan']": "''Drop In. It’s Free.''"}, 'values_changed': {"root['hq_location']": {'new_value': 'Los Angeles, California,, New York City, New York, ', 'old_value': 'Los Angeles, California,, New York City, New York, (U.S. operations);, Berlin, Germany, (European operations)'}, "root['key_people']": {'new_value': 'Tom Ryan ', 'old_value': 'Tom Ryan (President/CEO);, Ilya Pozin (Chief Growth Officer);,  Mike Drath (Co-COO/CFO);, Christof Wahl (Co-COO);, Jeff Shultz (CBO);, Kenneth Parks, (Executive Chairman);  , Robert Magdlen, (Chief Programming Officer);, Olivier Jollet, (Managing Director, Pluto TV Europe)'}}}
+552: {'values_changed': {"root['services']": {'new_value': 'OTT Internet television', 'old_value': 'internet television sponsored by commercials'}}}
+556: {'dictionary_item_added': {"root['founders']": 'Tom Ryan, Ilya Pozin, Nick Grouf', "root['hq_location']": 'Los Angeles, California,, New York City, New York, (U.S. operations);, Berlin, Germany, (European operations)', "root['area_served']": 'United States, Puerto Rico, Europe', "root['key_people']": 'Tom Ryan (President/CEO);, Ilya Pozin (Chief Growth Officer);,  Mike Drath (Co-COO/CFO);, Christof Wahl (Co-COO);, Jeff Shultz (CBO);, Kenneth Parks, (Executive Chairman);  , Robert Magdlen, (Chief Programming Officer);, Olivier Jollet, (Managing Director, Pluto TV Europe)', "root['owner']": 'Pluto Inc.'}, 'dictionary_item_removed': {"root['trade_name']": 'Pluto TV'}, 'values_changed': {"root['name']": {'new_value': 'Pluto TV', 'old_value': 'Pluto Inc.'}}}
+571: {'dictionary_item_added': {"root['trade_name']": 'Pluto TV', "root['services']": 'internet television sponsored by commercials'}, 'values_changed': {"root['name']": {'new_value': 'Pluto Inc.', 'old_value': 'Pluto TV'}}}
+577: {'values_changed': {"root['name']": {'new_value': 'Pluto TV', 'old_value': 'Pluto Inc.'}}}
+580: {'dictionary_item_removed': {"root['owner']": 'Pluto Inc.'}, 'values_changed': {"root['name']": {'new_value': 'Pluto Inc.', 'old_value': 'Pluto TV'}}}
+604: {'dictionary_item_removed': {"root['location']": 'Los Angeles, California, U.S. '}}
+684: {'dictionary_item_added': {"root['location']": 'Los Angeles, California, U.S. '}, 'values_changed': {"root['name']": {'new_value': 'Pluto TV', 'old_value': 'Pluto Inc.'}, "root['owner']": {'new_value': 'Pluto Inc.', 'old_value': 'ViacomCBS'}}}
+701: {'dictionary_item_added': {"root['owner']": 'ViacomCBS'}, 'dictionary_item_removed': {"root['slogan']": "'' Drop in. It’s free.''"}}
+782: {'dictionary_item_added': {"root['slogan']": "'' Drop in. It’s free.''"}, 'values_changed': {"root['name']": {'new_value': 'Pluto Inc.', 'old_value': 'Pluto TV'}}}
+787: {'dictionary_item_removed': {"root['owner']": 'Independent (2013–2019), Viacom (2019), Paramount Global (2019–present)'}}
+799: {'values_changed': {"root['owner']": {'new_value': 'Independent (2013–2019), Viacom (2019), Paramount Global (2019–present)', 'old_value': 'Independent (2013–2019), Paramount Global (2019–present)'}}}

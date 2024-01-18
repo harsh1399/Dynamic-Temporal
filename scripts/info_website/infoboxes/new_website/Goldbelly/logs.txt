@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Goldbely Inc.', "root['foundation']": '2013', "root['location']": 'San Francisco', "root['area_served']": 'United States', "root['num_employees']": '20', "root['website_type']": 'Online marketplace', "root['intl']": '| native clients'}}
+1: {'values_changed': {"root['name']": {'new_value': 'Goldbely Inc.', 'old_value': 'Goldbelly Inc.'}}}
+2: {'values_changed': {"root['location']": {'new_value': 'San Francisco', 'old_value': 'New York City'}, "root['num_employees']": {'new_value': '20', 'old_value': '40+'}}}
+7: {'values_changed': {"root['name']": {'new_value': 'Goldbelly Inc.', 'old_value': 'Goldbely Inc.'}, "root['location']": {'new_value': 'New York City', 'old_value': 'San Francisco'}, "root['num_employees']": {'new_value': '40+', 'old_value': '20'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Goldbely Inc.', 'old_value': 'Goldbelly, Inc.'}}}
+11: {'dictionary_item_removed': {"root['CEO']": 'Joe Ariel'}, 'values_changed': {"root['location']": {'new_value': 'San Francisco', 'old_value': 'New York City'}}}
+20: {'dictionary_item_added': {"root['CEO']": 'Joe Ariel', "root['intl']": '| native clients'}, 'values_changed': {"root['location']": {'new_value': 'New York City', 'old_value': 'New York, New York, United States | country of origin ='}}}

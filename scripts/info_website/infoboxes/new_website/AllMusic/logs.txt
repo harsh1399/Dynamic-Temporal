@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['alexa']": '2,680 (', "root['owner']": 'All Media Guide (Rovi)', "root['slogan']": 'Music Search, Recommendations, Videos and Reviews '}}
+2: {'values_changed': {"root['alexa']": {'new_value': '2,680 (', 'old_value': '2,670 ('}}}
+13: {'dictionary_item_added': {"root['alexa']": '2,670 ('}, 'dictionary_item_removed': {"root['name']": 'Allmusic'}}
+26: {'values_changed': {"root['name']": {'new_value': 'Allmusic', 'old_value': 'AllMusic'}}}
+109: {'dictionary_item_added': {"root['slogan']": 'Music Search, Recommendations, Videos and Reviews '}, 'dictionary_item_removed': {"root['logocaption']": "AllMusic's logotype and logo ", "root['content_license']": '| programming language=', "root['editor']": '| launch date         = 1991', "root['ip']": '| current status      = Online'}, 'values_changed': {"root['owner']": {'new_value': 'All Media Guide (Rovi)', 'old_value': 'All Media Network, LLC '}}}
+124: {'values_changed': {"root['name']": {'new_value': 'AllMusic', 'old_value': 'AllMehusic'}}}
+125: {'values_changed': {"root['logocaption']": {'new_value': "AllMusic's logotype and logo ", 'old_value': "AllMehusic's logotype and logo "}}}
+126: {'values_changed': {"root['name']": {'new_value': 'AllMehusic', 'old_value': 'AllMusic'}, "root['logocaption']": {'new_value': "AllMehusic's logotype and logo ", 'old_value': "AllMusic's logotype and logo "}}}
+147: {'values_changed': {"root['name']": {'new_value': 'AllMusic', 'old_value': 'AllMusic LA COME'}}}
+148: {'values_changed': {"root['name']": {'new_value': 'AllMusic LA COME', 'old_value': 'AllMusic'}}}
+149: {'values_changed': {"root['editor']": {'new_value': '| launch date         = 1991', 'old_value': '| launch date         = '}}}
+151: {'dictionary_item_added': {"root['editor']": '| launch date         = ', "root['ip']": '| current status      = Online'}, 'values_changed': {"root['logocaption']": {'new_value': "AllMusic's logotype and logo ", 'old_value': "AllMusic's logotype and logo  launch da"}}}
+197: {'dictionary_item_added': {"root['content_license']": '| programming language='}, 'dictionary_item_removed': {"root['alexa']": '2|8|a'}, 'values_changed': {"root['owner']": {'new_value': 'All Media Network, LLC ', 'old_value': 'RhythmOne '}, "root['logocaption']": {'new_value': "AllMusic's logotype and logo  launch da", 'old_value': "AllMusic's logotype and logo "}}}

@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Tumblr, Inc.', "root['foundation']": 'February 2007', "root['location']": 'New York City, United States', "root['key_people']": 'David Karp (Founder, CEO)', "root['num_employees']": '133 (as of December 2012)'}}
+8: {'values_changed': {"root['num_employees']": {'new_value': '133 (as of December 2012)', 'old_value': '164 (as of March 2013)'}}}
+43: {'dictionary_item_added': {"root['key_people']": 'David Karp (Founder, CEO)'}, 'values_changed': {"root['num_employees']": {'new_value': '164 (as of March 2013)', 'old_value': '169 (as of April 2013)'}}}
+46: {'values_changed': {"root['num_employees']": {'new_value': '169 (as of April 2013)', 'old_value': '165 (as of April 2013)'}}}
+63: {'values_changed': {"root['num_employees']": {'new_value': '165 (as of April 2013)', 'old_value': '175 (as of May 2013)'}}}
+82: {'dictionary_item_removed': {"root['owner']": 'Yahoo!'}}
+88: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Private'}}}
+133: {'values_changed': {"root['owner']": {'new_value': 'Private', 'old_value': 'Independent (2007–13), Yahoo! (2013–)'}}}
+134: {'dictionary_item_added': {"root['owner']": 'Independent (2007–13), Yahoo! (2013–)'}, 'dictionary_item_removed': {"root['owned_by']": 'Independent (2007–13), Yahoo! (2013–)'}}
+138: {'values_changed': {"root['owned_by']": {'new_value': 'Independent (2007–13), Yahoo! (2013–)', 'old_value': 'Yahoo! (2013–)'}}}
+150: {'values_changed': {"root['company_name']": {'new_value': 'Tumblr, Inc.', 'old_value': 'Tumblr'}, "root['owned_by']": {'new_value': 'Yahoo! (2013–)', 'old_value': 'Yahoo!'}}}
+152: {'dictionary_item_added': {"root['owned_by']": 'Yahoo!'}, 'dictionary_item_removed': {"root['owner']": 'Yahoo!'}}
+153: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! Inc.'}}}
+164: {'values_changed': {"root['num_employees']": {'new_value': '175 (as of May 2013)', 'old_value': '192 (as of October 2013)'}}}
+181: {'dictionary_item_added': {"root['company_name']": 'Tumblr', "root['owner']": 'Yahoo! Inc.', "root['foundation']": 'February 2007'}, 'dictionary_item_removed': {"root['name']": 'Tumblr', "root['collapsetext']": 'Screenshot'}, 'values_changed': {"root['location']": {'new_value': 'New York City, United States', 'old_value': 'New York City'}, "root['num_employees']": {'new_value': '192 (as of October 2013)', 'old_value': '400 (as of January 2017)'}}}
+186: {'values_changed': {"root['num_employees']": {'new_value': '400 (as of January 2017)', 'old_value': '402 (as of February 2017)'}}}
+194: {'values_changed': {"root['num_employees']": {'new_value': '402 (as of February 2017)', 'old_value': '397 (as of March 2017)'}}}
+198: {'values_changed': {"root['num_employees']": {'new_value': '397 (as of March 2017)', 'old_value': '406 (as of April 2017)'}}}
+201: {'values_changed': {"root['num_employees']": {'new_value': '406 (as of April 2017)', 'old_value': '411 (as of June 2017)'}}}
+207: {'dictionary_item_removed': {"root['owner']": 'Verizon Communications'}}
+252: {'dictionary_item_added': {"root['owner']": 'Verizon Communications'}, 'dictionary_item_removed': {"root['alexa']": 'inline=y '}}
+285: {'values_changed': {"root['location']": {'new_value': 'New York City', 'old_value': 'New York City, U.S.'}}}
+325: {'dictionary_item_removed': {"root['key_people']": "Jeff D'Onofrio (CEO) "}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['name']": 'The Stack Exchange Network', "root['owner']": 'Stack Overflow Internet Services, Inc.'}}
+7: {'dictionary_item_removed': {"root['date']": '2010-06-07'}}
+49: {'values_changed': {"root['date']": {'new_value': '2010-06-07', 'old_value': '2010-06-08'}}}
+68: {'values_changed': {"root['owner']": {'new_value': 'Stack Overflow Internet Services, Inc.', 'old_value': 'Stack Exchange Internet Services, Inc.'}}}
+69: {'values_changed': {"root['owner']": {'new_value': 'Stack Exchange Internet Services, Inc.', 'old_value': 'Stack Exchange Inc.'}}}
+88: {'dictionary_item_added': {"root['date']": '2010-06-08'}, 'values_changed': {"root['owner']": {'new_value': 'Stack Exchange Inc.', 'old_value': 'Stack Exchange Inc.<ref name'}}}

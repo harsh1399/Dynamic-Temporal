@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'GIPHY', "root['founders']": 'Jace Cooke & Alex Chung', "root['products']": 'GIF Platform', "root['services']": "How you search, share, and discover the world's best GIFs"}}
+5: {'values_changed': {"root['services']": {'new_value': "How you search, share, and discover the world's best GIFs", 'old_value': 'Searching, sharing, and browsing animated GIFs'}}}
+15: {'dictionary_item_added': {"root['founders']": 'Jace Cooke & Alex Chung'}, 'dictionary_item_removed': {"root['creators']": 'Jace Cooke ,  Alex Chung'}, 'values_changed': {"root['name']": {'new_value': 'GIPHY', 'old_value': 'Giphy, Inc.'}}}
+22: {'dictionary_item_added': {"root['creators']": 'Jace Cooke ,  Alex Chung', "root['services']": 'Searching, sharing, and browsing animated GIFs'}, 'dictionary_item_removed': {"root['location']": 'New York, USA   Los Angles, USA'}}
+24: {'values_changed': {"root['location']": {'new_value': 'New York, USA   Los Angles, USA', 'old_value': 'New York, USA   Los Angeles, USA'}}}
+40: {'values_changed': {"root['location']": {'new_value': 'New York, USA   Los Angeles, USA', 'old_value': 'New York, Los Angeles, U.S.'}}}
+48: {'values_changed': {"root['location']": {'new_value': 'New York, Los Angeles, U.S.', 'old_value': 'New York, New York, U.S.'}}}
+51: {'dictionary_item_removed': {"root['num_users']": '1.7 billion daily users (2023)<ref name'}}

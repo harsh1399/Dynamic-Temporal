@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['name']": 'Meituan', "root['location']": 'Beijing', "root['locations']": '1000+', "root['area_served']": 'China', "root['services']": 'voucher selling  | market cap       =', "root['revenue']": '6.42 Billion USD', "root['num_employees']": '19,000'}}
+7: {'dictionary_item_added': {"root['location']": 'Beijing'}, 'values_changed': {"root['name']": {'new_value': 'Meituan', 'old_value': 'Meituan.com Inc.'}}}
+8: {'values_changed': {"root['services']": {'new_value': 'voucher selling  | market cap       =', 'old_value': 'voucher selling | market cap       ='}}}
+14: {'values_changed': {"root['revenue']": {'new_value': '6.42 Billion USD', 'old_value': 'US$6.42 billion'}}}
+20: {'values_changed': {"root['services']": {'new_value': 'voucher selling | market cap       =', 'old_value': 'lifestyle e-commerce platform | market cap       ='}, "root['revenue']": {'new_value': 'US$6.42 billion', 'old_value': 'US$60. billion'}}}
+21: {'values_changed': {"root['revenue']": {'new_value': 'US$60. billion', 'old_value': 'US$60.3 billion'}}}
+24: {'values_changed': {"root['services']": {'new_value': 'lifestyle e-commerce platform | market cap       =', 'old_value': 'voucher selling | market cap       ='}, "root['revenue']": {'new_value': 'US$60.3 billion', 'old_value': 'US$6.42 billion'}}}
+30: {'values_changed': {"root['name']": {'new_value': 'Meituan.com Inc.', 'old_value': 'Meituan-Dianping'}, "root['services']": {'new_value': 'voucher selling | market cap       =', 'old_value': 'voucher selling | market cap       =51.5 billion'}}}
+31: {'values_changed': {"root['num_employees']": {'new_value': '19,000', 'old_value': '46,662(until April 30,2018)'}}}
+32: {'values_changed': {"root['services']": {'new_value': 'voucher selling | market cap       =51.5 billion', 'old_value': 'voucher selling'}}}
+37: {'dictionary_item_removed': {"root['location']": 'Beijing, China', "root['key_people']": 'Wang Xing, Fu Lihui, Mu Rongjun, Liang Foxing'}, 'values_changed': {"root['name']": {'new_value': 'Meituan-Dianping', 'old_value': 'Meituan'}, "root['services']": {'new_value': 'voucher selling', 'old_value': 'Voucher selling'}, "root['revenue']": {'new_value': 'US$6.42 billion', 'old_value': '97.53 billion (US$13.7 billion, 2019)'}, "root['num_employees']": {'new_value': '46,662(until April 30,2018)', 'old_value': '46,662 (until April 30, 2018)'}}}
+62: {'values_changed': {"root['revenue']": {'new_value': '97.53 billion (US$13.7 billion, 2019)', 'old_value': '179.128 billion (US$27.77 billion, 2021)'}}}

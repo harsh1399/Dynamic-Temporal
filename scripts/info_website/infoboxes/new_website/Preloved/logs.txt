@@ -1,0 +1,8 @@
+14: {'dictionary_item_removed': {"root['name']": 'Preloved'}}
+15: {'dictionary_item_removed': {"root['owner']": 'TheHutGroup'}}
+17: {'dictionary_item_removed': {"root['area_served']": 'United Kingdom'}, 'values_changed': {"root['owner']": {'new_value': 'TheHutGroup', 'old_value': 'The Hut Group'}}}
+21: {'dictionary_item_added': {"root['area_served']": 'United Kingdom'}, 'dictionary_item_removed': {"root['slogan']": 'The Joy of Secondhand', "root['num_users']": '1.8M'}}
+24: {'values_changed': {"root['num_users']": {'new_value': '1.8M', 'old_value': '5.1M'}}}
+31: {'dictionary_item_removed': {"root['area_served']": 'United Kingdom'}}
+37: {'dictionary_item_added': {"root['slogan']": 'The Joy of Secondhand'}, 'values_changed': {"root['num_users']": {'new_value': '5.1M', 'old_value': '8M'}}}
+39: {'dictionary_item_added': {"root['area_served']": 'United Kingdom'}, 'values_changed': {"root['num_users']": {'new_value': '8M', 'old_value': '10M+'}, "root['owner']": {'new_value': 'The Hut Group', 'old_value': 'THG plc'}}}

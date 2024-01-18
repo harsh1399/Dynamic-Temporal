@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['name']": 'Busuu.com', "root['owner']": 'busuu.com S.A.', "root['slogan']": 'the language learning community '}}
+6: {'values_changed': {"root['owner']": {'new_value': 'busuu.com S.A.', 'old_value': 'busuu.com S.L.'}}}
+10: {'values_changed': {"root['owner']": {'new_value': 'busuu.com S.L.', 'old_value': 'Busuu Online S.L.'}}}
+13: {'values_changed': {"root['name']": {'new_value': 'Busuu.com', 'old_value': 'Busuu Onlins S.L.'}}}
+14: {'values_changed': {"root['name']": {'new_value': 'Busuu Onlins S.L.', 'old_value': 'Busuu Online S.L.'}}}
+20: {'values_changed': {"root['slogan']": {'new_value': 'the language learning community ', 'old_value': 'The language learning community '}}}
+45: {'dictionary_item_added': {"root['slogan']": 'The language learning community '}, 'dictionary_item_removed': {"root['location']": 'London, England'}, 'values_changed': {"root['name']": {'new_value': 'Busuu Online S.L.', 'old_value': 'Busuu Ltd'}}}
+48: {'dictionary_item_added': {"root['location']": 'London, England'}, 'dictionary_item_removed': {"root['area_served']": 'Worldwide', "root['CEO']": 'Bernhard Niesner', "root['services']": 'Language courses', "root['users']": '>100 million users '}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['company_name']": 'Jimdo GmbH', "root['company_logo']": 'Jimdo-logo.jpg', "root['company_slogan']": 'Pages to the People', "root['num_employees']": '160 (2013) '}}
+3: {'dictionary_item_added': {"root['company_name']": 'Jimdo GmbH', "root['company_logo']": 'Jimdo-logo.jpg'}, 'dictionary_item_removed': {"root['name']": 'Jimdo GmbH'}}
+6: {'dictionary_item_removed': {"root['foundation']": '('}}
+41: {'dictionary_item_added': {"root['foundation']": '('}, 'values_changed': {"root['num_employees']": {'new_value': '160 (2013) ', 'old_value': '200 (2015) '}}}
+53: {'values_changed': {"root['num_employees']": {'new_value': '200 (2015) ', 'old_value': '200 (2015)'}}}
+63: {'dictionary_item_added': {"root['company_slogan']": 'Pages to the People'}, 'values_changed': {"root['num_employees']": {'new_value': '200 (2015)', 'old_value': '||'}}}

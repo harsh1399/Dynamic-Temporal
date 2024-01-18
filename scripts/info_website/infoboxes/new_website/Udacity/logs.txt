@@ -1,0 +1,12 @@
+134: {'dictionary_item_removed': {"root['name']": 'Udacity', "root['num_users']": '160,000', "root['alexa']": '12,299 ('}}
+139: {'values_changed': {"root['num_users']": {'new_value': '160,000', 'old_value': '160,001'}}}
+145: {'values_changed': {"root['num_users']": {'new_value': '160,001', 'old_value': '400,000'}}}
+166: {'values_changed': {"root['alexa']": {'new_value': '12,299 (', 'old_value': '12,106 ('}}}
+175: {'values_changed': {"root['alexa']": {'new_value': '12,106 (', 'old_value': '11,359 ('}}}
+222: {'values_changed': {"root['alexa']": {'new_value': '11,359 (', 'old_value': '7,074 ('}}}
+223: {'values_changed': {"root['num_users']": {'new_value': '400,000', 'old_value': '700,000'}}}
+225: {'values_changed': {"root['num_users']": {'new_value': '700,000', 'old_value': '1.6 Mio'}}}
+244: {'values_changed': {"root['num_users']": {'new_value': '1.6 Mio', 'old_value': '1.6 Million'}}}
+257: {'dictionary_item_added': {"root['alexa']": '7,074 ('}, 'dictionary_item_removed': {"root['CEO']": 'Vishal Makhijani'}}
+265: {'values_changed': {"root['CEO']": {'new_value': 'Vishal Makhijani', 'old_value': 'Vishal Makhijani  |'}}}
+279: {'values_changed': {"root['name']": {'new_value': 'Udacity', 'old_value': 'Udacity, Inc.'}}}

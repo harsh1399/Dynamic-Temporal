@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['name']": 'Yahoo! Sports', "root['owner']": 'Yahoo!', "root['developer']": 'Yahoo!', "root['operating_system']": '| launch date = December 8, 1997 | current status = Public'}}
+33: {'values_changed': {"root['name']": {'new_value': 'Yahoo! Sports', 'old_value': 'Yahoo Sports'}, "root['developer']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo'}}}
+35: {'values_changed': {"root['operating_system']": {'new_value': '| launch date = December 8, 1997 | current status = Public', 'old_value': '| launch date =  current status = Publ'}}}
+58: {'values_changed': {"root['operating_system']": {'new_value': '| launch date =  current status = Publ', 'old_value': '| launch date =  current status = Acti'}}}
+60: {'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Oath'}}}
+65: {'values_changed': {"root['owner']": {'new_value': 'Oath', 'old_value': 'Yahoo! Holdings, (Oath Inc.)'}}}
+66: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! Holdings, (Oath Inc.)', 'old_value': 'Oath Inc., (Verizon Communications)'}}}

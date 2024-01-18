@@ -1,0 +1,31 @@
+61: {'dictionary_item_removed': {"root['name']": 'Coursera', "root['num_users']": '0.7 mln'}}
+66: {'values_changed': {"root['num_users']": {'new_value': '0.7 mln', 'old_value': '0.9 mln'}}}
+79: {'values_changed': {"root['num_users']": {'new_value': '0.9 mln', 'old_value': 'over 1 mln'}}}
+84: {'values_changed': {"root['num_users']": {'new_value': 'over 1 mln', 'old_value': 'more than 1 mln'}}}
+89: {'values_changed': {"root['num_users']": {'new_value': 'more than 1 mln', 'old_value': 'More than 1 mln'}}}
+98: {'values_changed': {"root['num_users']": {'new_value': 'More than 1 mln', 'old_value': 'More than 1 million'}}}
+128: {'dictionary_item_removed': {"root['alexa']": '3,271 ('}, 'values_changed': {"root['num_users']": {'new_value': 'More than 1 million', 'old_value': '1.7 million'}}}
+132: {'dictionary_item_removed': {"root['content_license']": 'Creative Commons (BY-NC-SA)', "root['owner']": 'Andrew Ng and Daphne Koller'}, 'values_changed': {"root['num_users']": {'new_value': '1.7 million', 'old_value': '1.75 million (Oct 2012)'}}}
+143: {'values_changed': {"root['num_users']": {'new_value': '1.75 million (Oct 2012)', 'old_value': '1.9 million (Nov 2012)'}, "root['alexa']": {'new_value': '3,271 (', 'old_value': '3,243 ('}}}
+157: {'dictionary_item_added': {"root['content_license']": 'Creative Commons (BY-NC-SA)', "root['owner']": 'Andrew Ng and Daphne Koller', "root['alexa']": '3,243 ('}, 'dictionary_item_removed': {"root['location']": 'Mountain View, California', "root['num_employees']": '280 (June 2018)', "root['key_people']": 'Jeff Maggioncalda (CEO)'}, 'values_changed': {"root['name']": {'new_value': 'Coursera', 'old_value': 'Coursera, Inc.'}, "root['num_users']": {'new_value': '1.9 million (Nov 2012)', 'old_value': '33 million (June 2018)'}}}
+159: {'values_changed': {"root['num_users']": {'new_value': '33 million (June 2018)', 'old_value': '45 million (Dec 2019)'}}}
+167: {'values_changed': {"root['num_employees']": {'new_value': '280 (June 2018)', 'old_value': '450 (June 2018)'}, "root['num_users']": {'new_value': '45 million (Dec 2019)', 'old_value': '47 million (Dec 2019)'}}}
+168: {'values_changed': {"root['num_employees']": {'new_value': '450 (June 2018)', 'old_value': '450 (January 2020)'}}}
+194: {'values_changed': {"root['name']": {'new_value': 'Coursera, Inc.', 'old_value': 'Coursera hot, Inc.'}}}
+195: {'values_changed': {"root['name']": {'new_value': 'Coursera hot, Inc.', 'old_value': 'Coursera hot sex, Inc.'}}}
+196: {'values_changed': {"root['name']": {'new_value': 'Coursera hot sex, Inc.', 'old_value': 'Coursera, Inc.'}}}
+257: {'dictionary_item_removed': {"root['area_served']": 'Worldwide'}, 'values_changed': {"root['location']": {'new_value': 'Mountain View, California', 'old_value': 'Mountain View, California, U.S.'}}}
+260: {'values_changed': {"root['num_employees']": {'new_value': '450 (January 2020)', 'old_value': '1792 (June 2020)'}}}
+308: {'values_changed': {"root['key_people']": {'new_value': 'Jeff Maggioncalda (CEO)', 'old_value': 'Jeff Maggioncalda , (CEO)'}}}
+309: {'values_changed': {"root['key_people']": {'new_value': 'Jeff Maggioncalda , (CEO)', 'old_value': 'Jeff Maggioncalda       , (CEO)'}}}
+313: {'values_changed': {"root['num_users']": {'new_value': '47 million (Dec 2019)', 'old_value': '65 million (June 2020)'}}}
+327: {'values_changed': {"root['num_users']": {'new_value': '65 million (June 2020)', 'old_value': '68 million'}}}
+329: {'values_changed': {"root['num_users']": {'new_value': '68 million', 'old_value': '45 million'}}}
+333: {'dictionary_item_removed': {"root['revenue']": 'Increase $140 Million (2018)'}}
+344: {'values_changed': {"root['revenue']": {'new_value': 'Increase $140 Million (2018)', 'old_value': 'Increase $190 Million (2018)'}, "root['num_users']": {'new_value': '45 million', 'old_value': '50 million'}}}
+345: {'values_changed': {"root['revenue']": {'new_value': 'Increase $190 Million (2018)', 'old_value': 'Increase $140 Million (2018)'}, "root['num_users']": {'new_value': '50 million', 'old_value': '45 million'}}}
+355: {'values_changed': {"root['num_users']": {'new_value': '45 million', 'old_value': '73 million'}}}
+377: {'values_changed': {"root['name']": {'new_value': 'Coursera, Inc.', 'old_value': 'Coursera Inc.'}, "root['num_employees']": {'new_value': '1792 (June 2020)', 'old_value': '1,792 (June 2020)'}, "root['revenue']": {'new_value': 'Increase $140 Million (2018)', 'old_value': 'Increase $293.5 Million (2020)'}, "root['num_users']": {'new_value': '73 million', 'old_value': '92 million (2021)'}, "root['key_people']": {'new_value': 'Jeff Maggioncalda       , (CEO)', 'old_value': 'Jeff Maggioncalda        (CEO)'}}}
+397: {'dictionary_item_removed': {"root['net_income']": 'US$-145.21 million (2021)', "root['operating_income']": 'US$-143.06 million (2021)', "root['assets']": 'US$958.91 million (2021)', "root['equity']": 'US$741.51 million (2021)'}, 'values_changed': {"root['num_employees']": {'new_value': '1,792 (June 2020)', 'old_value': '1,138 (December 2021)'}, "root['revenue']": {'new_value': 'Increase $293.5 Million (2020)', 'old_value': 'US$415.29 million (2021)'}}}
+420: {'values_changed': {"root['num_users']": {'new_value': '92 million (2021)', 'old_value': '113 million (2022)'}}}
+428: {'values_changed': {"root['num_employees']": {'new_value': '1,138 (December 2021)', 'old_value': '1,401 (December 2022)'}, "root['revenue']": {'new_value': 'US$415.29 million (2021)', 'old_value': 'US$524 million (2022)'}, "root['net_income']": {'new_value': 'US$-145.21 million (2021)', 'old_value': 'US$175 million (2022)'}, "root['operating_income']": {'new_value': 'US$-143.06 million (2021)', 'old_value': 'US$177 million (2022)'}, "root['assets']": {'new_value': 'US$958.91 million (2021)', 'old_value': 'US$948 million (2022)'}, "root['equity']": {'new_value': 'US$741.51 million (2021)', 'old_value': 'US$695 million (2022)'}, "root['num_users']": {'new_value': '113 million (2022)', 'old_value': '118 million (2022)'}}}

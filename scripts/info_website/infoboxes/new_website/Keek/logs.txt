@@ -1,0 +1,21 @@
+10: {'dictionary_item_removed': {"root['company_name']": 'Keek, Inc.', "root['foundation']": 'Toronto, Ontario, Canada', "root['location']": 'Toronto, ON, Canada ', "root['incorporated']": 'Yes', "root['area_served']": 'Worldwide', "root['CEO']": 'Isaac  Raichyk ', "root['key_people']": 'Isaac  Raichyk (CEO) ', "root['equity']": 'Over $12M (USD)   title = Keek Raises $7 Million Adds 2 Million Users In Last 30 Days', "root['num_employees']": '~ 30 (2011)  ', "root['website_type']": 'social networking service'}}
+12: {'values_changed': {"root['CEO']": {'new_value': 'Isaac  Raichyk ', 'old_value': 'Isaac  Raichyk'}}}
+73: {'values_changed': {"root['equity']": {'new_value': 'Over $12M (USD)   title = Keek Raises $7 Million Adds 2 Million Users In Last 30 Days', 'old_value': '$30M (USD)   title = Keek Raises $18 Million Registers 6 Million New Users In 30 Days'}}}
+80: {'values_changed': {"root['num_employees']": {'new_value': '~ 30 (2011)  ', 'old_value': '~ 40 (2013)  '}}}
+141: {'dictionary_item_removed': {"root['num_users']": '45 Million  '}}
+143: {'values_changed': {"root['key_people']": {'new_value': 'Isaac  Raichyk (CEO) ', 'old_value': 'Isaac  Raichyk (Chief Executive Officer) '}}}
+144: {'dictionary_item_added': {"root['num_users']": '45 Million  '}, 'values_changed': {"root['key_people']": {'new_value': 'Isaac  Raichyk (Chief Executive Officer) ', 'old_value': 'Isaac  Raichyk (CEO) '}}}
+145: {'dictionary_item_removed': {"root['num_users']": '45 Million  '}, 'values_changed': {"root['key_people']": {'new_value': 'Isaac  Raichyk (CEO) ', 'old_value': 'Isaac  Raichyk (Chief Executive Officer) '}}}
+165: {'values_changed': {"root['foundation']": {'new_value': 'Toronto, Ontario, Canada', 'old_value': 'Toronto, Ontario, Canstupidada'}}}
+166: {'values_changed': {"root['foundation']": {'new_value': 'Toronto, Ontario, Canstupidada', 'old_value': 'Toronto, Ontario, Canada'}}}
+179: {'values_changed': {"root['num_users']": {'new_value': '45 Million  ', 'old_value': '50 Million  '}}}
+182: {'values_changed': {"root['num_users']": {'new_value': '50 Million  ', 'old_value': '45 Million  '}}}
+185: {'values_changed': {"root['num_users']": {'new_value': '45 Million  ', 'old_value': '58 Million  '}}}
+202: {'values_changed': {"root['location']": {'new_value': 'Toronto, ON, Canada ', 'old_value': 'Toronto, Ontario, Canada '}, "root['equity']": {'new_value': '$30M (USD)   title = Keek Raises $18 Million Registers 6 Million New Users In 30 Days', 'old_value': '$30 million (USD)  title = Keek Raises $18 Million Registers 6 Million New Users In 30 Days'}, "root['num_users']": {'new_value': '58 Million  ', 'old_value': '58 million '}}}
+207: {'values_changed': {"root['CEO']": {'new_value': 'Isaac  Raichyk', 'old_value': 'Alexandria Cameron'}, "root['num_users']": {'new_value': '58 million ', 'old_value': '67 million '}}}
+208: {'values_changed': {"root['CEO']": {'new_value': 'Alexandria Cameron', 'old_value': 'Alexandra Cameron'}, "root['key_people']": {'new_value': 'Isaac  Raichyk (Chief Executive Officer) ', 'old_value': 'Alexandra Cameron (Chief Executive Officer) '}}}
+210: {'values_changed': {"root['num_users']": {'new_value': '67 million ', 'old_value': '67 million'}}}
+212: {'values_changed': {"root['key_people']": {'new_value': 'Alexandra Cameron (Chief Executive Officer) ', 'old_value': 'Alexandra Cameron (Chief Executive Officer)'}}}
+223: {'dictionary_item_added': {"root['equity']": '$30 million (USD)  title = Keek Raises $18 Million Registers 6 Million New Users In 30 Days'}, 'values_changed': {"root['CEO']": {'new_value': 'Alexandra Cameron', 'old_value': 'Alexandra Cameron '}, "root['key_people']": {'new_value': 'Alexandra Cameron (Chief Executive Officer)', 'old_value': 'Alexandra Cameron (CEO), Jamie King (CPO), Lin Dai (CMO)'}}}
+241: {'dictionary_item_added': {"root['company_name']": 'Keek, Inc.', "root['num_employees']": '~ 40 (2013)  ', "root['num_users']": '67 million'}, 'dictionary_item_removed': {"root['name']": 'Keek, Inc.'}}
+246: {'values_changed': {"root['CEO']": {'new_value': 'Alexandra Cameron ', 'old_value': 'Dimi Paun '}, "root['key_people']": {'new_value': 'Alexandra Cameron (CEO), Jamie King (CPO), Lin Dai (CMO)', 'old_value': 'Dimi Paun (CEO),   Alex Macdonald (CFO)  '}}}

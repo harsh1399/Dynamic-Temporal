@@ -1,0 +1,7 @@
+2: {'dictionary_item_removed': {"root['company_name']": 'Stage6.divx', "root['owner']": 'divx', "root['company_logo']": 'Image:Stage6.JPG ,  ,', "root['foundation']": '2006', "root['homepage']": 'http://stage6.divx.com/ '}}
+3: {'values_changed': {"root['homepage']": {'new_value': 'http://stage6.divx.com/ ', 'old_value': 'http://stage6.divx.com http://stage6.divx.com '}}}
+4: {'values_changed': {"root['company_name']": {'new_value': 'Stage6.divx', 'old_value': 'Stage6.DivX.com'}, "root['owner']": {'new_value': 'divx', 'old_value': 'DivX'}}}
+18: {'values_changed': {"root['owner']": {'new_value': 'DivX', 'old_value': 'DivX, Inc.'}}}
+38: {'dictionary_item_removed': {"root['name']": 'Stage6'}}
+39: {'dictionary_item_added': {"root['company_name']": 'Stage6.DivX.com', "root['company_logo']": 'Image:Stage6.JPG ,  ,', "root['foundation']": '2006', "root['homepage']": 'http://stage6.divx.com http://stage6.divx.com '}, 'values_changed': {"root['owner']": {'new_value': 'DivX, Inc.', 'old_value': 'DivX, Inc. | launch date'}}}
+40: {'values_changed': {"root['owner']": {'new_value': 'DivX, Inc. | launch date', 'old_value': 'DivX, Inc.'}}}

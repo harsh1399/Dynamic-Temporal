@@ -1,0 +1,20 @@
+74: {'dictionary_item_removed': {"root['name']": 'Everipedia', "root['country']": 'U.S. |area served=Worldwide', "root['slogan']": 'The Encyclopedia of Everything', "root['owner']": 'Sam Kazemian, Travis Moore'}}
+165: {'values_changed': {"root['country']": {'new_value': 'U.S. |area served=Worldwide', 'old_value': 'Westwood Village, Los Angeles |area served=Worldwide'}}}
+174: {'values_changed': {"root['country']": {'new_value': 'Westwood Village, Los Angeles |area served=Worldwide', 'old_value': 'Los Angeles, California  |area served=Worldwide'}}}
+278: {'values_changed': {"root['name']": {'new_value': 'Everipedia', 'old_value': 'Everipedia<r'}}}
+279: {'values_changed': {"root['name']": {'new_value': 'Everipedia<r', 'old_value': 'Everipedia'}}}
+297: {'values_changed': {"root['owner']": {'new_value': 'Sam Kazemian, Travis Moore', 'old_value': 'Sam Kazemian, Theodor Forselius'}}}
+328: {'dictionary_item_removed': {"root['num_users']": '17,000<ref name'}}
+386: {'values_changed': {"root['name']": {'new_value': 'Everipedia', 'old_value': 'Everipedia <!--| screenshot = border'}}}
+440: {'dictionary_item_added': {"root['num_users']": '17,000<ref name'}, 'dictionary_item_removed': {"root['foundation']": '2014'}, 'values_changed': {"root['name']": {'new_value': 'Everipedia <!--| screenshot = border', 'old_value': 'Everipedia'}}}
+546: {'dictionary_item_added': {"root['foundation']": '2014'}, 'values_changed': {"root['country']": {'new_value': 'Los Angeles, California  |area served=Worldwide', 'old_value': 'Westwood, Los Angeles, California  |area served=Worldwide'}, "root['slogan']": {'new_value': 'The Encyclopedia of Everything', 'old_value': 'The encyclopedia of Everything'}}}
+575: {'dictionary_item_removed': {"root['coordinates']": 'area served=Worldwid'}, 'values_changed': {"root['country']": {'new_value': 'Westwood, Los Angeles, California  |area served=Worldwide', 'old_value': 'Westwood, Los Angeles, California'}}}
+637: {'values_changed': {"root['country']": {'new_value': 'Westwood, Los Angeles, California', 'old_value': 'Westwood, Los Angeles, California, U.S.'}}}
+887: {'dictionary_item_added': {"root['slogan']": 'The encyclopedia of Everything'}, 'values_changed': {"root['coordinates']": {'new_value': 'area served=Worldwid', 'old_value': 'area served=Worldwi'}}}
+889: {'values_changed': {"root['country']": {'new_value': 'Westwood, Los Angeles, California, U.S.', 'old_value': 'Los Angeles, California, U.S.'}}}
+937: {'dictionary_item_added': {"root['coordinates']": 'area served=Worldwi', "root['owner']": 'Sam Kazemian, Theodor Forselius'}, 'values_changed': {"root['country']": {'new_value': 'Los Angeles, California, U.S.', 'old_value': 'Greater Los Angeles, California, U.S.'}}}
+942: {'values_changed': {"root['country']": {'new_value': 'Greater Los Angeles, California, U.S.', 'old_value': 'Westwood, Los Angeles, California, U.S.'}}}
+999: {'dictionary_item_removed': {"root['alexa']": 'current status=Active |content license='}}
+1015: {'dictionary_item_added': {"root['alexa']": 'current status=Active |content license='}, 'values_changed': {"root['country']": {'new_value': 'Westwood, Los Angeles, California, U.S.', 'old_value': 'George Town,  Cayman Islands'}}}
+1023: {'values_changed': {"root['country']": {'new_value': 'George Town,  Cayman Islands', 'old_value': 'Westwood, Los Angeles, California, U.S.'}}}
+1072: {'dictionary_item_removed': {"root['key_people']": 'Larry Sanger (resigned, 2019)'}}

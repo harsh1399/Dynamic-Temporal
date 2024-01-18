@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['name']": 'Sun Basket', "root['area_served']": 'United States', "root['employees']": '400 (2016) ', "root['location']": 'San Francisco, California, U.S.', "root['key_people']": 'Adam Zbar, CEO  Justine Kelly, Executive Chef'}}
+6: {'values_changed': {"root['employees']": {'new_value': '400 (2016) ', 'old_value': '338 (2019)'}, "root['key_people']": {'new_value': 'Adam Zbar, CEO  Justine Kelly, Executive Chef', 'old_value': 'Adam Zbar (CEO)  Justine Kelly (Executive Chef) ,  Don Barnett (CFO & COO)'}}}
+9: {'values_changed': {"root['name']": {'new_value': 'Sun Basket', 'old_value': 'Sun Basket, Inc.'}}}
+10: {'values_changed': {"root['key_people']": {'new_value': 'Adam Zbar (CEO)  Justine Kelly (Executive Chef) ,  Don Barnett (CFO & COO)', 'old_value': 'Adam Zbar (CEO)  Justine Kelly (Executive Chef)'}}}

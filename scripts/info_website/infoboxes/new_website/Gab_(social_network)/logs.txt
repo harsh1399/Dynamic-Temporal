@@ -1,0 +1,39 @@
+0: {'dictionary_item_removed': {"root['name']": 'Gab, Inc.', "root['num_users']": '800,000 (November 2018)  launch date           = '}}
+143: {'values_changed': {"root['name']": {'new_value': 'Gab, Inc.', 'old_value': 'GabAI, Inc.'}}}
+144: {'values_changed': {"root['name']": {'new_value': 'GabAI, Inc.', 'old_value': 'Gab, Inc.'}}}
+147: {'values_changed': {"root['name']": {'new_value': 'Gab, Inc.', 'old_value': 'GabAI, Inc.'}}}
+157: {'values_changed': {"root['name']": {'new_value': 'GabAI, Inc.', 'old_value': 'Gab, Inc.'}}}
+213: {'values_changed': {"root['name']": {'new_value': 'Gab, Inc.', 'old_value': 'Gab AI, Inc.'}}}
+219: {'values_changed': {"root['name']": {'new_value': 'Gab AI, Inc.', 'old_value': 'Gab, Inc.'}}}
+221: {'values_changed': {"root['name']": {'new_value': 'Gab, Inc.', 'old_value': 'Gab AI, Inc.'}}}
+226: {'values_changed': {"root['name']": {'new_value': 'Gab AI, Inc.', 'old_value': 'Gab, Inc.'}}}
+227: {'values_changed': {"root['name']": {'new_value': 'Gab, Inc.', 'old_value': 'Gab AI, Inc.'}}}
+255: {'values_changed': {"root['num_users']": {'new_value': '800,000 (November 2018)  launch date           = ', 'old_value': '850,000 (claimed, December 2018) 19,526 (estimated active, January 2019)  | launch date           = '}}}
+300: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018) 19,526 (estimated active, January 2019)  | launch date           = ', 'old_value': '850,000 (claimed, December 2018), 19,526 (estimated active, January 2019)  | launch date           = '}}}
+374: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018), 19,526 (estimated active, January 2019)  | launch date           = ', 'old_value': '850,000 (claimed, December 2018), 200,000 (active, January 2019)  | launch date           = '}}}
+375: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018), 200,000 (active, January 2019)  | launch date           = ', 'old_value': '850,000 (claimed, December 2018), 19,526 (estimated active, January 2019)  | launch date           = '}}}
+378: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018), 19,526 (estimated active, January 2019)  | launch date           = ', 'old_value': '850,000 (claimed, December 2018), 19,526 (Storyful estimate, January 2019)  | launch date           = '}}}
+383: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018), 19,526 (Storyful estimate, January 2019)  | launch date           = ', 'old_value': '850,000 (claimed, December 2018) | launch date           = '}}}
+384: {'values_changed': {"root['num_users']": {'new_value': '850,000 (claimed, December 2018) | launch date           = ', 'old_value': '| launch date           = '}}}
+475: {'values_changed': {"root['num_users']": {'new_value': '| launch date           = ', 'old_value': '| launch date = '}}}
+476: {'values_changed': {"root['num_users']": {'new_value': '| launch date = ', 'old_value': '| launch date           = '}}}
+716: {'values_changed': {"root['num_users']": {'new_value': '| launch date           = ', 'old_value': '| launch date = '}}}
+717: {'values_changed': {"root['num_users']": {'new_value': '| launch date = ', 'old_value': '| launch date           = '}}}
+720: {'values_changed': {"root['num_users']": {'new_value': '| launch date           = ', 'old_value': '850,000 (December 2018)  (reported)  | launch date = '}}}
+924: {'dictionary_item_removed': {"root['alexa']": '12,201 '}}
+1001: {'values_changed': {"root['alexa']": {'new_value': '12,201 ', 'old_value': '11,386 '}}}
+1035: {'values_changed': {"root['num_users']": {'new_value': '850,000 (December 2018)  (reported)  | launch date = ', 'old_value': '850,000 (December 2018) (reported) | launch date = '}}}
+1075: {'values_changed': {"root['num_users']": {'new_value': '850,000 (December 2018) (reported) | launch date = ', 'old_value': '1,010,00 (July 2019)   | launch date = '}}}
+1084: {'values_changed': {"root['num_users']": {'new_value': '1,010,00 (July 2019)   | launch date = ', 'old_value': '1,010,000 (July 2019)   | launch date = '}}}
+1094: {'values_changed': {"root['num_users']": {'new_value': '1,010,000 (July 2019)   | launch date = ', 'old_value': '850,000 (December 2018)  | launch date = '}}}
+1100: {'values_changed': {"root['num_users']": {'new_value': '850,000 (December 2018)  | launch date = ', 'old_value': 'almost 1,000,000    | launch date = '}}}
+1101: {'values_changed': {"root['num_users']": {'new_value': 'almost 1,000,000    | launch date = ', 'old_value': 'almost 1,000,000 (per Gab claims)    | launch date = '}}}
+1102: {'dictionary_item_added': {"root['num_users']": 'almost 1,000,000 (per Gab claims)    | launch date = '}, 'dictionary_item_removed': {"root['owner']": '| launch date = '}}
+1127: {'values_changed': {"root['alexa']": {'new_value': '11,386 ', 'old_value': '16,831 '}}}
+1152: {'dictionary_item_added': {"root['owner']": '| launch date = '}, 'values_changed': {"root['alexa']": {'new_value': '16,831 ', 'old_value': '16,436 '}}}
+1199: {'values_changed': {"root['alexa']": {'new_value': '16,436 ', 'old_value': '10,422 '}}}
+1254: {'values_changed': {"root['alexa']": {'new_value': '10,422 ', 'old_value': '8,481 '}}}
+1572: {'dictionary_item_added': {"root['alexa']": '8,481 '}, 'dictionary_item_removed': {"root['users']": '3.4'}}
+1827: {'values_changed': {"root['users']": {'new_value': '3.4', 'old_value': '4'}}}
+1828: {'values_changed': {"root['users']": {'new_value': '4', 'old_value': '100,000 (estimated active), 4'}}}
+1880: {'values_changed': {"root['users']": {'new_value': '100,000 (estimated active), 4', 'old_value': '100,000 (estimated active) 4'}}}

@@ -1,0 +1,10 @@
+2: {'dictionary_item_removed': {"root['name']": 'Yahoo! Movies', "root['owner']": 'Yahoo!', "root['developer']": 'Yahoo!', "root['operating_system']": '| launch date = December 8, 1997 | current status = Public'}}
+33: {'values_changed': {"root['operating_system']": {'new_value': '| launch date = December 8, 1997 | current status = Public', 'old_value': '| current status = Public'}}}
+36: {'values_changed': {"root['operating_system']": {'new_value': '| current status = Public', 'old_value': '| launch date =  | current status = Public'}}}
+60: {'values_changed': {"root['operating_system']": {'new_value': '| launch date =  | current status = Public', 'old_value': '| launch date = May, 1998 | current status = Public'}}}
+84: {'dictionary_item_added': {"root['operating_system']": '| launch date = May, 1998 | current status = Public'}, 'values_changed': {"root['developer']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! | launch date = May, 1998 | current status = Active'}}}
+85: {'values_changed': {"root['developer']": {'new_value': 'Yahoo! | launch date = May, 1998 | current status = Active', 'old_value': 'Yahoo! | launch date = May 1998 | current status = Active'}}}
+93: {'values_changed': {"root['developer']": {'new_value': 'Yahoo! | launch date = May 1998 | current status = Active', 'old_value': 'Yahoo! |launch date=May 1998 |current status=Active'}}}
+97: {'values_changed': {"root['developer']": {'new_value': 'Yahoo! |launch date=May 1998 |current status=Active', 'old_value': 'Yahoo! |launch date=current status=Acti'}}}
+98: {'dictionary_item_added': {"root['developer']": 'Yahoo! |launch date=current status=Acti'}, 'values_changed': {"root['owner']": {'new_value': 'Yahoo!', 'old_value': 'Yahoo! |launch date=current status=Acti'}}}
+101: {'values_changed': {"root['owner']": {'new_value': 'Yahoo! |launch date=current status=Acti', 'old_value': 'Yahoo!'}}}
