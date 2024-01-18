@@ -1,0 +1,64 @@
+6: {'dictionary_item_removed': {"root['common_name']": 'Turkish-occupied Northern Syria', "root['largest_city']": 'Dabiq', "root['sovereignty_type']": 'Areas under FSA administration'}}
+15: {'values_changed': {"root['largest_city']": {'new_value': 'Dabiq', 'old_value': 'Azaz'}}}
+18: {'values_changed': {"root['largest_city']": {'new_value': 'Azaz', 'old_value': 'al-Bab'}}}
+36: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Areas under FSA administration', 'old_value': 'Areas under Safe Zone administration'}}}
+110: {'values_changed': {"root['common_name']": {'new_value': 'Turkish-occupied Northern Syria', 'old_value': 'Northern Syrian Safe Zone'}}}
+112: {'values_changed': {"root['common_name']": {'new_value': 'Northern Syrian Safe Zone', 'old_value': 'Turkish-occupied Northern Syria'}}}
+128: {'dictionary_item_removed': {"root['languages']": 'Turkish (', "root['leader_title1']": 'President'}}
+132: {'dictionary_item_removed': {"root['flag_caption']": "'''Left:''' Flag used by the Syrian opposition. '''Right:''' flag of Turkey", "root['leader_name1']": 'Riad Seif'}}
+139: {'dictionary_item_added': {"root['languages']": 'Turkish ('}, 'values_changed': {"root['flag_caption']": {'new_value': "'''Left:''' Flag used by the Syrian opposition. '''Right:''' flag of Turkey", 'old_value': 'Flags of the Syrian opposition and Turkey'}, "root['sovereignty_type']": {'new_value': 'Areas under Safe Zone administration', 'old_value': 'Occupied territory'}}}
+140: {'dictionary_item_removed': {"root['languages']": 'Turkish ('}, 'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey', 'old_value': "'''Left:''' Flag used by the Syrian opposition. '''Right:''' flag of Turkey"}, "root['sovereignty_type']": {'new_value': 'Occupied territory', 'old_value': 'Areas under Safe Zone administration'}}}
+141: {'dictionary_item_added': {"root['languages']": 'Turkish ('}, 'values_changed': {"root['flag_caption']": {'new_value': "'''Left:''' Flag used by the Syrian opposition. '''Right:''' flag of Turkey", 'old_value': 'Flags of the Syrian opposition and Turkey'}, "root['sovereignty_type']": {'new_value': 'Areas under Safe Zone administration', 'old_value': 'Occupied territory'}}}
+142: {'dictionary_item_removed': {"root['leader_title2']": 'Prime Minister', "root['leader_name2']": 'Jawad Abu Hatab'}}
+143: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey', 'old_value': 'Flags of the Syria (Opposition) and Turkey'}}}
+144: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syria (Opposition) and Turkey', 'old_value': 'Flags of the Syrian opposition and Turkey'}}}
+148: {'dictionary_item_removed': {"root['leader_title3']": 'Prime Minister', "root['leader_name3']": 'Jawad Abu Hatab'}, 'values_changed': {"root['leader_title1']": {'new_value': 'President', 'old_value': 'Commander'}, "root['leader_name1']": {'new_value': 'Riad Seif', 'old_value': 'İsmail Metin Temel'}, "root['leader_title2']": {'new_value': 'Prime Minister', 'old_value': 'President'}, "root['leader_name2']": {'new_value': 'Jawad Abu Hatab', 'old_value': 'Riad Seif'}}}
+151: {'values_changed': {"root['leader_title1']": {'new_value': 'Commander', 'old_value': 'Commander https://twitter.com/huseyinbozan/status/971695100656054272'}}}
+152: {'values_changed': {"root['leader_title1']": {'new_value': 'Commander https://twitter.com/huseyinbozan/status/971695100656054272', 'old_value': 'Commander'}}}
+155: {'values_changed': {"root['leader_name2']": {'new_value': 'Riad Seif', 'old_value': 'Abdurrahman Mustafa'}}}
+164: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey', 'old_value': 'Flags of the Turkey'}}}
+165: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Turkey', 'old_value': 'Flag of the Turkey'}}}
+166: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag of the Turkey', 'old_value': 'Flags of the Syrian opposition and Turkey'}}}
+189: {'dictionary_item_removed': {"root['area_km2']": '491648', "root['area_sq_mi']": '189826'}}
+190: {'values_changed': {"root['area_km2']": {'new_value': '491648', 'old_value': '491'}, "root['area_sq_mi']": {'new_value': '189826', 'old_value': '189'}}}
+191: {'dictionary_item_added': {"root['leader_title3']": 'Prime Minister', "root['leader_name3']": 'Jawad Abu Hatab'}, 'values_changed': {"root['leader_title1']": {'new_value': 'Commander', 'old_value': 'President'}, "root['leader_name1']": {'new_value': 'İsmail Metin Temel', 'old_value': 'Abdurrahman Mustafa'}, "root['leader_title2']": {'new_value': 'President', 'old_value': 'Prime Minister'}, "root['leader_name2']": {'new_value': 'Abdurrahman Mustafa', 'old_value': 'Jawad Abu Hatab'}}}
+192: {'values_changed': {"root['area_km2']": {'new_value': '491', 'old_value': '3,460'}, "root['area_sq_mi']": {'new_value': '189', 'old_value': '1335.913'}}}
+197: {'dictionary_item_added': {"root['area_km2']": '3,460'}, 'values_changed': {"root['area_sq_mi']": {'new_value': '1335.913', 'old_value': '1,500 '}}}
+199: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey', 'old_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the occupation zone.'}}}
+216: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Occupied territory', 'old_value': 'Self-governance under military occupation'}}}
+241: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the occupation zone.', 'old_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the zone.'}}}
+242: {'values_changed': {"root['common_name']": {'new_value': 'Turkish-occupied Northern Syria', 'old_value': 'Turkish-backed Free Syrian Army zone Northern Syria'}}}
+244: {'values_changed': {"root['common_name']": {'new_value': 'Turkish-backed Free Syrian Army zone Northern Syria', 'old_value': 'Turkish-occupied Northern Syria'}, "root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the zone.', 'old_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the occupation zone.'}}}
+245: {'values_changed': {"root['common_name']": {'new_value': 'Turkish-occupied Northern Syria', 'old_value': 'Turkish-backed Free Syrian Army zone Northern Syria'}, "root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the occupation zone.', 'old_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the zone.'}}}
+249: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Self-governance under military occupation', 'old_value': 'Self-governance'}}}
+250: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Self-governance', 'old_value': 'Self-governance under military occupation'}}}
+258: {'values_changed': {"root['common_name']": {'new_value': 'Turkish-backed Free Syrian Army zone Northern Syria', 'old_value': 'Northern Syrian Security Belt'}}}
+272: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags of the Syrian opposition and Turkey; both are widely used in the zone.', 'old_value': 'The Syrian indepencence flag and the Turkish flag; both are widely used in the zone.'}}}
+278: {'values_changed': {"root['flag_caption']": {'new_value': 'The Syrian indepencence flag and the Turkish flag; both are widely used in the zone.', 'old_value': 'The Syrian independence flag and the Turkish flag; both are widely used in the zone.'}}}
+282: {'values_changed': {"root['leader_name2']": {'new_value': 'Jawad Abu Hatab', 'old_value': 'Position Vacant'}}}
+283: {'values_changed': {"root['leader_name2']": {'new_value': 'Position Vacant', 'old_value': 'Jawad Abu Hatab'}}}
+308: {'dictionary_item_removed': {"root['image_map1']": 'Turkish Northern Syria.svg', "root['map_caption1']": 'Occupation zone after Operation Olive Branch'}}
+310: {'dictionary_item_added': {"root['image_map1']": 'Turkish Northern Syria.svg', "root['map_caption1']": 'Occupation zone after Operation Olive Branch'}, 'dictionary_item_removed': {"root['established_event3']": 'Third intervention', "root['established_date3']": '9 October 2019'}}
+318: {'values_changed': {"root['area_sq_mi']": {'new_value': '1,500 ', 'old_value': '3,1330 '}}}
+320: {'values_changed': {"root['area_sq_mi']": {'new_value': '3,1330 ', 'old_value': '3,130 '}}}
+333: {'values_changed': {"root['leader_name1']": {'new_value': 'Abdurrahman Mustafa', 'old_value': 'Anas al-Abdah'}, "root['leader_name2']": {'new_value': 'Jawad Abu Hatab', 'old_value': 'Abdurrahman Mustafa'}}}
+334: {'dictionary_item_removed': {"root['leader_title3']": 'Minister of Defence', "root['leader_name3']": 'Salim Idris'}}
+339: {'dictionary_item_added': {"root['area_sq_mi']": '3,130 '}, 'dictionary_item_removed': {"root['area_km2']": '8835 '}}
+366: {'dictionary_item_removed': {"root['headquarters']": 'Azaz '}}
+376: {'dictionary_item_added': {"root['headquarters']": 'Azaz '}, 'dictionary_item_removed': {"root['population_estimate']": '1,688,068', "root['population_estimate_year']": '2020'}}
+377: {'values_changed': {"root['population_estimate']": {'new_value': '1,688,068', 'old_value': '+1,688,068'}}}
+378: {'values_changed': {"root['population_estimate']": {'new_value': '+1,688,068', 'old_value': '1,688,068'}}}
+379: {'values_changed': {"root['largest_city']": {'new_value': 'al-Bab', 'old_value': 'Azaz'}, "root['population_estimate']": {'new_value': '1,688,068', 'old_value': '1,688,068 title=Afrin: Kurdish population more than halved since 2018 offensive, says rights group'}}}
+380: {'values_changed': {"root['population_estimate']": {'new_value': '1,688,068 title=Afrin: Kurdish population more than halved since 2018 offensive, says rights group', 'old_value': "1,688,068 title=Afrin: Kurdish population more than halved since 2018 offensive, says rights group   title=Fırat Kalkanı Bölgesinde Demografik Sayılar   title=Vali Erin: Telabyad ve Resulayn'ın nüfusu 180 binin üzerinde"}}}
+383: {'values_changed': {"root['population_estimate']": {'new_value': "1,688,068 title=Afrin: Kurdish population more than halved since 2018 offensive, says rights group   title=Fırat Kalkanı Bölgesinde Demografik Sayılar   title=Vali Erin: Telabyad ve Resulayn'ın nüfusu 180 binin üzerinde", 'old_value': '2,480,000'}}}
+399: {'values_changed': {"root['common_name']": {'new_value': 'Northern Syrian Security Belt', 'old_value': 'Northern National Socialist Security Belt'}}}
+401: {'values_changed': {"root['common_name']": {'new_value': 'Northern National Socialist Security Belt', 'old_value': 'Northern Syrian Security Belt'}}}
+405: {'values_changed': {"root['largest_city']": {'new_value': 'Azaz', 'old_value': 'Afrin'}}}
+417: {'values_changed': {"root['population_estimate']": {'new_value': '2,480,000', 'old_value': '2,300,000  (per Turkey)'}}}
+430: {'dictionary_item_added': {"root['population_estimate']": '2,300,000  (per Turkey)', "root['population_estimate_year']": '2020'}, 'values_changed': {"root['flag_caption']": {'new_value': 'The Syrian independence flag and the Turkish flag; both are widely used in the zone.', 'old_value': 'The Syrian independence flag and the Turkish flag; both are widely used in the zone.     '}}}
+436: {'values_changed': {"root['common_name']": {'new_value': 'Northern Syrian Security Belt', 'old_value': 'Turkish occupation of northern Syria'}, "root['flag_caption']": {'new_value': 'The Syrian independence flag and the Turkish flag; both are widely used in the zone.     ', 'old_value': 'The First Syrian Republic flag and the Turkish flag; both are widely used in the zone.     '}}}
+437: {'values_changed': {"root['flag_caption']": {'new_value': 'The First Syrian Republic flag and the Turkish flag; both are widely used in the zone.     ', 'old_value': 'The Syrian independence flag and the Turkish flag; both are widely used in the zone.     '}}}
+444: {'values_changed': {"root['common_name']": {'new_value': 'Turkish occupation of northern Syria', 'old_value': 'Northern Syrian Security Belt'}}}
+445: {'values_changed': {"root['common_name']": {'new_value': 'Northern Syrian Security Belt', 'old_value': 'Turkish occupation of northern Syria'}}}
+448: {'values_changed': {"root['common_name']": {'new_value': 'Turkish occupation of northern Syria', 'old_value': 'Turkish Liberation of Northern Syria'}}}
+449: {'values_changed': {"root['common_name']": {'new_value': 'Turkish Liberation of Northern Syria', 'old_value': 'Turkish occupation of northern Syria'}}}

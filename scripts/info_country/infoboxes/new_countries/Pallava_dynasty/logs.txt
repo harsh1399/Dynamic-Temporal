@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Pallava', "root['continent']": 'Asia', "root['region']": 'South-East Asia', "root['country']": 'India', "root['status']": 'Kingdom', "root['religion']": 'Hinduism', "root['leader1']": 'Simhavarman I', "root['year_leader1']": '275–300 CE', "root['leader2']": 'Aparajitavarman', "root['year_leader2']": '882–897 CE'}}
+92: {'values_changed': {"root['status']": {'new_value': 'Kingdom', 'old_value': 'Dynasty'}}}
+93: {'values_changed': {"root['common_name']": {'new_value': 'Pallava', 'old_value': 'Pallavas'}}}
+98: {'values_changed': {"root['common_name']": {'new_value': 'Pallavas', 'old_value': 'Pallava'}}}
+101: {'values_changed': {"root['year_leader2']": {'new_value': '882–897 CE', 'old_value': '882–897 CE  Language          = Telugu'}}}
+104: {'values_changed': {"root['year_leader2']": {'new_value': '882–897 CE  Language          = Telugu', 'old_value': '882–897 CE'}}}
+110: {'dictionary_item_removed': {"root['language']": 'Telugu'}}
+117: {'dictionary_item_added': {"root['language']": 'Telugu'}, 'values_changed': {"root['year_leader1']": {'new_value': '275–300 CE', 'old_value': '275–300'}, "root['year_leader2']": {'new_value': '882–897 CE', 'old_value': '882–897'}}}
+118: {'values_changed': {"root['leader1']": {'new_value': 'Simhavarman I', 'old_value': 'Simhavarma I'}, "root['leader2']": {'new_value': 'Aparajitavarman', 'old_value': 'Aparajitavarma'}}}

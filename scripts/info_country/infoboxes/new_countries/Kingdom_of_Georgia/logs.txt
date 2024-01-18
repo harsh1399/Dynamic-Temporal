@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Georgia  |', "root['continent']": 'Europe', "root['status']": 'Kingdom', "root['image_flag_caption']": '|', "root['religion']": 'Orthodox Christianity', "root['title_leader']": 'King', "root['leader1']": 'Bagrat III  (first)', "root['year_leader1']": '978-1014', "root['leader2']": 'George VIII  (last)', "root['year_leader2']": '1446-1465', "root['year_deputy2']": '|', "root['today']": 'titlesty'}}
+11: {'values_changed': {"root['year_leader1']": {'new_value': '978-1014', 'old_value': '978–1014'}, "root['year_leader2']": {'new_value': '1446-1465', 'old_value': '1446–1465'}}}
+13: {'values_changed': {"root['year_leader1']": {'new_value': '978–1014', 'old_value': '978-1014'}, "root['year_leader2']": {'new_value': '1446–1465', 'old_value': '1446-1465'}}}
+29: {'values_changed': {"root['image_flag_caption']": {'new_value': '|', 'old_value': 'Flag |'}}}
+35: {'values_changed': {"root['common_name']": {'new_value': 'Georgia  |', 'old_value': 'Kingdom of Georgia  |'}}}
+42: {'dictionary_item_added': {"root['status']": 'Kingdom'}, 'values_changed': {"root['common_name']": {'new_value': 'Kingdom of Georgia  |', 'old_value': 'Kingdom of Georgia'}}}
+61: {'dictionary_item_removed': {"root['p6']": 'Emirate of Tbilisi'}}
+79: {'dictionary_item_added': {"root['p6']": 'Emirate of Tbilisi'}, 'values_changed': {"root['religion']": {'new_value': 'Orthodox Christianity', 'old_value': 'Eastern Orthodox Christianity'}}}
+84: {'values_changed': {"root['religion']": {'new_value': 'Eastern Orthodox Christianity', 'old_value': 'Georgian Orthodox Church'}}}
+85: {'values_changed': {"root['religion']": {'new_value': 'Georgian Orthodox Church', 'old_value': 'Eastern Orthodox Christianity'}}}
+97: {'values_changed': {"root['common_name']": {'new_value': 'Kingdom of Georgia', 'old_value': 'Georgia'}}}
+98: {'dictionary_item_removed': {"root['image_s2']": 'x'}}
+106: {'dictionary_item_added': {"root['image_flag_caption']": 'Flag |'}, 'values_changed': {"root['common_name']": {'new_value': 'Georgia', 'old_value': 'Georgia (country)'}}}
+119: {'dictionary_item_added': {"root['image_s2']": 'x', "root['today']": 'titlesty'}, 'dictionary_item_removed': {"root['region']": 'Caucasus', "root['life_span']": '1008–1490/1', "root['stat_year1']": '1213-1245', "root['stat_area1']": '380000', "root['stat_year2']": '13th century', "root['stat_pop2']": '2.4–2.5 millions'}, 'values_changed': {"root['common_name']": {'new_value': 'Georgia (country)', 'old_value': 'Kingdom of Georgia'}, "root['continent']": {'new_value': 'Europe', 'old_value': 'Eurasia'}, "root['religion']": {'new_value': 'Eastern Orthodox Christianity', 'old_value': 'Dominant, Orthodox Christianity  (Georgian Orthodox Church)  '}, "root['title_leader']": {'new_value': 'King', 'old_value': 'King, King of Kings'}, "root['year_leader1']": {'new_value': '978-1014', 'old_value': '978–1014'}, "root['year_leader2']": {'new_value': '1446-1465', 'old_value': '1446–1465'}}}
+147: {'dictionary_item_added': {"root['continent']": 'Eurasia', "root['region']": 'Caucasus'}, 'values_changed': {"root['stat_year2']": {'new_value': '13th century', 'old_value': '1254'}}}
+160: {'values_changed': {"root['life_span']": {'new_value': '1008–1490/1', 'old_value': '1008–1463/1490'}, "root['religion']": {'new_value': 'Dominant, Orthodox Christianity  (Georgian Orthodox Church)  ', 'old_value': "'''Official''', Orthodox Christianity  (Georgian Orthodox Church)"}, "root['year_leader1']": {'new_value': '978–1014', 'old_value': '1008–1014'}, "root['leader2']": {'new_value': 'George VIII  (last)', 'old_value': 'George VIII  (last) , Constantine II'}, "root['year_leader2']": {'new_value': '1446–1465', 'old_value': '1446–1463, 1478–1490'}}}
+162: {'dictionary_item_removed': {"root['image_coat_caption']": 'Coat of arms'}}
+163: {'values_changed': {"root['life_span']": {'new_value': '1008–1463/1490', 'old_value': '1008–1490'}, "root['religion']": {'new_value': "'''Official''', Orthodox Christianity  (Georgian Orthodox Church)", 'old_value': 'Eastern Orthodox Christianity  (Georgian Patriarchate)'}, "root['leader2']": {'new_value': 'George VIII  (last) , Constantine II', 'old_value': 'Constantine II'}, "root['year_leader2']": {'new_value': '1446–1463, 1478–1490', 'old_value': '1478–1490'}, "root['stat_area1']": {'new_value': '380000', 'old_value': '250000'}}}
+164: {'values_changed': {"root['leader2']": {'new_value': 'Constantine II', 'old_value': 'Constantine II  (last)'}}}
+165: {'dictionary_item_removed': {"root['p6']": 'Emirate of Tbilisi', "root['flag_p6']": 'Flag_of_None.svg'}}
+167: {'values_changed': {"root['stat_pop2']": {'new_value': '2.4–2.5 millions', 'old_value': '2.4–2.5 millions     or ~5 millions'}}}
+188: {'dictionary_item_added': {"root['image_coat_caption']": 'Coat of arms'}, 'values_changed': {"root['leader1']": {'new_value': 'Bagrat III  (first)', 'old_value': 'Bagrat III'}, "root['year_leader1']": {'new_value': '1008–1014', 'old_value': '1008–1014  (first)'}, "root['leader2']": {'new_value': 'Constantine II  (last)', 'old_value': 'Constantine II'}, "root['year_leader2']": {'new_value': '1478–1490', 'old_value': '1478–1490  (last)'}}}
+195: {'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '380000'}}}
+196: {'values_changed': {"root['stat_area1']": {'new_value': '380000', 'old_value': '250000'}}}
+197: {'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '~ 380000'}}}
+198: {'values_changed': {"root['stat_area1']": {'new_value': '~ 380000', 'old_value': '380000'}}}
+199: {'values_changed': {"root['stat_area1']": {'new_value': '380000', 'old_value': '250000'}}}
+203: {'values_changed': {"root['leader2']": {'new_value': 'Constantine II', 'old_value': 'George VIII of Georgia'}}}
+204: {'values_changed': {"root['year_leader2']": {'new_value': '1478–1490  (last)', 'old_value': '1417-1476  (last)'}}}
+205: {'values_changed': {"root['stat_pop2']": {'new_value': '2.4–2.5 millions     or ~5 millions', 'old_value': '2.4–2.5 million     or ~5 million'}}}
+207: {'values_changed': {"root['leader2']": {'new_value': 'George VIII of Georgia', 'old_value': 'George VIII'}}}
+222: {'dictionary_item_added': {"root['common_name']": 'Kingdom of Georgia', "root['year_deputy2']": '|'}, 'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '450000'}}}
+224: {'values_changed': {"root['stat_pop2']": {'new_value': '2.4–2.5 million     or ~5 million', 'old_value': '6.5 or 8 million'}}}
+225: {'values_changed': {"root['stat_area1']": {'new_value': '450000', 'old_value': '250000'}, "root['stat_pop2']": {'new_value': '6.5 or 8 million', 'old_value': '2.4–2.5 million     or ~5 million'}}}
+229: {'values_changed': {"root['year_leader2']": {'new_value': '1417-1476  (last)', 'old_value': '1417–1476  (last)'}, "root['stat_year1']": {'new_value': '1213-1245', 'old_value': '1213–1245'}}}
+244: {'dictionary_item_added': {"root['flag_p6']": 'Flag_of_None.svg'}, 'values_changed': {"root['year_leader2']": {'new_value': '1417–1476  (last)', 'old_value': '1446–1465  (last)'}}}
+252: {'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '1.110.772'}}}
+253: {'values_changed': {"root['stat_area1']": {'new_value': '1.110.772', 'old_value': '250000'}}}
+254: {'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '1.110.772'}}}
+255: {'dictionary_item_removed': {"root['area_rank']": '1,110,772'}}
+256: {'values_changed': {"root['area_rank']": {'new_value': '1,110,772', 'old_value': '1110772'}}}
+257: {'values_changed': {"root['stat_area1']": {'new_value': '1.110.772', 'old_value': '1110772'}}}
+258: {'values_changed': {"root['stat_pop2']": {'new_value': '2.4–2.5 million     or ~5 million', 'old_value': '5–8 million     or ~12 million'}}}
+275: {'values_changed': {"root['stat_area1']": {'new_value': '1110772', 'old_value': '250000'}}}
+276: {'values_changed': {"root['stat_area1']": {'new_value': '250000', 'old_value': '1110772'}}}
+277: {'values_changed': {"root['area_rank']": {'new_value': '1110772', 'old_value': '659878'}}}
+278: {'values_changed': {"root['stat_area1']": {'new_value': '1110772', 'old_value': '659878'}}}
+285: {'values_changed': {"root['stat_area1']": {'new_value': '659878', 'old_value': '1,153,878'}}}
+286: {'values_changed': {"root['stat_area1']": {'new_value': '1,153,878', 'old_value': '659878'}}}
+309: {'dictionary_item_added': {"root['stat_year1']": '1213–1245', "root['stat_area1']": '659878', "root['area_rank']": '659878'}, 'values_changed': {"root['stat_pop2']": {'new_value': '5–8 million     or ~12 million', 'old_value': '~2.5 million  , 5–8 million,   or ~12 million'}}}
+310: {'dictionary_item_added': {"root['stat_year2']": '1254', "root['stat_pop2']": '~2.5 million  , 5–8 million,   or ~12 million'}, 'dictionary_item_removed': {"root['stat_pop1']": '~2.5 million  , 5–8 million,   or ~12 million'}}
+317: {'dictionary_item_added': {"root['stat_pop1']": '~2.5 million  , 5–8 million,   or ~12 million'}, 'values_changed': {"root['religion']": {'new_value': 'Eastern Orthodox Christianity  (Georgian Patriarchate)', 'old_value': 'Eastern Orthodox Christianity (Georgian Patriarchate)'}, "root['year_leader1']": {'new_value': '1008–1014  (first)', 'old_value': '1008–1014 (first)'}, "root['year_leader2']": {'new_value': '1446–1465  (last)', 'old_value': '1446–1465 (last)'}}}

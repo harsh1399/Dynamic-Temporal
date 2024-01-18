@@ -1,0 +1,6 @@
+3: {'dictionary_item_removed': {"root['common_name']": 'Westarctica', "root['official_languages']": 'English, German', "root['demonym']": 'Westarctican', "root['leader_title1']": 'Grand Duke', "root['leader_name1']": 'Travis McHenry', "root['area_km2']": '1,600,000,000', "root['area_sq_mi']": '1,000,000', "root['population_estimate']": '2150 (2018)'}}
+4: {'dictionary_item_added': {"root['area_sq_mi']": '1,000,000'}, 'values_changed': {"root['area_km2']": {'new_value': '1,600,000,000', 'old_value': '1,600,000'}}}
+7: {'dictionary_item_removed': {"root['leader_title2']": 'Prime Minister', "root['leader_name2']": 'Jordan Farmer', "root['population_census_year']": '2018'}, 'values_changed': {"root['population_estimate']": {'new_value': '2150 (2018)', 'old_value': '2,150'}}}
+15: {'values_changed': {"root['area_km2']": {'new_value': '1,600,000', 'old_value': '1,320,000'}}}
+19: {'values_changed': {"root['leader_name2']": {'new_value': 'Jordan Farmer', 'old_value': 'Anastasija Ukolowa'}}}
+29: {'values_changed': {"root['leader_name2']": {'new_value': 'Anastasija Ukolowa', 'old_value': 'Jordan Farmer'}}}

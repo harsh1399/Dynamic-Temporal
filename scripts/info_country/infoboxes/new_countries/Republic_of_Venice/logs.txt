@@ -1,0 +1,23 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Venice |', "root['continent']": 'Europe', "root['region']": 'Italy', "root['country']": 'Italy', "root['status']": 'City |', "root['religion']": 'Roman Catholic', "root['title_leader']": 'Doge', "root['leader1']": 'Paolo Lucio Anafesto', "root['year_leader1']": [')'], "root['leader2']": 'Orso Ipato', "root['leader3']": 'Ludovico Manin', "root['year_leader3']": '1789–97 (last) |'}}
+8: {'values_changed': {"root['region']": {'new_value': 'Italy', 'old_value': 'Italyopii'}}}
+9: {'values_changed': {"root['region']": {'new_value': 'Italyopii', 'old_value': 'Italy'}}}
+20: {'values_changed': {"root['status']": {'new_value': 'City |', 'old_value': 'state |'}}}
+31: {'values_changed': {"root['status']": {'new_value': 'state |', 'old_value': '|'}}}
+51: {'dictionary_item_added': {"root['religion']": 'Roman Catholic', "root['title_leader']": 'Doge', "root['leader1']": 'Paolo Lucio Anafesto', "root['year_leader1']": [')'], "root['leader2']": 'Orso Ipato'}, 'values_changed': {"root['common_name']": {'new_value': 'Venice |', 'old_value': 'Florence |'}, "root['leader3']": {'new_value': 'Ludovico Manin', 'old_value': "Alessandro de' Medici"}, "root['year_leader3']": {'new_value': '1789–97 (last) |', 'old_value': '1531-1533 (last) |'}}}
+52: {'dictionary_item_removed': {"root['religion']": 'Roman Catholic', "root['title_leader']": 'Doge', "root['leader1']": 'Paolo Lucio Anafesto', "root['year_leader1']": [')'], "root['leader2']": 'Orso Ipato'}, 'values_changed': {"root['common_name']": {'new_value': 'Florence |', 'old_value': 'Venice |'}, "root['leader3']": {'new_value': "Alessandro de' Medici", 'old_value': 'Ludovico Manin'}, "root['year_leader3']": {'new_value': '1531-1533 (last) |', 'old_value': '1789–97 (last) |'}}}
+82: {'values_changed': {"root['region']": {'new_value': 'Italy', 'old_value': 'Rome'}}}
+83: {'values_changed': {"root['region']": {'new_value': 'Rome', 'old_value': 'Italy'}}}
+88: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic', 'old_value': 'Roman Catholic, Greek Orthodox'}, "root['title_leader']": {'new_value': 'Doge', 'old_value': "Doge ''(Duke)''"}}}
+97: {'values_changed': {"root['continent']": {'new_value': 'Europe', 'old_value': 'Asia'}}}
+98: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Europe'}}}
+111: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholic, Greek Orthodox', 'old_value': 'Roman Catholic,'}}}
+120: {'type_changes': {"root['year_leader1']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '697–717  (first)', 'new_value': [')']}}, 'dictionary_item_added': {"root['country']": 'Italy', "root['status']": '|', "root['religion']": 'Roman Catholic,', "root['title_leader']": "Doge ''(Duke)''", "root['leader3']": 'Ludovico Manin', "root['year_leader3']": '1789–97 (last) |'}, 'dictionary_item_removed': {"root['year_leader2']": '1789–1797  (last)'}, 'values_changed': {"root['leader2']": {'new_value': 'Orso Ipato', 'old_value': 'Ludovico Manin'}}}
+159: {'values_changed': {"root['common_name']": {'new_value': 'Venice |', 'old_value': 'Venice'}}}
+205: {'dictionary_item_added': {"root['continent']": 'Europe', "root['region']": 'Italy'}, 'dictionary_item_removed': {"root['demonym']": 'area_km2'}}
+208: {'dictionary_item_added': {"root['demonym']": 'area_km2'}, 'dictionary_item_removed': {"root['official_languages']": ['Italian', 'Venetian', 'Latin'], "root['languages']": ['Friulian', 'Lombard', 'Ladin', 'Istriot', 'Dalmatian', 'Albanian', 'Greek', 'Croatian', 'Slovene'], "root['title_leader']": 'Doge', "root['religion']": ['Roman Catholicism']}}
+226: {'values_changed': {"root['official_languages'][0]": {'new_value': 'Italian', 'old_value': 'Venetian'}, "root['official_languages'][1]": {'new_value': 'Venetian', 'old_value': 'Italian'}}}
+227: {'values_changed': {"root['official_languages'][0]": {'new_value': 'Venetian', 'old_value': 'Italian'}, "root['official_languages'][1]": {'new_value': 'Italian', 'old_value': 'Venetian'}}}
+258: {'iterable_item_added': {"root['official_languages'][0]": 'Italian'}}
+281: {'iterable_item_removed': {"root['official_languages'][0]": 'Italian'}}
+282: {'values_changed': {"root['languages'][7]": {'new_value': 'Croatian', 'old_value': 'Serbo-Croatian'}}}
+283: {'values_changed': {"root['year_leader1']": {'new_value': '697–717  (first)', 'old_value': '697–717 (first)'}, "root['year_leader2']": {'new_value': '1789–1797  (last)', 'old_value': '1789–1797 (last)'}}}

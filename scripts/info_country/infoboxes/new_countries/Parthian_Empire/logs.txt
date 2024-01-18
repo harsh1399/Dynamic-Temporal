@@ -1,0 +1,29 @@
+4: {'dictionary_item_removed': {"root['common_name']": 'Parthia', "root['continent']": 'Asia', "root['region']": 'Middle East, Central Asia', "root['country']": 'Parthia', "root['status']": 'Empire |'}}
+19: {'dictionary_item_removed': {"root['latd']": '|latm= |latNS= |longd= |longm= |longEW=  |', "root['religion']": 'Zoroastrianism, Christianity, Judaism', "root['title_leader']": 'Shāhanshāh', "root['title_deputy']": '| |'}, 'values_changed': {"root['common_name']": {'new_value': 'Parthia', 'old_value': 'Parthia |'}, "root['region']": {'new_value': 'Middle East, Central Asia', 'old_value': 'Middle East, Central Asia, and Western Asia'}, "root['country']": {'new_value': 'Parthia', 'old_value': 'Iran'}, "root['status']": {'new_value': 'Empire |', 'old_value': 'Empire'}}}
+96: {'dictionary_item_added': {"root['title_leader']": 'Shāhanshāh'}, 'values_changed': {"root['common_name']": {'new_value': 'Parthia |', 'old_value': 'Parthian Empire'}, "root['religion']": {'new_value': 'Zoroastrianism, Christianity, Judaism', 'old_value': 'Syncretic Helleno-Zoroastrianism'}}}
+110: {'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire', 'old_value': 'Parthian or Arsacid Empire |'}}}
+217: {'values_changed': {"root['common_name']": {'new_value': 'Parthian or Arsacid Empire |', 'old_value': 'Parthian Empire |'}}}
+218: {'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire |', 'old_value': '|'}}}
+219: {'values_changed': {"root['common_name']": {'new_value': '|', 'old_value': 'Parthian Empire |'}}}
+254: {'values_changed': {"root['status']": {'new_value': 'Empire', 'old_value': '== God =='}}}
+255: {'values_changed': {"root['status']": {'new_value': '== God ==', 'old_value': 'Empire'}}}
+801: {'dictionary_item_removed': {"root['_noautocat']": 'True '}}
+869: {'dictionary_item_added': {"root['status']": 'Empire', "root['latd']": '|latm= |latNS= |longd= |longm= |longEW=  |', "root['title_deputy']": '| |'}, 'dictionary_item_removed': {"root['border_p1']": 'no', "root['title_leader']": 'Shahanshah', "root['leader1']": 'Arsaces I  (first)', "root['year_leader1']": '247–211 BC', "root['leader2']": 'Artabanus V  (last)', "root['year_leader2']": '208–224 AD |'}, 'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Eurasia'}, "root['region']": {'new_value': 'Middle East, Central Asia, and Western Asia', 'old_value': 'Western Asia'}, "root['country']": {'new_value': 'Iran', 'old_value': 'Iran, Turkmenistan'}, "root['religion']": {'new_value': 'Syncretic Helleno-Zoroastrianism', 'old_value': 'Zoroastrianism, Babylonian religion'}}}
+906: {'values_changed': {"root['country']": {'new_value': 'Iran, Turkmenistan', 'old_value': 'Iran, Iraq'}}}
+910: {'values_changed': {"root['_noautocat']": {'new_value': 'True ', 'old_value': '1974'}}}
+911: {'values_changed': {"root['_noautocat']": {'new_value': '1974', 'old_value': 'True '}}}
+927: {'dictionary_item_removed': {"root['stat_year1']": '0 ', "root['stat_area1']": '2800000 |'}, 'values_changed': {"root['year_leader2']": {'new_value': '208–224 AD |', 'old_value': '208–224 AD'}}}
+949: {'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire |', 'old_value': 'Parthian Empire'}, "root['stat_area1']": {'new_value': '2800000 |', 'old_value': '2800000'}}}
+951: {'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire', 'old_value': 'Parthian Empire |'}, "root['stat_area1']": {'new_value': '2800000', 'old_value': '2800000 |'}}}
+953: {'values_changed': {"root['region']": {'new_value': 'Western Asia', 'old_value': 'Western colombia'}}}
+954: {'values_changed': {"root['region']": {'new_value': 'Western colombia', 'old_value': 'Western Asia'}}}
+964: {'values_changed': {"root['year_leader2']": {'new_value': '208–224 AD', 'old_value': 'AD 208–224'}, "root['stat_year1']": {'new_value': '0 ', 'old_value': 'AD 1 '}}}
+965: {'values_changed': {"root['year_leader2']": {'new_value': 'AD 208–224', 'old_value': '208–224 AD'}, "root['stat_year1']": {'new_value': 'AD 1 ', 'old_value': '0 '}}}
+968: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Zoroastrianism', 'Babylonian religion'], 'new_value': 'Zoroastrianism, Babylonian religion'}}, 'dictionary_item_added': {"root['country']": 'Iran, Iraq'}, 'values_changed': {"root['leader2']": {'new_value': 'Artabanus V  (last)', 'old_value': 'Vologases VI  (last)'}, "root['stat_year1']": {'new_value': '0 ', 'old_value': '1 AD '}}}
+969: {'values_changed': {"root['year_leader1']": {'new_value': '247–211 BC', 'old_value': '247–211 BCE'}}}
+971: {'values_changed': {"root['year_leader2']": {'new_value': '208–224 AD', 'old_value': '208–224 CE'}, "root['stat_year1']": {'new_value': '1 AD ', 'old_value': '1 CE '}}}
+973: {'values_changed': {"root['year_leader1']": {'new_value': '247–211 BCE', 'old_value': '247–211 BC'}, "root['year_leader2']": {'new_value': '208–224 CE', 'old_value': '208–224 AD'}, "root['stat_year1']": {'new_value': '1 CE ', 'old_value': '1 AD '}}}
+1001: {'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire |', 'old_value': 'Arsacid Empire |'}}}
+1003: {'values_changed': {"root['common_name']": {'new_value': 'Arsacid Empire |', 'old_value': 'Parthian Empire |'}}}
+1004: {'dictionary_item_added': {"root['continent']": 'Eurasia'}, 'values_changed': {"root['common_name']": {'new_value': 'Parthian Empire |', 'old_value': 'continent              = Eurasia'}}}
+1005: {'dictionary_item_removed': {"root['continent']": 'Eurasia'}, 'values_changed': {"root['common_name']": {'new_value': 'continent              = Eurasia', 'old_value': 'Parthian Empire |'}}}

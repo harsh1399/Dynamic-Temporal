@@ -1,0 +1,5 @@
+9: {'dictionary_item_removed': {"root['common_name']": 'Tatar  |', "root['continent']": 'Asia', "root['country']": 'Mongolia', "root['status']": 'nomadic confederacy', "root['religion']": 'Tengriism ( Shamanism ) |', "root['title_leader']": 'chief', "root['leader2']": 'Temujin-Uge', "root['leader3']": 'Megujin', "root['leader4']": 'Jalibukha', "root['year_leader5']": '|', "root['stat_area3']": '|'}}
+22: {'values_changed': {"root['status']": {'new_value': 'nomadic confederacy', 'old_value': 'nomadic confederation'}}}
+30: {'dictionary_item_added': {"root['continent']": 'Asia', "root['country']": 'Mongolia'}, 'dictionary_item_removed': {"root['today']": 'Mongolia, China |'}, 'values_changed': {"root['religion']": {'new_value': 'Tengriism ( Shamanism ) |', 'old_value': 'Shamanism |'}, "root['leader3']": {'new_value': 'Megujin', 'old_value': 'Megujin suult'}}}
+64: {'values_changed': {"root['religion']": {'new_value': 'Shamanism |', 'old_value': 'Tengrism |'}}}
+91: {'values_changed': {"root['status']": {'new_value': 'nomadic confederation', 'old_value': 'Nomadic confederation'}}}

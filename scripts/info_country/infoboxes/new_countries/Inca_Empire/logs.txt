@@ -1,0 +1,55 @@
+1040: {'dictionary_item_removed': {"root['common_name']": 'Inca Empire', "root['continent']": 'South America', "root['region']": 'Andes', "root['country']": 'Peru', "root['status']": 'Empire', "root['title_leader']": 'Qhapaq Inka'}}
+1041: {'dictionary_item_removed': {"root['leader1']": 'Sapa Inca', "root['stat_area1']": '2000000', "root['stat_pop1']": '15000000', "root['stat_year1']": 'Approximation '}}
+1058: {'values_changed': {"root['title_leader']": {'new_value': 'Qhapaq Inka', 'old_value': 'Sole ruler'}, "root['stat_year1']": {'new_value': 'Approximation ', 'old_value': '1527 '}}}
+1077: {'values_changed': {"root['status']": {'new_value': 'Empire', 'old_value': 'Empire year_start = 1197'}}}
+1078: {'values_changed': {"root['status']": {'new_value': 'Empire year_start = 1197', 'old_value': 'Empires year_start = 1197'}}}
+1080: {'values_changed': {"root['status']": {'new_value': 'Empires year_start = 1197', 'old_value': 'Empire'}}}
+1100: {'values_changed': {"root['country']": {'new_value': 'Peru', 'old_value': 'Peru kinnie'}}}
+1103: {'values_changed': {"root['country']": {'new_value': 'Peru kinnie', 'old_value': 'Peru'}}}
+1203: {'dictionary_item_added': {"root['country']": 'Peru', "root['stat_year1']": '1527 '}, 'dictionary_item_removed': {"root['religion']": 'Inca religion', "root['leader2']": 'Túpac Inca Yupanqui', "root['leader3']": 'Huayna Capac', "root['leader4']": 'Huáscar', "root['leader5']": 'Atahualpa', "root['year_leader1']": '1438–1471', "root['year_leader2']": '1471–1493', "root['year_leader3']": '1493–1527', "root['year_leader4']": '1527–1532', "root['year_leader5']": '1532–1533   | stat_year1  = 1438', "root['stat_year2']": '1527', "root['stat_area2']": '2000000', "root['stat_pop2']": '20000000'}, 'values_changed': {"root['region']": {'new_value': 'Andes', 'old_value': 'Andes and a small part of the Amazon Basin'}, "root['leader1']": {'new_value': 'Sapa Inca', 'old_value': 'Pachacuti'}, "root['title_leader']": {'new_value': 'Sole ruler', 'old_value': 'Sapa Inca'}, "root['stat_area1']": {'new_value': '2000000', 'old_value': '800000'}, "root['stat_pop1']": {'new_value': '15000000', 'old_value': '12000000'}}}
+1283: {'dictionary_item_added': {"root['stat_area1']": '800000', "root['stat_pop1']": '12000000'}, 'values_changed': {"root['stat_pop2']": {'new_value': '20000000', 'old_value': '10000000'}}}
+1341: {'values_changed': {"root['leader4']": {'new_value': 'Huáscar', 'old_value': 'Enrique Peña Nieto'}}}
+1343: {'values_changed': {"root['leader4']": {'new_value': 'Enrique Peña Nieto', 'old_value': 'Huáscar'}}}
+1351: {'values_changed': {"root['leader4']": {'new_value': 'Huáscar', 'old_value': 'Mexico cajl CHink haey afguys jslafjsk dsklfadflj ;;;;jdfsHuáscar'}}}
+1352: {'values_changed': {"root['leader4']": {'new_value': 'Mexico cajl CHink haey afguys jslafjsk dsklfadflj ;;;;jdfsHuáscar', 'old_value': 'Huáscar'}}}
+1389: {'dictionary_item_removed': {"root['today']": 'Argentina Bolivia Chile Colombia Ecuador Peru |'}}
+1390: {'values_changed': {"root['region']": {'new_value': 'Andes and a small part of the Amazon Basin', 'old_value': 'Andes and a small part of the Amazon holiss'}}}
+1391: {'values_changed': {"root['region']": {'new_value': 'Andes and a small part of the Amazon holiss', 'old_value': 'Andes and a small part of the Amazon Basin'}}}
+1392: {'values_changed': {"root['religion']": {'new_value': 'Inca religion', 'old_value': 'Inca religionhola q tal?'}}}
+1393: {'values_changed': {"root['religion']": {'new_value': 'Inca religionhola q tal?', 'old_value': 'Inca religion'}}}
+1399: {'values_changed': {"root['leader1']": {'new_value': 'Pachacuti', 'old_value': 'Pachacuttttiiii'}}}
+1400: {'values_changed': {"root['leader1']": {'new_value': 'Pachacuttttiiii', 'old_value': 'Pachacuti'}}}
+1430: {'dictionary_item_added': {"root['today']": 'Argentina Bolivia Chile Colombia Ecuador Peru |'}, 'values_changed': {"root['continent']": {'new_value': 'South America', 'old_value': 'South Americaehrwfahofa;fiefhaiosdfvhiag'}}}
+1431: {'values_changed': {"root['continent']": {'new_value': 'South Americaehrwfahofa;fiefhaiosdfvhiag', 'old_value': 'South America'}}}
+1437: {'dictionary_item_removed': {"root['country']": 'somewere'}}
+1440: {'values_changed': {"root['country']": {'new_value': 'somewere', 'old_value': 'south-west America'}}}
+1444: {'dictionary_item_added': {"root['country']": 'south-west America'}, 'values_changed': {"root['continent']": {'new_value': 'South America', 'old_value': 'America'}}}
+1446: {'values_changed': {"root['continent']": {'new_value': 'America', 'old_value': 'South America'}}}
+1447: {'values_changed': {"root['continent']": {'new_value': 'South America', 'old_value': 'America'}, "root['region']": {'new_value': 'Andes and a small part of the Amazon Basin', 'old_value': 'Andes,a small part of the Amazon Basin but they have many others'}}}
+1448: {'values_changed': {"root['continent']": {'new_value': 'America', 'old_value': 'South America'}, "root['region']": {'new_value': 'Andes,a small part of the Amazon Basin but they have many others', 'old_value': 'Andes and a small part of the Amazon Basin'}}}
+1449: {'values_changed': {"root['continent']": {'new_value': 'South America', 'old_value': 'America'}}}
+1450: {'values_changed': {"root['continent']": {'new_value': 'America', 'old_value': 'South America'}}}
+1460: {'values_changed': {"root['region']": {'new_value': 'Andes and a small part of the Amazon Basin', 'old_value': 'Andes and a small part of the Amazon Jesus  Basin'}}}
+1461: {'values_changed': {"root['region']": {'new_value': 'Andes and a small part of the Amazon Jesus  Basin', 'old_value': 'Andes and a small part of the Amazon Basin'}}}
+1490: {'values_changed': {"root['leader1']": {'new_value': 'Pachacuti', 'old_value': 'Damp lips'}, "root['leader2']": {'new_value': 'Túpac Inca Yupanqui', 'old_value': 'Too pack cigarette'}}}
+1492: {'values_changed': {"root['leader1']": {'new_value': 'Damp lips', 'old_value': 'Pachacuti'}, "root['leader2']": {'new_value': 'Too pack cigarette', 'old_value': 'Túpac Inca Yupanqui'}}}
+1495: {'values_changed': {"root['common_name']": {'new_value': 'Inca Empire', 'old_value': 'KKK'}, "root['continent']": {'new_value': 'South America', 'old_value': 'Narnia'}, "root['region']": {'new_value': 'Andes and a small part of the Amazon Basin', 'old_value': 'The internet'}, "root['status']": {'new_value': 'Empire', 'old_value': 'Dead'}}}
+1496: {'values_changed': {"root['common_name']": {'new_value': 'KKK', 'old_value': 'Inca Empire'}, "root['continent']": {'new_value': 'Narnia', 'old_value': 'South America'}, "root['region']": {'new_value': 'The internet', 'old_value': 'Andes and a small part of the Amazon Basin'}, "root['status']": {'new_value': 'Dead', 'old_value': 'Empire'}}}
+1511: {'values_changed': {"root['leader1']": {'new_value': 'Pachacuti', 'old_value': 'TAHA'}, "root['leader2']": {'new_value': 'Túpac Inca Yupanqui', 'old_value': 'TAHA'}, "root['leader3']": {'new_value': 'Huayna Capac', 'old_value': 'TAHA'}, "root['leader4']": {'new_value': 'Huáscar', 'old_value': 'TAHA'}, "root['leader5']": {'new_value': 'Atahualpa', 'old_value': 'TAHA'}, "root['year_leader1']": {'new_value': '1438–1471', 'old_value': '2007–2018'}}}
+1512: {'values_changed': {"root['leader1']": {'new_value': 'TAHA', 'old_value': 'Pachacuti'}, "root['leader2']": {'new_value': 'TAHA', 'old_value': 'Túpac Inca Yupanqui'}, "root['leader3']": {'new_value': 'TAHA', 'old_value': 'Huayna Capac'}, "root['leader4']": {'new_value': 'TAHA', 'old_value': 'Huáscar'}, "root['leader5']": {'new_value': 'TAHA', 'old_value': 'Atahualpa'}, "root['year_leader1']": {'new_value': '2007–2018', 'old_value': '1438–1471'}}}
+1515: {'values_changed': {"root['common_name']": {'new_value': 'Inca Empire', 'old_value': 'The Buttholes'}}}
+1517: {'values_changed': {"root['common_name']": {'new_value': 'The Buttholes', 'old_value': 'Inca Empire'}}}
+1526: {'values_changed': {"root['continent']": {'new_value': 'South America', 'old_value': 'South Americe'}}}
+1527: {'values_changed': {"root['continent']": {'new_value': 'South Americe', 'old_value': 'South America'}}}
+1528: {'values_changed': {"root['common_name']": {'new_value': 'Inca Empire', 'old_value': 'Inca Empire.'}}}
+1551: {'dictionary_item_removed': {"root['today']": 'Argentina, Bolivia, Chile, Colombia, Ecuador, Peru |'}}
+1560: {'dictionary_item_added': {"root['today']": 'Argentina, Bolivia, Chile, Colombia, Ecuador, Peru |'}, 'values_changed': {"root['stat_pop2']": {'new_value': '10000000', 'old_value': '10000000 |'}}}
+1563: {'values_changed': {"root['stat_pop2']": {'new_value': '10000000 |', 'old_value': '10,000,000 |'}}}
+1604: {'values_changed': {"root['stat_pop2']": {'new_value': '10,000,000 |', 'old_value': 'ref_area2'}}}
+1615: {'values_changed': {"root['common_name']": {'new_value': 'Inca Empire.', 'old_value': 'Inca Empire Gay'}}}
+1640: {'values_changed': {"root['year_leader1']": {'new_value': '1438–1471', 'old_value': '1438–1472'}}}
+1641: {'values_changed': {"root['year_leader1']": {'new_value': '1438–1472', 'old_value': '1438–1471'}}}
+1645: {'values_changed': {"root['common_name']": {'new_value': 'Inca Empire Gay', 'old_value': 'sup people'}}}
+1646: {'values_changed': {"root['common_name']": {'new_value': 'sup people', 'old_value': 'Inca Empire Gay'}}}
+1654: {'values_changed': {"root['religion']": {'new_value': 'Inca religion', 'old_value': 'Inca religion Yeet'}}}
+1655: {'values_changed': {"root['religion']": {'new_value': 'Inca religion Yeet', 'old_value': 'Inca religion'}}}

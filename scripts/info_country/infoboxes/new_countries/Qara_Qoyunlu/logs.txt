@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['continent']": 'Asia', "root['region']": 'Middle-East', "root['religion']": 'Shia Islam', "root['leader1']": 'Bairam Xwaja', "root['leader2']": "Hasan 'Ali", "root['year_leader1']": '1375–1378', "root['year_leader2']": '1467–1468', "root['title_leader']": 'Ruler'}}
+34: {'values_changed': {"root['region']": {'new_value': 'Middle-East', 'old_value': 'Middle East'}}}
+55: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Islam'}}}
+56: {'values_changed': {"root['leader1']": {'new_value': 'Bairam Xwaja', 'old_value': 'Bayram Xoca'}}}
+61: {'dictionary_item_removed': {"root['today']": '1995'}}
+65: {'dictionary_item_added': {"root['today']": '1995'}, 'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Shia Islam'}}}
+93: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Islam'}}}
+113: {'values_changed': {"root['title_leader']": {'new_value': 'Ruler', 'old_value': 'Ruler '}}}
+119: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Middle East'}, 'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Shia Islam'}}}
+120: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Islam'}}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Libya', "root['continent']": 'Africa', "root['region']": 'Northern Africa', "root['country']": 'Italy', "root['religion']": 'Roman Catholicism, Islam'}}
+47: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism, Islam', 'old_value': 'Islam'}}}
+133: {'dictionary_item_added': {"root['religion']": 'Islam'}, 'dictionary_item_removed': {"root['p6']": 'Anglo-Egyptian Sudan', "root['flag_p6']": 'Flag of Anglo-Egyptian Sudan.svg'}}
+135: {'dictionary_item_added': {"root['region']": 'Northern Africa', "root['country']": 'Italy'}, 'dictionary_item_removed': {"root['leader1']": 'King Victor Emmanuel III', "root['year_leader1']": '1911-1943', "root['title_leader']": 'Monarch'}}
+150: {'dictionary_item_removed': {"root['religion']": 'Islam, Coptic Orthodoxy, Catholicism'}, 'values_changed': {"root['year_leader1']": {'new_value': '1911-1943', 'old_value': '1911-43'}}}
+151: {'values_changed': {"root['religion']": {'new_value': 'Islam, Coptic Orthodoxy, Catholicism', 'old_value': 'Islam, Coptic Orthodoxy, Judaism, Catholicism'}}}
+157: {'dictionary_item_removed': {"root['stat_year1']": '1939 ', "root['stat_area1']": '1759541', "root['stat_pop1']": '893774'}}

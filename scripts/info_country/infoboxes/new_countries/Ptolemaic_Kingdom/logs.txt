@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Ptolemaic Kingdom', "root['continent']": 'Africa', "root['region']": 'Mediterranean', "root['country']": 'Egypt', "root['religion']": 'Ancient Greek religion, Ancient Egyptian religion', "root['leader1']": 'Ptolemy I Soter '}}
+5: {'values_changed': {"root['religion']": {'new_value': 'Ancient Greek religion, Ancient Egyptian religion', 'old_value': 'Ancient Greek religion,, Ancient Egyptian religion'}}}
+27: {'dictionary_item_removed': {"root['year_leader1']": '305 BC-283 BC', "root['leader2']": 'Cleopatra (last)', "root['year_leader2']": '51 BC-30 BC', "root['title_leader']": 'Pharaoh'}, 'values_changed': {"root['common_name']": {'new_value': 'Ptolemaic Kingdom', 'old_value': 'Ptolemaic dynasty'}, "root['leader1']": {'new_value': 'Ptolemy I Soter ', 'old_value': 'Ptolemy I Soter (first)'}}}
+34: {'values_changed': {"root['common_name']": {'new_value': 'Ptolemaic dynasty', 'old_value': 'Ptolemaic Kingdom'}}}
+36: {'values_changed': {"root['year_leader1']": {'new_value': '305 BC-283 BC', 'old_value': '305–283 BC'}, "root['year_leader2']": {'new_value': '51 BC-30 BC', 'old_value': '51-30 BC'}}}
+37: {'values_changed': {"root['year_leader2']": {'new_value': '51-30 BC', 'old_value': '51–30 BC'}}}
+91: {'values_changed': {"root['common_name']": {'new_value': 'Ptolemaic Kingdom', 'old_value': 'Ptolemaic Kinigdom'}}}
+92: {'values_changed': {"root['common_name']": {'new_value': 'Ptolemaic Kinigdom', 'old_value': 'Ptolemaic Kingdom'}}}
+119: {'dictionary_item_added': {"root['country']": 'Egypt'}, 'dictionary_item_removed': {"root['border_p1']": 'no'}, 'values_changed': {"root['religion']": {'new_value': 'Ancient Greek religion,, Ancient Egyptian religion', 'old_value': 'Ancient Greek religion,   ancient Egyptian religion'}, "root['leader1']": {'new_value': 'Ptolemy I Soter (first)', 'old_value': 'Ptolemy I Soter  (first)'}, "root['leader2']": {'new_value': 'Cleopatra (last)', 'old_value': 'Cleopatra VII  (last)'}, "root['title_leader']": {'new_value': 'Pharaoh', 'old_value': 'Pharaoh '}}}
+120: {'values_changed': {"root['year_leader2']": {'new_value': '51–30 BC', 'old_value': '51–30 BCE'}}}
+121: {'values_changed': {"root['year_leader1']": {'new_value': '305–283 BC', 'old_value': '305–283 BCE'}}}
+122: {'values_changed': {"root['year_leader1']": {'new_value': '305–283 BCE', 'old_value': '305–283 BC'}, "root['year_leader2']": {'new_value': '51–30 BCE', 'old_value': '51–30 BC'}}}
+125: {'dictionary_item_removed': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh ', 'old_value': 'Pharaoh'}}}
+126: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh', 'old_value': 'Pharaoh '}}}
+134: {'dictionary_item_added': {"root['continent']": 'Africa', "root['region']": 'Mediterranean'}, 'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh ', 'old_value': 'Pharaoh'}}}
+135: {'dictionary_item_removed': {"root['today']": 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey '}}
+151: {'values_changed': {"root['today']": {'new_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey ', 'old_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey, Greece '}}}
+152: {'values_changed': {"root['today']": {'new_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey, Greece ', 'old_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey, Greece, Sudan '}}}
+153: {'values_changed': {"root['today']": {'new_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey, Greece, Sudan ', 'old_value': 'Egypt, Cyprus, Palestine, Israel, Jordan, Lebanon, Libya, Turkey, Greece '}}}
+187: {'values_changed': {"root['religion']": {'new_value': 'Ancient Greek religion,   ancient Egyptian religion', 'old_value': 'Greek polytheism,   ancient Egyptian religion, Hellenistic Religion'}}}

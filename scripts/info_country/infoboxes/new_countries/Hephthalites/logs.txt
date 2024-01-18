@@ -1,0 +1,41 @@
+61: {'dictionary_item_removed': {"root['poptime']": 'Unknown', "root['popplace']": 'Central Asia, South Asia', "root['langs']": 'Unknown', "root['rels']": 'Unknown'}}
+134: {'dictionary_item_removed': {"root['group']": 'Indo - Aryan'}}
+144: {'dictionary_item_added': {"root['group']": 'Indo - Aryan', "root['poptime']": 'Unknown', "root['popplace']": 'Central Asia, South Asia', "root['langs']": 'Unknown', "root['rels']": 'Unknown'}, 'dictionary_item_removed': {"root['common_name']": 'Hephthalites', "root['continent']": 'Asia', "root['region']": 'Central Asia', "root['status']": 'Nomadic confederation', "root['title_leader']": 'White Huns Khans', "root['leader1']": 'Toramana', "root['year_leader1']": '515-528', "root['leader2']": 'Mihirakula', "root['year_leader2']": '528-542 '}}
+216: {'dictionary_item_removed': {"root['religion']": 'Buddhism, Hinduism '}, 'values_changed': {"root['year_leader2']": {'new_value': '528-542 ', 'old_value': '528-542'}}}
+219: {'values_changed': {"root['year_leader1']": {'new_value': '515-528', 'old_value': '515–528'}, "root['year_leader2']": {'new_value': '528-542', 'old_value': '528–542'}}}
+247: {'values_changed': {"root['religion']": {'new_value': 'Buddhism, Hinduism ', 'old_value': 'Buddhism '}}}
+251: {'values_changed': {"root['religion']": {'new_value': 'Buddhism ', 'old_value': 'Buddhism<ref name'}}}
+255: {'values_changed': {"root['religion']": {'new_value': 'Buddhism<ref name', 'old_value': 'Paganism<ref name'}}}
+263: {'values_changed': {"root['religion']": {'new_value': 'Paganism<ref name', 'old_value': 'Paganism , Buddhism, Hinduism, Cult of the Sun, Nestorianism, Manichaeism'}}}
+269: {'values_changed': {"root['religion']": {'new_value': 'Paganism , Buddhism, Hinduism, Cult of the Sun, Nestorianism, Manichaeism', 'old_value': 'Paganism , Buddhism, Hinduism, Cult of the Sun, Nestorianism, Manichaeism , Zoroastrianism'}}}
+290: {'values_changed': {"root['religion']": {'new_value': 'Paganism , Buddhism, Hinduism, Cult of the Sun, Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Buddhism, Paganism , Hinduism, Surya worship, Nestorianism, Manichaeism , Zoroastrianism'}}}
+311: {'values_changed': {"root['title_leader']": {'new_value': 'White Huns Khans', 'old_value': 'Tegin'}}}
+318: {'dictionary_item_removed': {"root['leader3']": 'Mihirakula', "root['year_leader3']": '515 – 528'}, 'values_changed': {"root['leader1']": {'new_value': 'Toramana', 'old_value': 'Khingila'}, "root['year_leader1']": {'new_value': '515–528', 'old_value': '430/440 – 490/500'}, "root['leader2']": {'new_value': 'Mihirakula', 'old_value': 'Toramana'}, "root['year_leader2']": {'new_value': '528–542', 'old_value': '490/500 – 515'}}}
+319: {'values_changed': {"root['year_leader1']": {'new_value': '430/440 – 490/500', 'old_value': '430/440 – ≈490'}}}
+320: {'values_changed': {"root['region']": {'new_value': 'Central Asia', 'old_value': 'Central Asia, South Asia'}, "root['religion']": {'new_value': 'Buddhism, Paganism , Hinduism, Surya worship, Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Buddhism, Paganism , Hinduism, Nestorianism, Manichaeism , Zoroastrianism'}}}
+342: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalites', 'old_value': 'Hephthalite Empire'}}}
+344: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalite Empire', 'old_value': 'Hephthalites'}}}
+346: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalites', 'old_value': 'Hephthalite Empire'}}}
+347: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalite Empire', 'old_value': 'Hephthalites'}}}
+348: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalites', 'old_value': 'Hephthalite Empire'}}}
+349: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalite Empire', 'old_value': 'Hephthalites'}}}
+357: {'values_changed': {"root['year_leader3']": {'new_value': '515 – 528', 'old_value': '515–528'}}}
+374: {'values_changed': {"root['religion']": {'new_value': 'Buddhism, Paganism , Hinduism, Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Mostly Buddhism and Hinduism , Nestorianism, Manichaeism , Zoroastrianism'}}}
+394: {'values_changed': {"root['religion']": {'new_value': 'Mostly Buddhism and Hinduism , Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Hinduism Buddhism , Nestorianism, Manichaeism , Zoroastrianism'}}}
+395: {'values_changed': {"root['religion']": {'new_value': 'Hinduism Buddhism , Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Hinduism, Buddhism , Nestorianism, Manichaeism , Zoroastrianism'}}}
+396: {'values_changed': {"root['year_leader1']": {'new_value': '430/440 – ≈490', 'old_value': '408 – 490'}, "root['year_leader2']": {'new_value': '490/500 – 515', 'old_value': '490 – 515'}}}
+397: {'values_changed': {"root['year_leader1']": {'new_value': '408 – 490', 'old_value': '430/440 – ≈490'}, "root['year_leader2']": {'new_value': '490 – 515', 'old_value': '490/500 – 515'}, "root['religion']": {'new_value': 'Hinduism, Buddhism , Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Mostly Buddhism and Hinduism , Nestorianism, Manichaeism , Zoroastrianism'}}}
+446: {'values_changed': {"root['common_name']": {'new_value': 'Hephthalites', 'old_value': 'White Huns'}}}
+448: {'values_changed': {"root['common_name']": {'new_value': 'White Huns', 'old_value': 'Hephthalites'}}}
+461: {'values_changed': {"root['religion']": {'new_value': 'Mostly Buddhism and Hinduism , Nestorianism, Manichaeism , Zoroastrianism', 'old_value': 'Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+519: {'values_changed': {"root['religion']": {'new_value': 'Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': 'Tengrism Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+520: {'values_changed': {"root['religion']": {'new_value': 'Tengrism Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+537: {'values_changed': {"root['religion']": {'new_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': ', Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+538: {'values_changed': {"root['religion']": {'new_value': ', Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+539: {'values_changed': {"root['religion']": {'new_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': ', Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+540: {'values_changed': {"root['religion']": {'new_value': ', Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism'}}}
+553: {'values_changed': {"root['region']": {'new_value': 'Central Asia, South Asia', 'old_value': 'Central Asia'}, "root['status']": {'new_value': 'Nomadic confederation', 'old_value': 'Nomadic empire'}, "root['religion']": {'new_value': 'Tengrism , Zoroastrianism , Nestorianism, Manichaeism , Buddhism', 'old_value': 'Buddhism , Hinduism   , Manichaeism , Zoroastrianism'}}}
+646: {'values_changed': {"root['religion']": {'new_value': 'Buddhism , Hinduism   , Manichaeism , Zoroastrianism', 'old_value': 'Buddhism , Hinduism '}}}
+647: {'values_changed': {"root['religion']": {'new_value': 'Buddhism , Hinduism ', 'old_value': 'Buddhism , Hinduism   , Manichaeism , Zoroastrianism'}}}
+671: {'dictionary_item_added': {"root['title_leader']": 'Tegin', "root['leader1']": 'Khingila', "root['year_leader1']": '430/440 – ≈490', "root['leader2']": 'Toramana', "root['year_leader2']": '490/500 – 515', "root['leader3']": 'Mihirakula', "root['year_leader3']": '515–528'}, 'dictionary_item_removed': {"root['s6']": 'Principality of Chaghaniyan'}}
+720: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Buddhism<ref name'], 'new_value': 'Buddhism , Hinduism   , Manichaeism , Zoroastrianism'}}, 'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Central Asia'}, 'dictionary_item_removed': {"root['border_p5']": 'no', "root['border_s1']": 'no', "root['width']": '300  | imag'}}

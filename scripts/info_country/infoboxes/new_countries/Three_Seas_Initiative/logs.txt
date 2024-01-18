@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['linking_name']": 'Three Seas Initiative', "root['population_estimate']": '112,194,126', "root['area_km2']": '1,218,975', "root['GDP_nominal']": '$2.1 trillion', "root['GDP_nominal_per_capita']": '$17,000', "root['GDP_nominal_year']": '2019 '}}
+37: {'dictionary_item_added': {"root['GDP_nominal_per_capita']": '$17,000'}, 'values_changed': {"root['GDP_nominal']": {'new_value': '$2.1 trillion', 'old_value': '€2.014 trillion'}, "root['GDP_nominal_year']": {'new_value': '2019 ', 'old_value': '2021 '}}}
+39: {'dictionary_item_removed': {"root['population_density_km2']": '92'}}
+40: {'dictionary_item_removed': {"root['GDP_nominal_per_capita']": '€18,284'}, 'values_changed': {"root['population_estimate']": {'new_value': '112,194,126', 'old_value': '110,150,445'}, "root['population_density_km2']": {'new_value': '92', 'old_value': '90'}}}

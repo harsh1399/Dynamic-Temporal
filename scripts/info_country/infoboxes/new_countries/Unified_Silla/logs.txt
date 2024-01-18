@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Later Silla or Unified Silla', "root['religion']": 'Buddhism, Confucianism, Taoism, Shamanism', "root['title_leader']": 'King', "root['leader1']": 'Munmu', "root['year_leader1']": '661–681', "root['leader2']": 'Sinmun', "root['year_leader2']": '681–692', "root['leader3']": 'Jinseong', "root['year_leader3']": '887–897', "root['leader4']": 'Gyeongsun (last)', "root['year_leader4']": '927–935', "root['stat_year1']": '8th century ', "root['stat_pop1']": '2,000,000', "root['today']": 'North Korea, South Korea, China'}}
+26: {'values_changed': {"root['stat_pop1']": {'new_value': '2,000,000', 'old_value': '6,750,000'}}}
+27: {'values_changed': {"root['stat_year1']": {'new_value': '8th century ', 'old_value': '8th Century'}}}
+28: {'values_changed': {"root['stat_year1']": {'new_value': '8th Century', 'old_value': '8th century '}, "root['stat_pop1']": {'new_value': '6,750,000', 'old_value': '2,000,000'}}}
+35: {'dictionary_item_added': {"root['stat_year1']": '8th century ', "root['stat_pop1']": '2,000,000'}, 'values_changed': {"root['today']": {'new_value': 'North Korea, South Korea, China', 'old_value': 'South Korea, North Korea, China'}}}
+36: {'values_changed': {"root['today']": {'new_value': 'South Korea, North Korea, China', 'old_value': 'North Korea, South Korea, China'}}}
+37: {'dictionary_item_removed': {"root['stat_year1']": '8th century ', "root['stat_pop1']": '2,000,000'}}

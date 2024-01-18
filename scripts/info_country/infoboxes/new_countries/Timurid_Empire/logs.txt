@@ -1,0 +1,32 @@
+43: {'dictionary_item_removed': {"root['common_name']": 'Timurid Empire', "root['continent']": 'Asia', "root['region']": 'Central Asia', "root['p6']": 'Sarbadars', "root['flag_p6']": 'Sarbadar map 1345.png', "root['s6']": 'Ag Qoyunlu', "root['flag_s6']": 'AkkoyunluFlag.png |', "root['religion']": 'Islam', "root['title_leader']": 'Emir', "root['leader1']": 'Timur  (first)', "root['leader2']": "Badi' al-Zaman  (last)", "root['year_leader1']": '1370–1405', "root['year_leader2']": '1506–1507', "root['stat_year1']": '1405 est.', "root['stat_area1']": '4400000', "root['today']": ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']}}
+61: {'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '6700000'}}}
+62: {'values_changed': {"root['stat_area1']": {'new_value': '6700000', 'old_value': '6300000'}}}
+63: {'values_changed': {"root['stat_area1']": {'new_value': '6300000', 'old_value': '6000000'}}}
+64: {'values_changed': {"root['stat_area1']": {'new_value': '6000000', 'old_value': '5600000'}}}
+65: {'values_changed': {"root['stat_area1']": {'new_value': '5600000', 'old_value': '4400000'}}}
+67: {'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '4600000'}}}
+68: {'values_changed': {"root['stat_area1']": {'new_value': '4600000', 'old_value': '4400000'}}}
+87: {'iterable_item_added': {"root['today'][18]": ''}}
+113: {'iterable_item_removed': {"root['today'][18]": ''}}
+118: {'iterable_item_removed': {"root['today'][19]": ''}}
+123: {'type_changes': {"root['today']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'titlesty', 'new_value': ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']}}}
+145: {'dictionary_item_added': {"root['today']": 'titlesty'}, 'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '4400000 '}}}
+146: {'dictionary_item_removed': {"root['today']": 'titlesty'}, 'values_changed': {"root['stat_area1']": {'new_value': '4400000 ', 'old_value': '4400000'}}}
+153: {'dictionary_item_added': {"root['today']": 'titlesty'}, 'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '4400000 '}}}
+163: {'values_changed': {"root['stat_area1']": {'new_value': '4400000 ', 'old_value': "4400000  The '''Timurid Empire''' ("}}}
+164: {'values_changed': {"root['stat_area1']": {'new_value': "4400000  The '''Timurid Empire''' (", 'old_value': '4400000 '}}}
+165: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Sufi Islam'}}}
+166: {'values_changed': {"root['religion']": {'new_value': 'Sufi Islam', 'old_value': 'Islam'}}}
+167: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Sufi Islam'}}}
+168: {'values_changed': {"root['religion']": {'new_value': 'Sufi Islam', 'old_value': 'Sunni Islam'}}}
+172: {'values_changed': {"root['stat_area1']": {'new_value': '4400000 ', 'old_value': '4400000'}}}
+185: {'dictionary_item_added': {"root['s6']": 'Ag Qoyunlu', "root['flag_s6']": 'AkkoyunluFlag.png |'}, 'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '4400000 '}}}
+186: {'values_changed': {"root['stat_area1']": {'new_value': '4400000 ', 'old_value': '4400000'}}}
+189: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Sunni Islam,Hinduism'}}}
+190: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam,Hinduism', 'old_value': 'Sunni Islam'}}}
+193: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Sunni Islam , Hinduism '}}}
+195: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam , Hinduism ', 'old_value': 'Sunni Islam'}}}
+200: {'values_changed': {"root['stat_area1']": {'new_value': '4400000', 'old_value': '4400000  '}}}
+211: {'dictionary_item_removed': {"root['p7']": 'Marashis', "root['p8']": 'Afrasiyab dynasty'}}
+213: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Egypt'}}}
+214: {'values_changed': {"root['continent']": {'new_value': 'Egypt', 'old_value': 'Asia'}}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['religion']": 'Sunni Islam'}}
+17: {'dictionary_item_removed': {"root['area_km2']": '250.000 - 300.000', "root['languages']": 'Kurdish'}}
+18: {'dictionary_item_removed': {"root['languages_type']": 'Spoken languages '}, 'values_changed': {"root['area_km2']": {'new_value': '250.000 - 300.000', 'old_value': '250,000 - 300,000'}}}
+41: {'dictionary_item_added': {"root['area_km2']": '250,000 - 300,000'}, 'values_changed': {"root['languages']": {'new_value': 'Kurdish', 'old_value': 'Kurdish   Arabic'}}}
+42: {'values_changed': {"root['languages']": {'new_value': 'Kurdish   Arabic', 'old_value': 'Kurdish'}}}
+53: {'values_changed': {"root['languages']": {'new_value': 'Kurdish', 'old_value': 'Kurdish, Arabic'}}}
+65: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Sunni Islam (official), Armenian Apostolic'}, "root['languages']": {'new_value': 'Kurdish, Arabic', 'old_value': 'Kurdish, Arabic, Armenian'}}}
+67: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam (official), Armenian Apostolic', 'old_value': 'Sunni Islam (official)'}, "root['languages']": {'new_value': 'Kurdish, Arabic, Armenian', 'old_value': 'Arabic (official), Kurdish'}}}
+70: {'values_changed': {"root['languages']": {'new_value': 'Arabic (official), Kurdish', 'old_value': 'Kurdish'}}}
+71: {'values_changed': {"root['languages']": {'new_value': 'Kurdish', 'old_value': 'Arabic (official), Kurdish'}}}
+72: {'values_changed': {"root['languages']": {'new_value': 'Arabic (official), Kurdish', 'old_value': 'Kurdish'}}}
+73: {'values_changed': {"root['languages']": {'new_value': 'Kurdish', 'old_value': 'Kurdish( mother tongue )'}}}
+74: {'values_changed': {"root['languages']": {'new_value': 'Kurdish( mother tongue )', 'old_value': 'Kurdish ( mother tongue )'}}}
+75: {'values_changed': {"root['languages']": {'new_value': 'Kurdish ( mother tongue )', 'old_value': 'Kurdish( mother tongue )'}}}

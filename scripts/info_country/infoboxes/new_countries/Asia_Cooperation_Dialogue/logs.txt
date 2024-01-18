@@ -1,0 +1,14 @@
+4: {'dictionary_item_removed': {"root['name']": 'Asia Cooperation Dialogue', "root['linking_name']": 'Asia Cooperation Dialogue'}}
+27: {'dictionary_item_removed': {"root['style']": 'li'}}
+30: {'dictionary_item_added': {"root['style']": 'li'}, 'dictionary_item_removed': {"root['admin_center']": 'Vacant', "root['leader_title1']": 'President', "root['leader_name1']": 'Vacant', "root['leader_title2']": 'Secretary General', "root['leader_name2']": 'Vacant'}}
+36: {'dictionary_item_removed': {"root['image_symbol']": 'http://www.acddialogue.com/news/news_detail.php?ID ='}}
+38: {'values_changed': {"root['image_symbol']": {'new_value': 'http://www.acddialogue.com/news/news_detail.php?ID =', 'old_value': 'http://www.acddialogue.com/images/nopic.gif ='}}}
+39: {'dictionary_item_added': {"root['image_symbol']": 'http://www.acddialogue.com/images/nopic.gif ='}, 'values_changed': {"root['linking_name']": {'new_value': 'Asia Cooperation Dialogue', 'old_value': 'Asia Cooperation Dialogu'}}}
+41: {'values_changed': {"root['linking_name']": {'new_value': 'Asia Cooperation Dialogu', 'old_value': 'Asia Cooperation Dialogue'}}}
+42: {'dictionary_item_removed': {"root['Area']": '73,713,925 km2'}, 'values_changed': {"root['leader_name2']": {'new_value': 'Vacant', 'old_value': 'Bundit Limschoon'}}}
+43: {'dictionary_item_added': {"root['Area']": '73,713,925 km2'}, 'dictionary_item_removed': {"root['area_km2']": '73,713,925 km2'}}
+44: {'values_changed': {"root['area_km2']": {'new_value': '73,713,925 km2', 'old_value': '73,713,925'}}}
+45: {'values_changed': {"root['area_km2']": {'new_value': '73,713,925', 'old_value': '73,713, area_sq_mi ='}}}
+46: {'values_changed': {"root['area_km2']": {'new_value': '73,713, area_sq_mi =', 'old_value': '73,713,'}}}
+58: {'dictionary_item_added': {"root['admin_center']": 'Vacant', "root['leader_name1']": 'Vacant', "root['area_km2']": '73,713,'}, 'values_changed': {"root['leader_title2']": {'new_value': 'Secretary General', 'old_value': 'Secretary-General'}}}
+67: {'dictionary_item_added': {"root['leader_title2']": 'Secretary-General', "root['leader_name2']": 'Bundit Limschoon'}, 'values_changed': {"root['leader_title1']": {'new_value': 'President', 'old_value': 'Secretary-General'}}}

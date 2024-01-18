@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Hejaz', "root['religion']": 'Sunni Islam', "root['title_leader']": 'King', "root['leader1']": 'Hussein bin Ali', "root['year_leader1']": '1916&ndash;1924', "root['leader2']": 'Ali bin Hussein', "root['year_leader2']": '1924&ndash;1925', "root['stat_year1']": '1920', "root['stat_area1']": '250,000', "root['stat_pop1']": '850,000', "root['demonym']": 'Arab'}}
+24: {'values_changed': {"root['demonym']": {'new_value': 'Arab', 'old_value': 'Hejazi'}}}
+33: {'values_changed': {"root['stat_pop1']": {'new_value': '850,000', 'old_value': '8,729,883'}}}
+34: {'values_changed': {"root['stat_pop1']": {'new_value': '8,729,883', 'old_value': '4,729,883'}}}
+35: {'values_changed': {"root['stat_pop1']": {'new_value': '4,729,883', 'old_value': '850,000'}}}
+36: {'dictionary_item_removed': {"root['today']": 'Saudi Arabia '}}
+47: {'dictionary_item_added': {"root['stat_year1']": '1920', "root['stat_area1']": '250,000', "root['stat_pop1']": '850,000'}, 'values_changed': {"root['today']": {'new_value': 'Saudi Arabia ', 'old_value': 'Part of Saudi Arabia'}}}
+56: {'values_changed': {"root['today']": {'new_value': 'Part of Saudi Arabia', 'old_value': 'Saudi Arabia '}}}
+58: {'dictionary_item_removed': {"root['official_languages']": 'Arabic '}, 'values_changed': {"root['year_leader1']": {'new_value': '1916&ndash;1924', 'old_value': '1916–1924'}, "root['year_leader2']": {'new_value': '1924&ndash;1925', 'old_value': '1924–1925'}, "root['today']": {'new_value': 'Saudi Arabia ', 'old_value': 'Saudi Arabia'}}}
+63: {'dictionary_item_removed': {"root['population']": '850,000'}}
+65: {'dictionary_item_added': {"root['population']": '850,000'}, 'dictionary_item_removed': {"root['stat_pop1']": '850,000'}}

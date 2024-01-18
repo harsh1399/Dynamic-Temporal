@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Guyana', "root['continent']": 'South America', "root['status']": 'Crown Colony'}}
+4: {'values_changed': {"root['status']": {'new_value': 'Crown Colony', 'old_value': 'Crown colony'}}}
+6: {'dictionary_item_removed': {"root['region']": 'Caribbean'}}
+23: {'values_changed': {"root['status']": {'new_value': 'Crown colony', 'old_value': 'Colony'}}}
+24: {'dictionary_item_removed': {"root['stat_year1']": '1924', "root['stat_area1']": '231804 ', "root['stat_pop1']": '307391<ref name'}}
+26: {'values_changed': {"root['stat_area1']": {'new_value': '231804 ', 'old_value': '231804'}, "root['stat_pop1']": {'new_value': '307391<ref name', 'old_value': '307391'}}}
+28: {'dictionary_item_removed': {"root['religion']": 'Minority : Catholicism Imperial : Orthodox Church'}}
+29: {'values_changed': {"root['religion']": {'new_value': 'Minority : Catholicism Imperial : Orthodox Church', 'old_value': 'Christianity, Hinduism, Islam, Afro-American religions, Traditional African religion, Amerindian religion, Buddhism, Chinese folk religion (Confucianism and Taoism)'}}}
+30: {'values_changed': {"root['religion']": {'new_value': 'Christianity, Hinduism, Islam, Afro-American religions, Traditional African religion, Amerindian religion, Buddhism, Chinese folk religion (Confucianism and Taoism)', 'old_value': 'Christianity, Hinduism, Islam, Afro-American religions, Traditional African religions, Amerindian religion, Buddhism, Chinese folk religion (Confucianism and Taoism)'}}}
+31: {'values_changed': {"root['religion']": {'new_value': 'Christianity, Hinduism, Islam, Afro-American religions, Traditional African religions, Amerindian religion, Buddhism, Chinese folk religion (Confucianism and Taoism)', 'old_value': "Christianity, Hinduism, Islan, Afro-American religions, Traditional African religions, Amerindian religion, Buddhism, Chinese folk religion (Confucianism and Taoism), Bahá'í"}}}

@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Old Kingdom', "root['religion']": 'Ancient Egyptian religion', "root['leader1']": 'Djoser (first)', "root['year_leader1']": 'c. 2686–c. 2649 BC', "root['leader2']": 'Last king depends on the scholar, Neitiqerty Siptah (6th Dynasty) or Neferirkare (7th/8th Dynasty)', "root['year_leader2']": 'c. 2184–c. 2181 BC', "root['title_leader']": 'Pharaoh '}}
+23: {'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh ', 'old_value': 'Pharaoh bum  '}}}
+24: {'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh bum  ', 'old_value': 'Pharaoh '}}}
+44: {'values_changed': {"root['year_leader1']": {'new_value': 'c. 2686–c. 2649 BC', 'old_value': 'c. 2686–c. 2649 BCE'}, "root['year_leader2']": {'new_value': 'c. 2184–c. 2181 BC', 'old_value': 'c. 2184–c. 2181 BCE'}}}
+45: {'values_changed': {"root['year_leader1']": {'new_value': 'c. 2686–c. 2649 BCE', 'old_value': 'c. 2686–c. 2649 BC'}, "root['year_leader2']": {'new_value': 'c. 2184–c. 2181 BCE', 'old_value': 'c. 2184–c. 2181 BC'}}}
+71: {'dictionary_item_removed': {"root['stat_year1']": '3rd millenium', "root['stat_pop1']": '1-1.5 million', "root['demonym']": '|area_km2'}, 'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh ', 'old_value': 'Pharaoh'}}}
+73: {'values_changed': {"root['stat_year1']": {'new_value': '3rd millenium', 'old_value': '2500 BCE'}, "root['stat_pop1']": {'new_value': '1-1.5 million', 'old_value': '1.6 million'}}}
+80: {'values_changed': {"root['stat_year1']": {'new_value': '2500 BCE', 'old_value': '2500 BC'}}}

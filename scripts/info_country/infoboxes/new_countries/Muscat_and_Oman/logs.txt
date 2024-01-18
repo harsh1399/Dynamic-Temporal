@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Muscat and Oman', "root['status']": 'Monarchy', "root['religion']": 'Ibadi Islam', "root['stat_year1']": '1965 est.', "root['stat_area1']": '212000', "root['stat_pop1']": '550,000'}}
+5: {'values_changed': {"root['common_name']": {'new_value': 'Muscat and Oman', 'old_value': '==  ==  Muscat and Oman'}}}
+8: {'values_changed': {"root['common_name']": {'new_value': '==  ==  Muscat and Oman', 'old_value': 'Muscat and Oman'}}}
+30: {'dictionary_item_removed': {"root['today']": 'demon'}}
+43: {'values_changed': {"root['religion']": {'new_value': 'Ibadi Islam', 'old_value': 'Islam'}}}
+44: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Ibadi Islam'}}}
+56: {'dictionary_item_removed': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['today']": {'new_value': 'demon', 'old_value': 'Oman, Pakistan, United Arab Emirates'}}}
+59: {'values_changed': {"root['today']": {'new_value': 'Oman, Pakistan, United Arab Emirates', 'old_value': 'Oman, United Arab Emirates, Pakistan, Iran'}}}
+61: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'dictionary_item_removed': {"root['official_languages']": 'Arabic '}}

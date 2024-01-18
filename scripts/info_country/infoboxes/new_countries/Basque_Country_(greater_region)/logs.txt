@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Basque Country', "root['official_languages']": 'Basque, French, Spanish', "root['demonym']": 'Basque', "root['largest_city']": 'Bilbao', "root['population_estimate']": 'about 3,000,000', "root['population_estimate_year']": '2015', "root['population_density_km2']": '150', "root['area_km2']": '20947'}}
+10: {'values_changed': {"root['population_estimate']": {'new_value': 'about 3,000,000', 'old_value': 'about 3,100,000'}, "root['population_estimate_year']": {'new_value': '2015', 'old_value': '2016'}}}
+11: {'values_changed': {"root['population_estimate']": {'new_value': 'about 3,100,000', 'old_value': 'about 3,000,000'}, "root['population_estimate_year']": {'new_value': '2016', 'old_value': '2015'}}}
+40: {'dictionary_item_added': {"root['official_languages']": 'Basque, French, Spanish'}, 'dictionary_item_removed': {"root['official_language']": 'Basque, French, Spanish'}}
+41: {'dictionary_item_added': {"root['official_language']": 'Basque, French, Spanish'}, 'dictionary_item_removed': {"root['official_languages']": 'Basque, French, Spanish'}}

@@ -1,0 +1,155 @@
+25: {'dictionary_item_removed': {"root['name']": 'National Libyan Council', "root['abbreviation']": 'NLC', "root['formation']": '27 February 2011', "root['type']": "''National Council''", "root['purpose']": 'To act as the political face of the 2011 Libyan uprising', "root['headquarters']": 'Benghazi', "root['region_served']": 'Libya', "root['language']": 'Arabic', "root['leader_title']": 'Spokesperson', "root['leader_name']": 'Hafiz Ghoga'}}
+30: {'dictionary_item_added': {"root['leader_name']": 'Hafiz Ghoga'}, 'dictionary_item_removed': {"root['membership']": 'Five representatives of each city or town under opposition control', "root['leader_title2']": 'Spokesperson', "root['leader_name2']": 'Hafiz Ghoga'}, 'values_changed': {"root['leader_title']": {'new_value': 'Spokesperson', 'old_value': 'Chairperson'}}}
+36: {'dictionary_item_removed': {"root['map']": 'Libyan Uprising.svg', "root['mcaption']": 'A map showing the current situation in Libya'}}
+38: {'dictionary_item_removed': {"root['leader_name']": 'Mustafa Mohamed Abud Al Jeleil'}, 'values_changed': {"root['leader_title']": {'new_value': 'Chairperson', 'old_value': 'Acting Chairperson'}}}
+41: {'dictionary_item_added': {"root['leader_name']": 'Mustafa Mohamed Abud Al Jeleil'}, 'values_changed': {"root['leader_title']": {'new_value': 'Acting Chairperson', 'old_value': 'Chairperson'}}}
+60: {'dictionary_item_added': {"root['abbreviation']": 'NLC'}, 'values_changed': {"root['headquarters']": {'new_value': 'Benghazi', 'old_value': 'Benghazi  (interim)'}}}
+61: {'values_changed': {"root['type']": {'new_value': "''National Council''", 'old_value': 'Political organisation / administrative body'}}}
+70: {'values_changed': {"root['name']": {'new_value': 'National Libyan Council', 'old_value': 'National Libyan Council, المجلس الوطني الانتقالي'}}}
+74: {'values_changed': {"root['name']": {'new_value': 'National Libyan Council, المجلس الوطني الانتقالي', 'old_value': 'National Transitional Council, المجلس الوطني الانتقالي'}}}
+91: {'dictionary_item_removed': {"root['leader_name']": 'Mustafa Mohamed Abud Al Jeleil'}}
+92: {'values_changed': {"root['membership']": {'new_value': 'Five representatives of each city or town under opposition control', 'old_value': 'Five representatives of each city or town under opposition control  '}}}
+95: {'values_changed': {"root['membership']": {'new_value': 'Five representatives of each city or town under opposition control  ', 'old_value': '30 members'}}}
+98: {'dictionary_item_removed': {"root['leader_title3']": 'Spokesperson', "root['leader_name3']": 'Hafiz Ghoga', "root['main_organ']": "Libyan People's Army"}, 'values_changed': {"root['leader_title']": {'new_value': 'Chairperson', 'old_value': 'Chair of the Council'}, "root['leader_title2']": {'new_value': 'Spokesperson', 'old_value': 'Chair of Crisis Committee'}, "root['leader_name2']": {'new_value': 'Hafiz Ghoga', 'old_value': 'Mahmoud Jebril'}}}
+119: {'values_changed': {"root['name']": {'new_value': 'National Transitional Council, المجلس الوطني الانتقالي', 'old_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waTanī al-intiqālī''"}}}
+133: {'values_changed': {"root['name']": {'new_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waTanī al-intiqālī''", 'old_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waanī al-intiqālī''"}}}
+134: {'values_changed': {"root['name']": {'new_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waanī al-intiqālī''", 'old_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṯanī al-intiqālī''"}}}
+135: {'values_changed': {"root['name']": {'new_value': "National Transitional Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṯanī al-intiqālī''", 'old_value': "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṯanī al-intiqālī''"}}}
+146: {'values_changed': {"root['name']": {'new_value': "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṯanī al-intiqālī''", 'old_value': "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṭanī al-intiqālī''"}}}
+152: {'values_changed': {"root['membership']": {'new_value': '30 members', 'old_value': '31 members'}}}
+154: {'dictionary_item_removed': {"root['leader_title4']": 'Foreign affairs spokesperson', "root['leader_name4']": 'Ali Al-Eisawi'}}
+161: {'dictionary_item_added': {"root['name']": "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṭanī al-intiqālī''", "root['map']": 'Libyan Uprising.svg', "root['mcaption']": 'A map showing the current situation in Libya', "root['formation']": '27 February 2011', "root['type']": 'Political organisation / administrative body', "root['purpose']": 'To act as the political face of the 2011 Libyan uprising', "root['headquarters']": 'Benghazi  (interim)', "root['region_served']": 'Libya', "root['membership']": '31 members', "root['language']": 'Arabic', "root['leader_title']": 'Chair of the Council', "root['leader_name']": 'Mustafa Mohamed Abud Al Jeleil', "root['leader_title3']": 'Spokesperson', "root['leader_name3']": 'Hafiz Ghoga', "root['leader_title4']": 'Foreign affairs spokesperson', "root['leader_name4']": 'Ali Al-Eisawi', "root['main_organ']": "Libyan People's Army"}, 'dictionary_item_removed': {"root['common_name']": 'Libya', "root['official_languages']": "Arabic  (''de facto'')", "root['demonym']": 'Libyan', "root['leader_title1']": 'Chair of the National Transitional Council', "root['leader_name1']": 'Mustafa Mohamed Abud Al Jeleil'}}
+168: {'dictionary_item_added': {"root['common_name']": 'Libya', "root['official_languages']": "Arabic  (''de facto'')", "root['demonym']": 'Libyan', "root['leader_title1']": 'Chair of the National Transitional Council', "root['leader_name1']": 'Mustafa Mohamed Abud Al Jeleil'}, 'dictionary_item_removed': {"root['name']": "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṭanī al-intiqālī''", "root['map']": 'Libyan Uprising.svg', "root['mcaption']": 'A map showing the current situation in Libya', "root['formation']": '27 February 2011', "root['type']": 'Political organisation / administrative body', "root['purpose']": 'To act as the political face of the 2011 Libyan uprising', "root['headquarters']": 'Benghazi  (interim)', "root['region_served']": 'Libya', "root['membership']": '31 members', "root['language']": 'Arabic', "root['leader_title']": 'Chair of the Council', "root['leader_name']": 'Mustafa Mohamed Abud Al Jeleil', "root['leader_title3']": 'Spokesperson', "root['leader_name3']": 'Hafiz Ghoga', "root['main_organ']": "Libyan People's Army"}}
+169: {'values_changed': {"root['leader_title2']": {'new_value': 'Chair of Crisis Committee', 'old_value': 'Chair of Executive Team'}}}
+170: {'values_changed': {"root['leader_title2']": {'new_value': 'Chair of Executive Team', 'old_value': 'Head of the Executive Team'}}}
+292: {'values_changed': {"root['type']": {'new_value': 'Political organisation / administrative body', 'old_value': 'Interim administrative body'}, "root['leader_name']": {'new_value': 'Mustafa Mohamed Abud Al Jeleil', 'old_value': 'Mustafa Abdul Jalil'}}}
+379: {'values_changed': {"root['leader_title']": {'new_value': 'Chair of the Council', 'old_value': 'Chairman'}}}
+380: {'values_changed': {"root['leader_title2']": {'new_value': 'Head of the Executive Team', 'old_value': 'Head of the Executive'}}}
+382: {'values_changed': {"root['leader_title2']": {'new_value': 'Head of the Executive', 'old_value': 'Interim Prime Minister'}}}
+383: {'dictionary_item_added': {"root['name']": "Transitional National Council, المجلس الوطني الانتقالي ,  ''al-majlis al-waṭanī al-intiqālī''", "root['map']": 'Libyan Uprising.svg', "root['mcaption']": 'A map showing the current situation in Libya', "root['formation']": '27 February 2011', "root['type']": 'Interim administrative body', "root['purpose']": 'To act as the political face of the 2011 Libyan uprising', "root['headquarters']": 'Benghazi  (interim)', "root['region_served']": 'Libya', "root['membership']": '31 members', "root['language']": 'Arabic', "root['leader_title']": 'Chairman', "root['leader_name']": 'Mustafa Abdul Jalil', "root['leader_title3']": 'Spokesperson', "root['leader_name3']": 'Hafiz Ghoga', "root['main_organ']": "Libyan People's Army"}, 'dictionary_item_removed': {"root['common_name']": 'Libya', "root['official_languages']": "Arabic  (''de facto'')", "root['demonym']": 'Libyan', "root['leader_title1']": 'Chairman of the National Transitional Council', "root['leader_name1']": 'Mustafa Abdul Jalil'}}
+421: {'values_changed': {"root['leader_title1']": {'new_value': 'Chairman of the National Transitional Council', 'old_value': 'Chairman of the Transitional National Council'}}}
+537: {'dictionary_item_removed': {"root['leader_title3']": 'Interim Prime Minister', "root['leader_name3']": 'Mahmoud Jebril'}, 'values_changed': {"root['leader_title1']": {'new_value': 'Chairman of the Transitional National Council', 'old_value': 'Chairman'}, "root['leader_title2']": {'new_value': 'Interim Prime Minister', 'old_value': 'Vice Chairman'}, "root['leader_name2']": {'new_value': 'Mahmoud Jebril', 'old_value': 'Abdul Hafiz Ghoga'}}}
+627: {'values_changed': {"root['leader_title3']": {'new_value': 'Interim Prime Minister', 'old_value': 'Chairman of the Executive Board'}}}
+786: {'dictionary_item_removed': {"root['other_languages']": 'Tamazight languages (most prominently Nafusi), Tuareg'}, 'values_changed': {"root['official_languages']": {'new_value': "Arabic  (''de facto'')", 'old_value': "Libyan Arabic  (''de facto'')"}}}
+787: {'dictionary_item_added': {"root['other_languages']": 'Tamazight languages (most prominently Nafusi), Tuareg'}, 'values_changed': {"root['official_languages']": {'new_value': "Libyan Arabic  (''de facto'')", 'old_value': "Libyan Arabic  (''de facto'')  ,  Berber dialects , (most prominently Nafusi) ,  Tuareg"}}}
+806: {'values_changed': {"root['official_languages']": {'new_value': "Libyan Arabic  (''de facto'')  ,  Berber dialects , (most prominently Nafusi) ,  Tuareg", 'old_value': "Libyan Arabic  (''de facto'')  ,  Berber dialects , (most prominently Nafusi)"}}}
+958: {'values_changed': {"root['official_languages']": {'new_value': "Libyan Arabic  (''de facto'')  ,  Berber dialects , (most prominently Nafusi)", 'old_value': "Libyan Arabic  (''de facto'') ,  Berber dialects  (most prominently Nafusi)"}}}
+1028: {'values_changed': {"root['leader_title1']": {'new_value': 'Chairman', 'old_value': 'President'}, "root['leader_title2']": {'new_value': 'Vice Chairman', 'old_value': 'Vice President'}, "root['leader_title3']": {'new_value': 'Chairman of the Executive Board', 'old_value': 'Prime Minister'}}}
+1047: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jebril', 'old_value': 'Mahmoud Jibril'}}}
+1170: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1171: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1172: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1174: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1176: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1177: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1178: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1179: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1180: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1181: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1182: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1183: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1184: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1185: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1186: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1187: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1188: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1189: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1190: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1191: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1192: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1193: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1194: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1197: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1199: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1200: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1201: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1202: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1203: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1204: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1205: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1206: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1207: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1209: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1210: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1211: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1212: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1213: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1214: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1215: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1216: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1217: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1218: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1219: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1220: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1221: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1222: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1223: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1224: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1225: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1226: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1227: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1228: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1229: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1230: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1231: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1232: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1233: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1234: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1235: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1236: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1237: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1238: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1239: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1240: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1241: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1242: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1243: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1244: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1245: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1246: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1247: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1248: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1249: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1250: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1251: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1252: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1253: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1254: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1255: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1256: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1257: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1258: {'values_changed': {"root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Head of the rat council, Ratus Kuffarus'}}}
+1259: {'values_changed': {"root['leader_name3']": {'new_value': 'Head of the rat council, Ratus Kuffarus', 'old_value': 'Mahmoud Jibril'}}}
+1267: {'dictionary_item_added': {"root['common_name']": 'Libya', "root['official_languages']": "Libyan Arabic  (''de facto'') ,  Berber dialects  (most prominently Nafusi)", "root['demonym']": 'Libyan', "root['leader_title1']": 'President', "root['leader_name1']": 'Mustafa Abdul Jalil'}, 'dictionary_item_removed': {"root['name']": 'National Transitional Council , ', "root['abbreviation']": 'NTC', "root['predecessor']": 'Libyan Arab Jamahiriya', "root['type']": 'Caretaker government', "root['headquarters']": 'Tripoli', "root['location']": 'Libya', "root['language']": 'Arabic', "root['leader_title']": 'President', "root['leader_name']": 'Mustafa Abdul Jalil', "root['remarks']": '| former name'}}
+1269: {'dictionary_item_removed': {"root['formation']": '17 February 2011 ('}}
+1278: {'values_changed': {"root['leader_title']": {'new_value': 'President', 'old_value': 'Chairman'}, "root['leader_title2']": {'new_value': 'Vice President', 'old_value': 'Vice Chairman'}, "root['leader_name3']": {'new_value': 'Mahmoud Jibril', 'old_value': 'Ali Tarhouni'}}}
+1283: {'values_changed': {"root['type']": {'new_value': 'Caretaker government', 'old_value': 'Provisional authority'}}}
+1292: {'values_changed': {"root['leader_name3']": {'new_value': 'Ali Tarhouni', 'old_value': 'Abdel Rahim al-Kib'}}}
+1302: {'values_changed': {"root['leader_name3']": {'new_value': 'Abdel Rahim al-Kib', 'old_value': 'Abdurrahim El-Keib'}}}
+1306: {'values_changed': {"root['formation']": {'new_value': '17 February 2011 (', 'old_value': '27 February 2011 ('}}}
+1313: {'values_changed': {"root['name']": {'new_value': 'National Transitional Council , ', 'old_value': 'National Transitional Council of Rats , '}}}
+1314: {'values_changed': {"root['name']": {'new_value': 'National Transitional Council of Rats , ', 'old_value': 'National Transitional Council , '}}}
+1358: {'dictionary_item_removed': {"root['leader_title4']": 'hkdszfiuhjhlg fhdsjhbnskjhdb dhgbjhdbs dmnhbgkjsdn fuck!!'}, 'values_changed': {"root['language']": {'new_value': 'Arabic', 'old_value': 'Arabaic'}, "root['leader_title3']": {'new_value': 'Prime Minister', 'old_value': 'Prime Ministers'}, "root['leader_name3']": {'new_value': 'Abdurrahim El-Keib', 'old_value': 'Abdurrarrhgkgvhim El-Keib'}}}
+1359: {'dictionary_item_added': {"root['leader_title4']": 'hkdszfiuhjhlg fhdsjhbnskjhdb dhgbjhdbs dmnhbgkjsdn fuck!!'}, 'values_changed': {"root['language']": {'new_value': 'Arabaic', 'old_value': 'Arabic'}, "root['leader_title3']": {'new_value': 'Prime Ministers', 'old_value': 'Prime Minister'}, "root['leader_name3']": {'new_value': 'Abdurrarrhgkgvhim El-Keib', 'old_value': 'Abdurrahim El-Keib'}}}
+1384: {'values_changed': {"root['leader_name2']": {'new_value': 'Abdul Hafiz Ghoga', 'old_value': "''Vacant''"}}}
+1401: {'values_changed': {"root['formation']": {'new_value': '27 February 2011 (', 'old_value': '29 February 2008 ('}}}
+1403: {'values_changed': {"root['formation']": {'new_value': '29 February 2008 (', 'old_value': '27 February 2011 ('}}}
+1407: {'values_changed': {"root['leader_name']": {'new_value': 'Mustafa Abdul Jalil', 'old_value': 'Muammar al-Gaddafi'}}}
+1408: {'values_changed': {"root['leader_name2']": {'new_value': "''Vacant''", 'old_value': 'Mao Zedong'}, "root['leader_name3']": {'new_value': 'Abdurrahim El-Keib', 'old_value': 'Vladimir Lenin'}}}
+1409: {'values_changed': {"root['type']": {'new_value': 'Provisional authority', 'old_value': 'Direct Democracy'}}}
+1410: {'values_changed': {"root['type']": {'new_value': 'Direct Democracy', 'old_value': 'Provisional authority'}, "root['leader_name']": {'new_value': 'Muammar al-Gaddafi', 'old_value': 'Mustafa Abdul Jalil'}, "root['leader_name2']": {'new_value': 'Mao Zedong', 'old_value': "''Vacant''"}, "root['leader_name3']": {'new_value': 'Vladimir Lenin', 'old_value': 'Abdurrahim El-Keib'}}}
+1424: {'dictionary_item_removed': {"root['Religion']": 'Islam'}}
+1431: {'dictionary_item_removed': {"root['size']": '| alt      Taylor cunningHam Is GAY'}}
+1436: {'dictionary_item_added': {"root['size']": '| alt      Taylor cunningHam Is GAY'}, 'values_changed': {"root['leader_name2']": {'new_value': "''Vacant''", 'old_value': 'Mustafa Honi'}}}
+1437: {'dictionary_item_removed': {"root['successor']": 'General National Congress of Libya', "root['extinction']": '6 August 2012 '}, 'values_changed': {"root['predecessor']": {'new_value': 'Libyan Arab Jamahiriya', 'old_value': "General People's Congress of the Libyan Arab Jamahiriya"}}}
+1440: {'dictionary_item_removed': {"root['purpose']": 'Deliberative assembly/deliberative democracy'}}
+1441: {'values_changed': {"root['purpose']": {'new_value': 'Deliberative assembly/deliberative democracy', 'old_value': 'Deliberative assembly/ deliberative democracy'}}}
+1442: {'dictionary_item_added': {"root['extinction']": '6 August 2012 '}, 'dictionary_item_removed': {"root['dissolved']": '6 August 2012 '}}
+1443: {'values_changed': {"root['leader_name3']": {'new_value': 'Abdurrahim El-Keib', 'old_value': 'Abdurrahim El-Keib   Mahmoud Jibril'}}}
+1446: {'values_changed': {"root['dissolved']": {'new_value': '6 August 2012 ', 'old_value': '8 August 2012 '}}}
+1447: {'dictionary_item_added': {"root['dissolved']": '8 August 2012 '}, 'dictionary_item_removed': {"root['dissolution']": '8 August 2012 '}, 'values_changed': {"root['formation']": {'new_value': '27 February 2011 (', 'old_value': '27 February 2011'}}}
+1494: {'values_changed': {"root['formation']": {'new_value': '27 February 2011', 'old_value': 'February 27, 2011'}, "root['dissolution']": {'new_value': '8 August 2012 ', 'old_value': 'August 8, 2012  '}}}
+1495: {'dictionary_item_added': {"root['dissolution']": 'August 8, 2012  '}, 'dictionary_item_removed': {"root['extinction']": 'August 8, 2012  '}}
+1496: {'values_changed': {"root['formation']": {'new_value': 'February 27, 2011', 'old_value': '27 February 2011'}, "root['extinction']": {'new_value': 'August 8, 2012  ', 'old_value': '8 August 2012  '}}}
+1509: {'dictionary_item_added': {"root['extinction']": '8 August 2012  '}, 'dictionary_item_removed': {"root['dissolution']": '8 August 2012  '}}
+1510: {'dictionary_item_added': {"root['dissolution']": '8 August 2012  '}, 'dictionary_item_removed': {"root['extinction']": '8 August 2012  '}}

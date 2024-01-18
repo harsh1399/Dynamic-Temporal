@@ -1,0 +1,6 @@
+13: {'dictionary_item_removed': {"root['common_name']": 'Dar El Kuti', "root['languages']": '|languages_type =', "root['largest_city']": 'Kaga-Bandoro', "root['sovereignty_type']": 'Independence'}}
+31: {'dictionary_item_removed': {"root['leader_title1']": 'leader'}}
+32: {'values_changed': {"root['largest_city']": {'new_value': 'Kaga-Bandoro', 'old_value': 'capital'}}}
+41: {'dictionary_item_added': {"root['languages']": '|languages_type =', "root['leader_title1']": 'leader'}, 'dictionary_item_removed': {"root['flag_caption']": 'Flag'}, 'values_changed': {"root['common_name']": {'new_value': 'Dar El Kuti', 'old_value': 'Logone'}, "root['sovereignty_type']": {'new_value': 'Independence', 'old_value': 'Proto-state'}}}
+42: {'dictionary_item_removed': {"root['area_km2']": '217,101', "root['population_census']": '297,861', "root['population_census_year']": '2003'}}
+50: {'values_changed': {"root['largest_city']": {'new_value': 'capital', 'old_value': 'Bria'}}}

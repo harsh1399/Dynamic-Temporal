@@ -1,0 +1,35 @@
+9: {'dictionary_item_removed': {"root['common_name']": 'Liberland', "root['latd']": '45 |latm=46 |latNS=N |longd=18 |longm=52 |longEW=E', "root['official_languages']": 'Czech', "root['area_km2']": '7.00'}}
+14: {'values_changed': {"root['official_languages']": {'new_value': 'Czech', 'old_value': 'Czech, Hungarian'}}}
+15: {'values_changed': {"root['official_languages']": {'new_value': 'Czech, Hungarian', 'old_value': 'Czech, Hungarian, Serbo-Croatian'}}}
+17: {'values_changed': {"root['official_languages']": {'new_value': 'Czech, Hungarian, Serbo-Croatian', 'old_value': 'Czech, Serbo-Croatian, Hungarian'}}}
+20: {'values_changed': {"root['official_languages']": {'new_value': 'Czech, Serbo-Croatian, Hungarian', 'old_value': 'Czech, Croatian, Serbian, Hungarian'}}}
+25: {'values_changed': {"root['official_languages']": {'new_value': 'Czech, Croatian, Serbian, Hungarian', 'old_value': 'Czech, Serbo-Croatian, Hungarian'}}}
+39: {'values_changed': {"root['official_languages']": {'new_value': 'Czech, Serbo-Croatian, Hungarian', 'old_value': 'Czech'}}}
+40: {'values_changed': {"root['area_km2']": {'new_value': '7.00', 'old_value': '7'}}}
+58: {'dictionary_item_removed': {"root['population']": '0'}}
+59: {'values_changed': {"root['population']": {'new_value': '0', 'old_value': '1,12'}}}
+60: {'dictionary_item_added': {"root['population']": '1,12'}, 'dictionary_item_removed': {"root['total_population']": '1'}}
+61: {'values_changed': {"root['total_population']": {'new_value': '1', 'old_value': '1 |capital city = Libertown'}}}
+62: {'dictionary_item_added': {"root['total_population']": '1 |capital city = Libertown'}, 'dictionary_item_removed': {"root['capital_city']": 'Libertown'}}
+144: {'dictionary_item_added': {"root['common_name']": 'Liberland', "root['latd']": '45 |latm=46 |latNS=N |longd=18 |longm=52 |longEW=E', "root['official_languages']": 'Czech', "root['area_km2']": '7', "root['capital_city']": 'Libertown'}, 'dictionary_item_removed': {"root['area_mi2']": '3.5  |time_zone'}}
+1145: {'dictionary_item_removed': {"root['latd']": '45', "root['latm']": '46', "root['latNS']": 'N', "root['longd']": '18', "root['longm']": '52', "root['longEW']": 'E', "root['common_name']": 'Liberland', "root['official_languages']": 'Czech, English', "root['leader_title1']": 'President', "root['leader_name1']": 'Vít Jedlička  (founder)', "root['area_km2']": '7', "root['population_estimate']": '0', "root['coat_size']": '500 px'}, 'values_changed': {"root['area_mi2']": {'new_value': '3.5  |time_zone', 'old_value': '3   '}}}
+1160: {'dictionary_item_added': {"root['latd']": '45', "root['common_name']": 'Liberland', "root['official_languages']": 'Czech, English', "root['leader_title1']": 'President', "root['leader_name1']": 'Vít Jedlička  (founder)', "root['area_km2']": '7', "root['population_estimate']": '0', "root['coat_size']": '500 px', "root['area_mi2']": '3   '}, 'values_changed': {"root['longEW']": {'new_value': 'E', 'old_value': 'E  |conventional_long_name'}}}
+1270: {'values_changed': {"root['longEW']": {'new_value': 'E  |conventional_long_name', 'old_value': 'E  | leader_name2 = David Hardisty'}}}
+1286: {'values_changed': {"root['longEW']": {'new_value': 'E  | leader_name2 = David Hardisty', 'old_value': 'E  |conventional_long_name'}}}
+1545: {'dictionary_item_added': {"root['latm']": '46', "root['latNS']": 'N', "root['longd']": '18', "root['longm']": '52', "root['longEW']": 'E  |conventional_long_name'}, 'dictionary_item_removed': {"root['common_name']": 'Liberland', "root['status']": 'Unrecognized micronation', "root['demonym']": 'Liberlandian, Liberlander', "root['leader_title1']": 'President', "root['leader_name1']": 'Vít Jedlička (founder)', "root['leader_title2']": 'Chancellor', "root['leader_name2']": 'Thomas Walls', "root['area_km2']": '7', "root['population_estimate']": '0'}}
+1548: {'dictionary_item_added': {"root['population_estimate']": '0'}, 'dictionary_item_removed': {"root['population']": '0'}}
+1549: {'dictionary_item_added': {"root['population']": '0'}, 'dictionary_item_removed': {"root['population_estimate']": '0'}}
+1550: {'values_changed': {"root['population_estimate']": {'new_value': '0', 'old_value': '900'}}}
+1551: {'values_changed': {"root['population_estimate']": {'new_value': '900', 'old_value': '0'}}}
+1558: {'dictionary_item_removed': {"root['anthem']": 'Free and Fair '}}
+1570: {'dictionary_item_added': {"root['anthem']": 'Free and Fair '}, 'values_changed': {"root['population_estimate']": {'new_value': '0', 'old_value': '1,100+'}}}
+1571: {'values_changed': {"root['population_estimate']": {'new_value': '1,100+', 'old_value': '0'}}}
+1572: {'values_changed': {"root['common_name']": {'new_value': 'Liberland', 'old_value': 'Manbugia'}}}
+1573: {'values_changed': {"root['demonym']": {'new_value': 'Liberlandian, Liberlander', 'old_value': 'Manbugian,  Manbugianese'}, "root['leader_title1']": {'new_value': 'President', 'old_value': 'Emperor'}, "root['leader_name1']": {'new_value': 'Vít Jedlička (founder)', 'old_value': 'James III (founder)'}, "root['leader_name2']": {'new_value': 'Thomas Walls', 'old_value': 'Cristiano I'}, "root['population_estimate']": {'new_value': '0', 'old_value': '1.7M'}}}
+1577: {'values_changed': {"root['common_name']": {'new_value': 'Manbugia', 'old_value': 'Liberland'}, "root['demonym']": {'new_value': 'Manbugian,  Manbugianese', 'old_value': 'Liberlandian, Liberlander'}, "root['leader_title1']": {'new_value': 'Emperor', 'old_value': 'President'}, "root['leader_name1']": {'new_value': 'James III (founder)', 'old_value': 'Vít Jedlička (founder)'}, "root['leader_name2']": {'new_value': 'Cristiano I', 'old_value': 'Thomas Walls'}, "root['population_estimate']": {'new_value': '1.7M', 'old_value': '0'}}}
+1578: {'values_changed': {"root['population_estimate']": {'new_value': '0', 'old_value': '7000'}}}
+1579: {'values_changed': {"root['population_estimate']": {'new_value': '7000', 'old_value': '0'}}}
+1581: {'values_changed': {"root['leader_title2']": {'new_value': 'Chancellor', 'old_value': 'Vice President'}, "root['leader_name2']": {'new_value': 'Thomas Walls', 'old_value': 'Bogie Wozniak'}}}
+1585: {'values_changed': {"root['status']": {'new_value': 'Unrecognized micronation', 'old_value': 'Unrecognised micronation'}, "root['demonym']": {'new_value': 'Liberlandian, Liberlander', 'old_value': "Liberlandian, Liberlander ''(unofficial)''"}}}
+1586: {'values_changed': {"root['population_estimate']": {'new_value': '0', 'old_value': '0, 739 citizens'}}}
+1591: {'values_changed': {"root['population_estimate']": {'new_value': '0, 739 citizens', 'old_value': '0'}}}

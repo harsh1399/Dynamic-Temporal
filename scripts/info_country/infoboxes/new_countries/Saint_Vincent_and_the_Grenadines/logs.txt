@@ -1,0 +1,111 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Saint Vincent and the Grenadines', "root['official_languages']": 'English', "root['demonym']": 'Vincentian', "root['latd']": '13 |latm=10 |latNS=N |longd=61 |longm=14 |longEW=W', "root['largest_city']": 'capital', "root['leader_title1']": 'Monarch', "root['leader_name1']": 'Elizabeth II', "root['leader_title2']": 'Governor-General', "root['leader_name2']": 'Sir Frederick Ballantyne', "root['leader_title3']": 'Prime Minister', "root['leader_name3']": 'Ralph Gonsalves', "root['sovereignty_type']": 'Independence', "root['area_rank']": '198th', "root['area_km2']": '389', "root['area_sq_mi']": '150', "root['percent_water']": 'negligible', "root['population_estimate']": '120,000', "root['population_estimate_rank']": '182nd', "root['population_estimate_year']": '2008', "root['population_density_km2']": '307', "root['population_density_sq_mi']": '792', "root['population_density_rank']": '39th', "root['GDP_PPP']": '$1.069 billion', "root['GDP_PPP_year']": '2009', "root['GDP_PPP_per_capita']": '$9,976', "root['GDP_nominal']": '$567 million', "root['GDP_nominal_year']": '2009', "root['GDP_nominal_per_capita']": '$5,291', "root['HDI_rank']": '91st', "root['HDI_year']": '2007', "root['HDI_category']": 'medium'}}
+3: {'dictionary_item_removed': {"root['ethnic_groups']": 'black 66%, mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, other 3%'}}
+11: {'values_changed': {"root['ethnic_groups']": {'new_value': 'black 66%, mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, other 3%', 'old_value': 'Black 66%, mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, other 3%'}}}
+12: {'values_changed': {"root['ethnic_groups']": {'new_value': 'Black 66%, mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, other 3%', 'old_value': 'Black 66%, Mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, Other 3%'}}}
+18: {'values_changed': {"root['ethnic_groups']": {'new_value': 'Black 66%, Mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, Other 3%', 'old_value': 'Over 90% Black,5% Other.'}}}
+19: {'values_changed': {"root['ethnic_groups']": {'new_value': 'Over 90% Black,5% Other.', 'old_value': 'Black 66%, Mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, Other 3%'}}}
+23: {'values_changed': {"root['GDP_PPP']": {'new_value': '$1.069 billion', 'old_value': '$1.259 billion'}, "root['GDP_PPP_year']": {'new_value': '2009', 'old_value': '2011'}, "root['GDP_PPP_per_capita']": {'new_value': '$9,976', 'old_value': '$11,491'}, "root['GDP_nominal']": {'new_value': '$567 million', 'old_value': '$695 million'}, "root['GDP_nominal_year']": {'new_value': '2009', 'old_value': '2011'}, "root['GDP_nominal_per_capita']": {'new_value': '$5,291', 'old_value': '$6,342'}}}
+45: {'values_changed': {"root['HDI_category']": {'new_value': 'medium', 'old_value': 'high'}}}
+46: {'values_changed': {"root['GDP_PPP_per_capita']": {'new_value': '$11,491', 'old_value': '$11,700'}}}
+99: {'dictionary_item_added': {"root['leader_title2']": 'Governor-General'}, 'dictionary_item_removed': {"root['population_census']": '|population_census_year ='}, 'values_changed': {"root['ethnic_groups']": {'new_value': 'Black 66%, Mixed 19%, East Indian 6%, European 4%, Carib Amerindian 2%, Other 3%', 'old_value': '3.0% others'}}}
+100: {'dictionary_item_added': {"root['HDI_category']": 'high'}, 'dictionary_item_removed': {"root['Gini_year']": '|Gini_change =   |Gini =   |Gini_ref = |Gini_rank =', "root['HDI']": '0.720'}, 'values_changed': {"root['demonym']": {'new_value': 'Vincentian', 'old_value': 'Vincentian, Vincy'}, "root['leader_name2']": {'new_value': 'Sir Frederick Ballantyne', 'old_value': 'Frederick Ballantyne'}, "root['area_km2']": {'new_value': '389', 'old_value': '344'}, "root['area_sq_mi']": {'new_value': '150', 'old_value': '133'}, "root['population_estimate']": {'new_value': '120,000', 'old_value': '103,000'}, "root['population_estimate_rank']": {'new_value': '182nd', 'old_value': '196th'}, "root['population_estimate_year']": {'new_value': '2008', 'old_value': '2013'}, "root['population_census']": {'new_value': '|population_census_year =', 'old_value': '109,991 |population_census_year = 2011'}, "root['GDP_PPP']": {'new_value': '$1.259 billion', 'old_value': '$1.243 billion'}, "root['GDP_PPP_year']": {'new_value': '2011', 'old_value': '2016'}, "root['GDP_PPP_per_capita']": {'new_value': '$11,700', 'old_value': '$11,291'}, "root['GDP_nominal']": {'new_value': '$695 million', 'old_value': '$784 million'}, "root['GDP_nominal_year']": {'new_value': '2011', 'old_value': '2016'}, "root['GDP_nominal_per_capita']": {'new_value': '$6,342', 'old_value': '$7,123'}, "root['HDI_rank']": {'new_value': '91st', 'old_value': '97th'}, "root['HDI_year']": {'new_value': '2007', 'old_value': '2014'}}}
+115: {'dictionary_item_added': {"root['latd']": '13 |latm=10 |latNS=N |longd=61 |longm=14 |longEW=W'}, 'values_changed': {"root['area_sq_mi']": {'new_value': '133', 'old_value': '150'}}}
+117: {'values_changed': {"root['area_km2']": {'new_value': '344', 'old_value': '388.498'}}}
+118: {'values_changed': {"root['area_km2']": {'new_value': '388.498', 'old_value': '388.5'}}}
+119: {'dictionary_item_added': {"root['area_sq_mi']": '150'}, 'values_changed': {"root['area_rank']": {'new_value': '198th', 'old_value': '184th'}, "root['area_km2']": {'new_value': '388.5', 'old_value': '389'}}}
+146: {'dictionary_item_added': {"root['population_estimate_year']": '2013'}, 'values_changed': {"root['population_estimate']": {'new_value': '103,000', 'old_value': 'Saint Vincent and the Grenadinesref'}}}
+157: {'dictionary_item_removed': {"root['leader_name4']": 'Godwin Friday', "root['leader_title4']": 'Opposition Leader'}}
+169: {'values_changed': {"root['leader_name2']": {'new_value': 'Frederick Ballantyne', 'old_value': 'Tristan Mitchell'}, "root['leader_name4']": {'new_value': 'Godwin Friday', 'old_value': 'Mekeil Findlay'}}}
+170: {'values_changed': {"root['leader_name2']": {'new_value': 'Tristan Mitchell', 'old_value': 'Frederick Ballantyne'}, "root['leader_name4']": {'new_value': 'Mekeil Findlay', 'old_value': 'Godwin Friday'}}}
+172: {'values_changed': {"root['leader_name2']": {'new_value': 'Frederick Ballantyne', 'old_value': 'Tristan Mitchell'}, "root['leader_name4']": {'new_value': 'Godwin Friday', 'old_value': 'Mekeil Findlay'}}}
+173: {'values_changed': {"root['leader_name2']": {'new_value': 'Tristan Mitchell', 'old_value': 'Frederick Ballantyne'}, "root['leader_name4']": {'new_value': 'Mekeil Findlay', 'old_value': 'Godwin Friday'}}}
+178: {'dictionary_item_removed': {"root['religion']": 'Start with List:,  '}}
+180: {'dictionary_item_added': {"root['leader_name4']": 'Godwin Friday', "root['leader_title4']": 'Opposition Leader'}, 'values_changed': {"root['leader_name3']": {'new_value': 'Ralph Gonsalves', 'old_value': 'Godwin Friday'}}}
+181: {'values_changed': {"root['leader_name3']": {'new_value': 'Godwin Friday', 'old_value': 'Ralph Gonsalves'}}}
+212: {'dictionary_item_added': {"root['religion']": 'Start with List:,  '}, 'dictionary_item_removed': {"root['languages']": 'type=Vernacular language'}}
+217: {'values_changed': {"root['ethnic_groups']": {'new_value': '3.0% others', 'old_value': '3.0% Others'}}}
+223: {'values_changed': {"root['HDI_year']": {'new_value': '2014', 'old_value': '2018'}, "root['HDI']": {'new_value': '0.720', 'old_value': '0.723'}, "root['HDI_rank']": {'new_value': '97th', 'old_value': '99th'}}}
+224: {'values_changed': {"root['HDI_year']": {'new_value': '2018', 'old_value': '2017'}}}
+225: {'dictionary_item_added': {"root['Gini_year']": '|Gini_change =   |Gini =   |Gini_ref = |Gini_rank ='}, 'dictionary_item_removed': {"root['population_census_year']": '2011'}, 'values_changed': {"root['languages']": {'new_value': 'type=Vernacular language', 'old_value': 'Vincentian Creole'}, "root['population_census']": {'new_value': '109,991 |population_census_year = 2011', 'old_value': '109,991'}}}
+233: {'dictionary_item_removed': {"root['symbol']": 'Coat of arms of Saint Vincent and the Grenadines'}}
+245: {'values_changed': {"root['leader_name2']": {'new_value': 'Frederick Ballantyne', 'old_value': 'Sir Frederick Nathaniel Ballantyne'}, "root['leader_name3']": {'new_value': 'Ralph Gonsalves', 'old_value': 'Dr Ralph Gonsalves'}}}
+247: {'values_changed': {"root['GDP_PPP_year']": {'new_value': '2016', 'old_value': '2018'}, "root['GDP_PPP_per_capita']": {'new_value': '$11,291', 'old_value': '$12,070'}, "root['GDP_nominal_year']": {'new_value': '2016', 'old_value': '2018'}}}
+248: {'values_changed': {"root['GDP_nominal_per_capita']": {'new_value': '$7,123', 'old_value': '$7,607'}}}
+249: {'values_changed': {"root['GDP_PPP_year']": {'new_value': '2018', 'old_value': '2016'}, "root['GDP_PPP_per_capita']": {'new_value': '$12,070', 'old_value': '$11,291'}, "root['GDP_nominal_year']": {'new_value': '2018', 'old_value': '2016'}, "root['GDP_nominal_per_capita']": {'new_value': '$7,607', 'old_value': '$7,123'}}}
+285: {'values_changed': {"root['population_estimate_rank']": {'new_value': '196th', 'old_value': '179th'}}}
+287: {'values_changed': {"root['GDP_PPP']": {'new_value': '$1.243 billion', 'old_value': '$1.373 billion'}, "root['GDP_PPP_year']": {'new_value': '2016', 'old_value': '2019'}, "root['GDP_PPP_per_capita']": {'new_value': '$11,291', 'old_value': '$12,431'}, "root['GDP_nominal']": {'new_value': '$784 million', 'old_value': '$864 million'}, "root['GDP_nominal_year']": {'new_value': '2016', 'old_value': '2019'}, "root['GDP_nominal_per_capita']": {'new_value': '$7,123', 'old_value': '$7,827'}}}
+305: {'values_changed': {"root['GDP_PPP_per_capita']": {'new_value': '$12,431', 'old_value': '$12,431 https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=71pr.y=15sy=2017ey=2024scsm=1ssd=1sort=countryds=.br=1c=364s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPCgrp=0a='}}}
+306: {'values_changed': {"root['demonym']": {'new_value': 'Vincentian, Vincy', 'old_value': 'Saint Vincentian or Vincentian, Vincy'}}}
+361: {'values_changed': {"root['leader_name2']": {'new_value': 'Sir Frederick Nathaniel Ballantyne', 'old_value': 'Susan Dougan'}}}
+371: {'values_changed': {"root['leader_name3']": {'new_value': 'Dr Ralph Gonsalves', 'old_value': 'Ralph Gonsalves'}}}
+372: {'values_changed': {"root['ethnic_groups']": {'new_value': '3.0% Others', 'old_value': '3.0% Others   }'}}}
+373: {'values_changed': {"root['ethnic_groups']": {'new_value': '3.0% Others   }', 'old_value': '3.0% Others'}}}
+397: {'dictionary_item_added': {"root['ethnic_groups']": '3.0% Others'}, 'dictionary_item_removed': {"root['list']": 'Vernacular language | languages'}}
+399: {'dictionary_item_added': {"root['list']": 'Vernacular language | languages'}, 'dictionary_item_removed': {"root['ethnic_groups']": '3.0% Others'}}
+405: {'values_changed': {"root['GDP_PPP_per_capita']": {'new_value': '$12,431 https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=71pr.y=15sy=2017ey=2024scsm=1ssd=1sort=countryds=.br=1c=364s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPCgrp=0a=', 'old_value': '$12,431 https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=71pr.y=15sy=2017ey=2024scsm=1ssd=1sort=countryds=.br=1c=364s=NGDPD%2CPPPGDP%2CNGDPDPC%2CPPPPCgrp=0a= Report on St. Vincent and the Grenadines, International Monetary Fund.'}}}
+408: {'values_changed': {"root['HDI_year']": {'new_value': '2017', 'old_value': '2018'}, "root['HDI']": {'new_value': '0.723', 'old_value': '0.728'}, "root['HDI_rank']": {'new_value': '99th', 'old_value': '94th'}}}
+425: {'values_changed': {"root['ethnic_groups']": {'new_value': '3.0% Others', 'old_value': '2.0% Others'}}}
+427: {'values_changed': {"root['ethnic_groups']": {'new_value': '2.0% Others', 'old_value': '3.0% Others'}}}
+455: {'values_changed': {"root['ethnic_groups']": {'new_value': '3.0% Others', 'old_value': '3% Others'}}}
+465: {'dictionary_item_added': {"root['ethnic_groups']": '3% Others'}, 'dictionary_item_removed': {"root['list']": 'Vernacular language | languages'}}
+466: {'dictionary_item_added': {"root['list']": 'Vernacular language | languages'}, 'dictionary_item_removed': {"root['ethnic_groups']": '3% Others'}}
+488: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+489: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English · Spanish'}}}
+498: {'dictionary_item_added': {"root['official_languages']": 'English · Spanish'}, 'values_changed': {"root['population_estimate_rank']": {'new_value': '179th', 'old_value': '195th'}}}
+505: {'dictionary_item_removed': {"root['official_languages']": 'English'}, 'values_changed': {"root['population_estimate_rank']": {'new_value': '195th', 'old_value': '179th'}}}
+511: {'values_changed': {"root['demonym']": {'new_value': 'Saint Vincentian or Vincentian, Vincy', 'old_value': 'Saint Vincentian or Vincentian, Vincy '}}}
+512: {'dictionary_item_removed': {"root['religion_year']": '2012'}}
+528: {'values_changed': {"root['GDP_nominal']": {'new_value': '$864 million', 'old_value': '$864 billion'}}}
+529: {'values_changed': {"root['GDP_nominal']": {'new_value': '$864 billion', 'old_value': '$864 million'}}}
+539: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'spanish'}}}
+541: {'values_changed': {"root['official_languages']": {'new_value': 'spanish', 'old_value': 'English'}}}
+545: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'French, English & Spanish'}}}
+553: {'values_changed': {"root['official_languages']": {'new_value': 'French, English & Spanish', 'old_value': 'French  English  Spanish'}}}
+555: {'values_changed': {"root['official_languages']": {'new_value': 'French  English  Spanish', 'old_value': 'French English & Spanish'}}}
+556: {'values_changed': {"root['official_languages']": {'new_value': 'French English & Spanish', 'old_value': 'French  English Spanish'}}}
+557: {'values_changed': {"root['official_languages']": {'new_value': 'French  English Spanish', 'old_value': 'French  English & Spanish'}}}
+558: {'values_changed': {"root['official_languages']": {'new_value': 'French  English & Spanish', 'old_value': 'French, English & Spanish'}}}
+565: {'values_changed': {"root['HDI_year']": {'new_value': '2018', 'old_value': '2019'}, "root['HDI']": {'new_value': '0.728', 'old_value': '0.738'}, "root['HDI_rank']": {'new_value': '94th', 'old_value': '97th'}}}
+567: {'values_changed': {"root['official_languages']": {'new_value': 'French, English & Spanish', 'old_value': 'English, English & English'}}}
+568: {'values_changed': {"root['official_languages']": {'new_value': 'English, English & English', 'old_value': 'English'}}}
+576: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish French English'}}}
+577: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish French English', 'old_value': 'SpanishFrenchEnglish'}}}
+578: {'values_changed': {"root['official_languages']": {'new_value': 'SpanishFrenchEnglish', 'old_value': 'Spanish, French & English'}}}
+580: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish, French & English', 'old_value': 'English'}}}
+620: {'values_changed': {"root['population_census']": {'new_value': '109,991', 'old_value': '100,455'}, "root['population_census_year']": {'new_value': '2011', 'old_value': '2021'}}}
+625: {'values_changed': {"root['demonym']": {'new_value': 'Saint Vincentian or Vincentian, Vincy ', 'old_value': 'Saint Vincentian or Vincentian Vincy '}}}
+634: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+635: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+636: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+639: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+640: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+642: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+646: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+648: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+649: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+650: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+657: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+663: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+677: {'values_changed': {"root['religion_year']": {'new_value': '2012', 'old_value': '2010'}}}
+683: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+684: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+688: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+689: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+690: {'values_changed': {"root['official_languages']": {'new_value': 'English', 'old_value': 'Spanish'}}}
+694: {'values_changed': {"root['official_languages']": {'new_value': 'Spanish', 'old_value': 'English'}}}
+753: {'values_changed': {"root['population_census']": {'new_value': '100,455', 'old_value': '9,100,455'}}}
+754: {'values_changed': {"root['population_census']": {'new_value': '9,100,455', 'old_value': '100,455'}}}
+782: {'dictionary_item_added': {"root['ethnic_groups']": '3% Others'}, 'values_changed': {"root['common_name']": {'new_value': 'Saint Vincent and the Grenadines', 'old_value': 'Saint Vincent and the Gayadines'}}}
+783: {'values_changed': {"root['common_name']": {'new_value': 'Saint Vincent and the Gayadines', 'old_value': 'Saint Vincent and the Grenadines'}}}
+784: {'values_changed': {"root['leader_name1']": {'new_value': 'Elizabeth II', 'old_value': 'Charles'}}}
+785: {'values_changed': {"root['leader_name1']": {'new_value': 'Charles', 'old_value': 'Charles III'}}}
+795: {'values_changed': {"root['demonym']": {'new_value': 'Saint Vincentian or Vincentian Vincy ', 'old_value': 'Saint Vincentian and Grenadinian Vincy '}}}
+801: {'values_changed': {"root['religion_year']": {'new_value': '2010', 'old_value': '2020'}}}
+809: {'values_changed': {"root['HDI_year']": {'new_value': '2019', 'old_value': '2021'}, "root['HDI']": {'new_value': '0.738', 'old_value': '0.751'}, "root['HDI_rank']": {'new_value': '97th', 'old_value': '89th'}}}
+816: {'values_changed': {"root['demonym']": {'new_value': 'Saint Vincentian and Grenadinian Vincy ', 'old_value': 'Vincentian and Grenadinian Vincy '}}}
+837: {'values_changed': {"root['languages']": {'new_value': 'Vincentian Creole', 'old_value': 'icelandic-basque Creole | Saint George and the ball maker'}, "root['common_name']": {'new_value': 'Saint Vincent and the Grenadines', 'old_value': 'saint Lucas and the ball maker'}, "root['symbol']": {'new_value': 'Coat of arms of Saint Vincent and the Grenadines', 'old_value': 'Coat of arms of Saint Lucas and the ball maker'}, "root['demonym']": {'new_value': 'Vincentian and Grenadinian Vincy ', 'old_value': 'Demographics of saint Lucas and the ball maker Vincy '}}}
+838: {'values_changed': {"root['languages']": {'new_value': 'icelandic-basque Creole | Saint George and the ball maker', 'old_value': 'Vincentian Creole'}, "root['common_name']": {'new_value': 'saint Lucas and the ball maker', 'old_value': 'Saint Vincent and the Grenadines'}, "root['symbol']": {'new_value': 'Coat of arms of Saint Lucas and the ball maker', 'old_value': 'Coat of arms of Saint Vincent and the Grenadines'}, "root['demonym']": {'new_value': 'Demographics of saint Lucas and the ball maker Vincy ', 'old_value': 'Vincentian and Grenadinian Vincy '}}}
+859: {'values_changed': {"root['demonym']": {'new_value': 'Vincentian and Grenadinian Vincy ', 'old_value': 'Vincentian and Grenadinian Vincy (colloquial)'}}}
+865: {'values_changed': {"root['population_estimate_rank']": {'new_value': '179th', 'old_value': '180th'}}}
+866: {'values_changed': {"root['population_census']": {'new_value': '100,455', 'old_value': '109,991'}, "root['population_census_year']": {'new_value': '2021', 'old_value': '2012'}}}
+868: {'dictionary_item_removed': {"root['population_estimate_year']": '2022'}, 'values_changed': {"root['population_estimate']": {'new_value': 'Saint Vincent and the Grenadinesref', 'old_value': '110,872'}}}

@@ -1,0 +1,51 @@
+4: {'dictionary_item_removed': {"root['common_name']": 'Hawaii', "root['continent']": 'Oceania', "root['symbol']": 'Coat of Arms of the Kingdom of Hawaii', "root['latd']": '|latm= |latNS= |longd= |longm= |longEW=  |', "root['leader1']": ', ', "root['title_leader']": 'Monarch'}}
+5: {'dictionary_item_removed': {"root['leader2']": ', Provisional Government of Hawaii (in place of a monarch)'}}
+6: {'values_changed': {"root['symbol']": {'new_value': 'Coat of Arms of the Kingdom of Hawaii', 'old_value': 'Hawaiian Royal Coat of Arms'}}}
+13: {'dictionary_item_added': {"root['latd']": '|latm= |latNS= |longd= |longm= |longEW=  |'}, 'dictionary_item_removed': {"root['country']": 'United States', "root['year_leader1']": '1795–1819', "root['year_leader2']": '1891–1893', "root['representative1']": 'Committee of Safety', "root['year_representative1']": '1893-1894', "root['title_representative']": 'Provisional Government  '}, 'values_changed': {"root['symbol']": {'new_value': 'Hawaiian Royal Coat of Arms', 'old_value': 'Coat of arms of Hawaii'}, "root['leader1']": {'new_value': ', ', 'old_value': 'Kamehameha I'}, "root['leader2']": {'new_value': ', Provisional Government of Hawaii (in place of a monarch)', 'old_value': 'Liliu'}}}
+14: {'dictionary_item_removed': {"root['year_event']": '1795', "root['year_event1']": '1810'}}
+17: {'dictionary_item_added': {"root['year_event']": '1795', "root['year_event1']": '1810', "root['symbol']": 'Coat of arms of Hawaii', "root['leader1']": 'Kamehameha I', "root['leader2']": 'Liliu', "root['year_leader1']": '1795–1819', "root['year_leader2']": '1891–1893', "root['title_leader']": 'Monarch'}, 'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'United States |'}}}
+18: {'dictionary_item_removed': {"root['year_event']": '1795', "root['year_event1']": '1810', "root['symbol']": 'Coat of arms of Hawaii', "root['title_leader']": 'Monarch'}, 'values_changed': {"root['country']": {'new_value': 'United States |', 'old_value': 'United States'}}}
+41: {'dictionary_item_removed': {"root['leader1']": 'Kamehameha I', "root['year_leader1']": '1795–1819', "root['leader2']": 'Liliu', "root['year_leader2']": '1891–1893'}}
+192: {'dictionary_item_added': {"root['continent']": 'Oceania', "root['year_event']": '1795', "root['year_event1']": '1810', "root['representative1']": 'Committee of Safety', "root['year_representative1']": '1893-1894', "root['title_representative']": 'Provisional Government  '}, 'dictionary_item_removed': {"root['status']": 'Exile', "root['title_deputy']": 'Kuhina Nui', "root['deputy1']": 'Ka', "root['year_deputy1']": '1819-1832', "root['deputy2']": 'Kekūanāoa (last)', "root['year_deputy2']": '1863-1864 |', "root['stat_year1']": '1890', "root['stat_pop1']": '89,990', "root['stat_pop2']": '| '}, 'values_changed': {"root['leader1']": {'new_value': 'Kamehameha I', 'old_value': 'Kamehameha I (first)'}, "root['leader2']": {'new_value': 'Liliu', 'old_value': 'Lili'}}}
+193: {'dictionary_item_removed': {"root['stat_year2']": '1890'}, 'values_changed': {"root['stat_year1']": {'new_value': '1890', 'old_value': '1832'}, "root['stat_pop1']": {'new_value': '89,990', 'old_value': '130,313'}, "root['stat_pop2']": {'new_value': '| ', 'old_value': '89,990 | '}}}
+194: {'values_changed': {"root['deputy2']": {'new_value': 'Kekūanāoa (last)', 'old_value': 'Kekūanā'}}}
+195: {'values_changed': {"root['deputy2']": {'new_value': 'Kekūanā', 'old_value': 'Kekūanāo'}}}
+226: {'values_changed': {"root['year_leader2']": {'new_value': '1891–1893', 'old_value': '1891–1894'}}}
+230: {'values_changed': {"root['year_leader2']": {'new_value': '1891–1894', 'old_value': '1891–1893'}}}
+255: {'dictionary_item_removed': {"root['religion']": 'Hawaiian, Christianity'}}
+274: {'dictionary_item_removed': {"root['stat_year3']": '1890', "root['stat_pop3']": '89,990 | '}, 'values_changed': {"root['stat_year1']": {'new_value': '1832', 'old_value': '1800'}, "root['stat_pop1']": {'new_value': '130,313', 'old_value': '250,000'}, "root['stat_year2']": {'new_value': '1890', 'old_value': '1832'}, "root['stat_pop2']": {'new_value': '89,990 | ', 'old_value': '130,313'}}}
+285: {'values_changed': {"root['religion']": {'new_value': 'Hawaiian, Christianity', 'old_value': 'Church of Hawaii'}, "root['year_deputy1']": {'new_value': '1819-1832', 'old_value': '1819–1832'}, "root['year_deputy2']": {'new_value': '1863-1864 |', 'old_value': '1863–1864 |'}}}
+287: {'values_changed': {"root['religion']": {'new_value': 'Church of Hawaii', 'old_value': 'Hawaiian, Christianity'}}}
+313: {'values_changed': {"root['stat_pop3']": {'new_value': '89,990 | ', 'old_value': '89,990 '}}}
+393: {'dictionary_item_removed': {"root['life_span']": '1816–1843  1843–1893'}}
+401: {'values_changed': {"root['life_span']": {'new_value': '1816–1843  1843–1893', 'old_value': '1795–1843  1843–1893'}}}
+437: {'dictionary_item_added': {"root['life_span']": '1795–1843  1843–1893'}, 'values_changed': {"root['religion']": {'new_value': 'Hawaiian, Christianity', 'old_value': 'Church of Hawaii'}}}
+439: {'dictionary_item_removed': {"root['life_span']": '1795–1843 ,  1843–1895'}}
+443: {'values_changed': {"root['life_span']": {'new_value': '1795–1843 ,  1843–1895', 'old_value': '1795–1843 ,  1843–1893/1895'}}}
+448: {'values_changed': {"root['common_name']": {'new_value': 'Hawaii', 'old_value': 'Hawai‘i'}, "root['country']": {'new_value': 'United States', 'old_value': 'Hawai‘i'}, "root['status']": {'new_value': 'Exile', 'old_value': 'Illegally occupied by the United States'}, "root['year_deputy2']": {'new_value': '1863–1864 |', 'old_value': '1863–1864'}}}
+451: {'values_changed': {"root['common_name']": {'new_value': 'Hawai‘i', 'old_value': 'Hawaii'}, "root['country']": {'new_value': 'Hawai‘i', 'old_value': 'United States'}, "root['status']": {'new_value': 'Illegally occupied by the United States', 'old_value': 'Exile'}, "root['year_deputy2']": {'new_value': '1863–1864', 'old_value': '1863–1864 |'}}}
+459: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By United States'}, "root['life_span']": {'new_value': '1795–1843 ,  1843–1893/1895', 'old_value': '1795–1843 ,  1843-Current'}}}
+460: {'values_changed': {"root['status']": {'new_value': 'Occupied By United States', 'old_value': 'Exile'}, "root['life_span']": {'new_value': '1795–1843 ,  1843-Current', 'old_value': '1795–1843 ,  1843–1893/1895'}}}
+461: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States'}, "root['life_span']": {'new_value': '1795–1843 ,  1843–1893/1895', 'old_value': '1795–1843 ,  1843–Current'}}}
+462: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States', 'old_value': 'Exile'}, "root['life_span']": {'new_value': '1795–1843 ,  1843–Current', 'old_value': '1795–1843 ,  1843–1893/1895'}}}
+463: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States'}}}
+464: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States', 'old_value': 'Exile'}}}
+465: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States'}}}
+466: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States', 'old_value': 'Exile'}}}
+467: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Liars'}}}
+468: {'values_changed': {"root['status']": {'new_value': 'Liars', 'old_value': 'Exile'}}}
+469: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Not In Exile'}}}
+470: {'values_changed': {"root['status']": {'new_value': 'Not In Exile', 'old_value': 'Not In Exile, Occupied By The U.S.'}}}
+471: {'values_changed': {"root['status']": {'new_value': 'Not In Exile, Occupied By The U.S.', 'old_value': 'Exile'}}}
+472: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States'}}}
+474: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States', 'old_value': 'Exile'}}}
+476: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States'}}}
+477: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States', 'old_value': 'Exile'}}}
+478: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The U.S'}}}
+480: {'values_changed': {"root['status']": {'new_value': 'Occupied By The U.S', 'old_value': 'Occupied By The United States Of America'}}}
+484: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States Of America', 'old_value': 'Exile'}}}
+485: {'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Occupied By The United States Of America'}}}
+488: {'values_changed': {"root['status']": {'new_value': 'Occupied By The United States Of America', 'old_value': 'Exile'}}}
+489: {'dictionary_item_added': {"root['status']": 'Exile'}, 'values_changed': {"root['life_span']": {'new_value': '1795–1843 ,  1843–1893/1895', 'old_value': '1795–1843 ,  1843–1893'}}}
+499: {'values_changed': {"root['country']": {'new_value': 'United States', 'old_value': 'Occupied By The United States Of America'}}}
+500: {'values_changed': {"root['country']": {'new_value': 'Occupied By The United States Of America', 'old_value': 'United States'}}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Switzerland', "root['continent']": 'Europe', "root['region']": 'Central Europe', "root['country']": 'Europe', "root['status']": 'Client'}}
+25: {'dictionary_item_added': {"root['country']": 'Europe'}, 'dictionary_item_removed': {"root['border_p2']": 'no', "root['border_p3']": 'no', "root['border_s1']": 'no'}, 'values_changed': {"root['common_name']": {'new_value': 'Switzerland', 'old_value': 'Switzerland |'}}}
+35: {'dictionary_item_added': {"root['continent']": 'Europe', "root['region']": 'Central Europe'}, 'values_changed': {"root['common_name']": {'new_value': 'Switzerland |', 'old_value': 'Switzerland|'}}}
+41: {'values_changed': {"root['common_name']": {'new_value': 'Switzerland|', 'old_value': 'Switzerland'}}}
+47: {'dictionary_item_removed': {"root['official_languages']": 'French, German, Italian', "root['languages']": 'French, German, Italian   | language_type = Other'}}
+48: {'values_changed': {"root['languages']": {'new_value': 'French, German, Italian   | language_type = Other', 'old_value': 'French, German, Italian     | language_type = Other'}}}
+50: {'values_changed': {"root['languages']": {'new_value': 'French, German, Italian     | language_type = Other', 'old_value': 'Romansh'}}}
+51: {'values_changed': {"root['languages']": {'new_value': 'Romansh', 'old_value': 'French, German, Italian     | language_type = Other'}}}
+52: {'values_changed': {"root['languages']": {'new_value': 'French, German, Italian     | language_type = Other', 'old_value': 'Romansh'}}}

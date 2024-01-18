@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Inini', "root['status']": 'Colony', "root['stat_year1']": '1941', "root['stat_pop1']": '5000'}}
+5: {'values_changed': {"root['stat_pop1']": {'new_value': '5000', 'old_value': '5,000'}}}
+10: {'dictionary_item_added': {"root['stat_pop1']": '5,000'}, 'dictionary_item_removed': {"root['stat_area1']": '78479', "root['stat_year2']": '1941', "root['stat_pop2']": '5,000'}, 'values_changed': {"root['stat_year1']": {'new_value': '1941', 'old_value': '1930'}}}
+15: {'values_changed': {"root['stat_year2']": {'new_value': '1941', 'old_value': '1946'}, "root['stat_pop2']": {'new_value': '5,000', 'old_value': '5,024'}}}

@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Ostland |', "root['continent']": 'Europe', "root['region']": 'Eastern Europe', "root['status']": 'Client'}}
+4: {'values_changed': {"root['common_name']": {'new_value': 'Ostland |', 'old_value': 'Ostland (Eastland) |'}}}
+6: {'values_changed': {"root['common_name']": {'new_value': 'Ostland (Eastland) |', 'old_value': 'Ostland |'}}}
+19: {'dictionary_item_removed': {"root['leader_title1']": 'Reichskommissar', "root['leader_name1']": 'Hinrich Lohse |'}}
+22: {'dictionary_item_removed': {"root['leader1']": 'Hinrich Lohse', "root['leader2']": 'Erich Koch', "root['year_leader1']": '1941-1944', "root['year_leader2']": '1944/45', "root['title_leader']": 'Reichskommissar'}}
+24: {'dictionary_item_added': {"root['leader_title1']": 'Reichskommissar', "root['leader_name1']": 'Hinrich Lohse |'}, 'dictionary_item_removed': {"root['country']": 'Estonia, Latvia, Lithuania, Belarus, Russia', "root['stat_pop1']": '19 200 000', "root['stat_area1']": '51 2000 '}, 'values_changed': {"root['common_name']": {'new_value': 'Ostland |', 'old_value': 'Ostland'}}}
+25: {'values_changed': {"root['stat_pop1']": {'new_value': '19 200 000', 'old_value': '19200000'}, "root['stat_area1']": {'new_value': '51 2000 ', 'old_value': '512000 '}}}

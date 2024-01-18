@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['membership']": 'titlesty'}}
+22: {'dictionary_item_removed': {"root['org_idea']": 'Albania'}}
+134: {'dictionary_item_added': {"root['org_idea']": 'Albania', "root['membership']": 'titlesty'}, 'dictionary_item_removed': {"root['linking_name']": 'Open Balkan', "root['population_estimate']": '11,794,634', "root['population_estimate_year']": '2021', "root['GDP_PPP']": '$88.525 billion', "root['GDP_PPP_per_capita']": '$51.021'}}
+135: {'dictionary_item_removed': {"root['name']": 'data2='}}
+175: {'dictionary_item_added': {"root['name']": 'data2=', "root['GDP_PPP']": '$88.525 billion', "root['GDP_PPP_per_capita']": '$51.021'}, 'dictionary_item_removed': {"root['GDP_nominal']": '$88.525 billion', "root['GDP_nominal_rank']": '| GDP_PPP_per_capita = $51.021 | GDP_nominal_year = | GDP_nominal ='}}
+178: {'dictionary_item_removed': {"root['GDP_nominal_per_capita']": '$6.256', "root['HDI']": '0.792', "root['HDI_year']": '2019'}, 'values_changed': {"root['population_estimate']": {'new_value': '11,794,634', 'old_value': '11,829,347'}, "root['population_estimate_year']": {'new_value': '2021', 'old_value': '2020'}, "root['GDP_nominal']": {'new_value': '$88.525 billion', 'old_value': '$80.027 billion'}, "root['GDP_nominal_rank']": {'new_value': '| GDP_PPP_per_capita = $51.021 | GDP_nominal_year = | GDP_nominal =', 'old_value': '| GDP_PPP_per_capita = $16.658 | GDP_nominal_year = | GDP_nominal ='}}}
+180: {'dictionary_item_removed': {"root['area_km2']": [')'], "root['official_languages']": 'Serbian, Albanian, Macedonian'}}
+181: {'type_changes': {"root['area_km2']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '142.822 (km2)', 'new_value': [')']}}, 'dictionary_item_added': {"root['official_languages']": 'Serbian, Albanian, Macedonian'}}
+182: {'dictionary_item_added': {"root['GDP_nominal_rank']": '| GDP_PPP_per_capita = $16.658 | GDP_nominal_year = | GDP_nominal =', "root['GDP_nominal_per_capita']": '$6.256'}, 'dictionary_item_removed': {"root['GDP_PPP_per_capita']": '$16.658'}, 'values_changed': {"root['area_km2']": {'new_value': '142.822 (km2)', 'old_value': '142.822'}}}
+202: {'values_changed': {"root['area_km2']": {'new_value': '142.822', 'old_value': '131.935'}}}
+212: {'dictionary_item_removed': {"root['membership']": ['', '', '']}}
+224: {'values_changed': {"root['population_estimate']": {'new_value': '11,829,347', 'old_value': '11,895,087'}, "root['population_estimate_year']": {'new_value': '2020', 'old_value': '2019'}}}
+226: {'values_changed': {"root['population_estimate']": {'new_value': '11,895,087', 'old_value': '11,802,870'}, "root['population_estimate_year']": {'new_value': '2019', 'old_value': '2020'}}}
+227: {'values_changed': {"root['population_estimate']": {'new_value': '11,802,870', 'old_value': '11,786,310'}}}
+242: {'dictionary_item_added': {"root['linking_name']": 'Open Balkan'}, 'dictionary_item_removed': {"root['rowclass1']": 'mergedrow | label1 = Albanian: | data1 = ', "root['rowclass2']": 'mergedrow | label2 = Macedonian: | data2 = ', "root['rowclass3']": 'mergedrow | label3 = Serbian: | data3 = '}}
+277: {'dictionary_item_added': {"root['HDI']": '0.792', "root['HDI_year']": '2019'}, 'values_changed': {"root['GDP_nominal']": {'new_value': '$80.027 billion', 'old_value': '$97.027 billion'}}}
+278: {'values_changed': {"root['GDP_nominal']": {'new_value': '$97.027 billion', 'old_value': '$97.79 billion'}}}
+279: {'values_changed': {"root['GDP_PPP_per_capita']": {'new_value': '$16.658', 'old_value': '$18.006'}}}
+281: {'values_changed': {"root['GDP_PPP_per_capita']": {'new_value': '$18.006', 'old_value': '$16.658'}}}
+306: {'values_changed': {"root['area_km2']": {'new_value': '131.935', 'old_value': '142.822'}}}
+310: {'values_changed': {"root['population_estimate']": {'new_value': '11,786,310', 'old_value': '13,245,899'}}}
+311: {'values_changed': {"root['population_estimate']": {'new_value': '13,245,899', 'old_value': '13,425,899'}}}
+313: {'values_changed': {"root['area_km2']": {'new_value': '142.822', 'old_value': '131.935'}, "root['population_estimate']": {'new_value': '13,425,899', 'old_value': '11,786,310'}}}
+315: {'dictionary_item_added': {"root['GDP_PPP_per_capita']": '$16.658'}, 'dictionary_item_removed': {"root['GDP_PPP']": '$255.658 bilion'}, 'values_changed': {"root['population_estimate_year']": {'new_value': '2020', 'old_value': '2022'}, "root['GDP_nominal']": {'new_value': '$97.79 billion', 'old_value': '$100.79 billion'}}}
+345: {'values_changed': {"root['population_estimate']": {'new_value': '11,786,310', 'old_value': '11,554,215'}}}
+360: {'dictionary_item_removed': {"root['image_symbol']": 'Open Balkan logo.svg'}}
+376: {'dictionary_item_added': {"root['image_symbol']": 'Open Balkan logo.svg'}, 'values_changed': {"root['rowclass2']": {'new_value': 'mergedrow | label2 = Macedonian: | data2 = ', 'old_value': 'mergedrow | label2 = Bulgarian: | data2 = '}}}
+377: {'values_changed': {"root['rowclass2']": {'new_value': 'mergedrow | label2 = Bulgarian: | data2 = ', 'old_value': 'mergedrow | label2 = Macedonia : | data2 = '}}}
+378: {'values_changed': {"root['rowclass2']": {'new_value': 'mergedrow | label2 = Macedonia : | data2 = ', 'old_value': 'mergedrow | label2 = Macedonian : | data2 = '}}}
+379: {'values_changed': {"root['GDP_PPP']": {'new_value': '$255.658 bilion', 'old_value': '$255.658 billion'}}}
+385: {'dictionary_item_removed': {"root['style']": 'background:transparent;tex'}, 'iterable_item_removed': {"root['membership'][3]": '', "root['membership'][4]": '', "root['membership'][5]": ''}}
+390: {'iterable_item_removed': {"root['membership'][6]": ''}}
+393: {'iterable_item_added': {"root['membership'][6]": ''}}
+394: {'dictionary_item_added': {"root['style']": 'background:transparent;tex'}, 'iterable_item_added': {"root['membership'][3]": '', "root['membership'][4]": '', "root['membership'][5]": ''}}
+396: {'values_changed': {"root['GDP_nominal']": {'new_value': '$100.79 billion', 'old_value': '$130.79 billion'}, "root['GDP_PPP']": {'new_value': '$255.658 billion', 'old_value': '$302.658 billion'}}}
+398: {'iterable_item_removed': {"root['membership'][3]": ''}}
+400: {'iterable_item_added': {"root['membership'][3]": ''}}

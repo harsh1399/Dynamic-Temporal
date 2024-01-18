@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Saffarid Empire', "root['continent']": 'Asia', "root['country']": 'Afghanistan', "root['leader1']": "Ya'qub bin Laith as-Saffar", "root['leader2']": 'Khalaf I', "root['year_leader1']": '867-879', "root['year_leader2']": '963-1003', "root['title_leader']": 'Emir '}}
+14: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Empire', 'old_value': 'Saffarid Persian Empire'}}}
+15: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Persian Empire', 'old_value': 'Saffarid dynasty'}}}
+16: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid dynasty', 'old_value': 'Saffarid Empire'}}}
+18: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Empire', 'old_value': 'Saffarid dynasty'}, "root['country']": {'new_value': 'Afghanistan', 'old_value': 'Afghanistan, Iran'}}}
+20: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid dynasty', 'old_value': 'Saffarid Empire'}, "root['country']": {'new_value': 'Afghanistan, Iran', 'old_value': 'Afghanistan'}}}
+21: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Empire', 'old_value': 'Saffarid dynasty'}, "root['country']": {'new_value': 'Afghanistan', 'old_value': 'Afghanistan, Iran'}}}
+22: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid dynasty', 'old_value': 'Saffarid Empire'}, "root['country']": {'new_value': 'Afghanistan, Iran', 'old_value': 'Afghanistan'}}}
+23: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Empire', 'old_value': 'Saffarid dynasty'}, "root['country']": {'new_value': 'Afghanistan', 'old_value': 'Afghanistan, Iran'}}}
+32: {'values_changed': {"root['country']": {'new_value': 'Afghanistan, Iran', 'old_value': 'Afghanistan, Iran, Pakistan'}}}
+42: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid dynasty', 'old_value': 'Saffarid Dynasty'}, "root['year_leader2']": {'new_value': '963-1003', 'old_value': '963-1002'}}}
+45: {'values_changed': {"root['year_leader1']": {'new_value': '867-879', 'old_value': '867–879'}, "root['year_leader2']": {'new_value': '963-1002', 'old_value': '963–1002'}}}
+53: {'values_changed': {"root['leader1']": {'new_value': "Ya'qub bin Laith as-Saffar", 'old_value': 'Yaqub Ismail'}}}
+54: {'values_changed': {"root['leader1']": {'new_value': 'Yaqub Ismail', 'old_value': "Ya'qub bin Laith as-Saffar"}}}
+75: {'dictionary_item_removed': {"root['religion']": 'Sunni Islam'}, 'values_changed': {"root['year_leader1']": {'new_value': '867–879', 'old_value': '861–879'}}}
+99: {'values_changed': {"root['common_name']": {'new_value': 'Saffarid Dynasty', 'old_value': 'Saffarid Empire'}}}
+116: {'dictionary_item_removed': {"root['region']": 'South Asia'}}
+161: {'dictionary_item_added': {"root['region']": 'South Asia'}, 'dictionary_item_removed': {"root['today']": 'titlesty'}, 'values_changed': {"root['title_leader']": {'new_value': 'Emir ', 'old_value': 'Emir'}}}

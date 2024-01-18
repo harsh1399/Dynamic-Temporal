@@ -1,0 +1,33 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Ak Koyunlu', "root['continent']": 'Asia', "root['region']": 'Middle-East', "root['religion']": "Shi'ite", "root['leader1']": 'Kara Yülük Osman', "root['leader2']": 'Murad ibn Ya‘qub', "root['year_leader1']": '1378-1435', "root['year_leader2']": '1501-1508'}}
+5: {'values_changed': {"root['religion']": {'new_value': "Shi'ite", 'old_value': 'Islam'}}}
+19: {'values_changed': {"root['common_name']": {'new_value': 'Ak Koyunlu', 'old_value': 'Aq Qoyunlu'}}}
+22: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Shia Islam'}, "root['leader1']": {'new_value': 'Kara Yülük Osman', 'old_value': 'Kara Yuluk Osman'}}}
+50: {'values_changed': {"root['religion']": {'new_value': 'Shia Islam', 'old_value': 'Sunni Islam'}}}
+69: {'values_changed': {"root['year_leader1']": {'new_value': '1378-1435', 'old_value': '1378–1435'}, "root['year_leader2']": {'new_value': '1501-1508', 'old_value': '1501–1508'}}}
+70: {'values_changed': {"root['leader2']": {'new_value': 'Murad ibn Ya‘qub', 'old_value': "Murad ibn Ya'qub"}}}
+77: {'values_changed': {"root['common_name']": {'new_value': 'Aq Qoyunlu', 'old_value': 'Ağ Qoyunlu'}}}
+79: {'dictionary_item_removed': {"root['title_leader']": 'Ruler |'}}
+82: {'dictionary_item_added': {"root['title_leader']": 'Ruler |'}, 'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': "Sunni Islam Michael M. Gunter, ''Historical dictionary of the Kurds'' (2010), p. 29"}, "root['year_leader2']": {'new_value': '1501–1508', 'old_value': '1501–1501'}}}
+104: {'dictionary_item_removed': {"root['title_leader']": 'Ruler |'}}
+105: {'dictionary_item_removed': {"root['country']": 'Whole Azerbaijan'}}
+166: {'dictionary_item_added': {"root['country']": 'Whole Azerbaijan'}, 'values_changed': {"root['common_name']": {'new_value': 'Ağ Qoyunlu', 'old_value': 'Ağ Qoyunlu Empire'}}}
+167: {'values_changed': {"root['common_name']": {'new_value': 'Ağ Qoyunlu Empire', 'old_value': 'Ağ Qoyunlu'}}}
+169: {'values_changed': {"root['leader1']": {'new_value': 'Kara Yuluk Osman', 'old_value': 'Uzun Hasan'}, "root['year_leader1']": {'new_value': '1378–1435', 'old_value': '1468-1478'}}}
+172: {'values_changed': {"root['leader1']": {'new_value': 'Uzun Hasan', 'old_value': 'Kara Yuluk Osman'}, "root['year_leader1']": {'new_value': '1468-1478', 'old_value': '1378–1435'}}}
+173: {'values_changed': {"root['leader1']": {'new_value': 'Kara Yuluk Osman', 'old_value': 'Uzun Hasan'}, "root['year_leader1']": {'new_value': '1378–1435', 'old_value': '1468-1478'}}}
+174: {'values_changed': {"root['leader1']": {'new_value': 'Uzun Hasan', 'old_value': 'Kara Yuluk Osman'}, "root['year_leader1']": {'new_value': '1468-1478', 'old_value': '1378–1435'}}}
+219: {'values_changed': {"root['common_name']": {'new_value': 'Ağ Qoyunlu', 'old_value': 'Aq Qoyunlu'}}}
+220: {'values_changed': {"root['common_name']": {'new_value': 'Aq Qoyunlu', 'old_value': 'Ağ Qoyunlu'}}}
+227: {'dictionary_item_removed': {"root['common_language']": 'Azerbaijani Turkic'}}
+238: {'dictionary_item_added': {"root['common_name']": 'Ağ Qoyunlu', "root['continent']": 'Asia', "root['region']": 'Middle-East', "root['common_language']": 'Azerbaijani Turkic'}, 'dictionary_item_removed': {"root['status']": 'Confederate Sultanate'}, 'values_changed': {"root['religion']": {'new_value': "Sunni Islam Michael M. Gunter, ''Historical dictionary of the Kurds'' (2010), p. 29", 'old_value': 'Sunni Islam'}, "root['title_leader']": {'new_value': 'Ruler |', 'old_value': 'Ruler'}}}
+241: {'dictionary_item_removed': {"root['demonym']": '|area_km2'}}
+257: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'dictionary_item_removed': {"root['area_km2']": '|area_rank'}}
+261: {'type_changes': {"root['area_km2']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ["Also referred to as the '''Aq Qoyunlu confederacy''', '''Aq Qoyunlu sultanate''', '''White Sheep confederacy''' or '''White Sheep Turkomans'''.", "Other spellings includes '''Ag Qoyunlu''', '''Agh Qoyunlu''' or '''Ak Koyunlu'''.", "Also mentioned as '''Bayanduriyye''' in Iranian |"], 'new_value': '|area_rank'}}}
+290: {'dictionary_item_added': {"root['area_km2']": ["Also referred to as the '''Aq Qoyunlu confederacy''', '''Aq Qoyunlu sultanate''', '''White Sheep confederacy''' or '''White Sheep Turkomans'''.", "Other spellings includes '''Ag Qoyunlu''', '''Agh Qoyunlu''' or '''Ak Koyunlu'''.", "Also mentioned as '''Bayanduriyye''' in Iranian |"]}, 'values_changed': {"root['leader1']": {'new_value': 'Kara Yuluk Osman', 'old_value': 'Uthman Beg'}, "root['leader2']": {'new_value': "Murad ibn Ya'qub", 'old_value': 'Sultan Murad'}}}
+291: {'values_changed': {"root['year_leader2']": {'new_value': '1501–1501', 'old_value': '1497–1501'}}}
+319: {'dictionary_item_removed': {"root['life_span']": '1348'}}
+320: {'dictionary_item_removed': {"root['event7']": 'Collapse of Aq Qoyunlu rule in Iran', "root['date_event7']": '1501'}, 'values_changed': {"root['life_span']": {'new_value': '1348', 'old_value': '1378–1508'}}}
+327: {'dictionary_item_added': {"root['event7']": 'Collapse of Aq Qoyunlu rule in Iran', "root['date_event7']": '1501'}, 'values_changed': {"root['life_span']": {'new_value': '1378–1508', 'old_value': '1378–1503'}}}
+337: {'values_changed': {"root['year_leader2']": {'new_value': '1497–1501', 'old_value': '1497–1503'}}}
+367: {'values_changed': {"root['life_span']": {'new_value': '1378–1503', 'old_value': '1378–1508'}}}
+372: {'values_changed': {"root['life_span']": {'new_value': '1378–1508', 'old_value': '1378–1503'}}}

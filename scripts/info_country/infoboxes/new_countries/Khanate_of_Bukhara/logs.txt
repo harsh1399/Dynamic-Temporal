@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['native_name_lang']": 'fa', "root['common_name']": 'Bukhara', "root['continent']": 'Asia', "root['country']": 'Uzbekistan', "root['title_leader']": 'Khan', "root['leader1']": 'Muhammad Shaybani', "root['year_leader1']": '1500–1510', "root['leader2']": 'Baqi Muhammad Khan', "root['year_leader2']": '1599 - 1605', "root['leader3']": 'Muhammad Rahim', "root['year_leader3']": '1747 - 1753', "root['leader4']": 'Abu’l Ghazi Khan', "root['year_leader4']": '1758–1785', "root['title_deputy']": 'Ataliq', "root['latd']": 'latm=46|latNS=N|longd=64|longm=26|longEW=E', "root['religion']": 'Islam (Sunni, Naqshbandi Sufism)', "root['population']": '2,000,000 est. (1902)'}}
+15: {'dictionary_item_removed': {"root['border_s1']": 'no'}}
+27: {'values_changed': {"root['year_leader2']": {'new_value': '1599 - 1605', 'old_value': '1599–1605'}, "root['year_leader3']": {'new_value': '1747 - 1753', 'old_value': '1747–1753'}}}
+28: {'values_changed': {"root['native_name_lang']": {'new_value': 'fa', 'old_value': 'uz'}}}
+29: {'values_changed': {"root['native_name_lang']": {'new_value': 'uz', 'old_value': 'fa'}}}
+30: {'values_changed': {"root['native_name_lang']": {'new_value': 'fa', 'old_value': 'uz'}}}
+31: {'values_changed': {"root['native_name_lang']": {'new_value': 'uz', 'old_value': 'fa'}}}
+32: {'values_changed': {"root['native_name_lang']": {'new_value': 'fa', 'old_value': 'uz'}}}
+33: {'values_changed': {"root['native_name_lang']": {'new_value': 'uz', 'old_value': 'fa'}}}
+37: {'dictionary_item_added': {"root['native_name_lang']": 'fa', "root['latd']": 'latm=46|latNS=N|longd=64|longm=26|longEW=E', "root['population']": '2,000,000 est. (1902)'}, 'dictionary_item_removed': {"root['stat_pop1']": '2,000,000 est.', "root['stat_year1']": '1902'}}
+38: {'values_changed': {"root['leader3']": {'new_value': 'Muhammad Rahim', 'old_value': 'Muhammed Rahim'}}}

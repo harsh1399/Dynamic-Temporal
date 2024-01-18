@@ -1,0 +1,16 @@
+23: {'dictionary_item_removed': {"root['common_name']": 'Western Togoland', "root['status']": 'Unrecognized country', "root['largest_city']": 'Ho', "root['languages']": '|nationa'}}
+26: {'dictionary_item_removed': {"root['leader_title2']": '<!--(could be "Vice President", otherwise "Prime MinisterNations and Peoples Organization (UNPO) since 2017.'}}
+33: {'dictionary_item_added': {"root['leader_title2']": '<!--(could be "Vice President", otherwise "Prime MinisterNations and Peoples Organization (UNPO) since 2017.'}, 'dictionary_item_removed': {"root['leader_title1']": '<!--(for'}}
+35: {'dictionary_item_added': {"root['leader_title1']": '<!--(for'}, 'values_changed': {"root['languages']": {'new_value': '|nationa', 'old_value': '| nationa'}}}
+36: {'values_changed': {"root['languages']": {'new_value': '| nationa', 'old_value': '|nationa'}}}
+37: {'values_changed': {"root['languages']": {'new_value': '|nationa', 'old_value': '| nationa'}}}
+41: {'values_changed': {"root['status']": {'new_value': 'Unrecognized country', 'old_value': 'Ghanaian Territory'}}}
+51: {'dictionary_item_removed': {"root['official_languages']": 'French'}, 'values_changed': {"root['languages']": {'new_value': '| nationa', 'old_value': 'French | nationa'}}}
+52: {'dictionary_item_removed': {"root['regional_languages']": 'German, Ewe, Dangme, Avatime, Tafi, Logba'}}
+57: {'values_changed': {"root['official_languages']": {'new_value': 'French', 'old_value': 'English'}, "root['regional_languages']": {'new_value': 'German, Ewe, Dangme, Avatime, Tafi, Logba', 'old_value': 'French, German, Ewe, Dangme, Avatime, Tafi, Logba'}, "root['languages']": {'new_value': 'French | nationa', 'old_value': 'English | nationa'}}}
+58: {'dictionary_item_removed': {"root['national_languages']": 'French'}, 'values_changed': {"root['regional_languages']": {'new_value': 'French, German, Ewe, Dangme, Avatime, Tafi, Logba', 'old_value': 'German, Ewe, Dangme, Avatime, Tafi, Logba'}}}
+70: {'dictionary_item_added': {"root['common_name']": 'Western Togoland', "root['status']": 'Ghanaian Territory', "root['official_languages']": 'English', "root['national_languages']": 'French', "root['regional_languages']": 'German, Ewe, Dangme, Avatime, Tafi, Logba', "root['languages']": 'English | nationa'}, 'values_changed': {"root['largest_city']": {'new_value': 'Ho', 'old_value': 'Ho,'}}}
+71: {'dictionary_item_removed': {"root['common_name']": 'Western Togoland', "root['status']": 'Ghanaian Territory', "root['official_languages']": 'English', "root['national_languages']": 'French', "root['regional_languages']": 'German, Ewe, Dangme, Avatime, Tafi, Logba', "root['languages']": 'English | nationa'}, 'values_changed': {"root['largest_city']": {'new_value': 'Ho,', 'old_value': 'Ho'}}}
+99: {'values_changed': {"root['status']": {'new_value': 'Ghanaian Territory', 'old_value': 'Unrecognized State'}}}
+100: {'values_changed': {"root['status']": {'new_value': 'Unrecognized State', 'old_value': 'Region'}}}
+116: {'dictionary_item_removed': {"root['area_km2']": '20,550'}}

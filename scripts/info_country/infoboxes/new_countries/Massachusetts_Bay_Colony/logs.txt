@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Massachusetts', "root['life_span']": "1628–1684 ''de jure'' (1692 ''de facto'')", "root['event_pre3']": 'Glorious Revolution'}}
+37: {'values_changed': {"root['life_span']": {'new_value': "1628–1684 ''de jure'' (1692 ''de facto'')", 'old_value': '1628–1686, 1689-1691'}}}
+45: {'dictionary_item_removed': {"root['today']": ["''", '']}}
+46: {'values_changed': {"root['today'][0]": {'new_value': "''", 'old_value': "'''"}}}
+78: {'values_changed': {"root['life_span']": {'new_value': '1628–1686, 1689-1691', 'old_value': '1487–1686, 1689-1691'}}}
+79: {'values_changed': {"root['life_span']": {'new_value': '1487–1686, 1689-1691', 'old_value': '1628–1686, 1689-1691'}}}
+82: {'dictionary_item_added': {"root['life_span']": '1628–1686, 1689-1691'}, 'values_changed': {"root['common_name']": {'new_value': 'Massachusetts', 'old_value': 'Massachusetts |status_text'}}}
+84: {'dictionary_item_removed': {"root['life_span']": '1628–1686, 1689-1691'}, 'values_changed': {"root['common_name']": {'new_value': 'Massachusetts |status_text', 'old_value': 'Massachusetts'}}}
+86: {'values_changed': {"root['life_span']": {'new_value': '1628–1686, 1689-1691', 'old_value': '1628–1686, 1689–1691'}}}
+90: {'values_changed': {"root['life_span']": {'new_value': '1628–1686, 1689–1691', 'old_value': '1630–1686, 1689–1691'}}}
+91: {'values_changed': {"root['life_span']": {'new_value': '1630–1686, 1689–1691', 'old_value': '1628–1686, 1689–1691'}}}
+135: {'values_changed': {"root['common_name']": {'new_value': 'Massachusetts', 'old_value': 'Chicken'}}}
+136: {'values_changed': {"root['common_name']": {'new_value': 'Chicken', 'old_value': 'Massachusetts'}}}
+137: {'values_changed': {"root['common_name']": {'new_value': 'Massachusetts', 'old_value': 'Chicken'}}}
+138: {'values_changed': {"root['common_name']": {'new_value': 'Chicken', 'old_value': 'Massachusetts'}}}

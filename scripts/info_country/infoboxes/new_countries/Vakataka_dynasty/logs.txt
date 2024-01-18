@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Vakataka Empire', "root['continent']": 'Asia', "root['region']": 'Indian Subcontinent', "root['country']": 'India', "root['religion']": 'Hinduism, Buddhism', "root['leader1']": 'Vindhyashakti', "root['year_leader1']": '250–270', "root['leader2']": 'Pravarasena I', "root['year_leader2']": '270–330', "root['leader3']": 'Harishena', "root['year_leader3']": '475–500', "root['title_leader']": 'Maharaja'}}
+2: {'values_changed': {"root['title_leader']": {'new_value': 'Maharaja', 'old_value': 'Maharaja '}}}
+8: {'values_changed': {"root['common_name']": {'new_value': 'Vakataka Empire', 'old_value': 'ARUN BALAJI Empire'}}}
+9: {'values_changed': {"root['common_name']": {'new_value': 'ARUN BALAJI Empire', 'old_value': 'Vakataka Empire'}}}
+11: {'values_changed': {"root['title_leader']": {'new_value': 'Maharaja ', 'old_value': 'Maharaja'}}}
+13: {'values_changed': {"root['title_leader']": {'new_value': 'Maharaja', 'old_value': 'Maharajada'}}}
+27: {'dictionary_item_added': {"root['region']": 'Indian Subcontinent'}, 'values_changed': {"root['common_name']": {'new_value': 'Vakataka Empire', 'old_value': 'Vakataka Empire OR Vakatak Empire'}}}
+29: {'values_changed': {"root['common_name']": {'new_value': 'Vakataka Empire OR Vakatak Empire', 'old_value': 'Vakataka Empire'}}}
+39: {'values_changed': {"root['title_leader']": {'new_value': 'Maharajada', 'old_value': 'Maharaja'}}}

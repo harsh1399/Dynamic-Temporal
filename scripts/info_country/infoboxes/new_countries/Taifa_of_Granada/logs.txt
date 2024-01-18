@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Kingdom of Granada', "root['religion']": 'Islam, Roman Catholicism, Judaism'}}
+21: {'dictionary_item_removed': {"root['leader_title1']": 'Founder', "root['leader_name1']": 'Zawi ibn Ziri', "root['leader_title2']": 'Lastt King', "root['leader_name2']": 'Abdallah ibn Buluggin '}}
+22: {'values_changed': {"root['leader_title2']": {'new_value': 'Lastt King', 'old_value': 'Last King'}}}
+23: {'dictionary_item_added': {"root['leader_title1']": 'Founder', "root['leader_name1']": 'Zawi ibn Ziri', "root['leader_title2']": 'Last King', "root['leader_name2']": 'Abdallah ibn Buluggin '}, 'dictionary_item_removed': {"root['title_leader']": 'Malik (King)', "root['leader1']": 'Zawi ibn Ziri', "root['year_leader1']": '1013–1019/20', "root['leader2']": 'Habbus al-Muzaffar', "root['year_leader2']": '1019/20–1038', "root['leader3']": 'Badis ben Habus', "root['year_leader3']": '1038–1073', "root['leader4']": 'Abdallah ibn Buluggin', "root['year_leader4']": '1073–1090 '}}
+41: {'values_changed': {"root['religion']": {'new_value': 'Islam, Roman Catholicism, Judaism', 'old_value': 'Islam, Christianity,'}}}

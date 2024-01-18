@@ -1,0 +1,23 @@
+12: {'dictionary_item_removed': {"root['common_name']": 'East Turkestan', "root['continent']": 'Asia', "root['status']": 'text=', "root['life_span']": '1944 - 1949', "root['religion']": 'Islam'}}
+57: {'dictionary_item_added': {"root['status']": 'text=', "root['religion']": 'Islam'}, 'values_changed': {"root['life_span']": {'new_value': '1944 - 1949', 'old_value': '1944 - 1949 | |'}}}
+58: {'values_changed': {"root['life_span']": {'new_value': '1944 - 1949 | |', 'old_value': '1944 - 1949'}}}
+87: {'dictionary_item_removed': {"root['leader1']": "Ali Khan Türe ''(de jure)'', Ehmetjan Qasim ''(de facto)''", "root['leader1_type']": 'President'}, 'values_changed': {"root['life_span']": {'new_value': '1944 - 1949', 'old_value': '1944 - 1946'}}}
+88: {'dictionary_item_removed': {"root['status']": 'Puppet state of the Soviet Union'}}
+115: {'values_changed': {"root['life_span']": {'new_value': '1944 - 1946', 'old_value': '1944 - 1949'}}}
+116: {'values_changed': {"root['life_span']": {'new_value': '1944 - 1949', 'old_value': '1944 - 1946'}}}
+137: {'values_changed': {"root['status']": {'new_value': 'Puppet state of the Soviet Union', 'old_value': 'Puppet state of the Soviet Union   http://www.oxuscom.com/sovinxj.htm'}}}
+143: {'dictionary_item_added': {"root['leader1']": "Ali Khan Türe ''(de jure)'', Ehmetjan Qasim ''(de facto)''", "root['leader1_type']": 'President', "root['life_span']": '1944 - 1946'}, 'dictionary_item_removed': {"root['religion']": 'Islam'}, 'values_changed': {"root['status']": {'new_value': 'Puppet state of the Soviet Union   http://www.oxuscom.com/sovinxj.htm', 'old_value': 'Satellite state of the Soviet Union   http://www.oxuscom.com/sovinxj.htm'}}}
+162: {'dictionary_item_added': {"root['continent']": 'Asia'}, 'dictionary_item_removed': {"root['title_leader']": 'President', "root['leader1']": 'Elihan Tore', "root['year_leader1']": '1944–1946', "root['title_deputy']": 'Head', "root['deputy1']": 'Ehmetjan Qasim', "root['year_deputy1']": '1946–1949', "root['today']": "China's Xinjiang Uygur Autonomous Region (mostly Ili Kazakh Autonomous Prefecture)"}, 'values_changed': {"root['status']": {'new_value': 'Satellite state of the Soviet Union   http://www.oxuscom.com/sovinxj.htm', 'old_value': 'Satellite state of the Soviet Union   '}}}
+199: {'dictionary_item_added': {"root['title_deputy']": 'Head', "root['deputy1']": 'Ehmetjan Qasim', "root['year_deputy1']": '1946–1949'}, 'dictionary_item_removed': {"root['national_languages']": 'leader_title2'}, 'values_changed': {"root['common_name']": {'new_value': 'East Turkestan', 'old_value': 'East Turkistan'}}}
+200: {'values_changed': {"root['national_languages']": {'new_value': 'leader_title2', 'old_value': 'population_estimate'}}}
+256: {'dictionary_item_removed': {"root['population_estimate']": '7,000,000 (according to ETR document submitted to US State Dept)', "root['population_estimate_year']": '1947', "root['sovereignty_type']": 'Independence', "root['leader2']": 'Ehmetjan Qasim', "root['year_leader2']": '1946–1949 '}, 'values_changed': {"root['national_languages']": {'new_value': 'population_estimate', 'old_value': 'Uyghur, Kazakh, Russian'}}}
+304: {'values_changed': {"root['national_languages']": {'new_value': 'Uyghur, Kazakh, Russian', 'old_value': '||||||'}}}
+305: {'values_changed': {"root['national_languages']": {'new_value': '||||||', 'old_value': 'Uyghur'}}}
+308: {'values_changed': {"root['national_languages']": {'new_value': 'Uyghur', 'old_value': 'Uyghur   '}}}
+309: {'values_changed': {"root['national_languages']": {'new_value': 'Uyghur   ', 'old_value': 'Uyghur'}}}
+310: {'values_changed': {"root['national_languages']": {'new_value': 'Uyghur', 'old_value': 'Uyghur, Kazakh, Russian'}}}
+311: {'values_changed': {"root['national_languages']": {'new_value': 'Uyghur, Kazakh, Russian', 'old_value': 'Uyghur'}}}
+316: {'values_changed': {"root['status']": {'new_value': 'Satellite state of the Soviet Union   ', 'old_value': 'Unrecognized satellite state of the Soviet Union   '}}}
+317: {'values_changed': {"root['status']": {'new_value': 'Unrecognized satellite state of the Soviet Union   ', 'old_value': 'Satellite state of the Soviet Union   '}}}
+324: {'values_changed': {"root['status']": {'new_value': 'Satellite state of the Soviet Union   ', 'old_value': 'Unrecognized satellite state of the Soviet Union   '}}}
+329: {'values_changed': {"root['status']": {'new_value': 'Unrecognized satellite state of the Soviet Union   ', 'old_value': 'Satellite state of the Soviet Union   '}}}

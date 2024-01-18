@@ -1,0 +1,5 @@
+8: {'dictionary_item_removed': {"root['common_name']": 'Lebowa', "root['continent']": 'Africa', "root['region']": 'Southern Africa', "root['country']": 'South Africa', "root['status']": 'Bantustan', "root['title_leader']": 'Chief Minister'}}
+13: {'dictionary_item_removed': {"root['stat_year1']": '1991', "root['stat_pop1']": '2740587 '}}
+16: {'dictionary_item_removed': {"root['stat_year2']": '1980 ', "root['stat_area2']": '24140', "root['stat_pop2']": '1700000 '}, 'values_changed': {"root['stat_pop1']": {'new_value': '2740587 ', 'old_value': '2740587'}}}
+17: {'dictionary_item_added': {"root['stat_area2']": '24140'}, 'dictionary_item_removed': {"root['stat_area1']": '24140'}, 'values_changed': {"root['stat_year1']": {'new_value': '1991', 'old_value': '1980 '}, "root['stat_pop1']": {'new_value': '2740587', 'old_value': '1700000'}, "root['stat_year2']": {'new_value': '1980 ', 'old_value': '1991'}, "root['stat_pop2']": {'new_value': '1700000 ', 'old_value': '2740587 '}}}
+18: {'values_changed': {"root['stat_area1']": {'new_value': '24140', 'old_value': '24540'}}}

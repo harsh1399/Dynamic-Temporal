@@ -1,0 +1,6 @@
+32: {'dictionary_item_removed': {"root['common_name']": 'Canada Est', "root['continent']": 'North America', "root['country']": 'Province of Canada', "root['status']": 'Colony', "root['leader1']": 'Victoria', "root['year_leader2']": '1841–1867', "root['title_leader']": 'Sovereign', "root['stat_year1']": '1851', "root['stat_pop1']": '107225'}}
+38: {'values_changed': {"root['country']": {'new_value': 'Province of Canada', 'old_value': 'Province of Canada  Hello'}}}
+39: {'values_changed': {"root['country']": {'new_value': 'Province of Canada  Hello', 'old_value': 'Province of Canada'}}}
+45: {'values_changed': {"root['stat_year1']": {'new_value': '1851', 'old_value': '1867'}}}
+48: {'values_changed': {"root['stat_pop1']": {'new_value': '107225', 'old_value': '890,000 '}}}
+49: {'values_changed': {"root['stat_year1']": {'new_value': '1867', 'old_value': '1851'}}}

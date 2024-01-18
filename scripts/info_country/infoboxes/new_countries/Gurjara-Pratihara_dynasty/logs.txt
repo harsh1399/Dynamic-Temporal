@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Pratihara', "root['continent']": 'Asia', "root['region']": 'South Asia', "root['religion']": 'Hinduism', "root['status']": 'Empire', "root['s6']": 'Chahamanas of Shakambhari'}}
+7: {'values_changed': {"root['religion']": {'new_value': 'Hinduism', 'old_value': 'Hinduism, Buddhism'}}}
+8: {'values_changed': {"root['religion']": {'new_value': 'Hinduism, Buddhism', 'old_value': 'Hinduism'}}}
+57: {'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Rajputana'}}}
+59: {'values_changed': {"root['common_name']": {'new_value': 'Rajputana', 'old_value': 'Pratihara'}}}
+99: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'South Asia'}, 'dictionary_item_removed': {"root['today']": 'India '}}
+117: {'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Pratihar'}}}
+121: {'values_changed': {"root['common_name']": {'new_value': 'Pratihar', 'old_value': 'Pratihara'}}}
+146: {'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Gurjar or Gujjar'}}}
+147: {'values_changed': {"root['common_name']": {'new_value': 'Gurjar or Gujjar', 'old_value': 'Pratihara'}}}
+148: {'dictionary_item_removed': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['today']": {'new_value': 'India ', 'old_value': 'India'}}}
+149: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['today']": {'new_value': 'India', 'old_value': 'India '}}}
+161: {'dictionary_item_removed': {"root['caste']": 'gurjar'}}
+178: {'dictionary_item_added': {"root['caste']": 'gurjar'}, 'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+179: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Pratihara'}}}
+180: {'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+183: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Pratihara'}}}
+184: {'values_changed': {"root['common_name']": {'new_value': 'Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+187: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Rajput Pratihara'}}}
+188: {'values_changed': {"root['common_name']": {'new_value': 'Rajput Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+189: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Rajput gurjara Pratihara'}}}
+190: {'values_changed': {"root['common_name']": {'new_value': 'Rajput gurjara Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+201: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Rajput Pratihara'}}}
+205: {'values_changed': {"root['common_name']": {'new_value': 'Rajput Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+206: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'rajput Pratihara'}}}
+207: {'values_changed': {"root['common_name']": {'new_value': 'rajput Pratihara', 'old_value': 'Gurjara Pratihara'}}}
+212: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Gurjara Pratihara Rajput'}}}
+213: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara Rajput', 'old_value': 'Gurjara Pratihara'}}}
+234: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Gurjar Pratihar'}}}
+235: {'values_changed': {"root['common_name']": {'new_value': 'Gurjar Pratihar', 'old_value': 'Gurjara Pratihara'}}}
+237: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Gurjara Pratihara Rajput rajvansh'}, "root['today']": {'new_value': 'India ', 'old_value': 'India'}}}
+238: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara Rajput rajvansh', 'old_value': 'Gurjara Pratihara'}, "root['today']": {'new_value': 'India', 'old_value': 'India '}}}
+239: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Gurjara Pratihara Rajput rajvansh'}, "root['today']": {'new_value': 'India ', 'old_value': 'India'}}}
+240: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara Rajput rajvansh', 'old_value': 'Gurjara Pratihara'}, "root['today']": {'new_value': 'India', 'old_value': 'India '}}}
+242: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara', 'old_value': 'Gurjara Pratihara Rajput rajvansh'}, "root['today']": {'new_value': 'India ', 'old_value': 'India'}}}
+243: {'values_changed': {"root['common_name']": {'new_value': 'Gurjara Pratihara Rajput rajvansh', 'old_value': 'Gurjara Pratihara'}, "root['religion']": {'new_value': 'Hinduism', 'old_value': 'Hinduism (rajput)'}}}
+244: {'values_changed': {"root['religion']": {'new_value': 'Hinduism (rajput)', 'old_value': 'Hinduism (Gurjar)'}}}
+245: {'values_changed': {"root['religion']": {'new_value': 'Hinduism (Gurjar)', 'old_value': 'Hinduism'}, "root['today']": {'new_value': 'India', 'old_value': 'India '}}}

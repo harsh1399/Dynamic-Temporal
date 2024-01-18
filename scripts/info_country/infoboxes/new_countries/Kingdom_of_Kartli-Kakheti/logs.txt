@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Kartli-Kakheti |', "root['continent']": 'Europe', "root['status']": 'Kingdom', "root['religion']": 'Orthodox Christianity', "root['title_leader']": 'King', "root['leader1']": 'Erekle II  (first)', "root['year_leader1']": '1762–1798', "root['leader2']": 'George XII  (last)', "root['year_leader2']": '1798–1800', "root['year_deputy2']": '|', "root['today']": 'titlesty'}}
+31: {'values_changed': {"root['religion']": {'new_value': 'Orthodox Christianity', 'old_value': 'Orthodox Christianity   Shia Islam'}}}
+40: {'values_changed': {"root['religion']": {'new_value': 'Orthodox Christianity   Shia Islam', 'old_value': 'Georgian Orthodox Church'}}}
+42: {'values_changed': {"root['religion']": {'new_value': 'Georgian Orthodox Church', 'old_value': 'Orthodox Christianity   Shia Islam Judaism'}}}
+43: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Orthodox Christianity', 'Shia Islam', 'Judaism'], 'new_value': 'Orthodox Christianity   Shia Islam Judaism'}}}

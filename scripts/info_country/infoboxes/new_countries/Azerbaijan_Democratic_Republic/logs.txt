@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Azerbaijan', "root['continent']": 'Europe', "root['region']": 'Caucasus', "root['country']": 'Azerbaijan', "root['title_leader']": 'Prime Minister', "root['leader1']": 'Fatali Khan Khoyski', "root['leader2']": 'Nasib Yusifbeyli |', "root['title_deputy']": 'Speaker', "root['deputy1']": 'Mammed Amin Rasulzade', "root['deputy2']": 'Alimardan Topchubashev', "root['stat_area3']": '139.831', "root['stat_pop1']": '4,617,671', "root['stat_year1']": '1918 '}}
+22: {'dictionary_item_added': {"root['stat_area3']": '139.831'}, 'values_changed': {"root['stat_pop1']": {'new_value': '4,617,671', 'old_value': '2,000,000'}}}
+23: {'dictionary_item_removed': {"root['stat_area3']": '139.831'}}
+25: {'values_changed': {"root['stat_area3']": {'new_value': '139.831', 'old_value': '99.908'}, "root['stat_pop1']": {'new_value': '2,000,000', 'old_value': '2.000.000'}, "root['stat_year1']": {'new_value': '1918 ', 'old_value': '1918'}}}
+26: {'dictionary_item_removed': {"root['stat_year3']": '1918'}, 'values_changed': {"root['stat_area3']": {'new_value': '99.908', 'old_value': '99908'}}}
+30: {'values_changed': {"root['stat_pop1']": {'new_value': '2.000.000', 'old_value': '2862000'}, "root['stat_year1']": {'new_value': '1918', 'old_value': '1918 '}}}
+49: {'dictionary_item_added': {"root['stat_area3']": '99908'}, 'values_changed': {"root['stat_pop1']": {'new_value': '2862000', 'old_value': '2.000.000'}, "root['stat_year1']": {'new_value': '1918 ', 'old_value': '1918<ref name'}}}
+50: {'values_changed': {"root['stat_year1']": {'new_value': '1918<ref name', 'old_value': '1918'}}}
+51: {'values_changed': {"root['stat_pop1']": {'new_value': '2.000.000', 'old_value': '2000000'}}}
+52: {'dictionary_item_removed': {"root['stat_area3']": '99908.87'}, 'values_changed': {"root['stat_year3']": {'new_value': '1918', 'old_value': '1918   '}, "root['stat_pop1']": {'new_value': '2000000', 'old_value': '2862000'}, "root['stat_year1']": {'new_value': '1918', 'old_value': '1918 '}}}
+55: {'dictionary_item_added': {"root['stat_area3']": '99908.87'}, 'values_changed': {"root['stat_year3']": {'new_value': '1918   ', 'old_value': '1918'}, "root['stat_pop1']": {'new_value': '2862000', 'old_value': '2000000'}, "root['stat_year1']": {'new_value': '1918 ', 'old_value': '1918'}}}
+56: {'dictionary_item_removed': {"root['stat_area3']": '99908.87'}, 'values_changed': {"root['stat_year3']": {'new_value': '1918', 'old_value': '1918   '}, "root['stat_pop1']": {'new_value': '2000000', 'old_value': '2862000'}, "root['stat_year1']": {'new_value': '1918', 'old_value': '1918 '}}}
+72: {'dictionary_item_added': {"root['continent']": 'Europe', "root['region']": 'Caucasus', "root['country']": 'Azerbaijan'}, 'dictionary_item_removed': {"root['year_leader1']": '1918–1919', "root['year_leader2']": '1919–1920', "root['leader3']": 'Mammad Hasan Hajinski', "root['year_leader3']": '1920', "root['year_deputy1']": '1918'}, 'values_changed': {"root['leader2']": {'new_value': 'Nasib Yusifbeyli |', 'old_value': 'Nasib Yusifbeyli'}, "root['deputy1']": {'new_value': 'Mammed Amin Rasulzade', 'old_value': 'Mammad Amin Rasulzade'}, "root['deputy2']": {'new_value': 'Alimardan Topchubashev', 'old_value': 'Alimardan Topchubashov'}, "root['stat_year1']": {'new_value': '1918 ', 'old_value': '1918'}}}
+115: {'values_changed': {"root['stat_year1']": {'new_value': '1918', 'old_value': '1917'}, "root['stat_pop1']": {'new_value': '2862000', 'old_value': '2,861,862'}}}
+189: {'dictionary_item_removed': {"root['GDP_PPP']": '$1.591 billion'}, 'values_changed': {"root['year_deputy1']": {'new_value': '1918', 'old_value': '1991'}}}
+190: {'dictionary_item_added': {"root['GDP_PPP']": '$1.591 billion'}, 'values_changed': {"root['year_deputy1']": {'new_value': '1991', 'old_value': '1918'}}}
+205: {'values_changed': {"root['common_name']": {'new_value': 'Azerbaijan', 'old_value': 'Azerbaijan Democratic Republic'}}}
+216: {'dictionary_item_removed': {"root['official_languages']": 'Azerbaijani, Russian (de facto)'}}
+218: {'dictionary_item_added': {"root['official_languages']": 'Azerbaijani, Russian (de facto)'}, 'dictionary_item_removed': {"root['today']": ', '}}
+242: {'values_changed': {"root['today']": {'new_value': ', ', 'old_value': 'Armenia, Azerbaijan, Georgia'}}}
+245: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan, Georgia', 'old_value': 'Armenia, Azerbaijan'}}}
+246: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan', 'old_value': 'Armenia, Azerbaijan, Georgia'}}}
+250: {'dictionary_item_added': {"root['stat_pop1']": '2,861,862'}, 'dictionary_item_removed': {"root['demonym']": 'Azerbaijani', "root['GDP_nominal']": '665 million|'}}
+254: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan, Georgia', 'old_value': 'Armenia, Azerbaijan,'}}}
+255: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan,', 'old_value': 'Armenia, Azerbaijan, Georgia'}}}
+256: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan, Georgia', 'old_value': 'Armenia, Azerbaijan'}}}
+257: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan', 'old_value': 'Armenia, Azerbaijan,'}}}
+258: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan,', 'old_value': 'Armenia, Azerbaijan, Georgia'}}}
+261: {'values_changed': {"root['today']": {'new_value': 'Armenia, Azerbaijan, Georgia', 'old_value': 'Armenia Artsakh '}}}
+262: {'values_changed': {"root['today']": {'new_value': 'Armenia Artsakh ', 'old_value': 'Armenia, Azerbaijan, Georgia'}}}
+265: {'values_changed': {"root['GDP_nominal']": {'new_value': '665 million|', 'old_value': '49.047 billion USD|'}}}
+266: {'dictionary_item_removed': {"root['GDP_PPP']": '$14,400', "root['GDP_PPP_year']": '2019'}, 'values_changed': {"root['GDP_nominal']": {'new_value': '49.047 billion USD|', 'old_value': '$49.047 billion|'}}}
+267: {'dictionary_item_added': {"root['GDP_PPP']": '$14,400', "root['GDP_PPP_year']": '2019'}, 'values_changed': {"root['GDP_nominal']": {'new_value': '$49.047 billion|', 'old_value': '665 million|'}}}
+292: {'dictionary_item_removed': {"root['GDP_nominal_year']": '1919', "root['population_estimate']": '4,617,671', "root['population_estimate_year']": '1919'}, 'values_changed': {"root['GDP_nominal']": {'new_value': '665 million|', 'old_value': '665 million'}}}
+298: {'values_changed': {"root['leader2']": {'new_value': 'Nasib Yusifbeyli', 'old_value': 'Nasib bey Yusifbeyli'}}}
+305: {'dictionary_item_added': {"root['stat_year3']": '1918   ', "root['stat_area3']": '99908.87'}, 'dictionary_item_removed': {"root['stat_year2']": '1918', "root['stat_area2']": '99908.87'}}
+306: {'dictionary_item_added': {"root['stat_year2']": '1918', "root['stat_area2']": '99908.87'}, 'dictionary_item_removed': {"root['stat_area1']": '99908.87'}, 'values_changed': {"root['stat_year1']": {'new_value': '1917', 'old_value': '1918'}}}

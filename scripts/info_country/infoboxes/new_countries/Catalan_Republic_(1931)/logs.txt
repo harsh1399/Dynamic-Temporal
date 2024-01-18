@@ -1,0 +1,6 @@
+1: {'dictionary_item_removed': {"root['common_name']": 'Catalonia', "root['continent']": 'Europe', "root['life_span']": '1931', "root['leader1']": 'Francesc Macià i Llussà', "root['year_leader1']": '1931'}}
+5: {'dictionary_item_added': {"root['year_leader1']": '1931'}, 'values_changed': {"root['leader1']": {'new_value': 'Francesc Macià i Llussà', 'old_value': 'Francesc Macià'}}}
+12: {'dictionary_item_added': {"root['life_span']": '1931'}, 'dictionary_item_removed': {"root['status']": 'Unrecognized state', "root['demonym']": 'Catalan', "root['title_leader']": 'President', "root['year_leader1']": '1931'}}
+19: {'values_changed': {"root['status']": {'new_value': 'Unrecognized state', 'old_value': 'Provisional republic within federal state'}}}
+20: {'values_changed': {"root['status']": {'new_value': 'Provisional republic within federal state', 'old_value': 'Republic within Iberian Federation'}}}
+24: {'values_changed': {"root['title_leader']": {'new_value': 'President', 'old_value': 'Acting President'}}}

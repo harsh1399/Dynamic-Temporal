@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['name']": 'EUMED Group EuroMed 7', "root['GDP_PPP']": '|per capita =  |gni per capita ='}}
+10: {'dictionary_item_added': {"root['name']": 'EUMED Group EuroMed 7'}, 'dictionary_item_removed': {"root['area_km2']": '1,679,994', "root['population_estimate']": '196,680,163', "root['population_estimate_year']": '2019', "root['population_density_km2']": '117.1', "root['GDP_PPP_rank']": '4th', "root['GDP_nominal']": '$6.583 trillion'}, 'values_changed': {"root['GDP_PPP']": {'new_value': '|per capita =  |gni per capita =', 'old_value': '$8.173 trillion'}}}
+12: {'values_changed': {"root['population_estimate']": {'new_value': '196,680,163', 'old_value': '196,690,587'}}}
+43: {'values_changed': {"root['GDP_PPP']": {'new_value': '$8.173 trillion', 'old_value': '$8.786 trillion'}, "root['GDP_nominal']": {'new_value': '$6.583 trillion', 'old_value': '$7.140 trillion'}}}
+44: {'values_changed': {"root['area_km2']": {'new_value': '1,679,994', 'old_value': '1,756,859'}, "root['population_estimate']": {'new_value': '196,690,587', 'old_value': '202,842,388'}, "root['population_density_km2']": {'new_value': '117.1', 'old_value': '115'}}}

@@ -1,0 +1,105 @@
+0: {'dictionary_item_removed': {"root['flag_caption']": 'Flag of New Russia', "root['status']": 'Unrecognized state', "root['continent']": 'Europe', "root['official_languages']": 'Russian', "root['religion']": 'Russian Orthodox ', "root['sovereignty_type']": 'Independence ', "root['established_event3']": 'Ratified', "root['established_date3']": '12 May 2014   |established_event3 = Union Treaty', "root['leader_title1']": "People's Governor", "root['leader_name1']": 'Pavel Gubarev', "root['leader_name3']": 'Alexander Boroday', "root['leader_title3']": 'Prime Minister', "root['leader_name4']": 'Igor Girkin', "root['leader_title4']": 'Commander in Chief '}}
+18: {'dictionary_item_added': {"root['flag_caption']": 'Flag of New Russia', "root['established_event3']": 'Ratified', "root['established_date3']": '12 May 2014   |established_event3 = Union Treaty'}, 'dictionary_item_removed': {"root['common_name']": 'Novorossiya'}}
+26: {'values_changed': {"root['official_languages']": {'new_value': 'Russian', 'old_value': 'Russian , Ukraine'}}}
+27: {'values_changed': {"root['official_languages']": {'new_value': 'Russian , Ukraine', 'old_value': 'Russian , Ukrainian'}}}
+28: {'values_changed': {"root['official_languages']": {'new_value': 'Russian , Ukrainian', 'old_value': 'Russian'}}}
+39: {'dictionary_item_added': {"root['leader_name4']": 'Igor Girkin', "root['leader_title4']": 'Commander in Chief '}, 'dictionary_item_removed': {"root['leader_name2']": 'Alexander Boroday', "root['leader_title2']": 'Prime Minister'}, 'values_changed': {"root['leader_name3']": {'new_value': 'Alexander Boroday', 'old_value': 'Igor Girkin'}, "root['leader_title3']": {'new_value': 'Prime Minister', 'old_value': 'Commander in Chief '}}}
+41: {'values_changed': {"root['official_languages']": {'new_value': 'Russian', 'old_value': 'Russian, Ukrainian'}}}
+52: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Independence ', 'old_value': 'Union '}}}
+56: {'dictionary_item_removed': {"root['regional_languages']": 'Ukrainian'}, 'values_changed': {"root['official_languages']": {'new_value': 'Russian, Ukrainian', 'old_value': 'Russian'}}}
+65: {'dictionary_item_added': {"root['regional_languages']": 'Ukrainian', "root['leader_name2']": 'Alexander Boroday', "root['leader_title2']": 'Prime Minister'}, 'dictionary_item_removed': {"root['leader_name4']": 'Igor Girkin', "root['leader_title4']": 'Commander in Chief '}, 'values_changed': {"root['sovereignty_type']": {'new_value': 'Union ', 'old_value': 'Independence '}, "root['leader_name3']": {'new_value': 'Igor Girkin', 'old_value': 'Alexander Boroday'}, "root['leader_title3']": {'new_value': 'Commander in Chief ', 'old_value': 'Prime Minister'}}}
+81: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Independence ', 'old_value': 'Union '}}}
+85: {'dictionary_item_added': {"root['leader_name4']": 'Igor Girkin', "root['leader_title4']": 'Commander in Chief '}, 'dictionary_item_removed': {"root['leader_name2']": 'Alexander Boroday', "root['leader_title2']": 'Prime Minister'}, 'values_changed': {"root['leader_name3']": {'new_value': 'Alexander Boroday', 'old_value': 'Igor Girkin'}, "root['leader_title3']": {'new_value': 'Prime Minister', 'old_value': 'Commander in Chief '}}}
+100: {'values_changed': {"root['sovereignty_type']": {'new_value': 'Union ', 'old_value': 'Intention to unify in a form of a confederation announced '}}}
+131: {'dictionary_item_added': {"root['leader_title1']": "People's Governor", "root['leader_name1']": 'Pavel Gubarev', "root['leader_name2']": 'Alexander Boroday', "root['leader_title2']": 'Prime Minister', "root['leader_name3']": 'Igor Girkin', "root['leader_title3']": 'Commander in Chief '}, 'values_changed': {"root['sovereignty_type']": {'new_value': 'Intention to unify in a form of a confederation announced ', 'old_value': 'Confederation '}}}
+157: {'values_changed': {"root['official_languages']": {'new_value': 'Russian', 'old_value': 'Russian ,Ukrainian'}}}
+159: {'values_changed': {"root['official_languages']": {'new_value': 'Russian ,Ukrainian', 'old_value': 'Russian'}}}
+247: {'dictionary_item_removed': {"root['linking_name']": 'the Federal State of Novorossiya '}}
+261: {'values_changed': {"root['status']": {'new_value': 'Unrecognized state', 'old_value': 'Unrecognized Union of two unrecognized States.'}}}
+263: {'values_changed': {"root['status']": {'new_value': 'Unrecognized Union of two unrecognized States.', 'old_value': 'Unrecognized of two unrecognized States.'}}}
+266: {'values_changed': {"root['status']": {'new_value': 'Unrecognized of two unrecognized States.', 'old_value': 'Unrecognized'}}}
+268: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Unrecognized confederation'}}}
+269: {'values_changed': {"root['status']": {'new_value': 'Unrecognized confederation', 'old_value': 'Unrecognized'}}}
+278: {'dictionary_item_removed': {"root['membership']": "Donetsk People's Republic Lugansk People's Republic"}}
+279: {'type_changes': {"root['membership']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', ''], 'new_value': "Donetsk People's Republic Lugansk People's Republic"}}}
+281: {'type_changes': {"root['membership']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "Lugansk People's Republic", 'new_value': ['', '']}}}
+282: {'values_changed': {"root['membership']": {'new_value': "Lugansk People's Republic", 'old_value': "• Lugansk People's Republic"}}}
+315: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox ', 'old_value': 'Russian Orthodox and Sunni Islam '}}}
+316: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox and Sunni Islam ', 'old_value': 'Russian Orthodox '}}}
+323: {'values_changed': {"root['official_languages']": {'new_value': 'Russian', 'old_value': 'Russian, Ukrainian'}}}
+412: {'dictionary_item_added': {"root['membership']": "• Lugansk People's Republic"}, 'values_changed': {"root['linking_name']": {'new_value': 'the Federal State of Novorossiya ', 'old_value': 'the Federal State of Novorossiya |'}}}
+413: {'dictionary_item_removed': {"root['leader_title1']": 'President', "root['leader_name1']": 'Valery Kaurov', "root['leader_title2']": 'Speaker of the Unity Parliament', "root['leader_name2']": 'Oleg Tsaryov'}}
+441: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Limited Recognition'}}}
+447: {'values_changed': {"root['status']": {'new_value': 'Limited Recognition', 'old_value': 'Unrecognized'}}}
+454: {'values_changed': {"root['common_name']": {'new_value': 'Novorossiya', 'old_value': 'Novopidarasia'}, "root['official_languages']": {'new_value': 'Russian, Ukrainian', 'old_value': 'Mongolian, Ukrainian'}, "root['leader_name1']": {'new_value': 'Valery Kaurov', 'old_value': 'Valery Zhopin'}, "root['leader_name2']": {'new_value': 'Oleg Tsaryov', 'old_value': 'Oleg Huilo'}, "root['religion']": {'new_value': 'Russian Orthodox ', 'old_value': 'Russian Pidaras '}}}
+455: {'values_changed': {"root['common_name']": {'new_value': 'Novopidarasia', 'old_value': 'Novorossiya'}, "root['official_languages']": {'new_value': 'Mongolian, Ukrainian', 'old_value': 'Russian, Ukrainian'}, "root['leader_name1']": {'new_value': 'Valery Zhopin', 'old_value': 'Valery Kaurov'}, "root['leader_name2']": {'new_value': 'Oleg Huilo', 'old_value': 'Oleg Tsaryov'}, "root['religion']": {'new_value': 'Russian Pidaras ', 'old_value': 'Russian Orthodox '}}}
+495: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Unrecognized Russian puppet state'}}}
+497: {'values_changed': {"root['status']": {'new_value': 'Unrecognized Russian puppet state', 'old_value': 'Unrecognized'}}}
+499: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Unrecognized Russian puppet state'}}}
+500: {'values_changed': {"root['status']": {'new_value': 'Unrecognized Russian puppet state', 'old_value': 'Unrecognized'}}}
+505: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Unrecognized Russian puppet state'}}}
+506: {'values_changed': {"root['status']": {'new_value': 'Unrecognized Russian puppet state', 'old_value': 'Unrecognized'}}}
+508: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Unrecognized Russian puppet state'}}}
+509: {'values_changed': {"root['status']": {'new_value': 'Unrecognized Russian puppet state', 'old_value': 'Unrecognized'}}}
+570: {'values_changed': {"root['leader_name1']": {'new_value': 'Valery Kaurov', 'old_value': 'Vlad Huilo>'}}}
+571: {'values_changed': {"root['leader_name1']": {'new_value': 'Vlad Huilo>', 'old_value': 'Vlad Huilo'}}}
+573: {'values_changed': {"root['leader_name1']": {'new_value': 'Vlad Huilo', 'old_value': 'Valery Kaurov'}}}
+590: {'dictionary_item_removed': {"root['flag_caption']": 'Flags'}}
+610: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags', 'old_value': 'Flag'}}}
+612: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag', 'old_value': 'Flags'}}}
+616: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags', 'old_value': 'Flag'}}}
+622: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag', 'old_value': 'Flags'}}}
+677: {'dictionary_item_removed': {"root['population']": '~5,200,000'}}
+694: {'dictionary_item_added': {"root['population']": '~5,200,000'}, 'values_changed': {"root['flag_caption']": {'new_value': 'Flags', 'old_value': 'Flag'}}}
+698: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag', 'old_value': 'Flags'}}}
+705: {'values_changed': {"root['flag_caption']": {'new_value': 'Flags', 'old_value': 'Top: National Flag,  Bottom: War Flag'}}}
+715: {'values_changed': {"root['status']": {'new_value': 'Unrecognized', 'old_value': 'Self-proclaimed'}}}
+717: {'values_changed': {"root['linking_name']": {'new_value': 'the Federal State of Novorossiya |', 'old_value': 'the Fake Federal State of Novorossiya |'}}}
+718: {'values_changed': {"root['linking_name']": {'new_value': 'the Fake Federal State of Novorossiya |', 'old_value': 'the Federal State of Novorossiya |'}}}
+735: {'values_changed': {"root['status']": {'new_value': 'Self-proclaimed', 'old_value': 'Limited recognition'}}}
+736: {'values_changed': {"root['status']": {'new_value': 'Limited recognition', 'old_value': 'Self-proclaimed'}}}
+762: {'values_changed': {"root['flag_caption']": {'new_value': 'Top: National Flag,  Bottom: War Flag', 'old_value': 'National Flag'}}}
+763: {'values_changed': {"root['flag_caption']": {'new_value': 'National Flag', 'old_value': 'Flag'}}}
+764: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag', 'old_value': 'National Flag'}}}
+765: {'values_changed': {"root['flag_caption']": {'new_value': 'National Flag', 'old_value': 'Flag'}}}
+784: {'dictionary_item_added': {"root['common_name']": 'Novorossiya'}, 'values_changed': {"root['linking_name']": {'new_value': 'the Federal State of Novorossiya |', 'old_value': '|'}}}
+786: {'values_changed': {"root['flag_caption']": {'new_value': 'Flag', 'old_value': 'Flag of the Federal State of Novorossiya'}}}
+788: {'dictionary_item_removed': {"root['common_name']": 'Novorossiya'}, 'values_changed': {"root['linking_name']": {'new_value': '|', 'old_value': 'the Federal State of Novorossiya |'}, "root['flag_caption']": {'new_value': 'Flag of the Federal State of Novorossiya', 'old_value': 'flag'}}}
+790: {'values_changed': {"root['flag_caption']": {'new_value': 'flag', 'old_value': 'Flag'}}}
+806: {'values_changed': {"root['official_languages']": {'new_value': 'Russian, Ukrainian', 'old_value': 'Russian'}}}
+816: {'values_changed': {"root['official_languages']": {'new_value': 'Russian', 'old_value': 'Russian , Ukrainian'}}}
+830: {'values_changed': {"root['leader_name1']": {'new_value': 'Valery Kaurov', 'old_value': 'Valery Kaurov '}}}
+837: {'values_changed': {"root['official_languages']": {'new_value': 'Russian , Ukrainian', 'old_value': 'Russian, Ukrainian'}}}
+895: {'dictionary_item_added': {"root['leader_title1']": 'President', "root['leader_name1']": 'Valery Kaurov '}, 'values_changed': {"root['leader_name2']": {'new_value': 'Oleg Tsaryov', 'old_value': 'Oleg Tsaryov '}}}
+915: {'dictionary_item_removed': {"root['leader_title1']": 'Speaker of the Unity Parliament', "root['leader_name1']": 'Oleg Tsaryov ', "root['leader_title3']": 'Head of the LPR', "root['leader_name3']": 'Igor Plotnitsky'}, 'values_changed': {"root['leader_title2']": {'new_value': 'Speaker of the Unity Parliament', 'old_value': 'Head of the DPR'}, "root['leader_name2']": {'new_value': 'Oleg Tsaryov ', 'old_value': 'Alexander Zakharchenko'}}}
+931: {'values_changed': {"root['leader_title1']": {'new_value': 'Speaker of the Unity Parliament', 'old_value': 'Speaker of the Parliament'}}}
+941: {'values_changed': {"root['linking_name']": {'new_value': 'the Federal State of Novorossiya |', 'old_value': 'Novorossiya |'}}}
+1056: {'values_changed': {"root['status']": {'new_value': 'Self-proclaimed', 'old_value': 'Self-proclaimed confederation'}}}
+1060: {'values_changed': {"root['linking_name']": {'new_value': 'Novorossiya |', 'old_value': 'Novorossiya'}}}
+1061: {'values_changed': {"root['common_name']": {'new_value': 'Novorossiya', 'old_value': '(fake)Novorossiya'}}}
+1062: {'values_changed': {"root['common_name']": {'new_value': '(fake)Novorossiya', 'old_value': 'Novorossiya'}}}
+1063: {'values_changed': {"root['linking_name']": {'new_value': 'Novorossiya', 'old_value': 'Novorossiya |'}}}
+1174: {'values_changed': {"root['linking_name']": {'new_value': 'Novorossiya |', 'old_value': 'Novorossiya'}, "root['status']": {'new_value': 'Self-proclaimed confederation', 'old_value': 'Dissolved'}}}
+1188: {'values_changed': {"root['status']": {'new_value': 'Dissolved', 'old_value': 'Suspended'}}}
+1207: {'values_changed': {"root['leader_name3']": {'new_value': 'Igor Plotnitsky', 'old_value': 'Igor Plotnitsky '}}}
+1238: {'dictionary_item_removed': {"root['demonym']": 'Novorossiyan'}}
+1270: {'dictionary_item_added': {"root['demonym']": 'Novorossiyan', "root['continent']": 'Europe'}, 'dictionary_item_removed': {"root['area_km2']": '17,000', "root['population_estimate']": '3,766,483', "root['population_density_km2']": '222'}, 'values_changed': {"root['status']": {'new_value': 'Suspended', 'old_value': 'Unrecognized state - Suspended (since 2015)'}, "root['leader_name2']": {'new_value': 'Alexander Zakharchenko', 'old_value': 'Denis Pushilin'}, "root['leader_name3']": {'new_value': 'Igor Plotnitsky ', 'old_value': 'Leonid Pasechnik'}}}
+1273: {'dictionary_item_removed': {"root['GDP_nominal']": '~US$7.0 billion', "root['GDP_nominal_year']": '2015', "root['GDP_nominal_per_capita']": '~US$2,000'}}
+1274: {'dictionary_item_removed': {"root['largest_city']": 'Donetsk'}}
+1275: {'values_changed': {"root['GDP_nominal']": {'new_value': '~US$7.0 billion', 'old_value': '~US$10 billion'}, "root['GDP_nominal_per_capita']": {'new_value': '~US$2,000', 'old_value': '~US$3,000'}}}
+1291: {'values_changed': {"root['status']": {'new_value': 'Unrecognized state - Suspended (since 2015)', 'old_value': 'Unrecognized state – Suspended (since 2015)'}}}
+1294: {'values_changed': {"root['religion']": {'new_value': 'Russian Orthodox ', 'old_value': 'Russian Orthodox (official)'}}}
+1305: {'dictionary_item_added': {"root['sovereignty_type']": 'Confederation ', "root['GDP_nominal_year']": '2015', "root['GDP_nominal_per_capita']": '~US$3,000'}, 'dictionary_item_removed': {"root['life_span']": '2014–2015', "root['today']": 'Ukraine '}, 'values_changed': {"root['status']": {'new_value': 'Unrecognized state – Suspended (since 2015)', 'old_value': 'Confederation of unrecognized states'}, "root['area_km2']": {'new_value': '17,000', 'old_value': '16,230'}, "root['population_density_km2']": {'new_value': '222', 'old_value': '232'}, "root['GDP_nominal']": {'new_value': '~US$10 billion', 'old_value': '~$10 billion'}}}
+1306: {'values_changed': {"root['area_km2']": {'new_value': '16,230', 'old_value': '17,558'}}}
+1344: {'values_changed': {"root['today']": {'new_value': 'Ukraine ', 'old_value': 'Ukraine, Donetsk Peoples Republic, Luhansk Peoples Republic '}}}
+1345: {'values_changed': {"root['today']": {'new_value': 'Ukraine, Donetsk Peoples Republic, Luhansk Peoples Republic ', 'old_value': "Ukraine, Donetsk People's Republic, Luhansk People's Republic "}}}
+1381: {'dictionary_item_added': {"root['area_km2']": '17,558', "root['population_estimate']": '3,766,483', "root['population_density_km2']": '232', "root['GDP_nominal']": '~$10 billion'}, 'values_changed': {"root['leader_name1']": {'new_value': 'Oleg Tsaryov ', 'old_value': 'Oleg Tsaryov'}}}
+1395: {'values_changed': {"root['life_span']": {'new_value': '2014–2015', 'old_value': '2014–2015 , 2022 - (Allegedly)'}}}
+1396: {'values_changed': {"root['life_span']": {'new_value': '2014–2015 , 2022 - (Allegedly)', 'old_value': '2014–2015'}}}
+1397: {'values_changed': {"root['life_span']": {'new_value': '2014–2015', 'old_value': '2014–2022 reformation in progress'}}}
+1398: {'values_changed': {"root['life_span']": {'new_value': '2014–2022 reformation in progress', 'old_value': '2014–2015'}}}
+1406: {'values_changed': {"root['today']": {'new_value': "Ukraine, Donetsk People's Republic, Luhansk People's Republic ", 'old_value': 'Ukraine, Moldova '}}}
+1409: {'values_changed': {"root['today']": {'new_value': 'Ukraine, Moldova ', 'old_value': 'Ukraine, Moldova, Georgia '}}}
+1414: {'values_changed': {"root['today']": {'new_value': 'Ukraine, Moldova, Georgia ', 'old_value': 'Ukraine '}}}
+1426: {'values_changed': {"root['today']": {'new_value': 'Ukraine ', 'old_value': 'Ukraine, but largely occupied by Russia '}}}
+1455: {'dictionary_item_added': {"root['life_span']": '2014–2015', "root['today']": 'Ukraine, but largely occupied by Russia '}, 'values_changed': {"root['leader_title1']": {'new_value': 'Speaker of the Parliament', 'old_value': 'Speaker of the Parliament (2014—2015)'}}}

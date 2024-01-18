@@ -1,0 +1,5 @@
+10: {'dictionary_item_removed': {"root['common_name']": 'Gazankulu', "root['continent']": 'Africa', "root['region']": 'Southern Africa', "root['country']": 'South Africa', "root['status']": 'Bantustan', "root['title_leader']": 'Chief Minister', "root['leader1']": 'Hudson Ntsanwisi  (1971-1993) , Edward Mhinga,  (1993) , Samuel Nxumalo  (1993-1994)'}}
+50: {'dictionary_item_removed': {"root['stat_year1']": '1991', "root['stat_pop1']": '954771 '}}
+54: {'dictionary_item_removed': {"root['stat_year2']": '1980 ', "root['stat_area2']": '7730'}, 'values_changed': {"root['stat_pop1']": {'new_value': '954771 ', 'old_value': '954771'}}}
+55: {'dictionary_item_removed': {"root['stat_pop2']": '514220 '}}
+56: {'dictionary_item_added': {"root['stat_area2']": '7730'}, 'dictionary_item_removed': {"root['stat_area1']": '7730'}, 'values_changed': {"root['stat_year1']": {'new_value': '1991', 'old_value': '1980 '}, "root['stat_pop1']": {'new_value': '954771', 'old_value': '514220'}, "root['stat_year2']": {'new_value': '1980 ', 'old_value': '1991'}, "root['stat_pop2']": {'new_value': '514220 ', 'old_value': '954771 '}}}

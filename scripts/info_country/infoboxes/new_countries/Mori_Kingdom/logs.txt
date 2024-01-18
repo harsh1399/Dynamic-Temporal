@@ -1,0 +1,7 @@
+1: {'dictionary_item_removed': {"root['map_type']": 'India#Rajasthan', "root['map_relief']": 'yes'}}
+2: {'dictionary_item_added': {"root['map_type']": 'India#Rajasthan', "root['map_relief']": 'yes'}, 'dictionary_item_removed': {"root['common_name']": 'Mori Rajputs', "root['religion']": ['Hinduism'], "root['life_span']": '7th-8th century CE'}}
+14: {'values_changed': {"root['common_name']": {'new_value': 'Mori Rajputs', 'old_value': 'Mori jats'}}}
+16: {'values_changed': {"root['common_name']": {'new_value': 'Mori jats', 'old_value': 'Mori Rajputs'}}}
+23: {'values_changed': {"root['common_name']": {'new_value': 'Mori Rajputs', 'old_value': 'Mori jats'}}}
+24: {'values_changed': {"root['common_name']": {'new_value': 'Mori jats', 'old_value': 'Mori Rajputs'}}}
+30: {'values_changed': {"root['life_span']": {'new_value': '7th-8th century CE', 'old_value': '7th century-734'}}}

@@ -1,0 +1,14 @@
+55: {'dictionary_item_removed': {"root['common_name']": 'Biafra', "root['continent']": 'Africa', "root['region']": 'Nigeria', "root['country']": 'Nigeria', "root['status']": 'Unrecognized state', "root['leader1']": 'Chukwuemeka Odumegwu Ojukwu', "root['stat_pop1']": '13500000', "root['stat_area1']": '77306', "root['stat_year1']": '1967'}}
+98: {'values_changed': {"root['common_name']": {'new_value': 'Biafra', 'old_value': 'Biagra'}}}
+102: {'values_changed': {"root['common_name']": {'new_value': 'Biagra', 'old_value': 'Biafra'}}}
+139: {'dictionary_item_added': {"root['continent']": 'Africa', "root['region']": 'Nigeria', "root['country']": 'Nigeria', "root['leader1']": 'Chukwuemeka Odumegwu Ojukwu'}, 'dictionary_item_removed': {"root['largest_city']": 'Aba', "root['demonym']": 'Biafran'}, 'values_changed': {"root['status']": {'new_value': 'Unrecognized state', 'old_value': 'Subsumed State'}, "root['stat_pop1']": {'new_value': '13500000', 'old_value': '13,500,000'}}}
+152: {'values_changed': {"root['largest_city']": {'new_value': 'Aba', 'old_value': 'Onitsha'}}}
+153: {'values_changed': {"root['largest_city']": {'new_value': 'Onitsha', 'old_value': 'Aba'}}}
+193: {'values_changed': {"root['largest_city']": {'new_value': 'Aba', 'old_value': 'Onitsha'}}}
+205: {'values_changed': {"root['largest_city']": {'new_value': 'Onitsha', 'old_value': 'Aba'}}}
+208: {'values_changed': {"root['largest_city']": {'new_value': 'Aba', 'old_value': 'Onitsha'}}}
+215: {'values_changed': {"root['largest_city']": {'new_value': 'Onitsha', 'old_value': 'Aba'}}}
+216: {'values_changed': {"root['largest_city']": {'new_value': 'Aba', 'old_value': 'Onitsha'}}}
+221: {'dictionary_item_removed': {"root['leader1']": 'C. Odumegwu Ojukwu', "root['leader2']": 'Philip Effiong', "root['year_leader1']": '1967–1970', "root['year_leader2']": '1970–1970', "root['title_leader']": 'President'}}
+227: {'values_changed': {"root['largest_city']": {'new_value': 'Onitsha', 'old_value': 'Aba'}}}
+228: {'values_changed': {"root['largest_city']": {'new_value': 'Aba', 'old_value': 'Onitsha'}}}

@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['population_estimate']": '7,630,000', "root['area_km2']": '1133.5 '}}
+15: {'dictionary_item_removed': {"root['leader_title1']": 'Head of State', "root['leader_name1']": 'Xi Jinping', "root['leader_name2']": 'CY Leung', "root['leader_title3']": 'Chief Executive of Macau', "root['population_density_km2']": '6920'}, 'values_changed': {"root['population_estimate']": {'new_value': '7,630,000', 'old_value': '7,858,800'}, "root['area_km2']": {'new_value': '1133.5 ', 'old_value': '1135.7'}}}
+45: {'dictionary_item_removed': {"root['largest_settlement']": 'Hong Kong', "root['largest_settlement_type']": 'city/SAR'}}
+47: {'values_changed': {"root['largest_settlement_type']": {'new_value': 'city/SAR', 'old_value': 'SAR/city'}}}

@@ -1,0 +1,14 @@
+75: {'dictionary_item_removed': {"root['common_name']": 'Khmer Empire', "root['continent']": 'Asia', "root['region']": 'South-East Asia Cambodia', "root['country']": 'Cambodia', "root['status']": 'Empire', "root['stat_area2']": '1200000', "root['stat_year1']": '1150', "root['leader1']": 'Jayavarman II', "root['year_leader1']": '802–850', "root['leader2']": 'Suryavarman II', "root['year_leader2']": '1113–1150', "root['leader3']": 'Jayavarman VII', "root['year_leader3']": '1181–1218', "root['leader4']": 'Ponhea Yat', "root['year_leader4']": '1393–1463', "root['title_leader']": 'King', "root['today']": 'titlesty'}}
+76: {'dictionary_item_removed': {"root['religion']": 'Hinduism ,  Mahayana Buddhism ,  Theravada Buddhism'}}
+129: {'dictionary_item_added': {"root['today']": 'titlesty'}, 'values_changed': {"root['common_name']": {'new_value': 'Khmer Empire', 'old_value': 'Unicorn Empire'}}}
+130: {'values_changed': {"root['common_name']": {'new_value': 'Unicorn Empire', 'old_value': 'Khmer Empire'}}}
+168: {'dictionary_item_removed': {"root['border_s1']": 'no'}, 'values_changed': {"root['religion']": {'new_value': 'Hinduism ,  Mahayana Buddhism ,  Theravada Buddhism', 'old_value': 'Hinduism Mahayana Buddhism Theravada Buddhism'}}}
+220: {'values_changed': {"root['title_leader']": {'new_value': 'King', 'old_value': 'King '}}}
+221: {'dictionary_item_removed': {"root['stat_year2']": '1290', "root['ref_area2']": '<ref name'}, 'values_changed': {"root['stat_area2']": {'new_value': '1200000', 'old_value': '1000000'}, "root['title_leader']": {'new_value': 'King ', 'old_value': 'King'}}}
+224: {'values_changed': {"root['religion']": {'new_value': 'Hinduism Mahayana Buddhism Theravada Buddhism', 'old_value': 'Mahayana Buddhism Theravada Buddhism'}}}
+225: {'values_changed': {"root['religion']": {'new_value': 'Mahayana Buddhism Theravada Buddhism', 'old_value': 'Hinduism Mahayana Buddhism Theravada Buddhism'}}}
+234: {'values_changed': {"root['stat_area2']": {'new_value': '1000000', 'old_value': '1200000'}}}
+235: {'values_changed': {"root['stat_area2']": {'new_value': '1200000', 'old_value': '1000000'}}}
+242: {'dictionary_item_added': {"root['country']": 'Cambodia'}, 'values_changed': {"root['region']": {'new_value': 'South-East Asia Cambodia', 'old_value': 'South-East Asia'}}}
+245: {'values_changed': {"root['region']": {'new_value': 'South-East Asia', 'old_value': 'South-East Asia Cambodia'}}}
+246: {'dictionary_item_removed': {"root['country']": 'Cambodia'}}

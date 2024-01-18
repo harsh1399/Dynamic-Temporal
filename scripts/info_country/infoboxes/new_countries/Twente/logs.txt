@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Twente', "root['official_languages']": 'Tweants, Dutch', "root['ethnic_groups']": 'predominantly north European', "root['population_estimate']": '617.682', "root['population_estimate_year']": '2006'}}
+1: {'values_changed': {"root['ethnic_groups']": {'new_value': 'predominantly north European', 'old_value': 'predominantly north European |main town                = Enschede'}}}
+2: {'dictionary_item_added': {"root['common_name']": 'Twente'}, 'dictionary_item_removed': {"root['name']": 'Twenthe'}, 'values_changed': {"root['official_languages']": {'new_value': 'Tweants, Dutch', 'old_value': 'Dutch'}}}
+3: {'dictionary_item_added': {"root['name']": 'Twenthe'}, 'dictionary_item_removed': {"root['common_name']": 'Twente'}, 'values_changed': {"root['official_languages']": {'new_value': 'Dutch', 'old_value': 'Tweants, Dutch'}}}
+4: {'values_changed': {"root['ethnic_groups']": {'new_value': 'predominantly north European |main town                = Enschede', 'old_value': 'predominantly north European'}}}
+11: {'values_changed': {"root['official_languages']": {'new_value': 'Tweants, Dutch', 'old_value': 'Dutch'}}}

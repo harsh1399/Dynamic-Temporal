@@ -1,0 +1,7 @@
+136: {'dictionary_item_removed': {"root['membership']": 'Various cities across the Baltic region', "root['admin_center']": 'Lübeck', "root['languages']": 'Middle Low German', "root['demonym']": '|area_km2'}}
+193: {'dictionary_item_removed': {"root['today']": ['', '', '', '', '', '', '', '', '', '']}, 'values_changed': {"root['demonym']": {'new_value': '|area_km2', 'old_value': 'area_rank=|GDP_PPP=|GDP_PPP_year=|HDI=|HDI_year'}}}
+194: {'dictionary_item_added': {"root['demonym']": 'area_rank=|GDP_PPP=|GDP_PPP_year=|HDI=|HDI_year'}, 'dictionary_item_removed': {"root['flag_caption']": 'Hanseatic pennant'}}
+197: {'values_changed': {"root['languages']": {'new_value': 'Middle Low German', 'old_value': 'Middle Low German  Old Russian'}}}
+211: {'values_changed': {"root['languages']": {'new_value': 'Middle Low German  Old Russian', 'old_value': 'Middle Low German'}}}
+214: {'values_changed': {"root['languages']": {'new_value': 'Middle Low German', 'old_value': 'Middle Low German '}}}
+239: {'iterable_item_added': {"root['today'][7]": '', "root['today'][8]": '', "root['today'][9]": ''}}

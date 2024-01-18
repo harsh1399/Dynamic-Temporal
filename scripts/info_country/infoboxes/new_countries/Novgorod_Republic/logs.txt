@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Novgorod Republic', "root['continent']": 'Europe', "root['region']": 'Europe', "root['religion']": 'Orthodoxy'}}
+33: {'dictionary_item_removed': {"root['title_leader']": 'Prince', "root['leader1']": 'Sviatoslav Olgovich', "root['year_leader1']": '1136–1138 (first)', "root['leader2']": 'Ivan III', "root['year_leader2']": '1462–1478 (last)'}, 'values_changed': {"root['religion']": {'new_value': 'Orthodoxy', 'old_value': 'Eastern Orthodoxy'}}}
+38: {'values_changed': {"root['common_name']": {'new_value': 'Novgorod Republic', 'old_value': 'Novgorod knyazhestvo'}}}
+39: {'values_changed': {"root['common_name']": {'new_value': 'Novgorod knyazhestvo', 'old_value': 'Novgorod Republic'}}}

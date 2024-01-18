@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'New Kingdom', "root['continent']": 'Africa, Asia', "root['religion']": ['Ancient Egyptian religion', 'Atenism (during the Amarna Period)'], "root['leader1']": 'Ahmose I (first)', "root['year_leader1']": 'c. 1550 BC – c. 1525 BC', "root['leader2']": 'Ramesses XI (last)', "root['year_leader2']": 'c. 1107 BC – c. 1077 BC', "root['title_leader']": 'Pharaoh '}}
+10: {'values_changed': {"root['year_leader2']": {'new_value': 'c. 1107 BC – c. 1077 BC', 'old_value': 'c. 1107 BC – c. 1069 BC'}}}
+83: {'dictionary_item_added': {"root['continent']": 'Africa, Asia'}, 'values_changed': {"root['title_leader']": {'new_value': 'Pharaoh ', 'old_value': 'Pharaoh'}}}
+131: {'values_changed': {"root['year_leader2']": {'new_value': 'c. 1107 BC – c. 1069 BC', 'old_value': 'c. 1107 BC – c. 1077 BC'}}}
+155: {'dictionary_item_removed': {"root['stat_year1']": '13th century BCE', "root['stat_pop1']": '3   to 5   million'}}

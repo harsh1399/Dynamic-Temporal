@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Afsharid Iran', "root['status']": 'Empire', "root['religion']": 'Islam,   Christianity, Zoroastrianism, and Judaism', "root['title_leader']": 'Shahanshah', "root['leader1']": 'Nader Shah', "root['year_leader1']": '1736–1747', "root['leader2']": 'Adil Shah', "root['year_leader2']": '1747–1748', "root['leader3']": 'Ebrahim Afshar', "root['year_leader3']": '1748', "root['leader4']": 'Shahrokh Afshar', "root['year_leader4']": '1748–1796'}}
+1: {'values_changed': {"root['leader2']": {'new_value': 'Adil Shah', 'old_value': 'Adel Shah'}}}
+2: {'values_changed': {"root['leader4']": {'new_value': 'Shahrokh Afshar', 'old_value': 'Shahrokh Shah'}}}
+22: {'values_changed': {"root['leader3']": {'new_value': 'Ebrahim Afshar', 'old_value': 'Shahrokh Shah'}, "root['year_leader3']": {'new_value': '1748', 'old_value': '1748–1796'}, "root['leader4']": {'new_value': 'Shahrokh Shah', 'old_value': 'Ebrahim Afshar'}, "root['year_leader4']": {'new_value': '1748–1796', 'old_value': '1748'}}}
+33: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Iran', 'old_value': 'Afsharid Azerbaijan'}}}
+34: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Azerbaijan', 'old_value': 'Afsharid Iran'}}}
+42: {'dictionary_item_removed': {"root['GDP_PPP']": '$133.449 billion', "root['GDP_PPP_year']": '1740'}}
+45: {'dictionary_item_added': {"root['GDP_PPP']": '$133.449 billion', "root['GDP_PPP_year']": '1740'}, 'values_changed': {"root['common_name']": {'new_value': 'Afsharid Iran', 'old_value': 'Afsharid Empire'}}}
+46: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Empire', 'old_value': 'Afsharid Iran'}}}
+47: {'values_changed': {"root['religion']": {'new_value': 'Islam,   Christianity, Zoroastrianism, and Judaism', 'old_value': 'Islam(state),   Christianity, Zoroastrianism, and Judaism'}}}
+48: {'dictionary_item_removed': {"root['population_estimate']": '6,000,000'}}
+50: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Iran', 'old_value': 'Afsharid Azerbaijan'}}}
+52: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Azerbaijan', 'old_value': 'Afsharid Iran'}}}
+53: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Iran', 'old_value': 'Afsharid Azerbaijan'}}}
+55: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Azerbaijan', 'old_value': 'Afsharid Iran'}}}
+57: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Iran', 'old_value': 'Afsharid Azerbaijan'}}}
+58: {'values_changed': {"root['common_name']": {'new_value': 'Afsharid Azerbaijan', 'old_value': 'Afsharid Iran'}}}
+61: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Islam(state religion)', 'Christianity', 'Zoroastrianism', 'Judaism'], 'new_value': 'Islam(state),   Christianity, Zoroastrianism, and Judaism'}}}
+62: {'values_changed': {"root['religion'][0]": {'new_value': 'Islam(state religion)', 'old_value': 'Islam (state religion)'}}}

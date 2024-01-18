@@ -1,0 +1,8 @@
+217: {'dictionary_item_removed': {"root['common_name']": 'colchis |', "root['continent']": 'Europe', "root['status']": 'Kingdom', "root['image_flag_caption']": '|', "root['religion']": 'Fire worshipper', "root['title_leader']": 'King', "root['leader1']": 'Aeëtes', "root['year_leader1']": 'XVII-XVI BC', "root['year_deputy2']": '|', "root['today']": 'titlesty'}}
+225: {'values_changed': {"root['religion']": {'new_value': 'Fire worshipper', 'old_value': 'Paganism'}}}
+226: {'values_changed': {"root['status']": {'new_value': 'Kingdom', 'old_value': "'''Kingdom'''"}}}
+228: {'values_changed': {"root['religion']": {'new_value': 'Paganism', 'old_value': 'Paganism , Hellenism'}}}
+229: {'values_changed': {"root['status']": {'new_value': "'''Kingdom'''", 'old_value': 'Kingdom'}, "root['religion']": {'new_value': 'Paganism , Hellenism', 'old_value': 'Fire worshipper'}}}
+233: {'dictionary_item_added': {"root['image_flag_caption']": '|', "root['religion']": 'Fire worshipper', "root['title_leader']": 'King', "root['leader1']": 'Aeëtes', "root['year_leader1']": 'XVII-XVI BC', "root['year_deputy2']": '|', "root['today']": 'titlesty'}, 'dictionary_item_removed': {"root['region']": 'Transcaucasia', "root['country']": 'Georgia', "root['latd']": '|latm= |latNS= |longd= |longm= |longEW='}, 'values_changed': {"root['common_name']": {'new_value': 'colchis |', 'old_value': 'Colchis, Kolkheti, Kolkha, Kolkhida'}}}
+258: {'dictionary_item_added': {"root['common_name']": 'Colchis, Kolkheti, Kolkha, Kolkhida', "root['continent']": 'Europe', "root['region']": 'Transcaucasia', "root['country']": 'Georgia', "root['status']": 'Kingdom'}, 'dictionary_item_removed': {"root['religion']": 'Polytheism'}}
+272: {'dictionary_item_removed': {"root['demonym']": '|area_km2'}}

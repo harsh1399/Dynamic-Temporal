@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Kush', "root['religion']": 'Ancient Egyptian Religion', "root['year_leader1']": 'c. 1070', "root['year_leader2']": '340–355', "root['title_leader']": 'Monarch', "root['stat_year1']": 'Egyptian phase ', "root['stat_pop1']": '100,000', "root['stat_year2']": 'Meroite phase', "root['stat_pop2']": '1,150,000'}}
+26: {'dictionary_item_removed': {"root['status']": '|status_text'}}
+29: {'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': 'Russia'}}}
+30: {'dictionary_item_added': {"root['status']": '|status_text'}, 'values_changed': {"root['common_name']": {'new_value': 'Russia', 'old_value': 'Kush'}}}
+33: {'values_changed': {"root['stat_pop1']": {'new_value': '100,000', 'old_value': '666'}}}
+34: {'values_changed': {"root['stat_pop1']": {'new_value': '666', 'old_value': '100,000'}}}
+90: {'dictionary_item_added': {"root['year_leader1']": 'c. 1070'}, 'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': 'a7a'}}}
+91: {'values_changed': {"root['common_name']": {'new_value': 'a7a', 'old_value': 'Kush'}}}
+94: {'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': 'Egyptian'}}}
+96: {'values_changed': {"root['common_name']": {'new_value': 'Egyptian', 'old_value': 'Kush'}}}
+129: {'dictionary_item_added': {"root['stat_pop1']": '100,000'}, 'dictionary_item_removed': {"root['today']": 'Sudan Egypt'}, 'values_changed': {"root['religion']": {'new_value': 'Ancient Egyptian Religion', 'old_value': 'Kushite religion    Ancient Egyptian religion'}}}
+138: {'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': 'OG Kush'}}}
+139: {'values_changed': {"root['common_name']": {'new_value': 'OG Kush', 'old_value': 'Kush'}}}
+140: {'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': "OG Kush '''Neeraj Dalal'''"}}}
+141: {'values_changed': {"root['common_name']": {'new_value': "OG Kush '''Neeraj Dalal'''", 'old_value': 'Kush'}}}
+143: {'values_changed': {"root['common_name']": {'new_value': 'Kush', 'old_value': 'Cush'}}}
+145: {'values_changed': {"root['common_name']": {'new_value': 'Cush', 'old_value': 'Kush'}}}
+147: {'values_changed': {"root['religion']": {'new_value': 'Kushite religion    Ancient Egyptian religion', 'old_value': 'Kushite religion,   Ancient Egyptian religion'}}}
+149: {'dictionary_item_removed': {"root['leader1']": 'SpongeBob', "root['leader2']": 'Patrick'}}
+151: {'dictionary_item_added': {"root['leader1']": 'SpongeBob', "root['leader2']": 'Patrick'}, 'dictionary_item_removed': {"root['region']": 'spaghetti'}}
+157: {'dictionary_item_added': {"root['region']": 'spaghetti'}, 'values_changed': {"root['religion']": {'new_value': 'Kushite religion,   Ancient Egyptian religion', 'old_value': 'Kushite religion,   Ancient Egyptian religion, Nubian polytheism'}}}
+187: {'values_changed': {"root['religion']": {'new_value': 'Kushite religion,   Ancient Egyptian religion, Nubian polytheism', 'old_value': 'Kushite religion  , Ancient Egyptian religion, Nubian polytheism'}}}
+204: {'values_changed': {"root['today']": {'new_value': 'Sudan Egypt', 'old_value': 'Sudan Egypt, South Sudan,'}}}
+205: {'values_changed': {"root['today']": {'new_value': 'Sudan Egypt, South Sudan,', 'old_value': 'Sudan Egypt, ,'}}}
+206: {'values_changed': {"root['religion']": {'new_value': 'Kushite religion  , Ancient Egyptian religion, Nubian polytheism', 'old_value': 'Kushite religion  , Ancient Egyptian religion, Kushite polytheism'}}}
+207: {'values_changed': {"root['religion']": {'new_value': 'Kushite religion  , Ancient Egyptian religion, Kushite polytheism', 'old_value': 'Kushite religion  , Kushite polytheism, Ancient Egyptian religion'}}}
+208: {'values_changed': {"root['stat_year1']": {'new_value': 'Egyptian phase ', 'old_value': 'Egyptian phase  stat_year2             = Meroite phase  | stat_pop2              = 1,150,000 | today                  = Sudan Egypt, ,  | demonym                =  | stat_area1             = 1,500,0'}}}
+211: {'values_changed': {"root['stat_year1']": {'new_value': 'Egyptian phase  stat_year2             = Meroite phase  | stat_pop2              = 1,150,000 | today                  = Sudan Egypt, ,  | demonym                =  | stat_area1             = 1,500,0', 'old_value': 'Egyptian phase '}}}

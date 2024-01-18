@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Nagorno-Karabakh', "root['continent']": 'Asia', "root['region']": 'Caucasus', "root['area_km2']": '8,223', "root['area_sq_mi']": '3,175', "root['percent_water']": 'negligible', "root['population_estimate_rank']": '138,000', "root['population_estimate_year']": '2006', "root['population_census_year']": '2003', "root['population_density_km2']": '29'}}
+43: {'dictionary_item_added': {"root['population_estimate_rank']": '138,000'}, 'dictionary_item_removed': {"root['population_estimate']": '138,000', "root['population_density_sq_mi']": '43'}}
+108: {'values_changed': {"root['area_km2']": {'new_value': '8,223', 'old_value': '4,400'}, "root['area_sq_mi']": {'new_value': '3,175', 'old_value': '1,700'}}}
+367: {'values_changed': {"root['common_name']": {'new_value': 'Nagorno-Karabakh', 'old_value': 'Nagorno-Karabakh or Upper Karabakh'}}}
+407: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Caucasus'}, 'dictionary_item_removed': {"root['area_rank']": '|area_magnitude ='}, 'values_changed': {"root['common_name']": {'new_value': 'Nagorno-Karabakh or Upper Karabakh', 'old_value': 'Nagorno-Karabakh'}}}
+431: {'dictionary_item_removed': {"root['citizenship']": 'Nagorno Karabagh', "root['religion']": 'Christianity: Armenian Apostolic, Armenian Evangelical'}}
+465: {'values_changed': {"root['religion']": {'new_value': 'Christianity: Armenian Apostolic, Armenian Evangelical', 'old_value': 'Christianity: Armenian Apostolic Church'}}}
+539: {'dictionary_item_removed': {"root['language']": 'Armenian, Azerbaijani, Russian'}}
+559: {'dictionary_item_added': {"root['language']": 'Armenian, Azerbaijani, Russian'}, 'values_changed': {"root['citizenship']": {'new_value': 'Nagorno Karabagh', 'old_value': 'Azerbaijani'}, "root['religion']": {'new_value': 'Christianity: Armenian Apostolic Church', 'old_value': 'Islam'}}}
+561: {'values_changed': {"root['citizenship']": {'new_value': 'Azerbaijani', 'old_value': 'Nagorno Karabagh'}, "root['religion']": {'new_value': 'Islam', 'old_value': 'Christianity: Armenian Apostolic Church'}}}

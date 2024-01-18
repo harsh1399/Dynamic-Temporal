@@ -1,0 +1,63 @@
+47: {'dictionary_item_removed': {"root['common_name']": 'Delhi Sultanate', "root['continent']": 'Asia', "root['region']": 'Indian Subcontinent', "root['country']": 'India , Pakistan , Bangladesh', "root['religion']": 'Sunni Islam Hanafi Fiqh', "root['leader1']": 'Qutb-ud-din Aybak', "root['year_leader1']": '1206-1210', "root['leader2']": 'Ibrahim Lodi', "root['year_leader2']": '1517-1526', "root['title_leader']": 'Sultan'}}
+58: {'values_changed': {"root['year_leader1']": {'new_value': '1206-1210', 'old_value': '1206–1210'}, "root['year_leader2']": {'new_value': '1517-1526', 'old_value': '1517–1526'}}}
+64: {'values_changed': {"root['leader1']": {'new_value': 'Qutb-ud-din Aybak', 'old_value': 'Qutub-ud-din Aybak'}}}
+101: {'values_changed': {"root['leader1']": {'new_value': 'Qutub-ud-din Aybak', 'old_value': 'Qutb-ud-din Aibak'}}}
+190: {'values_changed': {"root['country']": {'new_value': 'India , Pakistan , Bangladesh', 'old_value': 'India, Pakistan, Bangladesh'}}}
+194: {'values_changed': {"root['country']": {'new_value': 'India, Pakistan, Bangladesh', 'old_value': 'India, Pakistan, Bangladesh, Nepal'}}}
+295: {'values_changed': {"root['country']": {'new_value': 'India, Pakistan, Bangladesh, Nepal', 'old_value': 'India, Pakistan, Bangladesh, Nepal, Afghanistan'}, "root['religion']": {'new_value': 'Sunni Islam Hanafi Fiqh', 'old_value': 'Islam'}}}
+297: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'africa'}}}
+298: {'values_changed': {"root['continent']": {'new_value': 'africa', 'old_value': 'Asia'}}}
+306: {'values_changed': {"root['country']": {'new_value': 'India, Pakistan, Bangladesh, Nepal, Afghanistan', 'old_value': 'India, Pakistan, Bangladesh, Nepal'}, "root['religion']": {'new_value': 'Islam', 'old_value': 'Sunni Islam Hanafi Fiqh'}}}
+319: {'dictionary_item_removed': {"root['native_name_lang']": 'ur'}, 'values_changed': {"root['common_name']": {'new_value': 'Delhi Sultanate', 'old_value': 'Sultanate of Delhi'}, "root['country']": {'new_value': 'India, Pakistan, Bangladesh, Nepal', 'old_value': 'India'}, "root['religion']": {'new_value': 'Sunni Islam Hanafi Fiqh', 'old_value': 'Sunni Islam'}, "root['leader1']": {'new_value': 'Qutb-ud-din Aibak', 'old_value': 'Qutb-ud-din Aibak  (first)'}, "root['leader2']": {'new_value': 'Ibrahim Lodi', 'old_value': 'Ibrahim Lodi  (last)'}}}
+329: {'dictionary_item_removed': {"root['border_s2']": 'no'}}
+348: {'dictionary_item_added': {"root['border_s2']": 'no'}, 'dictionary_item_removed': {"root['last']": 'Alam', "root['publisher']": 'Cambridge University Press', "root['volume']": '32', "root['issue']": '2', "root['pages']": '317-349', "root['quote']": '"Hindavi was recognized as a semi-official language by the Sor Sultans (1540-55) and their chancellery rescripts bore transcriptions in the Devanagari script of the Persian contents. The practice is said to have been introduced by the Lodis (1451-1526)." '}}
+350: {'values_changed': {"root['pages']": {'new_value': '317-349', 'old_value': '317–349'}}}
+372: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Asia  work        = Fucker'}}}
+373: {'values_changed': {"root['continent']": {'new_value': 'Asia  work        = Fucker', 'old_value': 'Asia'}}}
+390: {'values_changed': {"root['country']": {'new_value': 'India', 'old_value': 'Pakistan'}}}
+391: {'values_changed': {"root['country']": {'new_value': 'Pakistan', 'old_value': 'India'}}}
+392: {'values_changed': {"root['common_name']": {'new_value': 'Sultanate of Delhi', 'old_value': 'Delhi Sultanate'}}}
+409: {'dictionary_item_removed': {"root['s6']": 'Malwa Sultanate', "root['s7']": 'Gujarat Sultanate', "root['s8']": 'Bahmani Sultanate'}}
+410: {'dictionary_item_removed': {"root['s9']": 'Madurai Sultanate'}}
+411: {'dictionary_item_removed': {"root['flag_s7']": 'Gujarat Sultanate Flag.gif'}}
+433: {'dictionary_item_added': {"root['s6']": 'Malwa Sultanate', "root['s7']": 'Gujarat Sultanate', "root['flag_s7']": 'Gujarat Sultanate Flag.gif', "root['s8']": 'Bahmani Sultanate', "root['s9']": 'Madurai Sultanate'}, 'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Islam'}}}
+434: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'Sunni Islam'}}}
+465: {'dictionary_item_added': {"root['last']": 'Alam', "root['publisher']": 'Cambridge University Press', "root['volume']": '32', "root['issue']": '2', "root['pages']": '317–349', "root['quote']": '"Hindavi was recognized as a semi-official language by the Sor Sultans (1540-55) and their chancellery rescripts bore transcriptions in the Devanagari script of the Persian contents. The practice is said to have been introduced by the Lodis (1451-1526)." '}, 'dictionary_item_removed': {"root['border_s1']": 'no'}}
+526: {'dictionary_item_added': {"root['border_s1']": 'no'}, 'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Golf'}}}
+527: {'values_changed': {"root['continent']": {'new_value': 'Golf', 'old_value': 'Asia'}}}
+618: {'dictionary_item_removed': {"root['p6']": 'Deva dynasty'}}
+619: {'dictionary_item_removed': {"root['p7']": 'Seuna (Yadava) dynasty'}}
+634: {'dictionary_item_added': {"root['native_name_lang']": 'ur', "root['country']": 'India'}, 'dictionary_item_removed': {"root['p8']": 'Musunuri Nayaks', "root['p9']": 'Vaghela dynasty', "root['p10']": 'Yajvapala dynasty'}, 'values_changed': {"root['p6']": {'new_value': 'Deva dynasty', 'old_value': 'Seuna (Yadava) dynasty'}, "root['p7']": {'new_value': 'Seuna (Yadava) dynasty', 'old_value': 'Kakatiya dynasty'}, "root['leader1']": {'new_value': 'Qutb-ud-din Aibak  (first)', 'old_value': 'Qutb al-Din Aibak  (first)'}}}
+681: {'dictionary_item_removed': {"root['today']": ['', '', '', '', '']}}
+713: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': 'Australia'}}}
+714: {'values_changed': {"root['continent']": {'new_value': 'Australia', 'old_value': 'Asia'}}}
+720: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': "Sunni Islam, Hinduism (1320 during Khusro Khan's rule)"}}}
+721: {'values_changed': {"root['religion']": {'new_value': "Sunni Islam, Hinduism (1320 during Khusro Khan's rule)", 'old_value': 'Sunni Islam'}}}
+748: {'iterable_item_added': {"root['today'][4]": ''}}
+754: {'values_changed': {"root['today'][0]": {'new_value': '', 'old_value': 'Bangladesh'}, "root['today'][1]": {'new_value': '', 'old_value': 'India'}, "root['today'][2]": {'new_value': '', 'old_value': 'Nepal'}, "root['today'][3]": {'new_value': '', 'old_value': 'Pakistan'}}}
+791: {'iterable_item_added': {"root['today'][2]": 'Nepal'}}
+799: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': "AppleGoogleSamsung'''''Italic text'''  Big text   Superscript text ààààď៛៛៛៛៛៛  ''"}}}
+800: {'values_changed': {"root['continent']": {'new_value': "AppleGoogleSamsung'''''Italic text'''  Big text   Superscript text ààààď៛៛៛៛៛៛  ''", 'old_value': 'Asia'}}}
+810: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Indian Subcontinent'}, 'dictionary_item_removed': {"root['p11']": 'Yajvapala dynasty'}, 'values_changed': {"root['p6']": {'new_value': 'Seuna (Yadava) dynasty', 'old_value': 'Deva dynasty'}, "root['p7']": {'new_value': 'Kakatiya dynasty', 'old_value': 'Seuna (Yadava) dynasty'}, "root['p8']": {'new_value': 'Musunuri Nayaks', 'old_value': 'Kakatiya dynasty'}, "root['p9']": {'new_value': 'Vaghela dynasty', 'old_value': 'Musunuri Nayaks'}, "root['p10']": {'new_value': 'Yajvapala dynasty', 'old_value': 'Vaghela dynasty'}}}
+826: {'dictionary_item_added': {"root['p11']": 'Yajvapala dynasty'}, 'dictionary_item_removed': {"root['continent']": 'Asia', "root['region']": 'Indian Subcontinent'}, 'values_changed': {"root['p6']": {'new_value': 'Deva dynasty', 'old_value': 'Seuna (Yadava) dynasty'}, "root['p7']": {'new_value': 'Seuna (Yadava) dynasty', 'old_value': 'Kakatiya dynasty'}, "root['p8']": {'new_value': 'Kakatiya dynasty', 'old_value': 'Musunuri Nayaks'}, "root['p9']": {'new_value': 'Musunuri Nayaks', 'old_value': 'Vaghela dynasty'}, "root['p10']": {'new_value': 'Vaghela dynasty', 'old_value': 'Yajvapala dynasty'}, "root['today'][0]": {'new_value': 'Bangladesh', 'old_value': ''}, "root['today'][1]": {'new_value': 'India', 'old_value': ''}, "root['today'][2]": {'new_value': 'Pakistan', 'old_value': ''}}, 'iterable_item_removed': {"root['today'][3]": ''}}
+830: {'values_changed': {"root['region']": {'new_value': 'Indian Subcontinent', 'old_value': 'GIndian Subcontinent'}}}
+831: {'values_changed': {"root['region']": {'new_value': 'GIndian Subcontinent', 'old_value': 'Indian Subcontinent'}}}
+832: {'type_changes': {"root['today']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Bangladesh, India, Pakistan', 'new_value': ['', '', '', '']}}, 'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Indian Subcontinent'}, 'dictionary_item_removed': {"root['s6']": 'Vijaynagar Empire'}}
+836: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Sunni Islams'}}}
+837: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islams', 'old_value': 'Sunni Islam'}}}
+894: {'dictionary_item_removed': {"root['p11']": 'Chahamanas of Ranastambhapura'}}
+895: {'values_changed': {"root['s6']": {'new_value': 'Vijaynagar Empire', 'old_value': 'Vijayanagara Empire'}}}
+998: {'dictionary_item_removed': {"root['i_flag']": 'Delhi Sultanate Flag.svg', "root['evet_start']": 'Independence '}}
+1000: {'dictionary_item_added': {"root['i_flag']": 'Delhi Sultanate Flag.svg', "root['evet_start']": 'Independence '}, 'values_changed': {"root['today']": {'new_value': 'Bangladesh, India, Pakistan', 'old_value': 'Bangladesh, India, Pakistannepal'}}}
+1001: {'values_changed': {"root['today']": {'new_value': 'Bangladesh, India, Pakistannepal', 'old_value': 'Bangladesh, India, Pakistan'}}}
+1053: {'values_changed': {"root['common_name']": {'new_value': 'Delhi Sultanate', 'old_value': 'Delhi Sultanate (سلطنت دھلی)'}}}
+1054: {'values_changed': {"root['common_name']": {'new_value': 'Delhi Sultanate (سلطنت دھلی)', 'old_value': 'Delhi Sultanate'}}}
+1076: {'values_changed': {"root['today']": {'new_value': 'Bangladesh, India, Pakistan', 'old_value': 'Bangladesh, India, Pakistan Afghanistan China Nepal Bhutan'}}}
+1077: {'values_changed': {"root['today']": {'new_value': 'Bangladesh, India, Pakistan Afghanistan China Nepal Bhutan', 'old_value': 'Bangladesh, India, Pakistan'}}}
+1084: {'values_changed': {"root['today']": {'new_value': 'Bangladesh, India, Pakistan', 'old_value': 'Bangladesh, India, Nepal, Pakistan'}}}
+1098: {'values_changed': {"root['leader1']": {'new_value': 'Qutb al-Din Aibak  (first)', 'old_value': 'Qutb al-Din Aibak (first)'}, "root['leader2']": {'new_value': 'Ibrahim Lodi  (last)', 'old_value': 'Ibrahim Lodi (last)'}}}
+1135: {'values_changed': {"root['common_name']": {'new_value': 'Delhi Sultanate', 'old_value': 'Delhi Sultanate PEINS'}}}
+1136: {'values_changed': {"root['common_name']": {'new_value': 'Delhi Sultanate PEINS', 'old_value': 'Delhi Sultanate'}}}
+1153: {'dictionary_item_removed': {"root['p12']": 'Chahamanas of Ranastambhapura'}, 'values_changed': {"root['p6']": {'new_value': 'Seuna (Yadava) dynasty', 'old_value': 'Sena dynasty'}, "root['p7']": {'new_value': 'Kakatiya dynasty', 'old_value': 'Seuna (Yadava) dynasty'}, "root['p8']": {'new_value': 'Musunuri Nayaks', 'old_value': 'Kakatiya dynasty'}, "root['p9']": {'new_value': 'Vaghela dynasty', 'old_value': 'Musunuri Nayaks'}, "root['p10']": {'new_value': 'Yajvapala dynasty', 'old_value': 'Vaghela dynasty'}, "root['p11']": {'new_value': 'Chahamanas of Ranastambhapura', 'old_value': 'Yajvapala dynasty'}}}
+1168: {'dictionary_item_added': {"root['p12']": 'Chahamanas of Ranastambhapura'}, 'values_changed': {"root['p9']": {'new_value': 'Musunuri Nayaks', 'old_value': 'Vaghela dynasty'}, "root['p10']": {'new_value': 'Vaghela dynasty', 'old_value': 'Yajvapala dynasty'}, "root['p11']": {'new_value': 'Yajvapala dynasty', 'old_value': 'Chahamanas of Ranastambhapura'}}}
+1175: {'type_changes': {"root['today']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', '', '', ''], 'new_value': 'Bangladesh, India, Nepal, Pakistan'}}}

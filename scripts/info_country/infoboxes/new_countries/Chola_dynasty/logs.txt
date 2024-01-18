@@ -1,0 +1,24 @@
+878: {'dictionary_item_removed': {"root['common_name']": 'Chola Empire', "root['continent']": 'Asia', "root['region']": 'South-East Asia', "root['country']": 'India', "root['ethnicity']": 'Tamil', "root['religion']": 'Hinduism, Shaivism, Jainism', "root['leader1']": 'Vijayalaya Chola', "root['year_leader1']": '848–871', "root['leader2']": 'Rajendra Chola III', "root['year_leader2']": '1246–1279', "root['title_leader']": 'King', "root['stat_area1']": '3600000'}}
+909: {'values_changed': {"root['common_name']": {'new_value': 'Chola Empire', 'old_value': 'karthik Empire'}}}
+910: {'values_changed': {"root['common_name']": {'new_value': 'karthik Empire', 'old_value': 'Chola Empire'}}}
+966: {'dictionary_item_removed': {"root['court_languages']": 'Tamil'}, 'values_changed': {"root['religion']": {'new_value': 'Hinduism, Shaivism, Jainism', 'old_value': 'Hinduism, Shaivism, Buddhism'}}}
+1076: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'South-East Asia', "root['country']": 'India', "root['ethnicity']": 'Tamil', "root['court_languages']": 'Tamil', "root['stat_area1']": '3600000'}, 'dictionary_item_removed': {"root['official_languages']": 'Tamil, Sanskrit', "root['demonym']": '|area_km2'}, 'values_changed': {"root['common_name']": {'new_value': 'Chola Empire', 'old_value': 'Chola dynasty'}, "root['religion']": {'new_value': 'Hinduism, Shaivism, Buddhism', 'old_value': 'Hinduism (predominantly Shaivism)'}, "root['leader1']": {'new_value': 'Vijayalaya Chola', 'old_value': 'Vijayalaya Chola (first)'}, "root['leader2']": {'new_value': 'Rajendra Chola III', 'old_value': 'Rajendra Chola III (last)'}, "root['title_leader']": {'new_value': 'King', 'old_value': 'King and Emperor'}}}
+1077: {'values_changed': {"root['religion']": {'new_value': 'Hinduism (predominantly Shaivism)', 'old_value': 'Hinduism'}}}
+1102: {'values_changed': {"root['leader2']": {'new_value': 'Rajendra Chola III (last)', 'old_value': 'Rajendra Cholan III (last)'}}}
+1103: {'values_changed': {"root['leader2']": {'new_value': 'Rajendra Cholan III (last)', 'old_value': 'Rajendra Chola III (last)'}}}
+1140: {'values_changed': {"root['official_languages']": {'new_value': 'Tamil, Sanskrit', 'old_value': 'Tamil'}}}
+1141: {'values_changed': {"root['official_languages']": {'new_value': 'Tamil', 'old_value': 'Tamil, Sanskrit'}}}
+1146: {'dictionary_item_removed': {"root['flag_caption']": "'''Note''': A modern illustration of the Chola flag (early historic, approximate)"}}
+1148: {'values_changed': {"root['religion']": {'new_value': 'Hinduism', 'old_value': 'Hinduism center'}}}
+1149: {'dictionary_item_added': {"root['flag_caption']": "'''Note''': A modern illustration of the Chola flag (early historic, approximate)"}, 'values_changed': {"root['religion']": {'new_value': 'Hinduism center', 'old_value': 'Hinduism'}}}
+1162: {'values_changed': {"root['common_name']": {'new_value': 'Chola dynasty', 'old_value': 'Chola Empire'}}}
+1163: {'values_changed': {"root['common_name']": {'new_value': 'Chola Empire', 'old_value': 'Chola dynasty'}}}
+1164: {'values_changed': {"root['official_languages']": {'new_value': 'Tamil, Sanskrit', 'old_value': 'Tamil'}}}
+1171: {'dictionary_item_removed': {"root['border_s1']": 'no'}}
+1173: {'dictionary_item_removed': {"root['border_s2']": 'no'}}
+1184: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['official_languages']": {'new_value': 'Tamil', 'old_value': 'Tamil, Telugu, Kannada, Malayalam, Sanskrit'}}}
+1186: {'dictionary_item_removed': {"root['common_language']": 'Tamil, Telugu, Kannada, Malayalam, Sanskrit'}, 'values_changed': {"root['official_languages']": {'new_value': 'Tamil, Telugu, Kannada, Malayalam, Sanskrit', 'old_value': 'Tamil'}}}
+1189: {'dictionary_item_added': {"root['common_language']": 'Tamil, Telugu, Kannada, Malayalam, Sanskrit'}, 'dictionary_item_removed': {"root['Nickname']": "(''Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates)"}}
+1191: {'values_changed': {"root['Nickname']": {'new_value': "(''Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates)", 'old_value': 'Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates)'}}}
+1192: {'values_changed': {"root['Nickname']": {'new_value': 'Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates)', 'old_value': 'Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates'}}}
+1193: {'values_changed': {"root['Nickname']": {'new_value': 'Chola Empire insignia and flag of the crouching tiger from the Leiden Copper Plates', 'old_value': "Chola Empire insignia and flag of the crouching tiger from Rajendra I's Leiden Copper Plate"}}}

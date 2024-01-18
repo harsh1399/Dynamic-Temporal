@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Portuguese Empire', "root['life_span']": '1415–1999', "root['language']": 'Portuguese', "root['religion']": 'Roman Catholicism', "root['title_leader']": 'Monarchs', "root['title_representative']": 'Presidents'}}
+31: {'values_changed': {"root['life_span']": {'new_value': '1415–1999', 'old_value': '1415–2002'}}}
+33: {'values_changed': {"root['life_span']": {'new_value': '1415–2002', 'old_value': '1415–1999'}}}
+41: {'dictionary_item_removed': {"root['continent']": 'Afroeurasia, South America'}}
+47: {'values_changed': {"root['life_span']": {'new_value': '1415–1999', 'old_value': '1415–1999/2002'}}}
+56: {'values_changed': {"root['religion']": {'new_value': 'Roman Catholicism', 'old_value': 'Catholicism'}}}
+57: {'values_changed': {"root['life_span']": {'new_value': '1415–1999/2002', 'old_value': '1415–1999'}}}
+60: {'dictionary_item_removed': {"root['image_map1']": 'PortugueseFlag1485.svg', "root['image_map1_caption']": 'Flag of Portuguese Empire'}}
+73: {'dictionary_item_added': {"root['image_map1']": 'PortugueseFlag1485.svg', "root['image_map1_caption']": 'Flag of Portuguese Empire', "root['language']": 'Portuguese'}, 'dictionary_item_removed': {"root['image_flag_caption']": 'Flag'}}
+76: {'dictionary_item_added': {"root['image_flag_caption']": 'Flag'}, 'dictionary_item_removed': {"root['image_map1']": 'PortugueseFlag1485.svg', "root['image_map1_caption']": 'Flag'}}
+78: {'dictionary_item_added': {"root['image_map1']": 'PortugueseFlag1485.svg', "root['image_map1_caption']": 'Flag'}, 'dictionary_item_removed': {"root['image_coat2']": 'PortugueseFlag1485.svg', "root['image_coat2_caption']": 'Flag'}}
+79: {'dictionary_item_added': {"root['image_coat2']": 'PortugueseFlag1485.svg', "root['image_coat2_caption']": 'Flag'}, 'dictionary_item_removed': {"root['image_flag_caption']": 'Flag'}}
+128: {'dictionary_item_added': {"root['image_flag_caption']": 'Flag'}, 'values_changed': {"root['continent']": {'new_value': 'Afroeurasia, South America', 'old_value': 'Afroeurasiaall of you are hoesalt= Portuguese coat of arms (1481–present)'}}}
+129: {'values_changed': {"root['continent']": {'new_value': 'Afroeurasiaall of you are hoesalt= Portuguese coat of arms (1481–present)', 'old_value': 'Afroeurasia, South America'}}}
+162: {'dictionary_item_added': {"root['continent']": 'Afroeurasia, South America'}, 'dictionary_item_removed': {"root['event7']": 'Loss of Indian provinces', "root['date_event7']": '1961', "root['event8']": 'Portuguese Colonial War', "root['date_event8']": '1961–1974', "root['event9']": 'Carnation Revolution', "root['date_event9']": '1974–1975'}}

@@ -1,0 +1,8 @@
+1: {'dictionary_item_removed': {"root['common_name']": 'Yan Kingdom', "root['status']": 'Kingdom', "root['leader1']": 'Gongsun Yuan', "root['year_leader1']": '237-238', "root['title_leader']": 'King'}}
+2: {'dictionary_item_removed': {"root['stat_year1']": '237', "root['stat_pop1']": 'about 300000', "root['today']": 'Liaoning, China '}}
+33: {'values_changed': {"root['common_name']": {'new_value': 'Yan Kingdom', 'old_value': 'Yan'}}}
+47: {'values_changed': {"root['stat_year1']": {'new_value': '237', 'old_value': '237 CE'}, "root['stat_pop1']": {'new_value': 'about 300000', 'old_value': 'about 300,000'}}}
+55: {'values_changed': {"root['today']": {'new_value': 'Liaoning, China ', 'old_value': 'Liaoning, China  '}}}
+60: {'values_changed': {"root['today']": {'new_value': 'Liaoning, China  ', 'old_value': 'China  '}}}
+61: {'values_changed': {"root['today']": {'new_value': 'China  ', 'old_value': 'China '}}}
+65: {'values_changed': {"root['year_leader1']": {'new_value': '237-238', 'old_value': '237–238'}}}

@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['status']": 'Current', "root['leader_title1']": 'President', "root['leader_name1']": 'Eli Avivi', "root['population_estimate']": '2 (2013)'}}
+15: {'values_changed': {"root['population_estimate']": {'new_value': '2 (2013)', 'old_value': '3 (2016)'}}}
+16: {'dictionary_item_removed': {"root['anthem']": 'The Land of Peace  File:Heesta Qaranka Somaliland.ogg'}}
+21: {'dictionary_item_added': {"root['anthem']": 'The Land of Peace  File:Heesta Qaranka Somaliland.ogg'}, 'values_changed': {"root['population_estimate']": {'new_value': '3 (2016)', 'old_value': '1 (2018)'}}}
+26: {'values_changed': {"root['leader_name1']": {'new_value': 'Eli Avivi', 'old_value': 'Eli Avivi (deceased)'}}}
+41: {'dictionary_item_added': {"root['leader_title1']": 'President', "root['leader_name1']": 'Eli Avivi (deceased)'}, 'dictionary_item_removed': {"root['demonym']": '|area_km2'}, 'values_changed': {"root['population_estimate']": {'new_value': '1 (2018)', 'old_value': '2'}}}
+45: {'values_changed': {"root['population_estimate']": {'new_value': '2', 'old_value': '100'}, "root['demonym']": {'new_value': '|area_km2', 'old_value': 'area_km2'}}}
+46: {'values_changed': {"root['population_estimate']": {'new_value': '100', 'old_value': '2'}, "root['demonym']": {'new_value': 'area_km2', 'old_value': '|area_km2'}}}
+47: {'values_changed': {"root['status']": {'new_value': 'Current', 'old_value': 'Active'}}}

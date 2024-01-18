@@ -1,0 +1,5 @@
+15: {'dictionary_item_removed': {"root['common_name']": 'KwaZulu', "root['continent']": 'Africa', "root['region']": 'Southern Africa', "root['country']": 'South Africa', "root['status']": 'Bantustan', "root['title_leader']": '|leader1 ='}}
+16: {'dictionary_item_removed': {"root['leader1']": 'Mangosuthu Buthelezi'}, 'values_changed': {"root['title_leader']": {'new_value': '|leader1 =', 'old_value': 'Chief Minister'}}}
+22: {'dictionary_item_removed': {"root['stat_year1']": '1991', "root['stat_pop1']": '5524774 '}}
+24: {'dictionary_item_removed': {"root['stat_year2']": '1980 ', "root['stat_area2']": '32130', "root['stat_pop2']": '3400000 '}, 'values_changed': {"root['stat_pop1']": {'new_value': '5524774 ', 'old_value': '5524774'}}}
+25: {'dictionary_item_added': {"root['stat_area2']": '32130'}, 'dictionary_item_removed': {"root['stat_area1']": '32130'}, 'values_changed': {"root['stat_year1']": {'new_value': '1991', 'old_value': '1980 '}, "root['stat_pop1']": {'new_value': '5524774', 'old_value': '3400000'}, "root['stat_year2']": {'new_value': '1980 ', 'old_value': '1991'}, "root['stat_pop2']": {'new_value': '3400000 ', 'old_value': '5524774 '}}}

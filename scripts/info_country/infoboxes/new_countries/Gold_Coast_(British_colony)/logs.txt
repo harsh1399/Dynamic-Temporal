@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Gold Coast |', "root['continent']": 'Africa', "root['region']": 'West Africa', "root['country']": 'Ghana', "root['status']": 'Crown Colony', "root['life_span']": '1821–1957 |', "root['religion']": 'Christianity, Islam, traditional African religion'}}
+8: {'values_changed': {"root['common_name']": {'new_value': 'Gold Coast |', 'old_value': 'Afriyie Boamah'}}}
+14: {'dictionary_item_removed': {"root['stat_year1']": '1924', "root['stat_pop1']": '2,080,208 |'}}
+15: {'dictionary_item_removed': {"root['stat_area1']": '207199 '}, 'values_changed': {"root['stat_pop1']": {'new_value': '2,080,208 |', 'old_value': '2080208<ref name'}}}
+16: {'dictionary_item_added': {"root['region']": 'West Africa'}, 'values_changed': {"root['life_span']": {'new_value': '1821–1957 |', 'old_value': '1821–1957'}, "root['stat_area1']": {'new_value': '207199 ', 'old_value': '207199'}, "root['stat_pop1']": {'new_value': '2080208<ref name', 'old_value': '2080208'}}}

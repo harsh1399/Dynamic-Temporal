@@ -1,0 +1,24 @@
+35: {'dictionary_item_removed': {"root['common_name']": 'Great Kyrgyz Khaganate', "root['status']": 'Empire', "root['religion']": 'Tengrism, Manicheism', "root['title_leader']": 'Kyrgyz Khagans', "root['leader1']": 'Barsbek Khan', "root['stat_area1']": '3100000', "root['today']": 'Kyrgyzstan, Mongolia, China, Kazakhstan, Russia'}}
+36: {'dictionary_item_added': {"root['title_leader']": 'Kyrgyz Khagans', "root['leader1']": 'Barsbek Khan'}, 'dictionary_item_removed': {"root['leader_name1']": 'Bars Bek', "root['leader_title1']": 'Khagan '}}
+51: {'values_changed': {"root['religion']": {'new_value': 'Tengrism, Manicheism', 'old_value': 'Tengrism'}, "root['stat_area1']": {'new_value': '3100000', 'old_value': '8000000'}}}
+52: {'values_changed': {"root['religion']": {'new_value': 'Tengrism', 'old_value': 'Tengrism, Manicheism'}, "root['stat_area1']": {'new_value': '8000000', 'old_value': '3100000'}}}
+53: {'values_changed': {"root['stat_area1']": {'new_value': '3100000', 'old_value': '8000000'}}}
+54: {'values_changed': {"root['stat_area1']": {'new_value': '8000000', 'old_value': '3100000'}}}
+55: {'dictionary_item_added': {"root['stat_area1']": '3100000', "root['today']": 'Kyrgyzstan, Mongolia, China, Kazakhstan, Russia'}, 'values_changed': {"root['religion']": {'new_value': 'Tengrism, Manicheism', 'old_value': 'Tengrism'}}}
+95: {'values_changed': {"root['leader_name1']": {'new_value': 'Bars Bek', 'old_value': 'Bars Bek (first)'}}}
+96: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Tengrism (official)', 'Buddhism'], 'new_value': 'Tengrism'}}, 'values_changed': {"root['status']": {'new_value': 'Empire', 'old_value': 'Khaganate (Nomadic empire)'}}}
+97: {'values_changed': {"root['religion'][0]": {'new_value': 'Tengrism (official)', 'old_value': 'Tengrism'}, "root['leader_name1']": {'new_value': 'Bars Bek (first)', 'old_value': 'Bars Bek '}}}
+100: {'iterable_item_removed': {"root['religion'][2]": 'Islam'}}
+101: {'values_changed': {"root['religion'][1]": {'new_value': 'Buddhism', 'old_value': 'Buddhism, Islam'}}, 'iterable_item_added': {"root['religion'][2]": 'Islam'}}
+102: {'iterable_item_added': {"root['religion'][1]": 'Buddhism, Islam'}}
+103: {'type_changes': {"root['religion']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Tengrism ', 'new_value': ['Tengrism']}}, 'dictionary_item_added': {"root['leader_name1']": 'Bars Bek ', "root['leader_title1']": 'Khagan '}}
+104: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Tengrism', 'Buddhism', 'Islam'], 'new_value': 'Tengrism '}}, 'dictionary_item_removed': {"root['leader_name1']": 'Bars Bek ', "root['leader_title1']": 'Khagan '}}
+105: {'values_changed': {"root['religion'][1]": {'new_value': 'Buddhism', 'old_value': 'Buddhism Islam'}}, 'iterable_item_added': {"root['religion'][2]": 'Islam'}}
+106: {'values_changed': {"root['religion'][1]": {'new_value': 'Buddhism Islam', 'old_value': 'Buddhism'}}}
+107: {'dictionary_item_removed': {"root['leader_name2']": 'Yingwu '}}
+108: {'dictionary_item_added': {"root['leader_name1']": 'Bars Bek ', "root['leader_name2']": 'Yingwu ', "root['leader_title1']": 'Khagan '}, 'dictionary_item_removed': {"root['title_leader']": 'Khagan', "root['leader1']": 'Bars Bek ', "root['leader2']": 'Yingwu '}}
+143: {'iterable_item_removed': {"root['religion'][2]": 'Manichaeism'}}
+147: {'dictionary_item_removed': {"root['official_languages']": 'Orkhon Turkic language'}}
+160: {'dictionary_item_added': {"root['official_languages']": 'Orkhon Turkic language'}, 'dictionary_item_removed': {"root['title_deputy']": 'Tarkhan', "root['deputy1']": 'Alp Sol Tepek', "root['year_deputy1']": '820 – 847'}}
+161: {'dictionary_item_removed': {"root['official_languages']": 'Orkhon Turkic language ,  Old Turkic language', "root['leader3']": 'Ajo Qaghan', "root['leader4']": 'Yingwu Qaghan', "root['today']": 'Russia ,  Mongolia ,  China ,  Kazakhstan ,  Kyrgyzstan'}, 'values_changed': {"root['leader1']": {'new_value': 'Bars Bek ', 'old_value': 'Bars Bek'}, "root['leader2']": {'new_value': 'Yingwu ', 'old_value': 'Bilge Tong Erkin'}, "root['year_deputy1']": {'new_value': '820 – 847', 'old_value': '820-847'}}}
+215: {'dictionary_item_added': {"root['official_languages']": 'Orkhon Turkic language ,  Old Turkic language', "root['leader3']": 'Ajo Qaghan', "root['leader4']": 'Yingwu Qaghan', "root['title_deputy']": 'Tarkhan', "root['deputy1']": 'Alp Sol Tepek', "root['year_deputy1']": '820-847', "root['today']": 'Russia ,  Mongolia ,  China ,  Kazakhstan ,  Kyrgyzstan'}, 'values_changed': {"root['leader1']": {'new_value': 'Bars Bek', 'old_value': 'Bars Bek '}, "root['leader2']": {'new_value': 'Bilge Tong Erkin', 'old_value': 'Yingwu '}}}

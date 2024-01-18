@@ -1,0 +1,4 @@
+2: {'dictionary_item_removed': {"root['common_name']": 'Zanzibar Sultanate  ', "root['continent']": 'Africa', "root['region']": 'East Africa', "root['status']": 'Independent(1856-1890), British Protectorate(1890-1963), Independent(1963/64)', "root['leader1']": 'Sultan', "root['religion']": 'Islam'}}
+7: {'values_changed': {"root['common_name']": {'new_value': 'Zanzibar Sultanate  ', 'old_value': 'Zanzibar Sultanate '}}}
+10: {'values_changed': {"root['status']": {'new_value': 'Independent(1856-1890), British Protectorate(1890-1963), Independent(1963/64)', 'old_value': 'Protectorate'}}}
+18: {'dictionary_item_removed': {"root['title_leader']": 'Sultan', "root['year_leader1']": '1856-1870', "root['leader2']": 'Jamshid bin Abdullah  (last)', "root['year_leader2']": '1963-1964'}, 'values_changed': {"root['leader1']": {'new_value': 'Sultan', 'old_value': 'Majid bin Said  (First)'}}}

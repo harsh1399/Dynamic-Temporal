@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Dervish', "root['continent']": 'Africa', "root['region']": 'Horn of Africa', "root['religion']": 'Islam'}}
+22: {'dictionary_item_removed': {"root['title_leader']": 'King', "root['leader1']": 'Mohammed Abdullah Hassan', "root['year_leader1']": '1896&ndash;1920'}}
+31: {'values_changed': {"root['year_leader1']": {'new_value': '1896&ndash;1920', 'old_value': '1897 &ndash;1920'}}}
+42: {'dictionary_item_added': {"root['continent']": 'Africa', "root['region']": 'Horn of Africa'}, 'values_changed': {"root['title_leader']": {'new_value': 'King', 'old_value': 'Mullah, Sayid'}, "root['year_leader1']": {'new_value': '1897 &ndash;1920', 'old_value': '1899-1920'}, "root['religion']": {'new_value': 'Islam', 'old_value': 'Islam with Sufi-orientation'}}}
+47: {'values_changed': {"root['religion']": {'new_value': 'Islam with Sufi-orientation', 'old_value': 'Islam with Sufism-orientation'}}}
+53: {'values_changed': {"root['common_name']": {'new_value': 'Dervish', 'old_value': 'Darwiish'}}}
+54: {'values_changed': {"root['common_name']": {'new_value': 'Darwiish', 'old_value': 'Dervish'}}}
+65: {'values_changed': {"root['title_leader']": {'new_value': 'Mullah, Sayid', 'old_value': 'Leader'}}}
+102: {'dictionary_item_removed': {"root['title_deputy']": 'Sultan', "root['deputy1']": 'Diiriye Guure', "root['year_deputy1']": '1899–1920'}, 'values_changed': {"root['title_leader']": {'new_value': 'Leader', 'old_value': 'Emir'}, "root['leader1']": {'new_value': 'Mohammed Abdullah Hassan', 'old_value': 'Sayid Muhammad Abdullah Hassan'}, "root['year_leader1']": {'new_value': '1899-1920', 'old_value': '1899–1920'}}}
+115: {'dictionary_item_removed': {"root['today']": 'Somalia, Somaliland, Ethiopia'}}
+120: {'dictionary_item_added': {"root['title_deputy']": 'Sultan', "root['deputy1']": 'Diiriye Guure', "root['year_deputy1']": '1899–1920', "root['today']": 'Somalia, Somaliland, Ethiopia'}, 'values_changed': {"root['title_leader']": {'new_value': 'Emir', 'old_value': 'Leader'}, "root['leader1']": {'new_value': 'Sayid Muhammad Abdullah Hassan', 'old_value': 'Mohammed Abdullah Hassan'}, "root['year_leader1']": {'new_value': '1899–1920', 'old_value': '1899-1920'}}}
+130: {'values_changed': {"root['religion']": {'new_value': 'Islam with Sufism-orientation', 'old_value': 'Sunni Islam'}}}
+131: {'values_changed': {"root['religion']": {'new_value': 'Sunni Islam', 'old_value': 'Islam with Sufism-orientation'}}}
+171: {'values_changed': {"root['religion']": {'new_value': 'Islam with Sufism-orientation', 'old_value': 'See religion'}}}
+174: {'values_changed': {"root['leader1']": {'new_value': 'Mohammed Abdullah Hassan', 'old_value': 'See polyarchy'}, "root['year_leader1']": {'new_value': '1899-1920', 'old_value': '1895-1920'}}}
+176: {'dictionary_item_removed': {"root['area_sq_mi']": '50,000 https://www.newspapers.com/clip/18743524/the-yates-center-news/'}}
+196: {'values_changed': {"root['title_leader']": {'new_value': 'Leader', 'old_value': 'chieftain, sultan, emir'}}}
+205: {'values_changed': {"root['title_leader']": {'new_value': 'chieftain, sultan, emir', 'old_value': 'Leader'}, "root['leader1']": {'new_value': 'See polyarchy', 'old_value': 'Mohammed Abdullah Hassan'}}}
+207: {'values_changed': {"root['title_leader']": {'new_value': 'Leader', 'old_value': 'chieftain , sultan , emir'}, "root['leader1']": {'new_value': 'Mohammed Abdullah Hassan', 'old_value': 'See polyarchy'}}}
+228: {'dictionary_item_added': {"root['religion']": 'See religion', "root['area_sq_mi']": '50,000 https://www.newspapers.com/clip/18743524/the-yates-center-news/'}, 'values_changed': {"root['title_leader']": {'new_value': 'chieftain , sultan , emir', 'old_value': 'Leader'}, "root['leader1']": {'new_value': 'See polyarchy', 'old_value': 'Mohammed Abdullah Hassan'}, "root['year_leader1']": {'new_value': '1895-1920', 'old_value': '1899-1920'}}}
+229: {'dictionary_item_removed': {"root['align']": 'right', "root['image1']": 'Sayyid Mohammed Abdullah Hassan.jpeg', "root['width1']": '150', "root['image2']": 'Mohammed Abdullah Hassan-dj.jpg', "root['width2']": '210', "root['author']": 'url'}}
+233: {'dictionary_item_added': {"root['align']": 'right', "root['image1']": 'Sayyid Mohammed Abdullah Hassan.jpeg', "root['width1']": '150', "root['image2']": 'Mohammed Abdullah Hassan-dj.jpg', "root['width2']": '210', "root['author']": 'url'}, 'values_changed': {"root['year_leader1']": {'new_value': '1899-1920', 'old_value': '1895-1920'}}}
+235: {'values_changed': {"root['year_leader1']": {'new_value': '1895-1920', 'old_value': '1899-1920'}}}
+247: {'dictionary_item_removed': {"root['today']": 'Somalia, Somaliland, Ethiopia'}}
+275: {'dictionary_item_removed': {"root['stat_pop1']": 'Population was around 900k-1m'}}
+276: {'values_changed': {"root['stat_pop1']": {'new_value': 'Population was around 900k-1m', 'old_value': 'Population was around 900k-1,000,000'}}}
+279: {'dictionary_item_removed': {"root['religion']": 'Islam', "root['demonym']": 'Dervisher'}}
+280: {'values_changed': {"root['stat_pop1']": {'new_value': 'Population was around 900k-1,000,000', 'old_value': 'Population was around 900k-1,000,000  There was 4,000+ Soldiers'}}}
+284: {'values_changed': {"root['stat_pop1']": {'new_value': 'Population was around 900k-1,000,000  There was 4,000+ Soldiers', 'old_value': 'Population was around 900k-1,000,000  There was 6,000+ Soldiers'}}}
+290: {'dictionary_item_removed': {"root['stat_year1']": 'There was 6,000+ Soldiers'}, 'values_changed': {"root['stat_pop1']": {'new_value': 'Population was around 900k-1,000,000  There was 6,000+ Soldiers', 'old_value': '900k-1,000,000  There was 6,000+ Soldiers'}}}
+291: {'dictionary_item_removed': {"root['stat_area4']": 'There was 6,000+ Soldiers'}, 'values_changed': {"root['stat_year1']": {'new_value': 'There was 6,000+ Soldiers', 'old_value': 'Population'}}}
+292: {'dictionary_item_added': {"root['stat_area4']": 'There was 6,000+ Soldiers'}, 'values_changed': {"root['stat_year1']": {'new_value': 'Population', 'old_value': 'Population and Forces'}, "root['stat_pop1']": {'new_value': '900k-1,000,000  There was 6,000+ Soldiers', 'old_value': 'Pop: 900k-1,000,000                               Soldiers:  6,000+'}}}
+295: {'dictionary_item_added': {"root['stat_year1']": 'Population and Forces', "root['religion']": 'Islam'}, 'values_changed': {"root['stat_pop1']": {'new_value': 'Pop: 900k-1,000,000                               Soldiers:  6,000+', 'old_value': 'aprox 1,000,000'}, "root['demonym']": {'new_value': 'Dervisher', 'old_value': 'Dervishy'}}}
+302: {'dictionary_item_removed': {"root['GDP_PPP_year']": 'File:Dervish Somali flag.png'}}
+304: {'dictionary_item_added': {"root['stat_pop1']": 'aprox 1,000,000', "root['GDP_PPP_year']": 'File:Dervish Somali flag.png'}, 'values_changed': {"root['year_leader1']": {'new_value': '1899-1920', 'old_value': '1899–1920'}, "root['today']": {'new_value': 'Somalia, Somaliland, Ethiopia', 'old_value': 'Somalia Somaliland Ethiopia'}}}
+311: {'dictionary_item_removed': {"root['GDP_PPP']": 'aprox 4.6 billion'}}

@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['demonym']": 'Athonite', "root['today']": 'Greece', "root['common_name']": 'Mount Athos'}}
+21: {'dictionary_item_removed': {"root['leader_title1']": 'Ecumenical Patriarch', "root['leader_name1']": 'Bartholomew I'}}
+22: {'dictionary_item_removed': {"root['leader_name2']": 'Elder Symeon of Dionysiou', "root['leader_title2']": 'Protepistate', "root['leader_name3']": 'Thanasis Martinos '}}
+23: {'dictionary_item_removed': {"root['area_km2']": '336'}, 'values_changed': {"root['leader_name3']": {'new_value': 'Thanasis Martinos ', 'old_value': 'Thanasis Martinos'}}}
+25: {'values_changed': {"root['leader_name3']": {'new_value': 'Thanasis Martinos', 'old_value': 'Athanasios Martinos'}}}
+33: {'dictionary_item_removed': {"root['flag_caption']": 'Flag of the Greek Orthodox Church used by the Monastic Republic '}}
+37: {'dictionary_item_added': {"root['flag_caption']": 'Flag of the Greek Orthodox Church used by the Monastic Republic '}, 'values_changed': {"root['demonym']": {'new_value': 'Athonite', 'old_value': 'Athonite, Agiorite'}}}
+38: {'dictionary_item_removed': {"root['population_estimate']": '2,000'}}
+41: {'dictionary_item_removed': {"root['leader_title3']": 'Civil Administrator'}, 'values_changed': {"root['population_estimate']": {'new_value': '2,000', 'old_value': '2,416'}}}
+95: {'dictionary_item_added': {"root['demonym']": 'Athonite, Agiorite'}, 'values_changed': {"root['common_name']": {'new_value': 'Mount Athos', 'old_value': 'Mount Athos Holly Mountain'}}}
+96: {'values_changed': {"root['common_name']": {'new_value': 'Mount Athos Holly Mountain', 'old_value': 'Mount Athos'}}}
+168: {'values_changed': {"root['common_name']": {'new_value': 'Mount Athos', 'old_value': 'Mount Athos | demonym                =  common_languages       = Languages:   Greek '}}}
+169: {'values_changed': {"root['common_name']": {'new_value': 'Mount Athos | demonym                =  common_languages       = Languages:   Greek ', 'old_value': 'Mount Athos'}}}
+236: {'dictionary_item_added': {"root['population_estimate']": '2,416'}, 'dictionary_item_removed': {"root['population']": '1779'}}
+237: {'dictionary_item_added': {"root['population']": '1779'}, 'dictionary_item_removed': {"root['population_estimate']": '2,416'}}
+250: {'values_changed': {"root['common_name']": {'new_value': 'Mount Athos', 'old_value': 'Athos'}}}
+253: {'dictionary_item_added': {"root['today']": 'Greece'}, 'dictionary_item_removed': {"root['status']": '= autonomous region of Greece'}}
+254: {'values_changed': {"root['status']": {'new_value': '= autonomous region of Greece', 'old_value': 'Autonomous region of Greece'}}}

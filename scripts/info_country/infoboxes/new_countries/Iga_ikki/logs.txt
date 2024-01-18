@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['capital_type']": 'Headquarters', "root['today']": 'Japan '}}
+8: {'dictionary_item_removed': {"root['religion']": 'Tendai Buddhism'}}
+11: {'type_changes': {"root['religion']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Tantric Buddhism', 'Shinto'], 'new_value': 'Tendai Buddhism'}}}
+18: {'type_changes': {"root['religion']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Shugendō (Tendai-Tantric Buddhism and Shinto)', 'new_value': ['Tantric Buddhism', 'Shinto']}}}

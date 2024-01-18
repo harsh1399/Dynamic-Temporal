@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Mujibnagar Government', "root['continent']": 'Asia', "root['status']": 'Exile', "root['leader1']": 'Sheikh Mujibur Rahman', "root['title_leader1']": 'President of Bangladesh', "root['leader2']": 'Syed Nazrul Islam (Acting)', "root['deputy1']": 'Tajuddin Ahmad', "root['title_deputy']": 'Prime Minister of Bangladesh |deputy2'}}
+1: {'values_changed': {"root['continent']": {'new_value': 'Asia', 'old_value': "''Asia''"}}}
+5: {'values_changed': {"root['continent']": {'new_value': "''Asia''", 'old_value': 'Asia'}}}
+7: {'dictionary_item_added': {"root['title_leader1']": 'President of Bangladesh', "root['leader2']": 'Syed Nazrul Islam (Acting)'}, 'dictionary_item_removed': {"root['title_leader']": 'President'}, 'values_changed': {"root['title_deputy']": {'new_value': 'Prime Minister of Bangladesh |deputy2', 'old_value': 'Prime Minister'}}}
+9: {'dictionary_item_removed': {"root['year_leader1']": '1971–1972'}, 'values_changed': {"root['status']": {'new_value': 'Exile', 'old_value': 'Provisional'}}}
+11: {'dictionary_item_added': {"root['year_leader1']": '1971–1972'}, 'dictionary_item_removed': {"root['title_representative']": 'Vice President', "root['representative1']": 'Syed Nazrul Islam'}}
+16: {'dictionary_item_added': {"root['title_representative']": 'Vice President', "root['representative1']": 'Syed Nazrul Islam'}, 'dictionary_item_removed': {"root['year_leader1']": '1971–1972'}}

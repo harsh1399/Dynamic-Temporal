@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Azerbaijan SSR', "root['continent']": 'Asia', "root['stat_year1']": '1989', "root['stat_area1']": '86600', "root['stat_pop1']": '7037867'}}
+1: {'dictionary_item_removed': {"root['life_span']": '1920&ndash;1922, 1936&ndash;1991'}}
+14: {'dictionary_item_removed': {"root['demonym']": 'Azerbaijani, Soviet', "root['leader1']": 'Mirza Davud Huseynov  (first)', "root['leader2']": 'Ayaz Mutallibov  (last)', "root['title_leader']": 'First Secretary', "root['year_leader1']": '1920', "root['year_leader2']": '1990&ndash;1991', "root['title_deputy']": 'Head of government', "root['deputy1']": 'Nariman Narimanov  (first)', "root['deputy2']": 'Hasan Hasanov  (last)', "root['year_deputy1']": '1920&ndash;1922', "root['year_deputy2']": '1990&ndash;1991'}, 'values_changed': {"root['stat_pop1']": {'new_value': '7037867', 'old_value': '7,037,867'}}}
+16: {'values_changed': {"root['title_deputy']": {'new_value': 'Head of government', 'old_value': 'Premier'}}}
+17: {'values_changed': {"root['title_leader']": {'new_value': 'First Secretary', 'old_value': 'Leader'}}}
+32: {'dictionary_item_added': {"root['continent']": 'Asia'}, 'values_changed': {"root['life_span']": {'new_value': '1920&ndash;1922, 1936&ndash;1991', 'old_value': '1920–1922, 1936–1991'}}}
+36: {'values_changed': {"root['life_span']": {'new_value': '1920–1922, 1936–1991', 'old_value': '1920–1922 1936–1991'}, "root['demonym']": {'new_value': 'Azerbaijani, Soviet', 'old_value': 'Azerbaijani Soviet'}}}
+47: {'dictionary_item_removed': {"root['status']": "Independent state (1920–1922) Part of the Transcaucasian SFSR (1922–1936) Union republic (1936–1991) ''De facto'' sovereign entity (1989–1991)"}}

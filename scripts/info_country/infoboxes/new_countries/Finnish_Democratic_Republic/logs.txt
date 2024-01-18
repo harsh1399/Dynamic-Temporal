@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['common_name']": "Finnish People's Republic", "root['status']": 'Puppet state', "root['title_leader']": 'Prime Minister', "root['leader1']": 'Otto Wille Kuusinen', "root['year_leader1']": '1939&ndash;1940', "root['today']": 'Russia '}}
+1: {'values_changed': {"root['common_name']": {'new_value': "Finnish People's Republic", 'old_value': 'Finnish Democratic Republic'}}}
+7: {'dictionary_item_removed': {"root['largest_city']": 'Helsinki'}}
+32: {'dictionary_item_added': {"root['largest_city']": 'Helsinki'}, 'values_changed': {"root['year_leader1']": {'new_value': '1939&ndash;1940', 'old_value': '1939–1940'}}}

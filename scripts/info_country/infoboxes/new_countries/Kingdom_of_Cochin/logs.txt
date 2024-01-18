@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Cochin', "root['status']": 'Protectorate', "root['today']": 'India', "root['demonym']": '|area_km2'}}
+3: {'dictionary_item_removed': {"root['religion']": "'''Majority''':Hinduism  (official)  ,  '''Minority''': , Saint Thomas Christians, Cochin Jews"}}
+10: {'values_changed': {"root['religion']": {'new_value': "'''Majority''':Hinduism  (official)  ,  '''Minority''': , Saint Thomas Christians, Cochin Jews", 'old_value': "'''Majority''':Hinduism  (official)  ,  '''Minority''': , Saint Thomas Christians, Mappilas, Cochin Jews"}}}
+53: {'values_changed': {"root['religion']": {'new_value': "'''Majority''':Hinduism  (official)  ,  '''Minority''': , Saint Thomas Christians, Mappilas, Cochin Jews", 'old_value': 'Hinduism'}}}
+61: {'values_changed': {"root['religion']": {'new_value': 'Hinduism', 'old_value': "'''Majority''':Hinduism  (official)    '''Minority''': , Christianity Islam Judaism"}}}
+90: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'dictionary_item_removed': {"root['GDP_PPP']": '600.03 crores USD'}, 'values_changed': {"root['religion']": {'new_value': "'''Majority''':Hinduism  (official)    '''Minority''': , Christianity Islam Judaism", 'old_value': "'''Majority''':Hinduism  (official)    '''Minority''': , Christianity Judaism Islam"}}}
+102: {'dictionary_item_removed': {"root['Flag']": 'https://encrypted-tbn0.gstatic.com/images?q'}}
+104: {'dictionary_item_added': {"root['Flag']": 'https://encrypted-tbn0.gstatic.com/images?q'}, 'values_changed': {"root['religion']": {'new_value': "'''Majority''':Hinduism  (official)    '''Minority''': , Christianity Judaism Islam", 'old_value': "'''Majority''':Hinduism  (official)    '''Minority''':  Christianity Judaism Islam"}}}

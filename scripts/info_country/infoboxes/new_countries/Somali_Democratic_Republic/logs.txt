@@ -1,0 +1,16 @@
+1: {'dictionary_item_removed': {"root['common_name']": 'Somalia', "root['continent']": 'Africa', "root['region']": 'Horn of Africa', "root['country']": 'Somalia', "root['title_leader']": 'President', "root['leader1']": 'Siad Barre a', "root['year_leader1']": '1969&ndash;1991', "root['title_deputy']": 'Prime Minister', "root['deputy1']": 'Mohamed Farah Salad', "root['year_deputy1']": '1969&ndash;1970', "root['deputy2']": 'Muhammad Hawadle Madar', "root['year_deputy2']": '1990&ndash;1991', "root['stat_year1']": '1972', "root['stat_area1']": '637657', "root['stat_pop1']": '2941000', "root['stat_year2']": '1991', "root['stat_area2']": '637657', "root['stat_pop2']": '6709161', "root['religion']": 'Islam '}}
+13: {'dictionary_item_added': {"root['continent']": 'Africa', "root['region']": 'Horn of Africa', "root['country']": 'Somalia'}, 'values_changed': {"root['religion']": {'new_value': 'Islam ', 'old_value': 'Islam'}}}
+18: {'values_changed': {"root['stat_pop1']": {'new_value': '2941000', 'old_value': '2,941,000'}, "root['stat_pop2']": {'new_value': '6709161', 'old_value': '6,709,161'}}}
+36: {'dictionary_item_removed': {"root['today']": 'Somalia, Somaliland b'}}
+45: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'state atheist-Islam'}}}
+46: {'values_changed': {"root['religion']": {'new_value': 'state atheist-Islam', 'old_value': 'state atheist Islam'}}}
+47: {'values_changed': {"root['religion']": {'new_value': 'state atheist Islam', 'old_value': 'Islam'}}}
+48: {'values_changed': {"root['religion']": {'new_value': 'Islam', 'old_value': 'state atheist Islam'}}}
+49: {'dictionary_item_removed': {"root['stat_area3']": '637657', "root['stat_year3']": '1991 |'}, 'values_changed': {"root['year_leader1']": {'new_value': '1969&ndash;1991', 'old_value': '1969–1991'}, "root['year_deputy1']": {'new_value': '1969&ndash;1970', 'old_value': '1969–1970'}, "root['year_deputy2']": {'new_value': '1990&ndash;1991', 'old_value': '1990–1991'}, "root['stat_year2']": {'new_value': '1991', 'old_value': '1977 '}, "root['stat_area2']": {'new_value': '637657', 'old_value': '957657'}, "root['religion']": {'new_value': 'state atheist Islam', 'old_value': 'Islam'}}}
+55: {'values_changed': {"root['today']": {'new_value': 'Somalia, Somaliland b', 'old_value': 'Somalia,'}}}
+56: {'values_changed': {"root['today']": {'new_value': 'Somalia,', 'old_value': 'Somalia, Somaliland b'}}}
+58: {'values_changed': {"root['today']": {'new_value': 'Somalia, Somaliland b', 'old_value': 'Somalia<br/'}}}
+59: {'values_changed': {"root['today']": {'new_value': 'Somalia<br/', 'old_value': 'Somalia, Somaliland b'}}}
+60: {'values_changed': {"root['today']": {'new_value': 'Somalia, Somaliland b', 'old_value': 'Somalia<br/'}}}
+61: {'values_changed': {"root['today']": {'new_value': 'Somalia<br/', 'old_value': 'Somalia, Somaliland b'}}}
+63: {'values_changed': {"root['deputy1']": {'new_value': 'Mohamed Farah Salad', 'old_value': 'Mohamed Farah Salad (first)'}, "root['deputy2']": {'new_value': 'Muhammad Hawadle Madar', 'old_value': 'Muhammad Hawadle Madar (last)'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Yemen, Democratic Republic of', "root['continent']": 'Asia', "root['region']": 'Middle East', "root['country']": 'Yemen', "root['status']": 'Unrecognized state', "root['title_leader']": 'President', "root['leader1']": 'Ali Salim al-Beidh', "root['year_leader1']": '1994', "root['title_deputy']": 'Prime Minister', "root['year_deputy1']": '1994', "root['stat_year1']": '1994', "root['stat_area1']": '332970'}}
+5: {'values_changed': {"root['status']": {'new_value': 'Unrecognized state', 'old_value': 'Unrecognized state, Unitary Marxist–Leninist http://www.la-croix.com/Monde/Moyen-Orient/Au-Yemen-l-i'}}}
+6: {'values_changed': {"root['status']": {'new_value': 'Unrecognized state, Unitary Marxist–Leninist http://www.la-croix.com/Monde/Moyen-Orient/Au-Yemen-l-i', 'old_value': 'Unrecognized state'}}}
+12: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Middle East', "root['country']": 'Yemen'}, 'dictionary_item_removed': {"root['demonym']": '|area_km2'}}
+21: {'dictionary_item_added': {"root['demonym']": '|area_km2'}, 'dictionary_item_removed': {"root['HDI']": '|image_map'}}

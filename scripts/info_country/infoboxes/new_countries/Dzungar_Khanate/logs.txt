@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['common_name']": 'Zunghars', "root['continent']": 'Asia', "root['region']": 'Central Asia', "root['country']": 'Mongolia', "root['status']": 'Khanate', "root['religion']": 'Buddhism', "root['title_leader']": 'Khan or Khong Tayiji'}}
+29: {'values_changed': {"root['status']": {'new_value': 'Khanate', 'old_value': 'nomadic empire'}}}
+63: {'values_changed': {"root['common_name']": {'new_value': 'Zunghars', 'old_value': 'Dzungars'}}}
+72: {'dictionary_item_removed': {"root['stat_year1']": 'early 18th century', "root['stat_area1']": '3800000'}}
+73: {'values_changed': {"root['status']": {'new_value': 'nomadic empire', 'old_value': 'khaganate'}, "root['stat_year1']": {'new_value': 'early 18th century', 'old_value': '18th century'}}}
+77: {'dictionary_item_added': {"root['stat_year1']": '18th century', "root['stat_area1']": '3800000'}, 'values_changed': {"root['religion']": {'new_value': 'Buddhism', 'old_value': 'Tibetan Buddhism'}}}
+124: {'dictionary_item_added': {"root['continent']": 'Asia', "root['region']": 'Central Asia', "root['country']": 'Mongolia'}, 'dictionary_item_removed': {"root['linking_name']": 'Dzungars', "root['stat_pop1']": '600,000', "root['today']": 'China Kazakhstan Kyrgyzstan Mongolia '}, 'values_changed': {"root['common_name']": {'new_value': 'Dzungars', 'old_value': 'Dzungars (Зүүн гар)'}, "root['status']": {'new_value': 'khaganate', 'old_value': 'Nomadic empire'}}}
+135: {'values_changed': {"root['today']": {'new_value': 'China Kazakhstan Kyrgyzstan Mongolia ', 'old_value': 'China Kazakhstan Kyrgyzstan Mongolia Russia '}}}

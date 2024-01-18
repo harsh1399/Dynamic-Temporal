@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['fullName']": 'Russian Empire', "root['shortName']": 'Russian Empire', "root['status']": 'Current', "root['secondImageType']": 'Coat of arms', "root['purpOrgStruct']": 'constitutional monarchy', "root['foundationDate']": '20 July 2011', "root['areaClaimed']": '550 m 2', "root['population']": '?', "root['language']": 'Russian'}}
+3: {'values_changed': {"root['areaClaimed']": {'new_value': '550 m 2', 'old_value': '168 acres'}}}
+18: {'dictionary_item_added': {"root['fullName']": 'Russian Empire', "root['shortName']": 'Russian Empire', "root['secondImageType']": 'Coat of arms', "root['purpOrgStruct']": 'constitutional monarchy', "root['foundationDate']": '20 July 2011', "root['areaClaimed']": '168 acres', "root['population']": '?', "root['language']": 'Russian'}, 'dictionary_item_removed': {"root['leader_title1']": 'Emperor', "root['leader_name1']": 'Nicholas III a', "root['leader_title2']": 'Archchancellor', "root['leader_name2']": 'Anton Bakov', "root['nummembers']": '~4,000 b', "root['official_languages']": 'Russian', "root['religion']": 'Official, Eastern Orthodox'}}
+58: {'values_changed': {"root['religion']": {'new_value': 'Official, Eastern Orthodox', 'old_value': 'Eastern Orthodox (official)'}}}
+60: {'dictionary_item_removed': {"root['common_name']": 'Romanov Empire'}}
+61: {'dictionary_item_removed': {"root['population']": '5,000'}}
+64: {'values_changed': {"root['leader_name2']": {'new_value': 'Anton Bakov', 'old_value': 'Prince Anton Bakov'}}}
+77: {'dictionary_item_added': {"root['population']": '5,000'}, 'dictionary_item_removed': {"root['population_estimate']": '5,000'}}
+82: {'values_changed': {"root['nummembers']": {'new_value': '~4,000 b', 'old_value': '~5,000 b'}}}
+97: {'dictionary_item_removed': {"root['area_km2']": '10', "root['ethnic_groups']": 'Russians', "root['pushpin_map']": 'Gambia', "root['pushpin_label_position']": 'bottom', "root['pushpin_map_caption']": 'Location in the Gambia'}}
+98: {'dictionary_item_removed': {"root['sovereignty_type']": 'Independence'}}
+104: {'dictionary_item_added': {"root['pushpin_map']": 'Gambia', "root['pushpin_label_position']": 'bottom', "root['pushpin_map_caption']": 'Location in the Gambia'}, 'dictionary_item_removed': {"root['caption_map']": 'The Gambia'}}
+126: {'dictionary_item_added': {"root['caption_map']": 'The Gambia'}, 'values_changed': {"root['ethnic_groups']": {'new_value': 'Russians', 'old_value': 'True Slavs'}}}
+127: {'values_changed': {"root['ethnic_groups']": {'new_value': 'True Slavs', 'old_value': 'Russians'}}}
