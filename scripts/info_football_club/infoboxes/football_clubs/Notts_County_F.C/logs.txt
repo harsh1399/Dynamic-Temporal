@@ -1,0 +1,188 @@
+257: {'dictionary_item_removed': {"root['clubname']": 'Notts County', "root['ground']": 'Meadow Lane Nottingham', "root['capacity']": '20,229', "root['coordinates']": 'coord', "root['owner']": 'Alan hardy', "root['chairman']": 'Alan hardy', "root['manager']": 'John sheridan (footballer)', "root['league']": 'Football League Two', "root['season']": '2015–16 Football League Two', "root['position']": 'League Two, 17th', "root['current']": '2016–17 Notts County F.C. season'}}
+258: {'values_changed': {"root['owner']": {'new_value': 'Alan hardy', 'old_value': 'Ray Trew'}, "root['chairman']": {'new_value': 'Alan hardy', 'old_value': 'Ray Trew'}, "root['manager']": {'new_value': 'John sheridan (footballer)', 'old_value': 'John Sheridan (footballer)'}}}
+260: {'values_changed': {"root['manager']": {'new_value': 'John Sheridan (footballer)', 'old_value': 'Currently None'}}}
+261: {'values_changed': {"root['manager']": {'new_value': 'Currently None', 'old_value': "''Vacant''"}}}
+262: {'values_changed': {"root['owner']": {'new_value': 'Ray Trew', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Ray Trew', 'old_value': 'Alan Hardy'}}}
+268: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Alan Smith (caretaker)'}}}
+272: {'values_changed': {"root['manager']": {'new_value': 'Alan Smith (caretaker)', 'old_value': 'Alan Smith (footballer, born 1980)'}}}
+290: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Ray Trew'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Ray Trew'}}}
+291: {'values_changed': {"root['owner']": {'new_value': 'Ray Trew', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Ray Trew', 'old_value': 'Alan Hardy'}}}
+299: {'values_changed': {"root['manager']": {'new_value': 'Alan Smith (footballer, born 1980)', 'old_value': 'Ryan Giggs'}}}
+300: {'values_changed': {"root['manager']": {'new_value': 'Ryan Giggs', 'old_value': 'Alan Smith (footballer, born 1980)'}}}
+303: {'values_changed': {"root['manager']": {'new_value': 'Alan Smith (footballer, born 1980)', 'old_value': 'Kevin Nolan'}}}
+342: {'type_changes': {"root['manager']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['', 'k all'], 'new_value': 'Kevin Nolan'}}, 'values_changed': {"root['ground']": {'new_value': 'Meadow Lane Nottingham', 'old_value': 'Murder Lane Nottingham'}, "root['position']": {'new_value': 'League Two, 17th', 'old_value': 'League Two, 17th (MANSFIELD ARE 8th!)'}}}
+343: {'type_changes': {"root['manager']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Kevin Nolan', 'new_value': ['', 'k all']}}, 'values_changed': {"root['ground']": {'new_value': 'Murder Lane Nottingham', 'old_value': 'Meadow Lane Nottingham'}, "root['position']": {'new_value': 'League Two, 17th (MANSFIELD ARE 8th!)', 'old_value': 'League Two, 17th'}}}
+388: {'values_changed': {"root['season']": {'new_value': '2015–16 Football League Two', 'old_value': '2016–17 Football League Two'}, "root['position']": {'new_value': 'League Two, 17th', 'old_value': 'League Two, 16th'}}}
+428: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Notts County City FC'}}}
+429: {'values_changed': {"root['clubname']": {'new_value': 'Notts County City FC', 'old_value': 'Notts County'}}}
+457: {'values_changed': {"root['position']": {'new_value': 'League Two, 16th', 'old_value': 'League Two, 23rd'}}}
+458: {'values_changed': {"root['position']": {'new_value': 'League Two, 23rd', 'old_value': 'League Two, 16th'}}}
+460: {'values_changed': {"root['season']": {'new_value': '2016–17 Football League Two', 'old_value': '2017–18 Football League Two'}, "root['current']": {'new_value': '2016–17 Notts County F.C. season', 'old_value': '2017–18 Notts County F.C. season'}}}
+461: {'values_changed': {"root['position']": {'new_value': 'League Two, 16th', 'old_value': '2016-17 League Two, 16th'}}}
+462: {'values_changed': {"root['position']": {'new_value': '2016-17 League Two, 16th', 'old_value': '16th (2016-17 season)'}}}
+463: {'values_changed': {"root['season']": {'new_value': '2017–18 Football League Two', 'old_value': '2016–17 Football League Two'}, "root['position']": {'new_value': '16th (2016-17 season)', 'old_value': '16th (Football League Two)'}}}
+464: {'values_changed': {"root['position']": {'new_value': '16th (Football League Two)', 'old_value': 'League Two, 16th'}}}
+471: {'dictionary_item_removed': {"root['surface']": 'Grass'}}
+500: {'dictionary_item_added': {"root['surface']": 'Grass'}, 'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan', 'old_value': 'Kevin Nolan (player-manager)'}}}
+501: {'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan (player-manager)', 'old_value': 'Kevin Nolan'}}}
+509: {'values_changed': {"root['capacity']": {'new_value': '20,229', 'old_value': '2'}}}
+511: {'values_changed': {"root['capacity']": {'new_value': '2', 'old_value': '20,229'}}}
+512: {'values_changed': {"root['capacity']": {'new_value': '20,229', 'old_value': '1'}}}
+513: {'values_changed': {"root['capacity']": {'new_value': '1', 'old_value': '20,229'}}}
+527: {'values_changed': {"root['capacity']": {'new_value': '20,229', 'old_value': '19841'}}}
+528: {'values_changed': {"root['capacity']": {'new_value': '19841', 'old_value': '19,841'}}}
+531: {'values_changed': {"root['league']": {'new_value': 'Football League Two', 'old_value': 'EFL League Two'}}}
+561: {'values_changed': {"root['season']": {'new_value': '2016–17 Football League Two', 'old_value': '2017–18 Football League Two'}, "root['position']": {'new_value': 'League Two, 16th', 'old_value': 'League Two, 5th'}}}
+562: {'values_changed': {"root['league']": {'new_value': 'EFL League Two', 'old_value': 'English football updater'}, "root['season']": {'new_value': '2017–18 Football League Two', 'old_value': 'English football updater'}, "root['position']": {'new_value': 'League Two, 5th', 'old_value': 'English football updater'}}}
+617: {'values_changed': {"root['current']": {'new_value': '2017–18 Notts County F.C. season', 'old_value': '2018–19 Notts County F.C. season'}}}
+652: {'values_changed': {"root['capacity']": {'new_value': '19,841', 'old_value': '0'}}}
+653: {'values_changed': {"root['capacity']": {'new_value': '0', 'old_value': '19,841'}}}
+675: {'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan', 'old_value': "Steve Chettle/Mark Crossley ''(Caretakers)''"}}}
+676: {'values_changed': {"root['manager']": {'new_value': "Steve Chettle/Mark Crossley ''(Caretakers)''", 'old_value': 'Jimmy Floyd Hasselbaink'}}}
+677: {'values_changed': {"root['manager']": {'new_value': 'Jimmy Floyd Hasselbaink', 'old_value': 'Mark Crossley caretaker'}}}
+678: {'values_changed': {"root['manager']": {'new_value': 'Mark Crossley caretaker', 'old_value': "Steve Chettle/Mark Crossley ''(Caretakers)''"}}}
+680: {'values_changed': {"root['manager']": {'new_value': "Steve Chettle/Mark Crossley ''(Caretakers)''", 'old_value': 'George Hardy #BeatGeorge'}}}
+681: {'values_changed': {"root['manager']": {'new_value': 'George Hardy #BeatGeorge', 'old_value': "Steve Chettle/Mark Crossley ''(Caretakers)''"}}}
+682: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Dougie Pullen'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Dougie Pullen'}, "root['manager']": {'new_value': "Steve Chettle/Mark Crossley ''(Caretakers)''", 'old_value': 'Dougie Pullen'}}}
+683: {'values_changed': {"root['owner']": {'new_value': 'Dougie Pullen', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Dougie Pullen', 'old_value': 'Alan Hardy'}, "root['manager']": {'new_value': 'Dougie Pullen', 'old_value': 'Vacant'}}}
+684: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Dougie Pullen'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Dougie Pullen'}, "root['manager']": {'new_value': 'Vacant', 'old_value': 'Dougie Pullen'}}}
+685: {'values_changed': {"root['owner']": {'new_value': 'Dougie Pullen', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Dougie Pullen', 'old_value': 'Alan Hardy'}, "root['manager']": {'new_value': 'Dougie Pullen', 'old_value': 'Vacant'}}}
+687: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Duplè Ole Guni'}}}
+688: {'values_changed': {"root['manager']": {'new_value': 'Duplè Ole Guni', 'old_value': 'Vacant'}}}
+689: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'George Hardy #BeatGeorge'}}}
+690: {'values_changed': {"root['manager']": {'new_value': 'George Hardy #BeatGeorge', 'old_value': 'Vacant'}}}
+693: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Alan Hardy'}}}
+697: {'values_changed': {"root['ground']": {'new_value': 'Meadow Lane Nottingham', 'old_value': 'Hardy Bowl Nottingham'}}}
+698: {'values_changed': {"root['ground']": {'new_value': 'Hardy Bowl Nottingham', 'old_value': 'Meadow Lane Nottingham'}}}
+699: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Alan Hardy’S parking ticket FC'}}}
+701: {'values_changed': {"root['clubname']": {'new_value': 'Alan Hardy’S parking ticket FC', 'old_value': 'Notts County'}}}
+704: {'values_changed': {"root['manager']": {'new_value': 'Alan Hardy', 'old_value': "Steve Chettle/Mark Crossley ''(Caretakers)''"}}}
+705: {'values_changed': {"root['manager']": {'new_value': "Steve Chettle/Mark Crossley ''(Caretakers)''", 'old_value': 'Steve Chettle / Mark Crossley (caretakers)'}}}
+706: {'values_changed': {"root['manager']": {'new_value': 'Steve Chettle / Mark Crossley (caretakers)', 'old_value': 'Harrison Holland'}}}
+707: {'values_changed': {"root['manager']": {'new_value': 'Harrison Holland', 'old_value': 'Optimistic Pie'}}}
+708: {'values_changed': {"root['manager']": {'new_value': 'Optimistic Pie', 'old_value': 'Harrison Holland'}}}
+709: {'values_changed': {"root['manager']": {'new_value': 'Harrison Holland', 'old_value': 'Steve Chettle / Mark Crossley (caretakers)'}}}
+713: {'values_changed': {"root['manager']": {'new_value': 'Steve Chettle / Mark Crossley (caretakers)', 'old_value': 'George Hardy / Mark Crossley (caretakers)'}}}
+716: {'values_changed': {"root['manager']": {'new_value': 'George Hardy / Mark Crossley (caretakers)', 'old_value': 'Steve Chettle / Mark Crossley (caretakers)'}}}
+719: {'values_changed': {"root['manager']": {'new_value': 'Steve Chettle / Mark Crossley (caretakers)', 'old_value': 'George Hardy'}}}
+720: {'values_changed': {"root['manager']": {'new_value': 'George Hardy', 'old_value': 'Steve Chettle / Mark Crossley (caretakers)'}}}
+728: {'values_changed': {"root['manager']": {'new_value': 'Steve Chettle / Mark Crossley (caretakers)', 'old_value': 'Harry Kewell'}}}
+748: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Dobrujan Mapping'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Dobrujan Mapping'}}}
+749: {'values_changed': {"root['owner']": {'new_value': 'Dobrujan Mapping', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Dobrujan Mapping', 'old_value': 'Alan Hardy'}}}
+750: {'values_changed': {"root['manager']": {'new_value': 'Harry Kewell', 'old_value': 'Kwikus Yutubus'}}}
+751: {'values_changed': {"root['manager']": {'new_value': 'Kwikus Yutubus', 'old_value': 'Harry Kewell'}}}
+752: {'values_changed': {"root['manager']": {'new_value': 'Harry Kewell', 'old_value': 'Vasy'}}}
+754: {'values_changed': {"root['manager']": {'new_value': 'Vasy', 'old_value': 'Harry Kewell'}}}
+768: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Fawaz Al Hardy'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Fawaz Al Hardy'}}}
+769: {'values_changed': {"root['owner']": {'new_value': 'Fawaz Al Hardy', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Fawaz Al Hardy', 'old_value': 'Alan Hardy'}}}
+770: {'values_changed': {"root['manager']": {'new_value': 'Harry Kewell', 'old_value': 'Vacant'}}}
+777: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Alan Hardy'}}}
+779: {'values_changed': {"root['manager']": {'new_value': 'Alan Hardy', 'old_value': 'Vacant'}}}
+788: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'vacant'}}}
+789: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Kevin nolan'}}}
+790: {'values_changed': {"root['manager']": {'new_value': 'Kevin nolan', 'old_value': 'Kevin Nolan'}}}
+791: {'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan', 'old_value': 'vacant'}}}
+793: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Vacant'}}}
+798: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Nottingham County'}, "root['ground']": {'new_value': 'Meadow Lane Nottingham', 'old_value': 'Mardy Lane Nottingham'}, "root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Alan Hardy The Clown (Social Hiatus)'}}}
+799: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham County', 'old_value': 'Notts County'}, "root['ground']": {'new_value': 'Mardy Lane Nottingham', 'old_value': 'Meadow Lane Nottingham'}, "root['owner']": {'new_value': 'Alan Hardy The Clown (Social Hiatus)', 'old_value': 'Alan Hardy'}}}
+800: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'neal Ardley'}}}
+801: {'values_changed': {"root['manager']": {'new_value': 'neal Ardley', 'old_value': 'Kevin Nolan'}}}
+802: {'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan', 'old_value': 'Alan Hardy'}}}
+803: {'values_changed': {"root['manager']": {'new_value': 'Alan Hardy', 'old_value': 'Kevin Nolan'}}}
+804: {'values_changed': {"root['manager']": {'new_value': 'Kevin Nolan', 'old_value': 'Vacant'}}}
+805: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Alan Smith'}}}
+807: {'values_changed': {"root['manager']": {'new_value': 'Alan Smith', 'old_value': 'Vacant'}}}
+808: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Neal Ardley'}}}
+809: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'Vacant'}}}
+811: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Neil Ardley'}}}
+813: {'values_changed': {"root['manager']": {'new_value': 'Neil Ardley', 'old_value': 'Neal Ardley'}}}
+846: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Alan The Baked Bean'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Alan The baked bean'}}}
+847: {'values_changed': {"root['owner']": {'new_value': 'Alan The Baked Bean', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Alan The baked bean', 'old_value': 'Alan Hardy'}}}
+886: {'values_changed': {"root['ground']": {'new_value': 'Meadow Lane Nottingham', 'old_value': 'Meadow Lane'}}}
+905: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'bill gates'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'bill gates'}, "root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'pep guardiola'}}}
+906: {'values_changed': {"root['owner']": {'new_value': 'bill gates', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'bill gates', 'old_value': 'Alan Hardy'}, "root['manager']": {'new_value': 'pep guardiola', 'old_value': 'Neal Ardley'}}}
+907: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'bill gates'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'bill gates'}}}
+908: {'values_changed': {"root['owner']": {'new_value': 'bill gates', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'bill gates', 'old_value': 'Alan Hardy'}}}
+909: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Alan Sugar'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Alan Sugar'}}}
+910: {'values_changed': {"root['owner']": {'new_value': 'Alan Sugar', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Alan Sugar', 'old_value': 'Alan Hardy'}}}
+957: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'Kieran Brown & Tom Brown'}}}
+960: {'values_changed': {"root['manager']": {'new_value': 'Kieran Brown & Tom Brown', 'old_value': 'Neal Ardley'}}}
+966: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Notts In football league'}}}
+967: {'values_changed': {"root['clubname']": {'new_value': 'Notts In football league', 'old_value': 'Notts County'}}}
+998: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Nottingham County'}}}
+999: {'values_changed': {"root['ground']": {'new_value': 'Meadow Lane', 'old_value': 'City ground'}}}
+1000: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham County', 'old_value': 'Notts County'}, "root['ground']": {'new_value': 'City ground', 'old_value': 'Meadow Lane'}}}
+1009: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Daniel tomlinson'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Thomas greasely'}, "root['league']": {'new_value': 'English football updater', 'old_value': 'premier league'}}}
+1010: {'values_changed': {"root['owner']": {'new_value': 'Daniel tomlinson', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Thomas greasely', 'old_value': 'Alan Hardy'}, "root['league']": {'new_value': 'premier league', 'old_value': 'English football updater'}}}
+1017: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'dan tomlinson'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'harrison naylor'}}}
+1018: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'spotty shilton'}}}
+1019: {'values_changed': {"root['clubname']": {'new_value': 'spotty shilton', 'old_value': 'big back honey'}}}
+1020: {'values_changed': {"root['chairman']": {'new_value': 'harrison naylor', 'old_value': 'Osama Bin Laden'}}}
+1021: {'values_changed': {"root['owner']": {'new_value': 'dan tomlinson', 'old_value': 'tom and gerry'}}}
+1022: {'values_changed': {"root['owner']": {'new_value': 'tom and gerry', 'old_value': 'dan tomlinson'}}}
+1023: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'mickey mouse'}}}
+1024: {'values_changed': {"root['manager']": {'new_value': 'mickey mouse', 'old_value': 'Neal Ardley'}}}
+1025: {'values_changed': {"root['clubname']": {'new_value': 'big back honey', 'old_value': 'Notts County'}, "root['owner']": {'new_value': 'dan tomlinson', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Osama Bin Laden', 'old_value': 'Alan Hardy'}}}
+1026: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Leigh Curtis'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Leigh Curtis'}}}
+1027: {'values_changed': {"root['owner']": {'new_value': 'Leigh Curtis', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Leigh Curtis', 'old_value': 'Alan Hardy'}}}
+1029: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'notts county'}, "root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'dan tomlinson'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'dan tomlinson'}}}
+1031: {'values_changed': {"root['owner']": {'new_value': 'dan tomlinson', 'old_value': 'peen head'}, "root['chairman']": {'new_value': 'dan tomlinson', 'old_value': 'peen head'}}}
+1032: {'values_changed': {"root['clubname']": {'new_value': 'notts county', 'old_value': 'Notts County'}, "root['owner']": {'new_value': 'peen head', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'peen head', 'old_value': 'Alan Hardy'}}}
+1035: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Bean Head Hardy'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Bean Head Hardy'}}}
+1036: {'values_changed': {"root['owner']": {'new_value': 'Bean Head Hardy', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Bean Head Hardy', 'old_value': 'Alan Hardy'}}}
+1038: {'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Mr blobby'}, "root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Mr blobby'}}}
+1039: {'values_changed': {"root['owner']": {'new_value': 'Mr blobby', 'old_value': 'Alan Hardy'}, "root['chairman']": {'new_value': 'Mr blobby', 'old_value': 'Alan Hardy'}}}
+1052: {'dictionary_item_added': {"root['chairman']": 'Alan Hardy'}, 'values_changed': {"root['owner']": {'new_value': 'Alan Hardy', 'old_value': 'Alexander and Christoffer Reedtz'}}}
+1057: {'dictionary_item_removed': {"root['chairman']": 'Christoffer Reedtz'}}
+1060: {'values_changed': {"root['chairman']": {'new_value': 'Christoffer Reedtz', 'old_value': 'Alan Hardy'}}}
+1061: {'values_changed': {"root['chairman']": {'new_value': 'Alan Hardy', 'old_value': 'Christoffer Reedtz'}}}
+1068: {'values_changed': {"root['current']": {'new_value': '2018–19 Notts County F.C. season', 'old_value': '2019–20 Notts County F.C. season'}}}
+1085: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'shitty County'}}}
+1086: {'values_changed': {"root['clubname']": {'new_value': 'shitty County', 'old_value': 'Notts County'}}}
+1097: {'dictionary_item_removed': {"root['align']": 'Level 1 of the football league system; L2', "root['8']": 'yes<ref name', "root['10']": 'Meadow Lane'}}
+1176: {'dictionary_item_added': {"root['current']": '2019–20 Notts County F.C. season', "root['align']": 'Level 1 of the football league system; L2', "root['8']": 'yes<ref name', "root['10']": 'Meadow Lane'}, 'values_changed': {"root['capacity']": {'new_value': '19,841', 'old_value': '20,229'}}}
+1177: {'values_changed': {"root['capacity']": {'new_value': '20,229', 'old_value': '19,841'}}}
+1179: {'values_changed': {"root['capacity']": {'new_value': '19,841', 'old_value': '20,229'}}}
+1180: {'values_changed': {"root['capacity']": {'new_value': '20,229', 'old_value': '19,841'}}}
+1199: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'Joe Briley'}}}
+1200: {'values_changed': {"root['manager']": {'new_value': 'Joe Briley', 'old_value': 'Neal Ardley'}}}
+1220: {'dictionary_item_removed': {"root['current']": '2020–21 Notts County F.C. season'}}
+1251: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'dave challinor best in non league'}}}
+1252: {'values_changed': {"root['manager']": {'new_value': 'dave challinor best in non league', 'old_value': 'Neal Ardley'}}}
+1311: {'values_changed': {"root['current']": {'new_value': '2020–21 Notts County F.C. season', 'old_value': '2020–21 National League'}}}
+1336: {'values_changed': {"root['owner']": {'new_value': 'Alexander and Christoffer Reedtz', 'old_value': 'Daniel tomlinson and Adolf hitler'}}}
+1337: {'values_changed': {"root['owner']": {'new_value': 'Daniel tomlinson and Adolf hitler', 'old_value': 'Alexander and Christoffer Reedtz'}}}
+1340: {'values_changed': {"root['ground']": {'new_value': 'Meadow Lane', 'old_value': 'City ground'}}}
+1341: {'values_changed': {"root['ground']": {'new_value': 'City ground', 'old_value': 'Meadow Lane'}}}
+1350: {'values_changed': {"root['manager']": {'new_value': 'Neal Ardley', 'old_value': 'vacant'}}}
+1354: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Ian Burchnall'}}}
+1356: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}
+1387: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Nottingham County'}}}
+1397: {'values_changed': {"root['current']": {'new_value': '2020–21 National League', 'old_value': '2021–22 Notts County F.C. season'}}}
+1414: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham County', 'old_value': 'Notts County'}}}
+1482: {'values_changed': {"root['manager']": {'new_value': 'Ian Burchnall', 'old_value': 'Luke Williams (footballer, born 1981)'}, "root['current']": {'new_value': '2021–22 Notts County F.C. season', 'old_value': '2022–23 National League'}}}
+1512: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Nonce County'}}}
+1513: {'values_changed': {"root['clubname']": {'new_value': 'Nonce County', 'old_value': 'Notts County'}}}
+1514: {'values_changed': {"root['clubname']": {'new_value': 'Notts County', 'old_value': 'Nottingham County (Forest are better)'}}}
+1515: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham County (Forest are better)', 'old_value': 'Nottingham County'}}}
+1516: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham County', 'old_value': 'Notts County'}}}
+1528: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'The'}}}
+1529: {'values_changed': {"root['league']": {'new_value': 'The', 'old_value': 'English football updater'}}}
+1530: {'values_changed': {"root['capacity']": {'new_value': '19,841', 'old_value': '500'}}}
+1531: {'values_changed': {"root['capacity']": {'new_value': '500', 'old_value': '19,841'}}}
+1572: {'values_changed': {"root['current']": {'new_value': '2022–23 National League', 'old_value': '2023–24 League Two'}}}
+1573: {'values_changed': {"root['current']": {'new_value': '2023–24 League Two', 'old_value': '2023–24 EFL League Two'}}}
+1579: {'values_changed': {"root['current']": {'new_value': '2023–24 EFL League Two', 'old_value': '2022–23 National League'}}}
+1614: {'values_changed': {"root['current']": {'new_value': '2022–23 National League', 'old_value': '2022–23 National League (P)'}}}
+1615: {'values_changed': {"root['current']": {'new_value': '2022–23 National League (P)', 'old_value': '2022–23 National League'}}}
+1637: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'EFL League Two'}}}
+1639: {'values_changed': {"root['league']": {'new_value': 'EFL League Two', 'old_value': 'English football updater'}}}
+1642: {'values_changed': {"root['current']": {'new_value': '2022–23 National League', 'old_value': '2023–24 EFL league two'}}}
+1644: {'values_changed': {"root['current']": {'new_value': '2023–24 EFL league two', 'old_value': '2022–23 National League'}}}
+1645: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'First team Manager'}}}
+1646: {'values_changed': {"root['mgrtitle']": {'new_value': 'First team Manager', 'old_value': 'First Team Manager'}}}
+1648: {'values_changed': {"root['mgrtitle']": {'new_value': 'First Team Manager', 'old_value': 'Head coach'}}}
+1652: {'values_changed': {"root['current']": {'new_value': '2022–23 National League', 'old_value': '2023–24 Notts County F.C. season'}}}
+1653: {'values_changed': {"root['current']": {'new_value': '2023–24 Notts County F.C. season', 'old_value': '2022–23 National League'}}}
+1672: {'values_changed': {"root['current']": {'new_value': '2022–23 National League', 'old_value': '2023–24 League Two'}}}
+1687: {'values_changed': {"root['current']": {'new_value': '2023–24 League Two', 'old_value': '2023–24 Notts County F.C. season'}}}

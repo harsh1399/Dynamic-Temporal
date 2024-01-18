@@ -1,0 +1,307 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Persija Jakarta', "root['ground']": 'Gelora Bung Karno Stadium', "root['capacity']": '77,193', "root['owner']": 'PT. Persija Jaya Jakarta', "root['chrtitle']": 'Director', "root['chairman']": 'Gede Widiade', "root['coach']": 'Stefano Cugurra Teco', "root['mgrtitle']": 'Team manager', "root['manager']": 'Ardhi Tjahjoko', "root['season']": '2018 Liga 1', "root['league']": 'Liga 1 (Indonesia)', "root['position']": 'Liga 1, 1st', "root['current']": '2018 Persija Jakarta season'}}
+2: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 1st', 'old_value': 'Liga 1, 1st (champion)'}}}
+3: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 1st (champion)', 'old_value': 'Liga 1, 1st'}}}
+12: {'values_changed': {"root['coach']": {'new_value': 'Stefano Cugurra Teco', 'old_value': 'vacant'}}}
+13: {'values_changed': {"root['coach']": {'new_value': 'vacant', 'old_value': 'Vacant'}}}
+20: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Ivan kolev'}}}
+21: {'values_changed': {"root['coach']": {'new_value': 'Ivan kolev', 'old_value': 'Vacant'}}}
+22: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+24: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 1st', 'old_value': 'Liga 1 (Indonesia)'}}}
+28: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Ivan Kolev'}}}
+30: {'values_changed': {"root['coach']": {'new_value': 'Ivan Kolev', 'old_value': 'Ivan Venkov Kolev'}}}
+40: {'values_changed': {"root['coach']": {'new_value': 'Ivan Venkov Kolev', 'old_value': "''Vacant''"}}}
+50: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Ivan Kolev'}}}
+60: {'values_changed': {"root['coach']": {'new_value': 'Ivan Kolev', 'old_value': "''Vacant''"}}}
+65: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Roberto Carlos'}}}
+66: {'values_changed': {"root['coach']": {'new_value': 'Roberto Carlos', 'old_value': "''vacant''"}}}
+72: {'values_changed': {"root['coach']": {'new_value': "''vacant''", 'old_value': 'Ivan Venkov Kolev'}}}
+149: {'values_changed': {"root['current']": {'new_value': '2018 Persija Jakarta season', 'old_value': '2019 Persija Jakarta season'}}}
+191: {'dictionary_item_added': {"root['ground']": 'Gelora Bung Karno Stadium', "root['capacity']": '77,193'}, 'values_changed': {"root['chairman']": {'new_value': 'Gede Widiade', 'old_value': 'Kokoh Alfiat'}}}
+198: {'dictionary_item_removed': {"root['ground']": 'Gelora Bung Karno Stadium', "root['capacity']": '77.193'}}
+256: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'JOKDRI FC'}}}
+257: {'values_changed': {"root['clubname']": {'new_value': 'JOKDRI FC', 'old_value': 'Persija Jakarta'}}}
+275: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakar'}}}
+276: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakar', 'old_value': 'Persija Jakarta'}}}
+328: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Tomo Stadium'}}}
+332: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Tomo Stadium', 'old_value': 'Gelora Bung Karno Stadium'}}}
+346: {'values_changed': {"root['chairman']": {'new_value': 'Kokoh Alfiat', 'old_value': 'PAPAH JOKDRI'}}}
+347: {'values_changed': {"root['chairman']": {'new_value': 'PAPAH JOKDRI', 'old_value': 'Kokoh Afiat'}}}
+357: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Patriot Candrabhaga'}, "root['capacity']": {'new_value': '77.193', 'old_value': '30.000'}}}
+358: {'values_changed': {"root['ground']": {'new_value': 'Patriot Candrabhaga', 'old_value': 'Patriot Candrabhaga Stadium'}}}
+360: {'values_changed': {"root['ground']": {'new_value': 'Patriot Candrabhaga Stadium', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '30.000', 'old_value': '77.149'}}}
+361: {'values_changed': {"root['capacity']": {'new_value': '77.149', 'old_value': '77.193'}}}
+380: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Jakarta International Stadium'}, "root['capacity']": {'new_value': '77.193', 'old_value': '82.000'}}}
+384: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'Patriot Stadium (Indonesia'}, "root['capacity']": {'new_value': '82.000', 'old_value': '30.000'}}}
+385: {'values_changed': {"root['ground']": {'new_value': 'Patriot Stadium (Indonesia', 'old_value': 'Patriot Stadium (Indonesia)'}}}
+389: {'values_changed': {"root['ground']": {'new_value': 'Patriot Stadium (Indonesia)', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '30.000', 'old_value': '70,000'}}}
+390: {'values_changed': {"root['capacity']": {'new_value': '70,000', 'old_value': '77,193'}}}
+393: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Karno Stadium, Patriot Candrabhaga Stadium'}}}
+397: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jabar'}, "root['ground']": {'new_value': 'Gelora Bung Karno Stadium, Patriot Candrabhaga Stadium', 'old_value': 'Pindah Pindah Stadium,'}, "root['capacity']": {'new_value': '77,193', 'old_value': 'free'}, "root['owner']": {'new_value': 'PT. Persija Jaya Jakarta', 'old_value': 'PT. Persija Jaya Jabar'}, "root['current']": {'new_value': '2019 Persija Jakarta season', 'old_value': '2019 Persija Jabar season'}}}
+398: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jabar', 'old_value': 'Persija Jakarta'}, "root['ground']": {'new_value': 'Pindah Pindah Stadium,', 'old_value': 'Gelora Bung Karno Stadium, Patriot Candrabhaga Stadium'}, "root['capacity']": {'new_value': 'free', 'old_value': '77,193'}, "root['owner']": {'new_value': 'PT. Persija Jaya Jabar', 'old_value': 'PT. Persija Jaya Jakarta'}, "root['current']": {'new_value': '2019 Persija Jabar season', 'old_value': '2019 Persija Jakarta season'}}}
+401: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium, Patriot Candrabhaga Stadium', 'old_value': 'Gelora Bung Karno Stadium'}}}
+421: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jabodetabek'}, "root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Karno, Stadion BMW, Bekasi Mukti Wibawa'}, "root['capacity']": {'new_value': '77,193', 'old_value': '30.500-77,193'}, "root['owner']": {'new_value': 'PT. Persija Jaya Jakarta', 'old_value': 'PT. Persija Jabodetabek'}}}
+423: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jabodetabek', 'old_value': 'Persija Jakarta'}, "root['ground']": {'new_value': 'Gelora Bung Karno, Stadion BMW, Bekasi Mukti Wibawa', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '30.500-77,193', 'old_value': '77,193'}, "root['owner']": {'new_value': 'PT. Persija Jabodetabek', 'old_value': 'PT. Persija Jaya Jakarta'}}}
+456: {'values_changed': {"root['coach']": {'new_value': 'Ivan Venkov Kolev', 'old_value': "''vacant''"}}}
+457: {'values_changed': {"root['coach']": {'new_value': "''vacant''", 'old_value': 'Julio Bañuelos'}}}
+459: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+460: {'dictionary_item_added': {"root['manager']": 'Ardhi Tjahjoko'}, 'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos Sáez'}}}
+461: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos Sáez', 'old_value': 'Miljan Radovic'}}}
+462: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos'}}}
+463: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+464: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos'}}}
+465: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+466: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos Sáez'}}}
+467: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos Sáez', 'old_value': 'Julio Bañuelos'}}}
+468: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+469: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos'}}}
+473: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+474: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Banuelos'}}}
+478: {'values_changed': {"root['coach']": {'new_value': 'Julio Banuelos', 'old_value': 'Miljan Radovic'}}}
+479: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos'}}}
+482: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Jakarta International Stadium'}}}
+483: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium'}}}
+486: {'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'Miljan Radovic'}}}
+487: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radovic', 'old_value': 'Julio Bañuelos'}}}
+497: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Karno Stadium Patriot Stadium (Indonesia)'}}}
+499: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium Patriot Stadium (Indonesia)', 'old_value': 'Gelora Bung Karno Stadium, Patriot Stadium (Indonesia)'}}}
+500: {'dictionary_item_removed': {"root['style']": '"text-align: left" |- !Period !Kit Provider |'}}
+504: {'dictionary_item_added': {"root['style']": '"text-align: left" |- !Period !Kit Provider |'}, 'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium, Patriot Stadium (Indonesia)', 'old_value': 'Gelora Bung Karno Stadium'}}}
+567: {'dictionary_item_added': {"root['capacity']": '77,193'}, 'values_changed': {"root['coach']": {'new_value': 'Julio Bañuelos', 'old_value': 'vacant'}}}
+571: {'values_changed': {"root['coach']": {'new_value': 'vacant', 'old_value': 'Sudirman (caretaker)'}}}
+579: {'dictionary_item_removed': {"root['CEO']": 'Ferry Paulus'}, 'values_changed': {"root['coach']": {'new_value': 'Sudirman (caretaker)', 'old_value': 'Edson Tavares'}}}
+618: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Karno Stadium, Jakarta International Stadium'}}}
+622: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta batavia'}}}
+624: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta batavia', 'old_value': 'Persija Jakarta'}}}
+631: {'values_changed': {"root['owner']": {'new_value': 'PT. Persija Jaya Jakarta', 'old_value': 'PT Persija Jaya Jakarta'}}}
+638: {'values_changed': {"root['season']": {'new_value': '2018 Liga 1', 'old_value': '2019 Liga 1'}}}
+659: {'dictionary_item_removed': {"root['capacity']": '77,193'}, 'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium, Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium'}}}
+669: {'values_changed': {"root['coach']": {'new_value': 'Edson Tavares', 'old_value': "''Vacant''"}}}
+676: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Pep Guardiola'}}}
+677: {'values_changed': {"root['coach']": {'new_value': 'Pep Guardiola', 'old_value': "''Vacant''"}}}
+678: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Simon McMenemy'}}}
+679: {'values_changed': {"root['coach']": {'new_value': 'Simon McMenemy', 'old_value': 'Ronaldo'}}}
+680: {'values_changed': {"root['coach']": {'new_value': 'Ronaldo', 'old_value': "''Vacant''"}}}
+681: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Simon McMenemy'}}}
+683: {'values_changed': {"root['coach']": {'new_value': 'Simon McMenemy', 'old_value': 'Djajang Nurdjaman'}}}
+684: {'dictionary_item_added': {"root['mgrtitle']": 'Team manager'}, 'values_changed': {"root['coach']": {'new_value': 'Djajang Nurdjaman', 'old_value': 'Josep Guardiola mgrtitle'}}}
+685: {'dictionary_item_removed': {"root['manager']": 'Ardhi Tjahjoko'}, 'values_changed': {"root['coach']": {'new_value': 'Josep Guardiola mgrtitle', 'old_value': 'Jose Mourinho'}}}
+686: {'values_changed': {"root['coach']": {'new_value': 'Jose Mourinho', 'old_value': 'Indra sjafri'}}}
+687: {'values_changed': {"root['coach']": {'new_value': 'Indra sjafri', 'old_value': 'Mauricio Pochettino'}}}
+688: {'values_changed': {"root['coach']": {'new_value': 'Mauricio Pochettino', 'old_value': 'Cak Lontong'}}}
+689: {'values_changed': {"root['coach']": {'new_value': 'Cak Lontong', 'old_value': 'Luis Milla'}}}
+690: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla', 'old_value': 'yan yan ruhiyan'}}}
+691: {'values_changed': {"root['coach']": {'new_value': 'yan yan ruhiyan', 'old_value': 'Rahmat Dahlan'}}}
+692: {'values_changed': {"root['coach']": {'new_value': 'Rahmat Dahlan', 'old_value': 'Umuh Muchtar'}}}
+693: {'values_changed': {"root['coach']": {'new_value': 'Umuh Muchtar', 'old_value': 'vacant'}}}
+694: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Jakarta International Stadium'}, "root['capacity']": {'new_value': '77,193', 'old_value': '88,193'}, "root['coach']": {'new_value': 'vacant', 'old_value': 'Ole Gunnar Solskjaer'}}}
+695: {'values_changed': {"root['coach']": {'new_value': 'Ole Gunnar Solskjaer', 'old_value': 'Ezechiel Ndouasel'}}}
+696: {'values_changed': {"root['coach']": {'new_value': 'Ezechiel Ndouasel', 'old_value': 'Sir Alex Ferguson'}}}
+697: {'values_changed': {"root['coach']": {'new_value': 'Sir Alex Ferguson', 'old_value': 'Hanoman Alua'}}}
+698: {'values_changed': {"root['coach']": {'new_value': 'Hanoman Alua', 'old_value': 'Eko Prasetyo'}}}
+699: {'values_changed': {"root['coach']": {'new_value': 'Eko Prasetyo', 'old_value': 'Humanerror_23'}}}
+700: {'values_changed': {"root['coach']": {'new_value': 'Humanerror_23', 'old_value': 'Clarence Seedorf'}}}
+701: {'values_changed': {"root['coach']": {'new_value': 'Clarence Seedorf', 'old_value': 'Kotong Rodrigues'}}}
+702: {'values_changed': {"root['coach']": {'new_value': 'Kotong Rodrigues', 'old_value': 'Damik'}}}
+703: {'values_changed': {"root['coach']": {'new_value': 'Damik', 'old_value': 'Danny Guthrie'}}}
+704: {'values_changed': {"root['coach']": {'new_value': 'Danny Guthrie', 'old_value': 'Jose Mourinho'}}}
+705: {'values_changed': {"root['coach']": {'new_value': 'Jose Mourinho', 'old_value': 'Carlton Cole'}}}
+706: {'values_changed': {"root['coach']": {'new_value': 'Carlton Cole', 'old_value': 'Admin Lambe turah Persija'}}}
+707: {'values_changed': {"root['coach']": {'new_value': 'Admin Lambe turah Persija', 'old_value': 'Sandiaga Uno'}}}
+708: {'values_changed': {"root['coach']": {'new_value': 'Sandiaga Uno', 'old_value': 'Anies Baswedan'}}}
+709: {'values_changed': {"root['coach']": {'new_value': 'Anies Baswedan', 'old_value': 'Bambang Pamungkas'}}}
+710: {'values_changed': {"root['coach']": {'new_value': 'Bambang Pamungkas', 'old_value': 'Park Kyung-Min'}}}
+711: {'values_changed': {"root['coach']": {'new_value': 'Park Kyung-Min', 'old_value': 'Inai emmery'}}}
+712: {'values_changed': {"root['CEO']": {'new_value': 'Ferry Paulus', 'old_value': 'Umuh Muchtar'}}}
+716: {'values_changed': {"root['CEO']": {'new_value': 'Umuh Muchtar', 'old_value': 'Ferry Paulus'}}}
+717: {'values_changed': {"root['coach']": {'new_value': 'Inai emmery', 'old_value': "''Vacant''"}}}
+718: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Jurgen klopp'}}}
+719: {'values_changed': {"root['coach']": {'new_value': 'Jurgen klopp', 'old_value': "''Vacant''"}}}
+720: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Anonymouse'}}}
+721: {'values_changed': {"root['coach']": {'new_value': 'Anonymouse', 'old_value': "''Vacant''"}}}
+722: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'luis mila'}}}
+723: {'values_changed': {"root['coach']": {'new_value': 'luis mila', 'old_value': 'luis milla'}}}
+728: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'GBK'}, "root['coach']": {'new_value': 'luis milla', 'old_value': 'Arsene Wenger'}}}
+730: {'values_changed': {"root['ground']": {'new_value': 'GBK', 'old_value': 'Jakarta International Stadium'}, "root['coach']": {'new_value': 'Arsene Wenger', 'old_value': 'luis milla'}}}
+731: {'values_changed': {"root['coach']": {'new_value': 'luis milla', 'old_value': "''Vacant''"}}}
+733: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium'}}}
+734: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Luis Mila'}}}
+735: {'values_changed': {"root['coach']": {'new_value': 'Luis Mila', 'old_value': 'Luis Mila Luis Mila'}}}
+736: {'values_changed': {"root['coach']": {'new_value': 'Luis Mila Luis Mila', 'old_value': 'Luis Milla'}}}
+739: {'values_changed': {"root['capacity']": {'new_value': '88,193', 'old_value': '77,193'}}}
+740: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jaya Jakarta', 'old_value': 'PT. Persija Jakarta Hebat'}}}
+743: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla', 'old_value': 'Pochettino'}}}
+744: {'values_changed': {"root['coach']": {'new_value': 'Pochettino', 'old_value': 'Mano Menezes'}}}
+746: {'values_changed': {"root['coach']": {'new_value': 'Mano Menezes', 'old_value': 'Simon McMenemy'}}}
+747: {'values_changed': {"root['coach']": {'new_value': 'Simon McMenemy', 'old_value': 'Mano Menezes'}}}
+752: {'values_changed': {"root['coach']": {'new_value': 'Mano Menezes', 'old_value': 'Atep'}}}
+753: {'values_changed': {"root['coach']": {'new_value': 'Atep', 'old_value': 'Atep and Hariono'}}}
+754: {'values_changed': {"root['owner']": {'new_value': 'PT. Persija Jakarta Hebat', 'old_value': 'PT. Persija Jakarta Hebat & The Onsu Family'}, "root['chairman']": {'new_value': 'Kokoh Afiat', 'old_value': 'Ruben Onsu'}, "root['CEO']": {'new_value': 'Ferry Paulus', 'old_value': 'Sarwendah Tan Onsu'}, "root['coach']": {'new_value': 'Atep and Hariono', 'old_value': 'Bertrand Peto Onsu'}, "root['manager']": {'new_value': 'Ardhi Tjahjoko', 'old_value': 'Jordi Onsu'}}}
+755: {'dictionary_item_added': {"root['CEO']": 'Sarwendah Tan Onsu'}, 'values_changed': {"root['owner']": {'new_value': 'PT. Persija Jakarta Hebat & The Onsu Family', 'old_value': 'PT. Persija Jakarta Hebat'}, "root['chairman']": {'new_value': 'Ruben Onsu', 'old_value': 'Ferry Paulus'}, "root['coach']": {'new_value': 'Bertrand Peto Onsu', 'old_value': 'Vacant'}, "root['manager']": {'new_value': 'Jordi Onsu', 'old_value': 'Ardi Tjahjokko'}}}
+756: {'values_changed': {"root['manager']": {'new_value': 'Ardi Tjahjokko', 'old_value': 'Ardi Tjahjoko'}}}
+760: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Miljan Radović'}}}
+761: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radović', 'old_value': "''Vacant''"}}}
+763: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': "''opalmart''"}}}
+764: {'values_changed': {"root['coach']": {'new_value': "''opalmart''", 'old_value': 'Adolfo Fatecha'}}}
+767: {'values_changed': {"root['coach']": {'new_value': 'Adolfo Fatecha', 'old_value': 'Miljan Radović'}}}
+771: {'values_changed': {"root['coach']": {'new_value': 'Miljan Radović', 'old_value': 'Vacant'}}}
+773: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'TBA'}}}
+776: {'values_changed': {"root['coach']": {'new_value': 'TBA', 'old_value': 'Reman Pribadi'}, "root['manager']": {'new_value': 'Ardi Tjahjoko', 'old_value': 'Ardhi Tjahjoko'}}}
+777: {'values_changed': {"root['coach']": {'new_value': 'Reman Pribadi', 'old_value': 'Simon McManemy'}}}
+778: {'values_changed': {"root['coach']": {'new_value': 'Simon McManemy', 'old_value': 'Mano Menezes'}}}
+781: {'values_changed': {"root['coach']": {'new_value': 'Mano Menezes', 'old_value': 'Alexandre Gallo'}}}
+784: {'values_changed': {"root['coach']": {'new_value': 'Alexandre Gallo', 'old_value': 'Simon'}}}
+785: {'values_changed': {"root['coach']": {'new_value': 'Simon', 'old_value': 'Alexander Gallo'}}}
+788: {'values_changed': {"root['coach']": {'new_value': 'Alexander Gallo', 'old_value': 'Vacant'}}}
+789: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Nelsinho Baptista'}}}
+791: {'values_changed': {"root['coach']": {'new_value': 'Nelsinho Baptista', 'old_value': 'Fakhri Husaini'}}}
+792: {'values_changed': {"root['owner']": {'new_value': 'PT. Persija Jakarta Hebat', 'old_value': 'Bakrie Group'}, "root['chairman']": {'new_value': 'Ferry Paulus', 'old_value': 'Lambe Turah Persija'}}}
+793: {'values_changed': {"root['owner']": {'new_value': 'Bakrie Group', 'old_value': 'PT.Persija Jakarta Hebat'}, "root['chairman']": {'new_value': 'Lambe Turah Persija', 'old_value': 'Ferry Paulus'}, "root['coach']": {'new_value': 'Fakhri Husaini', 'old_value': 'Vacant'}}}
+797: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Alexandre Gallo'}}}
+799: {'dictionary_item_removed': {"root['Campions']": '2001 Liga 1              2018 piala presiden              2018 Liga 1              2020 Liga 1'}, 'values_changed': {"root['season']": {'new_value': '2019 Liga 1', 'old_value': '2018 Liga 1'}}}
+803: {'dictionary_item_added': {"root['Campions']": '2001 Liga 1              2018 piala presiden              2018 Liga 1              2020 Liga 1'}, 'values_changed': {"root['coach']": {'new_value': 'Alexandre Gallo', 'old_value': 'Vacant'}, "root['season']": {'new_value': '2018 Liga 1', 'old_value': '2019 Liga 1'}}}
+805: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Mamet Delahoya'}}}
+806: {'values_changed': {"root['coach']": {'new_value': 'Mamet Delahoya', 'old_value': 'Vacant'}}}
+807: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Jose Mourinho'}}}
+808: {'values_changed': {"root['coach']": {'new_value': 'Jose Mourinho', 'old_value': 'Guus Hiddink'}}}
+809: {'values_changed': {"root['coach']": {'new_value': 'Guus Hiddink', 'old_value': 'Vacant'}}}
+810: {'values_changed': {"root['owner']": {'new_value': 'PT.Persija Jakarta Hebat', 'old_value': 'Bakrie Group'}, "root['chairman']": {'new_value': 'Ferry Paulus', 'old_value': 'Lambe_turahnya_Persija'}, "root['coach']": {'new_value': 'Vacant', 'old_value': 'STP1928'}}}
+811: {'values_changed': {"root['owner']": {'new_value': 'Bakrie Group', 'old_value': 'PT.Persija Jakarta Hebat'}, "root['chairman']": {'new_value': 'Lambe_turahnya_Persija', 'old_value': 'Ferry Paulus'}, "root['coach']": {'new_value': 'STP1928', 'old_value': 'Vacant'}}}
+817: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Jirayut Afisan'}}}
+820: {'values_changed': {"root['coach']": {'new_value': 'Jirayut Afisan', 'old_value': 'Luis Milla'}}}
+821: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla', 'old_value': 'Vacant'}}}
+825: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Luciano Leandro'}}}
+828: {'values_changed': {"root['coach']": {'new_value': 'Luciano Leandro', 'old_value': 'Angelos Postecoglou'}}}
+830: {'values_changed': {"root['coach']": {'new_value': 'Angelos Postecoglou', 'old_value': 'Vacant'}}}
+837: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Simon mc'}}}
+838: {'values_changed': {"root['coach']": {'new_value': 'Simon mc', 'old_value': 'sir alex ferguson'}}}
+839: {'values_changed': {"root['coach']": {'new_value': 'sir alex ferguson', 'old_value': 'Iwan Setiawan'}}}
+840: {'values_changed': {"root['coach']": {'new_value': 'Iwan Setiawan', 'old_value': 'simon'}}}
+841: {'values_changed': {"root['coach']": {'new_value': 'simon', 'old_value': 'Jurgen Klopp'}}}
+842: {'values_changed': {"root['coach']": {'new_value': 'Jurgen Klopp', 'old_value': 'simon'}}}
+843: {'values_changed': {"root['coach']": {'new_value': 'simon', 'old_value': 'Robero Carlos'}}}
+844: {'values_changed': {"root['coach']": {'new_value': 'Robero Carlos', 'old_value': 'Takuma Sato'}}}
+846: {'values_changed': {"root['coach']": {'new_value': 'Takuma Sato', 'old_value': 'Steve Blackman'}}}
+847: {'values_changed': {"root['coach']": {'new_value': 'Steve Blackman', 'old_value': 'Vlalimar Razigevic'}}}
+848: {'values_changed': {"root['coach']": {'new_value': 'Vlalimar Razigevic', 'old_value': 'Luis Milla'}}}
+849: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla', 'old_value': 'Pep Guardiola'}}}
+850: {'values_changed': {"root['coach']": {'new_value': 'Pep Guardiola', 'old_value': 'Luis Milla'}}}
+851: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla', 'old_value': 'Takuma Sato'}}}
+852: {'values_changed': {"root['coach']": {'new_value': 'Takuma Sato', 'old_value': 'Luis milla'}}}
+854: {'values_changed': {"root['coach']": {'new_value': 'Luis milla', 'old_value': 'simon mcmenemy'}}}
+855: {'values_changed': {"root['coach']": {'new_value': 'simon mcmenemy', 'old_value': '-'}}}
+856: {'values_changed': {"root['coach']": {'new_value': '-', 'old_value': 'Luis milla'}}}
+868: {'dictionary_item_added': {"root['coach']": 'Luis milla'}, 'values_changed': {"root['owner']": {'new_value': 'PT.Persija Jakarta Hebat', 'old_value': 'PT Persija Jakarta Hebat'}}}
+877: {'values_changed': {"root['manager']": {'new_value': 'Ardhi Tjahjoko', 'old_value': 'Bambang Pamungkas'}}}
+878: {'values_changed': {"root['manager']": {'new_value': 'Bambang Pamungkas', 'old_value': 'Sergio Farias'}}}
+879: {'dictionary_item_removed': {"root['coach']": 'Sergio Farias'}, 'values_changed': {"root['manager']": {'new_value': 'Sergio Farias', 'old_value': 'Ardhi Tjahjoko'}}}
+882: {'dictionary_item_added': {"root['coach']": 'Sergio Farias', "root['current']": '2019 Persija Jakarta season'}, 'values_changed': {"root['manager']": {'new_value': 'Ardhi Tjahjoko', 'old_value': 'Sergio Farias'}}}
+883: {'dictionary_item_removed': {"root['coach']": 'Sergio Farias', "root['current']": '2019 Persija Jakarta season'}, 'values_changed': {"root['manager']": {'new_value': 'Sergio Farias', 'old_value': 'Ardhi Tjahjoko'}}}
+901: {'values_changed': {"root['manager']": {'new_value': 'Ardhi Tjahjoko', 'old_value': 'Bambang Pamungkas'}}}
+903: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta-Lampung'}, "root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Sumpah Pemuda Stadium'}, "root['capacity']": {'new_value': '77,193', 'old_value': '30,000'}, "root['chairman']": {'new_value': 'Ferry Paulus', 'old_value': 'Nirwan Bakrie, Ferry Paulus'}, "root['current']": {'new_value': '2019 Persija Jakarta season', 'old_value': '2020 Persija Jakarta season'}}}
+905: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta-Lampung', 'old_value': 'Persija Lampung'}, "root['capacity']": {'new_value': '30,000', 'old_value': '45,000'}, "root['current']": {'new_value': '2020 Persija Jakarta season', 'old_value': '2020 Persija Lampung season'}}}
+907: {'dictionary_item_added': {"root['manager']": 'Bambang Pamungkas'}, 'values_changed': {"root['clubname']": {'new_value': 'Persija Lampung', 'old_value': 'Persija Jakarta'}, "root['ground']": {'new_value': 'Sumpah Pemuda Stadium', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '45,000', 'old_value': '77,193'}, "root['chairman']": {'new_value': 'Nirwan Bakrie, Ferry Paulus', 'old_value': 'Ferry Paulus'}, "root['current']": {'new_value': '2020 Persija Lampung season', 'old_value': '2020 Persija Jakarta season'}}}
+909: {'dictionary_item_removed': {"root['manager']": 'Ardhi Tjahjoko'}, 'values_changed': {"root['current']": {'new_value': '2020 Persija Jakarta season', 'old_value': '2019 Persija Jakarta season'}}}
+911: {'values_changed': {"root['current']": {'new_value': '2019 Persija Jakarta season', 'old_value': '2020 Persija Jakarta season'}}}
+915: {'values_changed': {"root['coach']": {'new_value': 'Sergio Farias', 'old_value': 'Olé Gunnar Solskjær'}}}
+916: {'values_changed': {"root['coach']": {'new_value': 'Olé Gunnar Solskjær', 'old_value': 'Sergio Farias'}}}
+918: {'values_changed': {"root['coach']": {'new_value': 'Sergio Farias', 'old_value': 'Kontol'}}}
+919: {'values_changed': {"root['coach']": {'new_value': 'Kontol', 'old_value': 'Sergio Farias'}}}
+921: {'values_changed': {"root['manager']": {'new_value': 'Ardhi Tjahjoko', 'old_value': 'Bambang Pamungkas'}}}
+923: {'values_changed': {"root['chairman']": {'new_value': 'Ferry Paulus', 'old_value': 'Muhammad Panca'}}}
+925: {'values_changed': {"root['chairman']": {'new_value': 'Muhammad Panca', 'old_value': 'Mohamad Prapanca'}}}
+927: {'values_changed': {"root['chairman']": {'new_value': 'Mohamad Prapanca', 'old_value': 'Ambono Januarianto'}}}
+928: {'dictionary_item_removed': {"root['leader_title']": 'President Club', "root['leader']": 'Mohamad Prapanca'}}
+945: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'PT Persija Jakarta Hebat & Nirwan Bakrie'}}}
+981: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Lampung'}, "root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Sumpah Pemuda Stadium'}, "root['capacity']": {'new_value': '77,193', 'old_value': '15,000'}, "root['current']": {'new_value': '2020 Persija Jakarta season', 'old_value': '2020 Persija Lampung season'}}}
+982: {'values_changed': {"root['clubname']": {'new_value': 'Persija Lampung', 'old_value': 'Persija Jakarta'}, "root['ground']": {'new_value': 'Sumpah Pemuda Stadium', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '15,000', 'old_value': '77,193'}, "root['current']": {'new_value': '2020 Persija Lampung season', 'old_value': '2020 Persija Jakarta season'}}}
+983: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat & Nirwan Bakrie', 'old_value': 'PT Persija Jakarta Hebat'}, "root['chairman']": {'new_value': 'Ambono Januarianto', 'old_value': 'Ambono Janurianto'}}}
+996: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'PT Persija Jakarta Hebat, Bakrie Group'}}}
+999: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat, Bakrie Group', 'old_value': 'PT Persija Jakarta Hebat'}}}
+1001: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'PT Persija Jakarta Hebat, Bakrie Group'}}}
+1002: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta Jakmania Rawa Belong'}}}
+1010: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta Jakmania Rawa Belong', 'old_value': 'Persija Jakarta'}}}
+1011: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat, Bakrie Group', 'old_value': 'PT Persija Jakarta Hebat'}}}
+1029: {'dictionary_item_added': {"root['coach']": 'Sergio Farias'}, 'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['chrtitle']": {'new_value': 'Director', 'old_value': 'CEO'}, "root['chairman']": {'new_value': 'Ambono Janurianto', 'old_value': 'Ferry Paulus'}, "root['manager']": {'new_value': 'Bambang Pamungkas', 'old_value': 'Sergio Farias'}}}
+1030: {'dictionary_item_removed': {"root['coach']": 'Sergio Farias'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Manager'}, "root['manager']": {'new_value': 'Sergio Farias', 'old_value': 'Bambang Pamungkas '}}}
+1031: {'values_changed': {"root['chrtitle']": {'new_value': 'CEO', 'old_value': 'CEO OlahRaga'}}}
+1034: {'values_changed': {"root['chrtitle']": {'new_value': 'CEO OlahRaga', 'old_value': 'CEO'}}}
+1042: {'dictionary_item_added': {"root['leader_title']": 'President Club', "root['leader']": 'Mohamad Prapanca'}, 'values_changed': {"root['chrtitle']": {'new_value': 'CEO', 'old_value': 'President'}, "root['chairman']": {'new_value': 'Ferry Paulus', 'old_value': 'Mohamad Prapanca'}}}
+1044: {'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'President Director'}, "root['chairman']": {'new_value': 'Mohamad Prapanca', 'old_value': 'Ambono Januarianto'}}}
+1054: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Lampung Sakti'}, "root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'PT Lampung Sakti Hebat'}, "root['current']": {'new_value': '2020 Persija Jakarta season', 'old_value': '2020 Lampung Sakti season'}}}
+1055: {'values_changed': {"root['clubname']": {'new_value': 'Lampung Sakti', 'old_value': 'Persija Jakarta'}, "root['owner']": {'new_value': 'PT Lampung Sakti Hebat', 'old_value': 'PT Persija Jakarta Hebat'}, "root['current']": {'new_value': '2020 Lampung Sakti season', 'old_value': '2020 Persija Jakarta season'}}}
+1318: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'Bakrie Group'}}}
+1319: {'values_changed': {"root['owner']": {'new_value': 'Bakrie Group', 'old_value': 'PT Persija Jakarta Hebat'}}}
+1341: {'dictionary_item_added': {"root['manager']": 'Bambang Pamungkas '}, 'values_changed': {"root['coach']": {'new_value': 'Sergio Farias', 'old_value': 'Vacant'}}}
+1342: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Sudirman'}}}
+1343: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Pahoman Stadium'}, "root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'Bakrie Group'}, "root['coach']": {'new_value': 'Sudirman', 'old_value': 'Rahmad Darmawan'}}}
+1344: {'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Bung Karno Stadium'}, "root['owner']": {'new_value': 'Bakrie Group', 'old_value': 'PT Persija Jakarta Hebat'}, "root['coach']": {'new_value': 'Rahmad Darmawan', 'old_value': 'Sudirman'}}}
+1351: {'values_changed': {"root['coach']": {'new_value': 'Sudirman', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1371: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Dejan Gluščević'}}}
+1374: {'values_changed': {"root['coach']": {'new_value': 'Dejan Gluščević', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1414: {'values_changed': {"root['current']": {'new_value': '2020 Persija Jakarta season', 'old_value': '2021 Persija Jakarta season'}}}
+1421: {'values_changed': {"root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'File:Shopee Liga 1 Logo.png'}}}
+1422: {'values_changed': {"root['league']": {'new_value': 'File:Shopee Liga 1 Logo.png', 'old_value': 'Liga 1 (Indonesia)'}}}
+1439: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Go Oiwa (footballer, born 1972)'}}}
+1440: {'values_changed': {"root['coach']": {'new_value': 'Go Oiwa (footballer, born 1972)', 'old_value': 'Luis Milla (footballer, born 1966)'}}}
+1443: {'values_changed': {"root['coach']": {'new_value': 'Luis Milla (footballer, born 1966)', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1445: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Henry Kurniawan'}}}
+1456: {'values_changed': {"root['coach']": {'new_value': 'Henry Kurniawan', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1457: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Henry Kurniawan'}}}
+1465: {'values_changed': {"root['coach']": {'new_value': 'Henry Kurniawan', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1471: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Angelo Alessio'}}}
+1557: {'values_changed': {"root['capacity']": {'new_value': '77,193', 'old_value': '120'}}}
+1560: {'values_changed': {"root['capacity']": {'new_value': '120', 'old_value': '77,193'}}}
+1587: {'values_changed': {"root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'Lukman Aman Japasal'}, "root['coach']": {'new_value': 'Angelo Alessio', 'old_value': 'Agus Jr'}, "root['season']": {'new_value': '2019 Liga 1', 'old_value': '2069 Liga 1'}, "root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 1 (India)'}, "root['position']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 1 (India)'}, "root['current']": {'new_value': '2021 Persija Jakarta season', 'old_value': '2069 Persija Jakarta season'}}}
+1588: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta kali ya'}, "root['chairman']": {'new_value': 'Ambono Januarianto', 'old_value': 'Mas Ndulimen Pancen Menolak Sambat'}}}
+1589: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta kali ya', 'old_value': 'Persija Jakarta'}, "root['chairman']": {'new_value': 'Mas Ndulimen Pancen Menolak Sambat', 'old_value': 'Ambono Januarianto'}}}
+1590: {'values_changed': {"root['owner']": {'new_value': 'Lukman Aman Japasal', 'old_value': 'PT Persija Jakarta Hebat'}, "root['coach']": {'new_value': 'Agus Jr', 'old_value': 'Angelo Alessio'}, "root['season']": {'new_value': '2069 Liga 1', 'old_value': '2019 Liga 1'}, "root['league']": {'new_value': 'Liga 1 (India)', 'old_value': 'Liga 1 (Indonesia)'}, "root['position']": {'new_value': 'Liga 1 (India)', 'old_value': 'Liga 1 (Indonesia)'}, "root['current']": {'new_value': '2069 Persija Jakarta season', 'old_value': '2021 Persija Jakarta season'}}}
+1598: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Ormas Oren'}}}
+1599: {'values_changed': {"root['clubname']": {'new_value': 'Ormas Oren', 'old_value': 'Persija Jakarta'}}}
+1602: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta Utara'}}}
+1603: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta Utara', 'old_value': 'Persija Jakarta'}}}
+1623: {'values_changed': {"root['chairman']": {'new_value': 'Ambono Januarianto', 'old_value': 'Ambono Janurianto'}}}
+1641: {'values_changed': {"root['coach']": {'new_value': 'Angelo Alessio', 'old_value': "''Vacant''"}}}
+1642: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': "''Sudirman''"}}}
+1643: {'values_changed': {"root['coach']": {'new_value': "''Sudirman''", 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1663: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'OWNED BY JOHOR DARUL TAZIM'}, "root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'BERGSON'}}}
+1664: {'values_changed': {"root['clubname']": {'new_value': 'OWNED BY JOHOR DARUL TAZIM', 'old_value': 'Persija Jakarta'}, "root['owner']": {'new_value': 'BERGSON', 'old_value': 'PT Persija Jakarta Hebat'}}}
+1681: {'values_changed': {"root['season']": {'new_value': '2019 Liga 1', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+1682: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': 'Fandi Ahmad'}}}
+1685: {'values_changed': {"root['coach']": {'new_value': 'Fandi Ahmad', 'old_value': 'Sudirman (footballer, born 1969)'}}}
+1689: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium', 'old_value': 'Gelora Bung Karno Stadium  Jakarta International Stadium'}}}
+1690: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium  Jakarta International Stadium', 'old_value': '•Gelora Bung Karno Stadium   •Jakarta International Stadium'}}}
+1693: {'values_changed': {"root['coach']": {'new_value': 'Sudirman (footballer, born 1969)', 'old_value': "''Vacant''"}}}
+1694: {'values_changed': {"root['ground']": {'new_value': '•Gelora Bung Karno Stadium   •Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium Jakarta International Stadium'}}}
+1718: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Thomas Doll'}}}
+1725: {'values_changed': {"root['coach']": {'new_value': 'Thomas Doll', 'old_value': "''Vacant''"}}}
+1731: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Thomas Doll'}}}
+1732: {'values_changed': {"root['coach']": {'new_value': 'Thomas Doll', 'old_value': "''Vacant''"}}}
+1734: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Thomas Doll'}}}
+1812: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Jakarta x Udin'}}}
+1817: {'values_changed': {"root['coach']": {'new_value': 'Thomas Doll', 'old_value': 'Udin Ganteng'}}}
+1819: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta x Udin', 'old_value': 'Persija Jakarta'}, "root['coach']": {'new_value': 'Udin Ganteng', 'old_value': 'Thomas Doll'}}}
+1837: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Bandung'}}}
+1838: {'values_changed': {"root['clubname']": {'new_value': 'Persija Bandung', 'old_value': 'Persija Jakarta'}}}
+1855: {'values_changed': {"root['current']": {'new_value': '2021 Persija Jakarta season', 'old_value': '2022–23 Persija Jakarta season'}}}
+1920: {'values_changed': {"root['clubname']": {'new_value': 'Persija Jakarta', 'old_value': 'Persija Lemah Jakarta'}}}
+1922: {'values_changed': {"root['clubname']": {'new_value': 'Persija Lemah Jakarta', 'old_value': 'Persija Jakarta'}}}
+1926: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium Jakarta International Stadium', 'old_value': 'Patriot Stadium Jakarta International Stadium'}, "root['capacity']": {'new_value': '77,193', 'old_value': '30.000'}}}
+1927: {'values_changed': {"root['ground']": {'new_value': 'Patriot Stadium Jakarta International Stadium', 'old_value': 'Patriot Candrabhaga Stadium Jakarta International Stadium'}}}
+1945: {'values_changed': {"root['capacity']": {'new_value': '30.000', 'old_value': '30.000,  82,000'}}}
+1949: {'values_changed': {"root['capacity']": {'new_value': '30.000,  82,000', 'old_value': '30.000'}}}
+1990: {'values_changed': {"root['ground']": {'new_value': 'Patriot Candrabhaga Stadium Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium Jakarta International Stadium'}}}
+2106: {'values_changed': {"root['chairman']": {'new_value': 'Ambono Janurianto', 'old_value': 'Mohamad Prapanca'}}}
+2139: {'values_changed': {"root['capacity']": {'new_value': '30.000', 'old_value': '30,000'}}}
+2189: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium Jakarta International Stadium', 'old_value': 'Jakarta International Stadium'}, "root['capacity']": {'new_value': '30,000', 'old_value': '82,000'}}}
+2190: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium Jakarta International Stadium'}, "root['capacity']": {'new_value': '82,000', 'old_value': '30,000'}}}
+2191: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium Jakarta International Stadium', 'old_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium'}, "root['capacity']": {'new_value': '30,000', 'old_value': '77,193'}}}
+2196: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Karno Stadium Patriot Candrabhaga Stadium', 'old_value': 'Jakarta International Stadium'}}}
+2198: {'values_changed': {"root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+2237: {'values_changed': {"root['current']": {'new_value': '2022–23 Persija Jakarta season', 'old_value': '2023-24 Persija Jakarta season'}}}
+2239: {'values_changed': {"root['capacity']": {'new_value': '77,193', 'old_value': '82,000'}}}
+2264: {'values_changed': {"root['ground']": {'new_value': 'Jakarta International Stadium', 'old_value': 'Patriot Candrabhaga Stadium'}, "root['capacity']": {'new_value': '82,000', 'old_value': '30,000'}}}
+2276: {'values_changed': {"root['ground']": {'new_value': 'Patriot Candrabhaga Stadium', 'old_value': 'Gelora Bung Karno Stadium'}, "root['capacity']": {'new_value': '30,000', 'old_value': '77,193'}, "root['owner']": {'new_value': 'PT Persija Jakarta Hebat', 'old_value': 'PT Persija Jaya Jakarta'}, "root['chrtitle']": {'new_value': 'President Director', 'old_value': 'President'}}}
+2278: {'dictionary_item_added': {"root['coach']": 'Thomas Doll'}, 'dictionary_item_removed': {"root['manager']": 'Thomas Doll'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head Coach'}}}
+2285: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}}}
+2290: {'values_changed': {"root['manager']": {'new_value': 'Thomas Doll', 'old_value': 'Jose Mourinho'}}}
+2293: {'values_changed': {"root['manager']": {'new_value': 'Jose Mourinho', 'old_value': 'Thomas Doll'}}}

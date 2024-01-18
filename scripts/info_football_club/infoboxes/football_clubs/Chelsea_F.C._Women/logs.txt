@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Kingsmeadow, Kingston upon Thames', "root['capacity']": '4,850', "root['clubname']": 'Chelsea FC Women', "root['owntitle']": 'Presidents', "root['owner']": [], "root['chairman']": 'Adrian Jacobr', "root['manager']": 'Emma Hayes', "root['league']": 'English football updater-W', "root['season']": 'English football updater-W', "root['position']": 'English football updater-W', "root['current']": '2022–23 Chelsea F.C. Women season'}}
+20: {'values_changed': {"root['manager']": {'new_value': 'Emma Hayes', 'old_value': 'Emma Hayes and Chelsea Cannon'}}}
+21: {'values_changed': {"root['manager']": {'new_value': 'Emma Hayes and Chelsea Cannon', 'old_value': 'Emma Hayes'}}}
+23: {'values_changed': {"root['clubname']": {'new_value': 'Chelsea FC Women', 'old_value': 'chelshit FC women'}}}
+24: {'values_changed': {"root['clubname']": {'new_value': 'chelshit FC women', 'old_value': 'Chelsea FC Women'}}}
+60: {'values_changed': {"root['clubname']": {'new_value': 'Chelsea FC Women', 'old_value': 'Chelsea Women'}}}
+69: {'values_changed': {"root['current']": {'new_value': '2022–23 Chelsea F.C. Women season', 'old_value': '2023–24 Chelsea F.C. Women season'}}}
+78: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Blues Partners Limited', 'new_value': []}}, 'dictionary_item_added': {"root['owntitle']": 'Presidents'}}
+85: {'values_changed': {"root['owner']": {'new_value': 'Blues Partners Limited', 'old_value': 'BlueCo'}}}

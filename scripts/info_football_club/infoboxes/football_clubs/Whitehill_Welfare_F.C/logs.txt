@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Ferguson Park, Rosewell, Midlothian', "root['capacity']": '4,000 (150 seated)', "root['season']": 'Scottish football updater', "root['clubname']": 'Whitehill Welfare', "root['chairman']": 'David Brown', "root['manager']": 'Gary Small', "root['league']": 'Scottish football updater', "root['position']": 'Scottish football updater'}}
+7: {'values_changed': {"root['capacity']": {'new_value': '4,000 (150 seated)', 'old_value': '2,614 (150 seated)'}}}
+14: {'dictionary_item_added': {"root['clubname']": 'Whitehill Welfare'}, 'values_changed': {"root['capacity']": {'new_value': '2,614 (150 seated)', 'old_value': '2,454 (200 seated)'}}}
+20: {'dictionary_item_added': {"root['chairman']": 'David Brown'}, 'values_changed': {"root['manager']": {'new_value': 'Gary Small', 'old_value': 'vacant'}}}
+21: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Steven Thomson (caretaker)'}}}
+22: {'values_changed': {"root['capacity']": {'new_value': '2,454 (200 seated)', 'old_value': '4,000 (200 seated)'}}}
+39: {'values_changed': {"root['manager']": {'new_value': 'Steven Thomson (caretaker)', 'old_value': 'Jock Landells'}}}
+47: {'values_changed': {"root['manager']": {'new_value': 'Jock Landells', 'old_value': 'Vacant'}}}
+48: {'dictionary_item_removed': {"root['clubname']": 'Whitehill Welfare'}, 'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Ian Little'}}}
+49: {'values_changed': {"root['manager']": {'new_value': 'Ian Little', 'old_value': 'Ian Little (footballer)'}}}
+50: {'dictionary_item_added': {"root['clubname']": 'Whitehill Welfare'}, 'values_changed': {"root['manager']": {'new_value': 'Ian Little (footballer)', 'old_value': 'Jock Landells'}}}
+51: {'dictionary_item_removed': {"root['clubname']": 'Whitehill Welfare'}, 'values_changed': {"root['manager']": {'new_value': 'Jock Landells', 'old_value': 'Ian Little (footballer)'}}}
+62: {'values_changed': {"root['capacity']": {'new_value': '4,000 (200 seated)', 'old_value': '2,454 (192 seated)'}}}
+83: {'values_changed': {"root['manager']": {'new_value': 'Ian Little (footballer)', 'old_value': 'Vacant'}}}
+84: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Craig Meikle'}}}
+102: {'dictionary_item_removed': {"root['chairman']": 'Mark Allard'}}

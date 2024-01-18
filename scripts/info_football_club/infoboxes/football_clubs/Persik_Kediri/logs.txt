@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Persik Kediri', "root['ground']": 'Brawijaya Stadium', "root['capacity']": '20,000', "root['owner']": 'PT. Kediri Djajati Perkasa, Tbk', "root['coach']": 'Javier Roca', "root['chrtitle']": 'President', "root['chairman']": 'Abdul Hakim Bafaqih', "root['league']": 'Liga 1 (Indonesia)', "root['season']": '2019 Liga 2', "root['position']": 'Liga 2 (Indonesia)', "root['current']": '2021–22 Liga 1 (Indonesia) '}}
+25: {'values_changed': {"root['owner']": {'new_value': 'PT. Kediri Djajati Perkasa, Tbk', 'old_value': 'The Secret Intelligence Service MI6'}, "root['chairman']": {'new_value': 'Abdul Hakim Bafaqih', 'old_value': 'James Bond'}}}
+27: {'values_changed': {"root['owner']": {'new_value': 'The Secret Intelligence Service MI6', 'old_value': 'PT. Kediri Djajati Perkasa, Tbk'}, "root['chairman']": {'new_value': 'James Bond', 'old_value': 'Abdul Hakim Bafaqih'}}}
+29: {'dictionary_item_added': {"root['chairman']": 'Abdul Hakim Bafaqih'}, 'values_changed': {"root['owner']": {'new_value': 'PT. Kediri Djajati Perkasa, Tbk', 'old_value': 'Abdul Hakim Bafaqih'}}}
+33: {'dictionary_item_removed': {"root['Direktur']": 'Randitya', "root['Manajer']": 'Abdul Hakim Bafagih'}, 'values_changed': {"root['owner']": {'new_value': 'Abdul Hakim Bafaqih', 'old_value': 'PT. Astra Asia Global'}}}
+35: {'dictionary_item_added': {"root['Direktur']": 'Randitya', "root['Manajer']": 'Abdul Hakim Bafagih'}, 'dictionary_item_removed': {"root['chairman']": 'Abdul Hakim Bafagih'}, 'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'CEO'}}}
+36: {'values_changed': {"root['chairman']": {'new_value': 'Abdul Hakim Bafagih', 'old_value': 'Gading Marten'}}}
+37: {'values_changed': {"root['chairman']": {'new_value': 'Gading Marten', 'old_value': 'Abdul Hakim Bafagih'}}}
+39: {'values_changed': {"root['chairman']": {'new_value': 'Abdul Hakim Bafagih', 'old_value': 'Alif Sapto Nugroho'}}}
+41: {'values_changed': {"root['season']": {'new_value': '2019 Liga 2', 'old_value': '2021–22 Liga 1 (Indonesia)'}, "root['position']": {'new_value': 'Liga 2 (Indonesia)', 'old_value': 'Liga 1 (Indonesia)'}}}
+191: {'dictionary_item_removed': {"root['manajer']": 'flagicon'}, 'values_changed': {"root['chrtitle']": {'new_value': 'CEO', 'old_value': 'Presiden'}, "root['chairman']": {'new_value': 'Alif Sapto Nugroho', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Javier Roca', 'old_value': 'flagicon'}}}
+192: {'values_changed': {"root['chrtitle']": {'new_value': 'Presiden', 'old_value': 'CEO'}}}
+199: {'values_changed': {"root['clubname']": {'new_value': 'Persik Kediri', 'old_value': 'Persik Kediri (꧋ꦥꦺꦂꦱꦶꦏ꧀ꦏꦼꦣꦶꦫꦶ)'}}}
+202: {'values_changed': {"root['clubname']": {'new_value': 'Persik Kediri (꧋ꦥꦺꦂꦱꦶꦏ꧀ꦏꦼꦣꦶꦫꦶ)', 'old_value': 'Persik Kediri'}}}
+205: {'values_changed': {"root['chrtitle']": {'new_value': 'CEO', 'old_value': 'President'}}}
+206: {'dictionary_item_added': {"root['chrtitle']": 'President', "root['manajer']": 'flagicon'}, 'dictionary_item_removed': {"root['manager']": 'flagicon'}, 'values_changed': {"root['owner']": {'new_value': 'PT. Astra Asia Global', 'old_value': 'PT. Astar Asia Global'}, "root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2021-22 Liga 1 (Indonesia)'}}}
+210: {'values_changed': {"root['capacity']": {'new_value': '20,000', 'old_value': '20,000 (without single seat)'}}}
+252: {'values_changed': {"root['coach']": {'new_value': 'flagicon', 'old_value': "''Vacant''"}}}
+255: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Herman Syuramansyah'}}}
+258: {'values_changed': {"root['coach']": {'new_value': 'Herman Syuramansyah', 'old_value': "''Vacant''"}}}
+259: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Gading Marten'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Yahya Hasan Alkatiri'}}}
+261: {'values_changed': {"root['owner']": {'new_value': 'PT. Astar Asia Global', 'old_value': 'PT. PUTRA PRIMA MANDIRI'}, "root['chairman']": {'new_value': 'Gading Marten', 'old_value': 'Telo sanjoyo'}, "root['manager']": {'new_value': 'Yahya Hasan Alkatiri', 'old_value': 'janshen oblack'}, "root['coach']": {'new_value': "''Vacant''", 'old_value': "''saripit daphit''"}}}
+262: {'values_changed': {"root['owner']": {'new_value': 'PT. PUTRA PRIMA MANDIRI', 'old_value': 'PT. Astar Asia Global'}, "root['chairman']": {'new_value': 'Telo sanjoyo', 'old_value': 'Gading Marten'}, "root['manager']": {'new_value': 'janshen oblack', 'old_value': 'Yahya Hasan Alkatiri'}, "root['coach']": {'new_value': "''saripit daphit''", 'old_value': "''Vacant''"}}}
+264: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Jan Saragih (caretaker)'}}}
+266: {'values_changed': {"root['manager']": {'new_value': 'Yahya Hasan Alkatiri', 'old_value': 'Mochamad Syahid Nur Ichsan'}, "root['coach']": {'new_value': 'Jan Saragih (caretaker)', 'old_value': 'Divaldo Alves'}}}
+278: {'values_changed': {"root['chairman']": {'new_value': 'Gading Marten', 'old_value': 'Johan Tri'}}}
+279: {'values_changed': {"root['chairman']": {'new_value': 'Johan Tri', 'old_value': 'UJB Muhammad Akbar'}}}
+280: {'values_changed': {"root['chairman']": {'new_value': 'UJB Muhammad Akbar', 'old_value': 'Gading Marten'}}}
+314: {'values_changed': {"root['coach']": {'new_value': 'Divaldo Alves', 'old_value': "''Vacant''"}}}
+316: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Divaldo Alves'}}}
+342: {'values_changed': {"root['chairman']": {'new_value': 'Gading Marten', 'old_value': 'Arthur Irawan'}}}
+420: {'dictionary_item_added': {"root['chairman']": 'Arthur Irawan'}, 'dictionary_item_removed': {"root['president']": 'Gading Marten'}}
+421: {'dictionary_item_added': {"root['president']": 'Gading Marten'}, 'dictionary_item_removed': {"root['chrtitle']": 'President', "root['chairman']": 'Gading Marten'}}
+429: {'values_changed': {"root['coach']": {'new_value': 'Divaldo Alves', 'old_value': 'Marcelo Rospide'}}}
+471: {'values_changed': {"root['season']": {'new_value': '2021-22 Liga 1 (Indonesia)', 'old_value': '2022-23 Liga 1 (Indonesia)'}, "root['current']": {'new_value': '2021–22 Liga 1 (Indonesia) ', 'old_value': '2023–24 Liga 1 (Indonesia) '}}}
+496: {'values_changed': {"root['owner']": {'new_value': 'PT. Astar Asia Global', 'old_value': 'PT Astar Asia Global'}}}
+497: {'values_changed': {"root['chairman']": {'new_value': 'Gading Marten', 'old_value': 'Alif Sapto Nugroho'}}}
+498: {'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'President & CEO'}}}

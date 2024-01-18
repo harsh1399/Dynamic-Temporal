@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Atyrau', "root['ground']": 'Munaishy Stadium', "root['capacity']": '8,690', "root['chairman']": 'Shyngys Mukan', "root['manager']": 'Viktor Kumykov', "root['league']": 'Kazakhstan Premier League', "root['season']": '2018 Kazakhstan Premier League', "root['position']": 'Kazakhstan Premier League, 9th'}}
+8: {'values_changed': {"root['manager']": {'new_value': 'Viktor Kumykov', 'old_value': 'Oleg Dulub'}}}
+12: {'values_changed': {"root['season']": {'new_value': '2018 Kazakhstan Premier League', 'old_value': '2019 Kazakhstan Premier League'}, "root['position']": {'new_value': 'Kazakhstan Premier League, 9th', 'old_value': 'Kazakhstan Premier League, 11th small'}}}
+16: {'dictionary_item_added': {"root['league']": 'Kazakhstan Premier League'}, 'values_changed': {"root['manager']": {'new_value': 'Oleg Dulub', 'old_value': 'Aram Voskanyan'}, "root['position']": {'new_value': 'Kazakhstan Premier League, 11th small', 'old_value': 'Kazakhstan Premier League, 11th of 12 (relegated)'}}}
+62: {'dictionary_item_removed': {"root['league']": 'Premier League'}, 'values_changed': {"root['season']": {'new_value': '2019 Kazakhstan Premier League', 'old_value': '2022 Kazakhstan Premier League'}, "root['position']": {'new_value': 'Kazakhstan Premier League, 11th of 12 (relegated)', 'old_value': '11th'}}}
+64: {'values_changed': {"root['manager']": {'new_value': 'Aram Voskanyan', 'old_value': 'Vitaly Zhukovsky'}}}
+65: {'values_changed': {"root['chairman']": {'new_value': 'Shyngys Mukan', 'old_value': 'Alisher Apsalyamov'}}}
+75: {'values_changed': {"root['league']": {'new_value': 'Premier League', 'old_value': 'Kazakhstan Premier League'}}}

@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Eintracht Frankfurt', "root['ground']": 'Waldstadion (Frankfurt)', "root['capacity']": '51,500', "root['chairman']": 'Peter Fischer (club), Fredi Bobic', "root['manager']": 'Adi Hütter', "root['league']": 'Bundesliga', "root['season']": '2018–19 Bundesliga', "root['position']": '7th', "root['current']": '2019–20 Eintracht Frankfurt season'}}
+60: {'values_changed': {"root['season']": {'new_value': '2018–19 Bundesliga', 'old_value': '2019–20 Bundesliga'}, "root['position']": {'new_value': '7th', 'old_value': '9th'}}}
+61: {'values_changed': {"root['league']": {'new_value': 'Bundesliga', 'old_value': 'German football updater'}, "root['season']": {'new_value': '2019–20 Bundesliga', 'old_value': 'German football updater'}, "root['position']": {'new_value': '9th', 'old_value': 'German football updater'}}}
+65: {'values_changed': {"root['ground']": {'new_value': 'Waldstadion (Frankfurt)', 'old_value': 'Deutsche Bank Park'}, "root['current']": {'new_value': '2019–20 Eintracht Frankfurt season', 'old_value': '2020–21 Eintracht Frankfurt season'}}}
+72: {'values_changed': {"root['capacity']": {'new_value': '51,500', 'old_value': '51,499'}}}
+74: {'values_changed': {"root['capacity']": {'new_value': '51,499', 'old_value': '51,500'}}}
+79: {'dictionary_item_removed': {"root['pattern_sh']": '_nikewhite'}}
+85: {'values_changed': {"root['pattern_sh']": {'new_value': '_nikewhite', 'old_value': '_frankfurt2021h'}}}
+92: {'dictionary_item_added': {"root['pattern_sh']": '_frankfurt2021h'}, 'values_changed': {"root['ground']": {'new_value': 'Deutsche Bank Park', 'old_value': 'Waldstadion (Frankfurt)'}}}
+142: {'values_changed': {"root['clubname']": {'new_value': 'Eintracht Frankfurt', 'old_value': 'SG Eintracht Frankfurt'}}}
+143: {'values_changed': {"root['clubname']": {'new_value': 'SG Eintracht Frankfurt', 'old_value': 'Eintracht Frankfurt'}}}
+171: {'values_changed': {"root['chairman']": {'new_value': 'Peter Fischer (club), Fredi Bobic', 'old_value': 'Peter Fischer (club), Fredi Bobic (plc), Oliver Frankenbach (plc), Axel Hellmann (plc)'}}}
+184: {'values_changed': {"root['manager']": {'new_value': 'Adi Hütter', 'old_value': 'Adolf Hitler'}}}
+185: {'values_changed': {"root['manager']": {'new_value': 'Adolf Hitler', 'old_value': 'Adolf Hütter'}}}
+187: {'values_changed': {"root['manager']": {'new_value': 'Adolf Hütter', 'old_value': 'Adi Hütter'}}}
+191: {'dictionary_item_removed': {"root['chrtitle']": 'President', "root['mgrtitle']": 'Board members', "root['coach']": 'Oliver Glasner'}, 'values_changed': {"root['chairman']": {'new_value': 'Peter Fischer (club), Fredi Bobic (plc), Oliver Frankenbach (plc), Axel Hellmann (plc)', 'old_value': 'Peter Fischer'}, "root['manager']": {'new_value': 'Adi Hütter', 'old_value': 'Markus Krösche (plc), Oliver Frankenbach (plc), Axel Hellmann (plc), Philipp Reschke (plc)'}, "root['current']": {'new_value': '2020–21 Eintracht Frankfurt season', 'old_value': '2022–23 Eintracht Frankfurt season'}}}
+252: {'values_changed': {"root['coach']": {'new_value': 'Oliver Glasner', 'old_value': "''Vacant''"}}}
+253: {'dictionary_item_added': {"root['coach']": "''Vacant''"}, 'values_changed': {"root['manager']": {'new_value': 'Markus Krösche (plc), Oliver Frankenbach (plc), Axel Hellmann (plc), Philipp Reschke (plc)', 'old_value': "''Vacant''"}}}
+257: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Markus Krösche (plc), Oliver Frankenbach (plc), Axel Hellmann (plc), Philipp Reschke (plc)'}}}
+258: {'dictionary_item_added': {"root['mgrtitle']": 'Board members'}, 'values_changed': {"root['manager']": {'new_value': 'Markus Krösche (plc), Oliver Frankenbach (plc), Axel Hellmann (plc), Philipp Reschke (plc)', 'old_value': '"vacant"'}}}
+259: {'values_changed': {"root['manager']": {'new_value': '"vacant"', 'old_value': "''Vacant''"}}}
+272: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Dino Toppmoller'}}}
+274: {'values_changed': {"root['manager']": {'new_value': 'Dino Toppmoller', 'old_value': 'Dino Toppmöller'}}}
+281: {'values_changed': {"root['capacity']": {'new_value': '51,500', 'old_value': '57,706'}, "root['current']": {'new_value': '2022–23 Eintracht Frankfurt season', 'old_value': '2023–24 Eintracht Frankfurt season'}}}
+282: {'dictionary_item_added': {"root['chairman']": 'Peter Fischer', "root['chrtitle']": 'President', "root['manager']": 'Dino Toppmöller', "root['league']": 'German football updater', "root['season']": 'German football updater', "root['position']": 'German football updater', "root['current']": '2023–24 Eintracht Frankfurt season'}, 'values_changed': {"root['capacity']": {'new_value': '57,706', 'old_value': '2023'}}}
+283: {'dictionary_item_removed': {"root['chairman']": 'Peter Fischer', "root['chrtitle']": 'President', "root['manager']": 'Dino Toppmöller', "root['league']": 'German football updater', "root['season']": 'German football updater', "root['position']": 'German football updater', "root['current']": '2023–24 Eintracht Frankfurt season'}, 'values_changed': {"root['capacity']": {'new_value': '2023', 'old_value': 'ca 58.000 asof'}}}
+285: {'values_changed': {"root['capacity']": {'new_value': 'ca 58.000 asof', 'old_value': 'ca 58.000 (asof'}}}

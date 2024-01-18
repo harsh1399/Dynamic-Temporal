@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Home United', "root['ground']": 'Bishan Stadium', "root['capacity']": '3,500', "root['chairman']": 'Winston Wong', "root['mgrtitle']": 'Manager', "root['manager']": 'Aurelio Vidmar', "root['league']": 'Singapore Premier League', "root['season']": '2019 Singapore Premier League', "root['position']": 'Singapore Premier League, 6th of 9', "root['current']": '2019 Home United FC season'}}
+9: {'values_changed': {"root['current']": {'new_value': '2019 Home United FC season', 'old_value': '2020 Home United FC season'}}}
+12: {'values_changed': {"root['clubname']": {'new_value': 'Home United', 'old_value': 'Lion City Sailor'}}}
+13: {'values_changed': {"root['clubname']": {'new_value': 'Lion City Sailor', 'old_value': 'Lion City Sailors'}}}
+17: {'values_changed': {"root['chairman']": {'new_value': 'Winston Wong', 'old_value': 'Forrest Li'}}}
+24: {'dictionary_item_removed': {"root['owner']": 'Sea Group'}}
+32: {'values_changed': {"root['owner']": {'new_value': 'Sea Group', 'old_value': 'Garena'}}}
+72: {'values_changed': {"root['owner']": {'new_value': 'Garena', 'old_value': 'Sea Group'}}}
+73: {'values_changed': {"root['position']": {'new_value': 'Singapore Premier League, 6th of 9', 'old_value': 'Singapore Premier League; 6th'}}}
+80: {'values_changed': {"root['owner']": {'new_value': 'Sea Group', 'old_value': 'Garena'}}}
+102: {'dictionary_item_added': {"root['current']": '2020 Home United FC season'}, 'values_changed': {"root['owner']": {'new_value': 'Garena', 'old_value': 'Sea Group'}}}
+104: {'values_changed': {"root['owner']": {'new_value': 'Sea Group', 'old_value': 'Sea Limited'}}}
+119: {'values_changed': {"root['season']": {'new_value': '2019 Singapore Premier League', 'old_value': '2020 Singapore Premier League'}, "root['position']": {'new_value': 'Singapore Premier League; 6th', 'old_value': 'Singapore Premier League; 3rd'}}}
+139: {'values_changed': {"root['capacity']": {'new_value': '3,500', 'old_value': '6,245'}, "root['manager']": {'new_value': 'Aurelio Vidmar', 'old_value': 'Kim Do-hoon'}, "root['season']": {'new_value': '2020 Singapore Premier League', 'old_value': '2021 Singapore Premier League'}, "root['position']": {'new_value': 'Singapore Premier League; 3rd', 'old_value': 'Singapore Premier League, 1st of 8 (Champions)'}}}
+155: {'values_changed': {"root['ground']": {'new_value': 'Bishan Stadium', 'old_value': 'Jalan Besar Stadium'}}}
+161: {'values_changed': {"root['capacity']": {'new_value': '6,245', 'old_value': '6000'}}}
+173: {'values_changed': {"root['capacity']": {'new_value': '6000', 'old_value': '6,000'}}}
+193: {'dictionary_item_removed': {"root['current']": '2022 Lion City Sailors F.C. season'}}
+203: {'values_changed': {"root['capacity']": {'new_value': '6,000', 'old_value': '690,00000'}, "root['owner']": {'new_value': 'Sea Limited', 'old_value': 'olga yashenkova'}, "root['chairman']": {'new_value': 'Forrest Li', 'old_value': 'me'}, "root['manager']": {'new_value': 'Kim Do-hoon', 'old_value': 'nick'}, "root['league']": {'new_value': 'Singapore Premier League', 'old_value': 'Prison fc League'}, "root['season']": {'new_value': '2021 Singapore Premier League', 'old_value': '2049 Singapore Premier League'}}}
+205: {'values_changed': {"root['clubname']": {'new_value': 'Lion City Sailors', 'old_value': 'Kumalaya Kumalaya Kumlaya Savesta'}}}
+206: {'values_changed': {"root['owner']": {'new_value': 'olga yashenkova', 'old_value': 'Jordan Seligma'}, "root['chairman']": {'new_value': 'me', 'old_value': 'Siddharth Mirpuri'}, "root['manager']": {'new_value': 'nick', 'old_value': 'Nicholas Reee'}}}
+207: {'values_changed': {"root['clubname']": {'new_value': 'Kumalaya Kumalaya Kumlaya Savesta', 'old_value': 'Lion City Sailors'}, "root['capacity']": {'new_value': '690,00000', 'old_value': '6,000'}, "root['owner']": {'new_value': 'Jordan Seligma', 'old_value': 'Sea Limited'}, "root['chairman']": {'new_value': 'Siddharth Mirpuri', 'old_value': 'Forrest Li'}, "root['manager']": {'new_value': 'Nicholas Reee', 'old_value': 'Kim Do-hoon'}, "root['league']": {'new_value': 'Prison fc League', 'old_value': 'Singapore Premier League'}, "root['season']": {'new_value': '2049 Singapore Premier League', 'old_value': '2021 Singapore Premier League'}}}
+227: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-hoon', 'old_value': 'Luka Lalić (Interm)'}}}
+234: {'values_changed': {"root['manager']": {'new_value': 'Luka Lalić (Interm)', 'old_value': 'Luka Lalić (Interim)'}}}
+259: {'values_changed': {"root['position']": {'new_value': 'Singapore Premier League, 1st of 8 (Champions)', 'old_value': 'Singapore Premier League, 1st of 8 (champions)'}}}
+260: {'values_changed': {"root['manager']": {'new_value': 'Luka Lalić (Interim)', 'old_value': 'Bert van Marwijk'}}}
+272: {'values_changed': {"root['manager']": {'new_value': 'Bert van Marwijk', 'old_value': 'TBC'}, "root['season']": {'new_value': '2021 Singapore Premier League', 'old_value': '2022 Singapore Premier League'}, "root['position']": {'new_value': 'Singapore Premier League, 1st of 8 (champions)', 'old_value': 'Singapore Premier League, 2nd of 8'}}}
+281: {'values_changed': {"root['manager']": {'new_value': 'TBC', 'old_value': 'Risto Vidaković'}}}
+317: {'values_changed': {"root['ground']": {'new_value': 'Jalan Besar Stadium', 'old_value': 'Bishan Stadium'}, "root['capacity']": {'new_value': '6,000', 'old_value': '6,254'}}}
+337: {'values_changed': {"root['current']": {'new_value': '2022 Lion City Sailors F.C. season', 'old_value': '2023 Lion City Sailors F.C. season'}}}
+459: {'values_changed': {"root['manager']": {'new_value': 'Risto Vidaković', 'old_value': 'Aleksandar Ranković (footballer)'}}}

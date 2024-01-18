@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Paris Saint-Germain', "root['ground']": 'Parc des Princes', "root['capacity']": '47,929', "root['owner']": 'Qatar Sports Investments', "root['chairman']": 'Nasser Al-Khelaifi', "root['chrtitle']": 'President', "root['manager']": 'Christophe Galtier', "root['mgrtitle']": 'Head coach', "root['league']": 'French football updater', "root['season']": 'French football updater', "root['position']": 'French football updater', "root['current']": '2022–23 Paris Saint-Germain F.C. season '}}
+109: {'values_changed': {"root['current']": {'new_value': '2022–23 Paris Saint-Germain F.C. season ', 'old_value': '2023–24 Paris Saint-Germain F.C. season '}}}
+110: {'values_changed': {"root['manager']": {'new_value': 'Christophe Galtier', 'old_value': 'Vacant .'}}}
+111: {'values_changed': {"root['manager']": {'new_value': 'Vacant .', 'old_value': 'Christophe Galtier'}}}
+143: {'values_changed': {"root['manager']": {'new_value': 'Christophe Galtier', 'old_value': "''Vacant''"}}}
+146: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Luis Enrique'}}}
+153: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}

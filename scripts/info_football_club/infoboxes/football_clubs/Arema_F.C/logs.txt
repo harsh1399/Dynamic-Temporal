@@ -1,0 +1,87 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Kanjuruhan Stadium', "root['capacity']": '42,449', "root['season']": '2014 Indonesia Super League', "root['clubname']": 'Arema FC', "root['owner']": 'Arema Foundation', "root['chairman']": 'Iwan Budianto', "root['mgrtitle']": 'Head coach', "root['manager']": 'Aji Santoso', "root['league']": '2017 Indonesia Super League'}}
+1: {'values_changed': {"root['clubname']": {'new_value': 'Arema FC', 'old_value': 'Arema Cronus'}}}
+2: {'values_changed': {"root['clubname']": {'new_value': 'Arema Cronus', 'old_value': 'Arema FC'}}}
+6: {'values_changed': {"root['league']": {'new_value': '2017 Indonesia Super League', 'old_value': 'Indonesia Super League'}}}
+36: {'values_changed': {"root['capacity']": {'new_value': '42,449', 'old_value': '72,449'}}}
+61: {'dictionary_item_added': {"root['capacity']": '72,449'}, 'values_changed': {"root['manager']": {'new_value': 'Aji Santoso', 'old_value': 'Hirzi Dio'}}}
+62: {'values_changed': {"root['manager']": {'new_value': 'Hirzi Dio', 'old_value': 'Andi Setiadi Sitompul'}}}
+63: {'values_changed': {"root['manager']": {'new_value': 'Andi Setiadi Sitompul', 'old_value': 'Aji Santoso'}}}
+71: {'values_changed': {"root['manager']": {'new_value': 'Aji Santoso', 'old_value': 'Aji Massaid'}, "root['league']": {'new_value': 'Indonesia Super League', 'old_value': 'Liga Nusantara'}}}
+72: {'values_changed': {"root['manager']": {'new_value': 'Aji Massaid', 'old_value': 'Aji Santoso'}}}
+73: {'values_changed': {"root['league']": {'new_value': 'Liga Nusantara', 'old_value': 'Indonesia Super League'}}}
+79: {'values_changed': {"root['manager']": {'new_value': 'Aji Santoso', 'old_value': 'Aji Sulam'}}}
+80: {'values_changed': {"root['clubname']": {'new_value': 'Arema FC', 'old_value': 'Arewaria FC'}}}
+81: {'values_changed': {"root['clubname']": {'new_value': 'Arewaria FC', 'old_value': 'Arema FC'}, "root['manager']": {'new_value': 'Aji Sulam', 'old_value': 'Aji Santoso'}}}
+102: {'dictionary_item_removed': {"root['capacity']": '43,000', "root['position']": "'''runner-up'''"}, 'values_changed': {"root['season']": {'new_value': '2014 Indonesia Super League', 'old_value': '2017 Liga 1'}, "root['league']": {'new_value': 'Indonesia Super League', 'old_value': '2017 Liga 1'}}}
+104: {'values_changed': {"root['position']": {'new_value': "'''runner-up'''", 'old_value': 'Runner-up'}}}
+106: {'dictionary_item_added': {"root['league']": '2017 Liga 1', "root['position']": 'Runner-up'}, 'dictionary_item_removed': {"root['league1']": '2017 Liga 1', "root['season1']": 'Indonesia Soccer Championship A', "root['position1']": 'Runner-up'}}
+115: {'values_changed': {"root['league1']": {'new_value': '2017 Liga 1', 'old_value': 'Liga 1 (Indonesia)'}, "root['season1']": {'new_value': 'Indonesia Soccer Championship A', 'old_value': '2016 Indonesia Soccer Championship A'}}}
+142: {'values_changed': {"root['chairman']": {'new_value': 'Iwan Budianto', 'old_value': 'Ainul Karim'}}}
+143: {'values_changed': {"root['chairman']": {'new_value': 'Ainul Karim', 'old_value': 'Iwan Budianto'}}}
+160: {'values_changed': {"root['capacity']": {'new_value': '43,000', 'old_value': '42,449'}}}
+164: {'values_changed': {"root['clubname']": {'new_value': 'Arema FC', 'old_value': 'Arema'}}}
+166: {'values_changed': {"root['clubname']": {'new_value': 'Arema', 'old_value': 'Arema F.C.'}}}
+188: {'dictionary_item_added': {"root['league1']": 'Liga 1 (Indonesia)', "root['season1']": '2016 Indonesia Soccer Championship A', "root['position1']": 'Runner-up'}, 'dictionary_item_removed': {"root['league']": 'Liga 1 (Indonesia)', "root['position']": 'Runner-up'}}
+191: {'values_changed': {"root['position']": {'new_value': 'Runner-up', 'old_value': '2nd'}}}
+192: {'values_changed': {"root['position']": {'new_value': '2nd', 'old_value': '2nd (Runner-up)'}}}
+196: {'values_changed': {"root['season']": {'new_value': '2017 Liga 1', 'old_value': '2016 Indonesia Soccer Championship A'}}}
+204: {'values_changed': {"root['season']": {'new_value': '2016 Indonesia Soccer Championship A', 'old_value': '2015 Indonesia Super League'}, "root['position']": {'new_value': '2nd (Runner-up)', 'old_value': '5th'}}}
+205: {'values_changed': {"root['position']": {'new_value': '5th', 'old_value': "'''''Semi-finals'''''"}, "root['season']": {'new_value': '2015 Indonesia Super League', 'old_value': '2014 Indonesia Super League'}}}
+214: {'values_changed': {"root['position']": {'new_value': "'''''Semi-finals'''''", 'old_value': "'''''Indonesia Super League"}}}
+215: {'values_changed': {"root['position']": {'new_value': "'''''Indonesia Super League", 'old_value': 'Indonesia Super League, (Semi-finals)'}}}
+222: {'values_changed': {"root['chairman']": {'new_value': 'Iwan Budianto', 'old_value': 'Rudy Widodo'}}}
+238: {'values_changed': {"root['position']": {'new_value': 'Indonesia Super League, (Semi-finals)', 'old_value': 'Indonesia Super League'}}}
+239: {'values_changed': {"root['position']": {'new_value': 'Indonesia Super League', 'old_value': 'Indonesia Super League, (Semi-finals)'}}}
+240: {'values_changed': {"root['capacity']": {'new_value': '42,449', 'old_value': '44,965'}}}
+245: {'values_changed': {"root['owner']": {'new_value': 'Arema Foundation', 'old_value': 'Bakrie Group'}}}
+251: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium', 'old_value': 'Kanjuruhan Stadium, Gajayana Stadium'}}}
+252: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium, Gajayana Stadium', 'old_value': 'Kanjuruhan Stadium, Gajayana Stadium, Brantas Stadium, Karangkates Stadium, Seloredjo Stadium'}, "root['capacity']": {'new_value': '44,965', 'old_value': '44,965; 35,000'}}}
+260: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium, Gajayana Stadium, Brantas Stadium, Karangkates Stadium, Seloredjo Stadium', 'old_value': 'Kanjuruhan Stadium'}, "root['capacity']": {'new_value': '44,965; 35,000', 'old_value': '44,965'}, "root['owner']": {'new_value': 'Bakrie Group', 'old_value': 'Arema Foundation'}}}
+278: {'values_changed': {"root['manager']": {'new_value': 'Aji Santoso', 'old_value': 'Joko Susilo'}}}
+287: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium', 'old_value': 'King Abdullah Sport City'}, "root['capacity']": {'new_value': '44,965', 'old_value': '55,955'}, "root['chairman']": {'new_value': 'Rudy Widodo', 'old_value': 'Rudy Kancut'}, "root['manager']": {'new_value': 'Joko Susilo', 'old_value': 'Nelo Kornate'}, "root['position']": {'new_value': 'Indonesia Super League, (Semi-finals)', 'old_value': 'A-league, (Semi-finals)'}, "root['season']": {'new_value': '2014 Indonesia Super League', 'old_value': '2014 A-League'}, "root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'A-League  (Australia)'}}}
+288: {'values_changed': {"root['ground']": {'new_value': 'King Abdullah Sport City', 'old_value': 'Kanjuruhan Malang'}, "root['chairman']": {'new_value': 'Rudy Kancut', 'old_value': 'Rudy'}}}
+290: {'values_changed': {"root['position']": {'new_value': 'A-league, (Semi-finals)', 'old_value': 'Liga 1, (2nd)'}, "root['season']": {'new_value': '2014 A-League', 'old_value': 'Liga 1'}, "root['league']": {'new_value': 'A-League  (Australia)', 'old_value': 'Liga 1 (Indonesia)'}}}
+291: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Malang', 'old_value': 'Kanjuruhan Stadium'}, "root['capacity']": {'new_value': '55,955', 'old_value': '44,965'}, "root['chairman']": {'new_value': 'Rudy', 'old_value': 'Rudy Widodo'}, "root['manager']": {'new_value': 'Nelo Kornate', 'old_value': 'Joko Susilo'}, "root['position']": {'new_value': 'Liga 1, (2nd)', 'old_value': 'Indonesia Super League, (Semi-finals)'}, "root['season']": {'new_value': 'Liga 1', 'old_value': '2014 Indonesia Super League'}}}
+304: {'values_changed': {"root['position']": {'new_value': 'Indonesia Super League, (Semi-finals)', 'old_value': 'Liga 1 (Indonesia), 9th'}, "root['season']": {'new_value': '2014 Indonesia Super League', 'old_value': '2017 Liga 1'}}}
+305: {'values_changed': {"root['position']": {'new_value': 'Liga 1 (Indonesia), 9th', 'old_value': 'Liga 1 (Indonesia)'}}}
+311: {'values_changed': {"root['position']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 1, 9th'}}}
+312: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 9th', 'old_value': '9th'}}}
+313: {'values_changed': {"root['position']": {'new_value': '9th', 'old_value': 'Liga 1, 9th'}}}
+330: {'values_changed': {"root['manager']": {'new_value': 'Joko Susilo', 'old_value': 'Silvianus Sony'}}}
+331: {'values_changed': {"root['manager']": {'new_value': 'Silvianus Sony', 'old_value': 'Joko Susilo'}}}
+365: {'dictionary_item_removed': {"root['current']": '2021–22 Arema F.C. season', "root['chrtitle']": 'President'}, 'values_changed': {"root['capacity']": {'new_value': '44,965', 'old_value': '42,449 (Without Chair)'}, "root['clubname']": {'new_value': 'Arema F.C.', 'old_value': 'Arema FC'}, "root['owner']": {'new_value': 'Arema Foundation', 'old_value': 'Juragan 99 Trans'}, "root['chairman']": {'new_value': 'Rudy Widodo', 'old_value': ':id:Gilang Widya Pramana'}, "root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Head Coach'}, "root['manager']": {'new_value': 'Joko Susilo', 'old_value': 'Eduardo Almeida'}, "root['season']": {'new_value': '2017 Liga 1', 'old_value': '2019 Liga 1 (Indonesia)'}}}
+377: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 9th', 'old_value': '1st'}, "root['season']": {'new_value': '2019 Liga 1 (Indonesia)', 'old_value': '2021-22 Liga 1 (Indonesia)'}}}
+378: {'values_changed': {"root['position']": {'new_value': '1st', 'old_value': 'Liga 1, 9th'}, "root['season']": {'new_value': '2021-22 Liga 1 (Indonesia)', 'old_value': '2019 Liga 1 (Indonesia)'}}}
+407: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 9th', 'old_value': 'Liga 1, 4th'}, "root['season']": {'new_value': '2019 Liga 1 (Indonesia)', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+409: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 4th', 'old_value': 'Liga 1 (Indonesia)'}}}
+413: {'values_changed': {"root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+414: {'values_changed': {"root['current']": {'new_value': '2021–22 Arema F.C. season', 'old_value': '2022–23 Arema F.C. season'}, "root['season']": {'new_value': '2022–23 Liga 1 (Indonesia)', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+466: {'values_changed': {"root['chairman']": {'new_value': ':id:Gilang Widya Pramana', 'old_value': 'Gilang Widya Pramana'}}}
+482: {'values_changed': {"root['owner']": {'new_value': 'Juragan 99 Trans', 'old_value': 'Juragan 99 Corporation'}}}
+511: {'values_changed': {"root['capacity']": {'new_value': '42,449 (Without Chair)', 'old_value': '42,449 (without single-seat)'}}}
+552: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'dictionary_item_removed': {"root['coach']": 'Eduardo Almeida'}, 'values_changed': {"root['manager']": {'new_value': 'Eduardo Almeida', 'old_value': 'Ali Rifki'}}}
+566: {'values_changed': {"root['capacity']": {'new_value': '42,449 (without single-seat)', 'old_value': '43,000 (without single-seat)'}}}
+567: {'values_changed': {"root['coach']": {'new_value': 'Eduardo Almeida', 'old_value': 'Kuncoro (Carateker)'}}}
+571: {'values_changed': {"root['coach']": {'new_value': 'Kuncoro (Carateker)', 'old_value': 'Kuncoro (carateker)'}}}
+572: {'values_changed': {"root['coach']": {'new_value': 'Kuncoro (carateker)', 'old_value': 'Kuncoro (careteker)'}}}
+574: {'values_changed': {"root['coach']": {'new_value': 'Kuncoro (careteker)', 'old_value': 'Javier Roca'}}}
+588: {'values_changed': {"root['capacity']": {'new_value': '43,000 (without single-seat)', 'old_value': '42,449 (without single-seat)'}}}
+621: {'values_changed': {"root['owner']": {'new_value': 'Juragan 99 Corporation', 'old_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)'}, "root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': 'Start date and age'}}}
+622: {'values_changed': {"root['owner']": {'new_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)', 'old_value': 'Juragan 99 Corporation'}, "root['season']": {'new_value': 'Start date and age', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+623: {'values_changed': {"root['owner']": {'new_value': 'Juragan 99 Corporation', 'old_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)'}, "root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': 'Start date and age'}}}
+636: {'values_changed': {"root['chairman']": {'new_value': 'Gilang Widya Pramana', 'old_value': "''Vacant''"}}}
+648: {'values_changed': {"root['manager']": {'new_value': 'Ali Rifki', 'old_value': 'Wiebie Dwi Andriyas'}}}
+652: {'values_changed': {"root['chairman']": {'new_value': "''Vacant''", 'old_value': 'Iwan Budianto'}}}
+707: {'values_changed': {"root['clubname']": {'new_value': 'Arema FC', 'old_value': 'Arema FC Goblok Anjing Babi'}, "root['owner']": {'new_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)', 'old_value': 'PT Arema Aremania Bobrok'}, "root['chairman']": {'new_value': 'Iwan Budianto', 'old_value': 'Iwan Budianto ANJING'}}}
+708: {'values_changed': {"root['clubname']": {'new_value': 'Arema FC Goblok Anjing Babi', 'old_value': 'Arema FC'}, "root['owner']": {'new_value': 'PT Arema Aremania Bobrok', 'old_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)'}, "root['chairman']": {'new_value': 'Iwan Budianto ANJING', 'old_value': 'Iwan Budianto'}}}
+709: {'values_changed': {"root['coach']": {'new_value': 'Javier Roca', 'old_value': 'I Putu Gede'}}}
+714: {'values_changed': {"root['coach']": {'new_value': 'I Putu Gede', 'old_value': 'Putu Gede Dwi Santoso'}}}
+740: {'values_changed': {"root['coach']": {'new_value': 'Putu Gede Dwi Santoso', 'old_value': ':id:Joko Susilo'}}}
+796: {'values_changed': {"root['current']": {'new_value': '2022–23 Arema F.C. season', 'old_value': '2023–24 Arema F.C. season'}}}
+799: {'values_changed': {"root['coach']": {'new_value': ':id:Joko Susilo', 'old_value': 'Putu Gede Dwi Santoso'}}}
+805: {'values_changed': {"root['coach']": {'new_value': 'Putu Gede Dwi Santoso', 'old_value': ':id:Joko Susilo'}}}
+806: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium', 'old_value': 'Gajayana Stadium'}}}
+829: {'values_changed': {"root['capacity']": {'new_value': '42,449 (without single-seat)', 'old_value': '25,000 (without single-seat)'}}}
+919: {'values_changed': {"root['ground']": {'new_value': 'Gajayana Stadium', 'old_value': 'Kanjuruhan Stadium'}}}
+920: {'values_changed': {"root['ground']": {'new_value': 'Kanjuruhan Stadium', 'old_value': 'Gajayana Stadium'}}}
+921: {'values_changed': {"root['owner']": {'new_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia (AABBI)', 'old_value': 'PT Arema Aremania Bersatu Berprestasi Indonesia'}}}

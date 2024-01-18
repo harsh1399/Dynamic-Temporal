@@ -1,0 +1,13 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Gimcheon Sangmu 김천 상무', "root['ground']": 'Gimcheon Stadium', "root['capacity']": '32,000', "root['owner']": 'Gimcheon', "root['chairman']": 'Mayor of Gimcheon', "root['manager']": 'Kim Chung-seop', "root['league']": 'K League 2', "root['season']": '2020 K League 1', "root['position']": 'K League 1, 4th (relegated)'}}
+2: {'values_changed': {"root['manager']": {'new_value': 'Kim Chung-seop', 'old_value': 'Kim Tae-wan'}}}
+9: {'values_changed': {"root['capacity']": {'new_value': '32,000', 'old_value': '25,000'}}}
+37: {'values_changed': {"root['clubname']": {'new_value': 'Gimcheon Sangmu 김천 상무', 'old_value': 'Gimcheon Sangmu'}}}
+43: {'values_changed': {"root['capacity']": {'new_value': '25,000', 'old_value': '32,000'}}}
+65: {'values_changed': {"root['season']": {'new_value': '2020 K League 1', 'old_value': '2021 K League 2'}, "root['position']": {'new_value': 'K League 1, 4th (relegated)', 'old_value': 'K League 2, 1st (promoted)'}}}
+69: {'values_changed': {"root['league']": {'new_value': 'K League 2', 'old_value': 'K League 1'}}}
+94: {'values_changed': {"root['season']": {'new_value': '2021 K League 2', 'old_value': '2022 K League 2'}, "root['position']": {'new_value': 'K League 2, 1st (promoted)', 'old_value': 'K League 1, 11th out of 12  (facing play-offs)'}}}
+95: {'values_changed': {"root['position']": {'new_value': 'K League 1, 11th out of 12  (facing play-offs)', 'old_value': 'K League 1, 11th of 12  (facing play-offs)'}}}
+96: {'values_changed': {"root['position']": {'new_value': 'K League 1, 11th of 12  (facing play-offs)', 'old_value': 'K League 1, 11st of 12  (facing play-offs)'}}}
+103: {'values_changed': {"root['position']": {'new_value': 'K League 1, 11st of 12  (facing play-offs)', 'old_value': 'K League 1, 11st of 12  (relegated)'}}}
+104: {'values_changed': {"root['league']": {'new_value': 'K League 1', 'old_value': 'K League 2'}, "root['season']": {'new_value': '2022 K League 2', 'old_value': '2022 K League 1'}}}
+106: {'values_changed': {"root['position']": {'new_value': 'K League 1, 11st of 12  (relegated)', 'old_value': 'K League 1, 11th of 12  (relegated)'}}}

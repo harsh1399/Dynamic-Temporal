@@ -1,0 +1,21 @@
+161: {'dictionary_item_removed': {"root['clubname']": 'Al-Jazira FC, نادي الجزيرة لكرة القدم', "root['ground']": 'Mohammed Bin Zayed Stadium', "root['capacity']": '42,056', "root['chairman']": 'Mansour Bin Zayed Al Nahyan', "root['manager']": 'Marcel Keizer', "root['league']": 'UAE Arabian Gulf League', "root['season']": '2019–20 UAE Pro-League', "root['position']": 'UAE Pro-League, 3rd', "root['current']": '2020–21 Al Jazira Club season '}}
+180: {'dictionary_item_added': {"root['manager']": 'Marcel Keizer', "root['current']": '2020–21 Al Jazira Club season '}, 'dictionary_item_removed': {"root['coach']": 'Marcel Keizer'}, 'values_changed': {"root['clubname']": {'new_value': 'Al-Jazira FC, نادي الجزيرة لكرة القدم', 'old_value': 'Al Jazira'}, "root['position']": {'new_value': 'UAE Pro-League, 3rd', 'old_value': 'UAE Pro League, 3rd'}}}
+183: {'values_changed': {"root['league']": {'new_value': 'UAE Arabian Gulf League', 'old_value': 'UAE Pro League'}, "root['season']": {'new_value': '2019–20 UAE Pro-League', 'old_value': '2019–20 UAE Pro League'}}}
+187: {'values_changed': {"root['clubname']": {'new_value': 'Al Jazira', 'old_value': 'Al Jazira, نادي الجزيرة لكرة القدم'}}}
+189: {'dictionary_item_removed': {"root['current']": '2020–21 Al Jazira Club season '}}
+198: {'values_changed': {"root['season']": {'new_value': '2019–20 UAE Pro League', 'old_value': '2020–21 UAE Pro League'}, "root['position']": {'new_value': 'UAE Pro League, 3rd', 'old_value': 'UAE Pro League, 1st (champion)'}}}
+211: {'values_changed': {"root['current']": {'new_value': '2020–21 Al Jazira Club season ', 'old_value': '2021–22 Al Jazira Club season '}}}
+221: {'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st (champion)', 'old_value': 'UAE Pro League, 1st'}}}
+233: {'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st', 'old_value': 'UAE Pro League, 1st (champion)'}}}
+234: {'dictionary_item_added': {"root['current']": '2021–22 Al Jazira Club season '}, 'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st (champion)', 'old_value': 'UAE Pro League, 1st'}}}
+235: {'dictionary_item_removed': {"root['current']": '2021–22 Al Jazira Club season '}, 'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st', 'old_value': 'UAE Pro League, 1st (champion)'}}}
+236: {'dictionary_item_added': {"root['current']": '2021–22 Al Jazira Club season '}, 'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st (champion)', 'old_value': 'UAE Pro League, 1st'}}}
+237: {'dictionary_item_removed': {"root['current']": '2021–22 Al Jazira Club season '}, 'values_changed': {"root['position']": {'new_value': 'UAE Pro League, 1st', 'old_value': 'UAE Pro League, 1st (champion)'}}}
+243: {'values_changed': {"root['clubname']": {'new_value': 'Al Jazira, نادي الجزيرة لكرة القدم', 'old_value': 'Al Jazira, الجزيرة'}}}
+267: {'values_changed': {"root['ground']": {'new_value': 'Mohammed Bin Zayed Stadium', 'old_value': 'Mohammed bin Zayed Stadium'}}}
+280: {'values_changed': {"root['season']": {'new_value': '2020–21 UAE Pro League', 'old_value': '2021–22 UAE Pro League'}, "root['position']": {'new_value': 'UAE Pro League, 1st (champion)', 'old_value': 'UAE Pro League, 4th'}}}
+281: {'values_changed': {"root['season']": {'new_value': '2021–22 UAE Pro League', 'old_value': '2020–21 UAE Pro League'}, "root['position']": {'new_value': 'UAE Pro League, 4th', 'old_value': 'UAE Pro League, 1st (champion)'}}}
+284: {'values_changed': {"root['season']": {'new_value': '2020–21 UAE Pro League', 'old_value': '2021–22 UAE Pro League'}, "root['position']": {'new_value': 'UAE Pro League, 1st (champion)', 'old_value': 'UAE Pro League, 4th'}}}
+287: {'values_changed': {"root['capacity']": {'new_value': '42,056', 'old_value': '37,000'}}}
+288: {'values_changed': {"root['capacity']": {'new_value': '37,000', 'old_value': '42,056'}}}
+298: {'values_changed': {"root['current']": {'new_value': '2021–22 Al Jazira Club season ', 'old_value': '2022–23 Al Jazira Club season '}}}

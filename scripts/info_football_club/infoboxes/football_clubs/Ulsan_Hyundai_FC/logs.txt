@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Ulsan Hyundai', "root['ground']": 'Ulsan Munsu Football Stadium', "root['capacity']": '44,102', "root['owner']": 'Hyundai Heavy Industries', "root['chairman']": 'Chung Mong-joon', "root['manager']": 'Hong Myung-bo', "root['league']": 'K League 1', "root['season']": '2020 K League 1', "root['position']": 'K League 1, 2nd of 12', "root['current']": '2020 Ulsan Hyundai FC season'}}
+22: {'values_changed': {"root['season']": {'new_value': '2020 K League 1', 'old_value': '2021 K League 1'}}}
+24: {'values_changed': {"root['current']": {'new_value': '2020 Ulsan Hyundai FC season', 'old_value': '2022 Ulsan Hyundai FC season'}}}
+48: {'values_changed': {"root['season']": {'new_value': '2021 K League 1', 'old_value': '2022 K League 1'}, "root['position']": {'new_value': 'K League 1, 2nd of 12', 'old_value': 'K League 1, champion'}}}
+52: {'values_changed': {"root['position']": {'new_value': 'K League 1, champion', 'old_value': '1st (champions)'}}}
+53: {'values_changed': {"root['position']": {'new_value': '1st (champions)', 'old_value': '1st of 12 (champions)'}}}
+55: {'dictionary_item_added': {"root['current']": '2022 Ulsan Hyundai FC season'}, 'values_changed': {"root['position']": {'new_value': '1st of 12 (champions)', 'old_value': 'K League 1, 1st of 12 (champions)'}}}

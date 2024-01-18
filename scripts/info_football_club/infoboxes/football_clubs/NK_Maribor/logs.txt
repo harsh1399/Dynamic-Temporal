@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Maribor', "root['ground']": 'Ljudski vrt', "root['capacity']": '12,702', "root['chrtitle']": 'President', "root['chairman']": 'Drago Cotar', "root['mgrtitle']": 'Head coach', "root['manager']": 'Mauro Camoranesi', "root['league']": 'Slovenian PrvaLiga', "root['season']": '2019–20 Slovenian PrvaLiga', "root['position']": 'Slovenian PrvaLiga, 2nd', "root['current']": '2020–21 NK Maribor season '}}
+8: {'values_changed': {"root['manager']": {'new_value': 'Mauro Camoranesi', 'old_value': "''Vacant''"}}}
+9: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Saša Gajser (caretaker)'}}}
+12: {'values_changed': {"root['manager']": {'new_value': 'Saša Gajser (caretaker)', 'old_value': 'Simon Rožman'}}}
+31: {'dictionary_item_added': {"root['current']": '2020–21 NK Maribor season '}, 'values_changed': {"root['season']": {'new_value': '2019–20 Slovenian PrvaLiga', 'old_value': '2020–21 Slovenian PrvaLiga'}}}
+38: {'values_changed': {"root['capacity']": {'new_value': '12,702', 'old_value': '11,671'}}}
+102: {'values_changed': {"root['manager']": {'new_value': 'Simon Rožman', 'old_value': 'Radovan Karanović (caretaker)'}}}
+113: {'values_changed': {"root['manager']": {'new_value': 'Radovan Karanović (caretaker)', 'old_value': 'Radovan Karanović'}}}
+248: {'values_changed': {"root['season']": {'new_value': '2020–21 Slovenian PrvaLiga', 'old_value': '2021–22 Slovenian PrvaLiga'}, "root['position']": {'new_value': 'Slovenian PrvaLiga, 2nd', 'old_value': 'Slovenian PrvaLiga, 1st of 10 (champions)'}}}
+303: {'values_changed': {"root['manager']": {'new_value': 'Radovan Karanović', 'old_value': "''Vacant''"}}}
+307: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Damir Krznar'}}}

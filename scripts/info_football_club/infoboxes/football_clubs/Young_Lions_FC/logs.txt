@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Young Lions', "root['ground']": 'Jalan Besar Stadium', "root['coach']": 'Philippe Aw', "root['mgrtitle']": 'Manager', "root['manager']": 'Samuel Tan', "root['league']": 'Singapore Premier League', "root['season']": '2021 Singapore Premier League', "root['position']": 'Singapore Premier League, 8th of 8'}}
+1: {'values_changed': {"root['coach']": {'new_value': 'Philippe Aw', 'old_value': 'Ronald Koeman'}}}
+20: {'dictionary_item_added': {"root['coach']": 'Ronald Koeman'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head Coach'}, "root['manager']": {'new_value': 'Samuel Tan', 'old_value': 'Nazri Nasir'}}}
+28: {'dictionary_item_removed': {"root['current']": '2022 Garena Young Lions FC season'}}
+64: {'values_changed': {"root['manager']": {'new_value': 'Nazri Nasir', 'old_value': 'Philippe Aw Thiam Hor'}}}
+65: {'values_changed': {"root['manager']": {'new_value': 'Philippe Aw Thiam Hor', 'old_value': 'Philippe Aw'}}}
+91: {'values_changed': {"root['season']": {'new_value': '2021 Singapore Premier League', 'old_value': '2022 Singapore Premier League'}, "root['current']": {'new_value': '2022 Garena Young Lions FC season', 'old_value': '2023 Garena Young Lions FC season'}}}
+106: {'dictionary_item_removed': {"root['capacity']": '6,000'}}
+107: {'dictionary_item_removed': {"root['owner']": 'Football Association of Singapore '}}

@@ -1,0 +1,29 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Colorado Rapids', "root['ground']": 'ubl', "root['capacity']": '18,061,', "root['chrtitle']": 'Owner', "root['chairman']": 'Stan Kroenke', "root['mgrtitle']": 'Head coach', "root['manager']": 'Anthony Hudson (football manager)', "root['league']": 'Major League Soccer', "root['season']": '2017 Major League Soccer season', "root['position']": 'Western Conference: 10th Overall: 20th Playoffs: Did not qualify', "root['American']": 'true', "root['current']": '2017 Colorado Rapids season'}}
+16: {'values_changed': {"root['current']": {'new_value': '2017 Colorado Rapids season', 'old_value': '2018 Colorado Rapids season'}}}
+49: {'values_changed': {"root['chairman']": {'new_value': 'Stan Kroenke', 'old_value': 'Stan Kroenke, nowrap'}, "root['position']": {'new_value': 'Western Conference: 10th Overall: 20th Playoffs: Did not qualify', 'old_value': 'Western Conference(MLS)'}}}
+50: {'values_changed': {"root['position']": {'new_value': 'Western Conference(MLS)', 'old_value': 'Western Conference (MLS)'}}}
+53: {'values_changed': {"root['capacity']": {'new_value': '18,061,', 'old_value': '18,061, expandable to 19,680'}}}
+85: {'dictionary_item_added': {"root['ground']": 'ubl', "root['league']": 'Major League Soccer'}, 'dictionary_item_removed': {"root['stadium']": "Dick's Sporting Goods Park Commerce City, Colorado", "root['conference']": 'Western Conference (MLS)', "root['mls_cups']": "'''1''' (MLS Cup 2010", "root['supporters_shields']": "'''0'''", "root['domestic_cups']": "'''0'''"}, 'values_changed': {"root['position']": {'new_value': 'Western Conference (MLS)', 'old_value': 'Conference: 10th Overall: 20th Playoffs: Did not qualify'}}}
+95: {'dictionary_item_added': {"root['stadium']": "Dick's Sporting Goods Park Commerce City, Colorado", "root['conference']": 'Western Conference (MLS)', "root['mls_cups']": "'''1''' (MLS Cup 2010", "root['supporters_shields']": "'''0'''", "root['domestic_cups']": "'''0'''"}, 'dictionary_item_removed': {"root['ground']": 'ubl', "root['league']": 'Major League Soccer'}, 'values_changed': {"root['position']": {'new_value': 'Conference: 10th Overall: 20th Playoffs: Did not qualify', 'old_value': 'Western Conference (MLS)'}}}
+96: {'dictionary_item_added': {"root['ground']": 'ubl'}, 'dictionary_item_removed': {"root['stadium']": 'ubl'}}
+106: {'values_changed': {"root['season']": {'new_value': '2017 Major League Soccer season', 'old_value': '2018 Major League Soccer season'}}}
+108: {'values_changed': {"root['chairman']": {'new_value': 'Stan Kroenke, nowrap', 'old_value': 'Kroenke Sports & Entertainment'}}}
+124: {'dictionary_item_added': {"root['chrtitle']": 'Owner', "root['chairman']": 'Kroenke Sports & Entertainment'}, 'dictionary_item_removed': {"root['owntitle']": 'Owner', "root['owner']": 'Kroenke Sports & Entertainment'}, 'values_changed': {"root['capacity']": {'new_value': '18,061, expandable to 19,680', 'old_value': '18,061 (expandable to 19,680)'}, "root['manager']": {'new_value': 'Anthony Hudson (football manager)', 'old_value': 'Robin Fraser'}, "root['season']": {'new_value': '2018 Major League Soccer season', 'old_value': '2020 Major League Soccer season'}, "root['American']": {'new_value': 'true', 'old_value': 'true '}, "root['current']": {'new_value': '2018 Colorado Rapids season', 'old_value': '2021 Colorado Rapids season'}}}
+131: {'values_changed': {"root['current']": {'new_value': '2021 Colorado Rapids season', 'old_value': '2022 Colorado Rapids season'}}}
+141: {'values_changed': {"root['season']": {'new_value': '2020 Major League Soccer season', 'old_value': '2021 Major League Soccer season'}}}
+213: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment', 'old_value': 'Hany Mukhtar'}}}
+214: {'values_changed': {"root['owner']": {'new_value': 'Hany Mukhtar', 'old_value': 'Kroenke Sports & Entertainment'}}}
+215: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment', 'old_value': 'Nashville SC'}}}
+216: {'values_changed': {"root['owner']": {'new_value': 'Nashville SC', 'old_value': 'Kroenke Sports & Entertainment'}}}
+225: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+253: {'values_changed': {"root['season']": {'new_value': '2022 Major League Soccer season', 'old_value': '2023 Major League Soccer season'}}}
+254: {'values_changed': {"root['season']": {'new_value': '2023 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}, "root['current']": {'new_value': '2022 Colorado Rapids season', 'old_value': '2023 Colorado Rapids season'}}}
+268: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment', 'old_value': 'Real Salt Lake'}}}
+269: {'values_changed': {"root['owner']": {'new_value': 'Real Salt Lake', 'old_value': 'Kroenke Sports & Entertainment'}}}
+271: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment', 'old_value': 'Kroenke Sports & EntertainmentRSL'}}}
+272: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & EntertainmentRSL', 'old_value': 'Kroenke Sports & Entertainment Real Salt Lake'}}}
+273: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment Real Salt Lake', 'old_value': 'Kroenke Sports & Entertainment'}}}
+278: {'values_changed': {"root['capacity']": {'new_value': '18,061 (expandable to 19,680)', 'old_value': '85,000'}}}
+279: {'values_changed': {"root['capacity']": {'new_value': '85,000', 'old_value': '18,061 (expandable to 19,680)'}}}
+284: {'values_changed': {"root['owner']": {'new_value': 'Kroenke Sports & Entertainment', 'old_value': 'Philadelphia Union'}}}
+285: {'values_changed': {"root['owner']": {'new_value': 'Philadelphia Union', 'old_value': 'Kroenke Sports & Entertainment'}}}

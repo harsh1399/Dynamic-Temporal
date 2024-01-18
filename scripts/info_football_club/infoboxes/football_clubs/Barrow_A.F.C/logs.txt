@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Barrow', "root['ground']": 'Holker Street', "root['capacity']": '5,045 (1,000 seated)', "root['chairman']": 'Paul Hornby', "root['manager']": 'Pete Wild', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater', "root['current']": '2022–23 Barrow A.F.C. season'}}
+7: {'values_changed': {"root['capacity']": {'new_value': '5,045 (1,000 seated)', 'old_value': '5,400 (1,000 seated)'}}}
+37: {'values_changed': {"root['capacity']": {'new_value': '5,400 (1,000 seated)', 'old_value': '5,000 (1,000 seated)'}}}
+39: {'values_changed': {"root['capacity']": {'new_value': '5,000 (1,000 seated)', 'old_value': '5,400 (1,000 seated)'}}}
+98: {'dictionary_item_added': {"root['manager']": 'Pete Wild'}, 'values_changed': {"root['clubname']": {'new_value': 'Barrow', 'old_value': 'Denis Toy'}, "root['ground']": {'new_value': 'Holker Street', 'old_value': 'worst team in Cumbria'}}}
+99: {'dictionary_item_removed': {"root['manager']": 'Pete Wild'}, 'values_changed': {"root['clubname']": {'new_value': 'Denis Toy', 'old_value': 'Barrow'}, "root['ground']": {'new_value': 'worst team in Cumbria', 'old_value': 'Holker Street'}}}
+106: {'values_changed': {"root['clubname']": {'new_value': 'Barrow', 'old_value': 'Simmos Toilet'}, "root['ground']": {'new_value': 'Holker Street', 'old_value': 'Moxons Playarea'}, "root['manager']": {'new_value': 'Pete Wild', 'old_value': 'Paul Simpson'}}}
+107: {'values_changed': {"root['clubname']": {'new_value': 'Simmos Toilet', 'old_value': 'Barrow'}, "root['ground']": {'new_value': 'Moxons Playarea', 'old_value': 'Holker Street'}, "root['manager']": {'new_value': 'Paul Simpson', 'old_value': 'Pete Wild'}}}
+129: {'values_changed': {"root['current']": {'new_value': '2022–23 Barrow A.F.C. season', 'old_value': '2023–24 Barrow A.F.C. season'}}}

@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Beijing Renhe Běijīng Rénhé 北京人和', "root['ground']": 'Beijing Fengtai Stadium, Beijing', "root['capacity']": '31,043', "root['owner']": 'Renhe Commercial Holdings Company Limited , Dai Yongge , Xiuli Hawken', "root['chairman']": 'Gong Lei (footballer)', "root['manager']": 'Aleksandar Stanojević', "root['mgrtitle']": 'Head coach', "root['league']": 'Chinese Super League', "root['season']": '2018 Chinese Super League', "root['position']": 'Super League, 8th', "root['current']": '2016 Beijing Renhe F.C. season'}}
+1: {'values_changed': {"root['current']": {'new_value': '2016 Beijing Renhe F.C. season', 'old_value': '2019 Beijing Renhe F.C. season'}}}
+31: {'values_changed': {"root['manager']": {'new_value': 'Aleksandar Stanojević', 'old_value': 'Vacant'}}}
+32: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Luis García'}}}
+33: {'values_changed': {"root['manager']": {'new_value': 'Luis García', 'old_value': 'Luis García (footballer, born 1972)'}}}
+48: {'values_changed': {"root['manager']": {'new_value': 'Luis García (footballer, born 1972)', 'old_value': 'Wang Bo'}}}
+51: {'values_changed': {"root['manager']": {'new_value': 'Wang Bo', 'old_value': 'Wang Bo (football manager)'}}}
+52: {'values_changed': {"root['league']": {'new_value': 'Chinese Super League', 'old_value': 'Chinese League One'}, "root['season']": {'new_value': '2018 Chinese Super League', 'old_value': '2019 Chinese Super League'}, "root['position']": {'new_value': 'Super League, 8th', 'old_value': 'Super League, 16th (Relegated)'}}}
+62: {'dictionary_item_added': {"root['season']": '2019 Chinese Super League'}, 'values_changed': {"root['league']": {'new_value': 'Chinese League One', 'old_value': 'China League One'}, "root['position']": {'new_value': 'Super League, 16th (Relegated)', 'old_value': 'Chinese Super League, 16th (relegated)'}}}
+63: {'dictionary_item_removed': {"root['season']": '2019 Chinese Super League'}}
+71: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'dictionary_item_removed': {"root['mrgtitle']": 'manager'}, 'values_changed': {"root['position']": {'new_value': 'Chinese Super League, 16th (relegated)', 'old_value': 'Chinese Super League, 16th of 16 (relegated)'}}}
+85: {'values_changed': {"root['league']": {'new_value': 'China League One', 'old_value': 'China League Two'}, "root['season']": {'new_value': '2019 Chinese Super League', 'old_value': '2020 China League One'}, "root['position']": {'new_value': 'Chinese Super League, 16th of 16 (relegated)', 'old_value': 'League One, 17th of 18 (relegated)'}}}
+90: {'values_changed': {"root['clubname']": {'new_value': 'Beijing Renhe Běijīng Rénhé 北京人和', 'old_value': 'Beijing Chengfeng Běijīng Chéngfēng 北京橙丰'}}}
+93: {'values_changed': {"root['clubname']": {'new_value': 'Beijing Chengfeng Běijīng Chéngfēng 北京橙丰', 'old_value': 'Beijing Renhe Běijīng Rénhé 北京人和'}}}
+100: {'values_changed': {"root['league']": {'new_value': 'China League Two', 'old_value': 'China League One'}, "root['position']": {'new_value': 'League One, 17th of 18 (relegated)', 'old_value': 'League One, 17th'}}}
+101: {'dictionary_item_removed': {"root['dissolved']": 'Start date and age'}}
+122: {'values_changed': {"root['clubname']": {'new_value': 'Beijing Renhe Běijīng Rénhé 北京人和', 'old_value': 'Beijing Chengfeng Běijīng Chéngfēng 北京橙丰'}}}

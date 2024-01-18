@@ -1,0 +1,156 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'A.F.C. Bournemouth', "root['ground']": 'Dean Court, Bournemouth', "root['capacity']": '10,000', "root['chairman']": 'Eddie Mitchell, Maxim Demin', "root['manager']": 'Eddie Howe', "root['mgrtitle']": 'Manager', "root['league']": 'Football League One', "root['season']": '2011–12 in English football', "root['position']": 'League One, 11th'}}
+44: {'values_changed': {"root['capacity']": {'new_value': '10,000', 'old_value': '9000'}}}
+53: {'values_changed': {"root['capacity']": {'new_value': '9000', 'old_value': '10,000'}}}
+86: {'values_changed': {"root['ground']": {'new_value': 'Dean Court, Bournemouth', 'old_value': 'Honobongo Court, Bournemouth'}, "root['capacity']": {'new_value': '10,000', 'old_value': '10,000,000'}, "root['league']": {'new_value': 'Football League One', 'old_value': 'Premier Leaugue'}, "root['position']": {'new_value': 'League One, 11th', 'old_value': 'Premier Leaugue, 1st'}}}
+87: {'values_changed': {"root['ground']": {'new_value': 'Honobongo Court, Bournemouth', 'old_value': 'Dean Court, Bournemouth'}, "root['capacity']": {'new_value': '10,000,000', 'old_value': '10,000'}, "root['league']": {'new_value': 'Premier Leaugue', 'old_value': 'Football League One'}, "root['position']": {'new_value': 'Premier Leaugue, 1st', 'old_value': 'League One, 11th'}}}
+88: {'values_changed': {"root['ground']": {'new_value': 'Dean Court, Bournemouth', 'old_value': 'Honobongo Court, Bournemouth'}, "root['capacity']": {'new_value': '10,000', 'old_value': '10,000,000'}, "root['league']": {'new_value': 'Football League One', 'old_value': 'Premier Leaugue'}, "root['position']": {'new_value': 'League One, 11th', 'old_value': 'Premier Leaugue, 1st'}}}
+89: {'values_changed': {"root['ground']": {'new_value': 'Honobongo Court, Bournemouth', 'old_value': 'Dean Court, Bournemouth'}, "root['capacity']": {'new_value': '10,000,000', 'old_value': '10,000'}, "root['league']": {'new_value': 'Premier Leaugue', 'old_value': 'Football League One'}, "root['position']": {'new_value': 'Premier Leaugue, 1st', 'old_value': 'League One, 11th'}}}
+96: {'values_changed': {"root['position']": {'new_value': 'League One, 11th', 'old_value': 'Championship'}}}
+97: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football Championship'}, "root['position']": {'new_value': 'Championship', 'old_value': 'League 1 1st'}}}
+98: {'values_changed': {"root['league']": {'new_value': 'Football Championship', 'old_value': 'Football League One'}, "root['position']": {'new_value': 'League 1 1st', 'old_value': 'League One, 11th'}}}
+100: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football Championship'}, "root['position']": {'new_value': 'League One, 11th', 'old_value': 'League One, 1st'}}}
+102: {'values_changed': {"root['league']": {'new_value': 'Football Championship', 'old_value': 'Football League One'}, "root['position']": {'new_value': 'League One, 1st', 'old_value': 'League One, 11th'}}}
+104: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football League Championship'}}}
+107: {'values_changed': {"root['league']": {'new_value': 'Football League Championship', 'old_value': 'Football League One'}}}
+109: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football League Championship'}}}
+110: {'values_changed': {"root['league']": {'new_value': 'Football League Championship', 'old_value': 'Football League One'}}}
+111: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'The Championship'}, "root['season']": {'new_value': '2011–12 in English football', 'old_value': '2012–13 in English football'}, "root['position']": {'new_value': 'League One, 11th', 'old_value': 'Football League One'}}}
+112: {'values_changed': {"root['league']": {'new_value': 'The Championship', 'old_value': 'Football League One'}, "root['season']": {'new_value': '2012–13 in English football', 'old_value': '2011–12 in English football'}, "root['position']": {'new_value': 'Football League One', 'old_value': 'League One, 11th'}}}
+114: {'dictionary_item_removed': {"root['current']": 'Not going up ha ha'}}
+116: {'dictionary_item_added': {"root['current']": 'Not going up ha ha'}, 'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football League Championship'}, "root['season']": {'new_value': '2011–12 in English football', 'old_value': '2012–13 in English football'}, "root['position']": {'new_value': 'League One, 11th', 'old_value': 'Football League One'}}}
+131: {'values_changed': {"root['capacity']": {'new_value': '10,000', 'old_value': '9,783'}}}
+138: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'A.F.C. Bournemouth aka AFC Gayboys'}}}
+139: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth aka AFC Gayboys', 'old_value': 'A.F.C. Bournemouth'}}}
+153: {'values_changed': {"root['chairman']": {'new_value': 'Eddie Mitchell, Maxim Demin', 'old_value': 'Edmund Mitchell'}}}
+169: {'values_changed': {"root['capacity']": {'new_value': '9,783', 'old_value': '10,783'}}}
+198: {'dictionary_item_removed': {"root['current']": '2013–14 A.F.C. Bournemouth season'}}
+214: {'values_changed': {"root['capacity']": {'new_value': '10,783', 'old_value': '12,000'}}}
+239: {'values_changed': {"root['chairman']": {'new_value': 'Edmund Mitchell', 'old_value': 'Maxim Demin'}}}
+240: {'values_changed': {"root['chairman']": {'new_value': 'Maxim Demin', 'old_value': 'Edmund Mitchell'}}}
+245: {'values_changed': {"root['chairman']": {'new_value': 'Edmund Mitchell', 'old_value': 'Maxim Denim'}}}
+252: {'values_changed': {"root['chairman']": {'new_value': 'Maxim Denim', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Eddie Howe', 'old_value': 'flagicon'}}}
+307: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Jeff Mostyn'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Eddie Howe'}}}
+312: {'values_changed': {"root['ground']": {'new_value': 'Dean Court, Bournemouth', 'old_value': 'Dean Court, Boscombe, Bournemouth'}}}
+314: {'dictionary_item_removed': {"root['owner']": 'Maxim Demin flagicon'}}
+327: {'dictionary_item_added': {"root['position']": 'Football League One'}, 'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}, "root['ground']": {'new_value': 'Dean Court, Boscombe, Bournemouth', 'old_value': 'Dean Court'}, "root['capacity']": {'new_value': '12,000', 'old_value': '11,360'}, "root['owner']": {'new_value': 'Maxim Demin flagicon', 'old_value': 'Maxim Demin'}, "root['league']": {'new_value': 'Football League Championship', 'old_value': 'English football updater'}, "root['season']": {'new_value': '2012–13 in English football', 'old_value': 'English football updater'}, "root['current']": {'new_value': '2013–14 A.F.C. Bournemouth season', 'old_value': '2017–18 A.F.C. Bournemouth season'}}}
+338: {'values_changed': {"root['capacity']": {'new_value': '11,360', 'old_value': '23,360'}}}
+339: {'values_changed': {"root['capacity']": {'new_value': '23,360', 'old_value': '11,360'}}}
+356: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'Bournemouth Athletic'}}}
+359: {'values_changed': {"root['clubname']": {'new_value': 'Bournemouth Athletic', 'old_value': 'AFC Bournemouth'}}}
+365: {'values_changed': {"root['current']": {'new_value': '2017–18 A.F.C. Bournemouth season', 'old_value': '2017–18 AFC Bournemouth season'}}}
+366: {'values_changed': {"root['current']": {'new_value': '2017–18 AFC Bournemouth season', 'old_value': '2017–18 A.F.C. Bournemouth season'}}}
+410: {'dictionary_item_removed': {"root['position']": 'English football updater'}}
+423: {'values_changed': {"root['current']": {'new_value': '2017–18 A.F.C. Bournemouth season', 'old_value': '2018–19 A.F.C. Bournemouth season'}}}
+434: {'dictionary_item_removed': {"root['pos']": 'English football updater', "root['align']": '"left"', "root['rowspan']": 'Umbro |'}}
+461: {'dictionary_item_added': {"root['pos']": 'English football updater', "root['align']": '"left"', "root['rowspan']": 'Umbro |'}, 'values_changed': {"root['current']": {'new_value': '2018–19 A.F.C. Bournemouth season', 'old_value': '2018–19 AFC Bournemouth season'}}}
+462: {'values_changed': {"root['current']": {'new_value': '2018–19 AFC Bournemouth season', 'old_value': '2018–19 A.F.C. Bournemouth season'}}}
+509: {'values_changed': {"root['current']": {'new_value': '2018–19 A.F.C. Bournemouth season', 'old_value': '2018–19 A.F.C. Bournemouth season '}}}
+551: {'dictionary_item_added': {"root['current']": '2018–19 A.F.C. Bournemouth season '}, 'values_changed': {"root['manager']": {'new_value': 'Eddie Howe', 'old_value': 'Dylan Ryan'}}}
+554: {'values_changed': {"root['manager']": {'new_value': 'Dylan Ryan', 'old_value': 'Eddie Howe'}}}
+559: {'dictionary_item_removed': {"root['current']": '2018–19 A.F.C. Bournemouth season '}}
+590: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'A.F.C. Bournemouth'}}}
+591: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+592: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'A.F.C. Bournemouth'}}}
+593: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+638: {'values_changed': {"root['ground']": {'new_value': 'Dean Court', 'old_value': 'Dean Court, Bournemouth'}, "root['capacity']": {'new_value': '11,360', 'old_value': '11,329'}, "root['current']": {'new_value': '2018–19 A.F.C. Bournemouth season ', 'old_value': '2019–20 A.F.C. Bournemouth season '}}}
+644: {'values_changed': {"root['ground']": {'new_value': 'Dean Court, Bournemouth', 'old_value': 'Dean Court'}}}
+674: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'AFC Ellis'}, "root['ground']": {'new_value': 'Dean Court', 'old_value': 'Brock College'}, "root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'Ellis Jeanes'}, "root['chairman']": {'new_value': 'Jeff Mostyn', 'old_value': 'Ellis Jeanes'}, "root['manager']": {'new_value': 'Eddie Howe', 'old_value': 'Ellis Jeanes'}}}
+675: {'values_changed': {"root['clubname']": {'new_value': 'AFC Ellis', 'old_value': 'AFC Bournemouth'}, "root['ground']": {'new_value': 'Brock College', 'old_value': 'Dean Court'}, "root['owner']": {'new_value': 'Ellis Jeanes', 'old_value': 'Maxim Demin'}, "root['chairman']": {'new_value': 'Ellis Jeanes', 'old_value': 'Jeff Mostyn'}, "root['manager']": {'new_value': 'Ellis Jeanes', 'old_value': 'Eddie Howe'}}}
+677: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Championship bound'}}}
+678: {'values_changed': {"root['league']": {'new_value': 'Championship bound', 'old_value': 'English football updater'}}}
+717: {'values_changed': {"root['capacity']": {'new_value': '11,329', 'old_value': '11,364'}}}
+722: {'values_changed': {"root['ground']": {'new_value': 'Dean Court', 'old_value': 'Vitality Stadium'}}}
+724: {'values_changed': {"root['ground']": {'new_value': 'Vitality Stadium', 'old_value': 'Dean Court'}}}
+762: {'values_changed': {"root['chairman']": {'new_value': 'Jeff Mostyn', 'old_value': 'Jmemc55'}}}
+764: {'values_changed': {"root['chairman']": {'new_value': 'Jmemc55', 'old_value': 'Jeff Mostyn'}}}
+770: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'Boscombe'}}}
+771: {'values_changed': {"root['clubname']": {'new_value': 'Boscombe', 'old_value': 'AFC Bournemouth'}}}
+781: {'values_changed': {"root['capacity']": {'new_value': '11,364', 'old_value': '11,364<ref name'}}}
+800: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'English Football League Champtionship'}}}
+801: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'Norwich city'}}}
+802: {'values_changed': {"root['clubname']": {'new_value': 'Norwich city', 'old_value': 'AFC Bournemouth'}}}
+803: {'values_changed': {"root['league']": {'new_value': 'English Football League Champtionship', 'old_value': 'English football updater'}}}
+821: {'values_changed': {"root['current']": {'new_value': '2019–20 A.F.C. Bournemouth season ', 'old_value': '2020-2021 A.F.C. Bournemouth season '}}}
+824: {'values_changed': {"root['current']": {'new_value': '2020-2021 A.F.C. Bournemouth season ', 'old_value': '2020–21 A.F.C. Bournemouth season '}}}
+827: {'values_changed': {"root['manager']": {'new_value': 'Eddie Howe', 'old_value': 'Vacant'}}}
+836: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Championship'}}}
+837: {'values_changed': {"root['league']": {'new_value': 'Championship', 'old_value': 'EFL Championship'}}}
+846: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'A.F.C. Bournemouth'}}}
+847: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Louis Van Gaal'}}}
+848: {'values_changed': {"root['manager']": {'new_value': 'Louis Van Gaal', 'old_value': '"vacant"'}}}
+849: {'values_changed': {"root['manager']": {'new_value': '"vacant"', 'old_value': "''vacant''"}}}
+850: {'values_changed': {"root['manager']": {'new_value': "''vacant''", 'old_value': 'Jason Tindall'}}}
+884: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+885: {'dictionary_item_added': {"root['mgrtitle']": 'Manager'}, 'values_changed': {"root['league']": {'new_value': 'EFL Championship', 'old_value': 'English football updater'}}}
+925: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'A.F.C. Bournemouth'}}}
+926: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+947: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'Nottingham forest'}}}
+949: {'values_changed': {"root['clubname']": {'new_value': 'Nottingham forest', 'old_value': 'AFC Bournemouth'}}}
+957: {'values_changed': {"root['current']": {'new_value': '2020–21 A.F.C. Bournemouth season ', 'old_value': '2020–21 AFC Bournemouth season '}}}
+992: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'A.F.C. Bournemouth'}}}
+1003: {'values_changed': {"root['clubname']": {'new_value': 'A.F.C. Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+1023: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'AFC Boringmouth'}, "root['manager']": {'new_value': 'Jason Tindall', 'old_value': 'BTEC Howe'}}}
+1025: {'values_changed': {"root['clubname']": {'new_value': 'AFC Boringmouth', 'old_value': 'AFC Bournemouth'}, "root['manager']": {'new_value': 'BTEC Howe', 'old_value': 'Jason Tindall'}}}
+1026: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['manager']": {'new_value': 'Jason Tindall', 'old_value': 'Scott Parker'}, "root['current']": {'new_value': '2020–21 AFC Bournemouth season ', 'old_value': '2021–22 AFC Bournemouth season '}}}
+1087: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Manager'}}}
+1088: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head coach'}}}
+1091: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Head Coach'}}}
+1093: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}}}
+1124: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'AFC Yo-yo Bournemouth'}}}
+1129: {'values_changed': {"root['clubname']": {'new_value': 'AFC Yo-yo Bournemouth', 'old_value': 'AFC Bournemouth'}}}
+1133: {'values_changed': {"root['capacity']": {'new_value': '11,364<ref name', 'old_value': 'roughly 17<ref name'}}}
+1134: {'values_changed': {"root['capacity']": {'new_value': 'roughly 17<ref name', 'old_value': 'Roughly 17 <ref name'}}}
+1135: {'values_changed': {"root['capacity']": {'new_value': 'Roughly 17 <ref name', 'old_value': '11,364<ref name'}}}
+1145: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Premier League'}}}
+1146: {'values_changed': {"root['league']": {'new_value': 'Premier League', 'old_value': 'English football updater'}}}
+1158: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Premier League'}}}
+1160: {'values_changed': {"root['league']": {'new_value': 'Premier League', 'old_value': 'English football updater'}}}
+1180: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Premier League'}}}
+1181: {'values_changed': {"root['league']": {'new_value': 'Premier League', 'old_value': 'English football updater'}}}
+1192: {'values_changed': {"root['current']": {'new_value': '2021–22 AFC Bournemouth season ', 'old_value': '2022–23 AFC Bournemouth season '}}}
+1220: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'Juan Laporta'}}}
+1221: {'values_changed': {"root['owner']": {'new_value': 'Juan Laporta', 'old_value': 'Maxim Demin'}}}
+1246: {'values_changed': {"root['manager']": {'new_value': 'Scott Parker', 'old_value': 'Vacant'}}}
+1247: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Sam Allardyce'}}}
+1248: {'values_changed': {"root['manager']": {'new_value': 'Sam Allardyce', 'old_value': 'Rahul Bhatu'}}}
+1249: {'values_changed': {"root['manager']": {'new_value': 'Rahul Bhatu', 'old_value': 'Tawan Sintunawa'}}}
+1250: {'values_changed': {"root['manager']": {'new_value': 'Tawan Sintunawa', 'old_value': '-'}}}
+1251: {'values_changed': {"root['manager']": {'new_value': '-', 'old_value': "''Vacant''"}}}
+1255: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': "Gary O'Neil (interim)"}}}
+1292: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'Bill Foley'}}}
+1295: {'values_changed': {"root['owner']": {'new_value': 'Bill Foley', 'old_value': 'William P. Foley'}, "root['chairman']": {'new_value': 'Jeff Mostyn', 'old_value': 'Brad Grimfield'}}}
+1298: {'values_changed': {"root['owner']": {'new_value': 'William P. Foley', 'old_value': 'Maxim Demin'}, "root['chairman']": {'new_value': 'Brad Grimfield', 'old_value': 'Jeff Mostyn'}}}
+1300: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'William P. Foley'}, "root['chairman']": {'new_value': 'Jeff Mostyn', 'old_value': 'Brad Grimfield'}}}
+1301: {'values_changed': {"root['owner']": {'new_value': 'William P. Foley', 'old_value': 'Maxim Demin'}, "root['chairman']": {'new_value': 'Brad Grimfield', 'old_value': 'Jeff Mostyn'}}}
+1314: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Manager'}}}
+1321: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'Bill Foley'}}}
+1322: {'values_changed': {"root['owner']": {'new_value': 'Bill Foley', 'old_value': 'William P.Foley II'}}}
+1323: {'values_changed': {"root['owner']": {'new_value': 'William P.Foley II', 'old_value': 'William P. Foley II'}}}
+1324: {'values_changed': {"root['owner']": {'new_value': 'William P. Foley II', 'old_value': 'Maxim Demin'}}}
+1325: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': "But Bill Foley is the new owner? I changed it to him and you've changed it back! I know you need money but you have for the last like 15 years so i can't be that bad surely?"}}}
+1326: {'values_changed': {"root['owner']": {'new_value': "But Bill Foley is the new owner? I changed it to him and you've changed it back! I know you need money but you have for the last like 15 years so i can't be that bad surely?", 'old_value': 'Maxim Demin'}}}
+1328: {'dictionary_item_added': {"root['chairman']": 'Jeff Mostyn'}, 'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'William P. Foley'}}}
+1330: {'dictionary_item_removed': {"root['chairman']": 'William P. Foley'}, 'values_changed': {"root['owner']": {'new_value': 'William P. Foley', 'old_value': 'Black Knight Sports and Entertainment'}}}
+1332: {'values_changed': {"root['owner']": {'new_value': 'Black Knight Sports and Entertainment', 'old_value': 'Maxim Demin'}, "root['chairman']": {'new_value': 'William P. Foley', 'old_value': 'Jeff Mostyn'}}}
+1333: {'values_changed': {"root['manager']": {'new_value': "Gary O'Neil (interim)", 'old_value': "Gary O'Neil"}}}
+1336: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head coach'}}}
+1337: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Head Coach'}}}
+1338: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}}}
+1343: {'values_changed': {"root['owner']": {'new_value': 'Maxim Demin', 'old_value': 'Bill Foley'}}}
+1344: {'values_changed': {"root['owner']": {'new_value': 'Bill Foley', 'old_value': 'William P. Foley'}}}
+1345: {'values_changed': {"root['owner']": {'new_value': 'William P. Foley', 'old_value': 'Black Knight Football Club'}, "root['chairman']": {'new_value': 'Jeff Mostyn', 'old_value': 'William P. Foley'}}}
+1416: {'values_changed': {"root['capacity']": {'new_value': '11,364<ref name', 'old_value': '4,364<ref name'}, "root['owner']": {'new_value': 'Black Knight Football Club', 'old_value': 'Black Night Football Club'}}}
+1417: {'values_changed': {"root['capacity']": {'new_value': '4,364<ref name', 'old_value': '11,364<ref name'}, "root['owner']": {'new_value': 'Black Night Football Club', 'old_value': 'Black Knight Football Club'}}}
+1418: {'values_changed': {"root['ground']": {'new_value': 'Dean Court', 'old_value': 'Vitality Stadium)'}}}
+1422: {'dictionary_item_added': {"root['ground']": 'Vitality Stadium)', "root['capacity']": '11,364<ref name', "root['owner']": 'Black Knight Football Club', "root['chairman']": 'William P. Foley', "root['mgrtitle']": 'Head coach', "root['manager']": "Gary O'Neil", "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater', "root['current']": '2022–23 AFC Bournemouth season '}, 'dictionary_item_removed': {"root['colspan']": '"4"', "root['align']": '"center" |\'\'\'Owner\'\'\' |- | colspan'}}
+1423: {'dictionary_item_added': {"root['colspan']": '"4"', "root['align']": '"center" |\'\'\'Owner\'\'\' |- | colspan'}, 'dictionary_item_removed': {"root['ground']": 'Vitality Stadium)', "root['capacity']": '11,364<ref name', "root['owner']": 'Black Knight Football Club', "root['chairman']": 'William P. Foley', "root['mgrtitle']": 'Head coach', "root['manager']": "Gary O'Neil", "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater', "root['current']": '2022–23 AFC Bournemouth season '}}
+1424: {'values_changed': {"root['ground']": {'new_value': 'Vitality Stadium)', 'old_value': 'Vitality Stadium'}}}
+1432: {'values_changed': {"root['manager']": {'new_value': "Gary O'Neil", 'old_value': 'AFC Bournemouth'}, "root['league']": {'new_value': 'English football updater', 'old_value': 'AFC Bournemouth'}}}
+1435: {'values_changed': {"root['owner']": {'new_value': 'Black Knight Football Club', 'old_value': 'Turquoise Bidco Limited,<ref name'}}}
+1453: {'values_changed': {"root['capacity']": {'new_value': '11,364<ref name', 'old_value': '11,307<ref name'}}}
+1455: {'values_changed': {"root['capacity']": {'new_value': '11,307<ref name', 'old_value': '11,379<ref name'}}}
+1460: {'values_changed': {"root['ground']": {'new_value': 'Vitality Stadium', 'old_value': 'Dean Court'}}}
+1463: {'values_changed': {"root['capacity']": {'new_value': '11,379<ref name', 'old_value': '11,307<ref name'}}}
+1472: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bournemouth', 'old_value': 'Norwich City FC'}}}
+1473: {'values_changed': {"root['clubname']": {'new_value': 'Norwich City FC', 'old_value': 'AFC Bournemouth'}}}
+1493: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['current']": {'new_value': '2022–23 AFC Bournemouth season ', 'old_value': '2023–24 AFC Bournemouth season '}}}

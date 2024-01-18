@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Flora', "root['ground']": 'A. Le Coq Arena', "root['capacity']": '10,340', "root['chrtitle']": 'President', "root['chairman']": 'Pelle Pohlak', "root['manager']": 'Jürgen Henn', "root['league']": 'Meistriliiga', "root['season']": '2017 Meistriliiga', "root['position']": 'Meistriliiga, 1st'}}
+16: {'values_changed': {"root['capacity']": {'new_value': '10,340', 'old_value': '15,000<ref name'}}}
+24: {'values_changed': {"root['capacity']": {'new_value': '15,000<ref name', 'old_value': '10,340<ref name'}, "root['manager']": {'new_value': 'Jürgen Henn', 'old_value': 'Jürgen Henn, Arno Pijpers'}}}
+32: {'values_changed': {"root['capacity']": {'new_value': '10,340<ref name', 'old_value': '14,405<ref name'}}}
+35: {'values_changed': {"root['manager']": {'new_value': 'Jürgen Henn, Arno Pijpers', 'old_value': 'Jürgen Henn'}}}
+42: {'values_changed': {"root['season']": {'new_value': '2017 Meistriliiga', 'old_value': '2018 Meistriliiga'}, "root['position']": {'new_value': 'Meistriliiga, 1st', 'old_value': 'Meistriliiga, 3rd'}}}
+48: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach', "root['current']": '2021 FC Flora season'}, 'values_changed': {"root['ground']": {'new_value': 'A. Le Coq Arena', 'old_value': 'Lilleküla Stadium'}, "root['capacity']": {'new_value': '14,405<ref name', 'old_value': '14,336<ref name'}, "root['season']": {'new_value': '2018 Meistriliiga', 'old_value': '2020 Meistriliiga'}, "root['position']": {'new_value': 'Meistriliiga, 3rd', 'old_value': 'Meistriliiga, 1st'}}}
+60: {'values_changed': {"root['season']": {'new_value': '2020 Meistriliiga', 'old_value': '2021 Meistriliiga'}, "root['position']": {'new_value': 'Meistriliiga, 1st', 'old_value': 'Meistriliiga, 2nd'}}}
+98: {'values_changed': {"root['season']": {'new_value': '2021 Meistriliiga', 'old_value': '2022 Meistriliiga'}, "root['position']": {'new_value': 'Meistriliiga, 2nd', 'old_value': 'Meistriliiga, 1st of 10 (champions)'}, "root['current']": {'new_value': '2021 FC Flora season', 'old_value': '2022 FC Flora season'}}}
+104: {'values_changed': {"root['position']": {'new_value': 'Meistriliiga, 1st of 10 (champions)', 'old_value': 'Meistriliiga, 1st (champions)'}}}
+108: {'values_changed': {"root['position']": {'new_value': 'Meistriliiga, 1st (champions)', 'old_value': 'Meistriliiga, 1st of 10 (champions)'}}}
+121: {'values_changed': {"root['current']": {'new_value': '2022 FC Flora season', 'old_value': '2023 FC Flora season'}}}

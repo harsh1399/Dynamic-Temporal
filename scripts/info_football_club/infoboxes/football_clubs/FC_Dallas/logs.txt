@@ -1,0 +1,38 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'FC Dallas', "root['American']": 'true', "root['stadium']": 'Toyota Stadium (Texas)', "root['capacity']": '20,500', "root['chrtitle']": 'Owner', "root['chairman']": 'Clark Hunt and Dan Hunt', "root['mgrtitle']": 'Head coach', "root['manager']": 'Nico Estévez', "root['league']": 'Major League Soccer', "root['season']": '2021 Major League Soccer season', "root['position']": 'Western Conference (MLS)', "root['pattern_name1']": 'Primary', "root['current']": '2021 FC Dallas season'}}
+1: {'values_changed': {"root['current']": {'new_value': '2021 FC Dallas season', 'old_value': '2022 FC Dallas season'}}}
+30: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas', 'old_value': 'FC Dallas is a bad team'}}}
+31: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas is a bad team', 'old_value': 'FC Dallas'}}}
+37: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas', 'old_value': 'FC Dallas is a bad team'}}}
+38: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas is a bad team', 'old_value': 'FC Dallas'}}}
+54: {'values_changed': {"root['manager']": {'new_value': 'Nico Estévez', 'old_value': 'Robert Angus'}}}
+55: {'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt and Dan Hunt', 'old_value': 'Miroslav Mikos'}}}
+56: {'values_changed': {"root['chairman']": {'new_value': 'Miroslav Mikos', 'old_value': 'Miroslav Nikos'}}}
+57: {'values_changed': {"root['chairman']": {'new_value': 'Miroslav Nikos', 'old_value': 'Clark Hunt and Dan Hunt'}, "root['manager']": {'new_value': 'Robert Angus', 'old_value': 'Nico Estévez'}}}
+80: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas', 'old_value': 'Dallas Football Crybabies'}}}
+81: {'values_changed': {"root['clubname']": {'new_value': 'Dallas Football Crybabies', 'old_value': 'FC Dallas'}}}
+88: {'dictionary_item_added': {"root['chrtitle']": 'Owner', "root['chairman']": 'Clark Hunt and Dan Hunt', "root['mgrtitle']": 'Head coach', "root['manager']": 'Nico Estévez', "root['league']": 'Major League Soccer', "root['season']": '2021 Major League Soccer season', "root['position']": 'Western Conference (MLS)', "root['current']": '2022 FC Dallas season', "root['pattern_name1']": 'Primary'}, 'values_changed': {"root['capacity']": {'new_value': '20,500', 'old_value': '19.096  |'}}}
+89: {'dictionary_item_removed': {"root['chrtitle']": 'Owner', "root['chairman']": 'Clark Hunt and Dan Hunt', "root['mgrtitle']": 'Head coach', "root['manager']": 'Nico Estévez', "root['league']": 'Major League Soccer', "root['season']": '2021 Major League Soccer season', "root['position']": 'Western Conference (MLS)', "root['current']": '2022 FC Dallas season', "root['pattern_name1']": 'Primary'}, 'values_changed': {"root['capacity']": {'new_value': '19.096  |', 'old_value': '20,500'}}}
+90: {'values_changed': {"root['capacity']": {'new_value': '20,500', 'old_value': '19.096'}}}
+94: {'values_changed': {"root['capacity']": {'new_value': '19.096', 'old_value': '19,096'}}}
+121: {'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt and Dan Hunt', 'old_value': 'Nashville SC'}}}
+122: {'values_changed': {"root['chairman']": {'new_value': 'Nashville SC', 'old_value': 'Clark Hunt and Dan Hunt'}}}
+133: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+139: {'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt and Dan Hunt', 'old_value': 'Austin FC'}}}
+140: {'values_changed': {"root['chairman']": {'new_value': 'Austin FC', 'old_value': 'Hunt Sports Group'}}}
+141: {'values_changed': {"root['chairman']": {'new_value': 'Hunt Sports Group', 'old_value': 'Austin FC'}}}
+142: {'values_changed': {"root['chairman']": {'new_value': 'Austin FC', 'old_value': 'Hunt Sports Group'}}}
+143: {'dictionary_item_added': {"root['chrtitle']": 'Owner'}, 'dictionary_item_removed': {"root['owner']": 'Lamar Hunt'}, 'values_changed': {"root['chairman']": {'new_value': 'Hunt Sports Group', 'old_value': 'Clark Hunt'}}}
+169: {'dictionary_item_added': {"root['owner']": 'Lamar Hunt'}, 'values_changed': {"root['current']": {'new_value': '2022 FC Dallas season', 'old_value': '2023 FC Dallas season'}}}
+199: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas', 'old_value': 'FC Frisco'}}}
+200: {'values_changed': {"root['clubname']": {'new_value': 'FC Frisco', 'old_value': 'FC Dallas'}}}
+201: {'values_changed': {"root['clubname']": {'new_value': 'FC Dallas', 'old_value': 'FC Frisco'}, "root['capacity']": {'new_value': '19,096', 'old_value': '19,096 but only 30 supporters'}}}
+202: {'values_changed': {"root['clubname']": {'new_value': 'FC Frisco', 'old_value': 'FC Dallas'}}}
+204: {'values_changed': {"root['capacity']": {'new_value': '19,096 but only 30 supporters', 'old_value': '19,096'}}}
+206: {'dictionary_item_removed': {"root['owner']": 'Thorleifur Úlfarsson'}, 'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt', 'old_value': 'Thorleifur Úlfarsson'}}}
+207: {'dictionary_item_added': {"root['owner']": 'Thorleifur Úlfarsson'}, 'values_changed': {"root['chairman']": {'new_value': 'Thorleifur Úlfarsson', 'old_value': 'Clark Hunt'}}}
+208: {'dictionary_item_removed': {"root['owner']": 'Thorleifur Úlfarsson'}}
+209: {'dictionary_item_added': {"root['owner']": 'Thorleifur Úlfarsson'}, 'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt', 'old_value': 'Thorleifur Úlfarsson'}}}
+210: {'values_changed': {"root['chairman']": {'new_value': 'Thorleifur Úlfarsson', 'old_value': 'Clark Hunt'}}}
+211: {'values_changed': {"root['chairman']": {'new_value': 'Clark Hunt', 'old_value': 'Thorleifur Úlfarsson'}}}
+212: {'values_changed': {"root['chairman']": {'new_value': 'Thorleifur Úlfarsson', 'old_value': 'Clark Hunt'}}}
+220: {'values_changed': {"root['capacity']": {'new_value': '19,096', 'old_value': '19,097'}}}

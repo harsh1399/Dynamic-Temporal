@@ -1,0 +1,16 @@
+0: {'dictionary_item_removed': {"root['ground']": '#property:P115', "root['capacity']": '#property:P1083', "root['current']": '2021 League of Ireland Premier Division', "root['clubname']": 'Derry City', "root['owner']": 'Supporter owned', "root['chairman']": '#property:P488', "root['manager']": 'Ruaidhrí Higgins', "root['league']": 'nowrap', "root['season']": '2020 League of Ireland Premier Division', "root['position']": '4th'}}
+2: {'values_changed': {"root['chairman']": {'new_value': '#property:P488', 'old_value': 'patbyrne pat#property:P488'}, "root['position']": {'new_value': '4th', 'old_value': '10th'}}}
+3: {'values_changed': {"root['manager']": {'new_value': 'Ruaidhrí Higgins', 'old_value': 'LeagueofIreland'}}}
+4: {'values_changed': {"root['chairman']": {'new_value': 'patbyrne pat#property:P488', 'old_value': '#property:P488'}, "root['manager']": {'new_value': 'LeagueofIreland', 'old_value': 'Ruaidhrí Higgins'}, "root['position']": {'new_value': '10th', 'old_value': '4th'}}}
+25: {'values_changed': {"root['owner']": {'new_value': 'Supporter owned', 'old_value': 'Eric mcwoods'}}}
+26: {'values_changed': {"root['owner']": {'new_value': 'Eric mcwoods', 'old_value': 'Supporter owned'}}}
+28: {'values_changed': {"root['season']": {'new_value': '2020 League of Ireland Premier Division', 'old_value': '2021 League of Ireland Premier Division'}}}
+34: {'values_changed': {"root['clubname']": {'new_value': 'Derry City', 'old_value': 'Londonderry City'}}}
+35: {'values_changed': {"root['clubname']": {'new_value': 'Londonderry City', 'old_value': 'Derry City'}}}
+53: {'values_changed': {"root['position']": {'new_value': '4th', 'old_value': '4th of 10'}}}
+54: {'values_changed': {"root['owner']": {'new_value': 'Supporter owned', 'old_value': 'Stuart Rankin'}}}
+55: {'values_changed': {"root['owner']": {'new_value': 'Stuart Rankin', 'old_value': 'Supporter owned'}}}
+56: {'values_changed': {"root['owner']": {'new_value': 'Supporter owned', 'old_value': 'Michael patterson'}}}
+57: {'values_changed': {"root['owner']": {'new_value': 'Michael patterson', 'old_value': 'Supporter owned'}}}
+70: {'values_changed': {"root['position']": {'new_value': '4th of 10', 'old_value': '2nd of 10'}}}
+71: {'values_changed': {"root['season']": {'new_value': '2021 League of Ireland Premier Division', 'old_value': '2022 League of Ireland Premier Division'}}}

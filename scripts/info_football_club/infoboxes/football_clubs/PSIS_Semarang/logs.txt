@@ -1,0 +1,27 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'PSIS Semarang', "root['ground']": 'Jatidiri Stadium', "root['capacity']": '45,000', "root['owner']": 'aligned table', "root['chrtitle']": 'CEO', "root['chairman']": 'Yoyok Sukawi', "root['mgrtitle']": 'Head coach', "root['manager']": 'Dragan Đukanović', "root['league']": 'Liga 1 (Indonesia)', "root['season']": '2019 Liga 1', "root['position']": 'Liga 1, 14th', "root['current']": '2021–22 Liga 1 (Indonesia)'}}
+41: {'values_changed': {"root['capacity']": {'new_value': '45,000', 'old_value': '25,000'}}}
+46: {'values_changed': {"root['season']": {'new_value': '2019 Liga 1', 'old_value': '2021–22 Liga 1 (Indonesia)'}, "root['position']": {'new_value': 'Liga 1, 14th', 'old_value': 'Liga 1 (Indonesia)'}}}
+152: {'values_changed': {"root['manager']": {'new_value': 'Dragan Đukanović', 'old_value': 'Sérgio Alexandre'}}}
+165: {'values_changed': {"root['capacity']": {'new_value': '25,000', 'old_value': '30,000'}}}
+168: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '25,000'}}}
+201: {'values_changed': {"root['manager']": {'new_value': 'Sérgio Alexandre', 'old_value': "''Vacant''"}}}
+204: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Kim Do-hoon Article Talk'}}}
+205: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-hoon Article Talk', 'old_value': 'Kim Do-hoon'}}}
+206: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-hoon', 'old_value': "''Vacant''"}}}
+227: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Marion Mihail'}}}
+229: {'values_changed': {"root['manager']": {'new_value': 'Marion Mihail', 'old_value': 'Marian Mihail'}}}
+238: {'values_changed': {"root['manager']": {'new_value': 'Marian Mihail', 'old_value': "''Vacant''"}}}
+247: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Pablo Machín'}}}
+249: {'values_changed': {"root['manager']": {'new_value': 'Pablo Machín', 'old_value': 'Pablo Machín Díez'}}}
+251: {'type_changes': {"root['manager']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['flagicon'], 'new_value': 'Pablo Machín Díez'}}}
+255: {'type_changes': {"root['manager']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': "''Vacant''", 'new_value': ['flagicon']}}}
+261: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Ian Andrew Gillan (football coach)'}}}
+306: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'dictionary_item_removed': {"root['coach']": 'Ian Gillan '}, 'values_changed': {"root['manager']": {'new_value': 'Ian Andrew Gillan (football coach)', 'old_value': 'Wisnu Adi Yoga Nugroho'}}}
+307: {'values_changed': {"root['coach']": {'new_value': 'Ian Gillan ', 'old_value': 'Ian Andrew Gillan (football coach)'}}}
+332: {'values_changed': {"root['coach']": {'new_value': 'Ian Andrew Gillan (football coach)', 'old_value': 'Gilbert Agius'}}}
+345: {'values_changed': {"root['manager']": {'new_value': 'Wisnu Adi Yoga Nugroho', 'old_value': 'Muhammad Ridwan'}}}
+358: {'values_changed': {"root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+395: {'values_changed': {"root['manager']": {'new_value': 'Muhammad Ridwan', 'old_value': 'Eko Purdjianto'}}}
+444: {'values_changed': {"root['owner']": {'new_value': 'aligned table', 'old_value': 'PT Mahesa Jenar Semarang'}}}
+452: {'values_changed': {"root['manager']": {'new_value': 'Eko Purdjianto', 'old_value': 'Wisnu Adi Yoga Nugroho'}}}
+456: {'values_changed': {"root['current']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2023–24 Liga 1 (Indonesia)'}}}

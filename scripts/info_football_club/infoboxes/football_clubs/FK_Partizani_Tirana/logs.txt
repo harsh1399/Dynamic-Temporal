@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'FK Partizani', "root['ground']": 'Arena Kombëtare', "root['capacity']": '22,500', "root['chairman']": 'Gazmend Demi', "root['coach']": 'Dritan Mehmeti', "root['league']": 'Kategoria Superiore', "root['season']": '2020–21 Kategoria Superiore', "root['position']": 'Kategoria Superiore, 3rd', "root['current']": '2021–22 FK Partizani Tirana season'}}
+18: {'values_changed': {"root['season']": {'new_value': '2020–21 Kategoria Superiore', 'old_value': '2021–22 Kategoria Superiore'}}}
+22: {'values_changed': {"root['clubname']": {'new_value': 'FK Partizani', 'old_value': 'VK Partimorri'}, "root['chairman']": {'new_value': 'Gazmend Demi', 'old_value': 'Koqe Demi'}, "root['coach']": {'new_value': 'Dritan Mehmeti', 'old_value': 'Dritan Kar deti'}, "root['position']": {'new_value': 'Kategoria Superiore, 3rd', 'old_value': 'Kategoria Superiore, i treti nfyt i mbeti'}}}
+23: {'values_changed': {"root['clubname']": {'new_value': 'VK Partimorri', 'old_value': 'FK Partizani'}, "root['chairman']": {'new_value': 'Koqe Demi', 'old_value': 'Gazmend Demi'}, "root['coach']": {'new_value': 'Dritan Kar deti', 'old_value': 'Dritan Mehmeti'}, "root['position']": {'new_value': 'Kategoria Superiore, i treti nfyt i mbeti', 'old_value': 'Kategoria Superiore, 3rd'}}}
+91: {'dictionary_item_removed': {"root['owner']": 'Jiang Lizhang'}}
+93: {'dictionary_item_added': {"root['owner']": 'Jiang Lizhang'}, 'values_changed': {"root['coach']": {'new_value': 'Dritan Mehmeti', 'old_value': 'Vacant'}}}
+103: {'values_changed': {"root['coach']": {'new_value': 'Vacant', 'old_value': 'Giovanni Colella'}}}
+112: {'values_changed': {"root['chairman']": {'new_value': 'Gazmend Demi', 'old_value': 'Anxhela Anxhu'}}}
+113: {'values_changed': {"root['coach']": {'new_value': 'Giovanni Colella', 'old_value': 'Abel Sigra'}}}
+114: {'values_changed': {"root['chairman']": {'new_value': 'Anxhela Anxhu', 'old_value': 'Gazmend Demi'}, "root['coach']": {'new_value': 'Abel Sigra', 'old_value': 'Giovanni Colella'}}}

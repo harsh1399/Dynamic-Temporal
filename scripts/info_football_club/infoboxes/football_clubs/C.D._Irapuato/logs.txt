@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Atlético Irapuato', "root['ground']": 'Estadio Sergio León Chávez, Irapuato, Guanajuato', "root['capacity']": '25,000', "root['owner']": 'Jorge Rocha González', "root['manager']": 'Omar Arellano Nuño', "root['league']": 'Liga Premier de México', "root['season']": 'Season 2018–19', "root['position']": '1st – Group II (Quarter-finals)'}}
+9: {'values_changed': {"root['league']": {'new_value': 'Liga Premier de México', 'old_value': 'Liga MX'}}}
+10: {'values_changed': {"root['owner']": {'new_value': 'Jorge Rocha González', 'old_value': 'Julion Alvarez y Su Norteño Banda'}}}
+11: {'values_changed': {"root['clubname']": {'new_value': 'Atlético Irapuato', 'old_value': 'Atlético Irapuato de la liga mx'}}}
+13: {'values_changed': {"root['clubname']": {'new_value': 'Atlético Irapuato de la liga mx', 'old_value': 'Atlético Irapuato'}, "root['owner']": {'new_value': 'Julion Alvarez y Su Norteño Banda', 'old_value': 'Jorge Rocha González'}}}
+17: {'values_changed': {"root['league']": {'new_value': 'Liga MX', 'old_value': 'Liga Premier de México'}, "root['season']": {'new_value': 'Season 2018–19', 'old_value': 'Season 2019–20'}, "root['position']": {'new_value': '1st – Group II (Quarter-finals)', 'old_value': '2nd – Group II'}}}
+19: {'dictionary_item_removed': {"root['chairman']": 'Javier San Román'}, 'values_changed': {"root['owner']": {'new_value': 'Jorge Rocha González', 'old_value': 'Grupo Tecamachalco'}}}
+20: {'values_changed': {"root['manager']": {'new_value': 'Omar Arellano Nuño', 'old_value': 'Juan Manuel Rivera'}}}
+21: {'values_changed': {"root['clubname']": {'new_value': 'Atlético Irapuato', 'old_value': 'Irapuato'}}}
+37: {'values_changed': {"root['manager']": {'new_value': 'Juan Manuel Rivera', 'old_value': 'Juan Manuel Rivera (footballer)'}}}
+44: {'values_changed': {"root['manager']": {'new_value': 'Juan Manuel Rivera (footballer)', 'old_value': "''Vacant''"}}}
+47: {'values_changed': {"root['chairman']": {'new_value': 'Javier San Román', 'old_value': 'Andrés Arriaga'}, "root['manager']": {'new_value': "''Vacant''", 'old_value': 'Javier San Román'}}}
+56: {'values_changed': {"root['position']": {'new_value': '2nd – Group II', 'old_value': '2nd – Group II (Tournament abandoned)'}}}
+63: {'values_changed': {"root['season']": {'new_value': 'Season 2019–20', 'old_value': '2020–21'}, "root['position']": {'new_value': '2nd – Group II (Tournament abandoned)', 'old_value': '3rd – Group II (Champions)'}}}
+64: {'values_changed': {"root['season']": {'new_value': '2020–21', 'old_value': '2020–21 Liga Premier de México season'}}}
+104: {'values_changed': {"root['manager']": {'new_value': 'Javier San Román', 'old_value': 'Marco Antonio Trejo'}}}
+119: {'dictionary_item_added': {"root['owner']": 'Grupo Tecamachalco', "root['chairman']": 'Andrés Arriaga', "root['manager']": 'Marco Antonio Trejo', "root['league']": 'Liga Premier de México', "root['season']": '2020–21 Liga Premier de México season', "root['position']": '3rd – Group II (Champions)'}, 'dictionary_item_removed': {"root['dissolved']": 'Start date and age'}}
+124: {'dictionary_item_removed': {"root['league']": 'Serie A de México', "root['season']": '2023-24', "root['position']": 'Team return after hiatus'}}
+126: {'dictionary_item_added': {"root['dissolved']": 'Start date and age'}, 'dictionary_item_removed': {"root['owner']": 'Healthy People', "root['chairman']": 'Tania Lara Nava', "root['manager']": 'Luis Fernando Soto'}, 'values_changed': {"root['position']": {'new_value': 'Team return after hiatus', 'old_value': "''Pre–season''"}}}

@@ -1,0 +1,16 @@
+37: {'dictionary_item_removed': {"root['clubname']": 'Houston Dynamo FC', "root['ground']": 'PNC Stadium', "root['capacity']": '22,000', "root['owntitle']": 'Majority owner', "root['chrtitle']": 'General manager', "root['chairman']": 'Pat Onstad', "root['mgrtitle']": 'Head coach', "root['manager']": 'Pat Onstad', "root['league']": 'Major League Soccer', "root['season']": '2021 Major League Soccer season', "root['position']": 'Western Conference (MLS)', "root['current']": '2022 Houston Dynamo FC season', "root['American']": 'true'}}
+53: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC', 'old_value': 'Houston Dynamo FC is a bad team'}}}
+54: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC is a bad team', 'old_value': 'Houston Dynamo FC'}}}
+58: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC', 'old_value': 'Houston Dynamo FC is a bad team'}}}
+59: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC is a bad team', 'old_value': 'Houston Dynamo FC'}}}
+70: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC', 'old_value': 'Houston Dynamo'}}}
+96: {'values_changed': {"root['ground']": {'new_value': 'PNC Stadium', 'old_value': 'Q2 Stadium East'}, "root['chairman']": {'new_value': 'Pat Onstad', 'old_value': 'Daniel Pereira'}, "root['manager']": {'new_value': 'Pat Onstad', 'old_value': 'Daniel Pereira'}}}
+100: {'values_changed': {"root['ground']": {'new_value': 'Q2 Stadium East', 'old_value': 'PNC Stadium'}, "root['chairman']": {'new_value': 'Daniel Pereira', 'old_value': 'Pat Onstad'}, "root['manager']": {'new_value': 'Daniel Pereira', 'old_value': 'Pat Onstad'}}}
+169: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo', 'old_value': 'Houston Dynamo FC'}}}
+193: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+236: {'values_changed': {"root['current']": {'new_value': '2022 Houston Dynamo FC season', 'old_value': '2023 Houston Dynamo FC season'}}}
+237: {'values_changed': {"root['ground']": {'new_value': 'PNC Stadium', 'old_value': 'Shell Energy Stadium'}}}
+248: {'values_changed': {"root['clubname']": {'new_value': 'Houston Dynamo FC', 'old_value': 'Houston Dynamo'}}}
+268: {'values_changed': {"root['ground']": {'new_value': 'Shell Energy Stadium', 'old_value': "Shell Energy Stadium ,  ''The Burrow''"}}}
+273: {'values_changed': {"root['ground']": {'new_value': "Shell Energy Stadium ,  ''The Burrow''", 'old_value': 'Shell Energy Stadium , Houston, Texas'}}}
+291: {'dictionary_item_added': {"root['ground']": 'Shell Energy Stadium , Houston, Texas'}, 'dictionary_item_removed': {"root['stadium']": 'Shell Energy Stadium , Houston, Texas'}}

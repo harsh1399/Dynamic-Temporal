@@ -1,0 +1,28 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Sheriff Tiraspol', "root['ground']": 'Sheriff Stadium', "root['capacity']": '12,746', "root['owner']": 'Sheriff (company)', "root['chrtitle']": 'President', "root['chairman']": 'Victor Gușan', "root['mgrtitle']": 'Head Coach', "root['manager']": 'Yuriy Vernydub', "root['season']": '2019 Moldovan National Division', "root['position']": 'Divizia Națională, 1st', "root['current']": '2020 FC Sheriff Tiraspol season'}}
+24: {'values_changed': {"root['position']": {'new_value': 'Divizia Națională, 1st', 'old_value': 'Divizia Națională, 1st of 8'}, "root['current']": {'new_value': '2020 FC Sheriff Tiraspol season', 'old_value': '2020–21 FC Sheriff Tiraspol season'}}}
+43: {'values_changed': {"root['season']": {'new_value': '2019 Moldovan National Division', 'old_value': '2020–21 Moldovan National Division'}, "root['position']": {'new_value': 'Divizia Națională, 1st of 8', 'old_value': 'Divizia Națională, 1st of 10'}}}
+59: {'values_changed': {"root['current']": {'new_value': '2020–21 FC Sheriff Tiraspol season', 'old_value': '2021–22 FC Sheriff Tiraspol season'}}}
+166: {'values_changed': {"root['ground']": {'new_value': 'Sheriff Stadium', 'old_value': 'Bosaso Stadium'}}}
+167: {'values_changed': {"root['ground']": {'new_value': 'Bosaso Stadium', 'old_value': 'Sheriff Stadium'}}}
+217: {'values_changed': {"root['owner']": {'new_value': 'Sheriff (company)', 'old_value': '2 girls 1 schlupp Fc(company)'}}}
+220: {'dictionary_item_added': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sheriff Tiraspol', 'old_value': '2 girls 1 schlupp'}}}
+221: {'values_changed': {"root['ground']": {'new_value': 'Sheriff Stadium', 'old_value': 'Howe bridge'}}}
+222: {'values_changed': {"root['ground']": {'new_value': 'Howe bridge', 'old_value': 'Howe Bridge'}}}
+223: {'dictionary_item_removed': {"root['league']": 'Moldovan National Division'}, 'values_changed': {"root['clubname']": {'new_value': '2 girls 1 schlupp', 'old_value': 'Sheriff'}}}
+224: {'dictionary_item_added': {"root['league']": 'Moldovan National Division'}, 'dictionary_item_removed': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sheriff', 'old_value': 'Sheriff Tiraspol'}, "root['ground']": {'new_value': 'Howe Bridge', 'old_value': 'Sheriff Stadium'}, "root['owner']": {'new_value': '2 girls 1 schlupp Fc(company)', 'old_value': 'Sheriff (company)'}}}
+245: {'dictionary_item_removed': {"root['league']": 'Moldovan National Division'}}
+310: {'values_changed': {"root['clubname']": {'new_value': 'Sheriff Tiraspol', 'old_value': 'Sheriff'}}}
+349: {'values_changed': {"root['clubname']": {'new_value': 'Sheriff', 'old_value': 'Sheriff Athens'}}}
+351: {'values_changed': {"root['clubname']": {'new_value': 'Sheriff Athens', 'old_value': 'Sheriff'}}}
+382: {'values_changed': {"root['league']": {'new_value': 'Moldovan National Division', 'old_value': 'National Division'}}}
+383: {'values_changed': {"root['league']": {'new_value': 'National Division', 'old_value': 'Moldovan National Division'}}}
+402: {'values_changed': {"root['season']": {'new_value': '2020–21 Moldovan National Division', 'old_value': '2021–22 Moldovan National Division'}, "root['position']": {'new_value': 'Divizia Națională, 1st of 10', 'old_value': 'Divizia Națională, 1st of 8'}}}
+416: {'values_changed': {"root['manager']": {'new_value': 'Yuriy Vernydub', 'old_value': 'vacant'}}}
+419: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Stjepan Tomas'}}}
+501: {'values_changed': {"root['current']": {'new_value': '2021–22 FC Sheriff Tiraspol season', 'old_value': '2022–23 FC Sheriff Tiraspol season'}}}
+520: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['owner']": {'new_value': 'Sheriff (company)', 'old_value': 'Masoud'}, "root['manager']": {'new_value': 'Stjepan Tomas', 'old_value': 'Thomas Tuchel'}}}
+521: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['owner']": {'new_value': 'Masoud', 'old_value': 'Sheriff (company)'}, "root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Stjepan Tomas'}}}
+522: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['owner']": {'new_value': 'Sheriff (company)', 'old_value': 'Masoud'}, "root['manager']": {'new_value': 'Stjepan Tomas', 'old_value': 'Thomas Tuchel'}}}
+524: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['owner']": {'new_value': 'Masoud', 'old_value': 'Sheriff (company)'}, "root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Stjepan Tomas'}}}
+552: {'values_changed': {"root['manager']": {'new_value': 'Stjepan Tomas', 'old_value': 'Victor Mikhailov ,  small'}}}
+554: {'values_changed': {"root['manager']": {'new_value': 'Victor Mikhailov ,  small', 'old_value': 'Victor Mihailov, small'}}}

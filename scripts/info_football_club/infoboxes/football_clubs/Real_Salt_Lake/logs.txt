@@ -1,0 +1,114 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Real Salt Lake', "root['ground']": 'Rio Tinto Stadium, Sandy, UT', "root['capacity']": '20,008', "root['chrtitle']": 'Owner', "root['chairman']": 'flagicon', "root['mgrtitle']": 'Head Coach', "root['manager']": 'flagicon', "root['league']": 'Major League Soccer', "root['season']": '2009 Major League Soccer season', "root['position']": 'Western Conference: 5th, Overall: 8th, Playoffs: Champions', "root['American']": 'true', "root['current']": '2010 Real Salt Lake season'}}
+128: {'dictionary_item_removed': {"root['dissolved']": '2010'}, 'values_changed': {"root['clubname']": {'new_value': 'Real Salt Lake', 'old_value': 'Fake Salt Lake'}}}
+129: {'dictionary_item_added': {"root['dissolved']": '2010'}, 'values_changed': {"root['clubname']": {'new_value': 'Fake Salt Lake', 'old_value': 'Real Salt Lake'}}}
+231: {'values_changed': {"root['position']": {'new_value': 'Western Conference: 5th, Overall: 8th, Playoffs: Champions', 'old_value': 'Western Conference: 2nd, Overall: 2nd, Playoffs: In Progress'}}}
+232: {'values_changed': {"root['season']": {'new_value': '2009 Major League Soccer season', 'old_value': '2010 Major League Soccer season'}}}
+250: {'values_changed': {"root['position']": {'new_value': 'Western Conference: 2nd, Overall: 2nd, Playoffs: In Progress', 'old_value': 'Western Conference: 2nd, Overall: 2nd, Playoffs: Quarter-Finals'}}}
+260: {'dictionary_item_removed': {"root['rank']": '209'}}
+268: {'values_changed': {"root['current']": {'new_value': '2010 Real Salt Lake season', 'old_value': '2011 Real Salt Lake season'}}}
+269: {'values_changed': {"root['current']": {'new_value': '2011 Real Salt Lake season', 'old_value': '2010 Real Salt Lake season'}}}
+293: {'dictionary_item_added': {"root['rank']": '209'}, 'values_changed': {"root['current']": {'new_value': '2010 Real Salt Lake season', 'old_value': '2011 Real Salt Lake season'}}}
+307: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'SCP Worldwide, Dave Checketts, Dell Loy Hansen'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Jason Kreis'}, "root['season']": {'new_value': '2010 Major League Soccer season', 'old_value': '2011 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 2nd, Overall: 2nd, Playoffs: Quarter-Finals', 'old_value': 'Western Conference: 3rd, Overall: 3rd, Playoffs: Semifinals'}}}
+326: {'values_changed': {"root['current']": {'new_value': '2011 Real Salt Lake season', 'old_value': '2012 Real Salt Lake season'}}}
+350: {'values_changed': {"root['clubname']": {'new_value': 'Real Salt Lake', 'old_value': 'Real Radu Marcu'}, "root['manager']": {'new_value': 'Jason Kreis', 'old_value': 'Radu Marcu'}}}
+351: {'values_changed': {"root['clubname']": {'new_value': 'Real Radu Marcu', 'old_value': 'Real Salt Lake'}, "root['manager']": {'new_value': 'Radu Marcu', 'old_value': 'Jason Kreis'}}}
+354: {'values_changed': {"root['capacity']": {'new_value': '20,008', 'old_value': '20,213 http://pressbox.mlssoccer.com/sites/mlsdigitalpr.drupalgardens.com/files/Real%20Salt%20Lake%202012%20Media%20Guide.pdf#overlay-context'}}}
+423: {'dictionary_item_removed': {"root['style']": '"background:#fc0013; color:yellow;" scope', "root['align']": 'center', "root['rowspan']": '"2" style', "root['titlestyle']": 'background:#C80815; color:#FCC200; border:  solid #002366;', "root['state']": '20060812&content_id', "root['list']": 'December 2011   {| class'}, 'values_changed': {"root['capacity']": {'new_value': '20,213 http://pressbox.mlssoccer.com/sites/mlsdigitalpr.drupalgardens.com/files/Real%20Salt%20Lake%202012%20Media%20Guide.pdf#overlay-context', 'old_value': '20,213'}}}
+424: {'dictionary_item_added': {"root['style']": '"background:#fc0013; color:yellow;" scope', "root['align']": 'center', "root['rowspan']": '"2" style', "root['titlestyle']": 'background:#C80815; color:#FCC200; border:  solid #002366;', "root['state']": '20060812&content_id', "root['list']": 'December 2011   {| class'}, 'values_changed': {"root['capacity']": {'new_value': '20,213', 'old_value': '20,213 Citation'}}}
+500: {'values_changed': {"root['season']": {'new_value': '2011 Major League Soccer season', 'old_value': '2012 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 3rd, Overall: 3rd, Playoffs: Semifinals', 'old_value': "Western Conference: ''3rd'', Overall: ''3rd'', Playoffs: TBD"}}}
+501: {'values_changed': {"root['position']": {'new_value': "Western Conference: ''3rd'', Overall: ''3rd'', Playoffs: TBD", 'old_value': "Western Conference: ''2nd'', Overall: ''3rd'', Playoffs: TBD"}}}
+620: {'values_changed': {"root['position']": {'new_value': "Western Conference: ''2nd'', Overall: ''3rd'', Playoffs: TBD", 'old_value': "Western Conference: ''2nd'', Overall: ''5rd'', Playoffs: Quarterfinals"}, "root['current']": {'new_value': '2012 Real Salt Lake season', 'old_value': '2013 Real Salt Lake season'}}}
+649: {'dictionary_item_added': {"root['chrtitle']": 'Owner', "root['chairman']": 'SCP Worldwide, Dave Checketts, Dell Loy Hansen'}, 'values_changed': {"root['ground']": {'new_value': 'Rio Tinto Stadium, Sandy, UT', 'old_value': 'Rio Tinto Stadium, Sandy, Utah'}, "root['capacity']": {'new_value': '20,213 Citation', 'old_value': '20,213'}, "root['manager']": {'new_value': 'Jason Kreis', 'old_value': 'Jeff Cassar'}, "root['season']": {'new_value': '2012 Major League Soccer season', 'old_value': '2016 Major League Soccer season'}, "root['position']": {'new_value': "Western Conference: ''2nd'', Overall: ''5rd'', Playoffs: Quarterfinals", 'old_value': 'Western Conference: 6th, Overall: 9th, Playoffs: Conf. Knockout Round'}, "root['current']": {'new_value': '2013 Real Salt Lake season', 'old_value': '2017 Real Salt Lake season'}}}
+652: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}}}
+679: {'dictionary_item_removed': {"root['chairman']": 'flagicon'}, 'values_changed': {"root['manager']": {'new_value': 'Jeff Cassar', 'old_value': 'flagicon'}}}
+680: {'dictionary_item_added': {"root['chairman']": 'flagicon'}, 'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Jeff Cassar'}}}
+701: {'dictionary_item_removed': {"root['owner']": 'Dell Loy Hansen'}}
+705: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+706: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Emmanuel Boateng x2'}}}
+707: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng x2', 'old_value': 'Emmanuel Boateng'}}}
+710: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Emmanuel Boateng aka daddy'}}}
+711: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng aka daddy', 'old_value': 'Big DaddyEmmanuel Boateng'}}}
+712: {'values_changed': {"root['owner']": {'new_value': 'Big DaddyEmmanuel Boateng', 'old_value': 'Big Daddy Emmanuel Boateng'}}}
+713: {'values_changed': {"root['owner']": {'new_value': 'Big Daddy Emmanuel Boateng', 'old_value': 'Emmanuel Boateng'}}}
+714: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Big daddy Emmanuel Boateng'}}}
+717: {'values_changed': {"root['owner']": {'new_value': 'Big daddy Emmanuel Boateng', 'old_value': 'Emmanuel Boateng'}}}
+718: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}
+719: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Big daddy Emmanuel Boateng'}}}
+721: {'values_changed': {"root['manager']": {'new_value': 'Jeff Cassar', 'old_value': 'Trapp daddy Boa'}}}
+722: {'values_changed': {"root['manager']": {'new_value': 'Trapp daddy Boa', 'old_value': 'Jeff Cassar'}}}
+723: {'values_changed': {"root['owner']": {'new_value': 'Big daddy Emmanuel Boateng', 'old_value': 'Not you'}}}
+724: {'values_changed': {"root['owner']": {'new_value': 'Not you', 'old_value': 'Big daddy Emmanuel Boateng'}}}
+725: {'values_changed': {"root['owner']": {'new_value': 'Big daddy Emmanuel Boateng', 'old_value': 'Emmanuel Boateng'}}}
+728: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Big Papa Emmanuel Boateng'}}}
+729: {'values_changed': {"root['owner']": {'new_value': 'Big Papa Emmanuel Boateng', 'old_value': 'Emmanuel Boateng'}}}
+739: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}, "root['manager']": {'new_value': 'Jeff Cassar', 'old_value': 'Daryl Shore (interim)'}}}
+747: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Marcus Rashford'}}}
+748: {'values_changed': {"root['owner']": {'new_value': 'Marcus Rashford', 'old_value': 'Dell Loy Hansen'}}}
+750: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+752: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+759: {'values_changed': {"root['manager']": {'new_value': 'Daryl Shore (interim)', 'old_value': 'Mike Petke'}}}
+764: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emanuel Boateng'}}}
+765: {'values_changed': {"root['owner']": {'new_value': 'Emanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+785: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+786: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+827: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+828: {'values_changed': {"root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+852: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emanuel Boateng'}}}
+853: {'values_changed': {"root['owner']": {'new_value': 'Emanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+969: {'values_changed': {"root['season']": {'new_value': '2016 Major League Soccer season', 'old_value': '2017 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 6th, Overall: 9th, Playoffs: Conf. Knockout Round', 'old_value': 'Western Conference: 8th, Overall: 14th, Did not qualify'}}}
+970: {'values_changed': {"root['position']": {'new_value': 'Western Conference: 8th, Overall: 14th, Did not qualify', 'old_value': 'Western Conference: 8th, Overall: 14th, Playoffs: Did not qualify'}}}
+974: {'values_changed': {"root['current']": {'new_value': '2017 Real Salt Lake season', 'old_value': '2018 Real Salt Lake season'}}}
+997: {'dictionary_item_added': {"root['ground']": 'Rio Tinto Stadium, Sandy, Utah'}, 'dictionary_item_removed': {"root['stadium']": 'Rio Tinto Stadium, Sandy, Utah'}, 'values_changed': {"root['season']": {'new_value': '2017 Major League Soccer season', 'old_value': '2018 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 8th, Overall: 14th, Playoffs: Did not qualify', 'old_value': 'Western Conference: 6th, Overall: 12th, Playoffs: Conference semifinals'}, "root['current']": {'new_value': '2018 Real Salt Lake season', 'old_value': '2019 Real Salt Lake season'}}}
+1014: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+1015: {'values_changed': {"root['stadium']": {'new_value': 'Rio Tinto Stadium, Sandy, Utah', 'old_value': 'Emmanuel Boateng Stadium, Sandy, Utah'}}}
+1016: {'values_changed': {"root['stadium']": {'new_value': 'Emmanuel Boateng Stadium, Sandy, Utah', 'old_value': 'Rio Tinto Stadium, Sandy, Utah'}, "root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+1017: {'values_changed': {"root['stadium']": {'new_value': 'Rio Tinto Stadium, Sandy, Utah', 'old_value': 'Emmanuel Boateng Stadium, Sandy, Utah'}, "root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+1018: {'values_changed': {"root['stadium']": {'new_value': 'Emmanuel Boateng Stadium, Sandy, Utah', 'old_value': 'Rio Tinto Stadium, Sandy, Utah'}, "root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+1129: {'values_changed': {"root['stadium']": {'new_value': 'Rio Tinto Stadium, Sandy, Utah', 'old_value': 'Rio Tinto Stadium Sandy, Utah'}, "root['position']": {'new_value': 'Western Conference: 6th, Overall: 12th, Playoffs: Conference semifinals', 'old_value': 'Western Conference: 6th Overall: 12th Playoffs: Conference semifinals'}}}
+1132: {'values_changed': {"root['manager']": {'new_value': 'Mike Petke', 'old_value': 'Freddy Juarez'}}}
+1143: {'values_changed': {"root['manager']": {'new_value': 'Freddy Juarez', 'old_value': 'Freddy Juarez (interim)'}}}
+1144: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Interim head coach'}, "root['manager']": {'new_value': 'Freddy Juarez (interim)', 'old_value': 'Freddy Juarez'}}}
+1149: {'values_changed': {"root['mgrtitle']": {'new_value': 'Interim head coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Freddy Juarez', 'old_value': 'Freddy Juarez (interim)'}}}
+1150: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Interim head coach'}, "root['manager']": {'new_value': 'Freddy Juarez (interim)', 'old_value': 'Freddy Juarez'}}}
+1151: {'values_changed': {"root['mgrtitle']": {'new_value': 'Interim head coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Freddy Juarez', 'old_value': 'Freddy Juarez (interim)'}}}
+1198: {'values_changed': {"root['season']": {'new_value': '2018 Major League Soccer season', 'old_value': '2019 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 6th Overall: 12th Playoffs: Conference semifinals', 'old_value': 'Western Conference: 3rd Overall: 6th 2019 MLS Cup Playoffs'}}}
+1219: {'values_changed': {"root['manager']": {'new_value': 'Freddy Juarez (interim)', 'old_value': "''Vacant''"}}}
+1220: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'vacant'}}}
+1242: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Freddy Juarez'}}}
+1268: {'values_changed': {"root['current']": {'new_value': '2019 Real Salt Lake season', 'old_value': '2020 Real Salt Lake season'}}}
+1317: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Papa Loyloy Hansen'}}}
+1318: {'values_changed': {"root['owner']": {'new_value': 'Papa Loyloy Hansen', 'old_value': 'Dell Loy Hansen'}}}
+1344: {'values_changed': {"root['stadium']": {'new_value': 'Rio Tinto Stadium Sandy, Utah', 'old_value': 'Emmanuel Boateng Stadium Sandy, Utah'}, "root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Emmanuel Boateng'}}}
+1345: {'values_changed': {"root['stadium']": {'new_value': 'Emmanuel Boateng Stadium Sandy, Utah', 'old_value': 'Rio Tinto Stadium Sandy, Utah'}, "root['owner']": {'new_value': 'Emmanuel Boateng', 'old_value': 'Dell Loy Hansen'}}}
+1376: {'values_changed': {"root['season']": {'new_value': '2019 Major League Soccer season', 'old_value': '2020 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 3rd Overall: 6th 2019 MLS Cup Playoffs', 'old_value': 'Western Conference (MLS)'}}}
+1401: {'values_changed': {"root['current']": {'new_value': '2020 Real Salt Lake season', 'old_value': '2021 Real Salt Lake season'}}}
+1490: {'type_changes': {"root['position']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'Western Conference (MLS)'}}}
+1501: {'values_changed': {"root['manager']": {'new_value': 'Freddy Juarez', 'old_value': 'Pablo Mastroeni (interim)'}}}
+1505: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Head coach (interim)'}, "root['manager']": {'new_value': 'Pablo Mastroeni (interim)', 'old_value': 'Pablo Mastroeni'}}}
+1516: {'values_changed': {"root['owner']": {'new_value': 'Dell Loy Hansen', 'old_value': 'Portland Timbers'}}}
+1522: {'values_changed': {"root['owner']": {'new_value': 'Portland Timbers', 'old_value': 'Dell Loy Hansen'}}}
+1526: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach (interim)', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Pablo Mastroeni', 'old_value': 'Pablo Mastroeni (interim)'}}}
+1577: {'dictionary_item_added': {"root['owner']": 'Dell Loy Hansen'}, 'values_changed': {"root['season']": {'new_value': '2020 Major League Soccer season', 'old_value': '2021 Major League Soccer season'}}}
+1595: {'values_changed': {"root['manager']": {'new_value': 'Pablo Mastroeni (interim)', 'old_value': 'Pablo Mastroeni'}}}
+1610: {'dictionary_item_removed': {"root['owner']": 'David S. Blitzer Ryan Smith (businessman)'}}
+1635: {'values_changed': {"root['current']": {'new_value': '2021 Real Salt Lake season', 'old_value': '2022 Real Salt Lake season'}}}
+1665: {'values_changed': {"root['owner']": {'new_value': 'David S. Blitzer Ryan Smith (businessman)', 'old_value': 'Larry Bird Kobe Bryant (businessman)'}}}
+1666: {'values_changed': {"root['owner']": {'new_value': 'Larry Bird Kobe Bryant (businessman)', 'old_value': 'David S. Blitzer Ryan Smith (businessman)'}}}
+1715: {'values_changed': {"root['manager']": {'new_value': 'Pablo Mastroeni', 'old_value': 'Joe Ingles'}}}
+1716: {'values_changed': {"root['manager']": {'new_value': 'Joe Ingles', 'old_value': 'Pablo Mastroeni'}}}
+1717: {'values_changed': {"root['capacity']": {'new_value': '20,213', 'old_value': '25,417'}, "root['owner']": {'new_value': 'David S. Blitzer Ryan Smith (businessman)', 'old_value': 'Will Smith Kobe Bryant (businessman)'}}}
+1718: {'values_changed': {"root['manager']": {'new_value': 'Pablo Mastroeni', 'old_value': 'Donald Trump'}}}
+1719: {'values_changed': {"root['capacity']": {'new_value': '25,417', 'old_value': '20,213'}, "root['owner']": {'new_value': 'Will Smith Kobe Bryant (businessman)', 'old_value': 'David S. Blitzer Ryan Smith (businessman)'}, "root['manager']": {'new_value': 'Donald Trump', 'old_value': 'Pablo Mastroeni'}}}
+1727: {'values_changed': {"root['clubname']": {'new_value': 'Real Salt Lake', 'old_value': 'Fake Salt Lake'}}}
+1728: {'values_changed': {"root['clubname']": {'new_value': 'Fake Salt Lake', 'old_value': 'Real Salt Lake'}}}
+1733: {'values_changed': {"root['stadium']": {'new_value': 'Rio Tinto Stadium Sandy, Utah', 'old_value': 'America FIrst Field Sandy, Utah'}}}
+1734: {'values_changed': {"root['stadium']": {'new_value': 'America FIrst Field Sandy, Utah', 'old_value': 'America First Field Sandy, Utah'}}}
+1748: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+1772: {'values_changed': {"root['stadium']": {'new_value': 'America First Field Sandy, Utah', 'old_value': 'America First Field'}}}
+1773: {'values_changed': {"root['stadium']": {'new_value': 'America First Field', 'old_value': 'America First Field Sandy, Utah'}}}
+1774: {'values_changed': {"root['stadium']": {'new_value': 'America First Field Sandy, Utah', 'old_value': 'America First Field'}}}
+1779: {'values_changed': {"root['current']": {'new_value': '2022 Real Salt Lake season', 'old_value': '2023 Real Salt Lake season'}}}
+1832: {'values_changed': {"root['owner']": {'new_value': 'David S. Blitzer Ryan Smith (businessman)', 'old_value': 'David Blitzer (businessman)'}}}
+1834: {'values_changed': {"root['owner']": {'new_value': 'David Blitzer (businessman)', 'old_value': 'David Blitzer Ryan Smith (businessman)'}}}
+1835: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [], 'new_value': 'David Blitzer Ryan Smith (businessman)'}}}
+1849: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'ubl', 'new_value': []}}}

@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Goyang Hi FC ,  고양 Hi FC', "root['current']": '2013 Goyang Hi FC season', "root['ground']": 'Goyang Stadium', "root['capacity']": '41,311', "root['chairman']": 'Park Chong-Sun', "root['manager']": 'Lee Young-Moo', "root['league']": 'K League Challenge', "root['season']": '2013 K League Challenge', "root['position']": '6th'}}
+12: {'values_changed': {"root['clubname']": {'new_value': 'Goyang Hi FC ,  고양 Hi FC', 'old_value': 'Goyang Hi ,  고양 Hi FC'}}}
+18: {'values_changed': {"root['manager']": {'new_value': 'Lee Young-Moo', 'old_value': 'Vacant'}}}
+21: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Lee Sung-Kil'}}}
+22: {'values_changed': {"root['manager']": {'new_value': 'Lee Sung-Kil', 'old_value': 'Lee Song-Kil'}}}
+23: {'values_changed': {"root['chairman']": {'new_value': 'Park Chong-Sun', 'old_value': 'Park Jong-sun'}, "root['manager']": {'new_value': 'Lee Song-Kil', 'old_value': 'Lee Sung-kil'}}}
+26: {'values_changed': {"root['season']": {'new_value': '2013 K League Challenge', 'old_value': '2014 K League Challenge'}, "root['position']": {'new_value': '6th', 'old_value': '8th'}}}
+30: {'values_changed': {"root['clubname']": {'new_value': 'Goyang Hi ,  고양 Hi FC', 'old_value': 'Goyang Hi, 고양 Hi FC'}, "root['current']": {'new_value': '2013 Goyang Hi FC season', 'old_value': '2015 Goyang Hi FC season'}, "root['manager']": {'new_value': 'Lee Sung-kil', 'old_value': 'Lee Young-moo'}, "root['season']": {'new_value': '2014 K League Challenge', 'old_value': '2015 K League Challenge'}}}
+34: {'values_changed': {"root['current']": {'new_value': '2015 Goyang Hi FC season', 'old_value': '2016 Goyang Hi FC season'}}}
+37: {'values_changed': {"root['clubname']": {'new_value': 'Goyang Hi, 고양 Hi FC', 'old_value': 'Goyang Zaicro, 고양 자이크로 FC'}}}
+42: {'values_changed': {"root['current']": {'new_value': '2016 Goyang Hi FC season', 'old_value': '2016 Goyang Zaicro FC season'}}}
+51: {'values_changed': {"root['clubname']": {'new_value': 'Goyang Zaicro, 고양 자이크로 FC', 'old_value': 'Goyang Zaicro FC, 고양 자이크로 FC'}, "root['manager']": {'new_value': 'Lee Young-moo', 'old_value': 'Lee Nak-young'}}}
+61: {'values_changed': {"root['season']": {'new_value': '2015 K League Challenge', 'old_value': '2016 K League Challenge'}, "root['position']": {'new_value': '8th', 'old_value': '11th'}}}
+63: {'dictionary_item_added': {"root['league']": 'K League Challenge'}, 'values_changed': {"root['position']": {'new_value': '11th', 'old_value': 'K League Challenge, 11th'}}}

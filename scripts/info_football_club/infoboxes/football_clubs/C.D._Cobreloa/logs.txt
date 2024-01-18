@@ -1,0 +1,12 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Cobreloa', "root['ground']": 'Estadio Zorros del Desierto', "root['capacity']": '12,000', "root['chairman']": 'Walter Aguilera', "root['manager']": 'Víctor Rivero', "root['league']": 'Primera B de Chile', "root['season']": '2018', "root['position']": '2nd'}}
+83: {'values_changed': {"root['manager']": {'new_value': 'Víctor Rivero', 'old_value': 'Marco Antonio Figueroa'}}}
+88: {'values_changed': {"root['league']": {'new_value': 'Primera B de Chile', 'old_value': 'Chilean Primera División'}}}
+91: {'values_changed': {"root['league']": {'new_value': 'Chilean Primera División', 'old_value': 'Chilean Primera División B'}}}
+94: {'values_changed': {"root['manager']": {'new_value': 'Marco Antonio Figueroa', 'old_value': 'Rodrigo Meléndez'}, "root['season']": {'new_value': '2018', 'old_value': '2020 Primera B de Chile'}, "root['position']": {'new_value': '2nd', 'old_value': '10th'}}}
+118: {'dictionary_item_removed': {"root['stadium']": 'Estadio Zorros del Desierto,  Calama, Chile', "root['coordinates']": 'coord', "root['mgrtitle']": 'Head coach', "root['current']": '2021 Primera B de Chile'}, 'values_changed': {"root['ground']": {'new_value': 'Estadio Zorros del Desierto', 'old_value': 'Eduardo Abaroa 1757 street, Calama, Chile'}, "root['capacity']": {'new_value': '12,000', 'old_value': '12,102'}, "root['chairman']": {'new_value': 'Walter Aguilera', 'old_value': 'Duncan Araya'}}}
+121: {'dictionary_item_removed': {"root['chrtitle']": 'President'}}
+125: {'values_changed': {"root['position']": {'new_value': '10th', 'old_value': 'Primera B de Chile, 10th of 15'}}}
+170: {'values_changed': {"root['manager']": {'new_value': 'Rodrigo Meléndez', 'old_value': 'Héctor Almandoz'}}}
+171: {'values_changed': {"root['league']": {'new_value': 'Chilean Primera División B', 'old_value': 'Primera B de Chile'}, "root['position']": {'new_value': 'Primera B de Chile, 10th of 15', 'old_value': '10th'}}}
+182: {'values_changed': {"root['season']": {'new_value': '2020 Primera B de Chile', 'old_value': '2021 Primera B de Chile'}, "root['current']": {'new_value': '2021 Primera B de Chile', 'old_value': '2022 Primera B de Chile'}, "root['position']": {'new_value': '10th', 'old_value': '13th'}}}
+189: {'values_changed': {"root['manager']": {'new_value': 'Héctor Almandoz', 'old_value': 'Emiliano Astorga'}}}

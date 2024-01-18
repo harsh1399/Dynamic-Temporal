@@ -1,0 +1,22 @@
+0: {'dictionary_item_removed': {"root['ground']": 'York Street, Boston, Lincolnshire', "root['capacity']": '60,000 (5 seated)', "root['season']": 'English football updater', "root['current']": '2018–19 National League#National League North', "root['clubname']": 'Boston United F.C.', "root['chairman']": 'David Newton', "root['manager']": 'Craig Elliott', "root['league']": 'English football updater', "root['position']": 'BostonUn3 '}}
+1: {'values_changed': {"root['capacity']": {'new_value': '60,000 (5 seated)', 'old_value': '6,643 (5,711 seated)'}}}
+9: {'values_changed': {"root['capacity']": {'new_value': '6,643 (5,711 seated)', 'old_value': '6,643 (1,340 seated)'}}}
+31: {'values_changed': {"root['ground']": {'new_value': 'York Street, Boston, Lincolnshire', 'old_value': 'Boston Community Stadium, Boston, Lincolnshire'}}}
+32: {'values_changed': {"root['ground']": {'new_value': 'Boston Community Stadium, Boston, Lincolnshire', 'old_value': 'York Street, Boston, Lincolnshire'}}}
+33: {'values_changed': {"root['ground']": {'new_value': 'York Street, Boston, Lincolnshire', 'old_value': 'Boston Community Stadium, Boston, Lincolnshire'}}}
+44: {'values_changed': {"root['capacity']": {'new_value': '6,643 (1,340 seated)', 'old_value': '5,000'}}}
+55: {'values_changed': {"root['ground']": {'new_value': 'Boston Community Stadium, Boston, Lincolnshire', 'old_value': 'Jakemans Community Stadium, Boston, Lincolnshire'}, "root['current']": {'new_value': '2018–19 National League#National League North', 'old_value': '2021–22 National League#National League North'}, "root['clubname']": {'new_value': 'Boston United F.C.', 'old_value': 'Boston United'}, "root['position']": {'new_value': 'BostonUn3 ', 'old_value': 'English football updater'}}}
+57: {'values_changed': {"root['manager']": {'new_value': 'Craig Elliott', 'old_value': "''Vacant''"}}}
+58: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Paul Green (footballer, born 1983)'}}}
+63: {'values_changed': {"root['manager']": {'new_value': 'Paul Green (footballer, born 1983)', 'old_value': 'Paul Cox (footballer)'}}}
+68: {'values_changed': {"root['capacity']": {'new_value': '5,000', 'old_value': '5,000 http://www.thequadrantboston.co.uk/the-project/football-stadium/ Dead link'}}}
+75: {'values_changed': {"root['capacity']": {'new_value': '5,000 http://www.thequadrantboston.co.uk/the-project/football-stadium/ Dead link', 'old_value': '5,000'}}}
+100: {'values_changed': {"root['manager']": {'new_value': 'Paul Cox (footballer)', 'old_value': 'Kane Deakin (footballer)'}}}
+101: {'values_changed': {"root['manager']": {'new_value': 'Kane Deakin (footballer)', 'old_value': 'Paul Cox (footballer)'}}}
+102: {'values_changed': {"root['clubname']": {'new_value': 'Boston United', 'old_value': 'Boston United F.C.'}}}
+106: {'values_changed': {"root['manager']": {'new_value': 'Paul Cox (footballer)', 'old_value': 'Ian Culverhouse'}}}
+118: {'values_changed': {"root['current']": {'new_value': '2021–22 National League#National League North', 'old_value': '2022–23 National League#National League North'}}}
+121: {'dictionary_item_added': {"root['current']": '2022–23 National League#National League North'}, 'values_changed': {"root['ground']": {'new_value': 'Jakemans Community Stadium, Boston, Lincolnshire', 'old_value': 'Boston Community Stadium'}}}
+122: {'dictionary_item_removed': {"root['stadium']": 'The Jakemans Community Stadium - The Quadrant '}}
+126: {'dictionary_item_added': {"root['stadium']": 'The Jakemans Community Stadium - The Quadrant '}, 'dictionary_item_removed': {"root['current']": '2022–23 National League#National League North'}}
+129: {'values_changed': {"root['clubname']": {'new_value': 'Boston United F.C.', 'old_value': 'Boston United'}}}

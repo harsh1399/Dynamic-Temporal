@@ -1,0 +1,60 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Perth Glory', "root['ground']": 'Perth Oval', "root['capacity']": '20,441', "root['owntitle']": 'Owner', "root['owner']": 'Tony Sage', "root['chrtitle']": 'Chairman', "root['chairman']": 'Tony Sage', "root['mgrtitle']": 'Head Coach', "root['manager']": 'Kenny Lowe', "root['league']": 'A-League', "root['season']": '2013–14 A-League', "root['position']": 'A-League, 8th', "root['current']": '2014–15 Perth Glory FC season'}}
+6: {'dictionary_item_removed': {"root['mascot']": 'George the Gorilla'}, 'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': 'NIB Stadium'}}}
+7: {'dictionary_item_added': {"root['mascot']": 'George the Gorilla'}, 'values_changed': {"root['ground']": {'new_value': 'NIB Stadium', 'old_value': 'Perth Oval'}}}
+92: {'values_changed': {"root['clubname']": {'new_value': 'Perth Glory', 'old_value': 'Perth Primary School'}}}
+93: {'values_changed': {"root['clubname']": {'new_value': 'Perth Primary School', 'old_value': 'Perth Glory'}}}
+94: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': 'NIB Stadium'}}}
+97: {'values_changed': {"root['capacity']": {'new_value': '20,441', 'old_value': '20,500'}}}
+106: {'values_changed': {"root['ground']": {'new_value': 'NIB Stadium', 'old_value': 'Perth Oval'}}}
+115: {'values_changed': {"root['season']": {'new_value': '2013–14 A-League', 'old_value': '2014–15 A-League'}, "root['position']": {'new_value': 'A-League, 8th', 'old_value': 'A-League, 7th'}}}
+121: {'values_changed': {"root['current']": {'new_value': '2014–15 Perth Glory FC season', 'old_value': '2015–16 Perth Glory FC season'}}}
+209: {'dictionary_item_added': {"root['chrtitle']": 'Chairman', "root['chairman']": 'Tony Sage'}, 'values_changed': {"root['position']": {'new_value': 'A-League, 7th', 'old_value': '7th'}}}
+315: {'values_changed': {"root['clubname']": {'new_value': 'Perth Glory', 'old_value': "Nic Cirillo's Perth Glory"}}}
+316: {'values_changed': {"root['clubname']": {'new_value': "Nic Cirillo's Perth Glory", 'old_value': 'Perth Glory'}}}
+337: {'values_changed': {"root['season']": {'new_value': '2014–15 A-League', 'old_value': '2015–16 A-League'}, "root['position']": {'new_value': '7th', 'old_value': '5th'}}}
+384: {'values_changed': {"root['current']": {'new_value': '2015–16 Perth Glory FC season', 'old_value': '2016–17 Perth Glory FC season'}}}
+387: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': 'nib Stadium'}}}
+529: {'values_changed': {"root['ground']": {'new_value': 'nib Stadium', 'old_value': 'Perth Oval aka. nib Stadium'}}}
+530: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval aka. nib Stadium', 'old_value': 'Perth Oval aka. "nib Stadium"'}}}
+551: {'values_changed': {"root['season']": {'new_value': '2015–16 A-League', 'old_value': '2016–17 A-League'}}}
+559: {'values_changed': {"root['current']": {'new_value': '2016–17 Perth Glory FC season', 'old_value': '2017–18 Perth Glory FC season'}}}
+603: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval aka. "nib Stadium"', 'old_value': 'nib Stadium'}}}
+652: {'values_changed': {"root['season']": {'new_value': '2016–17 A-League', 'old_value': '2017–18 A-League'}, "root['current']": {'new_value': '2017–18 Perth Glory FC season', 'old_value': '2018–19 Perth Glory FC season'}, "root['manager']": {'new_value': 'Kenny Lowe', 'old_value': 'Tony Popovic'}, "root['position']": {'new_value': '5th', 'old_value': '8th'}}}
+655: {'values_changed': {"root['ground']": {'new_value': 'nib Stadium', 'old_value': 'Perth Oval'}}}
+663: {'values_changed': {"root['manager']": {'new_value': 'Tony Popovic', 'old_value': 'Ross Lyon'}, "root['league']": {'new_value': 'A-League', 'old_value': 'Premier Legaue'}, "root['position']": {'new_value': '8th', 'old_value': '1st'}}}
+664: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': 'Optus Stadium'}}}
+665: {'values_changed': {"root['ground']": {'new_value': 'Optus Stadium', 'old_value': 'Perth Oval'}, "root['manager']": {'new_value': 'Ross Lyon', 'old_value': 'Tony Popovic'}, "root['league']": {'new_value': 'Premier Legaue', 'old_value': 'A-League'}, "root['position']": {'new_value': '1st', 'old_value': '8th'}}}
+684: {'values_changed': {"root['season']": {'new_value': '2017–18 A-League', 'old_value': '2018–19 A-League'}, "root['position']": {'new_value': '8th', 'old_value': '1st'}}}
+779: {'values_changed': {"root['season']": {'new_value': '2018–19 A-League', 'old_value': '2019-20 A-League'}}}
+780: {'values_changed': {"root['season']": {'new_value': '2019-20 A-League', 'old_value': '2018–19 A-League'}}}
+781: {'values_changed': {"root['current']": {'new_value': '2018–19 Perth Glory FC season', 'old_value': '2019–20 Perth Glory FC season'}}}
+974: {'values_changed': {"root['season']": {'new_value': '2018–19 A-League', 'old_value': '_orange_border'}, "root['league']": {'new_value': 'A-League', 'old_value': 'Australian soccer updater'}, "root['position']": {'new_value': '1st', 'old_value': 'Australian soccer updater'}}}
+1001: {'values_changed': {"root['manager']": {'new_value': 'Tony Popovic', 'old_value': 'Vacant'}}}
+1002: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Tony Popovic'}}}
+1003: {'values_changed': {"root['manager']": {'new_value': 'Tony Popovic', 'old_value': 'Ernesto Valverde'}}}
+1004: {'values_changed': {"root['manager']": {'new_value': 'Ernesto Valverde', 'old_value': 'Tony Popovic'}}}
+1044: {'values_changed': {"root['capacity']": {'new_value': '20,500', 'old_value': '20'}, "root['current']": {'new_value': '2019–20 Perth Glory FC season', 'old_value': 'p'}, "root['owntitle']": {'new_value': 'Owner', 'old_value': 'Owner hacker'}, "root['season']": {'new_value': '_orange_border', 'old_value': 'Australian soccer updater'}}}
+1045: {'values_changed': {"root['capacity']": {'new_value': '20', 'old_value': '20,500'}, "root['current']": {'new_value': 'p', 'old_value': '2019–20 Perth Glory FC season'}, "root['owntitle']": {'new_value': 'Owner hacker', 'old_value': 'Owner'}, "root['season']": {'new_value': 'Australian soccer updater', 'old_value': '_orange_border'}}}
+1047: {'values_changed': {"root['clubname']": {'new_value': 'Perth Glory', 'old_value': 'kerala blasters fc'}}}
+1048: {'values_changed': {"root['clubname']": {'new_value': 'kerala blasters fc', 'old_value': 'Perth Glory'}}}
+1052: {'values_changed': {"root['manager']": {'new_value': 'Tony Popovic', 'old_value': "''Vacant''<ref name"}}}
+1063: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': 'Perf Oval'}}}
+1064: {'values_changed': {"root['current']": {'new_value': '2019–20 Perth Glory FC season', 'old_value': '2019–20 Perf Glory FC season'}}}
+1065: {'values_changed': {"root['ground']": {'new_value': 'Perf Oval', 'old_value': 'Perth Oval'}, "root['current']": {'new_value': '2019–20 Perf Glory FC season', 'old_value': '2019–20 Perth Glory FC season'}}}
+1071: {'values_changed': {"root['manager']": {'new_value': "''Vacant''<ref name", 'old_value': 'Richard Garcia'}}}
+1087: {'values_changed': {"root['current']": {'new_value': '2019–20 Perth Glory FC season', 'old_value': '2020–21 Perth Glory FC season'}}}
+1093: {'values_changed': {"root['current']": {'new_value': '2020–21 Perth Glory FC season', 'old_value': '2019–20 Perth Glory FC season'}, "root['season']": {'new_value': '_orange_border', 'old_value': 'Australian soccer updater'}}}
+1109: {'values_changed': {"root['current']": {'new_value': '2019–20 Perth Glory FC season', 'old_value': '2020–21 Perth Glory FC season'}}}
+1121: {'values_changed': {"root['capacity']": {'new_value': '20,500', 'old_value': '20,500<ref name'}, "root['owner']": {'new_value': 'Tony Sage', 'old_value': 'Tony Sage<ref name'}}}
+1187: {'values_changed': {"root['current']": {'new_value': '2020–21 Perth Glory FC season', 'old_value': '2021–22 Perth Glory FC season'}}}
+1214: {'values_changed': {"root['manager']": {'new_value': 'Richard Garcia', 'old_value': 'Ruben Zadkovich (Interim)'}}}
+1249: {'values_changed': {"root['manager']": {'new_value': 'Ruben Zadkovich (Interim)', 'old_value': 'Ruben Zadkovich'}}}
+1266: {'values_changed': {"root['current']": {'new_value': '2021–22 Perth Glory FC season', 'old_value': '2022–23 Perth Glory FC season'}}}
+1315: {'values_changed': {"root['league']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian  Football  updater'}, "root['season']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian football updater'}, "root['position']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian football updater'}}}
+1316: {'values_changed': {"root['league']": {'new_value': 'Australian  Football  updater', 'old_value': 'Australian soccer updater'}, "root['season']": {'new_value': 'Australian football updater', 'old_value': 'Australian soccer updater'}, "root['position']": {'new_value': 'Australian football updater', 'old_value': 'Australian soccer updater'}}}
+1325: {'values_changed': {"root['ground']": {'new_value': 'Perth Oval', 'old_value': "Andy Keogh's Backyard<ref name"}}}
+1326: {'values_changed': {"root['ground']": {'new_value': "Andy Keogh's Backyard<ref name", 'old_value': 'Perth Oval'}}}
+1427: {'values_changed': {"root['current']": {'new_value': '2022–23 Perth Glory FC season', 'old_value': '2023–24 Perth Glory FC season'}}}
+1439: {'values_changed': {"root['manager']": {'new_value': 'Ruben Zadkovich', 'old_value': "''Vacant''"}}}
+1448: {'values_changed': {"root['league']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian football updater'}, "root['season']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian football updater'}, "root['position']": {'new_value': 'Australian soccer updater', 'old_value': 'Australian football updater'}}}
+1449: {'values_changed': {"root['league']": {'new_value': 'Australian football updater', 'old_value': 'Australian soccer updater'}, "root['season']": {'new_value': 'Australian football updater', 'old_value': 'Australian soccer updater'}, "root['position']": {'new_value': 'Australian football updater', 'old_value': 'Australian soccer updater'}}}

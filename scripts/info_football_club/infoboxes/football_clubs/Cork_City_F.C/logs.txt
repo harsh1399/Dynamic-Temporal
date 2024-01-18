@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Cork City', "root['ground']": 'Turners Cross (stadium)', "root['capacity']": '7,485', "root['owner']": "FORAS (football supporters' trust)", "root['chairman']": 'Declan Carey<ref name', "root['mgrtitle']": 'Manager', "root['manager']": 'Colin Healy', "root['league']": 'League of Ireland First Division', "root['season']": '2021 League of Ireland First Division', "root['position']": '6th'}}
+11: {'values_changed': {"root['manager']": {'new_value': 'Colin Healy', 'old_value': 'Lionel Messi'}}}
+12: {'values_changed': {"root['manager']": {'new_value': 'Lionel Messi', 'old_value': 'Colin Healy'}}}
+38: {'values_changed': {"root['season']": {'new_value': '2021 League of Ireland First Division', 'old_value': '2022 League of Ireland First Division'}, "root['position']": {'new_value': '6th', 'old_value': '1st'}}}
+44: {'values_changed': {"root['league']": {'new_value': 'League of Ireland First Division', 'old_value': 'League of Ireland Premier Division'}, "root['position']": {'new_value': '1st', 'old_value': '1st in League of Ireland First Division (promoted)'}}}
+45: {'values_changed': {"root['owner']": {'new_value': "FORAS (football supporters' trust)", 'old_value': 'Dermot Usher'}}}
+47: {'values_changed': {"root['owner']": {'new_value': 'Dermot Usher', 'old_value': 'Dermot Usher<ref name'}}}
+61: {'dictionary_item_added': {"root['clubname']": 'Cork City'}, 'values_changed': {"root['capacity']": {'new_value': '7,485', 'old_value': '200'}, "root['owner']": {'new_value': 'Dermot Usher<ref name', 'old_value': 'Jimmy Saville <ref name'}}}
+62: {'dictionary_item_removed': {"root['clubname']": 'Cork City'}, 'values_changed': {"root['capacity']": {'new_value': '200', 'old_value': '7,485'}, "root['owner']": {'new_value': 'Jimmy Saville <ref name', 'old_value': 'Dermot Usher<ref name'}}}
+89: {'values_changed': {"root['capacity']": {'new_value': '7,485', 'old_value': '70,485'}}}
+91: {'values_changed': {"root['capacity']": {'new_value': '70,485', 'old_value': '7,485'}}}
+102: {'values_changed': {"root['manager']": {'new_value': 'Colin Healy', 'old_value': 'Liam Buckley (interim)'}}}
+115: {'values_changed': {"root['manager']": {'new_value': 'Liam Buckley (interim)', 'old_value': 'Thomas Magee (interim)'}}}
+116: {'values_changed': {"root['manager']": {'new_value': 'Thomas Magee (interim)', 'old_value': 'Liam Buckley (interim)'}}}

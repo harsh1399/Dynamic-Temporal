@@ -1,0 +1,10 @@
+155: {'dictionary_item_removed': {"root['clubname']": 'Etar 1924', "root['ground']": 'Ivaylo Stadium,,  Veliko Tarnovo', "root['capacity']": '18,000', "root['owner']": 'Feyzi İlhanlı', "root['chairman']": 'Ender Dormushev', "root['manager']": 'Dayat Serdar', "root['league']": 'Bulgarian A Professional Football Group', "root['season']": '2011–12', "root['position']": 'Bulgarian B Professional Football Group'}}
+207: {'values_changed': {"root['manager']": {'new_value': 'Dayat Serdar', 'old_value': 'Grigor Petkov'}}}
+213: {'dictionary_item_added': {"root['owner']": 'Feyzi İlhanlı', "root['chairman']": 'Ender Dormushev', "root['manager']": 'Grigor Petkov', "root['league']": 'Bulgarian A Professional Football Group'}, 'dictionary_item_removed': {"root['dissolved']": 'Start date and age'}, 'values_changed': {"root['season']": {'new_value': '2011–12', 'old_value': '2012–13'}, "root['position']": {'new_value': 'Bulgarian B Professional Football Group', 'old_value': 'Bulgarian A Professional Football Group'}}}
+215: {'dictionary_item_removed': {"root['owner']": 'Feyzi İlhanlı', "root['chairman']": 'Ender Dormushev'}}
+219: {'dictionary_item_added': {"root['dissolved']": 'Start date and age'}, 'values_changed': {"root['season']": {'new_value': '2012–13', 'old_value': '2012–13 A PFG'}, "root['position']": {'new_value': 'Bulgarian A Professional Football Group', 'old_value': 'A PFG, 15th /relegated/'}}}
+220: {'dictionary_item_removed': {"root['league']": 'Bulgarian A Professional Football Group'}}
+222: {'values_changed': {"root['position']": {'new_value': 'A PFG, 15th /relegated/', 'old_value': "A PFG, 15th ''/relegated/''"}}}
+226: {'dictionary_item_added': {"root['league']": 'Bulgarian A Professional Football Group'}, 'dictionary_item_removed': {"root['dissolved']": 'Start date and age'}}
+237: {'values_changed': {"root['dissolved']": {'new_value': 'Start date and age', 'old_value': 'End date'}}}
+238: {'values_changed': {"root['dissolved']": {'new_value': 'End date', 'old_value': 'End date and age'}}}

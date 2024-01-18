@@ -1,0 +1,12 @@
+48: {'dictionary_item_removed': {"root['clubname']": '1. FC Schweinfurt 05', "root['ground']": 'Willy Sachs Stadium', "root['capacity']": '16,500 (860 Seated)', "root['chairman']": 'Markus Wolf', "root['manager']": 'Gerd Klaus', "root['league']": 'Regionalliga Bayern (IV)', "root['season']": '2015–16 Regionalliga', "root['position']": '8th'}}
+106: {'values_changed': {"root['capacity']": {'new_value': '16,500 (860 Seated)', 'old_value': '16,500 (860 seated)'}}}
+116: {'values_changed': {"root['season']": {'new_value': '2015–16 Regionalliga', 'old_value': '2016–17 Regionalliga'}}}
+131: {'dictionary_item_removed': {"root['current']": '2017–18 1. FC Schweinfurt 05 season'}}
+139: {'dictionary_item_removed': {"root['coordinates']": 'coord'}}
+161: {'dictionary_item_added': {"root['coordinates']": 'coord'}, 'values_changed': {"root['ground']": {'new_value': 'Willy Sachs Stadium', 'old_value': 'Willy-Sachs-Stadion'}}}
+163: {'values_changed': {"root['capacity']": {'new_value': '16,500 (860 seated)', 'old_value': '16,500'}}}
+323: {'dictionary_item_added': {"root['current']": '2017–18 1. FC Schweinfurt 05 season'}, 'values_changed': {"root['capacity']": {'new_value': '16,500', 'old_value': '15,060<ref name'}}}
+338: {'dictionary_item_removed': {"root['current']": '2021–22 1. FC Schweinfurt 05 season'}, 'values_changed': {"root['ground']": {'new_value': 'Willy-Sachs-Stadion', 'old_value': 'Sachs-Stadion'}, "root['manager']": {'new_value': 'Gerd Klaus', 'old_value': 'Tobias Strobl'}, "root['season']": {'new_value': '2016–17 Regionalliga', 'old_value': '2019–2021 Regionalliga Bayern'}, "root['position']": {'new_value': '8th', 'old_value': '1st'}}}
+340: {'values_changed': {"root['manager']": {'new_value': 'Tobias Strobl', 'old_value': 'Jan Gernlein'}}}
+346: {'values_changed': {"root['season']": {'new_value': '2019–2021 Regionalliga Bayern', 'old_value': '2021–22 Regionalliga #Regionalliga Bayern'}, "root['position']": {'new_value': '1st', 'old_value': '5th'}}}
+347: {'values_changed': {"root['manager']": {'new_value': 'Jan Gernlein', 'old_value': ':de:Christian Gmünder'}}}

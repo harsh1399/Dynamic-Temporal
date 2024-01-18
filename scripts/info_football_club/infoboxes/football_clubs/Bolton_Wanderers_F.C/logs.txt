@@ -1,0 +1,164 @@
+0: {'dictionary_item_removed': {"root['stadium_name']": 'Reebok Stadium', "root['location']": 'Burnden Way , Horwich , Metropolitan Borough of Bolton', "root['broke_ground']": '1995', "root['opened']": '1997', "root['owner']": 'Burnden Leisure', "root['operator']": 'Burnden Leisure', "root['construction_cost']": '£25,000,000 (1995)', "root['architect']": 'Lobb Sports (1995)', "root['tenants']": 'Bolton Wanderers (Premier League) (1997–present)', "root['seating_capacity']": '28,723 seated '}}
+1261: {'dictionary_item_added': {"root['stadium_name']": 'Reebok Stadium', "root['location']": 'Burnden Way , Horwich , Metropolitan Borough of Bolton', "root['broke_ground']": '1995', "root['opened']": '1997', "root['operator']": 'Burnden Leisure', "root['construction_cost']": '£25,000,000 (1995)', "root['architect']": 'Lobb Sports (1995)', "root['tenants']": 'Bolton Wanderers (Premier League) (1997–present)', "root['seating_capacity']": '28,723 seated '}, 'dictionary_item_removed': {"root['clubname']": 'Bolton Wanderers F.C.', "root['ground']": 'Reebok Stadium', "root['capacity']": '28,101', "root['secretary']": 'Allan Duckworth', "root['manager']": 'Owen Coyle', "root['captain']": 'Kevin Davies', "root['chairman']": 'Phil Gartside', "root['league']": 'Premier League', "root['season']": '2010–11 Premier League', "root['position']": 'Premier League, 14th', "root['current']": '2011–12 Bolton Wanderers F.C. season'}, 'values_changed': {"root['owner']": {'new_value': 'Burnden Leisure', 'old_value': 'Eddie Davies'}}}
+1267: {'values_changed': {"root['capacity']": {'new_value': '28,101', 'old_value': '28,723'}}}
+1269: {'values_changed': {"root['capacity']": {'new_value': '28,723', 'old_value': '28,101'}}}
+1340: {'values_changed': {"root['capacity']": {'new_value': '28,101', 'old_value': '28,723'}}}
+1341: {'values_changed': {"root['capacity']": {'new_value': '28,723', 'old_value': '28,101'}}}
+1375: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers F.C.', 'old_value': 'I love men F.C.'}}}
+1376: {'values_changed': {"root['clubname']": {'new_value': 'I love men F.C.', 'old_value': 'Faggots F.C.'}}}
+1378: {'values_changed': {"root['clubname']": {'new_value': 'Faggots F.C.', 'old_value': 'Bolton Wanderers F.C.'}}}
+1379: {'values_changed': {"root['manager']": {'new_value': 'Owen Coyle', 'old_value': 'jon'}}}
+1380: {'values_changed': {"root['manager']": {'new_value': 'jon', 'old_value': 'Owen cole'}}}
+1383: {'values_changed': {"root['manager']": {'new_value': 'Owen cole', 'old_value': 'Owen Coyle'}}}
+1384: {'values_changed': {"root['ground']": {'new_value': 'Reebok Stadium', 'old_value': 'Reebok Stadium,, Horwich, Metropolitan Borough of Bolton'}}}
+1385: {'values_changed': {"root['ground']": {'new_value': 'Reebok Stadium,, Horwich, Metropolitan Borough of Bolton', 'old_value': 'Reebok Stadium'}}}
+1388: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers F.C.', 'old_value': 'Bolton Wanderers'}}}
+1441: {'dictionary_item_added': {"root['secretary']": 'Allan Duckworth', "root['captain']": 'Kevin Davies'}, 'values_changed': {"root['ground']": {'new_value': 'Reebok Stadium', 'old_value': 'University of Bolton Stadium,, Bolton, England'}, "root['capacity']": {'new_value': '28,101', 'old_value': '28,723'}, "root['manager']": {'new_value': 'Owen Coyle', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'Eddie Davies', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'Phil Gartside', 'old_value': 'Ken Anderson'}, "root['league']": {'new_value': 'Premier League', 'old_value': 'English football updater'}, "root['season']": {'new_value': '2010–11 Premier League', 'old_value': 'English football updater'}, "root['position']": {'new_value': 'Premier League, 14th', 'old_value': 'English football updater'}, "root['current']": {'new_value': '2011–12 Bolton Wanderers F.C. season', 'old_value': '2018–19 Bolton Wanderers F.C. season'}}}
+1443: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Phil Parkinson(Sacked)'}}}
+1444: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson(Sacked)', 'old_value': 'Phil Parkinson'}}}
+1462: {'values_changed': {"root['owner']": {'new_value': 'Inner Circle', 'old_value': 'Thomas Benson'}}}
+1463: {'values_changed': {"root['owner']": {'new_value': 'Thomas Benson', 'old_value': 'Inner Circle'}}}
+1464: {'values_changed': {"root['owner']": {'new_value': 'Inner Circle', 'old_value': 'Thomas Benson'}, "root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Thomas Benson'}}}
+1465: {'values_changed': {"root['owner']": {'new_value': 'Thomas Benson', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'Thomas Benson', 'old_value': 'Ken Anderson'}}}
+1483: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Fat Nonce'}}}
+1484: {'values_changed': {"root['chairman']": {'new_value': 'Fat Nonce', 'old_value': 'Ken Anderson'}}}
+1499: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Sleazeball Anderson'}}}
+1500: {'values_changed': {"root['chairman']": {'new_value': 'Sleazeball Anderson', 'old_value': 'Ken Anderson'}}}
+1501: {'dictionary_item_removed': {"root['dissolved']": 'End  date'}}
+1515: {'dictionary_item_added': {"root['dissolved']": 'End  date'}, 'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Sam allerdyce'}, "root['owner']": {'new_value': 'Inner Circle', 'old_value': 'whites sport'}, "root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'peter taylor'}}}
+1516: {'values_changed': {"root['manager']": {'new_value': 'Sam allerdyce', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'whites sport', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'peter taylor', 'old_value': 'Ken Anderson'}}}
+1517: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Laurence Bassini'}}}
+1518: {'values_changed': {"root['chairman']": {'new_value': 'Laurence Bassini', 'old_value': 'Ken Anderson'}}}
+1524: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Horwich Wanderers FC'}, "root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Ken Anderson is quality'}}}
+1525: {'values_changed': {"root['clubname']": {'new_value': 'Horwich Wanderers FC', 'old_value': 'Bolton Wanderers'}, "root['chairman']": {'new_value': 'Ken Anderson is quality', 'old_value': 'Ken Anderson'}}}
+1529: {'dictionary_item_added': {"root['chairman']": 'Ken Anderson'}, 'values_changed': {"root['owner']": {'new_value': 'Inner Circle', 'old_value': 'Laurence Bassini'}}}
+1530: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium,, Bolton, England', 'old_value': 'University of Bolton Stadium,, Horwich, England'}}}
+1535: {'dictionary_item_removed': {"root['chairman']": 'Laurence Bassini'}}
+1538: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'English football league one updater'}}}
+1539: {'values_changed': {"root['league']": {'new_value': 'English football league one updater', 'old_value': 'https://en.m.wikipedia.org/wiki/EFL_League_One'}}}
+1540: {'values_changed': {"root['league']": {'new_value': 'https://en.m.wikipedia.org/wiki/EFL_League_One', 'old_value': 'EFL League One'}}}
+1542: {'values_changed': {"root['league']": {'new_value': 'EFL League One', 'old_value': 'English football updater'}}}
+1545: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium,, Horwich, England', 'old_value': 'University of Bolton Stadium'}}}
+1551: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Phil Ward'}}}
+1552: {'values_changed': {"root['manager']": {'new_value': 'Phil Ward', 'old_value': 'Phil Parkinson'}}}
+1553: {'values_changed': {"root['owner']": {'new_value': 'Laurence Bassini', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'Laurence Bassini', 'old_value': 'Ken Anderson'}}}
+1566: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton Wanderers RIP'}}}
+1568: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers RIP', 'old_value': 'Bolton Wanderers'}}}
+1571: {'dictionary_item_removed': {"root['dissolved']": 'end date'}}
+1577: {'dictionary_item_added': {"root['dissolved']": 'end date'}, 'values_changed': {"root['owner']": {'new_value': 'Inner Circle', 'old_value': 'a clueless snake'}}}
+1578: {'values_changed': {"root['owner']": {'new_value': 'a clueless snake', 'old_value': 'Inner Circle'}}}
+1580: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Wanderers of Bolton'}, "root['owner']": {'new_value': 'Inner Circle', 'old_value': 'The Raj'}, "root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Viva Ken Barlow'}}}
+1581: {'values_changed': {"root['clubname']": {'new_value': 'Wanderers of Bolton', 'old_value': 'Bolton Wanderers'}, "root['owner']": {'new_value': 'The Raj', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'Viva Ken Barlow', 'old_value': 'Ken Anderson'}}}
+1582: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'no one knows'}}}
+1583: {'values_changed': {"root['chairman']": {'new_value': 'no one knows', 'old_value': 'Ken Anderson'}}}
+1595: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Club is in administration'}}}
+1596: {'values_changed': {"root['chairman']": {'new_value': 'Club is in administration', 'old_value': 'Ken Anderson'}}}
+1602: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Gary Glitter'}}}
+1603: {'values_changed': {"root['chairman']": {'new_value': 'Gary Glitter', 'old_value': 'Ken Anderson'}}}
+1604: {'values_changed': {"root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Robert Weedon'}}}
+1605: {'values_changed': {"root['chairman']": {'new_value': 'Robert Weedon', 'old_value': 'Ken Anderson'}}}
+1610: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Andrew Critchley'}, "root['owner']": {'new_value': 'Inner Circle', 'old_value': 'Darren Oliver'}, "root['chairman']": {'new_value': 'Ken Anderson', 'old_value': 'Joseph Oliver'}}}
+1611: {'values_changed': {"root['manager']": {'new_value': 'Andrew Critchley', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'Darren Oliver', 'old_value': 'Inner Circle'}, "root['chairman']": {'new_value': 'Joseph Oliver', 'old_value': 'Ken Anderson'}}}
+1614: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Phil Parkinson, Owen Wilson of Leisure Club'}}}
+1616: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson, Owen Wilson of Leisure Club', 'old_value': 'Phil Parkinson, Owen Wilson (PB)'}}}
+1617: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson, Owen Wilson (PB)', 'old_value': 'Phil Parkinson'}}}
+1618: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton Wanderers (wanky wanderers)'}}}
+1620: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers (wanky wanderers)', 'old_value': 'Bolton Wanderers'}}}
+1655: {'dictionary_item_added': {"root['chairman']": 'Ken Anderson'}, 'values_changed': {"root['owner']": {'new_value': 'Inner Circle', 'old_value': 'Administrators'}}}
+1692: {'values_changed': {"root['owner']": {'new_value': 'Administrators', 'old_value': 'Football Ventures (Whites) Limited'}}}
+1693: {'values_changed': {"root['owner']": {'new_value': 'Football Ventures (Whites) Limited', 'old_value': 'Administrators'}}}
+1708: {'values_changed': {"root['current']": {'new_value': '2018–19 Bolton Wanderers F.C. season', 'old_value': '2019–20 Bolton Wanderers F.C. season'}}}
+1711: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'oh wankey wankey'}}}
+1714: {'values_changed': {"root['clubname']": {'new_value': 'oh wankey wankey', 'old_value': 'Bolton Wanderers'}}}
+1732: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton fake Wanderers'}}}
+1733: {'values_changed': {"root['clubname']": {'new_value': 'Bolton fake Wanderers', 'old_value': 'Bolton Wanderers'}}}
+1734: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Alex Bannister'}, "root['owner']": {'new_value': 'Administrators', 'old_value': 'George Buggott'}}}
+1735: {'values_changed': {"root['manager']": {'new_value': 'Alex Bannister', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'George Buggott', 'old_value': 'Administrators'}}}
+1781: {'dictionary_item_removed': {"root['chairman']": 'thogden'}, 'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Thogden'}, "root['owner']": {'new_value': 'Administrators', 'old_value': 'Thogmum And thogdad'}}}
+1783: {'dictionary_item_added': {"root['chairman']": 'thogden'}, 'values_changed': {"root['manager']": {'new_value': 'Thogden', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'Thogmum And thogdad', 'old_value': 'Administrators'}}}
+1789: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'N/a'}}}
+1790: {'values_changed': {"root['clubname']": {'new_value': 'N/a', 'old_value': 'Bolton Wanderers'}}}
+1809: {'dictionary_item_removed': {"root['chairman']": 'Thogden'}, 'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Sam Allardyce'}, "root['owner']": {'new_value': 'Administrators', 'old_value': 'Thogdad'}}}
+1810: {'dictionary_item_added': {"root['chairman']": 'Thogden'}, 'values_changed': {"root['manager']": {'new_value': 'Sam Allardyce', 'old_value': 'Phil Parkinson'}, "root['owner']": {'new_value': 'Thogdad', 'old_value': 'Administrators'}}}
+1876: {'dictionary_item_added': {"root['owner']": 'Administrators'}, 'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton Wanderers under 23’s'}}}
+1877: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers under 23’s', 'old_value': 'Bolton Wanderers'}}}
+1878: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson', 'old_value': 'Phil Parkinson (Recently Resigned so no current manager)'}}}
+1879: {'values_changed': {"root['manager']": {'new_value': 'Phil Parkinson (Recently Resigned so no current manager)', 'old_value': 'vacant'}}}
+1884: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'none'}}}
+1885: {'values_changed': {"root['manager']": {'new_value': 'none', 'old_value': 'vacant'}}}
+1886: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'BoltonBigWill86'}}}
+1887: {'values_changed': {"root['manager']": {'new_value': 'BoltonBigWill86', 'old_value': 'vacant'}}}
+1895: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Jimmy Phillips'}}}
+1896: {'values_changed': {"root['manager']": {'new_value': 'Jimmy Phillips', 'old_value': 'Jimmy Phillips (footballer, born 1966)'}}}
+1897: {'dictionary_item_removed': {"root['mgrtitle']": 'interim manager'}}
+1908: {'values_changed': {"root['mgrtitle']": {'new_value': 'interim manager', 'old_value': 'Manager'}}}
+1922: {'dictionary_item_added': {"root['manager']": 'Jimmy Phillips (footballer, born 1966)'}, 'dictionary_item_removed': {"root['dissolved']": '26th of August 2019'}}
+1949: {'dictionary_item_added': {"root['dissolved']": '26th of August 2019'}, 'dictionary_item_removed': {"root['owner']": 'Burnden Leisure Ltd'}}
+1950: {'dictionary_item_removed': {"root['chairman']": 'Ken Anderson'}}
+1951: {'dictionary_item_removed': {"root['chrtitle']": 'Chief Executive'}}
+1965: {'dictionary_item_added': {"root['owner']": 'Burnden Leisure Ltd', "root['chairman']": 'Ken Anderson', "root['chrtitle']": 'Chief Executive'}, 'dictionary_item_removed': {"root['rowspan']": "4| ''none''  |- |1975 |Bukta |- |1976–1977 |Admiral |- |1977–1980 |"}}
+2004: {'dictionary_item_added': {"root['rowspan']": "4| ''none''  |- |1975 |Bukta |- |1976–1977 |Admiral |- |1977–1980 |"}, 'dictionary_item_removed': {"root['manager']": 'Jimmy Phillips (footballer, born 1966)', "root['owner']": 'Football Ventures (Whites) Limited   '}}
+2008: {'values_changed': {"root['owner']": {'new_value': 'Football Ventures (Whites) Limited   ', 'old_value': 'Football Ventures (Whites) Limited<ref name'}}}
+2010: {'values_changed': {"root['owner']": {'new_value': 'Football Ventures (Whites) Limited<ref name', 'old_value': 'Football Ventures (Whites) Ltd<ref name'}}}
+2014: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'Reebok Stadium'}, "root['manager']": {'new_value': 'Jimmy Phillips (footballer, born 1966)', 'old_value': 'no'}}}
+2015: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Premier LeagueEnglish football updater'}}}
+2016: {'values_changed': {"root['manager']": {'new_value': 'no', 'old_value': 'No'}, "root['league']": {'new_value': 'Premier LeagueEnglish football updater', 'old_value': 'Premier League'}}}
+2017: {'values_changed': {"root['ground']": {'new_value': 'Reebok Stadium', 'old_value': 'University of Bolton Stadium'}, "root['manager']": {'new_value': 'No', 'old_value': 'Jimmy Phillips (footballer, born 1966)'}, "root['league']": {'new_value': 'Premier League', 'old_value': 'English football updater'}}}
+2019: {'dictionary_item_removed': {"root['chairman']": 'Sharon Brittan'}}
+2040: {'values_changed': {"root['manager']": {'new_value': 'Jimmy Phillips (footballer, born 1966)', 'old_value': 'Keith Hill'}}}
+2041: {'values_changed': {"root['manager']": {'new_value': 'Keith Hill', 'old_value': 'Keith Hill (footballer)'}}}
+2066: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton Wanderers Football Club'}}}
+2080: {'dictionary_item_added': {"root['chairman']": 'Sharon Brittan'}, 'dictionary_item_removed': {"root['CEO']": 'Emma Beaugeard'}}
+2081: {'dictionary_item_added': {"root['CEO']": 'Emma Beaugeard'}, 'dictionary_item_removed': {"root['chairman']": 'Sharon Brittan'}}
+2102: {'values_changed': {"root['manager']": {'new_value': 'Keith Hill (footballer)', 'old_value': 'Farhaan Patel(footballer)'}}}
+2103: {'values_changed': {"root['manager']": {'new_value': 'Farhaan Patel(footballer)', 'old_value': 'Keith Hill (footballer)'}}}
+2106: {'values_changed': {"root['manager']": {'new_value': 'Keith Hill (footballer)', 'old_value': 'Ben Patchick (footballer)'}}}
+2107: {'values_changed': {"root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'Sharon Bruton'}}}
+2108: {'values_changed': {"root['manager']": {'new_value': 'Ben Patchick (footballer)', 'old_value': 'BEN PATCHICK'}}}
+2109: {'values_changed': {"root['manager']": {'new_value': 'BEN PATCHICK', 'old_value': 'Keith Hill (footballer)'}}}
+2110: {'values_changed': {"root['chairman']": {'new_value': 'Sharon Bruton', 'old_value': 'Sharon Brittan'}}}
+2142: {'values_changed': {"root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'Stacey “Nightmare” Jennings'}}}
+2143: {'values_changed': {"root['chairman']": {'new_value': 'Stacey “Nightmare” Jennings', 'old_value': 'Sharon Brittan'}}}
+2152: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers Football Club', 'old_value': 'mighty Bolton Wanderers Football Club'}}}
+2153: {'values_changed': {"root['clubname']": {'new_value': 'mighty Bolton Wanderers Football Club', 'old_value': 'Bolton Wanderers Football Club'}}}
+2185: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers Football Club', 'old_value': 'no longer  a club'}, "root['manager']": {'new_value': 'Keith Hill (footballer)', 'old_value': 'big sexy steve'}}}
+2186: {'values_changed': {"root['clubname']": {'new_value': 'no longer  a club', 'old_value': 'Bolton Wanderers Football Club'}, "root['manager']": {'new_value': 'big sexy steve', 'old_value': 'Keith Hill (footballer)'}}}
+2194: {'values_changed': {"root['capacity']": {'new_value': '28,723', 'old_value': '28,723 however it has never been filled and gets a regular attendance of 723'}}}
+2195: {'values_changed': {"root['capacity']": {'new_value': '28,723 however it has never been filled and gets a regular attendance of 723', 'old_value': '28,723'}}}
+2198: {'dictionary_item_added': {"root['mgrtitle']": 'Manager'}, 'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers Football Club', 'old_value': 'Bolton Wanderers'}, "root['manager']": {'new_value': 'Keith Hill (footballer)', 'old_value': 'Ian Evatt'}, "root['current']": {'new_value': '2019–20 Bolton Wanderers F.C. season', 'old_value': '2022–23 Bolton Wanderers F.C. season'}, "root['owner']": {'new_value': 'Football Ventures (Whites) Ltd<ref name', 'old_value': 'Football Ventures (Whites) Ltd (92%) <ref name'}}}
+2214: {'dictionary_item_added': {"root['chairman']": 'Sharon Brittan'}, 'dictionary_item_removed': {"root['Chairlady']": 'Sharon Brittan'}}
+2217: {'dictionary_item_added': {"root['Chairlady']": 'Sharon Brittan'}, 'dictionary_item_removed': {"root['chairlady']": 'Sharon Brittan'}}
+2218: {'dictionary_item_added': {"root['chairlady']": 'Sharon Brittan'}, 'dictionary_item_removed': {"root['chairman']": 'Sharon Brittan'}}
+2226: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'Ian Evatt the dog liker (;'}}}
+2227: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt the dog liker (;', 'old_value': 'Ian Evatt'}}}
+2230: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'Ian Evatt the dog fiddler'}}}
+2231: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt the dog fiddler', 'old_value': 'Ian Evatt'}}}
+2232: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Bolton Wanderers get battered everywhere they goooooooooooo'}}}
+2233: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers get battered everywhere they goooooooooooo', 'old_value': 'Bolton Wanderers'}}}
+2234: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'boltan wanderers'}, "root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'james mcclean'}, "root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'michael mckevitt'}, "root['league']": {'new_value': 'English football updater', 'old_value': 'Start date and age'}}}
+2237: {'values_changed': {"root['clubname']": {'new_value': 'boltan wanderers', 'old_value': 'Bolton Wanderers'}, "root['manager']": {'new_value': 'james mcclean', 'old_value': 'Ian Evatt'}, "root['chairman']": {'new_value': 'michael mckevitt', 'old_value': 'Sharon Brittan'}, "root['league']": {'new_value': 'Start date and age', 'old_value': 'English football updater'}}}
+2238: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'jimmy mac runs bolton'}, "root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'michael mckevitt'}}}
+2239: {'values_changed': {"root['clubname']": {'new_value': 'jimmy mac runs bolton', 'old_value': 'Bolton Wanderers'}, "root['chairman']": {'new_value': 'michael mckevitt', 'old_value': 'Sharon Brittan'}}}
+2240: {'dictionary_item_removed': {"root['stadium']": 'DW Stadium '}, 'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'james mcClean'}}}
+2241: {'dictionary_item_added': {"root['stadium']": 'DW Stadium '}, 'values_changed': {"root['manager']": {'new_value': 'james mcClean', 'old_value': 'Ian Evatt'}}}
+2242: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'bumed ian'}, "root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'James McClean'}}}
+2243: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'University of the I R A'}}}
+2244: {'values_changed': {"root['ground']": {'new_value': 'University of the I R A', 'old_value': 'University of Bolton Stadium'}, "root['manager']": {'new_value': 'bumed ian', 'old_value': 'Ian Evatt'}, "root['chairman']": {'new_value': 'James McClean', 'old_value': 'Sharon Brittan'}}}
+2250: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'Ian Evatt the dog shagger'}, "root['owner']": {'new_value': 'Football Ventures (Whites) Ltd (92%) <ref name', 'old_value': 'James McClean (Whites) Ltd (92%) <ref name'}}}
+2251: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt the dog shagger', 'old_value': 'Ian Evatt'}, "root['owner']": {'new_value': 'James McClean (Whites) Ltd (92%) <ref name', 'old_value': 'Football Ventures (Whites) Ltd (92%) <ref name'}}}
+2271: {'dictionary_item_removed': {"root['pattern_la']": '_boltonw2223h'}}
+2272: {'values_changed': {"root['capacity']": {'new_value': '28,723', 'old_value': '100000000000000 ,723'}, "root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'thanos'}}}
+2273: {'dictionary_item_added': {"root['pattern_la']": '_boltonw2223h'}, 'values_changed': {"root['capacity']": {'new_value': '100000000000000 ,723', 'old_value': '28,723'}, "root['manager']": {'new_value': 'thanos', 'old_value': 'Ian Evatt'}}}
+2274: {'values_changed': {"root['manager']": {'new_value': 'Ian Evatt', 'old_value': 'alfie ray'}, "root['chairman']": {'new_value': 'Sharon Brittan', 'old_value': 'elliot foster'}}}
+2275: {'values_changed': {"root['manager']": {'new_value': 'alfie ray', 'old_value': 'Ian Evatt'}, "root['chairman']": {'new_value': 'elliot foster', 'old_value': 'Sharon Brittan'}}}
+2282: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'Toughsheet Community Stadium'}}}
+2283: {'values_changed': {"root['ground']": {'new_value': 'Toughsheet Community Stadium', 'old_value': 'University of Bolton Stadium'}}}
+2359: {'values_changed': {"root['clubname']": {'new_value': 'Bolton Wanderers', 'old_value': 'Black Attack'}}}
+2360: {'values_changed': {"root['clubname']": {'new_value': 'Black Attack', 'old_value': 'Bolton Wanderers'}}}
+2362: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'Toughsheet Community Stadium'}}}
+2365: {'values_changed': {"root['ground']": {'new_value': 'Toughsheet Community Stadium', 'old_value': 'University of Bolton Stadium'}}}
+2369: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'Touchsheet community Stadium'}}}
+2370: {'values_changed': {"root['ground']": {'new_value': 'Touchsheet community Stadium', 'old_value': 'Toughsheet community Stadium'}}}
+2371: {'values_changed': {"root['ground']": {'new_value': 'Toughsheet community Stadium', 'old_value': 'University of Bolton Stadium'}}}
+2374: {'values_changed': {"root['ground']": {'new_value': 'University of Bolton Stadium', 'old_value': 'Toughsheet Community Stadium'}}}
+2375: {'values_changed': {"root['current']": {'new_value': '2022–23 Bolton Wanderers F.C. season', 'old_value': '2023–24 Bolton Wanderers F.C. season'}}}

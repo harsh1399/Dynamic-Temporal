@@ -1,0 +1,31 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Royal Antwerp FC', "root['ground']": 'Stadion Broodstraat', "root['capacity']": '12,975', "root['chairman']": 'Jan Michel', "root['manager']": 'László Bölöni', "root['league']": 'Belgian First Division A', "root['season']": '2016–17 Belgian First Division B', "root['position']": 'Belgian First Division B, champions', "root['pattern_s1']": '_rafc1718h', "root['pattern_s2']": '_rafc1718a'}}
+20: {'values_changed': {"root['capacity']": {'new_value': '12,975', 'old_value': '15,500'}, "root['season']": {'new_value': '2016–17 Belgian First Division B', 'old_value': '2017–18 Belgian First Division A'}, "root['position']": {'new_value': 'Belgian First Division B, champions', 'old_value': 'Belgian First Division A, 8th place'}}}
+21: {'values_changed': {"root['capacity']": {'new_value': '15,500', 'old_value': '15,000'}}}
+27: {'values_changed': {"root['clubname']": {'new_value': 'Royal Antwerp FC', 'old_value': 'KV Antwerpen'}, "root['chairman']": {'new_value': 'Jan Michel', 'old_value': 'Jan Alderweireld'}, "root['manager']": {'new_value': 'László Bölöni', 'old_value': 'Jan Ceulemans'}}}
+29: {'values_changed': {"root['clubname']": {'new_value': 'KV Antwerpen', 'old_value': 'Royal Antwerp FC'}, "root['chairman']": {'new_value': 'Jan Alderweireld', 'old_value': 'Jan Michel'}, "root['manager']": {'new_value': 'Jan Ceulemans', 'old_value': 'László Bölöni'}}}
+52: {'values_changed': {"root['capacity']": {'new_value': '15,000', 'old_value': '16,144'}}}
+53: {'dictionary_item_removed': {"root['owner']": 'BE-VLAG Paul Gheysens', "root['trainer']": 'RO-VLAG László Bölöni'}, 'values_changed': {"root['chairman']": {'new_value': 'Jan Michel', 'old_value': 'BE-VLAG Jan Michel'}, "root['manager']": {'new_value': 'László Bölöni', 'old_value': 'BE-VLAG Frédéric Leidgens'}}}
+54: {'values_changed': {"root['chairman']": {'new_value': 'BE-VLAG Jan Michel', 'old_value': 'Jan Michel'}, "root['owner']": {'new_value': 'BE-VLAG Paul Gheysens', 'old_value': 'Paul Gheysens'}, "root['manager']": {'new_value': 'BE-VLAG Frédéric Leidgens', 'old_value': 'Frédéric Leidgens'}, "root['trainer']": {'new_value': 'RO-VLAG László Bölöni', 'old_value': 'László Bölöni'}}}
+69: {'values_changed': {"root['clubname']": {'new_value': 'Royal Antwerp FC', 'old_value': 'Antwerp'}}}
+73: {'values_changed': {"root['manager']": {'new_value': 'Frédéric Leidgens', 'old_value': 'László_Bölöni'}}}
+74: {'values_changed': {"root['manager']": {'new_value': 'László_Bölöni', 'old_value': 'László Bölöni'}}}
+79: {'dictionary_item_added': {"root['owner']": 'Paul Gheysens', "root['trainer']": 'László Bölöni', "root['chairman']": 'Jan Michel', "root['pattern_s1']": '_rafc1718h', "root['pattern_s2']": '_rafc1718a'}, 'dictionary_item_removed': {"root['current']": '2021–22 Royal Antwerp F.C. season'}, 'values_changed': {"root['ground']": {'new_value': 'Stadion Broodstraat', 'old_value': 'Bosuilstadion Antwerp, Belgium'}, "root['manager']": {'new_value': 'László Bölöni', 'old_value': 'Brian Priske'}, "root['season']": {'new_value': '2017–18 Belgian First Division A', 'old_value': 'Belgian First Division A'}, "root['position']": {'new_value': 'Belgian First Division A, 8th place', 'old_value': 'Belgian First Division A, 3rd'}}}
+102: {'values_changed': {"root['manager']": {'new_value': 'Brian Priske', 'old_value': 'Mark van Bommel'}}}
+104: {'values_changed': {"root['position']": {'new_value': 'Belgian First Division A, 3rd', 'old_value': 'Belgian First Division A, 4th'}}}
+108: {'values_changed': {"root['current']": {'new_value': '2021–22 Royal Antwerp F.C. season', 'old_value': '2022–23 Royal Antwerp F.C. season'}}}
+138: {'dictionary_item_removed': {"root['owner']": 'House of Orange-Nassau', "root['chairman']": 'Piet van Boldwijn'}}
+157: {'dictionary_item_added': {"root['owner']": 'House of Orange-Nassau', "root['chairman']": 'Piet van Boldwijn'}, 'values_changed': {"root['position']": {'new_value': 'Belgian First Division A, 4th', 'old_value': 'Belgian First Division A, 4th of 18'}}}
+160: {'values_changed': {"root['position']": {'new_value': 'Belgian First Division A, 4th of 18', 'old_value': 'Belgian Pro League, 4th of 18'}}}
+176: {'values_changed': {"root['manager']": {'new_value': 'Mark van Bommel', 'old_value': 'Cliffinho de binho'}}}
+178: {'values_changed': {"root['manager']": {'new_value': 'Cliffinho de binho', 'old_value': 'Marc Van Bommel'}}}
+179: {'values_changed': {"root['manager']": {'new_value': 'Marc Van Bommel', 'old_value': 'Mark Van Bommel'}}}
+189: {'values_changed': {"root['manager']": {'new_value': 'Mark Van Bommel', 'old_value': 'Mark van Bommel'}}}
+197: {'values_changed': {"root['capacity']": {'new_value': '16,144', 'old_value': '16,144 https://www.gva.be/cnt/dmf20180810_03657478/capaciteitsuitbreiding-bosuil-goedgekeurd Bosuil mag voortaan 16.144 supporters ontvangen Webarchive'}}}
+200: {'values_changed': {"root['position']": {'new_value': 'Belgian Pro League, 4th of 18', 'old_value': 'Belgian Pro League, 1st of 18'}}}
+201: {'values_changed': {"root['position']": {'new_value': 'Belgian Pro League, 1st of 18', 'old_value': 'Belgian Pro League, 1st of 18  (champions)'}}}
+203: {'values_changed': {"root['league']": {'new_value': 'Belgian First Division A', 'old_value': 'Belgian Pro League'}, "root['season']": {'new_value': 'Belgian First Division A', 'old_value': 'Belgian Pro League'}}}
+211: {'dictionary_item_added': {"root['position']": 'Belgian Pro League, 1st of 18  (champions)'}, 'values_changed': {"root['current']": {'new_value': '2022–23 Royal Antwerp F.C. season', 'old_value': '2023–24 Royal Antwerp F.C. season'}}}
+216: {'values_changed': {"root['clubname']": {'new_value': 'Antwerp', 'old_value': 'R. Antwerp'}}}
+218: {'dictionary_item_removed': {"root['position']": '1st'}}
+220: {'values_changed': {"root['position']": {'new_value': '1st', 'old_value': '1st of 18'}}}
+221: {'values_changed': {"root['position']": {'new_value': '1st of 18', 'old_value': '1st of 18 (champions)'}}}

@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Aalesunds FK', "root['ground']": 'Color Line Stadion, Ålesund (town)', "root['capacity']": '10,778', "root['chairman']": 'Jan Petter Hagen', "root['manager']": 'Lars Arne Nilsen', "root['league']": 'Eliteserien', "root['season']": '2021 1. divisjon', "root['position']": '1. divisjon, 2nd of 16 (promoted)', "root['current']": '2020 Aalesunds FK season '}}
+36: {'values_changed': {"root['season']": {'new_value': '2021 1. divisjon', 'old_value': '2022 Eliteserien'}, "root['position']": {'new_value': '1. divisjon, 2nd of 16 (promoted)', 'old_value': 'Eliteserien, 9th of 16'}}}
+60: {'dictionary_item_added': {"root['manager']": 'Lars Arne Nilsen'}, 'values_changed': {"root['current']": {'new_value': '2020 Aalesunds FK season ', 'old_value': '2023 Aalesunds FK season '}}}
+62: {'dictionary_item_removed': {"root['manager']": 'Marius Bøe (interim)'}}
+63: {'values_changed': {"root['manager']": {'new_value': 'Marius Bøe (interim)', 'old_value': 'Christian Johnsen'}}}

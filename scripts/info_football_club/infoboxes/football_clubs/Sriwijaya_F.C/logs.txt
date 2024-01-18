@@ -1,0 +1,62 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Sriwijaya Football Club', "root['ground']": 'Gelora Sriwijaya Stadium', "root['capacity']": '60,000', "root['owner']": 'PT. Sriwijaya Optimis Mandiri', "root['mgrtitle']": 'Head Coach', "root['manager']": 'Rahmad Darmawan', "root['season']": '2017 Liga 1', "root['league']": 'Liga 1 (Indonesia)', "root['position']": 'Liga 1, 11th'}}
+37: {'values_changed': {"root['capacity']": {'new_value': '60,000', 'old_value': '33,000'}}}
+42: {'values_changed': {"root['capacity']": {'new_value': '33,000', 'old_value': '22,000'}}}
+52: {'values_changed': {"root['capacity']": {'new_value': '22,000', 'old_value': '23,000 full single seat'}}}
+74: {'values_changed': {"root['capacity']": {'new_value': '23,000 full single seat', 'old_value': '23,000'}}}
+77: {'values_changed': {"root['capacity']": {'new_value': '23,000', 'old_value': '42,000'}}}
+84: {'values_changed': {"root['capacity']": {'new_value': '42,000', 'old_value': '23,000'}}}
+92: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Gelora hebat stadium'}}}
+93: {'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Football Club', 'old_value': 'bang tolip Football Club'}}}
+95: {'values_changed': {"root['ground']": {'new_value': 'Gelora hebat stadium', 'old_value': 'Gelora Sriwijaya Stadium'}}}
+96: {'values_changed': {"root['clubname']": {'new_value': 'bang tolip Football Club', 'old_value': 'Sriwijaya Football Club'}}}
+99: {'values_changed': {"root['manager']": {'new_value': 'Rahmad Darmawan', 'old_value': "''Vacant''"}}}
+105: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Rahmat Darmawan'}}}
+106: {'values_changed': {"root['manager']": {'new_value': 'Rahmat Darmawan', 'old_value': 'Rahmad Darmawan'}}}
+109: {'values_changed': {"root['manager']": {'new_value': 'Rahmad Darmawan', 'old_value': 'Subangkit (Caretaker)'}}}
+110: {'values_changed': {"root['manager']": {'new_value': 'Subangkit (Caretaker)', 'old_value': 'Subangkit (caretaker)'}}}
+113: {'values_changed': {"root['manager']": {'new_value': 'Subangkit (caretaker)', 'old_value': 'Subangkit(caretaker)'}}}
+114: {'values_changed': {"root['manager']": {'new_value': 'Subangkit(caretaker)', 'old_value': 'Subangkit (caretaker)'}}}
+115: {'values_changed': {"root['manager']": {'new_value': 'Subangkit (caretaker)', 'old_value': 'Subangkit'}}}
+127: {'dictionary_item_removed': {"root['current']": '2018 Sriwijaya F.C. season'}}
+140: {'values_changed': {"root['owner']": {'new_value': 'PT. Sriwijaya Optimis Mandiri', 'old_value': 'PT Sriwijaya Optimis Mandiri'}}}
+143: {'values_changed': {"root['manager']": {'new_value': 'Subangkit', 'old_value': "''Vacant''"}}}
+146: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Angel Alfredo Vera'}}}
+157: {'values_changed': {"root['season']": {'new_value': '2017 Liga 1', 'old_value': '2018 Liga 1'}, "root['position']": {'new_value': 'Liga 1, 11th', 'old_value': 'Liga 1, 17th(Relegated)'}}}
+158: {'values_changed': {"root['position']": {'new_value': 'Liga 1, 17th(Relegated)', 'old_value': 'Liga 1, 17th (Relegated)'}}}
+159: {'values_changed': {"root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 2 (Indonesia)'}}}
+164: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'dictionary_item_removed': {"root['chairman']": 'Asfran Fikri Sanaf', "root['coach']": 'Budiarjo Thalib'}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Football Club', 'old_value': 'Sriwijaya'}, "root['manager']": {'new_value': 'Angel Alfredo Vera', 'old_value': 'Hendri Zainuddin'}, "root['season']": {'new_value': '2018 Liga 1', 'old_value': '2019 Liga 1'}, "root['position']": {'new_value': 'Liga 1, 17th (Relegated)', 'old_value': 'Liga 2, 4th'}, "root['current']": {'new_value': '2018 Sriwijaya F.C. season', 'old_value': '2020 Sriwijaya F.C. season'}}}
+170: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Arinal Djunaidi'}, "root['manager']": {'new_value': 'Hendri Zainuddin', 'old_value': 'Muhammad Fadli'}}}
+180: {'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['chairman']": {'new_value': 'Arinal Djunaidi', 'old_value': 'Asfran Fikri Sanaf'}, "root['manager']": {'new_value': 'Muhammad Fadli', 'old_value': 'Hendri Zainuddin'}}}
+181: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Arinal Djunaidi'}, "root['manager']": {'new_value': 'Hendri Zainuddin', 'old_value': 'Muhammad Fadli'}}}
+186: {'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['chairman']": {'new_value': 'Arinal Djunaidi', 'old_value': 'Asfran Fikri Sanaf'}, "root['manager']": {'new_value': 'Muhammad Fadli', 'old_value': 'Hendri Zainuddin'}}}
+187: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['capacity']": {'new_value': '23,000', 'old_value': '25,000'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Arinal Djunaidi'}, "root['manager']": {'new_value': 'Hendri Zainuddin', 'old_value': 'Muhammad Fadli'}}}
+188: {'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['capacity']": {'new_value': '25,000', 'old_value': '23,000'}, "root['chairman']": {'new_value': 'Arinal Djunaidi', 'old_value': 'Asfran Fikri Sanaf'}, "root['manager']": {'new_value': 'Muhammad Fadli', 'old_value': 'Hendri Zainuddin'}}}
+191: {'values_changed': {"root['coach']": {'new_value': 'Budiarjo Thalib', 'old_value': "''Vacant''"}}}
+195: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Nil Maizar'}}}
+219: {'type_changes': {"root['chairman']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Atta Halilintar', 'Arinal Djunaidi'], 'new_value': 'Asfran Fikri Sanaf'}}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya', 'old_value': 'Sriwijaya Lampung'}, "root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['capacity']": {'new_value': '23,000', 'old_value': '25,000'}, "root['current']": {'new_value': '2020 Sriwijaya F.C. season', 'old_value': '2021 Sriwijaya Lampung F.C. season'}}}
+220: {'type_changes': {"root['chairman']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Asfran Fikri Sanaf', 'new_value': ['Atta Halilintar', 'Arinal Djunaidi']}}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Lampung', 'old_value': 'Sriwijaya'}, "root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['capacity']": {'new_value': '25,000', 'old_value': '23,000'}, "root['current']": {'new_value': '2021 Sriwijaya Lampung F.C. season', 'old_value': '2020 Sriwijaya F.C. season'}}}
+241: {'values_changed': {"root['current']": {'new_value': '2020 Sriwijaya F.C. season', 'old_value': '2021 Liga 2 (Indonesia)'}}}
+243: {'values_changed': {"root['manager']": {'new_value': 'Hendri Zainuddin', 'old_value': 'Hendriansyah'}}}
+274: {'values_changed': {"root['current']": {'new_value': '2021 Liga 2 (Indonesia)', 'old_value': '2021–22 Liga 2 (Indonesia)'}}}
+306: {'values_changed': {"root['season']": {'new_value': '2019 Liga 1', 'old_value': '2021 Liga 2 (Indonesia)'}, "root['position']": {'new_value': 'Liga 2, 4th', 'old_value': '2021–22 Liga 2 (Indonesia)'}}}
+332: {'values_changed': {"root['coach']": {'new_value': 'Nil Maizar', 'old_value': "''Vacant''"}}}
+335: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Keith Gumbs'}}}
+340: {'values_changed': {"root['coach']": {'new_value': 'Keith Gumbs', 'old_value': "''Vacant''"}}}
+359: {'values_changed': {"root['coach']": {'new_value': "''Vacant''", 'old_value': 'Liestiadi'}}}
+372: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Muhammad Ridho Ficardo'}}}
+373: {'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya', 'old_value': 'Sriwijaya Lampung'}}}
+374: {'dictionary_item_removed': {"root['chrtitle']": 'President'}, 'values_changed': {"root['current']": {'new_value': '2021–22 Liga 2 (Indonesia)', 'old_value': '2022–23 Liga 2 (Indonesia)'}}}
+375: {'dictionary_item_added': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Lampung', 'old_value': 'Sriwijaya'}, "root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['chairman']": {'new_value': 'Muhammad Ridho Ficardo', 'old_value': 'Asfran Fikri Sanaf'}, "root['current']": {'new_value': '2022–23 Liga 2 (Indonesia)', 'old_value': '2021–22 Liga 2 (Indonesia)'}}}
+376: {'dictionary_item_removed': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya', 'old_value': 'Sriwijaya Lampung'}, "root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Muhammad Ridho Ficardo'}, "root['current']": {'new_value': '2021–22 Liga 2 (Indonesia)', 'old_value': '2022–23 Liga 2 (Indonesia)'}}}
+379: {'dictionary_item_added': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Lampung', 'old_value': 'Sriwijaya'}, "root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['chairman']": {'new_value': 'Muhammad Ridho Ficardo', 'old_value': 'Asfran Fikri Sanaf'}, "root['current']": {'new_value': '2022–23 Liga 2 (Indonesia)', 'old_value': '2021–22 Liga 2 (Indonesia)'}}}
+382: {'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya', 'old_value': 'Sriwijaya Lampung'}, "root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['capacity']": {'new_value': '23,000', 'old_value': '25,000'}, "root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Muhammad Ridho Ficardo'}}}
+383: {'dictionary_item_removed': {"root['chrtitle']": 'President'}, 'values_changed': {"root['clubname']": {'new_value': 'Sriwijaya Lampung', 'old_value': 'Sriwijaya'}}}
+386: {'values_changed': {"root['owner']": {'new_value': 'PT Sriwijaya Optimis Mandiri', 'old_value': 'Lampung'}}}
+387: {'dictionary_item_added': {"root['chrtitle']": 'President'}, 'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['capacity']": {'new_value': '25,000', 'old_value': '23,000'}, "root['owner']": {'new_value': 'Lampung', 'old_value': 'PT Sriwijaya Optimis Mandiri'}, "root['chairman']": {'new_value': 'Muhammad Ridho Ficardo', 'old_value': 'Asfran Fikri Sanaf'}}}
+390: {'dictionary_item_removed': {"root['chrtitle']": 'President'}, 'values_changed': {"root['chairman']": {'new_value': 'Asfran Fikri Sanaf', 'old_value': 'Hendri Zainuddin'}}}
+399: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Pahoman Stadium'}, "root['capacity']": {'new_value': '23,000', 'old_value': '15,000'}}}
+401: {'values_changed': {"root['ground']": {'new_value': 'Pahoman Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['capacity']": {'new_value': '15,000', 'old_value': '23,000'}}}
+404: {'values_changed': {"root['current']": {'new_value': '2021–22 Liga 2 (Indonesia)', 'old_value': '2022-23 Liga 2 (Indonesia)'}}}
+447: {'values_changed': {"root['ground']": {'new_value': 'Gelora Sriwijaya Stadium', 'old_value': 'Sumpah Pemuda Stadium'}, "root['capacity']": {'new_value': '23,000', 'old_value': '25,000'}, "root['chairman']": {'new_value': 'Hendri Zainuddin', 'old_value': ':id:Hendri Zainuddin'}}}
+448: {'values_changed': {"root['chairman']": {'new_value': ':id:Hendri Zainuddin', 'old_value': 'Hendri Zainuddin'}}}
+450: {'values_changed': {"root['ground']": {'new_value': 'Sumpah Pemuda Stadium', 'old_value': 'Gelora Sriwijaya Stadium'}, "root['capacity']": {'new_value': '25,000', 'old_value': '23,000'}}}

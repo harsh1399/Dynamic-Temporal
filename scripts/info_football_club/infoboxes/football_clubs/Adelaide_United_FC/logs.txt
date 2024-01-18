@@ -1,0 +1,20 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Adelaide United', "root['ground']": 'Coopers Stadium', "root['capacity']": '16,500', "root['chairman']": 'Greg Griffin', "root['manager']": 'Guillermo Amor', "root['mgrtitle']": 'Manager', "root['league']": 'A-League', "root['season']": '2014–15 A-League', "root['position']": 'A-League, 3rd', "root['current']": '2015–16 Adelaide United FC season'}}
+70: {'values_changed': {"root['capacity']": {'new_value': '16,500', 'old_value': '17,000'}}}
+83: {'values_changed': {"root['season']": {'new_value': '2014–15 A-League', 'old_value': '2015–16 A-League'}, "root['position']": {'new_value': 'A-League, 3rd', 'old_value': 'A-League, 1st'}}}
+85: {'values_changed': {"root['ground']": {'new_value': 'Coopers Stadium', 'old_value': 'Hindmarsh Stadium'}, "root['capacity']": {'new_value': '17,000', 'old_value': '16,500ref>http://www.austadiums.com/stadiums/stadiums.php?id'}}}
+86: {'values_changed': {"root['capacity']": {'new_value': '16,500ref>http://www.austadiums.com/stadiums/stadiums.php?id', 'old_value': '16,500 http://www.austadiums.com/stadiums/stadiums.php?id'}}}
+139: {'dictionary_item_added': {"root['ground']": 'Hindmarsh Stadium'}, 'dictionary_item_removed': {"root['grounds']": 'Hindmarsh Stadium'}}
+141: {'dictionary_item_added': {"root['grounds']": 'Hindmarsh Stadium'}, 'dictionary_item_removed': {"root['ground']": 'Hindmarsh Stadium'}}
+181: {'values_changed': {"root['manager']": {'new_value': 'Guillermo Amor', 'old_value': 'Aristides Tselekidis'}}}
+182: {'values_changed': {"root['manager']": {'new_value': 'Aristides Tselekidis', 'old_value': 'Guillermo Amor'}}}
+196: {'values_changed': {"root['current']": {'new_value': '2015–16 Adelaide United FC season', 'old_value': '2016–17 Adelaide United FC season'}}}
+313: {'values_changed': {"root['capacity']": {'new_value': '16,500 http://www.austadiums.com/stadiums/stadiums.php?id', 'old_value': '468,000 http://www.austadiums.com/stadiums/stadiums.php?id'}}}
+314: {'values_changed': {"root['capacity']": {'new_value': '468,000 http://www.austadiums.com/stadiums/stadiums.php?id', 'old_value': '17,000 http://www.austadiums.com/stadiums/stadiums.php?id'}}}
+352: {'values_changed': {"root['chairman']": {'new_value': 'Greg Griffin', 'old_value': 'George W.Bush'}}}
+353: {'values_changed': {"root['chairman']": {'new_value': 'George W.Bush', 'old_value': 'Greg Griffin'}}}
+364: {'values_changed': {"root['current']": {'new_value': '2016–17 Adelaide United FC season', 'old_value': '2016–17 Adelaide United SC season'}}}
+366: {'values_changed': {"root['current']": {'new_value': '2016–17 Adelaide United SC season', 'old_value': '2016–17 Adelaide United FC season'}}}
+411: {'dictionary_item_added': {"root['mgrtitle']": 'Manager'}, 'values_changed': {"root['capacity']": {'new_value': '17,000 http://www.austadiums.com/stadiums/stadiums.php?id', 'old_value': '16,500'}, "root['chairman']": {'new_value': 'Greg Griffin', 'old_value': 'Piet van der Pol'}, "root['manager']": {'new_value': 'Guillermo Amor', 'old_value': 'Carl Veart'}, "root['league']": {'new_value': 'A-League', 'old_value': 'Australian soccer updater'}, "root['season']": {'new_value': '2015–16 A-League', 'old_value': 'Australian soccer updater'}, "root['position']": {'new_value': 'A-League, 1st', 'old_value': 'Australian soccer updater'}, "root['current']": {'new_value': '2016–17 Adelaide United FC season', 'old_value': '2022–23 Adelaide United FC season'}}}
+439: {'values_changed': {"root['chairman']": {'new_value': 'Piet van der Pol', 'old_value': 'Ned Morris'}}}
+441: {'values_changed': {"root['chairman']": {'new_value': 'Ned Morris', 'old_value': 'Ned Morris<ref name'}}}
+464: {'values_changed': {"root['current']": {'new_value': '2022–23 Adelaide United FC season', 'old_value': '2023–24 Adelaide United FC season'}}}

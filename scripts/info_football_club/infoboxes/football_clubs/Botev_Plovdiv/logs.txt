@@ -1,0 +1,60 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Botev Plovdiv', "root['ground']": 'Hristo Botev Stadium (Plovdiv)', "root['capacity']": '18,000', "root['owner']": 'Tzvetan Vassilev', "root['manager']": 'Stanimir Stoilov', "root['league']": 'Bulgarian A Professional Football Group', "root['season']": '2012–13 A PFG', "root['position']": 'A Group, 4th', "root['current']": '2013-14 PFC Botev Plovdiv season '}}
+32: {'values_changed': {"root['owner']": {'new_value': 'Tzvetan Vassilev', 'old_value': 'Spas Slavov'}}}
+33: {'values_changed': {"root['capacity']": {'new_value': '18,000', 'old_value': '100,000'}}}
+34: {'values_changed': {"root['owner']": {'new_value': 'Spas Slavov', 'old_value': 'Ceco Vasilev'}}}
+36: {'values_changed': {"root['capacity']": {'new_value': '100,000', 'old_value': '18,777'}, "root['owner']": {'new_value': 'Ceco Vasilev', 'old_value': 'Tsvetan Vasilev'}}}
+40: {'dictionary_item_removed': {"root['chairman']": 'Lutvi Mestan'}, 'values_changed': {"root['clubname']": {'new_value': 'Botev Plovdiv', 'old_value': 'Botqv Sopot'}, "root['ground']": {'new_value': 'Hristo Botev Stadium (Plovdiv)', 'old_value': 'Komatevo (Plovdiv)'}, "root['capacity']": {'new_value': '18,777', 'old_value': '3 000'}, "root['owner']": {'new_value': 'Tsvetan Vasilev', 'old_value': 'Ahmed Dogan'}}}
+41: {'dictionary_item_added': {"root['chairman']": 'Lutvi Mestan'}, 'values_changed': {"root['clubname']": {'new_value': 'Botqv Sopot', 'old_value': 'Botev Plovdiv'}, "root['ground']": {'new_value': 'Komatevo (Plovdiv)', 'old_value': 'Hristo Botev Stadium (Plovdiv)'}, "root['capacity']": {'new_value': '3 000', 'old_value': '18,777'}, "root['owner']": {'new_value': 'Ahmed Dogan', 'old_value': 'Tsvetan Vasilev'}}}
+53: {'values_changed': {"root['league']": {'new_value': 'Bulgarian A Professional Football Group', 'old_value': 'V Group'}, "root['position']": {'new_value': 'A Group, 4th', 'old_value': 'V Group, Last plase'}}}
+54: {'values_changed': {"root['clubname']": {'new_value': 'Botev Plovdiv', 'old_value': 'Botev Plovdiv 1942'}, "root['ground']": {'new_value': 'Hristo Botev Stadium (Plovdiv)', 'old_value': 'Komatevo Stadium. Komatevo'}, "root['capacity']": {'new_value': '18,777', 'old_value': '100'}, "root['season']": {'new_value': '2012–13 A PFG', 'old_value': '2012–13 V PFG'}, "root['current']": {'new_value': '2013-14 PFC Botev Plovdiv season ', 'old_value': '2013-14 PHC Botev Plovdiv season '}}}
+55: {'values_changed': {"root['clubname']": {'new_value': 'Botev Plovdiv 1942', 'old_value': 'Botev Plovdiv'}, "root['ground']": {'new_value': 'Komatevo Stadium. Komatevo', 'old_value': 'Hristo Botev Stadium (Plovdiv)'}, "root['capacity']": {'new_value': '100', 'old_value': '18,777'}, "root['league']": {'new_value': 'V Group', 'old_value': 'Bulgarian A Professional Football Group'}, "root['season']": {'new_value': '2012–13 V PFG', 'old_value': '2012–13 A PFG'}, "root['position']": {'new_value': 'V Group, Last plase', 'old_value': 'A Group, 4th'}, "root['current']": {'new_value': '2013-14 PHC Botev Plovdiv season ', 'old_value': '2013-14 PFC Botev Plovdiv season '}}}
+56: {'dictionary_item_removed': {"root['chairman']": 'Ivan Dzhidzhev'}, 'values_changed': {"root['season']": {'new_value': '2012–13 A PFG', 'old_value': '2013–14 A PFG'}}}
+59: {'values_changed': {"root['owner']": {'new_value': 'Tsvetan Vasilev', 'old_value': 'Tzvetan Vassilev'}}}
+70: {'values_changed': {"root['manager']": {'new_value': 'Stanimir Stoilov', 'old_value': 'Lyuboslav Penev'}}}
+72: {'values_changed': {"root['manager']": {'new_value': 'Lyuboslav Penev', 'old_value': "''Vacant''"}}}
+73: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Lyuboslav Penev'}}}
+74: {'values_changed': {"root['position']": {'new_value': 'A Group, 4th', 'old_value': 'A Group, 1rst'}}}
+75: {'values_changed': {"root['position']": {'new_value': 'A Group, 1rst', 'old_value': 'A Group, 4th'}}}
+120: {'values_changed': {"root['manager']": {'new_value': 'Lyuboslav Penev', 'old_value': 'Vacant'}}}
+128: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Velislav Vutsov'}}}
+228: {'values_changed': {"root['manager']": {'new_value': 'Velislav Vutsov', 'old_value': 'Petar Penchev'}}}
+235: {'dictionary_item_removed': {"root['owntitle']": 'Shareholders', "root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['capacity']": {'new_value': '18,777', 'old_value': '20,777'}, "root['owner']": {'new_value': 'Tzvetan Vassilev', 'old_value': 'Association Botev (61%) ,  TC-IME (39%)'}, "root['chairman']": {'new_value': 'Ivan Dzhidzhev', 'old_value': 'Angel Paliyski'}, "root['manager']": {'new_value': 'Petar Penchev', 'old_value': 'Nikolay Kirov (football manager)'}, "root['league']": {'new_value': 'Bulgarian A Professional Football Group', 'old_value': 'First Professional Football League (Bulgaria)'}, "root['season']": {'new_value': '2013–14 A PFG', 'old_value': '2016–17 First Professional Football League (Bulgaria)'}, "root['position']": {'new_value': 'A Group, 4th', 'old_value': 'First League, 8th'}, "root['current']": {'new_value': '2013-14 PFC Botev Plovdiv season ', 'old_value': '20,777'}}}
+257: {'values_changed': {"root['owner']": {'new_value': 'Association Botev (61%) ,  TC-IME (39%)', 'old_value': 'Association Botev (61%) ,  Tsvetan Vasilev (39%)'}}}
+261: {'values_changed': {"root['owner']": {'new_value': 'Association Botev (61%) ,  Tsvetan Vasilev (39%)', 'old_value': 'Association Botev (61%) ,  TC-IME (39%)'}}}
+277: {'values_changed': {"root['season']": {'new_value': '2016–17 First Professional Football League (Bulgaria)', 'old_value': '2017–18 First Professional Football League (Bulgaria)'}, "root['position']": {'new_value': 'First League, 8th', 'old_value': 'First League, 5th'}}}
+302: {'values_changed': {"root['owner']": {'new_value': 'Association Botev (61%) ,  TC-IME (39%)', 'old_value': 'Georgi Samuilov (60%) ,  TC-IME (39%) ,  Association Botev (1%)'}}}
+304: {'values_changed': {"root['owner']": {'new_value': 'Georgi Samuilov (60%) ,  TC-IME (39%) ,  Association Botev (1%)', 'old_value': 'Georgi Samuilov (60%)'}}}
+313: {'values_changed': {"root['chairman']": {'new_value': 'Angel Paliyski', 'old_value': 'Georgi Samuilov'}}}
+314: {'values_changed': {"root['clubname']": {'new_value': 'Botev Plovdiv', 'old_value': 'Botev Cigani'}}}
+315: {'values_changed': {"root['clubname']": {'new_value': 'Botev Cigani', 'old_value': 'Botev Plovdiv'}}}
+320: {'values_changed': {"root['capacity']": {'new_value': '20,777', 'old_value': '18,777 (planned)<ref name'}, "root['current']": {'new_value': '20,777', 'old_value': '18,777 (planned)<ref name'}}}
+339: {'dictionary_item_added': {"root['current']": '18,777 (planned)<ref name'}, 'dictionary_item_removed': {"root['kit_alt1']": 'Yellow jersey, black shorts and yellow socks'}, 'values_changed': {"root['ground']": {'new_value': 'Hristo Botev Stadium (Plovdiv)', 'old_value': 'Stadion Hristo Botev (Plovdiv)'}, "root['owner']": {'new_value': 'Georgi Samuilov (60%)', 'old_value': 'PFK Botev Association (61%) ,  TC-IME (39%) ,'}, "root['chairman']": {'new_value': 'Georgi Samuilov', 'old_value': 'Daniel Serehido'}, "root['manager']": {'new_value': 'Nikolay Kirov (football manager)', 'old_value': 'Azrudin Valentić'}, "root['season']": {'new_value': '2017–18 First Professional Football League (Bulgaria)', 'old_value': '2019–20 First Professional Football League (Bulgaria)'}, "root['position']": {'new_value': 'First League, 5th', 'old_value': '7th'}}}
+344: {'values_changed': {"root['chairman']": {'new_value': 'Daniel Serehido', 'old_value': 'Daniel Cerejido'}}}
+405: {'values_changed': {"root['owner']": {'new_value': 'PFK Botev Association (61%) ,  TC-IME (39%) ,', 'old_value': 'PFK Botev Association (100%)'}}}
+421: {'values_changed': {"root['owner']": {'new_value': 'PFK Botev Association (100%)', 'old_value': 'Association PFC Botev (100%)'}}}
+424: {'values_changed': {"root['owner']": {'new_value': 'Association PFC Botev (100%)', 'old_value': 'PFK Botev Association(100%)'}}}
+426: {'values_changed': {"root['owner']": {'new_value': 'PFK Botev Association(100%)', 'old_value': 'PFK Botev Association (100%)'}}}
+452: {'values_changed': {"root['owner']": {'new_value': 'PFK Botev Association (100%)', 'old_value': 'Anton Zingarevich small'}}}
+465: {'values_changed': {"root['owntitle']": {'new_value': 'Shareholders', 'old_value': 'Owner'}}}
+491: {'values_changed': {"root['owner']": {'new_value': 'Anton Zingarevich small', 'old_value': 'Anton Zingarevich (99%)<ref name'}}}
+514: {'values_changed': {"root['clubname']": {'new_value': 'Botev Plovdiv', 'old_value': 'Ботяф Сопод'}}}
+516: {'values_changed': {"root['clubname']": {'new_value': 'Ботяф Сопод', 'old_value': 'Botev Plovdiv'}}}
+518: {'values_changed': {"root['capacity']": {'new_value': '18,777 (planned)<ref name', 'old_value': '22,777 (planned)<ref name'}}}
+519: {'values_changed': {"root['capacity']": {'new_value': '22,777 (planned)<ref name', 'old_value': '18,777 (planned)<ref name'}}}
+524: {'values_changed': {"root['season']": {'new_value': '2019–20 First Professional Football League (Bulgaria)', 'old_value': '2020–21 First Professional Football League (Bulgaria)'}, "root['position']": {'new_value': '7th', 'old_value': '10th'}}}
+529: {'values_changed': {"root['capacity']": {'new_value': '18,777 (planned)<ref name', 'old_value': '22,800 <ref name'}}}
+551: {'values_changed': {"root['position']": {'new_value': '10th', 'old_value': 'First League, 10th'}}}
+553: {'values_changed': {"root['position']": {'new_value': 'First League, 10th', 'old_value': 'First League, 10th of 14'}}}
+627: {'values_changed': {"root['position']": {'new_value': 'First League, 10th of 14', 'old_value': 'First League, 3th of 14'}}}
+635: {'values_changed': {"root['chairman']": {'new_value': 'Daniel Cerejido', 'old_value': 'German Chistyakov'}}}
+659: {'values_changed': {"root['season']": {'new_value': '2020–21 First Professional Football League (Bulgaria)', 'old_value': '2021–22 First Professional Football League (Bulgaria)'}, "root['position']": {'new_value': 'First League, 3th of 14', 'old_value': 'First League, 4th of 14'}}}
+660: {'values_changed': {"root['position']": {'new_value': 'First League, 4th of 14', 'old_value': 'Bulgarian Parva Liga, 3rd of 14'}}}
+743: {'values_changed': {"root['manager']": {'new_value': 'Azrudin Valentić', 'old_value': "''Vacant''"}}}
+744: {'type_changes': {"root['manager']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': [''], 'new_value': "''Vacant''"}}}
+749: {'type_changes': {"root['manager']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Artur Hovhannisyan (caretaker)', 'new_value': ['']}}}
+753: {'values_changed': {"root['manager']": {'new_value': 'Artur Hovhannisyan (caretaker)', 'old_value': 'Yasen Petrov'}}}
+755: {'values_changed': {"root['manager']": {'new_value': 'Yasen Petrov', 'old_value': 'Željko Kopić'}}}
+770: {'values_changed': {"root['position']": {'new_value': 'Bulgarian Parva Liga, 3rd of 14', 'old_value': 'First League, 3rd of 14'}}}
+811: {'values_changed': {"root['manager']": {'new_value': 'Željko Kopić', 'old_value': "''vacant''"}}}
+814: {'values_changed': {"root['position']": {'new_value': 'First League, 3rd of 14', 'old_value': 'First League, 10th of 16'}}}
+815: {'values_changed': {"root['position']": {'new_value': 'First League, 10th of 16', 'old_value': 'First League, 3rd of 14'}}}

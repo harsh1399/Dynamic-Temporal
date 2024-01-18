@@ -1,0 +1,439 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Bayern Munich', "root['current']": 'FC Bayern Munich 2009–10', "root['ground']": 'Allianz Arena', "root['capacity']": '69,901', "root['chrtitle']": 'President', "root['chairman']": 'flagicon', "root['manager']": 'flagicon', "root['mgrtitle']": 'Head Coach', "root['league']": 'Fußball-Bundesliga', "root['season']": 'Fußball-Bundesliga 2008–09', "root['position']": 'Bundesliga, 2 nd'}}
+157: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}, "root['current']": {'new_value': 'FC Bayern Munich 2009–10', 'old_value': 'FC Bayern München 2009–10'}}}
+158: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}, "root['current']": {'new_value': 'FC Bayern München 2009–10', 'old_value': 'FC Bayern Munich 2009–10'}}}
+200: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 2 nd', 'old_value': 'Bundesliga, 1 first'}}}
+201: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1 first', 'old_value': 'Bundesliga, 2 nd'}}}
+245: {'values_changed': {"root['capacity']": {'new_value': '69,901', 'old_value': '95,901'}}}
+246: {'values_changed': {"root['capacity']": {'new_value': '95,901', 'old_value': '69,901'}}}
+313: {'values_changed': {"root['season']": {'new_value': 'Fußball-Bundesliga 2008–09', 'old_value': '2009–10 Fußball-Bundesliga'}, "root['position']": {'new_value': 'Bundesliga, 2 nd', 'old_value': 'Bundesliga, 1 st'}}}
+327: {'values_changed': {"root['current']": {'new_value': 'FC Bayern Munich 2009–10', 'old_value': '2009–10 FC Bayern Munich season'}}}
+355: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Qormi FC'}}}
+356: {'values_changed': {"root['clubname']": {'new_value': 'Qormi FC', 'old_value': 'Bayern Munich'}}}
+368: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Bayern München/Bayern Munich'}}}
+369: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München/Bayern Munich', 'old_value': 'Bayern Munich'}}}
+399: {'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'Prepenissident'}}}
+400: {'values_changed': {"root['chrtitle']": {'new_value': 'Prepenissident', 'old_value': 'President'}}}
+424: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'UK Rifat Mahmud'}}}
+425: {'values_changed': {"root['chairman']": {'new_value': 'UK Rifat Mahmud', 'old_value': 'flagicon'}}}
+556: {'values_changed': {"root['current']": {'new_value': '2009–10 FC Bayern Munich season', 'old_value': '2010–11 FC Bayern Munich season'}, "root['season']": {'new_value': '2009–10 Fußball-Bundesliga', 'old_value': '2010–11 Fußball-Bundesliga'}}}
+570: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'ekbatan tehran'}}}
+571: {'values_changed': {"root['ground']": {'new_value': 'ekbatan tehran', 'old_value': 'Allianz Arena'}}}
+592: {'values_changed': {"root['capacity']": {'new_value': '69,901', 'old_value': '169,901'}}}
+593: {'values_changed': {"root['capacity']": {'new_value': '169,901', 'old_value': '69,901'}}}
+646: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Uli Hoeneß'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Louis van Gaal'}}}
+647: {'values_changed': {"root['manager']": {'new_value': 'Louis van Gaal', 'old_value': 'flagicon'}}}
+653: {'values_changed': {"root['season']": {'new_value': '2010–11 Fußball-Bundesliga', 'old_value': '2009–10 Fußball-Bundesliga'}}}
+656: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1 st', 'old_value': 'Bundesliga, 1st'}}}
+712: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': 'Bundesliga, 2nd'}}}
+713: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 2nd', 'old_value': 'Bundesliga, 1st'}}}
+733: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}}}
+734: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+735: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Louis van Gaal'}}}
+736: {'values_changed': {"root['manager']": {'new_value': 'Louis van Gaal', 'old_value': 'flagicon'}}}
+737: {'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Louis van Gaal'}}}
+738: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['manager']": {'new_value': 'Louis van Gaal', 'old_value': 'flagicon'}}}
+778: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Louis van Gaal'}}}
+779: {'values_changed': {"root['manager']": {'new_value': 'Louis van Gaal', 'old_value': 'flagicon'}}}
+798: {'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Louis van Gaal'}}}
+799: {'values_changed': {"root['manager']": {'new_value': 'Louis van Gaal', 'old_value': 'flagicon'}}}
+868: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Bayern München'}}}
+869: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München', 'old_value': 'Bayern Munich'}}}
+913: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Bayern München'}}}
+914: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München', 'old_value': 'Bayern Munich'}}}
+927: {'dictionary_item_removed': {"root['kittitle3']": 'Champions League', "root['kit_alt3']": 'Champions League'}, 'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Bayern München'}, "root['current']": {'new_value': '2010–11 FC Bayern Munich season', 'old_value': '2013–14 FC Bayern Munich season'}, "root['capacity']": {'new_value': '69,901', 'old_value': '71,137'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'Fußball-Bundesliga', 'old_value': 'Bundesliga'}, "root['season']": {'new_value': '2009–10 Fußball-Bundesliga', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+956: {'values_changed': {"root['capacity']": {'new_value': '71,137', 'old_value': '81,138'}}}
+957: {'values_changed': {"root['capacity']": {'new_value': '81,138', 'old_value': '71,137'}}}
+980: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Kyle Delaney'}}}
+981: {'values_changed': {"root['manager']": {'new_value': 'Kyle Delaney', 'old_value': 'Pep Guardiola'}}}
+982: {'values_changed': {"root['chairman']": {'new_value': 'Uli Hoeneß', 'old_value': 'Michael Ducat and sons'}}}
+983: {'values_changed': {"root['chairman']": {'new_value': 'Michael Ducat and sons', 'old_value': 'Uli Hoeneß'}}}
+999: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München', 'old_value': 'Bayern München'}}}
+1000: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'FC Bayern München'}}}
+1002: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München', 'old_value': 'Bayern München'}}}
+1081: {'values_changed': {"root['capacity']": {'new_value': '71,137', 'old_value': '10000'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Pep Guardiola Sanchez'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'duetchta bundezliga'}}}
+1082: {'values_changed': {"root['capacity']": {'new_value': '10000', 'old_value': '71,137'}, "root['manager']": {'new_value': 'Pep Guardiola Sanchez', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'duetchta bundezliga', 'old_value': 'Bundesliga'}}}
+1091: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bauern München'}, "root['chairman']": {'new_value': 'Uli Hoeneß', 'old_value': 'Uli Steuerhinterzieher Hoeneß'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Pep si Cola'}, "root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'Fußball-Club Bauern München e. V.'}}}
+1092: {'values_changed': {"root['clubname']": {'new_value': 'Bauern München', 'old_value': 'Bayern München'}, "root['chairman']": {'new_value': 'Uli Steuerhinterzieher Hoeneß', 'old_value': 'Uli Hoeneß'}, "root['manager']": {'new_value': 'Pep si Cola', 'old_value': 'Pep Guardiola'}, "root['season']": {'new_value': 'Fußball-Club Bauern München e. V.', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+1097: {'values_changed': {"root['chairman']": {'new_value': 'Uli Hoeneß', 'old_value': 'Vacant'}}}
+1098: {'values_changed': {"root['chairman']": {'new_value': 'Vacant', 'old_value': 'Uli Hoeneß'}}}
+1099: {'values_changed': {"root['chairman']": {'new_value': 'Uli Hoeneß', 'old_value': 'vacant http://www.fcbayern.de/en/news/news/2014/uli-hoeness-statement-140314.php?co_check'}}}
+1100: {'values_changed': {"root['chairman']": {'new_value': 'vacant http://www.fcbayern.de/en/news/news/2014/uli-hoeness-statement-140314.php?co_check', 'old_value': 'Herbert Hainer'}}}
+1103: {'values_changed': {"root['chairman']": {'new_value': 'Herbert Hainer', 'old_value': 'vacant'}}}
+1104: {'values_changed': {"root['chairman']": {'new_value': 'vacant', 'old_value': 'Uli Hoeneß'}}}
+1105: {'values_changed': {"root['chairman']": {'new_value': 'Uli Hoeneß', 'old_value': 'vacant'}}}
+1106: {'values_changed': {"root['chairman']": {'new_value': 'vacant', 'old_value': 'Herbert Hainer'}}}
+1183: {'values_changed': {"root['capacity']": {'new_value': '71,137', 'old_value': '71,437'}}}
+1184: {'values_changed': {"root['capacity']": {'new_value': '71,437', 'old_value': '71,137'}}}
+1190: {'values_changed': {"root['chairman']": {'new_value': 'Herbert Hainer', 'old_value': 'Karl Hopfner'}}}
+1191: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Herbert Hainer'}}}
+1193: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Muhammad Nazlizanb bin Bahari'}}}
+1194: {'values_changed': {"root['manager']": {'new_value': 'Muhammad Nazlizanb bin Bahari', 'old_value': 'Pep Guardiola'}}}
+1210: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Müncher'}}}
+1211: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Müncher', 'old_value': 'Bayern München'}}}
+1223: {'values_changed': {"root['chairman']": {'new_value': 'Herbert Hainer', 'old_value': 'Karl Hopfner'}}}
+1226: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Karl Hopfner (from  2 May 2014)'}}}
+1227: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner (from  2 May 2014)', 'old_value': 'Karl Hopfner (as of 2 May 2014)'}}}
+1229: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner (as of 2 May 2014)', 'old_value': 'Karl Hopfner'}}}
+1235: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern mierda'}}}
+1236: {'values_changed': {"root['clubname']": {'new_value': 'Bayern mierda', 'old_value': 'Bayern München'}}}
+1243: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': '1st'}}}
+1282: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern München Deutcher Meister'}}}
+1283: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München Deutcher Meister', 'old_value': 'Bayern München'}}}
+1297: {'values_changed': {"root['current']": {'new_value': '2013–14 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+1298: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2013–14 FC Bayern Munich season'}}}
+1300: {'values_changed': {"root['current']": {'new_value': '2013–14 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+1301: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2013–14 FC Bayern Munich season'}}}
+1329: {'values_changed': {"root['current']": {'new_value': '2013–14 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+1330: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2013–14 FC Bayern Munich season'}}}
+1382: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'David Moyes'}}}
+1383: {'values_changed': {"root['manager']": {'new_value': 'David Moyes', 'old_value': 'Pep Guardiola'}}}
+1391: {'values_changed': {"root['current']": {'new_value': '2013–14 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+1396: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2013–14 FC Bayern Munich season'}}}
+1397: {'values_changed': {"root['current']": {'new_value': '2013–14 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+1450: {'values_changed': {"root['capacity']": {'new_value': '71,137', 'old_value': '0'}}}
+1451: {'values_changed': {"root['capacity']": {'new_value': '0', 'old_value': '71,137'}}}
+1487: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'FC Bayern München'}}}
+1488: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern München', 'old_value': 'Bayern München'}}}
+1547: {'values_changed': {"root['capacity']": {'new_value': '71,137', 'old_value': '75,000'}}}
+1548: {'dictionary_item_removed': {"root['Motto']": 'Mia San Mia (we are who we are)'}}
+1558: {'dictionary_item_added': {"root['Motto']": 'Mia San Mia (we are who we are)'}, 'values_changed': {"root['capacity']": {'new_value': '75,000', 'old_value': '74,809'}}}
+1559: {'values_changed': {"root['capacity']": {'new_value': '74,809', 'old_value': '75,000'}}}
+1568: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'BYRON MUCHIN'}}}
+1569: {'values_changed': {"root['clubname']": {'new_value': 'BYRON MUCHIN', 'old_value': 'Bayern München'}}}
+1570: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'BYRON MEWCHIN'}}}
+1571: {'values_changed': {"root['clubname']": {'new_value': 'BYRON MEWCHIN', 'old_value': 'Bayern München'}}}
+1572: {'values_changed': {"root['capacity']": {'new_value': '75,000', 'old_value': '75,024'}}}
+1611: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Mourad Mejdi'}}}
+1612: {'values_changed': {"root['manager']": {'new_value': 'Mourad Mejdi', 'old_value': 'Pep Guardiola'}}}
+1645: {'dictionary_item_removed': {"root['Motto']": 'Mia San Mia '}}
+1659: {'dictionary_item_added': {"root['Motto']": 'Mia San Mia '}, 'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern München (Bayern Muenchen)'}}}
+1660: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München (Bayern Muenchen)', 'old_value': 'Bayern München'}}}
+1663: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['position']": {'new_value': '1st', 'old_value': '1st, Bundesliga'}}}
+1664: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach'}, 'values_changed': {"root['position']": {'new_value': '1st, Bundesliga', 'old_value': '1st'}}}
+1673: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern München 1'}}}
+1674: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München 1', 'old_value': 'Bayern München'}}}
+1694: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}}
+1695: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Cuntdestroyer69 München'}}}
+1696: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Cuntdestroyer69 München', 'old_value': 'Bayern München'}}}
+1766: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'But of München'}}}
+1767: {'values_changed': {"root['clubname']": {'new_value': 'But of München', 'old_value': 'Bayern München'}}}
+1770: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Münich'}}}
+1771: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Münich', 'old_value': 'Bayern München'}}}
+1772: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Münich'}}}
+1773: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Münich', 'old_value': 'Bayern Munich'}}}
+1774: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Valmir Xhema'}}}
+1775: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}, "root['manager']": {'new_value': 'Valmir Xhema', 'old_value': 'Pep Guardiola'}}}
+1776: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+1808: {'values_changed': {"root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'Fußball-Club Bayern remmem'}}}
+1809: {'values_changed': {"root['season']": {'new_value': 'Fußball-Club Bayern remmem', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+1823: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'RONALDO'}}}
+1824: {'values_changed': {"root['clubname']": {'new_value': 'RONALDO', 'old_value': 'Bayern Munich'}}}
+1837: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich Best Club Ever'}}}
+1838: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich Best Club Ever', 'old_value': 'Bayern Munich'}}}
+1883: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Karl Hopfner i like trains'}}}
+1884: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner i like trains', 'old_value': 'Karl Hopfner'}}}
+1885: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Karl Hopfner i like trains'}}}
+1886: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner i like trains', 'old_value': 'Karl Hopfner'}}}
+1894: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Davide colonna'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'soccer stuff'}}}
+1895: {'values_changed': {"root['manager']": {'new_value': 'Davide colonna', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'soccer stuff', 'old_value': 'Bundesliga'}}}
+1902: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC BAYERN MÜNCHEN'}, "root['chrtitle']": {'new_value': 'President', 'old_value': 'Karl Heinz Rummmenigge'}}}
+1903: {'values_changed': {"root['clubname']": {'new_value': 'FC BAYERN MÜNCHEN', 'old_value': 'Bayern Munich'}, "root['chrtitle']": {'new_value': 'Karl Heinz Rummmenigge', 'old_value': 'President'}}}
+1914: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'Allianz Arena, Munich'}}}
+1916: {'values_changed': {"root['capacity']": {'new_value': '75,024', 'old_value': '75,000'}}}
+1919: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munchiesd'}}}
+1920: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munchiesd', 'old_value': 'Bayern Munich'}}}
+1935: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munch On'}}}
+1936: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munch On', 'old_value': 'Bayern Munich'}}}
+1944: {'values_changed': {"root['league']": {'new_value': 'Bundesliga', 'old_value': 'superleage'}}}
+1945: {'values_changed': {"root['league']": {'new_value': 'superleage', 'old_value': 'Bundesliga'}}}
+1950: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena, Munich', 'old_value': 'Allianz Arena'}}}
+1955: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FK Seljaštvo'}, "root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'Seljačka krajiška arena'}, "root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Jovan Rašković'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Jovica Pepa Gavrančić'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'Krajiška Seljačka Liga BRE'}, "root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'Fudbalski krajiški klub Seljaštvo e. V.'}}}
+1956: {'values_changed': {"root['season']": {'new_value': 'Fudbalski krajiški klub Seljaštvo e. V.', 'old_value': 'Fudbalski krajiški klub Seljaštvo'}}}
+1957: {'values_changed': {"root['clubname']": {'new_value': 'FK Seljaštvo', 'old_value': 'Bayern Munich'}, "root['ground']": {'new_value': 'Seljačka krajiška arena', 'old_value': 'Allianz Arena'}, "root['chairman']": {'new_value': 'Jovan Rašković', 'old_value': 'Karl Hopfner'}, "root['manager']": {'new_value': 'Jovica Pepa Gavrančić', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'Krajiška Seljačka Liga BRE', 'old_value': 'Bundesliga'}, "root['season']": {'new_value': 'Fudbalski krajiški klub Seljaštvo', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+1971: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Muni'}}}
+1972: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Muni', 'old_value': 'Bayern Mu'}}}
+1973: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Mu', 'old_value': 'Bayern Munich'}}}
+1976: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Dominik Zorn'}}}
+1977: {'values_changed': {"root['clubname']": {'new_value': 'Dominik Zorn', 'old_value': 'Bayern Munich'}}}
+1991: {'dictionary_item_removed': {"root['Moto']": 'Mia San Mia (we are who we are)'}}
+1995: {'dictionary_item_added': {"root['Moto']": 'Mia San Mia (we are who we are)'}, 'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': "POOR MAN'S TSV"}, "root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'nazi'}}}
+1996: {'values_changed': {"root['clubname']": {'new_value': "POOR MAN'S TSV", 'old_value': 'Bayern Munich'}, "root['season']": {'new_value': 'nazi', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+2006: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2014–15 FC Zurikh'}, "root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': '2013–14 Bundesliga'}}}
+2007: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Zurikh', 'old_value': '2014–15 FC Bayern Munich season'}, "root['season']": {'new_value': '2013–14 Bundesliga', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+2023: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'B4YERN MUN1CH'}}}
+2024: {'values_changed': {"root['clubname']": {'new_value': 'B4YERN MUN1CH', 'old_value': 'Bayern Munich'}}}
+2025: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Turdlick'}}}
+2026: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Turdlick', 'old_value': 'Bayern Munich'}}}
+2033: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'best team in the world'}}}
+2034: {'values_changed': {"root['clubname']": {'new_value': 'best team in the world', 'old_value': 'Bayern Munich'}}}
+2040: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'AFC Bay Manhuulden'}}}
+2041: {'values_changed': {"root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'Amateur Football Clum Bay Manhuulden'}}}
+2042: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bay Manhuulden', 'old_value': 'Bayern Munich'}, "root['season']": {'new_value': 'Amateur Football Clum Bay Manhuulden', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+2043: {'values_changed': {"root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'FCB The best'}}}
+2044: {'values_changed': {"root['season']": {'new_value': 'FCB The best', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+2045: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'AFC Bay Manhuulden'}, "root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': 'AFC Bay Manhuulden'}}}
+2046: {'values_changed': {"root['clubname']": {'new_value': 'AFC Bay Manhuulden', 'old_value': 'Bayern Munich'}, "root['season']": {'new_value': 'AFC Bay Manhuulden', 'old_value': 'Fußball-Club Bayern München e. V.'}}}
+2060: {'dictionary_item_added': {"root['mgrtitle']": 'Head Coach', "root['kittitle3']": 'Champions League', "root['kit_alt3']": 'Champions League'}, 'values_changed': {"root['season']": {'new_value': 'Fußball-Club Bayern München e. V.', 'old_value': '2013–14 Bundesliga'}}}
+2067: {'values_changed': {"root['season']": {'new_value': '2013–14 Bundesliga', 'old_value': '2014–15 Bundesliga'}}}
+2094: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}}}
+2095: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+2096: {'dictionary_item_removed': {"root['died']": '2015/5/7'}}
+2102: {'dictionary_item_added': {"root['died']": '2015/5/7'}, 'dictionary_item_removed': {"root['Extint']": 'May 6 2015 Nou Camp'}}
+2105: {'values_changed': {"root['Extint']": {'new_value': 'May 6 2015 Nou Camp', 'old_value': 'Start date and years ago'}}}
+2106: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Destroyed By Messi'}, "root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Neymar'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Lionel Messi'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'Owned By Messi'}, "root['position']": {'new_value': '1st', 'old_value': '15st'}}}
+2107: {'dictionary_item_added': {"root['Extint']": 'Start date and years ago'}, 'values_changed': {"root['clubname']": {'new_value': 'Destroyed By Messi', 'old_value': 'Bayern Munich'}, "root['chairman']": {'new_value': 'Neymar', 'old_value': 'Karl Hopfner'}, "root['manager']": {'new_value': 'Lionel Messi', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'Owned By Messi', 'old_value': 'Bundesliga'}, "root['position']": {'new_value': '15st', 'old_value': '1st'}}}
+2111: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Münich'}}}
+2112: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Münich', 'old_value': 'Bayern Munich'}}}
+2121: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Jason Lima'}}}
+2122: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Jason Lima'}}}
+2123: {'values_changed': {"root['chairman']": {'new_value': 'Jason Lima', 'old_value': 'Karl Hopfner'}, "root['manager']": {'new_value': 'Jason Lima', 'old_value': 'Pep Guardiola'}}}
+2133: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'Atanasio Girardot'}}}
+2134: {'values_changed': {"root['ground']": {'new_value': 'Atanasio Girardot', 'old_value': 'Allianz Arena'}}}
+2136: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich WALTER GORLITZ IS GAY WITHOUT A LIFE'}}}
+2137: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich WALTER GORLITZ IS GAY WITHOUT A LIFE', 'old_value': 'Bayern Munich'}}}
+2139: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Michael Silva Delgado'}}}
+2140: {'values_changed': {"root['chairman']": {'new_value': 'Michael Silva Delgado', 'old_value': 'Karl Hopfner'}}}
+2141: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Karl Hopfner Owner.'}}}
+2142: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner Owner.', 'old_value': 'Karl Hopfner'}}}
+2169: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich El habouli'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Pep Guardiola(El capuchino'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'Bundesliga 2'}, "root['position']": {'new_value': '1st', 'old_value': '10'}}}
+2170: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich El habouli', 'old_value': 'Bayern Munich'}, "root['manager']": {'new_value': 'Pep Guardiola(El capuchino', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'Bundesliga 2', 'old_value': 'Bundesliga'}, "root['position']": {'new_value': '10', 'old_value': '1st'}}}
+2178: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}}}
+2179: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+2183: {'values_changed': {"root['position']": {'new_value': '1st', 'old_value': 'Bundesliga, 1st'}}}
+2184: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}}}
+2185: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+2232: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2233: {'values_changed': {"root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+2234: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2235: {'values_changed': {"root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+2236: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2247: {'values_changed': {"root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+2268: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2270: {'values_changed': {"root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2014–15 FC Bayern Munich season'}}}
+2287: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich Tava'}}}
+2288: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich Tava', 'old_value': 'Bayern Munich'}}}
+2318: {'values_changed': {"root['current']": {'new_value': '2014–15 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2322: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Fabian Warmuth'}}}
+2323: {'values_changed': {"root['clubname']": {'new_value': 'FC Fabian Warmuth', 'old_value': 'FC Bayern Munich'}}}
+2326: {'values_changed': {"root['clubname']": {'new_value': 'FC Bayern Munich', 'old_value': 'Bayern Munich'}}}
+2406: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'real madrid'}}}
+2408: {'values_changed': {"root['clubname']": {'new_value': 'real madrid', 'old_value': 'Bayern Munich'}}}
+2409: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'TAHIR JAMALI'}}}
+2411: {'values_changed': {"root['manager']": {'new_value': 'TAHIR JAMALI', 'old_value': 'Pep Guardiola'}}}
+2416: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Sean Dyche'}}}
+2417: {'values_changed': {"root['manager']": {'new_value': 'Sean Dyche', 'old_value': 'Pep Guardiola'}}}
+2421: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': 'iran, 1st'}}}
+2422: {'values_changed': {"root['position']": {'new_value': 'iran, 1st', 'old_value': 'Bundesliga, 1st'}}}
+2462: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich  Number 1 fan : Russell Kwizera'}}}
+2463: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich  Number 1 fan : Russell Kwizera', 'old_value': 'Bayern Munich'}}}
+2488: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Michael Bozek'}}}
+2489: {'values_changed': {"root['manager']": {'new_value': 'Michael Bozek', 'old_value': 'Pep Guardiola'}}}
+2492: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Mokaram Fc'}}}
+2493: {'values_changed': {"root['clubname']": {'new_value': 'Mokaram Fc', 'old_value': 'Bayern Munich'}}}
+2494: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Borussia Dortmund'}}}
+2495: {'values_changed': {"root['clubname']": {'new_value': 'Borussia Dortmund', 'old_value': 'Bayern Munich'}}}
+2519: {'values_changed': {"root['capacity']": {'new_value': '75,000', 'old_value': '999,999,999'}}}
+2520: {'values_changed': {"root['capacity']": {'new_value': '999,999,999', 'old_value': '75,000'}}}
+2523: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern'}}}
+2525: {'values_changed': {"root['clubname']": {'new_value': 'Bayern', 'old_value': 'Bayern Munich'}}}
+2541: {'values_changed': {"root['season']": {'new_value': '2014–15 Bundesliga', 'old_value': '2015–15 Bundesliga'}}}
+2542: {'values_changed': {"root['season']": {'new_value': '2015–15 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+2543: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2015–16'}}}
+2544: {'values_changed': {"root['season']": {'new_value': '2015–16', 'old_value': '2014–15 Bundesliga'}}}
+2553: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'Hunter Stadium'}, "root['capacity']": {'new_value': '75,000', 'old_value': '142,000'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Gary Van Egmond'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'A-League'}, "root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': 'A-League, 1st'}}}
+2554: {'values_changed': {"root['ground']": {'new_value': 'Hunter Stadium', 'old_value': 'Allianz Arena'}, "root['capacity']": {'new_value': '142,000', 'old_value': '75,000'}, "root['manager']": {'new_value': 'Gary Van Egmond', 'old_value': 'Pep Guardiola'}, "root['league']": {'new_value': 'A-League', 'old_value': 'Bundesliga'}, "root['position']": {'new_value': 'A-League, 1st', 'old_value': 'Bundesliga, 1st'}}}
+2555: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Amir Ghalenoei'}}}
+2556: {'values_changed': {"root['manager']": {'new_value': 'Amir Ghalenoei', 'old_value': 'Pep Guardiola'}}}
+2573: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'FC Tayer Munich'}}}
+2574: {'values_changed': {"root['clubname']": {'new_value': 'FC Tayer Munich', 'old_value': 'Bayern Munich'}}}
+2641: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Michael Bozek'}}}
+2642: {'values_changed': {"root['manager']": {'new_value': 'Michael Bozek', 'old_value': 'Pep Guardiola'}}}
+2652: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Anish Tewari'}}}
+2653: {'values_changed': {"root['manager']": {'new_value': 'Anish Tewari', 'old_value': 'Pep Guardiola'}}}
+2661: {'values_changed': {"root['season']": {'new_value': '2014–15 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+2662: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2014–15 Bundesliga'}}}
+2672: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Parviz Mazloumi'}}}
+2673: {'values_changed': {"root['manager']": {'new_value': 'Parviz Mazloumi', 'old_value': 'Pep Guardiola'}}}
+2674: {'values_changed': {"root['league']": {'new_value': 'Bundesliga', 'old_value': '2 Bundesliga'}}}
+2675: {'values_changed': {"root['league']": {'new_value': '2 Bundesliga', 'old_value': 'Bundesliga'}}}
+2688: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}, "root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2015–16 FC Bayern München season'}}}
+2690: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}, "root['current']": {'new_value': '2015–16 FC Bayern München season', 'old_value': '2015–16 FC Bayern Munich season'}}}
+2710: {'values_changed': {"root['season']": {'new_value': '2014–15 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+2711: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2014–15 Bundesliga'}}}
+2712: {'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Kyle Southwell'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Lucas Tsokos'}}}
+2713: {'values_changed': {"root['chairman']": {'new_value': 'Kyle Southwell', 'old_value': 'Karl Hopfner'}, "root['manager']": {'new_value': 'Lucas Tsokos', 'old_value': 'Pep Guardiola'}}}
+2745: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern de Rodrigo, Matias e Isaac'}, "root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Matias Astengo'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Rodrigo Aguilar'}}}
+2746: {'values_changed': {"root['clubname']": {'new_value': 'Bayern de Rodrigo, Matias e Isaac', 'old_value': 'Bayern Munich'}, "root['chairman']": {'new_value': 'Matias Astengo', 'old_value': 'Karl Hopfner'}, "root['manager']": {'new_value': 'Rodrigo Aguilar', 'old_value': 'Pep Guardiola'}}}
+2792: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Dortmund Munich'}}}
+2793: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Dortmund Munich', 'old_value': 'Bayern Munich'}}}
+2796: {'dictionary_item_removed': {"root['blog']": 'Mia San Mia (we are scared of barca) München.svg'}}
+2798: {'dictionary_item_added': {"root['blog']": 'Mia San Mia (we are scared of barca) München.svg'}, 'dictionary_item_removed': {"root['founder']": '{wachiba selemani', "root['pattern_la']": '_borderonwhite', "root['pattern_b']": '_carolinacollar', "root['pattern_ra']": '_borderonwhite', "root['leftarm']": '8B0000', "root['body']": 'FFFFFF', "root['rightarm']": '8B0000', "root['shorts']": '8B0000', "root['socks']": 'FFFFFF', "root['last']": 'Schulze-Marmeling', "root['first']": 'Dietrich', "root['publisher']": 'FIFA', "root['year']": '2003', "root['pages']": '17–33', "root['isbn']": '3-89533-426-X  Although Bayern won its first German football champions', "root['page']": '134', "root['author']": 'Manfred Brocks ....   was inaugurated in the last Bundesliga match of the 1971–72 Bundesliga', "root['align']": '3 style', "root['style']": '"font-size: 88%; width: 22em; text-align: center" ! colspan', "root['accessdate']": '28 September 2014 | url'}}
+2803: {'dictionary_item_added': {"root['founder']": '{wachiba selemani', "root['pattern_la']": '_borderonwhite', "root['pattern_b']": '_carolinacollar', "root['pattern_ra']": '_borderonwhite', "root['leftarm']": '8B0000', "root['body']": 'FFFFFF', "root['rightarm']": '8B0000', "root['shorts']": '8B0000', "root['socks']": 'FFFFFF', "root['last']": 'Schulze-Marmeling', "root['first']": 'Dietrich', "root['publisher']": 'FIFA', "root['year']": '2003', "root['pages']": '17–33', "root['isbn']": '3-89533-426-X  Although Bayern won its first German football champions', "root['page']": '134', "root['author']": 'Manfred Brocks ....   was inaugurated in the last Bundesliga match of the 1971–72 Bundesliga', "root['align']": '3 style', "root['style']": '"font-size: 88%; width: 22em; text-align: center" ! colspan', "root['accessdate']": '28 September 2014 | url'}, 'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich (2nd best team)'}}}
+2804: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich (2nd best team)', 'old_value': 'Bayern Munich'}}}
+2829: {'dictionary_item_added': {"root['chrtitle']": 'President'}, 'dictionary_item_removed': {"root['owntitle']": 'President', "root['owner']": 'Karl Hopfner'}, 'values_changed': {"root['chairman']": {'new_value': 'Karl Hopfner', 'old_value': 'Karl-Heinz Rummenigge'}}}
+2843: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'MINGE MUNCHERS FC'}}}
+2844: {'values_changed': {"root['clubname']": {'new_value': 'MINGE MUNCHERS FC', 'old_value': 'Bayern Munich'}}}
+2854: {'values_changed': {"root['owner']": {'new_value': 'Karl Hopfner', 'old_value': 'El Tj'}}}
+2855: {'values_changed': {"root['owner']": {'new_value': 'El Tj', 'old_value': 'Karl Hopfner'}}}
+2869: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Carlo Ancelotti'}}}
+2870: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Pep Guardiola'}}}
+2871: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Carlos Ancelotti'}}}
+2872: {'values_changed': {"root['manager']": {'new_value': 'Carlos Ancelotti', 'old_value': 'Pep Guardiola'}}}
+2873: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Rob Lanyon'}}}
+2874: {'values_changed': {"root['manager']": {'new_value': 'Rob Lanyon', 'old_value': 'Pep Guardiola'}}}
+2879: {'values_changed': {"root['current']": {'new_value': '2015–16 FC Bayern Munich season', 'old_value': '2016–17 FC Bayern Munich season'}, "root['owner']": {'new_value': 'Karl Hopfner', 'old_value': 'Uli Hoeneß'}, "root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Carlo Ancelotti'}, "root['season']": {'new_value': '2014–15 Bundesliga', 'old_value': '2015–16 Bundesliga'}, "root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': '1st'}}}
+2883: {'values_changed': {"root['current']": {'new_value': '2016–17 FC Bayern Munich season', 'old_value': '2016–17 FC nottingham forest season'}}}
+2884: {'values_changed': {"root['current']": {'new_value': '2016–17 FC nottingham forest season', 'old_value': '2016–17 FC Bayern Munich season'}}}
+2984: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich planchicolatotto'}}}
+2985: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich planchicolatotto', 'old_value': 'Bayern Munich'}}}
+2996: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Amin Fadai'}}}
+2997: {'values_changed': {"root['manager']": {'new_value': 'Amin Fadai', 'old_value': 'Carlo Ancelotti'}}}
+3000: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munchen'}}}
+3001: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munchen', 'old_value': 'Bayern Munich'}}}
+3018: {'values_changed': {"root['ground']": {'new_value': 'Allianz Arena', 'old_value': 'Takhti Anzali'}, "root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Nima Asadi Jozani'}, "root['chairman']": {'new_value': 'Karl-Heinz Rummenigge', 'old_value': 'Saeed Mootabi'}, "root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Amir Hosein Sharifian'}}}
+3019: {'values_changed': {"root['ground']": {'new_value': 'Takhti Anzali', 'old_value': 'Allianz Arena'}, "root['owner']": {'new_value': 'Nima Asadi Jozani', 'old_value': 'Uli Hoeneß'}, "root['chairman']": {'new_value': 'Saeed Mootabi', 'old_value': 'Karl-Heinz Rummenigge'}, "root['manager']": {'new_value': 'Amir Hosein Sharifian', 'old_value': 'Carlo Ancelotti'}}}
+3044: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2016–17 Bundesliga'}}}
+3050: {'values_changed': {"root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+3059: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2016–17 Bundesliga'}}}
+3060: {'values_changed': {"root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+3061: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2016–17 Bundesliga'}}}
+3062: {'values_changed': {"root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': '2015–16 Bundesliga'}}}
+3097: {'values_changed': {"root['season']": {'new_value': '2015–16 Bundesliga', 'old_value': '2016–17 Bundesliga'}}}
+3118: {'values_changed': {"root['position']": {'new_value': '1st', 'old_value': 'Bundesliga, 1st'}}}
+3121: {'values_changed': {"root['position']": {'new_value': 'Bundesliga, 1st', 'old_value': '1st'}}}
+3281: {'values_changed': {"root['current']": {'new_value': '2016–17 FC Bayern Munich season', 'old_value': '2017–18 FC Bayern Munich season'}}}
+3286: {'values_changed': {"root['current']": {'new_value': '2017–18 FC Bayern Munich season', 'old_value': '2016–17 FC Bayern Munich season'}}}
+3294: {'values_changed': {"root['current']": {'new_value': '2016–17 FC Bayern Munich season', 'old_value': '2017–18 FC Bayern Munich season'}}}
+3306: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern München'}}}
+3307: {'values_changed': {"root['clubname']": {'new_value': 'Bayern München', 'old_value': 'Bayern Munich'}}}
+3352: {'values_changed': {"root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Alekseev Artem'}}}
+3353: {'values_changed': {"root['owner']": {'new_value': 'Alekseev Artem', 'old_value': 'Uli Hoeneß'}}}
+3381: {'values_changed': {"root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Georgio Lteif'}}}
+3382: {'values_changed': {"root['owner']": {'new_value': 'Georgio Lteif', 'old_value': 'Uli Hoeneß'}}}
+3417: {'values_changed': {"root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Georgio Lteif'}}}
+3418: {'values_changed': {"root['owner']": {'new_value': 'Georgio Lteif', 'old_value': 'Uli Hoeneß'}}}
+3446: {'values_changed': {"root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Mark Uth'}, "root['chairman']": {'new_value': 'Karl-Heinz Rummenigge', 'old_value': 'Mark Uth'}, "root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Mark Uth'}}}
+3447: {'values_changed': {"root['owner']": {'new_value': 'Mark Uth', 'old_value': 'Uli Hoeneß'}, "root['chairman']": {'new_value': 'Mark Uth', 'old_value': 'Karl-Heinz Rummenigge'}, "root['manager']": {'new_value': 'Mark Uth', 'old_value': 'Carlo Ancelotti'}}}
+3469: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Vacant'}}}
+3470: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Carlo Ancelotti'}}}
+3471: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Vacant'}}}
+3472: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Carlo Ancelotti'}}}
+3473: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Willy Sagnol (Caretaker)'}}}
+3474: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (Caretaker)', 'old_value': 'Carlo Ancelotti'}}}
+3475: {'values_changed': {"root['manager']": {'new_value': 'Carlo Ancelotti', 'old_value': 'Willy Sagnol'}}}
+3476: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol', 'old_value': 'Willy Sagnol (interim)'}}}
+3481: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Willy Sagnol'}}}
+3482: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol', 'old_value': 'Willy Sagnol (interim)'}}}
+3483: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Willy Sagnol'}}}
+3484: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol', 'old_value': 'Willy Sagnol (interim)'}}}
+3492: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'walter mazzarri (interim)'}}}
+3493: {'values_changed': {"root['manager']": {'new_value': 'walter mazzarri (interim)', 'old_value': 'Willy Sagnol (interim)'}}}
+3494: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'David Moyes (interim)'}}}
+3497: {'values_changed': {"root['manager']": {'new_value': 'David Moyes (interim)', 'old_value': 'David Moyes'}}}
+3498: {'values_changed': {"root['manager']": {'new_value': 'David Moyes', 'old_value': 'Willy Sagnol (interim)'}}}
+3499: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Assistant Willy Sagnol (interim)'}}}
+3500: {'values_changed': {"root['manager']": {'new_value': 'Assistant Willy Sagnol (interim)', 'old_value': 'Willy Sagnol (interim)'}}}
+3501: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'David Moyes'}}}
+3502: {'values_changed': {"root['manager']": {'new_value': 'David Moyes', 'old_value': 'Willy Sagnol (interim)'}}}
+3506: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'David Moyes'}}}
+3507: {'values_changed': {"root['manager']": {'new_value': 'David Moyes', 'old_value': 'Willy Sagnol (interim)'}}}
+3508: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Willy Sagnol'}}}
+3509: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol', 'old_value': 'Willy Sagnol (interim)'}}}
+3510: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Willy Sagnol'}}}
+3511: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol', 'old_value': 'Willy Sagnol (interim)'}}}
+3520: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heynckes'}}}
+3521: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'Willy Sagnol (interim)'}}}
+3522: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heycknes'}}}
+3523: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heycknes', 'old_value': 'Willy Sagnol (interim)'}}}
+3524: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heynckes (interim)'}}}
+3525: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes (interim)', 'old_value': 'Willy Sagnol (interim)'}}}
+3528: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'jupp Heynckes'}}}
+3529: {'values_changed': {"root['manager']": {'new_value': 'jupp Heynckes', 'old_value': 'Willy Sagnol (interim)'}}}
+3530: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'jupp Heynckes'}}}
+3531: {'values_changed': {"root['manager']": {'new_value': 'jupp Heynckes', 'old_value': 'Willy Sagnol (interim)'}}}
+3532: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heynckes'}}}
+3533: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'Willy Sagnol (interim)'}}}
+3534: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heynckes'}}}
+3535: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'Willy Sagnol (interim)'}}}
+3538: {'values_changed': {"root['manager']": {'new_value': 'Willy Sagnol (interim)', 'old_value': 'Jupp Heynckes'}}}
+3554: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'URL'}}}
+3556: {'values_changed': {"root['manager']": {'new_value': 'URL', 'old_value': 'Jupp Heynckes'}}}
+3557: {'values_changed': {"root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'URL'}}}
+3559: {'values_changed': {"root['manager']": {'new_value': 'URL', 'old_value': 'Jupp Heynckes'}}}
+3582: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Lausanne Sport'}, "root['chairman']": {'new_value': 'Karl-Heinz Rummenigge', 'old_value': 'Lord Bendter'}}}
+3583: {'values_changed': {"root['clubname']": {'new_value': 'Lausanne Sport', 'old_value': 'Bayern Munich'}, "root['chairman']": {'new_value': 'Lord Bendter', 'old_value': 'Karl-Heinz Rummenigge'}}}
+3620: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Bayern Munich is the worst club ever after city'}}}
+3621: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich is the worst club ever after city', 'old_value': 'Bayern Munich'}}}
+3701: {'dictionary_item_added': {"root['ground']": 'Allianz Arena'}, 'dictionary_item_removed': {"root['stadium']": 'Allianz Arena', "root['chrtitle']": 'CEO', "root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['current']": {'new_value': '2017–18 FC Bayern Munich season', 'old_value': '2022–23 FC Bayern Munich season'}, "root['owner']": {'new_value': 'Uli Hoeneß', 'old_value': 'Herbert Hainer'}, "root['chairman']": {'new_value': 'Karl-Heinz Rummenigge', 'old_value': 'Oliver Kahn'}, "root['manager']": {'new_value': 'Jupp Heynckes', 'old_value': 'Julian Nagelsmann'}, "root['league']": {'new_value': 'Bundesliga', 'old_value': 'German football updater'}, "root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': 'Start date and years ago'}, "root['position']": {'new_value': '1st', 'old_value': 'German football updater'}}}
+3716: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Manchester United'}}}
+3717: {'values_changed': {"root['clubname']": {'new_value': 'Manchester United', 'old_value': 'Bayern Munich'}}}
+3718: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Man United'}}}
+3719: {'values_changed': {"root['clubname']": {'new_value': 'Man United', 'old_value': 'Bayern Munich'}}}
+3763: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Bayern Munich season', 'old_value': '2022–23         Fc bayern is on a losing run. The team is bad, Bayern is Gad          FC Bayern Munich season'}}}
+3764: {'values_changed': {"root['current']": {'new_value': '2022–23         Fc bayern is on a losing run. The team is bad, Bayern is Gad          FC Bayern Munich season', 'old_value': '2022–23 FC Bayern Munich season'}}}
+3771: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3772: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Thomas Tuche l'}}}
+3773: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuche l', 'old_value': 'Thomas Tuchel'}}}
+3774: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3775: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3777: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Tasos Dema'}}}
+3781: {'values_changed': {"root['manager']": {'new_value': 'Tasos Dema', 'old_value': 'Thomas Tuchel'}}}
+3782: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3783: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3784: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Thomas Tüchel'}}}
+3785: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tüchel', 'old_value': 'Thomas Tuchel'}}}
+3786: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3787: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3788: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3790: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3791: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3792: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3793: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3795: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3796: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3797: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'vacant'}}}
+3798: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': '-- Thomas Tuchel'}, "root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Head coach Thomas Tuchel'}}}
+3799: {'values_changed': {"root['manager']": {'new_value': '-- Thomas Tuchel', 'old_value': 'vacant'}, "root['mgrtitle']": {'new_value': 'Head coach Thomas Tuchel', 'old_value': 'Head coach'}}}
+3800: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Thomas Tuchel'}}}
+3801: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'vacant'}}}
+3802: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Julian Nagelsmann'}}}
+3803: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3804: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Thomas Tuchel<'}}}
+3806: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel<', 'old_value': 'Thomas Tuchel'}}}
+3809: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3811: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3815: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3816: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3817: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3821: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3824: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3825: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel'}}}
+3829: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Julian Nagelsmann'}}}
+3830: {'values_changed': {"root['manager']": {'new_value': 'Julian Nagelsmann', 'old_value': 'Thomas Tuchel>https://fcbayern.com/en/news/2023/03/fc-bayern-and-julian-nagelsmann-part-company---thomas-tuchel-new-head-coach'}}}
+3831: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel>https://fcbayern.com/en/news/2023/03/fc-bayern-and-julian-nagelsmann-part-company---thomas-tuchel-new-head-coach', 'old_value': 'Thomas Tuchel'}}}
+3833: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Thomas Tuchel'}}}
+3834: {'values_changed': {"root['mgrtitle']": {'new_value': 'Thomas Tuchel', 'old_value': 'Head coach'}}}
+3848: {'values_changed': {"root['chairman']": {'new_value': 'Oliver Kahn', 'old_value': 'pat et defi'}}}
+3849: {'values_changed': {"root['chairman']": {'new_value': 'pat et defi', 'old_value': 'Oliver Kahn'}}}
+3887: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['season']": {'new_value': 'Start date and years ago', 'old_value': 'Start date and age'}}}
+3898: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['chairman']": {'new_value': 'Oliver Kahn', 'old_value': 'Oliver Kahn (CEO), Hasan Salihamidžić (Sporting director)'}, "root['chrtitle']": {'new_value': 'CEO', 'old_value': 'Board member'}}}
+3899: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['chairman']": {'new_value': 'Oliver Kahn (CEO), Hasan Salihamidžić (Sporting director)', 'old_value': 'Oliver Kahn'}, "root['chrtitle']": {'new_value': 'Board member', 'old_value': 'CEO'}}}
+3905: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Payern Punich'}}}
+3906: {'values_changed': {"root['clubname']": {'new_value': 'Payern Punich', 'old_value': 'Bayern Munich'}}}
+3907: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Payern Punich'}}}
+3908: {'values_changed': {"root['clubname']": {'new_value': 'Payern Punich', 'old_value': 'Bayern Munich'}}}
+3910: {'values_changed': {"root['clubname']": {'new_value': 'Bayern Munich', 'old_value': 'Borussia Dortmund'}}}
+3911: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Bayern Munich season', 'old_value': '2021–23 FC Bayern Munich season'}}}
+3913: {'values_changed': {"root['clubname']": {'new_value': 'Borussia Dortmund', 'old_value': 'Bayern Munich'}, "root['current']": {'new_value': '2021–23 FC Bayern Munich season', 'old_value': '2022–23 FC Bayern Munich season'}}}
+3922: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}
+3931: {'values_changed': {"root['chairman']": {'new_value': 'Oliver Kahn', 'old_value': 'Jan-Christian Dreesen'}}}
+3969: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['current']": {'new_value': '2022–23 FC Bayern Munich season', 'old_value': '2023–24 FC Bayern Munich season'}}}
+3974: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}
+3980: {'values_changed': {"root['owner']": {'new_value': 'Herbert Hainer', 'old_value': 'Cristiano Ronaldo'}}}
+3982: {'values_changed': {"root['owner']": {'new_value': 'Cristiano Ronaldo', 'old_value': 'Herbert Hainer'}}}
+3989: {'values_changed': {"root['owner']": {'new_value': 'Herbert Hainer', 'old_value': 'Cristiano Ronaldo'}}}
+3990: {'values_changed': {"root['owntitle']": {'new_value': 'President', 'old_value': 'Owner'}}}
+3991: {'values_changed': {"root['owner']": {'new_value': 'Cristiano Ronaldo', 'old_value': 'FC Bayern München AG'}}}
+3992: {'values_changed': {"root['owner']": {'new_value': 'FC Bayern München AG', 'old_value': 'Herbert Hainer'}}}
+3993: {'values_changed': {"root['owner']": {'new_value': 'Herbert Hainer', 'old_value': 'Cristiano Ronaldo'}}}
+3994: {'values_changed': {"root['owntitle']": {'new_value': 'Owner', 'old_value': 'President'}, "root['owner']": {'new_value': 'Cristiano Ronaldo', 'old_value': 'Herbert Hainer'}}}

@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Wetherby Road', "root['capacity']": '4,000 (500 seated)', "root['season']": 'English football updater', "root['current']": '2018–19 National League#National League', "root['clubname']": 'Harrogate Town', "root['chairman']": 'Irving Weaver', "root['mgrtitle']": 'Manager', "root['manager']": 'Hairbon Yuntyudge', "root['league']": 'English football updater', "root['position']": 'English football updater'}}
+1: {'values_changed': {"root['chairman']": {'new_value': 'Irving Weaver', 'old_value': 'Hairbon Yuntyudge'}}}
+2: {'values_changed': {"root['chairman']": {'new_value': 'Hairbon Yuntyudge', 'old_value': 'Lionel Messi'}, "root['manager']": {'new_value': 'Hairbon Yuntyudge', 'old_value': 'Mo Salah'}}}
+3: {'values_changed': {"root['chairman']": {'new_value': 'Lionel Messi', 'old_value': 'Irving Weaver'}, "root['manager']": {'new_value': 'Mo Salah', 'old_value': 'Simon Weaver'}}}
+4: {'values_changed': {"root['ground']": {'new_value': 'Wetherby Road', 'old_value': 'Old Trafford'}, "root['capacity']": {'new_value': '4,000 (500 seated)', 'old_value': '100000000'}}}
+5: {'values_changed': {"root['ground']": {'new_value': 'Old Trafford', 'old_value': 'Wetherby Road'}, "root['capacity']": {'new_value': '100000000', 'old_value': '4,000 (500 seated)'}}}
+8: {'values_changed': {"root['current']": {'new_value': '2018–19 National League#National League', 'old_value': '2019–20 National League#National League'}}}
+28: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'EFL League Two'}, "root['position']": {'new_value': 'English football updater', 'old_value': '2th (promoted)'}}}
+29: {'values_changed': {"root['league']": {'new_value': 'EFL League Two', 'old_value': 'English football updater'}, "root['position']": {'new_value': '2th (promoted)', 'old_value': 'English football updater'}}}
+30: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'EFL League Two'}, "root['position']": {'new_value': 'English football updater', 'old_value': 'National League 2th (promoted)'}}}
+31: {'values_changed': {"root['league']": {'new_value': 'EFL League Two', 'old_value': 'English football updater'}, "root['position']": {'new_value': 'National League 2th (promoted)', 'old_value': 'English football updater'}}}
+40: {'values_changed': {"root['capacity']": {'new_value': '4,000 (500 seated)', 'old_value': '5000 (1000 seated)'}}}
+43: {'values_changed': {"root['capacity']": {'new_value': '5000 (1000 seated)', 'old_value': '5,000 (1,000 seated)'}}}
+53: {'dictionary_item_added': {"root['position']": 'English football updater'}, 'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'Harrogate'}}}
+55: {'dictionary_item_removed': {"root['position']": 'English football updater'}, 'values_changed': {"root['league']": {'new_value': 'Harrogate', 'old_value': 'English football updater'}}}
+115: {'values_changed': {"root['current']": {'new_value': '2019–20 National League#National League', 'old_value': '2020-League 2# League 2'}}}
+116: {'values_changed': {"root['current']": {'new_value': '2020-League 2# League 2', 'old_value': '2020–21 Harrogate Town A.F.C. season'}}}
+119: {'values_changed': {"root['ground']": {'new_value': 'Wetherby Road', 'old_value': 'Keepmoat Stadium'}, "root['capacity']": {'new_value': '5,000 (1,000 seated)', 'old_value': '15,231'}}}
+128: {'values_changed': {"root['ground']": {'new_value': 'Keepmoat Stadium', 'old_value': 'Wetherby Road'}}}
+130: {'values_changed': {"root['capacity']": {'new_value': '15,231', 'old_value': '3,800 (500 seated)'}}}
+141: {'values_changed': {"root['capacity']": {'new_value': '3,800 (500 seated)', 'old_value': '5,000 (1000 seated)'}}}
+143: {'values_changed': {"root['capacity']": {'new_value': '5,000 (1000 seated)', 'old_value': '3,800 (500 seated)'}}}
+163: {'values_changed': {"root['season']": {'new_value': 'English football updater', 'old_value': 'Harrogate Town'}}}
+167: {'values_changed': {"root['ground']": {'new_value': 'Wetherby Road', 'old_value': 'The EnviroVent Stadium'}}}
+168: {'values_changed': {"root['ground']": {'new_value': 'The EnviroVent Stadium', 'old_value': 'Wetherby Road'}}}
+192: {'values_changed': {"root['capacity']": {'new_value': '3,800 (500 seated)', 'old_value': '5,000 (1,000 seated)'}, "root['current']": {'new_value': '2020–21 Harrogate Town A.F.C. season', 'old_value': '2021–22 Harrogate Town A.F.C. season'}}}
+235: {'values_changed': {"root['current']": {'new_value': '2021–22 Harrogate Town A.F.C. season', 'old_value': '2022–23 Harrogate Town A.F.C. season'}}}
+252: {'values_changed': {"root['clubname']": {'new_value': 'Harrogate Town', 'old_value': 'Harrogate Town A.F.C.'}, "root['season']": {'new_value': 'Harrogate Town', 'old_value': 'Harrogate Town A.F.C.'}}}
+255: {'values_changed': {"root['clubname']": {'new_value': 'Harrogate Town A.F.C.', 'old_value': 'Harrogate Town AFC'}, "root['season']": {'new_value': 'Harrogate Town A.F.C.', 'old_value': 'Harrogate Town AFC'}}}
+279: {'values_changed': {"root['clubname']": {'new_value': 'Harrogate Town AFC', 'old_value': 'Harrogate Town'}, "root['season']": {'new_value': 'Harrogate Town AFC', 'old_value': 'Harrogate Town'}}}

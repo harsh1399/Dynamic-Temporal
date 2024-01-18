@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Kitchee SC', "root['ground']": 'Mong Kok Stadium', "root['capacity']": '6,769', "root['owntitle']": 'President', "root['owner']": 'Ken Ng', "root['mgrtitle']": 'Manager', "root['manager']": 'Kim Dong-jin (interim)', "root['league']": 'Hong Kong Premier League', "root['season']": '2020–21 Hong Kong Premier League', "root['position']": 'HKPL, 1st of 8 (champions)', "root['current']": '2021–22 Kitchee SC season'}}
+21: {'values_changed': {"root['manager']": {'new_value': 'Kim Dong-jin (interim)', 'old_value': 'Chu Chi Kwong'}}}
+67: {'values_changed': {"root['clubname']": {'new_value': 'Kitchee SC', 'old_value': 'Kitchee'}}}
+104: {'values_changed': {"root['season']": {'new_value': '2020–21 Hong Kong Premier League', 'old_value': '2021-22 Hong Kong Premier League'}, "root['position']": {'new_value': 'HKPL, 1st of 8 (champions)', 'old_value': 'HKPL,2nd of 8 (Runners-up)'}}}
+108: {'values_changed': {"root['position']": {'new_value': 'HKPL,2nd of 8 (Runners-up)', 'old_value': 'HKPL, 2nd of 8 (Runners-up)'}}}
+109: {'values_changed': {"root['position']": {'new_value': 'HKPL, 2nd of 8 (Runners-up)', 'old_value': 'HKPL, 2nd of 8'}}}
+134: {'dictionary_item_added': {"root['current']": '2021–22 Kitchee SC season'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head coach'}}}
+135: {'dictionary_item_removed': {"root['current']": '2021–22 Kitchee SC season'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Manager'}}}
+157: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head coach'}}}

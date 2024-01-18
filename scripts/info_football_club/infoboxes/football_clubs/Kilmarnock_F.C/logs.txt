@@ -1,0 +1,37 @@
+147: {'dictionary_item_removed': {"root['clubname']": 'Kilmarnock', "root['ground']": 'Rugby Park Kilmarnock East Ayrshire', "root['capacity']": '18,128', "root['chairman']": 'Michael Johnston', "root['manager']": 'Allan Johnston', "root['league']": 'Scottish Premiership (association football)', "root['season']": '2012–13 Scottish Premier League', "root['position']": 'Scottish Premier League, 9th', "root['current']": '2013–14 Kilmarnock F.C. season '}}
+154: {'dictionary_item_removed': {"root['chrtitle']": 'Main Shareholder'}, 'values_changed': {"root['ground']": {'new_value': 'Rugby Park Kilmarnock East Ayrshire', 'old_value': 'Rugby Park Kilmarnock, East Ayrshire'}, "root['capacity']": {'new_value': '18,128', 'old_value': '17,889'}, "root['chairman']": {'new_value': 'Michael Johnston', 'old_value': 'Billy Bowie'}, "root['manager']": {'new_value': 'Allan Johnston', 'old_value': 'Alex Dyer (footballer, born 1965)'}, "root['league']": {'new_value': 'Scottish Premiership (association football)', 'old_value': 'Scottish football updater'}, "root['season']": {'new_value': '2012–13 Scottish Premier League', 'old_value': 'Scottish football updater'}, "root['position']": {'new_value': 'Scottish Premier League, 9th', 'old_value': 'nowrap'}, "root['current']": {'new_value': '2013–14 Kilmarnock F.C. season ', 'old_value': '2020–21 Kilmarnock F.C. season '}}}
+163: {'values_changed': {"root['manager']": {'new_value': 'Alex Dyer (footballer, born 1965)', 'old_value': 'Vacant'}}}
+167: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+173: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Tommy Wright'}}}
+175: {'values_changed': {"root['manager']": {'new_value': 'Tommy Wright', 'old_value': 'Tommy Wright (footballer born 1963)'}}}
+177: {'values_changed': {"root['manager']": {'new_value': 'Tommy Wright (footballer born 1963)', 'old_value': 'Tommy Wright (footballer, born 1963)'}}}
+186: {'dictionary_item_removed': {"root['owntitle']": 'Owner', "root['owner']": 'Billy Bowie'}}
+190: {'dictionary_item_added': {"root['owntitle']": 'Owner', "root['owner']": 'Billy Bowie'}, 'values_changed': {"root['chrtitle']": {'new_value': 'Main Shareholder', 'old_value': 'Owner'}}}
+191: {'dictionary_item_removed': {"root['owner']": 'The Kilmarnock Football Club Ltd.'}, 'values_changed': {"root['chrtitle']": {'new_value': 'Owner', 'old_value': 'Chairman'}}}
+196: {'values_changed': {"root['ground']": {'new_value': 'Rugby Park Kilmarnock, East Ayrshire', 'old_value': 'Rugby Park'}}}
+212: {'values_changed': {"root['ground']": {'new_value': 'Rugby Park', 'old_value': 'Rugby Park, Kilmarnock, Scotland'}, "root['owner']": {'new_value': 'The Kilmarnock Football Club Ltd.', 'old_value': 'nowrap'}}}
+218: {'values_changed': {"root['ground']": {'new_value': 'Rugby Park, Kilmarnock, Scotland', 'old_value': 'Rugby Park, Kilmarnock'}}}
+275: {'values_changed': {"root['chairman']": {'new_value': 'Billy Bowie', 'old_value': 'Billy Bowie https://www.scotsman.com/business/kilmarnock-fc-owner-billy-bowie-create-30-plus-jobs-after-bank-deal-1409130 Bare URL inline'}}}
+282: {'values_changed': {"root['position']": {'new_value': 'nowrap', 'old_value': 'Scottish football updater'}}}
+304: {'values_changed': {"root['current']": {'new_value': '2020–21 Kilmarnock F.C. season ', 'old_value': '2021–22 Kilmarnock F.C. season '}}}
+306: {'dictionary_item_removed': {"root['nicknames']": 'Killie, KFC'}}
+354: {'dictionary_item_added': {"root['nicknames']": 'Killie, KFC'}, 'values_changed': {"root['chairman']": {'new_value': 'Billy Bowie https://www.scotsman.com/business/kilmarnock-fc-owner-billy-bowie-create-30-plus-jobs-after-bank-deal-1409130 Bare URL inline', 'old_value': 'Billy Bowie'}}}
+367: {'values_changed': {"root['manager']": {'new_value': 'Tommy Wright (footballer, born 1963)', 'old_value': 'NONE'}}}
+368: {'values_changed': {"root['manager']": {'new_value': 'NONE', 'old_value': "''Vacant''"}}}
+377: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'James Fowler (footballer)'}}}
+379: {'dictionary_item_added': {"root['chrtitle']": 'Chairman'}, 'values_changed': {"root['manager']": {'new_value': 'James Fowler (footballer)', 'old_value': 'Derek McInnes'}, "root['current']": {'new_value': '2021–22 Kilmarnock F.C. season ', 'old_value': '2022–23 Kilmarnock F.C. season '}}}
+383: {'values_changed': {"root['capacity']": {'new_value': '17,889', 'old_value': '17,889 but only 2 show up usually'}}}
+384: {'values_changed': {"root['capacity']": {'new_value': '17,889 but only 2 show up usually', 'old_value': '17,889'}}}
+406: {'dictionary_item_removed': {"root['patern_ra2']": '_kilmarnock2223a'}}
+414: {'dictionary_item_added': {"root['patern_ra2']": '_kilmarnock2223a'}, 'values_changed': {"root['manager']": {'new_value': 'Derek McInnes', 'old_value': 'Logan Lees'}}}
+415: {'values_changed': {"root['manager']": {'new_value': 'Logan Lees', 'old_value': 'Logan Harris'}}}
+416: {'values_changed': {"root['manager']": {'new_value': 'Logan Harris', 'old_value': 'Derek McInnes'}}}
+497: {'values_changed': {"root['clubname']": {'new_value': 'Kilmarnock', 'old_value': 'Kilmarnock Football Club'}}}
+498: {'values_changed': {"root['clubname']": {'new_value': 'Kilmarnock Football Club', 'old_value': 'Kilmarnock Soccer Club'}}}
+499: {'values_changed': {"root['clubname']": {'new_value': 'Kilmarnock Soccer Club', 'old_value': 'Kilmarnock'}}}
+501: {'values_changed': {"root['capacity']": {'new_value': '17,889', 'old_value': '15,003'}}}
+504: {'values_changed': {"root['current']": {'new_value': '2022–23 Kilmarnock F.C. season ', 'old_value': '2023–24 Kilmarnock F.C. season '}}}
+517: {'values_changed': {"root['manager']": {'new_value': 'Derek McInnes', 'old_value': 'Jay McCall'}}}
+519: {'values_changed': {"root['manager']": {'new_value': 'Jay McCall', 'old_value': 'Ashton “chode” mclaughlan'}}}
+520: {'values_changed': {"root['manager']": {'new_value': 'Ashton “chode” mclaughlan', 'old_value': 'Macauley "Him" Nimmo'}}}
+523: {'values_changed': {"root['manager']": {'new_value': 'Macauley "Him" Nimmo', 'old_value': 'Derek McInnes'}}}

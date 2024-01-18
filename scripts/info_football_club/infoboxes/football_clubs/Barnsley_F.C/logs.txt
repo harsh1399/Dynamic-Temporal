@@ -1,0 +1,107 @@
+951: {'dictionary_item_removed': {"root['publisher']": 'The Internet Football Ground Guide'}}
+978: {'dictionary_item_removed': {"root['season']": '2015–16 Football League One', "root['current']": '2016–17 Barnsley F.C. season', "root['clubname']": 'Barnsley F.C.', "root['owner']": 'Patrick Cryne', "root['chairman']": 'Maurice Watkins (solicitor)', "root['manager']": 'Paul Heckingbottom', "root['league']": 'Football League Championship', "root['position']": 'Football League One'}}
+1095: {'values_changed': {"root['season']": {'new_value': '2015–16 Football League One', 'old_value': '2016–17 Football League Championship'}, "root['position']": {'new_value': 'Football League One', 'old_value': 'Championship, 14th'}}}
+1147: {'dictionary_item_added': {"root['clubname']": 'Barnsley F.C.'}, 'values_changed': {"root['league']": {'new_value': 'Football League Championship', 'old_value': 'Football League One'}}}
+1148: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Football League Championship'}}}
+1168: {'values_changed': {"root['current']": {'new_value': '2016–17 Barnsley F.C. season', 'old_value': '2017–18 Barnsley F.C. season'}}}
+1210: {'dictionary_item_removed': {"root['ground']": 'Oakwell', "root['capacity']": '23,009<ref name'}}
+1216: {'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'Oakwell South (Wembley)'}, "root['capacity']": {'new_value': '23,009<ref name', 'old_value': '90,000<ref name'}}}
+1217: {'values_changed': {"root['ground']": {'new_value': 'Oakwell South (Wembley)', 'old_value': 'Oakwell'}, "root['capacity']": {'new_value': '90,000<ref name', 'old_value': '23,009<ref name'}}}
+1337: {'dictionary_item_added': {"root['chairman']": 'Maurice Watkins (solicitor)'}, 'dictionary_item_removed': {"root['clubname']": 'Barnsley'}}
+1354: {'dictionary_item_added': {"root['capacity']": '23,009<ref name'}, 'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'lewis house I capacity'}}}
+1357: {'dictionary_item_removed': {"root['capacity']": '23,009<ref name'}, 'values_changed': {"root['ground']": {'new_value': 'lewis house I capacity', 'old_value': 'Oakwell'}}}
+1358: {'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'LEWIS BACK YARD'}, "root['capacity']": {'new_value': '23,009<ref name', 'old_value': '0 got no fans <ref name'}}}
+1359: {'values_changed': {"root['ground']": {'new_value': 'LEWIS BACK YARD', 'old_value': 'Oakwell'}, "root['capacity']": {'new_value': '0 got no fans <ref name', 'old_value': '23,009<ref name'}}}
+1362: {'dictionary_item_added': {"root['clubname']": 'Barnsley', "root['owner']": 'Patrick Cryne', "root['manager']": 'Paul Heckingbottom', "root['league']": 'Football League Championship', "root['position']": 'Championship, 14th'}, 'dictionary_item_removed': {"root['rowspan']": '"3"', "root['accessdate']": '4 January 2016'}}
+1363: {'dictionary_item_added': {"root['rowspan']": '"3"', "root['accessdate']": '4 January 2016'}, 'dictionary_item_removed': {"root['clubname']": 'Barnsley', "root['owner']": 'Patrick Cryne', "root['manager']": 'Paul Heckingbottom', "root['league']": 'Football League Championship', "root['position']": 'Championship, 14th'}}
+1371: {'values_changed': {"root['owner']": {'new_value': 'Patrick Cryne', 'old_value': 'Chien Lee'}}}
+1372: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee', 'old_value': 'Patrick Cryne'}}}
+1373: {'values_changed': {"root['owner']": {'new_value': 'Patrick Cryne', 'old_value': 'Chien Lee (NewCity Capital/Pacific Media Group)'}}}
+1374: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee (NewCity Capital/Pacific Media Group)', 'old_value': 'Patrick Cryne'}}}
+1375: {'values_changed': {"root['owner']": {'new_value': 'Patrick Cryne', 'old_value': 'Chien Lee'}}}
+1376: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee', 'old_value': 'Chien Lee and Billy Beane'}}}
+1377: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee and Billy Beane', 'old_value': 'Chien Lee'}}}
+1381: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['The Cryne Family (20%)'], 'new_value': 'Chien Lee'}}}
+1382: {'type_changes': {"root['owner']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': 'Chien Lee (80%) The Cryne Family (20%)', 'new_value': ['The Cryne Family (20%)']}}}
+1386: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee (80%) The Cryne Family (20%)', 'old_value': 'New City Capital (80%) The Cryne Family (20%)'}}}
+1391: {'values_changed': {"root['owner']": {'new_value': 'New City Capital (80%) The Cryne Family (20%)', 'old_value': 'Chien Lee (80%)  The Cryne Family (20%)  Paul Conway  Grace Hung  Neerav Parekh  Billy Beane'}}}
+1428: {'dictionary_item_removed': {"root['chairman']": 'Chien Lee (co-chairman)  Paul Conway (co-chairman)'}, 'values_changed': {"root['owner']": {'new_value': 'Chien Lee (80%)  The Cryne Family (20%)  Paul Conway  Grace Hung  Neerav Parekh  Billy Beane', 'old_value': 'Chien Lee (80%)  James Cryne/Cryne Family (20%)  Paul Conway  Grace Hung  Neerav Parekh  Billy Beane'}}}
+1441: {'dictionary_item_added': {"root['capacity']": '23,009<ref name'}, 'values_changed': {"root['publisher']": {'new_value': 'The Internet Football Ground Guide', 'old_value': 'Headline Book Publishing'}}}
+1445: {'dictionary_item_removed': {"root['capacity']": '23,009<ref name'}, 'values_changed': {"root['publisher']": {'new_value': 'Headline Book Publishing', 'old_value': 'The Internet Football Ground Guide'}}}
+1446: {'dictionary_item_added': {"root['capacity']": '23,009<ref name'}, 'values_changed': {"root['publisher']": {'new_value': 'The Internet Football Ground Guide', 'old_value': 'Headline Book Publishing'}}}
+1480: {'values_changed': {"root['manager']": {'new_value': 'Paul Heckingbottom', 'old_value': "Nob 'Eard"}}}
+1481: {'values_changed': {"root['manager']": {'new_value': "Nob 'Eard", 'old_value': 'Paul Heckingbottom'}}}
+1482: {'values_changed': {"root['manager']": {'new_value': 'Paul Heckingbottom', 'old_value': '“Vacant”'}}}
+1483: {'values_changed': {"root['manager']": {'new_value': '“Vacant”', 'old_value': 'Gary Ginger Spunk'}}}
+1484: {'values_changed': {"root['manager']": {'new_value': 'Gary Ginger Spunk', 'old_value': '“Vacant”'}}}
+1488: {'values_changed': {"root['manager']": {'new_value': '“Vacant”', 'old_value': 'Paul Harsley (Caretaker Manager)'}}}
+1493: {'values_changed': {"root['manager']": {'new_value': 'Paul Harsley (Caretaker Manager)', 'old_value': 'brian French (Caretaker Manager)'}}}
+1494: {'values_changed': {"root['manager']": {'new_value': 'brian French (Caretaker Manager)', 'old_value': 'Paul Harsley (Caretaker Manager)'}}}
+1496: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee (80%)  James Cryne/Cryne Family (20%)  Paul Conway  Grace Hung  Neerav Parekh  Billy Beane', 'old_value': 'NewCity Capital (80%)  James Cryne (20%)'}}}
+1504: {'values_changed': {"root['manager']": {'new_value': 'Paul Harsley (Caretaker Manager)', 'old_value': 'José Morais'}}}
+1510: {'values_changed': {"root['league']": {'new_value': 'Football League Championship', 'old_value': 'Football League One'}}}
+1511: {'values_changed': {"root['league']": {'new_value': 'Football League One', 'old_value': 'Championship'}}}
+1513: {'values_changed': {"root['league']": {'new_value': 'Championship', 'old_value': 'Football League Championship'}}}
+1547: {'values_changed': {"root['season']": {'new_value': '2016–17 Football League Championship', 'old_value': '2017–18 Football League Championship'}, "root['league']": {'new_value': 'Football League Championship', 'old_value': 'EFL League One'}, "root['position']": {'new_value': 'Championship, 14th', 'old_value': 'Championship, 22nd (relegated)'}}}
+1550: {'values_changed': {"root['position']": {'new_value': 'Championship, 22nd (relegated)', 'old_value': 'EFL Championship'}}}
+1551: {'values_changed': {"root['manager']": {'new_value': 'José Morais', 'old_value': 'None'}}}
+1566: {'dictionary_item_added': {"root['manager']": 'None'}, 'values_changed': {"root['current']": {'new_value': '2017–18 Barnsley F.C. season', 'old_value': '2018–19 Barnsley F.C. season'}}}
+1573: {'dictionary_item_added': {"root['clubname']": 'Barnsley'}, 'dictionary_item_removed': {"root['topscorer']": 'Ernie Hine (124) '}, 'values_changed': {"root['owner']": {'new_value': 'NewCity Capital (80%)  James Cryne (20%)', 'old_value': 'International Investment Consortium (80%)  James Cryne (20%)'}}}
+1574: {'dictionary_item_removed': {"root['manager']": 'Lewis Askew'}}
+1580: {'values_changed': {"root['manager']": {'new_value': 'Lewis Askew', 'old_value': 'Daniel Stendel'}}}
+1607: {'values_changed': {"root['season']": {'new_value': '2017–18 Football League Championship', 'old_value': '_barnsley1718h'}, "root['league']": {'new_value': 'EFL League One', 'old_value': 'English football updater'}, "root['position']": {'new_value': 'EFL Championship', 'old_value': 'English football updater'}}}
+1632: {'values_changed': {"root['season']": {'new_value': '_barnsley1718h', 'old_value': '_barnsley1819h'}}}
+1655: {'dictionary_item_removed': {"root['clubname']": 'Barnsley'}}
+1690: {'dictionary_item_added': {"root['publisher']": 'Headline Book Publishing'}, 'dictionary_item_removed': {"root['capacity']": '23,009<ref name'}}
+1704: {'dictionary_item_added': {"root['topscorer']": 'Ernie Hine (124) '}, 'values_changed': {"root['capacity']": {'new_value': '23,009<ref name', 'old_value': '23,287<ref name'}, "root['current']": {'new_value': '2018–19 Barnsley F.C. season', 'old_value': '2021–22 Barnsley F.C. season '}, "root['owner']": {'new_value': 'International Investment Consortium (80%)  James Cryne (20%)', 'old_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon'}, "root['manager']": {'new_value': 'Daniel Stendel', 'old_value': 'Poya Asbaghi'}, "root['season']": {'new_value': '_barnsley1819h', 'old_value': 'English football updater'}}}
+1709: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon', 'old_value': 'Toby tyke  Pacific Media Group (Paul Conman, Grace Hung flagicon'}, "root['chairman']": {'new_value': 'Chien Lee (co-chairman)  Paul Conway (co-chairman)', 'old_value': 'Chien Lee (co-chairman)  Paul Conman (co-chairman)'}}}
+1710: {'values_changed': {"root['owner']": {'new_value': 'Toby tyke  Pacific Media Group (Paul Conman, Grace Hung flagicon', 'old_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon'}, "root['chairman']": {'new_value': 'Chien Lee (co-chairman)  Paul Conman (co-chairman)', 'old_value': 'Chien Lee (co-chairman)  Paul Conway (co-chairman)'}}}
+1727: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon', 'old_value': 'Utter Clowns'}, "root['chairman']": {'new_value': 'Chien Lee (co-chairman)  Paul Conway (co-chairman)', 'old_value': 'Clown 1 (co-chairman)  Clown 2 (co-chairman)'}}}
+1728: {'values_changed': {"root['owner']": {'new_value': 'Utter Clowns', 'old_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon'}, "root['chairman']": {'new_value': 'Clown 1 (co-chairman)  Clown 2 (co-chairman)', 'old_value': 'Chien Lee (co-chairman)  Paul Conway (co-chairman)'}}}
+1737: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee  Pacific Media Group (Paul Conway, Grace Hung flagicon', 'old_value': 'Chien Lee Pacific Media Group (Paul Conway, Grace Hung, James Cryne, Neerav Parekh)'}, "root['chairman']": {'new_value': 'Chien Lee (co-chairman)  Paul Conway (co-chairman)', 'old_value': 'Chien Lee (co-chairman) Paul Conway (co-chairman)'}}}
+1758: {'values_changed': {"root['manager']": {'new_value': 'Poya Asbaghi', 'old_value': 'Martin Devaney (Caretaker)'}}}
+1776: {'values_changed': {"root['owner']": {'new_value': 'Chien Lee Pacific Media Group (Paul Conway, Grace Hung, James Cryne, Neerav Parekh)', 'old_value': 'BarnsleyFC investment Ltd  - Chien Lee   - Julie Anne Quay,  - James & Jean Cryne,   - Neerav Parekh,  - Pacific Media Group (Paul Conway, Grace Hung)'}, "root['chairman']": {'new_value': 'Chien Lee (co-chairman) Paul Conway (co-chairman)', 'old_value': 'Neerav Parekh (Chairman May 2022 - present)'}}}
+1777: {'values_changed': {"root['owner']": {'new_value': 'BarnsleyFC investment Ltd  - Chien Lee   - Julie Anne Quay,  - James & Jean Cryne,   - Neerav Parekh,  - Pacific Media Group (Paul Conway, Grace Hung)', 'old_value': 'BarnsleyFC investment Ltd  - Chien Lee   - James & Jean Cryne,  - Julie Anne Quay,  - Neerav Parekh,  - Pacific Media Group (Paul Conway, Grace Hung)'}}}
+1804: {'values_changed': {"root['chairman']": {'new_value': 'Neerav Parekh (Chairman May 2022 - present)', 'old_value': 'Neerav Parekh'}}}
+1806: {'values_changed': {"root['capacity']": {'new_value': '23,287<ref name', 'old_value': '087<ref name'}}}
+1807: {'values_changed': {"root['capacity']": {'new_value': '087<ref name', 'old_value': '23,009<ref name'}}}
+1808: {'values_changed': {"root['capacity']": {'new_value': '23,009<ref name', 'old_value': '23,287<ref name'}}}
+1812: {'values_changed': {"root['manager']": {'new_value': 'Martin Devaney (Caretaker)', 'old_value': 'Neil Warnock'}}}
+1813: {'values_changed': {"root['manager']": {'new_value': 'Neil Warnock', 'old_value': 'Martin Devaney (Caretaker)'}}}
+1814: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'EFL League One'}}}
+1815: {'values_changed': {"root['league']": {'new_value': 'EFL League One', 'old_value': 'English football updater'}}}
+1816: {'values_changed': {"root['manager']": {'new_value': 'Martin Devaney (Caretaker)', 'old_value': 'Michael Duff (footballer)'}}}
+1817: {'values_changed': {"root['manager']": {'new_value': 'Michael Duff (footballer)', 'old_value': 'Martin Devaney (Caretaker)'}}}
+1818: {'values_changed': {"root['manager']": {'new_value': 'Martin Devaney (Caretaker)', 'old_value': 'Michael Duff (Caretaker)'}}}
+1819: {'values_changed': {"root['manager']": {'new_value': 'Michael Duff (Caretaker)', 'old_value': 'Martin Devaney (Caretaker)'}}}
+1821: {'values_changed': {"root['manager']": {'new_value': 'Martin Devaney (Caretaker)', 'old_value': 'Michael Duff'}}}
+1822: {'values_changed': {"root['manager']": {'new_value': 'Michael Duff', 'old_value': 'Michael Duff (footballer)'}}}
+1840: {'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'Oakwell (Home)'}}}
+1841: {'values_changed': {"root['ground']": {'new_value': 'Oakwell (Home)', 'old_value': 'Oakwell'}}}
+1843: {'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'Oakwell(home)'}}}
+1844: {'values_changed': {"root['ground']": {'new_value': 'Oakwell(home)', 'old_value': 'Oakwell'}}}
+1853: {'values_changed': {"root['owner']": {'new_value': 'BarnsleyFC investment Ltd  - Chien Lee   - James & Jean Cryne,  - Julie Anne Quay,  - Neerav Parekh,  - Pacific Media Group (Paul Conway, Grace Hung)', 'old_value': 'BarnsleyFC investment Ltd'}}}
+1873: {'values_changed': {"root['owner']": {'new_value': 'BarnsleyFC investment Ltd', 'old_value': 'Barnsley FC investment Ltd'}}}
+1876: {'values_changed': {"root['current']": {'new_value': '2021–22 Barnsley F.C. season ', 'old_value': '2022–23 Barnsley F.C. season '}}}
+1961: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'English football سیکینه سیتاره گویانupdater'}}}
+1962: {'values_changed': {"root['league']": {'new_value': 'English football سیکینه سیتاره گویانupdater', 'old_value': 'English footballupdater'}}}
+1963: {'values_changed': {"root['league']": {'new_value': 'English footballupdater', 'old_value': 'English football updater'}}}
+1985: {'values_changed': {"root['chairman']": {'new_value': 'Neerav Parekh', 'old_value': 'sud'}}}
+1986: {'values_changed': {"root['chairman']": {'new_value': 'sud', 'old_value': 'Neerav Parekh'}}}
+1999: {'values_changed': {"root['clubname']": {'new_value': 'Barnsley', 'old_value': 'Men bashers'}, "root['manager']": {'new_value': 'Michael Duff (footballer)', 'old_value': 'Willy Wacker (footballer)'}}}
+2000: {'values_changed': {"root['clubname']": {'new_value': 'Men bashers', 'old_value': 'Barnsley'}, "root['manager']": {'new_value': 'Willy Wacker (footballer)', 'old_value': 'Michael Duff (footballer)'}}}
+2001: {'dictionary_item_removed': {"root['body4']": '22453F'}}
+2008: {'dictionary_item_added': {"root['body4']": '22453F'}, 'values_changed': {"root['ground']": {'new_value': 'Oakwell', 'old_value': 'Mum'}, "root['capacity']": {'new_value': '23,287<ref name', 'old_value': '237<ref name'}}}
+2009: {'values_changed': {"root['ground']": {'new_value': 'Mum', 'old_value': 'Oakwell'}, "root['capacity']": {'new_value': '237<ref name', 'old_value': '23,287<ref name'}}}
+2046: {'values_changed': {"root['chairman']": {'new_value': 'Neerav Parekh', 'old_value': 'Eminem'}}}
+2047: {'values_changed': {"root['chairman']": {'new_value': 'Eminem', 'old_value': 'Neerav Parekh'}}}
+2054: {'values_changed': {"root['chairman']": {'new_value': 'Neerav Parekh', 'old_value': 'Kim Jong Un'}}}
+2055: {'values_changed': {"root['chairman']": {'new_value': 'Kim Jong Un', 'old_value': 'Neerav Parekh'}}}
+2087: {'values_changed': {"root['owner']": {'new_value': 'Barnsley FC investment Ltd', 'old_value': 'Adolf Hitler'}}}
+2088: {'values_changed': {"root['owner']": {'new_value': 'Adolf Hitler', 'old_value': 'Barnsley FC investment Ltd'}}}
+2127: {'values_changed': {"root['manager']": {'new_value': 'Michael Duff (footballer)', 'old_value': 'Vacant'}}}
+2143: {'values_changed': {"root['current']": {'new_value': '2022–23 Barnsley F.C. season ', 'old_value': '2023–24 Barnsley F.C. season '}}}
+2156: {'values_changed': {"root['owner']": {'new_value': 'Barnsley FC investment Ltd', 'old_value': 'BFC Investment Company Ltd'}}}
+2159: {'values_changed': {"root['clubname']": {'new_value': 'Barnsley', 'old_value': 'KIERANS HIGNET'}}}
+2160: {'values_changed': {"root['clubname']": {'new_value': 'KIERANS HIGNET', 'old_value': 'Barnsley'}}}
+2168: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Neill Collins'}}}

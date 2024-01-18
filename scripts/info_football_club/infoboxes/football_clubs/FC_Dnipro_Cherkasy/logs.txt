@@ -1,0 +1,7 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'FC Dnipro Cherkasy', "root['dissolved']": '1974, 2002, 2009', "root['ground']": 'Tsentralnyi Stadion Cherkasy', "root['capacity']": '10,321', "root['chairman']": 'Ihor Kolomoyets', "root['manager']": 'Yevhen Tarasenko', "root['league']": 'Amateur League', "root['season']": '2008–09 Ukrainian Second League', "root['position']": 'Druha Liha A, 7th (expelled)'}}
+11: {'dictionary_item_added': {"root['season']": '2008–09 Ukrainian Second League'}, 'values_changed': {"root['league']": {'new_value': 'Amateur League', 'old_value': 'Ukrainian Second League'}}}
+17: {'dictionary_item_added': {"root['dissolved']": '1974, 2002, 2009', "root['position']": 'Druha Liha A, 7th (expelled)'}, 'values_changed': {"root['ground']": {'new_value': 'Tsentralnyi Stadion Cherkasy', 'old_value': 'Tsentralnyi Stadion (Cherkasy), Cherkasy'}}}
+18: {'values_changed': {"root['ground']": {'new_value': 'Tsentralnyi Stadion (Cherkasy), Cherkasy', 'old_value': 'Tsentralnyi Stadion (Cherkasy)'}}}
+29: {'values_changed': {"root['manager']": {'new_value': 'Yevhen Tarasenko', 'old_value': 'Ihor Stolovytskyi'}}}
+30: {'dictionary_item_removed': {"root['season']": '2020–21 Ukrainian Second League', "root['position']": 'Ukrainian Second League, 7th of 12'}}
+34: {'values_changed': {"root['manager']": {'new_value': 'Ihor Stolovytskyi', 'old_value': 'Taras Ilnytskyi'}}}

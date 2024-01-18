@@ -1,0 +1,44 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Veres Rivne', "root['ground']": 'Avanhard Stadium (Rivne)', "root['capacity']": '20,000', "root['chairman']": 'Dmytro Firtash', "root['season']": '2010-11 Ukrainian Second League', "root['position']": 'Ukrainian Second League, 12th '}}
+3: {'values_changed': {"root['chairman']": {'new_value': 'Dmytro Firtash', 'old_value': 'Oleksiy Khakhlyov'}}}
+21: {'dictionary_item_removed': {"root['manager']": 'Volodymyr Mazyar'}}
+24: {'dictionary_item_removed': {"root['league']": 'Ukrainian First League'}, 'values_changed': {"root['capacity']": {'new_value': '20,000', 'old_value': '20,000(4,000 seated)'}, "root['season']": {'new_value': '2010-11 Ukrainian Second League', 'old_value': '2015-16 Ukrainian Second League'}, "root['position']": {'new_value': 'Ukrainian Second League, 12th ', 'old_value': 'Ukrainian Second League, 2nd (promoted)'}}}
+28: {'values_changed': {"root['clubname']": {'new_value': 'Veres Rivne', 'old_value': 'NK Veres Rivne'}}}
+31: {'dictionary_item_added': {"root['league']": 'Ukrainian First League'}, 'values_changed': {"root['clubname']": {'new_value': 'NK Veres Rivne', 'old_value': 'Veres Rivne'}, "root['capacity']": {'new_value': '20,000(4,000 seated)', 'old_value': '20,000'}, "root['season']": {'new_value': '2015-16 Ukrainian Second League', 'old_value': '2010-11 Ukrainian Second League'}, "root['position']": {'new_value': 'Ukrainian Second League, 2nd (promoted)', 'old_value': 'Ukrainian Second League, 12th '}}}
+32: {'dictionary_item_removed': {"root['league']": 'Ukrainian First League'}, 'values_changed': {"root['season']": {'new_value': '2010-11 Ukrainian Second League', 'old_value': '2015-16 Ukrainian Second League'}, "root['position']": {'new_value': 'Ukrainian Second League, 12th ', 'old_value': 'Ukrainian Second League, 2nd (promoted) '}}}
+47: {'values_changed': {"root['clubname']": {'new_value': 'Veres Rivne', 'old_value': 'NK Veres Rivne'}, "root['capacity']": {'new_value': '20,000', 'old_value': '20,000(4,500 seated)'}}}
+60: {'values_changed': {"root['position']": {'new_value': 'Ukrainian Second League, 2nd (promoted) ', 'old_value': 'Ukrainian Second League, 2nd (promoted) | візерунок_лр1'}}}
+61: {'values_changed': {"root['position']": {'new_value': 'Ukrainian Second League, 2nd (promoted) | візерунок_лр1', 'old_value': 'Ukrainian Second League, 2nd (promoted) '}}}
+62: {'values_changed': {"root['position']": {'new_value': 'Ukrainian Second League, 2nd (promoted) ', 'old_value': 'Ukrainian Second League, 2nd (promoted)'}}}
+72: {'dictionary_item_added': {"root['chairman']": 'Oleksiy Khakhlyov'}, 'dictionary_item_removed': {"root['Owner']": 'FC VERES-RIVNE LLC'}}
+73: {'dictionary_item_added': {"root['Owner']": 'FC VERES-RIVNE LLC'}, 'dictionary_item_removed': {"root['owner']": 'FC VERES-RIVNE LLC'}}
+74: {'dictionary_item_removed': {"root['budget']": '15,000,000 Hryvnia sign'}}
+169: {'dictionary_item_added': {"root['budget']": '15,000,000 Hryvnia sign'}, 'values_changed': {"root['manager']": {'new_value': 'Volodymyr Mazyar', 'old_value': 'Volodymyr Mazyar (in vacation), Yuriy Virt (caretaker)'}}}
+173: {'values_changed': {"root['manager']": {'new_value': 'Volodymyr Mazyar (in vacation), Yuriy Virt (caretaker)', 'old_value': 'Yuriy Virt'}}}
+183: {'values_changed': {"root['league']": {'new_value': 'Ukrainian First League', 'old_value': 'Ukrainian Premier League'}, "root['season']": {'new_value': '2015-16 Ukrainian Second League', 'old_value': '2016-17 Ukrainian First League'}, "root['position']": {'new_value': 'Ukrainian Second League, 2nd (promoted)', 'old_value': 'Ukrainian Ukrainian First League, 3rd (promoted)'}}}
+184: {'values_changed': {"root['position']": {'new_value': 'Ukrainian Ukrainian First League, 3rd (promoted)', 'old_value': 'Ukrainian First League, 3rd (promoted)'}}}
+185: {'dictionary_item_removed': {"root['current']": '2017–18 NK Veres Rivne season'}}
+206: {'dictionary_item_removed': {"root['chairman']": 'Oleksiy Khakhlyov'}, 'values_changed': {"root['owner']": {'new_value': 'FC VERES-RIVNE LLC', 'old_value': 'FC Veres-Rivne LLC'}}}
+207: {'dictionary_item_added': {"root['chairman']": 'Oleksiy Khakhlyov'}, 'values_changed': {"root['owner']": {'new_value': 'FC Veres-Rivne LLC', 'old_value': 'FC VERES-RIVNE LLC'}}}
+208: {'dictionary_item_removed': {"root['chairman']": 'Oleksiy Khakhlyov'}, 'values_changed': {"root['owner']": {'new_value': 'FC VERES-RIVNE LLC', 'old_value': 'FC Veres-Rivne LLC'}}}
+214: {'values_changed': {"root['ground']": {'new_value': 'Avanhard Stadium (Rivne)', 'old_value': 'Arena Lviv'}, "root['capacity']": {'new_value': '20,000(4,500 seated)', 'old_value': '34,915'}}}
+217: {'dictionary_item_removed': {"root['owntitle']": 'Honorary President', "root['chrtitle']": 'President'}, 'values_changed': {"root['owner']": {'new_value': 'FC Veres-Rivne LLC', 'old_value': 'Borys Kopytko'}}}
+222: {'dictionary_item_added': {"root['owntitle']": 'Honorary President'}, 'values_changed': {"root['owner']": {'new_value': 'Borys Kopytko', 'old_value': 'FC Veres-Rivne LLC'}, "root['chairman']": {'new_value': 'Oleksiy Khakhlyov', 'old_value': 'Oleksiy Khakhlyov, Honorary President: Borys Kopytko'}}}
+227: {'values_changed': {"root['manager']": {'new_value': 'Yuriy Virt', 'old_value': 'Vacant'}}}
+231: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Yury Svirkov'}}}
+255: {'values_changed': {"root['chairman']": {'new_value': 'Oleksiy Khakhlyov, Honorary President: Borys Kopytko', 'old_value': 'Borys Kopytko'}}}
+257: {'values_changed': {"root['chairman']": {'new_value': 'Borys Kopytko', 'old_value': 'Bohdan Kopytko'}}}
+264: {'values_changed': {"root['manager']": {'new_value': 'Yury Svirkov', 'old_value': 'Vacant'}}}
+267: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Andriy Demchenko (caretaker)'}}}
+275: {'values_changed': {"root['season']": {'new_value': '2016-17 Ukrainian First League', 'old_value': '2017–18'}, "root['position']": {'new_value': 'Ukrainian First League, 3rd (promoted)', 'old_value': '6th'}}}
+306: {'dictionary_item_added': {"root['capacity']": '34,915', "root['owner']": 'FC Veres-Rivne LLC'}, 'values_changed': {"root['ground']": {'new_value': 'Arena Lviv', 'old_value': 'TBA'}, "root['chairman']": {'new_value': 'Bohdan Kopytko', 'old_value': 'Oleksiy Khakhlyov'}, "root['manager']": {'new_value': 'Andriy Demchenko (caretaker)', 'old_value': 'TBA'}, "root['league']": {'new_value': 'Ukrainian Premier League', 'old_value': 'Ukrainian Second League'}, "root['season']": {'new_value': '2017–18', 'old_value': '2017–18 Ukrainian Premier League'}, "root['current']": {'new_value': '2017–18 NK Veres Rivne season', 'old_value': '2018–19 NK Veres Rivne season'}}}
+307: {'values_changed': {"root['position']": {'new_value': '6th', 'old_value': '6th (Premier League)'}}}
+308: {'values_changed': {"root['ground']": {'new_value': 'TBA', 'old_value': 'Mlyniv Stadium (TBC)'}}}
+309: {'values_changed': {"root['position']": {'new_value': '6th (Premier League)', 'old_value': 'UPL, 6th'}}}
+310: {'values_changed': {"root['manager']": {'new_value': 'TBA', 'old_value': 'Volodymyr Homenyuk'}}}
+311: {'values_changed': {"root['ground']": {'new_value': 'Mlyniv Stadium (TBC)', 'old_value': 'Avanhard Stadium (Rivne)'}}}
+336: {'values_changed': {"root['manager']": {'new_value': 'Volodymyr Homenyuk', 'old_value': 'Oleh Shandruk (caretaker)'}}}
+352: {'values_changed': {"root['manager']": {'new_value': 'Oleh Shandruk (caretaker)', 'old_value': 'Oleh Shandruk'}}}
+363: {'values_changed': {"root['manager']": {'new_value': 'Oleh Shandruk', 'old_value': 'Yuriy Virt'}}}
+412: {'values_changed': {"root['league']": {'new_value': 'Ukrainian Second League', 'old_value': 'Ukrainian First League'}, "root['season']": {'new_value': '2017–18 Ukrainian Premier League', 'old_value': '2019–20 Ukrainian Premier League'}, "root['position']": {'new_value': 'UPL, 6th', 'old_value': 'Second League, Group A, 3rd (promoted via play-offs)'}}}
+422: {'values_changed': {"root['chairman']": {'new_value': 'Oleksiy Khakhlyov', 'old_value': 'Ivan Nadeyin'}}}
+446: {'values_changed': {"root['league']": {'new_value': 'Ukrainian First League', 'old_value': 'Ukrainian Premier League'}, "root['season']": {'new_value': '2019–20 Ukrainian Premier League', 'old_value': '2020–21 Ukrainian First League'}, "root['position']": {'new_value': 'Second League, Group A, 3rd (promoted via play-offs)', 'old_value': 'Ukrainian First League, 1st (champions)'}, "root['current']": {'new_value': '2018–19 NK Veres Rivne season', 'old_value': '2020–21 NK Veres Rivne season'}}}

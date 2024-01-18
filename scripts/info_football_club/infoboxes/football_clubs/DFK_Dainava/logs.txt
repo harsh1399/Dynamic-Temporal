@@ -1,0 +1,14 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'FK Dainava', "root['ground']": 'Alytus Stadium', "root['capacity']": '3,790', "root['chairman']": 'flagicon', "root['mgrtitle']": 'Head Coach', "root['manager']": 'flagicon', "root['league']": '2 Lyga', "root['season']": '2015', "root['position']": 'A Lyga, 8th'}}
+1: {'dictionary_item_added': {"root['chairman']": 'flagicon'}, 'values_changed': {"root['position']": {'new_value': 'A Lyga, 8th', 'old_value': '10th'}}}
+3: {'values_changed': {"root['clubname']": {'new_value': 'FK Dainava', 'old_value': 'DFK Dainava'}, "root['league']": {'new_value': '2 Lyga', 'old_value': '1 Lyga'}}}
+27: {'dictionary_item_added': {"root['manager']": 'flagicon', "root['position']": '10th'}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}}}
+32: {'dictionary_item_removed': {"root['chairman']": 'Žydrūnas Lukošiūnas', "root['manager']": 'Tomas Ražanauskas', "root['position']": '9th in I Lyga', "root['current']": '2021 A Lyga'}, 'values_changed': {"root['league']": {'new_value': '1 Lyga', 'old_value': 'A Lyga (since 2021)'}, "root['season']": {'new_value': '2015', 'old_value': '2021 A Lyga'}}}
+34: {'values_changed': {"root['manager']": {'new_value': 'Tomas Ražanauskas', 'old_value': 'Matthiew Silva'}}}
+43: {'values_changed': {"root['manager']": {'new_value': 'Matthiew Silva', 'old_value': 'Matthew Silva'}}}
+48: {'values_changed': {"root['league']": {'new_value': 'A Lyga (since 2021)', 'old_value': 'I Lyga (since 2022)'}}}
+56: {'values_changed': {"root['manager']": {'new_value': 'Matthew Silva', 'old_value': 'Sergey Kuznecov'}}}
+63: {'values_changed': {"root['manager']": {'new_value': 'Sergey Kuznecov', 'old_value': 'Sergey Kuznetsov'}}}
+66: {'values_changed': {"root['manager']": {'new_value': 'Sergey Kuznetsov', 'old_value': 'Syarhey Kuznyatsow'}}}
+67: {'values_changed': {"root['season']": {'new_value': '2021 A Lyga', 'old_value': '2022 I Lyga'}, "root['position']": {'new_value': '9th in I Lyga', 'old_value': 'Winners in I Lyga'}}}
+91: {'values_changed': {"root['current']": {'new_value': '2021 A Lyga', 'old_value': '2023 A Lyga'}}}
+125: {'dictionary_item_added': {"root['position']": 'Winners in I Lyga'}, 'values_changed': {"root['league']": {'new_value': 'I Lyga (since 2022)', 'old_value': 'A Lyga (since 2023)'}}}

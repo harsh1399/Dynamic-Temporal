@@ -1,0 +1,30 @@
+0: {'dictionary_item_removed': {"root['ground']": 'El Sadar Stadium', "root['capacity']": '18,761', "root['season']": '2015–16 Segunda División', "root['current']": '2016–17 CA Osasuna season', "root['clubname']": 'Osasuna', "root['chairman']": 'Luis Sabalza', "root['manager']": 'Joaquín Caparrós', "root['league']": 'La Liga', "root['position']": 'Segunda División, 6th (promoted via play-offs)'}}
+1: {'values_changed': {"root['manager']": {'new_value': 'Joaquín Caparrós', 'old_value': "''Vacant''"}}}
+2: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Peter Vasiljevic'}}}
+4: {'values_changed': {"root['manager']": {'new_value': 'Peter Vasiljevic', 'old_value': 'Petar Vasiljević'}}}
+34: {'values_changed': {"root['season']": {'new_value': '2015–16 Segunda División', 'old_value': '2016–17 Primera División'}}}
+35: {'values_changed': {"root['position']": {'new_value': 'Segunda División, 6th (promoted via play-offs)', 'old_value': 'Primera División, 6th (promoted via play-offs)'}}}
+36: {'values_changed': {"root['position']": {'new_value': 'Primera División, 6th (promoted via play-offs)', 'old_value': 'Primera División'}}}
+37: {'values_changed': {"root['season']": {'new_value': '2016–17 Primera División', 'old_value': '2016–17 La Liga'}}}
+39: {'values_changed': {"root['position']": {'new_value': 'Primera División', 'old_value': 'La Liga'}}}
+52: {'values_changed': {"root['position']": {'new_value': 'La Liga', 'old_value': 'La Liga, 19th (relegated)'}}}
+55: {'values_changed': {"root['manager']": {'new_value': 'Petar Vasiljević', 'old_value': 'Vacant'}}}
+57: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Diego Martínez Penas'}}}
+58: {'values_changed': {"root['league']": {'new_value': 'La Liga', 'old_value': 'Segunda Division'}}}
+59: {'values_changed': {"root['league']": {'new_value': 'Segunda Division', 'old_value': 'Segunda División'}}}
+95: {'values_changed': {"root['current']": {'new_value': '2016–17 CA Osasuna season', 'old_value': '2017–18 CA Osasuna season'}}}
+144: {'values_changed': {"root['manager']": {'new_value': 'Diego Martínez Penas', 'old_value': "''Vacant''"}}}
+146: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Jagoba Arrasate'}}}
+161: {'values_changed': {"root['season']": {'new_value': '2016–17 La Liga', 'old_value': '2017–18 Segunda División'}, "root['current']": {'new_value': '2017–18 CA Osasuna season', 'old_value': '2018–19 CA Osasuna season'}, "root['position']": {'new_value': 'La Liga, 19th (relegated)', 'old_value': "Segunda División, '''8th'''"}}}
+185: {'dictionary_item_removed': {"root['chrtitle']": 'President', "root['mgrtitle']": 'Head coach'}}
+186: {'values_changed': {"root['capacity']": {'new_value': '18,761', 'old_value': '23,576'}, "root['league']": {'new_value': 'Segunda División', 'old_value': 'La Liga'}, "root['season']": {'new_value': '2017–18 Segunda División', 'old_value': '2019–20 La Liga'}, "root['position']": {'new_value': "Segunda División, '''8th'''", 'old_value': 'La Liga, 10th of 20<ref name'}, "root['current']": {'new_value': '2018–19 CA Osasuna season', 'old_value': '2020–21 CA Osasuna season'}}}
+187: {'dictionary_item_removed': {"root['shortname']": 'OSA'}}
+221: {'dictionary_item_added': {"root['shortname']": 'OSA'}, 'values_changed': {"root['season']": {'new_value': '2019–20 La Liga', 'old_value': '2020–21 La Liga'}, "root['position']": {'new_value': 'La Liga, 10th of 20<ref name', 'old_value': 'La Liga, 11th of 20<ref name'}}}
+243: {'values_changed': {"root['season']": {'new_value': '2020–21 La Liga', 'old_value': '2020–21 Law Liga'}}}
+246: {'values_changed': {"root['season']": {'new_value': '2020–21 Law Liga', 'old_value': '2020–21 La Liga'}}}
+253: {'values_changed': {"root['current']": {'new_value': '2020–21 CA Osasuna season', 'old_value': '2021–22 CA Osasuna season '}}}
+305: {'values_changed': {"root['season']": {'new_value': '2020–21 La Liga', 'old_value': '2021–22 La Liga'}, "root['position']": {'new_value': 'La Liga, 11th of 20<ref name', 'old_value': 'La Liga, 10th of 20'}}}
+311: {'values_changed': {"root['position']": {'new_value': 'La Liga, 10th of 20', 'old_value': "La Liga, '''10th''' of 20"}, "root['current']": {'new_value': '2021–22 CA Osasuna season ', 'old_value': '2022–23 CA Osasuna season '}}}
+330: {'values_changed': {"root['position']": {'new_value': "La Liga, '''10th''' of 20", 'old_value': 'La Liga, 10th of 20'}}}
+377: {'values_changed': {"root['position']": {'new_value': 'La Liga, 10th of 20', 'old_value': 'La Liga, 5th of 20'}}}
+378: {'values_changed': {"root['position']": {'new_value': 'La Liga, 5th of 20', 'old_value': 'La Liga, 10th of 20'}}}

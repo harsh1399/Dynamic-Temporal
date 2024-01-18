@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Barcelona', "root['ground']": 'Camp Nou', "root['capacity']": '99,354<ref name', "root['chrtitle']": 'President', "root['chairman']": 'Joan Laporta', "root['mgrtitle']": 'Head coach', "root['manager']": 'Xavi Hernández', "root['league']": 'La Liga', "root['season']": '2020–21 La Liga', "root['position']": 'La Liga, 3rd of 20', "root['current']": '2021–22 FC Barcelona season'}}
+106: {'values_changed': {"root['position']": {'new_value': 'La Liga, 3rd of 20', 'old_value': 'La Liga, 2nd of 20'}}}
+107: {'values_changed': {"root['position']": {'new_value': 'La Liga, 2nd of 20', 'old_value': 'La Liga, 3rd of 20'}}}
+125: {'values_changed': {"root['season']": {'new_value': '2020–21 La Liga', 'old_value': '2021–22 La Liga'}, "root['position']": {'new_value': 'La Liga, 3rd of 20', 'old_value': 'La Liga, 2rd of 20'}}}
+126: {'values_changed': {"root['position']": {'new_value': 'La Liga, 2rd of 20', 'old_value': 'La Liga, 2nd of 20'}}}
+132: {'values_changed': {"root['manager']": {'new_value': 'Xavi Hernández', 'old_value': 'Xavi'}}}
+140: {'values_changed': {"root['current']": {'new_value': '2021–22 FC Barcelona season', 'old_value': '2022–23 FC Barcelona season'}}}
+168: {'values_changed': {"root['position']": {'new_value': 'La Liga, 2nd of 20', 'old_value': "La Liga, '''2nd''' of 20"}}}
+206: {'values_changed': {"root['position']": {'new_value': "La Liga, '''2nd''' of 20", 'old_value': 'La Liga, 2nd of 20'}}}
+525: {'dictionary_item_removed': {"root['coordinates']": '22|51|N|2|07|23|E|region:ES-CT|displ'}}
+562: {'dictionary_item_added': {"root['coordinates']": '22|51|N|2|07|23|E|region:ES-CT|displ'}, 'values_changed': {"root['ground']": {'new_value': 'Camp Nou', 'old_value': 'Camp Nou Estadi Olímpic Lluís Companys (2023-2024)'}}}
+579: {'values_changed': {"root['ground']": {'new_value': 'Camp Nou Estadi Olímpic Lluís Companys (2023-2024)', 'old_value': 'Camp Nou'}}}
+604: {'values_changed': {"root['league']": {'new_value': 'La Liga', 'old_value': 'Spanish football updater'}, "root['season']": {'new_value': '2021–22 La Liga', 'old_value': 'Spanish football updater'}, "root['position']": {'new_value': 'La Liga, 2nd of 20', 'old_value': 'Spanish football updater'}}}
+647: {'values_changed': {"root['clubname']": {'new_value': 'Barcelona', 'old_value': 'Barcelona Chudirbai Club'}}}
+648: {'values_changed': {"root['clubname']": {'new_value': 'Barcelona Chudirbai Club', 'old_value': 'Barcelona'}}}
+672: {'values_changed': {"root['clubname']": {'new_value': 'Barcelona', 'old_value': 'Barkalona'}, "root['current']": {'new_value': '2022–23 FC Barcelona season', 'old_value': '2022–23 FC Varcelona season'}}}
+674: {'values_changed': {"root['clubname']": {'new_value': 'Barkalona', 'old_value': 'Barcelona'}, "root['current']": {'new_value': '2022–23 FC Varcelona season', 'old_value': '2022–23 FC Barcelona season'}}}
+690: {'values_changed': {"root['ground']": {'new_value': 'Camp Nou', 'old_value': 'Spotify Camp Nou'}}}
+691: {'values_changed': {"root['ground']": {'new_value': 'Spotify Camp Nou', 'old_value': 'Camp Nou'}}}
+744: {'values_changed': {"root['ground']": {'new_value': 'Camp Nou', 'old_value': 'Estadi Olímpic Lluís Companys'}}}
+745: {'values_changed': {"root['ground']": {'new_value': 'Estadi Olímpic Lluís Companys', 'old_value': 'Camp Nou'}}}
+770: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Barcelona season', 'old_value': '2023–24 FC Barcelona season'}}}
+771: {'values_changed': {"root['current']": {'new_value': '2023–24 FC Barcelona season', 'old_value': '2022–23 FC Barcelona season'}}}
+830: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Barcelona season', 'old_value': '2023–24 FC Barcelona season'}}}
+831: {'values_changed': {"root['current']": {'new_value': '2023–24 FC Barcelona season', 'old_value': '2022–23 FC Barcelona season'}}}
+842: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Barcelona season', 'old_value': '2023–24 FC Barcelona season'}}}
+849: {'values_changed': {"root['season']": {'new_value': 'Spanish football updater', 'old_value': '2022–23 La Liga'}, "root['position']": {'new_value': 'Spanish football updater', 'old_value': 'La Liga, 1st of 20 (champions)'}}}
+851: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'First team coach<ref name'}}}
+852: {'values_changed': {"root['mgrtitle']": {'new_value': 'First team coach<ref name', 'old_value': 'Head coach'}}}
+853: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'First team coach<ref name'}}}
+854: {'values_changed': {"root['mgrtitle']": {'new_value': 'First team coach<ref name', 'old_value': 'Head coach'}}}
+855: {'dictionary_item_removed': {"root['stadium']": 'Estadi Olímpic Lluís Companys (temporary) '}}
+856: {'values_changed': {"root['stadium']": {'new_value': 'Estadi Olímpic Lluís Companys (temporary) ', 'old_value': 'Estadi Olímpic Lluís Companys '}}}
+857: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'First team coach<ref name'}}}
+858: {'values_changed': {"root['mgrtitle']": {'new_value': 'First team coach<ref name', 'old_value': 'Head coach'}}}
+860: {'values_changed': {"root['capacity']": {'new_value': '99,354<ref name', 'old_value': '54,367<ref name'}}}
+862: {'values_changed': {"root['season']": {'new_value': '2022–23 La Liga', 'old_value': 'https://www.sport.es/en/news/barca/barcas-attendances-for-next-season-will-be-capped-at-under-50000-86477012'}}}

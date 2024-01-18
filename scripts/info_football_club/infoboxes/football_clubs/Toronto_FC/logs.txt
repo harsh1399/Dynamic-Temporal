@@ -1,0 +1,82 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Toronto FC', "root['stadium']": 'BMO Field, Toronto, Ontario', "root['capacity']": '30,991', "root['owner']": 'Maple Leaf Sports & Entertainment', "root['chrtitle']": 'President', "root['chairman']": 'Bill Manning', "root['mgrtitle']": 'General Manager', "root['manager']": 'Tim Bezbatchenko', "root['coach']": 'Greg Vanney', "root['league']": 'Major League Soccer', "root['season']": '2015 Major League Soccer season', "root['position']": 'Eastern Conference: 6th, Overall: 12th, Playoffs: Conf. Knockout round', "root['current']": '2015 Toronto FC season'}}
+1: {'values_changed': {"root['current']": {'new_value': '2015 Toronto FC season', 'old_value': '2016 Toronto FC season'}}}
+28: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto Football Club'}}}
+29: {'values_changed': {"root['clubname']": {'new_value': 'Toronto Football Club', 'old_value': 'Toronto FC'}}}
+60: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'Lokrek Field, Toronto, Ontario'}}}
+61: {'values_changed': {"root['stadium']": {'new_value': 'Lokrek Field, Toronto, Ontario', 'old_value': 'Lokren Field, Toronto, Ontario'}}}
+62: {'values_changed': {"root['stadium']": {'new_value': 'Lokren Field, Toronto, Ontario', 'old_value': 'BMO Field, Toronto, Ontario'}}}
+73: {'values_changed': {"root['capacity']": {'new_value': '30,991', 'old_value': '30,000'}}}
+178: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '30,228'}}}
+179: {'values_changed': {"root['capacity']": {'new_value': '30,228', 'old_value': '30,000'}}}
+193: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '30,228'}}}
+194: {'values_changed': {"root['capacity']": {'new_value': '30,228', 'old_value': '30,000'}}}
+202: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'BMO Field, Toronto, Ontario, Canada'}}}
+203: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario, Canada', 'old_value': 'BMO Field, Toronto, Ontario'}}}
+237: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto'}}}
+238: {'values_changed': {"root['clubname']": {'new_value': 'Toronto', 'old_value': 'Toronto FC'}}}
+239: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto'}}}
+240: {'values_changed': {"root['clubname']": {'new_value': 'Toronto', 'old_value': 'Toronto FC'}}}
+243: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto'}}}
+244: {'values_changed': {"root['clubname']": {'new_value': 'Toronto', 'old_value': 'Toronto FC'}}}
+246: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'BMO Field'}}}
+248: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field', 'old_value': 'BMO Field, Toronto, Ontario'}}}
+286: {'values_changed': {"root['season']": {'new_value': '2015 Major League Soccer season', 'old_value': '2016 Major League Soccer season'}, "root['position']": {'new_value': 'Eastern Conference: 6th, Overall: 12th, Playoffs: Conf. Knockout round', 'old_value': "Conference: 3rd, Overall: 5th, Playoffs: ''Ongoing''"}}}
+290: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '30,991'}}}
+291: {'values_changed': {"root['capacity']": {'new_value': '30,991', 'old_value': '30,000'}}}
+315: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '34,000'}}}
+316: {'values_changed': {"root['capacity']": {'new_value': '34,000', 'old_value': '30,000'}}}
+353: {'values_changed': {"root['position']": {'new_value': "Conference: 3rd, Overall: 5th, Playoffs: ''Ongoing''", 'old_value': 'Conference: 3rd, Overall: 5th, Playoffs: 2nd'}}}
+355: {'values_changed': {"root['position']": {'new_value': 'Conference: 3rd, Overall: 5th, Playoffs: 2nd', 'old_value': 'Conference: 3rd, Overall: 5th, Playoffs: Runners-up'}}}
+365: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'BMO Field'}}}
+366: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field', 'old_value': 'BMO Field, Toronto, Ontario'}}}
+370: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'BMO Field'}}}
+371: {'values_changed': {"root['position']": {'new_value': 'Conference: 3rd, Overall: 5th, Playoffs: Runners-up', 'old_value': '2nd (MLS Cup 2016'}}}
+373: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field', 'old_value': 'BMO Field, Toronto, Ontario'}}}
+374: {'values_changed': {"root['position']": {'new_value': '2nd (MLS Cup 2016', 'old_value': 'Conference: 3rd, Overall: 5th, Playoffs: Runners-up, 2nd (MLS Cup 2016'}}}
+376: {'values_changed': {"root['current']": {'new_value': '2016 Toronto FC season', 'old_value': '2017 Toronto FC season'}}}
+384: {'values_changed': {"root['current']": {'new_value': '2017 Toronto FC season', 'old_value': '2016 Toronto FC season'}}}
+385: {'values_changed': {"root['current']": {'new_value': '2016 Toronto FC season', 'old_value': '2017 Toronto FC season'}}}
+428: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field, Toronto, Ontario', 'old_value': 'BMO Field,  Toronto, Ontario'}, "root['capacity']": {'new_value': '30,000', 'old_value': '30,991'}, "root['mgrtitle']": {'new_value': 'General Manager', 'old_value': 'General manager'}, "root['manager']": {'new_value': 'Tim Bezbatchenko', 'old_value': 'Ali Curtis'}, "root['season']": {'new_value': '2016 Major League Soccer season', 'old_value': '2019 Major League Soccer season'}, "root['position']": {'new_value': 'Conference: 3rd, Overall: 5th, Playoffs: Runners-up, 2nd (MLS Cup 2016', 'old_value': 'Eastern Conference (MLS)'}, "root['current']": {'new_value': '2017 Toronto FC season', 'old_value': '2020 Toronto FC season'}}}
+541: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field,  Toronto, Ontario', 'old_value': 'BMO Field,  Toronto'}, "root['capacity']": {'new_value': '30,991', 'old_value': '30,000'}}}
+542: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field,  Toronto', 'old_value': 'BMO Field,  Toronto, Ontario'}}}
+575: {'values_changed': {"root['manager']": {'new_value': 'Ali Curtis', 'old_value': 'Ali Curtis   Tel/Whatsapp No:+1 437 374 9586'}}}
+576: {'values_changed': {"root['manager']": {'new_value': 'Ali Curtis   Tel/Whatsapp No:+1 437 374 9586', 'old_value': 'Ali Curtis'}, "root['coach']": {'new_value': 'Greg Vanney', 'old_value': 'Greg Vanney   Tel/Whatsapp'}}}
+577: {'values_changed': {"root['coach']": {'new_value': 'Greg Vanney   Tel/Whatsapp', 'old_value': 'Greg Vanney'}}}
+609: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field,  Toronto, Ontario', 'old_value': 'BMO Field,  Toronto, Ontario,  Pratt & Whitney Stadium at Rentschler Field'}}}
+620: {'values_changed': {"root['stadium']": {'new_value': 'BMO Field,  Toronto, Ontario,  Pratt & Whitney Stadium at Rentschler Field', 'old_value': 'BMO Field,  Toronto, Ontario'}}}
+629: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto FC Reds'}}}
+630: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC Reds', 'old_value': 'Toronto FC'}}}
+637: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto C.F.'}, "root['stadium']": {'new_value': 'BMO Field,  Toronto, Ontario', 'old_value': 'BMO FieldToronto, Ontario'}}}
+638: {'values_changed': {"root['clubname']": {'new_value': 'Toronto C.F.', 'old_value': 'Toronto FC'}, "root['stadium']": {'new_value': 'BMO FieldToronto, Ontario', 'old_value': 'BMO Field,  Toronto, Ontario'}}}
+648: {'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '25,000 (football); 30,000 (soccer); (expandable to 40,000)'}}}
+649: {'values_changed': {"root['capacity']": {'new_value': '25,000 (football); 30,000 (soccer); (expandable to 40,000)', 'old_value': '30,000'}}}
+747: {'values_changed': {"root['season']": {'new_value': '2019 Major League Soccer season', 'old_value': '2020 Major League Soccer season'}}}
+773: {'values_changed': {"root['coach']": {'new_value': 'Greg Vanney', 'old_value': 'Vacant'}}}
+780: {'dictionary_item_added': {"root['manager']": 'Ali Curtis'}, 'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto'}}}
+781: {'values_changed': {"root['clubname']": {'new_value': 'Toronto', 'old_value': 'Toronto FC'}}}
+792: {'values_changed': {"root['current']": {'new_value': '2020 Toronto FC season', 'old_value': '2021 Toronto FC season'}}}
+802: {'dictionary_item_removed': {"root['owntitle']": 'Investor-operatorefn', "root['manager']": 'Bob Bradley'}, 'values_changed': {"root['stadium']": {'new_value': 'BMO Field,  Toronto, Ontario', 'old_value': 'BMO Field Toronto, Ontario'}, "root['mgrtitle']": {'new_value': 'General manager', 'old_value': 'Sporting director'}, "root['coach']": {'new_value': 'Vacant', 'old_value': 'Bob Bradley'}, "root['season']": {'new_value': '2020 Major League Soccer season', 'old_value': '2021 Major League Soccer season'}}}
+811: {'values_changed': {"root['current']": {'new_value': '2021 Toronto FC season', 'old_value': '2022 Toronto FC season'}}}
+849: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto FC is a bad team'}}}
+850: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC is a bad team', 'old_value': 'Toronto FC'}}}
+862: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto FC is a bad team'}}}
+863: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC is a bad team', 'old_value': 'Toronto FC'}}}
+866: {'values_changed': {"root['owntitle']": {'new_value': 'Investor-operatorefn', 'old_value': 'Ownerefn'}}}
+867: {'values_changed': {"root['owntitle']": {'new_value': 'Ownerefn', 'old_value': 'Investor-operatorefn'}}}
+883: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Toronto FC is a bad team'}}}
+884: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC is a bad team', 'old_value': 'Toronto FC'}}}
+1023: {'values_changed': {"root['owner']": {'new_value': 'Maple Leaf Sports & Entertainment', 'old_value': 'Jake Nerwinski'}}}
+1024: {'values_changed': {"root['owner']": {'new_value': 'Jake Nerwinski', 'old_value': 'Maple Leaf Sports & Entertainment'}}}
+1025: {'values_changed': {"root['chairman']": {'new_value': 'Bill Manning', 'old_value': 'Jake Nerwinski'}}}
+1026: {'values_changed': {"root['chairman']": {'new_value': 'Jake Nerwinski', 'old_value': 'Bill Manning'}}}
+1092: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+1106: {'values_changed': {"root['current']": {'new_value': '2022 Toronto FC season', 'old_value': '2023 Toronto FC season'}}}
+1232: {'values_changed': {"root['manager']": {'new_value': 'Bob Bradley', 'old_value': 'Brad Bobbley'}, "root['coach']": {'new_value': 'Bob Bradley', 'old_value': 'Brad Bobbley'}}}
+1233: {'values_changed': {"root['manager']": {'new_value': 'Brad Bobbley', 'old_value': 'Bob Bradley'}, "root['coach']": {'new_value': 'Brad Bobbley', 'old_value': 'Bob Bradley'}}}
+1239: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'clown fc'}}}
+1240: {'values_changed': {"root['clubname']": {'new_value': 'clown fc', 'old_value': 'Toronto FC'}}}
+1244: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Clown FC'}, "root['stadium']": {'new_value': 'BMO Field Toronto, Ontario', 'old_value': 'Clowns Field Toronto, Ontario'}}}
+1245: {'values_changed': {"root['clubname']": {'new_value': 'Clown FC', 'old_value': 'Toronto FC'}, "root['stadium']": {'new_value': 'Clowns Field Toronto, Ontario', 'old_value': 'BMO Field Toronto, Ontario'}}}
+1249: {'values_changed': {"root['clubname']": {'new_value': 'Toronto FC', 'old_value': 'Clown FC'}}}
+1250: {'values_changed': {"root['clubname']": {'new_value': 'Clown FC', 'old_value': 'Toronto FC'}}}
+1278: {'values_changed': {"root['manager']": {'new_value': 'Bob Bradley', 'old_value': 'vacant'}, "root['coach']": {'new_value': 'Bob Bradley', 'old_value': 'Terry Dunfield (interim)'}}}

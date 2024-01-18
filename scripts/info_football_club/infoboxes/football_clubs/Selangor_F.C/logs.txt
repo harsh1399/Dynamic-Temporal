@@ -1,0 +1,69 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Selangor', "root['ground']": 'Shah Alam Stadium', "root['capacity']": '80,372', "root['owner']": 'Red Giants FC Sdn Bhd', "root['chrtitle']": 'President', "root['chairman']": 'Tengku Amir Shah', "root['mgrtitle']": 'Head coach', "root['manager']": 'B. Sathianathan', "root['league']": 'Malaysia Super League', "root['season']": '2019 Malaysia Super League', "root['position']": 'Malaysia Super League, 3rd of 12', "root['current']": '2020 Selangor FA season'}}
+67: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Red Giants'}}}
+69: {'values_changed': {"root['manager']": {'new_value': 'B. Sathianathan', 'old_value': 'Michael Feichtenbeiner ,  (caretaker)'}}}
+78: {'values_changed': {"root['owner']": {'new_value': 'Red Giants FC Sdn Bhd', 'old_value': 'Red Giants FC Sdn. Bhd.'}}}
+82: {'values_changed': {"root['owner']": {'new_value': 'Red Giants FC Sdn. Bhd.', 'old_value': 'Red Giants FC Sdn Bhd'}}}
+84: {'values_changed': {"root['owner']": {'new_value': 'Red Giants FC Sdn Bhd', 'old_value': 'Red Giants FC Sdn. Bhd.'}}}
+88: {'values_changed': {"root['clubname']": {'new_value': 'Red Giants', 'old_value': 'Selangor'}}}
+91: {'values_changed': {"root['owner']": {'new_value': 'Red Giants FC Sdn. Bhd.', 'old_value': 'Red Giants FC Sdn Bhd'}}}
+103: {'values_changed': {"root['manager']": {'new_value': 'Michael Feichtenbeiner ,  (caretaker)', 'old_value': 'Karsten Neitzel'}}}
+108: {'values_changed': {"root['season']": {'new_value': '2019 Malaysia Super League', 'old_value': '2020 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 3rd of 12', 'old_value': 'Malaysia Super League, 5th of 12'}, "root['current']": {'new_value': '2020 Selangor FA season', 'old_value': '2021 Selangor FA season'}}}
+131: {'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'Chairman'}}}
+164: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selangor F.C'}, "root['owner']": {'new_value': 'Red Giants FC Sdn Bhd', 'old_value': 'Red Giants F.C. Sdn. Bhd.'}, "root['current']": {'new_value': '2021 Selangor FA season', 'old_value': '2021 Selangor F.C. season'}}}
+165: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C', 'old_value': 'Selangor F.C.'}}}
+183: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium', 'old_value': 'Shah Alam Stadium (Under Renovation Until 2022)'}}}
+184: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium (Under Renovation Until 2022)', 'old_value': 'Shah Alam Stadium (under full renovation until 2022)'}}}
+185: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium (under full renovation until 2022)', 'old_value': 'Shah Alam Stadium (under full renovation, expected to be completed by 2022)'}}}
+209: {'values_changed': {"root['owner']": {'new_value': 'Red Giants F.C. Sdn. Bhd.', 'old_value': "'''Red Giants F.C. Sdn. Bhd.'''"}, "root['chairman']": {'new_value': 'Tengku Amir Shah', 'old_value': "'''Tengku Amir Shah'''"}}}
+228: {'dictionary_item_added': {"root['capacity']": '80,372'}, 'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium (under full renovation, expected to be completed by 2022)', 'old_value': 'Shah Alam Stadium   Petaling Jaya Stadium (temporary)'}, "root['owner']": {'new_value': "'''Red Giants F.C. Sdn. Bhd.'''", 'old_value': 'Red Giants F.C. Sdn. Bhd.'}, "root['chairman']": {'new_value': "'''Tengku Amir Shah'''", 'old_value': 'Tengku Amir Shah'}, "root['manager']": {'new_value': 'Karsten Neitzel', 'old_value': 'Tan Cheng Hoe'}, "root['season']": {'new_value': '2020 Malaysia Super League', 'old_value': '2022 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 5th of 12', 'old_value': "Malaysia Super League, 5th of 12 ,  Malaysia Cup (''first runner up'')"}, "root['current']": {'new_value': '2021 Selangor F.C. season', 'old_value': '2022 Selangor F.C. season'}}}
+236: {'values_changed': {"root['current']": {'new_value': '2022 Selangor F.C. season', 'old_value': '2023 Selangor F.C. season'}}}
+270: {'values_changed': {"root['chairman']": {'new_value': 'Tengku Amir Shah', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Tan Cheng Hoe', 'old_value': 'flagicon'}}}
+304: {'values_changed': {"root['season']": {'new_value': '2022 Malaysia Super League', 'old_value': '2023 Malaysia Super League'}, "root['position']": {'new_value': "Malaysia Super League, 5th of 12 ,  Malaysia Cup (''first runner up'')", 'old_value': "Malaysia Super League, 12th of 14 ,  2022 Malaysia Cup (''first runner up'')"}}}
+305: {'values_changed': {"root['position']": {'new_value': "Malaysia Super League, 12th of 14 ,  2022 Malaysia Cup (''first runner up'')", 'old_value': "2023 Malaysia Super League, 12th of 14 ,  2022 Malaysia Cup (''first runner up'')"}}}
+306: {'values_changed': {"root['position']": {'new_value': "2023 Malaysia Super League, 12th of 14 ,  2022 Malaysia Cup (''first runner up'')", 'old_value': "2023 Malaysia Super League, 12th of 14th ,  2022 Malaysia Cup (''first runner up'')"}}}
+307: {'values_changed': {"root['owner']": {'new_value': 'Red Giants F.C. Sdn. Bhd.', 'old_value': 'Red Giants FC Sdn. Bhd.'}, "root['chairman']": {'new_value': 'flagicon', 'old_value': 'Tengku Amir Shah'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Tan Cheng Hoe'}, "root['season']": {'new_value': '2023 Malaysia Super League', 'old_value': '2022 Malaysia Super League'}, "root['position']": {'new_value': "2023 Malaysia Super League, 12th of 14th ,  2022 Malaysia Cup (''first runner up'')", 'old_value': '2022 Malaysia Super League, 5th of 12'}}}
+325: {'values_changed': {"root['chairman']": {'new_value': 'Tengku Amir Shah', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Tan Cheng Hoe', 'old_value': 'flagicon'}}}
+327: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Tengku Amir Shah'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Tan Cheng Hoe'}}}
+362: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium   Petaling Jaya Stadium (temporary)', 'old_value': 'Shah Alam Stadium ,  (due to stadium renovation, temporarily moved to Petaling Jaya Stadium, since February 2020)'}}}
+393: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.', 'old_value': 'Selangor'}}}
+398: {'values_changed': {"root['position']": {'new_value': '2022 Malaysia Super League, 5th of 12', 'old_value': '2022 Malaysia Super League champion, 1th of 12'}}}
+402: {'values_changed': {"root['position']": {'new_value': '2022 Malaysia Super League champion, 1th of 12', 'old_value': 'Malaysia Super League, 5th of 12'}}}
+419: {'values_changed': {"root['season']": {'new_value': '2022 Malaysia Super League', 'old_value': '2023 Malaysia Super League'}}}
+420: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 5th of 12', 'old_value': 'Malaysia Super League, 5th of 14'}}}
+429: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 5th of 14', 'old_value': 'Malaysia Super League, 2nd of 14'}}}
+435: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 2nd of 14', 'old_value': 'Malaysia Super League, 1st of 14'}}}
+436: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 1st of 14', 'old_value': "Malaysia Super League, 1st of 14   ''(as of 5 March 2023)''"}}}
+437: {'values_changed': {"root['position']": {'new_value': "Malaysia Super League, 1st of 14   ''(as of 5 March 2023)''", 'old_value': "Malaysia Super League, 1st of 14   ''(As of 5 March 2023)''"}}}
+439: {'values_changed': {"root['position']": {'new_value': "Malaysia Super League, 1st of 14   ''(As of 5 March 2023)''", 'old_value': "Malaysia Super League, 3rd of 14   ''(As of 6 March 2023)''"}}}
+440: {'values_changed': {"root['position']": {'new_value': "Malaysia Super League, 3rd of 14   ''(As of 6 March 2023)''", 'old_value': 'Malaysia Super League, 5th of 14'}}}
+442: {'values_changed': {"root['season']": {'new_value': '2023 Malaysia Super League', 'old_value': '2022 Malaysia Super League'}}}
+443: {'values_changed': {"root['season']": {'new_value': '2022 Malaysia Super League', 'old_value': '2023 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 5th of 14', 'old_value': 'Malaysia Super League, 2nd of 14'}}}
+444: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 2nd of 14', 'old_value': 'Malaysia Super League, 2nd of 14   updated'}}}
+446: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 2nd of 14   updated', 'old_value': 'Malaysia Super League, 3rd of 14   updated'}}}
+447: {'values_changed': {"root['season']": {'new_value': '2023 Malaysia Super League', 'old_value': '2022 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 3rd of 14   updated', 'old_value': 'Malaysia Super League, 5th of 14'}}}
+450: {'values_changed': {"root['season']": {'new_value': '2022 Malaysia Super League', 'old_value': '2023 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 5th of 14', 'old_value': 'Malaysia Super League, 4th of 14 updated'}}}
+453: {'values_changed': {"root['season']": {'new_value': '2023 Malaysia Super League', 'old_value': '2022 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 4th of 14 updated', 'old_value': 'Malaysia Super League, 5th of 14'}}}
+457: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium ,  (due to stadium renovation, temporarily moved to Petaling Jaya Stadium, since February 2020)', 'old_value': 'Shah Alam Stadium , (due to stadium renovation, temporarily moved to Petaling Jaya Stadium, since February 2020)'}}}
+463: {'values_changed': {"root['ground']": {'new_value': 'Shah Alam Stadium , (due to stadium renovation, temporarily moved to Petaling Jaya Stadium, since February 2020)', 'old_value': 'Shah Alam Stadium ,  (due to stadium renovation, temporarily moved to Petaling Jaya Stadium, since February 2020)'}}}
+466: {'values_changed': {"root['season']": {'new_value': '2022 Malaysia Super League', 'old_value': '2023 Malaysia Super League'}, "root['position']": {'new_value': 'Malaysia Super League, 5th of 14', 'old_value': 'Malaysia Super League, 3rd of 14'}}}
+468: {'values_changed': {"root['position']": {'new_value': 'Malaysia Super League, 3rd of 14', 'old_value': 'Malaysia Super League, 2nd of 14'}}}
+497: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selenger'}}}
+498: {'values_changed': {"root['clubname']": {'new_value': 'Selenger', 'old_value': 'Selangor'}}}
+510: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selangor F.C.'}}}
+521: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.', 'old_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்'}}}
+523: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor'}}}
+524: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selangor F.C.   Kelab bOla Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்'}}}
+525: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab bOla Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்'}}}
+527: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor'}}}
+528: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部      சிலாங்கூர் கால்பந்து கிளப்'}}}
+529: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部      சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்'}}}
+533: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor'}}}
+540: {'values_changed': {"root['clubname']": {'new_value': 'Selangor', 'old_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்'}}}
+552: {'dictionary_item_removed': {"root['capacity']": '25,000'}}
+557: {'values_changed': {"root['clubname']": {'new_value': 'Selangor F.C.   Kelab Bola Sepak Selangor   كلب بولا سيڤق سلاڠور   雪兰莪足球俱乐部   சிலாங்கூர் கால்பந்து கிளப்', 'old_value': 'Selangor'}}}
+559: {'values_changed': {"root['chairman']": {'new_value': 'Tengku Amir Shah', 'old_value': 'Sheikh Jassim'}}}
+560: {'values_changed': {"root['chairman']": {'new_value': 'Sheikh Jassim', 'old_value': 'Tengku Amir Shah'}}}
+561: {'values_changed': {"root['manager']": {'new_value': 'Tan Cheng Hoe', 'old_value': 'Lionel Messi'}}}
+562: {'values_changed': {"root['manager']": {'new_value': 'Lionel Messi', 'old_value': 'Tan Cheng Hoe'}}}
+564: {'values_changed': {"root['manager']": {'new_value': 'Tan Cheng Hoe', 'old_value': 'Pep Guardiola'}}}
+565: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Tan Cheng Hoe'}}}

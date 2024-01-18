@@ -1,0 +1,17 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Ionikos', "root['ground']": 'Neapolis Public Stadium', "root['capacity']": '6,000', "root['chairman']": 'Thodoris Tsirigotis', "root['owntitle']": 'Owner', "root['owner']": 'Giannis Tsirigotis', "root['mgrtitle']": 'Manager', "root['manager']": 'Dimitrios Spanos', "root['league']": 'Super League Greece', "root['season']": '2020–21 Super League Greece 2', "root['position']": 'Super League Greece 2, 1st (promoted)', "root['current']": '2021–22 Ionikos F.C. season'}}
+25: {'values_changed': {"root['ground']": {'new_value': 'Neapolis Public Stadium', 'old_value': 'Neapoli_Stadium'}}}
+40: {'values_changed': {"root['season']": {'new_value': '2020–21 Super League Greece 2', 'old_value': '2021–22 Super League Greece'}, "root['position']": {'new_value': 'Super League Greece 2, 1st (promoted)', 'old_value': 'Super League Greece, 7th'}}}
+145: {'values_changed': {"root['current']": {'new_value': '2021–22 Ionikos F.C. season', 'old_value': '2022–23 Ionikos F.C. season'}}}
+163: {'values_changed': {"root['manager']": {'new_value': 'Dimitrios Spanos', 'old_value': 'Vacant'}}}
+164: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Dimitrios Spanos'}}}
+195: {'values_changed': {"root['manager']": {'new_value': 'Dimitrios Spanos', 'old_value': 'Vacant'}}}
+196: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Michalis Grigoriou'}}}
+226: {'values_changed': {"root['clubname']": {'new_value': 'Ionikos', 'old_value': 'Ionikos F.C.'}, "root['owner']": {'new_value': 'Giannis Tsirigotis', 'old_value': 'Ioannis Tsirigotis'}}}
+234: {'values_changed': {"root['clubname']": {'new_value': 'Ionikos F.C.', 'old_value': 'Ionikos'}}}
+237: {'values_changed': {"root['clubname']": {'new_value': 'Ionikos', 'old_value': 'Ionikos F.C.'}}}
+238: {'values_changed': {"root['clubname']": {'new_value': 'Ionikos F.C.', 'old_value': 'Ionikos'}}}
+261: {'values_changed': {"root['season']": {'new_value': '2021–22 Super League Greece', 'old_value': '2022–23 Super League Greece'}, "root['position']": {'new_value': 'Super League Greece, 7th', 'old_value': 'Super League Greece, 13th (relegated)'}}}
+262: {'values_changed': {"root['league']": {'new_value': 'Super League Greece', 'old_value': 'Super League Greece 2'}}}
+282: {'values_changed': {"root['chairman']": {'new_value': 'Thodoris Tsirigotis', 'old_value': 'flagicon'}, "root['owner']": {'new_value': 'Ioannis Tsirigotis', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Michalis Grigoriou', 'old_value': 'flagicon'}}}
+288: {'values_changed': {"root['capacity']": {'new_value': '6,000', 'old_value': '5,500'}}}
+298: {'dictionary_item_added': {"root['owntitle']": 'Owner', "root['mgrtitle']": 'Manager'}, 'values_changed': {"root['current']": {'new_value': '2022–23 Ionikos F.C. season', 'old_value': '2023–24 Ionikos F.C. season'}}}

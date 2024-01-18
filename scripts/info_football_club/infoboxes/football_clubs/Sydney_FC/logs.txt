@@ -1,0 +1,50 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Sydney FC', "root['ground']": 'Sydney Football Stadium', "root['capacity']": '45,500', "root['owner']": 'David Traktovenko', "root['chairman']": 'Scott Barlow', "root['mgrtitle']": 'Manager', "root['manager']": 'Frank Farina', "root['league']": 'A-League', "root['season']": '2012–13 A-League', "root['position']": 'A-League, 7th', "root['current']": '2013–14 Sydney FC season'}}
+85: {'values_changed': {"root['season']": {'new_value': '2012–13 A-League', 'old_value': '2013–14 A-League'}, "root['position']": {'new_value': 'A-League, 7th', 'old_value': 'A-League, 5th'}}}
+97: {'values_changed': {"root['manager']": {'new_value': 'Frank Farina', 'old_value': 'No current Manager'}}}
+100: {'values_changed': {"root['manager']": {'new_value': 'No current Manager', 'old_value': 'Miron Bleiberg'}}}
+101: {'values_changed': {"root['manager']": {'new_value': 'Miron Bleiberg', 'old_value': 'Vince Lombardi'}}}
+102: {'values_changed': {"root['manager']": {'new_value': 'Vince Lombardi', 'old_value': 'Paul Heyman'}}}
+103: {'values_changed': {"root['manager']": {'new_value': 'Paul Heyman', 'old_value': 'Not Frank Farina'}}}
+105: {'values_changed': {"root['manager']": {'new_value': 'Not Frank Farina', 'old_value': 'Paul Heyman'}}}
+106: {'values_changed': {"root['manager']": {'new_value': 'Paul Heyman', 'old_value': 'Tony Popovic'}}}
+107: {'values_changed': {"root['manager']": {'new_value': 'Tony Popovic', 'old_value': 'Vacant'}}}
+108: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Ratko Crnic'}}}
+109: {'values_changed': {"root['manager']": {'new_value': 'Ratko Crnic', 'old_value': 'Vacant'}}}
+124: {'values_changed': {"root['position']": {'new_value': 'A-League, 5th', 'old_value': 'A-League, 5th, doggy style'}}}
+125: {'values_changed': {"root['position']": {'new_value': 'A-League, 5th, doggy style', 'old_value': 'A-League, 5th'}}}
+129: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Graham Arnold'}}}
+135: {'values_changed': {"root['current']": {'new_value': '2013–14 Sydney FC season', 'old_value': '2014–15 Sydney FC season'}}}
+177: {'values_changed': {"root['ground']": {'new_value': 'Sydney Football Stadium', 'old_value': 'Allianz stadium'}}}
+178: {'values_changed': {"root['ground']": {'new_value': 'Allianz stadium', 'old_value': 'Sydney Football Stadium'}}}
+206: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head Coach'}}}
+251: {'values_changed': {"root['clubname']": {'new_value': 'Sydney FC', 'old_value': 'ISIS'}}}
+252: {'values_changed': {"root['clubname']": {'new_value': 'ISIS', 'old_value': 'Sydney FC'}}}
+262: {'values_changed': {"root['manager']": {'new_value': 'Graham Arnold', 'old_value': 'Dean Rassios'}}}
+263: {'values_changed': {"root['manager']": {'new_value': 'Dean Rassios', 'old_value': 'Graham Arnold'}}}
+285: {'values_changed': {"root['ground']": {'new_value': 'Sydney Football Stadium', 'old_value': 'Jubilee Oval, Leichhardt Oval'}, "root['capacity']": {'new_value': '45,500', 'old_value': '20,500, 22,000'}, "root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Graham Arnold', 'old_value': 'Steve Corica'}, "root['league']": {'new_value': 'A-League', 'old_value': 'Australian soccer updater'}, "root['season']": {'new_value': '2013–14 A-League', 'old_value': 'Australian soccer updater'}, "root['position']": {'new_value': 'A-League, 5th', 'old_value': 'Australian soccer updater'}, "root['current']": {'new_value': '2014–15 Sydney FC season', 'old_value': '2021–22 Sydney FC season'}}}
+305: {'dictionary_item_added': {"root['owner']": 'David Traktovenko'}, 'dictionary_item_removed': {"root['owners']": 'The Barlow Family'}}
+343: {'values_changed': {"root['capacity']": {'new_value': '20,500, 22,000', 'old_value': '20,500, 20,000'}}}
+350: {'values_changed': {"root['ground']": {'new_value': 'Jubilee Oval, Leichhardt Oval', 'old_value': 'Allianz Stadium'}, "root['capacity']": {'new_value': '20,500, 20,000', 'old_value': '45,500'}}}
+351: {'values_changed': {"root['ground']": {'new_value': 'Allianz Stadium', 'old_value': 'Sydney Football Stadium'}}}
+352: {'values_changed': {"root['ground']": {'new_value': 'Sydney Football Stadium', 'old_value': 'Sydney Football Stadium (2022)'}}}
+373: {'values_changed': {"root['manager']": {'new_value': 'Steve Corica', 'old_value': 'Anton Martin'}}}
+374: {'values_changed': {"root['manager']": {'new_value': 'Anton Martin', 'old_value': 'Steve Corica'}}}
+392: {'values_changed': {"root['current']": {'new_value': '2021–22 Sydney FC season', 'old_value': '2022–23 Sydney FC season'}}}
+415: {'values_changed': {"root['capacity']": {'new_value': '45,500', 'old_value': '42,500'}}}
+417: {'values_changed': {"root['capacity']": {'new_value': '42,500', 'old_value': '45,000'}}}
+428: {'values_changed': {"root['capacity']": {'new_value': '45,000', 'old_value': '42,500'}}}
+432: {'values_changed': {"root['owners']": {'new_value': 'The Barlow Family', 'old_value': 'Melbourne Victory'}}}
+433: {'values_changed': {"root['chairman']": {'new_value': 'Scott Barlow', 'old_value': 'Nicholas D’Agostino'}}}
+435: {'values_changed': {"root['owners']": {'new_value': 'Melbourne Victory', 'old_value': 'The Barlow Family'}, "root['chairman']": {'new_value': 'Nicholas D’Agostino', 'old_value': 'Scott Barlow'}}}
+459: {'values_changed': {"root['clubname']": {'new_value': 'Sydney FC', 'old_value': 'Sydney Rangers FC'}}}
+460: {'values_changed': {"root['clubname']": {'new_value': 'Sydney Rangers FC', 'old_value': 'Sydney FC'}}}
+461: {'values_changed': {"root['clubname']": {'new_value': 'Sydney FC', 'old_value': 'Sydney Rangers FC'}, "root['ground']": {'new_value': 'Sydney Football Stadium (2022)', 'old_value': 'Sydney Rangers Football Stadium (2022)'}, "root['owners']": {'new_value': 'The Barlow Family', 'old_value': 'The grand orange lodge Scotland'}, "root['chairman']": {'new_value': 'Scott Barlow', 'old_value': 'ABOD'}, "root['manager']": {'new_value': 'Steve Corica', 'old_value': 'KING WILLIAM III'}}}
+462: {'values_changed': {"root['clubname']": {'new_value': 'Sydney Rangers FC', 'old_value': 'Sydney FC'}, "root['ground']": {'new_value': 'Sydney Rangers Football Stadium (2022)', 'old_value': 'Sydney Football Stadium (2022)'}, "root['owners']": {'new_value': 'The grand orange lodge Scotland', 'old_value': 'The Barlow Family'}, "root['chairman']": {'new_value': 'ABOD', 'old_value': 'Scott Barlow'}, "root['manager']": {'new_value': 'KING WILLIAM III', 'old_value': 'Steve Corica'}}}
+519: {'values_changed': {"root['owners']": {'new_value': 'The Barlow Family', 'old_value': 'Kusini Yengi Amor Layouni'}}}
+520: {'dictionary_item_added': {"root['chairman']": 'Scott Barlow'}, 'dictionary_item_removed': {"root['owner']": 'Kusini Yengi'}}
+522: {'values_changed': {"root['owner']": {'new_value': 'Kusini Yengi', 'old_value': 'David Travchenko'}}}
+523: {'values_changed': {"root['owner']": {'new_value': 'David Travchenko', 'old_value': 'Kusini Yengi'}}}
+524: {'dictionary_item_added': {"root['owners']": 'Kusini Yengi Amor Layouni'}, 'values_changed': {"root['owner']": {'new_value': 'Kusini Yengi', 'old_value': 'David Travchenko'}}}
+528: {'values_changed': {"root['owner']": {'new_value': 'David Travchenko', 'old_value': 'David Traktovenko'}}}
+587: {'values_changed': {"root['current']": {'new_value': '2022–23 Sydney FC season', 'old_value': '2023–24 Sydney FC season'}}}
+604: {'dictionary_item_added': {"root['owner']": 'David Traktovenko'}, 'dictionary_item_removed': {"root['chairman']": 'Scott Barlow '}}

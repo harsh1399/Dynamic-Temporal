@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'NAC Breda', "root['ground']": 'Rat Verlegh Stadion  Breda, Netherlands', "root['capacity']": '19,000', "root['chairman']": 'Joost Gielen', "root['manager']": 'Edwin de Graaf', "root['league']": 'Eerste Divisie', "root['season']": '2020–21 Eerste Divisie', "root['position']": 'Eerste Divisie, 5th', "root['current']": '2019–20 NAC Breda season'}}
+14: {'dictionary_item_removed': {"root['owner']": 'City Football Group'}, 'values_changed': {"root['season']": {'new_value': '2020–21 Eerste Divisie', 'old_value': '2020–21 Eerste  Divisie'}}}
+15: {'values_changed': {"root['season']": {'new_value': '2020–21 Eerste  Divisie', 'old_value': '2020–21 Eerst Divisie'}}}
+16: {'values_changed': {"root['position']": {'new_value': 'Eerste Divisie, 5th', 'old_value': '5th'}}}
+18: {'dictionary_item_added': {"root['owner']": 'City Football Group'}, 'values_changed': {"root['season']": {'new_value': '2020–21 Eerst Divisie', 'old_value': '2020–21 Eerste Divisie'}}}
+23: {'dictionary_item_added': {"root['current']": '2019–20 NAC Breda season'}, 'values_changed': {"root['season']": {'new_value': '2020–21 Eerste Divisie', 'old_value': '2021–22 Eerste Divisie'}, "root['position']": {'new_value': '5th', 'old_value': 'Eerste Divisie, 8th of 20'}}}
+31: {'values_changed': {"root['manager']": {'new_value': 'Edwin de Graaf', 'old_value': 'Robert Molenaar'}}}
+37: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}
+40: {'dictionary_item_removed': {"root['owner']": 'City Football Group'}}
+48: {'values_changed': {"root['owner']": {'new_value': 'City Football Group', 'old_value': 'NAC'}}}
+55: {'values_changed': {"root['position']": {'new_value': 'Eerste Divisie, 8th of 20', 'old_value': 'Eerste Divisie, 8th of 20 ,  Promotion/relegation play-offs, First round'}}}
+58: {'values_changed': {"root['owner']": {'new_value': 'NAC', 'old_value': 'City Football Group'}}}
+59: {'values_changed': {"root['position']": {'new_value': 'Eerste Divisie, 8th of 20 ,  Promotion/relegation play-offs, First round', 'old_value': 'Eerste Divisie, 8th of 20'}}}
+60: {'dictionary_item_removed': {"root['current']": '2022–23 NAC Breda season'}}
+62: {'values_changed': {"root['owner']": {'new_value': 'City Football Group', 'old_value': 'NAC'}}}
+63: {'values_changed': {"root['owner']": {'new_value': 'NAC', 'old_value': 'City Football Group'}}}
+64: {'values_changed': {"root['owner']": {'new_value': 'City Football Group', 'old_value': 'NAC'}}}
+65: {'values_changed': {"root['owner']": {'new_value': 'NAC', 'old_value': 'City Football Group'}}}
+66: {'values_changed': {"root['owner']": {'new_value': 'City Football Group', 'old_value': 'NAC'}}}
+67: {'values_changed': {"root['chairman']": {'new_value': 'Joost Gielen', 'old_value': 'Edwin van Baal'}}}
+73: {'dictionary_item_added': {"root['chairman']": 'Edwin van Baal'}, 'values_changed': {"root['manager']": {'new_value': 'Robert Molenaar', 'old_value': 'vacant'}}}

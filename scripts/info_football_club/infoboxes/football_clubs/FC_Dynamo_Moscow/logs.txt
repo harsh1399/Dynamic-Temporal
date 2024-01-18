@@ -1,0 +1,11 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Dynamo Moscow', "root['ground']": 'VTB Arena, Moscow', "root['capacity']": '26,319', "root['owner']": 'VTB Bank (through "Dynamo Management Company")', "root['chairman']": 'Yury Belkin', "root['manager']": 'Sandro Schwarz', "root['league']": 'Russian Premier League', "root['season']": '2019–20 Russian Premier League', "root['current']": '2020–21 FC Dynamo Moscow season', "root['position']": 'Russian Premier League, 6th of 16'}}
+7: {'values_changed': {"root['chairman']": {'new_value': 'Yury Belkin', 'old_value': 'Yuri Soloviev (banker)'}}}
+40: {'values_changed': {"root['season']": {'new_value': '2019–20 Russian Premier League', 'old_value': '2020–21 Russian Premier League'}, "root['position']": {'new_value': 'Russian Premier League, 6th of 16', 'old_value': 'Russian Premier League, 7th of 16'}}}
+48: {'dictionary_item_removed': {"root['chrtitle']": 'President', "root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['chairman']": {'new_value': 'Yuri Soloviev (banker)', 'old_value': 'vacant'}}}
+73: {'values_changed': {"root['current']": {'new_value': '2020–21 FC Dynamo Moscow season', 'old_value': '2021–22 FC Dynamo Moscow season '}}}
+101: {'values_changed': {"root['chairman']": {'new_value': 'vacant', 'old_value': 'Pavel Pivovarov'}, "root['chrtitle']": {'new_value': 'President', 'old_value': 'General Director'}}}
+177: {'values_changed': {"root['owner']": {'new_value': 'VTB Bank (through "Dynamo Management Company")', 'old_value': 'Dynamo (sports society)'}}}
+201: {'values_changed': {"root['season']": {'new_value': '2020–21 Russian Premier League', 'old_value': '2021–22 Russian Premier League'}, "root['position']": {'new_value': 'Russian Premier League, 7th of 16', 'old_value': 'Russian Premier League, 3rd of 16'}}}
+204: {'values_changed': {"root['manager']": {'new_value': 'Sandro Schwarz', 'old_value': 'Vacant'}}}
+215: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Slaviša Jokanović'}}}
+287: {'values_changed': {"root['ground']": {'new_value': 'VTB Arena, Moscow', 'old_value': 'VTB Arena'}}}

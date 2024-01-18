@@ -1,0 +1,47 @@
+83: {'dictionary_item_removed': {"root['clubname']": 'FK Lietava', "root['ground']": 'Central stadium of Jonava', "root['capacity']": '1,008', "root['league']": 'A Lyga', "root['season']": '2016'}}
+84: {'values_changed': {"root['ground']": {'new_value': 'Central stadium of Jonava', 'old_value': 'Central Stadium of Jonava'}}}
+98: {'dictionary_item_removed': {"root['manager']": 'Robertas Poškus'}}
+111: {'dictionary_item_removed': {"root['position']": '1 Lyga, 1st'}, 'values_changed': {"root['season']": {'new_value': '2016', 'old_value': '2015 LFF I lyga'}}}
+122: {'values_changed': {"root['position']": {'new_value': '1 Lyga, 1st', 'old_value': 'A Lyga, 6xt'}}}
+123: {'values_changed': {"root['position']": {'new_value': 'A Lyga, 6xt', 'old_value': 'A Lyga, 6th'}}}
+127: {'values_changed': {"root['manager']": {'new_value': 'Robertas Poškus', 'old_value': 'Donatas Vencevičius'}}}
+138: {'values_changed': {"root['clubname']": {'new_value': 'FK Lietava', 'old_value': 'FK Jonava'}}}
+154: {'dictionary_item_removed': {"root['chairman']": 'Marijus Stankevičius'}}
+175: {'values_changed': {"root['chairman']": {'new_value': 'Marijus Stankevičius', 'old_value': 'Rita Bagdonienė  http://www.fkjonava.lt/naujiena/?id'}, "root['season']": {'new_value': '2015 LFF I lyga', 'old_value': '2016 LFF I lyga'}}}
+176: {'values_changed': {"root['season']": {'new_value': '2016 LFF I lyga', 'old_value': '2016 A Lyga'}}}
+177: {'dictionary_item_removed': {"root['current']": '2017 A Lyga'}, 'values_changed': {"root['position']": {'new_value': 'A Lyga, 6th', 'old_value': '6th'}}}
+197: {'values_changed': {"root['manager']": {'new_value': 'Donatas Vencevičius', 'old_value': '(vacanture)'}}}
+202: {'values_changed': {"root['manager']": {'new_value': '(vacanture)', 'old_value': 'Mindaugas Čepas'}}}
+210: {'values_changed': {"root['season']": {'new_value': '2016 A Lyga', 'old_value': '2017 A Lyga'}, "root['position']": {'new_value': '6th', 'old_value': '4th'}}}
+215: {'values_changed': {"root['manager']": {'new_value': 'Mindaugas Čepas', 'old_value': 'Darius Gvildys'}}}
+217: {'values_changed': {"root['manager']": {'new_value': 'Darius Gvildys', 'old_value': 'flag'}}}
+218: {'values_changed': {"root['manager']": {'new_value': 'flag', 'old_value': 'flagicon'}}}
+244: {'values_changed': {"root['chairman']": {'new_value': 'Rita Bagdonienė  http://www.fkjonava.lt/naujiena/?id', 'old_value': 'Rita Bagdonienė'}}}
+254: {'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Flagicon'}}}
+256: {'values_changed': {"root['chairman']": {'new_value': 'Rita Bagdonienė', 'old_value': 'Virginijus Bulotas'}}}
+257: {'values_changed': {"root['chairman']": {'new_value': 'Virginijus Bulotas', 'old_value': 'Virginijus Bulotas  http://fkjonava.lt/naujiena/?id'}}}
+258: {'values_changed': {"root['chairman']": {'new_value': 'Virginijus Bulotas  http://fkjonava.lt/naujiena/?id', 'old_value': 'Flagicon'}}}
+307: {'values_changed': {"root['current']": {'new_value': '2017 A Lyga', 'old_value': '2018 A Lyga'}}}
+310: {'values_changed': {"root['season']": {'new_value': '2017 A Lyga', 'old_value': '2018 A Lyga'}, "root['position']": {'new_value': '4th', 'old_value': "8th, ''A Lyga'' decrease"}}}
+318: {'values_changed': {"root['chairman']": {'new_value': 'Flagicon', 'old_value': 'Virginijus Bulotas'}, "root['manager']": {'new_value': 'Flagicon', 'old_value': 'Artūras Ramoška'}}}
+321: {'values_changed': {"root['chairman']": {'new_value': 'Virginijus Bulotas', 'old_value': 'flagicon'}}}
+322: {'values_changed': {"root['manager']": {'new_value': 'Artūras Ramoška', 'old_value': 'flagicon'}}}
+329: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Virginijus Bulotas'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Artūras Ramoška'}}}
+331: {'values_changed': {"root['league']": {'new_value': 'A Lyga', 'old_value': 'I Lyga'}, "root['position']": {'new_value': "8th, ''A Lyga'' decrease", 'old_value': "8th, ''A Lyga'' decrease (relegation)"}, "root['current']": {'new_value': '2018 A Lyga', 'old_value': '2019 I Lyga'}}}
+338: {'values_changed': {"root['manager']": {'new_value': 'Artūras Ramoška', 'old_value': 'Flagicon'}}}
+346: {'values_changed': {"root['manager']": {'new_value': 'Flagicon', 'old_value': 'Eisvinas Utyra'}}}
+349: {'values_changed': {"root['season']": {'new_value': '2018 A Lyga', 'old_value': '2019 A Lyga'}, "root['position']": {'new_value': "8th, ''A Lyga'' decrease (relegation)", 'old_value': "9th, ''I Lyga''"}}}
+356: {'values_changed': {"root['current']": {'new_value': '2019 I Lyga', 'old_value': '2020 I Lyga'}}}
+357: {'values_changed': {"root['current']": {'new_value': '2020 I Lyga', 'old_value': '2020 LFF I Lyga'}}}
+362: {'values_changed': {"root['season']": {'new_value': '2019 A Lyga', 'old_value': '2020 A Lyga'}, "root['position']": {'new_value': "9th, ''I Lyga''", 'old_value': "3rd, ''I Lyga''"}}}
+365: {'values_changed': {"root['manager']": {'new_value': 'Eisvinas Utyra', 'old_value': 'Dragan Djurdevic'}}}
+371: {'values_changed': {"root['season']": {'new_value': '2020 A Lyga', 'old_value': '2021'}, "root['position']": {'new_value': "3rd, ''I Lyga''", 'old_value': "2nd, ''I Lyga''"}, "root['current']": {'new_value': '2020 LFF I Lyga', 'old_value': '2021 LFF I Lyga'}}}
+380: {'values_changed': {"root['league']": {'new_value': 'I Lyga', 'old_value': 'A Lyga'}}}
+381: {'values_changed': {"root['current']": {'new_value': '2021 LFF I Lyga', 'old_value': '2022 A Lyga'}}}
+382: {'values_changed': {"root['chairman']": {'new_value': 'Virginijus Bulotas', 'old_value': 'Vaidas Vaškevičius'}, "root['manager']": {'new_value': 'Dragan Djurdevic', 'old_value': 'Eisvinas Utyra'}}}
+383: {'dictionary_item_removed': {"root['pattern_b']": '_whitecollar', "root['pattern_sh']": '_whitesides', "root['pattern_so']": '_whiteline', "root['leftarm']": '0048E0', "root['body']": '0048E0', "root['rightarm']": '0048E0', "root['shorts']": '55%'}, 'values_changed': {"root['position']": {'new_value': "2nd, ''I Lyga''", 'old_value': "2nd, ''I Lyga'' {promoted)"}}}
+398: {'values_changed': {"root['manager']": {'new_value': 'Eisvinas Utyra', 'old_value': 'Yevhen Lutsenko'}}}
+425: {'values_changed': {"root['manager']": {'new_value': 'Yevhen Lutsenko', 'old_value': 'Petro Kushlyk'}}}
+452: {'values_changed': {"root['league']": {'new_value': 'A Lyga', 'old_value': '1 Lyga'}, "root['season']": {'new_value': '2021', 'old_value': '2022'}, "root['position']": {'new_value': "2nd, ''I Lyga'' {promoted)", 'old_value': "10th, ''A Lyga'' {relegated)"}}}
+456: {'values_changed': {"root['chairman']": {'new_value': 'Vaidas Vaškevičius', 'old_value': 'Eisvinas Utyra'}}}
+464: {'values_changed': {"root['manager']": {'new_value': 'Petro Kushlyk', 'old_value': 'Rolandas Čepkauskas'}}}

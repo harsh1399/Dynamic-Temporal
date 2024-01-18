@@ -1,0 +1,10 @@
+963: {'dictionary_item_removed': {"root['clubname']": 'Gretna', "root['dissolved']": '2008', "root['ground']": 'Raydale Park, Gretna, Scotland', "root['capacity']": '3,000', "root['season']": 'Scottish Premier League 2007-08', "root['position']": 'Scottish Premier League, 12th (promotion and relegation'}}
+976: {'dictionary_item_removed': {"root['chairman']": 'LIQUIDATED', "root['manager']": 'LIQUIDATED', "root['league']": 'LIQUIDATED'}, 'values_changed': {"root['clubname']": {'new_value': 'Gretna', 'old_value': 'Gretna LIQUIDATED'}}}
+977: {'dictionary_item_added': {"root['chairman']": 'LIQUIDATED', "root['manager']": 'LIQUIDATED', "root['league']": 'LIQUIDATED'}, 'values_changed': {"root['clubname']": {'new_value': 'Gretna LIQUIDATED', 'old_value': 'Gretna'}}}
+978: {'dictionary_item_removed': {"root['league']": 'EFL League One'}, 'values_changed': {"root['season']": {'new_value': 'Scottish Premier League 2007-08', 'old_value': '2007–08 Scottish Premier League'}}}
+980: {'dictionary_item_added': {"root['dissolved']": '2008'}, 'dictionary_item_removed': {"root['manager']": 'Ronaldinho'}}
+981: {'dictionary_item_added': {"root['manager']": 'Ronaldinho', "root['league']": 'EFL League One'}, 'dictionary_item_removed': {"root['dissolved']": '2008'}}
+991: {'values_changed': {"root['ground']": {'new_value': 'Raydale Park, Gretna, Scotland', 'old_value': 'Raydale Park'}}}
+1056: {'values_changed': {"root['dissolved']": {'new_value': '2008', 'old_value': 'Start date and age'}}}
+1072: {'dictionary_item_removed': {"root['chairman']": 'Steven Hart', "root['manager']": 'Steven Hart', "root['league']": 'N/A'}}
+1075: {'dictionary_item_added': {"root['chairman']": 'Steven Hart', "root['league']": 'N/A'}, 'values_changed': {"root['manager']": {'new_value': 'Steven Hart', 'old_value': 'Andy Aitken & David Irons'}}}

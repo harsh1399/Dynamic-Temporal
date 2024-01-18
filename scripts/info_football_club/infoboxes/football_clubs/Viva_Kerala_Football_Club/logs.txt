@@ -1,0 +1,6 @@
+75: {'dictionary_item_removed': {"root['clubname']": 'Chirag United Kerala ,  ചിരാഗ് യുണൈടഡ് കേരള', "root['dissolved']": '2012', "root['ground']": 'Jawaharlal Nehru Stadium, Kochi', "root['capacity']": '75,000'}}
+81: {'values_changed': {"root['clubname']": {'new_value': 'Chirag United Kerala ,  ചിരാഗ് യുണൈടഡ് കേരള', 'old_value': 'Chirag United Kerala'}}}
+83: {'dictionary_item_added': {"root['dissolved']": '2012'}, 'values_changed': {"root['clubname']": {'new_value': 'Chirag United Kerala', 'old_value': 'Viva Kerala'}, "root['ground']": {'new_value': 'Jawaharlal Nehru Stadium, Kochi', 'old_value': 'EMS Corporation Stadium, Jawahar Municipal Stadium, Jawaharlal Nehru Stadium (Kochi)'}, "root['capacity']": {'new_value': '75,000', 'old_value': '80,000(EMS Stadium), 30,000(JM Stadium), 80,000(JLN Stadium)'}}}
+85: {'values_changed': {"root['capacity']": {'new_value': '80,000(EMS Stadium), 30,000(JM Stadium), 80,000(JLN Stadium)', 'old_value': '80,000 (EMS Stadium), 30,000 (JM Stadium), 80,000 (JLN Stadium)'}}}
+88: {'dictionary_item_removed': {"root['dissolved']": '2', "root['Dissolved']": '2012 '}}
+89: {'dictionary_item_added': {"root['Dissolved']": '2012 '}, 'values_changed': {"root['dissolved']": {'new_value': '2', 'old_value': '2012'}}}

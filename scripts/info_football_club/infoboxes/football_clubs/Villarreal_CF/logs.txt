@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Villarreal', "root['ground']": 'Estadio de la Cerámica', "root['capacity']": '23,500', "root['chrtitle']": 'President', "root['chairman']": 'Fernando Roig', "root['mgrtitle']": 'Head coach', "root['manager']": 'Unai Emery', "root['league']": 'La Liga', "root['season']": '2020–21 La Liga', "root['position']": 'La Liga, 7th of 20', "root['current']": '2021–22 Villarreal CF season'}}
+42: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Manager'}}}
+44: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head Coach'}}}
+102: {'values_changed': {"root['chairman']": {'new_value': 'Fernando Roig', 'old_value': 'Caydaruus'}}}
+104: {'values_changed': {"root['chairman']": {'new_value': 'Caydaruus', 'old_value': 'Fernando Roig'}}}
+122: {'values_changed': {"root['season']": {'new_value': '2020–21 La Liga', 'old_value': '2021–22 La Liga'}}}
+140: {'values_changed': {"root['position']": {'new_value': 'La Liga, 7th of 20', 'old_value': "La Liga, '''7th''' of 20"}, "root['current']": {'new_value': '2021–22 Villarreal CF season', 'old_value': '2022–23 Villarreal CF season'}}}
+142: {'values_changed': {"root['position']": {'new_value': "La Liga, '''7th''' of 20", 'old_value': 'La Liga, 7th of 20'}}}
+236: {'values_changed': {"root['ground']": {'new_value': 'Estadio de la Cerámica', 'old_value': 'Estadi Ciutat de València Temporary'}, "root['capacity']": {'new_value': '23,500', 'old_value': '26,354'}}}
+237: {'values_changed': {"root['ground']": {'new_value': 'Estadi Ciutat de València Temporary', 'old_value': 'Estadi Ciutat de València - Temporary'}}}
+238: {'values_changed': {"root['ground']": {'new_value': 'Estadi Ciutat de València - Temporary', 'old_value': 'Estadi Ciutat de València'}}}
+259: {'values_changed': {"root['manager']": {'new_value': 'Unai Emery', 'old_value': 'Formerly Unai Emery until 24/10/22'}}}
+265: {'values_changed': {"root['manager']": {'new_value': 'Formerly Unai Emery until 24/10/22', 'old_value': 'vacant'}}}
+267: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Quique Setien'}}}
+268: {'values_changed': {"root['manager']": {'new_value': 'Quique Setien', 'old_value': 'Quique Setién'}}}

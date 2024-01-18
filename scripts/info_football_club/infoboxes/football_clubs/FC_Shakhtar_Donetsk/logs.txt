@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Shakhtar Donetsk Football Club', "root['ground']": 'Donbass Arena', "root['capacity']": '52,187', "root['chairman']": 'Rinat Akhmetov', "root['manager']": 'Mircea Lucescu', "root['league']": 'Ukrainian Premier League', "root['season']": '2012–13 Ukrainian Premier League', "root['position']": '1st', "root['current']": '2013-14 FC Shakhtar Donetsk season'}}
+19: {'values_changed': {"root['clubname']": {'new_value': 'Shakhtar Donetsk Football Club', 'old_value': 'Shakhtar Donetsk'}}}
+33: {'values_changed': {"root['ground']": {'new_value': 'Donbass Arena', 'old_value': 'Donbass Arena, Donetsk'}}}
+63: {'values_changed': {"root['chairman']": {'new_value': 'Rinat Akhmetov', 'old_value': 'flagicon'}}}
+65: {'values_changed': {"root['manager']": {'new_value': 'Mircea Lucescu', 'old_value': 'flagicon'}}}
+95: {'values_changed': {"root['season']": {'new_value': '2012–13 Ukrainian Premier League', 'old_value': '2013–14 Ukrainian Premier League'}}}
+105: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Rinat Akhmetov'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Mircea Lucescu'}}}
+174: {'values_changed': {"root['current']": {'new_value': '2013-14 FC Shakhtar Donetsk season', 'old_value': '2014-15 FC Shakhtar Donetsk season'}}}
+185: {'values_changed': {"root['position']": {'new_value': '1st', 'old_value': 'Premier League, 1st'}, "root['current']": {'new_value': '2014-15 FC Shakhtar Donetsk season', 'old_value': '2014–15 FC Shakhtar Donetsk season'}}}
+242: {'values_changed': {"root['ground']": {'new_value': 'Donbass Arena, Donetsk', 'old_value': 'Donbass Arena, Donetsk (Currently playing at Bannikov Stadium due to safety concerns in Donbass)'}}}
+245: {'values_changed': {"root['ground']": {'new_value': 'Donbass Arena, Donetsk (Currently playing at Bannikov Stadium due to safety concerns in Donbass)', 'old_value': 'Donbass Arena, Donetsk (Currently playing at Arena Lviv due to safety concerns in Donbass)'}}}
+294: {'dictionary_item_removed': {"root['country']": 'Ukraine', "root['chrtitle']": 'Owner/, President', "root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['ground']": {'new_value': 'Donbass Arena, Donetsk (Currently playing at Arena Lviv due to safety concerns in Donbass)', 'old_value': 'Metalist Oblast Sports Complex'}, "root['capacity']": {'new_value': '52,187', 'old_value': '40,003'}, "root['manager']": {'new_value': 'Mircea Lucescu', 'old_value': 'Luís Castro (footballer, born 1961)'}, "root['season']": {'new_value': '2013–14 Ukrainian Premier League', 'old_value': '2018–19 Ukrainian Premier League'}, "root['position']": {'new_value': 'Premier League, 1st', 'old_value': 'Ukrainian Premier League, 1st (champions)'}, "root['current']": {'new_value': '2014–15 FC Shakhtar Donetsk season', 'old_value': '2019–20 FC Shakhtar Donetsk season'}}}
+355: {'values_changed': {"root['country']": {'new_value': 'Ukraine', 'old_value': 'UKR'}, "root['ground']": {'new_value': 'Metalist Oblast Sports Complex', 'old_value': 'Olimpiyskiy National Sports Complex'}, "root['capacity']": {'new_value': '40,003', 'old_value': '70,050'}}}
+356: {'values_changed': {"root['country']": {'new_value': 'UKR', 'old_value': 'Ukraine'}}}
+384: {'values_changed': {"root['season']": {'new_value': '2018–19 Ukrainian Premier League', 'old_value': '2019–20 Ukrainian Premier League'}}}
+388: {'values_changed': {"root['ground']": {'new_value': 'Olimpiyskiy National Sports Complex', 'old_value': 'Metalist Oblast Sports Complex'}, "root['capacity']": {'new_value': '70,050', 'old_value': '41,307'}}}
+407: {'dictionary_item_added': {"root['country']": 'Ukraine'}, 'values_changed': {"root['ground']": {'new_value': 'Metalist Oblast Sports Complex', 'old_value': 'Olimpiyskiy National Sports Complex'}, "root['capacity']": {'new_value': '41,307', 'old_value': '70,050'}}}
+432: {'values_changed': {"root['ground']": {'new_value': 'Olimpiyskiy National Sports Complex', 'old_value': 'RSC Olimpiyskiy, Donetsk'}}}
+439: {'values_changed': {"root['ground']": {'new_value': 'RSC Olimpiyskiy, Donetsk', 'old_value': 'RSC Olimpiyskiy, Donetsk,  (due to Russo-Ukrainian War'}}}
+447: {'values_changed': {"root['ground']": {'new_value': 'RSC Olimpiyskiy, Donetsk,  (due to Russo-Ukrainian War', 'old_value': 'Donbass Arena, Donetsk,  (due to Russo-Ukrainian War'}}}
+464: {'values_changed': {"root['current']": {'new_value': '2019–20 FC Shakhtar Donetsk season', 'old_value': '2020–21 FC Shakhtar Donetsk season'}}}
+514: {'values_changed': {"root['ground']": {'new_value': 'Donbass Arena, Donetsk,  (due to Russo-Ukrainian War', 'old_value': 'Donbass Arena, Donetsk,  (due to war in the Donbass region, temporarily moved to Olimpiyskiy National Sports Complex'}}}
+561: {'values_changed': {"root['ground']": {'new_value': 'Donbass Arena, Donetsk,  (due to war in the Donbass region, temporarily moved to Olimpiyskiy National Sports Complex', 'old_value': 'Donbass Arena, Donetsk,  (due to war in the Donbas region, temporarily moved to Olimpiyskiy National Sports Complex'}}}
+574: {'values_changed': {"root['season']": {'new_value': '2019–20 Ukrainian Premier League', 'old_value': '2020–21 Ukrainian Premier League'}, "root['position']": {'new_value': 'Ukrainian Premier League, 1st (champions)', 'old_value': 'Ukrainian Premier League, 2nd'}}}
+576: {'values_changed': {"root['manager']": {'new_value': 'Luís Castro (footballer, born 1961)', 'old_value': 'Vacant'}}}
+583: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Roberto De Zerbi'}}}
+586: {'values_changed': {"root['current']": {'new_value': '2020–21 FC Shakhtar Donetsk season', 'old_value': '2021–22 FC Shakhtar Donetsk season'}}}
+813: {'values_changed': {"root['season']": {'new_value': '2020–21 Ukrainian Premier League', 'old_value': '2021–22 Ukrainian Premier League'}, "root['position']": {'new_value': 'Ukrainian Premier League, 2nd', 'old_value': 'Ukrainian Premier League, 1st<ref name'}, "root['current']": {'new_value': '2021–22 FC Shakhtar Donetsk season', 'old_value': '2022–23 FC Shakhtar Donetsk season'}}}
+819: {'values_changed': {"root['current']": {'new_value': '2022–23 FC Shakhtar Donetsk season', 'old_value': '2021–22 FC Shakhtar Donetsk season'}}}
+841: {'values_changed': {"root['manager']": {'new_value': 'Roberto De Zerbi', 'old_value': 'Vacant'}}}
+844: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Bandiera'}}}
+845: {'values_changed': {"root['manager']": {'new_value': 'Bandiera', 'old_value': 'flagicon'}}}
+846: {'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'vacant'}}}
+848: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Igor Jovićević'}}}
+920: {'values_changed': {"root['current']": {'new_value': '2021–22 FC Shakhtar Donetsk season', 'old_value': '2022–23 FC Shakhtar Donetsk season'}}}
+972: {'values_changed': {"root['position']": {'new_value': 'Ukrainian Premier League, 1st<ref name', 'old_value': 'Ukrainian Premier League, 1st of 16<ref name'}}}

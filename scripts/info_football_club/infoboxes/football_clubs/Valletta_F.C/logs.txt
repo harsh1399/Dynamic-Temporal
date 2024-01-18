@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Valletta', "root['ground']": 'Centenary Stadium, Malta', "root['capacity']": '2,000', "root['chairman']": 'flagicon', "root['coach']": 'flagicon', "root['league']": 'Maltese Premier League', "root['season']": '2016–17 Maltese Premier League', "root['position']": 'Maltese Premier League, 4th'}}
+22: {'dictionary_item_added': {"root['clubname']": 'Valletta', "root['ground']": 'Centenary Stadium, Malta', "root['capacity']": '2,000'}, 'values_changed': {"root['season']": {'new_value': '2016–17 Maltese Premier League', 'old_value': '2017–18 Maltese Premier League'}, "root['position']": {'new_value': 'Maltese Premier League, 4th', 'old_value': 'Maltese Premier League, 1st'}}}
+72: {'dictionary_item_removed': {"root['clubname']": 'Valletta'}}
+86: {'dictionary_item_added': {"root['coach']": 'flagicon'}, 'dictionary_item_removed': {"root['manager']": 'flagicon'}, 'values_changed': {"root['season']": {'new_value': '2017–18 Maltese Premier League', 'old_value': '2018–19 Maltese Premier League'}}}
+114: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Victor Sciriha'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Giovanni Tedesco'}}}
+119: {'values_changed': {"root['season']": {'new_value': '2018–19 Maltese Premier League', 'old_value': '2019–20 Maltese Premier League'}, "root['position']": {'new_value': 'Maltese Premier League, 1st', 'old_value': 'Maltese Premier League, 2nd'}}}
+122: {'values_changed': {"root['manager']": {'new_value': 'Giovanni Tedesco', 'old_value': 'Jesmond Zerafa'}}}
+158: {'values_changed': {"root['manager']": {'new_value': 'Jesmond Zerafa', 'old_value': 'António José Cardoso Mendes'}}}
+159: {'values_changed': {"root['season']": {'new_value': '2019–20 Maltese Premier League', 'old_value': '2020–21 Maltese Premier League'}, "root['position']": {'new_value': 'Maltese Premier League, 2nd', 'old_value': 'Maltese Premier League, 7th'}}}
+162: {'values_changed': {"root['manager']": {'new_value': 'António José Cardoso Mendes', 'old_value': 'Danilo Dončić'}}}
+167: {'values_changed': {"root['chairman']": {'new_value': 'Victor Sciriha', 'old_value': 'Alexander Fenech'}}}
+170: {'values_changed': {"root['season']": {'new_value': '2020–21 Maltese Premier League', 'old_value': '2021–22 Maltese Premier League'}}}
+171: {'values_changed': {"root['clubname']": {'new_value': 'Valletta', 'old_value': 'Mandra FC'}}}
+172: {'values_changed': {"root['clubname']": {'new_value': 'Mandra FC', 'old_value': 'Valletta FC'}}}
+174: {'values_changed': {"root['manager']": {'new_value': 'Danilo Dončić', 'old_value': 'flagicon'}}}

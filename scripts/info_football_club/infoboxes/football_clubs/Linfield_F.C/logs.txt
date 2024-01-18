@@ -1,0 +1,41 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Linfield', "root['ground']": 'Windsor Park, Belfast', "root['capacity']": '18,614', "root['chairman']": 'Roy McGivern', "root['manager']": 'David Healy (footballer)', "root['league']": 'NIFL Premiership', "root['season']": '2020–21 NIFL Premiership', "root['position']": 'NIFL Premiership, 1st (champions)', "root['current']": '2021–22 NIFL Premiership'}}
+1: {'values_changed': {"root['chairman']": {'new_value': 'Roy McGivern', 'old_value': 'Logan Shaw'}}}
+3: {'values_changed': {"root['chairman']": {'new_value': 'Logan Shaw', 'old_value': 'Roy McGivern'}}}
+4: {'values_changed': {"root['clubname']": {'new_value': 'Linfield', 'old_value': 'Pretend Rangers'}}}
+7: {'values_changed': {"root['clubname']": {'new_value': 'Pretend Rangers', 'old_value': 'Linfield'}}}
+9: {'values_changed': {"root['capacity']": {'new_value': '18,614', 'old_value': '18,434'}}}
+26: {'values_changed': {"root['clubname']": {'new_value': 'Linfield', 'old_value': 'Bate our wife’s FC'}}}
+27: {'values_changed': {"root['clubname']": {'new_value': 'Bate our wife’s FC', 'old_value': 'Linfield'}}}
+42: {'values_changed': {"root['clubname']": {'new_value': 'Linfield', 'old_value': 'Linfield the scummy bastards'}}}
+43: {'values_changed': {"root['clubname']": {'new_value': 'Linfield the scummy bastards', 'old_value': 'Linfield'}}}
+46: {'values_changed': {"root['season']": {'new_value': '2020–21 NIFL Premiership', 'old_value': '2021–22 NIFL Premiership'}}}
+53: {'values_changed': {"root['clubname']": {'new_value': 'Linfield', 'old_value': 'Cliftonville are better'}, "root['manager']": {'new_value': 'David Healy (footballer)', 'old_value': 'David Healy wears paddy mclaughin pyjamas(footballer)'}}}
+54: {'values_changed': {"root['clubname']": {'new_value': 'Cliftonville are better', 'old_value': 'Linfield'}, "root['manager']": {'new_value': 'David Healy wears paddy mclaughin pyjamas(footballer)', 'old_value': 'David Healy (footballer)'}}}
+97: {'values_changed': {"root['capacity']": {'new_value': '18,434', 'old_value': '14,414'}}}
+98: {'values_changed': {"root['capacity']": {'new_value': '14,414', 'old_value': '18,434'}}}
+109: {'dictionary_item_added': {"root['chairman']": 'Roy McGivern'}, 'dictionary_item_removed': {"root['Owner']": 'Conor McMenamin'}}
+110: {'dictionary_item_added': {"root['Owner']": 'Conor McMenamin'}, 'dictionary_item_removed': {"root['owner']": 'Conor McMenamin'}}
+113: {'dictionary_item_added': {"root['owner']": 'Conor McMenamin'}, 'dictionary_item_removed': {"root['Owner']": 'Conor McMenamin'}}
+114: {'dictionary_item_added': {"root['Owner']": 'Conor McMenamin'}, 'dictionary_item_removed': {"root['chairman']": 'Roy McGivern'}}
+115: {'dictionary_item_added': {"root['capacity']": '18,434', "root['chairman']": 'Roy McGivern'}, 'dictionary_item_removed': {"root['attendance']": '2000-3000', "root['owner']": 'Conor Mcmenamin'}, 'values_changed': {"root['ground']": {'new_value': 'Windsor Park, Belfast', 'old_value': 'National Stadium, Belfast'}}}
+116: {'dictionary_item_added': {"root['attendance']": '2000-3000', "root['owner']": 'Conor Mcmenamin'}, 'dictionary_item_removed': {"root['capacity']": '18,434', "root['chairman']": 'Roy McGivern'}, 'values_changed': {"root['ground']": {'new_value': 'National Stadium, Belfast', 'old_value': 'Windsor Park, Belfast'}}}
+118: {'dictionary_item_added': {"root['chairman']": 'Roy McGivern', "root['manager']": 'David Healy (footballer)', "root['season']": '2021–22 NIFL Premiership', "root['position']": 'NIFL Premiership, 1st (champions)', "root['current']": '2021–22 NIFL Premiership'}, 'dictionary_item_removed': {"root['owner']": 'Conor McMenamin', "root['wingebag']": "David Healy (footballer)  they're all useless", "root['bgcolor']": '"#cd7f32"', "root['align']": 'Season !colspan', "root['rowspan']": '"2"', "root['colspan']": '"8"'}, 'values_changed': {"root['league']": {'new_value': 'NIFL Premiership', 'old_value': "NIFL Premiership  '''Linfield Football Club''' is a Northern Ireland"}}}
+119: {'dictionary_item_added': {"root['owner']": 'Conor McMenamin', "root['wingebag']": "David Healy (footballer)  they're all useless", "root['bgcolor']": '"#cd7f32"', "root['align']": 'Season !colspan', "root['rowspan']": '"2"', "root['colspan']": '"8"'}, 'dictionary_item_removed': {"root['chairman']": 'Roy McGivern', "root['manager']": 'David Healy (footballer)', "root['season']": '2021–22 NIFL Premiership', "root['position']": 'NIFL Premiership, 1st (champions)', "root['current']": '2021–22 NIFL Premiership'}, 'values_changed': {"root['league']": {'new_value': "NIFL Premiership  '''Linfield Football Club''' is a Northern Ireland", 'old_value': 'NIFL Premiership'}}}
+120: {'dictionary_item_added': {"root['capacity']": '18,434', "root['chairman']": 'Roy McGivern'}, 'dictionary_item_removed': {"root['attendance']": '2,500', "root['owner']": 'Jay Donnelly'}, 'values_changed': {"root['ground']": {'new_value': 'Windsor Park, Belfast', 'old_value': 'National Stadium, Belfast'}}}
+121: {'dictionary_item_added': {"root['attendance']": '2,500', "root['owner']": 'Jay Donnelly'}, 'dictionary_item_removed': {"root['capacity']": '18,434', "root['chairman']": 'Roy McGivern'}, 'values_changed': {"root['ground']": {'new_value': 'National Stadium, Belfast', 'old_value': 'Windsor Park, Belfast'}}}
+122: {'dictionary_item_removed': {"root['pattern_b6']": '_umbrovier1rw', "root['pattern_la6']": '_umbrovier1rw', "root['pattern_ra6']": '_umbrovier1rw', "root['leftarm6']": 'FFFFFF', "root['body6']": '0000FF', "root['rightarm6']": 'FFFFFF', "root['shorts6']": 'FFFFFF', "root['socks6']": 'FF0000'}}
+132: {'values_changed': {"root['current']": {'new_value': '2021–22 NIFL Premiership', 'old_value': '2022–23 NIFL Premiership'}}}
+162: {'dictionary_item_added': {"root['pattern_b6']": '_umbrovier1rw', "root['pattern_la6']": '_umbrovier1rw', "root['pattern_ra6']": '_umbrovier1rw', "root['leftarm6']": 'FFFFFF', "root['body6']": '0000FF', "root['rightarm6']": 'FFFFFF', "root['shorts6']": 'FFFFFF', "root['socks6']": 'FF0000'}, 'values_changed': {"root['clubname']": {'new_value': 'Linfield', 'old_value': 'Ulster Volunteers'}}}
+163: {'values_changed': {"root['clubname']": {'new_value': 'Ulster Volunteers', 'old_value': 'Linfield'}}}
+168: {'values_changed': {"root['ground']": {'new_value': 'Windsor Park, Belfast', 'old_value': 'Windsor Park'}}}
+175: {'values_changed': {"root['position']": {'new_value': 'NIFL Premiership, 1st (champions)', 'old_value': 'NIFL Premiership, 1st of 12 (champions)'}}}
+195: {'values_changed': {"root['manager']": {'new_value': 'David Healy (footballer)', 'old_value': 'Martin McGuinness (footballer)'}}}
+196: {'values_changed': {"root['manager']": {'new_value': 'Martin McGuinness (footballer)', 'old_value': 'David Healy (footballer)'}}}
+198: {'values_changed': {"root['manager']": {'new_value': 'David Healy (footballer)', 'old_value': 'Ian Baraclough (footballer)'}}}
+199: {'values_changed': {"root['manager']": {'new_value': 'Ian Baraclough (footballer)', 'old_value': 'David Healy (footballer)'}}}
+200: {'values_changed': {"root['current']": {'new_value': '2022–23 NIFL Premiership', 'old_value': '2022–23 Linfield F.C. season'}}}
+208: {'values_changed': {"root['chairman']": {'new_value': 'Roy McGivern', 'old_value': 'mick mcdermott'}}}
+209: {'values_changed': {"root['chairman']": {'new_value': 'mick mcdermott', 'old_value': 'Roy McGivern'}}}
+214: {'values_changed': {"root['ground']": {'new_value': 'Windsor Park', 'old_value': 'THE NATIONAL STADIUM'}, "root['chairman']": {'new_value': 'Roy McGivern', 'old_value': 'PARDIG MARSHALL'}, "root['manager']": {'new_value': 'David Healy (footballer)', 'old_value': 'MARTY MAGEE'}}}
+215: {'values_changed': {"root['ground']": {'new_value': 'THE NATIONAL STADIUM', 'old_value': 'Windsor Park'}, "root['chairman']": {'new_value': 'PARDIG MARSHALL', 'old_value': 'Roy McGivern'}, "root['manager']": {'new_value': 'MARTY MAGEE', 'old_value': 'David Healy (footballer)'}}}
+292: {'values_changed': {"root['season']": {'new_value': '2021–22 NIFL Premiership', 'old_value': '2022–23 NIFL Premiership'}, "root['position']": {'new_value': 'NIFL Premiership, 1st of 12 (champions)', 'old_value': 'NIFL Premiership, 2nd of 12'}, "root['current']": {'new_value': '2022–23 Linfield F.C. season', 'old_value': '2023–24 Linfield F.C. season'}}}

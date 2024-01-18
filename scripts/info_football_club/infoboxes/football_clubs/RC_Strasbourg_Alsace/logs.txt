@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'RC Strasbourg Alsace', "root['ground']": 'Stade de la Meinau', "root['capacity']": '26,280', "root['chairman']": 'Marc Keller', "root['chrtitle']": 'President', "root['mgrtitle']": 'Head coach', "root['manager']": 'Thierry Laurey', "root['league']": 'Ligue 1', "root['season']": '2019–20 Ligue 1', "root['position']": 'Ligue 1, 10th of 20', "root['current']": '2020–21 RC Strasbourg Alsace season '}}
+3: {'values_changed': {"root['clubname']": {'new_value': 'RC Strasbourg Alsace', 'old_value': 'Strasbourg'}}}
+21: {'values_changed': {"root['manager']": {'new_value': 'Thierry Laurey', 'old_value': "''Vacant''"}}}
+22: {'values_changed': {"root['season']": {'new_value': '2019–20 Ligue 1', 'old_value': '2020–21 Ligue 1'}, "root['position']": {'new_value': 'Ligue 1, 10th of 20', 'old_value': 'Ligue 1, 15th of 20'}}}
+24: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Julien Stéphan'}}}
+31: {'values_changed': {"root['current']": {'new_value': '2020–21 RC Strasbourg Alsace season ', 'old_value': '2021–22 RC Strasbourg Alsace season '}}}
+95: {'values_changed': {"root['league']": {'new_value': 'Ligue 1', 'old_value': 'French football updater'}, "root['season']": {'new_value': '2020–21 Ligue 1', 'old_value': 'French football updater'}, "root['position']": {'new_value': 'Ligue 1, 15th of 20', 'old_value': 'French football updater'}}}
+135: {'values_changed': {"root['current']": {'new_value': '2021–22 RC Strasbourg Alsace season ', 'old_value': '2022–23RC Strasbourg Alsace season '}}}
+136: {'values_changed': {"root['current']": {'new_value': '2022–23RC Strasbourg Alsace season ', 'old_value': '2022–23 RC Strasbourg Alsace season '}}}
+150: {'dictionary_item_removed': {"root['GK_nat']": 'FRA', "root['RB_nat']": 'FRA', "root['RCB_nat']": 'FRA', "root['LCB_nat']": 'FRA', "root['LB_nat']": 'FRA', "root['LCM_nat']": 'FRA', "root['RCM_nat']": 'FRA', "root['AM_nat']": 'FRA', "root['LW_nat']": 'FRA', "root['CF_nat']": 'FRA', "root['RW_nat']": 'FRA', "root['width']": '"10"', "root['align']": 'left | GK_nat'}, 'values_changed': {"root['current']": {'new_value': '2022–23 RC Strasbourg Alsace season ', 'old_value': "2022–23 RC Strasbourg Alsace season  '''Racing Club de Strasbourg Alsace''' (commonly known as '''RC Strasbourg''', '''Racing Straßburg, RCSA,''' '''RCS''', or simply '''Strasbourg'''; Alsatian language"}}}
+151: {'dictionary_item_added': {"root['GK_nat']": 'FRA', "root['RB_nat']": 'FRA', "root['RCB_nat']": 'FRA', "root['LCB_nat']": 'FRA', "root['LB_nat']": 'FRA', "root['LCM_nat']": 'FRA', "root['RCM_nat']": 'FRA', "root['AM_nat']": 'FRA', "root['LW_nat']": 'FRA', "root['CF_nat']": 'FRA', "root['RW_nat']": 'FRA', "root['width']": '"10"', "root['align']": 'left | GK_nat'}, 'values_changed': {"root['current']": {'new_value': "2022–23 RC Strasbourg Alsace season  '''Racing Club de Strasbourg Alsace''' (commonly known as '''RC Strasbourg''', '''Racing Straßburg, RCSA,''' '''RCS''', or simply '''Strasbourg'''; Alsatian language", 'old_value': '2022–23 RC Strasbourg Alsace season '}}}
+155: {'values_changed': {"root['manager']": {'new_value': 'Julien Stéphan', 'old_value': 'Vacant'}}}
+157: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Mathieu Le Scornet (caretaker)'}}}
+162: {'values_changed': {"root['manager']": {'new_value': 'Mathieu Le Scornet (caretaker)', 'old_value': 'Mathieu Le Scornet'}}}
+180: {'values_changed': {"root['manager']": {'new_value': 'Mathieu Le Scornet', 'old_value': 'Frédéric Antonetti'}}}
+196: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['capacity']": {'new_value': '26,280', 'old_value': '26,109'}}}
+199: {'values_changed': {"root['chairman']": {'new_value': 'Marc Keller', 'old_value': 'BlueCO'}}}
+200: {'dictionary_item_removed': {"root['owner']": 'Tod Boehly'}}
+201: {'values_changed': {"root['owner']": {'new_value': 'Tod Boehly', 'old_value': 'Todd Boehly'}}}
+202: {'dictionary_item_added': {"root['owner']": 'Todd Boehly'}, 'values_changed': {"root['chairman']": {'new_value': 'BlueCO', 'old_value': 'Todd Boehly'}}}
+203: {'values_changed': {"root['chairman']": {'new_value': 'Todd Boehly', 'old_value': 'YOUR__WORST__EXBOYFRIEND_'}}}
+204: {'values_changed': {"root['chairman']": {'new_value': 'YOUR__WORST__EXBOYFRIEND_', 'old_value': 'Todd Boehly'}}}
+205: {'values_changed': {"root['chairman']": {'new_value': 'Todd Boehly', 'old_value': 'Marc Keller'}}}
+206: {'dictionary_item_removed': {"root['owner']": 'Clearlake Capital'}}
+212: {'values_changed': {"root['current']": {'new_value': '2022–23 RC Strasbourg Alsace season ', 'old_value': '2023–24 RC Strasbourg Alsace season '}}}
+213: {'values_changed': {"root['manager']": {'new_value': 'Frédéric Antonetti', 'old_value': 'Vacant'}}}
+217: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Patrick Vieira'}}}
+220: {'values_changed': {"root['owner']": {'new_value': 'Clearlake Capital', 'old_value': 'Blues Partners Limited'}}}
+223: {'values_changed': {"root['chairman']": {'new_value': 'Marc Keller', 'old_value': 'Todd Boehly'}}}
+225: {'values_changed': {"root['chairman']": {'new_value': 'Todd Boehly', 'old_value': 'Marc Keller'}, "root['manager']": {'new_value': 'Patrick Vieira', 'old_value': 'Vacant'}}}
+227: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Patrick Vieira'}}}
+228: {'values_changed': {"root['owner']": {'new_value': 'Blues Partners Limited', 'old_value': 'BlueCo consortium'}}}
+230: {'values_changed': {"root['owner']": {'new_value': 'BlueCo consortium', 'old_value': 'BlueCo'}}}
+231: {'values_changed': {"root['manager']": {'new_value': 'Patrick Vieira', 'old_value': 'Vacant'}}}
+233: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Patrick Vieira'}}}
+244: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}}

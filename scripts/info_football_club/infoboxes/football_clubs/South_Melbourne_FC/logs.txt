@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'South Melbourne', "root['ground']": 'Lakeside Stadium', "root['capacity']": '15,000', "root['chairman']": 'Leo Athanasakis', "root['chrtitle']": 'President', "root['coach']": 'Chris Taylor', "root['owntitle']": 'Captain', "root['owner']": 'Micheal Eagar', "root['league']": 'National Premier Leagues Victoria', "root['season']": '2013', "root['position']": '1st', "root['current']": '2014 National Premier Leagues'}}
+40: {'values_changed': {"root['season']": {'new_value': '2013', 'old_value': '2014'}}}
+124: {'values_changed': {"root['season']": {'new_value': '2014', 'old_value': '2015'}, "root['position']": {'new_value': '1st', 'old_value': '1st (League), TBD (Finals)'}}}
+126: {'values_changed': {"root['position']": {'new_value': '1st (League), TBD (Finals)', 'old_value': '1st (League), Runner-up (Finals)'}}}
+136: {'values_changed': {"root['capacity']": {'new_value': '15,000', 'old_value': '10,000'}}}
+142: {'values_changed': {"root['owner']": {'new_value': 'Micheal Eagar', 'old_value': 'Michael Eagar'}}}
+186: {'values_changed': {"root['capacity']": {'new_value': '10,000', 'old_value': '12,000'}}}
+219: {'values_changed': {"root['owner']": {'new_value': 'Michael Eagar', 'old_value': 'Timmy from South Park'}}}
+220: {'values_changed': {"root['owner']": {'new_value': 'Timmy from South Park', 'old_value': 'Michael Eagar'}}}
+221: {'values_changed': {"root['owner']": {'new_value': 'Michael Eagar', 'old_value': 'Timmy Burch'}}}
+222: {'values_changed': {"root['owner']": {'new_value': 'Timmy Burch', 'old_value': 'Michael Eagar'}}}
+224: {'values_changed': {"root['coach']": {'new_value': 'Chris Taylor', 'old_value': 'Chris'}}}
+225: {'values_changed': {"root['coach']": {'new_value': 'Chris', 'old_value': 'Chris Taylor'}}}
+279: {'values_changed': {"root['season']": {'new_value': '2015', 'old_value': '2016'}, "root['position']": {'new_value': '1st (League), Runner-up (Finals)', 'old_value': 'Champions (Finals), 3rd (League)'}}}
+293: {'values_changed': {"root['capacity']": {'new_value': '12,000', 'old_value': '12,000   (5,338 seated)'}}}

@@ -1,0 +1,10 @@
+6: {'dictionary_item_removed': {"root['capacity']": '42,160   chairman'}}
+7: {'values_changed': {"root['capacity']": {'new_value': '42,160   chairman', 'old_value': '39,211   chairman'}}}
+8: {'values_changed': {"root['capacity']": {'new_value': '39,211   chairman', 'old_value': '39,211  | chairman'}}}
+9: {'values_changed': {"root['capacity']": {'new_value': '39,211  | chairman', 'old_value': '42,160  | chairman'}}}
+13: {'dictionary_item_removed': {"root['clubname']": 'Virtus Verona', "root['ground']": 'Stadio Gavagnin Nocini,', "root['chairman']": 'Luigi Fresco', "root['manager']": 'Luigi Fresco', "root['league']": 'Italian football updater', "root['season']": 'Italian football updater', "root['position']": 'Italian football updater'}, 'values_changed': {"root['capacity']": {'new_value': '42,160  | chairman', 'old_value': '1,200'}}}
+16: {'values_changed': {"root['manager']": {'new_value': 'Luigi Fresco', 'old_value': 'Beppe Gauci'}}}
+17: {'values_changed': {"root['manager']": {'new_value': 'Beppe Gauci', 'old_value': 'Dr Gauci'}}}
+30: {'values_changed': {"root['manager']": {'new_value': 'Dr Gauci', 'old_value': 'Dr. Gauci'}}}
+31: {'values_changed': {"root['chairman']": {'new_value': 'Luigi Fresco', 'old_value': 'nannuk'}}}
+34: {'values_changed': {"root['chairman']": {'new_value': 'nannuk', 'old_value': 'Luigi Fresco'}, "root['manager']": {'new_value': 'Dr. Gauci', 'old_value': 'Luigi Fresco'}}}

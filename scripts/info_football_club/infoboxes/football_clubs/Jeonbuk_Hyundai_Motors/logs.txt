@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Jeonbuk Hyundai Motors 전북 현대 모터스', "root['ground']": 'Jeonju World Cup Stadium', "root['capacity']": '42,477', "root['owner']": 'Hyundai Motor Company', "root['chairman']": 'Chung Eui-sun', "root['manager']": 'Kim Sang-sik', "root['league']": 'K League 1', "root['season']": '2021 K League 1', "root['position']": 'K League 1, 1st of 12 (champions)', "root['current']": '2020 Jeonbuk Hyundai Motors season'}}
+20: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai Motors 전북 현대 모터스', 'old_value': 'Jeonbuk Hyundai 전북 현대 모터스'}, "root['current']": {'new_value': '2020 Jeonbuk Hyundai Motors season', 'old_value': '2020 Jeonbuk Hyundai season'}}}
+21: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai 전북 현대 모터스', 'old_value': 'Jeonbuk Hyundai Motors 전북 현대 모터스'}, "root['current']": {'new_value': '2020 Jeonbuk Hyundai season', 'old_value': '2020 Jeonbuk Hyundai Motors season'}}}
+32: {'values_changed': {"root['current']": {'new_value': '2020 Jeonbuk Hyundai Motors season', 'old_value': '2022 Jeonbuk Hyundai Motors season'}}}
+63: {'values_changed': {"root['ground']": {'new_value': 'Jeonju World Cup Stadium', 'old_value': 'Jeonju World Cup Stadium Mascot'}}}
+70: {'values_changed': {"root['ground']": {'new_value': 'Jeonju World Cup Stadium Mascot', 'old_value': 'Jeonju World Cup Stadium'}, "root['position']": {'new_value': 'K League 1, 1st of 12 (champions)', 'old_value': '1st of 12 (champions)'}}}
+72: {'values_changed': {"root['season']": {'new_value': '2021 K League 1', 'old_value': '2022 K League 1'}, "root['position']": {'new_value': '1st of 12 (champions)', 'old_value': '2nd of 12 (runners-up)'}}}
+75: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai Motors 전북 현대 모터스', 'old_value': 'Jeonbuk Hyundai Motors FC 전북 현대 모터스 FC'}}}
+78: {'dictionary_item_added': {"root['current']": '2022 Jeonbuk Hyundai Motors season'}, 'values_changed': {"root['position']": {'new_value': '2nd of 12 (runners-up)', 'old_value': 'K League 1, 2nd of 12'}}}
+79: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai Motors FC 전북 현대 모터스 FC', 'old_value': 'Jeonbuk Hyundai Motors'}}}
+114: {'dictionary_item_removed': {"root['current']": '2023 Jeonbuk Hyundai Motors season'}}
+136: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai Motors', 'old_value': 'Jeonbuk Hyundai Motors FC'}}}
+137: {'values_changed': {"root['clubname']": {'new_value': 'Jeonbuk Hyundai Motors FC', 'old_value': 'Jeonbuk Hyundai Motors'}}}
+146: {'values_changed': {"root['manager']": {'new_value': 'Kim Sang-sik', 'old_value': 'Kim Do-Heon (caretaker)'}}}
+147: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-Heon (caretaker)', 'old_value': 'Kim Do-heon (interim)'}}}
+148: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-heon (interim)', 'old_value': 'Kim Sang-sik'}}}
+149: {'values_changed': {"root['manager']": {'new_value': 'Kim Sang-sik', 'old_value': 'Kim Do-heon (interim)'}}}
+153: {'values_changed': {"root['manager']": {'new_value': 'Kim Do-heon (interim)', 'old_value': 'Dan Petrescu'}}}

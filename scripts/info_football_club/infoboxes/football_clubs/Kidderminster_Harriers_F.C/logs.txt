@@ -1,0 +1,40 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Kidderminster Harriers', "root['current']": '2014–15 Kidderminster Harriers F.C. season', "root['ground']": 'Aggborough, Kidderminster', "root['capacity']": '6,250 (3,140 seated)', "root['chairman']": 'Ken Rae', "root['manager']": 'Gary Whild', "root['league']": 'Conference Premier', "root['season']": '2013–14 Football Conference', "root['position']": 'Conference Premier, 7th'}}
+31: {'values_changed': {"root['capacity']": {'new_value': '6,250 (3,140 seated)', 'old_value': '600,000 (3,140 seated)'}}}
+32: {'values_changed': {"root['capacity']": {'new_value': '600,000 (3,140 seated)', 'old_value': '6,250 (3,140 seated)'}}}
+51: {'values_changed': {"root['chairman']": {'new_value': 'Ken Rae', 'old_value': 'Rod Brown'}}}
+54: {'values_changed': {"root['season']": {'new_value': '2013–14 Football Conference', 'old_value': '2014–15 Football Conference'}, "root['position']": {'new_value': 'Conference Premier, 7th', 'old_value': 'Conference Premier, 16th'}}}
+97: {'values_changed': {"root['position']": {'new_value': 'Conference Premier, 16th', 'old_value': 'Conference Premier, 1st'}}}
+98: {'values_changed': {"root['manager']": {'new_value': 'Gary Whild', 'old_value': 'Harrison French'}}}
+99: {'values_changed': {"root['manager']": {'new_value': 'Harrison French', 'old_value': 'Gary Whild'}, "root['position']": {'new_value': 'Conference Premier, 1st', 'old_value': 'Conference Premier, 16th'}}}
+123: {'values_changed': {"root['league']": {'new_value': 'Conference Premier', 'old_value': 'National League (division)'}}}
+126: {'values_changed': {"root['manager']": {'new_value': 'Gary Whild', 'old_value': 'Tim Flowers'}}}
+128: {'values_changed': {"root['manager']": {'new_value': 'Tim Flowers', 'old_value': 'None Head Coach'}}}
+137: {'values_changed': {"root['manager']": {'new_value': 'None Head Coach', 'old_value': 'Unmanaged'}}}
+138: {'values_changed': {"root['ground']": {'new_value': 'Aggborough, Kidderminster', 'old_value': 'Aggborough'}}}
+145: {'values_changed': {"root['manager']": {'new_value': 'Unmanaged', 'old_value': 'Dave Hockaday'}}}
+167: {'values_changed': {"root['current']": {'new_value': '2014–15 Kidderminster Harriers F.C. season', 'old_value': '2015–16 Kidderminster Harriers F.C. season'}}}
+186: {'values_changed': {"root['manager']": {'new_value': 'Dave Hockaday', 'old_value': 'Vacant'}}}
+200: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Colin Gordon (footballer)'}}}
+220: {'values_changed': {"root['manager']": {'new_value': 'Colin Gordon (footballer)', 'old_value': 'John Eustace'}}}
+226: {'values_changed': {"root['manager']": {'new_value': 'John Eustace', 'old_value': 'Darren Armstrong'}}}
+227: {'values_changed': {"root['manager']": {'new_value': 'Darren Armstrong', 'old_value': 'Ronan McGrath'}}}
+228: {'values_changed': {"root['manager']": {'new_value': 'Ronan McGrath', 'old_value': 'Darren Armstrong'}}}
+229: {'dictionary_item_removed': {"root['Assistant']": 'Ronan McGrath'}}
+231: {'dictionary_item_added': {"root['Assistant']": 'Ronan McGrath'}, 'values_changed': {"root['manager']": {'new_value': 'Darren Armstrong', 'old_value': 'John Eustace'}}}
+236: {'values_changed': {"root['season']": {'new_value': '2014–15 Football Conference', 'old_value': '2015–16 National League'}, "root['position']": {'new_value': 'Conference Premier, 16th', 'old_value': 'National League, 23rd (Relegated)'}}}
+237: {'values_changed': {"root['season']": {'new_value': '2015–16 National League', 'old_value': '2015–16 National League#National League'}, "root['position']": {'new_value': 'National League, 23rd (Relegated)', 'old_value': 'National League, 23rd (relegated)'}}}
+238: {'values_changed': {"root['league']": {'new_value': 'National League (division)', 'old_value': 'National League North'}}}
+256: {'dictionary_item_added': {"root['current']": '2015–16 Kidderminster Harriers F.C. season'}, 'values_changed': {"root['capacity']": {'new_value': '6,250 (3,140 seated)', 'old_value': '6,250 (3,140 seated) http://www.footballgroundguide.com/conference/kidderminster_harriers.htm dead link'}}}
+261: {'dictionary_item_removed': {"root['current']": '2016–17 National League#National League North '}, 'values_changed': {"root['league']": {'new_value': 'National League North', 'old_value': 'English football updater'}, "root['season']": {'new_value': '2015–16 National League#National League', 'old_value': 'English football updater'}, "root['position']": {'new_value': 'National League, 23rd (relegated)', 'old_value': 'English football updater'}}}
+280: {'values_changed': {"root['chairman']": {'new_value': 'Rod Brown', 'old_value': 'Spud Mansell'}}}
+281: {'values_changed': {"root['capacity']": {'new_value': '6,250 (3,140 seated) http://www.footballgroundguide.com/conference/kidderminster_harriers.htm dead link', 'old_value': '6,444 (3,175 seated) http://www.footballgroundguide.com/conference/kidderminster_harriers.htm dead link'}, "root['chairman']": {'new_value': 'Spud Mansell', 'old_value': 'Colin Gordon'}}}
+282: {'values_changed': {"root['capacity']": {'new_value': '6,444 (3,175 seated) http://www.footballgroundguide.com/conference/kidderminster_harriers.htm dead link', 'old_value': '6,444 (3,175 seated)'}}}
+283: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'vanarama national league'}}}
+284: {'values_changed': {"root['league']": {'new_value': 'vanarama national league', 'old_value': 'vanarama national league north'}}}
+285: {'values_changed': {"root['league']": {'new_value': 'vanarama national league north', 'old_value': 'English football updater'}}}
+288: {'values_changed': {"root['chairman']": {'new_value': 'Colin Gordon', 'old_value': 'Colin Gordon (footballer)'}}}
+310: {'values_changed': {"root['manager']": {'new_value': 'John Eustace', 'old_value': 'Stig Alex Eddy'}}}
+311: {'values_changed': {"root['manager']": {'new_value': 'Stig Alex Eddy', 'old_value': 'John Eustace'}}}
+314: {'values_changed': {"root['capacity']": {'new_value': '6,444 (3,175 seated)', 'old_value': '6,444 (3,140 seated)'}}}
+359: {'dictionary_item_added': {"root['clubname']": 'Kidderminster Harriers'}, 'values_changed': {"root['capacity']": {'new_value': '6,444 (3,140 seated)', 'old_value': '644 (30 seated)'}}}
+360: {'dictionary_item_removed': {"root['clubname']": 'Kidderminster Harriers'}, 'values_changed': {"root['capacity']": {'new_value': '644 (30 seated)', 'old_value': '6,444 (3,140 seated)'}}}

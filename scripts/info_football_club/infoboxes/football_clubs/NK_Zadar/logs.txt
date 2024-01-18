@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Stadion Stanovi', "root['capacity']": '5,860', "root['season']": '2017–18', "root['clubname']": 'NK Zadar', "root['chairman']": 'Svetko Ćustić', "root['manager']": 'Krešimir Sunara', "root['league']": 'Croatian Second Football League', "root['position']": 'Croatian Third Football League'}}
+1: {'values_changed': {"root['manager']": {'new_value': 'Krešimir Sunara', 'old_value': 'Mislav Karoglan'}, "root['league']": {'new_value': 'Croatian Second Football League', 'old_value': 'Croatian Third Football League'}, "root['position']": {'new_value': 'Croatian Third Football League', 'old_value': 'Croatian Second Football League'}}}
+2: {'values_changed': {"root['season']": {'new_value': '2017–18', 'old_value': '2018–19 Croatian Second Football League'}}}
+6: {'values_changed': {"root['chairman']": {'new_value': 'Svetko Ćustić', 'old_value': 'Damir Knežević'}, "root['manager']": {'new_value': 'Mislav Karoglan', 'old_value': 'Vacant'}}}
+7: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Marko Pinčić'}}}
+18: {'values_changed': {"root['capacity']": {'new_value': '5,860', 'old_value': '5,500'}}}
+20: {'values_changed': {"root['capacity']": {'new_value': '5,500', 'old_value': '3,858'}}}
+22: {'values_changed': {"root['season']": {'new_value': '2018–19 Croatian Second Football League', 'old_value': '2019–20 Croatian Third Football League - South'}, "root['position']": {'new_value': 'Croatian Second Football League', 'old_value': 'Croatian Third Football League - South'}}}
+24: {'values_changed': {"root['chairman']": {'new_value': 'Damir Knežević', 'old_value': 'Antonio-Marin Kokić'}}}
+25: {'values_changed': {"root['chairman']": {'new_value': 'Antonio-Marin Kokić', 'old_value': 'Marin-Antonio Kokić'}}}
+26: {'values_changed': {"root['chairman']": {'new_value': 'Marin-Antonio Kokić', 'old_value': 'Marin Kokić'}}}
+27: {'dictionary_item_removed': {"root['dissolved']": "28.07.2020''"}}
+30: {'values_changed': {"root['dissolved']": {'new_value': "28.07.2020''", 'old_value': '2020'}}}
+31: {'dictionary_item_added': {"root['chairman']": 'Marin Kokić', "root['manager']": 'Marko Pinčić'}, 'values_changed': {"root['dissolved']": {'new_value': '2020', 'old_value': 'Start date and years ago'}}}
+34: {'dictionary_item_added': {"root['dissolved']": 'Start date and years ago', "root['position']": 'Croatian Third Football League - South'}, 'values_changed': {"root['clubname']": {'new_value': 'NK Zadar', 'old_value': 'HNK Zadar'}, "root['league']": {'new_value': 'Croatian Third Football League', 'old_value': 'Croatian First County League'}}}
+40: {'values_changed': {"root['capacity']": {'new_value': '3,858', 'old_value': '5,860'}}}
+41: {'dictionary_item_removed': {"root['position']": '11'}}
+45: {'dictionary_item_added': {"root['league']": 'Croatian First County League'}, 'dictionary_item_removed': {"root['dissolved']": 'Start date'}, 'values_changed': {"root['season']": {'new_value': '2019–20 Croatian Third Football League - South', 'old_value': '2019–20'}, "root['position']": {'new_value': '11', 'old_value': 'Croatian Third Football League'}}}
+51: {'values_changed': {"root['dissolved']": {'new_value': 'Start date', 'old_value': 'start date'}}}
+54: {'values_changed': {"root['clubname']": {'new_value': 'HNK Zadar', 'old_value': 'NK Zadar'}}}
+56: {'values_changed': {"root['dissolved']": {'new_value': 'start date', 'old_value': 'start date and age'}}}

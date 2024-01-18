@@ -1,0 +1,62 @@
+0: {'dictionary_item_removed': {"root['ground']": 'London Road Stadium', "root['capacity']": '15,314', "root['current']": '2021–22 Peterborough United F.C. season', "root['clubname']": 'Peterborough United', "root['chairman']": 'Darragh MacAnthony', "root['owntitle']": 'Owners', "root['owner']": 'Darragh MacAnthony (50%)', "root['work']": 'theposh.com', "root['manager']": 'Darren Ferguson', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater'}}
+13: {'values_changed': {"root['owner']": {'new_value': 'Darragh MacAnthony (50%)', 'old_value': 'Darragh MacAnthony flagicon'}}}
+43: {'values_changed': {"root['manager']": {'new_value': 'Darren Ferguson', 'old_value': 'vacant'}}}
+44: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Vacant'}}}
+48: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Matthew Etherington (caretaker)'}}}
+58: {'values_changed': {"root['manager']": {'new_value': 'Matthew Etherington (caretaker)', 'old_value': 'Grant McCann'}}}
+73: {'values_changed': {"root['owner']": {'new_value': 'Darragh MacAnthony flagicon', 'old_value': 'Darragh MacAnthony (50%)'}}}
+99: {'values_changed': {"root['current']": {'new_value': '2021–22 Peterborough United F.C. season', 'old_value': '2021–22 Chinborough United F.C. season'}}}
+100: {'values_changed': {"root['current']": {'new_value': '2021–22 Chinborough United F.C. season', 'old_value': '2021–22 Peterborough United F.C. season'}}}
+111: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'English League one'}}}
+112: {'values_changed': {"root['clubname']": {'new_value': 'Peterborough United', 'old_value': 'Peterborough #WeAreGoingDown United'}}}
+113: {'values_changed': {"root['capacity']": {'new_value': '15,314', 'old_value': '5,114'}}}
+115: {'values_changed': {"root['capacity']": {'new_value': '5,114', 'old_value': '15,314'}, "root['clubname']": {'new_value': 'Peterborough #WeAreGoingDown United', 'old_value': 'Peterborough United'}, "root['league']": {'new_value': 'English League one', 'old_value': 'English football updater'}}}
+116: {'values_changed': {"root['chairman']": {'new_value': 'Darragh MacAnthony', 'old_value': 'Ronald McDonald'}}}
+118: {'values_changed': {"root['capacity']": {'new_value': '15,314', 'old_value': '87,778'}}}
+120: {'values_changed': {"root['capacity']": {'new_value': '87,778', 'old_value': '15,314'}, "root['chairman']": {'new_value': 'Ronald McDonald', 'old_value': 'Darragh MacAnthony'}}}
+121: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'League One'}}}
+122: {'values_changed': {"root['league']": {'new_value': 'League One', 'old_value': 'English football updater'}}}
+123: {'dictionary_item_added': {"root['chairman']": 'Darragh MacAnthony', "root['owntitle']": 'Owners', "root['owner']": 'Darragh MacAnthony (50%)', "root['manager']": 'Grant McCann', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater'}, 'values_changed': {"root['work']": {'new_value': 'theposh.com', 'old_value': 'date'}}}
+124: {'dictionary_item_removed': {"root['chairman']": 'Darragh MacAnthony', "root['owntitle']": 'Owners', "root['owner']": 'Darragh MacAnthony (50%)', "root['manager']": 'Grant McCann', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater'}, 'values_changed': {"root['work']": {'new_value': 'date', 'old_value': 'theposh.com'}}}
+126: {'values_changed': {"root['capacity']": {'new_value': '15,314', 'old_value': '2'}}}
+128: {'values_changed': {"root['capacity']": {'new_value': '2', 'old_value': '15,314'}}}
+137: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'London Road Tip Stadium'}}}
+138: {'values_changed': {"root['ground']": {'new_value': 'London Road Tip Stadium', 'old_value': 'London Road Stadium'}}}
+140: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'London Road Tip.'}, "root['capacity']": {'new_value': '15,314', 'old_value': '5,314'}}}
+142: {'values_changed': {"root['ground']": {'new_value': 'London Road Tip.', 'old_value': 'London Road Stadium'}, "root['capacity']": {'new_value': '5,314', 'old_value': '15,314'}}}
+145: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'London Road Tip Stadium'}, "root['capacity']": {'new_value': '15,314', 'old_value': '5 webbed fingers'}}}
+146: {'values_changed': {"root['ground']": {'new_value': 'London Road Tip Stadium', 'old_value': 'London Road Stadium'}, "root['capacity']": {'new_value': '5 webbed fingers', 'old_value': '15,314'}}}
+212: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'Jobby Road Stadium'}}}
+213: {'values_changed': {"root['ground']": {'new_value': 'Jobby Road Stadium', 'old_value': 'Weston Homes Stadium'}}}
+217: {'values_changed': {"root['ground']": {'new_value': 'Weston Homes Stadium', 'old_value': 'London Road Stadium'}}}
+218: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'Weston Homes Stadium'}}}
+219: {'values_changed': {"root['ground']": {'new_value': 'Weston Homes Stadium', 'old_value': 'London Road Stadium'}}}
+220: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'Weston Homes Stadium'}}}
+221: {'values_changed': {"root['ground']": {'new_value': 'Weston Homes Stadium', 'old_value': 'London Road Stadium'}}}
+222: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'Weston Homes Stadium'}}}
+223: {'values_changed': {"root['ground']": {'new_value': 'Weston Homes Stadium', 'old_value': 'London Road'}}}
+224: {'values_changed': {"root['ground']": {'new_value': 'London Road', 'old_value': 'London Road Stadium'}, "root['clubname']": {'new_value': 'Peterborough United', 'old_value': 'Peterborough United F.C.'}}}
+233: {'values_changed': {"root['current']": {'new_value': '2021–22 Peterborough United F.C. season', 'old_value': '2022–23 Peterborough United F.C. season'}}}
+244: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'the not in London stadium'}}}
+245: {'values_changed': {"root['ground']": {'new_value': 'the not in London stadium', 'old_value': 'London Road Stadium'}}}
+246: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'stadium what stadium'}}}
+247: {'values_changed': {"root['ground']": {'new_value': 'stadium what stadium', 'old_value': 'London Road Stadium'}}}
+262: {'values_changed': {"root['clubname']": {'new_value': 'Peterborough United F.C.', 'old_value': 'Peterborough United'}}}
+303: {'values_changed': {"root['manager']": {'new_value': 'Grant McCann', 'old_value': 'Darren Ferguson'}}}
+328: {'values_changed': {"root['ground']": {'new_value': 'London Road Stadium', 'old_value': 'fergie Stadium'}, "root['capacity']": {'new_value': '15,314', 'old_value': 'whatever Fergie likes'}}}
+329: {'values_changed': {"root['ground']": {'new_value': 'fergie Stadium', 'old_value': 'London Road Stadium'}, "root['capacity']": {'new_value': 'whatever Fergie likes', 'old_value': '15,314'}}}
+330: {'dictionary_item_added': {"root['season']": 'English football updater'}, 'values_changed': {"root['clubname']": {'new_value': 'Peterborough United', 'old_value': 'Peterborough anit united'}, "root['manager']": {'new_value': 'Darren Ferguson', 'old_value': 'kenny jackett'}}}
+331: {'values_changed': {"root['manager']": {'new_value': 'kenny jackett', 'old_value': 'Darren Ferguson'}}}
+334: {'values_changed': {"root['clubname']": {'new_value': 'Peterborough anit united', 'old_value': 'Peterborough United F.C.'}}}
+346: {'values_changed': {"root['clubname']": {'new_value': 'Peterborough United F.C.', 'old_value': 'Peterborough United'}}}
+394: {'dictionary_item_removed': {"root['nicknames']": 'The Posh, The worst club in England'}}
+433: {'dictionary_item_added': {"root['nicknames']": 'The Posh, The worst club in England', "root['work']": 'theposh.com'}, 'values_changed': {"root['owntitle']": {'new_value': 'Owners', 'old_value': 'Owner'}, "root['owner']": {'new_value': 'Darragh MacAnthony (50%)', 'old_value': 'Sheffield Wednesday'}}}
+434: {'dictionary_item_removed': {"root['work']": 'theposh.com'}, 'values_changed': {"root['owntitle']": {'new_value': 'Owner', 'old_value': 'Owners'}, "root['owner']": {'new_value': 'Sheffield Wednesday', 'old_value': 'Darragh MacAnthony (50%)'}}}
+437: {'values_changed': {"root['manager']": {'new_value': 'Darren Ferguson', 'old_value': 'Micky Mouse & Donald Duck'}}}
+438: {'values_changed': {"root['manager']": {'new_value': 'Micky Mouse & Donald Duck', 'old_value': 'Darren Ferguson'}}}
+447: {'dictionary_item_added': {"root['work']": 'theposh.com'}, 'values_changed': {"root['owner']": {'new_value': 'Darragh MacAnthony (50%)', 'old_value': 'Sheffield Wednesday Football Club'}}}
+448: {'values_changed': {"root['owner']": {'new_value': 'Sheffield Wednesday Football Club', 'old_value': 'Darragh MacAnthony (50%) Kelgary Sports and Entertainment (50%)'}}}
+449: {'values_changed': {"root['owner']": {'new_value': 'Darragh MacAnthony (50%) Kelgary Sports and Entertainment (50%)', 'old_value': 'Darren Moore’s blue and white wizzards'}}}
+455: {'dictionary_item_added': {"root['owntitle']": 'Owners'}, 'values_changed': {"root['owner']": {'new_value': 'Darren Moore’s blue and white wizzards', 'old_value': 'Darragh MacAnthony (50%), Kelgary Sports and Entertainment (50%)'}}}
+476: {'values_changed': {"root['current']": {'new_value': '2022–23 Peterborough United F.C. season', 'old_value': '2022–23 P00 United F.C. season'}}}
+478: {'values_changed': {"root['current']": {'new_value': '2022–23 P00 United F.C. season', 'old_value': '2022–23 Peterborough United F.C. season'}}}

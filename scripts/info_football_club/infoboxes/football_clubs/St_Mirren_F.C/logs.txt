@@ -1,0 +1,58 @@
+0: {'dictionary_item_removed': {"root['current']": '2017–18 St Mirren F.C. season', "root['clubname']": 'St Mirren', "root['ground']": 'St Mirren Park, Paisley, Renfrewshire', "root['capacity']": 'SPFL-stadiums', "root['chairman']": 'Gordon Scott', "root['manager']": 'Jack Ross (footballer, born 1976)', "root['mgrtitle']": 'Manager', "root['captain']": 'Jack Ross', "root['league']": 'Scottish football updater', "root['season']": 'Scottish football updater', "root['position']": 'Scottish football updater'}}
+78: {'values_changed': {"root['league']": {'new_value': 'Scottish football updater', 'old_value': 'Scottish Premiership'}, "root['season']": {'new_value': 'Scottish football updater', 'old_value': '2017–18 Scottish Championship'}, "root['position']": {'new_value': 'Scottish football updater', 'old_value': 'Scottish Championship 1st (promoted)'}}}
+80: {'values_changed': {"root['league']": {'new_value': 'Scottish Premiership', 'old_value': 'Scottish football updater'}, "root['season']": {'new_value': '2017–18 Scottish Championship', 'old_value': 'Scottish football updater'}, "root['position']": {'new_value': 'Scottish Championship 1st (promoted)', 'old_value': 'Scottish football updater'}}}
+85: {'values_changed': {"root['current']": {'new_value': '2017–18 St Mirren F.C. season', 'old_value': '2018–19 St Mirren F.C. season'}}}
+90: {'values_changed': {"root['captain']": {'new_value': 'Jack Ross', 'old_value': 'Vacant'}}}
+91: {'dictionary_item_added': {"root['captain']": 'Vacant'}, 'values_changed': {"root['manager']": {'new_value': 'Jack Ross (footballer, born 1976)', 'old_value': 'Vacant'}}}
+94: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+104: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Alan Stubbs'}}}
+108: {'values_changed': {"root['ground']": {'new_value': 'St Mirren Park, Paisley, Renfrewshire', 'old_value': 'The Simple Digital Arena, Paisley, Renfrewshire'}}}
+112: {'values_changed': {"root['ground']": {'new_value': 'The Simple Digital Arena, Paisley, Renfrewshire', 'old_value': 'St Mirren Park, Paisley, Renfrewshire'}}}
+116: {'values_changed': {"root['current']": {'new_value': '2018–19 St Mirren F.C. season', 'old_value': '2018–19 St Midden F.C. season'}, "root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St Midden'}}}
+117: {'values_changed': {"root['current']": {'new_value': '2018–19 St Midden F.C. season', 'old_value': '2018–19 St Mirren F.C. season'}, "root['clubname']": {'new_value': 'St Midden', 'old_value': 'St Mirren'}}}
+180: {'type_changes': {"root['current']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['t Mirren F.C. season'], 'new_value': '2018–19 St Mirren F.C. season'}}}
+181: {'type_changes': {"root['current']": {'old_type': <class 'str'>, 'new_type': <class 'list'>, 'old_value': '2018–19 St Mirren F.C. season', 'new_value': ['t Mirren F.C. season']}}}
+190: {'values_changed': {"root['manager']": {'new_value': 'Alan Stubbs', 'old_value': 'Vacant'}}}
+191: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': "''Vacant''"}}}
+194: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': "''Not Alan Stubbs''"}}}
+195: {'values_changed': {"root['manager']": {'new_value': "''Not Alan Stubbs''", 'old_value': "''Vacant''"}}}
+196: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Oran Kearney'}}}
+234: {'values_changed': {"root['manager']": {'new_value': 'Oran Kearney', 'old_value': 'Harry Williams'}}}
+235: {'values_changed': {"root['manager']": {'new_value': 'Harry Williams', 'old_value': 'Oran Kearney'}}}
+243: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St Mirren of the paisley within the renfrewshire within the scotland'}}}
+244: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren of the paisley within the renfrewshire within the scotland', 'old_value': 'St Mirren'}}}
+247: {'values_changed': {"root['capacity']": {'new_value': 'SPFL-stadiums', 'old_value': '7,937'}}}
+251: {'values_changed': {"root['current']": {'new_value': '2018–19 St Mirren F.C. season', 'old_value': '2019–20 St Mirren F.C. season'}, "root['capacity']": {'new_value': '7,937', 'old_value': '7,937<ref name'}, "root['manager']": {'new_value': 'Oran Kearney', 'old_value': 'Jim Goodwin'}}}
+271: {'values_changed': {"root['chairman']": {'new_value': 'Gordon Scott', 'old_value': 'Craig Tara'}, "root['manager']": {'new_value': 'Jim Goodwin', 'old_value': 'Lewis Hunterdw'}}}
+272: {'values_changed': {"root['manager']": {'new_value': 'Lewis Hunterdw', 'old_value': 'Lewis Hunter'}}}
+273: {'values_changed': {"root['capacity']": {'new_value': '7,937<ref name', 'old_value': '45<ref name'}}}
+274: {'values_changed': {"root['manager']": {'new_value': 'Lewis Hunter', 'old_value': 'Josh the gimp Mcgennis'}}}
+275: {'values_changed': {"root['capacity']": {'new_value': '45<ref name', 'old_value': '7,937<ref name'}, "root['chairman']": {'new_value': 'Craig Tara', 'old_value': 'Gordon Scott'}, "root['manager']": {'new_value': 'Josh the gimp Mcgennis', 'old_value': 'Jim Goodwin'}}}
+291: {'dictionary_item_removed': {"root['stadium']": 'St Mirren Park (The Simple Digital Arena) '}, 'values_changed': {"root['season']": {'new_value': 'Scottish football updater', 'old_value': 'St Mirren'}}}
+292: {'dictionary_item_added': {"root['stadium']": 'St Mirren Park (The Simple Digital Arena) '}, 'values_changed': {"root['season']": {'new_value': 'St Mirren', 'old_value': 'Scottish football updater'}}}
+302: {'values_changed': {"root['current']": {'new_value': '2019–20 St Mirren F.C. season', 'old_value': '2020–21 St Mirren F.C. season'}}}
+307: {'values_changed': {"root['season']": {'new_value': 'Scottish football updater', 'old_value': 'St Mirren'}}}
+364: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'Adam Pollok FC'}, "root['ground']": {'new_value': 'St Mirren Park, Paisley, Renfrewshire', 'old_value': 'Pollok Stadium, Paisley, Renfrewshire'}, "root['capacity']": {'new_value': '7,937<ref name', 'old_value': '743,937<ref name'}, "root['season']": {'new_value': 'St Mirren', 'old_value': 'Adam Pollok FC'}}}
+365: {'values_changed': {"root['chairman']": {'new_value': 'Gordon Scott', 'old_value': 'Adam Pollok'}, "root['manager']": {'new_value': 'Jim Goodwin', 'old_value': 'Adam Pollok'}}}
+366: {'values_changed': {"root['ground']": {'new_value': 'Pollok Stadium, Paisley, Renfrewshire', 'old_value': 'Pollok Stadium, Pollokville'}}}
+369: {'values_changed': {"root['clubname']": {'new_value': 'Adam Pollok FC', 'old_value': 'St Mirren'}, "root['ground']": {'new_value': 'Pollok Stadium, Pollokville', 'old_value': 'St Mirren Park, Paisley, Renfrewshire'}, "root['capacity']": {'new_value': '743,937<ref name', 'old_value': '7,937<ref name'}, "root['chairman']": {'new_value': 'Adam Pollok', 'old_value': 'Gordon Scott'}, "root['manager']": {'new_value': 'Adam Pollok', 'old_value': 'Jim Goodwin'}, "root['season']": {'new_value': 'Adam Pollok FC', 'old_value': 'St Mirren'}}}
+389: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St. Mirren'}, "root['season']": {'new_value': 'St Mirren', 'old_value': 'St. Mirren'}}}
+390: {'values_changed': {"root['clubname']": {'new_value': 'St. Mirren', 'old_value': 'St Mirren'}, "root['season']": {'new_value': 'St. Mirren', 'old_value': 'St Mirren'}}}
+399: {'values_changed': {"root['chairman']": {'new_value': 'Gordon Scott', 'old_value': 'Craig Houston'}, "root['manager']": {'new_value': 'Jim Goodwin', 'old_value': 'Craig Houston'}}}
+400: {'values_changed': {"root['chairman']": {'new_value': 'Craig Houston', 'old_value': 'Gordon Scott'}, "root['manager']": {'new_value': 'Craig Houston', 'old_value': 'Jim Goodwin'}}}
+405: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St Tinpot'}, "root['season']": {'new_value': 'St Mirren', 'old_value': 'St Tinpot'}}}
+407: {'values_changed': {"root['clubname']": {'new_value': 'St Tinpot', 'old_value': 'St Mirren'}, "root['season']": {'new_value': 'St Tinpot', 'old_value': 'St Mirren'}}}
+410: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St Miren'}, "root['ground']": {'new_value': 'St Mirren Park, Paisley, Renfrewshire', 'old_value': 'St Miren Park, Paisley, Renfrewshire'}, "root['season']": {'new_value': 'St Mirren', 'old_value': 'St Miren'}}}
+411: {'values_changed': {"root['clubname']": {'new_value': 'St Miren', 'old_value': 'St Mirren'}, "root['ground']": {'new_value': 'St Miren Park, Paisley, Renfrewshire', 'old_value': 'St Mirren Park, Paisley, Renfrewshire'}, "root['season']": {'new_value': 'St Miren', 'old_value': 'St Mirren'}}}
+415: {'values_changed': {"root['current']": {'new_value': '2020–21 St Mirren F.C. season', 'old_value': '2022–23 St Mirren F.C. season'}, "root['chairman']": {'new_value': 'Gordon Scott', 'old_value': 'John Needham'}, "root['manager']": {'new_value': 'Jim Goodwin', 'old_value': 'Stephen Robinson (footballer)'}, "root['season']": {'new_value': 'St Mirren', 'old_value': 'Scottish football updater'}}}
+419: {'values_changed': {"root['capacity']": {'new_value': '7,937<ref name', 'old_value': '8,006<ref name'}}}
+420: {'values_changed': {"root['capacity']": {'new_value': '8,006<ref name', 'old_value': '7,937<ref name'}}}
+440: {'values_changed': {"root['chairman']": {'new_value': 'John Needham', 'old_value': 'Andrew Aitken'}, "root['manager']": {'new_value': 'Stephen Robinson (footballer)', 'old_value': 'Graham Aitken (footballer)'}}}
+443: {'values_changed': {"root['ground']": {'new_value': 'St Mirren Park, Paisley, Renfrewshire', 'old_value': 'St Mirren Park Andrew Aitken , Paisley, Renfrewshire'}}}
+444: {'values_changed': {"root['ground']": {'new_value': 'St Mirren Park Andrew Aitken , Paisley, Renfrewshire', 'old_value': 'St Mirren Park, Paisley, Renfrewshire'}}}
+447: {'dictionary_item_added': {"root['ground']": 'St Mirren Park, Paisley, Renfrewshire'}, 'values_changed': {"root['current']": {'new_value': '2022–23 St Mirren F.C. season', 'old_value': '2022–23 St Andrew Aitken'}}}
+448: {'dictionary_item_removed': {"root['ground']": 'St Mirren Park, Paisley, Renfrewshire'}, 'values_changed': {"root['current']": {'new_value': '2022–23 St Andrew Aitken', 'old_value': '2022–23 St Mirren F.C. season'}}}
+449: {'values_changed': {"root['chairman']": {'new_value': 'Andrew Aitken', 'old_value': 'John Needham'}, "root['manager']": {'new_value': 'Graham Aitken (footballer)', 'old_value': 'Stephen Robinson (footballer)'}}}
+458: {'values_changed': {"root['clubname']": {'new_value': 'St Mirren', 'old_value': 'St Andrew'}}}
+459: {'values_changed': {"root['clubname']": {'new_value': 'St Andrew', 'old_value': 'St Mirren'}}}
+469: {'values_changed': {"root['current']": {'new_value': '2022–23 St Mirren F.C. season', 'old_value': '2023–24 St Mirren F.C. season'}}}

@@ -1,0 +1,15 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Gaziantepspor', "root['dissolved']": '2020', "root['ground']": 'New Gaziantep Stadium', "root['capacity']": '35,219', "root['chrtitle']": 'President', "root['chairman']": 'İbrahim Halil Kızıl', "root['mgrtitle']": 'Manager', "root['manager']": 'Ender Alkan', "root['league']": 'Bölgesel Amateur League (fifth division)', "root['season']": 'Turkish football updater', "root['position']": 'Turkish football updater'}}
+6: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['league']": {'new_value': 'Bölgesel Amateur League (fifth division)', 'old_value': 'TFF 1 Lig (fifth division)'}}}
+9: {'dictionary_item_added': {"root['season']": 'Turkish football updater'}, 'values_changed': {"root['chairman']": {'new_value': 'İbrahim Halil Kızıl', 'old_value': 'Hasan şahin'}}}
+10: {'dictionary_item_removed': {"root['season']": '2019-20'}}
+11: {'values_changed': {"root['season']": {'new_value': '2019-20', 'old_value': '2019&ndash;20'}}}
+15: {'dictionary_item_added': {"root['mgrtitle']": 'Manager', "root['manager']": 'Ender Alkan', "root['league']": 'TFF 1 Lig (fifth division)', "root['season']": '2019&ndash;20', "root['position']": 'Turkish football updater'}, 'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['chairman']": {'new_value': 'Hasan şahin', 'old_value': 'Hasan şahin '}}}
+16: {'values_changed': {"root['dissolved']": {'new_value': '2020', 'old_value': '31 July 2020'}}}
+34: {'dictionary_item_added': {"root['ground']": 'New Gaziantep Stadium', "root['capacity']": '35,219', "root['chairman']": 'Hasan şahin '}, 'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'President '}}}
+35: {'dictionary_item_removed': {"root['stadium']": 'New Gaziantep Stadium '}, 'values_changed': {"root['dissolved']": {'new_value': '31 July 2020', 'old_value': 'Start date and age'}, "root['chrtitle']": {'new_value': 'President ', 'old_value': 'President'}}}
+36: {'values_changed': {"root['stadium']": {'new_value': 'New Gaziantep Stadium ', 'old_value': 'New Gaziantep Stadium (until 2017) '}}}
+37: {'dictionary_item_removed': {"root['colours']": 'Red & Black '}, 'values_changed': {"root['stadium']": {'new_value': 'New Gaziantep Stadium (until 2017) ', 'old_value': 'New Gaziantep Stadium (until 2017)'}}}
+38: {'values_changed': {"root['stadium']": {'new_value': 'New Gaziantep Stadium (until 2017)', 'old_value': 'New Gaziantep Stadium (from 2017)'}}}
+79: {'dictionary_item_added': {"root['stadium']": 'New Gaziantep Stadium (from 2017)'}, 'values_changed': {"root['dissolved']": {'new_value': 'Start date and age', 'old_value': '31 July 2020'}}}
+80: {'values_changed': {"root['dissolved']": {'new_value': '31 July 2020', 'old_value': '31 July 2020; 2 Months ago'}}}
+82: {'values_changed': {"root['dissolved']": {'new_value': '31 July 2020; 2 Months ago', 'old_value': '31 July 2020; 3 Months ago'}}}

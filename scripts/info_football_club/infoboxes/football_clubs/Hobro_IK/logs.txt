@@ -1,0 +1,10 @@
+12: {'dictionary_item_removed': {"root['clubname']": 'Hobro IK', "root['ground']": 'DS Arena', "root['capacity']": '10,700', "root['owner']": 'Hobro IK Aktieselskab', "root['chairman']": 'Lars Kühnel, Per Andersen', "root['chrtitle']": 'Chairmen', "root['manager']": 'Peter Sørensen (footballer)', "root['league']": 'Danish Superliga', "root['season']": '2018–19 Danish Superliga', "root['position']": 'Danish Superliga, 13th'}}
+13: {'values_changed': {"root['ground']": {'new_value': 'DS Arena', 'old_value': 'Hobro Stadium'}}}
+21: {'dictionary_item_removed': {"root['short3']": '000000'}}
+46: {'dictionary_item_added': {"root['short3']": '000000'}, 'values_changed': {"root['league']": {'new_value': 'Danish Superliga', 'old_value': 'Danish 1st Division'}, "root['season']": {'new_value': '2018–19 Danish Superliga', 'old_value': '2019–20 Danish Superliga'}, "root['position']": {'new_value': 'Danish Superliga, 13th', 'old_value': 'Danish Superliga'}}}
+52: {'values_changed': {"root['capacity']": {'new_value': '10,700', 'old_value': '7,500'}}}
+57: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['chrtitle']": {'new_value': 'Chairmen', 'old_value': 'Co-chairmen'}}}
+65: {'values_changed': {"root['manager']": {'new_value': 'Peter Sørensen (footballer)', 'old_value': "''Vacant''"}}}
+66: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Michael Kryger'}}}
+73: {'values_changed': {"root['season']": {'new_value': '2019–20 Danish Superliga', 'old_value': '2020–21 Danish 1st Division'}, "root['position']": {'new_value': 'Danish Superliga', 'old_value': 'Danish 1st Division'}}}
+74: {'values_changed': {"root['manager']": {'new_value': 'Michael Kryger', 'old_value': 'Martin Thomsen (footballer, born 1982)'}}}

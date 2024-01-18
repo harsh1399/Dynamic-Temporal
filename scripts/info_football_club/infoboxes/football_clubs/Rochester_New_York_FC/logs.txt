@@ -1,0 +1,37 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Rochester Rhinos', "root['ground']": "Sahlen's Stadium, Rochester, New York", "root['capacity']": '13,768', "root['chrtitle']": 'Owner', "root['chairman']": 'Rob Clark', "root['mgrtitle']": 'Head Coach', "root['manager']": 'Bob Lilley (soccer)', "root['league']": 'United Soccer League', "root['season']": '2015 USL Pro season', "root['position']": '1st, USL Regular Season, Playoffs: USL Champions', "root['American']": 'true', "root['current']": '2015 Rochester Rhinos season', "root['kit_alt1']": 'Vertical yellow stripes on a green jersey.', "root['kit_alt2']": 'Vertical white stripes on a black jersey.  '}}
+1: {'dictionary_item_added': {"root['chrtitle']": 'Owner', "root['chairman']": 'Rob Clark'}, 'dictionary_item_removed': {"root['owner']": 'United Soccer League'}}
+9: {'values_changed': {"root['owner']": {'new_value': 'United Soccer League', 'old_value': 'David and Wendy Dworkin http://www.democratandchronicle.com/story/sports/soccer/2016/01/15/city-agrees-lease-potential-new-rhinos-owner/78863514/?from'}}}
+33: {'dictionary_item_removed': {"root['kit_alt3']": 'Yellow jersey with green shorts  '}, 'values_changed': {"root['kit_alt1']": {'new_value': 'Vertical yellow stripes on a green jersey.', 'old_value': 'Black kit with white stripes'}, "root['kit_alt2']": {'new_value': 'Vertical white stripes on a black jersey.  ', 'old_value': 'All white kit'}}}
+43: {'values_changed': {"root['ground']": {'new_value': "Sahlen's Stadium, Rochester, New York", 'old_value': 'Rochester Rhinos Stadium, Rochester, New York'}}}
+44: {'values_changed': {"root['position']": {'new_value': '1st, USL Regular Season, Playoffs: USL Champions', 'old_value': 'USL Regular Season Champions, Playoffs: USL Champions'}}}
+46: {'values_changed': {"root['current']": {'new_value': '2015 Rochester Rhinos season', 'old_value': '2016 Rochester Rhinos season'}}}
+48: {'values_changed': {"root['ground']": {'new_value': 'Rochester Rhinos Stadium, Rochester, New York', 'old_value': "Sahlen's Stadium, Rochester, New York"}}}
+50: {'values_changed': {"root['ground']": {'new_value': "Sahlen's Stadium, Rochester, New York", 'old_value': 'Rochester Rhinos, Rochester, New York'}}}
+52: {'values_changed': {"root['ground']": {'new_value': 'Rochester Rhinos, Rochester, New York', 'old_value': 'Rochester Rhinos Stadium, Rochester, New York'}}}
+67: {'values_changed': {"root['season']": {'new_value': '2015 USL Pro season', 'old_value': '2016 USL season'}, "root['position']": {'new_value': 'USL Regular Season Champions, Playoffs: USL Champions', 'old_value': '4th, Eastern Conference, Playoffs: Conference Semifinals'}}}
+76: {'values_changed': {"root['ground']": {'new_value': 'Rochester Rhinos Stadium, Rochester, New York', 'old_value': 'Capelli Sport Stadium, Rochester, New York'}}}
+89: {'dictionary_item_added': {"root['kit_alt1']": 'Black kit with white stripes', "root['kit_alt2']": 'All white kit', "root['kit_alt3']": 'Yellow jersey with green shorts  '}, 'values_changed': {"root['owner']": {'new_value': 'David and Wendy Dworkin http://www.democratandchronicle.com/story/sports/soccer/2016/01/15/city-agrees-lease-potential-new-rhinos-owner/78863514/?from', 'old_value': 'David and Wendy Dworkin'}}}
+95: {'values_changed': {"root['ground']": {'new_value': 'Capelli Sport Stadium, Rochester, New York', 'old_value': 'Paetec Palace, Rochester, New York'}}}
+96: {'values_changed': {"root['ground']": {'new_value': 'Paetec Palace, Rochester, New York', 'old_value': 'Capelli Sport Stadium, Rochester, New York'}}}
+97: {'values_changed': {"root['owner']": {'new_value': 'David and Wendy Dworkin', 'old_value': 'Theo Irwin'}}}
+99: {'values_changed': {"root['owner']": {'new_value': 'Theo Irwin', 'old_value': 'David and Wendy Dworkin'}}}
+122: {'values_changed': {"root['current']": {'new_value': '2016 Rochester Rhinos season', 'old_value': '2017 Rochester Rhinos season'}}}
+136: {'values_changed': {"root['season']": {'new_value': '2016 USL season', 'old_value': '2017 USL season'}}}
+139: {'values_changed': {"root['manager']": {'new_value': 'Bob Lilley (soccer)', 'old_value': 'Bob the builder Lilley (soccer)'}}}
+140: {'values_changed': {"root['manager']": {'new_value': 'Bob the builder Lilley (soccer)', 'old_value': 'Bob Lilley (soccer)'}}}
+142: {'values_changed': {"root['manager']": {'new_value': 'Bob Lilley (soccer)', 'old_value': 'Vacant'}}}
+167: {'dictionary_item_added': {"root['ground']": 'Capelli Sport Stadium, Rochester, New York', "root['capacity']": '13,768', "root['season']": '2017 USL season', "root['position']": '4th, Eastern Conference, Playoffs: Conference Semifinals', "root['current']": '2017 Rochester Rhinos season'}, 'dictionary_item_removed': {"root['chrtitle']": 'President', "root['chairman']": 'Pat Ercoli '}, 'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}, "root['league']": {'new_value': 'United Soccer League', 'old_value': 'USL League One (2021)'}}}
+179: {'dictionary_item_added': {"root['league']": 'USL League One (2021)'}, 'values_changed': {"root['American']": {'new_value': 'true', 'old_value': 'Sky Sports'}}}
+186: {'dictionary_item_removed': {"root['stadium']": 'Marina Auto Stadium', "root['capacity']": '13,768'}}
+188: {'values_changed': {"root['stadium']": {'new_value': 'Marina Auto Stadium', 'old_value': 'Empire United Soccer Complex'}}}
+191: {'values_changed': {"root['clubname']": {'new_value': 'Rochester Rhinos', 'old_value': 'Rochester New York FC'}}}
+207: {'dictionary_item_added': {"root['manager']": 'Vacant'}, 'values_changed': {"root['clubname']": {'new_value': 'Rochester New York FC', 'old_value': 'Rochester New York Football Club'}}}
+209: {'dictionary_item_removed': {"root['league']": 'TBD'}}
+215: {'values_changed': {"root['league']": {'new_value': 'TBD', 'old_value': 'MLS Next Pro'}}}
+219: {'values_changed': {"root['clubname']": {'new_value': 'Rochester New York Football Club', 'old_value': 'Rochester New York FC'}}}
+221: {'values_changed': {"root['capacity']": {'new_value': '13,768', 'old_value': 'unknown'}}}
+223: {'dictionary_item_added': {"root['capacity']": 'unknown'}, 'dictionary_item_removed': {"root['manager']": 'Bruno Baltazar'}}
+229: {'dictionary_item_removed': {"root['capacity']": '1,500'}, 'values_changed': {"root['stadium']": {'new_value': 'Empire United Soccer Complex', 'old_value': 'John L. DiMarco Field'}}}
+264: {'dictionary_item_removed': {"root['current']": '2022 Rochester New York FC season'}}
+283: {'values_changed': {"root['chairman']": {'new_value': 'Pat Ercoli ', 'old_value': 'Pat Ercoli'}}}
+332: {'dictionary_item_removed': {"root['season']": '2022 MLS Next Pro season', "root['position']": '4th, Eastern Conference Playoffs: Conference Semifinals'}}

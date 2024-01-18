@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Cheltenham Town', "root['ground']": 'Whaddon Road', "root['capacity']": '7,066', "root['chairman']": 'Andy Wilcox', "root['manager']": 'Michael Duff (footballer)', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater', "root['current']": '2020–21 Cheltenham Town F.C. season'}}
+8: {'values_changed': {"root['ground']": {'new_value': 'Whaddon Road', 'old_value': 'Jonny-Rocks Stadium'}}}
+19: {'values_changed': {"root['ground']": {'new_value': 'Jonny-Rocks Stadium', 'old_value': 'Whaddon Road'}}}
+49: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'league 1'}}}
+50: {'dictionary_item_added': {"root['ground']": 'Whaddon Road'}, 'values_changed': {"root['clubname']": {'new_value': 'Cheltenham Town', 'old_value': 'Champions of league 2 Cheltenham Town'}}}
+51: {'dictionary_item_removed': {"root['ground']": 'Whaddon Road'}, 'values_changed': {"root['clubname']": {'new_value': 'Champions of league 2 Cheltenham Town', 'old_value': 'Cheltenham Town'}}}
+52: {'values_changed': {"root['league']": {'new_value': 'league 1', 'old_value': 'English football updater'}}}
+70: {'values_changed': {"root['league']": {'new_value': 'English football updater', 'old_value': 'League 1'}}}
+71: {'values_changed': {"root['league']": {'new_value': 'League 1', 'old_value': 'English football updater'}}}
+125: {'values_changed': {"root['current']": {'new_value': '2020–21 Cheltenham Town F.C. season', 'old_value': '2021-22 Cheltenham Town F.C. season'}}}
+129: {'values_changed': {"root['chairman']": {'new_value': 'Andy Wilcox', 'old_value': 'Vacant'}}}
+180: {'values_changed': {"root['current']": {'new_value': '2021-22 Cheltenham Town F.C. season', 'old_value': '2021–22 Cheltenham Town F.C. season'}}}
+193: {'values_changed': {"root['chairman']": {'new_value': 'Vacant', 'old_value': 'David Bloxham'}}}
+214: {'values_changed': {"root['capacity']": {'new_value': '7,066', 'old_value': '70,066'}}}
+215: {'values_changed': {"root['capacity']": {'new_value': '70,066', 'old_value': '7,066'}}}
+227: {'values_changed': {"root['clubname']": {'new_value': 'Cheltenham Town', 'old_value': 'League 2 Champions'}, "root['manager']": {'new_value': 'Michael Duff (footballer)', 'old_value': 'Lord Michael Of the Duff (footballer)'}}}
+228: {'values_changed': {"root['clubname']": {'new_value': 'League 2 Champions', 'old_value': 'Cheltenham Town'}, "root['manager']": {'new_value': 'Lord Michael Of the Duff (footballer)', 'old_value': 'Michael Duff (footballer)'}}}
+253: {'values_changed': {"root['manager']": {'new_value': 'Michael Duff (footballer)', 'old_value': 'Wade Elliott'}, "root['current']": {'new_value': '2021–22 Cheltenham Town F.C. season', 'old_value': '2022–23 Cheltenham Town F.C. season'}}}
+290: {'values_changed': {"root['manager']": {'new_value': 'Wade Elliott', 'old_value': 'We Expect To Get Slapped'}}}
+291: {'values_changed': {"root['manager']": {'new_value': 'We Expect To Get Slapped', 'old_value': 'Wade Elliott'}}}
+358: {'values_changed': {"root['current']": {'new_value': '2022–23 Cheltenham Town F.C. season', 'old_value': '2023–24 Cheltenham Town F.C. season'}}}

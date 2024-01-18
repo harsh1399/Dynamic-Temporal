@@ -1,0 +1,58 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Macclesfield Town', "root['ground']": 'Moss Rose', "root['capacity']": '5,911 (2,375 seated)', "root['mgrtitle']": 'Head coach', "root['manager']": 'Vacant', "root['current']": '2019–20 Macclesfield Town F.C. season', "root['league']": 'English football updater', "root['season']": 'English football updater', "root['position']": 'English football updater'}}
+4: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Caretaker Manager'}, "root['manager']": {'new_value': 'Vacant', 'old_value': 'Danny Whitaker'}}}
+6: {'values_changed': {"root['mgrtitle']": {'new_value': 'Caretaker Manager', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Danny Whitaker', 'old_value': 'Vacant'}}}
+11: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Caretaker Manager'}, "root['manager']": {'new_value': 'Vacant', 'old_value': 'Danny Whitaker'}}}
+26: {'values_changed': {"root['mgrtitle']": {'new_value': 'Caretaker Manager', 'old_value': 'Head Coach'}, "root['manager']": {'new_value': 'Danny Whitaker', 'old_value': 'Mark Kennedy'}}}
+29: {'values_changed': {"root['manager']": {'new_value': 'Mark Kennedy', 'old_value': 'Mark Kennedy (footballer, born 1976)'}}}
+81: {'values_changed': {"root['manager']": {'new_value': 'Mark Kennedy (footballer, born 1976)', 'old_value': 'Sir Barf'}}}
+82: {'values_changed': {"root['manager']": {'new_value': 'Sir Barf', 'old_value': 'Mark Kennedy (footballer, born 1976)'}}}
+87: {'dictionary_item_removed': {"root['chairman']": 'Mark Blower'}}
+171: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Manager'}, "root['manager']": {'new_value': 'Mark Kennedy (footballer, born 1976)', 'old_value': 'Tim Flowers'}}}
+183: {'values_changed': {"root['current']": {'new_value': '2019–20 Macclesfield Town F.C. season', 'old_value': '2020–21 Macclesfield Town F.C. season'}}}
+208: {'dictionary_item_added': {"root['current']": '2020–21 Macclesfield Town F.C. season'}, 'dictionary_item_removed': {"root['bust']": '16th September 2020'}}
+211: {'dictionary_item_added': {"root['bust']": '16th September 2020'}, 'dictionary_item_removed': {"root['folded']": '16th September 2020'}}
+213: {'values_changed': {"root['folded']": {'new_value': '16th September 2020', 'old_value': '16 September 2020'}}}
+215: {'dictionary_item_added': {"root['folded']": '16 September 2020'}, 'dictionary_item_removed': {"root['dissolved']": '16 September 2020'}}
+223: {'dictionary_item_added': {"root['league']": 'English football updater'}, 'values_changed': {"root['dissolved']": {'new_value': '16 September 2020', 'old_value': '2020'}}}
+242: {'dictionary_item_added': {"root['mgrtitle']": 'Manager', "root['manager']": 'Tim Flowers'}, 'values_changed': {"root['dissolved']": {'new_value': '2020', 'old_value': '2020 (pending)'}}}
+243: {'values_changed': {"root['dissolved']": {'new_value': '2020 (pending)', 'old_value': '2020'}}}
+254: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town', 'old_value': 'the best team in football'}, "root['chairman']": {'new_value': 'Mark Blower', 'old_value': 'Harvey Weinstein'}}}
+255: {'values_changed': {"root['clubname']": {'new_value': 'the best team in football', 'old_value': 'Macclesfield Town'}, "root['chairman']": {'new_value': 'Harvey Weinstein', 'old_value': 'Mark Blower'}}}
+267: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'dictionary_item_removed': {"root['manager']": 'Bill Dove', "root['league']": 'League Two'}, 'values_changed': {"root['ground']": {'new_value': 'Moss Rose', 'old_value': 'The Crusty Glove Arena'}, "root['capacity']": {'new_value': '5,911 (2,375 seated)', 'old_value': '54,000 (52,000 seated)'}, "root['chairman']": {'new_value': 'Mark Blower', 'old_value': 'Bill Dove'}}}
+268: {'dictionary_item_added': {"root['manager']": 'Bill Dove', "root['league']": 'League Two'}, 'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['ground']": {'new_value': 'The Crusty Glove Arena', 'old_value': 'Moss Rose'}, "root['capacity']": {'new_value': '54,000 (52,000 seated)', 'old_value': '5,911 (2,375 seated)'}, "root['chairman']": {'new_value': 'Bill Dove', 'old_value': 'Mark Blower'}}}
+281: {'dictionary_item_removed': {"root['manager']": 'The bank'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town', 'old_value': 'Macclesfield rubbish town'}, "root['capacity']": {'new_value': '5,911 (2,375 seated)', 'old_value': 'Zero'}}}
+282: {'dictionary_item_added': {"root['manager']": 'The bank'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield rubbish town', 'old_value': 'Macclesfield Town'}, "root['capacity']": {'new_value': 'Zero', 'old_value': '5,911 (2,375 seated)'}}}
+291: {'dictionary_item_removed': {"root['fate']": 'Wound Up'}}
+292: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town', 'old_value': 'Macclesfield FC'}}}
+294: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield FC', 'old_value': 'Macclesfield F.C.'}}}
+301: {'dictionary_item_removed': {"root['dissolved']": '2020'}}
+302: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+307: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['fate']": {'new_value': 'Wound Up', 'old_value': 'Reformed in 2020'}}}
+313: {'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['fate']": {'new_value': 'Reformed in 2020', 'old_value': 'Wound Up'}}}
+317: {'dictionary_item_added': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+318: {'dictionary_item_removed': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+325: {'dictionary_item_added': {"root['chairman']": 'Mark Blower', "root['season']": 'English football updater', "root['position']": 'English football updater'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+330: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+336: {'dictionary_item_added': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+337: {'dictionary_item_removed': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+341: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+342: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+346: {'dictionary_item_added': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+347: {'dictionary_item_removed': {"root['dissolved']": '2020', "root['fate']": 'Wound Up'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+348: {'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Beast F.C.'}}}
+349: {'values_changed': {"root['clubname']": {'new_value': 'Beast F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+361: {'dictionary_item_added': {"root['fate']": 'Wound Up'}, 'values_changed': {"root['ground']": {'new_value': 'Moss Rose', 'old_value': 'Leasing.com Stadium'}}}
+362: {'values_changed': {"root['ground']": {'new_value': 'Leasing.com Stadium', 'old_value': 'Moss Rose'}}}
+363: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+364: {'dictionary_item_removed': {"root['league']": 'North West Counties Football League (2021–22)'}}
+366: {'dictionary_item_removed': {"root['manager']": 'Danny Whittaker'}}
+373: {'dictionary_item_added': {"root['manager']": 'Danny Whittaker', "root['league']": 'North West Counties Football League (2021–22)'}, 'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+376: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+377: {'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+378: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield F.C.'}}}
+383: {'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield F.C.', 'old_value': 'Macclesfield Town F.C.'}}}
+386: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'dictionary_item_removed': {"root['league']": 'North West Counties Football League (2021/22)'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield'}}}
+388: {'dictionary_item_removed': {"root['manager']": 'Danny Whitaker'}}
+397: {'dictionary_item_added': {"root['manager']": 'Danny Whitaker', "root['league']": 'North West Counties Football League (2021/22)'}, 'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield', 'old_value': 'Macclesfield Town F.C.'}}}
+399: {'dictionary_item_added': {"root['dissolved']": '2020'}, 'dictionary_item_removed': {"root['manager']": 'Danny Whitaker', "root['league']": 'North West Counties Football League (2021/22)'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield Town F.C.', 'old_value': 'Macclesfield'}}}
+405: {'dictionary_item_added': {"root['manager']": 'Danny Whitaker', "root['league']": 'North West Counties Football League (2021/22)'}, 'dictionary_item_removed': {"root['dissolved']": '2020'}, 'values_changed': {"root['clubname']": {'new_value': 'Macclesfield', 'old_value': 'Macclesfield Town F.C.'}}}

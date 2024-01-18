@@ -1,0 +1,108 @@
+422: {'dictionary_item_removed': {"root['clubname']": 'Los Angeles Galaxy', "root['shortname']": 'LA Galaxy', "root['ground']": 'The Home Depot Center', "root['capacity']": '27,000', "root['chairman']": 'flagicon', "root['mgrtitle']": 'Coach', "root['manager']": 'flagicon', "root['league']": 'Major League Soccer', "root['season']": '2007 Major League Soccer season', "root['position']": '13th'}}
+487: {'dictionary_item_added': {"root['shortname']": 'LA Galaxy'}, 'dictionary_item_removed': {"root['chrtitle']": 'Owner', "root['ceo']": 'flagicon', "root['firstgame']": "Los Angeles Galaxy 2&ndash;1 MetroStars, ''(Rose Bowl (stadium)", "root['largestwin']": 'FC Dallas', "root['worstdefeat']": "MetroStars 5&ndash;0 Los Angeles Galaxy, ''(Giants Stadium; June 15, 2002)''", "root['topscorer']": 'flagicon', "root['fansgroup']": 'L.A. Riot Squad http://www.lariotsquad.org, Angel City Brigade http://www.angelcitybrigade.com, Galaxians', "root['honours']": "MLS Supporters' Shield", "root['American']": 'true '}, 'values_changed': {"root['position']": {'new_value': '13th', 'old_value': 'Western Conference: 5th, Overall: 11th, Playoffs: DNQ'}}}
+488: {'values_changed': {"root['fansgroup']": {'new_value': 'L.A. Riot Squad http://www.lariotsquad.org, Angel City Brigade http://www.angelcitybrigade.com, Galaxians', 'old_value': 'L.A. Riot Squad http://www.lariotsquad.org, Angel City Brigade http://www.angelcitybrigade.com, , Galaxians'}}}
+490: {'values_changed': {"root['fansgroup']": {'new_value': 'L.A. Riot Squad http://www.lariotsquad.org, Angel City Brigade http://www.angelcitybrigade.com, , Galaxians', 'old_value': 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.com, , Galaxians'}}}
+503: {'values_changed': {"root['firstgame']": {'new_value': "Los Angeles Galaxy 2&ndash;1 MetroStars, ''(Rose Bowl (stadium)", 'old_value': "MetroStars 1&ndash;2 Los Angeles Galaxy, ''(Rose Bowl (stadium)"}, "root['largestwin']": {'new_value': 'FC Dallas', 'old_value': 'Los Angeles Galaxy 8&ndash;1 FC Dallas'}, "root['worstdefeat']": {'new_value': "MetroStars 5&ndash;0 Los Angeles Galaxy, ''(Giants Stadium; June 15, 2002)''", 'old_value': "Los Angeles Galaxy 0&ndash;5 MetroStars, ''(Giants Stadium; June 15, 2002)''"}}}
+651: {'dictionary_item_removed': {"root['dissolved']": 'a few seconds later'}, 'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'Los Angeles Galaxy Sucks'}, "root['capacity']": {'new_value': '27,000', 'old_value': '270,000'}}}
+652: {'dictionary_item_added': {"root['dissolved']": 'a few seconds later'}, 'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy Sucks', 'old_value': 'Los Angeles Galaxy'}, "root['capacity']": {'new_value': '270,000', 'old_value': '27,000'}}}
+728: {'dictionary_item_added': {"root['ceo']": 'flagicon', "root['league']": 'Major League Soccer', "root['season']": '2007 Major League Soccer season', "root['position']": 'Western Conference: 5th, Overall: 11th, Playoffs: DNQ', "root['firstgame']": "MetroStars 1&ndash;2 Los Angeles Galaxy, ''(Rose Bowl (stadium)", "root['largestwin']": 'Los Angeles Galaxy 8&ndash;1 FC Dallas', "root['worstdefeat']": "Los Angeles Galaxy 0&ndash;5 MetroStars, ''(Giants Stadium; June 15, 2002)''", "root['topscorer']": 'flagicon', "root['fansgroup']": 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.com, , Galaxians', "root['honours']": "MLS Supporters' Shield", "root['American']": 'true '}, 'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'MEX Hugo Sanchez  accessdate'}}}
+731: {'dictionary_item_removed': {"root['league']": 'Major League Soccer', "root['season']": '2007 Major League Soccer season', "root['position']": 'Western Conference: 5th, Overall: 11th, Playoffs: DNQ', "root['firstgame']": "MetroStars 1&ndash;2 Los Angeles Galaxy, ''(Rose Bowl (stadium)", "root['largestwin']": 'Los Angeles Galaxy 8&ndash;1 FC Dallas', "root['worstdefeat']": "Los Angeles Galaxy 0&ndash;5 MetroStars, ''(Giants Stadium; June 15, 2002)''", "root['topscorer']": 'flagicon', "root['fansgroup']": 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.com, , Galaxians', "root['honours']": "MLS Supporters' Shield", "root['American']": 'true '}, 'values_changed': {"root['manager']": {'new_value': 'MEX Hugo Sanchez  accessdate', 'old_value': 'flagicon'}}}
+775: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'Los Angeles Stars'}}}
+776: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Stars', 'old_value': 'Los Angeles Galaxy'}}}
+800: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'Los Angeles Fuck Galaxy'}}}
+801: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Fuck Galaxy', 'old_value': 'Los Angeles Galaxy'}}}
+849: {'values_changed': {"root['fansgroup']": {'new_value': 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.com, , Galaxians', 'old_value': 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.net, , Galaxians'}}}
+912: {'values_changed': {"root['honours']": {'new_value': "MLS Supporters' Shield", 'old_value': "MLS Cup (2), MLS Supporters' Shield"}}}
+914: {'values_changed': {"root['season']": {'new_value': '2007 Major League Soccer season', 'old_value': '2008 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 5th, Overall: 11th, Playoffs: DNQ', 'old_value': 'Western Conference: 6th, Overall: 13th, Playoffs: DNQ'}}}
+1053: {'dictionary_item_removed': {"root['shortname']": 'LA', "root['dissolved']": 'Never!!!!!!'}, 'values_changed': {"root['capacity']": {'new_value': '27,000', 'old_value': '27,111'}, "root['chrtitle']": {'new_value': 'Owner', 'old_value': 'Walter'}}}
+1054: {'dictionary_item_added': {"root['shortname']": 'LA', "root['dissolved']": 'Never!!!!!!'}, 'values_changed': {"root['capacity']": {'new_value': '27,111', 'old_value': '27,000'}, "root['chrtitle']": {'new_value': 'Walter', 'old_value': 'Owner'}}}
+1081: {'dictionary_item_removed': {"root['bgcolor']": '"#B3B7FF"', "root['align']": '"center" | 1996 ||'}, 'values_changed': {"root['American']": {'new_value': 'true ', 'old_value': "true '''Los Angeles Galaxy''' (commonly referred to as '''L.A. Galaxy''') is an United States"}}}
+1082: {'dictionary_item_added': {"root['bgcolor']": '"#B3B7FF"', "root['align']": '"center" | 1996 ||'}, 'values_changed': {"root['American']": {'new_value': "true '''Los Angeles Galaxy''' (commonly referred to as '''L.A. Galaxy''') is an United States", 'old_value': 'true '}}}
+1083: {'values_changed': {"root['honours']": {'new_value': "MLS Cup (2), MLS Supporters' Shield", 'old_value': 'MLS Cup (2), Lamar Hunt U.S. Open Cup'}}}
+1180: {'dictionary_item_removed': {"root['current']": '2009 Los Angeles Galaxy season '}, 'values_changed': {"root['American']": {'new_value': 'true ', 'old_value': 'true'}}}
+1181: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'vince is gay'}}}
+1182: {'values_changed': {"root['clubname']": {'new_value': 'vince is gay', 'old_value': 'Los Angeles Galaxy'}}}
+1194: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'McFagtown Galaxy'}}}
+1195: {'values_changed': {"root['clubname']": {'new_value': 'McFagtown Galaxy', 'old_value': 'Los Angeles Galaxy'}}}
+1253: {'values_changed': {"root['manager']": {'new_value': 'flagicon', 'old_value': 'Vacent'}}}
+1255: {'values_changed': {"root['manager']": {'new_value': 'Vacent', 'old_value': 'flagicon'}}}
+1421: {'dictionary_item_added': {"root['firstgame']": "MetroStars 1&ndash;2 Los Angeles Galaxy, ''(Rose Bowl (stadium)", "root['largestwin']": 'Los Angeles Galaxy 8&ndash;1 FC Dallas', "root['worstdefeat']": "Los Angeles Galaxy 0&ndash;5 MetroStars, ''(Giants Stadium; June 15, 2002)''", "root['topscorer']": 'flagicon', "root['fansgroup']": 'L.A. Riot Squad http://www.lariotsquad.org, , Angel City Brigade http://www.angelcitybrigade.net, , Galaxians', "root['honours']": 'MLS Cup (2), Lamar Hunt U.S. Open Cup'}, 'values_changed': {"root['ground']": {'new_value': 'The Home Depot Center', 'old_value': 'The Home Depot Center, Carson, California'}, "root['mgrtitle']": {'new_value': 'Coach', 'old_value': 'Head Coach'}, "root['season']": {'new_value': '2008 Major League Soccer season', 'old_value': '2009 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 6th, Overall: 13th, Playoffs: DNQ', 'old_value': "Western Conference: 1st, Overall: 2nd, Playoffs: ''in progress''"}}}
+1425: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'Los Angeles Galaxy FC'}}}
+1426: {'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy FC', 'old_value': 'Los Angeles Galaxy'}}}
+1435: {'values_changed': {"root['position']": {'new_value': "Western Conference: 1st, Overall: 2nd, Playoffs: ''in progress''", 'old_value': "Western Conference: 1st, Overall: 3rd, Playoffs: ''in progress''"}}}
+1494: {'values_changed': {"root['position']": {'new_value': "Western Conference: 1st, Overall: 3rd, Playoffs: ''in progress''", 'old_value': "Western Conference: 1st, Overall: 3rd, Playoffs: ''Finals''"}}}
+1496: {'values_changed': {"root['position']": {'new_value': "Western Conference: 1st, Overall: 3rd, Playoffs: ''Finals''", 'old_value': "Western Conference: 1st, Overall: 2nd, Playoffs: ''Finals''"}}}
+1497: {'values_changed': {"root['position']": {'new_value': "Western Conference: 1st, Overall: 2nd, Playoffs: ''Finals''", 'old_value': 'Western Conference: 1st, Overall: 2nd, Playoffs: Finals'}, "root['current']": {'new_value': '2009 Los Angeles Galaxy season ', 'old_value': '2009 Los Angeles Galaxy season'}}}
+1506: {'values_changed': {"root['position']": {'new_value': 'Western Conference: 1st, Overall: 2nd, Playoffs: Finals', 'old_value': 'Western Conference: 1st, Overall: 2nd, Playoffs: Final'}}}
+1513: {'dictionary_item_removed': {"root['dissolved']": '2009 to Real Salt Lake'}, 'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'Los Angeles Galaxy (losers)'}}}
+1514: {'dictionary_item_added': {"root['dissolved']": '2009 to Real Salt Lake'}, 'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy (losers)', 'old_value': 'Los Angeles Galaxy'}}}
+1541: {'values_changed': {"root['current']": {'new_value': '2009 Los Angeles Galaxy season', 'old_value': '2010 Los Angeles Galaxy season'}}}
+1551: {'dictionary_item_added': {"root['ground']": 'The Home Depot Center, Carson, California'}, 'dictionary_item_removed': {"root['stadium']": 'Dignity Health Sports Park Carson, California', "root['owner']": 'Philip Anschutz (Anschutz Entertainment Group'}, 'values_changed': {"root['clubname']": {'new_value': 'Los Angeles Galaxy', 'old_value': 'LA Galaxy'}, "root['capacity']": {'new_value': '27,000', 'old_value': '27,000<ref name'}, "root['chrtitle']": {'new_value': 'Owner', 'old_value': 'President'}, "root['chairman']": {'new_value': 'flagicon', 'old_value': 'Chris Klein (soccer)'}, "root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Guillermo Barros Schelotto'}, "root['season']": {'new_value': '2009 Major League Soccer season', 'old_value': '2019 Major League Soccer season'}, "root['position']": {'new_value': 'Western Conference: 1st, Overall: 2nd, Playoffs: Final', 'old_value': 'Western Conference (MLS)'}, "root['current']": {'new_value': '2010 Los Angeles Galaxy season', 'old_value': '2020 LA Galaxy season'}}}
+1611: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'Carson Galaxy'}, "root['owner']": {'new_value': 'Philip Anschutz (Anschutz Entertainment Group', 'old_value': 'LAFC)'}}}
+1612: {'values_changed': {"root['clubname']": {'new_value': 'Carson Galaxy', 'old_value': 'LA Galaxy'}, "root['owner']": {'new_value': 'LAFC)', 'old_value': 'Philip Anschutz (Anschutz Entertainment Group'}}}
+1633: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'Carson Galaxy'}}}
+1634: {'values_changed': {"root['clubname']": {'new_value': 'Carson Galaxy', 'old_value': 'LA Galaxy'}}}
+1636: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'Carson Galaxy'}}}
+1637: {'values_changed': {"root['clubname']": {'new_value': 'Carson Galaxy', 'old_value': 'LAFC’s Daddy'}}}
+1638: {'values_changed': {"root['clubname']": {'new_value': 'LAFC’s Daddy', 'old_value': 'Carson Galaxy'}}}
+1639: {'values_changed': {"root['clubname']": {'new_value': 'Carson Galaxy', 'old_value': 'LA Galaxy'}}}
+1675: {'values_changed': {"root['owner']": {'new_value': 'Philip Anschutz (Anschutz Entertainment Group', 'old_value': 'Diego Rossi)'}}}
+1676: {'values_changed': {"root['owner']": {'new_value': 'Diego Rossi)', 'old_value': 'Diego Rossi'}}}
+1677: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Mohammed El Munir'}}}
+1678: {'values_changed': {"root['chairman']": {'new_value': 'Mohammed El Munir', 'old_value': 'Mohamed El Munir'}}}
+1679: {'values_changed': {"root['owner']": {'new_value': 'Diego Rossi', 'old_value': 'Philip Anschutz (Anschutz Entertainment Group'}, "root['chairman']": {'new_value': 'Mohamed El Munir', 'old_value': 'Chris Klein (soccer)'}}}
+1680: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Chris Klein'}}}
+1681: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein', 'old_value': 'Chris Klein (soccer)'}}}
+1682: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Chris Klein'}}}
+1683: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein', 'old_value': 'Chris Klein (soccer)'}}}
+1718: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'LA Chivas'}}}
+1720: {'values_changed': {"root['clubname']": {'new_value': 'LA Chivas', 'old_value': 'LA Galaxy'}}}
+1723: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Interim head coach'}, "root['manager']": {'new_value': 'Guillermo Barros Schelotto', 'old_value': 'Dominic Kinnear'}}}
+1726: {'values_changed': {"root['mgrtitle']": {'new_value': 'Interim head coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Dominic Kinnear', 'old_value': 'Dominic Kinnear (interim)'}}}
+1730: {'values_changed': {"root['season']": {'new_value': '2019 Major League Soccer season', 'old_value': '2020 Major League Soccer season'}}}
+1737: {'values_changed': {"root['capacity']": {'new_value': '27,000<ref name', 'old_value': 'Irrelevant, stadium is always empty<ref name'}, "root['owner']": {'new_value': 'Philip Anschutz (Anschutz Entertainment Group', 'old_value': 'Los Angeles Football Club'}}}
+1738: {'values_changed': {"root['capacity']": {'new_value': 'Irrelevant, stadium is always empty<ref name', 'old_value': '27,000<ref name'}}}
+1739: {'values_changed': {"root['owner']": {'new_value': 'Los Angeles Football Club', 'old_value': 'AEG'}}}
+1740: {'values_changed': {"root['owner']": {'new_value': 'AEG', 'old_value': 'Los Angeles Football Club'}}}
+1741: {'values_changed': {"root['owner']": {'new_value': 'Los Angeles Football Club', 'old_value': 'Anschutz Entertainment Group'}}}
+1743: {'values_changed': {"root['manager']": {'new_value': 'Dominic Kinnear (interim)', 'old_value': 'Pep Guardiola'}}}
+1745: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Dominic Kinnear (interim)'}}}
+1755: {'values_changed': {"root['manager']": {'new_value': 'Dominic Kinnear (interim)', 'old_value': 'Vacant'}}}
+1759: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'vacant'}}}
+1760: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'LA 6alaxy'}}}
+1762: {'values_changed': {"root['clubname']": {'new_value': 'LA 6alaxy', 'old_value': 'LA Galaxy'}}}
+1763: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Dominic Kinnear'}}}
+1764: {'values_changed': {"root['manager']": {'new_value': 'Dominic Kinnear', 'old_value': 'Dominic Kinnear (interim)'}}}
+1765: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head coach', 'old_value': 'Interim head coach'}, "root['manager']": {'new_value': 'Dominic Kinnear (interim)', 'old_value': 'Dominic Kinnear'}, "root['current']": {'new_value': '2020 LA Galaxy season', 'old_value': '2021 LA Galaxy season'}}}
+1766: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'LA GAYALAXY'}}}
+1767: {'values_changed': {"root['clubname']": {'new_value': 'LA GAYALAXY', 'old_value': 'LA Galaxy'}}}
+1768: {'values_changed': {"root['mgrtitle']": {'new_value': 'Interim head coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Dominic Kinnear', 'old_value': 'Greg Vanney'}, "root['season']": {'new_value': '2020 Major League Soccer season', 'old_value': '2021 Major League Soccer season'}}}
+1775: {'values_changed': {"root['current']": {'new_value': '2021 LA Galaxy season', 'old_value': '2022 LA Galaxy season'}}}
+1904: {'values_changed': {"root['clubname']": {'new_value': 'LA Galaxy', 'old_value': 'Carson Galaxy'}, "root['owner']": {'new_value': 'Anschutz Entertainment Group', 'old_value': 'LAFC'}, "root['current']": {'new_value': '2022 LA Galaxy season', 'old_value': '2022 Carson Galaxy season'}}}
+1905: {'values_changed': {"root['clubname']": {'new_value': 'Carson Galaxy', 'old_value': 'LA Galaxy'}, "root['owner']": {'new_value': 'LAFC', 'old_value': 'Anschutz Entertainment Group'}, "root['current']": {'new_value': '2022 Carson Galaxy season', 'old_value': '2022 LA Galaxy season'}}}
+1944: {'values_changed': {"root['season']": {'new_value': '2021 Major League Soccer season', 'old_value': '2022 Major League Soccer season'}}}
+1991: {'values_changed': {"root['stadium']": {'new_value': 'Dignity Health Sports Park Carson, California', 'old_value': 'Dignity Health Sports Park'}}}
+1992: {'values_changed': {"root['stadium']": {'new_value': 'Dignity Health Sports Park', 'old_value': 'Dignity Health Sports Park Carson, California'}}}
+2000: {'values_changed': {"root['owner']": {'new_value': 'Anschutz Entertainment Group', 'old_value': 'Anschutz Entertainment Group LAFC'}}}
+2001: {'values_changed': {"root['owner']": {'new_value': 'Anschutz Entertainment Group LAFC', 'old_value': 'Anschutz Entertainment Group'}}}
+2003: {'values_changed': {"root['current']": {'new_value': '2022 LA Galaxy season', 'old_value': '2023 LA Galaxy season'}}}
+2020: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Robbie Keane (soccer)'}}}
+2021: {'values_changed': {"root['chairman']": {'new_value': 'Robbie Keane (soccer)', 'old_value': 'https://en.wikipedia.org/wiki/Robbie_Keane'}}}
+2022: {'values_changed': {"root['chairman']": {'new_value': 'https://en.wikipedia.org/wiki/Robbie_Keane', 'old_value': 'Robbie Keanehttps://en.wikipedia.org/wiki/Robbie_Keane'}}}
+2023: {'values_changed': {"root['chairman']": {'new_value': 'Robbie Keanehttps://en.wikipedia.org/wiki/Robbie_Keane', 'old_value': 'https://en.wikipedia.org/wiki/Robbie_Keane'}}}
+2024: {'values_changed': {"root['chairman']": {'new_value': 'https://en.wikipedia.org/wiki/Robbie_Keane', 'old_value': 'Robbie Keane'}}}
+2025: {'values_changed': {"root['chairman']": {'new_value': 'Robbie Keane', 'old_value': 'Chris Klein (soccer)'}}}
+2027: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Robbie Keane'}}}
+2031: {'values_changed': {"root['chairman']": {'new_value': 'Robbie Keane', 'old_value': 'Chris Klein (soccer)'}}}
+2053: {'values_changed': {"root['owner']": {'new_value': 'Anschutz Entertainment Group', 'old_value': 'Seattle Sounders FC'}}}
+2054: {'values_changed': {"root['owner']": {'new_value': 'Seattle Sounders FC', 'old_value': 'Anschutz Entertainment Group'}}}
+2074: {'values_changed': {"root['owner']": {'new_value': 'Anschutz Entertainment Group', 'old_value': 'San Jose Earthquakes'}}}
+2075: {'values_changed': {"root['owner']": {'new_value': 'San Jose Earthquakes', 'old_value': 'Anschutz Entertainment Group'}}}
+2083: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'Klein is OUT!!!'}}}
+2084: {'values_changed': {"root['chairman']": {'new_value': 'Klein is OUT!!!', 'old_value': 'Chris Klein (soccer)'}}}
+2085: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': "Klein, you're FIRED!! (soccer)"}}}
+2086: {'values_changed': {"root['chairman']": {'new_value': "Klein, you're FIRED!! (soccer)", 'old_value': 'Chris Klein (soccer)'}}}
+2087: {'values_changed': {"root['chairman']": {'new_value': 'Chris Klein (soccer)', 'old_value': 'TBD'}}}
+2091: {'values_changed': {"root['owner']": {'new_value': 'Anschutz Entertainment Group', 'old_value': 'LAFC'}}}
+2092: {'values_changed': {"root['owner']": {'new_value': 'LAFC', 'old_value': 'Anschutz Entertainment Group'}}}
+2094: {'values_changed': {"root['stadium']": {'new_value': 'Dignity Health Sports Park Carson, California', 'old_value': 'Dignity Health Sports Park'}}}

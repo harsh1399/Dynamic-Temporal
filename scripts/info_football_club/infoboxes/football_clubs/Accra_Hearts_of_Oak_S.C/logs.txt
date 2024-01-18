@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Hearts of Oak', "root['ground']": 'Accra Sports Stadium', "root['capacity']": '39,800', "root['chrtitle']": 'Chairman', "root['chairman']": 'Togbe (King) Afede XIV', "root['coach']": 'Kim Grant', "root['mgrtitle']": 'CEO', "root['league']": 'Ghana Premier League', "root['season']": '2017 Ghanaian Premier League'}}
+7: {'values_changed': {"root['coach']": {'new_value': 'Kim Grant', 'old_value': 'Edward Nii Odoom'}}}
+18: {'values_changed': {"root['capacity']": {'new_value': '39,800', 'old_value': '40,000'}}}
+51: {'values_changed': {"root['coach']": {'new_value': 'Edward Nii Odoom', 'old_value': 'Kosta Papic'}}}
+52: {'dictionary_item_removed': {"root['position']": 'Ghana Premier League, 1st of 18 (champions)', "root['current']": '2020–21 Ghana Premier League '}, 'values_changed': {"root['chairman']": {'new_value': 'Togbe (King) Afede XIV', 'old_value': 'Togbe Afede XIV'}, "root['coach']": {'new_value': 'Kosta Papic', 'old_value': 'Samuel Boadu'}, "root['season']": {'new_value': '2017 Ghanaian Premier League', 'old_value': '2020–21 Ghana Premier League'}}}
+77: {'values_changed': {"root['current']": {'new_value': '2020–21 Ghana Premier League ', 'old_value': '2022–23 Ghana Premier League '}}}
+90: {'values_changed': {"root['coach']": {'new_value': 'Samuel Boadu', 'old_value': "''vacant''"}}}
+91: {'values_changed': {"root['coach']": {'new_value': "''vacant''", 'old_value': 'Slavko Matic'}}}
+95: {'dictionary_item_added': {"root['coach']": 'Slavko Matic'}, 'dictionary_item_removed': {"root['manager']": 'Slavko Matic'}}

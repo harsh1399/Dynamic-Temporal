@@ -1,0 +1,100 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Al Ahly SC', "root['ground']": 'Cairo International Stadium Al Salam Stadium (Egypt)', "root['capacity']": '75,000 30,000', "root['chairman']": 'Mahmoud El Khatib', "root['manager']": 'Pitso Mosimane', "root['league']": 'Egyptian Premier League', "root['season']": '2019–20 Egyptian Premier League', "root['position']": '1st', "root['current']": '2020–21 Al Ahly SC season '}}
+203: {'values_changed': {"root['capacity']": {'new_value': '75,000 30,000', 'old_value': '75,000 30,000 15,000'}}}
+208: {'values_changed': {"root['capacity']": {'new_value': '75,000 30,000 15,000', 'old_value': '75,000 30,000'}}}
+244: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Gahly SC'}}}
+245: {'values_changed': {"root['clubname']": {'new_value': 'Al Gahly SC', 'old_value': 'Al Ahly SC'}}}
+246: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Gahly SC'}, "root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'Mahmoud El sa3ati'}}}
+248: {'values_changed': {"root['current']": {'new_value': '2020–21 Al Ahly SC season ', 'old_value': '2020–21 Al Gahly SC season '}}}
+249: {'values_changed': {"root['clubname']": {'new_value': 'Al Gahly SC', 'old_value': 'Al Ahly SC'}, "root['chairman']": {'new_value': 'Mahmoud El sa3ati', 'old_value': 'Mahmoud El khateeb'}, "root['current']": {'new_value': '2020–21 Al Gahly SC season ', 'old_value': '2020–21 Al Ahly SC season '}}}
+251: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El khateeb', 'old_value': 'Mahmoud El Khatib'}}}
+252: {'values_changed': {"root['ground']": {'new_value': 'Cairo International Stadium Al Salam Stadium (Egypt)', 'old_value': 'Al Ahly WE Al Salam Stadium Cairo International Stadium'}, "root['capacity']": {'new_value': '75,000 30,000', 'old_value': '30,000 75,000'}}}
+253: {'values_changed': {"root['ground']": {'new_value': 'Al Ahly WE Al Salam Stadium Cairo International Stadium', 'old_value': 'Al Salam Stadium (Egypt)'}}}
+298: {'dictionary_item_added': {"root['clubname']": 'Al Ahly SC', "root['ground']": 'Al Salam Stadium (Egypt)', "root['capacity']": '30,000 75,000', "root['chairman']": 'Mahmoud El Khatib', "root['manager']": 'Pitso Mosimane', "root['league']": 'Egyptian Premier League', "root['season']": '2019–20 Egyptian Premier League', "root['position']": '1st', "root['current']": '2020–21 Al Ahly SC season '}, 'dictionary_item_removed': {"root['rowspan']": '2', "root['bgcolor']": '"#CCCCCC" align', "root['align']": '"color:#EFEFEF; background:#FF0000;"', "root['style']": '"font-size:90%; text-align: center" |- !'}}
+299: {'dictionary_item_added': {"root['rowspan']": '2', "root['bgcolor']": '"#CCCCCC" align', "root['align']": '"color:#EFEFEF; background:#FF0000;"', "root['style']": '"font-size:90%; text-align: center" |- !'}, 'dictionary_item_removed': {"root['clubname']": 'Al Ahly SC', "root['ground']": 'Al Salam Stadium (Egypt)', "root['capacity']": '30,000 75,000', "root['chairman']": 'Mahmoud El Khatib', "root['manager']": 'Pitso Mosimane', "root['league']": 'Egyptian Premier League', "root['season']": '2019–20 Egyptian Premier League', "root['position']": '1st', "root['current']": '2020–21 Al Ahly SC season '}}
+313: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Ahly SC (نادي القرن الافريقي)'}}}
+314: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC (نادي القرن الافريقي)', 'old_value': 'Al Ahly SC  (African club of th century )'}}}
+315: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC  (African club of th century )', 'old_value': 'Al Ahly SC'}}}
+329: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Kos SC'}}}
+332: {'values_changed': {"root['clubname']": {'new_value': 'Kos SC', 'old_value': 'Al Ahly SC'}}}
+405: {'dictionary_item_removed': {"root['owner']": 'Omar Lotfy'}}
+406: {'dictionary_item_added': {"root['owner']": 'Omar Lotfy'}, 'dictionary_item_removed': {"root['founder']": 'Omar Lotfy'}}
+407: {'dictionary_item_added': {"root['founder']": 'Omar Lotfy'}, 'values_changed': {"root['season']": {'new_value': '2019–20 Egyptian Premier League', 'old_value': '2020–21 Egyptian Premier League'}, "root['position']": {'new_value': '1st', 'old_value': '2nd'}}}
+420: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'كسم الاهلي'}}}
+421: {'values_changed': {"root['clubname']": {'new_value': 'كسم الاهلي', 'old_value': 'Al Ahly Sporting Club'}}}
+425: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly Sporting Club', 'old_value': 'كسم الاهلي'}}}
+426: {'values_changed': {"root['clubname']": {'new_value': 'كسم الاهلي', 'old_value': 'النادي الاهلي'}}}
+427: {'values_changed': {"root['clubname']": {'new_value': 'النادي الاهلي', 'old_value': 'النادي الاهلي المصري'}}}
+429: {'values_changed': {"root['clubname']": {'new_value': 'النادي الاهلي المصري', 'old_value': 'النادي الاهلي'}}}
+475: {'values_changed': {"root['clubname']": {'new_value': 'النادي الاهلي', 'old_value': 'Al Ahly SC'}}}
+493: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'A7A'}}}
+494: {'values_changed': {"root['clubname']": {'new_value': 'A7A', 'old_value': 'Al Ahly fc'}}}
+495: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly fc', 'old_value': 'Al Ahly SC'}}}
+528: {'values_changed': {"root['current']": {'new_value': '2020–21 Al Ahly SC season ', 'old_value': '2021–22 Al Ahly SC season '}}}
+531: {'dictionary_item_removed': {"root['founder']": 'Omar Lotfy'}}
+537: {'dictionary_item_added': {"root['founder']": 'Omar Lotfy'}, 'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'El Metnakeen fc'}}}
+538: {'values_changed': {"root['clubname']": {'new_value': 'El Metnakeen fc', 'old_value': 'Al Ahly SC'}}}
+542: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Ahly FC'}}}
+543: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly FC', 'old_value': 'Al Ahly SC'}}}
+623: {'dictionary_item_added': {"root['chairman']": 'Mahmoud El Khatib', "root['manager']": 'Pitso Mosimane'}, 'dictionary_item_removed': {"root['president']": 'Mahmoud El Khatib'}, 'values_changed': {"root['capacity']": {'new_value': '30,000 75,000', 'old_value': '30,000'}}}
+625: {'dictionary_item_added': {"root['president']": 'Mahmoud El Khatib'}, 'dictionary_item_removed': {"root['chairman']": 'Mahmoud El Khatib', "root['manager']": 'Pitso Mosimane'}, 'values_changed': {"root['capacity']": {'new_value': '30,000', 'old_value': '30,000 75,000'}}}
+647: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'ali el Shaarany'}}}
+648: {'values_changed': {"root['chairman']": {'new_value': 'ali el Shaarany', 'old_value': 'Mahmoud El Khatib'}}}
+650: {'values_changed': {"root['ground']": {'new_value': 'Al Salam Stadium (Egypt)', 'old_value': 'Mohamed Stadium (Egypt)'}, "root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'Mohamed Mostafa'}}}
+653: {'values_changed': {"root['ground']": {'new_value': 'Mohamed Stadium (Egypt)', 'old_value': 'Al Salam Stadium (Egypt)'}, "root['chairman']": {'new_value': 'Mohamed Mostafa', 'old_value': 'Mahmoud El Khatib'}}}
+669: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'Adam Faiez'}, "root['manager']": {'new_value': 'Pitso Mosimane', 'old_value': 'Omar Gouda'}}}
+670: {'values_changed': {"root['chairman']": {'new_value': 'Adam Faiez', 'old_value': 'Mahmoud El Khatib'}, "root['manager']": {'new_value': 'Omar Gouda', 'old_value': 'Pitso Mosimane'}}}
+671: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'Adam Faiez'}, "root['manager']": {'new_value': 'Pitso Mosimane', 'old_value': 'Omar Gouda'}}}
+672: {'values_changed': {"root['chairman']": {'new_value': 'Adam Faiez', 'old_value': 'Mahmoud El-Khatib'}, "root['manager']": {'new_value': 'Omar Gouda', 'old_value': 'Pitso Mosimane'}}}
+673: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El-Khatib', 'old_value': 'Mahmoud El Khatib'}}}
+747: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Magda'}}}
+748: {'values_changed': {"root['clubname']": {'new_value': 'Magda', 'old_value': 'Al Ahly SC'}}}
+766: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'لhambola'}}}
+767: {'values_changed': {"root['clubname']": {'new_value': 'لhambola', 'old_value': 'Al Ahly'}}}
+780: {'values_changed': {"root['manager']": {'new_value': 'Pitso Mosimane', 'old_value': 'vacant'}}}
+783: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Samy Komsan (interim)'}}}
+788: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'KOSKOSI'}, "root['manager']": {'new_value': 'Samy Komsan (interim)', 'old_value': 'OMAR YASSER (interim)'}}}
+789: {'values_changed': {"root['chairman']": {'new_value': 'KOSKOSI', 'old_value': 'Mahmoud El Khatib'}, "root['manager']": {'new_value': 'OMAR YASSER (interim)', 'old_value': 'Samy Komsan (interim)'}}}
+802: {'values_changed': {"root['manager']": {'new_value': 'Samy Komsan (interim)', 'old_value': 'Ricardo Soares'}}}
+817: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly', 'old_value': 'Al Gahly'}}}
+818: {'values_changed': {"root['chairman']": {'new_value': 'Mahmoud El Khatib', 'old_value': 'kabtnkhatib'}}}
+820: {'values_changed': {"root['clubname']": {'new_value': 'Al Gahly', 'old_value': 'Al Ahly'}, "root['chairman']": {'new_value': 'kabtnkhatib', 'old_value': 'Mahmoud El Khatib'}}}
+931: {'values_changed': {"root['season']": {'new_value': '2020–21 Egyptian Premier League', 'old_value': '2021–22 Egyptian Premier League'}, "root['position']": {'new_value': '2nd', 'old_value': '3rd'}}}
+940: {'values_changed': {"root['manager']": {'new_value': 'Ricardo Soares', 'old_value': 'Samy Komsan (interim manager)'}}}
+941: {'values_changed': {"root['manager']": {'new_value': 'Samy Komsan (interim manager)', 'old_value': 'Samy Komsan (interim)'}}}
+945: {'values_changed': {"root['manager']": {'new_value': 'Samy Komsan (interim)', 'old_value': 'Vahid Halilhodžić'}}}
+946: {'values_changed': {"root['manager']": {'new_value': 'Vahid Halilhodžić', 'old_value': 'Xavi'}}}
+947: {'values_changed': {"root['manager']": {'new_value': 'Xavi', 'old_value': 'Marcelo Bielsa'}}}
+949: {'values_changed': {"root['manager']": {'new_value': 'Marcelo Bielsa', 'old_value': 'Samy Komsan (interim manager)'}}}
+950: {'values_changed': {"root['manager']": {'new_value': 'Samy Komsan (interim manager)', 'old_value': 'Samy Komsan (interim)'}}}
+954: {'values_changed': {"root['manager']": {'new_value': 'Samy Komsan (interim)', 'old_value': 'Adi Hütter'}}}
+968: {'values_changed': {"root['manager']": {'new_value': 'Adi Hütter', 'old_value': 'Vacant'}}}
+970: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'vacant'}}}
+971: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'vacan'}}}
+972: {'values_changed': {"root['manager']": {'new_value': 'vacan', 'old_value': 'vacant'}}}
+973: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'vacan'}}}
+974: {'values_changed': {"root['manager']": {'new_value': 'vacan', 'old_value': 'vacant'}}}
+975: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'va'}}}
+976: {'values_changed': {"root['manager']": {'new_value': 'va', 'old_value': 'vacant'}}}
+977: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'omak'}}}
+978: {'values_changed': {"root['manager']": {'new_value': 'omak', 'old_value': 'vacant'}}}
+983: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Vacant'}}}
+984: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Thomas Tuchel'}}}
+985: {'values_changed': {"root['manager']": {'new_value': 'Thomas Tuchel', 'old_value': 'Vacant'}}}
+986: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Marcel Koller'}}}
+987: {'values_changed': {"root['manager']": {'new_value': 'Marcel Koller', 'old_value': 'Vacant'}}}
+991: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Marcel Koller'}}}
+1013: {'values_changed': {"root['current']": {'new_value': '2021–22 Al Ahly SC season ', 'old_value': '2022–23 Al Ahly SC season '}}}
+1082: {'values_changed': {"root['capacity']": {'new_value': '30,000 75,000', 'old_value': '30,000 75,000 86,000'}}}
+1083: {'values_changed': {"root['capacity']": {'new_value': '30,000 75,000 86,000', 'old_value': '30,000 75,000<br'}}}
+1084: {'values_changed': {"root['capacity']": {'new_value': '30,000 75,000<br', 'old_value': '30,000 75,000'}}}
+1148: {'values_changed': {"root['ground']": {'new_value': 'Al Salam Stadium (Egypt)', 'old_value': 'Al Salam Stadium (Egypt) Cairo International Stadium'}}}
+1149: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly', 'old_value': 'Al Ahly FC'}, "root['current']": {'new_value': '2022–23 Al Ahly SC season ', 'old_value': '2022–23 Al Ahly FC season '}}}
+1150: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly FC', 'old_value': 'Al Ahly SC'}}}
+1153: {'values_changed': {"root['current']": {'new_value': '2022–23 Al Ahly FC season ', 'old_value': '2022–23 Al Ahly SC season '}}}
+1170: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Ahly FC'}}}
+1172: {'values_changed': {"root['ground']": {'new_value': 'Al Salam Stadium (Egypt) Cairo International Stadium', 'old_value': 'Al Salam Stadium (Egypt)'}}}
+1187: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly FC', 'old_value': 'Al Ahly SC'}, "root['ground']": {'new_value': 'Al Salam Stadium (Egypt)', 'old_value': 'Al Salam Stadium (Egypt) Cairo International Stadium'}}}
+1189: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Ahly FC'}, "root['ground']": {'new_value': 'Al Salam Stadium (Egypt) Cairo International Stadium', 'old_value': 'Al Salam Stadium (Egypt)'}}}
+1203: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly FC', 'old_value': 'Al Ahly SC'}, "root['ground']": {'new_value': 'Al Salam Stadium (Egypt)', 'old_value': 'Al Salam Stadium (Egypt) Cairo International Stadium'}}}
+1204: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly SC', 'old_value': 'Al Ahly FC'}, "root['ground']": {'new_value': 'Al Salam Stadium (Egypt) Cairo International Stadium', 'old_value': 'Al Salam Stadium (Egypt)'}}}
+1219: {'values_changed': {"root['clubname']": {'new_value': 'Al Ahly FC', 'old_value': 'Al Ahly'}}}

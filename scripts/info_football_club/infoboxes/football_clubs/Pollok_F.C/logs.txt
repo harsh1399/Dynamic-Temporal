@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Pollok', "root['ground']": 'Newlandsfield Park,  Newlandsfield Road,  Glasgow,   G43 2XR', "root['capacity']": '4,000 (All Standing)', "root['manager']": 'Murdo MacKinnon', "root['league']": 'Scottish football updater', "root['season']": 'Scottish football updater', "root['position']": 'Scottish football updater', "root['chairman']": 'Tom Gilliland', "root['chrtitle']": 'President', "root['pattern_s3']": '_mvfc_stripes2'}}
+18: {'values_changed': {"root['chairman']": {'new_value': 'Tom Gilliland', 'old_value': 'Graham Milne'}}}
+117: {'dictionary_item_added': {"root['pattern_s3']": '_mvfc_stripes2'}, 'values_changed': {"root['capacity']": {'new_value': '4,000 (All Standing)', 'old_value': '2000 (All Standing)'}}}
+130: {'values_changed': {"root['capacity']": {'new_value': '2000 (All Standing)', 'old_value': '900 (All Standing)'}}}
+149: {'values_changed': {"root['capacity']": {'new_value': '900 (All Standing)', 'old_value': '874 (All Standing)'}}}
+158: {'values_changed': {"root['manager']": {'new_value': 'Murdo MacKinnon', 'old_value': 'Vacant'}}}
+161: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Stewart Maxwell'}}}
+171: {'dictionary_item_removed': {"root['membership']": 'Scottish Football Association'}}
+277: {'dictionary_item_added': {"root['membership']": 'Scottish Football Association'}, 'values_changed': {"root['chrtitle']": {'new_value': 'President', 'old_value': 'President '}}}

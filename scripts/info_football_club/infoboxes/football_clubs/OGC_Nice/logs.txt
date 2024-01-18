@@ -1,0 +1,36 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'OGC Nice', "root['current']": '2019–20 OGC Nice season', "root['ground']": 'Allianz Riviera', "root['capacity']": '36,178', "root['owntitle']": 'Owner', "root['owner']": 'Ineos', "root['chairman']": 'Jean-Pierre Rivère', "root['chrtitle']": 'President', "root['manager']": 'Patrick Vieira', "root['mgrtitle']": 'Head coach', "root['league']": 'Ligue 1', "root['season']": 'Olympique Gymnaste Club de Nice', "root['position']": 'Ligue 1, 7th'}}
+18: {'values_changed': {"root['clubname']": {'new_value': 'OGC Nice', 'old_value': "OGC Nice Côte d'Azur"}, "root['season']": {'new_value': 'Olympique Gymnaste Club de Nice', 'old_value': "Olympique Gymnaste Club de Nice Côte d'Azur"}}}
+20: {'values_changed': {"root['clubname']": {'new_value': "OGC Nice Côte d'Azur", 'old_value': 'OGC Nice'}}}
+21: {'values_changed': {"root['season']": {'new_value': "Olympique Gymnaste Club de Nice Côte d'Azur", 'old_value': 'Olympique Gymnaste Club de Nice'}}}
+27: {'values_changed': {"root['position']": {'new_value': 'Ligue 1, 7th', 'old_value': 'Ligue 1, 5th'}}}
+48: {'values_changed': {"root['current']": {'new_value': '2019–20 OGC Nice season', 'old_value': '2020–21 OGC Nice season'}}}
+54: {'values_changed': {"root['position']": {'new_value': 'Ligue 1, 5th', 'old_value': 'Ligue 1, 5th of 20'}}}
+84: {'values_changed': {"root['clubname']": {'new_value': 'OGC Nice', 'old_value': "OGC Nice Côte d'Azur"}, "root['season']": {'new_value': 'Olympique Gymnaste Club de Nice', 'old_value': "Olympique Gymnaste Club de Nice Côte d'Azur"}}}
+85: {'values_changed': {"root['clubname']": {'new_value': "OGC Nice Côte d'Azur", 'old_value': "O.G.C. Nice Côte d'Azur"}}}
+106: {'values_changed': {"root['clubname']": {'new_value': "O.G.C. Nice Côte d'Azur", 'old_value': 'O.G.C. Nice'}}}
+107: {'values_changed': {"root['clubname']": {'new_value': 'O.G.C. Nice', 'old_value': 'Nice'}}}
+112: {'values_changed': {"root['owner']": {'new_value': 'Ineos', 'old_value': 'Jim Ratcliffe'}}}
+118: {'values_changed': {"root['manager']": {'new_value': 'Patrick Vieira', 'old_value': 'Adrian Ursea'}}}
+131: {'values_changed': {"root['clubname']": {'new_value': 'Nice', 'old_value': 'Nice Tiddies'}}}
+132: {'values_changed': {"root['clubname']": {'new_value': 'Nice Tiddies', 'old_value': 'Nice'}}}
+151: {'values_changed': {"root['owner']": {'new_value': 'Jim Ratcliffe', 'old_value': 'Niall Bromley'}}}
+152: {'values_changed': {"root['owner']": {'new_value': 'Niall Bromley', 'old_value': 'Jim Ratcliffe'}}}
+158: {'values_changed': {"root['manager']": {'new_value': 'Adrian Ursea', 'old_value': 'Vacant'}}}
+161: {'values_changed': {"root['position']": {'new_value': 'Ligue 1, 5th of 20', 'old_value': 'Ligue 1, 9th of 20'}}}
+167: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Christophe Galtier'}}}
+168: {'values_changed': {"root['owner']": {'new_value': 'Jim Ratcliffe', 'old_value': 'Ineos'}}}
+173: {'values_changed': {"root['current']": {'new_value': '2020–21 OGC Nice season', 'old_value': '2021–22 OGC Nice season '}, "root['season']": {'new_value': "Olympique Gymnaste Club de Nice Côte d'Azur", 'old_value': '2020–21 Ligue 1'}}}
+273: {'values_changed': {"root['manager']": {'new_value': 'Christophe Galtier', 'old_value': 'Lucien Favre'}, "root['league']": {'new_value': 'Ligue 1', 'old_value': 'French football updater'}, "root['season']": {'new_value': '2020–21 Ligue 1', 'old_value': 'French football updater'}, "root['position']": {'new_value': 'Ligue 1, 9th of 20', 'old_value': 'French football updater'}, "root['current']": {'new_value': '2021–22 OGC Nice season ', 'old_value': '2022–23 OGC Nice season '}}}
+274: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Vacant'}}}
+276: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Gareth Bale'}}}
+277: {'values_changed': {"root['manager']": {'new_value': 'Gareth Bale', 'old_value': 'Vacant'}}}
+278: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Didier Digard (Interim)'}}}
+296: {'values_changed': {"root['manager']": {'new_value': 'Didier Digard (Interim)', 'old_value': 'Didier Digard (interim)'}}}
+308: {'values_changed': {"root['manager']": {'new_value': 'Didier Digard (interim)', 'old_value': 'Robbie Armstrong (interim)'}}}
+309: {'values_changed': {"root['manager']": {'new_value': 'Robbie Armstrong (interim)', 'old_value': 'Robbie Armstrong'}}}
+311: {'values_changed': {"root['manager']": {'new_value': 'Robbie Armstrong', 'old_value': 'Didier Digard (caretaker)'}}}
+334: {'values_changed': {"root['manager']": {'new_value': 'Didier Digard (caretaker)', 'old_value': 'Didier Digard'}}}
+344: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['manager']": {'new_value': 'Didier Digard', 'old_value': 'Vacant'}}}
+345: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Didier Digard'}}}
+347: {'values_changed': {"root['manager']": {'new_value': 'Didier Digard', 'old_value': 'Francesco Farioli'}}}
+354: {'values_changed': {"root['current']": {'new_value': '2022–23 OGC Nice season ', 'old_value': '2023–24 OGC Nice season '}}}

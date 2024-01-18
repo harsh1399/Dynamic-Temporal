@@ -1,0 +1,52 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Dundalk', "root['ground']": 'Oriel Park', "root['capacity']": '4,500 (3,100 seated)', "root['mgrtitle']": 'Head Coach', "root['owner']": 'Dundalk Town FC Limited', "root['chairman']": 'Bill Hulsizer', "root['manager']": 'Vinny Perth', "root['league']": 'nowrap', "root['season']": '2019 Dundalk F.C. season', "root['position']": '1st (Champions)', "root['current']": '2020 League of Ireland Premier Division '}}
+3: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Manager'}}}
+19: {'values_changed': {"root['current']": {'new_value': '2020 League of Ireland Premier Division ', 'old_value': '2020 Dundalk F.C. season '}}}
+72: {'values_changed': {"root['manager']": {'new_value': 'Vinny Perth', 'old_value': 'Vacant'}}}
+79: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Filippo Giovagnoli'}}}
+115: {'values_changed': {"root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'Neill Flynn'}}}
+116: {'values_changed': {"root['manager']": {'new_value': 'Neill Flynn', 'old_value': 'Filippo Giovagnoli'}}}
+117: {'values_changed': {"root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'Fintan Sheridan'}}}
+118: {'values_changed': {"root['manager']": {'new_value': 'Fintan Sheridan', 'old_value': 'Filippo Giovagnoli'}}}
+128: {'values_changed': {"root['chairman']": {'new_value': 'Bill Hulsizer', 'old_value': 'Timothy Varian'}, "root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'Nastyboy1985'}}}
+129: {'values_changed': {"root['chairman']": {'new_value': 'Timothy Varian', 'old_value': 'Bill Hulsizer'}, "root['manager']": {'new_value': 'Nastyboy1985', 'old_value': 'Filippo Giovagnoli'}}}
+130: {'values_changed': {"root['chairman']": {'new_value': 'Bill Hulsizer', 'old_value': 'Tim Varian'}, "root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'nastyboy1985'}}}
+131: {'values_changed': {"root['chairman']": {'new_value': 'Tim Varian', 'old_value': 'Bill Hulsizer'}, "root['manager']": {'new_value': 'nastyboy1985', 'old_value': 'Filippo Giovagnoli'}}}
+138: {'values_changed': {"root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'Colin Healy'}}}
+139: {'values_changed': {"root['position']": {'new_value': '1st (Champions)', 'old_value': '3rd'}}}
+140: {'values_changed': {"root['position']": {'new_value': '3rd', 'old_value': '1st (Champions)'}}}
+141: {'values_changed': {"root['manager']": {'new_value': 'Colin Healy', 'old_value': 'Filippo Giovagnoli'}}}
+150: {'values_changed': {"root['season']": {'new_value': '2019 Dundalk F.C. season', 'old_value': '2020 Dundalk F.C. season'}, "root['position']": {'new_value': '1st (Champions)', 'old_value': '3rd'}}}
+164: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Interim Head Coach'}}}
+184: {'values_changed': {"root['current']": {'new_value': '2020 Dundalk F.C. season ', 'old_value': '2021 Dundalk F.C. season '}}}
+195: {'values_changed': {"root['mgrtitle']": {'new_value': 'Interim Head Coach', 'old_value': 'Head Coach'}, "root['owner']": {'new_value': 'Dundalk Town FC Limited', 'old_value': 'Peak6 Investments LLC'}}}
+267: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Team Manager'}, "root['manager']": {'new_value': 'Filippo Giovagnoli', 'old_value': 'Shane Keegan'}}}
+288: {'values_changed': {"root['position']": {'new_value': '3rd', 'old_value': '2020 League of Ireland Premier Division'}}}
+293: {'values_changed': {"root['manager']": {'new_value': 'Shane Keegan', 'old_value': 'Vacant'}}}
+311: {'dictionary_item_added': {"root['mgrtitle']": 'Team Manager'}, 'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Conor Black'}}}
+314: {'values_changed': {"root['manager']": {'new_value': 'Conor Black', 'old_value': 'Vacant'}}}
+319: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Vinny Perth'}}}
+343: {'dictionary_item_removed': {"root['mgrtitle']": 'Head Coach'}}
+370: {'values_changed': {"root['owner']": {'new_value': 'Peak6 Investments LLC', 'old_value': 'Dundalk Town FC Ltd (private consortium)'}, "root['chairman']": {'new_value': 'Bill Hulsizer', 'old_value': 'Vacant'}}}
+377: {'values_changed': {"root['chairman']": {'new_value': 'Vacant', 'old_value': 'Dara mcgeogh'}}}
+378: {'values_changed': {"root['ground']": {'new_value': 'Oriel Park', 'old_value': 'Mcgodrick arena'}, "root['owner']": {'new_value': 'Dundalk Town FC Ltd (private consortium)', 'old_value': 'Sean toner (private consortium)'}, "root['chairman']": {'new_value': 'Dara mcgeogh', 'old_value': 'Deluded fan'}, "root['manager']": {'new_value': 'Vinny Perth', 'old_value': 'Declan murphy'}}}
+379: {'values_changed': {"root['ground']": {'new_value': 'Mcgodrick arena', 'old_value': 'Oriel Park'}, "root['owner']": {'new_value': 'Sean toner (private consortium)', 'old_value': 'Dundalk Town FC Ltd (private consortium)'}, "root['chairman']": {'new_value': 'Deluded fan', 'old_value': 'Vacant'}, "root['manager']": {'new_value': 'Declan murphy', 'old_value': 'Vinny Perth'}}}
+380: {'values_changed': {"root['season']": {'new_value': '2020 Dundalk F.C. season', 'old_value': '2021 Dundalk F.C. season'}, "root['position']": {'new_value': '2020 League of Ireland Premier Division', 'old_value': '2021 League of Ireland Premier Division'}}}
+384: {'values_changed': {"root['chairman']": {'new_value': 'Vacant', 'old_value': "Sean O'Connor"}}}
+386: {'values_changed': {"root['manager']": {'new_value': 'Vinny Perth', 'old_value': 'Ralf Rangnick'}}}
+388: {'values_changed': {"root['manager']": {'new_value': 'Ralf Rangnick', 'old_value': 'Vinny Perth'}}}
+392: {'values_changed': {"root['manager']": {'new_value': 'Vinny Perth', 'old_value': 'Vacant'}}}
+393: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Vinny Perth'}}}
+394: {'values_changed': {"root['manager']": {'new_value': 'Vinny Perth', 'old_value': 'Vacant'}}}
+400: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': "Stephen O'Donnell (Irish footballer)"}}}
+433: {'values_changed': {"root['current']": {'new_value': '2021 Dundalk F.C. season ', 'old_value': '2022 Dundalk F.C. season '}}}
+505: {'values_changed': {"root['clubname']": {'new_value': 'Dundalk', 'old_value': 'scumdalk'}, "root['capacity']": {'new_value': '4,500 (3,100 seated)', 'old_value': '500 (100 seated)'}, "root['manager']": {'new_value': "Stephen O'Donnell (Irish footballer)", 'old_value': 'Step(Irish footballer)'}}}
+507: {'values_changed': {"root['clubname']": {'new_value': 'scumdalk', 'old_value': 'Dundalk'}, "root['capacity']": {'new_value': '500 (100 seated)', 'old_value': '4,500 (3,100 seated)'}, "root['manager']": {'new_value': 'Step(Irish footballer)', 'old_value': "Stephen O'Donnell (Irish footballer)"}}}
+508: {'values_changed': {"root['clubname']": {'new_value': 'Dundalk', 'old_value': 'scumdalk'}}}
+509: {'values_changed': {"root['clubname']": {'new_value': 'scumdalk', 'old_value': 'Dundalk'}}}
+510: {'values_changed': {"root['ground']": {'new_value': 'Oriel Park', 'old_value': "Casey's Field"}}}
+528: {'values_changed': {"root['ground']": {'new_value': "Casey's Field", 'old_value': 'Oriel Park'}, "root['season']": {'new_value': '2021 Dundalk F.C. season', 'old_value': '2022 Dundalk F.C. season'}, "root['position']": {'new_value': '2021 League of Ireland Premier Division', 'old_value': '2022 League of Ireland Premier Division'}}}
+536: {'values_changed': {"root['current']": {'new_value': '2022 Dundalk F.C. season ', 'old_value': '2023 Dundalk F.C. season '}}}
+540: {'values_changed': {"root['capacity']": {'new_value': '4,500 (3,100 seated)', 'old_value': '19,400 (18,100 seated)'}}}
+541: {'values_changed': {"root['capacity']": {'new_value': '19,400 (18,100 seated)', 'old_value': '4,500 (3,100 seated)'}}}
+600: {'values_changed': {"root['ground']": {'new_value': 'Oriel Park', 'old_value': 'Oriel Park (Hole Of A Place)'}, "root['owner']": {'new_value': 'Dundalk Town FC Ltd (private consortium)', 'old_value': 'Cork City Fc'}}}
+604: {'values_changed': {"root['ground']": {'new_value': 'Oriel Park (Hole Of A Place)', 'old_value': 'Oriel Park'}, "root['owner']": {'new_value': 'Cork City Fc', 'old_value': 'Dundalk Town FC Ltd (private consortium)'}}}

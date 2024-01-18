@@ -1,0 +1,21 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Shenzhen Universiade Sports Centre,   Shenzhen,   Guangdong, China', "root['capacity']": '60,334', "root['season']": '2018 China League One', "root['owner']": 'Kaisa Group', "root['manager']": 'Juan Ramón López Caro', "root['league']": 'Chinese Super League', "root['position']": 'League One, 2nd (promoted)'}}
+3: {'dictionary_item_removed': {"root['current']": '2019 Shenzhen F.C. season '}}
+45: {'values_changed': {"root['ground']": {'new_value': 'Shenzhen Universiade Sports Centre,   Shenzhen,   Guangdong, China', 'old_value': 'Shenzhen Universiade Sports Centre'}}}
+50: {'values_changed': {"root['manager']": {'new_value': 'Juan Ramón López Caro', 'old_value': 'Roberto Donadoni'}}}
+60: {'values_changed': {"root['league']": {'new_value': 'Chinese Super League', 'old_value': 'Chinese League One'}, "root['position']": {'new_value': 'League One, 2nd (promoted)', 'old_value': 'Super League, 15th (Relegated)'}}}
+61: {'values_changed': {"root['season']": {'new_value': '2018 China League One', 'old_value': '2019 Chinese Super League'}}}
+74: {'values_changed': {"root['league']": {'new_value': 'Chinese League One', 'old_value': 'China League One'}, "root['position']": {'new_value': 'Super League, 15th (Relegated)', 'old_value': 'Chinese Super League, 15th (relegated)'}}}
+80: {'values_changed': {"root['league']": {'new_value': 'China League One', 'old_value': 'Chinese Super League'}, "root['position']": {'new_value': 'Chinese Super League, 15th (relegated)', 'old_value': 'Chinese Super League, 15th'}}}
+103: {'dictionary_item_removed': {"root['clubname']": 'Shenzhen F.C.'}}
+111: {'dictionary_item_removed': {"root['mrgtitle']": 'manager'}, 'values_changed': {"root['clubname']": {'new_value': 'Shenzhen F.C.', 'old_value': 'Shenzhen FC'}, "root['position']": {'new_value': 'Chinese Super League, 15th', 'old_value': 'Chinese Super League, 15th of 16'}}}
+130: {'dictionary_item_added': {"root['mrgtitle']": 'manager'}, 'values_changed': {"root['position']": {'new_value': 'Chinese Super League, 15th of 16', 'old_value': 'CSL, 15th of 16'}}}
+132: {'values_changed': {"root['current']": {'new_value': '2019 Shenzhen F.C. season ', 'old_value': '2020t Shenzhen F.C. season '}}}
+135: {'values_changed': {"root['manager']": {'new_value': 'Roberto Donadoni', 'old_value': 'Jordi Cruyff'}}}
+155: {'values_changed': {"root['season']": {'new_value': '2019 Chinese Super League', 'old_value': '2020 Chinese Super League'}, "root['position']": {'new_value': 'CSL, 15th of 16', 'old_value': 'CSL, 13th of 16'}}}
+158: {'dictionary_item_removed': {"root['mgrtitle']": 'Head coach'}, 'values_changed': {"root['manager']": {'new_value': 'Jordi Cruyff', 'old_value': 'José Carlos Granero'}, "root['season']": {'new_value': '2020 Chinese Super League', 'old_value': '2021 Chinese Super League'}, "root['position']": {'new_value': 'CSL, 13th of 16', 'old_value': 'Super League, 6th of 16'}}}
+159: {'values_changed': {"root['manager']": {'new_value': 'José Carlos Granero', 'old_value': 'Zhang Xiaorui'}}}
+165: {'values_changed': {"root['manager']": {'new_value': 'Zhang Xiaorui', 'old_value': 'Lee Jang-Soo'}}}
+182: {'values_changed': {"root['clubname']": {'new_value': 'Shenzhen FC', 'old_value': 'Shenzhen FC 深圳市足球俱乐部'}}}
+196: {'values_changed': {"root['manager']": {'new_value': 'Lee Jang-Soo', 'old_value': 'Zhang Xiaorui'}}}
+208: {'values_changed': {"root['season']": {'new_value': '2021 Chinese Super League', 'old_value': '2022 Chinese Super League'}, "root['position']": {'new_value': 'Super League, 6th of 16', 'old_value': 'Super League, 14th of 16'}}}
+209: {'values_changed': {"root['position']": {'new_value': 'Super League, 14th of 16', 'old_value': 'Super League, 14th of 18'}}}

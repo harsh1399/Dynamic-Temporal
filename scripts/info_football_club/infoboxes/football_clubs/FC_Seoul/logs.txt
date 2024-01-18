@@ -1,0 +1,19 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'FC Seoul   FC 서울', "root['current']": '2016 FC Seoul season', "root['ground']": 'Seoul World Cup Stadium', "root['capacity']": '66,806', "root['owner']": 'GS Group', "root['chairman']": 'Huh Chang-soo', "root['manager']": 'Choi Yong-soo', "root['league']": 'K League Classic', "root['season']": '2015 K League Classic', "root['position']": '4th'}}
+93: {'values_changed': {"root['capacity']": {'new_value': '66,806', 'old_value': '66,704'}}}
+135: {'values_changed': {"root['manager']": {'new_value': 'Choi Yong-soo', 'old_value': 'Hwang Sun-hong'}}}
+333: {'values_changed': {"root['season']": {'new_value': '2015 K League Classic', 'old_value': '2016 K League Classic'}, "root['position']": {'new_value': '4th', 'old_value': 'K League Classic, 1st'}}}
+400: {'values_changed': {"root['current']": {'new_value': '2016 FC Seoul season', 'old_value': '2017 FC Seoul season'}}}
+405: {'values_changed': {"root['current']": {'new_value': '2017 FC Seoul season', 'old_value': '2018 FC Seoul season'}, "root['season']": {'new_value': '2016 K League Classic', 'old_value': '2017 K League Classic'}, "root['position']": {'new_value': 'K League Classic, 1st', 'old_value': 'K League Classic, 5th'}}}
+414: {'values_changed': {"root['league']": {'new_value': 'K League Classic', 'old_value': 'K League 1'}}}
+478: {'values_changed': {"root['manager']": {'new_value': 'Hwang Sun-hong', 'old_value': 'Lee Eul-yong'}}}
+479: {'values_changed': {"root['manager']": {'new_value': 'Lee Eul-yong', 'old_value': 'Lee Eul-yong (Caretaker manager'}}}
+553: {'values_changed': {"root['manager']": {'new_value': 'Lee Eul-yong (Caretaker manager', 'old_value': 'Choi Yong-soo'}}}
+573: {'values_changed': {"root['season']": {'new_value': '2017 K League Classic', 'old_value': '2018 K League 1'}, "root['position']": {'new_value': 'K League Classic, 5th', 'old_value': 'K League 1, 11th (relegation play off)'}}}
+574: {'values_changed': {"root['position']": {'new_value': 'K League 1, 11th (relegation play off)', 'old_value': 'K League 1, 11th'}}}
+593: {'values_changed': {"root['current']": {'new_value': '2018 FC Seoul season', 'old_value': '2019 FC Seoul season'}}}
+594: {'values_changed': {"root['clubname']": {'new_value': 'FC Seoul   FC 서울', 'old_value': 'FC Seoul'}, "root['current']": {'new_value': '2019 FC Seoul season', 'old_value': '2021 FC Seoul season'}, "root['chairman']": {'new_value': 'Huh Chang-soo', 'old_value': 'Huh Tae-soo'}, "root['manager']": {'new_value': 'Choi Yong-soo', 'old_value': 'An Ik-soo'}, "root['season']": {'new_value': '2018 K League 1', 'old_value': '2021 K League 1'}, "root['position']": {'new_value': 'K League 1, 11th', 'old_value': 'K League 1, 7th of 12'}}}
+612: {'dictionary_item_added': {"root['position']": 'K League 1, 7th of 12'}, 'values_changed': {"root['season']": {'new_value': '2021 K League 1', 'old_value': '2022 K League 1'}}}
+619: {'values_changed': {"root['current']": {'new_value': '2021 FC Seoul season', 'old_value': '2022 FC Seoul season'}}}
+638: {'dictionary_item_removed': {"root['position']": 'K League 1, 9th of 12'}, 'values_changed': {"root['season']": {'new_value': '2022 K League 1', 'old_value': '2021 K League 1'}}}
+691: {'values_changed': {"root['season']": {'new_value': '2021 K League 1', 'old_value': '2022 K League 1'}}}
+791: {'values_changed': {"root['current']": {'new_value': '2022 FC Seoul season', 'old_value': '2023 FC Seoul season'}}}

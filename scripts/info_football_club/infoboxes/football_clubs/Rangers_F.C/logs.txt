@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['motto']": 'Ready', "root['shortname']": 'RFC', "root['clubname']": 'Rangers', "root['owner']": 'The Rangers Football Club Ltd', "root['chrtitle']": 'Chairman', "root['chairman']": 'Dave King (businessman)', "root['ground']": 'Ibrox Stadium', "root['capacity']": '50,817', "root['mgrtitle']": 'Manager', "root['manager']": 'Steven Gerrard', "root['league']": 'Scottish football updater', "root['season']": 'Scottish football updater', "root['position']": 'Scottish football updater', "root['current']": '2018–19 Rangers F.C. season'}}
+138: {'dictionary_item_added': {"root['motto']": 'Ready', "root['shortname']": 'RFC'}, 'values_changed': {"root['current']": {'new_value': '2018–19 Rangers F.C. season', 'old_value': '2019–20 Rangers F.C. season'}}}
+297: {'values_changed': {"root['owner']": {'new_value': 'The Rangers Football Club Ltd', 'old_value': 'Ownership of Rangers F.C.'}}}
+359: {'values_changed': {"root['chairman']": {'new_value': 'Dave King (businessman)', 'old_value': 'Douglas Park (businessman)'}, "root['manager']": {'new_value': 'Steven Gerrard', 'old_value': 'Michael Beale (football coach)'}, "root['current']": {'new_value': '2019–20 Rangers F.C. season', 'old_value': '2022–23 Rangers F.C. season'}}}
+365: {'values_changed': {"root['capacity']": {'new_value': '50,817', 'old_value': '50,987'}}}
+386: {'dictionary_item_added': {"root['ground']": 'Ibrox Stadium'}, 'values_changed': {"root['chairman']": {'new_value': 'Douglas Park (businessman)', 'old_value': 'John Bennett'}}}
+390: {'dictionary_item_removed': {"root['ground']": 'Ibrox Stadium'}}
+415: {'values_changed': {"root['current']": {'new_value': '2022–23 Rangers F.C. season', 'old_value': '2023–24 Rangers F.C. season'}}}

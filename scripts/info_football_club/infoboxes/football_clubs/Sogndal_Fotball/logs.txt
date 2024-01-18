@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Sogndal', "root['current']": '2017 Sogndal Fotball season', "root['ground']": 'Fosshaugane Campus, Sogndal', "root['capacity']": '5,622', "root['chairman']": 'Tor Arne Ness', "root['manager']": 'Eirik Bakke', "root['mgrtitle']": 'Head coach', "root['league']": 'Eliteserien (football)', "root['season']": 'OBOS-ligaen', "root['position']": 'Eliteserien, 14th'}}
+1: {'dictionary_item_added': {"root['season']": 'OBOS-ligaen'}, 'values_changed': {"root['league']": {'new_value': 'Eliteserien (football)', 'old_value': 'OBOS-ligaen'}}}
+3: {'values_changed': {"root['position']": {'new_value': 'Eliteserien, 14th', 'old_value': 'Eliteserien, 14th (relegated)'}}}
+37: {'values_changed': {"root['current']": {'new_value': '2017 Sogndal Fotball season', 'old_value': '2018 Sogndal Fotball season'}}}
+44: {'values_changed': {"root['position']": {'new_value': 'Eliteserien, 14th (relegated)', 'old_value': 'OBOS-ligaen, 4th'}}}
+46: {'values_changed': {"root['league']": {'new_value': 'OBOS-ligaen', 'old_value': '1. divisjon'}, "root['position']": {'new_value': 'OBOS-ligaen, 4th', 'old_value': '1. divisjon, 4th of 16'}}}
+47: {'dictionary_item_removed': {"root['season']": '2021 1. divisjon'}, 'values_changed': {"root['position']": {'new_value': '1. divisjon, 4th of 16', 'old_value': '1. divisjon, 6th of 16'}}}
+50: {'values_changed': {"root['manager']": {'new_value': 'Eirik Bakke', 'old_value': 'Tore André Flo'}}}
+73: {'values_changed': {"root['season']": {'new_value': '2021 1. divisjon', 'old_value': '2022 1. divisjon'}, "root['position']": {'new_value': '1. divisjon, 6th of 16', 'old_value': '1. divisjon, 7th of 16'}}}

@@ -1,0 +1,48 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Borussia Dortmund', "root['current']": '2017–18 Borussia Dortmund season', "root['ground']": 'Westfalenstadion', "root['capacity']": '81,359', "root['owntitle']": 'President', "root['owner']": 'Reinhard Rauball', "root['chairman']": 'Hans-Joachim Watzke  (CEO)', "root['mgrtitle']": 'Head Coach', "root['manager']": 'Peter Stöger', "root['league']": 'Bundesliga', "root['season']": '2016–17 Bundesliga', "root['position']": '3rd'}}
+56: {'values_changed': {"root['ground']": {'new_value': 'Westfalenstadion', 'old_value': 'Signal Iduna Park'}}}
+57: {'values_changed': {"root['ground']": {'new_value': 'Signal Iduna Park', 'old_value': 'Westfalenstadion'}}}
+89: {'values_changed': {"root['ground']": {'new_value': 'Westfalenstadion', 'old_value': 'Signal Iduna Park'}}}
+90: {'values_changed': {"root['ground']": {'new_value': 'Signal Iduna Park', 'old_value': 'Westfalenstadion'}}}
+99: {'values_changed': {"root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': '2017-18 Bundesliga'}, "root['position']": {'new_value': '3rd', 'old_value': '4th'}}}
+100: {'values_changed': {"root['season']": {'new_value': '2017-18 Bundesliga', 'old_value': '2016–17 Bundesliga'}, "root['position']": {'new_value': '4th', 'old_value': '3rd'}}}
+101: {'values_changed': {"root['season']": {'new_value': '2016–17 Bundesliga', 'old_value': '2017–18 Bundesliga'}, "root['position']": {'new_value': '3rd', 'old_value': '4th'}}}
+110: {'dictionary_item_added': {"root['clubname']": 'Borussia Dortmund'}, 'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Vacant'}, "root['season']": {'new_value': '2017–18 Bundesliga', 'old_value': 'Start date and age'}}}
+111: {'dictionary_item_removed': {"root['clubname']": 'Borussia Dortmund'}, 'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Peter Stöger'}, "root['season']": {'new_value': 'Start date and age', 'old_value': '2017–18 Bundesliga'}}}
+112: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Vacant'}}}
+113: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Peter Stöger'}}}
+119: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucien Favre'}}}
+120: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Peter Stöger'}}}
+121: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucien Favre'}}}
+122: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Peter Stöger'}}}
+124: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucien Favre'}}}
+125: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Manager'}}}
+126: {'values_changed': {"root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head Coach'}, "root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Peter Stöger'}}}
+127: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucian Favre'}}}
+128: {'values_changed': {"root['manager']": {'new_value': 'Lucian Favre', 'old_value': 'Lucien Favre'}}}
+173: {'values_changed': {"root['clubname']": {'new_value': 'Borussia Dortmund', 'old_value': 'Borussia DortmundVPower'}}}
+174: {'values_changed': {"root['clubname']": {'new_value': 'Borussia DortmundVPower', 'old_value': 'Borussia Dortmund'}}}
+177: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Peter Stöger'}}}
+178: {'values_changed': {"root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucien Favre'}}}
+181: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre', 'old_value': 'Peter Stöger'}}}
+204: {'values_changed': {"root['mgrtitle']": {'new_value': 'Head Coach', 'old_value': 'Head coach'}, "root['manager']": {'new_value': 'Peter Stöger', 'old_value': 'Lucien Favre<ref name'}}}
+205: {'values_changed': {"root['current']": {'new_value': '2017–18 Borussia Dortmund season', 'old_value': '2018–19 Borussia Dortmund season'}}}
+292: {'values_changed': {"root['capacity']": {'new_value': '81,359', 'old_value': '81,365'}}}
+342: {'values_changed': {"root['current']": {'new_value': '2018–19 Borussia Dortmund season', 'old_value': '2019–20 Borussia Dortmund season'}, "root['season']": {'new_value': '2017–18 Bundesliga', 'old_value': '2018–19 Bundesliga'}, "root['position']": {'new_value': '4th', 'old_value': '2nd'}}}
+422: {'values_changed': {"root['season']": {'new_value': '2018–19 Bundesliga', 'old_value': '2019–20 Bundesliga'}}}
+423: {'values_changed': {"root['season']": {'new_value': '2019–20 Bundesliga', 'old_value': '2018–19 Bundesliga'}}}
+425: {'values_changed': {"root['season']": {'new_value': '2018–19 Bundesliga', 'old_value': '2019–20 Bundesliga'}}}
+426: {'values_changed': {"root['league']": {'new_value': 'Bundesliga', 'old_value': 'German football updater'}, "root['season']": {'new_value': '2019–20 Bundesliga', 'old_value': 'German football updater'}, "root['position']": {'new_value': '2nd', 'old_value': 'German football updater'}}}
+441: {'values_changed': {"root['current']": {'new_value': '2019–20 Borussia Dortmund season', 'old_value': '2020–21 Borussia Dortmund season'}}}
+540: {'values_changed': {"root['manager']": {'new_value': 'Lucien Favre<ref name', 'old_value': 'Edin Terzić (footballer)'}}}
+594: {'values_changed': {"root['season']": {'new_value': 'German football updater', 'old_value': 'Start date and age'}}}
+619: {'values_changed': {"root['manager']": {'new_value': 'Edin Terzić (footballer)', 'old_value': 'Marco Rose'}}}
+620: {'values_changed': {"root['current']": {'new_value': '2020–21 Borussia Dortmund season', 'old_value': '2021–22 Borussia Dortmund season'}}}
+658: {'dictionary_item_removed': {"root['prevseason']": '2020–21', "root['stadium']": 'Bundesliga'}}
+675: {'dictionary_item_added': {"root['prevseason']": '2020–21', "root['stadium']": 'Bundesliga'}, 'dictionary_item_removed': {"root['chrtitle']": 'CEO'}, 'values_changed': {"root['chairman']": {'new_value': 'Hans-Joachim Watzke  (CEO)', 'old_value': 'Hans-Joachim Watzke'}}}
+718: {'values_changed': {"root['manager']": {'new_value': 'Marco Rose', 'old_value': 'vacant'}}}
+723: {'values_changed': {"root['manager']": {'new_value': 'vacant', 'old_value': 'Edin Terzić'}}}
+724: {'values_changed': {"root['manager']": {'new_value': 'Edin Terzić', 'old_value': "''Vacant''"}}}
+725: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Edin Terzić (footballer)'}}}
+729: {'values_changed': {"root['current']": {'new_value': '2021–22 Borussia Dortmund season', 'old_value': '2022–23 Borussia Dortmund season'}}}
+812: {'values_changed': {"root['owner']": {'new_value': 'Reinhard Rauball', 'old_value': 'Reinhold Lunow'}}}
+854: {'values_changed': {"root['current']": {'new_value': '2022–23 Borussia Dortmund season', 'old_value': '2023–24 Borussia Dortmund season'}}}

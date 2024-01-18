@@ -1,0 +1,43 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Gelora Bung Tomo Stadium, Surabaya', "root['capacity']": '55.000', "root['owntitle']": 'Investors', "root['owner']": 'Jawa Pos Group', "root['chrtitle']": 'President', "root['chairman']": 'Azrul Ananda', "root['mgrtitle']": 'Head coach', "root['manager']": 'Angel Alfredo Vera', "root['league']": 'Liga 1 (Indonesia)', "root['season']": '2017 Liga 2', "root['position']": 'Liga 2 (Indonesia)'}}
+25: {'dictionary_item_removed': {"root['advisor']": 'Dahlan Iskan'}}
+165: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Tomo Stadium, Surabaya', 'old_value': 'Gelora Bung Tomo Stadium'}, "root['capacity']": {'new_value': '55.000', 'old_value': '55,000'}}}
+170: {'dictionary_item_removed': {"root['current']": '2018 Persebaya Surabaya season'}}
+172: {'values_changed': {"root['owner']": {'new_value': 'Jawa Pos Group', 'old_value': 'PT. DBL Indonesia'}}}
+175: {'values_changed': {"root['chairman']": {'new_value': 'Azrul Ananda', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Angel Alfredo Vera', 'old_value': 'flagicon'}}}
+177: {'values_changed': {"root['current']": {'new_value': '2018 Persebaya Surabaya season', 'old_value': '2018 Persebaya Surabaya'}}}
+178: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Azrul Ananda'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Angel Alfredo Vera'}}}
+184: {'values_changed': {"root['current']": {'new_value': '2018 Persebaya Surabaya', 'old_value': '2018 Persebaya Surabaya season'}}}
+186: {'values_changed': {"root['chairman']": {'new_value': 'Azrul Ananda', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Angel Alfredo Vera', 'old_value': 'flagicon'}}}
+200: {'values_changed': {"root['ground']": {'new_value': 'Gelora Bung Tomo Stadium', 'old_value': 'Gelora Jancok Stadium'}, "root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 3 (Indonesia)'}}}
+201: {'values_changed': {"root['ground']": {'new_value': 'Gelora Jancok Stadium', 'old_value': 'Gelora Bung Tomo Stadium'}, "root['league']": {'new_value': 'Liga 3 (Indonesia)', 'old_value': 'Liga 1 (Indonesia)'}}}
+205: {'values_changed': {"root['owner']": {'new_value': 'PT. DBL Indonesia', 'old_value': 'PT DBL Indonesia'}}}
+221: {'values_changed': {"root['chairman']": {'new_value': 'flagicon', 'old_value': 'Azrul Ananda'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Bejo Sugiantoro (caretaker)'}}}
+228: {'values_changed': {"root['manager']": {'new_value': 'Bejo Sugiantoro (caretaker)', 'old_value': 'Vacant'}}}
+229: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Djajang Nurjaman'}}}
+232: {'values_changed': {"root['manager']": {'new_value': 'Djajang Nurjaman', 'old_value': 'Djajang Nurdjaman'}}}
+242: {'dictionary_item_added': {"root['owntitle']": 'Investors'}, 'values_changed': {"root['owner']": {'new_value': 'PT DBL Indonesia', 'old_value': 'PT Persebaya Indonesia'}}}
+247: {'values_changed': {"root['owner']": {'new_value': 'PT Persebaya Indonesia', 'old_value': 'PT. Persebaya Indonesia'}}}
+248: {'values_changed': {"root['owner']": {'new_value': 'PT. Persebaya Indonesia', 'old_value': 'PT Persebaya Indonesia'}}}
+249: {'values_changed': {"root['owner']": {'new_value': 'PT Persebaya Indonesia', 'old_value': 'PT. Persebaya Indonesia'}}}
+256: {'values_changed': {"root['owner']": {'new_value': 'PT. Persebaya Indonesia', 'old_value': 'PT Persebaya Indonesia'}}}
+261: {'values_changed': {"root['owner']": {'new_value': 'PT Persebaya Indonesia', 'old_value': 'PT. Persebaya Indonesia'}}}
+265: {'values_changed': {"root['manager']": {'new_value': 'Djajang Nurdjaman', 'old_value': 'Djajang Nurjaman'}}}
+266: {'values_changed': {"root['manager']": {'new_value': 'Djajang Nurjaman', 'old_value': 'Djajang Nurdjaman'}}}
+272: {'values_changed': {"root['season']": {'new_value': '2017 Liga 2', 'old_value': '2018 Liga 2'}, "root['position']": {'new_value': 'Liga 2 (Indonesia)', 'old_value': 'Liga 1 (Indonesia)'}}}
+274: {'values_changed': {"root['season']": {'new_value': '2018 Liga 2', 'old_value': '2018 Liga 1'}}}
+294: {'values_changed': {"root['position']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 1, 5th'}}}
+295: {'type_changes': {"root['owner']": {'old_type': <class 'list'>, 'new_type': <class 'str'>, 'old_value': ['Koperasi Surya Abadi Persebaya (30%)', 'PT. DBL (Developmental Basketball League) Indonesia (70%)'], 'new_value': 'PT. Persebaya Indonesia'}}, 'dictionary_item_added': {"root['advisor']": 'Dahlan Iskan'}, 'dictionary_item_removed': {"root['clubname']": 'Persebaya Surabaya '}, 'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '46,806'}, "root['manager']": {'new_value': 'Djajang Nurdjaman', 'old_value': 'Aji Santoso'}, "root['season']": {'new_value': '2018 Liga 1', 'old_value': '2019 Liga 1'}, "root['position']": {'new_value': 'Liga 1, 5th', 'old_value': 'Liga 1, 2nd'}, "root['current']": {'new_value': '2018 Persebaya Surabaya season', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+319: {'values_changed': {"root['league']": {'new_value': 'Liga 1 (Indonesia)', 'old_value': 'Liga 2 (Indonesia)'}}}
+320: {'values_changed': {"root['league']": {'new_value': 'Liga 2 (Indonesia)', 'old_value': 'Liga 1 (Indonesia)'}}}
+325: {'values_changed': {"root['season']": {'new_value': '2019 Liga 1', 'old_value': '2021–22 Liga 1 (Indonesia)'}, "root['position']": {'new_value': 'Liga 1, 2nd', 'old_value': 'Liga 1 (Indonesia)'}}}
+424: {'dictionary_item_added': {"root['mgrtitle']": 'Head coach'}, 'dictionary_item_removed': {"root['coach']": 'Aji Santoso'}, 'values_changed': {"root['manager']": {'new_value': 'Aji Santoso', 'old_value': 'Yahya Hasan Alkatiri'}}}
+465: {'values_changed': {"root['clubname']": {'new_value': 'Persebaya Surabaya ', 'old_value': 'Surabaya '}}}
+466: {'values_changed': {"root['clubname']": {'new_value': 'Surabaya ', 'old_value': 'Persebaya Surabaya '}}}
+469: {'iterable_item_added': {"root['owner'][0]": 'Koperasi Surya Abadi Persebaya (30%)', "root['owner'][1]": 'PT. DBL (Developmental Basketball League) Indonesia (70%)'}}
+515: {'values_changed': {"root['current']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+517: {'values_changed': {"root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+527: {'values_changed': {"root['season']": {'new_value': '2022–23 Liga 1 (Indonesia)', 'old_value': '2021–22 Liga 1 (Indonesia)'}}}
+549: {'values_changed': {"root['season']": {'new_value': '2021–22 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}}}
+569: {'values_changed': {"root['manager']": {'new_value': 'Yahya Hasan Alkatiri', 'old_value': 'Yahya Alkatiri'}}}
+605: {'values_changed': {"root['season']": {'new_value': '2022–23 Liga 1 (Indonesia)', 'old_value': '2023–24 Liga 1 (Indonesia)'}}}
+606: {'values_changed': {"root['season']": {'new_value': '2023–24 Liga 1 (Indonesia)', 'old_value': '2022–23 Liga 1 (Indonesia)'}, "root['current']": {'new_value': '2022–23 Liga 1 (Indonesia)', 'old_value': '2023–24 Liga 1 (Indonesia)'}}}

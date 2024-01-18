@@ -1,0 +1,54 @@
+0: {'dictionary_item_removed': {"root['ground']": 'Priestfield Stadium', "root['capacity']": '11,582', "root['season']": 'English football updater', "root['current']": '2020–21 Gillingham F.C. season', "root['clubname']": 'Gillingham', "root['chairman']": 'Paul Scally', "root['manager']": 'Steve Evans (footballer, born 1962)', "root['league']": 'English football updater', "root['position']": 'English football updater'}}
+22: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Sadik Khan'}, "root['manager']": {'new_value': 'Steve Evans (footballer, born 1962)', 'old_value': 'Aaron Ramsey (footballer, born 1992)'}}}
+23: {'values_changed': {"root['chairman']": {'new_value': 'Sadik Khan', 'old_value': 'Paul Scally'}, "root['manager']": {'new_value': 'Aaron Ramsey (footballer, born 1992)', 'old_value': 'Steve Evans (footballer, born 1962)'}}}
+65: {'values_changed': {"root['manager']": {'new_value': 'Steve Evans (footballer, born 1962)', 'old_value': 'Daniel “The Bullet” Palmer'}}}
+66: {'values_changed': {"root['manager']": {'new_value': 'Daniel “The Bullet” Palmer', 'old_value': 'Steve Evans (footballer, born 1962)'}}}
+73: {'values_changed': {"root['current']": {'new_value': '2020–21 Gillingham F.C. season', 'old_value': '2021–22 Gillingham F.C. season'}}}
+142: {'values_changed': {"root['ground']": {'new_value': 'Priestfield Stadium', 'old_value': 'abdul arena'}}}
+143: {'values_changed': {"root['capacity']": {'new_value': '11,582', 'old_value': '1999999999'}}}
+144: {'values_changed': {"root['ground']": {'new_value': 'abdul arena', 'old_value': 'Priestfield Stadium'}, "root['capacity']": {'new_value': '1999999999', 'old_value': '11,582'}}}
+176: {'values_changed': {"root['manager']": {'new_value': 'Steve Evans (footballer, born 1962)', 'old_value': "''Vacant''"}}}
+177: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Paul Scally WE WANT SCALLY OUT SAY WE WANT SCALLY OUT!!!!'}}}
+178: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally WE WANT SCALLY OUT SAY WE WANT SCALLY OUT!!!!', 'old_value': 'Paul Scally'}}}
+179: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Steve Lovell (Welsh footballer'}}}
+180: {'values_changed': {"root['manager']": {'new_value': 'Steve Lovell (Welsh footballer', 'old_value': 'Steve Lovell (Welsh footballer)'}}}
+182: {'dictionary_item_removed': {"root['mgrtitle']": 'Caretaker manager'}}
+205: {'dictionary_item_added': {"root['mgrtitle']": 'Caretaker manager'}, 'values_changed': {"root['manager']": {'new_value': 'Steve Lovell (Welsh footballer)', 'old_value': 'Neil Harris (footballer, born 1977)'}}}
+220: {'values_changed': {"root['ground']": {'new_value': 'Priestfield Stadium', 'old_value': 'Schaffolding Stadium'}, "root['capacity']": {'new_value': '11,582', 'old_value': '12'}}}
+221: {'values_changed': {"root['ground']": {'new_value': 'Schaffolding Stadium', 'old_value': 'Priestfield Stadium'}, "root['capacity']": {'new_value': '12', 'old_value': '11,582'}}}
+309: {'values_changed': {"root['current']": {'new_value': '2021–22 Gillingham F.C. season', 'old_value': '2028-22 Gillingham F.C. season'}}}
+310: {'values_changed': {"root['ground']": {'new_value': 'Priestfield Stadium', 'old_value': 'PriestStadium'}}}
+311: {'values_changed': {"root['ground']": {'new_value': 'PriestStadium', 'old_value': 'Priestfield Stadium'}, "root['current']": {'new_value': '2028-22 Gillingham F.C. season', 'old_value': '2021–22 Gillingham F.C. season'}}}
+312: {'values_changed': {"root['current']": {'new_value': '2021–22 Gillingham F.C. season', 'old_value': '2022–23 Gillingham F.C. season'}}}
+323: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Paul Scally, the chairman nobody likes'}}}
+324: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally, the chairman nobody likes', 'old_value': 'Paul Scally'}}}
+342: {'dictionary_item_removed': {"root['CEO']": 'Paul Fisher'}}
+351: {'dictionary_item_added': {"root['CEO']": 'Paul Fisher'}, 'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Brad Galinson'}}}
+352: {'values_changed': {"root['chairman']": {'new_value': 'Brad Galinson', 'old_value': 'Paul Scally'}}}
+353: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Brad Galinson'}}}
+355: {'values_changed': {"root['chairman']": {'new_value': 'Brad Galinson', 'old_value': 'Paul Scally'}}}
+356: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Brad Galinson'}}}
+357: {'values_changed': {"root['chairman']": {'new_value': 'Brad Galinson', 'old_value': 'Paul Scally'}}}
+380: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Brad Galinson'}}}
+381: {'values_changed': {"root['chairman']": {'new_value': 'Brad Galinson', 'old_value': 'Paul Scally'}}}
+383: {'dictionary_item_removed': {"root['chrtitle']": 'Co-chairmen'}, 'values_changed': {"root['chairman']": {'new_value': 'Paul Scally', 'old_value': 'Paul Scally, Paul Fisher'}}}
+384: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally, Paul Fisher', 'old_value': 'BRAD GALINSON>'}}}
+385: {'dictionary_item_added': {"root['chairman']": 'BRAD GALINSON>', "root['chrtitle']": 'Co-chairmen'}, 'dictionary_item_removed': {"root['owner']": '{Brad Galinson}'}}
+386: {'values_changed': {"root['owner']": {'new_value': '{Brad Galinson}', 'old_value': 'Brad Galinson'}}}
+387: {'dictionary_item_removed': {"root['chairman']": 'Paul Scally Paul Fisher', "root['chrtitle']": 'Co-chairmen'}, 'values_changed': {"root['owner']": {'new_value': 'Brad Galinson', 'old_value': 'Brad Galinson (majority) Paul Scally (minority)'}}}
+388: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally Paul Fisher', 'old_value': 'Brad Galinson Paul Fisher'}}}
+392: {'values_changed': {"root['chairman']": {'new_value': 'Brad Galinson Paul Fisher', 'old_value': 'Paul Scally Paul Fisher'}}}
+394: {'values_changed': {"root['ground']": {'new_value': 'Priestfield Stadium', 'old_value': 'Stadium'}, "root['clubname']": {'new_value': 'Gillingham', 'old_value': 'Gillingham relegation battlers'}}}
+395: {'values_changed': {"root['ground']": {'new_value': 'Stadium', 'old_value': 'Priestfield Stadium'}, "root['clubname']": {'new_value': 'Gillingham relegation battlers', 'old_value': 'Gillingham'}}}
+396: {'values_changed': {"root['chairman']": {'new_value': 'Paul Scally Paul Fisher', 'old_value': 'Prick Scally Paul Fisher'}, "root['owner']": {'new_value': 'Brad Galinson (majority) Paul Scally (minority)', 'old_value': 'Brad Galinson (majority) Prick Scally (minority)'}}}
+397: {'values_changed': {"root['chairman']": {'new_value': 'Prick Scally Paul Fisher', 'old_value': 'Paul Scally Paul Fisher'}, "root['owner']": {'new_value': 'Brad Galinson (majority) Prick Scally (minority)', 'old_value': 'Brad Galinson (majority) Paul Scally (minority)'}}}
+398: {'values_changed': {"root['capacity']": {'new_value': '11,582', 'old_value': '41,582'}}}
+399: {'values_changed': {"root['manager']": {'new_value': 'Neil Harris (footballer, born 1977)', 'old_value': 'Nil Harris (footballer, born 1977)'}}}
+400: {'values_changed': {"root['capacity']": {'new_value': '41,582', 'old_value': '11,582'}}}
+401: {'values_changed': {"root['manager']": {'new_value': 'Nil Harris (footballer, born 1977)', 'old_value': 'Neil Harris (footballer, born 1977)'}}}
+403: {'values_changed': {"root['manager']": {'new_value': 'Neil Harris (footballer, born 1977)', 'old_value': 'Nil Harris (footballer, born 1977)'}}}
+404: {'values_changed': {"root['manager']": {'new_value': 'Nil Harris (footballer, born 1977)', 'old_value': 'Neil Harris (footballer, born 1977)'}}}
+407: {'values_changed': {"root['manager']": {'new_value': 'Neil Harris (footballer, born 1977)', 'old_value': 'Nil Harris (footballer, born 1977)'}}}
+408: {'values_changed': {"root['manager']": {'new_value': 'Nil Harris (footballer, born 1977)', 'old_value': 'Neil Harris (footballer, born 1977)'}}}
+409: {'values_changed': {"root['manager']": {'new_value': 'Neil Harris (footballer, born 1977)', 'old_value': 'waste of space (footballer, born 1977)'}}}
+412: {'values_changed': {"root['manager']": {'new_value': 'waste of space (footballer, born 1977)', 'old_value': 'Neil Harris (footballer, born 1977)'}}}

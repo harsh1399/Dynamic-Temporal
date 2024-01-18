@@ -1,0 +1,30 @@
+9: {'dictionary_item_removed': {"root['clubname']": 'Calcio Como', "root['ground']": 'Stadio Giuseppe Sinigaglia', "root['capacity']": '13,602', "root['owner']": 'S3C', "root['chrtitle']": 'President', "root['chairman']": 'Francesco Di Michele (receiver), Gianluca Zambrotta (honorary)', "root['manager']": 'Fabio Gallo', "root['league']": 'Lega Pro', "root['season']": '2015–16 Serie B', "root['position']": 'Serie B, 22nd (relegated)'}}
+18: {'values_changed': {"root['owner']": {'new_value': 'S3C', 'old_value': 'Akosua Puni Essien'}}}
+19: {'values_changed': {"root['owner']": {'new_value': 'Akosua Puni Essien', 'old_value': 'S3C'}}}
+20: {'values_changed': {"root['owner']": {'new_value': 'S3C', 'old_value': 'Akosua Puni Essien'}}}
+21: {'values_changed': {"root['owner']": {'new_value': 'Akosua Puni Essien', 'old_value': 'S3C'}}}
+33: {'values_changed': {"root['chairman']": {'new_value': 'Francesco Di Michele (receiver), Gianluca Zambrotta (honorary)', 'old_value': 'Akosua Puni Essien'}}}
+47: {'values_changed': {"root['season']": {'new_value': '2015–16 Serie B', 'old_value': '2016-17 Lega Pro'}, "root['position']": {'new_value': 'Serie B, 22nd (relegated)', 'old_value': 'Lega Pro , 7th'}}}
+48: {'values_changed': {"root['position']": {'new_value': 'Lega Pro , 7th', 'old_value': 'Lega Pro, 7th'}}}
+55: {'values_changed': {"root['clubname']": {'new_value': 'Calcio Como', 'old_value': 'F.C. Como'}}}
+56: {'values_changed': {"root['manager']": {'new_value': 'Fabio Gallo', 'old_value': 'Mark Iuliano'}}}
+57: {'values_changed': {"root['chairman']": {'new_value': 'Akosua Puni Essien', 'old_value': "''Vacant''"}}}
+59: {'dictionary_item_added': {"root['owner']": 'S3C'}, 'dictionary_item_removed': {"root['defunct']": '2017'}, 'values_changed': {"root['clubname']": {'new_value': 'F.C. Como', 'old_value': 'Calcio Como'}, "root['chrtitle']": {'new_value': 'President', 'old_value': 'Chairman'}}}
+60: {'dictionary_item_added': {"root['defunct']": '2017'}, 'dictionary_item_removed': {"root['dissolved']": '2017'}}
+65: {'dictionary_item_removed': {"root['owner']": 'F.C. Como'}}
+76: {'dictionary_item_added': {"root['league']": 'Lega Pro'}, 'values_changed': {"root['owner']": {'new_value': 'F.C. Como', 'old_value': 'Akosua Puni Essien'}}}
+78: {'dictionary_item_removed': {"root['league']": 'Serie D'}}
+81: {'dictionary_item_added': {"root['dissolved']": '2017'}, 'values_changed': {"root['clubname']": {'new_value': 'Calcio Como', 'old_value': 'F.C. Como'}}}
+87: {'values_changed': {"root['position']": {'new_value': 'Lega Pro, 7th', 'old_value': 'Lega Pro, 7th (relegated)'}}}
+94: {'dictionary_item_added': {"root['owner']": 'Akosua Puni Essien', "root['chairman']": "''Vacant''"}, 'values_changed': {"root['clubname']": {'new_value': 'F.C. Como', 'old_value': 'Como 1907'}}}
+105: {'values_changed': {"root['manager']": {'new_value': 'Mark Iuliano', 'old_value': 'Antonio Andreucci'}}}
+113: {'values_changed': {"root['clubname']": {'new_value': 'Como 1907', 'old_value': 'Como'}, "root['season']": {'new_value': '2016-17 Lega Pro', 'old_value': '2017-18 Serie D'}, "root['position']": {'new_value': 'Lega Pro, 7th (relegated)', 'old_value': 'Serie D, 2nd'}}}
+117: {'values_changed': {"root['manager']": {'new_value': 'Antonio Andreucci', 'old_value': 'Marco Banchini'}}}
+138: {'values_changed': {"root['league']": {'new_value': 'Serie D', 'old_value': 'Serie C'}, "root['season']": {'new_value': '2017-18 Serie D', 'old_value': '2018–19 Serie D'}, "root['position']": {'new_value': 'Serie D, 2nd', 'old_value': 'Serie D'}}}
+167: {'dictionary_item_added': {"root['chrtitle']": 'Chairman'}, 'dictionary_item_removed': {"root['owner']": 'Djarum Group', "root['mgrtitle']": 'Head coach'}}
+169: {'values_changed': {"root['owner']": {'new_value': 'Djarum Group', 'old_value': 'Djarum'}, "root['manager']": {'new_value': 'Marco Banchini', 'old_value': 'Giacomo Gattuso'}, "root['league']": {'new_value': 'Serie C', 'old_value': 'Italian football updater'}, "root['season']": {'new_value': '2018–19 Serie D', 'old_value': 'Italian football updater'}, "root['position']": {'new_value': 'Serie D', 'old_value': 'Italian football updater'}}}
+210: {'dictionary_item_removed': {"root['chairman']": 'Dennis Wise'}}
+230: {'dictionary_item_removed': {"root['chrtitle']": 'CEO'}}
+254: {'values_changed': {"root['chrtitle']": {'new_value': 'CEO', 'old_value': 'President'}}}
+262: {'dictionary_item_removed': {"root['current']": '2022–23 Como 1907 season '}}
+281: {'values_changed': {"root['manager']": {'new_value': 'Giacomo Gattuso', 'old_value': 'Moreno Longo'}}}

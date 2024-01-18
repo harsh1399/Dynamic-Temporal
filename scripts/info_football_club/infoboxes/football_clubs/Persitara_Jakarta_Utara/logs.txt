@@ -1,0 +1,18 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Persitara Jakarta Utara', "root['ground']": 'Tugu Stadium', "root['fansgroup']": 'NJ Mania', "root['capacity']": '5,000 (Tugu Stadium)', "root['owner']": '(PT. Jakarta Utara Sejahtera)', "root['chairman']": 'Kevin Valentino', "root['manager']": 'Effendi Syahputra', "root['coach']": 'Rochi Putiray', "root['league']": 'Liga 3 (Indonesia)', "root['season']": '2020 Liga 3', "root['position']": 'Liga 3 (Indonesia)'}}
+2: {'values_changed': {"root['capacity']": {'new_value': '5,000 (Tugu Stadium)', 'old_value': '5,000'}, "root['owner']": {'new_value': '(PT. Jakarta Utara Sejahtera)', 'old_value': 'PT. Jakarta Utara Sejahtera'}}}
+4: {'dictionary_item_added': {"root['fansgroup']": 'NJ Mania'}, 'values_changed': {"root['owner']": {'new_value': 'PT. Jakarta Utara Sejahtera', 'old_value': 'PT. Persitara Sejahtera'}}}
+5: {'values_changed': {"root['ground']": {'new_value': 'Tugu Stadium', 'old_value': 'Tugu StadiumbrNorth Jakarta, Indonesia'}}}
+9: {'values_changed': {"root['chairman']": {'new_value': 'Kevin Valentino', 'old_value': 'M Nuh Nasution'}, "root['manager']": {'new_value': 'Effendi Syahputra', 'old_value': 'Suaib SH.MM'}, "root['coach']": {'new_value': 'Rochi Putiray', 'old_value': 'Elly Idris'}}}
+11: {'values_changed': {"root['season']": {'new_value': '2020 Liga 3', 'old_value': '2021 Liga 3'}}}
+13: {'dictionary_item_added': {"root['season']": '2021 Liga 3', "root['position']": 'Liga 3 (Indonesia)'}, 'values_changed': {"root['capacity']": {'new_value': '5,000', 'old_value': '7,000'}, "root['chairman']": {'new_value': 'M Nuh Nasution', 'old_value': 'flagicon'}, "root['manager']": {'new_value': 'Suaib SH.MM', 'old_value': 'flagicon'}, "root['coach']": {'new_value': 'Elly Idris', 'old_value': 'flagicon'}}}
+18: {'values_changed': {"root['capacity']": {'new_value': '7,000', 'old_value': '5,000'}}}
+21: {'dictionary_item_added': {"root['ground']": 'Tugu StadiumbrNorth Jakarta, Indonesia'}, 'dictionary_item_removed': {"root['stadium']": 'Tugu StadiumbrNorth Jakarta, Indonesia '}}
+23: {'dictionary_item_added': {"root['stadium']": 'Tugu StadiumbrNorth Jakarta, Indonesia '}, 'dictionary_item_removed': {"root['ground']": 'Tugu StadiumbrNorth Jakarta, Indonesia'}}
+25: {'dictionary_item_removed': {"root['position']": 'Quarter-finals (Jakarta zone)'}, 'values_changed': {"root['league']": {'new_value': 'Liga 3 (Indonesia)', 'old_value': '2021 Liga 3 Jakarta'}}}
+26: {'dictionary_item_removed': {"root['season']": '2021 Liga 3 Jakarta'}, 'values_changed': {"root['league']": {'new_value': '2021 Liga 3 Jakarta', 'old_value': 'Liga 3 (Indonesia)'}}}
+28: {'values_changed': {"root['capacity']": {'new_value': '5,000', 'old_value': '10,000'}}}
+38: {'values_changed': {"root['ground']": {'new_value': 'Tugu StadiumbrNorth Jakarta, Indonesia', 'old_value': 'Tugu Stadium'}, "root['chairman']": {'new_value': 'flagicon', 'old_value': 'M. Nuh Nasution'}, "root['manager']": {'new_value': 'flagicon', 'old_value': 'Suaib SH.MM'}, "root['coach']": {'new_value': 'flagicon', 'old_value': 'Elly Idris'}}}
+39: {'dictionary_item_removed': {"root['chrtitle']": 'CEO'}, 'values_changed': {"root['chairman']": {'new_value': 'M. Nuh Nasution', 'old_value': 'Budi Setiawan'}}}
+43: {'values_changed': {"root['manager']": {'new_value': 'Suaib SH.MM', 'old_value': 'Suaib'}}}
+49: {'values_changed': {"root['capacity']": {'new_value': '10,000', 'old_value': '8,000'}}}
+50: {'values_changed': {"root['capacity']": {'new_value': '8,000', 'old_value': '4,000'}}}

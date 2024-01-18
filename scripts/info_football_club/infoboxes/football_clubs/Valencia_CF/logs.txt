@@ -1,0 +1,107 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Valencia', "root['current']": '2016–17 Valencia CF season', "root['ground']": 'Mestalla Stadium', "root['capacity']": '55,000', "root['owner']": 'Peter Lim', "root['chrtitle']": 'President', "root['chairman']": 'Chan Lay Hoon', "root['manager']": 'Voro (footballer)', "root['mgrtitle']": 'Manager', "root['league']": 'La Liga', "root['season']": '2015–16 La Liga', "root['position']": 'La Liga, 12th'}}
+4: {'values_changed': {"root['league']": {'new_value': 'La Liga', 'old_value': 'Bundesliga'}}}
+6: {'values_changed': {"root['league']": {'new_value': 'Bundesliga', 'old_value': 'LaLiga Santander'}}}
+7: {'values_changed': {"root['league']": {'new_value': 'LaLiga Santander', 'old_value': 'La Liga (Santander)'}}}
+8: {'values_changed': {"root['league']": {'new_value': 'La Liga (Santander)', 'old_value': 'La Liga'}}}
+64: {'values_changed': {"root['current']": {'new_value': '2016–17 Valencia CF season', 'old_value': '2017–18 Valencia CF season'}, "root['league']": {'new_value': 'La Liga', 'old_value': 'Segunda División'}, "root['season']": {'new_value': '2015–16 La Liga', 'old_value': '2016–17 La Liga'}, "root['position']": {'new_value': 'La Liga, 12th', 'old_value': 'La Liga, 20th'}}}
+66: {'values_changed': {"root['position']": {'new_value': 'La Liga, 20th', 'old_value': 'La Liga, 13th, Administratively Relegated'}}}
+67: {'values_changed': {"root['current']": {'new_value': '2017–18 Valencia CF season', 'old_value': '2016–17 Valencia CF season'}}}
+69: {'values_changed': {"root['league']": {'new_value': 'Segunda División', 'old_value': 'La Liga Santander'}}}
+70: {'values_changed': {"root['league']": {'new_value': 'La Liga Santander', 'old_value': 'La Liga'}}}
+75: {'values_changed': {"root['position']": {'new_value': 'La Liga, 13th, Administratively Relegated', 'old_value': 'La Liga, 13th'}}}
+102: {'values_changed': {"root['manager']": {'new_value': 'Voro (footballer)', 'old_value': 'Marcelino García Toral'}}}
+103: {'values_changed': {"root['manager']": {'new_value': 'Marcelino García Toral', 'old_value': 'Voro (footballer)'}}}
+108: {'values_changed': {"root['position']": {'new_value': 'La Liga, 13th', 'old_value': 'La Liga, 12th'}}}
+109: {'values_changed': {"root['manager']": {'new_value': 'Voro (footballer)', 'old_value': 'Marcelino'}}}
+110: {'values_changed': {"root['manager']": {'new_value': 'Marcelino', 'old_value': 'Marcelino García Toral'}}}
+140: {'values_changed': {"root['chairman']": {'new_value': 'Chan Lay Hoon', 'old_value': 'Anil Murthy'}}}
+145: {'dictionary_item_removed': {"root['pattern_s1']": '_valcf1718h', "root['pattern_s2']": '_valcf1718a'}}
+151: {'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '49,500'}}}
+159: {'values_changed': {"root['current']": {'new_value': '2016–17 Valencia CF season', 'old_value': '2017–18 Valencia CF season'}}}
+205: {'values_changed': {"root['capacity']": {'new_value': '49,500', 'old_value': '55,000'}}}
+246: {'dictionary_item_added': {"root['position']": 'La Liga, 12th'}, 'values_changed': {"root['season']": {'new_value': '2016–17 La Liga', 'old_value': '2017–18 La Liga'}}}
+247: {'values_changed': {"root['manager']": {'new_value': 'Marcelino García Toral', 'old_value': 'Abdullaziz Costa'}}}
+248: {'values_changed': {"root['manager']": {'new_value': 'Abdullaziz Costa', 'old_value': 'Marcelino García Toral'}}}
+249: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Hassan Awan'}}}
+250: {'values_changed': {"root['chairman']": {'new_value': 'Hassan Awan', 'old_value': 'Anil Murthy'}}}
+252: {'values_changed': {"root['pattern_s2']": {'new_value': '_valcf1718a', 'old_value': '_valcf1718b'}}}
+254: {'values_changed': {"root['pattern_s2']": {'new_value': '_valcf1718b', 'old_value': '_barca1718a'}}}
+256: {'values_changed': {"root['pattern_s2']": {'new_value': '_barca1718a', 'old_value': '_valcf1718a'}}}
+296: {'dictionary_item_added': {"root['clubname']": 'Valencia'}, 'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '49,5000'}, "root['pattern_s2']": {'new_value': '_valcf1718a', 'old_value': '_valcf1718a '}}}
+297: {'values_changed': {"root['capacity']": {'new_value': '49,5000', 'old_value': '49,500'}}}
+300: {'dictionary_item_removed': {"root['position']": '12th'}}
+311: {'values_changed': {"root['position']": {'new_value': '12th', 'old_value': '2th'}}}
+313: {'values_changed': {"root['position']": {'new_value': '2th', 'old_value': '2nd'}}}
+323: {'dictionary_item_removed': {"root['clubname']": 'Valencia'}}
+325: {'dictionary_item_added': {"root['pattern_s1']": '_valcf1718h', "root['pattern_s2']": '_valcf1718a '}, 'dictionary_item_removed': {"root['pattern_s3']": '_valcf1718a'}, 'values_changed': {"root['ground']": {'new_value': 'Mestalla Stadium', 'old_value': 'Estadio de Mestalla'}, "root['capacity']": {'new_value': '49,500', 'old_value': '49,800'}, "root['current']": {'new_value': '2017–18 Valencia CF season', 'old_value': '2018–19 Valencia CF season'}, "root['clubname']": {'new_value': 'Valencia', 'old_value': 'Valencia F.C.'}, "root['mgrtitle']": {'new_value': 'Manager', 'old_value': 'Head coach'}, "root['position']": {'new_value': '2nd', 'old_value': 'La Liga, 4th'}}}
+329: {'dictionary_item_removed': {"root['pattern_la4']": '_valenciacf1617t', "root['pattern_b4']": '_valenciacf1617t', "root['pattern_ra4']": '_valenciacf1617t', "root['pattern_sh4']": '_valenciacf1617t', "root['pattern_s4']": '_valenciacf1617t', "root['leftarm4']": 'FF6600', "root['body4']": 'FF6600', "root['rightarm4']": 'FF6600', "root['shorts4']": 'FF6600', "root['socks4']": 'FF6600'}}
+337: {'values_changed': {"root['manager']": {'new_value': 'Marcelino García Toral', 'old_value': 'BitFut'}}}
+338: {'values_changed': {"root['manager']": {'new_value': 'BitFut', 'old_value': 'Marcelino García Toral'}}}
+358: {'dictionary_item_added': {"root['pattern_s3']": '_valcf1718a'}, 'values_changed': {"root['clubname']": {'new_value': 'Valencia F.C.', 'old_value': 'Valencia CF'}}}
+359: {'values_changed': {"root['clubname']": {'new_value': 'Valencia CF', 'old_value': 'Valencia'}}}
+415: {'values_changed': {"root['season']": {'new_value': '2017–18 La Liga', 'old_value': '2018–19 La Liga'}}}
+501: {'dictionary_item_added': {"root['pattern_la4']": '_valenciacf1617t', "root['pattern_b4']": '_valenciacf1617t', "root['pattern_ra4']": '_valenciacf1617t', "root['pattern_sh4']": '_valenciacf1617t', "root['pattern_s4']": '_valenciacf1617t', "root['leftarm4']": 'FF6600', "root['body4']": 'FF6600', "root['rightarm4']": 'FF6600', "root['shorts4']": 'FF6600', "root['socks4']": 'FF6600'}, 'values_changed': {"root['current']": {'new_value': '2018–19 Valencia CF season', 'old_value': '2019–20 Valencia CF season'}}}
+504: {'values_changed': {"root['capacity']": {'new_value': '49,800', 'old_value': '55,000'}}}
+557: {'values_changed': {"root['manager']": {'new_value': 'Marcelino García Toral', 'old_value': 'Vacant'}}}
+558: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Albert Celades'}}}
+563: {'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '52,600'}}}
+569: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim', 'old_value': 'Peter Lim unfortunately'}}}
+570: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim unfortunately', 'old_value': 'Peter Lim'}}}
+573: {'values_changed': {"root['capacity']": {'new_value': '52,600', 'old_value': '55,000'}}}
+577: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Dario Moliner'}}}
+578: {'values_changed': {"root['ground']": {'new_value': 'Estadio de Mestalla', 'old_value': 'Estadio znkdxbbzizb Mestalla'}}}
+579: {'values_changed': {"root['ground']": {'new_value': 'Estadio znkdxbbzizb Mestalla', 'old_value': 'Estadio Mestalla'}}}
+581: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim', 'old_value': 'Pablo Herrera'}}}
+582: {'values_changed': {"root['owner']": {'new_value': 'Pablo Herrera', 'old_value': 'Peter Lim'}}}
+584: {'values_changed': {"root['manager']": {'new_value': 'Albert Celades', 'old_value': 'Pablo Herrera'}}}
+585: {'values_changed': {"root['manager']": {'new_value': 'Pablo Herrera', 'old_value': 'Albert Celades PH'}}}
+588: {'values_changed': {"root['chairman']": {'new_value': 'Dario Moliner', 'old_value': 'Pablo Herrera'}, "root['manager']": {'new_value': 'Albert Celades PH', 'old_value': 'Albert Celades.'}}}
+589: {'values_changed': {"root['chairman']": {'new_value': 'Pablo Herrera', 'old_value': 'Dario Moliner'}, "root['manager']": {'new_value': 'Albert Celades.', 'old_value': 'Albert Celades'}}}
+590: {'values_changed': {"root['ground']": {'new_value': 'Estadio Mestalla', 'old_value': 'Estadio de Mestalla'}, "root['chairman']": {'new_value': 'Dario Moliner', 'old_value': 'Anil Murthy'}}}
+637: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim', 'old_value': 'Peter Lim<ref name'}}}
+657: {'values_changed': {"root['clubname']": {'new_value': 'Valencia', 'old_value': 'Valencia (dont forget to hit that subscribe button)'}, "root['owner']": {'new_value': 'Peter Lim<ref name', 'old_value': 'Atalanta FC<ref name'}, "root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Sam the flog'}}}
+658: {'values_changed': {"root['clubname']": {'new_value': 'Valencia (dont forget to hit that subscribe button)', 'old_value': 'Valencia'}, "root['owner']": {'new_value': 'Atalanta FC<ref name', 'old_value': 'Peter Lim<ref name'}, "root['chairman']": {'new_value': 'Sam the flog', 'old_value': 'Anil Murthy'}}}
+659: {'values_changed': {"root['capacity']": {'new_value': '55,000', 'old_value': '48,600'}}}
+677: {'values_changed': {"root['ground']": {'new_value': 'Estadio de Mestalla', 'old_value': 'Công Đoàn Stadium'}}}
+678: {'values_changed': {"root['ground']": {'new_value': 'Công Đoàn Stadium', 'old_value': 'Estadio de Mestalla'}}}
+688: {'values_changed': {"root['manager']": {'new_value': 'Albert Celades', 'old_value': 'Voro (footballer)'}}}
+694: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim<ref name', 'old_value': '#LimGoHome<ref name'}}}
+695: {'values_changed': {"root['owner']": {'new_value': '#LimGoHome<ref name', 'old_value': 'Peter Lim<ref name'}}}
+698: {'values_changed': {"root['season']": {'new_value': '2018–19 La Liga', 'old_value': '2019–20 La Liga'}, "root['position']": {'new_value': 'La Liga, 4th', 'old_value': 'La Liga, 9th of 20'}}}
+707: {'values_changed': {"root['position']": {'new_value': 'La Liga, 9th of 20', 'old_value': 'La Liga, 19th of 20'}}}
+710: {'values_changed': {"root['manager']": {'new_value': 'Voro (footballer)', 'old_value': 'Javi Gracia'}}}
+711: {'values_changed': {"root['position']": {'new_value': 'La Liga, 19th of 20', 'old_value': 'La Liga, 9th of 20'}}}
+721: {'values_changed': {"root['current']": {'new_value': '2019–20 Valencia CF season', 'old_value': '2020–21 Valencia CF season'}}}
+734: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Anil "Canalla"Murthy'}}}
+735: {'values_changed': {"root['chairman']": {'new_value': 'Anil "Canalla"Murthy', 'old_value': 'Anil Murthy'}}}
+814: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim<ref name', 'old_value': 'puto Meriton Peter Lim<ref name'}}}
+815: {'values_changed': {"root['owner']": {'new_value': 'puto Meriton Peter Lim<ref name', 'old_value': 'Peter Lim<ref name'}}}
+877: {'dictionary_item_removed': {"root['GK']": 'Santiago Cañizares', "root['RB']": 'Jocelyn Angloma', "root['RCB']": 'Miroslav Đukić', "root['LCB']": 'Mauricio Pellegrino', "root['LB']": 'Gerardo García León', "root['RM']": 'Gaizka Mendieta', "root['CM']": 'Javier Farinós', "root['LM']": 'Kily González', "root['RCF']": 'Miguel Ángel Angulo', "root['SS']": 'Gerard López', "root['LCF']": 'Claudio López (footballer)', "root['RCM']": 'Gaizka Mendieta', "root['DM']": 'Rubén Baraja', "root['LCM']": 'Kily González', "root['rowspan']": '2', "root['style']": 'http://www.rsssf.com/tables/82full.html', "root['align']": 'right', "root['colspan']": '3', "root['list']": 'tit'}}
+891: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'KUMAR MYRTHY'}}}
+892: {'values_changed': {"root['chairman']": {'new_value': 'KUMAR MYRTHY', 'old_value': 'Anil Murthy'}}}
+917: {'dictionary_item_added': {"root['GK']": 'Santiago Cañizares', "root['RB']": 'Jocelyn Angloma', "root['RCB']": 'Miroslav Đukić', "root['LCB']": 'Mauricio Pellegrino', "root['LB']": 'Gerardo García León', "root['RM']": 'Gaizka Mendieta', "root['CM']": 'Javier Farinós', "root['LM']": 'Kily González', "root['RCF']": 'Miguel Ángel Angulo', "root['SS']": 'Gerard López', "root['LCF']": 'Claudio López (footballer)', "root['RCM']": 'Gaizka Mendieta', "root['DM']": 'Rubén Baraja', "root['LCM']": 'Kily González', "root['rowspan']": '2', "root['style']": 'http://www.rsssf.com/tables/82full.html', "root['align']": 'right', "root['colspan']": '3', "root['list']": 'tit'}, 'values_changed': {"root['manager']": {'new_value': 'Javi Gracia', 'old_value': 'Voro (footballer)'}}}
+921: {'values_changed': {"root['manager']": {'new_value': 'Voro (footballer)', 'old_value': 'Eusebio Di Francesco'}}}
+923: {'values_changed': {"root['manager']": {'new_value': 'Eusebio Di Francesco', 'old_value': 'Vacant'}}}
+924: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Voro (footballer)'}}}
+935: {'values_changed': {"root['manager']": {'new_value': 'Voro (footballer)', 'old_value': 'Thomas Dooley'}}}
+936: {'values_changed': {"root['manager']": {'new_value': 'Thomas Dooley', 'old_value': 'Leonardo Jardim'}}}
+939: {'values_changed': {"root['manager']": {'new_value': 'Leonardo Jardim', 'old_value': 'Voro_(footballer)'}}}
+941: {'values_changed': {"root['season']": {'new_value': '2019–20 La Liga', 'old_value': '2020-21 La Liga'}, "root['position']": {'new_value': 'La Liga, 9th of 20', 'old_value': 'La Liga, 13th of 20'}}}
+944: {'values_changed': {"root['season']": {'new_value': '2020-21 La Liga', 'old_value': '2020–21 La Liga'}}}
+945: {'values_changed': {"root['manager']": {'new_value': 'Voro_(footballer)', 'old_value': 'Jose Bordalas'}}}
+946: {'values_changed': {"root['manager']": {'new_value': 'Jose Bordalas', 'old_value': 'José Bordalás'}}}
+949: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim<ref name', 'old_value': 'Peter Lim ben zona<ref name'}}}
+950: {'values_changed': {"root['owner']": {'new_value': 'Peter Lim ben zona<ref name', 'old_value': 'Peter Lim<ref name'}}}
+951: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Anil Murthy putAa'}}}
+952: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy putAa', 'old_value': 'Anil Murthy'}}}
+981: {'values_changed': {"root['current']": {'new_value': '2020–21 Valencia CF season', 'old_value': '2021–22 Valencia CF season'}}}
+1120: {'values_changed': {"root['season']": {'new_value': '2020–21 La Liga', 'old_value': '2021–22 La Liga'}, "root['position']": {'new_value': 'La Liga, 13th of 20', 'old_value': 'La Liga, 9th of 20'}}}
+1127: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Sean Bai'}}}
+1136: {'values_changed': {"root['manager']": {'new_value': 'José Bordalás', 'old_value': "''Vacant''"}}}
+1147: {'values_changed': {"root['manager']": {'new_value': "''Vacant''", 'old_value': 'Gennaro Gattuso'}}}
+1149: {'values_changed': {"root['chairman']": {'new_value': 'Sean Bai', 'old_value': 'Khojama Kalimuddin'}}}
+1154: {'values_changed': {"root['position']": {'new_value': 'La Liga, 9th of 20', 'old_value': "La Liga, '''9th''' of 20"}, "root['current']": {'new_value': '2021–22 Valencia CF season', 'old_value': '2022–23 Valencia CF season'}}}
+1155: {'values_changed': {"root['position']": {'new_value': "La Liga, '''9th''' of 20", 'old_value': 'La Liga, 9th of 20'}}}
+1195: {'values_changed': {"root['chairman']": {'new_value': 'Khojama Kalimuddin', 'old_value': 'Anil Murthy'}}}
+1209: {'values_changed': {"root['chairman']": {'new_value': 'Anil Murthy', 'old_value': 'Layhoon Chan'}}}
+1302: {'values_changed': {"root['capacity']": {'new_value': '48,600', 'old_value': '55.000'}}}

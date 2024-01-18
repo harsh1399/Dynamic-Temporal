@@ -1,0 +1,103 @@
+0: {'dictionary_item_removed': {"root['clubname']": 'Athletic Club Omonoia Nicosia', "root['ground']": 'GSP Stadium', "root['capacity']": '22,859', "root['chairman']": 'Marios Argyridis', "root['manager']": 'Henning Berg', "root['league']": 'Cypriot football updater', "root['season']": 'Cypriot football updater', "root['position']": 'Cypriot football updater', "root['current']": '2020–21 AC Omonia season', "root['owner']": 'Stavros Papastavrou '}}
+7: {'values_changed': {"root['clubname']": {'new_value': 'Athletic Club Omonoia Nicosia', 'old_value': 'Athletic Club of ptnas gioi'}}}
+11: {'values_changed': {"root['clubname']": {'new_value': 'Athletic Club of ptnas gioi', 'old_value': 'Omonia Nicosia'}}}
+41: {'values_changed': {"root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Henning Burger'}}}
+43: {'values_changed': {"root['manager']": {'new_value': 'Henning Burger', 'old_value': 'Henning Berg'}}}
+69: {'dictionary_item_added': {"root['chairman']": 'Marios Argyridis'}, 'dictionary_item_removed': {"root['President']": 'Marios Argyridis'}}
+70: {'dictionary_item_added': {"root['President']": 'Marios Argyridis'}, 'dictionary_item_removed': {"root['chairman']": 'Marios Argyridis'}}
+74: {'values_changed': {"root['chairman']": {'new_value': 'Marios Argyridis', 'old_value': 'Marios Argyrides'}}}
+90: {'values_changed': {"root['clubname']": {'new_value': 'Omonia Nicosia', 'old_value': 'ΧΟΧΟΙ PSOFO'}, "root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Katsoshiros'}}}
+91: {'values_changed': {"root['clubname']": {'new_value': 'ΧΟΧΟΙ PSOFO', 'old_value': 'MYSTES'}, "root['manager']": {'new_value': 'Katsoshiros', 'old_value': 'SIR MARIOS'}}}
+92: {'values_changed': {"root['ground']": {'new_value': 'GSP Stadium', 'old_value': 'MITSERO STADIUM'}}}
+93: {'values_changed': {"root['clubname']": {'new_value': 'MYSTES', 'old_value': 'ΧΟΧΟΙ PSOFO'}, "root['manager']": {'new_value': 'SIR MARIOS', 'old_value': 'Katsoshiros'}}}
+94: {'values_changed': {"root['clubname']": {'new_value': 'ΧΟΧΟΙ PSOFO', 'old_value': 'Omonia Nicosia'}, "root['manager']": {'new_value': 'Katsoshiros', 'old_value': 'Henning Berg'}}}
+95: {'values_changed': {"root['ground']": {'new_value': 'MITSERO STADIUM', 'old_value': 'GSP Stadium'}}}
+96: {'values_changed': {"root['clubname']": {'new_value': 'Omonia Nicosia', 'old_value': 'Omonia Nicosia FC'}}}
+99: {'values_changed': {"root['ground']": {'new_value': 'GSP Stadium', 'old_value': 'KOTSIATIS STADIUM'}}}
+100: {'values_changed': {"root['ground']": {'new_value': 'KOTSIATIS STADIUM', 'old_value': 'MANA SOU STADIUM'}}}
+101: {'values_changed': {"root['ground']": {'new_value': 'MANA SOU STADIUM', 'old_value': 'GSP  STADIUM'}}}
+104: {'dictionary_item_removed': {"root['rowspan']": '3', "root['style']": 'Μιχάλης Κωνσταντίνου: Η μεγάλη επιστροφή', "root['align']": 'KEO |- | 1998–1999 ||Kappa |- | 1999–2001 |rowspan'}, 'values_changed': {"root['owner']": {'new_value': 'Stavros Papastavrou ', 'old_value': "Stavros Papastavrou  Omonia Nicosia sections  '''Athletic Club Omonoia Nicosia'''  (lang-el"}}}
+105: {'dictionary_item_added': {"root['rowspan']": '3', "root['style']": 'Μιχάλης Κωνσταντίνου: Η μεγάλη επιστροφή', "root['align']": 'KEO |- | 1998–1999 ||Kappa |- | 1999–2001 |rowspan'}, 'values_changed': {"root['clubname']": {'new_value': 'Omonia Nicosia FC', 'old_value': 'AC Omonia'}, "root['owner']": {'new_value': "Stavros Papastavrou  Omonia Nicosia sections  '''Athletic Club Omonoia Nicosia'''  (lang-el", 'old_value': 'Stavros Papastavrou '}}}
+106: {'values_changed': {"root['ground']": {'new_value': 'GSP  STADIUM', 'old_value': 'GSP STADIUM'}}}
+107: {'values_changed': {"root['ground']": {'new_value': 'GSP STADIUM', 'old_value': 'GSP Stadium'}}}
+110: {'values_changed': {"root['clubname']": {'new_value': 'AC Omonia', 'old_value': 'Omonia'}}}
+113: {'values_changed': {"root['owner']": {'new_value': 'Stavros Papastavrou ', 'old_value': 'Stavros Papastavrou'}}}
+121: {'values_changed': {"root['clubname']": {'new_value': 'Omonia', 'old_value': 'Barcelona'}}}
+122: {'values_changed': {"root['clubname']": {'new_value': 'Barcelona', 'old_value': 'Omonia'}}}
+132: {'values_changed': {"root['ground']": {'new_value': 'GSP Stadium', 'old_value': 'Dasaki Stadium'}}}
+146: {'values_changed': {"root['clubname']": {'new_value': 'Omonia', 'old_value': 'Omonoia'}}}
+151: {'values_changed': {"root['ground']": {'new_value': 'Dasaki Stadium', 'old_value': 'GSP Stadium'}}}
+153: {'dictionary_item_added': {"root['owner']": 'Stavros Papastavrou'}, 'dictionary_item_removed': {"root['president']": 'Stavros Papastavrou'}}
+220: {'values_changed': {"root['current']": {'new_value': '2020–21 AC Omonia season', 'old_value': '2021–22 AC Omonia season'}}}
+225: {'values_changed': {"root['capacity']": {'new_value': '22,859', 'old_value': '69'}}}
+226: {'values_changed': {"root['capacity']": {'new_value': '69', 'old_value': '22,859'}}}
+234: {'values_changed': {"root['chairman']": {'new_value': 'Marios Argyrides', 'old_value': 'Ioannis Kartanas'}}}
+236: {'values_changed': {"root['chairman']": {'new_value': 'Ioannis Kartanas', 'old_value': 'Theocharis'}}}
+238: {'values_changed': {"root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Ioannis Kartanas'}}}
+239: {'values_changed': {"root['president']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Gristos Jiris'}}}
+241: {'dictionary_item_added': {"root['manager']": 'Ioannis Kartanas'}, 'values_changed': {"root['president']": {'new_value': 'Gristos Jiris', 'old_value': 'Stavros Papastavrou'}}}
+242: {'dictionary_item_removed': {"root['manager']": 'Henning Berg'}, 'values_changed': {"root['chairman']": {'new_value': 'Theocharis', 'old_value': 'Marios Argyrides'}}}
+243: {'values_changed': {"root['chairman']": {'new_value': 'Marios Argyrides', 'old_value': 'ernest asante'}, "root['manager']": {'new_value': 'Henning Berg', 'old_value': 'ΓΙΟΣ ΤΗΣ ΠΟΥΤΑΝΑΣ'}}}
+244: {'values_changed': {"root['chairman']": {'new_value': 'ernest asante', 'old_value': 'Marios Argyrides'}, "root['manager']": {'new_value': 'ΓΙΟΣ ΤΗΣ ΠΟΥΤΑΝΑΣ', 'old_value': 'Henning Berg'}}}
+245: {'values_changed': {"root['chairman']": {'new_value': 'Marios Argyrides', 'old_value': 'Kartanas Argyrides'}, "root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Ioannis Berg'}}}
+248: {'values_changed': {"root['clubname']": {'new_value': 'Omonoia', 'old_value': 'Imaste gia ton putso'}, "root['chairman']": {'new_value': 'Kartanas Argyrides', 'old_value': 'GiosTisKartanas'}, "root['manager']": {'new_value': 'Ioannis Berg', 'old_value': 'Ioannis Berg Villos'}}}
+249: {'values_changed': {"root['clubname']": {'new_value': 'Imaste gia ton putso', 'old_value': 'Omonoia'}, "root['chairman']": {'new_value': 'GiosTisKartanas', 'old_value': 'Kartanas Argyrides'}, "root['manager']": {'new_value': 'Ioannis Berg Villos', 'old_value': 'Ioannis Berg'}}}
+250: {'values_changed': {"root['chairman']": {'new_value': 'Kartanas Argyrides', 'old_value': 'Marios Argyrides'}, "root['manager']": {'new_value': 'Ioannis Berg', 'old_value': 'Henning Berg'}}}
+254: {'values_changed': {"root['chairman']": {'new_value': 'Marios Argyrides', 'old_value': 'Ξενιος'}, "root['president']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Amr Warda'}}}
+255: {'values_changed': {"root['chairman']": {'new_value': 'Ξενιος', 'old_value': 'Θεοχαρης'}}}
+256: {'dictionary_item_added': {"root['president']": 'Amr Warda'}, 'values_changed': {"root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Amr Warda'}}}
+258: {'values_changed': {"root['chairman']": {'new_value': 'Θεοχαρης', 'old_value': 'Σταύρος Παπασταύρου (Stavros Papastavrou)'}, "root['manager']": {'new_value': 'Amr Warda', 'old_value': 'Hening Berg'}}}
+264: {'values_changed': {"root['manager']": {'new_value': 'Hening Berg', 'old_value': 'Henning Berg'}}}
+267: {'values_changed': {"root['clubname']": {'new_value': 'Omonoia', 'old_value': 'Xoxoi'}}}
+268: {'values_changed': {"root['clubname']": {'new_value': 'Xoxoi', 'old_value': 'Omonoia'}}}
+287: {'values_changed': {"root['manager']": {'new_value': 'Henning Berg', 'old_value': 'Pep Guardiola'}}}
+288: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Μηνας Αγαθαγγελου'}}}
+289: {'values_changed': {"root['manager']": {'new_value': 'Μηνας Αγαθαγγελου', 'old_value': 'Μάριος Νικολάου(Υπηρεσιακός)'}}}
+290: {'values_changed': {"root['chairman']": {'new_value': 'Σταύρος Παπασταύρου (Stavros Papastavrou)', 'old_value': 'Stavros Papastavrou'}, "root['manager']": {'new_value': 'Μάριος Νικολάου(Υπηρεσιακός)', 'old_value': 'Marios Nicolaou (footballer, born 1983)'}}}
+296: {'values_changed': {"root['manager']": {'new_value': 'Marios Nicolaou (footballer, born 1983)', 'old_value': 'Neil Lennon'}}}
+300: {'values_changed': {"root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'Fenian Bastard Lennon'}}}
+301: {'values_changed': {"root['manager']": {'new_value': 'Fenian Bastard Lennon', 'old_value': 'Neil Lennon'}}}
+302: {'values_changed': {"root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'Popcorn Teeth'}}}
+303: {'values_changed': {"root['manager']": {'new_value': 'Popcorn Teeth', 'old_value': 'Neil Lennon'}}}
+329: {'values_changed': {"root['chairman']": {'new_value': 'Stavros Papastavrou', 'old_value': 'KOUFOPAVLOU'}}}
+330: {'values_changed': {"root['chairman']": {'new_value': 'KOUFOPAVLOU', 'old_value': 'Stavros Papastavrou'}}}
+331: {'dictionary_item_removed': {"root['president']": 'Koufopavlou Andreas'}, 'values_changed': {"root['chairman']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Lenos Stavrou'}}}
+335: {'dictionary_item_added': {"root['president']": 'Koufopavlou Andreas'}, 'values_changed': {"root['chairman']": {'new_value': 'Lenos Stavrou', 'old_value': 'Stavros Papastavrou'}}}
+336: {'values_changed': {"root['chairman']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Will Orme'}, "root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'Alec Lynch'}}}
+337: {'values_changed': {"root['chairman']": {'new_value': 'Will Orme', 'old_value': 'Stavros Papastavrou'}, "root['manager']": {'new_value': 'Alec Lynch', 'old_value': 'Neil Lennon'}}}
+386: {'dictionary_item_removed': {"root['Owner']": 'Georgios Ioannou'}}
+394: {'dictionary_item_added': {"root['Owner']": 'Georgios Ioannou'}, 'values_changed': {"root['clubname']": {'new_value': 'Omonoia', 'old_value': 'Omonia'}}}
+494: {'values_changed': {"root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'James Tuff'}}}
+495: {'values_changed': {"root['ground']": {'new_value': 'GSP Stadium', 'old_value': 'Blundell Park'}, "root['chairman']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Jesus Eqnrique Aquino Galindo'}}}
+496: {'values_changed': {"root['chairman']": {'new_value': 'Jesus Eqnrique Aquino Galindo', 'old_value': 'Jesus Enrique Aquino Galindo'}}}
+497: {'values_changed': {"root['ground']": {'new_value': 'Blundell Park', 'old_value': 'GSP Stadium'}}}
+498: {'values_changed': {"root['manager']": {'new_value': 'James Tuff', 'old_value': 'Neil Lennon'}}}
+502: {'values_changed': {"root['chairman']": {'new_value': 'Jesus Enrique Aquino Galindo', 'old_value': 'Stavros Papastavrou'}}}
+554: {'values_changed': {"root['clubname']": {'new_value': 'Omonia', 'old_value': 'Omonia up the ra'}, "root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'Neil Francis Snus Lennon'}}}
+555: {'values_changed': {"root['clubname']": {'new_value': 'Omonia up the ra', 'old_value': 'Omonia'}, "root['manager']": {'new_value': 'Neil Francis Snus Lennon', 'old_value': 'Neil Lennon'}}}
+562: {'values_changed': {"root['clubname']": {'new_value': 'Omonia', 'old_value': 'Omonoia'}}}
+564: {'values_changed': {"root['clubname']": {'new_value': 'Omonoia', 'old_value': 'Omonia'}}}
+571: {'values_changed': {"root['clubname']": {'new_value': 'Omonia', 'old_value': 'Omonia ΓΑΜΩ ΤΟ ΑΠΟΕΛ'}}}
+572: {'values_changed': {"root['clubname']": {'new_value': 'Omonia ΓΑΜΩ ΤΟ ΑΠΟΕΛ', 'old_value': 'Omonia'}}}
+575: {'values_changed': {"root['manager']": {'new_value': 'Neil Lennon', 'old_value': 'Vacant'}, "root['current']": {'new_value': '2021–22 AC Omonia season', 'old_value': '2022–23 AC Omonia season'}}}
+577: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Cute Army Boy'}}}
+578: {'values_changed': {"root['manager']": {'new_value': 'Cute Army Boy', 'old_value': 'Polydoros Dystinos'}}}
+579: {'values_changed': {"root['manager']": {'new_value': 'Polydoros Dystinos', 'old_value': 'Pep Guardiola'}}}
+580: {'values_changed': {"root['manager']": {'new_value': 'Pep Guardiola', 'old_value': 'Vacant'}}}
+581: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Varte tous karaolous na analavoun'}}}
+582: {'values_changed': {"root['manager']": {'new_value': 'Varte tous karaolous na analavoun', 'old_value': 'Vacant'}}}
+583: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Takis Lemonis'}}}
+584: {'values_changed': {"root['manager']": {'new_value': 'Takis Lemonis', 'old_value': 'Vacant'}}}
+588: {'values_changed': {"root['manager']": {'new_value': 'Vacant', 'old_value': 'Yannick Ferrera'}}}
+621: {'dictionary_item_removed': {"root['extra']": 'GAMW TO APOEL https://www.omonoiafc.com.cy/'}}
+642: {'values_changed': {"root['chairman']": {'new_value': 'Stavros Papastavrou', 'old_value': 'Manitaras / Mushroom'}}}
+644: {'dictionary_item_added': {"root['manager']": 'Yannick Ferrera'}, 'values_changed': {"root['extra']": {'new_value': 'GAMW TO APOEL https://www.omonoiafc.com.cy/', 'old_value': 'GAMW TIN OKOPONIA PRASINI LAGOI SAS KINIGAME https://www.omonoiafc.com.cy/'}}}
+645: {'values_changed': {"root['ground']": {'new_value': 'GSP Stadium', 'old_value': "Apoel FC's playground"}, "root['capacity']": {'new_value': '22,859', 'old_value': '0 fans'}}}
+646: {'dictionary_item_removed': {"root['tatas']": 'Georgios Efrem'}}
+647: {'values_changed': {"root['season']": {'new_value': 'Cypriot football updater', 'old_value': 'soon to be Agrotiko'}}}
+648: {'values_changed': {"root['league']": {'new_value': 'Cypriot football updater', 'old_value': 'soon to be agrotiko/ division'}}}
+653: {'dictionary_item_removed': {"root['sport']": 'Runners', "root['Sport']": 'Runners '}}
+657: {'dictionary_item_added': {"root['sport']": 'Runners'}, 'values_changed': {"root['ground']": {'new_value': "Apoel FC's playground", 'old_value': 'playground'}, "root['capacity']": {'new_value': '0 fans', 'old_value': '29000+ fans'}, "root['extra']": {'new_value': 'GAMW TIN OKOPONIA PRASINI LAGOI SAS KINIGAME https://www.omonoiafc.com.cy/', 'old_value': 'https://www.omonoiafc.com.cy/'}}}
+661: {'values_changed': {"root['ground']": {'new_value': 'playground', 'old_value': "APOEL's play"}}}
+662: {'values_changed': {"root['ground']": {'new_value': "APOEL's play", 'old_value': 'playground'}}}
+663: {'dictionary_item_added': {"root['tatas']": 'Georgios Efrem', "root['extra']": 'https://www.omonoiafc.com.cy/', "root['Sport']": 'Runners '}, 'dictionary_item_removed': {"root['manager']": 'Yannick Ferrera '}, 'values_changed': {"root['ground']": {'new_value': 'playground', 'old_value': 'GSP Stadium'}, "root['capacity']": {'new_value': '29000+ fans', 'old_value': '22,859'}, "root['chairman']": {'new_value': 'Manitaras / Mushroom', 'old_value': 'Stavros Papastavrou'}, "root['league']": {'new_value': 'soon to be agrotiko/ division', 'old_value': 'Cypriot First Division'}, "root['season']": {'new_value': 'soon to be Agrotiko', 'old_value': '2021–22 Cypriot First Division'}}}
