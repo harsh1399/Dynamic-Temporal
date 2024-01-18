@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Karnataka State Information Commission || native_name     =', "root['city']": 'Bengaluru', "root['state']": 'Karnataka', "root['chiefjudgename']": 'N C Srinivasa'}}
+1: {'dictionary_item_removed': {"root['terms']": '3 years from the date of entering office or up to 65 years of age (whichever is earlier)'}, 'values_changed': {"root['court_name']": {'new_value': 'Karnataka State Information Commission || native_name     =', 'old_value': 'Kerala State Information Commission || native_name     ='}, "root['state']": {'new_value': 'Karnataka', 'old_value': 'Kerala'}}}
+7: {'values_changed': {"root['chiefjudgename']": {'new_value': 'N C Srinivasa', 'old_value': 'Vishwas Mehta'}}}
+8: {'dictionary_item_added': {"root['terms']": '3 years from the date of entering office or up to 65 years of age (whichever is earlier)'}, 'values_changed': {"root['city']": {'new_value': 'Bengaluru', 'old_value': 'Thiruvananthapuram'}}}

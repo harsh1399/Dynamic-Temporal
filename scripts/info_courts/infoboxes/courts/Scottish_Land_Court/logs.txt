@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Scottish Land Court', "root['authority']": 'http://www.legislation.gov.uk/ukpga/Geo5/1-2/49/contents Small Landholders (Scotland) Act 1911, as amended by the http://www.legislation.gov.uk/ukpga/1993/45/contents Scottish Land Court Act 1993.', "root['chiefjudgename']": 'Sheriff C Euan Duthie KC', "root['termstart']": '9 January 2023', "root['chiefjudgename2']": 'Iain F Maclean', "root['termstart2']": '2015 '}}
+1: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Sheriff C Euan Duthie KC', 'old_value': 'Lord Minginish'}, "root['termstart']": {'new_value': '9 January 2023', 'old_value': '2014'}}}
+3: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Lord Minginish', 'old_value': 'Lord Duthie'}}}
+4: {'values_changed': {"root['termstart']": {'new_value': '2014', 'old_value': '9 January 2023'}}}
+11: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Lord Duthie', 'old_value': 'Euan Duthie, Lord Duthie'}}}
+13: {'dictionary_item_added': {"root['termstart2']": '2015 '}, 'values_changed': {"root['chiefjudgename2']": {'new_value': 'Iain F Maclean', 'old_value': 'Vacant'}}}

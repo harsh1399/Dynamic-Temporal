@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['authority']": 'Austrian Federal Constitution', "root['positions']": '58'}}
+1: {'dictionary_item_removed': {"root['chiefjudgename']": 'Eckart Ratz', "root['termstart']": '23. Februar 2018'}}
+2: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court of Justice'}}
+6: {'values_changed': {"root['termstart']": {'new_value': '23. Februar 2018', 'old_value': '1 January 2012'}}}
+8: {'dictionary_item_added': {"root['authority']": 'Austrian Federal Constitution'}, 'values_changed': {"root['positions']": {'new_value': '58', 'old_value': '61'}, "root['chiefjudgename']": {'new_value': 'Eckart Ratz', 'old_value': 'Elisabeth Lovrek'}, "root['termstart']": {'new_value': '1 January 2012', 'old_value': 'July 1, 2018'}}}
+32: {'dictionary_item_removed': {"root['authority']": 'Federal Constitutional Law', "root['chiefjudgename2']": 'Eva Marek', "root['termstart2']": '1 February 2018', "root['chiefjudgename3']": 'Matthias Neumayr', "root['termstart3']": '2018 '}, 'values_changed': {"root['termstart']": {'new_value': 'July 1, 2018', 'old_value': '1 July 2018'}}}
+37: {'values_changed': {"root['positions']": {'new_value': '61', 'old_value': '60'}}}
+60: {'values_changed': {"root['positions']": {'new_value': '60', 'old_value': '60 (August 2022)'}}}

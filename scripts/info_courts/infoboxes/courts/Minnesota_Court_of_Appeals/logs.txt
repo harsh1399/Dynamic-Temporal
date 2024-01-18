@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Minnesota Court of Appeals', "root['authority']": 'Minnesota Constitution', "root['appeals']": 'Minnesota Supreme Court', "root['terms']": '6 years (mandatory retirement at the age of 70)', "root['positions']": '19', "root['chiefjudgename']": 'Edward Cleary'}}
+2: {'dictionary_item_removed': {"root['termstart']": 'May 1, 2020', "root['termend']": 'April 31, 2026 '}, 'values_changed': {"root['chiefjudgename']": {'new_value': 'Edward Cleary', 'old_value': 'Susan Segal'}}}
+5: {'values_changed': {"root['termend']": {'new_value': 'April 31, 2026 ', 'old_value': 'October 31, 2022 '}}}
+7: {'dictionary_item_added': {"root['appeals']": 'Minnesota Supreme Court'}, 'dictionary_item_removed': {"root['jurisdiction']": 'Minnesota, United States', "root['termend2']": 'January 2, 2023 '}, 'values_changed': {"root['termend']": {'new_value': 'October 31, 2022 ', 'old_value': 'October 31, 2022'}}}

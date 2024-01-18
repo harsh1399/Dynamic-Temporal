@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Texas Supreme Court', "root['authority']": 'Texas Constitution', "root['appeals']": 'Supreme Court of the United States'}}
+1: {'dictionary_item_removed': {"root['chiefjudgename']": 'Wallace B. Jefferson', "root['termstart']": 'September 14, 2004'}}
+19: {'values_changed': {"root['court_name']": {'new_value': 'Texas Supreme Court', 'old_value': 'The Supreme Court of Texas'}}}
+33: {'values_changed': {"root['court_name']": {'new_value': 'The Supreme Court of Texas', 'old_value': 'Supreme Court of Texas'}}}
+68: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Wallace B. Jefferson', 'old_value': 'Nathan Hecht'}, "root['termstart']": {'new_value': 'September 14, 2004', 'old_value': 'October 1, 2013'}}}

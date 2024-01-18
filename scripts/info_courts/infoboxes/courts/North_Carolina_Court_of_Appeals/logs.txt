@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'North Carolina Court of Appeals', "root['authority']": 'North Carolina Constitution', "root['appeals']": 'NC Supreme Court', "root['terms']": '8 years', "root['chiefjudgename']": 'Donna Stroud', "root['termend']": '2022'}}
+8: {'values_changed': {"root['appeals']": {'new_value': 'NC Supreme Court', 'old_value': 'North Carolina Supreme Court'}}}
+9: {'values_changed': {"root['termend']": {'new_value': '2022', 'old_value': '2022 '}}}
+12: {'values_changed': {"root['authority']": {'new_value': 'North Carolina Constitution', 'old_value': 'Constitution of North Carolina'}}}
+22: {'dictionary_item_removed': {"root['positions']": '15'}, 'values_changed': {"root['terms']": {'new_value': '8 years', 'old_value': '8 years (mandatory retirement at the age of 72)'}}}

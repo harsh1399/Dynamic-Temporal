@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'District Court of Western Australia', "root['authority']": 'Parliament of Western Australia via the Constitution of WA', "root['terms']": 'mandatory retirement by age of 70', "root['chiefjudgename']": 'Julie Anne Wager', "root['termstart']": '28 Jan 2005 '}}
+1: {'values_changed': {"root['termstart']": {'new_value': '28 Jan 2005 ', 'old_value': '2 May 2020 '}}}
+2: {'dictionary_item_added': {"root['terms']": 'mandatory retirement by age of 70'}, 'values_changed': {"root['authority']": {'new_value': 'Parliament of Western Australia via the Constitution of WA', 'old_value': 'Parliament of Western Australia via the: '}}}

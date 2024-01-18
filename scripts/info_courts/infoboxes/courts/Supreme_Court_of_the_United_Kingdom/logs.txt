@@ -1,0 +1,14 @@
+23: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court of the United Kingdom', "root['authority']": 'HM Government'}}
+30: {'dictionary_item_removed': {"root['chiefjudgename']": 'Lord Philips of Worth Matravers', "root['termstart']": 'October 2009'}}
+31: {'values_changed': {"root['authority']": {'new_value': 'HM Government', 'old_value': 'HM Government via the Constitutional Reform Act 2005'}}}
+33: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Lord Philips of Worth Matravers', 'old_value': 'Lord Phillips of Worth Matravers'}}}
+36: {'values_changed': {"root['court_name']": {'new_value': 'Supreme Court of the United Kingdom', 'old_value': 'Supreme Daleks of the United Kingdom'}}}
+37: {'values_changed': {"root['court_name']": {'new_value': 'Supreme Daleks of the United Kingdom', 'old_value': 'Supreme Court of the United Kingdom'}}}
+104: {'dictionary_item_removed': {"root['positions']": '12'}, 'values_changed': {"root['authority']": {'new_value': 'HM Government via the Constitutional Reform Act 2005', 'old_value': 'Constitutional Reform Act 2005, Part 3'}}}
+184: {'values_changed': {"root['termstart']": {'new_value': 'October 2009', 'old_value': '1 October 2009'}}}
+359: {'dictionary_item_removed': {"root['chiefjudgename2']": 'Lord Reed', "root['termstart2']": '7 June 2018'}, 'values_changed': {"root['court_name']": {'new_value': 'Supreme Court of the United Kingdom', 'old_value': 'The Supreme Court'}, "root['authority']": {'new_value': 'Constitutional Reform Act 2005, Part 3', 'old_value': 'Constitutional Reform Act 2005, Part 3, Section 23(1) and s. 23 (whole section) '}, "root['chiefjudgename']": {'new_value': 'Lord Phillips of Worth Matravers', 'old_value': 'The Baroness Hale of Richmond'}, "root['termstart']": {'new_value': '1 October 2009', 'old_value': '5 September 2017'}}}
+363: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Baroness Hale of Richmond', 'old_value': 'Lord Reed'}, "root['termstart']": {'new_value': '5 September 2017', 'old_value': '13 January 2020'}, "root['chiefjudgename2']": {'new_value': 'Lord Reed', 'old_value': 'Vacant'}, "root['termstart2']": {'new_value': '7 June 2018', 'old_value': '12 January 2020'}}}
+364: {'values_changed': {"root['termstart2']": {'new_value': '12 January 2020', 'old_value': '13 January 2020'}}}
+365: {'values_changed': {"root['chiefjudgename2']": {'new_value': 'Vacant', 'old_value': 'Lord Hodge'}, "root['termstart2']": {'new_value': '13 January 2020', 'old_value': '27 January 2020'}}}
+384: {'dictionary_item_removed': {"root['jurisdiction']": 'United Kingdom (civil cases), England and Wales and Northern Ireland (criminal cases)'}}
+399: {'values_changed': {"root['court_name']": {'new_value': 'The Supreme Court', 'old_value': 'Supreme Court of the United Kingdom'}}}

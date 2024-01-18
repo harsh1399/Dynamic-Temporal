@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Magistrates Court of Queensland', "root['authority']": 'Queensland Parliament via the ', "root['chiefjudgename2']": 'Judge Orazio "Ray" Rinaudo '}}
+1: {'values_changed': {"root['chiefjudgename2']": {'new_value': 'Judge Orazio "Ray" Rinaudo ', 'old_value': 'Judge Terry Gardiner '}}}
+4: {'dictionary_item_removed': {"root['chiefjudgename3']": 'Deputy Chief Magistrate J.M. Brassington'}}
+5: {'values_changed': {"root['chiefjudgename3']": {'new_value': 'Deputy Chief Magistrate J.M. Brassington', 'old_value': 'J.M. Brassington'}}}
+6: {'values_changed': {"root['chiefjudgename3']": {'new_value': 'J.M. Brassington', 'old_value': 'J.M. Brassington  '}}}
+8: {'dictionary_item_removed': {"root['termstart2']": 'termstart3.      = '}}
+12: {'dictionary_item_added': {"root['termstart2']": 'termstart3.      = '}, 'dictionary_item_removed': {"root['terms']": 'Mandatory retirement by age of 70'}}
+13: {'dictionary_item_added': {"root['terms']": 'Mandatory retirement by age of 70', "root['chiefjudgename3']": 'J.M. Brassington  '}, 'dictionary_item_removed': {"root['chiefjudgename']": 'Judge Terry Gardiner '}, 'values_changed': {"root['authority']": {'new_value': 'Queensland Parliament via the ', 'old_value': 'Queensland Parliament via the:, '}, "root['chiefjudgename2']": {'new_value': 'Judge Terry Gardiner ', 'old_value': 'J.M. Brassington <ref name'}}}

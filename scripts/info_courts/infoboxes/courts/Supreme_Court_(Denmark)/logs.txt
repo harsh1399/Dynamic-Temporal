@@ -1,0 +1,3 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court', "root['authority']": 'Danish Constitution', "root['terms']": 'Mandatory retirement at age 70', "root['positions']": '20', "root['chiefjudgename']": 'Poul Søgaard'}}
+2: {'dictionary_item_removed': {"root['termend2']": '2022'}, 'values_changed': {"root['positions']": {'new_value': '20', 'old_value': '18'}, "root['chiefjudgename']": {'new_value': 'Poul Søgaard', 'old_value': 'Thomas Rørdam'}}}
+5: {'dictionary_item_added': {"root['termend2']": '2022'}, 'values_changed': {"root['chiefjudgename']": {'new_value': 'Thomas Rørdam', 'old_value': 'Jens Peter Christensen'}}}

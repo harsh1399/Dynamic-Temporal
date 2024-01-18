@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court of British Columbia', "root['authority']": 'Supreme Court Act', "root['positions']": '102', "root['chiefjudgename']": 'Robert J. Bauman', "root['termstart']": 'September 2009 '}}
+3: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Robert J. Bauman', 'old_value': "''Vacant''"}}}
+4: {'values_changed': {"root['termstart']": {'new_value': 'September 2009 ', 'old_value': 'June, 2013  '}}}
+12: {'values_changed': {"root['chiefjudgename']": {'new_value': "''Vacant''", 'old_value': 'Christopher E. Hinkson'}, "root['termstart']": {'new_value': 'June, 2013  ', 'old_value': 'November, 2013  '}}}

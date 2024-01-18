@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['jurisdiction']": 'Chandigarh, Haryana, Punjab', "root['authority']": 'Constitution of India', "root['appeals']": 'Supreme Court of India', "root['terms']": 'mandatory retirement by age of 62', "root['positions']": '88 (67 permanent, 21 additional)', "root['chiefjudgename']": 'Mr. Krishna Murari'}}
+22: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Mr. Krishna Murari', 'old_value': 'Justice Krishna Murari'}}}
+24: {'values_changed': {"root['terms']": {'new_value': 'mandatory retirement by age of 62', 'old_value': 'Mandatory Retirement by age of 62'}, "root['positions']": {'new_value': '88 (67 permanent, 21 additional)', 'old_value': '88 (67 Permanent, 21 Additional)'}}}
+48: {'dictionary_item_removed': {"root['termstart']": '23 September 2019'}, 'values_changed': {"root['chiefjudgename']": {'new_value': 'Justice Krishna Murari', 'old_value': 'Justice Rajeev Sharma (acting)'}}}
+52: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Justice Rajeev Sharma (acting)', 'old_value': 'Justice Ravi Shankar Jha'}, "root['termstart']": {'new_value': '23 September 2019', 'old_value': '5 October 2019'}}}
+55: {'values_changed': {"root['termstart']": {'new_value': '5 October 2019', 'old_value': '6 October 2019'}}}
+59: {'values_changed': {"root['positions']": {'new_value': '88 (67 Permanent, 21 Additional)', 'old_value': '48 ( 48 Permanent)'}}}
+60: {'values_changed': {"root['positions']": {'new_value': '48 ( 48 Permanent)', 'old_value': '88 (67 Permanent+21additional)'}}}

@@ -1,0 +1,6 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Constitutional Court', "root['jurisdiction']": 'Spain', "root['authority']": 'Spanish Constitution', "root['terms']": '9 years, non renewable', "root['positions']": '12', "root['budget']": '€ 23,866,870 (2018)', "root['chiefjudgename']": 'Pedro González-Trevijano', "root['termstart']": '23 November 2021', "root['chiefjudgename2']": 'Juan Antonio Xiol Ríos', "root['termstart2']": '23 November 2021 '}}
+3: {'values_changed': {"root['budget']": {'new_value': '€ 23,866,870 (2018)', 'old_value': '€ 28.42 million (2022)'}}}
+9: {'dictionary_item_added': {"root['termstart']": '23 November 2021', "root['termstart2']": '23 November 2021 '}, 'values_changed': {"root['chiefjudgename2']": {'new_value': 'Juan Antonio Xiol Ríos', 'old_value': 'TBD'}}}
+10: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Pedro González-Trevijano', 'old_value': 'TBD'}}}
+11: {'values_changed': {"root['chiefjudgename2']": {'new_value': 'TBD', 'old_value': 'Inmaculada Montalbán Huertas'}}}
+12: {'dictionary_item_removed': {"root['termstart']": '12 January 2023', "root['termstart2']": '12 January 2023  '}, 'values_changed': {"root['chiefjudgename']": {'new_value': 'TBD', 'old_value': 'Cándido Conde-Pumpido'}}}

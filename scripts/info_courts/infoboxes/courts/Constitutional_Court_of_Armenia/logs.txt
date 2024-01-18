@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Constitutional Court of Armenia', "root['authority']": 'Constitution of Armenia', "root['chiefjudgename']": 'Hrayr Tovmasyan', "root['termstart']": '2018'}}
+5: {'values_changed': {"root['court_name']": {'new_value': 'Constitutional Court of Armenia', 'old_value': 'Constitutional Court of the Republic of Armenia'}}}
+6: {'dictionary_item_added': {"root['chiefjudgename']": 'Hrayr Tovmasyan'}, 'values_changed': {"root['court_name']": {'new_value': 'Constitutional Court of the Republic of Armenia', 'old_value': 'Constitutional Court of Armenia'}}}
+7: {'dictionary_item_removed': {"root['terms']": 'Twelve years ( not renewable )', "root['positions']": '9 members (including the President)', "root['chiefjudgename']": 'Hrayr Tovmasyan'}, 'values_changed': {"root['termstart']": {'new_value': '2018', 'old_value': '21 March 2018'}}}
+8: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Hrayr Tovmasyan', 'old_value': 'vacant'}}}

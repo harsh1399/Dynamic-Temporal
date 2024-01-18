@@ -1,0 +1,9 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Court of Appeal of New Zealand', "root['authority']": 'Judicature Act 1908 (NZ)', "root['appeals']": 'Supreme Court of New Zealand', "root['positions']": '10', "root['chiefjudgename']": 'The Hon. Justice Dame Ellen France', "root['termstart']": '1 September 2014 '}}
+1: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Dame Ellen France', 'old_value': 'The Hon. Justice Dame Ellen France DNZM'}}}
+2: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Dame Ellen France DNZM', 'old_value': 'The Hon. Justice Ellen France'}}}
+3: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Ellen France', 'old_value': 'The Hon. Justice Dame Ellen France DNZM'}}}
+8: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Dame Ellen France DNZM', 'old_value': 'The Hon. Justice Stephen Kós, QC'}}}
+11: {'values_changed': {"root['termstart']": {'new_value': '1 September 2014 ', 'old_value': '22 July 2016 '}}}
+30: {'dictionary_item_added': {"root['appeals']": 'Supreme Court of New Zealand'}, 'values_changed': {"root['authority']": {'new_value': 'Judicature Act 1908 (NZ)', 'old_value': 'Senior Courts Act 2016'}}}
+38: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Stephen Kós, QC', 'old_value': 'The Hon. Justice Mark Cooper, QC'}, "root['termstart']": {'new_value': '22 July 2016 ', 'old_value': '26 April 2022 '}}}
+47: {'values_changed': {"root['chiefjudgename']": {'new_value': 'The Hon. Justice Mark Cooper, QC', 'old_value': 'The Hon. Justice Mark Cooper, KC'}}}

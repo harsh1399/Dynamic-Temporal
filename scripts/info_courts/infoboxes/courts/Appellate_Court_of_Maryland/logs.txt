@@ -1,0 +1,5 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Court of Special Appeals', "root['authority']": 'Md. Courts and Judicial Proceedings Code Ann. § 1-401', "root['appeals']": 'Court of Appeals of Maryland', "root['positions']": '15', "root['chiefjudgename']": 'Matthew J. Fader', "root['termstart']": '28 November 2018', "root['termend']": 'November 2028'}}
+1: {'values_changed': {"root['termstart']": {'new_value': '28 November 2018', 'old_value': 'November 28, 2018'}}}
+4: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Matthew J. Fader', 'old_value': 'E. Gregory Wells'}}}
+5: {'values_changed': {"root['termstart']": {'new_value': 'November 28, 2018', 'old_value': 'April 15, 2022'}}}
+14: {'dictionary_item_added': {"root['termend']": 'November 2028'}, 'values_changed': {"root['court_name']": {'new_value': 'Court of Special Appeals', 'old_value': 'Appellate Court of Maryland'}, "root['appeals']": {'new_value': 'Court of Appeals of Maryland', 'old_value': 'Supreme Court of Maryland'}}}

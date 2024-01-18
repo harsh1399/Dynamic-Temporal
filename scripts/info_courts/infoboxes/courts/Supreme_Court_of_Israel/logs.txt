@@ -1,0 +1,8 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court', "root['positions']": '15', "root['chiefjudgename']": 'Miriam Naor', "root['termstart']": '2015', "root['chiefjudgename2']": 'Elyakim Rubinstein', "root['termstart2']": '2015'}}
+17: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Miriam Naor', 'old_value': 'Esther Hayut'}, "root['termstart']": {'new_value': '2015', 'old_value': '2017'}}}
+21: {'dictionary_item_removed': {"root['authority']": 'Basic Laws of Israel'}, 'values_changed': {"root['court_name']": {'new_value': 'Supreme Court', 'old_value': 'Supreme Court of Israel'}, "root['termstart']": {'new_value': '2017', 'old_value': '26 October 2017'}, "root['chiefjudgename2']": {'new_value': 'Elyakim Rubinstein', 'old_value': 'Hanan Melcer'}, "root['termstart2']": {'new_value': '2015', 'old_value': '2017'}}}
+29: {'values_changed': {"root['chiefjudgename2']": {'new_value': 'Hanan Melcer', 'old_value': 'Vacant'}, "root['termstart2']": {'new_value': '2017', 'old_value': '2021'}}}
+31: {'values_changed': {"root['termstart2']": {'new_value': '2021', 'old_value': '27 April 2022'}}}
+33: {'values_changed': {"root['chiefjudgename2']": {'new_value': 'Vacant', 'old_value': 'Uzi Vogelman'}, "root['termstart2']": {'new_value': '27 April 2022', 'old_value': '9 May 2022'}}}
+34: {'dictionary_item_removed': {"root['termend']": '16 October 2023', "root['termend2']": '16 October 2023', "root['termend3']": '6 October 2024', "root['termend4']": '6 October 2024 '}}
+35: {'values_changed': {"root['termend3']": {'new_value': '6 October 2024', 'old_value': '16 October 2023'}}}

@@ -1,0 +1,10 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Madhya Pradesh High Court', "root['authority']": 'Constitution of India', "root['appeals']": 'Supreme Court of India', "root['terms']": 'Till 62 years of age', "root['positions']": '42', "root['chiefjudgename']": 'Sharad Arvind Bobade', "root['termstart']": '2012'}}
+9: {'dictionary_item_added': {"root['chiefjudgename']": 'Sharad Arvind Bobade'}, 'dictionary_item_removed': {"root['Actingchiefjudgename']": 'K K Lahoti'}, 'values_changed': {"root['termstart']": {'new_value': '2012', 'old_value': '2013'}}}
+10: {'dictionary_item_added': {"root['Actingchiefjudgename']": 'K K Lahoti'}, 'dictionary_item_removed': {"root['chiefjudgename']": 'K K Lahoti'}}
+14: {'values_changed': {"root['chiefjudgename']": {'new_value': 'K K Lahoti', 'old_value': 'Ajay Manik Rao Khanwilkar'}}}
+17: {'dictionary_item_added': {"root['termstart']": '2013'}, 'values_changed': {"root['court_name']": {'new_value': 'Madhya Pradesh High Court', 'old_value': 'Madhya Pradesh High Court, मध्य प्रदेश उच्च न्यायालय'}, "root['terms']": {'new_value': 'Till 62 years of age', 'old_value': 'mandatory retirement by age of 62'}, "root['positions']": {'new_value': '42', 'old_value': '53'}, "root['chiefjudgename']": {'new_value': 'Ajay Manik Rao Khanwilkar', 'old_value': 'Mohammad Rafiq http://mphc.in/?q'}}}
+24: {'values_changed': {"root['court_name']": {'new_value': 'Madhya Pradesh High Court, मध्य प्रदेश उच्च न्यायालय', 'old_value': 'Madhya Pradesh High Court मध्य प्रदेश उच्च न्यायालय'}}}
+25: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Mohammad Rafiq http://mphc.in/?q', 'old_value': 'Justice R V Malimath http://mphc.in/?q'}}}
+26: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Justice R V Malimath http://mphc.in/?q', 'old_value': 'Mohammad Rafiq http://mphc.in/?q'}}}
+27: {'dictionary_item_removed': {"root['termstart']": '14 October 2021'}, 'values_changed': {"root['chiefjudgename']": {'new_value': 'Mohammad Rafiq http://mphc.in/?q', 'old_value': 'Ravi Malimath   |start date='}}}
+29: {'dictionary_item_removed': {"root['jurisdiction']": 'Madhya Pradesh'}}

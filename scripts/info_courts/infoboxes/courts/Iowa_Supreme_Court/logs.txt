@@ -1,0 +1,4 @@
+0: {'dictionary_item_removed': {"root['court_name']": 'Supreme Court of Iowa', "root['authority']": 'Iowa Constitution', "root['appeals']": 'Supreme Court of the United States', "root['positions']": '7', "root['chiefjudgename']": "''seat vacant''", "root['termstart']": 'November 15, 2019'}}
+5: {'values_changed': {"root['chiefjudgename']": {'new_value': "''seat vacant''", 'old_value': 'Dana Oxley'}, "root['termstart']": {'new_value': 'November 15, 2019', 'old_value': 'February 24, 2020'}}}
+11: {'values_changed': {"root['chiefjudgename']": {'new_value': 'Dana Oxley', 'old_value': 'Susan Christensen'}}}
+13: {'values_changed': {"root['court_name']": {'new_value': 'Supreme Court of Iowa', 'old_value': 'Iowa Supreme Court'}}}
